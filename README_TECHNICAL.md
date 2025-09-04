@@ -49,6 +49,8 @@ Two modular pipelines:
 └── README
 ```
 
+*final scripts for ingestion pipeline will be pushed this week. 
+
 ---
 
 ## 3. Component Breakdown

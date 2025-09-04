@@ -1,0 +1,182 @@
+---
+**Patient Name:** Brett Lindgren  
+**MRN:** 00923349  
+**DOB:** 09/08/1924  
+**Sex:** M  
+**Date of Admission:** 2024-05-17  
+**Date of Note:** 2024-05-24  
+**Attending:** Dr. R. Patel  
+**Consults:** Cardiology, Cardiothoracic Surgery, Hematology  
+**Location:** MICU, Room 18  
+
+---
+
+### ADMISSION SUMMARY
+
+**Chief Complaint:**  
+Acute shortness of breath, palpitations, and near syncope at home.
+
+**History of Present Illness:**  
+99-year-old male with a history of atrial fibrillation (on warfarin), chronic anemia, hyperlipidemia, prediabetes, and recurrent rectal polyps, presented to the ED with 2 days of progressive dyspnea, orthopnea, and palpitations. On arrival, noted to be hypotensive (SBP 82 mmHg), tachycardic (HR 130, irregularly irregular), and hypoxic (SpO2 88% on RA). ECG: Atrial fibrillation with RVR. Labs significant for elevated troponin and worsening renal function. CXR: pulmonary vascular congestion. Echo: EF 20%, global hypokinesis, severe MR, moderate TR. Unable to stabilize with medical therapy. Developed cardiogenic shock requiring pressors and emergent placement of a percutaneous left ventricular assist device (Impella CP) in the cardiac cath lab.
+
+**Past Medical History:**  
+- Atrial fibrillation  
+- Anemia  
+- Hyperlipidemia  
+- Prediabetes  
+- Recurrent rectal polyps (s/p multiple polypectomies)  
+- Rupture of patellar tendon (remote, s/p repair)  
+- GERD  
+- Hx of acute viral pharyngitis (resolved)  
+
+**Past Surgical History:**  
+- Colon polypectomies x3  
+- Patellar tendon repair (L)  
+
+**Medications on Admission:**  
+- Simvastatin 10 mg qHS  
+- Warfarin 5 mg qPM  
+- Verapamil 40 mg TID  
+- Digoxin 0.125 mg QD  
+- Ibuprofen 200 mg PRN  
+- APAP/Hydrocodone 325/7.5 mg PRN  
+- Leucovorin (prior, not on at admit)  
+- Oxaliplatin (prior, not on at admit)  
+
+**Allergies:**  
+NKDA
+
+**Social History:**  
+Retired; lives with daughter. No EtOH, tobacco, or illicit drugs.
+
+**Family History:**  
+CAD (father), colon cancer (mother).
+
+**Code Status:**  
+Full code
+
+---
+
+### ICU HOSPITAL COURSE SUMMARY
+
+- **Day 1-2:** Admitted for cardiogenic shock secondary to decompensated heart failure. Intubated for hypoxic respiratory failure. Started on norepinephrine and dobutamine. Placed on Impella CP for LV support.  
+- **Day 3-5:** Improved hemodynamics, weaned off norepinephrine, Impella support continued. Developed new-onset AKI (Cr peaked at 2.1).  
+- **Day 6:** Weaned off Impella. Extubated. Renal function improved with diuresis.  
+- **Day 7:** Intermittent episodes of AF with RVR, controlled with AV nodal agents.  
+- **Day 8:** Stable, transferred to step-down.
+
+---
+
+## VITALS (Selected)
+
+| Date       | Temp (C) | HR (bpm) | BP (mmHg) | RR | SpO2 | Weight (kg) | Pain (0-10) |
+|------------|----------|----------|-----------|----|------|-------------|-------------|
+| 5/17/24    | 37.7     | 132      | 82/48     | 28 | 88%  | 81.4        | 6           |
+| 5/18/24    | 38.0     | 108      | 94/60     | 22 | 95%  | 80.9        | 2           |
+| 5/20/24    | 36.6     | 98       | 102/54    | 18 | 97%  | 80.1        | 0           |
+| 5/23/24    | 36.9     | 82       | 118/64    | 16 | 98%  | 79.8        | 0           |
+
+---
+
+## LABS
+
+#### Chemistries/CBC (Selected; * = missing)
+
+| Date     | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Ca (mg/dL) |
+|----------|------------|------------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|------------|
+| 5/17/24  | 5.1        | 13.1       | 398        | 141         | 5.1        | 102         | 21           | 21          | 1.5        | 108         | 8.7        |
+| 5/18/24  | 4.8        | 12.7       | 355        | 139         | 4.8        | 100         | 20           | 29          | 2.1        | 119         | 8.5        |
+| 5/19/24  | 4.5        | 12.1       | 377        | 138         | 4.1        | 101         | 22           | 27          | 2.0        | 112         | *          |
+| 5/20/24  | 4.2        | 11.8       | 345        | 141         | 4.3        | 102         | 24           | 23          | 1.7        | 99          | 8.9        |
+| 5/21/24  | 5.2        | 12.4       | 390        | 140         | 4.5        | 104         | 23           | 22          | 1.3        | 95          | 9.0        |
+| 5/22/24  | 4.9        | 13.0       | 401        | 141         | *          | 101         | 22           | *           | 1.1        | 93          | 8.8        |
+| 5/23/24  | 5.0        | 13.6       | 410        | 140         | 4.2        | 102         | 23           | 18          | 1.0        | 92          | 8.9        |
+| 5/24/24  | 5.1        | 13.7       | 415        | 140         | 4.1        | 101         | 22           | 17          | 0.9        | 91          | 8.8        |
+
+#### OTHER LABS
+
+| Date     | Troponin (ng/mL) | NT-proBNP (pg/mL) | INR | AST (U/L) | ALT (U/L) | Alk Phos (U/L) | Bili (mg/dL) | Alb (g/dL) | Total Chol (mg/dL) |
+|----------|------------------|-------------------|-----|-----------|-----------|----------------|--------------|------------|--------------------|
+| 5/17/24  | 0.19             | 13,450            | 2.8 | 24        | 51        | 94             | 1.3          | 3.7        | 208                |
+| 5/18/24  | 0.15             | 12,700            | 2.7 | 28        | 60        | 102            | 1.2          | 3.6        | *                  |
+| 5/20/24  | 0.09             | 8,200             | 2.4 | 18        | 44        | 88             | 1.1          | 3.9        | 198                |
+| 5/23/24  | <0.01            | 2,300             | 2.1 | 17        | 41        | 84             | 1.0          | 4.1        | 202                |
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. Cardiogenic Shock, Acute Decompensated HFrEF, Atrial Fibrillation
+- **Summary:** Acute on chronic HFrEF, likely secondary to rapid AF and underlying ischemic cardiomyopathy, presenting with shock and multi-organ dysfunction.
+- **Course:** Required Impella CP for temporary LV support. Weaned off after 5 days. Maintained sinus rhythm with rate control; no further sustained arrhythmia.
+- **Plan:**
+  - Continue GDMT (beta-blocker, ACEi/ARB as tolerated)
+  - Continue warfarin, monitor INR
+  - Monitor for arrhythmias, maintain K >4, Mg >2
+  - Daily weights, strict I/Os
+  - Cardiac rehab consult
+  - F/u TTE in 1 week
+
+### 2. Acute Kidney Injury (AKI)
+- **Summary:** Pre-renal (low output, shock), Cr peaked at 2.1, improved with volume status.
+- **Plan:**
+  - Monitor renal function daily
+  - Avoid nephrotoxins
+  - Adjust med doses for CrCl
+  - Nephrology consult PRN
+
+### 3. Chronic Anemia
+- **Summary:** Stable, multifactorial (chronic disease, prior GI blood loss).
+- **Plan:**
+  - Monitor CBC q48h
+  - No transfusion needed at this time
+  - Continue iron studies, GI f/u as outpatient
+
+### 4. Hyperlipidemia
+- **Plan:** Continue simvastatin 10 mg qHS. Lipid panel recheck in 3 months.
+
+### 5. Prediabetes
+- **Plan:** Monitor glucose, A1c. Dietary education.
+
+### 6. Recurrent Rectal Polyps
+- **Summary:** No evidence of active GI bleeding.
+- **Plan:** Colonoscopy f/u per GI in 3-6 months.
+
+### 7. Pain Management
+- **Plan:** Acetaminophen PRN. Avoid NSAIDs (renal, GI risk).
+
+### 8. DVT Prophylaxis
+- **Plan:** SCDs while on Impella, transition to heparin SQ post-device.
+
+### 9. Nutrition
+- **Plan:** High-protein, cardiac diet. Nutritionist consult.
+
+### 10. Functional Status/Discharge Planning
+- PT/OT consult, evaluate for cardiac rehab.  
+- Goal: transfer to step-down, then home with home health.
+
+---
+
+**Attending:** R. Patel, MD  
+**Resident:** M. Kim, MD  
+**Cardiology Fellow:** S. Bhatt, MD  
+
+---
+
+**Orders:**  
+- Continue telemetry  
+- Labs: CBC, Chem7, Mg, Phos, LFTs daily  
+- Warfarin per protocol  
+- DVT prophylaxis  
+- Cardiac diet  
+- PT/OT consult  
+- TTE pending  
+
+---
+
+**Sign-out:**  
+99M s/p Impella for CS/HFrEF, now stable, weaning supports, monitoring for arrhythmia/renal recovery, plan for step-down transfer.
+
+---
+
+**End of Note**

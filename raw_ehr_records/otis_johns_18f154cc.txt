@@ -1,0 +1,127 @@
+---
+**Patient:** Otis Johns  
+**MRN:** 00284935  
+**DOB:** 07/16/1956  
+**Sex:** M  
+**Admit Date:** 03/14/2024  
+**Attending:** Dr. R. Swanson  
+**Admitting Dx:** Cardiogenic shock, acute decompensated heart failure  
+**Allergies:** NKDA  
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+Otis Johns is a 67-year-old male with a history of prediabetes, chronic sinusitis, anemia, and recent acute viral pharyngitis who presented to the ED with acute-on-chronic shortness of breath, orthopnea, and lower extremity edema. On arrival, he was found to be hypotensive (BP 81/52), tachycardic (HR 112), and hypoxic (SpO2 88% RA). Initial labs were notable for mild AKI, elevated BNP, and mild troponin elevation. CXR: pulmonary vascular congestion, mild interstitial edema. Echo: severely reduced LVEF (~18%), global hypokinesis, no LV thrombus.
+
+Despite initial IV diuresis and inotropic support (dobutamine), patient developed worsening end-organ hypoperfusion (creatinine uptrending, lactate rise, persistent hypotension). Decision made for percutaneous insertion of temporary LV assist device (Impella CP) on hospital day 2.
+
+Patient stabilized over 5 days in CVICU, then transitioned to oral HF regimen and weaned off mechanical support and inotropes. Course complicated by transient AKI, mild transaminitis, and delirium. Discharged to rehab on HD 13.
+
+---
+
+## ASSESSMENT & PLAN
+
+### 1. **Cardiogenic Shock due to Acute Decompensated HFrEF**
+- Hx of prediabetes, anemia, recent URI, now presents with acute decomp HF, severe LV dysfunction.
+- Required Impella CP for 4 days. Responded to inotropes, weaned off by HD 7.
+- **Plan:** Continue GDMT, close BP/volume monitoring, f/u with HF clinic in 1 week, consider advanced therapies if recurrent.
+
+### 2. **Chronic Systolic Heart Failure (HFrEF, NYHA III-IV)**
+- LVEF 18%, global hypokinesis, chronic symptoms.
+- **Plan:** Continue carvedilol, initiate low-dose sacubitril-valsartan, titrate as tolerated. Aldactone to start if K+/renal function allow.
+
+### 3. **Acute Kidney Injury (resolved)**
+- Likely multifactorial: hypoperfusion, diuretics, contrast exposure.
+- Creatinine peaked 2.1 → improved to 1.1 by discharge.
+- **Plan:** Monitor BMP, avoid nephrotoxins, maintain euvolemia.
+
+### 4. **Anemia**
+- Baseline Hgb ~16, dropped to 10.3 on HD 3 (hemodilution, phlebotomy loss, minor GI blood loss r/o).
+- **Plan:** Iron studies pending. Monitor CBC, supplement iron/folate as needed.
+
+### 5. **Prediabetes**
+- HgbA1c 6.2%. No DKA/HHS.
+- **Plan:** Dietary counseling, metformin deferred due to AKI.
+
+### 6. **Delirium (resolved)**
+- Fluctuating confusion HD 3-7. Likely multifactorial (ICU, sleep deprivation, metabolic derangements).
+- **Plan:** Reorientation, minimize sedatives, sleep hygiene.
+
+### 7. **Acute Viral Pharyngitis**
+- Resolved. No ongoing symptoms.
+- **Plan:** Supportive care.
+
+### 8. **Chronic Sinusitis**
+- Stable. No acute intervention.
+
+---
+
+## ICU EVENTS & PROCEDURES
+
+- HD 2: Impella CP placed via femoral approach. No vascular complications.
+- HD 4: Extubated, transitioned to HFNC, then nasal cannula.
+- HD 7: Impella explanted, transitioned to oral HF regimen.
+- HD 9: Transient hypotension, responded to fluids.
+- HD 10–13: Mobilization, rehab, discharge planning.
+
+---
+
+## LABS
+
+| Date       | Hgb   | Hct   | WBC   | Plt   | Na+  | K+   | Cl-  | CO2  | BUN  | Cr    | Gluc | Ca    | AST  | ALT  | BNP   | Troponin |
+|------------|-------|-------|-------|-------|------|------|------|------|------|-------|------|-------|------|------|-------|----------|
+| 3/14/24    | 15.7  | 45.1  | 8.9   | 204   | 143  | 4.2  | 104  | 23   | 13   | 1.1   | 131  | 9.6   | 31   | 29   | 3280  | 0.09     |
+| 3/15/24    | 14.2  | 41.3  | 12.2  | 180   | 140  | 4.6  | 108  | 21   | 17   | 1.7   | 138  | 9.2   | 72   | 44   | 4890  | 0.13     |
+| 3/16/24    | 12.5  | 37.0  | 10.4  | 155   | 136  | 5.1  | 112  | 19   | 21   | 2.1   | 124  | 8.8   | 88   | 58   | 6120  | 0.21     |
+| 3/18/24    | 10.3  |       | 7.1   | 133   | 138  | 4.0  | 106  | 23   | 19   | 1.9   |      | 9.1   | 51   |      | 4802  | 0.08     |
+| 3/21/24    | 12.1  | 36.8  | 8.2   | 178   | 140  | 4.3  | 102  | 25   | 14   | 1.3   | 115  | 9.4   | 38   | 33   | 2730  | <0.01    |
+| 3/25/24    | 13.7  | 40.2  | 7.7   | 210   | 142  | 4.1  | 105  | 24   | 12   | 1.1   | 118  | 9.7   | 33   | 28   | 1170  | <0.01    |
+
+*Some labs omitted for brevity. See flowsheet for full panel.*
+
+---
+
+## VITALS TREND (ICU)
+
+| Date/Time      | Temp   | BP        | HR   | RR  | SpO2  | Comments                |
+|----------------|--------|-----------|------|-----|-------|-------------------------|
+| 3/14/24 08:00  | 37.2   | 81/52     | 112  | 24  | 88%   | On mask, SOB, diaphoretic|
+| 3/15/24 12:00  | 37.1   | 89/60     | 105  | 22  | 92%   | On inotropes            |
+| 3/16/24 02:00  | 38.1   | 83/48     | 118  | 26  | 91%   | Febrile, delirious      |
+| 3/17/24 14:00  | 36.9   | 98/62     | 88   | 18  | 95%   | Extubated               |
+| 3/21/24 10:00  | 36.7   | 112/74    | 75   | 16  | 98%   | Stable, ambulating      |
+
+---
+
+## DISCHARGE MEDICATIONS
+
+- Carvedilol 12.5mg BID
+- Sacubitril-valsartan 24/26mg BID
+- Furosemide 20mg daily
+- ASA 81mg daily
+- Ferrous sulfate 325mg daily
+- Atorvastatin 40mg nightly
+- Multivitamin daily
+
+---
+
+## FOLLOW-UP
+
+- HF Clinic, 1 week
+- Cardiac Rehab referral
+- Labs: CBC, BMP, iron studies in 1 week
+
+---
+
+## ADDITIONAL ORDERS/NOTES
+
+- DNR/DNI status discussed, pt prefers full code
+- PT/OT: ambulating independently with mild exertional fatigue
+- Social work consulted; lives with spouse, good support at home
+
+---
+
+**Signed:** R. Swanson, MD  
+**Date/Time:** 03/27/2024 17:04  
+---

@@ -1,0 +1,131 @@
+```
+-----------------------------------------------------------
+Epic EHR - Inpatient Chart Review
+-----------------------------------------------------------
+Patient Name: Frankie Schroeder
+MRN: 3482194-XX
+DOB: 10/25/1980 (Age 43)
+Sex: Male
+Admit Date: 03/29/2024
+Attending: Dr. S. Patel, Cardiology/ICU
+-----------------------------------------------------------
+Allergies: NKDA
+Code Status: Full Code
+-----------------------------------------------------------
+Problem List:
+- Chronic sinusitis
+- Hypertension
+- Prediabetes
+- Anemia
+- Acute viral pharyngitis
+- Acute decompensated heart failure with cardiogenic shock
+- Acute kidney injury (on CKD 2)
+- Hyperlipidemia
+- Atrial fibrillation (hospital-acquired)
+- Hypotension requiring vasopressors
+- Temporary LVAD (Impella CP) - placed 03/30/2024
+-----------------------------------------------------------
+Medications:
+- Hydrochlorothiazide 12.5mg PO qAM
+- Lisinopril 10mg PO daily (held during hypotension)
+- Furosemide 40mg IV BID
+- Metoprolol tartrate 12.5mg PO BID
+- Heparin drip (per Impella protocol)
+- Acetaminophen 650mg PO q6h PRN
+- Ceftriaxone 1g IV q24h (for concern of secondary infection)
+-----------------------------------------------------------
+Hospital Course Summary (03/29/2024 - 04/05/2024):
+
+Mr. Frankie Schroeder, a 43-year-old male with a history of hypertension, prediabetes, anemia, and chronic sinusitis, presented to the ED with a 4-day history of worsening dyspnea, orthopnea, lower extremity swelling, and fatigue. He also reported sore throat and mild cough. In the ED, he was found to be tachycardic (HR 120s), hypotensive (BP 78/54), febrile (38.2°C), with O2 sat 91% RA. Labs on admission revealed acute kidney injury, elevated BNP, mild troponin elevation, and worsening anemia.
+
+CXR: Pulmonary vascular congestion, mild bilateral effusions.
+EKG: Sinus tachycardia, later developed atrial fibrillation with RVR.
+Echo: LVEF 15%, global hypokinesis, moderate MR.
+Due to persistent hypotension refractory to fluids and escalating vasopressors, he was transferred to the ICU and Impella CP LVAD was placed emergently on 03/30/2024 for cardiogenic shock. Gradual hemodynamic improvement was noted post-device placement. He also developed mild AKI, managed with diuretics and careful fluids. Course complicated by new-onset atrial fibrillation (now rate-controlled), and hospital-acquired pharyngitis (viral PCR positive for adenovirus).
+
+-----------------------------------------------------------
+LABS (Selected CBC & CHEM 7, Cardiac Markers, LFTs)
+-----------------------------------------------------------
+| Date       | WBC   | Hgb   | Plt   | Na    | K     | Cl    | CO2   | BUN   | Cr    | Troponin | BNP    | AST   | ALT   |
+|------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|----------|--------|-------|-------|
+| 3/29/24 AM | 5.6   | 13.9  | 301   | 143   | 4.3   | 105   | 21    | 9     | 1.44  | 0.08     | 4200   | 38    | 41    |
+| 3/29/24 PM | 6.2   | 13.2  | 280   | 142   | 4.7   | 104   | 19    | 16    | 1.68  | 0.11     | 5100   | 63    | 59    |
+| 3/30/24 AM | 7.8   | 12.7  | 245   | 140   | 5.1   | 103   | 17    | 25    | 2.12  | 0.13     | 6900   | 75    | 61    |
+| 3/30/24 PM | 8.5   | 12.2  | 201   | --    | 4.8   | 101   | --    | 32    | 2.24  | 0.16     | >8000  | 82    | 66    |
+| 3/31/24    | 9.3   | 11.9  | 178   | 137   | 4.5   | 99    | 17    | 36    | 2.09  | 0.10     | 7500   | 71    | 61    |
+| 4/01/24    | 8.1   | 11.6  | 158   | 139   | 4.1   | 102   | 19    | 28    | 1.89  | <0.01    | 4100   | 63    | 55    |
+| 4/02/24    | 7.0   | 11.7  | 160   | 140   | --    | --    | 22    | 19    | 1.64  | <0.01    | 2500   | 42    | 38    |
+| 4/03/24    | 6.3   | 11.9  | 186   | 141   | 4.0   | 103   | 24    | 13    | 1.42  | <0.01    | 1200   | 29    | 27    |
+| 4/04/24    | 5.2   | 12.1  | 209   | 142   | 4.1   | 104   | 25    | 10    | 1.26  | <0.01    | 820    | 23    | 21    |
+| 4/05/24    | 5.0   | 12.3  | 218   | --    | 4.2   | 106   | --    | 9     | 1.16  | <0.01    | 500    | 19    | 18    |
+
+-----------------------------------------------------------
+Microbiology:
+- Blood cultures x2: No growth
+- Respiratory viral PCR: Adenovirus positive
+-----------------------------------------------------------
+Imaging:
+- CXR 3/29: Pulmonary vascular congestion, mild bilateral effusions
+- Echo 3/29: LVEF 15%, global hypokinesis, moderate MR
+- Repeat Echo 4/04: LVEF improved to 28%, Impella in good position
+
+-----------------------------------------------------------
+Assessment & Plan (Problem-Based)
+-----------------------------------------------------------
+
+1. **Cardiogenic Shock / Acute Decompensated Heart Failure**
+   - Severe LV dysfunction (EF 15%) with persistent hypotension, multiorgan hypoperfusion.
+   - Required Impella CP LVAD placement 3/30 for hemodynamic support.
+   - Now weaning off vasopressors, Impella flows stable, MAP >65.
+   - Plan: Titrate Impella support, wean pressors, daily TTE, monitor for hemolysis.
+
+2. **Acute Kidney Injury (on CKD 2)**
+   - Likely multifactorial: low perfusion, diuretics, possible nephrotoxin exposure.
+   - BUN/Cr peaked on 3/31, now improving with improved cardiac output.
+   - Plan: Avoid nephrotoxins, strict I/O, daily chem7, renal dose adjust meds.
+
+3. **Atrial Fibrillation (hospital-acquired)**
+   - New-onset with RVR, now rate-controlled on metoprolol.
+   - Anticoagulation with heparin per Impella protocol.
+   - Plan: Continue rate control, monitor for recurrence, evaluate for rhythm control if persistent.
+
+4. **Volume Overload / Diuresis**
+   - Significant LE edema, CXR with effusions, positive fluid balance on admission.
+   - On IV furosemide with diuresis, daily weights.
+   - Plan: Continue aggressive diuresis, monitor electrolytes, adjust diuretic dose.
+
+5. **Anemia**
+   - Baseline mild, worsened with AKI and blood loss from device placement.
+   - Stable, nadir Hgb 11.6, transfusion threshold 8.
+   - Plan: Monitor CBC, minimize phlebotomy, iron studies pending.
+
+6. **Acute Viral Pharyngitis**
+   - Adenovirus positive, mild symptoms, no evidence of bacterial superinfection.
+   - Plan: Supportive care, acetaminophen PRN, monitor for secondary infection.
+
+7. **Hypertension / Prediabetes / Hyperlipidemia**
+   - Home antihypertensives held during hypotension, to be resumed as tolerated.
+   - Prediabetes, A1c 6.2% on admission, no hyperglycemia during stay.
+   - Plan: Resume chronic meds as tolerated, dietary counseling prior to discharge.
+
+8. **Chronic Sinusitis**
+   - No acute exacerbation during admission.
+   - Plan: Resume outpatient ENT follow-up.
+
+9. **Device Management (Impella CP)**
+   - Daily vascular checks, heparin drip, monitor for hemolysis (LDH, plasma free Hgb).
+   - Plan: Taper support as tolerated, anticipate removal in next 24-48h if stable.
+
+10. **Infection Prevention**
+    - Blood cultures negative, on empiric ceftriaxone for 48h (now discontinued).
+    - Daily line care, oral care, DVT and GI prophylaxis.
+
+-----------------------------------------------------------
+Discharge Disposition:  
+Pending - anticipate transfer to telemetry floor after Impella removal and stabilization.
+
+-----------------------------------------------------------
+Provider: S. Patel, MD (Cardiology/Intensive Care)
+Date/Time: 04/05/2024 10:27
+-----------------------------------------------------------
+```

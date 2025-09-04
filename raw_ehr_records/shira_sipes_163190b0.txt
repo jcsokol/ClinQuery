@@ -1,0 +1,143 @@
+**Epic EHR - Inpatient Progress Note**  
+**Patient Name:** Shira Sipes  
+**MRN:** 00238491  
+**DOB:** 11/30/1967 (56 y/o)  
+**Sex:** Female  
+**Admitting Physician:** Dr. J. Carmichael  
+**Date of Admission:** 3/14/2024  
+**Date of Note:** 3/19/2024  
+**Attending:** Dr. L. Warren  
+**Service:** Cardiology ICU  
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+
+56 y/o F with PMHx of HTN, prior CVA (2017 w/ residual mild right-sided weakness), chronic sinusitis, and recent acute bronchitis, who presented to the ED with 5 days of progressive SOB, orthopnea, and fatigue. She reported intermittent chest tightness, palpitations, and 2-pillow orthopnea. No fevers/chills. On presentation, she was tachycardic, hypotensive (BP 86/54), and hypoxic requiring 2L O2. CXR: bilateral pulmonary edema. Echo: severely reduced LVEF (15%), global hypokinesis. Troponin mildly elevated. Cardiac cath: non-obstructive CAD. She rapidly decompensated to cardiogenic shock requiring norepinephrine, dobutamine, and emergent placement of a percutaneous LVAD (Impella CP). Now day 5 of ICU admission.
+
+---
+
+### HOSPITAL COURSE
+
+**Day 1:** Admitted to ICU for cardiogenic shock. Initiated on inotropes (dobutamine), vasopressors (norepinephrine), diuresis (furosemide drip). Emergent Impella CP placed for refractory shock.  
+**Day 2:** Hemodynamics stabilized. Weaned norepinephrine, continued dobutamine. Developed AKI (Cr up to 2.1 from baseline 0.8).  
+**Day 3:** Gradual improvement in urine output, weaned off dobutamine. Started low-dose carvedilol.  
+**Day 4:** Impella CP flow decreased, echo showed improved LVEF (now ~28%). Plan for device wean.  
+**Day 5:** Impella CP removed. Monitoring for recurrent decompensation. Diuresis ongoing. AKI improving.  
+
+---
+
+### ACTIVE PROBLEMS
+
+1. **Cardiogenic Shock s/p Temporary LVAD (Impella CP) Placement**  
+   - Etiology: acute decompensated heart failure, likely viral myocarditis vs. idiopathic  
+   - Course: Now off Impella, hemodynamically stable  
+   - Plan: Continue aggressive diuresis, uptitrate guideline-directed medical therapy (GDMT) for HFrEF, monitor for recurrence, daily TTEs, telemetry
+
+2. **Acute Systolic Heart Failure (EF 15% → 28%)**  
+   - Plan: Continue IV diuretics, start ACEi/ARB if BP tolerates, monitor electrolytes, daily weights
+
+3. **Acute Kidney Injury (KDIGO Stage II)**  
+   - Likely multifactorial: low perfusion, diuretics  
+   - Plan: Monitor renal function, adjust diuretic dosing, hold nephrotoxins, nephrology consult
+
+4. **Hypertension**  
+   - Plan: Continue home atenolol/chlorthalidone when able, avoid hypotension
+
+5. **Prior CVA (2017, mild residual)**  
+   - Plan: DVT ppx (already on SCDs), neuro checks q4h, continue home ASA if tolerated
+
+6. **Chronic Sinusitis/Viral URI (recent)**  
+   - Plan: Supportive care, ENT consult if persistent, no abx
+
+7. **Contraception (etonogestrel implant, Natazia)**  
+   - Plan: Continue as outpatient, no acute issues
+
+8. **Pain (mild, 3/10)**  
+   - Plan: PRN acetaminophen, avoid NSAIDs (renal fxn)
+
+---
+
+### PHYSICAL EXAM
+
+**Gen:** Alert, NAD  
+**VS:** T 37.8°C, HR 92, BP 104/62, RR 18, SpO2 96% on RA  
+**HEENT:** Sinus tenderness; oropharynx clear  
+**CV:** S1S2, no murmurs/rubs/gallops, JVD 8 cm, no peripheral edema  
+**Resp:** Bibasilar crackles, mild tachypnea  
+**Abd:** Soft, NT/ND  
+**Neuro:** AOx3, mild right-sided weakness (baseline)  
+**Skin:** Warm, well perfused  
+
+---
+
+### LABS
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Troponin (ng/mL) | BNP (pg/mL) |
+|------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|------------------|-------------|
+| 3/14/2024  | 8.2        | 13.7       | 46      | 377        | 134         | 4.6        | 101         | 21           | 38          | 1.8        | 128         | 0.21             | 1890        |
+| 3/15/2024  | 9.5        | 12.8       | 43      | 344        | 132         | 5.2        | 99          | 19           | 46          | 2.1        | 142         | 0.18             | 1820        |
+| 3/16/2024  | 7.9        | 13.2       | 44      | 356        | 137         | 4.1        | 103         | 22           | 34          | 1.7        | 139         | 0.11             | 1560        |
+| 3/17/2024  | 7.7        | 13.5       | 45      | 340        | 138         | 4.3        | 104         | 23           | 28          | 1.3        | 112         | 0.07             | 990         |
+| 3/18/2024  | 8.1        | 13.6       | 46      | 350        | 139         | 4.2        | 104         | 25           | 22          | 1.0        | 116         | 0.03             | 570         |
+| 3/19/2024  | 8.0        | 13.8       | 47      | 338        | 140         | 3.9        | 105         | 26           | 19          | 0.9        | 108         | —                | —           |
+
+**Other labs:**  
+- AST/ALT (3/15): 44/38  
+- TSH (3/16): 1.9  
+- Lactate (3/14): 2.1  
+- PT/INR (3/14): 13.3/1.1  
+
+---
+
+### IMAGING
+
+**CXR (3/14):** Pulmonary vascular congestion, bilateral interstitial edema  
+**Echo (3/14):** LVEF 15%, global hypokinesis  
+**Echo (3/17):** LVEF 28%, improved wall motion  
+**Cardiac Cath (3/14):** Non-obstructive CAD, normal coronaries
+
+---
+
+### ASSESSMENT & PLAN (Problem-Based)
+
+1. **Cardiogenic Shock / Acute HF, s/p Temporary LVAD (Impella CP)**
+   - Device now removed, hemodynamics stable
+   - Continue diuresis, uptitrate HF meds (carvedilol, consider ACEi)
+   - Daily weights, strict I/O, monitor for recurrence
+   - Serial Echos
+
+2. **AKI, improving**
+   - Monitor labs, avoid nephrotoxins
+   - Nephro follow
+   - Hold ACEi until Cr <1.2
+
+3. **HTN**
+   - Restart home meds as BP tolerates
+
+4. **Prior CVA**
+   - DVT ppx, neuro checks
+
+5. **Chronic sinusitis, viral URI**
+   - Supportive care
+
+6. **Contraception**
+   - Continue outpatient
+
+7. **Pain**
+   - PRN acetaminophen
+
+---
+
+### DISPOSITION
+
+- Remain in ICU for close monitoring x 48 hr
+- Stepdown to telemetry if stable, then transition to HF clinic follow-up
+- PT/OT for baseline CVA deficits
+
+---
+
+### SIGNED  
+Dr. L. Warren, MD  
+3/19/2024 07:51  
+Epic EHR v2024.1

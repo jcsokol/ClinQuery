@@ -1,0 +1,182 @@
+**EPIC EHR - Patient Chart**
+
+---
+
+**Patient Name:** Annemarie Heidenreich  
+**MRN:** 1009823  
+**DOB:** 1968-08-22 (Age: 55)  
+**Sex:** Female  
+**Attending:** Dr. S. Patel  
+**Admit Date:** 2024-05-18  
+**Service:** Cardiac ICU  
+**Admission Diagnosis:** Cardiogenic shock secondary to acute decompensated heart failure  
+**Allergies:** NKDA  
+**Code Status:** Full code  
+
+---
+
+**Hospital Course Summary**
+Ms. Annemarie Heidenreich is a 55-year-old female with a history of obesity, prior miscarriage, and colon polyps admitted for acute shortness of breath, orthopnea, and progressive lower extremity edema. On arrival, she was hypotensive and hypoxic, requiring urgent intubation and vasopressor support. Cardiac workup revealed severely depressed LV systolic function (EF 15%) and elevated cardiac biomarkers. She rapidly progressed to cardiogenic shock refractory to medical therapy, necessitating placement of a temporary percutaneous LVAD (Impella CP) on hospital day 1. Her ICU course was complicated by acute kidney injury, transient atrial fibrillation, and volume overload. She has since stabilized, was weaned off vasopressors, and transitioned to inotropes. The LVAD was successfully explanted on day 6. She is currently on telemetry, diuresis, and guideline-directed medical therapy for heart failure.
+
+---
+
+**Problem List**
+1. **Acute decompensated heart failure (HFrEF, EF 15%)**
+2. **Cardiogenic shock, s/p temporary LVAD (Impella)**
+3. **Volume overload, resolving**
+4. **Acute kidney injury, resolving**
+5. **Atrial fibrillation with RVR (paroxysmal, now controlled)**
+6. **Obesity (BMI 30)**
+7. **History of colon polyp**
+8. **Remote miscarriage**
+9. **History of recurrent pharyngitis/sinusitis**
+10. **Medication reconciliation**
+11. **VTE prophylaxis**
+12. **Nutrition**
+13. **Pain control (chronic and acute)**
+
+---
+
+**Assessment & Plan**
+
+1. **Acute Decompensated Heart Failure / Cardiogenic Shock**
+   - Severe ischemic cardiomyopathy (EF 15%), presented in shock.
+   - Required Impella CP placement day 1 for hemodynamic support.
+   - Now weaned to dobutamine 2.5 mcg/kg/min, off pressors.
+   - GDMT initiated: carvedilol, sacubitril/valsartan, spironolactone.
+   - Diuresis ongoing (IV furosemide), net negative 5.2L since admission.
+   - Continue daily weights, strict I/Os, uptitrate GDMT as tolerated.
+   - Cardiology and HF teams following.
+
+2. **Temporary LVAD (Impella)**
+   - Placed for refractory shock, removed on day 6.
+   - No evidence of device-related vascular complications.
+   - Serial vascular checks, dopplers negative for DVT.
+   - Monitor for hemolysis (LDH, haptoglobin), renal function.
+
+3. **Volume Overload**
+   - Significant improvement, now euvolemic.
+   - Continue IV diuresis, transition to oral as tolerated.
+   - Monitor BMP, daily weights, adjust diuretic dose per urine output.
+
+4. **Acute Kidney Injury (KDIGO stage 2)**
+   - Presumed pre-renal, multifactorial (hypoperfusion, diuretics).
+   - Baseline Cr 0.9, peaked at 2.2 on day 3, trending down to 1.4.
+   - Hold nephrotoxins, monitor renal function, adjust diuretics.
+
+5. **Atrial Fibrillation with RVR**
+   - Brief episode on day 2 (HR to 140s), cardioverted with amiodarone.
+   - Maintained NSR since, on metoprolol.
+   - No anticoagulation started (bleeding risk, low CHADS2VASC).
+   - Telemetry monitoring.
+
+6. **Obesity**
+   - BMI 30.2 on admission.
+   - Nutrition consult placed, calorie restriction.
+   - Counsel on weight reduction post-discharge.
+
+7. **History of Colon Polyp**
+   - 5mm polyp removed 2022, no dysplasia.
+   - No GI bleeding this admission.
+   - F/u with GI as outpatient.
+
+8. **Remote Miscarriage**
+   - No acute issues.
+
+9. **Recurrent Pharyngitis/Sinusitis**
+   - No active infection on admission.
+   - No antibiotics required.
+
+10. **Medication Reconciliation**
+    - Reviewed home meds.
+    - Continue hydrocortisone cream, hold penicillin (no current infection).
+    - PRN diphenhydramine, epinephrine injector available.
+
+11. **VTE Prophylaxis**
+    - SCDs in place, on enoxaparin 40 mg daily.
+
+12. **Nutrition**
+    - On cardiac diet, PO intake adequate.
+    - Monitor electrolytes.
+
+13. **Pain Control**
+    - Mild chronic pain, rated 3/10.
+    - Acetaminophen PRN.
+
+---
+
+**ICU Vitals & Intake/Output Summary**
+| Date        | Temp (C) | HR    | BP        | RR  | SpO2 | Weight (kg) | Net I/O (L) |
+|-------------|----------|-------|-----------|-----|------|-------------|-------------|
+| 5/18/24     | 37.5     | 108   | 88/56     | 28  | 92%  | 77.1        | +2.0        |
+| 5/19/24     | 37.3     | 100   | 92/60     | 24  | 95%  | 76.5        | -1.0        |
+| 5/20/24     | 37.1     | 86    | 98/66     | 20  | 97%  | 75.2        | -2.5        |
+| 5/21/24     | 36.9     | 82    | 106/72    | 18  | 98%  | 74.0        | -1.2        |
+| 5/22/24     | 37.0     | 78    | 112/74    | 16  | 98%  | 73.5        | -0.5        |
+| 5/23/24     | 36.8     | 76    | 118/76    | 16  | 98%  | 73.3        | 0           |
+
+---
+
+**Lab Results: CBC, Chem7, Cardiac, Other**
+
+| Date    | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na | K  | Cl | CO2 | BUN | Cr  | Glu | Troponin I | BNP   | AST | ALT |
+|---------|------------|------------|---------|------------|----|----|----|-----|-----|-----|-----|------------|-------|-----|-----|
+| 5/18    | 9.4        | 14.2       | 48.1    | 435        | 137| 4.9| 104| 21  | 32  | 1.4 | 132 | 0.12       | 3200  | 38  | 44  |
+| 5/19    | 8.8        | 13.6       | 45.7    | 402        | 136| 5.4| 102| 19  | 48  | 2.2 | 118 | 0.18       | 2900  | 45  | 51  |
+| 5/20    | 7.6        | 12.9       | 42.1    | 370        | 138| 4.2| 101| 24  | 40  | 1.8 | 110 | 0.07       | 2200  | --  | 40  |
+| 5/21    | 8.1        | 13.4       | 43.5    | 388        | 139| 4.0| 103| 23  | 28  | 1.5 | 113 | 0.04       | 1500  | 30  | 34  |
+| 5/22    | --         | 13.8       | 44.2    | 377        | 140| 3.7| 104| 25  | 22  | 1.4 | 106 | <0.01      | 800   | 29  | 32  |
+| 5/23    | 7.4        | 14.0       | 45.0    | 390        | 139| 3.9| 103| 24  | 18  | 1.2 | 109 | <0.01      | 540   | 25  | 31  |
+
+*Some labs missing as not all values were repeated daily.*
+
+---
+
+**Imaging & Procedures**
+- **ECHO (5/18):** EF 15%, severe global hypokinesis, LV dilation, mild MR/TR.
+- **CXR (5/18):** Pulmonary edema, vascular congestion, mild pleural effusions.
+- **Coronary angio (5/19):** Non-obstructive CAD.
+- **Impella CP placement (5/18):** Right femoral access, no complications.
+- **Impella removal (5/24):** No vascular injury, hemostasis achieved.
+
+---
+
+**Medications (Inpatient)**
+- Dobutamine infusion
+- Furosemide IV
+- Carvedilol PO
+- Sacubitril/valsartan PO
+- Spironolactone PO
+- Metoprolol PO (for rate control)
+- Amiodarone IV (PRN, now stopped)
+- Enoxaparin SQ
+- Acetaminophen PO
+- Hydrocortisone topical
+- PRN diphenhydramine
+
+---
+
+**Consults**
+- Cardiology (daily)
+- Heart Failure Service
+- Nutrition
+- Physical Therapy
+
+---
+
+**Discharge Planning**
+- Anticipate transfer to stepdown in 24-48h.
+- Advanced heart failure clinic follow-up.
+- Outpatient cardiac rehab referral.
+- Education on daily weights, sodium restriction, medication adherence.
+
+---
+
+**Physician Attestation:**  
+Dr. S. Patel, MD  
+Cardiology/Intensivist  
+Date/Time: 2024-05-23 10:48
+
+---
+
+**END OF NOTE**

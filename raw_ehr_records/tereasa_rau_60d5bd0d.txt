@@ -1,0 +1,183 @@
+**EPIC EHR - Inpatient Progress Note**  
+**Patient:** Tereasa Rau  
+**MRN:** 00129834  
+**DOB:** 06/23/1927  
+**Sex:** Female  
+**Date of Service:** 04/24/2024  
+**Admitting Service:** MICU  
+**Attending:** Dr. S. Warburton  
+**Consultants:** Cardiology, Infectious Disease, Nephrology, Palliative Care  
+**Allergies:** NKDA  
+
+---
+
+### CHIEF COMPLAINT  
+Shortness of breath, orthopnea, decreased urine output, confusion
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+Ms. Rau is a 96-year-old female with a history of obesity, hyperlipidemia, early-onset familial Alzheimer’s disease, recurrent UTIs, prior miscarriage, and recent pneumonia who was admitted from SNF with acute hypoxemic respiratory failure and decompensated heart failure. During her ICU stay, she developed cardiogenic shock requiring placement of a temporary left ventricular assist device (Impella CP) for hemodynamic support.
+
+Her hospital course has been complicated by worsening renal function, delirium, and recurrent infections. She remains on broad-spectrum antibiotics, and her mental status has waxed and waned. Family at bedside, goals of care discussed.
+
+---
+
+### VITALS (Selected, see flowsheet for full data)
+
+| Date       | Temp (°C) | HR (bpm) | BP (mmHg) | RR | O2 Sat (%) | Weight (kg) | Pain (0-10) |
+|------------|-----------|----------|-----------|----|------------|-------------|-------------|
+| 4/18/24    | 36.8      | 112      | 82/48     | 24 | 90         | 82.3        | 4           |
+| 4/19/24    | 37.2      | 98       | 106/56    | 20 | 94         | 81.9        | 2           |
+| 4/20/24    | 36.6      | 88       | 112/62    | 18 | 96         | 81.7        | 1           |
+| 4/21/24    | 36.4      | 91       | 118/66    | 18 | 96         | 81.2        | 2           |
+| 4/22/24    | 36.9      | 104      | 100/54    | 22 | 92         | 80.8        | 3           |
+
+---
+
+### LABS
+
+#### CBC / Chemistry (selected)
+
+| Date     | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Gluc (mg/dL) |
+|----------|------------|------------|------------|-------------|------------|-------------|--------------|-------------|------------|--------------|
+| 4/18/24  | 10.2       | 14.8       | 167        | 134         | 4.8        | 102         | 24           | 26          | 2.4        | 123          |
+| 4/19/24  | 8.9        | 15.2       | 174        | 137         | 4.3        | 108         | 27           | 36          | 3.1        | 98           |
+| 4/20/24  | 7.5        | 13.9       | 158        | 139         | 4.1        | —           | 25           | 42          | 3.8        | 85           |
+| 4/21/24  | —          | 14.1       | 151        | 136         | —          | 107         | 23           | 38          | 3.7        | 77           |
+| 4/22/24  | 9.3        | 13.2       | 144        | 138         | 4.2        | 109         | 26           | 34          | 3.3        | —            |
+
+#### Cardiac Markers
+
+| Date     | Troponin I (ng/mL) | BNP (pg/mL) |
+|----------|--------------------|-------------|
+| 4/18/24  | 0.13               | 1380        |
+| 4/19/24  | 0.17               | —           |
+| 4/20/24  | 0.11               | 1190        |
+| 4/22/24  | 0.09               | 950         |
+
+#### Liver Panel
+
+| Date     | AST (U/L) | ALT (U/L) | Alk Phos (U/L) | TBili (mg/dL) | Albumin (g/dL) |
+|----------|-----------|-----------|----------------|---------------|----------------|
+| 4/18/24  | 22        | 39        | 78             | 0.6           | 3.8            |
+| 4/20/24  | 25        | 44        | 92             | 0.8           | 3.4            |
+| 4/22/24  | —         | 41        | 88             | —             | 3.2            |
+
+#### Urinalysis
+
+| Date     | Leuk est | Nitrite | WBCs | Bacteria |
+|----------|----------|---------|------|----------|
+| 4/19/24  | +        | +       | 25   | Many     |
+| 4/21/24  | —        | —       | —    | —        |
+
+---
+
+### IMAGING
+
+- **CXR (4/18/24):** Bilateral pulmonary edema, mild bilateral pleural effusions, cardiomegaly.
+- **Echo (4/18/24, bedside):** LVEF 20%, global hypokinesis, moderate MR, RV mildly reduced, no tamponade.
+- **Repeat Echo (4/21/24):** LVEF 25% on Impella support, improved RV, mild TR.
+
+---
+
+### ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock / Acute Decompensated Heart Failure (HFrEF, NYHA IV):**  
+- Etiology: Likely ischemic vs. mixed etiology on background of chronic systolic dysfunction.  
+- Required temporary LVAD (Impella CP) placement on 4/18 for persistent hypotension and end-organ hypoperfusion despite inotropes/vasopressors.  
+- Weaned off Impella 4/21, transitioned to low-dose dobutamine.  
+- Diuresis with IV furosemide ongoing; careful fluid balance.  
+- Daily weights, strict I/Os, electrolyte monitoring.  
+- Cardiology following.  
+- Consideration for palliative care; not a candidate for durable LVAD or transplant.
+
+**2. Acute Kidney Injury (on CKD III):**  
+- Likely multifactorial: low perfusion, nephrotoxic exposure (IV contrast, gentamicin), sepsis.  
+- Oliguria improved post-Impella, now making ~1L urine/day.  
+- Renal trending down, creatinine peaked at 3.8, now 3.3.
+- Hold nephrotoxins, adjust medications for renal dosing.
+- Nephrology following, not on RRT.
+
+**3. Recurrent UTI / Sepsis:**  
+- Positive urine cx: E. coli, ESBL+, started on meropenem.
+- Blood cx x2 negative.
+- Afebrile, WBC trending down.
+- Course to complete in 10 days, ID following.
+
+**4. Acute on Chronic Hypoxic Respiratory Failure:**  
+- Likely due to pulmonary edema, pneumonia.
+- On 4L NC, weaned from HFNC.
+- CXR improved.
+- Pulmonary toilet, incentive spirometry.
+- Monitor for delirium.
+
+**5. Delirium / Advanced Dementia (Familial Alzheimer’s):**  
+- Baseline MMSE 4/30.
+- Delirium, fluctuating mental status.
+- Non-pharmacologic measures, minimize sedation.
+- Family updated daily, DPOA involved in care decisions.
+
+**6. Hyperlipidemia / Obesity:**  
+- Continue simvastatin.
+- Diet: cardiac, low sodium, diabetic.
+- PT/OT for mobility as tolerated.
+
+**7. Pain Management:**  
+- On scheduled acetaminophen, prn oxycodone.
+- Pain controlled, able to participate in therapy.
+
+**8. Code Status / Goals of Care:**  
+- DNR/DNI after goals of care discussion with family.
+- Focus on comfort and quality of life.
+
+---
+
+### MEDICATIONS (Active)
+
+- Acetaminophen 325 mg PO q6h
+- Oxycodone 5 mg PO q6h prn
+- Simvastatin 10 mg PO qhs
+- Meropenem 1g IV q8h
+- Furosemide 40 mg IV q12h
+- Metoprolol 12.5 mg PO BID (held for bradycardia)
+- Aspirin 81 mg PO daily
+- Enoxaparin 40 mg SQ daily (VTE prophylaxis)
+- Docusate 100 mg PO BID
+
+---
+
+### NURSING/THERAPY
+
+- Strict I/O
+- Foley d/c’d 4/21
+- SCDs in place
+- PT/OT eval, limited by fatigue
+- Turn q2h
+
+---
+
+### PENDING STUDIES / CONSULTS
+
+- Awaiting repeat urinalysis
+- Cardiology: continue to follow for heart failure management
+- Palliative care consult scheduled
+
+---
+
+### DISPOSITION
+
+- Remains in MICU
+- Prognosis poor; family considering hospice
+
+---
+
+**Physician:**  
+Dr. S. Warburton, MD  
+Attending, MICU  
+**Date/Time:** 04/24/2024 13:45
+
+---
+
+**[End of Note]**

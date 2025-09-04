@@ -1,0 +1,189 @@
+**Patient Name:** Lorraine Bosco  
+**MRN:** 00329841  
+**DOB:** 08/11/1927  
+**Sex:** Female  
+**Admit Date:** 04/18/2024  
+**Attending:** Dr. S. Carter  
+**Consultants:** Cardiology, Neurology, Infectious Disease  
+**Location:** CICU, then step-down  
+**Code Status:** Full Code
+
+---
+
+# Admission Note  
+**Chief Complaint:**  
+Progressive SOB, orthopnea, and confusion at home. EMS called by daughter for acute decompensation.
+
+**HPI:**  
+Ms. Bosco is a 96-year-old woman with h/o HTN, obesity, epilepsy, prior CVA, anemia, and OA, who presented with acutely worsening shortness of breath, orthopnea, and confusion. She had 3 days of increasing fatigue, mild cough, and decreased PO intake. No chest pain, palpitations, or recent seizures per daughter. Found hypoxic (SpO₂ 84% RA), tachypneic, BP 88/50 in the field. Intubated for respiratory distress on arrival. Bedside echo in ED showed severely reduced LVEF (15%), global hypokinesis, and LV dilatation. Troponin mildly elevated. Cardiogenic shock suspected; emergently transferred to CICU for inotropes and mechanical support.
+
+**Past Medical History:**  
+- Hypertension  
+- Obesity (BMI 30)  
+- Epilepsy, remote single seizure  
+- CVA (ischemic, L-sided weakness, now resolved)  
+- Anemia (chronic, likely multifactorial)  
+- Osteoarthritis, hand  
+- Chronic sinusitis  
+- Prior miscarriage, blighted ovum, otherwise normal pregnancies  
+- Acute bronchitis (remote)  
+- Laceration, hand (remote)
+
+**Allergies:** NKDA
+
+**Home Medications:**  
+- HCTZ 25 mg daily  
+- Aspirin 81 mg daily  
+- Ferrous sulfate 325 mg daily  
+- Enovid (mestranol/norethynodrel)  
+- Naproxen sodium 220 mg prn  
+- Acetaminophen/dextromethorphan/doxylamine solution prn
+
+**Social Hx:**  
+Lives with daughter, retired teacher. No EtOH, tobacco, or drugs.
+
+**Family Hx:**  
+Noncontributory.
+
+---
+
+# Hospital Course (ICU Summary)  
+**Day 1:**  
+Admitted in cardiogenic shock, intubated. Started norepinephrine, dobutamine. Echo: LVEF 15%, LV dilated, RV normal, no significant valvular dz. Troponin I 0.34 → 0.29. Lactate 4.2. Worsening end organ perfusion (UOP < 0.3cc/kg/hr, Cr up from baseline 1.3 to 2.1).  
+**Day 2:**  
+No improvement on inotropes. Cardiology recommended Impella CP placement for LV unloading. Device placed at bedside without complication. Hemodynamics improved (MAP >65, lactate downtrending).  
+**Day 3-5:**  
+Gradual wean of vasopressors. Extubated on day 4. Impella removed on day 5 after TTE showed LVEF improved to 30%. Mild delirium, resolving.  
+**Day 6+:**  
+Transitioned to step-down unit. Diuresis with IV furosemide. Renal function improved. Neurology consulted for confusion—no seizure activity. Started on low-dose carvedilol, uptitrated. Physical therapy for deconditioning. Discharge planning initiated.
+
+---
+
+# Problem-Based Assessment & Plan
+
+## 1. Cardiogenic Shock, s/p Impella CP  
+- Likely acute decompensated heart failure on chronic ischemic cardiomyopathy (EF 15%).  
+- Emergent Impella placement, now removed, hemodynamics stabilized.  
+- Plan: Continue GDMT (carvedilol, ACEi to start if BP tolerates), daily weights, strict I/O, monitor for arrhythmias, repeat echo in 1 week.
+
+## 2. Acute Systolic Heart Failure  
+- Previously undiagnosed severe LV dysfunction, likely ischemic.  
+- Plan: Start low-dose ACEi, continue diuresis, titrate beta-blocker. Outpatient cardiology f/u.  
+- Monitor for volume overload, renal function.
+
+## 3. Acute Kidney Injury (pre-renal, resolved)  
+- AKI on admission (Cr 2.1, baseline 1.3), likely secondary to low perfusion.  
+- Improved with restoration of cardiac output; Cr trending toward baseline.  
+- Plan: Monitor renal function, avoid nephrotoxins, maintain euvolemia.
+
+## 4. Hypoxemic Respiratory Failure, s/p Intubation/Extubation  
+- Intubated for respiratory distress, extubated on day 4.  
+- Plan: Incentive spirometry, monitor for reintubation, pulmonary toilet.
+
+## 5. Anemia  
+- Hgb 8.2 on admission, chronic, multifactorial (anemia of chronic disease, iron deficiency).  
+- Plan: Continue iron, monitor H/H, no transfusion needed unless symptomatic.
+
+## 6. Epilepsy (remote)  
+- No seizure activity during admission. Confusion likely metabolic/delirium.  
+- Plan: Continue home AED, monitor for seizures.
+
+## 7. Hypertension  
+- Off antihypertensives during shock.  
+- Plan: Resume HCTZ if BP tolerates, titrate as outpatient.
+
+## 8. Osteoarthritis, hand  
+- Chronic, managed with naproxen prn.  
+- Plan: Avoid NSAIDs if possible due to renal concerns.
+
+## 9. Deconditioning  
+- Marked weakness post-ICU.  
+- Plan: PT/OT, early mobilization, nutrition consult.
+
+## 10. Delirium  
+- Likely multifactorial (ICU, metabolic, infection ruled out).  
+- Plan: Reorientation, minimize sedatives, sleep hygiene.
+
+## 11. Chronic Sinusitis  
+- Stable, no acute symptoms.
+
+---
+
+# Vital Signs (selected, ICU course)
+
+| Date         | Temp (°F) | HR (bpm) | BP (mmHg) | RR | SpO₂ | Weight (kg) |
+|--------------|-----------|----------|-----------|----|------|-------------|
+| 4/18/2024 AM | 98.6      | 118      | 88/50     | 28 | 84%  | 75.7        |
+| 4/19/2024    | 100.1     | 104      | 90/62     | 22 | 95%  | 76.2        |
+| 4/20/2024    | 98.9      | 92       | 102/68    | 18 | 98%  | 75.3        |
+| 4/22/2024    | 98.4      | 84       | 114/72    | 16 | 98%  | 75.1        |
+
+---
+
+# Laboratory Data (CBC, Chem7, Cardiac Markers & Misc)
+
+| Date         | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO₂  | BUN  | Cr   | Glu  | Troponin I | BNP   | ALT | AST | Lactate |
+|--------------|------|------|------|------|------|------|------|------|------|------|------|------------|-------|-----|-----|---------|
+| 4/18/2024 AM | 3.6  | 8.2  | 28   | 259  | 134  | 4.2  | 99   | 22   | 39   | 2.1  | 112  | 0.34       | 1450  | 33  | 41  | 4.2     |
+| 4/18/2024 PM | 4.1  | 8.5  | 29   | 241  | 136  | 4.4  | 101  | 21   | 36   | 2.0  | 128  | 0.29       | 1620  | 35  | 43  | 3.1     |
+| 4/19/2024    | 5.0  | 9.0  | 30   | 210  | 137  | 4.1  | 100  | 23   | 24   | 1.7  | 109  | 0.18       | 1300  | 29  | 38  | 2.2     |
+| 4/20/2024    | 6.2  | 9.7  | 32   | 188  | 139  | 4.0  | 102  | 26   | 18   | 1.4  | 101  | <0.01      | 1100  | 27  | 36  | 1.5     |
+| 4/21/2024    | 5.7  | 10.2 | 33   | 175  | 140  | 4.1  | 104  | 25   | 17   | 1.3  | 108  | <0.01      | 980   | 22  | 31  | —       |
+| 4/22/2024    | —    | 10.9 | 34   | 172  | 141  | 4.0  | 104  | 25   | 16   | 1.2  | 104  | —          | 800   | —   | —   | —       |
+
+---
+
+# Imaging
+
+**4/18/2024: Bedside Echo**  
+- LVEF 15%, severely reduced, global hypokinesis, LV dilated, RV normal, mild MR.
+
+**4/20/2024: Repeat Echo**  
+- LVEF 30%, mild improvement, less LV dilatation, mild MR.
+
+**Head CT (4/18/24):**  
+- Chronic small vessel ischemic changes, old lacunar infarct L frontal, no acute bleed.
+
+---
+
+# Procedures  
+- 4/18/2024: Endotracheal intubation  
+- 4/19/2024: Impella CP (left-sided percutaneous LVAD) placement  
+- 4/20/2024: Impella removal  
+- Multiple central line placements
+
+---
+
+# Medications (Hospital)
+
+- Norepinephrine (IV, titrated off by day 3)
+- Dobutamine (IV, weaned off by day 4)
+- Furosemide IV 40 mg q12h
+- Aspirin 81 mg PO daily
+- Ferrous sulfate 325 mg PO daily
+- Carvedilol 3.125 mg BID (initiated day 5, uptitrated)
+- Enalapril 2.5 mg BID (added day 6)
+- Acetaminophen PRN
+- DVT prophylaxis: heparin SQ
+- Protonix 40 mg IV daily
+- Home AED continued
+
+---
+
+# Discharge Planning
+
+- Anticipated discharge to subacute rehab for PT/OT.
+- Close outpatient cardiology follow-up.
+- Medication reconciliation completed.
+- Daughter provided education on heart failure management, device history, and signs of decompensation.
+
+---
+
+**Signed:**  
+Dr. S. Carter, MD  
+Attending, Cardiology ICU  
+04/22/2024, 17:32
+
+---
+
+**(Additional pages of progress notes, nursing documentation, and consults available in chart.)**

@@ -1,0 +1,182 @@
+**Patient:** Adame, Pilar  
+**MRN:** 00824311  
+**DOB:** 06/02/1973  
+**Sex:** Female  
+**Date of Admission:** 2024-04-17  
+**Date of Note:** 2024-04-23  
+**Attending:** Dr. J. Frazier  
+**Location:** MICU, Room 8B  
+
+---
+
+# ICU Progress Note
+
+---
+
+## CHIEF COMPLAINT  
+Worsening dyspnea, orthopnea, and chest pressure x 3 days
+
+---
+
+## HISTORY OF PRESENT ILLNESS
+50-year-old female with PMH of prediabetes, anemia, chronic intractable migraine, recurrent sinusitis, and remote left ankle fracture, who presented to the ED with 3 days of progressive dyspnea, orthopnea, and substernal chest pressure. She initially thought her symptoms were related to a recent viral illness but became increasingly short of breath at rest and had one episode of lightheadedness and near-syncope at home.  
+
+In the ED, she was noted to be tachycardic, hypotensive, and hypoxic. Initial labs showed elevated troponin and BNP, and CXR revealed pulmonary vascular congestion. Bedside echo showed severely reduced LVEF (~15%), global hypokinesis, and moderate MR. She was admitted to the ICU for management of acute decompensated heart failure (ADHF) and possible cardiogenic shock.  
+
+She was started on inotropes and vasopressors but remained persistently hypotensive. A decision was made to place a percutaneous left ventricular assist device (Impella CP) for hemodynamic support, which was placed without complication on HD2. She has since been weaned off vasopressors but remains volume overloaded.  
+
+---
+
+## HOSPITAL COURSE (HD1-HD7)
+- HD1: Admission, started on dobutamine, norepinephrine. Severe ADHF with suspected viral myocarditis.  
+- HD2: Worsening shock, Impella CP placed. Labs: rising creatinine, lactate. Cardiac markers peaked.  
+- HD3: Vasopressors weaned, improved mentation, urine output up.  
+- HD4: Diuresis with IV furosemide, volume status improved.  
+- HD5: Impella flows weaned, echo improved (LVEF ~30%).  
+- HD6: Impella explanted, transitioned to oral heart failure regimen.  
+- HD7: Remains stable, planning step-down transfer.
+
+---
+
+## PAST MEDICAL HISTORY
+- Perennial allergic rhinitis  
+- Prediabetes  
+- Anemia  
+- Recurrent sinusitis (viral and bacterial)  
+- Chronic migraine  
+- Pyelonephritis (remote)  
+- Left ankle fracture (remote)
+
+## PAST SURGICAL HISTORY
+- ORIF left ankle, 2016
+
+## MEDICATIONS ON ADMISSION
+- Fluticasone inhaler  
+- Albuterol inhaler  
+- Astemizole  
+- Amoxicillin-clavulanate  
+- Ibuprofen  
+- Nitrofurantoin  
+- Phenazopyridine  
+- Acetaminophen-oxycodone
+
+## ALLERGIES
+- NKDA
+
+## FAMILY HISTORY
+- Mother: HTN, DM2  
+- Father: MI at age 60
+
+## SOCIAL HISTORY
+- Lives with husband, 2 children  
+- Former smoker (quit 12 yrs ago), no EtOH/drugs  
+- Works as an accountant
+
+---
+
+## VITALS (Selected)
+
+| Date/Time       | Temp (C) | HR  | BP         | RR | SpO2 | O2 Mode    | Weight (kg) |
+|-----------------|----------|-----|------------|----|------|------------|-------------|
+| 4/17 08:00      | 36.8     | 122 | 86/58      | 24 | 91%  | 4L NC      | 77.2        |
+| 4/18 06:00      | 37.1     | 118 | 80/50      | 22 | 93%  | 6L NC      | 77.0        |
+| 4/19 07:00      | 36.7     | 110 | 92/62      | 20 | 96%  | RA         | 76.5        |
+| 4/21 07:00      | 36.6     | 98  | 104/68     | 18 | 98%  | RA         | 75.9        |
+
+---
+
+## LABS
+
+### CBC & CHEM7 (Selected, HD1-HD7)
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Gluc | Ca   |
+|------------|------|------|------|------|------|------|------|------|------|------|------|------|
+| 4/17       | 13.2 | 14.1 | 41   | 192  | 141  | 4.9  | 108  | 20   | 18   | 1.2  | 132  | 8.7  |
+| 4/18       | 11.9 | 12.9 | 38   | 168  | 138  | 5.2  | 109  | 17   | 24   | 1.6  | 118  | 8.5  |
+| 4/19       | 9.7  | 11.3 | 35   | 158  | 139  | 4.7  | 111  | 22   | 17   | 1.3  | 103  | 8.9  |
+| 4/20       | 8.5  | 11.2 | 34   | 152  | 140  | 4.2  | 110  | 23   | 14   | 1.0  | 98   | 9.2  |
+| 4/21       | 7.9  | 11.0 | 33   | 149  | 139  | 4.0  | 108  | 22   | 12   | 0.9  | 92   | 9.4  |
+| 4/22       | 7.6  | 10.9 | 32   | 150  | 138  | 4.1  | 107  | 23   | 11   | 0.8  | 89   | 9.3  |
+| 4/23       |      | 10.7 |      | 147  |      | 4.2  |      | 24   | 10   | 0.8  |      | 9.5  |
+
+### Other Labs
+
+| Date   | Troponin I | BNP     | AST | ALT | Alk Phos | Total bili | PT  | INR | aPTT |
+|--------|------------|---------|-----|-----|----------|------------|-----|-----|------|
+| 4/17   | 0.41       | 2100    | 54  | 49  | 110      | 0.7        | 15  | 1.3 | 32   |
+| 4/18   | 0.53       | 4300    | 61  | 55  | 112      | 0.6        | 16  | 1.4 | 34   |
+| 4/19   | 0.38       | 3200    | 45  | 40  | 101      | 0.8        |     |     |      |
+| 4/21   | 0.12       | 1100    |     |     |          |            |     |     |      |
+
+---
+
+## MICROBIOLOGY
+
+- Blood cultures (4/17, 4/18): No growth
+- SARS-CoV-2 PCR: Negative
+
+---
+
+## IMAGING
+
+- **CXR 4/17:** Pulmonary vascular congestion, mild bilateral pleural effusions.
+- **ECHO 4/17:** LVEF 15%, global hypokinesis, moderate MR, mildly dilated LV.
+- **ECHO 4/21:** LVEF improved to 30%, mild MR.
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. Cardiogenic Shock / Acute Decompensated Heart Failure (ADHF)
+- Initial presentation with severe decompensated HF, likely viral myocarditis (recent URI), new severely reduced LVEF.
+- Required inotropes and vasopressors.
+- Impella CP placed on HD2 for hemodynamic support.
+- Now weaned off Impella and vasoactive meds, improving.
+- Plan: Continue HF regimen (metoprolol, low-dose ACEi, spironolactone). Monitor volume status. Repeat echo in 1 week. Cardiac MRI pending.
+
+### 2. Acute Kidney Injury (AKI)
+- Likely multifactorial: hypoperfusion, diuretic use, contrast exposure.
+- Improved with restoration of perfusion and diuresis.
+- Plan: Monitor renal function, avoid nephrotoxins, adjust meds for renal dosing.
+
+### 3. Anemia
+- Mild normocytic anemia, stable, no evidence of acute blood loss.
+- Plan: Monitor CBC, iron studies outpatient, consider EPO if persistent.
+
+### 4. Volume Overload
+- Managed with diuresis (IV furosemide).
+- Now euvolemic.
+- Plan: Daily weights, strict I/Os, adjust diuretics as needed.
+
+### 5. History of Perennial Allergic Rhinitis / Sinusitis
+- No acute infectious symptoms currently.
+- Plan: Resume fluticasone/asthma regimen as tolerated.
+
+### 6. Chronic Migraine
+- No headaches during ICU stay.
+- Plan: Continue home meds, PRN acetaminophen.
+
+### 7. Prediabetes
+- Glucose well controlled in hospital.
+- Plan: Resume home diet, monitor A1c outpatient.
+
+### 8. Remote Fracture, Pyelonephritis
+- No acute issues.
+
+---
+
+## DISPOSITION
+- Step-down unit once stable for 24h off vasoactive support.
+- Cardiology, heart failure, and nephrology following.
+- Outpatient follow-up with primary care, cardiology, nephrology.
+
+---
+
+## SIGNED
+J. Frazier, MD  
+MICU Attending  
+04/23/2024 09:25
+
+---
+
+**END OF NOTE**

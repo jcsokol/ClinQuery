@@ -1,0 +1,158 @@
+---
+**Patient Name:** Jeff Heathcote  
+**MRN:** 00352147  
+**DOB:** 1959-08-21  
+**Sex:** Male  
+**Admit Date:** 2024-04-18  
+**Attending:** Dr. Lisa Chen  
+**Service:** Cardiac ICU  
+**Note Type:** Progress Note  
+**Date of Note:** 2024-04-21  
+**Author:** L. Chen, MD
+
+---
+
+### **HOSPITAL COURSE SUMMARY**
+
+Mr. Jeff Heathcote is a 64-year-old male with a significant PMHx of CAD, HTN, DM2, hypertriglyceridemia, metabolic syndrome, anemia, chronic sinusitis, and OA. The patient presented to the ED with substernal chest pain, SOB, and near-syncope. Initial workup was notable for NSTEMI with acute decompensated heart failure (ADHF). He subsequently developed cardiogenic shock, refractory to medical management, requiring escalation to temporary mechanical circulatory support with a percutaneous LVAD (Impella CP). 
+
+His ICU course was complicated by labile hemodynamics, transient renal dysfunction, and persistent hyperglycemia. He is currently weaning from vasopressors and remains on temporary LV support. 
+
+---
+
+### **PROBLEM-BASED ASSESSMENT & PLAN**
+
+#### 1. **Cardiogenic Shock secondary to NSTEMI / Ischemic Cardiomyopathy**
+   - **Course:** Presented with acute chest pain, ECG with new Q waves V2-V4, troponin T peaked at 3.8 ng/mL. Echo: LVEF 18%, severe global hypokinesis.
+   - **Interventions:** Emergent LHC: 95% proximal LAD, DES placed. Persistent hypotension despite dobutamine and norepinephrine → Impella CP placed bedside. 
+   - **Plan:**  
+     - Continue Impella CP, daily weaning assessment  
+     - Serial TTEs  
+     - Maintain MAP >65 (currently 68-75 mmHg)  
+     - Continue dual antiplatelet therapy (ASA + clopidogrel)  
+     - Cardiac rehab consult; consider durable LVAD vs. transplant eval if recovery fails
+
+#### 2. **Acute Decompensated Heart Failure (HFrEF)**
+   - **Course:** Pulmonary edema on CXR, elevated BNP 2113 pg/mL. Volume overload on exam, rales, 2+ pitting edema.
+   - **Plan:**  
+     - IV furosemide 80mg q12h, monitor I/O  
+     - Daily weights  
+     - Sodium restriction, fluid restriction 1.5L/day  
+     - Strict glycemic control 
+
+#### 3. **Type 2 Diabetes Mellitus / Hyperglycemia**
+   - **Course:** Admission glucose 312 mg/dL, A1c 8.4%. Recurrent hyperglycemia during ICU stay due to stress and steroids.
+   - **Plan:**  
+     - Basal-bolus insulin regimen  
+     - Hold metformin (AKI risk)  
+     - q6h fingersticks  
+     - Endo consult
+
+#### 4. **Acute Kidney Injury (AKI), likely pre-renal + cardiorenal**
+   - **Course:** Creatinine rose from 1.1 to 2.0 mg/dL, BUN 34, FeNa <1%. Oliguric on day 2, improved with diuresis/Impella. 
+   - **Plan:**  
+     - Monitor renal function daily  
+     - Avoid nephrotoxins  
+     - Nephrology consult  
+     - Adjust meds for renal dosing
+
+#### 5. **Anemia**
+   - **Course:** Baseline Hgb 14.2 g/dL, dropped to 10.8 on day 2 (hemodilution vs. blood loss during PCI). No overt bleeding.
+   - **Plan:**  
+     - Trend CBC  
+     - Iron studies, retic count  
+     - Transfuse if <7.0 or symptomatic
+
+#### 6. **Hypertension**
+   - **Course:** Previously on triple therapy, now labile BPs due to shock and pressors.
+   - **Plan:**  
+     - Hold oral antihypertensives for now  
+     - Reassess as pressors weaned
+
+#### 7. **Hypertriglyceridemia / Metabolic Syndrome**
+   - **Course:** Triglycerides 443 on admit, LDL 136, HDL 33.
+   - **Plan:**  
+     - Continue simvastatin  
+     - Hold fenofibrate (if on) during AKI  
+     - Dietician consult
+
+#### 8. **Chronic Sinusitis/OA/Other**
+   - **Plan:**  
+     - Supportive care, continue acetaminophen prn  
+     - ENT/ortho prn
+
+---
+
+### **LABORATORY DATA**
+
+| Date       | WBC (k/uL) | Hgb (g/dL) | Hct (%) | Plt (k/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Ca (mg/dL) | Troponin (ng/mL) |
+|------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|------------|------------------|
+| 4/18/2024  | 8.8        | 14.2       | 37.2    | 412        | 138         | 4.8        | 106         | 21           | 11          | 1.1        | 186         | 9.5        | 0.9              |
+| 4/19/2024  | 11.3       | 12.7       | 34.9    | 389        | 135         | 5.6        | 103         | 19           | 28          | 1.7        | 312         | 8.7        | 3.8              |
+| 4/20/2024  | 9.6        | 10.8       | 30.1    | 355        | 133         | 5.2        | 101         | 16           | 34          | 2.0        | 244         | 8.9        | 2.1              |
+| 4/21/2024  | 8.1        | 11.6       |        | 358        | 137         | 4.5        | 104         | 21           | 19          | 1.3        | 172         | 9.3        | 1.2              |
+| 4/22/2024  | 7.9        |            | 31.4    |            | 139         | 4.3        |             | 23           | 15          | 1.0        | 148         | 9.1        |                  |
+
+**Other Labs:**
+- BNP: 2113 pg/mL (4/18)
+- CK-MB: 26.7 ng/mL (4/18)
+- AST: 48 U/L, ALT: 33 U/L (4/19)
+- LDH: 366 U/L (4/19)
+- A1c: 8.4% (4/18)
+- LDL: 136 mg/dL, HDL: 33 mg/dL, Triglycerides: 443 mg/dL (4/18)
+- UA: 1+ protein, negative blood (4/19)
+
+---
+
+### **VITAL SIGNS**
+
+| Date/Time   | Temp (C) | HR (bpm) | BP (mmHg) | RR | SpO2 (%) | MAP (mmHg) |
+|-------------|----------|----------|-----------|----|----------|------------|
+| 4/18 08:00  | 36.9     | 108      | 94/56     | 22 | 93       | 68         |
+| 4/18 14:00  | 37.1     | 116      | 78/44     | 24 | 91       | 55         |
+| 4/19 03:00  | 36.5     | 102      | 119/68    | 20 | 97       | 85         |
+| 4/20 10:00  | 36.7     | 98       | 112/74    | 18 | 98       | 87         |
+| 4/21 09:00  | 36.6     | 90       | 124/69    | 18 | 99       | 87         |
+
+---
+
+### **MEDICATIONS (CURRENT/RECENT)**
+
+- Aspirin 81 mg daily
+- Clopidogrel 75 mg daily
+- Simvastatin 20 mg nightly
+- Insulin glargine + lispro sliding scale
+- Furosemide 80 mg IV q12h
+- Dobutamine infusion (tapering)
+- Norepinephrine (off as of 4/20)
+- Amlodipine, olmesartan/HCTZ (held)
+- Acetaminophen 325 mg prn
+- Nitroglycerin spray prn
+
+---
+
+### **DIAGNOSTICS**
+
+- **ECG:** Q waves V2-V4, poor R wave progression
+- **Echo (4/19):** LVEF 18%, LV dilated, severe hypokinesis, RV function mildly reduced
+- **CXR:** Pulmonary edema, mild cardiomegaly
+- **Coronary Angio:** 95% LAD (DES), 60% RCA, non-obstructive LCx
+
+---
+
+### **DISPOSITION / FOLLOW-UP**
+
+- Remains in CICU
+- Continue Impella, daily weaning
+- Cardiology, nephrology, endocrinology, nutrition, PT/OT consults
+- Family meeting planned 4/22
+
+---
+
+**Attestation:**  
+I have personally examined the patient and reviewed the above data.  
+**L. Chen, MD**
+
+---
+
+**[End of note]**

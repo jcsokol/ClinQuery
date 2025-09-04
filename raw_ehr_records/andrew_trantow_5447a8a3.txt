@@ -1,0 +1,230 @@
+---
+**Patient:** Andrew Trantow  
+**MRN:** 9281742  
+**DOB:** 12/07/1981 (Age: 42)  
+**Sex:** Male  
+**Date of Admission:** 04/06/2024  
+**Attending:** Dr. S. McCarthy  
+**Location:** MICU, Room 18B  
+**Consults:** Cardiology, Neurology, Pain Service, Oral Surgery
+
+---
+
+# Admission H&P
+
+**Chief Complaint:**  
+Altered mental status, chest pain, and shortness of breath.
+
+**History of Present Illness:**  
+42-year-old male with a hx of chronic pain, chronic intractable migraines, prediabetes, anemia, and recent viral sinusitis, who presented to ED after family found him confused and lethargic at home. Family reports 2 days of worsening headache, intermittent chest discomfort, and increasing dyspnea on exertion. PMH includes anemia (on ferrous sulfate), chronic pain (unclear etiology, on intermittent opioids), and prior drug overdose (unclear substance, 3 years ago).  
+
+On arrival, BP 78/54, HR 112, RR 24, O2 sat 91% on RA. Exam notable for pallor, dry mucous membranes, irregular tachycardia, and diminished breath sounds at bases. Initial labs significant for anemia, mild AKI, and lactic acidosis. ECG showed new LBBB and troponin I 1.4 (ref <0.04). CXR: bibasilar atelectasis, mild pulmonary edema.  
+
+He rapidly deteriorated with worsening hypotension and hypoxia, requiring intubation and vasopressor support. Bedside echo: severely reduced LVEF (~15%), moderate MR, small pericardial effusion. Cardiology placed a left-sided temporary ventricular assist device (Impella CP) emergently for cardiogenic shock.  
+
+**Past Medical History:**  
+- Chronic intractable migraine without aura  
+- Chronic pain, multifactorial  
+- Anemia (on iron)  
+- Prediabetes  
+- Viral sinusitis (recurrent)  
+- Drug overdose (3 years ago, no sequelae)  
+- Impacted molars (noted by dental, not yet addressed)
+
+**Past Surgical History:**  
+- None
+
+**Allergies:**  
+- NKDA
+
+**Medications on Admission:**  
+- Ferrous sulfate 325 mg PO daily  
+- PRN oxycodone (home, held on admit)  
+- Occasional sumatriptan (home, held on admit)
+
+**Social History:**  
+- Lives with wife, 2 children  
+- Former smoker, quit 2018  
+- Social alcohol  
+- No illicit drug use reported (prior overdose, accidental per wife)
+
+**Family History:**  
+- Mother: HTN, T2DM  
+- Father: MI at age 56
+
+---
+
+# Problem-Based Assessment & Plan
+
+## 1. Cardiogenic Shock (Acute Systolic Heart Failure, New Onset)
+- **Etiology:** Likely acute myocarditis vs. ischemic insult (troponin elevation, new LBBB, reduced EF)
+- **Course:** Rapid decompensation with multiorgan hypoperfusion; required intubation, vasopressors, and placement of temporary LVAD (Impella CP) on HD1.
+- **Plan:**  
+    - Continue Impella support, daily repositioning checks  
+    - Titrate vasopressors (norepinephrine, weaning as tolerated)  
+    - Serial bedside echoes  
+    - Daily cardiac enzymes, monitor for recovery  
+    - Cardiology following  
+    - Wean support as EF recovers
+
+## 2. Acute Hypoxic Respiratory Failure, Intubated
+- **Etiology:** Pulmonary edema 2/2 heart failure, possible component of aspiration
+- **Course:** Intubated on HD1, currently ventilated on AC/VC, FiO2 45%, PEEP 8
+- **Plan:**  
+    - Daily CXR  
+    - Spontaneous breathing trial when hemodynamically stable  
+    - Pulmonary toilet  
+    - Monitor for VAP
+
+## 3. Anemia, Chronic (Hx) with Acute on Chronic Drop
+- **Labs:** Hgb 7.9 on admission, baseline ~10-11  
+- **Plan:**  
+    - Transfuse PRBCs to maintain Hgb >8  
+    - Continue iron supplementation via NGT  
+    - Monitor for GI losses (stool guaiac qd)  
+    - Repeat CBC qAM
+
+## 4. Acute Kidney Injury on CKD (Stage 2)
+- **Etiology:** Likely multifactorial (hypoperfusion, possible NSAID use, contrast exposure)
+- **Plan:**  
+    - Monitor I/Os closely  
+    - Hold nephrotoxins  
+    - Renal panel q12h  
+    - Nephrology consult if no improvement
+
+## 5. Chronic Intractable Migraine
+- **Plan:**  
+    - Hold triptans/ergots while on vasopressors  
+    - Consult neurology for inpatient management  
+    - Use acetaminophen PRN via NGT
+
+## 6. Chronic Pain
+- **Plan:**  
+    - Avoid opioids if possible, consider neuropathic adjuncts  
+    - Pain service consult  
+    - Nonpharmacologic interventions as tolerated
+
+## 7. Recurrent Viral Sinusitis
+- **Plan:**  
+    - Supportive care  
+    - Monitor for secondary bacterial infection  
+    - ENT consult if purulent drainage or fever
+
+## 8. Drug Overdose, Remote
+- **Plan:**  
+    - No acute management needed  
+    - Psychiatry consult for assessment
+
+## 9. Prediabetes
+- **Plan:**  
+    - Monitor glucoses q6h  
+    - Sliding scale insulin as needed  
+    - A1c on file: 6.2%
+
+## 10. Oral Health: Impacted Molars
+- **Plan:**  
+    - Oral surgery consult deferred until stable  
+    - Chlorhexidine oral rinse
+
+---
+
+# ICU Course Summary (Hospital Days 1-7)
+
+**HD1:**  
+- Presented with cardiogenic shock, intubated, Impella CP placed, started on vasopressors  
+- Initial labs: Hgb 7.9, WBC 10.1, Creat 1.7, Lactate 5.1  
+- Required 2 units PRBCs
+
+**HD2:**  
+- Slight improvement in MAP, Impella flows stable  
+- Developed mild transaminitis (AST 88, ALT 73), likely shock liver  
+- Troponin T peaked at 2.3, BNP 1340
+
+**HD3:**  
+- Vasopressors weaned off  
+- Lactate normalized  
+- Hgb stable at 9.2  
+- Renal function improving (Creat 1.3)
+
+**HD4-5:**  
+- Echo: LVEF improving to 35%  
+- Impella weaned, explanted on HD5  
+- Extubated on HD5, transitioned to HFNC
+
+**HD6-7:**  
+- Mobilizing with PT  
+- No further transfusion needed  
+- Renal and liver function normalized  
+- Pain controlled with acetaminophen and gabapentin
+
+---
+
+# LABS (Selected, HD1-7)
+
+| Date        | WBC (10^3/uL) | Hgb (g/dL) | Hct (%) | Plt (10^3/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | AST (U/L) | ALT (U/L) | Troponin (ng/mL) | BNP (pg/mL) |
+|-------------|---------------|------------|---------|---------------|-------------|------------|-------------|--------------|-------------|------------|-------------|-----------|-----------|------------------|-------------|
+| 4/6/2024    | 10.1          | 7.9        | 24      | 276           | 134         | 5.1        | 102         | 16           | 36          | 1.7        | 122         | 35        | 29        | 1.4              | 890         |
+| 4/7/2024    | 12.8          | 8.8        | 27      | 195           | 137         | 4.8        | 105         | 19           | 28          | 1.6        | 110         | 88        | 73        | 2.3              | 1340        |
+| 4/8/2024    | 9.3           | 9.2        | 30      | 218           | 139         | 4.6        | 107         | 21           | 22          | 1.3        | 104         | 54        | 38        | 1.2              | 990         |
+| 4/9/2024    | 8.2           | 9.4        | 32      | 245           | 140         | 4.2        | 108         | 23           | 18          | 1.2        | 96          | 39        | 30        | 0.7              | 690         |
+| 4/10/2024   | 6.7           | 10.1       | 34      | 263           | 141         | 4.1        | 106         | 24           | 16          | 1.0        | 92          | 35        | 25        | 0.3              | 410         |
+| 4/11/2024   | 7.4           | 10.2       | 35      | 270           | 143         | 4.3        | 108         | 26           | 14          | 0.9        | 87          |           |           | <0.04             |             |
+| 4/12/2024   | 7.9           |            |         | 278           | 144         | 4.0        |             | 27           | 13          | 0.8        | 85          |           |           |                  |             |
+
+*Some labs not drawn on all days due to clinical improvement and lab phlebotomy hold.*
+
+---
+
+# VITALS SUMMARY (select)
+
+- Height: 169.7 cm | Weight: 81.1 kg | BMI: 28.2
+- MAP: Range 53-88 mmHg (lowest HD1)
+- HR: 92-118 bpm
+- Temp: 36.8-38.1°C
+- SpO2: 91% (RA, HD1) → 99% (FiO2 30%, HD7)
+- Pain: 0 (intubated) to 5/10 (HD6, controlled)
+
+---
+
+# Discharge Planning
+
+- **Expected disposition:** Step-down unit, anticipate transfer HD8-9
+- **Follow-up:** Cardiology, Neurology, Oral Surgery, Pain Clinic, PCP
+- **Medications:** Resume iron, start low-dose beta-blocker, continue acetaminophen, avoid NSAIDs
+- **Patient/family education:** Heart failure, Impella device, medication adjustments, warning signs
+
+---
+
+# Consult Notes (Abbreviated)
+
+**Cardiology:**  
+"Acute new-onset severe LV dysfunction, unclear etiology. Impella CP placed for hemodynamic support. Recommend serial echo, wean as tolerated. Consider outpatient cardiac MRI post-recovery."
+
+**Neurology:**  
+"Chronic migraine hx, no acute neuro deficits post-extubation. No evidence of CNS infection or stroke. Recommend headache diary, avoid vasoactive agents."
+
+**Pain Service:**  
+"Chronic pain hx, multifactorial. Recommend gabapentin, acetaminophen, avoid opioids if possible. Follow-up outpatient."
+
+**Oral Surgery:**  
+"Impacted molars, not acute. Will re-evaluate post-ICU."
+
+---
+
+# Orders
+
+- NPO (until extubation, now clears)
+- Telemetry
+- DVT prophylaxis (SCDs, LMWH started HD4)
+- Daily labs: CBC, chem7, LFTs, troponin
+- Strict I/O
+- PT/OT eval
+- Consults as above
+
+---
+
+# Physician Signature  
+S. McCarthy, MD, Attending, MICU  
+04/12/2024, 11:37 AM
+
+---

@@ -1,0 +1,221 @@
+---
+**Patient:** Tamara Zieme  
+**MRN:** 0092834  
+**DOB:** 02/21/1916 (108 y/o)  
+**Sex:** Female  
+**Admit Date:** 2024-05-10  
+**Attending:** Dr. M. Greer  
+**Service:** Cardiac ICU  
+**Encounter:** ICU Admission  
+
+---
+
+# ICU PROGRESS NOTE
+
+## Chief Complaint
+Altered mental status, dyspnea, and chest pain.
+
+## HPI
+Ms. Tamara Zieme, 108-year-old female with history notable for diabetes (T2DM), atrial fibrillation, prior CVA, Alzheimer's, osteoporosis, metabolic syndrome, anemia, and recent pneumonia, presented to the ED from her skilled nursing facility with progressive shortness of breath, confusion, and lethargy. She was found to be hypoxic and hypotensive on arrival. Initial evaluation revealed rapid atrial fibrillation, hyperglycemia, and evidence of acute decompensated heart failure. She developed worsening cardiogenic shock refractory to vasopressors, requiring mechanical circulatory support with a temporary left ventricular assist device (Impella CP) placed emergently on hospital day 1.
+
+---
+
+## Problem List
+1. **Acute Decompensated HF/cardiogenic shock**  
+2. **Atrial Fibrillation with RVR**  
+3. **Type 2 Diabetes Mellitus (with neuropathy, hyperglycemia, metabolic syndrome)**  
+4. **History of CVA (stroke), on anticoagulation (warfarin, clopidogrel)**  
+5. **Alzheimer's dementia**  
+6. **Anemia**  
+7. **Pneumonia (recent, likely aspiration)**  
+8. **Chronic sinusitis, viral pharyngitis**  
+9. **Osteoporosis**  
+10. **Hypertriglyceridemia**  
+11. **Electrolyte Derangements**  
+12. **AKI (transient, likely cardiorenal)**  
+13. **Pain**  
+14. **Delirium**  
+15. **Other: Hx miscarriage, prediabetes**
+
+---
+
+## Hospital Course Summary
+
+- **Day 0 (ED/Admission):**  
+  - Found obtunded, BP 82/54, HR 146 (irregularly irregular), RR 30, O2 sat 86% RA, T 37.9C.
+  - Labs: hyperglycemia (glucose 312), lactic acidosis, acute anemia (Hgb 9.3 g/dL), Cr 1.5 (baseline 0.7), BNP 1890, Troponin T 0.23 (mild rise), CXR: pulmonary edema.
+  - Started on BiPAP, D5 ½ NS, insulin drip.  
+  - Amiodarone load for Afib RVR, IV furosemide, empiric ceftriaxone/azithro for pneumonia.
+  - Progressive hypotension despite norepinephrine and dobutamine.
+  - Emergent Impella CP inserted via femoral approach for cardiogenic shock.
+
+- **Day 1-2:**  
+  - Stabilized on Impella support, weaned off vasopressors.
+  - Developed mild AKI; urine output improved with diuresis.
+  - Persistent delirium, minimal improvement in mental status.
+  - Repeat echo: severely reduced LVEF (20%), no LV thrombus.
+  - Started on low-dose metoprolol, continued anticoagulation.
+
+- **Day 3-4:**  
+  - Mental status improved slightly; off BiPAP, on 2L NC.
+  - Impella weaned, decannulated on day 4 after hemodynamic stability.
+  - Transiently bradycardic post-device removal, recovered with observation.
+  - Blood cultures negative; pneumonia resolving.
+  - Persistent anemia, received 1 unit PRBC.
+  - Physical therapy consulted.
+
+- **Day 5-7:**  
+  - Transitioned to oral heart failure regimen.
+  - Glycemic control optimized, transitioned to sliding scale insulin.
+  - Pain controlled with low-dose acetaminophen.
+  - Discharge planning initiated for SNF.
+
+---
+
+## Labs
+
+### Labs Table (CBC, Chem7, Cardiac Markers, Selected Others)
+
+| Date        | WBC   | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Gluc | Troponin T | BNP   | ALT  | AST  | Alb  |
+|-------------|-------|------|------|-------|------|------|------|------|------|------|------|-------------|-------|------|------|------|
+| 5/10/2024   | 7.2   | 9.3  | 29.1 | 304   | 135  | 4.6  | 108  | 23   | 32   | 1.5  | 312  | 0.23        | 1890  | 34   | 41   | 3.2  |
+| 5/11/2024   | 8.1   | 9.8  | 31.6 | 283   | 137  | 4.2  | 110  | 25   | 28   | 1.2  | 159  | 0.11        | 1420  | 29   | 38   |      |
+| 5/12/2024   | 7.9   | 10.2 | 33.2 | 265   | 138  | 4.0  | 112  | 27   | 21   | 0.9  | 112  | <0.01       | 980   | 28   | 32   | 3.6  |
+| 5/13/2024   | 6.6   | 10.1 | 32.9 | 273   | 137  | 3.8  | 109  | 28   | 17   | 0.8  | 104  |             | 690   |      | 29   | 3.8  |
+| 5/14/2024   | 6.0   | 10.5 | 33.7 | 278   | 136  | 4.1  | 110  | 29   | 14   | 0.7  | 98   |             |       | 25   |      |      |
+
+*Note: Some labs not obtained daily. BNP and Troponin T trended for shock evaluation. LFTs, albumin monitored for hepatic congestion.*
+
+---
+
+## Assessment and Plan
+
+### 1. **Acute Decompensated Heart Failure/Cardiogenic Shock**
+- **Assessment:** Likely precipitated by rapid Afib, underlying severe systolic dysfunction. Required temporary LV support (Impella CP, days 1-4). Now hemodynamically stable off pressors and device.
+- **Plan:**  
+  - Continue GDMT for HF (beta blocker, ACEi started if tolerated).  
+  - Strict I/Os, daily weights.  
+  - Monitor for recurrent decompensation.  
+  - Cardiology f/u.
+
+### 2. **Atrial Fibrillation (RVR)**
+- **Assessment:** Refractory to initial rate control, contributed to shock. Now rate-controlled.
+- **Plan:**  
+  - Continue metoprolol, digoxin.  
+  - Maintain anticoagulation (warfarin, clopidogrel).  
+  - Monitor for bradycardia post-device.
+
+### 3. **T2DM/Hyperglycemia/Neuropathy**
+- **Assessment:** Poorly controlled on admission. Improved with insulin drip, now on sliding scale.
+- **Plan:**  
+  - Monitor FS glucose QID.  
+  - Resume metformin if renal function stable.  
+  - Neuropathy: continue gabapentin, foot care.
+
+### 4. **Anemia**
+- **Assessment:** Multifactorial (chronic disease, acute dilutional, possible GI losses).  
+- **Plan:**  
+  - Monitor CBC daily.  
+  - Iron studies pending.  
+  - Transfuse PRN for Hgb <8 or symptoms.
+
+### 5. **Stroke Hx / Anticoagulation**
+- **Assessment:** High risk for thromboembolism.  
+- **Plan:**  
+  - Continue warfarin, clopidogrel.  
+  - Monitor INR daily.  
+  - Fall precautions.
+
+### 6. **Alzheimer's Dementia / Delirium**
+- **Assessment:** Baseline dementia, worsened by acute illness.
+- **Plan:**  
+  - Reorient frequently, minimize tethers.  
+  - Avoid anticholinergics.  
+  - Continue galantamine, memantine.
+
+### 7. **Pneumonia (Aspiration)**
+- **Assessment:** Treated empirically, improving.  
+- **Plan:**  
+  - Continue ceftriaxone to complete course.  
+  - Encourage pulmonary hygiene.
+
+### 8. **Chronic Sinusitis / Pharyngitis**
+- **Assessment:** No acute intervention needed.
+- **Plan:**  
+  - Symptomatic management.
+
+### 9. **Osteoporosis**
+- **Assessment:** At risk for falls/fracture.
+- **Plan:**  
+  - Continue alendronate.  
+  - PT/OT consult for mobility.
+
+### 10. **Hypertriglyceridemia / Metabolic Syndrome**
+- **Assessment:** At goal on current regimen.
+- **Plan:**  
+  - Continue statin if previously prescribed.
+
+### 11. **Electrolyte Derangements**
+- **Assessment:** Mild K+ fluctuation, normalized with diuresis and repletion.
+- **Plan:**  
+  - Monitor chem7 qAM.
+
+### 12. **AKI (transient cardiorenal)**
+- **Assessment:** Improved with volume optimization.
+- **Plan:**  
+  - Monitor renal function.  
+  - Adjust meds for renal dosing.
+
+### 13. **Pain**
+- **Assessment:** Mild, likely musculoskeletal.
+- **Plan:**  
+  - Acetaminophen PRN, avoid NSAIDs.
+
+### 14. **Discharge Planning**
+- **Assessment:** Needs SNF for ongoing rehab, dementia care.
+- **Plan:**  
+  - SW/CM to arrange placement.
+
+---
+
+## VITALS (Selected)
+
+| Date        | Temp (C) | HR   | BP       | RR | SpO2 | Weight (kg) | Pain |
+|-------------|----------|------|----------|----|------|-------------|------|
+| 5/10/2024   | 37.9     | 146  | 82/54    | 30 | 86%  | 78.7        | 3    |
+| 5/11/2024   | 37.5     | 98   | 104/62   | 22 | 94%  | 78.0        | 2    |
+| 5/12/2024   | 37.2     | 88   | 112/68   | 18 | 96%  | 77.2        | 1    |
+
+---
+
+## Active Medications (Inpatient)
+
+- Metformin ER 500 mg PO qAM
+- Alendronate 10 mg PO daily
+- Warfarin 5 mg PO daily
+- Clopidogrel 75 mg PO daily
+- Verapamil 40 mg PO BID (held during ICU)
+- Digoxin 0.125 mg PO daily
+- Amiodarone IV (ICU, now DC’d)
+- Metoprolol tartrate 12.5 mg PO BID
+- Insulin sliding scale
+- Ceftriaxone IV 1 g q24h (x5 days)
+- Acetaminophen 325 mg PO q6h PRN
+- Galantamine 4 mg PO BID
+- Memantine oral solution 2 mg/mL, 5 mL BID
+
+---
+
+## Discharge Criteria
+
+- Hemodynamic stability off Impella/device
+- Stable respiratory status on room air/2L NC
+- Adequate oral intake
+- Safe for transfer to SNF
+
+---
+
+**Physician:** M. Greer, MD  
+**Date/Time:** 2024-05-14 14:05
+
+---

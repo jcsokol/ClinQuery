@@ -1,0 +1,208 @@
+Cristobal Muñiz  
+MRN: 00328459  
+DOB: 04/01/1957 (Age: 67)  
+Sex: Male  
+Admit Date: 04/15/2024  
+Service: Cardiac ICU  
+Attending: Dr. Anna Suarez  
+Consults: Cardiology, Nephrology, Pain Management, Psychiatry
+
+---
+
+# ICU Progress Note
+
+**Subjective:**  
+Cristobal Muñiz is a 67-year-old male with a complex past medical history including prediabetes, chronic anemia, chronic intractable migraine, chronic pain, history of drug overdose, viral sinusitis, and history of colon polyp, who presented to the ED with worsening fatigue, exertional dyspnea, and near-syncope. He was admitted with concern for acute decompensated heart failure and progressive cardiogenic shock. His course was complicated by hypotension unresponsive to vasopressors, requiring insertion of a temporary left-sided heart pump (Impella CP) for hemodynamic support.
+
+**Overnight Events:**  
+- Remained on Impella support, MAP 68-72 mmHg  
+- Intermittent tachycardia, improved with electrolyte correction  
+- Mild agitation, managed with low-dose haloperidol  
+- Ongoing anemia, transfused 1 unit PRBCs  
+- No new fevers
+
+**Current Symptoms:**  
+- Mild chest discomfort (improved from yesterday)  
+- Headache (baseline, 3/10)  
+- No new abdominal pain, nausea, or vomiting
+
+---
+
+**Objective:**
+
+**Vital Signs (last 24h):**  
+| Time       | Temp (°C) | HR (bpm) | BP (mmHg) | RR (/min) | SpO2 (%) | MAP (mmHg) | Pain (0-10) |
+|------------|-----------|----------|-----------|-----------|----------|------------|-------------|
+| 04:00      | 36.7      | 92       | 98/62     | 18        | 97       | 71         | 3           |
+| 10:00      | 37.1      | 88       | 104/65    | 17        | 97       | 74         | 2           |
+| 16:00      | 36.9      | 90       | 100/60    | 17        | 98       | 72         | 2           |
+| 22:00      | 36.8      | 94       | 95/58     | 18        | 97       | 69         | 2           |
+
+**Physical Exam:**  
+- **Gen:** Alert, NAD  
+- **CV:** S1S2, regular, soft S3, Impella hum audible, no JVD  
+- **Lungs:** Bibasilar crackles, mild  
+- **GI:** Soft, nontender, normoactive BS  
+- **Neuro:** AOx3, no focal deficits, baseline mild tremor  
+- **Skin:** No rash, no petechiae
+
+---
+
+**Labs:**
+
+**CBC + CHEM7 (Selected, ICU Days 1-4):**
+
+| Date       | WBC   | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|-------|-------|-------|-------|------|------|------|------|------|------|------|
+| 4/15/24 AM | 9.4   | 8.9   | 27.2  | 338   | 139  | 4.6  | 107  | 24   | 31   | 1.38 | 87   |
+| 4/16/24 AM | 10.1  | 9.3   | 28.5  | 322   | 138  | 4.4  | 106  | 23   | 28   | 1.42 | 92   |
+| 4/17/24 AM | 9.8   | 10.4  | 31.1  | 350   | 140  | 4.1  | 108  | 25   | 25   | 1.19 | 81   |
+| 4/18/24 AM |       | 10.2  | 30.7  | 341   | 141  |      | 109  | 23   | 26   | 1.27 |      |
+
+**Other Labs:**
+
+- **Troponin I:** 0.08 → 0.04 → 0.03 ng/mL
+- **BNP:** 1780 → 1620 pg/mL  
+- **Liver Panel (4/15):** AST 41, ALT 39, Alk Phos 79, TBili 0.9  
+- **Lactate:** 2.6 (peak), now 1.5 mmol/L  
+- **INR:** 1.2  
+- **aPTT:** 32.8 sec  
+- **Type/Screen:** O+, antibody negative
+
+**Imaging:**
+- **Echo (4/15):** LVEF 13%, global hypokinesis, mild MR, RV mildly reduced, Impella in good position
+- **CXR (4/16):** Mild pulmonary edema, Impella catheter tip at LV
+
+---
+
+# Problem-Based Assessment & Plan
+
+## 1. Cardiogenic Shock, s/p Impella CP Placement  
+- **Assessment:** Acute decompensated heart failure with low output state, requiring temporary mechanical circulatory support.  
+- **Plan:**  
+  - Continue Impella at P3 setting, daily weaning trial  
+  - Daily echo for LV/RV function  
+  - Monitor for hemolysis (LDH, plasma-free Hgb, haptoglobin)  
+  - Titrate vasopressors as tolerated  
+  - Maintain MAP >65 mmHg  
+  - Strict I/O, daily weight  
+  - Cardiology to follow
+
+## 2. Heart Failure with Reduced Ejection Fraction (HFrEF)  
+- **Assessment:** LVEF 13%, likely ischemic vs. nonischemic cardiomyopathy  
+- **Plan:**  
+  - Start guideline-directed medical therapy as tolerated (low-dose carvedilol, sacubitril/valsartan)  
+  - Diuresis with IV furosemide  
+  - Salt/fluid restriction  
+  - Consider advanced therapies if no recovery (LVAD, transplant eval)
+
+## 3. Chronic Anemia  
+- **Assessment:** Baseline anemia, worsened by hemodilution and phlebotomy losses  
+- **Plan:**  
+  - Transfuse to maintain Hgb >8  
+  - Monitor iron, B12, folate  
+  - GI consult for workup if ongoing losses
+
+## 4. Acute Kidney Injury on CKD  
+- **Assessment:** Creatinine up from baseline (1.0 to 1.4), likely pre-renal from low output state  
+- **Plan:**  
+  - Optimize perfusion  
+  - Avoid nephrotoxic agents  
+  - Monitor UOP, daily labs  
+  - Nephrology following
+
+## 5. Chronic Pain & Migraine  
+- **Assessment:** Baseline chronic pain, migraines without aura  
+- **Plan:**  
+  - Continue home Vitamin B12  
+  - Scheduled acetaminophen  
+  - Avoid NSAIDs  
+  - Neurology consult for migraine optimization  
+  - Non-pharmacologic: PT/OT, relaxation
+
+## 6. Drug Overdose, Remote  
+- **Assessment:** No acute intoxication, but high risk for delirium and withdrawal  
+- **Plan:**  
+  - Monitor for withdrawal symptoms  
+  - Psychiatric eval  
+  - Social work for disposition
+
+## 7. Prediabetes  
+- **Assessment:** HbA1c 6.3%, mild fasting hyperglycemia  
+- **Plan:**  
+  - Monitor glucose q6h on insulin sliding scale  
+  - Diabetic diet  
+  - Endocrine to follow
+
+## 8. Colon Polyp, h/o GI Bleed  
+- **Assessment:** Remote polyp, positive stool Hgb  
+- **Plan:**  
+  - No active GI bleeding  
+  - Hold anticoagulation unless needed for Impella  
+  - GI to re-evaluate prior to discharge
+
+## 9. Viral Sinusitis  
+- **Assessment:** Congestion, no fever, mild leukocytosis  
+- **Plan:**  
+  - Supportive care: nasal saline, acetaminophen  
+  - Monitor for secondary bacterial infection
+
+## 10. Dental - Impacted Molars  
+- **Assessment:** No acute issues  
+- **Plan:**  
+  - Dental follow-up outpatient
+
+---
+
+**Consults:**  
+- Cardiology: Ongoing  
+- Nephrology: AKI  
+- Neurology: Migraine  
+- Psychiatry: SUD, delirium risk  
+- GI: Anemia, polyp  
+- Pain: Chronic pain
+
+**Medications (Current):**  
+- Vitamin B12 5mg/ml IM qweek  
+- Carvedilol 3.125mg BID  
+- Sacubitril/valsartan 24/26mg BID  
+- Furosemide IV 20mg BID  
+- Acetaminophen 650mg q6h PRN  
+- Sliding scale insulin  
+- PRBCs as needed
+
+**To Do:**  
+- Reassess weaning off Impella  
+- Daily CBC, Chem7, lactate  
+- Repeat echo  
+- Continue multidisciplinary rounds
+
+---
+
+**Attending:** Anna Suarez, MD  
+**Date/Time:** 04/18/2024 08:50  
+**Co-signed:** ICU Resident
+
+---
+
+**Significant Events Timeline:**
+
+| Date/Time      | Event                               |
+|----------------|-------------------------------------|
+| 4/15/24 04:00  | Cardiac arrest, ROSC after 4 min    |
+| 4/15/24 06:30  | Impella CP placed, transferred ICU  |
+| 4/15/24 10:00  | Started vasopressors                |
+| 4/16/24 11:00  | Transfused 1U PRBCs                 |
+| 4/17/24 14:00  | Echo: improved LV function (LVEF 17%)|
+| 4/18/24 06:00  | Stable, Impella wean initiated      |
+
+---
+
+**Discharge Planning:**  
+- Will require cardiac rehab  
+- Possible SNF vs. home with services  
+- Family meeting scheduled
+
+---
+
+# (End of ICU Progress Note)

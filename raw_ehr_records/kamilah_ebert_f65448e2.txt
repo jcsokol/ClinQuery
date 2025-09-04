@@ -1,0 +1,120 @@
+```
+Patient Name: Kamilah Ebert                 MRN: 001293847
+DOB: 08/21/1926 (97 years)                  Sex: Female
+Date of Admission: 04/11/2024               Attending: Dr. S. Kwan
+Service: Medical ICU                        Location: 5C-ICU, Room 10
+
+───────────────────────────────────────────────────────────────────────────────
+**ADMISSION SUMMARY**
+
+97-year-old female with history of obesity, osteoporosis (with prior pathologic rib fracture), osteoarthritis, and recent acute bacterial sinusitis, presenting with acute-on-chronic decompensated heart failure (HFpEF) complicated by cardiogenic shock requiring temporary left-sided heart pump placement (Impella CP) on hospital day 2. Also with recurrent falls, chronic pain, and mild cognitive impairment.
+
+**Chief Complaint:**  
+Progressive dyspnea, orthopnea, and lower extremity edema over 1 week, found hypoxic and hypotensive at home.
+
+**HPI:**  
+Ms. Ebert was brought in by her daughter after being found confused and increasingly short of breath. She reported 1 week of worsening dyspnea, orthopnea, and bilateral LE swelling. Home meds included naproxen, acetaminophen, alendronate, and recent course of amox/clav for sinusitis. On arrival: BP 82/54, HR 116, O2 sat 88% RA, RR 24. Exam: JVD, bibasilar rales, pitting edema, cold extremities. Labs notable for elevated troponin, BNP, and worsening renal function. Echo: LVEF 35%, moderate MR, RV mildly reduced. Emergent Impella placed for persistent cardiogenic shock after dobutamine and norepi failed to restore perfusion.
+
+───────────────────────────────────────────────────────────────────────────────
+**HOSPITAL COURSE (Day 1–7):**
+
+- **Day 1:** ICU admit for acute decompensated heart failure and shock. Intubated for hypoxic resp failure. Started on dobutamine and norepi drips. Foley placed, strict I/O.
+- **Day 2:** Worsening lactic acidosis, rising troponin. Echo: LVEF 35%, global hypokinesis. Cardiology: Impella CP placed via femoral approach. Hemodynamics improved.
+- **Day 3–4:** Gradual diuresis, improving lactate. Extubated day 4. Remained on Impella support with slow uptitration of diuretics. Some delirium noted.
+- **Day 5:** Impella weaning trial successful. Device removed. Vasopressors off. Stable hemodynamics. Renal function improving.
+- **Day 6–7:** Mobilizing with PT. Transitioned to oral meds. Planning transfer to step-down.
+
+───────────────────────────────────────────────────────────────────────────────
+**LABS (Selected):**
+
+| Date       | WBC     | Hgb    | Hct   | Plt    | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | BNP   | AST  | ALT  | Alk Phos |
+|------------|---------|--------|-------|--------|------|------|------|------|------|------|------|----------|-------|------|------|----------|
+| 4/11/2024  | 5.6     | 15.4   | 37.2  | 416    | 136  | 4.8  | 101  | 20   | 38   | 2.1  | 116  | 0.46     | 2850  | 32   | 28   | 110      |
+| 4/12/2024  | 9.2     | 13.1   | 31.9  | 352    | 132  | 5.6  | 98   | 16   | 54   | 3.0  | 148  | 1.12     | 4100  | 54   | 35   | 132      |
+| 4/13/2024  | 10.4    | 12.4   | 29.2  | 293    | 134  | 5.2  | 100  | 18   | 48   | 2.6  | 134  | 0.91     | 3200  | 46   | 31   | 120      |
+| 4/14/2024  | 7.8     | 12.8   | 30.1  | 276    | 137  | 4.6  | 104  | 22   | 35   | 1.8  | 126  | 0.56     | 2100  | —    | —    | —        |
+| 4/15/2024  | 8.1     | 13.5   | 32.5  | 290    | 140  | 4.2  | 105  | 24   | 28   | 1.3  | 112  | 0.18     | 980   | 38   | 24   | —        |
+| 4/16/2024  | 7.3     | 13.8   | 33.0  | 301    | 139  | 4.0  | 103  | 23   | 26   | 1.1  | 98   | <0.01    | 650   | —    | —    | —        |
+
+───────────────────────────────────────────────────────────────────────────────
+**VITALS (Selected):**
+
+| Date       | Temp  | HR  | BP         | RR  | O2Sat | Pain |
+|------------|-------|-----|------------|-----|-------|------|
+| 4/11/2024  | 36.7  | 116 | 82/54      | 24  | 88%   | 4    |
+| 4/12/2024  | 37.1  | 112 | 88/60      | 22  | 92%   | 5    |
+| 4/13/2024  | 36.6  | 104 | 96/68      | 18  | 96%   | 3    |
+| 4/14/2024  | 36.3  | 90  | 110/72     | 16  | 97%   | 2    |
+| 4/15/2024  | 36.5  | 82  | 118/76     | 14  | 98%   | 2    |
+| 4/16/2024  | 36.2  | 76  | 122/72     | 14  | 98%   | 2    |
+
+───────────────────────────────────────────────────────────────────────────────
+**PROBLEM-BASED ASSESSMENT & PLAN**
+
+1. **Acute Decompensated Heart Failure with Cardiogenic Shock (new, on CKD)**
+   - Presentation: Hypotension, hypoxia, lactic acidosis, evidence of end-organ hypoperfusion.
+   - Etiology: Likely acute ischemic insult on background of HFpEF, NSAID use, recent infection.
+   - Management:
+     - ICU admission, intubation for hypoxic respiratory failure.
+     - Inotropic support (dobutamine), vasopressors (norepinephrine).
+     - Emergent Impella CP placement HD2 for refractory shock.
+     - Serial TTEs, invasive monitoring.
+     - Slow diuresis as tolerated.
+     - Off Impella and pressors by HD5, transitioned to oral HF regimen (metoprolol, furosemide, spironolactone).
+     - Cardiology to follow. Outpatient CHF follow-up required.
+
+2. **Acute Kidney Injury on CKD**
+   - Worsening creatinine, BUN with initial oliguric state, improved post-Impella.
+   - Avoid nephrotoxins, close volume management, monitor electrolytes.
+   - No dialysis required. Renal function trending to baseline.
+
+3. **Delirium**
+   - Acute onset, multifactorial (shock, infection, ICU environment, age).
+   - Nonpharmacologic interventions, reorientation, minimize sedation.
+   - Improving as patient stabilizes.
+
+4. **Chronic Osteoporosis, Pathologic Rib Fracture, Osteoarthritis**
+   - Home alendronate held during AKI, plan to restart prior to discharge.
+   - PT/OT consult for safe mobilization.
+   - Pain managed with acetaminophen. NSAIDs discontinued.
+   - DEXA scan prior to admission: T-score -3.1.
+
+5. **Obesity (BMI 30.8)**
+   - Nutrition consult; calorie control, high-protein diet for frailty.
+   - Encourage mobility as tolerated.
+
+6. **Recent Acute Bacterial Sinusitis**
+   - Completed 10-day course of amox/clav at home.
+   - No current fever or leukocytosis; no evidence of ongoing infection.
+
+7. **History of Miscarriage, Sprain of Ankle**
+   - Not clinically relevant to current admission, no active issues.
+
+───────────────────────────────────────────────────────────────────────────────
+**MEDICATIONS (ACTIVE):**
+
+- Metoprolol succinate 25 mg daily
+- Furosemide 40 mg BID
+- Spironolactone 12.5 mg daily
+- Acetaminophen 325 mg q6h prn pain
+- Alendronate 10 mg (hold until renal function recovered)
+- Senna-docusate 1 tab qHS prn
+- Heparin SQ 5000u q8h (DVT ppx)
+- No NSAIDs
+
+───────────────────────────────────────────────────────────────────────────────
+**DISPOSITION / FOLLOW-UP:**
+
+- Plan for transfer to step-down unit tomorrow.
+- Outpatient cardiology, nephrology, and endocrinology follow-up.
+- Home PT/OT to be arranged.
+- Family meeting scheduled for care plan/goals of care.
+- Code status: Full.
+
+───────────────────────────────────────────────────────────────────────────────
+**PROVIDER:**  
+Steven Kwan, MD (ICU)  
+Date/Time: 4/16/2024 17:40
+
+───────────────────────────────────────────────────────────────────────────────
+```

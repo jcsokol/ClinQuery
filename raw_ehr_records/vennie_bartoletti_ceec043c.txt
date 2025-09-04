@@ -1,0 +1,117 @@
+```
+Patient Name: Vennie Bartoletti           MRN: 00392155
+DOB: 11/19/1940 (83 yo)                   Sex: Female
+Admit Date: 03/18/2024                    Attending: Dr. Y. Bowers
+Admitting Dx: Acute Decompensated Heart Failure, Cardiogenic Shock
+
+-----------------------------------------------------
+HOSPITAL COURSE SUMMARY
+-----------------------------------------------------
+Ms. Bartoletti is an 83-year-old female with a PMH notable for hyperlipidemia, osteoporosis, chronic/viral sinusitis, recurrent bronchitis, and remote OB/GYN history (miscarriage, tubal pregnancy), who presented to the ED with progressive dyspnea, orthopnea, and lower extremity edema. On arrival, she was found to be hypotensive, tachycardic, hypoxic, and in acute respiratory distress. She rapidly deteriorated into cardiogenic shock, requiring ICU transfer, vasopressors, and ultimately the placement of a temporary percutaneous LVAD (Impella CP) for hemodynamic support.
+
+ICU course was complicated by acute kidney injury, mild transaminitis, and delirium. She improved with diuresis, afterload reduction, and temporary mechanical circulatory support. The pump was weaned off on HD#4, and she was transitioned to oral heart failure therapy. She remains on telemetry, ambulating with PT, and is being evaluated for advanced HF therapies.
+
+-----------------------------------------------------
+PROBLEM-BASED ASSESSMENT & PLAN
+-----------------------------------------------------
+
+1. **Cardiogenic Shock / Acute Decompensated Heart Failure (HFrEF)**
+   - Presentation: Hypotension, pulmonary edema, elevated BNP, CXR with interstitial edema, echo: LVEF 18%, global hypokinesis, no LV thrombus.
+   - ICU Course: Required norepinephrine and dobutamine; Impella CP placed on HD#1 for refractory shock.
+   - Current: Off vasopressors, Impella explanted HD#4, now on PO meds, euvolemic.
+   - Plan: Continue GDMT (Entresto, carvedilol, spironolactone), daily weights, strict I/O, cardiac rehab, close tele monitoring.
+
+2. **Acute Kidney Injury (likely cardiorenal)**
+   - Admission Cr: 2.7 mg/dL (baseline 1.1), BUN 43, FENa <1%, improved with improved cardiac output and volume status.
+   - Plan: Monitor renal function, avoid nephrotoxins, maintain MAP>65, adjust diuretics as needed.
+
+3. **Hyperlipidemia**
+   - On simvastatin 10mg daily.
+   - Plan: Continue statin, recheck lipids outpatient.
+
+4. **Osteoporosis**
+   - Hx of T-score -3.5, on alendronate.
+   - Plan: Continue alendronate, DEXA in 1 year, fall precautions.
+
+5. **Recurrent Sinusitis & Bronchitis**
+   - No acute infectious symptoms on admission. No antibiotics started.
+   - Plan: Monitor for infection, support pulmonary toilet, encourage incentive spirometry.
+
+6. **Remote OB/GYN History (miscarriage, tubal pregnancy)**
+   - Not relevant to current hospitalization. No acute gynecologic issues.
+
+7. **Delirium (ICU)**
+   - Likely multifactorial: critical illness, advanced age, sleep disruption.
+   - Plan: Sleep hygiene, reorientation, minimize sedation, PT/OT.
+
+8. **Other**
+   - DVT prophylaxis with heparin SQ.
+   - Home meds reconciled; all statins consolidated to single simvastatin 10mg daily.
+   - Social work, case management following.
+
+-----------------------------------------------------
+ICU MEDICATIONS (selected)
+-----------------------------------------------------
+- Norepinephrine IV gtt (HD#1-2)
+- Dobutamine IV gtt (HD#1-3)
+- Furosemide IV, then PO
+- Aspirin 81 mg PO
+- Simvastatin 10 mg PO QHS
+- Alendronate 10 mg PO weekly
+- Spironolactone 25 mg PO daily
+- Carvedilol 3.125 mg PO BID (initiated HD#6)
+- Entresto 24/26 mg PO BID (initiated HD#7)
+- Heparin SQ 5000u q8h
+
+-----------------------------------------------------
+LABS (SELECTED)
+-----------------------------------------------------
+
+| Date        | WBC  | Hgb  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Ca   | AST  | ALT  | Alb  | BNP   | Trop  |
+|-------------|------|------|------|------|------|------|------|------|------|------|------|------|------|-------|-------|
+| 3/18/24 AM  | 4.4  | 14.2 | 320  | 142  | 4.8  | 103  | 27   | 43   | 2.7  | 9.3  | 19   | 59   | 4.4  | 3150  | 0.09  |
+| 3/18/24 PM  | 4.1  | 13.8 | 298  | 140  | 4.4  | 101  | 25   | 46   | 2.9  | 9.1  | 21   | 62   | -    | 3120  | 0.08  |
+| 3/19/24 AM  | 4.7  | 13.5 | 255  | 138  | 4.2  | 101  | 23   | 39   | 2.6  | 8.9  | 18   | 51   | 4.1  | 2970  | 0.04  |
+| 3/19/24 PM  | 5.2  | 12.8 | 222  | 139  | 4.6  | 102  | 25   | 34   | 2.3  | 8.8  | 16   | 49   | 4.2  | 2800  | 0.03  |
+| 3/20/24 AM  | 5.7  | 12.4 | 198  | 141  | 4.1  | 104  | 28   | 30   | 1.8  | 9.4  | 15   | 45   | 4.0  | 2100  | <0.01 |
+| 3/20/24 PM  | -    | 12.2 | 180  | -    | 4.3  | 105  | 30   | 28   | 1.5  | -    | 13   | 41   | -    | 1600  | <0.01 |
+| 3/21/24 AM  | 6.1  | 12.1 | 179  | 140  | 4.0  | 103  | 29   | 23   | 1.2  | 9.5  | 13   | 39   | 3.7  | 980   | <0.01 |
+| 3/22/24 AM  | 5.5  | 12.3 | 188  | 141  | 4.2  | 104  | 28   | 21   | 1.1  | 9.6  | 12   | 37   | 3.8  | 720   | <0.01 |
+| 3/23/24 AM  | 5.2  | 12.7 | 205  | 142  | 4.1  | 106  | 27   | 19   | 1.0  | 9.7  | 12   | 35   | 3.8  | 510   | <0.01 |
+
+*Key: WBC=white blood cells (K/µL), Hgb=hemoglobin (g/dL), Plt=platelets (K/µL), Na=sodium, K=potassium, Cl=chloride, CO2=bicarb, BUN=urea nitrogen, Cr=creatinine, Ca=calcium, AST=aspartate aminotransferase, ALT=alanine aminotransferase, Alb=albumin, BNP=brain natriuretic peptide, Trop=troponin I (ng/mL)
+
+-----------------------------------------------------
+VITALS SUMMARY (ICU)
+-----------------------------------------------------
+- HR: 105-130 bpm (sinus tach, occasional PACs)
+- BP: 75/45 (on arrival) → 92/54 (on pressors) → 112/68 (off support)
+- RR: 24-32 → 18
+- T: 38.7°C (on admission), afebrile after HD#2
+- SpO2: 89% RA → 97% 2L NC, weaned to RA by HD#5
+- Weight: 67.2kg (stable)
+- Pain: 2-4/10
+- Urine Output: Oliguric on HD#1, improving to >1cc/kg/hr by HD#3
+
+-----------------------------------------------------
+CARDIAC STUDIES
+-----------------------------------------------------
+- ECG: Sinus tachycardia, no acute ST/T changes
+- CXR: Pulmonary vascular congestion, mild pleural effusions
+- TTE: LVEF 18%, severe global hypokinesis, mild MR, RV normal
+
+-----------------------------------------------------
+DISPOSITION / FOLLOW-UP
+-----------------------------------------------------
+- Anticipate transfer to step-down on HD#8-9.
+- Continue PT/OT, discharge planning with social work.
+- Cardiology to follow for advanced HF therapies consideration.
+- Close outpatient follow-up with primary care and HF clinic.
+
+-----------------------------------------------------
+SIGNATURES
+-----------------------------------------------------
+Resident: [A. Fellow, MD]              Date/Time: 03/23/2024 17:50
+Attending: [Y. Bowers, MD]             Cosign: _______________
+```
+*Additional pages for Medications, Nursing Flowsheets, and Imaging available in chart review.*

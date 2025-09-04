@@ -1,0 +1,126 @@
+---
+**Patient Name:** Skiles, Herschel  
+**MRN:** 002948172  
+**DOB:** 05/06/1957  
+**Sex:** M  
+**Attending:** Dr. M. Garrison  
+**Admit Date:** 04/22/2024  
+**Unit:** MICU  
+**Location:** 5E-ICU-2  
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+
+68-year-old male with a history of chronic CHF (EF ~45%), prediabetes, chronic sinusitis, hyperlipidemia, anemia, and OA of the hand, presenting with 2 days of worsening dyspnea, orthopnea, LE edema, and profound fatigue. He was brought to the ED by family after an episode of near-syncope at home. In the ED, he was noted to be tachypneic, hypertensive, and hypoxic (O2 sat 88% on RA, improved to 94% on 4L NC). Initial workup revealed elevated NT-proBNP, AKI, and new mild troponin elevation. CXR with pulmonary vascular congestion, mild bilateral effusions.
+
+On hospital day 2, he developed worsening hypotension and respiratory distress requiring transfer to the ICU. Echo repeated: LVEF dropped to 25%, moderate global hypokinesis. Cardiogenic shock suspected, requiring escalating vasopressors and inotropes. On day 3, Impella CP (percutaneous LV assist device) was placed for hemodynamic support. He stabilized after device placement, was weaned off pressors by day 7, and Impella was explanted on day 9.
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+- **ICU Days 1-2:** Acute decompensated heart failure with shock; started on dobutamine, then norepinephrine; rapid uptitration of diuretics.
+- **Day 3:** Impella CP placed due to refractory cardiogenic shock; mild hemolysis post-procedure; renal function worsened (AKI, oliguric, Cr max 2.4).
+- **Days 4-6:** Gradual improvement; diuresed 5L net negative; pressors weaned.
+- **Day 7:** Extubated to high-flow nasal cannula; awake, alert, tolerating oral intake.
+- **Day 9:** Impella explanted without complication.
+- **Days 10-13:** Continued slow improvement; transitioned to oral HF regimen; AKI resolving; transferred to stepdown on day 13.
+
+---
+
+## ASSESSMENT & PLAN
+
+### 1. **Cardiogenic Shock secondary to acute decompensated HFrEF**
+- Placed Impella CP on day 3 for hemodynamic support; device removed on day 9 after stabilization.
+- Serial echocardiograms: EF nadir 25% (day 3), improved to 38% by day 12.
+- Continue GDMT: metoprolol, uptitrate sacubitril/valsartan, resume low-dose spironolactone.
+- Monitor for recurrence; daily weights, strict I/Os.
+
+### 2. **Acute Kidney Injury (multifactorial: cardiorenal, diuretics, hypoperfusion)**
+- Peak Cr 2.4 on day 4; now trending down (Cr 1.4).
+- Avoid nephrotoxins; adjusted diuretics per UOP and renal function.
+- Daily BMP.
+
+### 3. **Volume Overload / CHF Exacerbation**
+- Aggressive IV furosemide and metolazone.
+- Net negative 8.2L over hospitalization.
+- Monitor for electrolyte shifts, hypovolemia.
+
+### 4. **Chronic Anemia**
+- Hgb nadir 8.7 (baseline 10.2); no active bleeding.
+- Iron studies: mild iron deficiency; B12 repleted.
+- No transfusion required.
+
+### 5. **Hyperlipidemia**
+- Continue simvastatin 10mg nightly.
+
+### 6. **Prediabetes**
+- Fasting glucose 115-140s during hospitalization.
+- A1c stable at 6.2%.
+- Dietician consult.
+
+### 7. **Chronic Sinusitis, OA, Remote Ankle Sprain**
+- Managed symptomatically; no acute intervention.
+- Continue naproxen PRN for OA.
+
+### 8. **Other:**
+- DVT prophylaxis with heparin SQ.
+- PPI for GI prophylaxis.
+- Physical therapy for reconditioning.
+- Social work for discharge planning.
+
+---
+
+## ICU DAILY LABS (selected)
+
+| Date       | WBC  | Hgb | Plt | Na  | K   | Cl  | CO2 | BUN | Cr  | Glu | Ca  | AST | ALT | Alk Phos | T Bili | Alb | NT-proBNP |
+|------------|------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|----------|--------|-----|-----------|
+| 4/22/24    | 9.1  | 10.1| 227 | 139 | 4.2 | 105 | 26  | 28  | 1.2 | 108 | 8.6 | 26  | 58  | 44       | 0.9    | 3.8 | 1207      |
+| 4/23/24    | 11.3 | 9.2 | 198 | 141 | 5.1 | 109 | 28  | 39  | 1.8 | 123 | 8.2 | 32  | 71  | 52       | 1.1    | 3.6 | 1840      |
+| 4/24/24    | 12.6 | 8.7 | 176 | 144 | 5.5 | 110 | 23  | 44  | 2.4 | 117 | 7.9 | 35  | 66  | 59       | 1.3    | 3.4 | 2015      |
+| 4/25/24    | 10.7 | 9.0 | 188 | 142 | 4.6 | 107 | 25  | 40  | 2.2 | 110 | 8.1 | 27  | 64  | 50       | 1.0    | 3.7 | 1750      |
+| 4/26/24    | 8.8  | 9.4 | 201 | 138 | 4.3 | 103 | 27  | 32  | 1.7 |     | 8.4 | 20  | 29  | 46       | 0.9    | 3.9 | 1620      |
+| 4/27/24    | 7.5  | 9.8 | 210 | 140 |     |     | 28  | 24  | 1.4 | 104 | 8.7 |     |     |          |        |     | 1430      |
+| 4/28/24    | 7.0  | 10.2| 217 | 143 | 4.1 | 104 | 29  | 22  | 1.2 | 99  |     | 19  | 28  | 49       | 0.8    | 3.8 | 1200      |
+| 4/30/24    | 6.8  | 10.5| 225 | 138 | 4.0 | 101 | 26  | 20  | 1.1 | 95  | 8.8 | 18  | 27  | 45       | 0.7    | 4.0 | 900       |
+
+*Some labs omitted for brevity; see full chart for details.*
+
+---
+
+## VITALS TREND (ICU)
+
+- HR: 98-128 bpm (sinus tachycardia, transient runs of AFib w/RVR)
+- BP: 72/43 (lowest, day 3) to 143/78 mmHg (on transfer to stepdown)
+- RR: 18-34
+- O2: 88% RA → 94% 4L NC → 96% HFNC
+- Temp: 36.8–38.1°C
+
+---
+
+## PROCEDURES
+
+- **Impella CP LVAD Placement** (4/24/24) — right femoral artery, under US guidance. No vascular complications.
+- **Impella Explant** (4/29/24)
+
+---
+
+## DISCHARGE PLANNING
+
+- To be considered for advanced HF clinic and cardiac rehab.
+- Close nephrology and cardiology follow-up arranged.
+- Home meds to include: metoprolol succinate, sacubitril/valsartan, spironolactone, simvastatin, furosemide, FeSO4, B12, naproxen PRN.
+
+---
+
+**Signed:**  
+Dr. M. Garrison, MD  
+Cardiology/Critical Care  
+04/30/2024 14:28
+
+---
+
+**(End of Note)**
+
+---

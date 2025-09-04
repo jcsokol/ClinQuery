@@ -1,0 +1,189 @@
+---
+
+**Patient Name:** Wally Koepp  
+**MRN:** 12749832  
+**DOB:** 09/01/1943  
+**Sex:** Male  
+**Admission Date:** 04/18/2024  
+**Attending:** Dr. P. Garrison  
+**Location:** CVICU, Rm 4110-B  
+**Admitting Diagnosis:** Cardiogenic shock secondary to acute decompensated heart failure, s/p temporary LVAD (Impella CP) placement  
+**Allergies:** NKDA  
+**Code Status:** Full  
+**Height:** 177.7 cm  
+**Weight:** 84.9 kg  
+**BMI:** 26.9 kg/m²  
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+Mr. Koepp is a 80-year-old male with extensive PMHx including prediabetes, chronic anemia, hypothyroidism, and chronic sinusitis, who presented with progressive dyspnea, orthopnea, and fatigue. He was found to be in acute decompensated heart failure (HF) with hypotension refractory to diuretics and inotropes, and was admitted to the CVICU. He developed worsening cardiogenic shock, necessitating the placement of a temporary percutaneous left ventricular assist device (Impella CP) on HD #2. He has since been weaned off pressors, with gradual improvement in end-organ perfusion and volume status. 
+
+His course was complicated by transient AKI, anemia requiring transfusion, persistent sinus tachycardia, and a brief episode of delirium. He is currently stable on minimal inotropes, euvolemic, off the heart pump for 18 hours, and being evaluated for advanced HF therapies.
+
+---
+
+### PAST MEDICAL HISTORY  
+- Prediabetes  
+- Anemia (chronic, multifactorial)  
+- Idiopathic atrophic hypothyroidism  
+- Chronic sinusitis, recurrent bacterial/viral exacerbations  
+- Hx of forearm fracture (remote)  
+- Sprain of wrist (remote)  
+- Recurrent streptococcal pharyngitis  
+
+### PAST SURGICAL HISTORY  
+- ORIF left forearm (2017)  
+- Appendectomy (childhood)  
+
+### MEDICATIONS ON ADMISSION  
+- Levothyroxine 75 mcg PO qAM  
+- Amoxicillin-clavulanate 250/125 mg PO BID (recent, for sinusitis)  
+- Acetaminophen-hydrocodone 325/7.5 mg PO q8h PRN  
+- Naproxen sodium 220 mg PO BID PRN  
+- Acetaminophen 325 mg PO q6h PRN  
+- Penicillin V potassium 500 mg PO BID (recent)  
+
+### SOCIAL HISTORY  
+- Lives with spouse  
+- Retired teacher  
+- Former smoker (quit 1989), 15 pack-years  
+- No alcohol, no illicit drugs  
+
+### FAMILY HISTORY  
+- CAD (father), T2DM (mother), CHF (brother)  
+
+---
+
+## ICU ADMISSION PHYSICAL EXAM (HD #1)  
+- **Gen:** Elderly male, NAD, mild distress  
+- **VS:** T 38.3°C, HR 111, BP 84/49 (MAP 60), RR 22, SpO₂ 95% RA  
+- **CV:** S1, S2, +S3, no murmurs, JVD 10 cm, cool extremities, 1+ pitting edema  
+- **Resp:** Crackles at bases, mild tachypnea  
+- **GI:** Soft, mild RUQ tenderness, no rebound  
+- **Neuro:** AOx3, no focal deficits  
+- **Skin:** Warm, no rashes  
+- **Ext:** Old scar L forearm, no acute deformities  
+
+---
+
+## DAILY LABS
+
+| Date        | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO₂ (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Troponin (ng/mL) | BNP (pg/mL) |
+|-------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|-------------------|-------------|
+| 4/18/24 (ED)| 10.5       | 10.2       | 31      | 278        | 138         | 4.7        | 104         | 28           | 17          | 0.92       | 90          | 0.09              | 3800        |
+| 4/19/24     | 12.8       | 9.1        | 27      | 263        | 137         | 5.0        | 106         | 26           | 23          | 1.21       | 112         | 0.14              | 3950        |
+| 4/20/24     | 11.7       | 7.8        | 23      | 209        | 134         | 4.9        | 108         | 23           | 28          | 1.43       | 126         | 0.11              | 4120        |
+| 4/21/24     | 9.2        | 9.4        | 29      | 195        | 137         | 4.2        | 103         | 25           | 20          | 1.11       | 99          | 0.08              | 3200        |
+| 4/22/24     | 8.8        | 9.7        | 30      | 178        | 138         | 4.0        | 102         | 27           | 18          | 1.02       | 95          | 0.07              | 2200        |
+| 4/23/24     | 7.6        | 10.5       | 32      | 183        | 139         | 4.1        | 103         | 29           | 17          | 0.98       | 93          | 0.06              | 1100        |
+| 4/24/24     | --         | 10.4       | --      | 192        | 138         | 4.3        | --          | 28           | 16          | 0.91       | 89          | --                | 970         |
+
+*Other labs:*
+- **LFTs (4/19/24):** AST 42, ALT 39, ALP 118, Tbili 1.5
+- **TSH (4/20/24):** 3.1
+- **INR (4/18/24):** 1.2
+- **Lactate (4/19/24):** 3.8 (peak), downtrending to 1.5 (4/21/24)
+- **ABG (4/19/24):** pH 7.29, pCO₂ 32, pO₂ 68, HCO₃ 16
+
+---
+
+## ICU PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. Cardiogenic Shock, Acute Decompensated Heart Failure (HFrEF, new dx)
+- **s/p Impella CP LVAD placement (HD #2) for refractory shock**
+- Initially on norepinephrine, dobutamine, lasix infusion
+- Weaned off pressors by HD #5, off Impella HD #7
+- **Plan:**
+  - Continue cardiac monitoring, daily weights, strict I/Os
+  - Goal MAP >65, maintain euvolemia
+  - Continue low-dose dobutamine, titrate down
+  - Resume guideline-directed HF therapy (BB, ACEi) as tolerated
+  - Cardiac rehab, PT/OT consult
+  - Advanced HF team to evaluate for candidacy for permanent device or transplant
+
+### 2. Anemia (chronic, worsened by acute illness)
+- Multifactorial: chronic disease, acute blood loss (device), dilutional
+- Hgb nadir 7.8, transfused 1U PRBCs HD #3
+- **Plan:**
+  - Monitor CBC q24h
+  - Iron studies, retic count pending
+  - Continue GI prophylaxis
+  - Hold anticoagulation if Hgb <8 unless device in place
+
+### 3. Acute Kidney Injury (KDIGO Stage 1, resolving)
+- Likely ischemic, multifactorial
+- Peak Cr 1.43, improved to 0.91
+- **Plan:**
+  - Monitor renal function, avoid nephrotoxins
+  - Adjust meds for renal dosing
+  - Maintain MAP >65
+
+### 4. Hypothyroidism (idiopathic atrophic)
+- On chronic levothyroxine, TSH stable
+- **Plan:** Continue home dose, monitor TSH q2-3w
+
+### 5. Chronic Sinusitis, recent acute exacerbation
+- On amox-clav, completing 10-day course
+- **Plan:** ENT consult if persistent sx
+
+### 6. Delirium (transient, ICU-related)
+- Developed HD #2-4, resolved
+- **Plan:** Reorientation, minimize sedation, PT/OT
+
+### 7. Pain (chronic, mild, s/p old orthopedic injury)
+- On PRN acetaminophen, hydrocodone
+- **Plan:** Continue PRN, monitor for constipation
+
+### 8. Prediabetes
+- Last A1c 6.1%
+- **Plan:** Monitor BG, diabetic diet, endocrinology f/u
+
+### 9. DVT Prophylaxis
+- On SCDs; started heparin SQ after bleeding risk improved
+
+### 10. Disposition
+- Anticipate step-down transfer in 24-48h if stable
+- Discuss goals/advanced directives with patient/family
+
+---
+
+**Attending:** Dr. P. Garrison  
+**Resident:** S. Mahoney, MD  
+**Date/Time:** 04/24/2024 09:31
+
+---
+
+**Nursing Notes, HD #5:**  
+"Pt awake, alert, NAD, tolerating diet, ambulating with PT. Impella d/c’d last night, femoral site clean/dry. Foley out, voiding spontaneously. Family at bedside, plan for step-down to telemetry tomorrow if stable."
+
+---
+
+**Imaging**
+- **TTE (4/19/24):** LVEF 18%, severe global hypokinesis, mild MR, RV normal size/function
+- **CXR (4/18/24):** Pulmonary edema, small bilateral effusions, device in place
+- **Repeat TTE (4/22/24):** LVEF improved to 28%, less congestion
+
+---
+
+**Consults**
+- Cardiology: device mgmt, GDMT recommendations
+- Advanced HF: transplant/device eval
+- PT/OT: mobility, discharge planning
+- ENT: sinusitis (pending)
+
+---
+
+**Discharge Planning**
+- Anticipate SNF vs home with services
+- Close HF and PCP follow-up
+- Medication reconciliation and education
+
+---
+
+**Signature:**  
+S. Mahoney, MD (PGY-3)  
+Dictated: 04/24/2024 09:42
+
+---

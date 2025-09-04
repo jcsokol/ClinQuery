@@ -1,0 +1,161 @@
+--------------------------------------------------------------------------------
+**EPIC EHR - Inpatient Progress Note**
+--------------------------------------------------------------------------------
+
+**Patient Name:** Reynolds, Gregory  
+**MRN:** 01922741  
+**DOB:** 08/16/1988  
+**Sex:** Male  
+**Date of Admission:** 04/12/2024  
+**Date of Note:** 04/19/2024  
+**Attending:** Dr. Monica Evans, MD  
+**Primary Team:** Cardiology/ICU  
+**Consults:** CTSx, ID, PT/OT
+
+--------------------------------------------------------------------------------
+**Reason for Admission:**  
+38-year-old male with past medical history notable for viral sinusitis, recurrent acute bronchitis, and prior closed hip fracture, presenting with acute onset dyspnea, orthopnea, and progressive lower extremity edema. Found to be in acute decompensated heart failure (ADHF) with rapidly worsening cardiogenic shock, requiring escalation to temporary mechanical circulatory support (Impella CP placement).
+
+--------------------------------------------------------------------------------
+**Hospital Course Summary:**  
+Mr. Reynolds was initially admitted to the medical floor for evaluation of respiratory distress and hypoxemia. He rapidly deteriorated over the next 12 hours, with hypotension refractory to fluids, rising lactate, and progressive end-organ dysfunction. Transferred to CICU for inotropic support and subsequently required temporary LV assist device (Impella CP) for cardiogenic shock. Hospital course complicated by AKI, transaminitis, nosocomial pneumonia, and delirium. Now improving, weaning from pressors and advanced support.
+
+--------------------------------------------------------------------------------
+**Active Problem List (with Assessment/Plan):**
+
+---
+
+**1. Cardiogenic Shock, acute on chronic Heart Failure (EF 15% by ECHO)**
+   - **Assessment:** Severe LV systolic dysfunction, likely viral myocarditis (given preceding URI sx). Required Impella CP for hemodynamic support. Lactic acidosis resolved.
+   - **Plan:**
+     - Continue Impella CP at P3, plan for weaning trial tomorrow.
+     - Milrinone 0.25 mcg/kg/min, wean as tolerated.
+     - Monitor hemodynamics, daily ECHO.
+     - Diuresis with IV furosemide, target net negative 1L/day.
+     - Continue guideline-directed medical therapy as tolerated.
+     - Daily labs: CBC, Chem7, troponin, BNP, LFTs.
+     - Cardiac MRI pending to evaluate for myocarditis.
+     - Discuss with advanced HF team re: long-term options if recovery fails.
+
+**2. Acute Kidney Injury (KDIGO Stage 2)**
+   - **Assessment:** Multifactorial—pre-renal from hypoperfusion, possible nephrotoxic insult.
+   - **Plan:**
+     - IVF held, strict I/O, monitor urine output q2h.
+     - Renal function trending upward, Cr peaked at 2.3 mg/dL, now 1.7 mg/dL.
+     - Avoid nephrotoxins, adjust med doses.
+     - Nephro consult.
+
+**3. Nosocomial Pneumonia**
+   - **Assessment:** Developed new infiltrate, fever, and leukocytosis on HD#5. BAL cx growing MSSA.
+   - **Plan:**
+     - Continue IV cefazolin x7d (day 3/7).
+     - Chest PT; continue incentive spirometry.
+     - Monitor WBC, CXR.
+
+**4. Delirium, ICU-related**
+   - **Assessment:** Fluctuating attention, sleep-wake disturbance.
+   - **Plan:**
+     - Nonpharmacologic interventions: reorient, sleep hygiene.
+     - Minimize sedatives.
+     - Psychiatry consult if persists.
+
+**5. Transaminitis**
+   - **Assessment:** Likely ischemic hepatitis from shock liver, now improving.
+   - **Plan:**
+     - Continue to trend LFTs.
+     - No hepatotoxins.
+
+**6. History of recurrent viral sinusitis, acute bronchitis**
+   - **Assessment:** No current evidence of active infection.
+   - **Plan:**
+     - Supportive care, monitor for new symptoms.
+
+**7. Pain, secondary to prior hip fracture**
+   - **Assessment:** Mild, well controlled on current regimen.
+   - **Plan:**
+     - Continue acetaminophen 650mg q6h prn.
+     - Oxycodone 5mg q8h prn severe pain.
+     - PT/OT for mobilization.
+
+**8. DVT Prophylaxis**
+   - **Plan:** SCDs, heparin 5000u SQ q8h.
+
+**9. Nutrition**
+   - **Plan:** NPO for first 24h, now on cardiac diet; supplement with enteral nutrition if intake <60% goal.
+
+---
+
+--------------------------------------------------------------------------------
+**Vital Signs (Selected):**
+
+| Date/Time        | Temp (°C) | HR (bpm) | BP (mmHg) | RR | SpO2 | O2 Device | Pain |
+|------------------|-----------|----------|-----------|----|------|-----------|------|
+| 4/12/24 18:00    | 37.0      | 118      | 84/56     | 24 | 91%  | 4L NC     | 7    |
+| 4/13/24 06:00    | 36.8      | 105      | 92/60     | 20 | 96%  | 2L NC     | 6    |
+| 4/14/24 10:00    | 36.6      | 98       | 104/64    | 18 | 99%  | RA        | 4    |
+| 4/16/24 09:30    | 36.9      | 93       | 108/70    | 16 | 99%  | RA        | 3    |
+| 4/18/24 08:00    | 36.7      | 88       | 116/74    | 18 | 99%  | RA        | 2    |
+
+--------------------------------------------------------------------------------
+**Laboratory Data (CBC, Chem7, Cardiac Markers, LFTs):**
+
+| Date      | WBC    | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | BNP   | AST   | ALT   | AlkPhos | TBili |
+|-----------|--------|-------|-------|-------|------|------|------|------|------|------|------|----------|-------|-------|-------|---------|-------|
+| 4/12/24   | 6.4    | 12.2  | 37.3  | 346   | 135  | 5.1  | 103  | 19   | 44   | 2.2  | 139  | 0.12     | 4321  | 224   | 276   | 140     | 2.1   |
+| 4/13/24   | 10.7   | 10.6  | 32.0  | 289   | 133  | 4.9  | 101  | 17   | 49   | 2.3  | 163  | 0.16     | 3890  | 181   | 194   | 124     | 1.7   |
+| 4/14/24   | 13.2   | 9.8   | 29.4  | 210   | 137  | 4.2  | 104  | 21   | 38   | 1.8  | 155  | 0.10     | 2800  | 98    | 121   | 92      | 1.2   |
+| 4/15/24   | 11.1   | 10.9  | 33.5  | 241   | 138  | 4.1  | 106  | 23   | 26   | 1.6  | 128  | 0.07     | 1549  | 54    | 67    | 61      | 0.9   |
+| 4/16/24   | 8.8    | 11.6  | 35.0  | 255   | 139  | 4.0  | 105  | 24   | 21   | 1.4  | 119  | 0.05     | 880   | 31    | 43    | 54      | 0.7   |
+| 4/17/24   | 7.4    | 12.0  | 36.2  | 301   | 140  | 4.4  | 104  | 25   | 18   | 1.2  | 102  | <0.03    | 420   | 22    | 31    | 50      | 0.6   |
+| 4/18/24   | 6.3    | 12.4  | 37.4  | 347   | 138  | 4.7  | 103  | 25   | 16   | 1.1  | 99   | <0.03    | 150   | 18    | 27    | 48      | 0.6   |
+| 4/19/24   |        | 12.3  | 37.2  | 340   |      | 4.5  |      | 24   | 15   | 1.1  |      |          |       |       |       |         |       |
+
+*Some entries missing due to specimen hemolysis or lab error.*
+
+--------------------------------------------------------------------------------
+**Imaging/Diagnostics:**
+- **ECHO (4/12/24):** Severe global hypokinesis, EF ~15%, moderate MR, no thrombus.
+- **ECHO (4/17/24):** Improved contractility, EF ~25%, Impella in place, no tamponade.
+- **CXR (4/13/24):** Bilateral interstitial edema, new RLL infiltrate.
+- **Cardiac MRI:** Pending.
+
+--------------------------------------------------------------------------------
+**Medications:**
+- Acetaminophen 650mg PO q6h PRN
+- Oxycodone 5mg PO q8h PRN
+- Furosemide 40mg IV BID
+- Cefazolin 2g IV q8h
+- Milrinone IV infusion
+- Metoprolol 12.5mg PO BID (held x2 days for hypotension)
+- Heparin 5000u SQ q8h
+- Pantoprazole 40mg IV daily
+
+--------------------------------------------------------------------------------
+**Physical Exam (Selected):**
+- **Gen:** Alert, intermittently confused, NAD.  
+- **CV:** JVD 10cm, S3 present, tachycardic, Impella hum audible.  
+- **Lungs:** Bibasilar crackles, improved from baseline.  
+- **Abd:** Soft, NT, mildly tender RUQ.  
+- **Ext:** 2+ pitting edema BLE, no DVT.  
+- **Neuro:** Moves all extremities, follows commands.
+
+--------------------------------------------------------------------------------
+**Consults:**  
+- CTSx: For Impella weaning and explant plan.  
+- Nephrology: AKI management.  
+- ID: Pneumonia management, abx guidance.  
+- PT/OT: Early mobilization.
+
+--------------------------------------------------------------------------------
+**Disposition/Follow-up:**  
+- Remains in CICU, anticipate transfer to step-down in 2-3 days if continues to improve.
+- Close monitoring for arrhythmias, end-organ recovery.
+- Cardiac MRI results to guide long-term HF therapy.
+
+--------------------------------------------------------------------------------
+**Signature:**  
+Evans, Monica, MD  
+Attending Cardiologist  
+04/19/2024 11:22
+
+--------------------------------------------------------------------------------

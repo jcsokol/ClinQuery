@@ -1,0 +1,165 @@
+**Patient:** Raúl Véliz  
+**MRN:** 0048817  
+**DOB:** 09/22/1954  
+**Sex:** Male  
+**Admit Date:** 05/03/2024  
+**Attending:** Dr. R. Sanchez  
+**Consults:** Cardiology, Cardiac Surgery, Pain Mgmt, ID
+
+---
+
+## ICU Admission Note
+
+### Chief Complaint
+Acute-on-chronic decompensated heart failure, hypotension, and syncope.
+
+### HPI
+69-year-old male with a history of chronic pain, migraines, prior drug overdose, and recent respiratory infections admitted from the ED after an episode of syncope at home, found to be hypotensive (SBP 78 mmHg) and tachycardic (HR 122). Reports 3 days of worsening fatigue, orthopnea, and mild dyspnea on exertion. No chest pain. PMH notable for colon polyps, chronic bronchitis, migraine, and recent strep pharyngitis.
+
+On arrival, he was noted to be in acute distress, cool extremities, tachypneic. Initial labs notable for acute kidney injury, elevated troponin, and lactic acidosis. Echo in ED showed severely reduced LVEF (15%), global hypokinesis, and moderate MR. He required norepinephrine, and subsequently developed escalating pressor requirements. Cardiology consulted, and decision made to proceed with placement of temporary left-sided heart pump (Impella CP) for presumed cardiogenic shock.
+
+---
+
+## Hospital Course Summary
+
+**Day 1:**  
+Admitted to ICU. On norepinephrine, worsening renal function, mild transaminitis, rising lactate. Echo: LVEF ~15%. Impella CP placed in cath lab; improved MAP, reduced pressors. Started empiric cefepime due to concern for pneumonia. Sedated for procedure; extubated same day.
+
+**Day 2:**  
+Hemodynamics improved. Weaned off norepinephrine. Renal function stable but creatinine elevated. Pain managed with acetaminophen and low-dose fentanyl. Serial troponins trending down. Mild delirium overnight, thought to be multifactorial.
+
+**Day 3:**  
+Transferred to stepdown. Impella weaned per protocol. Renal function improving. Physical therapy initiated. Developed mild fever, blood cultures sent; empiric vancomycin added. No growth at 48h.
+
+**Day 4:**  
+Impella explanted without complication. HD stable. Weaned to nasal cannula. Antibiotics de-escalated to ceftriaxone. Colonoscopy deferred; polyp surveillance outpatient. Discharge planning initiated.
+
+---
+
+## Problem-Based Assessment & Plan
+
+### 1. Cardiogenic Shock s/p Impella CP Placement
+- **Assessment:** Severe acute-on-chronic HFrEF with cardiogenic shock, likely ischemic. Required temporary mechanical support.
+- **Plan:**  
+  - Continue telemetry.  
+  - Daily echo.  
+  - Monitor for hemolysis, limb ischemia, arrhythmias.  
+  - Titrate diuretics as tolerated.  
+  - Cardiology to follow.
+
+### 2. Acute Kidney Injury (pre-renal, multifactorial)
+- **Assessment:** Likely secondary to low cardiac output and pressors. Improving.
+- **Plan:**  
+  - Monitor I/Os, daily BMP.  
+  - Avoid nephrotoxins.  
+  - Renal consult if no improvement.
+
+### 3. Chronic Pain & Migraine
+- **Assessment:** History of chronic pain, migraines. No current acute pain crisis.
+- **Plan:**  
+  - Continue home acetaminophen.  
+  - Avoid NSAIDs due to renal status.  
+  - Neurology to follow as outpatient.
+
+### 4. Colon Polyp (hx)
+- **Assessment:** Large polyp, previously biopsied, no evidence of acute GI bleed.
+- **Plan:**  
+  - Outpatient GI follow-up for repeat colonoscopy.  
+  - Monitor for signs of GI bleed.
+
+### 5. Recent Drug Overdose (remote)
+- **Assessment:** No current evidence of overdose or withdrawal.
+- **Plan:**  
+  - Monitor mental status.  
+  - Psychiatry consult as indicated.
+
+### 6. Infectious Concerns (recent bronchitis, sore throat, fever)
+- **Assessment:** Recent URI, possible HAP, now afebrile.
+- **Plan:**  
+  - Continue ceftriaxone x48h, then reassess.  
+  - Monitor WBC, procalcitonin, cultures.
+
+### 7. Dental: Impacted Molars
+- **Assessment:** No acute dental infection.
+- **Plan:**  
+  - Outpatient dental referral.
+
+### 8. Delirium
+- **Assessment:** Brief episode, likely multifactorial.
+- **Plan:**  
+  - Re-orientation, minimize sedatives.  
+  - Sleep hygiene.
+
+---
+
+## Medications (Inpatient)
+
+| Medication                                      | Dose/Route                  | Indication              | Status        |
+|-------------------------------------------------|-----------------------------|-------------------------|--------------|
+| Acetaminophen                                   | 650 mg PO q6h PRN           | Pain/Fever              | Active       |
+| Cefepime → Ceftriaxone                          | 2g IV q8h → 1g IV q24h      | Empiric; then de-escal. | Stopped      |
+| Vancomycin                                      | 1g IV q12h                  | Empiric                 | Stopped      |
+| Fentanyl                                        | 12.5 mcg/hr IV PRN          | Pain                    | As needed    |
+| Norepinephrine                                  | 0.1-0.3 mcg/kg/min IV       | Shock                   | Weaned off   |
+| Aspirin                                         | 81 mg PO daily              | Cardiac                 | Active       |
+
+---
+
+## Labs - ICU Stay
+
+| Date        | WBC (x10^3/uL) | Hgb (g/dL) | Hct (%) | Plt (x10^3/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Troponin (ng/mL) | AST (U/L) | ALT (U/L) | Lactate (mmol/L) |
+|-------------|----------------|------------|---------|---------------|-------------|------------|-------------|--------------|-------------|------------|-------------|------------------|-----------|-----------|------------------|
+| 5/3 AM      | 16.2           | 13.8       | 41.2    | 138           | 132         | 4.9        | 108         | 19           | 47          | 2.7        | 148         | 2.1              | 67        | 74        | 5.2              |
+| 5/3 PM      | 15.8           | 13.2       | 39.8    | 122           | 133         | 5.2        | 110         | 21           | 44          | 2.6        | 156         | 1.6              | 70        | 80        | 3.8              |
+| 5/4 AM      | 12.4           | 12.7       | 38.2    | 165           | 135         | 4.5        | 109         | 22           | 39          | 2.1        | 139         | 0.8              | 52        | 61        | 2.1              |
+| 5/4 PM      | 11.2           | 12.4       | 37.1    | 172           | 137         | 4.1        | 106         | 23           | 35          | 1.8        | 128         | 0.4              | 38        | 41        | 1.2              |
+| 5/5 AM      | 8.9            | 12.0       | 36.3    | 183           | 139         | 4.2        | 108         | 24           | 28          | 1.3        | 121         | 0.2              | 27        | 35        | 0.8              |
+| 5/5 PM      | 9.2            | 12.1       | 36.5    | 176           | 140         | 4.0        | 107         | 24           | 22          | 1.2        | 117         | -                | -         | -         | 0.6              |
+| 5/6 AM      | 8.4            | 11.8       | 35.9    | 167           | 142         | 3.9        | 109         | 25           | 19          | 1.1        | 104         | -                | -         | -         | 0.5              |
+
+*Some labs not collected at all time points. Labs significant for downtrending troponin, improving renal function, and resolution of lactic acidosis.*
+
+---
+
+## Imaging
+
+- **TTE (5/3):** LVEF 15%, severe diffuse hypokinesis, moderate MR, LV dilation.
+- **CXR (5/3):** Pulmonary edema, mild cardiomegaly, bibasilar atelectasis.
+- **ECG (5/3):** Sinus tachycardia, no acute ST changes.
+
+---
+
+## Procedures
+
+- **Impella CP Placement (5/3):** Left femoral arterial access, no vascular complications, immediate hemodynamic improvement.
+- **Impella Removal (5/5):** No complication, hemostasis achieved.
+
+---
+
+## Discharge Planning
+
+- Close outpatient follow-up with cardiology, nephrology, GI.
+- Continue GDMT for HFrEF.
+- Outpatient colonoscopy.
+- Dental referral.
+- Home health/PT.
+
+---
+
+## Additional Notes
+
+- Social: Lives alone, daughter nearby. No tobacco, rare EtOH.
+- Allergies: NKDA.
+- Code Status: Full.
+- Last flu/pneumo vax: UTD.
+- Advance directives discussed.
+
+---
+
+**Signed:**  
+R. Sanchez, MD  
+05/06/2024 15:48
+
+---
+
+*For full details, see progress notes, nursing flowsheets, and consults.*

@@ -1,0 +1,207 @@
+**Patient Name:** Isreal Bernier  
+**MRN:** 00836547  
+**DOB:** 2005-05-05 (Age: 18)  
+**Sex:** Male  
+**Admit Date:** 2024-04-12  
+**Attending:** Dr. R. Mahoney  
+**Service:** Pediatric Cardiology / Critical Care  
+**Location:** MICU, Rm 12-B
+
+---
+
+# Admission H&P
+
+**Chief Complaint:**  
+Chest pain, shortness of breath, syncope
+
+**History of Present Illness:**  
+18-year-old male with PMHx of chronic sinusitis, recent ankle sprain, and notable low BMI presenting with acute onset chest pain, progressive dyspnea, and 2 syncopal episodes at home. Parents report 1 week of malaise, orthopnea, and decreased appetite. No prior cardiac history. No drug use. No recent travel. No sick contacts.
+
+**Home Medications:**  
+- Ibuprofen 100 mg PO PRN (last dose 3 days ago for ankle pain)
+
+**Allergies:**  
+NKDA
+
+**Social History:**  
+- Lives with parents, high school senior.
+- No tobacco, EtOH, or illicit drug use.
+- No recent travel.
+
+---
+
+# Hospital Course (Days 1-7)
+
+**Day 1 (ED/ICU Admit):**  
+- Vitals: HR 128, BP 92/54, RR 22, SpO2 95% RA, T 36.8°C  
+- Exam: Pale, diaphoretic, JVD, S3 gallop, crackles bilaterally, cool extremities, 2+ pitting edema, GCS 15  
+- Labs: Significant for elevated troponin, BNP 4200 pg/mL, metabolic acidosis, AKI (Cr 1.7), mild transaminitis  
+- ECG: Sinus tachycardia, nonspecific ST changes  
+- Echo: Severely reduced LVEF (18%), global hypokinesis, moderate MR, LV dilation  
+- CXR: Pulmonary edema  
+- Interventions: Fluid resuscitation, IV furosemide, started on milrinone, transferred to MICU
+
+**Day 2:**  
+- Worsening hypotension despite escalating inotropes/vasopressors  
+- Increasing lactate (6.2), worsening AKI  
+- Cardiology/CT surgery consulted  
+- Placed on temporary LVAD (Impella CP) for acute decompensated heart failure  
+- Started broad spectrum abx (cefepime, vanc) for possible myocarditis  
+- Labs: CBC/chem7, LFTs, coags, blood cultures
+
+**Day 3-5:**  
+- Remained on Impella, hemodynamics improved  
+- Weaned off norepinephrine  
+- Extubated on Day 4  
+- Serial echos: LVEF improved to 28% by Day 5  
+- Renal function improving, urine output normalized  
+- Transitioned to low-dose ACEi, spironolactone, carvedilol  
+- Infectious workup (-), viral PCR pending  
+- Developed mild right groin hematoma at Impella site, monitored
+
+**Day 6-7:**  
+- Considered for Impella weaning trial  
+- Tolerated reduction in support, stable hemodynamics  
+- Repeat echo: LVEF up to 34%  
+- Plan to remove Impella on Day 8 if stable  
+- PT/OT consulted for deconditioning  
+- Nutrition: TPN started, then transitioned to PO as appetite improved
+
+---
+
+# Problem-Based Assessment & Plan
+
+## 1. Acute Decompensated Heart Failure (new onset, probable myocarditis)
+- **Assessment:** Severe LV systolic dysfunction, likely viral myocarditis (pending PCR). Required temporary mechanical circulatory support (Impella CP).
+- **Plan:**  
+  - Continue Impella support, monitor for device complications  
+  - Daily TTE, hemodynamic monitoring  
+  - Weaning protocol as tolerated  
+  - Start guideline-directed medical therapy (GDMT) as able  
+  - Cardiac MRI if stable
+
+## 2. Cardiogenic Shock
+- **Assessment:** Multiorgan hypoperfusion, lactic acidosis, AKI, improved with MCS.
+- **Plan:**  
+  - Monitor end-organ function (daily labs, lactate)  
+  - Titrate inotropes/vasopressors as needed  
+  - Strict I/O, daily weights  
+  - Monitor Impella site for bleeding/infection
+
+## 3. AKI (pre-renal, secondary to low output)
+- **Assessment:** Creatinine peaked at 2.2, now improving.
+- **Plan:**  
+  - Monitor renal function, adjust nephrotoxic meds  
+  - Renal consult prn  
+  - Maintain euvolemia
+
+## 4. Malnutrition/Low BMI
+- **Assessment:** BMI 15.6; likely chronic, worsened by acute illness.
+- **Plan:**  
+  - Dietician consult  
+  - TPN initially, advancing to PO nutrition  
+  - Monitor electrolytes closely
+
+## 5. Sinusitis/Chronic Sinusitis
+- **Assessment:** Chronic issue, not contributing to current presentation.
+- **Plan:**  
+  - Continue supportive care, no acute intervention needed
+
+## 6. Ankle Sprain
+- **Assessment:** Minor prior injury.
+- **Plan:**  
+  - PT/OT for mobility  
+  - Ibuprofen PRN pain (hold if renal function worsens)
+
+## 7. Groin Hematoma (Impella site)
+- **Assessment:** Mild, stable, no active bleeding.
+- **Plan:**  
+  - Q4h neurovascular checks  
+  - Hold anticoagulation if expansion  
+  - Serial Hgb
+
+## 8. Deconditioning/ICU Weakness
+- **Assessment:** High risk due to prolonged bedrest.
+- **Plan:**  
+  - Early mobilization  
+  - PT/OT daily
+
+## 9. Transaminitis
+- **Assessment:** Mild, likely ischemic hepatitis; trending down.
+- **Plan:**  
+  - Monitor LFTs  
+  - Avoid hepatotoxins
+
+---
+
+# Labs
+
+| Date       | WBC  | Hgb   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu   | AST   | ALT   | BNP    | Troponin | Lactate |
+|------------|------|-------|-------|------|------|------|------|------|------|-------|-------|-------|--------|----------|---------|
+| 4/12/24 AM | 4.2  | 16.7  | 377   | 134  | 4.8  | 106  | 18   | 32   | 1.7  | 108   | 89    | 102   | 4200   | 0.38     | 5.9     |
+| 4/12/24 PM | 5.1  | 15.9  | 352   | 132  | 5.2  | 104  | 16   | 38   | 2.1  | 116   | 112   | 128   | 4630   | 0.51     | 6.2     |
+| 4/13/24    | 6.3  | 14.2  | 299   | 136  | 4.3  | 108  | 20   | 28   | 2.2  | 102   | 76    | 90    | 3900   | 0.29     | 4.1     |
+| 4/14/24    | 5.8  | 13.8  | 294   | 138  | 3.7  | 109  | 22   | 22   | 1.9  | 97    | 50    | 61    | 2400   | 0.11     | 2.3     |
+| 4/15/24    | 4.9  | 13.3  | 278   | 139  | 4.1  | 107  | 24   | 18   | 1.5  | 101   | 32    | 28    | 1020   | <0.01    | 1.4     |
+| 4/16/24    | 4.5  | 12.9  | 260   | 140  | 4.2  | 108  | 25   | 14   | 1.2  | 99    | 22    | 18    | 610    | <0.01    | 0.9     |
+| 4/17/24    |      | 12.7  | 244   | 141  |      | 107  | 26   | 12   | 1.0  |       |       |       | 480    | <0.01    |         |
+
+*Some labs not drawn on all days due to line access issues.*
+
+---
+
+# Medications (Current)
+
+- Milrinone IV 0.5 mcg/kg/min (weaning)
+- Lisinopril 2.5 mg PO q24h
+- Carvedilol 3.125 mg PO BID
+- Spironolactone 12.5 mg PO q24h
+- Cefepime 2g IV q8h (until 4/15)
+- Vancomycin IV (until 4/14)
+- Ibuprofen 100 mg PO PRN
+- TPN solution (through 4/15), advancing to PO
+
+---
+
+# Vitals Summary
+
+| Date/Time      | HR   | BP         | RR  | SpO2 | Temp  | Weight   | Pain |
+|----------------|------|------------|-----|------|-------|----------|------|
+| 4/12/24 08:00  | 128  | 92/54      | 22  | 95%  | 36.8  | 40.9 kg  | 2    |
+| 4/13/24 00:00  | 112  | 104/62     | 18  | 97%  | 36.7  | 40.7 kg  | 2    |
+| 4/14/24 12:00  | 98   | 110/70     | 16  | 98%  | 36.9  | 41.2 kg  | 1    |
+| 4/16/24 08:00  | 84   | 112/74     | 14  | 99%  | 36.6  | 41.8 kg  | 0    |
+
+---
+
+# Consults
+
+- Pediatric Cardiology
+- CT Surgery (Impella placement)
+- Nephrology (AKI)
+- Infectious Disease (myocarditis workup)
+- Nutrition
+- PT/OT
+
+---
+
+# Procedures
+
+- Central line (R IJ), arterial line (L radial)
+- Impella CP LVAD placement (4/12/24, via R femoral)
+- Foley catheter (removed 4/15)
+- Serial TTEs
+
+---
+
+# Discharge Planning
+
+- Awaiting stability for device removal and transition to step-down
+- Ongoing rehab and nutritional support
+- Close cardiac f/u, consider advanced heart failure eval if LVEF does not improve
+
+---
+
+# Summary
+
+This is an 18-year-old male with new acute decompensated heart failure, likely due to viral myocarditis, with severe LV dysfunction requiring temporary mechanical circulatory support (Impella). Complicated by cardiogenic shock, AKI, and malnutrition, all of which are improving. Plan for device weaning, ongoing supportive care, and multidisciplinary rehabilitation.

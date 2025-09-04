@@ -1,0 +1,145 @@
+```
+-------------------------------------------------------------------------------
+EPIC EHR SYSTEM - INPATIENT NOTE
+-------------------------------------------------------------------------------
+Patient Name: Willian Moen
+MRN: 0029834751                           Encounter: Inpatient ICU
+DOB: 10/09/1955 (Age: 68)                 Sex: Male
+Admission Date: 2024-03-14
+Attending: Dr. S. Landry, MD (Cardiology)
+-------------------------------------------------------------------------------
+
+CHIEF COMPLAINT:
+Shortness of breath and chest pain.
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Willian Moen is a 68-year-old male with a history of hypertension and prior colon polypectomy (5mm polyp, benign), who presented to the ED with acute onset chest pain, worsening shortness of breath, and orthopnea. EMS reports found him diaphoretic and hypotensive at home, with initial BP 82/50, HR 118. In the ED, he was found to be in acute decompensated heart failure (HF) with evidence of cardiogenic shock. He was transferred to the ICU for hemodynamic monitoring and management. Given persistent hypotension despite diuresis and inotropic support, the decision was made to place a percutaneous left ventricular assist device (Impella CP) for temporary circulatory support.
+
+PAST MEDICAL HISTORY:
+- Hypertension (dx 2003)
+- Colon polyp (removed 2023; benign pathology)
+- Hyperlipidemia
+
+PAST SURGICAL HISTORY:
+- Colonoscopy with polypectomy (2023)
+- Appendectomy (remote)
+
+FAMILY HISTORY:
+- Father: MI at age 69
+- Mother: HTN, DM2
+
+SOCIAL HISTORY:
+- Former smoker (quit 1989, 20 pack-years)
+- Denies EtOH or illicit drug use
+- Lives with wife, retired
+
+ALLERGIES:
+- NKDA
+
+HOME MEDICATIONS:
+- Hydrochlorothiazide 25 mg PO daily
+- Atorvastatin 20 mg PO nightly
+
+-------------------------------------------------------------------------------
+VITALS (selected, see flowsheet for complete data):
+| Date/Time         | Temp (C) | HR | BP        | RR | SpO2 | Pain |
+|-------------------|----------|----|-----------|----|------|------|
+| 3/14/24 08:44     | 36.8     | 118| 82/50     | 20 | 93%  | 3    |
+| 3/15/24 06:00     | 37.2     | 90 | 104/62    | 18 | 98%  | 0    |
+| 3/16/24 06:15     | 36.9     | 79 | 116/68    | 16 | 99%  | 0    |
+| 3/17/24 06:22     | 36.7     | 73 | 118/70    | 18 | 98%  | 0    |
+| 3/18/24 06:30     | 36.8     | 68 | 122/72    | 18 | 98%  | 0    |
+
+-------------------------------------------------------------------------------
+LABS:
+
+CBC & CHEMISTRY TABLE
+| Date       | WBC   | Hgb   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|-------|-------|-------|------|------|------|------|------|------|------|
+| 3/14/24    | 12.4  | 13.8  | 340   | 134  | 4.7  | 102  | 24   | 32   | 1.6  | 142  |
+| 3/15/24    | 10.8  | 12.9  | 305   | 135  | 4.3  | 101  | 22   | 28   | 1.4  | 131  |
+| 3/16/24    | 8.2   | 12.5  | 280   | 138  | 3.8  | 100  | 23   | 21   | 1.2  | 120  |
+| 3/17/24    | 7.1   | 12.7  | 267   | 140  | 4.1  | 102  | 25   | 18   | 1.1  | N/A  |
+| 3/18/24    | 6.8   | 12.9  | 260   | 139  | 4.2  | 103  | 26   | 16   | 1.0  | 112  |
+
+OTHER LABS:
+| Date       | Troponin I | BNP   | AST  | ALT  | AlkPhos | TBili | INR  | PT   |
+|------------|------------|-------|------|------|---------|-------|------|------|
+| 3/14/24    | 0.45       | 2850  | 58   | 51   | 110     | 0.8   | 1.2  | 13.8 |
+| 3/15/24    | 0.35       | 1780  | 44   | 39   | 95      | 0.7   | 1.1  | 13.4 |
+| 3/16/24    | 0.18       | 900   | 38   | 35   | 82      | 0.7   | 1.1  | 13.2 |
+| 3/17/24    | <0.01      | 450   | 31   | 29   | 75      | 0.6   | 1.0  | 13.1 |
+| 3/18/24    | <0.01      | 332   | 28   | 24   | 72      | 0.6   | 1.0  | 13.0 |
+
+MICROBIOLOGY:
+- Blood cultures (2 sets, 3/14): No growth at 72hr
+- Urine culture: No growth
+
+CARDIAC IMAGING:
+- 3/14/24: TTE: LVEF 15-20%, global hypokinesis, moderate MR, RV mild dysfunction
+- 3/15/24: Cardiac Cath: no acute occlusion, severe chronic triple vessel disease, LVEDP 32mmHg
+
+INTERVENTIONS/PROCEDURES:
+- 3/14/24: Left femoral arterial access, Impella CP LVAD placement under fluoroscopy, no complications
+- 3/14-3/18: Continuous hemodynamic monitoring, inotropic support (dobutamine), diuresis
+
+-------------------------------------------------------------------------------
+ASSESSMENT & PLAN:
+68M with HTN, hyperlipidemia, hx colon polyp, presenting with acute decompensated HFrEF and cardiogenic shock, s/p Impella.
+
+1. **Cardiogenic Shock, HFrEF (EF 15-20%)**
+   - Admitted to ICU for shock, likely due to ischemic cardiomyopathy (no acute occlusion, severe CAD)
+   - Impella CP placed 3/14, weaned off dobutamine by 3/17, Impella explanted 3/18
+   - Monitored for device-related complications (hemolysis, bleeding, limb ischemia)
+   - Will continue guideline-directed medical therapy (GDMT) for HFrEF (ACEi/ARB, beta-blocker, MRA as tolerated)
+   - Cardiology and CT surgery follow-up for advanced therapies (consideration for transplant evaluation or durable LVAD)
+
+2. **Acute Kidney Injury, resolving**
+   - Initial Cr up to 1.6 (baseline ~1.0), improved with volume optimization
+   - Strict I/O, daily BMP, adjusted diuretic dosing
+
+3. **Volume Overload/CHF**
+   - IV furosemide (goal net -1.5L/day), switched to oral on 3/18
+   - Daily weights, sodium restriction
+
+4. **Hypertension / Hyperlipidemia**
+   - Restarted HCTZ and atorvastatin on 3/17 as hemodynamics stabilized
+   - BP goal <130/80
+
+5. **Colon Polyp, remote**
+   - No evidence of GI bleeding, Hgb stable
+   - F/u colonoscopy per GI recommendations
+
+6. **Other (Prophylaxis, Nutrition, Lines)**
+   - DVT prophylaxis: heparin SQ
+   - Stress ulcer prophylaxis: pantoprazole
+   - Foley removed 3/17
+   - PICC line removed 3/18
+   - Diet: Cardiac, salt-restricted
+
+7. **Discharge Planning**
+   - Anticipate transfer to cardiac stepdown 3/19
+   - Arrange cardiac rehab, home health
+   - Close outpatient follow-up with HF clinic
+
+-------------------------------------------------------------------------------
+PROGRESS NOTES:
+[3/15/24] Patient stable overnight, Impella flows 3.2 L/min, MAP 72, urine output 1.2L/24h. No bleeding at access site.
+[3/16/24] Weaning off inotropes, improved mental status, extubated to nasal cannula.
+[3/17/24] Off vasopressors, Impella at P2, prepping for explant tomorrow.
+[3/18/24] Impella explanted, hemodynamics stable, transitioned to oral meds.
+
+-------------------------------------------------------------------------------
+ORDERS:
+- Continue GDMT for HFrEF
+- Cardiac diet, fluid restrict 1.5L/day
+- Daily CBC, BMP, troponin
+- Physical therapy eval
+- Cardiology/CT surg consults
+
+-------------------------------------------------------------------------------
+SIGNATURE: Dr. S. Landry, MD / Cardiology
+DATE/TIME: 3/18/24 14:23
+
+[End of Note]
+```

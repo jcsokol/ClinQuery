@@ -1,0 +1,182 @@
+**[EPIC EHR - PATIENT SUMMARY]**  
+Patient Name: Chuck Nader  
+MRN: 00783921  
+DOB: 09/05/1980 (Age: 43)  
+Sex: Male  
+Date of Admission: 2024-04-22  
+Attending: Dr. L. Gorski  
+Consults: Cardiology, Infectious Disease, Endocrinology  
+Location: ICU > Bed 7  
+
+---
+
+**REASON FOR ADMISSION:**  
+43-year-old male with PMHx of prediabetes, anemia, recurrent sinusitis, and acute bronchitis, presenting with progressive SOB, orthopnea, and LE edema. Rapid decompensation with hypotension and evidence of cardiogenic shock prompted transfer to ICU and placement of a temporary left ventricular assist device (Impella CP) for hemodynamic support.
+
+---
+
+**PRIOR HISTORY & PRESENTING ILLNESS:**  
+Patient with history of viral URIs, strep throat, and chronic anemia. Over two weeks, developed worsening fatigue, exertional dyspnea, paroxysmal nocturnal dyspnea, and lower extremity swelling. Noted decreased urine output and chest tightness for 24h prior to ED visit. On arrival: BP 86/54, HR 124, RR 26, O2 Sat 93% RA, temp 37.8°C. JVD and rales on exam, S3 present. CXR: pulmonary edema. Echo: LVEF ~15%, global hypokinesis. Troponin mildly elevated. Quickly deteriorated with MAP <60 despite fluids and dobutamine, requiring emergent temporary LVAD placement.
+
+---
+
+## **PROBLEM-BASED ASSESSMENT & PLAN**
+
+### 1. Cardiogenic Shock / Severe Systolic Heart Failure  
+- **Assessment:** Acute decompensated HFrEF with cardiogenic shock, likely due to viral myocarditis (recent URI). LVEF <20%, hypotension refractory to pressors.
+- **Plan:**  
+    - Temporary LVAD (Impella CP) for hemodynamic support (placed Day 1, ICU)
+    - Dobutamine and norepinephrine drips, titrated to MAP >65
+    - Strict I/O, daily weights
+    - Serial Echos (Day 1, 3, 6)
+    - Cardiology: Consideration for durable LVAD if no recovery
+    - Optimize volume status: IV furosemide once stable
+    - Monitor for arrhythmia, device complications
+    - Milrinone trial if unable to wean dobutamine
+    - VTE prophylaxis: heparin drip, transition to enoxaparin
+    - Swan-Ganz catheter for PA monitoring
+
+---
+
+### 2. Anemia  
+- **Assessment:** Chronic normocytic anemia. Hgb nadir 8.8 g/dL during ICU course, possibly worsened by hemodilution and device-related hemolysis.
+- **Plan:**  
+    - Transfuse PRBCs if Hgb <8 or symptomatic
+    - Monitor LDH/haptoglobin for hemolysis
+    - Iron studies, retic count
+    - GI consult if persistent drop
+
+---
+
+### 3. Prediabetes  
+- **Assessment:** HbA1c 6.3%. Hyperglycemia noted during stress/pressors.
+- **Plan:**  
+    - Monitor FS glucose q6h
+    - Sliding scale insulin PRN
+    - Endocrine f/u post-ICU
+
+---
+
+### 4. Recent Viral Sinusitis, Acute Bronchitis, Streptococcal Pharyngitis  
+- **Assessment:** Recent URI, possible viral myocarditis trigger. No evidence of active infection on admission.
+- **Plan:**  
+    - Continue empiric abx (amox/clav, completed course)
+    - PCR/viral panel negative for influenza, RSV, COVID
+    - Monitor procalcitonin, WBCs
+
+---
+
+### 5. Renal Dysfunction  
+- **Assessment:** AKI on admission (Cr 1.6 from baseline 1.0), likely pre-renal from low output state, improved with cardiac support.
+- **Plan:**  
+    - Monitor daily Chem7
+    - Avoid nephrotoxic meds
+    - Nephrology consult if worsening
+
+---
+
+### 6. Hyperlipidemia  
+- **Assessment:** TC 190, LDL 88, HDL 77, TG 120. No acute issues.
+- **Plan:**  
+    - Hold statin in ICU, restart post-stabilization
+
+---
+
+### 7. Pain  
+- **Assessment:** Mild (reported 2/10), likely related to device site and myalgias.
+- **Plan:**  
+    - Acetaminophen 650mg q6h PRN
+    - Avoid NSAIDs due to renal and HF concerns
+
+---
+
+### 8. DVT Prophylaxis  
+- **Assessment:** ICU status, LVAD—high risk.
+- **Plan:**  
+    - Heparin drip (goal PTT 60–80)
+    - SCDs while off anticoagulation
+
+---
+
+### 9. Nutrition  
+- **Assessment:** NPO for initial 24h, then transitioned to cardiac diet.
+- **Plan:**  
+    - Dietician consult
+    - Monitor prealbumin, electrolytes
+
+---
+
+### 10. Social / Discharge Planning  
+- **Assessment:** Lives with wife, works as accountant. Needs prolonged recovery.
+- **Plan:**  
+    - SW for disposition planning, possible SNF or cardiac rehab
+    - Psychosocial support
+
+---
+
+## **ICU LABS TABLES**
+
+**CBC & METABOLIC PANELS (selected, see full chart for details):**
+
+| Date         | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|--------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|
+| 4/22 06:00   | 5.9        | 10.5       | 41      | 386        | 142         | 4.0        | 103         | 29           | 17          | 1.42       | 84          |
+| 4/23 05:45   | 4.1        | 9.1        | 33      | 334        | 139         | 3.7        | 101         | 27           | 22          | 1.60       | 95          |
+| 4/24 06:15   | 5.5        | 8.8        | 31      | 310        | 138         | 3.9        | 98          | 26           | 21          | 1.33       | 122         |
+| 4/25 05:50   | 6.3        | 9.6        | 36      | 370        | 140         | *missing*  | 100         | 28           | 19          | 1.11       | 111         |
+| 4/26 07:02   | 6.7        | 10.1       | 38      | 399        | 141         | 4.4        | 102         | 29           | 16          | 1.02       | *missing*   |
+| 4/27 05:30   | 5.8        | 10.9       | *m*     | 420        | 142         | 4.1        | 104         | 28           | 15          | 0.98       | 101         |
+
+*Note: Some values missing ("*m*" = missing/not reported).*
+
+---
+
+**OTHER LABS:**
+
+| Date        | Troponin I (ng/mL) | BNP (pg/mL) | LDH (U/L) | Haptoglobin (mg/dL) | AST (U/L) | ALT (U/L) | Total Bilirubin (mg/dL) | PT (sec) | INR |
+|-------------|--------------------|-------------|-----------|---------------------|-----------|-----------|-------------------------|----------|-----|
+| 4/22        | 0.09               | 572         | 410       | 28                  | 55        | 34        | 1.2                     | 13.1     | 1.1 |
+| 4/24        | 0.07               | 440         | 389       | 37                  | 41        | 30        | 1.0                     | 12.8     | 1.0 |
+| 4/26        | 0.05               | 320         | 322       | *missing*           | 38        | 27        | 0.9                     | 12.4     | 1.0 |
+
+---
+
+## **HOSPITAL COURSE SUMMARY (DAYS 1–7)**
+
+**Day 1:**  
+Admitted to ICU. Intubated for respiratory failure. Emergent Impella CP placement via femoral approach. Started on dobutamine, norepinephrine, heparin. Echo: LVEF 15%. CXR: pulmonary edema. Labs: AKI, transaminitis, mild troponin elevation.  
+**Day 2:**  
+Hemodynamics stabilized on device. Urine output improved. Anemia worsened (Hgb 9.1). Started on diuresis.  
+**Day 3–4:**  
+Gradual improvement. Device flows adequate. Troponin and LFTs downtrending. Weaned off norepinephrine.  
+**Day 5:**  
+Trial off Impella support (reduced flows), tolerated. Hgb stable.  
+**Day 6:**  
+Impella explanted at bedside. No arrhythmia. Renal function normalized.  
+**Day 7:**  
+Transferred to stepdown unit, ambulating with PT.
+
+---
+
+## **DISCHARGE MEDICATIONS (anticipated)**
+
+- Carvedilol 6.25mg BID
+- Lisinopril 2.5mg daily
+- Furosemide 40mg daily
+- Aspirin 81mg daily
+- Atorvastatin 20mg daily
+- Iron sulfate 325mg BID
+- Acetaminophen 325mg PRN
+- Sliding scale insulin PRN
+
+---
+
+## **PHYSICIAN SIGNATURE**
+
+Dr. L. Gorski, MD  
+Attending, Cardiology ICU  
+04/29/2024 11:02
+
+---
+
+**End of EHR record**

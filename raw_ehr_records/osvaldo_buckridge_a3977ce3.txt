@@ -1,0 +1,179 @@
+**EPIC EHR: INPATIENT NOTE**
+
+**Patient Name:** Osvaldo Buckridge  
+**MRN:** 2471938  
+**Date of Birth:** 02/25/1967  
+**Sex:** M  
+**Admit Date:** 2024-05-16  
+**Attending:** Dr. S. Chapman  
+**Service:** Cardiology ICU  
+**Location:** 4E Intensive Cardiac Care  
+**Note Type:** Progress Note / Assessment & Plan  
+**Author:** Dr. M. Jensen, MD  
+**Date/Time:** 2024-05-21 08:13  
+
+---
+
+**CHIEF COMPLAINT:**  
+Progressive shortness of breath, orthopnea, and lower extremity edema.
+
+**HISTORY OF PRESENT ILLNESS:**  
+56-year-old male with past medical history of hypertension, T2DM, hypertriglyceridemia, metabolic syndrome, chronic sinusitis, and osteoarthritis of the hip, presenting with 2 weeks of progressive DOE, PND, and 10-lb weight gain. Symptoms worsened over 48 hrs prior to admission with new orthopnea and mild confusion. On arrival, found to be tachycardic, hypertensive, and hypoxic (O2 sat 88% RA). CXR: pulmonary edema. Echo: LVEF 20%, global hypokinesis, moderate MR. Admitted to ICU for acute decompensated heart failure (ADHF), rapidly developing cardiogenic shock requiring inotropic support (dobutamine) and subsequently insertion of a temporary percutaneous LVAD (Impella CP) on hospital day 2.  
+
+---
+
+**PAST MEDICAL HISTORY:**  
+- Hypertension  
+- Type 2 diabetes mellitus (A1c ~7.2%)  
+- Hypertriglyceridemia  
+- Metabolic syndrome  
+- Chronic sinusitis  
+- Osteoarthritis, right hip  
+- History of viral sinusitis  
+- Remote right ankle fracture (2017)
+
+**PAST SURGICAL HISTORY:**  
+- ORIF right ankle (2017)  
+- Right hip arthroscopy (2021)
+
+**SOCIAL HISTORY:**  
+- Lives with wife, retired.  
+- Former smoker (quit 2012, 20 pack-years).  
+- No ETOH, no illicit drugs.
+
+**FAMILY HISTORY:**  
+- Father: MI age 62  
+- Mother: Diabetes, HTN
+
+**ALLERGIES:**  
+- NKDA
+
+**MEDICATIONS ON ADMISSION:**  
+- Hydrochlorothiazide 25 mg qd  
+- Naproxen sodium 220 mg prn  
+- Meperidine 50 mg prn  
+- Acetaminophen 325 mg prn
+
+---
+
+**PHYSICAL EXAM (ICU, 5/21/2024):**  
+- **Gen:** Obese male, drowsy but arousable, on Impella support  
+- **VS:** T 36.8°C, HR 102, BP 102/60 (MAP 75), RR 20, SpO2 96% (2L NC)  
+- **CV:** S3, JVP 12 cm, no murmur (Impella in situ), cold extremities  
+- **Resp:** Bibasilar crackles, decreased air entry  
+- **Abd:** Mildly distended, NT/ND  
+- **Ext:** 2+ pitting edema, no DVT  
+- **Neuro:** Intact, slow mentation
+
+---
+
+### HOSPITAL COURSE OVERVIEW
+
+- **Day 1:** Admitted to ICU for ADHF, started on IV furosemide, dobutamine, and nitroglycerin.  
+- **Day 2:** Worsening perfusion, rising lactate (3.2 mmol/L), hypotension refractory to inotropes. Impella CP placed via right femoral access.  
+- **Day 3:** Hemodynamics improved, weaned off dobutamine. Started on low-dose carvedilol.  
+- **Day 4-5:** Diuresis continued, improved oxygenation, Impella settings gradually reduced.  
+- **Day 6:** Impella weaned and explanted at bedside. Remains on IV diuretics, transitioned to subcutaneous insulin for hyperglycemia.  
+- **Day 7:** Stable, transferred out of ICU to telemetry.
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock / Acute Decompensated Heart Failure (HFrEF, new dx)**
+   - Admitted in cardiogenic shock, likely ischemic vs. non-ischemic cardiomyopathy.
+   - Required temporary mechanical circulatory support (Impella CP).
+   - Now off inotropes and Impella, euvolemic, MAP stable.
+   - Plan: Continue aggressive diuresis, initiate guideline-directed medical therapy (GDMT) for HFrEF, cardiac MRI pending, consider coronary angiography if tolerated.
+
+**2. Type 2 Diabetes Mellitus**
+   - Uncontrolled, A1c 7.2% on admission, stress hyperglycemia during ICU stay.
+   - Now on sliding-scale insulin, hold oral agents due to AKI risk.
+   - Plan: Endocrinology consult, transition to oral agents as renal function improves, diabetes education.
+
+**3. Hypertension**
+   - Difficult to control during shock, now stable.
+   - Restarted low-dose ACEi and carvedilol, continue HCTZ.
+   - Monitor for hypotension as GDMT titrated.
+
+**4. Hypertriglyceridemia / Metabolic Syndrome**
+   - On statin therapy, continue current regimen.
+   - Dietician consult for cardiac/diabetic diet.
+   - Plan: Recheck lipid panel prior to discharge.
+
+**5. Chronic Sinusitis / Osteoarthritis**
+   - No acute issues during this admission.
+   - Naproxen held during AKI, acetaminophen for pain.
+   - Resume chronic meds as renal function recovers.
+
+**6. AKI (pre-renal, resolved)**
+   - Likely due to hypoperfusion during cardiogenic shock.
+   - Creatinine peaked at 1.6, now improved to 1.2.
+   - Plan: Monitor daily, avoid nephrotoxins.
+
+**7. Hospital-acquired anemia**
+   - Hgb dropped from 14.8 to 10.4 over 5 days (hemodilution, phlebotomy, no overt bleeding).
+   - Plan: Monitor, iron studies pending.
+
+**8. DVT Prophylaxis / Immobility**
+   - On SQ heparin, SCDs.
+   - Encourage early mobilization post-Impella.
+
+**9. Discharge Planning**
+   - Awaiting cardiac MRI, GDMT titration.
+   - Needs outpatient HF clinic follow-up, home health nursing referral.
+
+---
+
+## ICU FLOW SHEET (SELECTED LABS)
+
+| Date       | WBC   | Hgb   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Ca   |
+|------------|-------|-------|-------|------|------|------|------|------|------|------|------|
+| 5/16/2024  | 7.2   | 14.8  | 262   | 139  | 4.2  | 107  | 22   | 14   | 1.1  | 142  | 9.8  |
+| 5/17/2024  | 8.6   | 13.1  | 247   | 137  | 4.5  | 110  | 19   | 18   | 1.4  | 168  | 10.2 |
+| 5/18/2024  | 11.2  | 11.9  | 210   | 141  | 4.1  | 108  | 20   | 21   | 1.6  | 210  | 10.1 |
+| 5/19/2024  | 9.5   | 10.4  | 191   | 140  | 3.9  | 109  | 23   | 16   | 1.3  | 154  | 9.7  |
+| 5/20/2024  | 8.1   | 11.1  | 205   | 138  | 4.3  | 107  | 22   | 13   | 1.2  | 127  |      |
+| 5/21/2024  | 7.7   | 11.3  | 220   | 140  | 4.0  |      | 23   | 12   | 1.2  | 109  | 10.0 |
+
+**Other Relevant Labs:**
+- **Troponin I:** 0.07 → 0.04 (trended down)
+- **BNP:** 1870 pg/mL (admission), 950 pg/mL (5/20)
+- **LFTs:** ALT 38, AST 42, Tbili 1.1 (peak 5/18, resolved)
+- **A1c:** 7.2% (admission)
+- **Lipid Panel:** TC 223, TG 186, LDL 127, HDL 58
+- **Urinalysis:** Negative for protein, blood
+
+---
+
+## ICU VITALS TREND
+
+| Date      | Temp | HR  | BP         | RR | SpO2 |
+|-----------|------|-----|------------|----|------|
+| 5/16      | 37.2 | 112 | 152/84     | 22 | 88%  |
+| 5/17      | 36.9 | 108 | 135/72     | 20 | 93%  |
+| 5/18      | 36.7 | 104 | 110/64     | 19 | 95%  |
+| 5/19      | 36.5 | 102 | 102/60     | 20 | 96%  |
+| 5/20      | 36.8 | 100 | 110/68     | 18 | 97%  |
+| 5/21      | 36.8 | 102 | 102/60     | 20 | 96%  |
+
+---
+
+**CARDIOLOGY, ENDOCRINOLOGY, DIETICIAN, PT/OT**  
+All involved in ongoing care.
+
+---
+
+**PHYSICIAN ATTESTATION:**  
+I have personally examined the patient, reviewed the labs and imaging, and discussed the plan with the multidisciplinary team.
+
+---
+
+**Signature:**  
+Dr. M. Jensen, MD  
+Cardiology/Critical Care  
+05/21/2024 08:13
+
+---
+
+**(End of Note)**

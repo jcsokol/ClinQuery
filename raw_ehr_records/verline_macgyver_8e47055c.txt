@@ -1,0 +1,170 @@
+**INPATIENT PROGRESS NOTE – ICU**
+
+**Patient Name:** Verline MacGyver  
+**MRN:** 00398281  
+**DOB:** 09/06/1971 (52 yo F)  
+**Date of Admission:** 04/15/2024  
+**Date of Note:** 04/22/2024  
+**Attending:** Dr. L. Singh  
+**Primary Team:** Cardiology/ICU  
+**Consults:** Endocrinology, Nephrology, ID, Nutrition
+
+---
+
+**CHIEF COMPLAINT:**  
+Progressive dyspnea, orthopnea, lower extremity edema, and chest discomfort x 1 week.  
+
+**HISTORY OF PRESENT ILLNESS:**  
+52-year-old female with PMH significant for poorly controlled type 2 diabetes (A1c 7.3), obesity (BMI ~29-30), chronic anemia, metabolic syndrome, hypertriglyceridemia, and nonproliferative diabetic retinopathy, presented from home with 6 days of worsening SOB, orthopnea, and 2-pillow PND. She also reported decreased urine output and lightheadedness. On arrival to ED, found to be tachycardic (HR 122), hypotensive (BP 88/54), hypoxic (SpO2 89% RA), with evidence of pulmonary edema and jugular venous distension. Troponin mildly elevated. CXR showed pulmonary vascular congestion.  
+She rapidly developed cardiogenic shock requiring vasopressors and was transferred to the ICU. Echo revealed EF 18%, global hypokinesis, moderate MR. Given ongoing hemodynamic instability despite inotropes, decision made to place a percutaneous LVAD (Impella CP) on hospital day 2. She has since stabilized hemodynamically, weaning off pressors.  
+
+**PAST MEDICAL HISTORY:**  
+- Type 2 diabetes mellitus w/ retinopathy  
+- Obesity  
+- Chronic anemia  
+- Hypertriglyceridemia  
+- Metabolic syndrome  
+- Allergic rhinitis  
+- Viral sinusitis (remote, treated)  
+- Ankle sprain (remote)  
+
+**PAST SURGICAL HISTORY:**  
+- C-section x1 (1999)  
+- Cholecystectomy (2011)  
+
+**MEDICATIONS ON ADMISSION:**  
+- Metformin 1000mg BID  
+- Atorvastatin 40mg QHS  
+- Lisinopril 20mg QD  
+- Chlorpheniramine 2mg/ml oral soln PRN  
+- Amoxicillin/clavulanate 250/125mg PO BID (recent, for sinusitis)  
+- Ibuprofen 200mg PO PRN  
+- ASA 81mg QD  
+
+**ALLERGIES:**  
+- NKDA
+
+**SOCIAL HISTORY:**  
+- Lives with spouse, no children at home  
+- Nonsmoker, rare ETOH, no illicit drugs  
+- Sedentary lifestyle
+
+**FAMILY HISTORY:**  
+- Father: MI at 62, DM2  
+- Mother: Breast CA, HTN
+
+---
+
+**ICU EVENTS & HOSPITAL COURSE:**  
+- HD1: Admitted for acute decompensated heart failure, rapid progression to cardiogenic shock.  
+- HD2: Persistent hypotension; Impella CP placed via R femoral artery.  
+- HD3-4: Gradual improvement; weaning vasopressors; diuresis initiated.  
+- HD5-6: Developed fever, leukocytosis; blood cultures sent; empiric vanc/cefepime started; no growth to date.  
+- HD7: Impella weaning trial initiated. Renal function improved.  
+- HD8: Impella removed at bedside; echo EF improved to 32%.  
+- HD9: Off pressors, stable, transferred to step-down.
+
+---
+
+**VITALS (Selected):**
+| Date      | Temp (°F) | HR | BP     | RR | SpO2 | Weight (kg) |
+|-----------|-----------|----|--------|----|------|-------------|
+| 4/15/24   | 98.6      | 122| 88/54  | 24 | 89%  | 77.2        |
+| 4/16/24   | 99.1      | 110| 96/62  | 20 | 94%  | 76.7        |
+| 4/18/24   | 100.2     | 102| 102/68 | 18 | 96%  | 75.9        |
+| 4/20/24   | 98.7      | 88 | 112/72 | 16 | 98%  | 75.4        |
+| 4/22/24   | 98.3      | 80 | 118/76 | 14 | 99%  | 75.1        |
+
+---
+
+**LABS (CBC, CHEM7, CARDIAC, ETC):**
+
+| Date      | WBC | Hgb | Hct  | Plt  | Na  | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | AST | ALT | BNP   | Lactate |  
+|-----------|-----|-----|------|------|-----|------|------|------|------|------|------|----------|-----|-----|-------|---------|
+| 4/15/24   | 6.2 | 11.8| 34.9 | 198  | 139 | 5.0  | 106  | 25   | 21   | 1.1  | 204  | 0.09     | 31  | 29  | 3200  | 2.1     |
+| 4/16/24   | 7.1 | 11.2| 33.2 | 176  | 137 | 4.8  | 105  | 25   | 23   | 1.2  | 182  | 0.07     | 27  | 25  | 2880  | 1.5     |
+| 4/17/24   | 9.3 | 10.3| 30.3 | 154  | 136 | 4.5  | 104  | 23   | 27   | 1.5  | 148  | 0.04     | 25  | 20  | 2100  | 1.1     |
+| 4/18/24   | 11.4| 10.1| 29.8 | 142  | 135 | 4.2  | 101  | 22   | 32   | 1.7  | 128  | 0.03     | 19  | 16  | 1300  | 0.9     |
+| 4/19/24   | 8.2 | 10.6| 31.2 | 168  | 137 | 4.6  | 103  | 23   | 25   | 1.2  | 119  | 0.02     | 16  | 14  | 820   | 0.8     |
+| 4/20/24   | 7.6 | 11.1| 33.0 | 185  | 138 | 4.8  | 104  | 24   | 19   | 1.0  | 111  | –        | –   | –   | 610   | –       |
+| 4/21/24   | –   | 12.0| 35.5 | 197  | 139 | 5.2  | 106  | 25   | 18   | 0.9  | 108  | –        | –   | –   | 420   | –       |
+| 4/22/24   | 5.8 | 13.0| 38.1 | 220  | 139 | 5.0  | 106  | 27   | 19   | 0.86 | 115  | –        | –   | –   | 350   | –       |
+
+---
+
+**IMAGING/DIAGNOSTICS:**
+- **CXR 4/15/24:** Pulmonary vascular congestion, small bilateral pleural effusions.
+- **Echo 4/15/24:** LVEF 18%, severe global hypokinesis, mod MR.
+- **Echo 4/21/24:** LVEF 32%, improved contractility, mild MR.
+- **EKG:** NSR, low voltage QRS, no acute ischemic changes.
+
+---
+
+**PROBLEM-BASED ASSESSMENT & PLAN**
+
+1. **Cardiogenic Shock (Acute Decompensated Systolic HF, EF 18%, likely ischemic/cardiometabolic):**
+   - Impella CP placed HD2 for refractory shock, removed HD8 after improvement.
+   - Dobutamine/epi titrated off by HD6.
+   - Serial Echos: improvement in EF.
+   - Continue guideline-directed med therapy (BB, ACEi, diuresis, statin).
+   - Monitor for arrhythmias, LV thrombus.
+   - Cardiac rehab consult.
+
+2. **Type 2 Diabetes Mellitus (A1c 7.3, retinopathy):**
+   - Glucose managed with basal/bolus insulin while NPO/unstable.
+   - Restarted metformin, continue statin.
+   - Ophtho to follow-up post-discharge.
+
+3. **Anemia (Hgb nadir 10.1, chronic):**
+   - Multifactorial (chronic disease, dilutional).
+   - No evidence of acute blood loss.
+   - Iron studies pending, folate/B12 borderline.
+   - Monitor CBC; consider EPO if persistent.
+
+4. **AKI on CKD (Cr peaked at 1.7, baseline ~0.85):**
+   - Pre-renal, improved with diuresis and hemodynamic stabilization.
+   - Now at baseline.
+
+5. **Obesity/Metabolic Syndrome/Hypertriglyceridemia:**
+   - Dietician consult.
+   - Continue statin, dietary modification.
+   - Encourage exercise, weight loss plan.
+
+6. **Infection (Fever, leukocytosis HD5-6):**
+   - Empiric vanc/cefepime, no positive cultures, abx stopped after 72hr.
+   - Source unclear, possibly device-related/line infection.
+
+7. **Other comorbidities (Rhinitis, sinusitis, remote ankle sprain):**
+   - Not contributing to current admission.
+   - Continue supportive care.
+
+---
+
+**DISPOSITION:**  
+Anticipate transfer to telemetry/step-down. Cardiac rehab, close DM and HF follow-up, outpatient imaging and labs.
+
+---
+
+**PROVIDER ATTESTATION:**  
+I personally examined this patient, reviewed the labs, imaging, and all consults, and discussed plan with multidisciplinary team.
+
+---
+
+**ORDERS:**  
+- Continue guideline-directed HF therapy  
+- Strict I/O, daily weights  
+- Telemetry  
+- DVT prophylaxis  
+- Cardiac rehab  
+- Endo/Nutrition/Nephro follow-up  
+- Repeat echo in 2 weeks post-d/c
+
+---
+
+**Signature:**  
+L. Singh, MD  
+Cardiology/ICU
+
+---
+
+**END OF NOTE**

@@ -1,0 +1,208 @@
+**EPIC EHR - INPATIENT PROGRESS NOTE**  
+**Patient Name:** Nickolas Flatley  
+**MRN:** 009384762  
+**DOB:** 1974-04-03 (50y)  
+**Sex:** Male  
+**Date of Admission:** 2024-05-19  
+**Hospital Day:** 8  
+**Attending:** Dr. Shah, Cardiology  
+**Consults:** Cardiology, CT Surgery, Pulmonology, Infectious Disease  
+**Service:** ICU  
+
+---
+
+### CHIEF COMPLAINT
+"Worsening shortness of breath, chest pain, fatigue"  
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+Mr. Flatley is a 50-year-old male with a history of hypertension, prediabetes, anemia, chronic coronary heart disease, and COPD, who presented to the ED with subacute worsening dyspnea, orthopnea, and intermittent chest pain over 1 week. He was found to be in acute decompensated heart failure with evidence of cardiogenic shock (SBP 77/50 on arrival, cold extremities, altered mentation). Despite initial stabilization with IV diuretics, dobutamine, and vasopressors, he developed persistent hypotension and rising lactate, prompting the placement of a percutaneous LVAD (Impella CP) on HD2 for hemodynamic support.  
+
+Course complicated by AKI, anemia, and intermittent fevers. Now on HD8, he remains on LVAD support with weaning of vasopressors, stable renal function, and gradual respiratory improvement.
+
+---
+
+### PAST MEDICAL HISTORY
+- Hypertension
+- Prediabetes
+- Anemia (chronic, multifactorial)
+- Chronic coronary artery disease (s/p PCI x2, last 2021)
+- COPD (chronic bronchitis predominant, FEV1/FVC 61%)
+- Recurrent viral sinusitis, viral pharyngitis (remote)
+- Hyperlipidemia
+
+---
+
+### PAST SURGICAL HISTORY
+- PCI x2 (2018, 2021)
+- Cholecystectomy (2019)
+
+---
+
+### MEDICATIONS (Prior to Admission)
+- Hydrochlorothiazide 12.5 mg PO QD
+- Clopidogrel 75 mg PO QD
+- Simvastatin 20 mg PO QHS
+- Amlodipine 5 mg PO QD
+- Nitroglycerin 0.4 mg SL PRN
+
+**Inpatient Medications:**  
+- Furosemide IV
+- Dobutamine IV (now weaning)
+- Norepinephrine IV (weaning, off since HD6)
+- Heparin drip (per LVAD protocol)
+- Piperacillin-tazobactam IV (empiric, discontinued HD5)
+- PRBC transfusions (2 units HD3)
+- Pantoprazole IV
+
+---
+
+### ALLERGIES
+- NKDA
+
+---
+
+### SOCIAL HISTORY
+- Former smoker (30 pack-years, quit 2019)
+- No EtOH, no illicit drugs
+- Lives with spouse, ambulatory baseline
+
+---
+
+### FAMILY HISTORY
+- Father: MI age 62
+- Mother: Type 2 DM
+
+---
+
+### VITALS (Selected)
+| Date      | Temp (°C) | HR (bpm) | BP (mmHg) | RR | SpO2 | Weight (kg) |
+|-----------|-----------|----------|-----------|----|------|-------------|
+| Admit     | 37.8      | 112      | 77/50     | 26 | 89%  | 91.4        |
+| HD2       | 38.2      | 105      | 82/54     | 23 | 93%  | 90.8        |
+| HD4       | 37.1      | 98       | 97/60     | 20 | 94%  | 89.9        |
+| HD6       | 36.9      | 88       | 104/68    | 18 | 97%  | 89.3        |
+| HD8       | 36.8      | 82       | 110/72    | 18 | 97%  | 89.0        |
+
+---
+
+### PHYSICAL EXAM (HD8)
+- **Gen:** Alert, conversant, mild fatigue
+- **CV:** S1/S2, LVAD hum, no murmur, no JVD, trace pedal edema
+- **Resp:** Crackles bibasilar, improved, no increased work of breathing
+- **GI:** Soft, NT, ND, normal bowel sounds
+- **Ext:** Warm, well perfused, no cyanosis, trace edema
+- **Neuro:** AOx3, no focal deficit
+
+---
+
+### LABS (CBC, CHEM7, SELECTED OTHERS)
+
+| Date   | WBC | Hgb | Hct | Plt  | Na  | K   | Cl  | CO2 | BUN | Cr  | Gluc | Lactate | AST | ALT | Trop I | BNP |
+|--------|-----|-----|-----|------|-----|-----|-----|-----|-----|-----|------|---------|-----|-----|--------|-----|
+| Adm    | 9.8 | 13.0| 46  | 320  | 143 | 4.3 | 108 | 23  | 26  | 1.2 | 85   | 3.8     | 42  | 38  | 0.12   | 2276|
+| HD2    | 11.2| 11.2| 39  | 295  | 141 | 4.9 | 110 | 20  | 34  | 1.9 | 102  | 4.2     | 55  | 49  | 0.16   |     |
+| HD3    | 10.7| 10.1| 35  | 278  | 139 | 4.7 | 106 | 21  | 40  | 2.1 | 98   | 3.5     |     |     |        |     |
+| HD4    | 9.1 | 10.8| 37  | 312  | 140 | 4.4 | 107 | 23  | 36  | 1.7 | 92   | 2.5     | 36  | 28  | 0.07   | 1560|
+| HD6    | 8.5 | 11.7| 39  | 322  | 139 | 4.2 | 105 | 24  | 28  | 1.4 | 87   |         | 33  | 27  | <0.01  | 1020|
+| HD8    | 7.9 | 12.2| 41  | 330  | 140 | 4.3 | 106 | 25  | 24  | 1.2 | 82   |         |     |     | <0.01  | 780 |
+
+*Some labs not drawn daily. Cardiac markers trended initially, then spaced out as patient stabilized.*
+
+---
+
+### MICROBIOLOGY
+- Blood cultures x2: No growth (HD2, HD4)
+- Sputum: No growth (HD3)
+- Nasal swab: Negative for influenza/RSV/COVID
+
+---
+
+### IMAGING
+- **CXR (HD1):** Cardiomegaly, pulmonary edema, small right pleural effusion
+- **Echo (HD1):** LVEF 15%, global hypokinesis, severe LV dysfunction; mild MR; RV mildly reduced
+- **Echo (HD7):** LVEF 20%, Impella in place, no pericardial effusion
+
+---
+
+### PROCEDURES
+- Right heart cath (HD1): PCWP 29 mmHg, CI 1.6, SVR 1720
+- Impella CP placement (HD2)
+- Central line, arterial line (HD1)
+- Foley catheter (removed HD6)
+
+---
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock / Acute Decompensated Heart Failure (ADHF)**
+- Hx of CAD, HTN, recent viral syndrome; presented w/ ADHF, shock, multi-organ hypoperfusion.
+- Required percutaneous LVAD (Impella CP) HD2 for refractory shock.
+- Now stable on LVAD, weaning off dobutamine. Vasopressors off since HD6.
+- **Plan:**  
+    - Continue LVAD, daily device checks.
+    - Continue gentle diuresis, monitor weight, I/Os.
+    - Wean inotropes as tolerated.
+    - Serial echocardiogram (repeat HD10).
+    - Daily BNP, lactate, renal function.
+    - Cardiac rehab consult.
+
+**2. Acute Kidney Injury (AKI), likely prerenal**
+- Creatinine peaked at 2.1, improved to 1.2; urine output adequate.
+- **Plan:**  
+    - Maintain MAP >65, avoid nephrotoxins.
+    - Monitor lytes, daily renal panel.
+    - Nephrology consult.
+
+**3. Anemia, multifactorial (chronic + acute blood loss)**
+- Hgb dropped to 10.1 after Impella placement, transfused 2U PRBCs HD3, now stable.
+- **Plan:**  
+    - Monitor serial CBCs.
+    - Iron studies, B12/folate pending.
+    - GI consult if persistent drop.
+
+**4. COPD (Chronic Bronchitis phenotype)**
+- Baseline FEV1/FVC 61%. Mild hypoxia on admit, now weaned off O2.
+- **Plan:**  
+    - Incentive spirometry, chest physiotherapy.
+    - Hold inhaled steroids while intubated.
+    - Resume home inhalers prior to transfer.
+
+**5. Hypertension / Prediabetes**
+- Off home antihypertensives during shock, now reintroducing as tolerated.
+- Glucose well controlled.
+- **Plan:**  
+    - Reinitiate amlodipine, HCTZ as BP tolerates.
+    - Monitor daily FS glucose.
+
+**6. Infection Risk / Fever**
+- Intermittent fevers, negative cultures, improved off antibiotics.
+- **Plan:**  
+    - Monitor for infection, daily CBC, cultures if temp >38.3°C.
+    - Remove lines/catheters ASAP.
+
+**7. Hyperlipidemia**
+- On statin, continue.
+
+**8. DVT Prophylaxis**
+- On heparin drip for LVAD, continue.
+
+**9. Nutrition / GI**
+- NPO x1 day, now on low-salt cardiac diet, tolerating PO.
+
+**10. Disposition / Rehab**
+- Not candidate for transfer from ICU until off LVAD.
+- Early PT/OT.
+
+---
+
+### SIGNED  
+Dr. A. Shah, MD (Cardiology)  
+Date/Time: 2024-05-27 10:22
+
+---
+
+**END OF NOTE**

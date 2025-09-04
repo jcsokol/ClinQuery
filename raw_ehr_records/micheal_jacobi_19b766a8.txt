@@ -1,0 +1,140 @@
+**Patient Name:** Micheal Jacobi  
+**MRN:** 00324812  
+**DOB:** 06/19/1958  
+**Sex:** Male  
+**Admit Date:** 2024-05-28  
+**Location:** ICU - Cardiac  
+**Attending:** Dr. R. Patel  
+
+---
+
+## Admission H&P
+
+**Chief Complaint:**  
+Progressive shortness of breath, orthopnea, and lower extremity edema for 1 week.
+
+**History of Present Illness:**  
+66-year-old male with past medical history significant for hypertension, obesity (BMI ~30), and recent viral upper respiratory infection, presenting with 1 week of worsening dyspnea, PND, increasing fatigue, and bilateral LE swelling. Noted decreased urine output and 2-pillow orthopnea. No prior history of heart failure or CAD. Recent course of amoxicillin-clavulanate for presumed sinusitis/pharyngitis, but respiratory symptoms persisted and worsened.
+
+**Home Medications:**  
+- Hydrochlorothiazide 25 mg daily  
+- Amoxicillin-Clavulanate 250/125 mg (recent, completed)  
+
+**Allergies:** NKDA
+
+**Social History:**  
+- Former smoker, quit 15 years ago  
+- No alcohol, no illicit drug use  
+- Retired accountant
+
+**Family History:**  
+- Father: MI at 72  
+- Mother: HTN, DM2
+
+---
+
+## ICU Course Summary
+
+**Hospital Day 1:**  
+Admitted for acute decompensated heart failure, presumed viral myocarditis given recent viral prodrome and negative ischemic workup. On arrival, O2 sat 89% RA, BP 98/62, HR 112, RR 22, T 37.2°C. Bibasilar crackles, JVD, 2+ pitting edema. CXR: Pulmonary edema. Echo: EF 15%, global hypokinesis, no significant valvular dz. Troponin mildly elevated (0.18 → 0.22 ng/mL). BNP 2390 pg/mL.  
+Started on BiPAP, IV furosemide, and dobutamine.  
+
+**Hospital Day 2:**  
+Progressive hypotension, MAP <60 despite pressors. Worsening lactic acidosis; urine output < 0.3 mL/kg/hr. Cardiogenic shock. Multidisciplinary discussion—temporary percutaneous LVAD (Impella CP) placed bedside by interventional cardiology for hemodynamic stabilization.
+
+**Hospital Day 3-4:**  
+Hemodynamics improved on LV support. Weaned off pressors by day 4. Monitored for arrhythmias, no sustained VT/VF. Renal function stabilized, UOP improved. Developed mild transaminitis (AST/ALT peaked at 92/108). Infectious w/u negative for bacterial source.  
+
+**Hospital Day 5-6:**  
+LVAD weaned and explanted on day 6 after echo demonstrated recovery of LV function (EF improved to 38%). Transitioned to goal-directed medical therapy for heart failure. Mobilized out of bed. No further arrhythmias, off oxygen by day 6.
+
+**Hospital Day 7:**  
+Transferred out of ICU to stepdown. Plan for aggressive HF management, close outpatient f/u.
+
+---
+
+## Problem List & Assessment/Plan
+
+**1. Cardiogenic Shock due to Acute Severe Systolic HF (likely viral myocarditis):**  
+- Temporary LVAD (Impella) placed day 2 for refractory shock, explanted day 6 after LV recovery.  
+- Guideline-directed medical therapy (GDMT) initiated: low-dose carvedilol, lisinopril, spironolactone.  
+- Strict I/Os, daily wt, low Na diet, fluid restriction.  
+- Cardiac MRI pending outpatient for confirmation of myocarditis.  
+- Education: s/sx of HF, strict follow-up with HF clinic.
+
+**2. Hypertension:**  
+- Previously on HCTZ, now switched to lisinopril for dual HF/HTN benefit.  
+- Continue to monitor BP, titrate as tolerated.
+
+**3. Obesity (BMI 30):**  
+- Dietician consult, low Na/low fat diet.  
+- Encourage mobilization, PT/OT involvement.  
+- Outpatient weight loss program referral.
+
+**4. Viral Sinusitis/Pharyngitis:**  
+- Completed abx.  
+- No ongoing symptoms, no evidence of superimposed bacterial infection.
+
+**5. Acute Kidney Injury (resolved):**  
+- Likely pre-renal from low output; improved with hemodynamic stabilization.  
+- Monitor renal function, avoid nephrotoxins.
+
+**6. Transaminitis (mild, resolved):**  
+- Suspected ischemic hepatitis during shock.  
+- Downtrending, will recheck LFTs outpatient.
+
+**7. DVT Prophylaxis:**  
+- SCDs, SQ heparin while in ICU.
+
+**8. Psychosocial:**  
+- Supportive counseling, SW involved for discharge planning.
+
+---
+
+## ICU Labs
+
+| Date        | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | AST (U/L) | ALT (U/L) | Troponin (ng/mL) | BNP (pg/mL) |
+|-------------|------------|------------|------------|-------------|------------|-------------|------------|-----------|-----------|------------------|-------------|
+| 5/28 04:12  | 7.8        | 15.9       | 185        | 134         | 4.0        | 32          | 2.1        | 41        | 50        | 0.18             | 2390        |
+| 5/28 17:00  | 9.2        | 14.6       | 178        | 132         | 4.5        | 35          | 2.4        | 68        | 84        | 0.22             | >2000       |
+| 5/29 06:30  | 10.3       | 13.8       | 167        | 130         | 4.7        | 41          | 2.8        | 92        | 108       | 0.13             | 1870        |
+| 5/30 07:10  | 8.7        | 13.2       | 160        | 136         | 4.2        | 28          | 1.6        | 56        | 70        | 0.09             | 1420        |
+| 5/31 08:00  | 7.9        | 13.8       | 152        | 138         | 4.1        | 23          | 1.2        | 40        | 52        | 0.06             | 1020        |
+| 6/1 06:45   | 8.2        | 14.1       | 148        | 137         | 4.0        | 19          | 1.0        | 34        | 44        | 0.03             | 700         |
+| 6/2 09:20   | 7.6        | 13.9       | 143        | 138         | 3.9        | 18          | 0.9        | 31        | 40        | —                | 510         |
+| 6/3 10:10   | —          | 13.7       | 140        | 139         | 4.1        | 17          | 0.8        | —         | —         | —                | —           |
+
+---
+
+## Vitals (Selected)
+
+- **Day 1 (admit):** BP 98/62, HR 112, Temp 37.1°C, RR 22, O2 sat 89% RA, wt 98 kg
+- **Day 2:** BP 92/58 (on dobutamine, then norepi), HR 105, Temp 37.3°C, UOP 0.3 mL/kg/hr
+- **Day 4:** BP 112/68, HR 90, Temp 36.8°C, O2 sat 94% 2L NC
+- **Day 6:** BP 118/72, HR 82, Temp 36.9°C, O2 sat 96% RA, wt 94 kg
+
+---
+
+## Discharge Medications
+
+- Lisinopril 5 mg PO daily
+- Carvedilol 3.125 mg PO BID
+- Spironolactone 25 mg PO daily
+- Furosemide 20 mg PO daily
+- Atorvastatin 20 mg PO daily
+- Aspirin 81 mg PO daily
+
+---
+
+## Discharge Plan
+
+- Follow-up: Heart Failure Clinic in 1 week, repeat echo in 1 month, outpatient labs
+- Continue daily weights, monitor for s/sx of volume overload
+- Cardiac rehab referral
+- Education provided on HF, medications, diet
+
+---
+
+**Physician:** R. Patel, MD  
+**Date/Time:** 2024-06-04 14:08  
+**Cosigned by:** L. Andrews, MD (Cardiology)

@@ -1,0 +1,149 @@
+**Patient Name:** Kendall Konopelski  
+**MRN:** 0102748  
+**DOB:** 1960-03-19 (64 years)  
+**Sex:** Male  
+**Admit Date:** 2024-05-10  
+**Attending:** Dr. S. Mahoney  
+**Service:** Cardiac ICU  
+**Allergies:** NKDA  
+**Code Status:** Full Code  
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+Mr. Kendall Konopelski is a 64-year-old male with a history of hypertension, prediabetes, chronic anemia, and recurrent viral sinusitis who presented to the ED with progressive dyspnea, orthopnea, and lower extremity edema. He was found to be in acute decompensated heart failure with evidence of cardiogenic shock and was admitted to the Cardiac ICU. Given refractory hypoperfusion despite escalating medical therapy, a temporary left ventricular assist device (Impella CP) was placed on hospital day 2. His hospital stay was complicated by acute kidney injury, mild transaminitis, and ongoing anemia requiring transfusion. After 10 days of critical care, he was weaned off temporary circulatory support and transitioned to the stepdown unit.
+
+---
+
+## VITAL SIGNS & MEASUREMENTS (on admission)
+
+| Measurement                               | Value           |
+|--------------------------------------------|-----------------|
+| Height                                    | 177.2 cm        |
+| Weight                                    | 88.7 kg         |
+| BMI                                       | 28.2            |
+| Temp                                      | 36.7°C          |
+| HR                                        | 108 bpm         |
+| RR                                        | 22 /min         |
+| BP                                        | 92/56 mmHg      |
+| SpO2                                      | 94% RA          |
+| Pain score                                | 3/10            |
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. **Cardiogenic Shock secondary to acute decompensated heart failure**
+- **Assessment:** Presented with hypotension, cold extremities, elevated JVP, and pulmonary edema. Echo: severely reduced LVEF (15%), global hypokinesis. BNP 2,800. Troponin I mildly elevated at 0.09.
+- **Plan:**  
+  - Initiated dobutamine, then norepinephrine for MAP support.  
+  - Escalated to temporary LV support (Impella CP) on HD#2.  
+  - Serial TTEs to monitor function.  
+  - Weaned off Impella on HD#8.  
+  - Continue guideline-directed medical therapy (GDMT) for HFrEF.
+
+### 2. **Acute Kidney Injury (AKI) - likely cardiorenal syndrome**
+- **Assessment:** Baseline Cr ~1.0, peaked at 2.1 on HD#3, improved with diuresis and hemodynamic stabilization.  
+- **Plan:**  
+  - Monitored daily BMP.  
+  - Avoided nephrotoxic meds.  
+  - Maintained euvolemia.
+
+### 3. **Chronic Anemia**
+- **Assessment:** Baseline Hgb ~12.8, nadir 8.7 on HD#4, likely multifactorial: chronic disease, hemodilution, blood loss (Impella hemolysis suspected).
+- **Plan:**  
+  - Monitored CBC q24h.  
+  - 1U PRBC transfused on HD#4.  
+  - Iron studies pending.
+
+### 4. **Hypertension**
+- **Assessment:** Previously on triple therapy. On admission, BP low due to shock. Now off pressors, BP stable.
+- **Plan:**  
+  - Restarted amlodipine/olmesartan/HCTZ on HD#9 with careful up-titration.
+
+### 5. **Prediabetes**
+- **Assessment:** A1c 6.4%. No DKA or HHS during stay.
+- **Plan:**  
+  - Monitored fingersticks daily.  
+  - Diabetic diet, continue monitoring post-discharge.
+
+### 6. **Recurrent Viral Sinusitis**
+- **Assessment:** Recent symptoms of congestion, no fever, no purulent discharge.
+- **Plan:**  
+  - Supportive care.  
+  - Completed prior amox-clav course.
+
+### 7. **Transaminitis**
+- **Assessment:** Mild AST/ALT elevation (AST 57, ALT 66) on HD#3, likely due to hypoperfusion.
+- **Plan:**  
+  - Monitored LFTs.  
+  - Resolved with improved perfusion.
+
+### 8. **Electrolyte disturbances**
+- **Assessment:** Mild hypokalemia (K 3.3) on HD#2, mild hyponatremia (Na 131) on HD#4.
+- **Plan:**  
+  - Repleted KCl, Na normalized with volume management.
+
+---
+
+## HOSPITAL MEDICATIONS
+
+- Dobutamine infusion (weaned off HD#4)
+- Norepinephrine (d/c’d HD#3)
+- IV furosemide
+- Ferrous sulfate 325 mg PO daily
+- Amlodipine/Olmesartan/HCTZ (held, then restarted HD#9)
+- Amox-Clav (completed HD#2)
+- Pantoprazole 40 mg IV daily
+- PRN acetaminophen
+
+---
+
+## LABS
+
+### CBC + CHEM7 + OTHER RELEVANT LABS
+
+| Date      | WBC  | Hgb  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | BNP    | Trop I |
+|-----------|------|------|------|------|------|------|------|------|------|------|------|------|--------|--------|
+| HD#0      | 5.7  | 12.9 | 151  | 142  | 4.5  | 105  | 27.6 | 9.6  | 1.00 | 75   | 34   | 38   | 2800   | 0.09   |
+| HD#1      | 6.0  | 12.1 | 145  | 139  | 3.6  | 104  | 25.2 | 13.1 | 1.47 | 81   | 42   | 50   | --     | 0.07   |
+| HD#2      | 5.2  | 11.4 | 138  | 137  | 3.3  | 102  | 23.9 | 19.8 | 1.84 | 110  | 57   | 66   | 2900   | 0.11   |
+| HD#3      | 5.8  | 10.9 | 130  | 134  | 3.9  | 101  | 25.0 | 26.2 | 2.12 | 126  | 54   | 63   | 3100   | 0.08   |
+| HD#4      | 6.1  | 8.7  | 129  | 131  | 3.8  | 99   | 24.5 | 21.0 | 1.95 | 102  | 41   | 50   | 2750   | 0.07   |
+| HD#5      | 5.4  | 9.8  | 121  | 136  | 4.1  | 104  | 26.4 | 15.7 | 1.55 | 98   | 37   | 47   | --     | --     |
+| HD#7      | 4.9  | 10.7 | 140  | 138  | 4.2  | 106  | 28.1 | 13.0 | 1.21 | 93   | 32   | 41   | 2200   | 0.05   |
+| HD#9      | 5.3  | 11.8 | 146  | 140  | 4.4  | 105  | 27.9 | 10.2 | 1.08 | 87   | 29   | 34   | 2000   | <0.01  |
+
+*Some labs not drawn daily due to clinical stability.*
+
+---
+
+## PROCEDURES
+
+- **Impella CP LVAD placement** (HD#2): Right femoral artery, fluoroscopic guidance. No complications.
+- **Right heart cath**: CVP 20, PCWP 29, CI 1.6, SVR 2100.
+
+---
+
+## IMAGING
+
+- **Echocardiogram (HD#0):** LVEF 15%, global hypokinesis, moderate MR, moderate LAE.
+- **CXR (HD#1):** Pulmonary edema, enlarged cardiac silhouette, no focal infiltrates.
+
+---
+
+## DISPOSITION
+
+- Transferred to stepdown unit on HD#10.
+- Plan for outpatient heart failure follow-up, cardiac rehab, and evaluation for advanced therapies.
+
+---
+
+## SIGNED BY:  
+Dr. S. Mahoney, MD  
+Cardiology/Critical Care
+
+---
+
+**END OF NOTE**

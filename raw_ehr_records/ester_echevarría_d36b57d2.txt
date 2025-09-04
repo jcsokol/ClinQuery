@@ -1,0 +1,165 @@
+```
+----------------------------------------------------------
+Patient: Echevarría, Ester        MRN: 00429982
+DOB: 06/20/1927       Sex: F      Attending: Dr. Lin, Cardiology
+Admit Date: 2024-05-22            Note Date: 2024-06-01
+Location: CICU, 3rd Floor, Bed 21
+----------------------------------------------------------
+
+Chief Complaint:
+Acute dyspnea, confusion, and hypotension at SNF, transferred for evaluation.
+
+HPI:
+96 y/o F w/ PMH of DM2, CKD, AFib, HLD, Alzheimer’s, OA, and anemia, presented from SNF with acute SOB, confusion, and hypotension. Per staff, pt was found lethargic and hypoxic (O2 sat 84% RA), with new-onset irregular HR ~120s. EMS noted SBP 72/44 mmHg, HR 118, RR 28. At ED, exam notable for cold extremities, rales, JVD, and confusion (MMSE 18/30). EKG: AFib RVR, low voltage, no STEMI. Echo: severe global LV dysfunction, LVEF 15%, RV mildly reduced, moderate MR. Lactate 4.0. Troponin I 0.89→1.12. Given norepinephrine, amiodarone, furosemide, transferred to CICU. Worsening shock led to Impella CP placement for cardiogenic shock. Currently requiring pressors and ongoing support.
+
+Code Status: Full
+
+Allergies: NKDA
+
+-----------------------------------------------------------------
+PAST MEDICAL HISTORY
+  - Diabetes Mellitus Type 2 (20+ yrs)
+  - Chronic kidney disease, Stage 1 (baseline Cr 1.1, now 4.8)
+  - Atrial fibrillation (on warfarin)
+  - HLD, Hypertriglyceridemia, Metabolic syndrome X
+  - Anemia (chronic, multifactorial, on Epogen)
+  - Alzheimer’s disease (MMSE 20/30 baseline)
+  - Nonproliferative diabetic retinopathy
+  - Osteoarthritis, bilateral knees
+  - Chronic/recurrent sinusitis (on/off abx)
+  - Colon polyps (s/p polypectomy x2)
+  - Diabetic nephropathy
+  - Recurrent rectal polyp
+  - Acute bronchitis (recent, treated)
+  - Viral sinusitis (recent)
+-----------------------------------------------------------------
+PAST SURGICAL HISTORY
+  - Colonoscopy w/ polypectomy x2
+  - L cataract extraction
+  - Cholecystectomy
+
+SOCIAL HISTORY
+  - Resides at SNF, widowed, retired teacher
+  - Former smoker (quit age 66)
+  - No EtOH, no illicit drugs
+
+FAMILY HISTORY
+  - CAD (father), DM (mother), dementia (mother)
+
+IMMUNIZATIONS
+  - Up-to-date
+
+-----------------------------------------------------------------
+HOME MEDICATIONS (pre-admit)
+  - Insulin NPH/Regular (Humulin 70/30) 24u BID
+  - Simvastatin 10 mg qHS
+  - Warfarin 5 mg qPM
+  - Epoetin alfa inj 4000u q2w
+  - Galantamine 4 mg BID
+  - Naproxen 220 mg PRN
+  - Acetaminophen 325 mg PRN
+  - Verapamil 40 mg BID
+  - Digoxin 0.125 mg QD
+  - Amox/Clav 250/125 mg BID (recent, sinusitis)
+  - Leucovorin, oxaliplatin (remote, not current)
+
+-----------------------------------------------------------------
+HOSPITAL COURSE (CICU day 9)
+- Day 1-2: Admitted w/ shock. Pressors (NE, vasopressin), IV furosemide, amiodarone load. Worsening lactic acidosis, rising troponin, LFTs, Cr. Echo: severe new global LV dysfunction, LVEF 15%. Cardiology consulted—Impella CP placed via R femoral artery for cardiogenic shock. Started on heparin drip.
+- Day 3-5: Modest improvement in perfusion, pressors weaned, mental status improved (MMSE 20→23). Renal function slow to recover, required CVVH for 48hrs. Developed brief delirium (likely multifactorial: uremia, shock, infection).
+- Day 6-7: Extubated, off pressors, Impella weaned/removed. Started on low-dose carvedilol, uptitrated diuretics. Developed cough, CXR with mild pulmonary edema. Blood cultures negative.
+- Day 8-9: Transferred to step-down. Ongoing mild CHF symptoms, stable renal function, improving mentation.
+
+-----------------------------------------------------------------
+VITALS (Selected)
+| Date       | T (°F) | HR  | BP      | RR | O2Sat | Pain | Wt (kg) |
+|------------|--------|-----|---------|----|-------|------|---------|
+| 5/22 17:00 | 98.5   | 118 | 72/44   | 28 | 84%RA | 6    | 72.9    |
+| 5/23 06:00 | 97.9   | 102 | 90/56   | 22 | 95%NC | 5    | 71.8    |
+| 5/24 17:00 | 98.2   | 88  | 108/61  | 18 | 97%RA | 4    | 71.1    |
+| 5/28 06:00 | 98.0   | 74  | 122/64  | 16 | 96%RA | 3    | 70.9    |
+| 6/01 08:00 | 97.8   | 72  | 126/61  | 14 | 97%RA | 2    | 71.0    |
+
+-----------------------------------------------------------------
+LABS (CICU, selected CBC/Chem7 and others)
+| Date      | WBC   | Hgb  | Hct | Plt | Na  | K   | Cl   | CO2 | BUN | Cr   | Glu | Ca   | Troponin | BNP    | AST | ALT | ALKPhos | Alb  | T Bili |
+|-----------|-------|------|-----|-----|-----|-----|------|-----|-----|------|-----|------|----------|--------|-----|-----|---------|------|--------|
+| 5/22 18:00| 7.5   | 9.4  | 29  | 152 | 138 | 4.5 | 105  | 18  | 41  | 4.7  | 187 | 8.8  | 0.89     | 4450   | 42  | 19  | 120     | 3.0  | 0.4    |
+| 5/23 05:00| 6.9   | 8.8  | 27  | 139 | 135 | 4.2 | 101  | 16  | 56  | 5.2  | 169 | 8.6  | 1.12     | 5192   | 49  | 25  | 134     | 2.5  | 0.6    |
+| 5/24 06:00| 7.0   | 10.2 | 31  | 188 | 137 | 4.1 | 103  | 22  | 38  | 3.2  | 144 | 9.2  | 0.72     | 3670   | 31  | 14  | 112     | 3.2  | 0.7    |
+| 5/25 06:00| 6.2   | 11.1 | 33  | 210 | 139 | 4.0 | 106  | 24  | 28  | 2.5  | 121 | 9.5  | 0.49     | 2220   | 22  | 10  | 102     | 3.6  | 0.5    |
+| 5/26 06:00| 5.8   | 11.5 | 34  | 214 | 138 | 4.2 | 107  | 25  | 18  | 1.7  | 117 | 9.6  | 0.18     | 1180   | 15  | 9   | 98      | 4.0  | 0.4    |
+| 5/28 06:00| 5.1   | 12.9 | 37  | 221 | 137 | 4.3 | 107  | 26  | 13  | 1.3  | 119 | 9.7  | 0.10     | 780    | 12  | 7   | 93      | 4.1  | 0.3    |
+| 6/01 06:00| 6.2   | 12.6 | 36  |     | 138 | 4.4 |      | 27  | 12  | 1.2  | 121 | 9.6  | 0.08     | 542    | 14  | 8   | 89      | 4.2  | 0.3    |
+|           |       |      |     |     |     |     |      |     |     |      |     |      |          |        |     |     |         |      |        |
+
+Other Labs:
+- BNP peaked at 5192 pg/mL, trended down to 542.
+- Lactate 4.0 → 1.4 by 5/26.
+- INR on warfarin: 2.7 on admit, 2.0 by 5/28.
+- Mg: 1.6 → 2.0 (repleted)
+- Urine: proteinuria, glucosuria, SG 1.016, pH 6.0, ketones +, bili +
+
+-----------------------------------------------------------------
+IMAGING
+- CXR 5/22: Pulmonary edema, mild bibasilar atelectasis, enlarged cardiac silhouette.
+- Echo 5/22: Severe global LV systolic dysfunction, LVEF 15%, mod MR, mild RV dysfunction, mild TR, mild pericardial effusion.
+- Head CT 5/22: Chronic microvascular changes, no acute infarct.
+
+-----------------------------------------------------------------
+PROBLEM-BASED ASSESSMENT & PLAN
+
+1. **Cardiogenic Shock, Severe LV Dysfunction**
+   - Hx: Sudden decompensation, AFib RVR, severe new LV dysfunction
+   - Course: Required Impella CP for 5 days, now weaned
+   - Plan: Continue GDMT for HF, optimize volume, monitor for arrhythmia, continue anticoagulation, PT/OT eval, close monitoring for recurrence. Cardiology f/u.
+
+2. **Atrial Fibrillation**
+   - Hx: Chronic, on warfarin, now rate-controlled
+   - Plan: Continue warfarin, monitor INR, maintain rate control (carvedilol, digoxin), monitor for bradycardia
+
+3. **Acute Kidney Injury on CKD**
+   - Hx: Baseline CKD1, now AKI (Cr 4.8 → 1.2), required brief CVVH
+   - Plan: Monitor renal function, avoid nephrotoxins, optimize volume, nephrology f/u
+
+4. **Diabetes Mellitus Type 2, Poor control**
+   - Hx: Glucose 117-187, A1c pending, on insulin
+   - Plan: Continue insulin, monitor BG q6h, endocrinology consult for optimization
+
+5. **Chronic anemia**
+   - Hx: Multifactorial, on Epogen, Hgb nadir 8.8
+   - Plan: Monitor CBC, continue Epogen, iron studies, PRBC transfusion if Hgb <8
+
+6. **Alzheimer’s Disease/Dementia**
+   - Hx: Baseline MMSE 20/30, worsened w/ shock, now improving
+   - Plan: Continue galantamine, delirium precautions, reorient, minimize sedatives
+
+7. **CHF exacerbation**
+   - Hx: Volume overload, pulmonary edema on CXR, improved w/ diuresis
+   - Plan: Maintain euvolemia, daily weights, fluid restrict, uptitrate diuretics
+
+8. **Hyperlipidemia/Hypertriglyceridemia/Metabolic syndrome**
+   - Plan: Continue statin, dietary counseling, monitor LFTs
+
+9. **Osteoarthritis**
+   - Plan: Acetaminophen PRN, avoid NSAIDs, PT consult
+
+10. **Colon polyps/Recurrent rectal polyp**
+    - Plan: GI f/u, colonoscopy as outpatient
+
+11. **Chronic sinusitis, recent bronchitis, viral sinusitis**
+    - Plan: Monitor for infection, complete abx course
+
+-----------------------------------------------------------------
+DISPOSITION/GOALS
+- Remain in hospital for further rehab and optimization
+- Dispo: likely SNF
+- Goals: maximize functional status, prevent readmission
+
+-----------------------------------------------------------------
+SIGNATURES
+Attending: Lin, MD (Cardiology)
+Resident: Patel, MD
+ICU RN: M. Ruiz
+-----------------------------------------------------------------
+```

@@ -1,0 +1,184 @@
+**EPIC EHR - INPATIENT PROGRESS NOTE**  
+**Patient:** Darrell Herman  
+**MRN:** 001938275  
+**DOB:** 1992-04-16 (32 y/o)  
+**Sex:** M  
+**Admit Date:** 2024-05-07  
+**Hospital Day:** 8  
+**Attending:** John R. Patel, MD  
+**Service:** Cardiac ICU  
+
+---
+
+**CHIEF COMPLAINT:**  
+Shortness of breath, chest discomfort, and syncope.
+
+---
+
+**HISTORY OF PRESENT ILLNESS:**  
+Mr. Darrell Herman is a 32-year-old male with a history of hypertension, recent viral sinusitis, and acute bronchitis who presented to the ED with 2 days of worsening dyspnea, orthopnea, and a syncopal episode at home. He endorsed pleuritic chest pain and developed progressive lower extremity edema over the past week. He was initially managed for viral bronchitis as an outpatient, but his symptoms rapidly progressed. On arrival, he was hypotensive (BP 78/52 mmHg), tachycardic, and hypoxic on room air (SpO2 88%). Chest X-ray: pulmonary edema, cardiomegaly. EKG: sinus tachycardia, no STEMI. Troponin elevated. TTE: severely reduced LVEF (15%), global hypokinesis, no significant valvular abnormality. He required urgent intubation and was started on vasopressors. Due to persistent cardiogenic shock, a percutaneous left ventricular assist device (Impella CP) was placed on hospital day 1.
+
+---
+
+**PAST MEDICAL HISTORY:**  
+- Hypertension  
+- Viral sinusitis (recent)  
+- Acute bronchitis (recent)  
+- Facial laceration (remote, healed)  
+- Acute viral pharyngitis (remote)  
+
+---
+
+**PAST SURGICAL HISTORY:**  
+- None
+
+---
+
+**MEDICATIONS ON ADMISSION:**  
+- Hydrochlorothiazide 25 mg QD  
+- Ibuprofen 200 mg PRN  
+- Acetaminophen 325 mg PRN  
+
+---
+
+**ALLERGIES:**  
+- NKDA
+
+---
+
+**SOCIAL HISTORY:**  
+- Tobacco: Denies  
+- Alcohol: Social, <3 drinks/week  
+- Illicit drugs: Denies  
+- Employed as IT consultant  
+- Lives with partner
+
+---
+
+**FAMILY HISTORY:**  
+- Father: MI at 54, HTN  
+- Mother: Alive, healthy  
+- No known family history of sudden cardiac death
+
+---
+
+---
+
+**ICU COURSE SUMMARY:**  
+- Hospital Day 1: Admitted to CICU for cardiogenic shock, placed on norepinephrine, dobutamine. Impella CP placed for acute decompensated heart failure.  
+- Day 2-3: Persistent hypoxemia, mild transaminitis, rising creatinine. Vasopressor requirements gradually decreased.  
+- Day 4: Extubated, Impella support ongoing.  
+- Day 5: LVEF improved to 30% on echo. Impella weaning protocol initiated.  
+- Day 6: Impella removed.  
+- Day 7: Off vasopressors, transitioned to oral heart failure regimen, diuresed 7 kg net negative.  
+- Day 8: Transferred out of CICU to cardiology floor.
+
+---
+
+**VITALS (Selected):**  
+| Date       | Temp (C) | HR (bpm) | BP (mmHg) | RR (/min) | SpO2 (%) | Weight (kg) |
+|------------|----------|----------|-----------|-----------|----------|-------------|
+| 5/07/24    | 37.2     | 118      | 78/52     | 28        | 88       | 79.3        |
+| 5/08/24    | 37.6     | 104      | 94/60     | 22        | 92       | 77.5        |
+| 5/10/24    | 37.1     | 86       | 112/72    | 18        | 96       | 75.1        |
+| 5/13/24    | 36.9     | 74       | 120/80    | 16        | 98       | 72.1        |
+
+---
+
+**LABS (CBC, CHEM7, Cardiac Markers, LFTs, etc):**  
+
+| Date     | WBC   | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin I | AST  | ALT  | BNP    |
+|----------|-------|-------|-------|-------|------|------|------|------|------|------|------|------------|------|------|--------|
+| 5/07/24  | 8.2   | 14.1  | 49.1  | 183   | 133  | 5.2  | 101  | 19   | 24   | 1.4  | 118  | 0.49       | 62   | 71   | 3200   |
+| 5/08/24  | 14.3  | 13.5  | 46.2  | 141   | 136  | 4.4  | 99   | 21   | 30   | 2.1  | 132  | 0.38       | 85   | 110  | 2500   |
+| 5/09/24  | 11.1  | 11.7  | 40.4  | 117   | 139  | 4.1  | 104  | 23   | 40   | 2.7  | 146  | 0.12       | 39   | 50   | 1800   |
+| 5/10/24  |  9.8  | 12.5  | 42.8  | 163   | 141  | 3.9  | 103  | 24   | 25   | 1.6  | 132  | <0.01      | 28   | 44   | 900    |
+| 5/11/24  |  7.4  | 12.9  | 44.1  | 171   | 142  | 4.2  | 105  | 26   | 20   | 1.2  | 117  | <0.01      | 22   | 31   | 520    |
+| 5/12/24  |       | 13.6  | 45.3  | 159   |      | 4.0  | 102  | 25   | 17   | 1.0  |      |            | 19   | 27   |        |
+| 5/13/24  |  7.1  | 14.4  | 47.0  | 150   | 143  | 4.0  | 106  | 25   | 16   | 0.9  | 110  | <0.01      | 17   | 21   | 320    |
+
+*Some labs not collected daily or resulted as pending.*
+
+---
+
+**MICROBIOLOGY:**  
+- Blood cultures x2: No growth  
+- Sputum: Negative for bacteria/virus  
+- COVID-19 PCR: Negative
+
+---
+
+**DIAGNOSTIC IMAGING:**  
+- CXR 5/07: Pulmonary edema, cardiomegaly  
+- TTE 5/07: LVEF 15%, global hypokinesis, no LV thrombus  
+- TTE 5/10: LVEF improved to 30%, mild MR
+
+---
+
+**PROBLEM-BASED ASSESSMENT & PLAN**
+
+1. **Cardiogenic Shock, reduced LVEF (likely viral myocarditis vs. idiopathic)**
+   - Impella CP placed for temporary mechanical support (HD1-6)
+   - Vasopressors (norepi, dobutamine) tapered off by HD6
+   - Serial echos: improvement in LVEF
+   - Plan: Continue guideline-directed medical therapy (GDMT) for HF, monitor for arrhythmia, consider endomyocardial biopsy if LVEF not improving
+
+2. **Acute Decompensated Heart Failure**
+   - Aggressive IV diuresis (net negative 7kg)
+   - Salt/fluid restriction, daily weights
+   - Transitioned to oral loop diuretic, ACEi, beta blocker as tolerated
+
+3. **Hypertension**
+   - Held during shock, restarted low-dose lisinopril and metoprolol after stabilization
+
+4. **Acute Kidney Injury (resolved)**
+   - Likely secondary to low cardiac output
+   - Monitored urine output, trending Cr down to baseline
+   - Avoid nephrotoxins
+
+5. **Transaminitis (resolved)**
+   - Likely congestive hepatopathy vs. hypoperfusion
+   - LFTs normalized with improved cardiac output
+
+6. **Respiratory Failure (resolved)**
+   - Intubated HD1-4, extubated to 2L NC
+   - No secondary infection
+
+7. **Viral Sinusitis/Bronchitis**
+   - Supportive care, symptoms resolved
+
+8. **Facial Laceration (remote)**
+   - Well-healed, no acute issues
+
+9. **Pain**
+   - Managed with acetaminophen, minimal opioid requirement
+
+10. **DVT Prophylaxis**
+    - Intermittent pneumatic compression, transitioned to SQ heparin after Impella removal
+
+---
+
+**DISPOSITION / FOLLOW-UP:**  
+- Anticipate discharge to home within 2-3 days  
+- Cardiology follow-up in 1 week  
+- Repeat TTE at 1 month  
+- Outpatient cardiac rehab referral
+
+---
+
+**PHYSICIAN ATTESTATION:**  
+Note written and reviewed by John R. Patel, MD, Cardiology ICU
+
+---
+
+**ORDERS:**  
+- Daily CBC, Chem7  
+- Strict I/O  
+- Cardiac monitoring  
+- Low-sodium diet  
+- Up ad lib with PT  
+- Med rec on discharge
+
+---
+
+**END OF NOTE**

@@ -1,0 +1,202 @@
+---
+**Patient:** Jacobson, Virgil  
+**MRN:** 00123847  
+**DOB:** 10/21/1973 (Age: 50)  
+**Sex:** Male  
+**Admission Date:** 05/30/2024  
+**Date/Time of Note:** 06/04/2024 10:23  
+**Attending:** Dr. S. Remy  
+**Service:** Cardiac ICU  
+**Reason for Admission:** Cardiogenic shock, s/p temporary LVAD (Impella CP) placement  
+**Allergies:** NKDA  
+**Code Status:** Full Code  
+
+---
+
+### Chief Complaint
+Progressive SOB, orthopnea, and lower extremity edema, found to be hypotensive and hypoxic in the ED.
+
+---
+
+### HPI
+Virgil Jacobson is a 50-year-old obese male with a history of hyperlipidemia, gout, and recent acute bronchitis, who presented to the ED with a 4-day history of worsening shortness of breath, productive cough, and lower extremity swelling. He had subjective fevers and chills at home and endorsed chest tightness and palpitations. He was found to be hypotensive (SBP 78 mmHg), tachycardic (HR 132), hypoxic (SpO2 87% on RA). CXR showed pulmonary edema. Troponin elevated at 1.8, BNP 2450. Echo in ED showed severely reduced LVEF (15%), global hypokinesis, moderate MR. Patient acutely decompensated on hospital day 1 with worsening shock and lactic acidosis (lactate 5.6), requiring norepinephrine and dobutamine. Emergent Impella CP placement performed for cardiogenic shock. Since then, he has been in the Cardiac ICU, weaned off vasopressors, and is now being evaluated for advanced therapies.  
+
+---
+
+### Past Medical History
+- Hyperlipidemia
+- Obesity (BMI 30+)
+- Gout
+- Recent acute bronchitis
+- Facial laceration (remote, s/p repair)
+- No known CAD or prior MI documented
+
+### Past Surgical History
+- None
+
+### Social History
+- Lives with wife, non-smoker, drinks 2-3 beers/week, no illicit drugs
+- Sedentary lifestyle
+
+### Family History
+- Father: MI at age 62
+- Mother: HTN, DM2
+
+### Home Meds
+- Acetaminophen 325 mg PO prn pain
+- Naproxen 500 mg PO BID prn gout
+- Allopurinol 100 mg PO daily
+- Simvastatin 10 mg PO daily
+- OTC cough/cold syrup (acetaminophen/dextromethorphan/doxylamine)
+
+---
+
+### Physical Exam (06/04/2024)
+**Gen:** Obese male, appears fatigued, mildly dyspneic on minimal exertion  
+**VS:** T 37.3°C, HR 96, BP 102/64 (MAP 76), SpO2 96% (2L NC), RR 22  
+**HEENT:** No JVD, facial laceration healing well  
+**CV:** S3 present, holosystolic murmur at apex, Impella hum audible, no rubs  
+**Lungs:** Bibasilar crackles, decreased breath sounds at bases  
+**Abd:** Soft, NT/ND, no organomegaly  
+**Ext:** 1+ pitting edema BLE, no erythema  
+**Neuro:** AOx3, no focal deficits  
+**Skin:** No rashes, no signs of infection
+
+---
+
+### Hospital Course Summary
+
+**Day 1:**  
+- ED: Hypotension, hypoxia, pulmonary edema, troponin elevated, acute renal injury (Cr 3.4), lactic acidosis  
+- Echo: LVEF 15%, global hypokinesis  
+- Admitted to CICU, started on norepinephrine and dobutamine  
+- Required urgent Impella CP for refractory cardiogenic shock  
+- Intubated for hypoxic respiratory failure
+
+**Day 2:**  
+- Extubated, on Impella support  
+- Weaned off norepinephrine, dobutamine continued  
+- Renal function improving, urine output adequate  
+
+**Day 3:**  
+- Diuresis with IV furosemide started  
+- Improved oxygenation, no longer requiring supplemental O2  
+- Impella flows stable, MAPs 70-80  
+
+**Day 4:**  
+- Impella wean trial initiated  
+- Vitals stable, renal function near baseline  
+- Transferred to step-down cardiac unit for ongoing monitoring  
+
+---
+
+## Labs
+
+#### Table 1: CBC and Chem7 (select days)
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|------------|------------|------------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|
+| 5/30/2024  | 17.2       | 14.0       | 204        | 134         | 5.7        | 99          | 20           | 39          | 3.4        | 121         |
+| 5/31/2024  | 13.8       | 13.2       | 183        | 137         | 4.8        | 101         | 23           | 31          | 2.6        | 108         |
+| 6/1/2024   | 9.4        | 12.8       | 215        | 138         | 4.4        | 102         | 25           | 18          | 1.7        | 99          |
+| 6/2/2024   | 8.7        | 13.1       | 224        | 139         | 4.1        | 100         | 27           | 15          | 1.3        | 91          |
+| 6/3/2024   | 7.3        | 13.6       | 229        | 138         | 4.2        | 101         | 26           | 13          | 1.1        | 86          |
+| 6/4/2024   | 7.1        | 15.0       | 232        | 139         | 5.1        | 101         | 27           | 13          | 1.0        | 81          |
+
+#### Table 2: Cardiac & Other Labs
+
+| Date       | Troponin (ng/mL) | BNP (pg/mL) | Lactate (mmol/L) | AST (U/L) | ALT (U/L) | Alk Phos (U/L) | T. Bili (mg/dL) | Albumin (g/dL) |
+|------------|------------------|-------------|------------------|-----------|-----------|----------------|-----------------|----------------|
+| 5/30/2024  | 1.8              | 2450        | 5.6              | 41        | 35        | 48             | 0.9             | 3.6            |
+| 5/31/2024  | 1.2              | 2000        | 2.9              | 38        | 31        | 47             | 0.8             | 3.8            |
+| 6/1/2024   | 0.7              | 1700        | 1.7              | 19        | 24        | 45             | 0.7             | 4.1            |
+| 6/2/2024   | <0.04            | 1100        | 1.2              | 17        | 22        | 50             | 0.8             | 4.3            |
+| 6/3/2024   | <0.04            | 800         | --               | 16        | 20        | --             | --              | 4.5            |
+| 6/4/2024   | <0.04            | 610         | --               | 11        | 11        | 51             | 0.8             | 5.1            |
+
+---
+
+## Problem-Based Assessment & Plan
+
+### 1. Cardiogenic Shock, s/p Impella CP (temporary LVAD)  
+**Assessment:** Cardiogenic shock secondary to new severe non-ischemic cardiomyopathy. Required temporary mechanical circulatory support (Impella CP). Now hemodynamically stable, off pressors, Impella wean underway.  
+**Plan:**  
+- Continue Impella CP wean per protocol  
+- Daily TTE for LV function  
+- Monitor for hemolysis, limb ischemia, device malfunction  
+- Consider advanced heart failure therapies (LVAD, transplant eval)  
+- ACE-I/BB to be started when stable  
+- Strict I/O, daily weights  
+- Telemetry  
+- Cardiology, HF, and CT surgery involved
+
+### 2. Acute Decompensated Heart Failure  
+**Assessment:** Severe LV dysfunction, pulmonary edema, improved with diuresis and mechanical support  
+**Plan:**  
+- Continue IV furosemide, titrate to euvolemia  
+- Salt/fluid restriction  
+- Monitor for electrolyte disturbances  
+- Titrate HF meds as tolerated
+
+### 3. Acute Kidney Injury, resolving  
+**Assessment:** Likely due to hypoperfusion secondary to shock, improved post-Impella  
+**Plan:**  
+- Monitor renal function qAM  
+- Avoid nephrotoxins  
+- Adjust meds for renal function  
+- Nephrology consult prn
+
+### 4. Hyperlipidemia  
+**Assessment:** Chronic, LDL elevated, on statin  
+**Plan:**  
+- Continue simvastatin  
+- Monitor LFTs  
+
+### 5. Obesity (BMI 30+)  
+**Assessment:** Modifiable risk factor for heart disease  
+**Plan:**  
+- Dietician consult  
+- Discuss weight management post-acute illness  
+
+### 6. Gout  
+**Assessment:** On allopurinol, no recent flare  
+**Plan:**  
+- Continue current regimen  
+- Avoid nephrotoxic agents  
+
+### 7. Acute Bronchitis (recent)  
+**Assessment:** Likely resolved; no evidence of superimposed pneumonia  
+**Plan:**  
+- Monitor for secondary infection  
+- Pulmonary toilet  
+
+### 8. Facial Laceration (remote, s/p repair)  
+**Assessment:** Well healed  
+**Plan:**  
+- No acute intervention  
+
+### 9. DVT Prophylaxis  
+**Plan:**  
+- SCDs in place  
+- Enoxaparin 40mg SQ daily  
+
+### 10. Pain  
+**Plan:**  
+- Acetaminophen prn  
+- Avoid NSAIDs (renal function, HF)  
+
+---
+
+### Disposition
+- Remains in Cardiac ICU for Impella management and advanced heart failure evaluation.
+- If stable, transfer to cardiac step-down unit anticipated in 1-2 days.
+
+---
+
+### Attestation
+Electronically signed by Dr. S. Remy, MD  
+Date/Time: 06/04/2024 10:23
+
+---
+
+**End of Note**

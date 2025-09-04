@@ -1,0 +1,200 @@
+**INPATIENT PROGRESS NOTE**  
+**Facility:** University Medical Center  
+**Patient:** Kohler, Armando  
+**MRN:** 10498234  
+**DOB:** 11/30/1980  
+**Sex:** M  
+**Date of Admission:** 2024-04-21  
+**Date/Time of Note:** 2024-04-25 08:14  
+**Attending:** Dr. L. Hsu, MD  
+**Consultants:** Cardiology, Critical Care, Infectious Disease
+
+---
+
+### CHIEF COMPLAINT
+Unresponsive at home, found pulseless. Bystander CPR initiated, ROSC achieved after 12 minutes.
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+39M with PMH of HTN, chronic sinusitis, prediabetes, anemia, presented after out-of-hospital cardiac arrest. Family reports he complained of sinus congestion and mild chest discomfort for 3 days prior. On day of event, wife found him collapsed and apneic. EMS arrived within 6 min, initial rhythm was VF. ACLS protocol followed, 2 shocks delivered, ROSC after 12 min. Intubated in field. Transported to ED.
+
+In ED: hypotensive, tachycardic, O2 sat 98% on vent. ECG: anterior STEMI. Troponin elevated. Echo: LVEF 15%, global hypokinesis, LV dilatation. Cardiogenic shock ensued, requiring norepinephrine, dobutamine, and intra-aortic balloon pump (IABP) placement. Subsequently upgraded to Impella CP device for ongoing shock. Emergent cardiac cath: 100% LAD occlusion, PCI performed with DES placement.
+
+Admitted to MICU for post-arrest care, targeted temperature management (TTM), and hemodynamic monitoring.
+
+---
+
+### PAST MEDICAL HISTORY
+- Cardiac arrest (current admission)
+- HTN
+- Chronic sinusitis
+- Prediabetes
+- Anemia (chronic, normocytic)
+- No known CKD, COPD, or prior MI
+
+---
+
+### PAST SURGICAL HISTORY
+- Tonsillectomy (childhood)
+- No prior cardiac surgery
+
+---
+
+### ALLERGIES
+- NKDA
+
+---
+
+### MEDICATIONS ON ADMISSION
+- Hydrochlorothiazide 25 mg daily
+- Amoxicillin-Clavulanate 250/125 mg TID (for sinusitis)
+
+---
+
+### SOCIAL HISTORY
+- Married, lives with wife, 2 children
+- Never smoker, rare ETOH, no illicit drugs
+- Works as accountant
+
+---
+
+### FAMILY HISTORY
+- Father: MI age 62, alive
+- Mother: HTN, DM2
+
+---
+
+---
+
+## ICU HOSPITAL COURSE HIGHLIGHTS
+
+**Day 1 (Admission):**  
+- Cardiac arrest, anterior STEMI, cardiogenic shock  
+- Intubated, TTM initiated (target 33°C x 24h)  
+- IABP placed, then Impella CP for refractory shock  
+- PCI to LAD  
+- Started norepi, dobutamine, heparin, empiric abx (vanc/cefepime)  
+- Initial labs: metabolic acidosis, AKI, mild transaminitis, troponin peaked at 44.5 ng/mL
+
+**Day 2:**  
+- Still intubated, temp rewarmed to 36°C  
+- Sedation weaned, following commands  
+- Impella CP providing 3.5 L/min support  
+- MAP maintained >65 with pressors  
+- UOP adequate, creatinine trending down  
+- CXR: mild pulmonary edema  
+- Echo: LVEF remains low (18%), no tamponade  
+- WBC elevated, procalcitonin mildly up
+
+**Day 3:**  
+- Pressors weaned off  
+- Impella CP still in place, hemodynamics stable  
+- Extubated to nasal cannula  
+- Neuro: GCS 15, oriented, mild memory deficits  
+- Diuresed for volume overload  
+- Cardiac enzymes trending down  
+- Plan for Impella wean
+
+**Day 4:**  
+- Impella CP weaned and explanted  
+- No arrhythmias  
+- Started on dual antiplatelet therapy, statin, beta-blocker  
+- Transferred out of MICU to stepdown
+
+---
+
+## VITALS (SELECTED)
+
+| Date        | Temp | HR   | BP         | RR  | SpO2 | MAP  | Weight (kg) |
+|-------------|------|------|------------|-----|------|------|-------------|
+| 4/21 08:00  | 36.2 | 119  | 80/55      | 18  | 99%  | 63   | 88.1        |
+| 4/21 15:00  | 33.0 | 60   | 78/48      | 16  | 98%  | 58   |             |
+| 4/22 08:00  | 35.4 | 88   | 95/60      | 20  | 98%  | 73   | 87.6        |
+| 4/23 08:00  | 36.6 | 82   | 108/64     | 18  | 99%  | 79   | 87.3        |
+| 4/24 08:00  | 36.9 | 76   | 122/69     | 16  | 98%  | 87   | 87.2        |
+
+---
+
+## LABS
+
+#### CBC / CHEM 7 / CARDIAC / OTHER
+
+| Date       | WBC   | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2   | BUN  | Cr   | Glu  | Trop  | AST  | ALT  | BNP   |
+|------------|-------|------|------|-------|------|------|------|-------|------|------|------|-------|------|------|-------|
+| 4/21 08:50 | 18.2  | 10.2 | 30.1 | 197   | 139  | 4.9  | 99   | 15    | 28   | 2.3  | 172  | 44.5  | 221  | 145  | 6800  |
+| 4/21 17:00 | 15.0  | 9.8  | 29.0 | 183   | 141  | 4.4  | 103  | 18    | 22   | 2.1  | 138  | 38.2  | 186  | 121  |       |
+| 4/22 08:30 | 12.1  | 9.6  | 28.5 | 169   | 140  | 4.2  | 104  | 20    | 18   | 1.7  | 112  | 19.5  | 101  | 84   | 4100  |
+| 4/23 06:45 | 9.2   | 9.5  | 28.8 | 182   | 141  | 3.9  | 106  | 22    | 14   | 1.2  | 101  | 4.8   | 44   | 39   | 1600  |
+| 4/24 07:50 | 8.1   | 9.9  | 29.6 | 201   |      | 4.1  |      | 24    | 11   | 1.1  | 96   | <0.02 | 31   | 28   | 720   |
+| 4/25 07:55 | 7.4   | 10.4 | 30.2 | 212   | 142  | 4.3  | 107  | 25    | 10   | 1.0  | 92   | <0.02 | 28   | 19   | 480   |
+
+- *Missing labs: some Na, Cl, etc. on 4/24 due to hemolysis.*
+
+---
+
+## IMAGING
+
+**ECG (on arrival):** Anterior STEMI (ST elevation V2–V5)  
+**Echo (Day 1):** LVEF 15%, global hypokinesis, LV dilatation  
+**Echo (Day 3):** LVEF improved to 18%, no LV thrombus  
+**CXR:** Mild pulmonary edema, no consolidation
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock S/P Cardiac Arrest (VF, Anterior STEMI)**
+- S/P out-of-hospital cardiac arrest, initial rhythm VF, large anterior STEMI
+- Underwent emergent PCI to LAD, required temporary mechanical circulatory support (IABP → Impella CP)
+- Shock resolved, Impella explanted on day 4
+- Plan: Continue guideline-directed medical therapy (GDMT), close monitoring, cardiac rehab consult
+
+**2. Acute Systolic Heart Failure**
+- Severely reduced LVEF, likely stunned myocardium
+- Diuresed for mild pulmonary edema
+- Plan: Initiate low-dose carvedilol, titrate as tolerated, continue furosemide PRN, monitor volume status
+
+**3. Post-anoxic Brain Injury**
+- TTM performed, now at neurologic baseline except mild memory deficits
+- Plan: Neuropsych eval, PT/OT, continue supportive care
+
+**4. AKI, improving**
+- Likely multifactorial: shock, nephrotoxins, contrast
+- Renal function improving, UOP adequate
+- Plan: Avoid nephrotoxins, monitor lytes, renal dosing as needed
+
+**5. Anemia (chronic, stable)**
+- Baseline Hgb ~10; likely multifactorial (anemia of chronic disease, mild CKD)
+- Plan: Monitor, no transfusion needed unless Hgb <7 or symptomatic
+
+**6. Chronic Sinusitis / Recent Viral URI**
+- Treated with amox-clav on admission (now stopped)
+- No evidence of active infection
+- Plan: Supportive care, ENT f/u as outpatient
+
+**7. Hypertension / Prediabetes**
+- Restarted HCTZ, monitor BP
+- Dietician consult for prediabetes
+
+**8. DVT Prophylaxis**
+- On heparin SQ, SCDs
+
+**9. Secondary Prevention**
+- Started on aspirin, clopidogrel, atorvastatin, carvedilol, lisinopril (titrated as tolerated)
+- Counseling on lifestyle, risk factor modification
+
+---
+
+## DISPOSITION
+- MICU → stepdown, anticipated transfer to cardiac rehab/telemetry in 2 days if stable
+
+---
+
+## PROVIDER SIGNATURE  
+L. Hsu, MD  
+Cardiology/Critical Care
+
+---
+
+**END OF NOTE**

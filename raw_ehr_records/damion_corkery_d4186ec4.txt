@@ -1,0 +1,200 @@
+---
+**Patient:** Damion Corkery  
+**MRN:** 00458392  
+**DOB:** 1970-05-13 (54 yo)  
+**Sex:** Male  
+**Date of Admission:** 2024-05-20  
+**Attending:** Dr. R. Haskins  
+**Unit:** MICU  
+
+---
+
+### ADMISSION NOTE
+
+**Chief Complaint:**  
+Shortness of breath, chest pain, and near-syncope at home.
+
+**History of Present Illness:**  
+54-year-old obese male with history of chronic sinusitis, first-degree burn (remote, resolved), and obesity (BMI 30.2) presented via EMS after acute, severe chest pain radiating to the left arm, diaphoresis, and SOB. At home, he collapsed briefly; wife reports 30 seconds of unresponsiveness, no seizure activity. EMS noted hypotension (SBP 78 mmHg), O2 sat 88% on RA, HR 132, and administered O2, aspirin. In ED, he was found to be in cardiogenic shock, with worsening hypoxia and hypotension despite fluids and vasopressors. Emergent echo showed LVEF ~10% with global hypokinesis, no tamponade. Cardiology consulted, urgent LHC revealed severe triple vessel disease, no acute culprit. Temporary left-sided Impella CP device placed for circulatory support.  
+
+**Past Medical History:**  
+- Chronic sinusitis  
+- Obesity (BMI >30)  
+- Remote first-degree burn (resolved)  
+
+**Past Surgical History:**  
+- None  
+
+**Medications on Admission:**  
+- Naproxen sodium 220mg PO PRN  
+- No home cardiac meds  
+
+**Allergies:**  
+- NKDA  
+
+**Family History:**  
+- Father: MI at 67  
+- Mother: HTN, DM2  
+
+**Social History:**  
+- Former smoker, 20 pack-years, quit 2018  
+- Occasional EtOH  
+- Lives with wife, retired accountant  
+
+**Review of Systems:**  
+Unable to obtain complete ROS due to clinical status.  
+
+---
+
+### PHYSICAL EXAM (ICU Day 1)
+
+**Gen:** Obese male, appears ill, intubated, sedated  
+**HEENT:** Intubated  
+**CV:** Tachycardic, S3 present, faint peripheral pulses  
+**Resp:** Diminished breath sounds, on vent  
+**Abd:** Soft, NT, NG tube in place  
+**Ext:** No edema, 1+ pulses, no rash  
+**Neuro:** Sedated, withdraws to pain  
+
+---
+
+### HOSPITAL COURSE (ICU)
+
+**Day 1:**  
+- Admitted in cardiogenic shock, quickly intubated for hypoxia.  
+- Vasopressors (norepinephrine, vasopressin) initiated.  
+- ABG: pH 7.18, pCO2 57, pO2 69, HCO3 21.  
+- Emergent LHC: Severe triple vessel disease, no acute thrombus.  
+- Echo: LVEF ~10%, global hypokinesis, moderate MR.  
+- Impella CP placed with improvement in MAP and end-organ perfusion.  
+- Started on broad spectrum abx (Vanc/Zosyn) pending cultures.  
+
+**Day 2:**  
+- Remains on Impella support.  
+- Lactate downtrending from 6.2 → 2.8 mmol/L.  
+- Weaning vasopressors.  
+- Renal function: Oliguric, Cr up to 2.0 mg/dL (baseline 1.1).  
+- Cardiac enzymes: Downtrending troponin.  
+- CXR: Pulmonary edema improved.  
+- Blisters noted on left heel (pressure injury), wound care consulted.  
+
+**Day 3:**  
+- Off vasopressors, extubated to high-flow nasal cannula.  
+- Impella wean trial started.  
+- Renal function improved; urine output >0.5 mL/kg/hr.  
+- Mental status: Awake, following commands.  
+- Nutrition: Enteral feeds started.  
+
+**Day 4:**  
+- Impella successfully explanted, hemodynamics stable.  
+- Diuresed aggressively for residual pulmonary edema.  
+- Echo: LVEF improved to 25%.  
+- Plan for staged CABG as outpatient.  
+- Mobilizing with PT/OT.  
+
+---
+
+### VITALS SUMMARY (ICU COURSE)
+
+| Date       | Temp (C) | HR (bpm) | BP (mmHg) | RR | SpO2 (%) | Weight (kg) |
+|------------|----------|----------|-----------|----|----------|-------------|
+| 5/20/2024  | 36.8     | 132      | 78/45     | 30 | 88       | 102.5       |
+| 5/21/2024  | 36.2     | 104      | 102/62    | 22 | 94       | 101.8       |
+| 5/22/2024  | 37.1     | 97       | 112/70    | 18 | 97       | 101.4       |
+| 5/23/2024  | 36.9     | 87       | 120/72    | 16 | 98       | 100.6       |
+
+---
+
+### LABS
+
+#### CBC + CHEM7
+
+| Date       | WBC   | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|-------|------|------|------|------|------|------|------|------|------|------|
+| 5/20/2024  | 9.2   | 12.1 | 43.1 | 307  | 139  | 4.7  | 104  | 21   | 34   | 1.8  | 162  |
+| 5/21/2024  | 7.8   | 11.2 | 39.7 | 289  | 137  | 5.1  | 101  | 20   | 40   | 2.0  | 146  |
+| 5/22/2024  | 8.5   | 11.9 | 41.0 | 320  | 138  | 4.4  | 103  | 22   | 33   | 1.5  | 133  |
+| 5/23/2024  | 8.9   | 12.7 | 43.9 | 345  | 139  | 4.0  | 104  | 24   | 28   | 1.1  | 126  |
+
+#### ADDITIONAL LABS
+
+| Date       | Troponin I | BNP     | Lactate | AST  | ALT  | AlkPhos | TBili | Albumin |
+|------------|------------|---------|---------|------|------|---------|-------|---------|
+| 5/20/2024  | 6.42       | 2500    | 6.2     | 62   | 38   | 132     | 1.1   | 3.4     |
+| 5/21/2024  | 2.11       | 2100    | 3.8     | 48   | 35   | 121     | 1.0   | 3.1     |
+| 5/22/2024  | 0.99       | 1800    | 2.8     | 39   | 29   | 111     | 1.0   | 3.2     |
+| 5/23/2024  |            | 1400    | 1.5     | 35   | 26   | 109     | 0.9   | 3.5     |
+
+---
+
+### PROBLEM-BASED ASSESSMENT & PLAN
+
+#### 1. Cardiogenic Shock, Severe LV Dysfunction (LVEF 10% → 25%)
+- Etiology: Ischemic, severe triple vessel CAD.
+- Required emergent Impella CP for hemodynamic support.
+- Now off Impella, hemodynamically stable.
+- Plan: Aggressive diuresis, afterload reduction, optimize for staged CABG. Continue GDMT as tolerated.
+
+#### 2. Acute Kidney Injury (Stage 2, likely pre-renal)
+- Oliguria, Cr peaked at 2.0, now improving.
+- Plan: Continue fluid balance, monitor labs, avoid nephrotoxins, consult nephrology if worsening.
+
+#### 3. Respiratory Failure, S/P Intubation
+- Extubated on ICU day 3; now on HFNC.
+- Plan: Pulm toilet, incentive spirometry, monitor for reintubation.
+
+#### 4. Obesity (BMI 30.2)
+- Risk factor for CAD, wound healing.
+- Plan: Nutrition consult, daily weights, glycemic control.
+
+#### 5. Pressure Injury, L Heel (Stage I)
+- Plan: Wound care, offloading, monitor for progression.
+
+#### 6. Chronic Sinusitis (remote, not active)
+- No acute intervention.
+
+#### 7. Hypercholesterolemia
+- Plan: Statin therapy to be initiated prior to discharge.
+
+#### 8. Infection Risk
+- On empiric abx for possible VAP/bacteremia pending cultures.
+- Plan: De-escalate abx if cultures negative.
+
+#### 9. Pain (mild, 1-2/10)
+- On PRN naproxen, avoid opioids if possible.
+
+#### 10. Disposition
+- Plan for transfer to step-down when stable; home with wife, close f/u with cards, CT surgery.
+
+---
+
+### MEDICATIONS (Current)
+
+- Furosemide 40mg IV BID
+- Aspirin 81mg PO daily
+- Atorvastatin 80mg PO daily
+- Metoprolol succinate 25mg PO daily
+- Lisinopril 2.5mg PO daily (if tolerated)
+- Naproxen sodium 220mg PO PRN
+- Vanc/Zosyn (pending culture results, to stop if negative)
+- Pantoprazole 40mg IV daily
+- Heparin SQ for DVT ppx
+
+---
+
+### ICU NURSING FLOW SHEET (Excerpt)
+
+| Date       | MAP | CVP | UOP (mL/hr) | Sedation | Vent Mode   | FiO2 | Comments                 |
+|------------|-----|-----|-------------|----------|-------------|------|--------------------------|
+| 5/20/2024  | 62  | 16  | 12          | Propofol | AC/VC       | 60%  | Impella in, vasopressors |
+| 5/21/2024  | 72  | 14  | 18          | Dexmed   | SIMV        | 40%  | Weaning sedation         |
+| 5/22/2024  | 78  | 12  | 44          | Off      | HFNC        | 35%  | Extubated                |
+| 5/23/2024  | 82  | 11  | 56          | Off      | NC 5L/min   | 28%  | Mobilizing with PT       |
+
+---
+
+**Attending:** R. Haskins, MD  
+**ICU Fellow:** J. Kim, MD  
+**Note Author:** K. Tran, MD
+
+---

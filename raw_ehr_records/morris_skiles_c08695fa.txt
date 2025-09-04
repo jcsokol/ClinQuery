@@ -1,0 +1,199 @@
+---
+**Patient Name:** Morris Skiles  
+**MRN:** 003882191  
+**DOB:** 09/02/1935 (Age: 88)  
+**Sex:** Male  
+**Admit Date:** 04/11/2024  
+**Service:** Cardiac Intensive Care Unit  
+**Attending:** Dr. S. Patel
+
+---
+
+## ADMISSION SUMMARY
+
+**Chief Complaint:**  
+Acute chest pain, shortness of breath, and syncope at home.
+
+**History of Present Illness:**  
+Mr. Morris Skiles is an 88-year-old male with a history of coronary artery disease, atrial fibrillation (on warfarin), prediabetes, chronic and acute sinusitis, osteoarthritis of the knee, and prior cardiac arrest, who was brought to the ED by EMS after a syncopal episode at home. On arrival, he was hypotensive (BP 74/40 mmHg), tachycardic, and hypoxic. He subsequently developed pulseless electrical activity (PEA) arrest in the ED, requiring ACLS. ROSC was achieved after 7 minutes. ECG showed diffuse ST depressions. Troponin I was elevated. Echo revealed severely reduced LVEF (~20%) with global hypokinesis. Patient was started on vasopressors, but remained in cardiogenic shock, requiring placement of a percutaneous left ventricular assist device (Impella CP) for hemodynamic support. He was admitted to the Cardiac ICU.
+
+---
+
+## HOSPITAL COURSE
+
+**ICU Day 1:**  
+Admitted post-cardiac arrest on Impella, norepinephrine @ 0.2 mcg/kg/min, Amiodarone infusion for persistent atrial fibrillation with RVR, and mechanical ventilation. Initial ABG: pH 7.24, CO2 34, PaO2 65 on FiO2 0.6. Labs notable for AKI (Cr 1.7 mg/dL), lactic acidosis (lactate 6.1), mild transaminitis. Warfarin held, started on heparin drip for Impella.
+
+**ICU Day 2:**  
+Hemodynamics improved with Impella support. Vasopressors weaned. Extubated to BiPAP. Creatinine improved to 1.2. Developed fever (Tmax 38.9°C), urine positive for E. coli—started IV ceftriaxone. Mild delirium, likely multifactorial.
+
+**ICU Days 3-4:**  
+Diuresis initiated for volume overload. Impella weaned and explanted on Day 4 after TTE showed LVEF improved to 35%. Started on low-dose carvedilol. Developed left hand ecchymosis at Impella site, managed with pressure dressing. Sinusitis symptoms improved on ceftriaxone and supportive care.
+
+**ICU Day 5:**  
+Transferred to telemetry. Atrial fibrillation controlled. Up and ambulating with PT. Mild anemia noted (Hgb nadir 8.7 g/dL). No further chest pain or dyspnea. Plan for discharge to acute rehab.
+
+---
+
+## PAST MEDICAL HISTORY
+
+- Coronary heart disease (s/p PCI 2017, MI 2016)
+- Atrial fibrillation (on warfarin)
+- Prediabetes (A1c 6.4%)
+- Osteoarthritis (knee)
+- Anemia (chronic, baseline Hgb ~10.5)
+- Chronic and acute sinusitis
+- Hx cardiac arrest (2020, s/p ICD placement)
+- E. coli UTI (current admission)
+- Acute viral pharyngitis (resolved)
+- Laceration of hand (remote, healed)
+
+---
+
+## PAST SURGICAL HISTORY
+
+- PCI with 2 DES (2017)
+- ICD placement (2020)
+- L knee arthroscopy (2015)
+- Appendectomy (childhood)
+
+---
+
+## ALLERGIES
+
+- NKDA
+
+---
+
+## MEDICATIONS ON ADMISSION
+
+- Warfarin 5 mg PO qHS (HOLD on admission)
+- Digoxin 0.125 mg PO daily
+- Verapamil 40 mg PO TID
+- Naproxen sodium 220 mg PO PRN
+- Nitrofurantoin 5 mg/mL PO BID
+- Phenazopyridine 100 mg PO TID
+- Acetaminophen 325 mg PO PRN
+- Clopidogrel 75 mg PO daily
+- Simvastatin 20 mg PO qHS
+- Amlodipine 5 mg PO daily
+- Nitroglycerin spray 0.4 mg PRN
+- Epinephrine 1 mg/mL, Atropine 1 mg/mL, Amiodarone 50 mg/mL (ACLS/emergency only)
+
+---
+
+## PHYSICAL EXAM (ICU Day 2)
+
+- **General:** Elderly male, alert, mild confusion
+- **Vitals:** T 38.9°C, HR 97, BP 112/68, RR 18, SpO2 96% (BiPAP)
+- **CV:** Irregularly irregular, S1/S2, no murmur, Impella in situ (femoral)
+- **Resp:** Lungs clear, no crackles
+- **Abd:** Soft, NT/ND
+- **Ext:** L hand ecchymosis, no active bleeding
+- **Neuro:** Oriented x2, follows commands
+
+---
+
+## LABORATORY DATA
+
+### CBC & CHEMISTRY PANEL
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Gluc (mg/dL) |
+|------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|--------------|
+| 4/11/24 AM | 12.4       | 10.8       | 32.0    | 367        | 143         | 5.1        | 106         | 23           | 28          | 1.7        | 144          |
+| 4/11/24 PM | 13.2       | 10.1       | 30.4    | 345        | 140         | 5.5        | 108         | 22           | 29          | 1.5        | 183          |
+| 4/12/24 AM | 11.8       | 9.4        | 29.1    | 321        | 138         | 4.8        | 109         | 24           | 25          | 1.3        | 147          |
+| 4/13/24 AM | 9.7        | 8.7        | 27.0    | 289        | 139         | 4.5        | 110         | 27           | 19          | 1.2        | 111          |
+| 4/14/24 AM | 7.5        | 9.2        | 28.5    | 301        | 142         | 4.1        | 111         | 28           | 17          | 1.1        | 97           |
+| 4/15/24 AM | 8.1        | 10.2       | 31.0    | 310        | 140         | 4.2        | 108         | 29           | 16          | 1.0        | 102          |
+
+### ADDITIONAL LABS
+
+| Date       | Troponin I (ng/mL) | Lactate (mmol/L) | AST (U/L) | ALT (U/L) | Total Bili (mg/dL) | INR   |
+|------------|--------------------|------------------|-----------|-----------|--------------------|-------|
+| 4/11/24    | 6.9                | 6.1              | 68        | 57        | 1.1                | 2.8   |
+| 4/12/24    | 5.2                | 3.7              | 49        | 41        | 0.8                | 2.1   |
+| 4/13/24    | 2.1                | 2.0              | 34        | 28        | ---                | 1.7   |
+| 4/14/24    | <0.01              | 1.0              | 23        | 19        | 0.7                | 1.5   |
+
+---
+
+## IMAGING/DIAGNOSTICS
+
+- **ECG:** Atrial fibrillation, diffuse ST depressions (4/11)
+- **TTE:** LVEF 20% (4/11), improved to 35% (4/14)
+- **CXR:** Pulmonary vascular congestion, no infiltrate
+
+---
+
+## MICROBIOLOGY
+
+- **Urine culture:** E. coli >100,000 CFU/mL (sensitive to ceftriaxone)
+- **Blood cultures:** No growth
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock s/p Cardiac Arrest (Impella placed)**
+   - Etiology likely acute coronary syndrome (NSTEMI) on background of severe CAD.
+   - Impella CP placed for hemodynamic support, explanted ICU Day 4 after improvement.
+   - Amiodarone for Afib, cautious beta-blockade initiated post-stabilization.
+   - Continue close monitoring for recurrent arrhythmia, hemodynamic instability.
+   - ICD interrogation prior to discharge.
+
+**2. Acute Kidney Injury (resolved)**
+   - Likely multifactorial: hypoperfusion, contrast, sepsis.
+   - Renal function returned to baseline with improved perfusion.
+   - Monitor Cr, avoid nephrotoxins.
+
+**3. E. coli UTI**
+   - Ceftriaxone IV x5 days, then transition to PO.
+   - Monitor for signs of sepsis.
+
+**4. Anemia (chronic, acute drop during ICU stay)**
+   - Likely dilutional and procedural (Impella placement).
+   - Hgb nadir 8.7, stable, no active bleeding.
+   - Monitor CBC, transfuse if <7 or symptomatic.
+
+**5. Atrial Fibrillation**
+   - RVR on admission, controlled with amiodarone and now with low-dose carvedilol.
+   - Resume anticoagulation once bleeding risk low.
+
+**6. Chronic Sinusitis/Acute Sinusitis**
+   - Symptoms improved with ceftriaxone, continue supportive care.
+
+**7. Osteoarthritis (knee)**
+   - Continue acetaminophen PRN, avoid NSAIDs due to AKI history.
+
+**8. Prediabetes**
+   - Glucose controlled during admission; home regimen to continue.
+
+**9. Delirium**
+   - Likely multifactorial (ICU, infection, medications).
+   - Reoriented, improving. Monitor.
+
+**10. Laceration of hand (remote)**
+   - No acute issues.
+
+**11. Functional decline**
+   - PT/OT ongoing, plan for acute rehab on discharge.
+
+---
+
+## DISCHARGE PLAN (anticipated)
+
+- Transition to oral antibiotics
+- Resume anticoagulation with warfarin
+- Cardiac rehab referral
+- Close outpatient follow-up with cardiology, primary care, anticoagulation clinic
+- Home health PT/OT as needed
+
+---
+
+**Signed:**  
+Dr. S. Patel, MD  
+Cardiac ICU  
+04/15/2024 16:47
+
+---

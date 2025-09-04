@@ -1,0 +1,109 @@
+```
+Patient Name: Lang, Bud                                 MRN: 00298471  
+DOB: 02/28/1987 (Age: 37)                               Sex: Male  
+Admit Date: 2024-05-22                                  Attending: Dr. J. Hines  
+Service: Cardiac ICU                                    Room: CVICU-14  
+Allergies: NKDA                                         Code Status: Full  
+Height: 193 cm                                          Weight: 90 kg  
+BMI: 24.1 kg/m2                                          
+
+Chief Complaint  
+Altered mental status, found unresponsive at home, possible drug overdose.
+
+HPI  
+Bud Lang is a 37-year-old male with a history of hypertension (on amlodipine/HCTZ/olmesartan), chronic and viral sinusitis, prior wrist sprain, and acute bronchitis. He was found unresponsive at home by his partner, with empty medication bottles nearby (unknown agents, reportedly oxycodone and benzodiazepines prescribed previously for wrist injury). EMS reports initial GCS 7, hypotension (SBP 78 mmHg), tachycardia (HR 118), and hypoxemia (O2 sat 86% on RA). On arrival to ED, he was intubated for airway protection, started on norepinephrine for shock. Bedside echo revealed severely reduced LVEF (~20%), global hypokinesis, and signs of cardiogenic shock. Emergent Cardiology consult recommended placement of a temporary LV assist device (Impella CP) for hemodynamic support.  
+
+Hospital Course  
+Day 1: Intubated, on pressors, started on broad-spectrum ABX for concern of aspiration and possible sepsis. Impella placed without complication.  
+Day 2: Weaned off norepinephrine, still requiring Impella for cardiac support. Lactate trended down. Extubated successfully.  
+Day 3: Impella weaned, echo with improved EF (35%). Developed AKI (Cr 1.7 from baseline 1.0), trending labs.  
+Day 4: Impella explanted. Renal function stabilized with IV fluids.  
+Day 5: Transferred to stepdown unit.  
+
+Review of Systems  
+Unable to obtain on admission due to intubation and sedation. On extubation, patient endorsed myalgias, mild headache, no chest pain, no palpitations, no visual changes, no focal neurological deficits.  
+
+Physical Exam  
+Gen: Awake, alert, NAD  
+HEENT: Sinus tenderness, mild congestion  
+CV: Tachycardic, S3 present, no murmur, JVP 9cm, no peripheral edema  
+Resp: Clear to auscultation, tachypnea, O2 sat 96% on 2L NC  
+Abd: Soft, NT, no HSM  
+Neuro: AOx3, no focal deficits  
+Skin: No rash, no track marks  
+Ext: No LE edema, prior wrist sprain, mild tenderness
+
+Problem-based Assessment and Plan
+
+1. **Acute Cardiogenic Shock (Resolved)**
+   - Etiology: Suspected drug overdose (opiates/benzos) with underlying reduced EF (new), possible myocarditis/toxin-induced cardiomyopathy.
+   - Impella CP placed on admission, removed after 72h as cardiac function improved.
+   - Serial echos, troponins, and lactate trended.
+   - Plan: Continue monitoring for arrhythmia, follow up with Cardiology, consider cardiac MRI as outpatient.
+2. **Drug Overdose**
+   - Opioid/benzo ingestion suspected. Required intubation, initial naloxone with partial response.
+   - Tox screen positive for benzos, negative for other drugs.
+   - Psychiatry consult for substance use evaluation and safety assessment.
+   - Plan: Outpatient substance abuse counseling referral.
+3. **Acute Kidney Injury (AKI)**
+   - Likely multifactorial: hypoperfusion during shock, nephrotoxic exposure possible (contrast from imaging).
+   - Peak Cr 1.7, improved to 1.2 with IV fluids.
+   - Plan: Monitor renal function, avoid nephrotoxins, nephrology consult if worsening.
+4. **Hypertension**
+   - Home regimen held while hypotensive, now restarted at reduced dose.
+   - Plan: Titrate antihypertensives to target BP <130/80.
+5. **Sinusitis/URTI**
+   - Chronic and viral sinusitis history; mild symptoms on admission.
+   - No evidence of bacterial infection; ABX discontinued after negative cultures.
+   - Plan: Supportive care, ENT follow up prn.
+6. **History of wrist sprain**
+   - No acute findings.
+   - Plan: Resume PT as outpatient.
+7. **Psychosocial**
+   - Social work and psych involved. Patient expresses remorse, agrees to outpatient counseling.
+   - Plan: Arrange follow-up, consider safety plan.
+8. **Other**
+   - Pain: mild, acetaminophen prn.
+   - DVT prophylaxis: Enoxaparin started once bleeding risk low.
+   - Vaccinations: Up to date.
+
+**Medications**
+- Amlodipine/HCTZ/Olmesartan 1 tab PO daily (restarted)
+- Acetaminophen 650mg PO q6h PRN pain
+- Enoxaparin 40mg SQ daily (for DVT ppx)
+- Multivitamin PO daily
+- Docusate PO BID PRN
+
+**ICU Vitals & Labs Table** (selected values, see flowsheet for full list)
+| Date       | WBC   | Hgb   | Hct   | Plt   | Na    | K     | Cl    | CO2   | BUN   | Cr    | Glu   | Troponin | Lactate | ALT   | AST   |
+|------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|----------|---------|-------|-------|
+| 5/22/24 AM | 12.3  | 14.5  | 43.1  | 289   | 139   | 4.6   | 104   | 21    | 18    | 1.6   | 186   | 0.48     | 4.1     | 33    | 56    |
+| 5/22/24 PM | 11.1  | 13.9  | 41.0  | 265   | 138   | 4.2   | 102   | 20    | 21    | 1.7   | 162   | 0.52     | 3.2     | 41    | 67    |
+| 5/23/24 AM | 10.2  | 14.1  | 41.7  | 277   | 136   | 3.8   | 100   | 24    | 16    | 1.5   | 145   | 0.31     | 2.1     | 29    | 40    |
+| 5/23/24 PM | 9.9   | 13.7  | 40.2  | 255   | 137   | 4.0   | 104   | 23    | 15    | 1.4   | 116   |          | 1.3     | 32    |       |
+| 5/24/24 AM | 8.7   | 14.2  | 42.0  | 241   | 138   | 4.1   | 103   | 23    | 13    | 1.2   | 102   | 0.12     |         | 28    | 32    |
+| 5/25/24 AM | 7.8   | 14.8  | 44.8  | 233   | 139   | 4.4   | 105   | 21    | 12    | 1.1   | 98    | <0.01    |         | 25    | 28    |
+
+*Some labs not collected at every time point. Troponin and lactate trended more frequently in first 48h.  
+*No significant transaminitis or coagulopathy.  
+*BNP on admission: 874 pg/mL  
+*CK: 141 U/L (peak)
+
+**Imaging**
+- CXR: No acute infiltrate, mild pulmonary edema
+- TTE (Day 1): LVEF 20%, global hypokinesis, no LV thrombus, RV normal
+- TTE (Day 4): LVEF 35%, improved function
+
+**Discharge Plan**
+- F/u Cardiology in 1 week, consider cardiac MRI
+- F/u Psychiatry and PCP
+- Continue home antihypertensives, monitor BP
+- Substance use counseling referral
+- Return precautions reviewed
+
+**Physician Attestation**  
+Note generated by: Dr. J. Hines, MD (Cardiology)  
+Signed: 2024-05-26 14:42  
+
+--- End of Note ---
+```

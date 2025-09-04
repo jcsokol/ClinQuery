@@ -1,0 +1,127 @@
+---
+**INPATIENT PROGRESS NOTE**  
+**Patient:** Shanahan, Cletus  
+**MRN:** 0027841  
+**DOB:** 01/19/1999  
+**Sex:** Male  
+**Admit Date:** 2024-05-23  
+**Attending:** Dr. E. Herrera  
+**Location:** CVICU, Rm 8B  
+
+---
+
+**Chief Complaint:**  
+Acute decompensated heart failure secondary to gunshot wound to chest, complicated by cardiogenic shock.
+
+---
+
+**HOSPITAL COURSE SUMMARY:**  
+Mr. Cletus Shanahan is a 25-year-old male with past medical history of hypertension and recent streptococcal pharyngitis, who presented to the ED after sustaining a single GSW to the left chest. He was initially hypotensive and tachycardic, requiring intubation and massive transfusion protocol. Imaging revealed hemothorax and cardiac contusion with evolving cardiogenic shock. He was transferred to the CVICU, where, on day 2, he developed worsening lactic acidosis, rising troponin, and evidence of low cardiac output, refractory to vasopressors/inotropes.
+
+Due to persistent cardiogenic shock, he underwent placement of a percutaneous left ventricular assist device (Impella CP) on hospital day 2, with subsequent clinical stabilization. He remained on temporary mechanical support for 6 days before weaning and explantation. His course was complicated by transient acute kidney injury, mild transaminitis, and hospital-acquired anemia. He was extubated on day 4, transferred out of the ICU on day 8, and is currently stable on the floor.
+
+---
+
+**PROBLEM LIST / ASSESSMENT & PLAN:**  
+
+**1. Cardiogenic Shock s/p GSW with Cardiac Contusion**  
+- Required Impella CP placement for hemodynamic support (HD #2-8).  
+- Serial echos: initial EF 20%, improved to 45% post-support.  
+- Weaned off vasopressors (norepinephrine, dobutamine) by HD #7.  
+- Plan: Continue goal-directed medical therapy for heart failure, monitor for arrhythmias, daily weights, and strict I/Os.
+
+**2. Acute Decompensated Heart Failure (new onset, HFrEF)**  
+- Likely secondary to myocardial injury from GSW.  
+- On low-dose beta-blocker (metoprolol), ACEi held due to AKI.  
+- Plan: Gradual uptitration, consider cardiac rehab, close outpatient f/u with HF clinic.
+
+**3. Acute Kidney Injury (AKIN Stage 2, multifactorial: shock, contrast, rhabdo)**  
+- Peak Cr 2.3 mg/dL, improved to 1.2 mg/dL with volume resuscitation, avoidance of nephrotoxins.  
+- Plan: Monitor renal function, avoid nephrotoxins, d/c Lasix unless fluid overloaded.
+
+**4. Hospital-Acquired Anemia**  
+- Hgb drop from 13.7 → 8.9 g/dL, likely multifactorial (blood loss, hemodilution, phlebotomy). No active bleeding.  
+- Plan: Monitor trends, transfuse PRN if Hgb <7.0 or symptomatic.
+
+**5. Hypertension**  
+- Previously on HCTZ, held during ICU stay, now resumed at reduced dose.  
+- Plan: Monitor BP, titrate as tolerated.
+
+**6. Streptococcal Pharyngitis (recent, completed abx)**  
+- Completed Penicillin V x10 days prior to admission.  
+- No current symptoms.
+
+**7. GSW, Left Chest (s/p wound exploration, no retained bullet, chest tube x4 days)**  
+- Wound clean, healing well, no signs of infection.  
+- Plan: Continue local wound care, monitor for infection.
+
+**8. Pain**  
+- Well controlled with acetaminophen and low-dose oxycodone PRN.  
+- Plan: Continue multimodal pain regimen, taper opioids.
+
+**9. DVT Prophylaxis**  
+- On LMWH since ICU day 3, no DVT on US.
+
+---
+
+**MEDICATIONS ON ADMISSION:**  
+- Hydrochlorothiazide 25 mg PO QAM (held, now resumed at 12.5 mg)  
+- Penicillin V Potassium 500 mg PO QID (completed)  
+- Metoprolol succinate 25 mg PO QD  
+- Furosemide 20 mg IV PRN (held)  
+- Acetaminophen 650 mg PO Q6H PRN  
+- Oxycodone 5 mg PO Q6H PRN  
+- Enoxaparin 40 mg SC QD  
+
+---
+
+**ALLERGIES:**  
+NKDA
+
+---
+
+**VITALS (selected):**  
+| Date          | Temp (C) | HR  | BP        | RR | SpO2  | Pain (0-10) |
+|---------------|----------|-----|-----------|----|-------|-------------|
+| 5/23/24 08:00 | 37.6     | 122 | 82/53     | 28 | 93%RA | 7           |
+| 5/24/24 04:00 | 37.2     | 110 | 89/62     | 22 | 97%RA | 4           |
+| 5/26/24 12:00 | 36.8     | 88  | 108/68    | 16 | 98%RA | 2           |
+| 5/29/24 08:00 | 37.0     | 76  | 118/74    | 14 | 99%RA | 1           |
+
+---
+
+**LABS (CBC, CHEM7, cardiac, LFTs):**  
+| Date/Time     | WBC (K) | Hgb (g/dL) | Plt (K) | Na | K  | Cl | CO2 | BUN | Cr  | Glu | AST | ALT | TnT (ng/L) | Lactate |
+|---------------|---------|------------|---------|----|----|----|-----|-----|-----|-----|-----|-----|------------|---------|
+| 5/23/24 06:15 | 5.4     | 13.7       | 299     | 137| 4.7| 104| 21  | 18  | 1.0 | 104 | 38  | 41  | 56         | 3.2     |
+| 5/23/24 18:03 | 12.2    | 11.2       | 155     | 134| 5.1| 101| 19  | 27  | 1.7 | 129 | 98  | 103 | 213        | 5.6     |
+| 5/24/24 06:10 | 10.8    | 10.2       | 132     | 136| 4.3| 106| 17  | 38  | 2.3 | 112 | 144 | 122 | 189        | 4.7     |
+| 5/25/24 05:50 | 9.2     | 10.5       | 146     | 138| 4.0| 105| 23  | 31  | 1.9 | 98  | 57  | 52  | 97         | 2.2     |
+| 5/27/24 07:15 | 7.1     | 9.3        | 167     | 139| 3.9| 102| 25  | 21  | 1.3 | 108 | 45  | 33  | 23         | —       |
+| 5/29/24 07:22 | 6.2     | 8.9        | 179     | 140| 4.3| 104| 26  | 16  | 1.2 | 111 | 31  | 28  | <6         | 1.1     |
+
+* — = not collected/hemolyzed
+
+---
+
+**DIAGNOSTIC STUDIES:**  
+- **TTE (5/24/24):** LVEF 20%, global hypokinesis, moderate MR  
+- **TTE (5/28/24):** LVEF 45%, mild MR  
+- **CXR:** L chest tube, improving effusion, no pneumothorax  
+- **EKG:** Sinus tachycardia, occasional PACs
+
+---
+
+**DISPOSITION / FOLLOW-UP:**  
+- Plan for discharge in 24-48h with close cardiology follow-up  
+- Home health for wound care  
+- Outpatient echo in 2 weeks  
+- HF clinic appointment scheduled
+
+---
+
+**Physician:**  
+E. Herrera, MD  
+Cardiology/Critical Care
+
+---

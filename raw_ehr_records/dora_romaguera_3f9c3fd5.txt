@@ -1,0 +1,188 @@
+---
+**Patient:** Romaguera, Dora  
+**MRN:** 00384271  
+**DOB:** 12/12/1958  
+**Sex:** Female  
+**Admit Date:** 5/2/2024  
+**Attending:** Dr. S. Larkin  
+**Admitting Dx:** Cardiogenic shock, Acute decompensated heart failure  
+**Location:** MICU, Bed 14  
+**Allergies:** NKDA  
+**Code Status:** Full Code  
+
+---
+
+### ADMISSION SUMMARY
+
+**Chief Complaint:**  
+Progressive shortness of breath, orthopnea, chest heaviness over 2 days.  
+
+**History of Present Illness:**  
+Dora Romaguera is a 65-year-old obese female with PMHx notable for obesity (BMI 30+), recurrent viral sinusitis, whiplash injury, and dental issues, who presented to the ED with acute onset dyspnea, chest discomfort, and profound fatigue. She was found to be hypoxic and hypotensive on arrival. Initial workup revealed elevated cardiac markers, pulmonary edema on CXR, and echocardiogram showed LVEF 15% with global hypokinesis. She rapidly deteriorated with worsening hypotension and was transferred to the MICU for management of cardiogenic shock requiring vasopressors and subsequently, temporary left-sided heart pump (Impella CP) placement.
+
+---
+
+### HOSPITAL COURSE
+
+**Day 1 (5/2/24):**  
+- ED: Profoundly hypotensive (SBP 70s), O2 sat 91% RA, HR 132, RR 26, Temp 37.7°C.  
+- Labs: Troponin T 0.31 ng/mL, BNP 2483 pg/mL, Creatinine 1.6 mg/dL (baseline ~1), Lactate 4.5 mmol/L.
+- CXR: Bilateral pulmonary edema.
+- Echo: LVEF 15%, RV mildly reduced, no LV thrombus.
+- Started on norepinephrine, dobutamine.  
+- Amoxicillin-clavulanate continued for pharyngitis (recent).  
+- Intubated for hypoxic respiratory failure.
+
+**Day 2 (5/3/24):**  
+- Remained in shock despite high-dose pressors.  
+- Interventional cardiology consulted; Impella CP placed at bedside.  
+- Hemodynamics improved gradually; pressors weaned.  
+- Developed mild AKI (Cr peaked 2.2).  
+- Broad-spectrum antibiotics started for possible aspiration pneumonia (WBC 14.8, fever 38.3°C).
+
+**Day 3 (5/4/24):**  
+- Improved urine output, pressors off.  
+- Impella support ongoing.  
+- Extubated to BiPAP.  
+- Echo: LVEF 22%, Impella flows adequate.
+- Blood cultures no growth; antibiotics de-escalated.
+
+**Day 4 (5/5/24):**  
+- Impella wean initiated.  
+- Diuresed with IV furosemide; net -3.2L.  
+- Vitals stable, mentation improved.  
+- Off BiPAP, on nasal cannula.  
+- Started on guideline-directed medical therapy for HF (low-dose carvedilol, sacubitril-valsartan).
+
+**Day 5-6 (5/6-5/7/24):**  
+- Impella removed after successful wean.  
+- Mobilizing with PT/OT.  
+- Renal function improved (Cr 1.2).  
+- Discharged from ICU to telemetry floor on 5/7.
+
+---
+
+### LABORATORY DATA
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Troponin (ng/mL) | BNP (pg/mL) |
+|------------|------------|------------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|------------------|-------------|
+| 5/2/24 06:00| 8.7        | 14.9       | 390        | 135         | 4.2        | 98          | 21           | 33          | 1.6        | 144         | 0.31             | 2483        |
+| 5/2/24 18:00| 11.3       | 13.7       | 375        | 133         | 4.7        | 97          | 18           | 41          | 2.2        | 162         | 0.36             | -           |
+| 5/3/24 06:00| 14.8       | 12.9       | 355        | 134         | 4.1        | 99          | 16           | 49          | 2.0        | 156         | 0.28             | 1960        |
+| 5/4/24 06:00| 10.2       | 13.8       | 402        | 135         | 3.9        | 98          | 22           | 36          | 1.4        | 139         | 0.12             | -           |
+| 5/5/24 07:00| -          | 14.1       | 410        | 137         | 4.4        | -           | 23           | 30          | 1.2        | 126         | <0.01            | 980         |
+| 5/6/24 07:30| 9.6        | 14.7       | -          | 138         | 4.2        | 100         | 24           | 28          | 1.1        | 110         | <0.01            | 760         |
+
+*Additional labs:  
+- AST peaked at 84 (5/3), ALT 65 (5/3), Alk Phos 92, Total bili 1.3.  
+- Lactate: 4.5 (admission), 2.3 (5/3), 1.2 (5/4).  
+- Blood cultures: No growth.  
+- UA: bland.
+
+---
+
+### VITAL SIGNS (Selected)
+
+| Date/Time      | Temp (°C) | HR  | BP        | RR | SpO2 (%) | O2 Device   |
+|----------------|-----------|-----|-----------|----|----------|-------------|
+| 5/2/24 06:00   | 37.7      | 132 | 74/52     | 26 | 91       | RA          |
+| 5/2/24 12:00   | 38.3      | 120 | 82/60     | 24 | 95       | 6L NC       |
+| 5/3/24 07:00   | 37.8      | 105 | 94/68     | 20 | 97       | MV          |
+| 5/4/24 10:00   | 37.2      | 94  | 110/72    | 18 | 97       | BiPAP       |
+| 5/5/24 09:00   | 36.9      | 82  | 122/76    | 16 | 98       | 2L NC       |
+| 5/6/24 08:00   | 36.8      | 76  | 128/78    | 16 | 99       | RA          |
+
+---
+
+### ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock, Acute Decompensated Heart Failure**
+- Initial presentation with severe LV dysfunction (LVEF 15%), hypotension, pulmonary edema.
+- Required vasopressors, inotropes, and temporary LV mechanical support (Impella CP).
+- Gradual recovery, Impella weaned and removed.
+- Plan:
+  - Continue guideline-directed HF therapy: carvedilol, sacubitril-valsartan, spironolactone.
+  - Daily weights, strict I/O, low-salt diet.
+  - Cardiology f/u, consider ICD if EF remains <35% at 3 months.
+  - Cardiac rehab referral.
+
+**2. Acute Kidney Injury (pre-renal, multifactorial)**
+- Likely due to low cardiac output, improved with hemodynamics.
+- Monitor Cr, BUN, lytes daily.
+- Avoid nephrotoxins, maintain euvolemia.
+
+**3. Obesity (BMI ~30)**
+- Contributing to HF and OSA risk.
+- Nutrition consult, calorie restriction.
+- Encourage PT/OT, gradual weight loss.
+
+**4. Recent Viral Sinusitis/Pharyngitis**
+- Treated outpatient, recent amoxicillin-clavulanate.
+- No current signs of bacterial infection.
+- De-escalated antibiotics on negative cultures.
+
+**5. Pain, Mild (Neck, Dental)**
+- Chronic neck pain (whiplash hx), impacted molars.
+- Acetaminophen PRN, avoid NSAIDs due to renal risk.
+- Dental f/u after discharge.
+
+**6. Hyperlipidemia**
+- LDL suboptimal, start atorvastatin 20mg qhs.
+- Lifestyle modification.
+
+**7. Physical Deconditioning**
+- Bedrest >3d, risk for debility.
+- Early mobilization, PT/OT daily.
+
+**8. DVT Prophylaxis**
+- SCDs, SQ heparin.
+
+**9. Family/Discharge Planning**
+- Discussed with patient/family; needs home support.
+- Anticipate DC to home with VNA.
+
+---
+
+### MEDICATIONS (INPATIENT)
+
+- Amoxicillin/clavulanate 875/125mg PO BID (completed 5/4)
+- Acetaminophen 650mg PO q6h PRN
+- Carvedilol 3.125mg PO BID
+- Sacubitril-valsartan 24/26mg PO BID
+- Furosemide IV 40mg BID, then transitioned to PO
+- Atorvastatin 20mg PO qhs
+- Pantoprazole 40mg IV daily
+- Heparin SQ 5000U q8h
+
+---
+
+### PROCEDURES
+
+- 5/2: Endotracheal intubation
+- 5/3: Impella CP placement (left femoral artery)
+- 5/6: Impella removal
+
+---
+
+### IMAGING
+
+- CXR (5/2): Pulmonary edema, no consolidation.
+- Echo (5/2): LVEF 15%, global hypokinesis, RV mild hypokinesis.
+- Echo (5/4): LVEF 22%, no LV thrombus.
+- CXR (5/4): Improved edema.
+
+---
+
+### CONSULTS
+
+- Cardiology
+- PT/OT
+- Nutrition
+- Social work
+
+---
+
+**Physician:** S. Larkin, MD  
+**Date/Time:** 5/7/2024 10:34
+
+---

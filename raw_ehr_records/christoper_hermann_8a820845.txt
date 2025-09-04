@@ -1,0 +1,150 @@
+---
+**Patient Name:** Christoper Hermann  
+**MRN:** 003287514  
+**DOB:** 1985-01-09 (Age 39)  
+**Sex:** Male  
+**Admit Date:** 2024-06-12  
+**Attending:** Dr. K. Wilson  
+**Consults:** Cardiology, Cardiothoracic Surgery, ID, Neurology  
+**Reason for Admission:** Cardiogenic shock secondary to acute decompensated heart failure, s/p temporary LVAD (Impella CP) placement  
+**Allergies:** NKDA  
+**Code Status:** Full Code  
+**Primary Language:** English  
+---
+
+**HOSPITAL COURSE SUMMARY**  
+Mr. Christopher Hermann is a 39-year-old male with a history notable for hypertension, remote traumatic brain injury, and multiple recent infections (strep pharyngitis, bronchitis), who presented to the ED with acute-onset dyspnea, orthopnea, and chest discomfort. He was found to be in acute decompensated heart failure with evidence of cardiogenic shock. He required pressor support and was ultimately taken for placement of a temporary left-sided heart pump (Impella CP) for hemodynamic stabilization in the setting of profound LV dysfunction (EF 15% on TTE). His ICU course was complicated by AKI, mild transaminitis, and delirium. He was weaned off mechanical support on hospital day 5 and transitioned to GDMT for heart failure. He is currently on the step-down unit, stable, and awaiting further workup for possible advanced heart failure therapies.
+
+---
+
+### **PROBLEM-BASED ASSESSMENT & PLAN**
+
+#### 1. **Cardiogenic Shock / Acute Decompensated Heart Failure**
+- **Assessment:** Presented with hypotension, cold extremities, pulmonary edema, and elevated JVP. TTE revealed severe global hypokinesis, EF 15%. Troponin mildly elevated, likely demand ischemia. Required norepinephrine and milrinone. Impella CP placed on HD1.
+- **Plan:**
+  - Continue GDMT: carvedilol, sacubitril-valsartan, spironolactone, dapagliflozin
+  - Titrate diuretics for euvolemia (lasix IV → PO)
+  - Daily weights, strict I/Os
+  - Monitor for arrhythmias, electrolytes
+  - Cardiac MRI pending for etiology workup (consider myocarditis, ischemic vs non-ischemic)
+  - Consider advanced therapies if persistent low EF
+
+#### 2. **Impella CP (Temporary LVAD) – S/P Removal HD5**
+- **Assessment:** Device placed due to refractory shock; hemodynamics improved (CI >2.2, MAP >65). Device removed uneventfully. No evidence of limb ischemia, hemolysis, or device-related infection.
+- **Plan:**
+  - Continue vascular checks, monitor for hematoma at access site
+  - Daily H/H, monitor LDH/haptoglobin/urine for hemolysis
+  - Serial echocardiograms q48h
+
+#### 3. **Acute Kidney Injury (KDIGO Stage II)**
+- **Assessment:** Likely multifactorial—hypoperfusion, diuretics, possible nephrotoxic meds. Baseline Cr 0.9, peaked at 2.1 on HD2. Trend improving with volume optimization.
+- **Plan:**
+  - Hold nephrotoxic agents
+  - Renal dosing for all meds
+  - Monitor UOP, daily BMP
+  - Nephrology consult if worsening
+
+#### 4. **Hypertension**
+- **Assessment:** Chronic, previously on triple therapy. Initially hypotensive, now BP well-controlled on GDMT.
+- **Plan:**
+  - Continue current regimen
+  - Monitor for hypotension with up-titration
+
+#### 5. **Delirium**
+- **Assessment:** ICU delirium post-sedation, fluctuating attention, no focal deficits. Improved with re-orientation and sleep hygiene.
+- **Plan:**
+  - Minimize sedatives
+  - Encourage family presence
+  - Consult psych PRN
+
+#### 6. **History of Traumatic Brain Injury**
+- **Assessment:** Remote, with no residual deficits. No new neuro findings during this admission.
+- **Plan:**
+  - Continue to monitor mental status
+
+#### 7. **Infections (Recent Strep Pharyngitis, Acute Bronchitis)**
+- **Assessment:** Treated prior to admission. No current signs of infection. No fevers since HD3.
+- **Plan:**
+  - Monitor WBC, cultures PRN
+  - Infection prevention (hand hygiene, oral care)
+
+#### 8. **Other Chronic Conditions**
+- **Allergic Rhinitis:** Continue outpatient meds as tolerated.
+- **Laceration of Forearm:** Healed, no signs of infection.
+
+---
+
+### **CURRENT MEDICATIONS**
+- Carvedilol 12.5 mg BID PO
+- Sacubitril-valsartan 49/51 mg BID PO
+- Spironolactone 25 mg PO daily
+- Furosemide 40 mg IV BID (transition to PO pending)
+- Dapagliflozin 10 mg PO daily
+- Atorvastatin 40 mg PO nightly
+- Astemizole 10 mg PO daily (for AR)
+- Hydrocortisone 10 mg/mL topical cream PRN
+- Amlodipine/HCTZ/Olmesartan medoxomil (hold, on new HF regimen)
+- Penicillin V Potassium 500 mg PO (completed)
+- Acetaminophen 325 mg PO PRN
+- Naproxen sodium 220 mg PO PRN (hold—AKI)
+- Acetaminophen/Dextromethorphan/Doxylamine solution PRN
+
+---
+
+### **VITALS (SELECTED)**
+| Date         | Temp (C) | HR | BP        | RR | SpO2 | Weight (kg) |
+|--------------|----------|----|-----------|----|------|-------------|
+| HD1 (ED)     | 38.1     | 126| 82/52     | 28 | 92%  | 92.2        |
+| HD2 (ICU)    | 37.6     | 112| 90/60     | 22 | 95%  | 90.8        |
+| HD3 (ICU)    | 37.2     | 88 | 104/65    | 18 | 97%  | 89.5        |
+| HD5 (StepDn) | 36.7     | 72 | 116/70    | 16 | 98%  | 89.0        |
+
+---
+
+### **LABS – CBC, CHEM7, CARDIAC, LIVER, OTHERS**
+
+**CBC / CHEM7 / Cardiac / LFTs**  
+| Date     | WBC (10^3/uL) | Hgb (g/dL) | Plt (10^3/uL) | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | T-Bili | Troponin I | BNP    |
+|----------|---------------|------------|---------------|------|------|------|------|------|------|------|------|------|--------|------------|--------|
+| HD1      | 8.4           | 14.6       | 368           | 133  | 4.3  | 100  | 20   | 28   | 1.3  | 116  | 42   | 51   | 1.1    | 0.12       | 9,800  |
+| HD2      | 11.2          | 13.9       | 305           | 136  | 5.1  | 104  | 19   | 37   | 2.1  | 142  | 61   | 78   | 1.4    | 0.09       | 8,600  |
+| HD3      | 10.1          | 13.2       | 266           | 138  | 4.8  | 106  | 22   | 29   | 1.7  | 110  | 38   | 67   | 1.2    | 0.06       | 7,200  |
+| HD4      | 8.7           | 12.6       | 245           | 140  | 4.3  | 107  | 24   | 22   | 1.4  | 98   |      | 54   |        | 0.05       |        |
+| HD5      | 7.8           | 12.2       | 220           | 139  |      | 104  | 23   | 18   | 1.1  | 102  | 41   | 48   | 0.8    | <0.03      | 5,900  |
+| HD7      |               | 12.5       | 233           | 141  | 4.1  | 108  | 25   |      | 1.0  |      | 39   | 46   |        |            |        |
+
+*Missing values reflect labs not drawn or pending.*
+
+---
+
+### **IMAGING / DIAGNOSTICS**
+- **TTE (HD1):** Severe global hypokinesis, EF 15%, mild MR, RV normal.
+- **TTE (HD4):** EF improved to 22%, mild MR, RV function preserved.
+- **Cardiac MRI:** Pending
+- **CXR (HD1):** Pulmonary edema, mild cardiomegaly.
+- **Lower extremity Doppler (HD2):** No DVT.
+
+---
+
+### **PROCEDURES**
+- **Impella CP placement (HD1):** Left femoral access. No complications.
+- **Impella CP removal (HD5):** Manual compression, no bleeding.
+
+---
+
+### **DISPOSITION / FOLLOW-UP**
+- Continue up-titration of HF meds as tolerated.
+- Advanced heart failure clinic f/u.
+- Outpatient cardiac MRI and repeat TTE in 2 weeks.
+- Home with home health nursing.
+
+---
+
+### **PHYSICIAN ATTESTATION**
+Note authored by: K. Wilson, MD, Cardiology  
+Date/Time: 2024-06-19 14:02
+
+---
+
+**END OF NOTE**
+

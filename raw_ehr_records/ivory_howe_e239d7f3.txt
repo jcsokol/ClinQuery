@@ -1,0 +1,190 @@
+---
+**Patient Name:** Ivory Howe  
+**MRN:** 00841723  
+**DOB:** 10/03/1987  
+**Sex:** Male  
+**Attending:** Dr. S. Kim, MD  
+**Admit Date:** 2024-05-27  
+**Service:** Cardiac ICU  
+**Note Date:** 2024-06-02  
+**Type:** ICU Progress Note
+
+---
+
+## HOSPITAL COURSE OVERVIEW
+
+Mr. Ivory Howe is a 36-year-old male with a history of chronic sinusitis, prediabetes, anemia, and recent viral sinusitis, who presented to the ED with acute onset chest pain, progressive dyspnea, and orthopnea. He was found to be in acute decompensated heart failure on presentation, with evidence of cardiogenic shock refractory to initial medical management. He required transfer to the cardiac ICU, where he was started on inotropic support and subsequently required placement of a temporary left ventricular assist device (Impella CP) for hemodynamic stabilization.
+
+His hospital course was complicated by acute kidney injury, transaminitis, and anemia requiring transfusion. He has been gradually weaned off the Impella, and is currently being managed for volume overload and ongoing recovery of cardiac function.
+
+---
+
+## PAST MEDICAL HISTORY
+
+- Chronic sinusitis (2015–present)
+- Viral sinusitis (multiple episodes, most recently 1 week prior to admission)
+- Prediabetes (diagnosed 2022)
+- Anemia of unclear etiology (baseline Hgb ~10 g/dL)
+- Wrist sprain (remote)
+- No known CAD, HTN, or prior cardiac history
+
+## PAST SURGICAL HISTORY
+
+- None
+
+## FAMILY HISTORY
+
+- Father: MI at 62, alive
+- Mother: Chronic sinusitis, T2DM
+- Brother: Healthy
+
+## SOCIAL HISTORY
+
+- Non-smoker
+- Rare EtOH use
+- No illicit drugs
+- Lives with spouse
+
+## ALLERGIES
+
+- NKDA
+
+## HOME MEDS
+
+- Amoxicillin-clavulanate 250/125 mg PO BID (for sinusitis, started 1 week prior)
+- Naproxen sodium 220 mg PO PRN (for wrist pain)
+
+---
+
+## VITALS (select time points)
+
+| Date        | Temp (°C) | HR (bpm) | BP (mmHg) | RR | SpO2 | Pain (0-10) |
+|-------------|-----------|----------|-----------|----|------|-------------|
+| 5/27/24 09:12 | 36.8      | 118      | 82/54     | 23 | 92%  | 7           |
+| 5/28/24 06:30 | 37.1      | 110      | 95/62     | 18 | 94%  | 5           |
+| 5/29/24 07:10 | 36.7      | 92       | 108/70    | 16 | 96%  | 3           |
+| 5/30/24 08:00 | 36.5      | 85       | 116/76    | 15 | 98%  | 2           |
+| 6/01/24 09:00 | 36.6      | 80       | 120/78    | 14 | 99%  | 1           |
+
+---
+
+## LABS
+
+### CBC, CHEM7, and RELEVANT LABS
+
+| Date       | WBC  | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu   | AST  | ALT  | Troponin I | BNP   |
+|------------|------|-------|-------|-------|------|------|------|------|------|------|-------|------|------|------------|-------|
+| 5/27/24    | 13.2 | 8.9   | 27.2  | 210   | 143  | 4.1  | 110  | 26   | 19   | 1.7  | 66    | 167  | 122  | 0.51       | 9321  |
+| 5/28/24    | 9.7  | 9.4   | 29.5  | 205   | 141  | 4.6  | 108  | 24   | 26   | 2.2  | 82    | 112  | 99   | 0.32       | 7845  |
+| 5/29/24    | 7.8  | 10.2  | 31.1  | 243   | 140  | 4.0  | 107  | 25   | 17   | 1.5  | 101   | 88   | 77   | 0.12       | 6102  |
+| 5/30/24    | 6.2  | 10.0  | 32.8  | 251   | 140  | 4.2  | 109  | 27   | 14   | 1.3  | 97    | 51   | 41   | <0.01      | 3217  |
+| 5/31/24    | -    | 10.1  | 33.2  | 258   | 139  | 4.3  | 108  | 25   | 13   | 1.2  | -     | 42   | 35   | -          | 1844  |
+| 6/1/24     | 5.3  | 10.0  | 33.8  | 259   | 139  | 4.1  | 108  | 26   | 11   | 1.1  | 102   | 37   | 29   | <0.01      | 1102  |
+
+*Missing values indicate labs not collected or not resulted.*
+
+---
+
+## IMAGING
+
+- **Echocardiogram (5/27/24):** LVEF 18%, global hypokinesis, moderate MR, dilated LV, no pericardial effusion.
+- **CXR (5/27/24):** Pulmonary edema, mild cardiomegaly.
+- **Repeat Echo (5/31/24):** LVEF improved to 36%, Impella in place, mild MR.
+
+---
+
+## PROCEDURES
+
+- **5/27/24:** Right heart cath – CI 1.6, PCWP 28 mmHg, SVR 1040
+- **5/27/24:** Impella CP placement via right femoral artery
+- **5/28/24:** PRBC transfusion x2 for Hgb <9
+- **6/1/24:** Impella weaned and removed
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. **Cardiogenic Shock / Acute Decompensated Heart Failure**
+   - **Assessment:** Presented with acute decompensated HF with cardiogenic shock, likely secondary to viral myocarditis (recent viral prodrome, no CAD risk factors).
+   - **Plan:**
+     - Impella CP for temporary circulatory support (removed 6/1/24 after hemodynamic improvement)
+     - Diuresis with IV furosemide; transitioned to PO as tolerated
+     - Daily weight, strict I/Os
+     - Continue guideline-directed medical therapy as tolerated (ACEi initiated 5/31/24)
+     - Serial Echos to assess recovery
+
+### 2. **Acute Kidney Injury (AKI)**
+   - **Assessment:** AKI likely multifactorial (low flow, diuretics, nephrotoxic meds).
+   - **Plan:**
+     - Monitor renal function, avoid nephrotoxins
+     - Adjust medications per renal function
+     - Nephrology consulted; renal function improving with improved perfusion
+
+### 3. **Anemia**
+   - **Assessment:** Chronic anemia worsened acutely (Hgb nadir 8.9), likely dilutional and multifactorial.
+   - **Plan:**
+     - Transfused PRBCs x2 5/28/24
+     - Monitor Hgb daily
+     - Iron studies pending; consider GI evaluation if no improvement
+
+### 4. **Transaminitis**
+   - **Assessment:** Likely shock liver, with rapid improvement as perfusion restored.
+   - **Plan:**
+     - Monitor LFTs
+     - Supportive care
+
+### 5. **Volume Overload**
+   - **Assessment:** Ongoing diuresis required, daily weights.
+   - **Plan:**
+     - Furosemide IV, titrate to euvolemia
+     - Fluid restriction
+
+### 6. **Prediabetes**
+   - **Assessment:** No hypoglycemia, A1c 5.8%.
+   - **Plan:**
+     - Monitor glucose
+     - Continue lifestyle modification
+
+### 7. **Chronic/Viral Sinusitis**
+   - **Assessment:** Recent infection, now improved.
+   - **Plan:**
+     - Continue amox-clav to complete course
+     - ENT f/u after discharge
+
+### 8. **Other (Pain, DVT Prophylaxis, Social, etc.)**
+   - **Pain:** Mild, managed with acetaminophen, naproxen PRN
+   - **DVT Prophylaxis:** Heparin SQ
+   - **PT/OT:** Mobilization as tolerated
+   - **Disposition:** Plan for transfer to telemetry, then home with close cardiology follow-up
+
+---
+
+## MEDICATION ADMINISTRATION RECORD (select)
+
+- Furosemide IV/PO
+- Lisinopril 2.5 mg PO daily (started 5/31/24)
+- Heparin 5000u SQ q8h
+- Amox-clav 250/125 mg PO BID (to complete 10-day course)
+- Naproxen 220 mg PRN
+- Acetaminophen 650 mg PO PRN
+- PRBCs x2 (5/28/24)
+
+---
+
+## DISCHARGE PLANNING
+
+- Anticipate transfer to floor 6/2/24
+- Cardiology, nephrology f/u
+- Home BP, weight, glucose monitoring
+- Outpatient echo in 2 weeks
+
+---
+
+## SIGNED:  
+S. Kim, MD (Cardiology/ICU)  
+6/2/24, 10:15 AM
+
+---
+
+**END OF RECORD**  
+---

@@ -1,0 +1,162 @@
+```
+-----------------------------------------------------
+EHR: Eda McClure MRN: 00835012   DOB: 12/25/1980  Sex: F
+Admit Date: 5/31/2024   Attending: Turner, MD
+-----------------------------------------------------
+ADMISSION NOTE - ICU
+-----------------------------------------------------
+Chief Complaint:
+Progressive dyspnea, orthopnea, chest pain, and confusion.
+
+HPI:
+39yo F w/ PMHx of HTN, CAD s/p PCI (2021), chronic cystitis, and multiple prior pregnancies, presenting with 3 days of worsening SOB, PND, and non-radiating substernal CP. On arrival, tachycardic, hypotensive, O2 sat 87% RA. Initial ECG: ST depressions II, III, aVF. Troponin peaked at 9.8. CXR: pulmonary edema. Echo: LVEF 15%, severe global hypokinesis. Cardiogenic shock diagnosed; transferred to ICU for management.
+
+Hospital Course (Summary):
+- Day 1: Required norepinephrine and dobutamine. Intubated for hypoxic resp failure. Swan placed (CI 1.5, wedge 28). IABP inserted, but persistent shock → Impella CP placed.
+- Day 2-4: Improved CI and end-organ perfusion. Weaned off pressors. Renal indices transiently worsened, then stabilized. Persistent mild transaminitis.
+- Day 5: Impella weaned. Extubated. Mental status improved. Diuresed 4L net negative.
+- Day 7: Transfer to stepdown. Plan for cardiac rehab and advanced HF therapies.
+
+Past Medical History:
+- Hypertension
+- Coronary Heart Disease (CAD, stent LAD 2021)
+- Recurrent cystitis
+- Multiple prior pregnancies, no complications
+- Viral sinusitis (resolved)
+
+Past Surgical History:
+- PCI w/ DES to LAD 2021
+- Mirena IUD placement
+
+Medications on Admission:
+- Amlodipine/Olmesartan/HCTZ
+- Simvastatin
+- Clopidogrel
+- Nitroglycerin PRN
+- Ferrous sulfate
+- Mirena IUD
+- Jolivette
+- Nitrofurantoin (PRN)
+- Phenazopyridine (PRN)
+- Astemizole (not taken recently)
+- Amox/Clav (completed 2 weeks ago)
+
+Allergies: NKDA
+
+Social History:
+- Lives with partner, 2 children. Non-smoker, rare ETOH, no illicit drugs.
+
+Family History:
+- Father: MI at 61
+- Mother: HTN, DM2
+
+Review of Systems:
+Unable to obtain on admission (intubated). Retrospectively, no recent fever, cough, or urinary sx.
+
+Physical Exam (Day 2, on Impella, off pressors):
+- Gen: Intubated, sedated, no acute distress
+- Vitals: BP 108/64, HR 82, RR 16 (vent), T 36.7, SpO2 98% (FiO2 40%)
+- CV: S1S2, no murmur, cool extremities, trace pitting edema
+- Resp: Bibasilar crackles, decreased breath sounds LLL
+- Abd: Soft, NT, no HSM
+- GU: Foley, clear yellow urine
+- Neuro: Moves all extremities, follows commands, non-focal
+
+-----------------------------------------------------
+ICU Labs (selected)
+-----------------------------------------------------
+| Date       | WBC  | Hgb  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | AST  | ALT  |
+|------------|------|------|------|------|------|------|------|------|------|------|----------|------|------|
+| 5/31/24 AM | 9.1  | 15.8 | 176  | 136  | 5.2  | 102  | 18   | 32   | 2.1  | 138  | 7.2      | 61   | 77   |
+| 6/1/24 AM  | 11.4 | 14.2 | 166  | 134  | 5.8  | 99   | 17   | 41   | 2.9  | 142  | 9.8      | 78   | 105  |
+| 6/2/24 AM  | 10.6 | 13.7 | 151  | 138  | 5.1  | 102  | 21   | 34   | 2.3  | 116  | 6.0      | 54   | 82   |
+| 6/3/24 AM  | 9.8  | 13.1 | 162  | 139  | 4.8  | 105  | 23   | 22   | 1.5  | 102  | 3.3      | 38   | 54   |
+| 6/4/24 AM  | 9.0  | 12.9 | 158  | 138  | 4.4  | 104  | 24   | 16   | 1.2  | 98   | 1.1      | 29   | 42   |
+| 6/5/24 AM  | 8.5  | 13.0 | 164  | 137  | 4.2  | 103  | 23   | 14   | 1.0  | 108  | <0.01    | 21   | 31   |
+| 6/6/24 AM  | 8.2  | 13.4 | 170  | 139  | 4.5  | 105  | 25   | 12   | 0.9  | 111  | --       | 16   | 25   |
+| 6/7/24 AM  | --   | 13.6 | 172  | --   | 4.6  | 104  | 26   | 11   | 0.8  | 115  | --       | 13   | 22   |
+
+-----------------------------------------------------
+Cardiac Imaging/Procedures
+-----------------------------------------------------
+- Echo (5/31): LVEF 15%, severe global hypokinesis, mild MR, RV mildly reduced, no thrombus
+- RHC (5/31): RA 13, RV 44/16, PA 55/28 (mPAP 36), wedge 28, CI 1.5
+- CXR: Pulm edema, small L pleural eff
+- Impella CP placed 5/31
+- IABP attempted, insufficient augmentation
+
+-----------------------------------------------------
+Assessment & Plan (Problem-based)
+-----------------------------------------------------
+1. **Cardiogenic Shock, acute on chronic HFrEF (CAD)**
+   - Initially refractory to pressors, required mechanical support (Impella CP)
+   - Now improved, off inotropes, Impella weaned, diuresed, stable
+   - Plan: Continue aggressive diuresis, initiate GDMT (Entresto pending BP), close cardiac monitoring, consider CRT if EF persists <35%
+
+2. **Acute Decompensated Heart Failure**
+   - Volume overload on presentation (CXR, exam, echo)
+   - Diuresed to net -4L, euvolemic
+   - Continue IV Lasix, transition to oral, monitor lytes
+
+3. **Acute Kidney Injury, resolving**
+   - Likely secondary to low output and diuresis
+   - Creatinine peaked 2.9, now 0.9
+   - Monitor renal function, avoid nephrotoxins
+
+4. **Transaminitis**
+   - Likely ischemic hepatitis from shock
+   - Downtrending AST/ALT, monitor
+
+5. **Coronary Artery Disease (CAD)**
+   - s/p PCI 2021, now with new troponin leak (demand ischemia vs. type 1 MI)
+   - Continue DAPT (clopidogrel), statin, BB (if tolerated)
+   - Cardiology f/u for possible revascularization eval
+
+6. **Hypertension**
+   - Held off all anti-HTN initially, now resume as tolerated
+   - Monitor for hypotension w/ GDMT titration
+
+7. **History of Cystitis**
+   - On Nitrofurantoin PRN, no s/sx infection this admission
+
+8. **Normal Pregnancy (remote)**
+   - No current pregnancy. G3P2, last pregnancy 2018, no OB issues
+
+9. **Viral Sinusitis (remote)**
+   - No current sx
+
+10. **Anemia**
+    - Mild, likely dilutional/acute, stable
+
+11. **Dyslipidemia**
+    - Continue simvastatin, dietary counseling
+
+12. **Delirium**
+    - Likely multifactorial (shock, intubation, sedation), resolved
+
+13. **Medication reconciliation**
+    - Restart home meds as able, d/c astemizole (QT risk)
+
+-----------------------------------------------------
+Discharge Plan (anticipated)
+-----------------------------------------------------
+- Continue GDMT for HFrEF, arrange for outpatient HF nurse visit
+- Cardiac rehab referral
+- Close f/u with Cardiology, consider advanced therapies if EF remains low
+- Strict I/O, daily weights
+- Education: HF, medication compliance, fluid restriction
+- PCP f/u 1 week, labs in 3 days
+
+-----------------------------------------------------
+Nursing/Other Orders
+-----------------------------------------------------
+- VS q2hr, strict I/O
+- Telemetry
+- DVT prophylaxis
+- Foley d/c when ambulatory
+- PT/OT consult
+
+-----------------------------------------------------
+Physician: Turner, MD   Date: 6/7/24 11:08
+```
+

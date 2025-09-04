@@ -1,0 +1,148 @@
+---
+**Patient:** Erline Casper  
+**MRN:** 00423819  
+**DOB:** 1991-06-10 (Age: 32)  
+**Sex:** Female  
+**Admit Date:** 2024-06-08  
+**Attending:** Dr. Annette M. Lacey, MD  
+**Location:** MICU, Bed 5  
+**Allergies:** NKDA  
+**Code Status:** Full  
+**Height:** 168.6 cm  
+**Weight:** 78.5 kg  
+**BMI:** 27.6  
+
+---
+
+# **HOSPITAL COURSE SUMMARY**
+
+Ms. Erline Casper is a 32-year-old G2P1 female with a PMH notable for recent viral pharyngitis, chronic sinusitis, and prior normal pregnancies, who presented to the ED with sudden-onset chest pain, dyspnea, and syncope. On arrival, she was tachycardic, hypotensive, and hypoxic. She rapidly progressed to cardiogenic shock refractory to pressors, requiring intubation and urgent transfer to the MICU, where she underwent placement of a temporary left ventricular assist device (Impella CP) for presumed acute fulminant myocarditis. 
+
+The following is a detailed, problem-based assessment and plan, along with relevant labs from her hospitalization.
+
+---
+
+## **Problem-Based Assessment and Plan**
+
+### 1. **Acute Fulminant Myocarditis with Cardiogenic Shock**
+- **Summary:** Sudden onset of heart failure symptoms, troponin elevation, echo with global hypokinesis, EF 20%. Endomyocardial biopsy pending.
+- **Hospital Course:** Required Impella CP for circulatory support on HD#1, weaned off on HD#5 as EF improved to 45%. Initially on norepinephrine, weaned off by HD#3.
+- **Plan:**
+  - Continue telemetry, daily EKGs.
+  - Daily TTE to monitor LV function.
+  - Monitor for arrhythmias and device-related complications.
+  - Cardiology and CT surgery consults following.
+  - IV diuresis as tolerated, transition to PO as stable.
+  - Serial troponins, BNP, lactate.
+  - Infectious workup (viral PCR, blood cx) pending.
+
+### 2. **Acute Hypoxic Respiratory Failure, Intubated**
+- **Summary:** Intubated for hypoxemia and work of breathing; CXR with mild pulmonary edema.
+- **Course:** Successfully extubated on HD#4.
+- **Plan:**
+  - Monitor ABGs, wean FiO2.
+  - Pulmonary hygiene, incentive spirometry.
+  - Continue DVT ppx.
+
+### 3. **Acute Kidney Injury (Stage 1)**
+- **Summary:** Creatinine peaked at 1.4 (baseline 0.8), likely pre-renal from shock.
+- **Course:** Improved with volume status optimization, now downtrending.
+- **Plan:**
+  - Monitor daily BMP.
+  - Avoid nephrotoxins.
+  - Strict I/O.
+
+### 4. **Transaminitis**
+- **Summary:** AST/ALT peaked at 3x ULN, likely ischemic hepatitis secondary to shock.
+- **Plan:**
+  - Monitor LFTs.
+  - Supportive care.
+
+### 5. **History of Viral Sinusitis and Pharyngitis**
+- **Summary:** No active symptoms at this time.
+- **Plan:** Supportive care only.
+
+### 6. **Contraceptive Management**
+- **Summary:** On Natazia/Yaz/Errin at home. No contraindications at this time.
+- **Plan:** Hold oral contraceptives during acute illness; reevaluate on discharge.
+
+### 7. **Nutrition**
+- **Summary:** NPO x 2 days, now tolerating soft diet.
+- **Plan:** Advance as tolerated, consult nutrition.
+
+### 8. **Prophylaxis**
+- **Plan:** 
+  - DVT: SCDs, SQ heparin.
+  - GI: PPI.
+  - Pressure ulcer: Frequent repositioning.
+
+---
+
+# **LABS**
+
+### CBC & CHEMISTRY PANEL (selected values)  
+| Date        | WBC    | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|-------------|--------|-------|-------|-------|------|------|------|------|------|------|------|
+| 6/8 04:30   | 5.1    | 12.0  | 40.3  | 243   | 136  | 3.8  | 103  | 24   | 19   | 1.2  | 108  |
+| 6/8 16:00   | 7.4    | 11.2  | 38.1  | 201   | 138  | 4.2  | 106  | 23   | 24   | 1.4  | 116  |
+| 6/9 05:10   | 8.9    | 10.8  | 36.4  | 175   | 139  | 4.1  | 108  | 25   | 17   | 1.3  | 112  |
+| 6/10 03:00  | 6.3    | 11.7  | 37.9  | 190   | 137  | 3.9  | 103  | 22   | 15   | 1.1  | 105  |
+| 6/10 19:00  | 5.7    | 12.1  | 41.0  | 222   | 138  | 3.7  |      |      | 13   | 1.0  |      |
+| 6/11 06:00  |        | 12.4  | 41.3  | 210   | 140  | 4.0  | 104  | 23   | 12   | 0.9  | 101  |
+
+### ADDITIONAL LABS
+| Date      | AST  | ALT  | AlkPhos | T. Bili | Troponin I | BNP   | Lactate |
+|-----------|------|------|---------|---------|------------|-------|---------|
+| 6/8 AM    | 78   | 94   | 110     | 1.0     | 3.4        | 1450  | 3.1     |
+| 6/9 AM    | 123  | 138  | 120     | 1.3     | 2.1        | 1680  | 2.4     |
+| 6/10 AM   | 58   | 61   | 108     | 0.8     | 0.7        | 950   | 1.4     |
+| 6/11 AM   | 42   | 40   |         |         | <0.04      | 320   | 0.9     |
+
+---
+
+# **VITALS (selected)**
+- Temp: 37.6°C (peak 38.2°C on HD#1)
+- HR: 110-140 bpm (sinus tachycardia)
+- BP: 82/54 mmHg (lowest), now 110/72 mmHg
+- RR: 18-24 (ventilated, then spon.)
+- SpO2: 88% (lowest), now 97% on 2L NC
+
+---
+
+# **IMAGING**
+- **Echocardiogram (6/8):** LVEF 20%, global hypokinesis, mild RV dilation.
+- **CXR (6/8):** Pulmonary edema, small bilateral effusions.
+- **Repeat Echo (6/11):** LVEF 45%, improved wall motion.
+
+---
+
+# **MEDICATIONS (INPATIENT)**
+- Norepinephrine IV gtt (HD#1-3)
+- Furosemide IV/PO
+- Heparin SQ
+- Pantoprazole IV
+- Acetaminophen PRN
+- D5 ½ NS @ 75cc/hr (HD#1-2)
+- Home contraceptives held
+
+---
+
+# **PROCEDURES**
+- 6/8: Right femoral arterial access, Impella CP placement, TTE-guided.
+- 6/8: Endotracheal intubation.
+- 6/9: Right IJ central line.
+- 6/11: Impella explant, manual compression, hemostasis achieved.
+
+---
+
+# **DISPOSITION**
+- Improving; planned transfer to step-down unit tomorrow.
+- Close outpatient follow-up with cardiology and primary care.
+
+---
+
+# **ATTENDING SIGNATURE:**  
+Annette M. Lacey, MD  
+Date: 2024-06-11
+
+---

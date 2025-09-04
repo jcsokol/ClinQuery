@@ -1,0 +1,210 @@
+**EHR: EPIC - Inpatient Record**
+--------------------------------------------------------
+**Patient Name:** Elizabet Marks  
+**MRN:** 00748954  
+**DOB:** 10/14/1977  
+**Sex:** Female  
+**Admit Date:** 03/17/2024  
+**Attending:** Dr. Susan Jin, Cardiology  
+**ICU Team:** Med ICU  
+**Consults:** Cardiology, Nephrology, Ob/Gyn  
+**Allergies:** NKDA  
+**Code Status:** Full  
+**Height:** 165.9 cm  
+**Weight:** 83.0 kg  
+**BMI:** 30.2 kg/m²  
+**Primary Language:** English  
+**Insurance:** Blue Cross PPO  
+**Emergency Contact:** Spouse (John Marks)  
+
+---
+
+### CHIEF COMPLAINT
+Acute shortness of breath, chest pressure, and severe headache at 32 weeks gestation.
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+
+Elizabet Marks is a 46-year-old female with PMH significant for obesity, recurrent viral sinusitis and bronchitis, remote right foot laceration (healed), and current singleton pregnancy at 32 weeks gestation, who presented to the ED with acute onset severe headache, blurry vision, and chest tightness. She was hypertensive to 198/110 mmHg and had new lower extremity edema. Fetal heart tracing showed minimal variability, and labs revealed elevated LFTs and proteinuria. She was admitted to the ICU for management of antepartum eclampsia, superimposed HELLP syndrome, and acute decompensated heart failure.
+
+On hospital day 2, she developed progressive hypoxemia and evidence of cardiogenic shock (SBP <90 mmHg, lactate up to 5.2 mmol/L, urine output <0.3 mL/kg/hr, echo with EF 20-25%, global hypokinesis). Emergent delivery by C-section was performed with maternal stabilization as the priority. Due to persistent hypotension and evidence of end-organ hypoperfusion, a percutaneous left ventricular assist device (Impella CP) was placed. She required mechanical ventilation for 3 days and was gradually weaned off vasopressors and inotropes.
+
+---
+
+### PAST MEDICAL HISTORY
+
+- Obesity (BMI >30)
+- Normal pregnancy x2, current high-risk pregnancy
+- Antepartum eclampsia, HELLP syndrome (current admission)
+- Acute bronchitis (remote)
+- Viral sinusitis (recurrent)
+- Remote foot laceration (healed)
+
+### PAST SURGICAL HISTORY
+
+- Cesarean section (current admission)
+- None otherwise
+
+### OB/GYN HISTORY
+
+- G3P2 (two prior normal pregnancies)
+- Current: G3P2 at 32 weeks, complicated by eclampsia/HELLP
+- Mirena IUD (remote)
+- Liletta IUD (remote)
+- Multiple OCPs trialed for menorrhagia
+
+### FAMILY HISTORY
+
+- Mother: Type 2 DM, HTN
+- Father: MI age 62
+- No known genetic cardiac disorders
+
+### SOCIAL HISTORY
+
+- Non-smoker
+- Rare EtOH
+- No illicit drug use
+- Lives with husband, 2 children
+
+### HOME MEDICATIONS
+
+- Jolivette, Errin, Camila, Trinessa (prior OCPs, none active)
+- Mirena, Liletta IUDs (remote)
+- Acetaminophen PRN
+- Seasonique (remote)
+- No chronic antihypertensives
+
+---
+
+## ICU HOSPITAL COURSE SUMMARY
+
+- **HD 1:** Admitted for eclampsia, severe hypertension, and new CHF symptoms. Started on IV MgSO₄, labetalol, hydralazine. Labs: proteinuria, elevated LFTs, low platelets.
+- **HD 2:** Acute decompensation: progressive hypoxemia, hypotension, rising troponin, ALT/AST. C-section performed. Persistent shock post-op; Impella CP placed at bedside. Intubated, started NE, dobutamine. 
+- **HD 3-5:** Gradual improvement, weaned off NE, Impella support continued. UOP improved. LFTs trended down. Echo: EF up to 35%, mild MR, no LV thrombus.
+- **HD 6:** Impella weaned and removed. Extubated. Started on oral diuretics, low-dose carvedilol, and enalapril.
+- **HD 7-9:** Transferred to stepdown. Mobilizing, tolerating PO, BP stable, diuresed 5 kg. Baby in NICU, stable.
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. **Acute Decompensated Heart Failure/Cardiogenic Shock (New Onset, Peripartum)**
+   - Etiology: Likely peripartum cardiomyopathy, exacerbated by eclampsia/HELLP.
+   - Management:
+     - Impella CP placed HD2 for temporary LV support. 
+     - NE and dobutamine for pressor/inotrope support (HD2-3).
+     - Daily TTEs for LV function. EF improved from 20-25% to 35%.
+     - Weaned off Impella HD6; no significant hemolysis or vascular complication.
+     - Now on low-dose carvedilol, enalapril, furosemide.
+     - Plan: Cardiology f/u; consider ICD if EF <35% at 3 mo.
+
+### 2. **Eclampsia/HELLP Syndrome (Resolved)**
+   - Initial MgSO₄, BP control, emergent C-section HD2.
+   - LFTs/platelets normalized by HD6.
+   - Seizure precautions for 48h post-partum.
+   - Plan: Monitor BP, transition to oral anti-HTN; Ob/Gyn f/u.
+
+### 3. **Obesity (BMI 30.2)**
+   - Nutrition consult: sodium-restricted, fluid-limited diet.
+   - PT/OT for mobility.
+   - Plan: Outpatient weight management.
+
+### 4. **Respiratory Failure (Resolved)**
+   - Intubated HD2-5 for hypoxemia and airway protection during shock.
+   - Extubated HD6.
+   - No evidence of pneumonia/ARDS on CXR.
+
+### 5. **Acute Kidney Injury (Resolved)**
+   - Oliguria HD2-3, Cr peaked 1.8 mg/dL.
+   - UOP improved after Impella, Cr normalized by HD7.
+   - Nephrology consulted; no need for RRT.
+
+### 6. **Post-Partum Status**
+   - Baby delivered at 32w, in NICU for prematurity.
+   - Lactation consult, social work involved.
+
+### 7. **Remote Viral Infections (Sinusitis/Bronchitis)**
+   - No active infection during this admission.
+
+### 8. **Foot Laceration (Remote)**
+   - Well-healed, no current issues.
+
+---
+
+## LABS
+
+### CBC & CHEM7 (Selected Days)
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|
+| HD1        | 9.4        | 12.9       | 39.3    | 113        | 137         | 4.4        | 104         | 21           | 18          | 1.1        | 106         |
+| HD2        | 13.8       | 11.2       | 33.2    | 74         | 132         | 4.9        | 100         | 18           | 34          | 1.8        | 118         |
+| HD3        | 11.6       | 10.5       | 31.1    | 81         | 135         | 4.5        | 104         | 20           | 29          | 1.5        | 102         |
+| HD4        | 9.9        | 11.8       | 34.4    | 120        | 139         | 4.1        | 107         | 22           | 22          | 1.2        | 99          |
+| HD5        | 8.7        | 12.4       | 36.7    | 178        | 141         | 3.9        | 106         | 23           | 17          | 1.0        | 104         |
+| HD6        | 7.5        | 12.9       | 38.0    | 215        | 143         | 4.2        | 108         | 24           | 16          | 0.9        | 95          |
+| HD7        | 7.1        | 13.1       | 39.4    | 258        | 142         | 4.3        | 110         | 25           | 13          | 0.8        | 92          |
+| HD8        |            | 13.2       |         | 299        | 142         |            | 109         | 26           | 12          |            | 91          |
+
+### ADDITIONAL LABS
+
+**Liver Panel:**
+| Date       | AST (U/L) | ALT (U/L) | Alk Phos (U/L) | Tbili (mg/dL) | Albumin (g/dL) |
+|------------|-----------|-----------|----------------|---------------|----------------|
+| HD1        | 97        | 112       | 166            | 1.8           | 2.8            |
+| HD2        | 155       | 180       | 190            | 2.2           | 2.4            |
+| HD4        | 88        | 95        | 151            | 1.5           | 3.1            |
+| HD6        | 43        | 51        | 112            | 1.0           | 3.5            |
+
+**Cardiac Markers:**
+| Date       | Troponin I (ng/mL) | BNP (pg/mL) | CK (U/L) |
+|------------|--------------------|-------------|----------|
+| HD2        | 0.12               | 2350        | 410      |
+| HD3        | 0.08               | 1980        | 325      |
+| HD5        | 0.03               | 840         | 176      |
+
+---
+
+## MEDICATION ADMINISTRATION RECORD (MAR) - ICU
+
+- Magnesium sulfate IV (HD1-3)
+- Labetalol IV, Hydralazine IV (HD1-4)
+- Norepinephrine IV (HD2-4)
+- Dobutamine IV (HD2-5)
+- Furosemide IV/PO (HD3-9)
+- Carvedilol PO (initiated HD6)
+- Enalapril PO (initiated HD6)
+- Acetaminophen PO PRN
+- Heparin SQ (DVT prophylaxis)
+
+---
+
+## PROCEDURES
+
+- Emergent Cesarean section (HD2)
+- Placement of Impella CP (HD2)
+- Central line, arterial line
+- Foley catheter
+- Extubation (HD6)
+- Impella removal (HD6)
+
+---
+
+## DISCHARGE PLAN
+
+- Close cardiology and Ob/Gyn follow-up
+- Continue GDMT for heart failure
+- Outpatient echo at 1 and 3 months
+- Home BP monitoring
+- NICU follow-up for infant
+- Social work, lactation, and nutrition support
+
+---
+
+## SIGNED:  
+Susan Jin, MD  
+Date: 03/26/2024  
+Attending ICU/Cardiology
+
+---

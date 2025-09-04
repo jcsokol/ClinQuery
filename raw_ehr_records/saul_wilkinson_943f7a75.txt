@@ -1,0 +1,217 @@
+**[EPIC EHR]**
+
+---
+
+**Patient Name:** Saul Wilkinson  
+**MRN:** 00293812  
+**DOB:** 09/01/1943 (Age: 80)  
+**Sex:** Male  
+**Admit Date:** 03/16/2024  
+**Attending:** Dr. Jennifer L. Song, MD  
+**Consults:** Cardiology, Critical Care, Nephrology
+
+---
+
+### **Admission H&P Summary**
+
+**Chief Complaint:**  
+Progressive dyspnea, orthopnea, and lower extremity edema x 5 days.
+
+**History of Present Illness:**  
+Mr. Wilkinson is an 80-year-old male with a history of HTN, chronic CHF (NYHA III), hyperlipidemia, anemia, prediabetes, and OA of the knees, who presented to the ED with worsening shortness of breath, dry cough, and new bilateral leg swelling. He also noted decreased oral intake, mild confusion, and a single episode of syncope at home. He denied chest pain, palpitations, fever. No sick contacts. Of note, he was treated for acute bronchitis and strep pharyngitis last month. On arrival, patient was tachypneic, hypoxic to 88% on room air, and hypotensive (BP 89/54).
+
+**Home Meds:**  
+- Atenolol/Chlorthalidone 50/25mg QD  
+- Simvastatin 10mg QHS (multiple refills noted)  
+- Metoprolol succinate 100mg QD  
+- Furosemide 40mg QD  
+- Naproxen sodium 220mg PRN  
+- Acetaminophen 325mg PRN
+
+**Allergies:**  
+No known drug allergies
+
+**PMHx:**  
+- Hypertension  
+- Chronic CHF (EF last known 45%)  
+- Hyperlipidemia  
+- Anemia  
+- Prediabetes  
+- OA knees  
+- Recent acute bronchitis, strep throat
+
+**PSHx:**  
+- TKA (L), 2019  
+- Cataract extraction, 2015
+
+**Social:**  
+Lives with wife. Retired accountant. 40 pack-year tobacco, quit 2002. No ETOH.
+
+---
+
+### **Hospital Course Summary**
+
+**Day 1:**  
+Admitted to CCU for acute decompensated heart failure with hypotension and hypoxia. Diuresis attempted, but patient developed worsening renal function and refractory hypotension. Progressive hypoperfusion, elevated lactate (3.8), rising NT-proBNP (463 pg/mL). Started on norepinephrine and dobutamine. Echo: EF dropped to 20%, severe global hypokinesis, moderate MR, no tamponade.  
+**Day 2:**  
+Continued cardiogenic shock, oliguric, lactic acidosis. Multidisciplinary discussion. Temporary LVAD (Impella CP) placed at bedside.  
+**Day 3–7:**  
+Clinical improvement on mechanical support. Vasopressors weaned. Slow diuresis. Renal function stabilized. Extubated on Day 5.  
+**Day 8:**  
+LVAD weaned and explanted. Patient transitioned to high-dose oral diuretics, uptitrated guideline-directed medical therapy.  
+**Day 9–13:**  
+Progressive improvement. Ambulating with PT. Creatinine and LFTs trending toward baseline.
+
+---
+
+## **Physical Exam (Day 3, AM)**
+
+- **Gen:** Elderly male, NAD, mild confusion
+- **VS:** T 37.7°C, HR 98, BP 101/68 (MAP 79), RR 18, SpO2 94% (2L NC)
+- **HEENT:** PERRL, MMM, oropharynx clear
+- **CV:** S1/S2, S3, no murmur, JVD 10cm, pulses 1+
+- **Resp:** Crackles at bases, decreased breath sounds L > R
+- **Abd:** Soft, NT/ND, no HSM
+- **Ext:** 2+ pitting edema BLE, trace cyanosis toes
+- **Neuro:** AOx2, follows commands, mild tremor
+
+---
+
+## **LABS**
+
+**Selected Labs (see below for full table):**
+
+| Date       | WBC   | Hgb   | Hct   | Plt   | Na    | K     | Cl    | CO2   | BUN   | Cr    | Glu   | Ca    | AST   | ALT   | Alk Phos | Alb   | T bili | NT-proBNP | Troponin I |
+|------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|----------|-------|--------|------------|------------|
+| 3/16/24 AM | 10.4  | 8.9   | 27.3  | 198   | 132   | 4.9   | 102   | 24    | 32    | 1.7   | 145   | 8.6   | 28    | 38       | 122   | 2.7   | 1.4        | 463        | 0.04       |
+| 3/17/24 PM | 12.2  | 8.1   | 24.9  | 178   | 130   | 5.2   | 98    | 19    | 41    | 2.1   | 139   | 8.2   | 33    | 41       | 111   | 2.4   | 1.2        | 487        | 0.07       |
+| 3/18/24 AM | 9.6   | 9.7   | 29.4  | 224   | 134   | 4.2   | 104   | 26    | 28    | 1.5   | 122   | 9.3   | 17    | 34       | 88    | 3.1   | 0.9        | 321        | <0.01      |
+| 3/19/24 AM | 8.7   | 10.3  | 31.7  | 267   | 137   | 4.3   | 107   | 27    | 17    | 1.1   | 109   | 9.1   | 9     | 31       | 71    | 3.8   | 0.8        | 216        | <0.01      |
+| 3/20/24 AM | 7.5   | 11.2  | 34.8  | 312   | 139   | 4.1   | 108   | 28    | 13    | 0.8   | 103   | 9.2   | 8     | 29       | 65    | 4.2   | 0.7        | 144        | <0.01      |
+| 3/21/24 AM | 7.2   | 12.1  | 37.5  | 341   | 141   | 4.0   | 109   | 29    | 11    | 0.7   | 98    | 9.1   | 10    | 28       | 61    | 4.3   | 0.6        | 99         | <0.01      |
+
+*Some entries missing (e.g., LFTs and troponin not sent daily).*
+
+---
+
+### **PROBLEM-BASED ASSESSMENT & PLAN**
+
+---
+
+**1. Cardiogenic Shock (Acute on Chronic Systolic HF, EF 20%)**  
+- **Assessment:** Decompensated CHF with refractory hypotension, end-organ hypoperfusion, and evidence of multi-organ dysfunction. Required temporary LVAD (Impella CP) for circulatory support.  
+- **Plan:**  
+    - LVAD support (weaned off Day 8, explanted)  
+    - Continue uptitrating GDMT (metoprolol, sacubitril-valsartan started Day 10)  
+    - Daily weights, strict I/Os  
+    - Cardiac rehab consult  
+    - Monitor for arrhythmias  
+    - Daily labs: CBC, Chem7, LFTs, NT-proBNP q48h  
+    - Discuss palliative care goals with family
+
+**2. Acute Kidney Injury (Pre-renal, resolving)**  
+- **Assessment:** AKI secondary to hypoperfusion, improved post-LVAD.  
+- **Plan:**  
+    - Volume status optimization  
+    - Avoid nephrotoxins  
+    - Monitor Cr, BUN, lytes daily  
+    - Renal consult as needed
+
+**3. Anemia (Chronic, with acute exacerbation)**  
+- **Assessment:** Multifactorial (chronic disease, acute hemodilution).  
+- **Plan:**  
+    - Iron studies, retic, B12/folate pending  
+    - Transfused 1U PRBC on Day 2  
+    - Monitor CBC daily  
+    - Hold antiplatelets/NSAIDs
+
+**4. Hyperlipidemia**  
+- **Assessment:** Stable, on simvastatin.  
+- **Plan:**  
+    - Continue statin  
+    - Monitor LFTs
+
+**5. Hypertension (controlled)**  
+- **Assessment:** BP low on admission due to shock; now improving.  
+- **Plan:**  
+    - Resume antihypertensives as tolerated  
+    - Monitor for hypotension
+
+**6. Prediabetes**  
+- **Assessment:** Mildly elevated A1c, no hypoglycemia during stay.  
+- **Plan:**  
+    - Monitor glucose  
+    - Diabetic diet
+
+**7. Osteoarthritis (knees)**  
+- **Assessment:** Baseline, no acute issues.  
+- **Plan:**  
+    - PT/OT consult  
+    - Avoid NSAIDs; acetaminophen PRN
+
+**8. Infectious Disease**  
+- **Assessment:** No evidence of new infection. Recent bronchitis/pharyngitis. Blood/urine/sputum cx negative.  
+- **Plan:**  
+    - Monitor for fevers, WBC  
+    - No abx at this time
+
+**9. Delirium (hospital-acquired, resolving)**  
+- **Assessment:** Mild, improved off sedation.  
+- **Plan:**  
+    - Frequent reorientation  
+    - Minimize restraints/sedatives  
+    - OT consult
+
+**10. DVT Prophylaxis**  
+- **Plan:**  
+    - SCDs, ambulation, heparin sq BID
+
+---
+
+### **DIAGNOSTIC STUDIES**
+
+- **ECG:** NSR, no acute changes
+- **Echo (3/16/24):** EF 20%, severe global LV hypokinesis, mod MR, mild TR, RV mildly reduced
+- **CXR:** Pulmonary edema, small bilateral pleural effusions
+- **Renal US:** No hydronephrosis
+- **Cardiac markers:** Troponin mildly elevated on admission, trended down
+
+---
+
+### **PROGRESS NOTES (Selected Days)**
+
+**Day 2 (ICU):**  
+- On Impella support, MAP >65, UOP improving, lactic acid down to 2.2.  
+- Sedated but arousable.  
+- No arrhythmias.
+
+**Day 5:**  
+- Extubated, weaning from vasopressors.  
+- Responding to PT, tolerating oral diet.
+
+**Day 8 (Stepdown):**  
+- LVAD explanted, hemodynamically stable.  
+- Diuresis ongoing, euvolemic.
+
+**Day 12:**  
+- Ambulating with walker.  
+- Creatinine 1.0, Hgb 12.1.  
+- Discharge planning initiated.
+
+---
+
+### **DISCHARGE PLAN (anticipated 3/24/24)**
+
+- Close cardiology follow-up, repeat echo in 4 weeks
+- GDMT optimization as outpatient
+- Renal function monitoring
+- Home PT/OT
+- Advanced care planning
+
+---
+
+**Signed:**  
+Jennifer L. Song, MD  
+3/21/2024 08:13
+
+---

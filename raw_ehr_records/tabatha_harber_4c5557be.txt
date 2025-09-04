@@ -1,0 +1,201 @@
+**INPATIENT PROGRESS NOTE – EPIC EHR**  
+**Patient:** Tabatha Harber  
+**MRN:** 00543921  
+**DOB:** 11/22/1947 (76 yo)  
+**Sex:** Female  
+**Date of Admission:** 2024-04-25  
+**Date/Time of Note:** 2024-05-02 07:24  
+**Attending:** Dr. Samuel C. Brantley  
+**Service:** MICU  
+**Hospital Day:** 8  
+---
+
+**CHIEF COMPLAINT:**  
+Progressive shortness of breath, orthopnea, and lower extremity edema x 2 weeks.
+
+---
+
+**HISTORY OF PRESENT ILLNESS:**  
+76-year-old female with PMHx significant for obesity, diabetes, metabolic syndrome, hypertriglyceridemia, chronic kidney disease (baseline Cr ~2.2), osteoporosis, and hyperlipidemia, who presented to the ED with 2 weeks of worsening dyspnea, orthopnea, and new LE swelling. She was found to be in acute decompensated heart failure with evidence of cardiogenic shock (MAP ~58 mmHg, cool extremities, lactate 4.2). Despite initial stabilization attempts (IV diuresis, vasopressors), she developed worsening end-organ hypoperfusion with escalating inotropic requirements. Cardiology consulted, and decision made for temporary percutaneous LVAD (Impella CP) placement in the CCU on HD #2.
+
+Her course has been complicated by AKI (stage 3), labile blood sugars, and infection risk. She is currently intubated for hypoxemic respiratory failure (HD #3), on minimal sedation, and Impella support is ongoing. She is being evaluated for advanced therapies.
+
+---
+
+**PAST MEDICAL HISTORY:**  
+- Obesity (BMI 30+)  
+- Diabetes mellitus (on metformin)  
+- Metabolic syndrome X  
+- Hypertriglyceridemia  
+- Hyperlipidemia  
+- Chronic kidney disease stage 3b (baseline Cr 2.2, eGFR ~25)  
+- Osteoporosis (T-score -3.5, on alendronate)  
+- History of miscarriage (1st trimester)  
+- Remote tubal pregnancy  
+- Recurrent bronchitis, viral sinusitis
+
+**PAST SURGICAL HISTORY:**  
+- Tubal ligation (age 34)  
+- Cholecystectomy (age 57)  
+
+**FAMILY HISTORY:**  
+- CAD (mother), T2DM (father), osteoporosis (sister)
+
+**SOCIAL HISTORY:**  
+- Lives alone, retired schoolteacher.  
+- Former smoker (quit age 42, 15 pack-years).  
+- No EtOH, no illicit drugs.
+
+**ALLERGIES:**  
+- NKDA
+
+**MEDICATIONS ON ADMISSION:**  
+- Metformin ER 500 mg QD  
+- Simvastatin 10 mg QHS  
+- Alendronic acid 10 mg QD  
+- Diphenhydramine 25 mg PRN  
+- Hydrocortisone 10 mg/mL topical PRN  
+- Acetaminophen 325 mg PRN
+
+---
+
+**REVIEW OF SYSTEMS:**  
+Unable to obtain—intubated and sedated.
+
+---
+
+**PHYSICAL EXAM (ICU Day 8):**  
+- **VS:** T 36.4°C, HR 97, BP 104/54 (on low-dose norepinephrine 0.03 mcg/kg/min), RR 18 (vent), SpO2 97% (FiO2 35%)
+- **Gen:** Intubated, sedated, no acute distress.
+- **HEENT:** Pupils 2mm, sluggish but reactive.
+- **CV:** S1/S2, regular, no murmur, Impella hum noted, JVP 10 cm, cool extremities, 2+ pitting edema to knees.
+- **Lungs:** Diminished bibasilar, scattered rhonchi, on vent.
+- **Abd:** Soft, non-tender, +BS, no HSM.
+- **GU:** Foley in place.
+- **Ext:** No DVT, pulses 1+ dorsalis pedis, mottled lower legs.
+- **Skin:** Mild sacral erythema, no breakdown.
+- **Neuro:** Moves all 4, GCS 7T (intubated).
+
+---
+
+**LABS**
+
+**Table 1: Laboratory Results During Admission**
+
+| Date        | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | AST (U/L) | ALT (U/L) | AlkPhos (U/L) | T Bili (mg/dL) | Albumin (g/dL) | Lactate (mmol/L) |
+|-------------|------------|------------|------------|-------------|------------|-------------|--------------|-------------|------------|--------------|-----------|-----------|---------------|----------------|----------------|------------------|
+| 4/25 09:15  | 13.2       | 14.1       | 179        | 137         | 5.0        | 104         | 22           | 31          | 2.8        | 211          | 35        | 43        | 128           | 0.7            | 3.5            | 4.2              |
+| 4/26 06:40  | 11.7       | 13.5       | 169        | 139         | 4.8        | 108         | 23           | 38          | 3.1        | 177          | 38        | 41        | 124           | 0.9            | 3.2            | 2.7              |
+| 4/27 07:20  | 9.9        | 12.3       | 158        | 140         | 4.5        | 109         | 25           | 42          | 3.5        | 145          | 33        | 37        | 120           | 1.3            | 2.9            | 2.2              |
+| 4/28 07:50  | 7.8        | 11.8       | 142        | 138         | 5.2        | 107         | 24           | 40          | 3.4        | 128          | 29        | 36        | 110           | 1.1            | 2.8            | 1.9              |
+| 4/29 08:05  | 6.6        | 11.2       | 127        | 136         | 4.6        | 105         | 20           | 36          | 3.2        | 118          | 28        | 34        | 108           | 1.0            | 2.7            | 1.2              |
+| 4/30 07:58  | 7.0        | 11.5       | 131        | 137         | 4.9        | 108         | 23           | 33          | 3.0        | 124          | 27        | 33        | 105           | 0.8            | 2.6            | –                |
+| 5/1 08:36   | 8.1        | 12.0       | 140        | 138         | –          | 107         | 24           | 31          | 2.9        | 131          | 30        | 32        | –             | 0.7            | 2.7            | 1.0              |
+| 5/2 07:22   | 8.8        | 12.4       | 144        | 139         | 4.7        | 108         | 25           | 29          | 2.7        | 120          | –         | –         | 106           | 0.6            | 2.9            | 0.9              |
+
+*Note: Some values not reported. Troponin I negative x3, BNP 2450 pg/mL (4/25). Blood cultures negative. HbA1c 5.6% (pre-admission).*
+
+---
+
+**IMAGING & DIAGNOSTICS:**  
+- **CXR 4/25:** Pulmonary edema, mild cardiomegaly, no consolidation.
+- **ECHO 4/25:** LVEF 18%, global hypokinesis, moderate MR, dilated LV, RV function mildly reduced.
+- **ECHO 4/26 (post-Impella):** Impella in position, LVEF 20%, improved CO.
+- **LE Duplex 4/29:** No DVT.
+
+---
+
+**ICU COURSE & EVENTS:**  
+- HD #1: Initial stabilization, diuresis, O2 via HFNC, escalating pressors.
+- HD #2: Persistent hypotension, rising lactate, Impella CP placed in cath lab.
+- HD #3: Intubated for worsening hypoxemia (flash pulmonary edema), started on low-dose fentanyl/propofol.
+- HD #4-8: Gradual improvement, weaned off high-dose pressors, Impella support ongoing, diuresis continued, extubation planned pending mental status.
+- Complications: AKI (Cr peaked 3.5, now trending down), mild transaminitis, hypoalbuminemia, pressure injury risk, hyperglycemia managed with sliding scale insulin.
+
+---
+
+**PROBLEM-BASED ASSESSMENT & PLAN**
+
+**1. Cardiogenic Shock, Acute Decompensated Heart Failure (EF 18%)**
+   - **Assessment:** Severe ADHF with shock, requiring Impella CP. Etiology likely ischemic + metabolic.
+   - **Plan:**
+     - Continue Impella support, daily device checks.
+     - Wean vasopressors as tolerated.
+     - Titrate diuretics (IV furosemide).
+     - Cardiology: Advanced therapies eval (LVAD vs OHT).
+     - Daily ECHO/flow assessment.
+     - Strict I/O, daily weights.
+
+**2. Acute Kidney Injury on CKD (Baseline Cr 2.2, peak 3.5)**
+   - **Assessment:** Likely multifactorial—low flow, diuretics, nephrotoxin exposure.
+   - **Plan:**
+     - Avoid nephrotoxins.
+     - Monitor lytes, daily chem7.
+     - Renal dosing of all meds.
+     - Nephrology following.
+     - No indication for RRT at this time.
+
+**3. Hyperglycemia/Diabetes Mellitus**
+   - **Assessment:** Poor glycemic control, likely stress hyperglycemia.
+   - **Plan:**
+     - Hold metformin (AKI).
+     - Sliding scale insulin, monitor q6h.
+     - Endo consult if persistent.
+
+**4. Infection Risk, Intubated**
+   - **Assessment:** No current infection, high risk due to devices.
+   - **Plan:**
+     - Daily blood cultures if new fever.
+     - VAP prevention bundle.
+     - Remove lines/catheters ASAP.
+
+**5. Hyperlipidemia/Hypertriglyceridemia/Metabolic Syndrome**
+   - **Assessment:** Underlying risk factors.
+   - **Plan:**
+     - Statin continued.
+     - Recheck lipids after stabilization.
+
+**6. Osteoporosis**
+   - **Assessment:** High risk for fracture.
+   - **Plan:**
+     - DVT/PE prophylaxis (heparin SQ).
+     - PT/OT consult for post-ICU care.
+
+**7. Pressure Injury Prevention**
+   - **Assessment:** Mild sacral erythema.
+   - **Plan:**
+     - Frequent repositioning.
+     - Air mattress.
+
+**8. Nutrition**
+   - **Assessment:** At risk, NPO for procedures.
+   - **Plan:**
+     - Enteral feeding via NGT.
+
+**9. Delirium Sedation/Withdrawal**
+   - **Assessment:** On minimal sedation, at risk for delirium.
+   - **Plan:**
+     - SAT/SBT daily.
+     - Minimize sedation.
+
+**10. Disposition**
+   - **Assessment:** MICU, needs advanced HF therapy eval.
+   - **Plan:**
+     - Social work, case management involved.
+     - Family updated daily.
+
+---
+
+**PROGRESS/TO DO:**  
+- Continue current management, monitor for extubation readiness.  
+- Daily labs, strict input/output.  
+- Impella weaning trial if hemodynamically stable.  
+- Continue family updates.  
+- Reassess for transfer to stepdown when off Impella/pressors.
+
+---
+
+**Physician:**  
+Samuel C. Brantley, MD  
+Attending, Cardiology/ICU  
+**Electronically signed 2024-05-02 07:24**

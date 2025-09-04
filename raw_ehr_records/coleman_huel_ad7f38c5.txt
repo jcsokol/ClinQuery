@@ -1,0 +1,202 @@
+---
+**Patient Name:** Coleman Huel  
+**MRN:** 00948237  
+**DOB:** 09/18/1931  
+**Sex:** Male  
+**Admit Date:** 05/21/2024  
+**Attending:** Dr. J. Mendez, Cardiology  
+**Service:** MICU  
+**Admit Dx:** Cardiogenic shock, acute on chronic heart failure, Type 2 DM, CKD, CAD, s/p temporary LVAD  
+**Allergies:** NKDA  
+
+---
+
+## CHIEF COMPLAINT  
+Altered mental status and progressive shortness of breath.
+
+---
+
+## HISTORY OF PRESENT ILLNESS  
+Coleman Huel is a 92-year-old male with extensive PMH including CAD, CKD1, DM2, HTN, metabolic syndrome, anemia, osteoporosis, MDD, Alzheimer’s, and active prostate cancer, who presented from SNF after 2 days of worsening confusion, increasing dyspnea, and lower extremity edema.
+
+Family notes poor oral intake, new lethargy, and several episodes of orthopnea. No fever, cough, or chest pain. Per SNF notes, BP trending lower, O2 sat 90% on 4L, new S3 on exam. On arrival, noted to be hypotensive (SBP 78), tachypneic, with cool extremities and altered sensorium (MMSE 16/30).
+
+---
+
+## HOSPITAL COURSE  
+**Day 1:**  
+- Admitted to MICU. Initial labs: lactic acidosis, AKI on CKD, elevated troponin, BNP >2000.  
+- Echo: severe global LV dysfunction, EF 18%, moderate MR, RV mildly depressed.  
+- Swan-Ganz: CI 1.5, wedge 28, SVR 1100.  
+- Started on norepinephrine, dobutamine, IV Lasix.  
+- Intubated for airway protection.  
+- Nephrology, cardiology, and palliative care consulted.
+
+**Day 2:**  
+- Worsening shock, escalating pressor requirements.  
+- Emergent placement of percutaneous LVAD (Impella CP) at bedside for refractory cardiogenic shock.  
+- Improved hemodynamics, weaned norepinephrine.  
+- Persistent oliguria, started CRRT.
+
+**Day 3-5:**  
+- Gradual improvement in perfusion.  
+- Weaned from ventilator on day 4.  
+- Developed new fever, started empiric vancomycin/cefepime for VAP.  
+- Blood cultures negative, CXR: left lower lobe infiltrate.
+
+**Day 6-8:**  
+- LVAD flow stable, minimal hemolysis.  
+- Renal function partially recovered, CRRT discontinued.  
+- Delirium improved, MMSE 20/30.  
+- Started aggressive diuresis, up-titrated metoprolol and lisinopril.
+
+**Day 9:**  
+- LVAD explanted after TTE showed recovery of LV function to EF 35%.
+- Transitioned to stepdown.
+
+---
+
+## PAST MEDICAL HISTORY  
+- Major depressive disorder  
+- Chronic sinusitis  
+- Type 2 diabetes mellitus, diabetic nephropathy, neuropathy  
+- Hypertension  
+- Hypertriglyceridemia  
+- Metabolic syndrome  
+- Anemia  
+- CKD stage 1  
+- CAD, prior NSTEMI (2020)  
+- Osteoporosis  
+- Alcohol use disorder (in remission)  
+- Prostate cancer s/p leuprolide, docetaxel  
+- Alzheimer’s dementia  
+- Multiple recent viral sinusitis episodes  
+- Remote facial laceration, ankle sprain
+
+---
+
+## MEDICATIONS (on admission)  
+- Fluoxetine 25mg PO QD  
+- Hydrochlorothiazide 25mg PO QAM  
+- Metformin ER 500mg PO BID  
+- Insulin 70/30 (Humulin) SQ BID  
+- Simvastatin 20mg PO QHS  
+- Nitroglycerin 0.4mg spray PRN  
+- Amlodipine 5mg PO QD  
+- Docetaxel 20mg/mL IV  
+- Leuprolide acetate 30mg/mL SQ  
+- Clopidogrel 75mg PO QD  
+- Acetaminophen 325mg PO PRN  
+- Galantamine 4mg PO BID  
+- Naproxen sodium 220mg PO PRN
+
+---
+
+## VITALS (ICU Admission, Subsequent Key Days)
+
+| Date         | Temp (C) | HR   | BP          | RR   | SpO2 | Pain | Weight (kg) |
+|--------------|----------|------|-------------|------|------|------|-------------|
+| 5/21/2024    | 37.1     | 104  | 78/52       | 28   | 89%  | 1    | 79.3        |
+| 5/22/2024    | 36.9     | 98   | 82/55       | 24   | 94%  | 0    | 79.1        |
+| 5/25/2024    | 37.8     | 96   | 102/60      | 22   | 96%  | 2    | 78.6        |
+| 5/29/2024    | 36.7     | 84   | 112/62      | 18   | 98%  | 1    | 78.0        |
+
+---
+
+## LABS
+
+### Table 1: CBC, CHEM7, Cardiac, Renal, and Related Labs
+
+| Date        | WBC   | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu   | Ca   | Troponin | BNP  | AST  | ALT  | Alb  | UA Prot | Lactate |
+|-------------|-------|-------|-------|-------|------|------|------|------|------|------|-------|------|----------|------|------|------|------|---------|---------|
+| 5/21/2024   | 4.6   | 15.1  | 36.0  | 248   | 138  | 4.3  | 109  | 23   | 32   | 2.1  | 407   | 10.1 | 0.28     | 2214 | 42   | 36   | 3.4  | 3+      | 4.6     |
+| 5/22/2024   | 5.2   | 14.9  | 35.2  | 245   | 137  | 4.7  | 111  | 22   | 41   | 2.6  | 211   | 9.7  | 0.19     | >2000| 56   | 47   | 3.1  | 3+      | 2.8     |
+| 5/23/2024   | 6.4   | 13.8  | 33.4  | 232   | 135  | 4.1  | 108  | 21   | 35   | 2.4  | 188   | 9.2  | 0.12     | 1430 | 38   | 23   | 2.9  | 2+      | 3.2     |
+| 5/24/2024   | 8.8   | 13.2  | 32.1  | 227   | 136  | 3.7  | 105  |      | 28   | 1.8  | 162   | 8.7  | 0.08     | 900  | 29   | 18   |      | 1+      |         |
+| 5/25/2024   | 10.2  | 12.8  | 31.6  | 210   | 139  | 4.0  | 104  | 24   | 21   | 1.5  | 134   | 9.0  | 0.05     | 430  | 31   | 16   | 3.2  | 1+      | 1.4     |
+| 5/27/2024   | 7.7   | 13.5  | 32.9  | 223   | 138  | 4.4  | 106  | 25   | 18   | 1.2  | 112   | 9.8  | 0.03     | 380  | 28   | 13   | 3.4  | NEG     |         |
+| 5/29/2024   | 6.2   | 14.0  | 33.7  | 242   | 140  | 4.2  | 108  | 27   | 15   | 1.1  | 99    | 10.3 | <0.01    | 280  |      |      | 3.5  | NEG     | 1.0     |
+
+---
+
+## IMAGING/DIAGNOSTICS  
+- **5/21/24 Echo:** EF 18%, severe global hypokinesis, mod MR, mild RV dysfunction  
+- **5/22/24 CXR:** Pulmonary edema, bilateral effusions  
+- **5/25/24 CXR:** LLL infiltrate  
+- **5/29/24 Echo:** EF improved to 35%, mild MR, RV normal  
+- **5/21/24 ECG:** NSR, low voltage, Q waves anteriorly
+
+---
+
+## PHYSICAL EXAM (Day 4, off sedation)  
+- **Gen:** Elderly male, frail, oriented to name  
+- **HEENT:** Dry mucosa, no JVD  
+- **CV:** S3, soft systolic murmur, tachycardia  
+- **Resp:** Bibasilar crackles, decreased LLL  
+- **Abd:** Soft, nontender, no HSM  
+- **Ext:** +2 pitting edema BLE, cool  
+- **Neuro:** Follows simple commands, MMSE 20/30
+
+---
+
+## ASSESSMENT & PLAN
+
+### 1. **Cardiogenic Shock, acute on chronic HFrEF (CAD, DM2, HTN)**
+   - Emergent temporary LVAD (Impella CP) placed on day 2 for refractory shock.
+   - Gradual hemodynamic improvement, LVAD explanted day 9 after partial recovery.
+   - Continue guideline-directed medical therapy (GDMT): beta-blocker, ACEi, MRA.
+   - Strict I/O, daily weights, fluid restriction.
+   - Monitor for arrhythmia, recurrent shock.
+
+### 2. **Acute on Chronic Renal Failure (CKD1, diabetic nephropathy)**
+   - CRRT days 2-6, now off.
+   - Monitor renal function, avoid nephrotoxins.
+   - Adjust insulin/metformin dosing.
+
+### 3. **Type 2 Diabetes Mellitus**
+   - Basal-bolus insulin, hold metformin during AKI.
+   - Monitor glucose q6h, resume oral agents as renal function recovers.
+
+### 4. **Hospital-acquired pneumonia (VAP)**
+   - Treated with vancomycin/cefepime x7d.
+   - De-escalate abx per cultures.
+
+### 5. **Anemia of chronic disease**
+   - Monitor H/H, transfuse if Hgb <8.
+
+### 6. **Prostate cancer (s/p leuprolide, docetaxel)**
+   - Hold chemo during critical illness.
+   - Continue hormone therapy as tolerated.
+
+### 7. **Alzheimer’s dementia**
+   - Galantamine continued.
+   - Re-orientation, minimize sedation.
+
+### 8. **Depression**
+   - Fluoxetine continued.
+
+### 9. **Osteoporosis**
+   - Fall precautions.
+
+### 10. **HTN, hypertriglyceridemia, metabolic syndrome**
+   - Resume statin, antihypertensives as tolerated.
+
+### 11. **Alcohol use disorder**
+   - No withdrawal observed.
+
+### 12. **Other**
+   - DVT prophylaxis: SCDs, enoxaparin as renal function allows.
+   - PT/OT consult for deconditioning.
+
+---
+
+## DISPOSITION  
+- Plan for cardiac rehab and SNF placement after stepdown.
+
+---
+
+**Signed:**  
+Dr. J. Mendez, MD  
+MICU/Cardiology  
+Date: 05/30/2024  
+---

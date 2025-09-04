@@ -1,0 +1,170 @@
+**Epic EHR – Patient Summary**
+
+**Patient Name:** Lorri Barton  
+**MRN:** 0012847  
+**DOB:** 01/23/1914  
+**Sex:** Female  
+**Admit Date:** 03/07/2024  
+**Attending:** Dr. Samuel Lin  
+**Consults:** Cardiology, Neurology, Geriatrics  
+**Service:** MICU  
+**Code Status:** Full  
+**Isolation:** None  
+**Allergies:** NKDA  
+**Height:** 157 cm  
+**Weight:** 69.6 kg  
+**BMI:** 28.2 kg/m2  
+
+---
+
+### **History of Present Illness**
+
+Lorri Barton is a 110-year-old female with a history of advanced Alzheimer’s dementia, coronary artery disease, seizure disorder, osteoporosis, obesity, and osteoarthritis who presented to the ED from her skilled nursing facility with acute-onset chest pain, confusion, and dyspnea. She was found to be hypotensive (BP 78/54), tachycardic (HR 119), and hypoxic (SpO₂ 88% on room air). Initial ECG showed ST depressions in lateral leads; troponin was elevated. She was transferred to the ICU for cardiogenic shock.
+
+Despite stabilization with pressors and diuresis, the patient’s shock persisted. She underwent emergent placement of a percutaneous left ventricular assist device (Impella CP) for temporary circulatory support. She has remained intubated and sedated, with intermittent episodes of myoclonus and altered mental status.
+
+---
+
+### **Hospital Course (MICU Days 1–7)**
+
+- **Day 1:** Admitted with cardiogenic shock. Intubated for airway protection. Started on norepinephrine, dobutamine. Impella CP placed via femoral approach.  
+- **Day 2:** Remained hemodynamically unstable. Troponin peaked at 14.4 ng/mL. Lactate 6.2 mmol/L. Transient atrial fibrillation.  
+- **Day 3:** Improved MAP (>65 mmHg), weaning off norepinephrine. Impella flows 3.2 L/min. Mild AKI (Cr 1.8).  
+- **Day 4:** Developed fever (Tmax 38.6°C), WBC 13.2. CXR: new RLL infiltrate. Started on vancomycin/cefepime.  
+- **Day 5:** Impella support ongoing. Echo: LVEF 22%. NT-proBNP 9,400.  
+- **Day 6:** Reduced sedation, attempted spontaneous breathing trial—failed due to tachypnea.  
+- **Day 7:** Impella weaned and explanted. Remains on low-dose dobutamine.  
+
+---
+
+### **Physical Exam (Day 7)**
+
+**Gen:** Elderly female, intubated, sedated, appears frail  
+**HEENT:** Pupils equal/reactive, mucous membranes dry  
+**CV:** S1/S2, no murmurs/rubs, Impella site clean/dry  
+**Pulm:** Intubated, bilateral crackles, no wheeze  
+**Abd:** Soft, nontender, hypoactive bowel sounds  
+**Extremities:** No edema, pulses 2+, mild hand deformity  
+**Neuro:** Not following commands, localizes pain, nonverbal  
+**Skin:** No rash, sacrum clear  
+
+---
+
+### **Lab Results Table**
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO₂ (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Troponin (ng/mL) | Lactate (mmol/L) | AST (U/L) | ALT (U/L) | NT-proBNP (pg/mL) |
+|------------|------------|------------|------------|-------------|------------|-------------|--------------|-------------|------------|--------------|------------------|------------------|-----------|-----------|-------------------|
+| 3/07/24    | 10.4       | 14.8       | 251        | 138         | 4.2        | 102         | 22           | 26          | 1.2        | 118          | 6.2              | 5.4              | 31        | 25        |  5300             |
+| 3/08/24    | 12.2       | 13.6       | 201        | 134         | 3.9        | 98          | 19           | 32          | 1.6        | 144          | 10.1             | 6.2              | 45        | 33        |  7200             |
+| 3/09/24    | 13.2       | 12.8       | 175        | 136         | 4.1        | 99          | 17           | 36          | 1.8        | 156          | 14.4             | 5.1              | 51        | 39        |  9400             |
+| 3/10/24    | 12.0       | 12.3       | 170        | 137         | 4.0        | 97          | --           | 34          | 1.7        | 134          | 7.6              | --               | --        | --        |  8600             |
+| 3/11/24    | 11.1       | 11.9       | 162        | 139         | 3.8        | --          | 23           | 29          | 1.4        | 112          | 4.1              | 2.9              | 38        | 28        |  6400             |
+| 3/12/24    | 10.2       | 11.6       | 154        | --          | 3.7        | 101         | 25           | 26          | 1.2        | --           | 2.0              | --               | --        | --        |  5400             |
+
+---
+
+### **Medications (Current)**
+
+- Simvastatin 20 mg PO qHS
+- Amlodipine 5 mg PO daily
+- Clopidogrel 75 mg PO daily
+- Donepezil 10 mg PO qAM  
+- Donepezil 23 mg PO qHS
+- Acetaminophen 325 mg PO q6h PRN
+- Fentanyl IV (sedation/analgesia)
+- Midazolam IV (sedation)
+- Dobutamine IV gtt
+- Vancomycin IV q12h
+- Cefepime IV q8h
+- Heparin SQ BID (VTE ppx)
+
+---
+
+### **Problem-Based Assessment & Plan**
+
+#### 1. **Cardiogenic Shock, s/p STEMI, Impella CP placement**
+   - Day 1–7: Managed with vasopressors, inotropes, and Impella support; now weaning off support.
+   - Echo: LVEF remains severely reduced.
+   - Plan: Continue hemodynamic monitoring, titrate dobutamine, consider transition to palliative care if no further improvement.
+
+#### 2. **Acute Hypoxic Respiratory Failure**
+   - Intubated, on mechanical ventilation.
+   - Failed SBT on day 6.
+   - Plan: Continue lung-protective ventilation, daily SBTs, pulmonary hygiene, monitor for VAP.
+
+#### 3. **Hospital-Acquired Pneumonia**
+   - Fever, leukocytosis, new infiltrate.
+   - Plan: Continue vancomycin/cefepime, monitor cultures, de-escalate if able.
+
+#### 4. **Acute Kidney Injury (Stage 1)**
+   - Likely multifactorial: shock, nephrotoxins, hypoperfusion.
+   - Plan: Monitor renal function, avoid nephrotoxins, optimize volume status.
+
+#### 5. **Alzheimer’s Dementia**
+   - Profound baseline cognitive impairment.
+   - Plan: Continue donepezil; goals-of-care discussion with family ongoing.
+
+#### 6. **Seizure Disorder**
+   - Intermittent myoclonus, no witnessed seizures.
+   - Plan: EEG pending, continue seizure precautions, monitor for further events.
+
+#### 7. **Coronary Artery Disease**
+   - On statin, antiplatelet.
+   - Plan: Continue secondary prevention meds as able.
+
+#### 8. **Obesity, Osteoarthritis, Osteoporosis**
+   - At baseline, not a focus of acute management.
+   - Plan: DVT prophylaxis, repositioning, calcium/vitamin D repletion.
+
+#### 9. **Pain/Delirium/Sedation**
+   - On fentanyl, midazolam for comfort.
+   - Attempt to minimize sedation as tolerated.
+
+#### 10. **Other**
+   - Code status: Full, but goals-of-care discussion ongoing.
+   - PT/OT consult for mobility as able.
+
+---
+
+### **Imaging/Procedures**
+
+- **3/07/24:** CXR: Mild pulmonary edema, no effusions
+- **3/07/24:** Echo: LVEF 18%, severe diffuse hypokinesis
+- **3/08/24:** Cardiac cath: severe multivessel disease; Impella CP placed
+- **3/10/24:** CXR: New right lower lobe infiltrate
+
+---
+
+### **Consult Notes**
+
+**Cardiology:**  
+- Recommends slow wean from Impella, consider advanced therapies if not improved.  
+
+**Neurology:**  
+- EEG pending, recommend continued seizure precautions.
+
+**Geriatrics:**  
+- Family meeting recommended to discuss prognosis and care goals.
+
+---
+
+### **Nursing/Other Notes**
+
+- Foley catheter, rectal tube in place.
+- Turning Q2h, sacral skin intact.
+- Family at bedside daily.
+
+---
+
+### **Discharge Planning**
+
+- Prognosis guarded, family meeting scheduled.
+- Not a candidate for durable LVAD or transplant.
+- Anticipate transfer to LTACH or hospice if no improvement.
+
+---
+
+**Attending:** Samuel Lin, MD  
+**Date/Time:** 03/13/2024 09:42
+
+---

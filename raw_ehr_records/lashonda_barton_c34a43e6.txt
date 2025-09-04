@@ -1,0 +1,219 @@
+**Epic EHR Inpatient Progress Note**  
+**Patient Name:** Barton, Lashonda  
+**MRN:** 00217459  
+**DOB:** 03/13/1954 (Age: 70)  
+**Sex:** Female  
+**Date of Service:** 06/18/2024  
+**Attending:** Dr. S. R. Weaver, MD  
+**Location:** MICU, Bed 4
+
+---
+
+**Chief Complaint:**  
+Abdominal pain, fever, progressive dyspnea, hypotension.
+
+---
+
+**History of Present Illness:**  
+Lashonda Barton is a 70-year-old female with a history of hypertension, obesity (BMI ~31), prediabetes, chronic anemia, and known cholelithiasis who presented with acute right upper quadrant abdominal pain and fever. She was found to have acute cholecystitis with sepsis and was admitted for IV antibiotics and supportive care. On hospital day 2, she developed acute hypoxemic respiratory failure and hypotension, requiring intubation and vasopressor support. Cardiac enzymes were elevated, and echo demonstrated severe LV systolic dysfunction (EF ~20%) with global hypokinesis, presumed secondary to septic cardiomyopathy and possible demand ischemia. She was subsequently transferred to the ICU, where she developed worsening cardiogenic shock refractory to escalating vasopressors and inotropes, necessitating placement of a percutaneous temporary LV assist device (Impella CP) for hemodynamic support. She has since stabilized but remains critically ill.
+
+---
+
+**Past Medical History:**  
+- Hypertension  
+- Obesity (BMI 30+)  
+- Prediabetes  
+- Anemia (chronic, mild)  
+- Cholelithiasis  
+- GERD  
+- Chronic viral sinusitis  
+- Osteopenia  
+- Prior right forearm fracture (2018)  
+- No known CAD or prior MI  
+- No prior CHF diagnosis
+
+**Surgical History:**  
+- Appendectomy (childhood)  
+- Right forearm ORIF (2018)
+
+**Family History:**  
+- Mother: T2DM, deceased age 78 (stroke)  
+- Father: MI at 67, deceased age 72 (CHF)  
+- Brother: HTN, alive
+
+**Social History:**  
+- Retired teacher  
+- Lives with husband  
+- Non-smoker  
+- Rare alcohol  
+- No illicit drugs  
+- Ambulates with cane
+
+**Allergies:**  
+- NKDA
+
+---
+
+**Medications on Admission:**  
+- Atenolol/Chlorthalidone 50/25 mg PO daily  
+- Ibuprofen 200 mg PO PRN  
+- Acetaminophen/Oxycodone 325/5 mg PO PRN  
+- No home insulin or oral hypoglycemics
+
+**Hospital Medications:**  
+- Heparin sodium (DVT prophylaxis)  
+- Piperacillin-tazobactam IV  
+- Ondansetron IV PRN  
+- Morphine sulfate IV PRN  
+- Propofol IV infusion (sedation)  
+- Midazolam IV PRN  
+- Rocuronium IV PRN  
+- Isoflurane (during intubation)  
+- Alfentanil (during intubation)  
+- Sodium chloride IV fluids  
+- Norepinephrine IV infusion  
+- Dobutamine IV infusion (during shock)  
+- Insulin sliding scale  
+- Pantoprazole IV  
+- Atorvastatin 40 mg PO qHS (started day 3)  
+- Furosemide 20 mg IV PRN
+
+---
+
+### Vitals (selected)
+
+| Date         | Temp (C) | BP (mmHg) | HR (bpm) | RR | SpO2 | Pain (0-10) |
+|--------------|----------|-----------|----------|----|------|-------------|
+| Admission    | 38.2     | 104/61    | 115      | 24 | 94%  | 7           |
+| Hosp Day 2   | 37.9     | 89/54     | 131      | 30 | 91%  | Intubated   |
+| Hosp Day 3   | 37.2     | 94/62     | 96       | 18 | 99%  | Sedated     |
+| Hosp Day 4   | 36.8     | 102/68    | 81       | 16 | 99%  | Sedated     |
+| Hosp Day 5   | 37.1     | 119/74    | 78       | 16 | 98%  | Sedated     |
+
+---
+
+### Laboratory Data
+
+**CBC / Chem7 / LFTs / Cardiac / Coags (selected, see chart for full list):**
+
+| Date        | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | AST (IU/L) | ALT (IU/L) | Alk Phos | T. Bili | Troponin I (ng/mL) | INR | aPTT (sec) |
+|-------------|------------|------------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|------------|------------|----------|---------|--------------------|-----|------------|
+| Admit       | 16.4       | 10.6       | 262        | 139         | 4.1        | 108         | 21           | 16          | 1.0        | 132         | 189        | 112        | 33       | 1.3     | 0.09               | 1.2 | 29         |
+| Day 2       | 20.3       | 9.3        | 201        | 142         | 4.7        | 111         | 19           | 25          | 1.2        | 148         | 234        | 197        | 44       | 2.1     | 0.21               | 1.9 | 40         |
+| Day 3       | 13.9       | 8.8        | 155        | 140         | 4.5        | 109         | 23           | 19          | 1.1        | 120         | 201        | 134        | 38       | 1.7     | 0.15               | 1.5 | 33         |
+| Day 4       | 11.8       | 9.6        | 175        | 138         | 4.2        | 107         | 24           | 15          | 0.9        | 109         | 92         | 67         | 36       | 1.2     | <0.01               | 1.3 | 28         |
+| Day 5       | 9.7        | 10.1       | 193        | 140         | 4.0        | 105         | 25           | 13          | 0.8        | 104         | 38         | 28         | 32       | 1.0     | <0.01               | 1.1 | 30         |
+
+*Some values missing due to hemolysis or sample error.*
+
+---
+
+### Microbiology
+- Blood cultures x2 admission: No growth
+- Urine culture: No growth
+- Sputum: Mixed oral flora
+
+---
+
+### Imaging
+
+- **RUQ ultrasound (admit):** Distended gallbladder, wall thickening, pericholecystic fluid, multiple stones, +sonographic Murphy sign
+- **Echocardiogram (day 2):** Severe global LV dysfunction (EF 20%), mild RV dysfunction. No valvular vegetations. Mild MR/TR.
+- **CXR (daily):** Bilateral lower lobe opacities, interval improvement by day 5. No pneumothorax.
+
+---
+
+### Hospital Course (Summary)
+- Admitted for acute cholecystitis, sepsis.
+- Rapid progression to shock, intubation, multi-organ dysfunction.
+- Echocardiogram: Severe LV failure, likely septic cardiomyopathy ± demand ischemia.
+- Cardiogenic shock refractory to vasopressors/inotropes → temporary LVAD (Impella CP) placed at bedside.
+- Gradual improvement in hemodynamics; pressors weaned off by day 4.
+- LVAD explanted at bedside on day 5 after echocardiographic improvement (EF up to 38%).
+- Remains on antibiotics; extubated successfully day 6.
+- Complicated by transient AKI (resolved), mild transaminitis (improving).
+
+---
+
+### Problem-Based Assessment & Plan
+
+**1. Cardiogenic Shock / Acute LV Failure (Septic Cardiomyopathy):**
+   - Initial severe LV dysfunction (EF 20%) with hypotension, oliguric AKI, lactic acidosis.
+   - Required norepinephrine/dobutamine, then Impella CP for 72 hours.
+   - Hemodynamics improved, device explanted.
+   - Plan: Monitor for recurrence, daily ECHO, continue gentle diuresis, wean O2, continue cardiac monitoring, resume beta-blocker as tolerated.
+
+**2. Acute Cholecystitis / Sepsis:**
+   - Treated with IV piperacillin-tazobactam.
+   - Surgery: Not operative candidate during shock. Plan for interval cholecystectomy post-recovery.
+   - Abdominal pain improved, afebrile.
+   - Plan: Continue IV abx x7-10d, surgical reassessment.
+
+**3. Respiratory Failure / ARDS:**
+   - Intubated days 2–6, now extubated.
+   - CXR improved, O2 sat >98% on nasal cannula.
+   - Plan: Pulmonary toilet, incentive spirometry, O2 wean.
+
+**4. AKI (resolved):**
+   - Likely multifactorial: hypoperfusion, sepsis, nephrotoxic meds.
+   - Creatinine normalized, urine output adequate.
+   - Plan: Monitor labs, avoid nephrotoxins.
+
+**5. Anemia (chronic, worsened acutely):**
+   - Hgb drop from 10.6 → 8.8, now uptrending.
+   - No overt bleeding, likely dilutional + sepsis.
+   - Plan: Monitor, transfuse if Hgb <7.
+
+**6. Transaminitis / Liver dysfunction:**
+   - AST/ALT peaked day 2, trending down.
+   - Likely ischemic hepatitis from shock.
+   - Plan: Monitor LFTs, no hepatotoxic meds.
+
+**7. Hypertension / Prediabetes / Obesity:**
+   - Hold home antihypertensives during shock.
+   - Restart as tolerated.
+   - Counsel on diet, exercise at discharge.
+
+**8. Pain / Sedation:**
+   - Now off IV sedation; transitioned to PO analgesia.
+   - Weaning off narcotics.
+
+**9. DVT Prophylaxis:**
+   - On heparin SQ.
+
+**10. Nutrition:**
+   - NPO during intubation, now on clear liquids.
+   - Advance as tolerated.
+
+---
+
+### Disposition
+- Remain in MICU for monitoring.
+- Anticipate transfer to stepdown within 24-48h if stable.
+- Outpatient follow-up: Cardiology, Surgery, Primary Care.
+
+---
+
+### Orders/Tasks
+- CBC, BMP, LFTs qAM
+- ECHO daily
+- Wean O2 as tolerated
+- PT/OT eval for mobility
+- Case management consult
+
+---
+
+**Physician:** S. R. Weaver, MD  
+**Date/Time:** 06/18/2024 08:14  
+**Co-signature:** [Pending]
+
+---
+
+**Additional Notes:**  
+- Code status: Full  
+- Family updated daily  
+- Awaiting social work for discharge planning
+
+---
+
+**End of Note**

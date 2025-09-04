@@ -1,0 +1,173 @@
+**INPATIENT PROGRESS NOTE**
+**Patient:** Pedro Rojas  
+**MRN:** 00329842  
+**DOB:** 10/17/1912  
+**Sex:** Male  
+**Admit Date:** 4/10/2024  
+**Attending:** Dr. Jameson, MD  
+**Service:** Cardiology ICU  
+**Note Date:** 4/17/2024  
+**Location:** 4D ICU, Bed 3  
+
+---
+
+## Subjective
+
+**CC:** Worsening dyspnea, orthopnea, and lower extremity edema
+
+**HPI:**  
+Pedro Rojas is a 111-year-old male with a complex cardiac and medical history including chronic CHF (EF 43%), HTN, DM2, CKD1, anemia, hyperlipidemia, osteoporosis with prior pathologic ankle fracture, and metabolic syndrome. He presented from home with progressive SOB, orthopnea, 2-pillow PND, and increasing lower extremity swelling over 1 week. Also noted poor oral intake, malaise, and occasional confusion. Family reports adherence to meds but missed last 2 insulin doses due to "not eating."
+
+On arrival, he was hypoxic (SpO2 86% RA), tachypneic, hypertensive (BP 178/96), and in moderate respiratory distress. CXR showed pulmonary edema. BNP and troponin elevated. Echo: LVEF now 32%, new severe global hypokinesis. Admitted to ICU for acute decompensated heart failure and cardiogenic shock. Required BiPAP, then intubation for worsening hypoxemia on HD2.
+
+Due to persistent hypotension and rising lactate despite pressors/diuresis, Impella CP (percutaneous LVAD) was placed on 4/12 for temporary mechanical circulatory support.
+
+**ROS:**  
+- General: Fatigue, weakness, poor appetite  
+- Cardiac: Palpitations, orthopnea, no chest pain  
+- Pulm: Dyspnea, cough (nonproductive), no hemoptysis  
+- GI: Mild nausea, no vomiting, no diarrhea  
+- GU: Oliguria since admission  
+- Neuro: Mild confusion, no focal deficits  
+- MSK: Chronic R ankle pain, new mild sacral tenderness  
+- Skin: No new rashes/ulcers
+
+---
+
+## Objective
+
+**Vitals (Selected):**  
+| Date       | Temp (°C) | HR  | BP        | RR | SpO2      | Wt (kg) |
+|------------|-----------|-----|-----------|----|-----------|---------|
+| 4/10/24 AM | 36.9      | 109 | 178/96    | 24 | 86% RA    | 72.1    |
+| 4/11/24 PM | 37.1      | 102 | 152/81    | 22 | 92% 3L NC | 71.5    |
+| 4/12/24 AM | 36.5      | 98  | 90/55     | 28 | 93% vent  | 71.0    |
+| 4/13/24 AM | 36.7      | 95  | 80/48 MAP | 22 | 97% vent  | 70.8    |
+| 4/15/24 PM | 37.2      | 87  | 102/61    | 18 | 98% vent  | 70.2    |
+
+**I/O:**  
+- Net negative 1.7L over first 4 days  
+- Oliguria on HD2-3, improved after Impella  
+- Foley in place
+
+---
+
+**Physical Exam (ICU day 7):**  
+- **General:** Elderly male, intubated, sedated, on mechanical support  
+- **HEENT:** Normocephalic, dry mucosa  
+- **CV:** Tachycardic, S3 present, no murmurs, JVD +3cm  
+- **Resp:** Coarse rales throughout, decreased breath sounds bibasilar, on vent  
+- **Abd:** Soft, mildly distended, no rebound  
+- **Ext:** 2+ pitting edema BLE, chronic deformity R ankle  
+- **Neuro:** Opens eyes to pain, nonverbal, moves all extremities
+
+---
+
+**Lab Results (Selected):**  
+*(See table below for daily labs)*
+
+**Imaging:**  
+- **CXR 4/10:** Pulmonary edema, cardiomegaly  
+- **Echo 4/11:** LVEF 32%, severe global hypokinesis, mild MR  
+- **Lower extremity X-ray 4/14:** Chronic R ankle changes, no new fracture  
+- **CT head 4/13:** No acute infarct/bleed
+
+---
+
+### Laboratory Results Table
+
+| Date       | WBC   | Hgb   | Hct   | Plt   | Na+ | K+  | Cl- | CO2 | BUN | Cr   | Glu | Ca  | AST | ALT | BNP   | Trop | Alb  |
+|------------|-------|-------|-------|-------|-----|-----|-----|-----|-----|------|-----|-----|-----|-----|-------|------|------|
+| 4/10/24 AM | 6.2   | 12.9  | 36.2  | 418   | 139 | 4.1 | 99  | 24  | 22  | 1.6  | 184 | 8.8 | 38  | 21  | 2890  | 0.11 | 3.6  |
+| 4/11/24 AM | 7.1   | 11.8  | 33.1  | 390   | 141 | 4.3 | 103 | 23  | 29  | 1.9  | 172 | 9.2 | 42  | 19  | 3440  | 0.09 | 3.3  |
+| 4/12/24 AM | 8.5   | 10.9  | 31.2  | 367   | 142 | 4.8 | 107 | 19  | 36  | 2.2  | 160 | 8.6 | 41  | 22  | 3810  | 0.14 | 2.9  |
+| 4/13/24 AM | 12.7  | 10.4  | 30.1  | 330   | 140 | 5.7 | 104 | 18  | 44  | 2.7  | 156 | 8.3 | 44  | 21  | 3250  | 0.12 | 2.7  |
+| 4/14/24 AM | 10.3  | 9.9   | 28.7  | 298   | 138 | 4.2 | 102 | 21  | 38  | 2.0  | 141 | 8.8 | 36  | 20  | 2220  | 0.07 | --   |
+| 4/15/24 PM | 9.8   | 10.7  | 31.1  | 350   | 139 | 4.0 | 105 | 23  | 34  | 1.5  | 136 | 9.1 | 32  | 19  | 1560  | <0.01| 3.8  |
+| 4/16/24 AM | 7.5   | 11.2  | 32.5  | 371   | 140 | 3.9 | 100 | 23  | 31  | 1.3  | 124 | 9.0 | 29  | 17  | 1369  | <0.01| 4.2  |
+| 4/17/24 AM | 6.8   | 12.3  | 35.0  | 399   | 141 | 4.1 | --  | 24  | 29  | 1.2  | 116 | 9.4 | --  | --  | 1188  | <0.01| 4.0  |
+
+**Additional labs:**  
+- **Lactate:** peaked at 4.8 (4/12), normalized 4/14  
+- **Troponin:** peaked 0.14 (4/12), now <0.01  
+- **INR:** 1.3-1.6 during ICU stay  
+- **Mag:** 1.6-2.2  
+- **Phos:** 2.4-4.1  
+- **Urine microalbumin/cr:** 460 mg/g (baseline)
+
+---
+
+## Assessment & Plan
+
+**Summary:**  
+111M w/ severe CHF (newly reduced LVEF), DM2, CKD1, anemia, hld, htn, prior ankle fracture, osteoporosis. Admitted with acute decompensated HF and cardiogenic shock, requiring intubation, pressors, and temporary LVAD (Impella CP). Complicated by AKI, hypoperfusion, mild delirium, and chronic comorbidities. Gradually improving on mechanical support.
+
+---
+
+### 1. **Cardiogenic Shock / Acute on chronic HFrEF**
+- Severe decompensation, likely precipitated by dietary indiscretion and missed insulin doses → volume overload, myocardial stunning.
+- Required Impella CP for LV support (placed 4/12), now weaning off pressors
+- LVEF improved marginally on support
+- Diuresis ongoing (IV Lasix, daily wt, strict I/O)
+- MAP goal >65, on low dose norepi (titrating down)
+- Daily TTE for Impella position/function; no hemolysis
+- Plan: Continue Impella, reassess for wean/removal in 48h if stable
+
+### 2. **AKI on CKD1**
+- Cr peaked at 2.7, now 1.2; likely pre-renal/ischemic etiology
+- Foley for strict I/O, UOP improving
+- Avoid nephrotoxins, adjust meds
+- Monitor lytes, daily labs
+
+### 3. **Anemia (chronic, multifactorial)**
+- Hgb nadir 9.9, now uptrending
+- Chronic Epo, iron repleted, 1u PRBC transfused 4/13
+- No evidence of active bleeding
+
+### 4. **DM2, poor control**
+- Insulin sliding scale, basal/bolus regimen
+- Glucose 116-184 mg/dL, no DKA
+- Monitor for hypoglycemia
+
+### 5. **Hypertension**
+- Initially hypertensive, now labile due to shock/pressors
+- Continue to titrate off agents as tolerated
+
+### 6. **Hyperlipidemia / Metabolic Syndrome**
+- On simvastatin, continue
+- TG/LDL elevated, dietary consult
+
+### 7. **Osteoporosis, prior pathologic ankle fracture**
+- Chronic pain, on acetaminophen prn
+- DEXA pending, ortho consult for fall risk
+
+### 8. **Delirium / Encephalopathy**
+- Likely multifactorial (shock, intubation, metabolic)
+- Re-orient, minimize sedation, PT/OT
+
+### 9. **Chronic sinusitis**
+- No current infection, monitor
+
+### 10. **Prophylaxis/Supportive**
+- DVT ppx: SCDs, heparin sq (held for plt <50 or INR >2)
+- PPI for GI ppx
+- Foley care, oral care, pressure ulcer prevention
+- Family updates daily
+
+---
+
+## Disposition
+
+- Remains in ICU, Impella-dependent
+- Plan for gradual wean, extubation when stable
+- Anticipate prolonged rehab due to frailty and deconditioning
+
+---
+
+**Attending:** Jameson, MD  
+**Resident:** S. Patel, MD  
+**Date/Time:** 4/17/2024 09:44
+
+---
+
+**Orders/Results reviewed. Discussed with team and patient's family.**

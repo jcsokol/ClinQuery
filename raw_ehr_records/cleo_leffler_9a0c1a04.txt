@@ -1,0 +1,145 @@
+```
+=====================================================================
+EPIC EHR: ICU Admission Note
+=====================================================================
+
+PATIENT NAME: Cleo Leffler  
+MRN: 009847123  
+DOB: 1995-04-09 (Age: 28)  
+SEX: Male  
+ADMITTING PHYSICIAN: Dr. S. Patel  
+ADMISSION DATE: 2024-05-29  
+NOTE AUTHOR: Dr. L. Montoya  
+DATE/TIME OF NOTE: 2024-06-02 09:14  
+
+=====================================================================
+REASON FOR ADMISSION
+---------------------------------------------------------------------
+28M with PMHx of MDD, viral URIs presents with acute chest pain, dyspnea, and syncope. Found to be in cardiogenic shock, transferred to ICU for management. Required temporary left ventricular assist device (Impella CP) on hospital day 1 for refractory shock.
+
+=====================================================================
+HOSPITAL COURSE
+---------------------------------------------------------------------
+Pt presented to ED after 1 week viral prodrome (URI sx, myalgias, low-grade fevers) followed by acute onset chest pain, SOB, and presyncope. In ED, hypotensive (SBP 70s), tachycardic, hypoxic (O2 sat 89% RA). Exam: cool extremities, JVD, S3, bibasilar crackles.
+
+Labs notable for elevated troponin, BNP, and lactic acidosis. EKG: sinus tachy, diffuse ST depressions. Echo: severely reduced LVEF (~15%), global hypokinesis, LV dilation, no significant valvular dz. Emergent cath: non-obstructive coronaries, consistent with myocarditis.
+
+Started on vasoactives (dobutamine, norepi) with minimal response. Impella CP placed for hemodynamic support. Over ICU course, weaned off pressors by HD #4, Impella explanted on HD #5 after LVEF improved to 35%. Complicated by AKI stage 2, mild transaminitis, and delirium.
+
+Dispo: improving, off all mechanical and vasoactive support, transitioned to telemetry for monitoring of recovery. Psychiatry consulted for depression management.
+
+=====================================================================
+PROBLEM-BASED ASSESSMENT & PLAN
+---------------------------------------------------------------------
+
+1. **Cardiogenic Shock secondary to Fulminant Myocarditis**
+   - Presentation: Shock with recent viral illness, elevated troponin, new severe systolic dysfunction.
+   - Interventions: Vasoactives, Impella CP for 5 days. Serial TTEs, trending cardiac markers.
+   - Plan: Continue aggressive diuresis, monitor volume status, repeat echo prior to discharge, consider cardiac MRI as OP, start GDMT for HF (BB, ACEi if renal function recovers).
+
+2. **Acute Kidney Injury (KDIGO Stage 2)**
+   - Likely multifactorial: hypoperfusion, pressors, contrast.
+   - Cr peaked at 2.2, now trending down to 1.5. UOP improving.
+   - Plan: Avoid nephrotoxins, monitor lytes, renal dosing of meds, nephro follow-up.
+
+3. **Major Depressive Disorder**
+   - Home fluoxetine continued, psychiatry consulted. No suicidal ideation. Some ICU delirium but improving.
+   - Plan: Continue SSRIs, supportive care, psych follow-up.
+
+4. **Transaminitis**
+   - Mild elevation (AST/ALT peak 120/98), likely ischemic hepatitis.
+   - Trending down, no evidence of biliary obstruction or acute hepatitis.
+   - Plan: Monitor LFTs, avoid hepatotoxins.
+
+5. **Delirium**
+   - Likely multifactorial (ICU, metabolic, medication, sleep deprivation).
+   - Plan: Nonpharm interventions, minimize sedation, reorient, sleep hygiene.
+
+6. **Viral Sinusitis and Pharyngitis**
+   - Resolved, no ongoing symptoms. No abx indicated.
+
+7. **Venous thromboembolism prophylaxis**
+   - On SCDs and SQ heparin.
+
+8. **Nutrition**
+   - High-protein, cardiac diet. PO intake improving.
+
+9. **Disposition/Social**
+   - Lives alone, mother nearby. Discharge planning with case management.
+
+=====================================================================
+ICU VITALS SUMMARY
+---------------------------------------------------------------------
+| Date       | Temp (C) | HR (bpm) | BP (mmHg) | RR | O2 Sat (%) | Pain |
+|------------|----------|----------|-----------|----|------------|------|
+| 5/29       | 37.9     | 118      | 82/54     | 24 | 89         | 5    |
+| 5/30       | 38.2     | 102      | 95/62     | 22 | 93         | 3    |
+| 5/31       | 37.5     | 88       | 108/70    | 18 | 97         | 2    |
+| 6/1        | 37.1     | 76       | 120/78    | 16 | 98         | 1    |
+| 6/2        | 36.9     | 72       | 124/80    | 14 | 99         | 0    |
+
+=====================================================================
+SELECTED LABS (CBC, CHEM7, LFTs, CARDIAC)
+---------------------------------------------------------------------
+| Date   | WBC  | Hgb  | Plt  | Na   | K    | Cl   | CO2 | BUN  | Cr   | AST | ALT | Troponin | BNP   | Lactate |
+|--------|------|------|------|------|------|------|-----|------|------|-----|-----|----------|-------|---------|
+| 5/29   | 4.6  | 12.4 | 429  | 137  | 4.2  | 101  | 19  | 34   | 2.2  | 120 | 98  | 4.8      | 2100  | 4.5     |
+| 5/30   | 5.0  | 11.8 | 410  | 139  | 4.0  | 103  | 21  | 29   | 2.0  | 95  | 80  | 3.2      | 1750  | 2.8     |
+| 5/31   | 5.2  | 11.7 |      | 141  | 4.1  | 102  | 23  | 22   | 1.7  | 60  | 52  | 1.9      | 1200  | 1.4     |
+| 6/1    |      | 12.0 | 388  | 142  | 3.7  | 104  | 24  | 18   | 1.5  | 38  | 32  | 0.7      | 600   | 1.0     |
+| 6/2    | 4.9  | 12.3 | 390  |      | 3.9  | 102  | 25  | 16   | 1.4  | 28  | 22  | <0.01    | 300   |        |
+
+*Missing labs are due to specimen hemolysis or not collected.
+
+=====================================================================
+MICROBIOLOGY
+---------------------------------------------------------------------
+- Blood cx x2: No growth at 48h
+- Respiratory viral panel: +Rhinovirus/Enterovirus
+- SARS-CoV-2 PCR: Negative
+
+=====================================================================
+DIAGNOSTICS
+---------------------------------------------------------------------
+- EKG: Sinus tachycardia, diffuse ST depressions (5/29)
+- TTE: LVEF 15% → 35% by HD #5, global hypokinesis
+- Cardiac Cath: Non-obstructive coronaries
+- CXR: Pulmonary edema, improving
+- CT Head: Negative (r/o CVA after syncope)
+
+=====================================================================
+MEDICATIONS (Active during Admission)
+---------------------------------------------------------------------
+- Fluoxetine 25mg daily (home)
+- Dobutamine IV (HD 1-3)
+- Norepinephrine IV (HD 1-2)
+- Furosemide IV/PO
+- Heparin SQ
+- Acetaminophen PRN
+- Metoprolol (initiated HD #5)
+- Lisinopril (initiated HD #6)
+
+=====================================================================
+ALLERGIES
+---------------------------------------------------------------------
+NKDA
+
+=====================================================================
+SOCIAL HISTORY
+---------------------------------------------------------------------
+- Lives alone, works as web designer
+- No tobacco, EtOH rare, no illicit drugs
+
+=====================================================================
+DISPOSITION
+---------------------------------------------------------------------
+- ICU → Telemetry, anticipated discharge to home with close f/u (cardiology, nephrology, psychiatry)
+
+=====================================================================
+ATTENDING ATTESTATION
+---------------------------------------------------------------------
+I have personally examined the patient and reviewed the above note.
+-- Dr. S. Patel, Attending
+
+=====================================================================
+```

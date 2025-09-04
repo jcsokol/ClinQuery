@@ -1,0 +1,196 @@
+**[EPIC EHR - Inpatient Chart]**
+
+---
+**Patient Name:** Particia Gleason  
+**MRN:** 00451801  
+**DOB:** 2004-02-15 (Age: 20)  
+**Sex:** Female  
+**Admitting Service:** MICU  
+**Attending:** Dr. M. Chen  
+**Admission Date:** 2024-05-10  
+**Note Author:** Dr. J. Patel  
+**Date/Time:** 2024-05-16 09:22  
+
+---
+
+## CHIEF COMPLAINT
+Shortness of breath, chest discomfort, fatigue
+
+---
+
+## HISTORY OF PRESENT ILLNESS
+20-year-old female with history notable for ADHD (on atomoxetine), OCP use (Yaz), and recent viral upper respiratory tract infections presents with 4 days of worsening dyspnea, orthopnea, and intermittent chest tightness. She developed acute viral pharyngitis and bronchitis one week prior, managed outpatient with acetaminophen. Over the past 48 hours, she developed progressive weakness, mild confusion, and decreased urine output. She was brought to the ED by her family after an episode of near-syncope.
+
+On arrival, noted to be tachycardic (HR 128), hypotensive (BP 82/54), tachypneic (RR 26), and hypoxic (SpO2 91% RA). CXR showed pulmonary edema. TTE revealed severe global LV dysfunction (EF 15%), RV mildly reduced, no significant valvular disease. Labs notable for lactic acidosis, elevated troponin, and transaminitis. Cardiology consulted for acute cardiogenic shock, likely secondary to fulminant viral myocarditis.
+
+She was transferred to the MICU for advanced support. After failing to stabilize on high-dose vasopressors/inotropes, the decision was made to place a percutaneous left ventricular assist device (Impella CP) for temporary mechanical circulatory support.
+
+---
+
+## PAST MEDICAL HISTORY
+- ADHD (childhood onset)
+- Multiple episodes of viral pharyngitis/bronchitis
+- No prior cardiac history
+- No DM, HTN, CKD
+
+## SURGICAL HISTORY
+- None
+
+## ALLERGIES
+- NKDA
+
+## HOME MEDICATIONS
+- Atomoxetine 100 mg daily
+- Yaz 28 Day Pack
+- Acetaminophen 325 mg PRN
+
+---
+
+## PHYSICAL EXAM (ICU Day 6)
+
+| System                | Findings                                                                                   |
+|-----------------------|--------------------------------------------------------------------------------------------|
+| General               | Thin, ill-appearing, somnolent but arousable                                              |
+| Vitals                | T 37.4°C, HR 105, BP 96/60 (on norepi 0.06 mcg/kg/min), RR 18 (intubated, FiO2 40%), SpO2 97% |
+| HEENT                 | Mucous membranes dry, oropharynx clear, no tonsillar exudates                             |
+| Neck                  | JVP elevated to 12 cm H2O                                                                 |
+| Cardiac               | Tachycardic, S3 present, no murmur                                                        |
+| Lungs                 | Bibasilar crackles, decreased air entry at bases                                          |
+| Abdomen               | Soft, mildly distended, normoactive BS, non-tender                                        |
+| Extremities           | Cool, 2+ pitting edema to knees, DP/PT pulses 1+                                          |
+| Neuro                 | GCS 14 (opens to voice), oriented x2, moves all extremities                               |
+| Skin                  | No rashes, some ecchymoses at femoral access site                                         |
+
+---
+
+## VITALS (ICU Day 6)
+
+- Temp: 37.3°C  
+- HR: 105 (sinus tach)  
+- BP: 96/60 (on norepinephrine)  
+- RR: 18 (vent)  
+- SpO2: 97% (FiO2 0.4)  
+- MAP: 72  
+- Weight: 49.4 kg  
+- Height: 165 cm  
+- BMI: 18.1 kg/m2  
+
+---
+
+## ICU COURSE SUMMARY
+
+- **Day 1-2:** Profound shock on arrival, started on norepinephrine, dobutamine, lasix. Emergent intubation for hypoxic respiratory failure.  
+- **Day 2:** Impella CP placed via left femoral artery. Hemodynamics improved, but remained vasopressor-dependent.  
+- **Day 3-4:** Persistent AKI (oliguria, Cr peaked 2.3), mild transaminitis, lactate slowly improving.  
+- **Day 4:** Developed atrial fibrillation (rapid), reverted with amiodarone.  
+- **Day 5:** Gradual improvement in mental status, extubated. Impella wean started.  
+- **Day 6:** Off vasopressors, Impella removed after TTE showed EF increased to 38%. Renal function improving, diuresis ongoing.
+
+---
+
+## LABS
+
+### CBC & Chem7 (selected values; missing values denoted by ‘—’)
+
+| Date       | WBC   | Hgb   | Hct   | Plt   | Na    | K     | Cl   | HCO3  | BUN  | Cr   | Glu   |
+|------------|-------|-------|-------|-------|-------|-------|------|-------|------|------|-------|
+| 5/10/24 AM | 6.3   | 17.3  | 46.9  | 183   | 137   | 4.1   | 104  | 22    | 14   | 1.2  | 108   |
+| 5/11/24 AM | 8.9   | 16.2  | 44.3  | 171   | 134   | 4.6   | 101  | 18    | 28   | 1.7  | 132   |
+| 5/12/24 AM | 12.4  | 14.9  | 40.2  | 142   | 138   | 5.8   | —    | 17    | 38   | 2.3  | —     |
+| 5/13/24 AM | 10.7  | 14.8  | 39.5  | 120   | 141   | 4.5   | 108  | 22    | 34   | 2.1  | 112   |
+| 5/14/24 AM | 8.2   | 14.2  | 37.7  | 98    | 142   | 4.2   | 106  | —     | 21   | 1.6  | 102   |
+| 5/15/24 AM | 7.1   | 13.9  | 36.2  | 190   | —     | 4.3   | 104  | 24    | 13   | 1.1  | 99    |
+
+### Additional Labs
+
+| Date       | Troponin I | BNP   | AST   | ALT   | Albumin | Lactate |
+|------------|------------|-------|-------|-------|---------|---------|
+| 5/10/24    | 2.15 ng/mL | 4200  | 184   | 156   | 2.8     | 6.2     |
+| 5/12/24    | 1.72       | 3200  | 138   | 99    | 2.5     | 3.1     |
+| 5/14/24    | 0.8        | 1900  | 77    | 56    | 3.1     | 1.4     |
+
+---
+
+## MICROBIOLOGY / IMAGING
+
+- Blood cultures x2: No growth
+- Nasopharyngeal viral PCR: Positive for Coxsackie B virus
+- CXR: Bilateral patchy infiltrates, pulmonary edema
+- TTE (5/10): EF 15%, global hypokinesis, no vegetations
+- TTE (5/14): EF 38%, mild RV dysfunction, trace MR
+
+---
+
+## ASSESSMENT & PLAN
+
+**20F with fulminant viral myocarditis (Coxsackie B), acute decompensated heart failure with cardiogenic shock, AKI, and respiratory failure.**
+
+### 1. **Cardiogenic Shock / Fulminant Myocarditis**
+- Initial presentation with profound shock, severe LV dysfunction, and end-organ hypoperfusion.
+- Required Impella CP for temporary circulatory support; device removed after cardiac function improved.
+- Off vasopressors, now on gentle diuresis.
+- Echo: EF improved to 38%.
+- **Plan:** Continue close hemodynamic monitoring, daily weights, cautious diuresis, repeat TTE in 48h.
+
+### 2. **Acute Kidney Injury (AKI)**
+- Likely multifactorial: hypoperfusion, shock, possible nephrotoxic meds.
+- Creatinine peaked at 2.3, now trending down.
+- Good urine output.
+- **Plan:** Monitor UOP, avoid nephrotoxins, adjust meds for renal dosing, trend labs.
+
+### 3. **Respiratory Failure**
+- Intubated for hypoxia, likely multifactorial (pulmonary edema, infection).
+- Successfully extubated on day 5.
+- **Plan:** Incentive spirometry, monitor for reintubation criteria.
+
+### 4. **Transaminitis**
+- Likely ischemic hepatitis (shock liver).
+- AST/ALT trending down.
+- **Plan:** Monitor LFTs.
+
+### 5. **Arrhythmia (AF)**
+- Developed rapid AF, reverted with amiodarone.
+- No recurrence.
+- **Plan:** Continue telemetry, PRN amiodarone.
+
+### 6. **Volume Overload**
+- Ongoing diuresis with IV furosemide.
+- **Plan:** Daily weights, strict I/O, adjust diuretics.
+
+### 7. **Other**
+- ADHD, continue home atomoxetine as tolerated.
+- OCPs held during acute illness.
+- VTE prophylaxis with heparin SQ.
+
+### 8. **Disposition**
+- Remain in ICU for close monitoring.
+- If stable x24-48h, consider step-down transfer.
+
+---
+
+## MEDICATIONS (INPATIENT)
+
+- Norepinephrine (weaned off)
+- Dobutamine (weaned off)
+- Furosemide IV
+- Amiodarone IV (PRN)
+- Heparin SQ
+- Atomoxetine 100 mg PO daily
+- Acetaminophen PRN
+
+---
+
+## NURSING / ALLIED HEALTH
+
+- Foley d/c’d, ambulation with PT/OT initiated, SCDs on
+- Nutrition: NPO x2 days, now on cardiac diet
+
+---
+
+## SIGNED BY:  
+Dr. J. Patel, MD  
+MICU, University Medical Center
+
+---
+
+**[End of Note]**

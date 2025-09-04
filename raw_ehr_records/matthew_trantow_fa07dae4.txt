@@ -1,0 +1,182 @@
+**EPIC EHR: Progress Note**
+
+**Patient:** Matthew Trantow  
+**MRN:** 00214325  
+**DOB:** 01/03/1989  
+**Sex:** Male  
+**Date of Admission:** 2024-05-21  
+**Attending:** Dr. R. Feldman  
+**ICU Day:** 7  
+**Service:** Cardiology / Critical Care  
+**Note Author:** D. Chen, MD  
+**Note Date:** 2024-05-28 08:23  
+
+---
+
+### CHIEF COMPLAINT
+Progressive dyspnea and orthopnea, found to be in cardiogenic shock.
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+
+35-year-old male with history notable for prediabetes, chronic anemia, allergic rhinitis, and remote right rotator cuff tendon injury, who presented to the ED with 3 days of worsening shortness of breath, lower extremity edema, and PND. Initial evaluation revealed hypotension (SBP 76 mmHg), tachycardia, elevated JVP, and rales. Labs and echo were consistent with new-onset severe systolic heart failure (LVEF ~15%), likely viral myocarditis vs. idiopathic DCM. He rapidly decompensated to cardiogenic shock unresponsive to inotropes/vasopressors, requiring placement of a percutaneous temporary LV assist device (Impella CP) on hospital day 1.
+
+Course complicated by AKI, mild transaminitis, and persistent anemia. Now on ICU day 7, being weaned from temporary LVAD with improving hemodynamics.
+
+---
+
+### PAST MEDICAL HISTORY
+- Prediabetes (A1c 6.2%)
+- Chronic anemia (baseline Hgb ~10-11)
+- Seasonal allergic rhinitis
+- Viral sinusitis (remote)
+- Remote right rotator cuff tendon injury
+- Laceration of foot (healed)
+
+### PAST SURGICAL HISTORY
+- None relevant
+
+### MEDICATIONS ON ADMISSION
+- Diphenhydramine 25 mg PO PRN
+- Epinephrine auto-injector
+- Acetaminophen 325 mg PO PRN
+
+### ALLERGIES
+- NKDA
+
+### FAMILY HISTORY
+- Non-contributory
+
+### SOCIAL HISTORY
+- Never smoker, occasional alcohol, no illicit drugs. Lives with partner.
+
+---
+
+### PHYSICAL EXAM (ICU Day 7)
+
+**General:** Awake, alert, oriented. Appears fatigued.  
+**HEENT:** Mucous membranes moist.  
+**CV:** S1, S2, tachycardic, S3 present. No murmurs. Impella audible at left sternal border. JVP 12 cm.  
+**Lungs:** Bibasilar crackles, decreased at bases.  
+**Abdomen:** Soft, mildly distended, non-tender.  
+**Extremities:** 2+ pitting edema to knees.  
+**Neuro:** A&O x3, no focal deficits.
+
+---
+
+### VITAL SIGNS (ICU Day 7, 07:00)
+- Temp: 36.8°C
+- HR: 108 bpm
+- BP: 100/62 mmHg (MAP ~75)
+- RR: 22
+- SpO2: 95% on 2L NC
+- Weight: 85 kg
+- Height: 178 cm
+- BMI: 26.8
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+- **Day 0/ED:** Admitted with acute decompensated heart failure, cardiogenic shock. Initial BP 76/42 mmHg. 
+- **Day 1:** Escalating pressors/inotropes (dobutamine, norepi) with refractory shock. Emergent Impella CP placed via R femoral artery. Hemodynamics stabilized.
+- **Day 2-3:** AKI stage 1 (Cr peaked at 2.1), mild transaminitis. Diuresed with IV furosemide. 
+- **Day 4-5:** Weaning vasopressors, Impella flows down-titrated. Hgb trended down to 8.3, required 1U PRBC.
+- **Day 6:** Continued improvement, off pressors. Renal function trending toward baseline.  
+- **Day 7:** Tolerating further reduction in Impella support, volume status improved.
+
+---
+
+### LABS
+
+| Date        | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | AST (U/L) | ALT (U/L) | BNP (pg/mL) | Troponin (ng/mL) |
+|-------------|------------|------------|---------|------------|-------------|------------|-------------|-------------|------------|-------------|-----------|-----------|-------------|------------------|
+| 5/21 (ED)   | 14.2       | 10.4       | 31.6    | 248        | 134         | 4.8        | 101         | 28          | 1.2        | 148         | 52        | 38        | 6210        | 0.13             |
+| 5/22        | 13.0       | 9.7        | 29.8    | 221        | 136         | 4.5        | 103         | 39          | 2.1        | 162         | 71        | 56        | 5900        | 0.11             |
+| 5/23        | 10.1       | 8.9        | 26.7    | 205        | 138         | 4.2        | 104         | 35          | 1.7        | 150         | 88        | 60        | 5100        | 0.10             |
+| 5/24        | 8.8        | 8.3        | 25.2    | 197        | 138         | 4.0        | 105         | 30          | 1.3        | 122         | 49        | 39        | 4300        | 0.07             |
+| 5/25        | 7.4        | 9.6        | 28.9    | 215        | 139         | 3.9        | 103         | 25          | 1.1        | 114         | 38        | 33        | 3500        | 0.05             |
+| 5/26        | 6.5        | 10.2       | 30.1    | 229        | 140         | 4.1        | 101         | 22          | 1.0        | 108         | 32        | 27        | 2000        | 0.03             |
+| 5/27        | 5.3        | 10.5       | 30.9    | 239        | 139         | 4.0        | 100         | 20          | 0.9        | 102         | —         | —         | 900         | <0.01            |
+| 5/28        | 4.8        | 10.4       | 31.2    | 241        | —           | —          | —           | 19          | 0.8        | 98          | —         | —         | 430          | <0.01            |
+
+**Other labs:**  
+- A1c (5/21): 6.2%
+- LDH (5/22): 291 U/L
+- INR (5/22): 1.4
+- TSH (5/23): 1.2 uIU/mL
+
+---
+
+### IMAGING
+
+**Echo 5/21:**  
+- LVEF 15%, global hypokinesis, moderate MR, mild TR, RV function low-normal  
+- LV end diastolic diameter: 6.4 cm  
+- No pericardial effusion
+
+**CXR 5/21:**  
+- Pulmonary edema, mild cardiomegaly, Impella catheter tip in LV
+
+**Abd US 5/23:**  
+- Mild hepatic congestion, no ascites
+
+---
+
+### ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock secondary to new severe LV systolic dysfunction (probable myocarditis/DCM)**
+- Impella CP placed, now on weaning settings.  
+- Off vasopressors.  
+- Continue to monitor hemodynamics, daily TTE.  
+- Plan to wean and explant Impella if stable x24-48h.  
+- Consider advanced heart failure therapies if recovery not sustained.
+
+**2. Acute Decompensated Heart Failure**
+- Guideline-directed medical therapy (GDMT) started (low-dose carvedilol, sacubitril/valsartan to be titrated as tolerated).
+- IV diuresis ongoing, now euvolemic.
+- Daily weights, strict I/Os.
+
+**3. AKI (now resolving)**
+- Volume status optimized, off nephrotoxins.
+- Renal function improving, monitor labs daily.
+
+**4. Chronic Anemia (baseline Hgb ~10-11)**
+- Nadir Hgb 8.3 (5/24), transfused 1U PRBC.
+- No overt bleeding, likely multifactorial (chronic + hemodilution).
+- Monitor CBC, iron studies pending.
+
+**5. Prediabetes**
+- Hyperglycemia during stress, now controlled.
+- Monitor FS glucose BID, A1c 6.2%.
+
+**6. Transaminitis (mild, likely shock liver)**
+- Peaked on 5/23, now improving.
+- Continue to trend LFTs.
+
+**7. Allergic Rhinitis, Sinusitis (remote, not active)**
+- Continue home meds PRN.
+
+**8. Social, Physical Therapy, Dispo**
+- Early PT/OT involvement.
+- Psychosocial support, case management for possible advanced therapies.
+
+---
+
+### ADDENDUMS / MISC
+
+- Rotator cuff and foot laceration not relevant to current admission.
+- All home medications reviewed, adjustments made for current status.
+- Multidisciplinary rounds daily.
+
+---
+
+**Signed:**  
+D. Chen, MD  
+Cardiology/Critical Care  
+2024-05-28 08:23
+
+---
+
+**END OF NOTE**

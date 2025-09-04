@@ -1,0 +1,169 @@
+**Patient:** Turcotte, Thanh  
+**MRN:** 00839165  
+**DOB:** 03/16/1935  
+**Sex:** Male  
+**Admitting Physician:** Dr. J. Fong  
+**Admission Date:** 05/11/2024  
+**Location:** ICU, Cardiology  
+**Attending:** Dr. R. Patel  
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+**Chief Complaint:**  
+Chest pain and shortness of breath
+
+**History of Present Illness:**  
+Thanh Turcotte is an 89-year-old male with a history of hypertension, coronary artery disease (CAD), prior myocardial infarction (MI), ischemic stroke, and hyperlipidemia who presented to the ED with acute onset substernal chest pain radiating to the left arm, associated with dyspnea and diaphoresis. His symptoms began at rest and persisted for over 20 minutes. He had associated nausea but denied vomiting or syncope. On arrival, he was noted to be hypotensive (SBP in the 80s), tachycardic (HR 110s), and hypoxic (SpO2 88% on RA). EKG showed ST elevations in anterior leads. Troponin was elevated. Emergent cath revealed 100% occlusion of proximal LAD. He developed profound cardiogenic shock during the procedure requiring pressor support, and a temporary percutaneous left ventricular assist device (Impella CP) was placed for hemodynamic support. He was transferred to the ICU for further management.
+
+---
+
+## PAST MEDICAL HISTORY
+
+- Hypertension
+- Coronary heart disease
+- Hyperlipidemia
+- History of MI (2017, 2024)
+- Ischemic stroke (2021)
+- Primary OA of the hand
+- Fracture of ankle (2018)
+- Viral sinusitis (remote, not relevant)
+
+## PAST SURGICAL HISTORY
+
+- None relevant
+
+## ALLERGIES
+
+- NKDA
+
+## HOME MEDICATIONS
+
+- Atenolol/chlorthalidone 50/25 mg PO daily
+- Amlodipine 5 mg PO daily
+- Simvastatin 20 mg PO qHS
+- Clopidogrel 75 mg PO daily
+- Nitroglycerin 0.4 mg spray PRN
+- Atorvastatin 80 mg PO daily (recently started)
+- Captopril 25 mg PO BID
+- Naproxen 220 mg PO PRN
+- Amoxicillin/clavulanate (recent, completed)
+- Acetaminophen 325 mg PO PRN
+
+---
+
+## HOSPITAL COURSE
+
+- **Day 1:** Emergent PCI to LAD. Post-PCI cardiogenic shock—Impella CP placed. Started on norepinephrine, dobutamine. Mechanical ventilation initiated due to worsening hypoxia.
+- **Day 2:** Hemodynamics improved; pressors weaned. Impella continued. Renal function worsened (Cr 2.6). Mild transaminitis.
+- **Day 3:** Impella weaned and removed. Remained stable. Extubated to nasal cannula. Echo: LVEF 25%, moderate anterior wall hypokinesis.
+- **Day 4:** Mobilizing with PT. Renal function improving. Troponin trending down. Transferred to step-down unit.
+
+---
+
+## VITALS (selected)
+
+| Date       | Temp (C) | HR   | BP         | RR | SpO2 | Pain |
+|------------|----------|------|------------|----|------|------|
+| 5/11/2024  | 36.7     | 112  | 82/54      | 24 | 88%  | 5    |
+| 5/12/2024  | 37.0     | 98   | 102/68     | 18 | 92%  | 4    |
+| 5/13/2024  | 36.9     | 85   | 116/74     | 16 | 96%  | 2    |
+| 5/14/2024  | 36.8     | 78   | 124/72     | 16 | 98%  | 1    |
+
+---
+
+## LABS
+
+### CBC & CHEMISTRIES
+
+| Date       | WBC   | Hgb   | Hct   | Plt   | Na    | K     | Cl   | CO2   | BUN   | Cr    | Glu   |
+|------------|-------|-------|-------|-------|-------|-------|------|-------|-------|-------|-------|
+| 5/11/2024  | 5.9   | 16.2  | 41.1  | 293   | 142   | 4.8   | 107  | 20    | 13    | 2.6   | 98    |
+| 5/12/2024  | 7.4   | 15.8  | 39.2  | 265   | 140   | 4.2   | 105  | 18    | 21    | 2.2   | 104   |
+| 5/13/2024  | 8.1   | 15.2  | 37.9  | 221   | 139   | 4.0   | 104  | 17    | 18    | 1.9   | 99    |
+| 5/14/2024  | 7.2   | 14.8  | 36.8  | 212   | 141   | 4.1   | 106  | 21    | 15    | 1.5   | 110   |
+| 5/15/2024  |       | 14.5  |       | 210   | 142   |       |      | 22    |       | 1.3   |       |
+
+### CARDIAC ENZYMES
+
+| Date       | Troponin I | CK-MB | BNP   |
+|------------|------------|-------|-------|
+| 5/11/2024  | 12.4       | 61    | 2300  |
+| 5/12/2024  | 8.1        | 42    | 1960  |
+| 5/13/2024  | 3.2        | 19    | 1500  |
+| 5/14/2024  | 0.9        | 7     | 900   |
+
+### LIVER PANEL
+
+| Date       | AST  | ALT  | Alk Phos | Bili Tot | Albumin |
+|------------|------|------|----------|----------|---------|
+| 5/11/2024  | 39   | 38   | 119      | 0.2      | 4.8     |
+| 5/12/2024  | 55   | 61   | 132      | 0.4      | 4.5     |
+| 5/13/2024  | 41   | 37   | 121      | 0.3      | 4.4     |
+| 5/14/2024  |      | 35   | 117      | 0.2      | 4.3     |
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. Cardiogenic Shock, STEMI (LAD occlusion)  
+- Emergent PCI with DES to proximal LAD  
+- Temporary LV support with Impella CP, removed post-stabilization  
+- Pressors (norepinephrine, dobutamine) titrated and weaned  
+- Serial cardiac markers  
+- Echo: LVEF 25%, mod hypokinesis  
+**Plan:** Continue dual antiplatelet therapy, guideline-directed medical therapy (GDMT) for HF, cardiac rehab, monitor for arrhythmias
+
+### 2. Acute on Chronic Systolic Heart Failure  
+- Volume overload on admission, improved with diuresis  
+- Started on low-dose furosemide  
+- Strict I/O, daily weights  
+**Plan:** Continue gentle diuresis, uptitrate GDMT as tolerated, monitor renal function
+
+### 3. Acute Kidney Injury (AKI)  
+- Likely multifactorial: low cardiac output, contrast nephropathy  
+- Peak Cr 2.6, improved to 1.5  
+**Plan:** Monitor renal function, avoid nephrotoxins, hold ACEi until stable
+
+### 4. Hypertension  
+- BP low during shock, now improving  
+**Plan:** Resume home antihypertensives as tolerated
+
+### 5. Hyperlipidemia  
+- On statin therapy  
+**Plan:** Continue atorvastatin 80 mg qHS, monitor LFTs
+
+### 6. Secondary Prevention Post-MI  
+- Aspirin + clopidogrel  
+- Beta-blocker, statin, ACEi (when renal function allows)  
+**Plan:** Continue DAPT, initiate cardiac rehab
+
+### 7. History of Stroke  
+- No focal deficits this admission  
+**Plan:** Continue secondary stroke prevention
+
+### 8. Osteoarthritis, Ankle Fracture (remote)  
+**Plan:** Continue acetaminophen as needed, avoid NSAIDs due to AKI
+
+### 9. Viral Sinusitis (remote, resolved)  
+**Plan:** No further intervention
+
+---
+
+## DISCHARGE PLANNING
+
+- Anticipate transfer to cardiac rehab in 1-2 days
+- Close outpatient follow-up with cardiology, nephrology, PCP
+- Medication reconciliation completed
+- Education provided re: s/sx of heart failure, MI, AKI
+
+---
+
+**Attending Physician:**  
+R. Patel, MD
+
+**Date/Time:**  
+05/15/2024 15:14
+
+---

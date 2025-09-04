@@ -1,0 +1,206 @@
+---
+**Patient Name:** Candace Emmerich  
+**MRN:** 00784492  
+**DOB:** 02/23/1962  
+**Sex:** Female  
+**Admit Date:** 03/21/2024  
+**Service:** Medical ICU  
+**Attending:** Dr. L. McKenna  
+**Consultants:** Cardiology, Endocrinology, Infectious Disease  
+**Allergies:** NKDA  
+**Code Status:** Full  
+**Height:** 163 cm  
+**Weight:** 75.4 kg  
+**BMI:** 28.4 kg/m²  
+**Primary Language:** English  
+**Admission Diagnosis:** Cardiogenic shock s/p NSTEMI, DM2, HTN, Obesity, Metabolic Syndrome
+
+---
+
+# ICU PROGRESS NOTE
+
+## CHIEF COMPLAINT
+Worsening dyspnea and chest pain.
+
+## HISTORY OF PRESENT ILLNESS
+Candace Emmerich is a 62-year-old female with a past medical history notable for obesity, type 2 diabetes, hypertension, metabolic syndrome, hypertriglyceridemia, and chronic microvascular complications (diabetic retinopathy), who presented to the ED with 24 hours of progressive dyspnea, lower extremity edema, orthopnea, and intermittent chest discomfort.  
+
+On arrival, she was hypotensive (BP 82/54), tachycardic, and hypoxic (O2 sat 87% RA). ECG showed new T wave inversions in V2-V4. Troponin I was elevated at 2.7 ng/mL; BNP 2,100 pg/mL. CXR: pulmonary edema. She was admitted to the ICU for management of acute decompensated heart failure and concern for cardiogenic shock.  
+
+Despite diuresis and inotropes, she remained hypotensive and oliguric; thus, a percutaneous left ventricular assist device (Impella CP) was placed for temporary mechanical circulatory support on hospital day 2. She stabilized hemodynamically with improved urine output and end-organ perfusion.  
+
+Her course was complicated by AKI, mild transaminitis, and a UTI (E. coli on urine culture). She also developed hyperglycemia requiring insulin drip and persistent leukocytosis.  
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+- **Day 1:** Admission to ICU for cardiogenic shock. Initiation of norepinephrine and dobutamine.  
+- **Day 2:** Persistent shock; Impella CP placed.  
+- **Day 3:** Hemodynamics improved. Weaned off vasopressors. Started on IV Lasix.  
+- **Day 4:** Ongoing volume overload. Developed AKI (Cr peaked at 2.1), mild transaminitis (AST/ALT 78/95).  
+- **Day 5:** Blood cultures negative, urine culture + for E. coli. Started on nitrofurantoin.  
+- **Day 6:** Impella weaned and removed. Transitioned to oral heart failure regimen.  
+- **Day 7:** Gradual improvement. Transferred to step-down unit.
+
+---
+
+# PROBLEM-BASED ASSESSMENT & PLAN
+
+## 1. Cardiogenic Shock, NSTEMI, Heart Failure (LVEF 15%)
+
+**Assessment:**  
+Acute decompensated heart failure secondary to NSTEMI, complicated by cardiogenic shock. Required temporary LV support with Impella. Improved after device placement.
+
+**Plan:**  
+- Continue guideline-directed medical therapy (GDMT): beta-blocker, ACEi, aldosterone antagonist as tolerated  
+- Daily weights, strict I/O  
+- Cardiac rehab consult  
+- Repeat echo prior to discharge  
+- Telemetry, monitor for arrhythmias  
+- Optimize volume status
+
+## 2. Diabetes Mellitus Type 2, Hyperglycemia
+
+**Assessment:**  
+Longstanding DM2, poorly controlled; on admission, severe hyperglycemia requiring insulin drip.
+
+**Plan:**  
+- Transition to basal-bolus insulin regimen  
+- Monitor glucose q4h  
+- Endocrine consult  
+- Hold metformin until renal function recovers
+
+## 3. Acute Kidney Injury (pre-renal, multifactorial)
+
+**Assessment:**  
+AKI likely secondary to hypoperfusion and nephrotoxic meds.
+
+**Plan:**  
+- Monitor renal function daily  
+- Avoid nephrotoxins  
+- Adjust medication dosing  
+- IV fluids as needed for perfusion
+
+## 4. Obesity, Metabolic Syndrome, Hypertriglyceridemia
+
+**Assessment:**  
+BMI 28.4, metabolic syndrome, elevated baseline triglycerides.
+
+**Plan:**  
+- Nutrition consult  
+- Encourage low-sodium, heart-healthy diet  
+- Continue statin therapy  
+- Consider addition of fenofibrate if TG >400
+
+## 5. E. coli Urinary Tract Infection
+
+**Assessment:**  
+Symptomatic UTI, urine culture positive for E. coli.
+
+**Plan:**  
+- Continue nitrofurantoin x7 days  
+- Monitor for sepsis  
+- Repeat urinalysis after completion
+
+## 6. Acute Bronchitis, Viral Sinusitis
+
+**Assessment:**  
+Cough, congestion on admission; viral panel negative, mild bronchitis.
+
+**Plan:**  
+- Supportive care  
+- PRN acetaminophen for fever  
+- Monitor for secondary infection
+
+## 7. Diabetic Retinopathy
+
+**Assessment:**  
+Chronic complication of DM2.
+
+**Plan:**  
+- Ophthalmology f/u outpatient  
+- Optimize glycemic control
+
+## 8. Hypertension
+
+**Assessment:**  
+Longstanding; difficult to control during shock state.
+
+**Plan:**  
+- Resume home antihypertensives as tolerated  
+- Titrate to goal BP <130/80
+
+---
+
+# ICU MEDICATION ADMINISTRATION RECORD (partial)
+- Norepinephrine infusion (Day 1-2, titrated off)
+- Dobutamine infusion (Day 1-3, discontinued)
+- Furosemide IV 40mg BID (Day 2-6)
+- Insulin drip (Day 1-3)
+- Nitrofurantoin 100mg PO BID (Day 5-11)
+- Acetaminophen 650mg PO PRN
+- Metoprolol 25mg PO BID (initiated Day 6)
+- Lisinopril 5mg PO daily (initiated Day 7)
+- Atorvastatin 40mg PO HS
+
+---
+
+# VITALS (selected)
+| Date       | Temp (°C) | HR   | BP         | RR  | SpO2 (%) | Weight (kg) |
+|------------|-----------|------|------------|-----|----------|-------------|
+| 3/21/24    | 36.9      | 112  | 82/54      | 24  | 87       | 75.4        |
+| 3/22/24    | 37.2      | 105  | 90/60      | 22  | 92       | 75.1        |
+| 3/23/24    | 36.8      | 92   | 107/68     | 20  | 96       | 74.7        |
+| 3/25/24    | 36.7      | 88   | 118/76     | 18  | 98       | 74.2        |
+
+---
+
+# LABS
+
+## CBC / CHEMISTRY PANEL / CARDIAC MARKERS
+
+| Date       | WBC   | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin I | BNP    | AST  | ALT  | ALK PHOS | Albumin |
+|------------|-------|-------|-------|-------|------|------|------|------|------|------|------|------------|--------|------|------|----------|---------|
+| 3/21/24    | 15.8  | 12.9  | 39.2  | 210   | 133  | 3.5  | 104  | 21   | 31   | 1.9  | 332  | 2.7        | 2100   | 56   | 45   | 95       | 3.2     |
+| 3/22/24    | 14.2  | 13.2  | 38.7  | 198   | 134  | 3.7  | 105  | 22   | 28   | 2.1  | 294  | 1.8        | 1850   | 78   | 95   | 110      | 3.0     |
+| 3/23/24    | 12.7  | 13.9  | 41.0  | 220   | 136  | 3.8  | 106  | 25   | 18   | 1.5  | 168  | 0.8        | 1300   | 64   | 77   | 101      | -       |
+| 3/24/24    | 11.1  | 14.1  | 41.8  | 232   | 137  | 3.9  | 107  | 26   | 14   | 1.2  | 119  | -          | 950    | 45   | 54   | 88       | 3.6     |
+| 3/25/24    | 9.8   | 13.8  | 40.2  | 240   | 139  | 4.1  | 108  | 27   | 13   | 1.0  | 106  | -          | 600    | 39   | 42   | -        | 3.7     |
+| 3/26/24    | 8.4   | 13.7  | 39.8  | 229   | 140  | 4.2  | 110  | 28   | 12   | 0.9  | 98   | -          | 420    | 31   | 33   | 90       | 3.7     |
+
+**Key:**  
+WBC = white blood cell (10^3/uL), Hgb = hemoglobin (g/dL), Hct = hematocrit (%), Plt = platelets (10^3/uL), Na = sodium (mmol/L), K = potassium (mmol/L), Cl = chloride (mmol/L), CO2 = bicarb (mmol/L), BUN = blood urea nitrogen (mg/dL), Cr = creatinine (mg/dL), Glu = glucose (mg/dL), AST/ALT = transaminases (U/L), ALK PHOS = alkaline phosphatase (U/L), Albumin (g/dL)
+
+---
+
+# MICROBIOLOGY
+
+- **Blood cultures:** Negative x2
+- **Urine culture (3/22/24):** E. coli >100,000 CFU/mL, sensitive to nitrofurantoin
+
+---
+
+# RADIOLOGY
+
+- **CXR (3/21/24):** Pulmonary vascular congestion, bilateral effusions
+- **Echo (3/22/24):** LVEF 15%, global hypokinesis, no thrombus, mild MR
+- **CT Head (3/21/24):** No acute intracranial process, old concussion
+
+---
+
+# DISCHARGE PLANNING
+
+- Anticipate transfer to rehab after step-down
+- Cardiology, Endocrine, and Nutrition f/u
+- Close outpatient monitoring for heart failure symptoms and renal function
+
+---
+
+**Physician:**  
+L. McKenna, MD  
+03/26/2024 17:02
+
+---
+
+**End of Note**

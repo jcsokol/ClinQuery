@@ -1,0 +1,171 @@
+```
+---------------------------------------------------------------------------
+EPIC EHR - ADMISSION SUMMARY
+---------------------------------------------------------------------------
+
+Patient Name: Normand Zemlak       MRN: 00284913
+DOB: 10/27/1921 (Age: 102)         Sex: Male
+Admit Date: 2024-05-12 14:07       Attending: Dr. J. Carnes
+Admitting Service: ICU - Cardiology
+Primary Language: English
+
+CHIEF COMPLAINT:
+Shortness of breath, orthopnea, lower extremity edema.
+
+HISTORY OF PRESENT ILLNESS:
+Mr. Normand Zemlak is a 102-year-old male with a history of diabetes mellitus (type 2), CKD stage 1, hypertension, metabolic syndrome, chronic sinusitis, prostate neoplasm (s/p leuprolide and docetaxel), and anemia who presented to the ED with acute-on-chronic dyspnea and chest discomfort. In the ED, he was found to be hypotensive (BP 86/53), tachycardic (HR 112), with evidence of pulmonary edema on CXR and elevated troponin. He was admitted to the ICU for management of acute decompensated heart failure (ADHF) with cardiogenic shock.
+
+Due to progressive hypotension and evidence of end-organ dysfunction (AKI, rising lactate, altered mental status), a temporary left ventricular assist device (Impella CP) was placed emergently on hospital day 1. He was intubated for airway protection and started on norepinephrine and dobutamine with improvement in hemodynamics.
+
+PAST MEDICAL HISTORY:
+- Diabetes mellitus, type 2 (on insulin, metformin)
+- Prediabetes
+- Anemia (chronic, multifactorial)
+- Chronic kidney disease stage 1, with recent AKI
+- Diabetic renal disease
+- Hypertension
+- Hyperglycemia, hypertriglyceridemia, metabolic syndrome X
+- Chronic sinusitis, viral sinusitis
+- Concussion (remote, no LOC)
+- Neoplasm of prostate, carcinoma in situ, s/p leuprolide, docetaxel
+
+PAST SURGICAL HISTORY:
+- TURP (2018)
+- Cholecystectomy (1992)
+
+MEDICATIONS ON ADMISSION:
+- Metformin ER 500 mg daily
+- Hydrochlorothiazide 25 mg daily
+- Insulin (Humulin 70/30) 28 units BID
+- Acetaminophen/oxycodone 325/5 mg q6h prn
+- Docetaxel 20 mg/mL IV q3w (last dose 1 month ago)
+- Leuprolide acetate 30 mg/mL IM q3mo (last dose 2 months ago)
+
+ALLERGIES:
+- NKDA
+
+SOCIAL HISTORY:
+- Lives with daughter, retired accountant
+- Former smoker (quit 1978), no EtOH, no illicit drug use
+- Ambulates with walker, independent in ADLs
+
+FAMILY HISTORY:
+- Father: MI at 70s
+- Mother: DM, HTN
+
+REVIEW OF SYSTEMS:
+Unable to obtain due to intubation/AMS
+
+PHYSICAL EXAM (ICU, day 2):
+Gen: Intubated, sedated, elderly male, appears stated age
+HEENT: Normocephalic, PERRL, no scleral icterus
+CV: S1, S2, tachycardic, +S3, no murmur, JVD 10 cm
+Lungs: Bibasilar crackles, diffuse rales, decreased breath sounds bases
+Abd: Soft, nontender, +mild distension, no rebound/guarding
+Ext: 2+ pitting edema BLE, pulses 1+
+Neuro: Sedated, nonfocal
+Skin: No rash, pressure ulcer sacrum (stage 1)
+
+VITALS (selected):
+| Date       | Temp (°C) | HR | BP        | RR | SpO2 | O2 Device | Pain |
+|------------|-----------|----|-----------|----|------|-----------|------|
+| 5/12 14:30 | 36.8      |112 | 86/53     | 22 | 91%  | 2L NC     | 4    |
+| 5/13 06:00 | 37.1      | 98 | 104/62    | 18 | 96%  | MV        | sed  |
+| 5/14 04:00 | 36.7      | 88 | 116/70    | 14 | 98%  | MV        | sed  |
+
+---------------------------------------------------------------------------
+
+LABS - HOSPITAL COURSE
+(CBC, Chem7, Cardiac Markers, LFTs, Lipids, UA, other selected)
+
+| Date/Time   | WBC   | Hgb  | Hct  | Plt   | Na   | K    | Cl    | CO2   | BUN  | Cr   | Gluc | Troponin | BNP   | ALT  | AST  | Alb  | Ca   |
+|-------------|-------|------|------|-------|------|------|-------|-------|------|------|------|----------|-------|------|------|------|------|
+| 5/12 14:45  | 4.9   | 12.1 | 35.2 | 357   | 141  | 3.8  | 109   | 27.2  | 10.4 | 3.40 | 317  | 0.89     | 4150  | 43   | 24   | 3.8  | 8.6  |
+| 5/13 05:30  | 6.2   | 11.3 | 33.4 | 282   | 138  | 4.0  | 107   | 25.9  | 22   | 4.61 | 235  | 0.52     | 3980  | 38   | 27   | 3.6  | 8.2  |
+| 5/14 04:50  | 7.1   | 10.7 | 32.0 | 219   | 137  | 4.3  | 106   | 29.1  | 19   | 3.90 | 172  | 0.32     | 3680  | 31   | 22   | 3.1  | 8.0  |
+| 5/15 06:00  |       | 10.2 |      | 198   |      | 4.5  |       | 28.7  | 16   | 3.22 | 143  |          | 2490  |      | 20   |      | 7.9  |
+
+Other labs:
+- LDL: 98 mg/dL (5/13)
+- HDL: 78 mg/dL (5/13)
+- Triglycerides: 118 mg/dL (5/13)
+- A1c: 7.6% (5/12)
+- PSA: 6.4 ng/mL (5/12)
+- Microalbumin/Cr: 275 mg/g (5/12)
+- Urinalysis: proteinuria, SG 1.035, pH 6.5, gluc +, ketones trace
+
+---------------------------------------------------------------------------
+
+ICU HOSPITAL COURSE:
+
+HD 0: Admitted from ED with ADHF, shock. Started on BiPAP, IV furosemide, nitroglycerin drip. Worsening hypotension, lactic acidosis (lactate 4.8), oliguria. Intubated for hypoxemia and mental status changes. Vasopressors started.
+
+HD 1: Ongoing hemodynamic instability (MAP <60 despite norepi/dobutamine). Bedside echo: severely reduced LVEF (~20%), global hypokinesis, moderate MR, IVC plethoric. Emergent left-sided Impella CP placed, good flows achieved. Vasopressors titrated down, some improvement in urine output.
+
+HD 2: Labs improved, lactate normalizing. Still on Impella, low-dose pressors. Extubation attempted but failed due to agitation and hypercapnia. Diuresis continued. AKI improving. Cardiac markers trending down.
+
+HD 3: Stable on Impella, pressors off. Successfully extubated to high-flow nasal cannula. Physical therapy, nutrition consults. Impella wean trial started.
+
+HD 4: Impella removed after successful wean. Mild delirium, but hemodynamics stable off support. Transferred to stepdown unit.
+
+---------------------------------------------------------------------------
+
+ASSESSMENT & PLAN (Problem-Based):
+
+1. **Cardiogenic Shock / ADHF, s/p Impella**
+   - Decompensated HF, likely ischemic + hypertensive heart disease
+   - Managed with pressors, temporary LV support (Impella CP)
+   - Now off support, weaning diuretics, continue guideline-directed medical therapy (GDMT)
+   - Cardiology to follow for advanced therapies vs. palliative options
+
+2. **Type 2 Diabetes Mellitus**
+   - Insulin regimen adjusted for AKI
+   - Hold metformin while GFR <30
+   - Fingersticks q6h, sliding scale insulin
+   - Endocrine consult
+
+3. **Chronic Kidney Disease, AKI (resolving)**
+   - Pre-renal, multifactorial (hypoperfusion, nephrotoxic agents)
+   - Monitor daily labs, strict I/Os
+   - Avoid nephrotoxins, adjust meds for renal dosing
+
+4. **Anemia (chronic, multifactorial)**
+   - Hgb trending down, likely dilutional + CKD/chemo-induced
+   - Monitor CBC, consider ESA if needed
+
+5. **Prostate Cancer**
+   - s/p leuprolide, docetaxel
+   - Oncology to resume outpatient therapy as tolerated
+
+6. **Hypertension**
+   - Off antihypertensives during shock, now resuming low-dose HCTZ as tolerated
+
+7. **Chronic Sinusitis**
+   - Supportive care, ENT consult if recurrent infections
+
+8. **Delirium/agitation**
+   - Likely multifactorial (ICU stay, metabolic, infection)
+   - Reorientation, minimize sedatives
+
+9. **Pressure Ulcer, sacrum (stage 1)**
+   - Wound care, pressure offloading
+
+10. **Other**
+    - DVT prophylaxis (SCDs, heparin)
+    - Physical therapy/early mobilization
+    - Advanced care planning discussion with family
+
+---------------------------------------------------------------------------
+
+DISCHARGE PLANNING:
+- Anticipate transfer to rehab after stepdown
+- Close follow-up: Cardiology, Nephrology, Endocrinology, Oncology, PCP
+- Home meds to be reconciled at discharge
+
+---------------------------------------------------------------------------
+
+Attest: Dr. J. Carnes, MD | 2024-05-15 09:48 | cosigned: Dr. R. Ujwala, MD
+
+---------------------------------------------------------------------------
+
+```

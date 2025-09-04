@@ -1,0 +1,167 @@
+---
+**Patient:** Cormier, Lavern  
+**MRN:** 00384291  
+**DOB:** 1986-03-21  
+**Sex:** Male  
+**Admit Date:** 2024-03-13  
+**Attending:** Dr. H. Patel  
+**Service:** Cardiac ICU  
+**Location:** 3C-ICU, Bed 4  
+
+---
+
+### CHIEF COMPLAINT  
+Progressive SOB, orthopnea, and chest pressure x2 weeks, acutely worsened 2 days PTA.
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+Mr. Lavern Cormier is a 38-year-old male with PMHx notable for hypertension, chronic and recurrent sinusitis (bacterial and viral), and obesity (BMI 29), who presented with acute decompensated heart failure (ADHF) and cardiogenic shock requiring temporary mechanical circulatory support (Impella CP) in the ICU. His course was complicated by AKI, transient liver dysfunction, and persistent volume overload.
+
+Patient initially presented to ED with 2 weeks of progressive fatigue, worsening dyspnea on exertion, orthopnea, and 2 days of chest tightness. On arrival, was tachypneic, hypotensive (BP 86/64), tachycardic (HR 112), and hypoxic (SpO2 89% RA). Exam: S3, rales, JVD, cool extremities.
+
+Labs were notable for elevated troponin, BNP >1500, evidence of end-organ dysfunction (Cr 2.1, AST/ALT 3x ULN). Echo: severely depressed LVEF (15%), global hypokinesis, moderate MR, RV mildly reduced.
+
+He was admitted to CICU. Despite IV diuresis, dobutamine, and norepi, he remained in shock. Cardiology and CT surgery placed an Impella CP via right femoral artery for temporary LV support on D2. Over subsequent days, end-organ function improved; Impella weaned and explanted on D6.
+
+Course complicated by persistent hyponatremia, AKI (peak Cr 2.4), mild transaminitis, and OSA symptoms overnight. Treated for nasal MRSA colonization (nasal mupirocin) and empiric ceftriaxone for possible sinusitis flare.
+
+Discharged on D13 to cardiac rehab on GDMT (carvedilol, sacubitril-valsartan, spironolactone), with outpatient HF follow-up.
+
+---
+
+### VITALS (SELECTED)
+
+| Date         | Temp (C) | HR  | BP         | RR | SpO2 | Weight (kg) |
+|--------------|----------|-----|------------|----|------|-------------|
+| 3/13/2024    | 37.1     | 112 | 86/64      | 26 | 89   | 89.2        |
+| 3/14/2024    | 36.9     | 98  | 92/68      | 20 | 94   | 88.7        |
+| 3/16/2024    | 36.7     | 90  | 104/70     | 18 | 97   | 87.4        |
+| 3/18/2024    | 36.8     | 76  | 112/74     | 16 | 98   | 86.8        |
+| 3/21/2024    | 36.6     | 74  | 116/78     | 14 | 98   | 86.5        |
+
+---
+
+### LABS
+
+**CBC & CHEM7 TABLE**  
+(Incomplete entries reflect missing or uncollected data)
+
+| Date        | WBC    | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|-------------|--------|-------|-------|-------|------|------|------|------|------|------|------|
+| 3/13/2024   | 8.2    | 13.1  | 37.6  | 289   | 129  | 5.4  | 99   | 19   | 41   | 2.1  | 116  |
+| 3/14/2024   | 7.4    | 12.5  | 36.2  | 271   | 130  | 5.1  | 97   | 20   | 52   | 2.3  | 108  |
+| 3/15/2024   | 7.2    | 12.3  | 35.7  | 255   | 131  |      | 98   | 22   | 48   | 2.4  |      |
+| 3/16/2024   | 6.8    | 12.7  | 36.4  | 241   | 133  | 4.7  | 100  | 21   | 36   | 2.2  | 102  |
+| 3/18/2024   |        | 13.4  | 38.2  | 228   | 134  | 4.5  | 101  | 23   | 29   | 1.9  | 99   |
+| 3/20/2024   | 7.9    | 13.7  | 39.6  | 216   | 136  | 4.3  |      | 24   | 24   | 1.5  | 92   |
+| 3/22/2024   | 7.6    | 14.0  |       | 211   | 138  | 4.2  | 102  |      | 18   | 1.2  | 88   |
+
+**OTHER LABS**  
+- Troponin I: Peak 1.8 ng/mL (3/13), trending down to 0.12 by 3/18  
+- BNP: >1500 pg/mL (3/13), 880 (3/16), 340 (3/20)  
+- AST: 111 U/L (3/13), 72 (3/16), 34 (3/21)  
+- ALT: 88 U/L (3/13), 53 (3/16), 29 (3/21)  
+- ALP: 130 (3/13), 102 (3/21)  
+- Total bili: 1.3 (3/13), 0.9 (3/21)  
+- Lactate: 3.1 (3/13), 2.2 (3/14), 1.4 (3/16)  
+
+---
+
+### IMAGING/DIAGNOSTICS
+
+- **Echocardiogram (3/13/24):** LVEF 15%, global hypokinesis, mod MR, RV mildly reduced.
+- **CXR (3/13/24):** Pulmonary edema, mild cardiomegaly.
+- **ECG:** NSR, low voltage QRS, no acute ischemia.
+
+---
+
+### ASSESSMENT & PLAN (PROBLEM-BASED)
+
+#### 1. **Cardiogenic Shock / Acute Decompensated HF (new onset, HFrEF)**
+   - Likely ischemic vs. viral etiology (no prior cardiac hx, but risk factors).
+   - Required Impella CP (temp LVAD) from 3/14–3/19 for hemodynamic support.
+   - Monitored with Swan-Ganz, daily TTE, serial lactates.
+   - Now stable, euvolemic, off pressors/inotropes.
+   - **Plan:** Continue GDMT (carvedilol, sacubitril-valsartan, spironolactone), monitor for arrhythmias, f/u with HF/transplant team.
+
+#### 2. **Hypertension**
+   - Baseline on HCTZ, initially off due to AKI.
+   - BP now controlled on metoprolol, resume HCTZ at d/c.
+   - **Plan:** Monitor BP, reinforce low-Na diet, titrate as tolerated.
+
+#### 3. **Acute Kidney Injury (AKI, resolving)**
+   - Multifactorial: cardiogenic shock, diuretic use, contrast.
+   - Cr peaked at 2.4, now improving (1.2).
+   - **Plan:** Monitor renal function, avoid nephrotoxins, adjust meds.
+
+#### 4. **Volume Overload**
+   - Required IV furosemide, now on oral.
+   - **Plan:** Daily weights, strict I/O, low-Na diet, optimize diuresis.
+
+#### 5. **Transaminitis / Congestion Hepatopathy**
+   - Mild-moderate elevation in AST/ALT, normalized with improved CO.
+   - **Plan:** Trend LFTs, avoid hepatotoxins.
+
+#### 6. **Chronic Sinusitis, Acute Bacterial Sinusitis**
+   - History of recurrent sinusitis; nasal congestion on admission.
+   - Treated empirically with ceftriaxone, nasal mupirocin for MRSA.
+   - **Plan:** ENT f/u, saline rinses, continue abx if needed.
+
+#### 7. **Obstructive Sleep Apnea (suspected)**
+   - Loud snoring, witnessed apneas overnight in ICU.
+   - **Plan:** Outpatient sleep study, consider CPAP.
+
+#### 8. **Hyperlipidemia**
+   - TC 178, LDL 75, HDL 78, TG 124.
+   - **Plan:** Start high-intensity statin, dietary counseling.
+
+#### 9. **Pain (mild, 2/10)**
+   - Localized to sinuses, improved with abx and saline.
+   - **Plan:** PRN acetaminophen.
+
+#### 10. **DVT Prophylaxis**
+   - On heparin SQ during ICU stay.
+   - **Plan:** Continue until ambulatory.
+
+---
+
+### DISCHARGE MEDICATIONS
+
+- Carvedilol 6.25 mg BID
+- Sacubitril-valsartan 24/26 mg BID
+- Spironolactone 25 mg daily
+- Furosemide 40 mg daily
+- Atorvastatin 40 mg daily
+- Hydralazine 25 mg TID
+- Isosorbide dinitrate 20 mg TID
+- HCTZ 25 mg daily (resume)
+- Acetaminophen 650 mg q6h PRN
+- Nasal saline irrigation BID
+- Mupirocin ointment, intranasal, BID x5d
+
+---
+
+### FOLLOW-UP
+
+- Cardiology (HF/transplant) in 1 week
+- ENT in 1–2 weeks
+- Sleep study referral
+- Labs: CBC, BMP, LFTs at 1 week
+
+---
+
+**Attending:** H. Patel, MD  
+**Date/Time:** 2024-03-26 10:31
+
+---
+
+**Other notes:**  
+- Influenza, RSV, COVID-19 PCR negative.  
+- No drug allergies.  
+- Social: Lives with partner, non-smoker, rare EtOH, no illicit drugs.  
+- Family: Father with CAD, mother with HTN.  
+- Discharge disposition: Home with cardiac rehab.
+
+---

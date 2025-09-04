@@ -1,0 +1,151 @@
+**EPIC EHR: ICU Admission Note**  
+**Patient Name:** Ferdinand Hyatt  
+**MRN:** 004271936  
+**DOB:** 12/22/1996  
+**Sex:** Male  
+**Attending:** Dr. R. Venkman  
+**Date of Admission:** 05/28/2024  
+**Date of Note:** 06/02/2024  
+**Unit:** CVICU  
+**Admitting Diagnosis:** Cardiogenic shock, acute decompensated heart failure  
+**Code Status:** Full code  
+**Allergies:** NKDA  
+**Isolation:** None  
+
+---
+
+### HPI
+
+26-year-old male with history of chronic sinusitis, intractable migraine without aura, chronic pain, and impacted molars, on chronic opioids, who presented to the ED with 2 days of worsening dyspnea, orthopnea, and chest heaviness. He was found to be hypotensive (SBP 78 mmHg), tachycardic, with cool extremities and JVD. Troponin I was elevated, BNP 1340, EKG with sinus tachycardia, no STEMI. Echo: severe LV systolic dysfunction (EF 18%), mild RV dysfunction. Required vasopressors and was transferred to CVICU. Over the next 12 hours, developed worsening end-organ hypoperfusion (Cr increased from 1.2 to 2.6 mg/dL, lactate 5.2), and a decision was made to place a percutaneous LVAD (Impella CP) for temporary circulatory support.
+
+---
+
+### ICU Course Summary
+
+- **Day 1-2:** Vasopressor-dependent, oliguric, started on dobutamine and norepinephrine. O2 sat 92% on NRB. 
+- **Day 2:** Impella CP placed via femoral access. Hemodynamics improved, pressors weaned.  
+- **Day 3:** Some improvement in end-organ perfusion, but ongoing volume overload. Diuresis started.  
+- **Day 4:** Developed fever (Tmax 38.6°C), WBC 12.3. Blood cultures sent, started empiric vanc/cefepime.  
+- **Day 5:** Afebrile, negative cultures, abx stopped. Impella settings reduced.  
+- **Day 6:** Weaned off Impella, device explanted at bedside.  
+- **Day 7:** Stable off support, transitioned to step-down unit.
+
+---
+
+### Problem-Based Assessment and Plan
+
+---
+
+#### 1. **Cardiogenic Shock due to Acute Decompensated Heart Failure**
+   - **Assessment:** Severe LV systolic dysfunction, likely underlying nonischemic cardiomyopathy. Refractory shock requiring temporary mechanical circulatory support (Impella CP).
+   - **Plan:**
+     - LVAD support (Impella) placed, now explanted.
+     - Daily echo assessments.
+     - Continue GDMT (metoprolol, low-dose ACEi if tolerated).
+     - Monitor for arrhythmias.
+     - Cardiac MRI planned as outpatient.
+
+#### 2. **Volume Overload / Renal Dysfunction**
+   - **Assessment:** Oliguric AKI, likely cardiorenal syndrome. Improved with diuresis post-LVAD.
+   - **Plan:**
+     - IV furosemide.
+     - Strict I/Os, daily weights.
+     - Renal panel q12h.
+     - Avoid nephrotoxins.
+
+#### 3. **Chronic Pain / Opioid Dependence**
+   - **Assessment:** Chronic opioid use for pain (migraine, dental, sinus). High risk for withdrawal.
+   - **Plan:**
+     - Continue home opioid regimen, titrate to effect.
+     - Consult pain service.
+     - Monitor for withdrawal, constipation.
+
+#### 4. **Fever / Suspected Infection**
+   - **Assessment:** Single fever, negative cultures, likely non-infectious.
+   - **Plan:**
+     - Monitor for new fevers, repeat cultures if indicated.
+     - Abx discontinued.
+
+#### 5. **Migraine Management**
+   - **Assessment:** No acute migraine during ICU stay.
+   - **Plan:**
+     - Continue home regimen.
+     - PRN antiemetics.
+
+#### 6. **Chronic Sinusitis / Impacted Molars**
+   - **Assessment:** Not contributing to current admission.
+   - **Plan:**
+     - Resume outpatient follow-up post-discharge.
+
+#### 7. **Nutrition**
+   - **Assessment:** Mildly malnourished, reduced po intake x 5d.
+   - **Plan:**
+     - High-calorie, high-protein diet.
+     - Nutritionist consult.
+
+#### 8. **DVT Prophylaxis**
+   - **Plan:** SCDs, SQ heparin.
+
+---
+
+### ICU Medications (selected)
+
+- Dobutamine IV
+- Norepinephrine IV
+- Furosemide IV
+- Metoprolol PO
+- Lisinopril PO (held for SBP <90)
+- Acetaminophen/oxycodone PO
+- Hydrocodone/acetaminophen PO
+- PRN ondansetron, docusate
+
+---
+
+## LABS
+
+#### CBC, CHEM7, Cardiac Markers (select labs, **bold = abnormal**)
+
+| Date       | WBC  | Hgb   | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | BNP   |
+|------------|------|-------|------|------|------|------|------|------|------|------|------|----------|-------|
+| 5/28/2024  | 9.9  | 14.1  | 48.9 | 347  | 138  | 3.7  | 108  | 23   | 16   | 1.2  | 112  | 0.08     | 1340  |
+| 5/29/2024  | 11.4 | 13.7  | 46.2 | 332  | 137  | 4.1  | 110  | 20   | 24   | 1.9  | 104  | 0.12     | 1560  |
+| 5/30/2024  | 12.3 | 13.2  | 45.0 | 325  | 136  | 4.5  | 109  | 21   | 32   | 2.6  | 98   | 0.15     | 1680  |
+| 5/31/2024  | 9.8  | 12.9  | 43.7 | 340  | 139  | 4.0  | 108  | 22   | 20   | 1.7  | 110  | 0.09     | 1230  |
+| 6/1/2024   | 8.2  | 13.0  | 44.0 | 359  | 140  | 3.9  | 111  | 24   | 18   | 1.4  | 98   | <0.01    | 890   |
+| 6/2/2024   |      | 13.3  |      | 346  | 141  |      | 112  |      | 15   | 1.1  |      | 0.02     | 640   |
+
+Other labs:
+- **Lactate:** peaked at 5.2 mmol/L on 5/30, normalized to 1.4 by 6/2  
+- **AST/ALT:** 42/31 (mildly elevated), trended down  
+- **INR:** 1.2  
+- **Blood cultures:** negative x2  
+
+---
+
+## VITALS (selected)
+
+- Admission: HR 116, BP 78/54, RR 24, SpO2 92% NRB, Temp 37.2°C
+- Day 2: HR 108, BP 85/60, SpO2 94% NRB, Temp 36.9°C
+- Day 3: HR 94, BP 98/68, SpO2 96% 2L NC, Temp 37.1°C
+- Day 4: HR 98, BP 102/74, SpO2 97% RA, Temp 38.6°C (single fever)
+- Day 6: HR 82, BP 112/78, SpO2 98% RA, Temp 36.8°C
+
+---
+
+## DISPOSITIONS / CONSULTS
+
+- Cardiology: daily rounds, LVAD management
+- Pain service: opioid titration, withdrawal prevention
+- Nutrition: high-calorie, high-protein
+- Step-down transfer planned 6/3
+
+---
+
+**Signed:**  
+Dr. R. Venkman, MD  
+CVICU Attending  
+06/02/2024 10:34AM
+
+---
+
+**(End of Note)**

@@ -1,0 +1,167 @@
+```
+Patient: Alton Monahan           MRN: 1029348
+DOB: 04/27/1936                  Sex: Male
+Attending: Dr. Sanderson         Admit Date: 2024-05-18
+Location: MICU Bed 7             Note Date: 2024-05-23
+
+==================================================================
+ADMISSION HISTORY & PHYSICAL
+==================================================================
+Chief Complaint: Altered mental status and dyspnea
+
+HPI:
+86-year-old male with h/o HTN, obesity, prediabetes, remote CVA, anemia, known Alzheimer’s, and recent viral sinusitis, presenting from home with acute SOB, confusion, and orthopnea. Per family, he had progressive fatigue, bilateral LE edema, and reduced PO intake over 1 week, culminating in acute respiratory distress. In ED, found to be hypoxic (O2 sat 86% RA), tachypneic, with BP 90/56, HR 112. CXR: pulmonary edema. TTE: LVEF 15%, severe global hypokinesis, moderate MR. Troponin I 0.78 → 1.2 ng/mL. Required BiPAP and IV furosemide. Cardiology consulted; hemodynamics deteriorated (MAP <60 mmHg despite fluids and norepinephrine). Emergent placement of Impella CP for cardiogenic shock.
+
+PMHx:
+- HTN
+- Obesity (BMI ~30)
+- Prediabetes
+- Remote CVA (2019, mild residual L arm weakness)
+- Anemia (chronic, multifactorial)
+- Alzheimer’s (MMSE 18/30, mild-moderate)
+- Colon polyp (removed 2022, benign)
+- Viral sinusitis (resolved)
+- Ankle sprain (remote)
+
+PSHx: Colonoscopy 2022, cholecystectomy 1998
+
+Meds (prior to admit):
+- Amlodipine/HCTZ/Olmesartan 5/12.5/20 mg QD
+- Clopidogrel 75 mg QD
+- Galantamine 4 mg QD
+- Amox/Clav 250/125 mg BID (started 1 week ago for sinusitis)
+- Naproxen sodium 220 mg PRN
+
+Allergies: NKDA
+
+Social: Ex-smoker (quit 1985), lives with daughter, no EtOH, no illicit drugs
+
+==================================================================
+HOSPITAL COURSE SUMMARY
+==================================================================
+Day 1: Admitted to MICU. Worsening shock despite fluids/pressors. Impella CP placed via R femoral approach. Started on dobutamine, norepinephrine. Diuresed. Intubated for hypoxemia.
+
+Day 2: Improved mentation, weaned off norepinephrine. Troponin peaked 1.2, trending down. Echo: LVEF 18%. Oliguric, Cr up to 1.2. Impella flows 3.5 L/min. Started on heparin drip for pump.
+
+Day 3: Extubated, remains weak. MAP stable, Impella flows 3.2–3.6. Urine output improved. Mild hematuria. Hgb dropped from 13.2 to 10.9. Hemolysis labs sent. Decreased clopidogrel due to anemia.
+
+Day 4: Cardiac index 2.2, LVEF 22%. Weaned dobutamine. Neurologic exam at baseline. Mild delirium, galantamine continued. Evaluated by PT/OT. Anemia stable. Developing mild transaminitis (ALT 78, AST 62).
+
+Day 5: Impella weaned, removed. No further pressor needs. Diuresis ongoing. Transitioned to oral HF meds. Dispo planning with daughter.
+
+==================================================================
+LABORATORY RESULTS (MICU Admission)
+==================================================================
+
+| Date       | WBC  | Hgb | Plt | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu | AST | ALT | Troponin |
+|------------|------|-----|-----|------|------|------|------|------|------|-----|-----|-----|----------|
+| 5/18/24    | 12.8 | 13.2| 222 | 137  | 5.1  | 104  | 26   | 20   | 1.0  | 118 | 32  | 29  | 0.78     |
+| 5/19/24    | 10.2 | 11.6| 194 | 139  | 4.6  | 103  | 24   | 28   | 1.2  | 143 | 44  | 41  | 1.20     |
+| 5/20/24    | 8.9  | 10.9| 180 | 141  | 4.2  |      | 26   | 23   | 1.1  | 121 | 51  | 61  | 0.92     |
+| 5/21/24    | 8.0  | 10.8| 168 |      | 4.0  | 100  | 27   | 19   | 0.9  | 112 | 62  | 78  | 0.42     |
+| 5/22/24    | 7.4  | 10.7| 155 | 140  | 3.9  | 99   | 29   | 17   | 0.8  |     | 54  | 61  | <0.01    |
+
+Other notable labs:
+- LDH: 410 (Day 3, up from 200)
+- Haptoglobin: <30 (Day 3)
+- D-dimer: 1.3 (Day 2)
+- BNP: 2,200 (Day 1)
+- INR: 1.3 (Day 1), 1.4 (Day 3)
+- Albumin: 3.4 (Day 2)
+- Alkaline Phos: 137 (Day 4)
+
+==================================================================
+VITALS (Selected)
+==================================================================
+Day 1: BP 90/56 | HR 112 | RR 27 | T 36.9C | SpO2 86% RA
+Day 2: BP 104/62 | HR 98 | RR 18 | T 37.2C | SpO2 94% (2L NC)
+Day 3: BP 110/66 | HR 91 | RR 16 | T 36.7C | SpO2 97% (RA)
+Day 4: BP 118/70 | HR 87 | RR 12 | T 36.8C | SpO2 98% (RA)
+Day 5: BP 124/74 | HR 82 | RR 14 | T 36.6C | SpO2 98% (RA)
+
+==================================================================
+ASSESSMENT & PLAN (Problem-based)
+==================================================================
+
+1. **Cardiogenic shock, acute decompensated HFrEF (new, LVEF 15%)**
+   - Likely ischemic (troponin elevation, chronic risk factors)
+   - Required Impella CP for hemodynamic support (days 1–5)
+   - Now weaned off device, improving
+   - Continue guideline-directed HF therapy (carvedilol, ACEi, spironolactone, furosemide)
+   - Monitor for recurrent shock, renal function, volume status
+   - Echo post-Impella: LVEF 22%, mod MR
+
+2. **Acute on chronic anemia**
+   - Multifactorial: hemolysis (mechanical), hemodilution, GI losses
+   - Hgb drop from 13.2 → 10.7 g/dL, no overt GI bleed
+   - Haptoglobin low, LDH up → likely hemolysis from Impella
+   - Hold clopidogrel x48h, resume when stable
+   - Monitor CBC daily
+
+3. **Alzheimer’s dementia (mild-moderate, baseline MMSE 18)**
+   - Mild delirium, improving as shock resolves
+   - Continue galantamine, re-orient, avoid sedatives
+
+4. **Hypertension/Obesity/Prediabetes**
+   - Resume home meds as tolerated
+   - Monitor glucose (no insulin needs)
+   - Counsel re: salt restriction, weight management
+
+5. **Remote CVA**
+   - No new focal deficits
+   - Continue caution with antiplatelet use
+
+6. **Mild transaminitis**
+   - ALT/AST peaked day 4, likely ischemic hepatitis from low flow
+   - Monitoring, trend labs
+
+7. **Acute kidney injury (resolved)**
+   - Oliguria, Cr peaked at 1.2, now improved
+   - Monitor UOP, avoid nephrotoxins
+
+8. **History of colon polyp**
+   - No evidence of GI bleed
+   - F/u with GI as outpatient
+
+9. **Viral sinusitis (resolved)**
+   - Completed antibiotics
+
+10. **Pain (mild, ankle, 2/10)**
+    - Naproxen PRN, minimize due to renal risk
+
+11. **Rehabilitation**
+    - PT/OT eval, early mobilization
+
+12. **Discharge planning**
+    - Daughter involved, likely home with services
+
+==================================================================
+MEDICATION ADMINISTRATION (IN-HOSPITAL)
+==================================================================
+- Dobutamine IV gtt (titrated)
+- Norepinephrine IV gtt (off by day 2)
+- Heparin gtt (for Impella)
+- Lasix IV/PO
+- Carvedilol PO (initiated day 4)
+- Spironolactone PO (initiated day 5)
+- Galantamine PO
+- PRN Tylenol, Naproxen (minimized)
+- Clopidogrel (held day 3-4, then resumed)
+- Amox/Clav (completed day 3)
+
+==================================================================
+DISPOSITION
+==================================================================
+- Transitioned to oral HF regimen, euvolemic, off pressors, Impella removed
+- To discharge home with daughter, home health/rehab arranged
+- Close follow up with Cardiology, PCP, Neurology
+
+==================================================================
+SIGNATURES
+==================================================================
+Dr. L. Sanderson, MD | MICU Attending
+Dr. R. Patel, MD | Cardiology
+Dr. H. Kim, MD | Neurology
+
+==================================================================
+```

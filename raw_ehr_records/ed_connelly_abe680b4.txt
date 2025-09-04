@@ -1,0 +1,139 @@
+```
+Patient Name: Ed Connelly                MRN: 00112893
+DOB: 2007-12-05  (Age: 16)               Sex: M
+Admit Date: 2024-03-08                   Attending: Dr. S. Venkman
+Date of Note: 2024-03-14                 Service: Pediatric Cardiology ICU
+
+ADMISSION DIAGNOSES:
+1. Acute decompensated heart failure, presumed secondary to viral myocarditis
+2. Cardiogenic shock, requiring temporary LVAD (Impella CP) support
+3. Acute kidney injury, multifactorial
+4. Streptococcal pharyngitis (hx)
+5. Acute bronchitis (recent, resolved)
+6. Otitis media (remote)
+7. Sprain of wrist (remote)
+8. Mild transaminitis
+9. Volume overload
+
+HOSPITAL COURSE SUMMARY:
+Ed Connelly is a previously healthy 16-year-old male with a history of recent viral pharyngitis and bronchitis who presented to the ED with 3 days of progressive dyspnea, orthopnea, and lower extremity edema. He was found to be tachycardic (HR 128), hypotensive (BP 78/46), tachypneic (RR 28), and hypoxic (O2 sat 89% RA). Initial labs demonstrated elevated troponin I, BNP, and a mixed respiratory/metabolic acidosis. CXR showed cardiomegaly and pulmonary edema. Echo revealed severely reduced LVEF (~15%), LV dilation, and mild MR.
+
+He was transferred to the PICU, started on milrinone and norepinephrine, and intubated for worsening hypoxia. Despite escalation, he developed worsening cardiogenic shock and multi-organ dysfunction. Decision was made for temporary mechanical circulatory support; an Impella CP was placed on hospital day 2 via right femoral approach with improvement in end-organ perfusion. He has since been managed with inotropes, diuresis, and supportive care. He remains intubated but is weaning off pressors. Serial echos show gradual improvement in LVEF (~28% on HD6). AKI is improving with diuresis.
+
+CURRENT MEDICATIONS:
+- Milrinone infusion 0.3 mcg/kg/min
+- Norepinephrine 0.03 mcg/kg/min (weaning)
+- Furosemide 20mg IV q12h
+- Ceftriaxone 1g IV q24h (for possible secondary infection)
+- Pantoprazole 20mg IV q24h
+- Acetaminophen 325mg PO q6h PRN
+- Amoxicillin 250mg PO BID (completed)
+- Ibuprofen 100mg PO PRN (held)
+- Heparin infusion (for Impella anticoagulation)
+- Dextromethorphan/doxylamine solution (held)
+
+ALLERGIES: NKDA
+
+----------------------
+VITALS (ICU Day 6)
+Temp: 37.2°C   HR: 97   BP: 104/66   RR: 18   SpO2: 98% (FiO2 0.3, ventilated)
+Wt: 41.4kg  Ht: 155.8cm  BMI: 17.0
+
+----------------------
+LABS
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin I | BNP   | AST  | ALT  |
+|------------|------|------|------|------|------|------|------|------|------|------|------|------------|-------|------|------|
+| 3/08/2024  | 14.2 | 12.9 | 36.8 | 352  | 132  | 5.2  | 101  | 18   | 39   | 1.78 | 119  | 5.2        | 8890  | 88   | 112  |
+| 3/09/2024  | 12.5 | 10.8 | 33.6 | 310  | 134  | 4.8  | 100  | 21   | 46   | 2.09 | 98   | 3.6        | 7100  | 77   | 105  |
+| 3/10/2024  | 11.8 | 11.2 | 34.1 | 289  | 136  | 4.6  | 99   | 22   | 38   | 1.62 | 104  | 2.8        | 5900  | 68   | 94   |
+| 3/11/2024  | 9.4  | 11.9 | 35.5 | 277  | 138  | 4.3  | 102  | 25   | 31   | 1.24 | 112  | 1.1        | 3300  | 51   | 62   |
+| 3/12/2024  | 7.3  | 12.4 | 37.1 | 241  | 139  | 4.1  | 104  | 27   | 19   | 0.91 | 108  | 0.3        | 1800  | 39   | 42   |
+| 3/13/2024  | 6.8  | 13.1 | 38.7 | 224  | 140  | 4.2  | 104  | 27   | 15   | 0.80 | 101  | 0.05       | 1050  | 28   | 36   |
+| 3/14/2024  | 5.7  | 13.9 | 39.8 | 201  | 142  | 4.0  | 106  | 28   | 11   | 0.69 |  98  | -          |  720  | 22   | 27   |
+
+*Some values missing due to sample hemolysis or not ordered.
+
+----------------------
+ASSESSMENT & PLAN (Problem-based)
+
+**1. Acute decompensated heart failure, severe LV dysfunction, presumed viral myocarditis**
+- Initially presented with shock and multi-organ failure.
+- Temporary LVAD (Impella CP) placed on HD2, providing circulatory support.
+- LVEF improving on serial echo; now ~28%.
+- Continue Impella support, goal to wean as tolerated over next 48-72h.
+- Daily echo, monitor for hemolysis, device-related complications.
+- Maintain MAP >65, adjust pressors/inotropes as needed.
+
+**2. Cardiogenic shock**
+- On norepinephrine and milrinone; weaning pressors as tolerated.
+- Monitor perfusion, lactate, urine output.
+- Continue close hemodynamic monitoring.
+
+**3. Acute kidney injury (KDIGO Stage 2)**
+- Likely secondary to hypoperfusion and congestion.
+- Creatinine improved from 2.09 to 0.69; urine output now >1.5cc/kg/hr.
+- Diuresis with furosemide; monitor lytes and volume status.
+
+**4. Volume overload**
+- Manifested as peripheral edema, pulmonary congestion.
+- On IV furosemide, net negative fluid balance.
+- Daily weights, strict I/O.
+
+**5. Risk of infection**
+- On ceftriaxone empirically; cultures negative to date.
+- Monitor for fever, WBC, procalcitonin.
+- Remove central lines ASAP.
+
+**6. Mild transaminitis**
+- Likely secondary to hypoperfusion ("shock liver").
+- Downtrending AST/ALT.
+- Monitor LFTs q48h.
+
+**7. Respiratory failure**
+- Intubated for hypoxic respiratory failure.
+- Weaning FiO2, currently on 0.3.
+- Target extubation in 24-48h if stable.
+
+**8. Pain control**
+- Acetaminophen PRN; no opioids required.
+- Pain score generally <3/10.
+
+**9. Nutrition**
+- NPO, receiving TPN.
+- Plan for enteral feeds as tolerated.
+
+**10. Psychosocial**
+- Family updated daily; social work involved.
+
+----------------------
+PROGRESS NOTES
+
+HD2: Impella placed, immediate improvement in MAP and urine output. Labs: WBC 12.5, Cr 2.09.
+HD4: Extubation attempt failed, re-intubated for hypercapnia.
+HD5: LVEF up to 24%, Cr 1.24, BNP 3300.
+HD6: Stable, downtrending pressors, planning for device wean.
+
+----------------------
+IMAGING
+
+- ECHO HD1: LVEF 15%, LV dilated, mild MR.
+- ECHO HD5: LVEF 24%, mild improvement.
+- CXR: Cardiomegaly, pulmonary edema (improved HD5).
+
+----------------------
+DISCHARGE PLANNING
+
+- Anticipate ICU stay 3-5 more days.
+- Plan for stepdown to telemetry when extubated and Impella removed.
+- Outpatient heart failure follow-up and cardiac MRI.
+- Close monitoring for recurrent myocarditis.
+
+----------------------
+
+Attending: S. Venkman, MD
+Trainee: J. Spengler, MD
+
+--- END OF NOTE ---
+```
+

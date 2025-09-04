@@ -1,0 +1,166 @@
+**EHR Record: EPIC - Inpatient Chart**  
+**Patient:** Taylor Fay  
+**MRN:** 0083921  
+**DOB:** 03/12/1967 (57 years)  
+**Sex:** Male  
+**Date of Admission:** 4/11/2024  
+**Attending:** Dr. Samuel R. Lin  
+**Service:** Cardiology ICU  
+
+---
+
+### ADMISSION NOTE
+
+**Chief Complaint:**  
+Shortness of breath, orthopnea, and lower extremity edema x 3 days.
+
+**History of Present Illness:**  
+Taylor Fay is a 57-year-old male with a PMHx significant for prediabetes, chronic anemia, and hyperlipidemia who presented to the ED with acute onset of progressive dyspnea, orthopnea, and lower extremity swelling. He reports a recent URI two weeks ago but denies fever, chills, or chest pain. He had a syncopal episode at home this morning, prompting EMS activation. On arrival, he was tachypneic, hypotensive (SBP 82 mmHg), and hypoxic (SpO2 88% RA).  
+
+**Past Medical History:**  
+- Prediabetes  
+- Anemia (chronic, multifactorial, previously stable)  
+- Hyperlipidemia  
+- Remote left ankle sprain  
+- Acute bronchitis (resolved, x2 episodes past year)  
+- Acute viral pharyngitis (prior, resolved)
+
+**Medications on Admission:**  
+- Acetaminophen 325 mg PO PRN  
+- Acetaminophen/dextromethorphan/doxylamine solution PRN
+
+**Allergies:**  
+No known drug allergies
+
+**Social History:**  
+- Tobacco: Former smoker, quit 2011, 10 pack-years  
+- Alcohol: Rare  
+- Illicits: Denies  
+- Lives with wife, retired teacher
+
+**Family History:**  
+- Father: MI at age 60  
+- Mother: T2DM, CHF
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+**Day 1:**  
+Admitted to the Cardiology ICU for acute decompensated heart failure (ADHF) with possible cardiogenic shock. Required norepinephrine and dobutamine drips for MAP support. Echo showed LVEF 15%, global hypokinesis. Cardiac cath: non-obstructive CAD, elevated filling pressures. Lactate 4.2, troponin mildly elevated.  
+
+**Day 2:**  
+Worsening end-organ perfusion (Cr up to 2.1, AST/ALT rising, cold extremities). Decision made for temporary left-sided percutaneous LVAD (Impella CP) placement at bedside. Tolerated well, hemodynamics stabilized.  
+
+**Day 3-4:**  
+Gradual wean of vasopressors, improved renal perfusion, urine output increased. Monitored for hemolysis, device-related complications. Developed mild thrombocytopenia.  
+
+**Day 5:**  
+Weaned off inotropes, LVAD flows stable, extubated. Mild delirium, managed supportively.  
+
+**Day 6-8:**  
+Continued improvement, device weaning attempted. Repeat echo: LVEF improved to 32%. Device explanted on day 8.  
+
+**Day 9-10:**  
+Transferred to step-down. Monitored for recurrent decompensation, started on guideline-directed HF therapy (metoprolol, sacubitril/valsartan, spironolactone).  
+
+**Discharge Plan:**  
+To rehab facility for continued PT/OT, close f/u in HF clinic.
+
+---
+
+### VITALS SUMMARY
+
+| Date        | Temp (C) | HR | BP       | RR | SpO2 | Weight (kg) |
+|-------------|----------|----|----------|----|------|-------------|
+| 4/11/2024   | 37.5     | 118| 82/56    | 28 | 88%  | 88.5        |
+| 4/12/2024   | 37.8     | 110| 95/62    | 24 | 94%  | 88.1        |
+| 4/13/2024   | 37.1     | 102| 104/66   | 18 | 98%  | 87.9        |
+| 4/15/2024   | 36.9     | 88 | 112/74   | 16 | 99%  | 87.5        |
+
+---
+
+### LABS
+
+**CBC/CHEM7/LIVER PANEL/TROPONIN**
+
+| Date         | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | AST (U/L) | ALT (U/L) | T. bili (mg/dL) | Troponin (ng/mL) |
+|--------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-----------|-----------|------------------|-------------------|
+| 4/11/2024 06:00 | 7.0        | 13.4       | 42.8    | 210        | 137         | 3.8        | 101         | 25           | 15          | 1.1        | 34        | 42        | 1.2              | 0.18              |
+| 4/12/2024 04:30 | 8.2        | 12.1       | 38.2    | 162        | 134         | 4.2        | 98          | 21           | 28          | 2.1        | 72        | 90        | 2.4              | 0.24              |
+| 4/13/2024 05:10 | 6.9        | 11.8       | 36.5    | 154        | 136         | 4.0        | 100         | 23           | 22          | 1.6        | 48        | 60        | -                | 0.12              |
+| 4/14/2024 06:15 | 7.5        | 12.2       | 37.9    | 144        | 138         | 4.1        | 102         | 25           | 19          | 1.4        | 31        | 44        | 1.3              | -                 |
+| 4/16/2024 07:00 | 6.1        | 12.9       | 39.8    | 178        | 140         | 4.4        | 102         | 26           | 16          | 1.1        | 25        | 36        | 1.1              | <0.01             |
+
+*Note: Some values missing as not all labs collected daily.*
+
+---
+
+### PROBLEM-BASED ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock (ADHF, severe LV systolic dysfunction)**
+   - Etiology: Likely viral myocarditis vs. idiopathic non-ischemic CM (no significant CAD)
+   - Temporary LVAD (Impella CP) placed day 2, removed day 8
+   - Vasopressors/inotropes: Norepi, dobutamine (weaned off by day 5)
+   - Diuresis: IV furosemide, judicious fluid balance
+   - Monitor for arrhythmia, device complications (hemolysis, thrombocytopenia, limb ischemia)
+   - Repeat TTE post-device: LVEF improved to 32%
+   - Plan: Continue GDMT for HF, close monitoring, cardiac rehab
+
+**2. Prediabetes**
+   - BG monitored, no hypoglycemia/hyperglycemia noted
+   - A1c 6.3% on admission
+   - Diet: ADA, encourage weight loss, f/u with PCP
+
+**3. Chronic Anemia**
+   - Hgb nadir 11.8, no transfusion required
+   - Likely multifactorial (chronic disease, mild dilutional)
+   - Monitor, iron panel pending outpatient
+
+**4. Thrombocytopenia (new, mild)**
+   - Platelets dropped to 144–154 K/uL with device
+   - Likely device-related, trended up after removal
+   - No evidence of HIT (neg PF4), no bleeding
+
+**5. AKI (resolved)**
+   - Cr increased to 2.1 with shock, improved to baseline post-support
+   - Renal function at discharge: Cr 1.1
+
+**6. Acute Delirium**
+   - Developed post-extubation, resolved with reorientation, sleep hygiene
+
+**7. Hyperlipidemia**
+   - On statin, LDL at goal
+   - Continue outpatient
+
+**8. Remote ankle sprain, acute bronchitis, viral pharyngitis**
+   - No active issues
+
+---
+
+### DISCHARGE MEDICATIONS
+
+- Metoprolol succinate 25 mg PO daily
+- Sacubitril/valsartan 24/26 mg PO BID
+- Spironolactone 25 mg PO daily
+- Atorvastatin 40 mg PO daily
+- Furosemide 20 mg PO daily
+- Acetaminophen 325 mg PO PRN
+
+---
+
+### DISCHARGE INSTRUCTIONS
+
+- Cardiac rehab referral
+- Daily weights, HF precautions
+- F/u in HF clinic in 1 week
+- Labs: BMP, CBC, LFTs, iron panel in 2 weeks
+- Avoid NSAIDs, salt restriction
+- PT/OT to follow
+
+---
+
+**Physician:**  
+Samuel R. Lin, MD  
+Cardiology ICU  
+**Electronically signed: 4/20/2024, 09:14 AM**

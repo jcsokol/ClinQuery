@@ -1,0 +1,149 @@
+```
+Patient: Kanisha Nolan         MRN: 03225190
+DOB: 12/17/1949               Sex: Female
+Date of Admission: 4/13/2024  Attending: Dr. S. Choudhury
+Admitting Dx: Cardiogenic shock secondary to acute decompensated heart failure, s/p temporary LVAD (Impella CP) placement
+Allergies: NKDA
+
+-------------------
+HOSPITAL COURSE SUMMARY
+
+Ms. Kanisha Nolan is a 74-year-old female with a significant PMHx including obesity, prediabetes, prior left-sided breast cancer (s/p lumpectomy, no active disease), and chronic sinusitis, who presented with acute dyspnea, orthopnea, and chest discomfort. She was found to be hypotensive and hypoxic in the ED. Initial workup revealed acute decompensated heart failure with reduced EF (LVEF 15%) and evidence of end-organ hypoperfusion. She developed worsening shock requiring intubation and escalating vasopressor support, ultimately necessitating placement of a temporary left ventricular assist device (Impella CP) in the CCU on hospital day 2. She subsequently improved, was weaned off inotropes and Impella, and transferred to step-down on hospital day 9.
+
+-------------------
+HOSPITAL PROBLEM LIST
+
+1. **Cardiogenic Shock, s/p Impella CP Placement**
+2. **Acute Decompensated Heart Failure (HFrEF)**
+3. **Obesity (BMI 30+)**
+4. **Prediabetes**
+5. **History of Malignant Neoplasm of Breast**
+6. **Chronic Sinusitis**
+7. **Acute Kidney Injury, resolving**
+8. **Anemia of Chronic Disease**
+9. **Electrolyte Abnormalities**
+10. **History of 1st Trimester Miscarriage**
+11. **Acute viral pharyngitis**
+12. **Acute bacterial sinusitis**
+
+-------------------
+ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock, s/p Impella CP Placement**
+- Presentation: Profound hypotension, cool extremities, lactate 5.8 on admission, LVEF 15% on bedside echo.
+- Required norepinephrine, dobutamine, and vasopressin in the ED. Escalated to mechanical support with Impella CP on HD2.
+- Impella weaned and removed HD7, hemodynamics improved, off vasopressors by HD8.
+- Serial TTE: LVEF improved to 25% by HD10.
+- Plan: Continue guideline-directed medical therapy for HFrEF, consider long-term device if recurrent decompensation. Cardiology f/u.
+
+**2. Acute Decompensated Heart Failure (HFrEF)**
+- Exacerbated by nonadherence to low-salt diet, likely viral prodrome.
+- IV furosemide, fluid balance closely monitored, net negative 7L by HD6.
+- Transitioned to oral diuretics and uptitrated carvedilol, sacubitril/valsartan initiated.
+- Plan: Close outpatient follow-up, patient education, home health nursing referral.
+
+**3. Obesity (BMI at baseline ~30, 28 in hospital)**
+- Weight loss during admission secondary to diuresis.
+- Nutritional consult, calorie restriction, low-salt, low-sugar diet.
+- Plan: Encourage weight loss, monitor for sarcopenia.
+
+**4. Prediabetes**
+- A1c 6.1% on admission. Glucose controlled, no insulin required.
+- Plan: Lifestyle modification, follow A1c outpatient.
+
+**5. History of Malignant Neoplasm of Breast**
+- No evidence of recurrence, last mammogram 1 year ago.
+- Plan: Oncology f/u per routine.
+
+**6. Chronic Sinusitis**
+- Nasal congestion, received empiric antibiotics for superimposed bacterial sinusitis.
+- ENT consulted, saline irrigations, fluticasone nasal spray.
+- Plan: Outpatient ENT f/u.
+
+**7. Acute Kidney Injury, resolving**
+- Admission Cr 1.6 (baseline 0.7), improved to 1.1 by HD9.
+- Likely prerenal from hypoperfusion, improved with hemodynamic stabilization.
+- Plan: Monitor renal function, avoid nephrotoxins.
+
+**8. Anemia of Chronic Disease**
+- Hgb nadir 9.1, no overt bleeding, stable MCV.
+- Plan: Monitor, no transfusion needed.
+
+**9. Electrolyte Abnormalities**
+- Hypokalemia and mild hyponatremia during aggressive diuresis.
+- Repleted as needed, all normalized by discharge.
+
+**10. History of 1st Trimester Miscarriage**
+- Not relevant to current admission.
+
+**11. Acute Viral Pharyngitis**
+- Symptomatic care, resolved.
+
+**12. Acute Bacterial Sinusitis**
+- Treated with amoxicillin-clavulanate x7d.
+
+-------------------
+HOSPITAL VITALS (SELECTED)
+
+| Date       | Temp (C) | HR  | BP        | RR | SpO2 | Weight (kg) |
+|------------|----------|-----|-----------|----|------|-------------|
+| 4/13/24    | 37.1     | 112 | 86/54     | 22 | 91%  | 80.0        |
+| 4/15/24    | 37.3     | 98  | 92/58     | 18 | 96%  | 78.2        |
+| 4/17/24    | 36.8     | 88  | 104/66    | 16 | 98%  | 76.1        |
+| 4/19/24    | 36.5     | 82  | 114/70    | 16 | 98%  | 75.4        |
+
+-------------------
+LABS
+
+CBC & CHEM7 (Selected, some values missing)
+
+| Date     | WBC   | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Ca   |
+|----------|-------|------|------|------|------|------|------|------|------|------|------|------|
+| 4/13/24  | 3.8   | 13.9 | 40.9 | 395  | 144  | 4.3  | 111  | 22   | 17   | 0.67 | 84   | 9.5  |
+| 4/14/24  | 6.2   | 12.1 | 34.3 | 372  | 138  | 3.2  | 104  | 20   | 29   | 1.45 | 109  | 8.7  |
+| 4/15/24  | 10.4  | 10.5 | 31.2 | 344  | 132  | 2.9  | 99   | 17   | 38   | 1.6  | 98   | 7.9  |
+| 4/17/24  | 8.8   | 11.3 | 33.1 | 357  | 136  | 4.0  | 102  | 22   | 21   | 1.2  | 102  |      |
+| 4/18/24  |       | 11.9 |      |      | 138  | 4.3  |      | 25   | 18   | 1.1  |      | 9.0  |
+| 4/19/24  | 7.2   | 12.4 | 36.0 | 301  | 139  | 4.1  | 105  | 23   | 16   | 1.1  | 101  | 9.3  |
+
+OTHER RELEVANT LABS
+
+| Date     | NT-proBNP | Troponin I | AST  | ALT  | ALP  | T. bili | INR | Lactate |
+|----------|-----------|------------|------|------|------|---------|-----|---------|
+| 4/13/24  | 12,800    | 0.21       | 103  | 87   | 165  | 1.3     | 1.3 | 5.8     |
+| 4/15/24  | 10,500    | 0.09       | 73   | 62   | 108  | 1.1     | 1.2 | 2.1     |
+| 4/17/24  | 7,200     | <0.01      | 41   | 34   | 89   | 0.8     | 1.1 | 1.2     |
+| 4/19/24  | 6,900     | <0.01      | 36   | 29   | 84   | 0.6     | 1.0 |        |
+
+-------------------
+DISCHARGE MEDICATIONS
+
+- Carvedilol 6.25 mg PO BID
+- Sacubitril/valsartan 24/26 mg PO BID
+- Furosemide 40 mg PO BID
+- Spironolactone 25 mg PO QD
+- Aspirin 81 mg PO QD
+- Atorvastatin 40 mg PO QD
+- Vitamin B12 5 mg/mL injectable soln QWK
+- Fluticasone nasal spray BID
+- Amoxicillin-clavulanate (completed)
+
+-------------------
+DISPOSITION/INSTRUCTIONS
+
+- Discharged to home with home health
+- Cardiology, primary care, ENT, oncology follow-up
+- Daily weights, low-salt, low-fluid diet
+- Monitor for symptoms: SOB, orthopnea, edema, fever
+- Wound care for Impella site
+
+-------------------
+PHYSICIAN ATTESTATION
+
+I have personally examined the patient and reviewed all relevant clinical data. This note was prepared by myself with input from the ICU team.
+
+Dr. S. Choudhury, MD
+Attending, Critical Care/Cardiology
+
+-------------------
+```

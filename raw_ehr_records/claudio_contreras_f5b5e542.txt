@@ -1,0 +1,159 @@
+```
+---------------------------------------------------
+Epic EHR - Progress Note
+---------------------------------------------------
+Patient Name: Claudio Contreras        MRN: 002489166
+DOB: 10/17/1912 (Age: 111)             Sex: Male
+Date of Admission: 04/02/2024
+Attending: Dr. R. Gentry
+ICU Service: Cardiac ICU
+---------------------------------------------------
+
+**Chief Complaint:**  
+Progressive shortness of breath, orthopnea, and lower extremity edema.
+
+**History of Present Illness:**  
+Claudio Contreras is a 111-year-old male with a history of hypertension, obesity, osteoarthritis of the hip, prediabetes, chronic anemia, prostate neoplasm (on leuprolide and docetaxel), osteoporosis, Alzheimer’s dementia, and chronic sinusitis, who presented to the ED from his skilled nursing facility for acute-on-chronic decompensated heart failure. He had a 3-day history of increasing shortness of breath, orthopnea, and new onset confusion per caregivers. He was mildly hypoxic on arrival (SpO2 89% RA), with tachypnea and bibasilar rales. He was noted to have new hypotension and rising creatinine. Initial troponin was elevated. EKG showed new LBBB. Bedside echo revealed severely reduced LVEF (~10%) with global hypokinesis, moderate MR, and RV dysfunction. Cardiogenic shock was suspected, and he was transferred to the CICU where he was started on dobutamine and norepinephrine. Due to persistent shock, an Impella CP device (percutaneous LVAD) was placed for temporary mechanical circulatory support.
+
+**Hospital Course Summary:**  
+- Required intubation on HD#1 for hypoxic respiratory failure.
+- Impella device placed on HD#2 for refractory cardiogenic shock.
+- Complicated by AKI, anemia requiring transfusion, delirium, and transient VT.
+- Weaned off device on HD#7, extubated HD#8, transitioned to comfort care after family meeting due to advanced dementia and poor prognosis.
+- Discharged to SNF on HD#11.
+
+---------------------------------------------------
+**Active Problems**
+---------------------------------------------------
+1. Cardiogenic shock, new onset severe LV systolic dysfunction
+2. Acute decompensated heart failure
+3. Temporary left-sided heart pump (Impella CP) - in place HD#2–7
+4. Hypertension
+5. Chronic anemia
+6. Prostate carcinoma, metastatic, on ADT/chemo
+7. Osteoarthritis, severe, bilateral hip
+8. Osteoporosis
+9. Alzheimer’s dementia, advanced
+10. AKI, multifactorial
+11. Delirium, multifactorial
+12. Hypoxic respiratory failure, intubated HD#1–8
+13. Obesity (BMI 30+)
+14. Chronic sinusitis
+15. Prediabetes
+16. Viral pharyngitis (resolved)
+---------------------------------------------------
+
+**Physical Exam (HD#4):**  
+Gen: Cachectic, intubated, sedated, responsive to pain.
+CV: S3, regular rhythm, Impella hum audible, cold extremities, 1+ pitting edema.
+Pulm: ET tube in place, bilateral rales, mild wheezing.
+Abd: Soft, nontender, no HSM.
+Neuro: Opens eyes to pain, nonverbal, no purposeful movement.
+Skin: Sacral erythema, no breakdown.
+Lines: R IJ CVC, L radial A-line, Foley, Impella L fem.
+
+---------------------------------------------------
+**Laboratory Data**
+---------------------------------------------------
+
+| Date       | WBC   | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | AST  | ALT  | Alk Phos | BNP   |
+|------------|-------|------|------|------|------|------|------|------|------|------|------|----------|------|------|----------|-------|
+| 4/2/24     | 7.1   | 13.4 | 43.9 | 281  | 137  | 3.8  | 103  | 28.7 | 13.5 | 0.50 | 72   | 0.32     | 48   | 41   | 110      | 3250  |
+| 4/3/24     | 8.3   | 11.2 | 37.2 | 232  | 135  | 4.2  | 101  | 24.9 | 17.8 | 1.01 | 95   | 2.71     | 89   | 61   | 210      | 5420  |
+| 4/4/24     | 9.0   | 10.5 | 34.1 | 199  | 133  | 4.7  | 100  | 22.1 | 24.2 | 1.62 | 109  | 1.22     | 120  | 97   | 301      | 6100  |
+| 4/5/24     | 8.5   | 10.2 |      | 188  | 134  | 4.4  | 99   | 21.8 | 27.0 | 1.98 |      | 0.97     |      |      | 280      |       |
+| 4/6/24     | 7.9   | 11.2 | 36.2 | 210  | 136  | 4.1  | 102  | 28.1 | 21.7 | 1.34 | 88   | 0.22     | 67   | 43   | 135      | 3380  |
+| 4/7/24     | 6.8   | 11.8 | 37.8 | 256  | 138  | 3.9  | 104  | 29.9 | 18.2 | 1.10 | 91   | 0.11     | 51   | 39   | 97       | 1810  |
+| 4/9/24     | 7.2   | 12.6 | 39.1 | 269  |      |      |      | 27.7 | 16.3 | 0.96 | 77   | <0.01    | 39   | 21   | 83       | 900   |
+| 4/11/24    | 7.7   | 12.9 | 40.2 | 279  | 137  | 4.0  | 103  | 28.7 | 15.4 | 0.88 | 89   | <0.01    | 36   | 17   | 80       | 690   |
+
+*Note: Some labs missing due to hemolysis/insufficient sample.*
+
+---------------------------------------------------
+**Imaging/Procedures**
+---------------------------------------------------
+- CXR (4/2): Bilateral pulmonary edema, vascular congestion, small left pleural effusion.
+- TTE (4/2): LVEF ~10%, severe diffuse hypokinesis, moderate MR, mild RV dysfunction.
+- EKG (4/2): NSR, new LBBB, low voltage QRS.
+- Impella CP placed (4/3) via L femoral artery, no immediate complications.
+- Head CT (4/4): No acute infarct or hemorrhage, moderate atrophy.
+
+---------------------------------------------------
+**Assessment and Plan**
+---------------------------------------------------
+
+**1. Cardiogenic Shock / Severe Systolic Heart Failure (new)**
+- Etiology: Likely ischemic vs. stress-induced (troponin leak, no STEMI, LBBB, elderly).
+- Impella CP placed for temporary support HD#2, weaned HD#7.
+- Dobutamine and norepinephrine for hemodynamics, weaned off by HD#6.
+- Serial echo: gradual improvement to LVEF ~22%.
+- Diuresis as tolerated.
+- Prognosis poor given age, dementia, comorbidities.
+- Goals of care discussion, transitioned to comfort measures HD#9.
+
+**2. Acute Kidney Injury**
+- Pre-renal from low cardiac output, nephrotoxic exposure (contrast), and hypotension.
+- Monitored UOP, daily BMP.
+- Improved with hemodynamics, no dialysis required.
+
+**3. Anemia, Chronic, Exacerbated**
+- Baseline Hgb ~13, nadir 10.2 on HD#5.
+- Received 1 unit PRBC HD#5.
+- Monitored retic, haptoglobin, LDH (not shown).
+- Trended up after stabilization.
+
+**4. Delirium/Encephalopathy**
+- Multifactorial: hypoxia, sepsis, ICU, advanced dementia.
+- Managed with reorientation, minimized sedation, family presence.
+
+**5. Prostate Cancer, Metastatic**
+- On leuprolide, docetaxel held during shock.
+- Urology/oncology consulted, no acute intervention.
+
+**6. Osteoarthritis/Osteoporosis**
+- Bedbound, at risk for pressure ulcers.
+- PT/OT deferred; aggressive DVT prophylaxis.
+
+**7. Hypertension**
+- Held most antihypertensives during shock; low-dose atenolol restarted HD#8.
+
+**8. Respiratory Failure**
+- Intubated HD#1–8 for hypoxia, weaned per protocol, extubated HD#8.
+
+**9. Chronic Sinusitis**
+- No acute exacerbation during admission.
+
+**10. Prediabetes**
+- Monitored BG, no hypoglycemia, held metformin.
+
+**11. Comfort Care (from HD#9)**
+- Morphine prn, no escalation of life-sustaining therapies.
+- Family at bedside, chaplain support.
+
+---------------------------------------------------
+**Medications (Active during Admission)**
+---------------------------------------------------
+- Dobutamine IV (HD#1–6)
+- Norepinephrine IV (HD#1–5)
+- Furosemide IV
+- PRBC x1 (HD#5)
+- Fluticasone/Albuterol inhalers prn
+- Leuprolide (held)
+- Docetaxel (held)
+- Galantamine, Memantine (continued)
+- Alendronate (held)
+- DVT ppx: Heparin SQ
+- Morphine prn (comfort care)
+
+---------------------------------------------------
+**Discharge Disposition:**  
+Returned to SNF, comfort care, poor prognosis.
+
+**Follow-up:**  
+Palliative care, SNF provider, no further aggressive interventions per family wishes.
+
+---------------------------------------------------
+**Attending Physician:**  
+R. Gentry, MD
+---------------------------------------------------
+```

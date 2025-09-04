@@ -1,0 +1,176 @@
+---
+**Epic EHR - Patient Chart**
+
+**Patient Name:** Waldo Corkery  
+**MRN:** 00947328  
+**Date of Birth:** 07/15/1992  
+**Sex:** Male  
+**Admit Date:** 04/11/2024  
+**Attending:** Dr. Jennifer M. Hsu  
+**Location:** CVICU, Rm 4B-22  
+**Code Status:** Full code  
+**Allergies:** NKDA  
+**History of Present Illness:**  
+29-year-old male with a history notable for obesity (BMI ~30), recurrent pharyngitis and sinusitis, presenting from home with 3 days of progressive dyspnea, orthopnea, and lower extremity edema. He reported preceding viral URI symptoms (rhinorrhea, sore throat) 1 week prior, treated as outpatient with amoxicillin-clavulanate. Over 24 hours prior to admission, developed chest tightness, diaphoresis, and worsening shortness of breath. Collapsed at home, EMS found hypotensive, tachycardic, and hypoxic; brought to ED. Initial evaluation concerning for acute decompensated heart failure with possible viral myocarditis.
+
+In the ED, patient became increasingly hypotensive and hypoxic, requiring intubation and vasopressor support. Bedside echo showed severe global LV dysfunction (EF 10-15%), moderate RV dysfunction, and moderate MR. He was transferred to CVICU where he developed refractory cardiogenic shock, requiring placement of a temporary left ventricular assist device (Impella CP) for mechanical circulatory support on hospital day 2. He has since stabilized on MCS, with ongoing diuresis and slow improvement in end-organ function.
+
+---
+
+## Hospital Course Summary
+
+### Day 1 (04/11/24):
+- Admitted to ED with acute hypoxic respiratory failure, hypotension, and signs of low cardiac output.
+- Labs notable for elevated troponin (0.34 → 1.2 ng/mL), BNP 3200 pg/mL, lactate 4.2 mmol/L, mild transaminitis.
+- CXR: Pulmonary edema, enlarged cardiac silhouette.
+- TTE: EF 10-15%, non-dilated LV, global hypokinesis, moderate MR, mild pericardial effusion.
+- Intubated for hypoxic respiratory failure, started on norepinephrine and dobutamine.
+
+### Day 2:
+- Worsening shock despite escalating vasopressors/inotropes.
+- Decision made for percutaneous LVAD (Impella CP) for temporary support.
+- Insertion uneventful; rapid improvement in MAP and urine output.
+- Started on furosemide drip, uptitrated to maintain negative fluid balance.
+
+### Day 3-6:
+- Gradual improvement in end-organ perfusion.
+- LFTs and creatinine trending down.
+- Successfully weaned off norepinephrine by day 4.
+- Ongoing diuresis, net negative 5.2L since admission.
+- Serial TTEs showing slow improvement in LV function (EF up to 20% by day 5).
+
+### Day 7:
+- Started on low-dose carvedilol and sacubitril/valsartan.
+- Impella weaned and removed on day 7 after repeat TTE confirmed improved cardiac output and stable hemodynamics.
+- Extubated to nasal cannula, tolerating well.
+
+---
+
+## Problem List
+
+1. **Acute Fulminant Viral Myocarditis with Cardiogenic Shock (resolved)**
+2. **Acute Decompensated Systolic Heart Failure (EF 10-20%)**
+3. **Obesity (BMI 30)**
+4. **Acute Kidney Injury, resolving**
+5. **Acute Hypoxic Respiratory Failure, intubated, now extubated**
+6. **Transaminitis, resolving**
+7. **History of recurrent viral pharyngitis/sinusitis**
+8. **Hyperlipidemia (by labs)**
+9. **Mild anemia of critical illness (by day 5)**
+10. **Electrolyte disturbances (hypokalemia, hypomagnesemia, corrected)**
+
+---
+
+## Assessment & Plan
+
+### 1. **Acute Fulminant Viral Myocarditis with Cardiogenic Shock**
+- Likely viral etiology (recent URI prodrome, negative ischemic workup)
+- Required temporary LVAD (Impella CP) for refractory shock.
+- Now improved, Impella removed post-stabilization.
+- Plan: Monitor for arrhythmias, continue guideline-directed HF therapy, follow-up echo prior to transfer.
+
+### 2. **Acute Decompensated Heart Failure**
+- Severe LV systolic dysfunction, now improved to EF 20%.
+- On diuretics, now euvolemic.
+- Started on low-dose beta-blocker, ARNI, and spironolactone.
+- Plan: Slow uptitration as tolerated, daily weights, strict I/Os.
+
+### 3. **Obesity**
+- BMI 30.7, 95th percentile.
+- Counseling provided; nutrition consult placed.
+- Plan: Monitor weight, encourage PT/OT, dietary modification.
+
+### 4. **Acute Kidney Injury, resolving**
+- Likely pre-renal from low cardiac output, Cr peaked at 2.0 now 1.1.
+- Plan: Monitor UOP, renal function, avoid nephrotoxins.
+
+### 5. **Acute Hypoxic Respiratory Failure**
+- Intubated for 6 days, now extubated.
+- Plan: Incentive spirometry, pulmonary hygiene.
+
+### 6. **Transaminitis**
+- AST/ALT peaked at 320/210, now trending down.
+- Likely ischemic hepatitis from shock.
+- Plan: Monitor LFTs.
+
+### 7. **History of recurrent pharyngitis/sinusitis**
+- No active infection.
+- Plan: Outpatient ENT follow-up.
+
+### 8. **Hyperlipidemia**
+- LDL 148, TG 210 on admission.
+- Plan: Statin started.
+
+### 9. **Anemia of critical illness**
+- Hgb nadir 9.4 on day 5.
+- Plan: Monitor, iron studies pending.
+
+### 10. **Electrolyte disturbances**
+- Hypokalemia (K+ 3.1), hypomagnesemia (Mg 1.5) on day 3, corrected.
+- Plan: Replete as needed.
+
+---
+
+## Medications (Active Orders)
+
+- Furosemide IV drip
+- Sacubitril/valsartan 24/26 mg PO BID
+- Carvedilol 3.125 mg PO BID
+- Spironolactone 25 mg PO daily
+- Atorvastatin 40 mg PO nightly
+- Amoxicillin/clavulanate (completed, day 1-3)
+- Penicillin V potassium (home med, held)
+- KCl 40 mEq PO BID PRN
+- Magnesium sulfate 2g IV PRN
+
+---
+
+## Vitals (Selected)
+
+| Date       | Temp    | HR | BP        | RR | SpO2      | Weight  |
+|------------|---------|----|-----------|----|-----------|---------|
+| 04/11/24   | 37.6°C  | 112| 82/55     | 28 | 92% (RA)  | 80.2 kg |
+| 04/12/24   | 37.4°C  | 109| 85/60     | 24 | 95% (VM)  | 79.1 kg |
+| 04/14/24   | 37.0°C  | 98 | 110/72    | 18 | 98% (NC)  | 77.3 kg |
+
+---
+
+## Labs
+
+**CBC & Chemistries (incomplete entries intentionally left blank)**
+
+| Date      | WBC  | Hgb | Hct | Plt | Na  | K   | Cl  | CO2 | BUN | Cr  | Glu | AST | ALT | Troponin | BNP  |
+|-----------|------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|----------|------|
+| 4/11/24   | 10.2 | 16.9| 41  | 362 | 134 | 3.8 | 99  | 20  | 38  | 1.6 | 110 | 320 | 210 | 1.2      | 3200 |
+| 4/12/24   | 12.1 | 15.2| 39  | 351 | 135 | 3.1 | 97  | 18  | 44  | 2.0 | 124 | 280 | 180 | 0.9      | 3100 |
+| 4/13/24   | 9.9  | 13.8| 36  |     | 137 | 3.6 | 100 | 22  | 30  | 1.3 |     | 200 | 110 | 0.4      | 2400 |
+| 4/14/24   | 8.8  | 12.6| 33  | 280 | 139 | 4.1 | 102 | 24  | 20  | 1.1 | 102 | 120 | 70  | <0.02    | 1800 |
+| 4/15/24   | 7.4  | 9.4 | 28  | 210 | 140 | 4.2 | 104 | 26  | 14  | 1.1 | 98  | 60  | 40  | <0.02    | 900  |
+
+---
+
+## Imaging
+
+- **TTE (4/11/24):** EF 10-15%, global hypokinesis, moderate MR, mild pericardial effusion.
+- **TTE (4/14/24):** EF 20%, improved LV function, MR mild-moderate.
+- **CXR (4/11/24):** Pulmonary edema, cardiomegaly, small effusion.
+
+---
+
+## Discharge Planning
+
+- Anticipated transfer to step-down within 1-2 days.
+- Cardiology and Heart Failure team to follow.
+- PT/OT, nutrition, pharmacy, and social work consults ongoing.
+- Outpatient follow-up with HF clinic, ENT for recurrent pharyngitis/sinusitis, and PCP.
+
+---
+
+**Signed**:  
+Jennifer M. Hsu, MD  
+Attending, Cardiovascular ICU  
+04/15/2024, 17:14
+
+---
+
+**(End of Note)**

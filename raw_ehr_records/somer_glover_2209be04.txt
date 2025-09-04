@@ -1,0 +1,166 @@
+**Inpatient Progress Note — EPIC**
+
+**Patient Name:** Somer Glover  
+**MRN:** 00384921  
+**DOB:** 10/17/2003  
+**Sex:** Female  
+**Date of Service:** 2024-06-17  
+**Admitting Physician:** Dr. Lisa Chen  
+**Attending Physician:** Dr. James Patel  
+**Consultants:** Cardiology, Infectious Disease, Trauma Surgery
+
+---
+
+### CHIEF COMPLAINT
+Shortness of breath, chest pain, and syncope.
+
+### HISTORY OF PRESENT ILLNESS
+20-year-old female with past medical history notable for recurrent viral sinusitis, acute viral pharyngitis, and prior left forearm fracture (s/p ORIF 2021), presented to the ED with 3 days of worsening dyspnea, orthopnea, palpitations, and low-grade fever. She collapsed at home, EMS found her hypotensive and tachycardic, required 2L O2 via NC en route. She denied recent sick contacts, chest trauma, or drug use. Home meds include amoxicillin/clavulanate (for presumed sinusitis, started 3 days PTA), ibuprofen PRN, and Natazia OCP.
+
+On arrival: T 37.7°C, HR 132, BP 78/52, RR 28, O2 sat 94% RA, BMI 23.9. EKG: sinus tachycardia, low voltage QRS. Troponin I 0.32 (ref <0.05). CXR: mild pulmonary edema. Echo: LVEF 18%, global hypokinesis. She rapidly decompensated requiring vasopressors and intubation. Cardiology consulted: suspected acute fulminant viral myocarditis. Emergent placement of percutaneous LVAD (Impella CP) for cardiogenic shock.
+
+---
+
+### HOSPITAL COURSE (Days 1–8)
+
+- **Day 1:** Admitted to MICU. Placed on norepinephrine, started on broad-spectrum antibiotics (vancomycin/cefepime), transferred to cath lab for Impella CP placement. CVP 18, PA pressures 44/19. Initial labs notable for leukopenia, mild transaminitis, elevated BNP (3220 pg/mL), mild lactic acidosis.  
+- **Day 2:** Remained intubated, on Impella support + pressors. Improved lactate. Echo: persistent severe LV dysfunction. Started IVIG and methylprednisolone for suspected viral myocarditis.  
+- **Day 3–4:** Gradual improvement in hemodynamics, weaned off norepinephrine. Extubated. Switched to oral antibiotics after negative cultures.  
+- **Day 5:** Impella weaned, removed after echo showed LVEF improved to 38%. Transferred to stepdown.  
+- **Day 6–8:** Continued improvement, transitioned to oral heart failure regimen (carvedilol, lisinopril). Repeat echo LVEF 52%. Discharged home with close follow-up.
+
+---
+
+### PAST MEDICAL HISTORY
+- Recurrent viral sinusitis (2019–present)
+- Acute viral pharyngitis (2022)
+- Left forearm fracture, s/p ORIF (2021)
+- No hx of DM, CKD, or CAD
+
+### PAST SURGICAL HISTORY
+- ORIF left forearm (2021)
+
+### FAMILY HISTORY
+- Noncontributory
+
+### SOCIAL HISTORY
+- Lives with parents, college student. No tobacco, alcohol, or illicit drug use.
+
+### ALLERGIES
+- NKDA
+
+### HOME MEDICATIONS
+- Amoxicillin/clavulanate 250/125 mg BID (for sinusitis, started 3d PTA)
+- Ibuprofen 200 mg PRN
+- Natazia OCP
+
+---
+
+## PHYSICAL EXAM (Day 3, post-extubation)
+
+| Vitals             | Value         |
+|--------------------|--------------|
+| Temp               | 37.4 °C      |
+| HR                 | 102 bpm      |
+| BP                 | 108/68 mmHg  |
+| RR                 | 16           |
+| O2 sat             | 97% on RA    |
+| Weight             | 55.5 kg      |
+| Height             | 152.1 cm     |
+| BMI                | 23.9         |
+
+**GEN:** Alert, NAD  
+**CV:** Tachycardic, no murmurs/rubs/gallops, JVP 8 cm, no LE edema  
+**RESP:** CTAB, decreased bibasilar breath sounds  
+**ABD:** Soft, NT/ND, no HSM  
+**NEURO:** AOx3, no focal deficit  
+**SKIN:** No rashes, no cyanosis
+
+---
+
+## LABS (Selected)
+
+#### CBC, Chemistries, Cardiac/Liver Markers
+
+| Date     | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | AST (U/L) | ALT (U/L) | Troponin I (ng/mL) | BNP (pg/mL) | Lactate (mmol/L) |
+|----------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-----------|-----------|--------------------|-------------|------------------|
+| Day 1    | 3.8        | 14.2       | 40.1    | 257        | 136         | 4.3        | 104         | 18           | 19          | 0.9        | 65        | 72        | 0.32               | 3220        | 3.6              |
+| Day 2    | 4.1        | 14.0       | 39.8    | 246        | 138         | 4.0        | 102         | 20           | 16          | 0.8        | 54        | 61        | 0.16               | 2610        | 2.1              |
+| Day 3    | 4.9        | 13.7       | 39.2    | 263        | 139         | 4.1        | 103         | 21           | 14          | 0.7        | 37        | 44        | 0.06               | 1100        | 1.2              |
+| Day 4    | 5.2        | 13.9       | 40.5    | 274        | 140         | 4.2        | 104         | 22           | 13          | 0.7        | 32        | 35        | <0.01              | 850         | 0.9              |
+| Day 5    | 4.7        | 14.3       | 41.1    | 258        | 141         | 3.8        | 106         | 23           | 12          | 0.7        | 29        | 33        | <0.01              | 540         | (missing)        |
+| Day 6    | (missing)  | 14.5       | 41.8    | 263        | 142         | 4.0        | 105         | (missing)    | 12          | 0.7        | 32        | 31        | <0.01              | 400         | (missing)        |
+| Day 8    | 5.0        | 14.4       | 41.5    | 267        | 142         | 4.1        | 104         | 23           | 12          | 0.7        | 29        | 30        | <0.01              | 350         | 0.7              |
+
+---
+
+## IMAGING
+
+- **CXR Day 1:** Mild pulmonary edema, no consolidation.
+- **Echo Day 1:** LVEF 18%, global hypokinesis, mild MR, LV dilatation.
+- **Echo Day 5:** LVEF 38%, improved wall motion.
+- **Echo Day 8:** LVEF 52%, normal LV size, no MR.
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. **Cardiogenic Shock due to Fulminant Viral Myocarditis**
+- **Assessment:** Young woman with acute-onset HF, hemodynamic collapse, and severely depressed LV function, likely viral myocarditis.
+- **Plan:**
+  - Temporary percutaneous LVAD (Impella CP) placed, now removed.
+  - IVIG x2 days, methylprednisolone pulse x3 days.
+  - Daily Echos; transition to GDMT (carvedilol, lisinopril).
+  - Monitor for arrhythmia, end-organ dysfunction.
+  - Cardiology follow-up in 1 week.
+
+### 2. **Recurrent Viral Sinusitis/Pharyngitis**
+- **Assessment:** On amoxicillin/clavulanate at home, no clear bacterial infection on admission, negative cultures.
+- **Plan:**
+  - Discontinued abx after negative cultures.
+  - Supportive care (saline rinses, acetaminophen PRN).
+  - ENT f/u as outpatient.
+
+### 3. **Traumatic Forearm Fracture, s/p ORIF (history)**
+- **Assessment:** No current issues, well-healed.
+- **Plan:** No intervention needed.
+
+### 4. **Acute Kidney Injury (resolved)**
+- **Assessment:** Mild AKI (Cr rose from 0.7 to 0.9, normalized on Day 3).
+- **Plan:** Monitor renal function, avoid nephrotoxins.
+
+### 5. **ICU-Related Delirium (transient)**
+- **Assessment:** Mild agitation post-extubation, resolved after 24h.
+- **Plan:** Supportive, no long-term sequelae.
+
+### 6. **Contraception Management**
+- **Assessment:** On Natazia OCP, no DVT/PE, no contraindications.
+- **Plan:** Continue, review at PCP f/u.
+
+---
+
+## DISCHARGE MEDICATIONS
+
+- Carvedilol 3.125 mg BID
+- Lisinopril 2.5 mg daily
+- Acetaminophen 500 mg PRN
+- Natazia OCP as before
+
+---
+
+## FOLLOW-UP
+
+- Cardiology in 1 week (Echo, labs)
+- PCP in 2 weeks
+- ENT PRN for sinus symptoms
+
+---
+
+**Physician:**  
+James Patel, MD  
+Attending, Cardiology  
+Date: 2024-06-17
+
+---
+
+**[End of Note]**

@@ -1,0 +1,182 @@
+**Patient:** Gertude Waelchi  
+**MRN:** 001293847  
+**DOB:** 1989-05-22  
+**Sex:** Female  
+**Admit Date:** 2024-06-02  
+**Attending:** Dr. S. McDonald  
+**Consults:** Cardiology, Cardiothoracic Surgery, OB/GYN, Hematology  
+
+---
+
+## Admission H&P
+
+**CC:**  
+"Shortness of breath, chest pain"
+
+**HPI:**  
+35-year-old female with a PMHx notable for anemia, multiple pregnancies with one first-trimester miscarriage, and recent viral respiratory illness, presenting with 2 days of progressive dyspnea, pleuritic chest pain, and orthopnea. She was initially seen at an outside ED for syncope and transferred after rapidly developing hypotension and hypoxia. On arrival to our ED, she was tachycardic, hypotensive, and hypoxic. CXR: pulmonary edema. TTE: severe global hypokinesis, LVEF <15%. She was admitted to the MICU, started on inotropes, and subsequently required placement of a temporary left-sided Impella heart pump for cardiogenic shock.  
+
+---
+
+## ICU Course Summary
+
+**Day 1:**  
+- Intubated for hypoxic respiratory failure  
+- Started on norepinephrine, dobutamine  
+- Impella CP placed for refractory cardiogenic shock  
+- Broad-spectrum abx for possible pneumonia  
+- Serial troponins trended  
+- Volume resuscitated, diuresis initiated after stabilization  
+- Noted to have worsening anemia, transfused 2U PRBCs
+
+**Day 2:**  
+- Remained hemodynamically unstable, Impella flows adequate  
+- Lactate improving  
+- Sedation weaned, neuro exam grossly intact  
+- Rising creatinine, likely ATN from shock—nephrology consulted  
+- Cardiac MRI: diffuse hypokinesis, no delayed enhancement  
+- OB consult: negative hCG, no evidence of pregnancy  
+- Ferritin, B12, folate sent for anemia workup
+
+**Day 3:**  
+- Improved MAP, weaned off norepinephrine  
+- Extubated to HFNC  
+- Developed fever, blood cultures drawn  
+- Echo: mild improvement in LVEF (now ~20%)  
+- Transaminitis noted, likely ischemic hepatitis  
+- Platelets trending down, no evidence of DIC  
+- Impella functioning well, no hemolysis
+
+**Day 4:**  
+- Weaned off dobutamine  
+- Ambulating with PT  
+- Anemia stable  
+- Impella removed, no vascular complications  
+- Repeat echo: LVEF 25%  
+- Discharged from ICU to telemetry
+
+---
+
+## Problem List & Assessment/Plan
+
+### 1. Cardiogenic Shock s/p Temporary LV Assist Device (Impella)  
+- Etiology: Presumed viral myocarditis (recent viral symptoms, no CAD on cath, global hypokinesis)  
+- Now hemodynamically stable, off inotropes, Impella removed  
+- Continue GDMT for HF (start low-dose beta blocker, ACEi as tolerated)  
+- Serial echos, telemetry monitoring  
+- Cardiology f/u outpatient
+
+### 2. Acute Hypoxic Respiratory Failure s/p Intubation  
+- Likely multifactorial: pulmonary edema, possible pneumonia  
+- Extubated, oxygenating well on room air  
+- Chest PT, incentive spirometry
+
+### 3. Anemia (Hx of chronic anemia, worsened with acute illness)  
+- Transfused 2U PRBCs, now stable  
+- Ferritin, B12, folate pending  
+- No evidence of GI bleed  
+- Continue iron supplementation
+
+### 4. Acute Kidney Injury (Stage 2, likely ATN)  
+- Volume status optimized  
+- Creatinine improving, urine output adequate  
+- Avoid nephrotoxins, nephrology to follow
+
+### 5. Transaminitis/Ischemic Hepatitis  
+- AST/ALT peaked, now trending down  
+- Supportive care, monitor LFTs
+
+### 6. Infection (Possible HAP vs. viral pneumonia)  
+- Blood/sputum cultures negative to date  
+- Procalcitonin low  
+- Completed 5 days ceftriaxone/azithro, discontinue abx
+
+### 7. History of Pregnancy Loss/OB Issues  
+- Not currently pregnant, OB aware  
+- Monitor for menorrhagia given anemia
+
+### 8. Pain Control  
+- Acetaminophen PRN, no opioids required  
+- No pain currently
+
+---
+
+## Medications
+
+- Metoprolol succinate 12.5 mg daily (new)
+- Lisinopril 2.5 mg daily (new)
+- Furosemide 20 mg IV BID (transition to PO)
+- Iron sulfate 325 mg PO daily
+- Acetaminophen 325 mg PO PRN
+- Levora 0.15/30 28 Day Pack (held)
+- Seasonique 91 Day Pack (held)
+
+---
+
+## Vitals (Selected)
+
+| Date       | Temp (°C) | HR  | BP (mmHg) | RR  | SpO2 (%) | Weight (kg) |
+|------------|-----------|-----|-----------|-----|----------|-------------|
+| 6/2/2024   | 37.9      | 128 | 82/55     | 24  | 89       | 63.2        |
+| 6/3/2024   | 37.3      | 110 | 95/68     | 18  | 97       | 61.8        |
+| 6/4/2024   | 36.8      | 102 | 108/72    | 16  | 99       | 61.5        |
+| 6/5/2024   | 36.7      | 90  | 118/76    | 14  | 98       | 61.0        |
+
+---
+
+## Labs
+
+### CBC & Chemistry
+
+| Date       | WBC   | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|-------|------|------|-------|------|------|------|------|------|------|------|
+| 6/2/24 AM  | 13.2  | 6.9  | 21.5 | 247   | 139  | 4.8  | 102  | 19   | 34   | 2.3  | 112  |
+| 6/2/24 PM  | 12.5  | 7.2  | 22.0 | 233   | 138  | 4.3  | 101  | 20   | 32   | 2.0  | 108  |
+| 6/3/24     | 10.7  | 8.6  | 25.5 | 214   | 137  | 4.0  | 99   | 24   | 28   | 1.6  | 102  |
+| 6/4/24     | 9.2   | 9.3  | 28.0 | 190   | 140  | 3.9  | 102  | 22   | 22   | 1.2  | 98   |
+| 6/5/24     | 8.1   | 9.9  | 29.8 | 178   | 138  | 4.1  | 100  | 23   | 18   | 1.0  | 94   |
+| 6/6/24     | 7.8   | 10.1 |      | 172   |      | 4.2  |      | 24   | 15   | 0.9  |      |
+
+### Cardiac & Other Labs
+
+| Date       | Troponin I | BNP   | AST  | ALT  | Alk Phos | Total Bili | INR  | Ferritin | B12   | Folate |
+|------------|------------|-------|------|------|----------|------------|------|----------|-------|--------|
+| 6/2/24     | 0.78       | 2450  | 1120 | 987  | 153      | 0.8        | 1.1  | 33       | 214   | 7.3    |
+| 6/3/24     | 0.55       | 1920  | 650  | 482  | 145      | 0.7        | 1.0  |          |       |        |
+| 6/4/24     | 0.32       | 1550  | 210  | 134  | 117      | 0.6        | 0.9  |          |       |        |
+| 6/5/24     | 0.12       | 980   | 78   | 52   | 110      | 0.5        | 1.0  |          |       |        |
+
+---
+
+## Imaging
+
+- **CXR (6/2):** Bilateral pulmonary edema, no effusion.
+- **Echo (6/2):** LVEF <15%, severe global hypokinesis, no valvular vegetations.
+- **Echo (6/4):** LVEF improved to ~20%, Impella in place.
+- **Echo (6/5):** LVEF ~25%, no LV thrombus.
+- **Cardiac MRI (6/3):** Global hypokinesis, no late gadolinium enhancement.
+
+---
+
+## Procedures/Interventions
+
+- **6/2:** Impella CP placement via right femoral artery under fluoroscopy
+- **6/2:** Intubation, mechanical ventilation
+- **6/4:** Impella removal at bedside
+- **6/4:** Extubation
+
+---
+
+## Discharge Summary (Anticipated)
+
+- Improved from cardiogenic shock, off mechanical and device support
+- Stable on PO heart failure regimen
+- Close outpatient follow-up with cardiology, primary care, and hematology
+- Home with family support
+
+---
+
+**Signed:** Dr. S. McDonald, MD  
+**Date:** 2024-06-06
+
+---

@@ -1,0 +1,186 @@
+```
+-------------------------------------------------------------------------------
+EpicCare Inpatient EHR
+
+Patient: Hirthe, Rochell (MRN: 00013241)
+DOB: 02/21/1916   Sex: F   Encounter: 06/01/2024 – 06/11/2024
+Attending: Dr. S. Houghton, MD
+Location: MICU, 6th Floor, Room 615-B
+-------------------------------------------------------------------------------
+
+ADMISSION SUMMARY
+
+Chief Complaint: 
+Progressive dyspnea, orthopnea, and altered mental status
+
+History of Present Illness:
+Rochell Hirthe, a 108-year-old female with a complex medical history including atrial fibrillation (on warfarin), obesity, gout, Alzheimer’s dementia, hyperlipidemia, prior fracture of the forearm, and recent pneumonia, presented from her SNF with 2 days of progressive shortness of breath, cough, confusion, and reduced oral intake. She was noted to be hypoxic (O2 sat 84% RA) and tachycardic (HR 132, irregularly irregular). She was transferred to the ED, where she rapidly decompensated with hypotension (SBP 74 mmHg), rising lactate, and evidence of end-organ hypoperfusion. Initial workup suggested acute decompensated heart failure with likely underlying ischemic insult. She was intubated for airway protection and transferred to the MICU. Due to persistent cardiogenic shock despite inotropes and vasopressors, she underwent placement of a percutaneous temporary left ventricular assist device (Impella CP) on HD#2.
+
+Past Medical History:
+- Atrial fibrillation (on chronic anticoagulation)
+- Alzheimer’s disease
+- Gout (on allopurinol, colchicine)
+- Obesity (BMI ~30)
+- Hyperlipidemia
+- Recent pneumonia, acute bronchitis
+- Hx of miscarriage, right forearm fracture, rotator cuff injury
+- Viral sinusitis
+
+Past Surgical History:
+- None documented
+
+Medications on Admission:
+- Acetaminophen/Oxycodone 325/5 mg PO PRN
+- Warfarin 5 mg PO QD
+- Verapamil 40 mg PO BID
+- Digoxin 0.125 mg PO QD
+- Simvastatin 10 mg PO QHS (multiple PRN entries)
+- Ibuprofen 200 mg PO PRN
+- Colchicine 0.6 mg PO BID
+- Allopurinol 100 mg PO QD
+- Dextromethorphan/Acetaminophen/Doxylamine solution PRN
+
+Allergies: 
+- NKDA
+
+Social History:
+- SNF resident, widowed, former schoolteacher, non-smoker, rare ETOH
+
+Family History:
+- Noncontributory (limited by dementia)
+
+Review of Systems:
+- Unable to obtain secondary to dementia, intubated, and altered mental status.
+
+Physical Exam (on admission):
+- General: Elderly, frail, intubated, sedated
+- HEENT: Mucous membranes dry, no JVD
+- CV: Irregularly irregular tachycardia, S3 present, cool extremities, weak pulses
+- Resp: Coarse crackles at bases, decreased breath sounds LLL
+- Abd: Soft, nontender, hypoactive BS
+- Neuro: Non-responsive, GCS 7T (intubated)
+- Skin: No rashes, pressure ulcer L sacrum
+
+-------------------------------------------------------------------------------
+LABS
+
+| Date       | WBC    | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Ca   | AST  | ALT  | AlkPhos | T. Bili | Troponin | BNP    |
+|------------|--------|-------|-------|-------|------|------|------|------|------|------|------|------|------|------|---------|---------|----------|--------|
+| 6/1/2024   | 9.6    | 13.8  | 39.4  | 340   | 140  | 5.0  | 101  | 25   | 15   | 3.5  | 77   | 9.6  | 24   | 37   | 120     | 0.3     | 0.09     | 3200   |
+| 6/2/2024   | 13.1   | 12.1  | 35.2  | 312   | 136  | 4.7  | 99   | 22   | 28   | 4.7  | 89   |      | 34   | 48   | 132     | 0.5     | 0.23     | 6700   |
+| 6/3/2024   | 14.2   | 11.3  | 33.4  | 295   | 134  | 4.5  | 98   | 20   | 37   | 5.1  | 112  | 8.9  |      | 43   | 141     |         | 0.18     |        |
+| 6/4/2024   | 12.5   | 10.9  | 32.1  | 278   | 136  | 4.2  | 98   | 23   | 26   | 3.9  | 99   | 9.1  | 28   |      | 109     | 0.4     | <0.01    | 4200   |
+| 6/6/2024   | 10.7   | 11.7  | 33.1  | 288   | 138  | 4.1  |      | 21   | 23   | 2.8  |      | 9.3  | 20   | 35   |         | 0.2     | 0.03     | 2300   |
+| 6/8/2024   | 8.9    | 12.5  | 35.7  | 301   | 139  | 4.3  | 100  |      | 18   | 2.4  | 83   | 9.8  | 22   | 33   | 111     | 0.3     | <0.01    | 1200   |
+| 6/11/2024  | 7.4    | 13.2  | 37.9  | 336   | 140  | 4.2  | 101  | 24   | 16   | 1.9  | 92   | 9.7  | 18   | 29   | 107     | 0.2     | <0.01    | 870    |
+
+Notes: INR: 2.4 (6/1), 3.1 (6/2), 2.0 (6/4), 1.7 (6/8)
+       Lactate: 3.8 (6/1), normalized by 6/4
+       ABG: pH 7.29 / pCO2 41 / pO2 62 (FiO2 100%) [6/1]
+
+-------------------------------------------------------------------------------
+HOSPITAL COURSE
+
+HD#1 (6/1): 
+- Admitted for acute hypoxemic respiratory failure and shock, likely secondary to decompensated heart failure (new crackles, CXR: bilateral opacities, mildly enlarged cardiac silhouette).
+- Intubated for airway protection, started on norepinephrine and dobutamine.
+- Initial TTE: EF 20%, severe global hypokinesis, moderate MR, LAE, RV function mildly reduced.
+- Cardiogenic shock with rising lactate, AKI (Cr 3.5), and altered mental status.
+- Started empiric antibiotics for possible aspiration pneumonia.
+
+HD#2:
+- Remained hypotensive, oliguric despite escalating pressors.
+- Cardiology consulted: temporary percutaneous LVAD (Impella CP) placed via R femoral artery.
+- Hemodynamics improved post-placement; pressors weaned over 24h.
+- Warfarin held, started bivalirudin drip for anticoagulation per LVAD protocol.
+
+HD#3-4:
+- Volume status optimized, diuresed off 2.5L net negative.
+- Mental status improved, sedation lightened, following simple commands.
+- Pressors off, LVAD flows adequate.
+- Weaned FiO2, ABGs improved.
+- AKI slowly improving (Cr trending down).
+
+HD#5-7:
+- Developed fever, WBC up; cultures drawn, started on vancomycin/cefepime.
+- Suspected line infection (femoral site); line removed, cultures positive for coagulase-negative staph.
+- LVAD continued, hemodynamics stable.
+- INR monitored, transitioned back to warfarin as renal function improved.
+
+HD#8-10:
+- LVAD weaned and explanted on HD#9 after TTE showed EF improved to 36%, stable hemodynamics.
+- Extubated to HFNC; tolerated well.
+- Antibiotics narrowed and completed.
+- Physical therapy initiated, slow progress given baseline dementia.
+
+HD#11:
+- Stable, off pressors and O2, transitioned to comfort measures per family wishes.
+- Discharged to SNF for ongoing care.
+
+-------------------------------------------------------------------------------
+ASSESSMENT & PLAN
+
+1. **Cardiogenic Shock / Acute Decompensated Heart Failure**
+   - Likely precipitated by tachyarrhythmia (AF), underlying ischemic cardiomyopathy, infection.
+   - Required temporary LVAD (Impella) for refractory shock; successful wean.
+   - Continue guideline-directed medical therapy; titrate diuretics, monitor volume status.
+   - Follow-up TTE as outpatient.
+
+2. **Atrial Fibrillation**
+   - On warfarin, switched to bivalirudin peri-LVAD, now back on warfarin with INR goal 2-3.
+   - Continue rate control (verapamil, digoxin) as tolerated.
+   - Monitor for bradycardia, renal dose adjustments.
+
+3. **Infection / Pneumonia**
+   - Treated empirically; cultures positive for line-related coagulase-negative staph.
+   - Narrowed antibiotics per sensitivities, completed 7-day course.
+   - Monitor for recurrence.
+
+4. **Acute Kidney Injury**
+   - Likely multifactorial: low perfusion, nephrotoxic meds, sepsis.
+   - Improved with hemodynamic stabilization.
+   - Avoid further nephrotoxins; monitor labs closely.
+
+5. **Alzheimer’s Dementia**
+   - Baseline severe cognitive impairment (MMSE ~4).
+   - Advanced directives reviewed; family opted for comfort focus after ICU course.
+
+6. **Gout**
+   - Chronic allopurinol/colchicine, no acute flare during admission.
+   - Continue home regimen.
+
+7. **Obesity, Hyperlipidemia**
+   - Continue simvastatin.
+   - Encourage weight maintenance and mobility as feasible.
+
+8. **Other**
+   - Pressure ulcer, sacrum: wound care consult, barrier protection.
+   - Nutrition: NG feeds during intubation, now PO as tolerated.
+   - Physical therapy, DVT prophylaxis (SCDs, warfarin).
+
+-------------------------------------------------------------------------------
+DISCHARGE MEDICATIONS
+
+- Warfarin 5 mg PO QD (INR monitoring)
+- Verapamil 40 mg PO BID
+- Digoxin 0.125 mg PO QD
+- Simvastatin 10 mg PO QHS
+- Allopurinol 100 mg PO QD
+- Colchicine 0.6 mg PO BID
+- PRN pain and sleep medications
+
+-------------------------------------------------------------------------------
+DISPOSITION
+
+- Discharged to skilled nursing facility (SNF)
+- Prognosis: Poor, advanced dementia, severe cardiomyopathy
+- Goals of care: Comfort-focused
+
+-------------------------------------------------------------------------------
+PHYSICIAN SIGNATURE
+
+S. Houghton, MD
+Attending, Critical Care/Cardiology
+
+-------------------------------------------------------------------------------
+```

@@ -1,0 +1,179 @@
+**Patient Name:** Víctor Valdivia  
+**MRN:** 00821744  
+**DOB:** 01/22/1972 (Age 52)  
+**Sex:** Male  
+**Admission Date:** 03/29/2024  
+**Attending:** Dr. S. Martinez  
+**Location:** MICU, Room 4108-B  
+**Allergies:** NKDA  
+**Code Status:** Full Code  
+**Height:** 171.7 cm  
+**Weight:** 81 kg (BMI: 27.4)  
+
+---
+
+# HISTORY OF PRESENT ILLNESS
+
+Mr. Víctor Valdivia is a 52-year-old male with a history of chronic pain, chronic intractable migraine, obesity, impacted molars, and recent drug overdose (see PMHx), who presented to the ED with acute onset of chest pain, dyspnea, and confusion. He was found to be hypotensive (SBP 77 mmHg), tachycardic, and hypoxic on arrival. Initial troponin was elevated at 4.2 ng/mL. ECG showed diffuse ST depressions. Echo revealed severely reduced LVEF (EF 18%) with global hypokinesis. Patient rapidly developed cardiogenic shock requiring initiation of vasopressors and was transferred to the MICU.
+
+Given persistent hemodynamic instability despite high-dose norepinephrine and dobutamine, cardiology was consulted and the decision was made to place a percutaneous left ventricular assist device (Impella CP) at bedside. The patient stabilized hemodynamically post-Impella insertion and was weaned off vasopressors over the next 36 hours.
+
+He has since been managed in the ICU, with gradual improvement in end-organ function. Hospital course notable for acute kidney injury (resolved), mild transaminitis, and ongoing management of chronic pain and migraines.
+
+---
+
+# PAST MEDICAL HISTORY
+
+- Chronic pain syndrome  
+- Chronic intractable migraine without aura  
+- Obesity (BMI 30+ previously)  
+- Drug overdose (unintentional, 2022, opioids/benzos, resolved)  
+- Impacted molars (not yet extracted)  
+- Sprain of ankle (remote)  
+- Acute viral pharyngitis (remote, resolved)  
+
+# PAST SURGICAL HISTORY
+
+- None
+
+# SOCIAL HISTORY
+
+- Former smoker (quit 2017, 20 pack-years)  
+- No EtOH, denies illicit drug use since 2022 OD  
+- Lives with wife, works as accountant
+
+# MEDICATIONS ON ADMISSION
+
+- Ibuprofen 200 mg PO PRN  
+- PRN sumatriptan (not taken during admission)  
+- Docusate 100 mg PO BID (started in hospital)  
+- Furosemide 40 mg IV PRN (started in hospital)
+
+# FAMILY HISTORY
+
+- Father: MI at 58  
+- Mother: HTN, migraines  
+
+---
+
+# PHYSICAL EXAM (ICU DAY 3)
+
+- **Gen:** Well-nourished, obese male, appears fatigued  
+- **VS:** T 37.3°C, HR 88, BP 102/68 (MAP 79), RR 18, SpO2 97% RA  
+- **HEENT:** Poor dentition, impacted molars LL  
+- **CV:** S1, S2, soft S3, Impella hum audible, no murmur/rub/gallop  
+- **Lungs:** Clear, no rales/wheezes  
+- **Abd:** Soft, NT, no HSM  
+- **Ext:** Trace pedal edema, no DVT  
+- **Neuro:** A&O x3, mild photophobia
+
+---
+
+# LABORATORY DATA
+
+## CBC & CHEM7—Selected Labs (see full record for additional values)
+
+| Date       | WBC   | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|-------|-------|-------|-------|------|------|------|------|------|------|------|
+| 3/29/24 AM | 6.9   | 12.7  | 38.8  | 183   | 137  | 4.7  | 100  | 23   | 28   | 1.4  | 108  |
+| 3/30/24 AM | 7.1   | 12.4  | 37.6  | 168   | 135  | 4.1  | 98   | 22   | 32   | 1.8  | 115  |
+| 3/31/24 AM | 6.8   | 12.8  | 39.1  |       | 136  | 4.2  |      | 23   | 24   | 1.2  |      |
+| 4/1/24 AM  | 6.1   | 13.1  | 39.9  | 170   | 137  | 4.0  | 101  | 25   | 21   | 1.0  | 116  |
+| 4/2/24 AM  | 6.4   | 13.2  |       | 176   | 138  | 4.3  | 102  |      | 19   |      | 109  |
+
+**Other Labs:**  
+- Troponin I: 4.2 → 2.7 → 1.3 ng/mL (downtrending)  
+- BNP: 1780 pg/mL (peak), now 990  
+- AST: 112 → 78 → 40 U/L  
+- ALT: 98 → 62 → 33 U/L  
+- Alk Phos: 85 U/L  
+- Total Bilirubin: 1.6 → 1.1 mg/dL  
+- INR: 1.2  
+- Albumin: 3.5 g/dL  
+- Lactate: 4.1 → 2.2 → 1.3 mmol/L  
+- CXR: Mild pulmonary edema, improving  
+- Echo (post-Impella): EF 22%, mild MR, Impella position satisfactory
+
+---
+
+# PROBLEM-BASED ASSESSMENT & PLAN
+
+## 1. Cardiogenic Shock, Acute Decompensated Heart Failure (NEW)
+- Likely ischemic, possible demand ischemia on background of undiagnosed cardiomyopathy
+- Impella CP placed ICU day 1, improved end-organ perfusion, off vasopressors now
+- Plan:
+  - Continue Impella support, daily echo for position/function
+  - Consider weaning trial if stable next 24-48h
+  - Monitor for hemolysis, limb ischemia, infection
+  - Cardiology/CT Surgery following
+
+## 2. Acute Kidney Injury (resolved)
+- Likely multifactorial: hypoperfusion, nephrotoxins (contrast from cath)
+- Creatinine peaked 1.8, now improving
+- Plan:
+  - Continue IVF as tolerated, monitor UOP and lytes
+  - Avoid nephrotoxins
+  - Trend renal function
+
+## 3. Transaminitis, mild (improving)
+- Likely ischemic hepatitis from low-flow state
+- Plan:
+  - Monitor LFTs q48h
+  - No specific therapy needed
+
+## 4. Chronic Pain Syndrome
+- Continue home ibuprofen PRN, avoid narcotics if possible
+- PT/OT to evaluate once stable
+
+## 5. Chronic Intractable Migraine
+- No acute attacks during admission
+- Continue home regimen, avoid triggers
+
+## 6. Obesity (BMI 27, previously >30)
+- Counsel on nutrition, weight loss post-ICU
+
+## 7. Impacted Molars
+- Not acute, will defer dental until cardiac stabilization
+
+## 8. DVT Prophylaxis
+- On heparin SQ
+
+## 9. Infectious Prophylaxis
+- Daily CXR, monitor for VAP
+- Blood cultures on admission negative
+
+## 10. Social, Discharge Planning
+- Case management to assess home support
+- Anticipate prolonged rehab
+
+---
+
+# ICU NURSING FLOWSHEET SUMMARY (abbreviated)
+
+| Time  | HR | BP       | MAP | CVP | SpO2 | Temp  | UOP (ml/hr) |
+|-------|----|----------|-----|-----|------|-------|-------------|
+| 8:00  | 92 | 96/62    | 73  | 12  | 98   | 37.2  | 48          |
+| 12:00 | 87 | 102/68   | 79  | 11  | 97   | 37.1  | 54          |
+| 16:00 | 84 | 101/65   | 77  | 11  | 97   | 37.4  | 60          |
+| 20:00 | 82 | 104/70   | 81  | 10  | 98   | 37.0  | 52          |
+
+---
+
+# HOSPITAL COURSE (Summary)
+
+- ICU admission for acute decompensated heart failure/cardiogenic shock
+- Required temporary LVAD (Impella CP) for hemodynamic support
+- Gradual improvement in cardiac and renal function
+- No significant arrhythmias or infectious complications
+- Multidisciplinary care: Cardiology, CT Surgery, PT/OT, Case Management
+
+---
+
+# SIGNED BY:  
+Dr. S. Martinez, MD  
+Attending, MICU  
+04/02/2024 16:41
+
+---
+
+**END OF NOTE**

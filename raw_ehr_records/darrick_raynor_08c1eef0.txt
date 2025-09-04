@@ -1,0 +1,161 @@
+```
+----------------------------------------------------------------------
+EpicCare Inpatient - Progress Note
+----------------------------------------------------------------------
+
+Patient Name: Darrick Raynor             MRN: 11293482
+DOB: 1997-03-14 (27 yo)                  Sex: Male
+Date of Service: 2024-05-28
+Attending: Dr. Emily Brantley, MD        Unit: Cardiovascular ICU
+
+----------------------------------------------------------------------
+
+Reason for Admission:
+27-year-old male with obesity, presenting with acute decompensated heart failure, cardiogenic shock, and rapid clinical deterioration requiring placement of a temporary left ventricular assist device (Impella CP) for circulatory support.
+
+----------------------------------------------------------------------
+
+HOSPITAL COURSE SUMMARY:
+
+Day 1:  
+- Presented to ED with 2 days of worsening orthopnea, PND, and LE swelling. Progressive dyspnea, mild cough, and chest tightness without fever.
+- Vitals: BP 83/52, HR 119, RR 24, O2 sat 90% RA, T 36.7°C.
+- Exam: JVD 12 cm, S3 gallop, bibasilar crackles, moderate pitting edema to knees.
+- Labs: BNP 2124, troponin 0.36 (mildly elevated), lactate 4.2, Cr 1.9 (baseline 0.9), AST 92, ALT 81, WBC 6.1, Hgb 13.1.
+- Echo: LVEF 13%, global hypokinesis, LV dilatation, mild MR, RV mild dysfunction.
+- Rapid decline in MAP, started on norepinephrine, dobutamine, IV lasix.
+- Transferred to CICU, intubated for hypoxia.
+- Cardiology and CT Surgery consulted for advanced HF therapies.
+
+Day 2:  
+- Persistent cardiogenic shock, escalating vasopressor/inotrope requirements.
+- Decision made for temporary circulatory support: Impella CP placed at bedside, femoral access, no complications.
+- Hemodynamics improved, weaned norepi/dobutamine.
+- Ongoing diuresis, net negative 2.2L.
+- Labs: improved lactate (2.0), Cr stable at 1.8.
+
+Day 3-5:  
+- Impella support ongoing, MAP 70s, improved urine output, minimal vasopressor support.
+- Weaned sedation, extubated.
+- Mild delirium, improved with reorientation.
+- Developed right femoral hematoma at Impella site, non-expanding, monitored.
+- Serial TTE: LVEF 18%, Impella flows adequate.
+- Cardiac MRI: no infiltrative disease, no thrombus.
+- ID consulted for low-grade fever (Tmax 37.9), blood cx negative.
+- Anticoagulation continued (heparin drip, aPTT goal 60-80).
+
+Day 6:  
+- Gradual improvement, Impella weaned, removed at bedside. Post-removal echo: LVEF 19%.
+- Mobilized to chair, continued aggressive diuresis.
+- Plan for GDMT optimization.
+
+Day 7-11:  
+- Transitioned to oral meds: carvedilol, sacubitril/valsartan, spironolactone.
+- Physical therapy, nutrition consult for obesity.
+- No recurrence of shock, stable on room air.
+- Hematoma resolving, Hgb stable.
+- Discharge planning started.
+
+----------------------------------------------------------------------
+
+LABORATORY DATA (selected values):
+
+| Date      | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | HCO3 | BUN  | Cr   | Glu  | AST  | ALT  | BNP    | Trop   | Lactate |
+|-----------|------|------|------|------|------|------|------|------|------|------|------|------|------|--------|--------|---------|
+| 5/21/24   | 6.1  | 13.1 | 40.2 | 301  | 134  | 4.6  | 102  | 19   | 41   | 1.9  | 154  | 92   | 81   | 2124   | 0.36   | 4.2     |
+| 5/22/24   | 7.2  | 12.9 | 39.4 | 289  | 137  | 5.1  | 104  | 17   | 38   | 1.8  | 148  | 88   | 74   | 1800   | 0.21   | 2.0     |
+| 5/23/24   | 5.9  | 12.6 | 38.1 | 273  | 136  | 4.8  | 103  | 20   | 36   | 1.7  | 143  | 66   | 62   | 1350   | <0.02  | --      |
+| 5/24/24   | --   | 12.8 | --   | 264  | 135  | 4.4  | 102  | 21   | 34   | 1.5  | 139  | 54   | 51   | 1120   | <0.02  | 1.1     |
+| 5/25/24   | 5.7  | --   | 37.2 | 258  | 137  | 4.6  | 105  | 22   | 32   | 1.2  | 132  | 46   | 47   | 940    | <0.02  | 0.9     |
+| 5/27/24   | 6.2  | 12.2 | 36.9 | --   | 139  | 4.2  | 107  | 23   | 30   | 1.0  | 129  | 40   | 39   | 750    | <0.02  | --      |
+
+*Missing values indicate labs not drawn or sample hemolyzed.
+
+----------------------------------------------------------------------
+
+PROBLEM-BASED ASSESSMENT & PLAN
+
+1. **Acute Decompensated Heart Failure/Cardiogenic Shock**
+   - HFrEF (EF 13-19%), likely non-ischemic, new diagnosis.
+   - Required temporary mechanical support (Impella CP) for circulatory collapse.
+   - Now off support, stable hemodynamics, on GDMT.
+   - Plan: Continue uptitrating GDMT as tolerated, close outpatient HF follow-up, consider advanced therapies if repeat decompensation.
+
+2. **Volume Overload/Diuresis**
+   - Initial significant pulmonary and peripheral edema.
+   - Aggressive IV diuresis, net negative >12L during hospitalization.
+   - Plan: Monitor electrolytes, continue oral diuretics, daily weights.
+
+3. **Obesity (BMI 31.9)**
+   - Risk factor for HF, OSA, metabolic syndrome.
+   - Nutrition consult, calorie-restricted diet, PT/OT initiated.
+   - Plan: Outpatient obesity management program, sleep study referral.
+
+4. **AKI on CKD?**
+   - Initial creatinine rise likely cardiorenal, improved with perfusion/diuresis.
+   - Plan: Monitor renal function, avoid nephrotoxins.
+
+5. **Femoral Hematoma (Impella access)**
+   - Non-expanding, resolving.
+   - Plan: Monitor Hgb, site checks, hold anticoagulation if expansion.
+
+6. **Delirium (ICU)**
+   - Resolved post-extubation, non-pharmacologic measures.
+   - Plan: Reassess cognition daily.
+
+7. **Mild Transaminitis**
+   - Likely ischemic hepatitis from shock liver, now resolving.
+   - Plan: Trend LFTs, supportive care.
+
+8. **Infection risk**
+   - No evidence of infection, blood/urine cx neg.
+   - Plan: Remove lines/catheters as able, monitor for fever/leukocytosis.
+
+9. **Disposition/Social**
+   - Lives with partner, employed, no insurance.
+   - Plan: Social work involved, Medicaid application, arrange home health for discharge.
+
+----------------------------------------------------------------------
+
+DISCHARGE MEDICATIONS (pending):
+- Carvedilol 3.125mg BID
+- Sacubitril/valsartan 24/26mg BID
+- Spironolactone 25mg daily
+- Furosemide 40mg daily
+- Aspirin 81mg daily
+- Atorvastatin 20mg nightly (for CV risk)
+- Multivitamin
+
+----------------------------------------------------------------------
+
+PHYSICAL EXAM ON 5/27/24:
+Gen: Alert, NAD.  
+CV: JVP 8cm, S3, no murmur, regular, no rub.  
+Lungs: Clear to bases, no rales.  
+Ext: Trace edema only, no hematoma expansion.  
+Neuro: Oriented x3, no focal deficits.
+
+----------------------------------------------------------------------
+
+RADIOLOGY (selected):
+- CXR (5/21): Cardiomegaly, pulmonary edema, small effusions.
+- TTE (5/21, 5/25): Severe global LV dysfunction, LVEF 13-19%, mild RV dysfunction, mild MR.
+- Cardiac MRI (5/24): No infiltrative process, no thrombus.
+
+----------------------------------------------------------------------
+
+ALLERGIES: NKDA
+
+----------------------------------------------------------------------
+
+CODE STATUS: Full
+
+----------------------------------------------------------------------
+
+Attending: Dr. Emily Brantley, MD
+
+----------------------------------------------------------------------
+
+```
+(Pages 1-4; additional pages would include further interdisciplinary notes, consults, and nursing flowsheets.)
+

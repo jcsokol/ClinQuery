@@ -1,0 +1,242 @@
+---
+**Patient Name:** Nelia Rolfson  
+**MRN:** 00213874  
+**DOB:** 09/12/1952 (Age 71)  
+**Sex:** Female  
+**Date of Admission:** 2024-04-29  
+**Date of Note:** 2024-05-05  
+**Attending:** Dr. J. Simmonds  
+**Admitting Diagnosis:** Cardiogenic Shock s/p STEMI, DM2, HTN, Metabolic Syndrome, Breast Ca hx, Anemia, s/p appendectomy
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+Ms. Rolfson is a 71-year-old woman with a complex medical history (see PMHx below) who presented with acute chest pain and dyspnea. She was found to have an anterior STEMI with profound hypotension and evidence of end-organ hypoperfusion. She was admitted to the CCU, where she subsequently developed cardiogenic shock refractory to pressors and inotropes. The decision was made to proceed with percutaneous placement of a temporary left ventricular assist device (Impella CP) for hemodynamic support. Her course was complicated by acute kidney injury (now resolving), anemia requiring transfusion, and persistent hyperglycemia. She was successfully weaned off the device on hospital day 5 and is currently being managed on the cardiac stepdown unit.
+
+---
+
+### PAST MEDICAL HISTORY
+
+- **Cardiovascular:** Hypertension, Hypertriglyceridemia, Metabolic syndrome X  
+- **Endocrine:** Type 2 Diabetes Mellitus (DM2), History of hyperglycemia, Prediabetes  
+- **Hematologic:** Anemia (chronic), hx of iron-deficiency, transfused during this admission  
+- **Oncologic:** Malignant neoplasm of breast (hx), s/p chemotherapy (epirubicin x8), currently on palbociclib, exemestane  
+- **GI:** Rupture of appendix (remote), s/p appendectomy  
+- **ENT:** Chronic sinusitis, hx of acute viral pharyngitis and bronchitis  
+- **Ortho:** OA knee, s/p closed hip fracture  
+- **Other:** Chronic migraine, diabetic retinopathy (nonproliferative), miscarriage  
+- **Recent Trauma:** Laceration of forearm
+
+---
+
+### SURGICAL HISTORY
+
+- Appendectomy (remote, s/p ruptured appendix)
+- Right breast lumpectomy (2018)
+- Open reduction and internal fixation, right hip (2021)
+
+---
+
+### MEDICATIONS ON ADMISSION
+
+- Metformin XR 500 mg qHS
+- Amlodipine/HCTZ/Olmesartan 5/12.5/20 mg qAM
+- Ferrous sulfate 325 mg qAM
+- Exemestane 25 mg qDay
+- Palbociclib 100 mg qDay
+- Hydrocortisone 10 mg/mL topical PRN
+- Naproxen 220 mg PRN
+- Acetaminophen/Hydrocodone 325/7.5 mg PRN
+- Ibuprofen 200 mg PRN
+- Chlorpheniramine 4 mg PRN
+- Epirubicin infusions (completed; not on during this admission)
+
+---
+
+### ALLERGIES
+
+- NKDA
+
+---
+
+### SOCIAL HISTORY
+
+- Lives alone; retired nurse
+- Former smoker (quit 1995)
+- Occasional alcohol
+- No illicit drug use
+
+---
+
+### FAMILY HISTORY
+
+- Mother: DM2, stroke
+- Father: MI age 67
+
+---
+
+---
+
+## ICU ADMISSION / PRESENTING PROBLEM
+
+**Chief Complaint:** Chest pain, SOB  
+**ED Vitals:** BP 76/48 mmHg, HR 128, RR 24, T 36.7°C, O2 sat 95% RA  
+**Exam:** Diaphoretic, cool extremities, JVD 10cm, S3, diffuse crackles, mild LE edema  
+**Labs:** See below  
+**ECG:** Anterior STEMI  
+**Echo:** LVEF 15%, diffuse hypokinesis  
+**Cath:** 100% LAD occlusion, successful PCI with DES  
+**Course:** Developed refractory hypotension → Impella CP placed bedside. Pressors/inotropes titrated off by day 5.
+
+---
+
+## HOSPITAL COURSE (DAILY PROGRESS)
+
+**Day 1:**  
+- STEMI, cardiogenic shock.  
+- Intubated for hypoxic respiratory failure.  
+- Impella CP placed via femoral approach.  
+- Started on norepinephrine, dobutamine.  
+- Insulin gtt for severe hyperglycemia.  
+- Transfused 1U PRBC for Hgb 7.9.
+
+**Day 2:**  
+- Improved MAPs, weaning vasopressors.  
+- AKI with Cr peak 2.2 (baseline ~1.0).  
+- Glucose improved on insulin drip.  
+- Extubated to HFNC.
+
+**Day 3:**  
+- Off vasopressors.  
+- Impella flows weaned.  
+- Hgb stable.  
+- Diuresed for mild pulmonary edema.
+
+**Day 4:**  
+- Impella removed.  
+- Moved to stepdown.  
+- AKI resolving (Cr 1.4).  
+- Blood sugars stable, transitioned to basal-bolus insulin.
+
+**Day 5-6:**  
+- Mobilizing with PT.  
+- Resumed home meds.  
+- No recurrent angina.  
+- Plan for cardiac rehab.
+
+---
+
+## PERTINENT LABS
+
+#### Table 1: CBC & CHEM7
+
+| Date        | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | HCO3 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|-------------|------------|------------|------------|-------------|------------|-------------|---------------|-------------|------------|-------------|
+| 4/29 06:00  | 8.4        | 7.9        | 362        | 137         | 4.8        | 101         | 26            | 18          | 1.1        | 322         |
+| 4/30 05:45  | 10.2       | 8.7        | 349        | 140         | 5.1        | 102         | 27            | 24          | 2.2        | 221         |
+| 5/01 06:10  | 9.3        | 9.4        | 331        | 138         | 4.7        | 100         | 25            | 22          | 1.8        | 144         |
+| 5/02 07:00  | 7.6        | 10.1       | 299        | 136         | 4.4        | 98          | 28            | 16          | 1.4        | 111         |
+| 5/03 06:30  | 7.2        | 10.0       | 280        | 137         | --         | 100         | 27            | 14          | 1.2        | 123         |
+| 5/04 07:20  | --         | 10.3       | 272        | 139         | 4.5        | 102         | 29            | 13          | 1.1        | 128         |
+| 5/05 07:10  | 6.8        | 10.5       | 265        | 139         | 4.3        | 101         | 29            | 13          | 1.0        | 132         |
+
+#### Table 2: Additional Relevant Labs
+
+| Date        | Troponin I (ng/mL) | BNP (pg/mL) | AST (U/L) | ALT (U/L) | Alk Phos (U/L) | Total Bili (mg/dL) | A1c (%) | LDL (mg/dL) |
+|-------------|--------------------|-------------|-----------|-----------|----------------|--------------------|---------|-------------|
+| 4/29        | 32.1               | 2981        | 90        | 65        | 120            | 1.7                | 6.0     | 92          |
+| 4/30        | 11.4               | 2680        | 70        | 51        | 113            | 1.2                | --      | --          |
+| 5/01        | 3.2                | 2010        | 55        | 44        | --             | 0.9                | --      | --          |
+| 5/03        | <0.01              | 985         | 34        | 30        | 98             | 0.7                | --      | 88          |
+| 5/05        | <0.01              | 788         | 28        | 29        | 95             | 0.6                | --      | --          |
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. Cardiogenic Shock s/p Anterior STEMI, Impella CP (Removed)
+- **Assessment:** Presented in shock, required mechanical support. LVEF 15% on admission, now 25%. No recurrent ischemia.
+- **Plan:**  
+    - Continue heart failure guideline-directed therapy (GDMT) as tolerated  
+    - Echo prior to discharge  
+    - Cardiac rehab referral  
+    - DAPT x12mo, high-intensity statin  
+    - Monitor for arrhythmia, volume status
+
+### 2. Type 2 Diabetes Mellitus, Hyperglycemia
+- **Assessment:** Severe hyperglycemia on admission; now controlled on basal-bolus insulin. A1c 6.0% (recent).
+- **Plan:**  
+    - Continue basal-bolus insulin inpatient  
+    - Reinstitute metformin as renal function normalizes  
+    - Diabetic educator consult  
+    - Daily glucometer checks
+
+### 3. Acute Kidney Injury (resolving)
+- **Assessment:** Likely multifactorial (hypoperfusion, pressors, contrast). Improved with volume optimization.
+- **Plan:**  
+    - Monitor daily chem7, adjust nephrotoxins  
+    - Hold ACE/ARB until Cr <1.2  
+    - Strict I/O, avoid hypovolemia
+
+### 4. Chronic Anemia
+- **Assessment:** Hgb nadir 7.9; transfused 1U PRBC. Stable now.
+- **Plan:**  
+    - Resume oral iron  
+    - Monitor Hgb  
+    - Outpatient GI workup if recurrent
+
+### 5. Breast Cancer (hx), s/p chemo, ongoing adjuvant therapy
+- **Assessment:** Stable, on targeted therapy. No evidence of recurrence.
+- **Plan:**  
+    - Continue palbociclib, exemestane  
+    - Oncology to follow  
+    - Monitor CBC for cytopenias
+
+### 6. Hypertension, Metabolic Syndrome, Hypertriglyceridemia
+- **Assessment:** BP well controlled on triple therapy.
+- **Plan:**  
+    - Continue current regimen  
+    - Lipid panel prior to discharge  
+    - Encourage lifestyle modification
+
+### 7. Diabetic Retinopathy (nonproliferative)
+- **Assessment:** Stable; last ophtho f/u 2023.
+- **Plan:**  
+    - Outpatient ophtho follow-up
+
+### 8. Other Chronic Issues (OA knee, sinusitis, migraines, s/p hip fx, etc.)
+- **Assessment:** No acute issues during this admission.
+- **Plan:**  
+    - Resume home pain regimen  
+    - Physical therapy for mobility  
+    - ENT and ortho PRN
+
+---
+
+## DISPOSITION
+
+- Anticipate discharge to home with family support in 2-3 days
+- Close outpatient follow-up: Cardiology, Oncology, Endocrinology, PCP
+
+---
+
+## VITALS (ICU, representative)
+
+| Date/Time   | Temp (°C) | HR (bpm) | BP (mmHg) | SpO2 (%) | RR (bpm) | Pain (0-10) |
+|-------------|-----------|----------|-----------|----------|----------|-------------|
+| 4/29 06:00  | 36.7      | 128      | 76/48     | 95       | 24       | 7           |
+| 4/29 18:00  | 37.1      | 108      | 92/56     | 96       | 20       | 3           |
+| 4/30 06:00  | 37.3      | 103      | 108/62    | 98       | 18       | 1           |
+| 5/01 06:00  | 36.8      | 92       | 122/74    | 98       | 17       | 0           |
+| 5/03 06:00  | 36.6      | 84       | 128/76    | 99       | 16       | 0           |
+| 5/05 07:00  | 36.9      | 78       | 132/78    | 99       | 14       | 0           |
+
+---
+
+## SIGNED  
+Dr. J. Simmonds, MD  
+Cardiology/Intensive Care  
+05/05/2024 08:34
+
+---

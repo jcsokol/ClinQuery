@@ -1,0 +1,176 @@
+```
+Patient Name: Mohr, Dessie
+MRN: 00419875
+DOB: 08/21/1943 (Age: 80)
+Sex: Female
+Admission Date: 03/12/2024
+Attending: Dr. S. Kline
+Admitting Dx: Cardiogenic shock secondary to acute on chronic heart failure
+Location: MICU, Bed 4
+
+---------------------------------------------------------------------------
+HOSPITAL COURSE SUMMARY
+
+HPI:
+80F with a past medical history of hypertension, prediabetes, chronic anemia, chronic sinusitis, fibromyalgia, remote hx of 1st trimester miscarriage, and recent acute bronchitis, presenting with progressive dyspnea, orthopnea, and chest pressure over 2 days. On arrival, she was found to be hypotensive (SBP 78), tachycardic (HR 112), tachypneic (RR 28), and hypoxic (O2 sat 86% on RA). Exam notable for JVD, rales, S3, cool extremities. CXR: pulmonary edema. Echo: severe global LV dysfunction (EF 18%), moderate MR, RV moderately reduced. Troponin mildly elevated. BNP 1800. Rapidly deteriorated requiring intubation and vasopressors. Cardiology consulted; Impella CP placed for hemodynamic support. Transferred to MICU.
+
+---------------------------------------------------------------------------
+PAST MEDICAL HISTORY
+
+- Hypertension
+- Prediabetes
+- Anemia (chronic)
+- Chronic sinusitis
+- 1st trimester miscarriage
+- Primary fibromyalgia syndrome
+- Acute bronchitis (recent)
+- HFpEF → HFrEF (new on echo)
+
+PAST SURGICAL HISTORY
+
+- Cholecystectomy (2010)
+- TAH-BSO (1999)
+
+SOCIAL HISTORY
+
+- Lives with daughter, retired teacher
+- No tobacco, rare ETOH, no illicit drug use
+- No recent travel
+
+FAMILY HISTORY
+
+- Father: MI at 65, DM2
+- Mother: HTN, CHF
+
+ALLERGIES
+
+- NKDA
+
+---------------------------------------------------------------------------
+HOME MEDICATIONS
+
+- Hydrochlorothiazide 25mg PO QD
+- Naproxen 500mg PO BID PRN
+- Milnacipran 100mg PO BID
+- Duloxetine 20mg PO QAM
+- Pregabalin 100mg PO BID
+- Acetaminophen 325mg PO PRN
+
+INPATIENT MEDICATIONS
+
+- Furosemide IV
+- Metoprolol IV
+- Heparin drip
+- Milrinone IV
+- Norepinephrine IV
+- Impella heparin purge
+- Pantoprazole IV
+- DVT prophylaxis: SCDs
+
+---------------------------------------------------------------------------
+VITALS (SELECTED)
+
+| Date       | Temp (F) | HR   | BP         | RR   | O2 Sat | Weight (kg) |
+|------------|----------|------|------------|------|--------|-------------|
+| 03/12/24   | 98.7     | 112  | 78/48      | 28   | 86%    | 71.1        |
+| 03/13/24   | 99.1     | 98   | 102/56     | 22   | 94%    | 70.2        |
+| 03/14/24   | 98.4     | 91   | 110/60     | 19   | 95%    | 69.6        |
+| 03/15/24   | 98.8     | 88   | 112/62     | 18   | 97%    | 69.3        |
+| 03/16/24   | 98.2     | 85   | 116/64     | 18   | 98%    | 69.0        |
+
+---------------------------------------------------------------------------
+LABS
+
+CBC & CHEMISTRIES
+
+| Date       | WBC   | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2   | BUN   | Cr    | Glu   |
+|------------|-------|-------|-------|-------|------|------|------|-------|-------|-------|-------|
+| 03/12/24   | 7.1   | 11.8  | 35.8  | 209   | 139  | 4.6  | 105  | 28    | 14    | 0.92  | 142   |
+| 03/13/24   | 6.4   | 10.7  | 32.8  | 191   | 137  | 4.2  | 102  | 26    | 19    | 1.18  | 126   |
+| 03/14/24   | 7.0   | 10.1  | 30.5  | 175   | 138  | 4.0  | 104  | 26    | 21    | 1.30  | 98    |
+| 03/15/24   | 6.8   | 10.3  | 31.2  | 188   | 140  | 4.3  | 107  | 27    | 15    | 1.10  | 92    |
+| 03/16/24   | 7.2   | 10.8  | 33.1  | 201   | 139  | 4.5  | 106  | 28    | 13    | 1.00  | 88    |
+
+OTHER LABS
+
+| Date       | Troponin I | BNP   | AST  | ALT  | AlkPhos | TBili | INR  |
+|------------|------------|-------|------|------|---------|-------|------|
+| 03/12/24   | 0.18       | 1800  | 46   | 39   | 88      | 0.7   | 1.3  |
+| 03/13/24   | 0.15       | 1620  | 38   | 33   | 76      | 0.6   | 1.1  |
+| 03/14/24   | 0.13       | 1290  | 31   | 28   | 70      | 0.5   | 1.0  |
+| 03/15/24   | -          | 1050  | 26   | 24   | 66      | 0.5   | 1.0  |
+| 03/16/24   | -          | 920   | 23   | 21   | 61      | 0.5   | 1.0  |
+
+---------------------------------------------------------------------------
+IMAGING
+
+03/12/24 CXR: Pulmonary edema, cardiomegaly, small left pleural effusion.
+03/12/24 ECG: Sinus tachycardia, low voltage QRS, nonspecific T changes.
+03/12/24 Echo: LVEF 18%, moderate MR, RV function moderately reduced, no thrombus.
+
+---------------------------------------------------------------------------
+PROBLEM-BASED ASSESSMENT & PLAN
+
+1. **Cardiogenic Shock (Acute on Chronic HFrEF)**
+   - Deterioration on arrival, hypotensive, hypoxic, with evidence of low cardiac output.
+   - Impella CP placed for hemodynamic support.
+   - On milrinone and norepinephrine, weaning pressors as tolerated.
+   - Daily echo to monitor recovery.
+   - Plan: Continue Impella until able to wean vasopressors and off inotropes. Consider durable LVAD or transplant candidacy if no myocardial recovery.
+
+2. **Acute Decompensated Heart Failure**
+   - Diuresed aggressively with IV furosemide, net negative ~3.5L since admission.
+   - Monitoring electrolytes, renal function closely.
+   - ACEi/ARB held due to hypotension.
+   - Reassess volume status daily.
+
+3. **Chronic Anemia**
+   - Baseline Hgb ~11, dropped to 10.1 during admission.
+   - Likely multifactorial (chronic disease, dilutional).
+   - No overt bleeding, iron panel pending.
+   - Transfuse if Hgb <8 or symptomatic.
+
+4. **Hypertension**
+   - Held home HCTZ on admission for hypotension/AKI risk.
+   - BP improving as cardiac output recovers.
+   - Resume antihypertensives as tolerated.
+
+5. **Fibromyalgia/Pain**
+   - On home pregabalin, duloxetine, milnacipran, naproxen (held, concern for AKI), acetaminophen as needed.
+   - Pain well controlled.
+
+6. **Prediabetes**
+   - Glucose stable, no insulin needed, monitoring.
+
+7. **Chronic Sinusitis**
+   - No acute symptoms, continue supportive care.
+
+8. **Recent Acute Bronchitis**
+   - No current cough/fever, CXR improved, no antibiotics needed.
+
+9. **DVT Prophylaxis**
+   - SCDs, heparin drip.
+
+10. **Advance Care Planning**
+    - Discussed goals of care with patient/family; DNR/DNI declined, full code.
+
+---------------------------------------------------------------------------
+MICU DAILY PROGRESS NOTES
+
+03/13/24: Stable overnight, Impella flows 3.4 L/min. Weaning norepinephrine. UOP adequate. Renal function worsening but stable.
+03/14/24: Echo: LVEF up to 26%. Milrinone to 0.25 mcg/kg/min. Diuresis ongoing. Hgb stable. No new issues.
+03/15/24: Off norepinephrine, weaning Impella support. Extubation attempted, successful. Neuro: grossly intact.
+03/16/24: Impella removed, transferred to stepdown. Off pressors/inotropes. Tolerating oral meds, ambulating with PT.
+
+---------------------------------------------------------------------------
+DISCHARGE PLANNING
+
+- Anticipate transfer to rehab in 2-3 days.
+- Outpatient cardiology follow-up in 7 days.
+- Monitor for recurrent decompensation, close electrolyte surveillance.
+
+---------------------------------------------------------------------------
+Attending: S. Kline, MD
+Co-signer: D. Patel, MD (Cardiology)
+```
+

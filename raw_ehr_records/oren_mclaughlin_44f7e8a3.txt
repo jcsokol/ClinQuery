@@ -1,0 +1,174 @@
+---
+**EpicCare Inpatient**  
+**Patient:** Oren McLaughlin  
+**MRN:** 00298734  
+**DOB:** 01/15/1983 (Age 41)  
+**Sex:** Male  
+**Admit Date:** 2024-03-12  
+**Attending:** Dr. S. Harkness  
+**Location:** MICU, Room 8B-12  
+**Visit Type:** Inpatient ICU  
+**Encounter Number:** 3849201  
+
+---
+
+**Chief Complaint:**  
+Progressive shortness of breath, orthopnea, and chest pain.
+
+**History of Present Illness:**  
+41-year-old male with PMHx notable for rotator cuff injury (remote, right), otherwise previously healthy, who presented to the ED with 4 days of worsening shortness of breath, intermittent pleuritic chest pain, and orthopnea. He denied fever, cough, or recent travel. On arrival, he was tachycardic (HR 118), tachypneic (RR 26), and hypoxic (O2 sat 86% on RA). Initial EKG showed sinus tachycardia with occasional PVCs, and troponin was elevated at 0.38 ng/mL. Echo demonstrated severe global LV systolic dysfunction (EF ~15%) with mild RV dysfunction. He rapidly developed hypotension and required escalating doses of norepinephrine. Cardiology consulted—decision made for Impella CP placement for cardiogenic shock.
+
+**Past Medical History:**  
+- Injury of tendon of the rotator cuff (right shoulder), 2018  
+- No known CAD, no prior MI, no CHF, no DM, no HTN, no CKD
+
+**Past Surgical History:**  
+- Arthroscopic repair, right rotator cuff, 2019
+
+**Allergies:**  
+- NKDA
+
+**Medications on Admission:**  
+- None reported
+
+**Social History:**  
+- Denies tobacco, EtOH, or illicit drug use  
+- Lives with wife, works as IT consultant, no recent travel
+
+**Family History:**  
+- Father with HTN, mother healthy, no known premature cardiac disease
+
+**Review of Systems:**  
+- General: Fatigue, mild subjective fevers
+- CV: Chest pain, dyspnea on exertion, orthopnea, no palpitations prior to admission
+- Resp: No cough, no hemoptysis
+- GI: Nausea, no vomiting, no abd pain
+- Neuro: No syncope, no focal deficits
+
+---
+
+**Physical Exam (on ICU Day 1):**  
+**Gen:** Mild distress, alert, oriented x3  
+**HEENT:** PERRL, MMM, no JVD at 30°  
+**CV:** Tachycardic, S3 present, no murmurs  
+**Resp:** Tachypneic, bibasilar crackles, decreased air entry at bases  
+**Abd:** Soft, NT/ND, normal bowel sounds  
+**Ext:** Trace bilateral pedal edema  
+**Neuro:** Nonfocal, GCS 15  
+**Skin:** Warm, well-perfused  
+
+---
+
+### ICU Problem List & Assessment/Plan
+
+1. **Cardiogenic Shock secondary to Acute Severe Systolic Heart Failure**
+   - Etiology unclear—possible viral myocarditis vs. idiopathic vs. ischemic (no prior hx).
+   - Required vasopressors and inotropes (norepinephrine, dobutamine).
+   - Impella CP placed on ICU Day 1 for hemodynamic support.
+   - Serial TTE: EF improved to 25% after 3 days, weaning support.
+   - Plan: Continue Impella until stable off pressors, serial ECHO, monitor for hemolysis, anticoagulate per protocol, daily labs, trend lactate.
+
+2. **Acute Hypoxic Respiratory Failure**
+   - Likely secondary to pulmonary edema.
+   - Intubated on admission, now extubated POD#2, on 4L NC.
+   - Diuresis with IV furosemide.
+   - Daily CXR, monitor O2 sats.
+
+3. **Elevated Cardiac Markers**
+   - Troponin peaked at 0.78 ng/mL, trending down.
+   - CK-MB, BNP elevated (see labs).
+   - Serial EKGs—no STEMI.
+   - Plan: Continue trending, consider MRI myocarditis protocol if stable.
+
+4. **AKI (Acute Kidney Injury), likely pre-renal**
+   - Cr peaked at 2.1 mg/dL, baseline 0.9, now improving with improved perfusion.
+   - Strict I/Os, daily lytes, renal dosing for meds.
+
+5. **Mild Transaminitis**
+   - AST/ALT peaked at 110/97, now downtrending; likely hypoperfusion related.
+   - Monitor LFTs, no hepatotoxic meds.
+
+6. **Rotator cuff tendon injury (remote, right)**
+   - No acute issues, physical therapy to avoid adhesive capsulitis.
+
+7. **Nutrition**
+   - NPO x24h, now on cardiac diet, RD following.
+
+8. **VTE Prophylaxis**
+   - Heparin drip (Impella), SCDs.
+
+9. **Infection Prophylaxis**
+   - Daily blood cultures x2 negative, pan-cultures on admission negative.
+   - No fevers since ICU Day 1, WBC stable.
+
+10. **Pain**
+    - Mild, mainly shoulder, acetaminophen PRN.
+
+---
+
+### Hospital Course Summary (ICU Days 1-6)
+
+- **ICU Day 1:** Admitted in cardiogenic shock, required intubation and Impella CP. Pressors started.
+- **ICU Day 2:** Extubated, continued Impella. Pressors weaned. Renal function worsening.
+- **ICU Day 3:** Renal function stabilized, LFTs peaked. Echo with mild improvement.
+- **ICU Day 4:** Started to diurese, extubated, Impella still in place.
+- **ICU Day 5:** Pressors off, Impella weaning. LFTs and Cr downtrending.
+- **ICU Day 6:** Impella removed, stable on minimal O2, transferred to stepdown.
+
+---
+
+### Laboratory Data (selected, ICU Days 1-6)
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | BNP    | Trop  |
+|------------|------|------|------|------|------|------|------|------|------|------|------|------|------|--------|-------|
+| 3/12/2024  | 7.1  | 16.2 | 47.2 | 221  | 134  | 4.8  | 101  | 20   | 29   | 2.1  | 188  | 110  | 97   | 1820   | 0.38  |
+| 3/13/2024  | 8.2  | 14.9 | 44.1 | 214  | 137  | 4.3  | 103  | 19   | 22   | 1.7  | 142  | 87   | 61   | 1450   | 0.62  |
+| 3/14/2024  | 7.6  | 14.7 | 43.8 | 202  | 139  | 4.1  | 104  | 23   | 18   | 1.4  | 101  | 54   | 43   | 1120   | 0.78  |
+| 3/15/2024  | 6.9  | 14.2 | 41.5 | 184  | 140  | 3.9  | 106  | 24   | 16   | 1.2  | 117  | 38   | 32   | 950    | 0.56  |
+| 3/16/2024  |      | 13.9 |      | 178  | 141  | 4.2  |      | 25   | 14   | 1.0  | 108  |      | 21   | 670    | 0.22  |
+| 3/17/2024  | 6.3  | 13.7 | 40.0 |      | 142  |      | 107  | 25   | 11   | 0.9  |      | 28   |      |        | 0.09  |
+
+*Some labs not drawn daily due to stability. All values in standard units.*
+
+---
+
+### Imaging/Procedures
+
+- **Echocardiogram (3/12/2024):** LVEF 15%, global hypokinesis, mild RV dysfunction, no significant valvular disease.
+- **Echocardiogram (3/15/2024):** LVEF ~25%, improved contractility.
+- **CXR (3/12/2024):** Bilateral vascular congestion, no focal infiltrate.
+- **CXR (3/14/2024):** Improved vascular congestion.
+- **Impella CP Placement (3/12/2024):** Left femoral access, no complications.
+- **R heart cath (3/12/2024):** PCWP 27, CI 1.8, SVR 1350.
+
+---
+
+### Medications During Admission
+
+- Norepinephrine IV (ICU Days 1–3)
+- Dobutamine IV (ICU Days 1–3)
+- Furosemide IV
+- Heparin drip (for Impella)
+- Acetaminophen PRN
+- Pantoprazole IV
+- Atorvastatin 40 mg PO QHS (started ICU Day 3)
+
+---
+
+### Discharge Plan (anticipated)
+
+- Continue GDMT for HF (pending etiology)
+- Close cardiology f/u, consider advanced therapies if EF doesn’t recover
+- Outpatient cardiac MRI
+- Home with close monitoring, home health RN
+
+---
+
+### Attestation
+
+**Physician:** Dr. S. Harkness, MD  
+**Date/Time:** 03-17-2024 / 13:22
+
+---
+
+**[End of Note]**

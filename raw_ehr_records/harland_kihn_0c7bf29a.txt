@@ -1,0 +1,146 @@
+---
+**Patient Name:** Harland Kihn  
+**MRN:** 00172839  
+**Birthdate:** 1988-06-01  
+**Sex:** Male  
+**Date of Admission:** 2024-05-14  
+**Date of Note:** 2024-05-19  
+**Attending:** Dr. R. Calhoun  
+**Admitting Diagnosis:** Cardiogenic shock secondary to acute decompensated heart failure  
+**Consults:** Cardiology, Infectious Disease, Pulmonology  
+**Code Status:** Full Code  
+**Allergies:** NKDA  
+**Medication Reconciliation:** See below
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+Mr. Harland Kihn is a 35-year-old male with a past medical history notable for chronic obstructive bronchitis, anemia, recurrent viral sinusitis, and remote streptococcal pharyngitis, who was admitted from the ED with progressive dyspnea, orthopnea, and lower extremity edema. He was found to be in respiratory distress with hypoxemia and hypotension. Initial workup revealed an elevated NT-proBNP, troponin leak, and evidence of pulmonary edema on CXR. Transthoracic echo demonstrated severely reduced LVEF (15%), global hypokinesis, and moderate MR. He subsequently developed cardiogenic shock (SBP 80s, CI 1.7) requiring norepinephrine and dobutamine, and was transferred to the ICU. Due to worsening end-organ hypoperfusion (Cr uptrending, lactate 5.2, LFTs elevated) and persistent shock despite escalating inotropes, decision was made for placement of a temporary percutaneous LVAD (Impella CP) for hemodynamic support on hospital day 2. He stabilized on device support. Infectious and pulmonary issues were managed concurrently.
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. Cardiogenic Shock / Acute Decompensated Heart Failure
+- **Summary:** Severe HFrEF (LVEF 15%) with acute decompensation, hypoperfusion, and multi-organ dysfunction.
+- **Hospital Course:** Required high-dose inotropes and vasopressors. Impella CP placed on HD2, with subsequent improvement in MAP and urine output. Weaned off vasopressors by HD4. Device removed on HD5.
+- **Plan:**
+  - Close hemodynamic monitoring (A-line, Swan-Ganz)
+  - Daily TTEs while on device
+  - Up-titrate GDMT as tolerated (beta-blocker, ACEi, spironolactone added after stabilization)
+  - Diuresis with IV furosemide, titrated to net negative balance
+  - Cardiac rehab consult
+  - Dispo: Advanced HF clinic follow up
+
+### 2. Acute Kidney Injury (AKI)
+- **Summary:** Pre-renal AKI on admission (Cr peaked at 2.5 from baseline 1.0), improved with device support and improved perfusion.
+- **Plan:**
+  - Monitor UOP, daily BMP
+  - Avoid nephrotoxins
+  - Renal dosing of medications
+  - Nephrology consult—no indication for RRT
+
+### 3. Chronic Obstructive Bronchitis / COPD Exacerbation
+- **Summary:** Mild-moderate baseline COPD, exacerbated by acute illness. Home inhaler (Advair) continued. No acute wheeze or sputum purulence. Stable on 2L NC.
+- **Plan:**
+  - Continue fluticasone/salmeterol DPI, PRN albuterol
+  - Monitor for secondary infection
+  - Pulmonary rehab evaluation
+
+### 4. Anemia
+- **Summary:** Chronic anemia (baseline Hgb 13), nadir 10.1 on HD2. Multifactorial (hemodilution, acute illness, device-related hemolysis). No overt bleeding.
+- **Plan:**
+  - Monitor CBC daily
+  - Iron studies, retic count
+  - Transfuse if Hgb <8 or symptomatic
+
+### 5. Viral Sinusitis
+- **Summary:** Congestion, mild fever on admission. No signs of bacterial superinfection.
+- **Plan:**
+  - Supportive care (saline spray, acetaminophen)
+  - Monitor for progression
+
+### 6. Streptococcal Sore Throat (remote)
+- **Summary:** No evidence of acute pharyngitis currently.
+- **Plan:** None required
+
+### 7. Hyperlipidemia
+- **Summary:** LDL 91, TG 112, HDL 75. On no statin at baseline.
+- **Plan:**
+  - Consider statin after stabilization
+  - Dietician consult
+
+### 8. Medication Reconciliation
+- **Prior To Admission:**
+  - Fluticasone/salmeterol 250/50 mcg DPI, 1 puff BID
+  - Penicillin V 500mg BID (for prior strep, discontinued on admission)
+- **In Hospital:**
+  - IV furosemide, metoprolol succinate (initiated HD5), lisinopril (initiated HD5), spironolactone (initiated HD6), atorvastatin (initiated HD7)
+  - DVT ppx: enoxaparin
+  - Stress ulcer ppx: pantoprazole
+
+---
+
+## ICU DAILY PROGRESS NOTES
+
+| Date       | Hospital Day | Vent/Resp | Vasoactive Rx      | Device         | UOP (mL/24hr) | Comments                                   |
+|------------|--------------|-----------|--------------------|----------------|--------------|---------------------------------------------|
+| 2024-05-14 | 1            | 2L NC     | NE 0.06, Dob 7.5   | None           | 900          | Admitted, escalating shock                  |
+| 2024-05-15 | 2            | 2L NC     | NE 0.10, Dob 10    | Impella CP     | 600          | Impella placed, Cr increased                |
+| 2024-05-16 | 3            | 2L NC     | NE 0.04, Dob 5     | Impella CP     | 1200         | Improved MAP, lactate trending down         |
+| 2024-05-17 | 4            | RA        | Off                | Impella CP     | 2200         | Weaned off pressors, device support         |
+| 2024-05-18 | 5            | RA        | Off                | Removed        | 2400         | Device explanted, stable                    |
+| 2024-05-19 | 6            | RA        | Off                | None           | 2300         | Transferred to stepdown                     |
+
+---
+
+## LABS
+
+**CBC + CHEM7 (Selected Days)**
+
+| Date       | WBC   | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|-------|-------|-------|-------|------|------|------|------|------|------|------|
+| 5/14/2024  | 5.0   | 12.6  | 38.8  | 320   | 134  | 4.2  | 100  | 22   | 34   | 1.9  | 108  |
+| 5/15/2024  | 6.2   | 11.3  | 33.7  | 298   | 132  | 4.0  | 98   | 20   | 42   | 2.5  | 116  |
+| 5/16/2024  | 5.8   | 10.7  | 32.1  | 310   | 135  | 4.1  | 101  | 23   | 38   | 2.1  |      |
+| 5/17/2024  | 6.1   | 10.9  | 32.8  | 304   | 137  | 4.3  | 102  |      | 29   | 1.4  | 99   |
+| 5/18/2024  | 5.7   | 11.8  | 34.2  | 280   | 138  | 4.6  |      | 24   | 22   | 1.1  | 102  |
+| 5/19/2024  | 5.5   | 12.4  | 36.0  | 272   | 139  | 4.4  | 104  | 25   | 18   | 1.0  | 95   |
+
+**Other Labs**
+
+| Date       | NT-proBNP (pg/mL) | Troponin I (ng/mL) | Lactate (mmol/L) | AST (U/L) | ALT (U/L) | Alb (g/dL) |
+|------------|-------------------|--------------------|------------------|-----------|-----------|------------|
+| 5/14/2024  | 17,900            | 0.18               | 5.2              | 88        | 91        | 3.1        |
+| 5/15/2024  | 16,300            | 0.14               | 3.6              | 95        | 102       | 2.8        |
+| 5/16/2024  | 12,700            | 0.09               | 2.2              | 72        | 80        | 3.2        |
+| 5/18/2024  | 8,100             | <0.01              | 1.2              | 39        | 51        | 3.6        |
+
+---
+
+## VITALS (Selected)
+
+| Date       | Temp (C) | HR | BP         | RR | O2 Sat | Weight (kg) |
+|------------|----------|----|------------|----|--------|-------------|
+| 5/14/2024  | 37.8     | 112| 82/50      | 24 | 91%    | 96.2        |
+| 5/15/2024  | 37.3     | 106| 85/52      | 20 | 94%    | 95.5        |
+| 5/16/2024  | 37.1     | 98 | 102/62     | 18 | 96%    | 94.4        |
+| 5/17/2024  | 36.9     | 92 | 112/68     | 16 | 98%    | 93.7        |
+| 5/18/2024  | 36.7     | 86 | 118/74     | 15 | 99%    | 93.3        |
+| 5/19/2024  | 36.6     | 82 | 122/78     | 15 | 99%    | 93.1        |
+
+---
+
+## DISCHARGE PLANNING
+
+- **Disposition:** To home with family, daily nurse visits, advanced HF clinic f/u in 72h  
+- **Education:** Heart failure self-care, device warning signs, medication adherence  
+- **Follow-up:** Cardiology (Dr. Xu), Pulmonology, Primary Care
+
+---
+
+**Physician:**  
+Dr. R. Calhoun, MD  
+CC: Dr. E. Kline, Cardiology  
+**Electronically signed 2024-05-19 14:52**

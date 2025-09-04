@@ -1,0 +1,137 @@
+```
+-------------------------------------------------------------
+Patient Name: Ezekiel O'Kon      MRN: 00428931
+DOB: 06/23/1971    Sex: Male     Date of Admission: 03/14/2024
+Attending: Dr. S. Newell        ICU Service: Cardiac ICU
+-------------------------------------------------------------
+
+*** HISTORY OF PRESENT ILLNESS ***
+Ezekiel O'Kon is a 52-year-old male with a history of obesity (BMI 30.2), epilepsy (well controlled on diazepam and clonazepam), prior right hip fracture (s/p ORIF 2017), and viral sinusitis, who presented to the ED with acute onset substernal chest pain, dyspnea, and near-syncope. Patient reported 2 days of progressive orthopnea and PND, with associated lower extremity edema. In the ED, he developed hypotension and tachycardia. ECG showed anterior STEMI. Cardiac cath revealed 100% LAD occlusion; PCI performed but patient developed profound cardiogenic shock requiring emergent placement of an Impella CP device for hemodynamic support.
+
+*** HOSPITAL COURSE ***
+- Admitted to the Cardiac ICU on 03/14/2024.
+- Impella CP placed for cardiogenic shock on 03/14.
+- Started on IV dobutamine, norepinephrine.
+- Complicated by acute renal injury (peak Cr 2.2), mild transaminitis, and paroxysmal atrial fibrillation.
+- Antiepileptics continued, no breakthrough seizures.
+- Extubated on HD 2, weaned off pressors by HD 4.
+- Impella explanted on HD 5 after hemodynamic improvement.
+- Mobilization with PT, transitioned to oral HF regimen.
+
+*** PAST MEDICAL HISTORY ***
+- Seizure disorder (epilepsy, last seizure 2019)
+- Obesity (BMI 30+)
+- Viral sinusitis (remote)
+- Closed right hip fracture (s/p ORIF 2017)
+
+*** PAST SURGICAL HISTORY ***
+- Right hip ORIF 2017
+
+*** MEDICATIONS ON ADMISSION ***
+- Diazepam 5 mg BID
+- Clonazepam 1 mg BID
+- Hydrocortisone 10 mg/mL topical cream PRN
+- Chlorpheniramine 4 mg PRN
+- Epinephrine 0.3 mL auto-injector (for allergy)
+- Acetaminophen-hydrocodone 325/7.5 mg PRN
+- Acetaminophen 325 mg PRN
+
+*** ALLERGIES ***
+- NKDA
+
+*** SOCIAL HISTORY ***
+- Lives with spouse, independent ADLs pre-admission.
+- No tobacco, EtOH, or illicit drugs.
+
+*** FAMILY HISTORY ***
+- Mother: HTN, DM2
+- Father: MI at 62
+
+*** REVIEW OF SYSTEMS ***
+Unable to obtain full ROS due to acuity at admission. See HPI.
+
+-------------------------------------------------------------
+*** PHYSICAL EXAM ***
+Date: 03/15/2024   Time: 07:23
+
+General: Obese male, intubated, sedated, on Impella support, moderate distress.
+VS: HR 104, BP 91/54 (on norepinephrine), RR 18 (vent), T 36.8, SpO2 98% (vent)
+CV: S1, S2, tachycardic, no murmur, Impella hum audible, JVD 8 cm, cool extremities.
+Resp: CTAB, vented, no rales or wheeze.
+Abd: Soft, NT, ND.
+Ext: 2+ LE edema, pulses 1+ DP/PT.
+Neuro: Moves all extremities to pain, no focal deficit.
+
+-------------------------------------------------------------
+*** LABS *** (see Table 1)
+
+Table 1: Hematology/Chemistry Panel
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na  | K   | Cl  | CO2 | BUN | Cr   | Glu | AST | ALT | Troponin | BNP   |
+|------------|------|------|------|------|-----|-----|-----|-----|-----|------|-----|-----|-----|----------|-------|
+| 03/14/24   | 4.2  | 14.3 | 49.2 | 286  | 135 | 3.6 | 99  | 21  | 33  | 1.2  | 162 | 48  | 52  | 21.7     | 3,200 |
+| 03/15/24   | 4.8  | 13.8 | 46.7 | 274  | 137 | 3.7 | 101 | 20  | 41  | 1.7  | 148 | 66  | 59  | 8.7      | 3,500 |
+| 03/16/24   | 6.1  | 12.5 | 42.1 | 258  | 136 | 4.0 | 100 | 24  | 56  | 2.2  | 132 | 54  | 44  | 2.9      | 2,900 |
+| 03/17/24   | 5.4  | 12.9 | 40.8 | 245  | 138 |     | 104 | 23  | 48  | 1.6  |     | 42  | 34  | 0.9      | 1,750 |
+| 03/18/24   | 5.0  | 13.1 |      | 239  | 139 | 4.3 | 105 | 25  | 31  | 1.2  | 128 |     |     | <0.02    | 980   |
+| 03/19/24   |      | 13.9 | 41.7 | 229  |     | 4.1 |     | 26  | 28  | 1.0  | 124 | 31  | 27  | <0.02    | 540   |
+
+Abnormal labs in bold. Troponin peaked at 21.7 ng/mL; BNP peaked at 3,500 pg/mL.
+
+-------------------------------------------------------------
+*** ASSESSMENT AND PLAN ***
+
+1. **Cardiogenic Shock s/p Anterior STEMI, Impella CP**
+   - Patient presented in acute cardiogenic shock due to anterior STEMI (LAD occlusion).
+   - Emergent PCI performed; Impella CP inserted for circulatory support.
+   - Weaned off pressors and Impella by HD 5 after LVEF improved from 18% to 33% (echo 03/17).
+   - Plan: Continue GDMT for HF (metoprolol, sacubitril-valsartan, spironolactone, furosemide), up-titrate as tolerated. Serial echos. Cardiac rehab. DAPT for 12mo.
+
+2. **Acute Kidney Injury (AKI), likely cardiorenal**
+   - AKI with peak Cr 2.2, likely multifactorial (hypoperfusion, contrast).
+   - Improved with volume optimization, renal perfusion.
+   - Plan: Monitor renal function, avoid nephrotoxins, adjust meds for renal dosing.
+
+3. **Paroxysmal Atrial Fibrillation**
+   - Developed on HD 2, HR up to 140s, converted with amiodarone.
+   - Remained in NSR since.
+   - Plan: Telemetry, anticoagulation (apixaban), continue rate control.
+
+4. **Epilepsy**
+   - Maintained on home diazepam, clonazepam.
+   - No breakthrough events.
+   - Plan: Continue current regimen, monitor for CNS changes (esp. post-ICU).
+
+5. **Obesity**
+   - BMI 30.2, risk factor for HF.
+   - Plan: Dietary consult, PT/OT, outpatient weight management.
+
+6. **Remote Right Hip Fracture**
+   - s/p ORIF, ambulatory pre-admission, now deconditioned.
+   - Plan: DVT prophylaxis, PT/OT, fall precautions.
+
+7. **Viral Sinusitis (remote)**
+   - No current symptoms.
+   - Plan: Supportive care if symptoms recur.
+
+8. **Pain**
+   - Post-PCI and vascular access discomfort.
+   - Plan: PRN acetaminophen/opioid, monitor for overuse.
+
+9. **Secondary Prevention**
+   - Statin started (atorvastatin 80 mg), DAPT, beta-blocker, ACEi/ARB, aldactone.
+   - Smoking cessation counseling (not a user), cardiac rehab.
+
+-------------------------------------------------------------
+*** DISCHARGE PLANNING ***
+- Anticipate transfer to step-down on HD 7, home with VNA/PT on HD 10.
+- Close cardiology and neurology follow-up.
+- Medication reconciliation and education.
+
+-------------------------------------------------------------
+*** SIGNED ***
+Dr. S. Newell, MD
+Attending Cardiology, Cardiac ICU
+
+-------------------------------------------------------------
+```

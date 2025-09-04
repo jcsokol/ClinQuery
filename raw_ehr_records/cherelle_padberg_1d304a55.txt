@@ -1,0 +1,145 @@
+```
+[ Chart Review ]    [ Flowsheets ]    [ Notes ]    [ Orders ]    [ Labs ]    [ MAR ]    [ Imaging ]
+
+--------------------------------------------------------------------------------
+Patient: Cherelle Padberg   MRN: 00283127    DOB: 02/19/1977    Sex: F
+Admit Date: 04/14/2024      Service: Cardiology ICU
+Attending: Dr. N. Shah      Consulting: Pulm, ID, Endo
+--------------------------------------------------------------------------------
+
+Chief Complaint:
+Acute onset dyspnea and chest pain x 3 days. Brought in by EMS for hypotension, tachycardia, and hypoxia.
+
+History of Present Illness:
+Cherelle Padberg is a 47-year-old female with a PMH significant for chronic sinusitis, prediabetes, viral sinusitis, and acute bronchitis who presented to the ED with 3 days of progressive SOB, chest pressure, orthopnea, and lower extremity edema. She reported a recent viral URI ~2 weeks prior. In ED, she was noted to be hypotensive, tachycardic, hypoxemic, and in respiratory distress. CXR and bedside echo concerning for acute decompensated heart failure, LVEF ~15%, global hypokinesis. Troponin mildly elevated. Rapidly deteriorated, requiring intubation and vasopressor support. Given persistent cardiogenic shock, the decision was made to place a percutaneous left ventricular assist device (Impella CP) for hemodynamic support.
+
+Past Medical History:
+- Chronic sinusitis
+- Prediabetes (A1c 6.0% last)
+- Viral sinusitis (recent)
+- Acute bronchitis (prior episodes)
+- Obesity (BMI 30)
+- Hyperlipidemia (not on statin)
+
+Surgical History:
+- None
+
+Family History:
+- Mother: DM2, HTN
+- Father: CHF, died age 68
+
+Social History:
+- Tobacco: Never
+- Alcohol: Rare
+- Illicit drugs: Denies
+- Lives with partner, works as office manager.
+
+Allergies:
+- NKDA
+
+Medications on Admission:
+- Trinessa 28 Day Pack
+- Jolivette 28 Day Pack
+- Acetaminophen 325 mg PRN
+
+--------------------------------------------------------------------------------
+Physical Exam (ICU Day 4):
+Gen: Intubated, sedated, appears critically ill
+VS: T 37.7C  HR 115  BP 92/54 (on norepinephrine)  RR 22 (vent)  SpO2 96% (FiO2 60%)
+HEENT: Normocephalic, atraumatic, ETT in place
+CV: Tachycardic, S3 present, no murmurs, Impella in situ (L groin, hemostatic)
+Resp: Decreased breath sounds bibasilar, mild crackles
+Abd: Soft, distended, NTND, normal bowel sounds
+Ext: 2+ pitting edema BLE, pulses 1+ dorsalis pedis
+Neuro: Sedated, moves all extremities spontaneously
+
+--------------------------------------------------------------------------------
+LABS (Selected, see full table below)
+| Date       | WBC  | Hgb  | Plt  | Na   | K    | Cl   | CO2  | Cr   | BUN  | Glu  | Troponin | AST  | ALT  | BNP   |
+|------------|------|------|------|------|------|------|------|------|------|------|----------|------|------|-------|
+| 4/14 06:15 | 7.4  | 16.6 | 300  | 137  | 3.8  | 104  | 21   | 0.91 | 14   | 90   | <0.04    | 22   | 18   | 2980  |
+| 4/14 18:00 | 9.3  | 15.1 | 254  | 134  | 4.2  | 101  | 19   | 1.12 | 23   | 116  | 0.22     | 44   | 36   | 3150  |
+| 4/15 06:30 | 12.1 | 13.7 | 209  | 136  | 4.0  | 106  | 23   | 1.28 | 27   | 103  | 0.18     | 58   | 42   | 2870  |
+| 4/15 20:10 | 10.7 | 12.8 | 190  | 137  | --   | 104  | 21   | 1.09 | 19   | 99   | 0.11     | --   | --   | --    |
+| 4/16 07:00 | 8.9  | 11.2 | 178  | 138  | 3.9  | --   | 22   | 0.99 | 16   | --   | <0.04    | 34   | 21   | 1200  |
+| 4/17 06:45 | 7.1  | 10.1 | 163  | 139  | 4.1  | 103  | 24   | 1.02 | 13   | 89   | <0.04    | 23   | 18   | 890   |
+
+*Lab notes: Mild transaminitis, trending down. Troponin peaked on 4/14, downtrending. BNP markedly elevated, now improved. Creatinine peaked 1.28, now improved. Platelets trended down but stable.
+
+Other labs:
+- Lactate: 2.7 → 1.8 mmol/L (improved)
+- ABG (4/14): pH 7.32 / pCO2 34 / pO2 82 / HCO3 18 (mod metabolic acidosis)
+- INR: 1.2 (baseline)
+- PT/PTT: WNL
+
+--------------------------------------------------------------------------------
+Imaging:
+- CXR (4/14): Bilateral interstitial edema, mild cardiomegaly, Impella catheter tip over LV
+- Echo (4/14): LVEF 15%, global hypokinesis, no tamponade, mild MR, RV normal
+- Echo (4/16): LVEF 22%, improved, mild MR, Impella flows stable
+
+--------------------------------------------------------------------------------
+Assessment and Plan:
+
+1. **Cardiogenic Shock, likely viral myocarditis**
+    - Hx viral prodrome, acute severe LV dysfunction, elevated troponin, exclusion of acute coronary syndrome (coronary angio negative 4/14)
+    - Impella CP placed for hemodynamic support, currently weaning vasopressors (down to norepi 0.04 mcg/kg/min)
+    - Diuresed 3L negative since admission, now net even
+    - Plan: Continue Impella, wean as tolerated, monitor end-organ perfusion, serial Echos, consider explant if stable >48hr, uptitrate guideline HF meds if able
+
+2. **Acute Decompensated Heart Failure**
+    - LVEF severely reduced, improving on support
+    - Aggressive diuresis, daily weights, I/Os
+    - Off beta-blocker for now, will reintroduce as tolerated
+    - Monitor electrolytes, renal function
+
+3. **Respiratory Failure, intubated**
+    - Intubated for hypoxemic respiratory failure, now improving, FiO2 weaning
+    - Plan: Daily SBTs, CXR, pulmonary hygiene, sedation holidays
+
+4. **Acute Kidney Injury, resolving**
+    - Likely pre-renal, improved with volume management and improved CO
+    - Monitor closely
+
+5. **Mild Transaminitis**
+    - Likely shock liver, downtrending transaminases
+    - Monitor LFTs
+
+6. **Prediabetes**
+    - Continue monitoring glucose, A1c 6.0% prior to admission
+    - No hypoglycemia, no insulin needed
+
+7. **Chronic Sinusitis / Recent Viral URI**
+    - No evidence bacterial process, afebrile, no purulent drainage
+    - Supportive care
+
+8. **Obesity**
+    - Monitoring for DVT, SCDs in place
+    - Nutrition consult
+
+9. **Medication reconciliation**
+    - Home OCPs on hold, acetaminophen PRN for fever/discomfort
+
+10. **Other**
+    - Social work consult for disposition planning
+    - Family updated daily
+
+--------------------------------------------------------------------------------
+Summary of Hospital Course (to date):
+- ICU admission for fulminant myocarditis → cardiogenic shock → Impella CP support
+- Complicated by AKI (resolved), mild shock liver (improving), respiratory failure (intubated, improving)
+- Gradual improvement in cardiac function, hemodynamics, and end-organ perfusion
+- Remains critically ill, but showing positive trends
+
+--------------------------------------------------------------------------------
+Orders:
+- Continue Impella support, q1h checks
+- Vasopressors PRN for MAP >65
+- Furosemide IV 40mg q12h
+- Electrolyte repletion protocols
+- SCDs, DVT prophylaxis
+- NPO, tube feeds per nutrition
+
+--------------------------------------------------------------------------------
+[ End of ICU Progress Note - 4/17/2024 ]
+```

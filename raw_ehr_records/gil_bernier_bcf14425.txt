@@ -1,0 +1,206 @@
+**[EPIC EHR - ADMISSION NOTE]**
+
+**Patient Name:** Gil Bernier  
+**MRN:** 00153847  
+**DOB:** 07/02/1961 (Age: 62)  
+**Sex:** Male  
+**Date of Admission:** 5/21/2024  
+**Attending:** Dr. R. Sanders  
+**Primary Team:** Cardiology ICU  
+**Consults:** Neurology, Endocrinology, PT/OT, Infectious Disease  
+**Code Status:** Full  
+**Allergies:** NKDA  
+**Height:** 186.3 cm  
+**Weight:** 93.8 kg  
+**BMI:** 27.0
+
+---
+
+**Reason for Admission:**  
+62-year-old male with h/o prediabetes, chronic anemia, prior ischemic stroke, and recent viral sinusitis presenting with acute decompensated heart failure and cardiogenic shock requiring ICU admission and placement of a temporary LVAD (Impella CP) for circulatory support.
+
+---
+
+### History of Present Illness:
+
+Mr. Bernier was brought to the ED by his wife after 3 days of progressive dyspnea on exertion, orthopnea, and lower extremity edema. He also reported intermittent chest pressure, mild confusion, and decreased oral intake. PMH notable for prediabetes, chronic anemia (on B12), prior left MCA stroke (residual mild dysarthria), and remote rotator cuff injury. No prior CAD or MI. On arrival, found to be hypotensive (SBP 74 mmHg), tachycardic, hypoxic (O2 sat 88% RA), and with cool extremities. CXR: pulmonary edema. Troponin I elevated. Echo: severe global LV dysfunction (EF 18%), moderate MR, no pericardial effusion. Emergent right heart cath: PCWP 28, CI 1.6, SVR 2100. Despite IV dobutamine and norepinephrine, remained in shock. Decision made for Impella CP placement at bedside. Transferred to CICU.
+
+---
+
+### Hospital Course Summary:
+
+- Day 1: Impella placed, improved MAPs, weaned off pressors. Started on IV furosemide, transitioned to low-dose carvedilol and ACEi.  
+- Day 2: Mild hemolysis noted (LDH ↑, haptoglobin ↓), stable Hgb. Neurology consulted for confusion—no new infarct on CT.  
+- Day 3: Developed fever (38.4°C), blood cultures drawn, started empiric cefepime/vancomycin.  
+- Day 4: Extubated, improved mentation. Impella weaned, removed on Day 5.  
+- Days 5-7: Diuresis continued, renal function stable, transitioned to PO heart failure regimen.  
+- Day 8: Transferred to step-down unit.
+
+---
+
+## Problem List, Assessment, and Plan
+
+---
+
+### 1. Cardiogenic Shock S/P Temporary LVAD (Impella CP)  
+**Assessment:** Cardiogenic shock secondary to acute decompensated heart failure with severely reduced LVEF. Improved after temporary LVAD support; now off vasopressors and device.  
+**Plan:**  
+- Continue guideline-directed medical therapy for HFrEF (carvedilol, lisinopril, spironolactone, furosemide).  
+- Monitor for recurrent decompensation.  
+- Daily weights, strict I/O.  
+- Cardiac rehab consult.  
+- Outpatient follow-up with advanced heart failure clinic.
+
+---
+
+### 2. Chronic Anemia (likely multifactorial: B12 deficiency, chronic disease)  
+**Assessment:** Baseline Hgb 11-12 g/dL, mild drop during ICU stay (lowest 9.9); no overt bleeding, mild hemolysis during Impella support.  
+**Plan:**  
+- Continue B12 injections.  
+- Monitor CBC q48h.  
+- Iron studies, retic count, haptoglobin, LDH trended.  
+- Consider GI evaluation if persistent drop.
+
+---
+
+### 3. Prediabetes  
+**Assessment:** HbA1c 5.9%. Fasting glucoses 90-120 in hospital.  
+**Plan:**  
+- Diabetic diet, encourage weight loss.  
+- Monitor glucoses BID.  
+- Outpatient DM education.
+
+---
+
+### 4. Prior Ischemic Stroke (L MCA, 2019, mild residual dysarthria)  
+**Assessment:** No new events this admission. Mild confusion likely multifactorial (shock, sedation).  
+**Plan:**  
+- Continue aspirin 81 mg.  
+- Continue atorvastatin 40 mg.  
+- PT/OT for ongoing deficits.
+
+---
+
+### 5. Viral Sinusitis (resolved)  
+**Assessment:** Symptoms resolved prior to admission.  
+**Plan:**  
+- No antibiotics. Supportive care if recurrence.
+
+---
+
+### 6. Fever, Possible Line-Associated Bloodstream Infection  
+**Assessment:** Fever on Day 3, with central line in place. Blood/urine cultures drawn, started empiric abx.  
+**Plan:**  
+- Continue cefepime/vancomycin pending cultures.  
+- Remove line if positive.  
+- Infectious Disease consult.
+
+---
+
+### 7. Volume Overload/Acute on Chronic Heart Failure  
+**Assessment:** Marked pulmonary edema, improved with diuresis and LVAD support.  
+**Plan:**  
+- Continue IV furosemide, transition to PO.  
+- Monitor daily weights, electrolytes.  
+- Fluid restriction.
+
+---
+
+### 8. Remote Rotator Cuff Injury  
+**Assessment:** No current complaints.  
+**Plan:**  
+- Continue home PT exercises.
+
+---
+
+### 9. Delirium/ICU Psychosis  
+**Assessment:** Mild agitation, sleep-wake disturbance, resolved after extubation.  
+**Plan:**  
+- Sleep hygiene, minimize nighttime interruptions.  
+- Re-orientation, family presence.
+
+---
+
+### 10. DVT Prophylaxis  
+**Assessment:** High risk due to immobility, CHF.  
+**Plan:**  
+- Sequential compression devices.  
+- SQ heparin 5000 units q8h.
+
+---
+
+---
+
+## LABS
+
+#### CBC & CHEMISTRIES
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|--------------|
+| 5/21/24 06:15 | 9.3        | 12.5       | 38.1    | 354        | 142         | 4.2        | 108         | 25           | 15          | 1.32       | 92           |
+| 5/22/24 05:49 | 10.8       | 11.8       | 36.0    | 368        | 141         | 4.6        | 110         | 23           | 20          | 1.45       | 104          |
+| 5/23/24 06:31 | 12.0       | 10.9       | 33.5    | 309        | 139         | 4.9        | 111         | 21           | 26          | 1.67       | 112          |
+| 5/24/24 07:02 | 11.2       | 9.9        | 31.1    | 298        | 137         | 5.1        | 113         | 20           | 28          | 1.78       | 118          |
+| 5/25/24 06:58 | 9.6        | 10.7       | 32.9    | 336        | 138         | 4.7        | 110         | 22           | 19          | 1.34       | —            |
+| 5/26/24 06:34 | 7.8        | 11.2       | —       | 355        | 140         | 4.3        | —           | 25           | 13          | 1.16       | 97           |
+| 5/27/24 06:21 | —          | 11.8       | 35.3    | 362        | 141         | 4.1        | 107         | 27           | 12          | 1.09       | 90           |
+
+#### ADDITIONAL LABS
+
+| Date       | Troponin I (ng/mL) | BNP (pg/mL) | LDH (U/L) | Haptoglobin (mg/dL) | AST (U/L) | ALT (U/L) | T. bili (mg/dL) | Albumin (g/dL) | INR  |
+|------------|--------------------|-------------|-----------|---------------------|-----------|-----------|-----------------|----------------|-------|
+| 5/21/24    | 0.23               | 2580        | 415       | 38                  | 41        | 39        | 1.1             | 3.7            | 1.2   |
+| 5/22/24    | 0.18               | 2446        | 580       | 22                  | 44        | 40        | 1.0             | 3.5            | 1.3   |
+| 5/23/24    | 0.09               | 2211        | 650       | 15                  | 48        | 41        | 1.3             | 3.2            | 1.3   |
+| 5/25/24    | —                  | 1998        | 388       | 42                  | 35        | 37        | 0.9             | 3.6            | 1.1   |
+| 5/27/24    | —                  | 1504        | —         | —                   | 31        | 34        | —               | 3.8            | 1.1   |
+
+---
+
+## VITALS (Selected)
+
+| Date/Time     | Temp (°C) | HR (bpm) | BP (mmHg) | RR | O2 Sat (%) | Pain |
+|---------------|-----------|----------|-----------|----|------------|------|
+| 5/21/24 06:10 | 36.7      | 108      | 84/54     | 24 | 88         | 4    |
+| 5/22/24 05:30 | 37.4      | 103      | 96/62     | 20 | 94         | 3    |
+| 5/23/24 07:00 | 38.4      | 98       | 104/65    | 18 | 95         | 2    |
+| 5/24/24 06:45 | 37.2      | 89       | 112/74    | 16 | 97         | 2    |
+| 5/26/24 07:15 | 36.6      | 82       | 119/78    | 14 | 98         | 1    |
+
+---
+
+## PROCEDURES
+
+- **5/21/24:** Placement of Impella CP (left femoral approach) under TEE guidance.  
+- **5/22/24:** Removal of right IJ central line (culture negative).  
+- **5/24/24:** Extubation.  
+- **5/25/24:** Removal of Impella CP after successful wean.
+
+---
+
+## MEDICATIONS (Active in Hospital)
+
+- Carvedilol 3.125 mg PO BID  
+- Lisinopril 2.5 mg PO QD  
+- Furosemide 40 mg IV BID, transition to PO  
+- Spironolactone 25 mg PO QD  
+- Aspirin 81 mg PO QD  
+- Atorvastatin 40 mg PO QD  
+- Vitamin B12 5 mg/mL IM weekly  
+- Cefepime 2 g IV q12h (pending cx)  
+- Vancomycin 1 g IV q12h (pending cx)  
+- Heparin 5000 units SQ q8h
+
+---
+
+## DISPOSITION
+
+- Stable for transfer to step-down unit on 5/28/24.  
+- Will require close outpatient follow-up with heart failure clinic, neurology, and PCP.
+
+---
+
+**Signed:**  
+Dr. R. Sanders, MD  
+Cardiology/Critical Care  
+[5/28/2024 09:30]

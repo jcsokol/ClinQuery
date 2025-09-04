@@ -1,0 +1,160 @@
+---
+**Patient Name:** Ike Windler  
+**MRN:** 0042381-ICU  
+**DOB:** 09/06/1968  
+**Sex:** Male  
+**Admit Date:** 05/11/2024  
+**Attending:** Dr. S. Patel  
+**Location:** Cardiac ICU, 3rd Floor, Bed 12  
+
+---
+
+### ADMISSION SUMMARY
+
+**Chief Complaint:**  
+Acute onset chest pain, dyspnea, and syncope at home.
+
+**History of Present Illness:**  
+Mr. Windler is a 55-year-old male with a history of hypertension and recent viral sinusitis who presented to the ED with crushing substernal chest pain, shortness of breath, and an episode of syncope. EMS found the patient hypotensive and tachycardic. Initial evaluation in the ED was notable for elevated troponin, ST elevations on ECG, and signs of cardiogenic shock. He was transferred to the ICU for further management.
+
+**Past Medical History:**  
+- Hypertension  
+- Viral sinusitis (recent, resolved)  
+- Hyperlipidemia (noted in outpatient labs)  
+- No known cardiac disease prior to this event
+
+**Past Surgical History:**  
+- None
+
+**Family History:**  
+- Father died of MI at age 61  
+- Mother with HTN
+
+**Social History:**  
+- Non-smoker  
+- Rare alcohol  
+- Denies illicit drug use
+
+**Home Medications:**  
+- Amlodipine 5mg / Hydrochlorothiazide 12.5mg / Olmesartan medoxomil 20mg daily
+
+**Allergies:**  
+- NKDA
+
+---
+
+### VITALS ON ADMISSION
+
+| Date/Time       | Temp (C) | HR  | BP        | RR  | SpO2 | Pain |
+|-----------------|----------|-----|-----------|-----|------|------|
+| 05/11/2024 08:24| 36.7     | 112 | 84/52     | 24  | 93%  | 7    |
+| 05/11/2024 10:02| 36.9     | 108 | 90/56     | 22  | 95%  | 6    |
+| 05/12/2024 05:50| 37.2     | 98  | 98/62     | 18  | 97%  | 2    |
+| 05/13/2024 06:00| 36.8     | 88  | 110/68    | 16  | 98%  | 1    |
+
+---
+
+### HOSPITAL COURSE
+
+On arrival to ICU, patient was in cardiogenic shock (SBP 80s, cool extremities, altered mentation). Bedside ECHO revealed LVEF ~15%, global hypokinesis. Emergent left heart cath showed non-obstructive CAD, concerning for fulminant myocarditis vs. stress-induced cardiomyopathy. Patient rapidly deteriorated, requiring norepinephrine and dobutamine for hemodynamic support. Due to persistent hypotension and worsening end organ function, a percutaneous LVAD (Impella CP) was placed at bedside by interventional cardiology on hospital day 1.
+
+Patient stabilized hemodynamically after device placement. Over the next 72 hrs, he remained on inotropes, with gradual improvement in end organ perfusion and urine output. Serial echocardiograms showed slow improvement in LVEF. On hospital day 4, Impella weaning was started and device removed on day 5 without complications.
+
+Complications included transient acute kidney injury (creatinine peaked at 2.1, resolved with improved perfusion), mild transaminitis, and anemia likely multifactorial (phlebotomy, inflammation). No arrhythmias, no evidence of stroke or embolic events. 
+
+Transferred to step-down on day 7, discharged home on day 10 with close cardiology follow up.
+
+---
+
+## LABS
+
+#### CBC & CHEMISTRIES
+
+| Date         | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin I | AST  | ALT  |
+|--------------|------|------|------|------|------|------|------|------|------|------|------|------------|------|------|
+| 5/11 09:00   | 16.2 | 12.3 | 37.0 | 256  | 134  | 4.8  | 101  | 21   | 38   | 1.9  | 146  | 24.8       | 178  | 143  |
+| 5/11 18:30   | 14.8 | 11.1 | 34.5 | 231  | 136  | 4.1  | 99   | 20   | 44   | 2.1  | 138  | 18.1       | 110  | 91   |
+| 5/12 06:00   | 12.7 | 10.6 | 32.9 | 218  | 137  | 3.9  | 102  | 22   | 32   | 1.7  | 122  | 8.7        | 69   | 51   |
+| 5/13 06:10   | 10.3 | 10.9 | 33.2 | 220  | 139  | 4.0  | 103  | 23   | 24   | 1.1  | 120  | <0.02      | 36   | 28   |
+| 5/14 05:50   | 9.1  | 11.2 | 34.1 | 241  | 140  | 4.2  | 104  | 24   | 19   | 0.9  | 114  | <0.02      | 21   | 19   |
+| 5/15 07:15   | 8.0  | 12.0 | 36.2 | 263  | 141  | 4.3  | 106  | 25   | 16   | 0.8  | 112  | --         | --   | --   |
+
+#### ADDITIONAL LABS
+
+- BNP: 1740 pg/mL on 5/11, improved to 620 pg/mL on 5/14
+- Lactate: 4.2 mmol/L on admission, normalized (<2) by 5/13
+- INR: 1.6 on 5/11, 1.2 on 5/14
+- Fibrinogen: 420 mg/dL on 5/11
+- CK-MB: 98 U/L on admission, trended down
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. Cardiogenic Shock (likely fulminant myocarditis)
+- Presented with acute decompensated heart failure, hypotension, and multi-organ dysfunction.
+- Emergent placement of percutaneous LVAD (Impella CP) for hemodynamic stabilization.
+- Gradual improvement in end-organ perfusion, weaned off vasopressors.
+- Plan: Continue GDMT for heart failure, serial ECHO, monitor for arrhythmias, optimize volume status, close follow up with heart failure clinic.
+
+### 2. Acute Kidney Injury (resolved)
+- Likely secondary to hypoperfusion, creatinine peaked at 2.1 mg/dL, improved with improved cardiac output.
+- Plan: Monitor renal function, avoid nephrotoxins, optimize hemodynamics.
+
+### 3. Transaminitis
+- Mild elevation in AST/ALT, likely ischemic hepatitis from hypoperfusion.
+- Trend improved as perfusion restored.
+- Plan: Monitor LFTs, no hepatotoxic meds.
+
+### 4. Anemia (multifactorial)
+- Hgb nadir 10.6, likely due to phlebotomy, inflammation, hemodilution.
+- Stable, no transfusion required.
+- Plan: Monitor, iron studies outpatient if persistent.
+
+### 5. Hypertension
+- Previously well-controlled on home regimen.
+- BP labile during ICU stay, off anti-HTN meds during shock.
+- Plan: Resume antihypertensives, monitor for hypotension.
+
+### 6. Hyperlipidemia
+- LDL 98, HDL 75, TG 104 on outpatient labs.
+- Plan: Start statin on discharge.
+
+### 7. Viral Sinusitis (recent, resolved)
+- No current symptoms.
+- Plan: No intervention needed.
+
+### 8. Risk of Thromboembolism
+- On heparin infusion while Impella in place.
+- Plan: VTE prophylaxis, DVT duplex prior to discharge.
+
+---
+
+## DISCHARGE MEDICATIONS
+
+- Carvedilol 3.125 mg BID  
+- Lisinopril 2.5 mg daily  
+- Atorvastatin 40 mg daily  
+- Furosemide 20 mg daily  
+- Continue home Amlodipine/HCTZ/Olmesartan
+
+---
+
+## FOLLOW UP
+
+- Cardiology (HF clinic) in 7 days  
+- Labs: CBC, Chem7, LFTs in 1 week  
+- Echo in 2 weeks
+
+---
+
+**Physician:** Dr. S. Patel, MD  
+**Date/Time:** 05/15/2024 08:49
+
+---
+
+**Additional Notes:**  
+Patient tolerated ICU course well. Family at bedside daily. No delirium, no infections. Flu vaccination offered. Physical therapy consulted for early mobilization.  
+Discharge instructions reviewed with patient and spouse.  
+
+---

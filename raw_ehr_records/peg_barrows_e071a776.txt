@@ -1,0 +1,175 @@
+---
+**Patient:** Peg Barrows  
+**MRN:** 00328916  
+**DOB:** 1957-06-07 (66 yo)  
+**Sex:** Female  
+**Admit Date:** 2024-06-11  
+**Attending:** Dr. Samir Patel  
+**Service:** Cardiac ICU  
+**Admit Dx:** Cardiogenic shock, s/p temporary LVAD (Impella CP), anemia, chronic migraines, prediabetes, hx sinusitis, recent UTI
+
+---
+
+# ICU Progress Note
+
+**Date:** 2024-06-14  
+**Time:** 06:34  
+**Author:** Dr. T. Klein, PGY3
+
+---
+
+## SUBJECTIVE
+
+**CC:** "I feel a little better but still weak."  
+**HPI:**  
+66F with h/o chronic migraines, prediabetes, anemia, recurrent sinusitis, recent E. coli UTI, presenting 4 days ago with acute onset dyspnea, chest tightness, and presyncope. Found in ED to be hypotensive (SBP 78), tachycardic, tachypneic, hypoxemic. Initial troponin 4.8, BNP 2180. EKG with nonspecific ST/T changes. Echo: EF 18%, global hypokinesis, moderate MR. Emergent LHC: no acute culprit, diffuse CAD, no revascularization. Cardiogenic shock persisted despite pressors/inotropes; Impella CP placed for hemodynamic support. Transferred to CICU.  
+
+Since admit: No further CP, improved mentation, weaned from norepinephrine. Ongoing mild dyspnea, fatigue. Denies fever, cough, dysuria. Some headache, but less severe than baseline migraines.
+
+**PMH:**  
+- Chronic migraines w/o aura  
+- Prediabetes  
+- Chronic anemia  
+- Chronic sinusitis, hx of multiple viral & strep episodes  
+- Recent E. coli UTI (completed nitrofurantoin)  
+- No known CAD prior to this event
+
+**Meds on admit:**  
+- Penicillin V 500mg PO BID (for strep throat x2 days before admit)  
+- Nitrofurantoin 100mg PO BID (recent UTI, completed)  
+- Phenazopyridine 100mg TID prn (UTI sx, stopped)
+
+**Allergies:** NKDA
+
+**Social Hx:**  
+- Former smoker (quit 2015, 20 pack-years)  
+- No EtOH, no illicit  
+- Lives with husband, retired librarian
+
+**Family Hx:**  
+- Father: MI age 59  
+- Mother: T2DM, HTN
+
+---
+
+## OBJECTIVE
+
+### VITALS (overnight):
+| Date       | Temp   | HR  | BP         | RR | O2 Sat | Pain |
+|------------|--------|-----|------------|----|--------|------|
+| 6/14 06:00 | 38.9C  | 91  | 112/67     | 19 | 96% RA | 4    |
+| 6/13 22:00 | 38.2C  | 89  | 108/63     | 18 | 95% RA | 3    |
+| 6/13 14:00 | 37.6C  | 105 | 101/58     | 21 | 95% RA | 5    |
+| 6/12 08:00 | 39.1C  | 112 | 94/51      | 26 | 92% NRB| 6    |
+*MAP improved after Impella placement, now off pressors. Mild fever persists.*
+
+---
+
+### PHYSICAL EXAM
+- **Gen:** Appears fatigued, mildly diaphoretic
+- **HEENT:** Pale conjunctivae, mild frontal tenderness, no sinus discharge
+- **Neck:** JVP 9cm, no carotid bruits
+- **CV:** Irreg rhythm, S3, no murmur, Impella hum audible, peripheral pulses 2+
+- **Resp:** Mild bibasilar crackles, no increased WOB
+- **Abd:** Soft, NT/ND, no HSM
+- **Ext:** No edema, cap refill <2s
+- **Neuro:** AOx3, mild HA, no focal deficit
+
+---
+
+### LABS
+
+#### CBC & CHEMISTRY TABLE
+
+| Date       | WBC   | Hgb  | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Gluc | Troponin | BNP   |
+|------------|-------|------|-------|-------|------|------|------|------|------|------|------|----------|-------|
+| 6/14 05:00 | 8.7   | 10.3 | 32.1  | 144   | 139  | 4.1  | 108  | 23   | 12   | 1.28 | 99   | 1.9      | 1780  |
+| 6/13 17:00 | 9.1   | 11.2 | 34.5  | 158   | 141  | 4.4  | 110  | 21   | 15   | 1.41 | 102  | 2.9      | 1980  |
+| 6/12 08:00 | 10.2  | 9.6  | 29.8  | 132   | 140  | 4.0  | 109  | 20   | 18   | 1.51 | 108  | 4.8      | 2180  |
+| 6/11 20:00 | 9.9   | 10.1 | 31.2  | 166   | 140  | 4.2  | 109  | 22   | 14   |      | 110  |          |       |
+| 6/11 09:00 |       |      |       |       |      |      |      |      |      |      |      |          |       |
+
+*LFTs (6/12): AST 44, ALT 36, Tbili 0.9, AlkPhos 98  
+*INR 1.3, aPTT 31 (6/12)  
+*Lactate (6/12): 3.1 → (6/13): 1.2  
+*UA (6/11): No nitrites/leuks, negative cx  
+*Blood Cx: No growth x48h
+
+---
+
+### IMAGING
+
+- **Echo (6/12):** LVEF 18%, global hypokinesis, moderate MR, RV mild dilation, no tamponade
+- **CXR (6/12):** Mild interstitial edema, Impella in place, no PNA
+- **CT Maxillofacial (6/13):** Chronic sinus changes, no acute abscess
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock, s/p Impella CP (day 3):**  
+- Likely ischemic cardiomyopathy, no acute culprit on cath  
+- HDs improved, off vasopressors, Impella flows stable, urine output >0.5 ml/kg/hr  
+- Plan: Continue Impella, daily echo for LV recovery, wean support as tolerated, monitor for hemolysis/infection, trend lactate, strict I/Os, maintain MAP >65
+
+**2. Systolic HF, new onset (EF 18%):**  
+- Aggressive diuresis (IV furosemide), euvolemic  
+- Start guideline-directed medical therapy when stable  
+- Monitor for arrhythmias, continue telemetry
+
+**3. Anemia, chronic, worsened (Hgb nadir 9.6):**  
+- Stable, likely multifactorial (chronic dz, recent UTI, acute illness)  
+- No overt bleeding, retic 2.0%, iron studies pending  
+- Monitor H/H, transfuse if <8 or symptomatic
+
+**4. Fever, mild leukocytosis:**  
+- Likely non-infectious (systemic inflammation, device)  
+- Blood/urine cx negative, no PNA on CXR  
+- Continue to monitor, daily cultures, empiric abx if clinical worsening
+
+**5. Chronic migraines:**  
+- HA less severe, no acute neuro findings  
+- Continue home regimen, prn acetaminophen, avoid triptans due to CAD
+
+**6. Prediabetes:**  
+- Glucose stable, A1c 6.2  
+- Monitor FS glucose, no insulin needed, diabetic diet
+
+**7. Chronic sinusitis:**  
+- Frontal tenderness, CT w/o acute process  
+- Saline spray, analgesia, monitor for bacterial superinfection
+
+**8. Recent E. coli UTI:**  
+- Completed nitrofurantoin, UA negative  
+- Monitor for recurrence, encourage PO fluids
+
+**9. Polypharmacy/med rec:**  
+- Review all meds, avoid nephrotoxins, adjust renally dosed meds as needed
+
+**10. Prophylaxis:**  
+- DVT: SCDs, heparin SQ  
+- GI: PPI  
+- Pressure: Q2h turns
+
+---
+
+## TO DO
+
+- Labs: Daily CBC, Chem7, lactate, coags
+- Echo tomorrow am
+- Titrate diuretics
+- Monitor for device complications
+- Early PT/OT eval
+- Family meeting re: prognosis
+
+---
+
+**Signed:**  
+T. Klein, MD  
+PGY3, Cardiology
+
+---
+
+**Next Note Due:** 6/15/2024 06:00
+
+---

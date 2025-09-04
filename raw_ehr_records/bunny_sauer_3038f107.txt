@@ -1,0 +1,158 @@
+---
+**Patient Name:** Sauer, Bunny  
+**MRN:** 00294832  
+**DOB:** 08/12/1972 (Age: 51y)  
+**Sex:** Female  
+**Admit Date:** 03/12/2024  
+**Attending:** Dr. N. Cardio  
+**Location:** CVICU, Bed 5  
+**Visit Type:** Inpatient Admission  
+**Primary Team:** Cardiology/ICU  
+**Code Status:** Full Code  
+**Allergies:** None Known
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+Ms. Bunny Sauer is a 51-year-old female with a history of prediabetes, chronic anemia, hyperlipidemia, and recent viral sinusitis who presented to the ED with acute onset dyspnea, orthopnea, and chest discomfort. She rapidly decompensated in the ED with hypotension and tachycardia and was found to be in cardiogenic shock. She required emergent transfer to the CVICU and placement of a temporary left ventricular assist device (Impella CP) for circulatory support. Her hospital course was complicated by acute renal injury, anemia requiring transfusion, and recurrent supraventricular arrhythmias. She improved with aggressive diuresis, uptitration of inotropes, and was weaned off mechanical support on hospital day 6. Below is a detailed assessment and plan.
+
+---
+
+## ASSESSMENT & PLAN
+
+### 1. Cardiogenic Shock - s/p Impella CP Placement  
+- **Summary:** Presented in shock with LVEF 15% by bedside echo, severe global hypokinesis. Etiology likely non-ischemic, viral myocarditis vs. stress-induced cardiomyopathy. No significant CAD on cath.  
+- **Course:** Required vasoactive support (dobutamine, norepinephrine), Impella CP placed for 6 days. Gradual improvement in hemodynamics, LVEF improved to 35% by day 7.  
+- **Plan:**  
+    - Continue guideline-directed medical therapy (GDMT) for HF  
+    - Monitor for arrhythmias, wean inotropes  
+    - Follow-up TTE prior to discharge  
+    - Cardiac MRI outpatient to further evaluate etiology  
+    - Cardiology f/u in 1 week
+
+### 2. Acute Kidney Injury (AKI)  
+- **Summary:** Baseline Cr ~1.0, peaked at 3.0 mg/dL on day 2, likely multifactorial (hypoperfusion, contrast, diuretics).  
+- **Course:** Required temporary furosemide drip for volume overload, improved with renal perfusion.  
+- **Plan:**  
+    - Monitor daily labs  
+    - Renal-protective strategies, avoid nephrotoxins  
+    - Nephrology consulted  
+    - Renal function improved to Cr 1.4 by discharge
+
+### 3. Anemia  
+- **Summary:** Chronic microcytic anemia, baseline Hgb ~10g/dL. On admission Hgb 8.7, dropped to 7.9 on day 3.  
+- **Course:** Received 2 units PRBCs, iron studies pending.  
+- **Plan:**  
+    - Continue iron supplementation  
+    - Monitor CBC Q24h  
+    - GI workup outpatient
+
+### 4. Arrhythmias (SVT, occasional PVCs)  
+- **Summary:** Multiple episodes of SVT, no sustained VT.  
+- **Course:** Required IV metoprolol, resolved with optimization of volume status.  
+- **Plan:**  
+    - Continue metoprolol  
+    - Monitor telemetry  
+    - Outpatient Holter if symptoms recur
+
+### 5. Hyperlipidemia / Prediabetes  
+- **Summary:** LDL 138, HDL 67, A1c 5.9%.  
+- **Plan:**  
+    - Continue simvastatin  
+    - Lifestyle counseling  
+    - Endocrinology f/u as outpatient
+
+### 6. Viral Sinusitis / Pharyngitis  
+- **Summary:** Mild URI symptoms on admission, resolved by day 4.  
+- **Plan:**  
+    - Supportive care  
+    - No antibiotics needed
+
+### 7. Social/Discharge Planning  
+- **Plan:**  
+    - PT/OT evaluation  
+    - Cardiac rehab referral  
+    - Discharge to home with family support
+
+---
+
+## ICU DAILY LABS
+
+| Date        | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plts (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Ca (mg/dL) | AST (U/L) | ALT (U/L) | Alk Phos (U/L) | Trop I (ng/mL) |
+|-------------|------------|------------|---------|-------------|-------------|------------|-------------|--------------|-------------|------------|-------------|------------|-----------|-----------|----------------|----------------|
+| 3/12/24 05:00 | 6.0        | 8.7        | 27.4    | 398         | 138         | 5.2        | 104         | 17           | 32          | 2.8        | 132         | 8.5        | 19        | 25        | 102            | 0.04           |
+| 3/13/24 06:00 | 7.3        | 8.2        | 26.1    | 352         | 141         | 4.8        | 100         | 18           | 41          | 3.0        | 114         | 8.2        | 21        | 26        | 98             | 0.05           |
+| 3/14/24 05:30 | 6.8        | 7.9        | 24.7    | 344         | 143         | 4.3        | 102         | 19           | 49          | 2.9        | 92          | 8.1        | 18        | 24        | 99             | 0.03           |
+| 3/15/24 06:10 | 8.2        | 9.5        | 29.8    | 378         | 140         | 4.7        | 101         | 21           | 37          | 2.2        | 98          | 8.7        | 13        | 23        | 104            | 0.02           |
+| 3/16/24 05:20 | 7.4        | 10.1       | 30.9    | 340         | 142         | 4.9        | 99          | 22           | 20          | 1.7        | 105         | 8.8        | 15        | 27        | 101            | 0.01           |
+| 3/17/24 05:45 | 5.9        | 11.2       | 33.6    | 366         | 141         | 4.5        | 102         | 23           | 18          | 1.4        | 110         | 8.9        | 14        | 26        | 99             | <0.01          |
+| 3/18/24 06:00 | 6.1        | 11.1       | 33.3    | 369         | 140         | 4.6        | 101         | 22           | 17          | 1.4        | 108         | 8.9        | 13        | 24        | 97             | <0.01          |
+| 3/19/24 05:30 | --         | 12.0       | 35.2    | 380         | --          | 4.7        | 103         | 23           | 16          | 1.3        | 101         | 9.0        | --        | 22        | 100            | --             |
+
+*Missing values indicate labs not collected or resulted.*
+
+---
+
+## VITAL SIGNS SUMMARY (Selected)
+
+| Date/Time        | HR | BP        | RR | Temp (°C) | SpO2 | O2 Device     | Pain |
+|------------------|----|-----------|----|-----------|------|--------------|------|
+| 3/12/24 04:55    | 122| 82/56     | 26 | 38.1      | 92%  | NRB 15L       | 6    |
+| 3/12/24 09:00    | 108| 97/63     | 20 | 37.7      | 96%  | HFNC 40%      | 3    |
+| 3/13/24 06:00    | 98 | 104/69    | 18 | 37.5      | 97%  | NC 4L         | 2    |
+| 3/14/24 06:00    | 88 | 112/76    | 16 | 37.2      | 98%  | RA            | 1    |
+| 3/16/24 07:00    | 82 | 116/74    | 14 | 36.8      | 98%  | RA            | 0    |
+| 3/18/24 08:00    | 80 | 118/78    | 16 | 36.7      | 98%  | RA            | 0    |
+
+---
+
+## PROCEDURES
+
+- 3/12/24: Emergent Impella CP placement via right femoral artery for refractory cardiogenic shock.  
+- 3/13/24: Right heart cath (no significant CAD).  
+- 3/14/24: TTE (LVEF improved to 25%).  
+- 3/17/24: Impella weaned and removed at bedside.  
+- 3/18/24: Repeat TTE (LVEF 35%).
+
+---
+
+## MEDICATIONS (Inpatient)
+
+- Simvastatin 10 mg nightly
+- Metoprolol tartrate 25 mg BID
+- Furosemide IV 40 mg q8h (tapered off by day 7)
+- Dobutamine IV (weaned off by day 5)
+- Norepinephrine IV (off by day 3)
+- Aspirin 81 mg daily
+- Iron sucrose IV 200 mg x2 doses
+- Potassium chloride PRN
+- PRBCs 2 units (3/14/24)
+- Acetaminophen 650 mg PRN
+
+---
+
+## IMAGING
+
+- CXR 3/12/24: Pulmonary congestion, no infiltrate, Impella device in place.
+- TTE 3/12/24: Severe global hypokinesis, LVEF 15%
+- Cardiac MRI: To be scheduled outpatient
+
+---
+
+## DISCHARGE PLANS
+
+- Discharge home with family
+- Outpatient follow-up with Cardiology, Nephrology, and Primary Care
+- Continue GDMT for HF, Simvastatin, Iron, Metoprolol
+- Cardiac rehab referral
+
+---
+
+**Physician:** Dr. N. Cardio  
+**Date/Time:** 3/19/2024 09:00  
+**Electronically Signed**
+
+---
+
+**(For additional details, see progress notes dated 3/12/24 – 3/19/24 and consults in chart.)**

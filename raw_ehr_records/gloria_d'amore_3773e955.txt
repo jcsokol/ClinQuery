@@ -1,0 +1,145 @@
+**Patient Name:** Gloria D'Amore  
+**MRN:** 00293847  
+**DOB:** 06/17/1986  
+**Sex:** Female  
+**Admit Date:** 03/21/2024  
+**Attending:** Dr. J. Hermandez  
+**Service:** Cardiac ICU  
+**Note Date:** 03/26/2024  
+**Note Type:** ICU Progress Note – Problem-Based Assessment & Plan  
+
+---
+
+### Chief Complaint:
+Shortness of breath, hypotension, and chest pain
+
+---
+
+### HPI:
+Gloria D'Amore is a 37-year-old female with a history of hypertension, remote forearm laceration, and previous normal pregnancies, who presented to the ED with acute onset chest pain and dyspnea. She described substernal chest pressure radiating to her left arm, associated with diaphoresis and nausea. Initial evaluation revealed hypotension (SBP 82 mmHg), tachycardia (HR 112), and hypoxia (O2 sat 89% on RA). She was admitted to the ICU for cardiogenic shock.  
+
+She decompensated in the ICU with worsening lactic acidosis and required vasopressor support. Cardiology was consulted, and emergent bedside echocardiogram showed severely reduced LVEF (~15%), global hypokinesis, and moderate mitral regurg. Given persistent shock despite escalating pressors, decision was made for percutaneous placement of a temporary left ventricular assist device (Impella CP) on hospital day 2.  
+
+---
+
+### Hospital Course Summary:
+- **Day 1:** Admitted to ICU, started on norepinephrine and dobutamine for cardiogenic shock. Labs notable for elevated troponin and metabolic acidosis.
+- **Day 2:** Ongoing hemodynamic instability, Impella CP placed at bedside. Improved MAP, weaned off norepinephrine after 8 hrs.
+- **Day 3:** LVEF remains ~15-20%. Developed mild AKI (Cr peaked at 1.7). Diuresis initiated.  
+- **Day 4:** Stable on Impella, weaning inotropes. Mild transaminitis noted.  
+- **Day 5:** Gradual improvement in urine output and mentation.  
+- **Day 6:** Impella weaned and removed. LVEF improved to 30%.  
+
+---
+
+## Problem-Based Assessment & Plan
+
+### 1. Cardiogenic Shock secondary to Acute Systolic Heart Failure (likely ischemic)
+- Impella CP placed for hemodynamic support, now weaned and removed.
+- Continue low-dose dobutamine for inotropic support, plan to wean as tolerated.
+- Maintain MAP >65 mmHg, monitor for arrhythmias.
+- Serial TTEs to monitor recovery.
+- Cardiac cath pending to evaluate for ischemic etiology; consider cardiac MRI if non-ischemic suspected.
+- Strict fluid balance, daily weights, and input/output monitoring.
+- Consult advanced heart failure team.
+
+### 2. Hypertension
+- Held home antihypertensives during shock.
+- Restart amlodipine/hctz/olmesartan as tolerated after hemodynamic stabilization.
+- Monitor BP q4h.
+
+### 3. Acute Kidney Injury (multifactorial: hypoperfusion, nephrotoxic meds)
+- Cr peaked at 1.7, now trending down to 1.3.
+- Avoid nephrotoxins, adjust meds for renal dosing.
+- Strict I/Os, daily BMP.
+- Nephrology consult if worsening.
+
+### 4. Transaminitis
+- Mild elevation in AST/ALT (peak AST 98, ALT 74 on day 4), likely ischemic hepatitis.
+- Monitor LFTs q48h.
+- Avoid hepatotoxic meds.
+
+### 5. Anemia of critical illness
+- Hgb nadir 9.8, now stable.
+- No transfusion needed unless Hgb <7.5 or symptomatic.
+
+### 6. History of laceration of forearm
+- No acute issues, wound well-healed; no signs of infection.
+
+### 7. Contraceptive management
+- Home contraceptives held on admission.
+- OB consult for contraception planning on discharge.
+
+### 8. Pain control
+- Mild pain, managed with PRN acetaminophen.
+- Avoid NSAIDs due to AKI.
+
+### 9. DVT prophylaxis
+- SQ heparin 5000 units q8h while on Impella.
+- SCDs in place.
+
+### 10. Nutrition
+- NPO x24h post-Impella, now on cardiac diet.
+- Dietician following.
+
+---
+
+## Medications (Active)
+- Dobutamine 2.5 mcg/kg/min IV
+- Furosemide 20 mg IV q12h
+- SQ Heparin 5000 units q8h
+- Amlodipine/hydrochlorothiazide/olmesartan (on hold, resume when stable)
+- Acetaminophen 650 mg PO q6h PRN
+- Pantoprazole 40 mg IV q24h
+
+---
+
+## Labs
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | AST (U/L) | ALT (U/L) | Troponin (ng/mL) |
+|------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|-----------|-----------|------------------|
+| 3/21/24    | 12.4       | 13.2       | 39      | 210        | 133         | 4.5        | 98          | 17           | 22          | 1.3        | 112         | 55        | 38        | 1.97             |
+| 3/22/24    | 11.1       | 12.8       | 37      | 184        | 130         | 4.1        | 100         | 15           | 29          | 1.7        | 144         | 61        | 46        | 2.21             |
+| 3/23/24    | 9.8        | 11.4       | 33      | 155        | 135         | 3.7        | 101         | 19           | 33          | 1.6        | 138         | 82        | 64        | 1.33             |
+| 3/24/24    | 8.2        | 10.7       | 31      | 140        | 138         | 3.9        | 104         | 22           | 28          | 1.3        | 126         | 98        | 74        | 0.43             |
+| 3/25/24    | 7.6        | 9.8        | 29      | 130        | 137         | 4.2        | 103         | 24           | 23          | 1.3        | 119         | 52        | 41        | 0.09             |
+| 3/26/24    | 8.1        | 10.3       | 31      | 137        | 138         | 4.0        | 102         | 23           | 18          | 1.1        | 104         | 38        | 29        | <0.01            |
+
+*Some labs not obtained daily; missing values left blank.
+
+---
+
+## Vitals (selected trends)
+
+- **3/21:** BP 82/51, HR 112, RR 22, Temp 98.1 F, SpO2 89% RA
+- **3/22:** BP 94/62 (on norepi), HR 109, RR 18, Temp 99.0 F, SpO2 94% 2L NC
+- **3/23:** BP 100/68 (on Impella), HR 97, RR 16, Temp 98.6 F, SpO2 96% 2L NC
+- **3/24:** BP 108/74, HR 84, RR 16, Temp 98.7 F, SpO2 98% RA
+- **3/25:** BP 116/78, HR 76, RR 14, Temp 98.4 F, SpO2 99% RA
+
+---
+
+## Imaging/Diagnostics
+
+- **TTE 3/21:** Severely reduced LVEF (~15%), global hypokinesis, mod MR, mildly dilated LV
+- **TTE 3/25:** LVEF improved to 30%, mild MR
+- **CXR 3/21:** Pulmonary vascular congestion, small bilateral pleural effusions, Impella catheter in place
+- **Cardiac enzymes:** Troponin peaked at 2.21 ng/mL, trending down
+
+---
+
+## Disposition/Plan
+- Continue ICU monitoring for 24 hrs post-Impella removal
+- If stable, transfer to step-down with ongoing HF management
+- Cardiac cath scheduled 3/27
+- Multidisciplinary team (cardiology, nephrology, nutrition, OB)
+
+---
+
+**Physician:**  
+Dr. J. Hermandez, MD  
+Attending, Cardiac ICU
+
+---
+
+**END OF NOTE**

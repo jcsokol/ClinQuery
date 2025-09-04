@@ -1,0 +1,129 @@
+```
+Patient Name: Sina Wolff             MRN: 00481327
+DOB: 06/22/1995 (Age 28)             Sex: Female
+Admission Date: 03/06/2024           Attending: Dr. H. Nguyen, Cardiology
+Admitting Dx: Cardiogenic shock s/p acute decompensated heart failure
+Allergies: NKDA
+Code Status: Full Code
+
+---------------------------------------------------------------------------
+HOSPITAL COURSE SUMMARY (ICU)
+
+Sina Wolff, a 28-year-old female with a history notable for hypertension, multiple prior pregnancies, and remote concussion, presented to the ED with acute-onset dyspnea, orthopnea, and chest tightness following a viral illness. She was found to be hypotensive, tachycardic, and hypoxic in the ED; initial workup showed elevated troponin, BNP, and evidence of pulmonary edema on CXR. She rapidly decompensated into cardiogenic shock (SBP 70s), requiring norepinephrine, dobutamine, and urgent admission to the cardiac ICU.
+
+Given refractory shock, a decision was made to place a temporary percutaneous left ventricular assist device (Impella CP) for hemodynamic support. Patient stabilized over 4 days, then weaned off pressors, and Impella was explanted on ICU day 6. She was transitioned to oral afterload reduction and diuresis, with gradual improvement in symptoms and end-organ function.
+
+Hospitalization complicated by transient acute kidney injury (AKI), mild transaminitis, and hospital-acquired anemia. No arrhythmias, no stroke, no infection. Discharged home on hospital day 13.
+
+---------------------------------------------------------------------------
+
+ASSESSMENT & PLAN (03/19/2024)
+
+1. **Acute Decompensated Heart Failure with Cardiogenic Shock**
+   - Likely viral myocarditis (recent URI, young female, no ischemic risk factors); ruled out acute MI by cath.
+   - Required Impella LVAD for 6 days. Now off device, hemodynamically stable.
+   - ECHO: EF 20% on admit → 35% on discharge, no significant valvular disease.
+   - Plan: Continue GDMT (carvedilol, sacubitril/valsartan, spironolactone). Close HF f/u. Restrict fluids 1.5L/day. Salt <2g/day. Daily weights.
+
+2. **Hypertension**
+   - On multiple antihypertensives pre-admit (amlodipine/HCTZ/olmesartan, HCTZ, atenolol/chlorthalidone)
+   - Now on carvedilol, losartan, HCTZ low dose. BP 110-120s/70s, euvolemic.
+   - D/c amlodipine due to hypotension during shock.
+   - Plan: Monitor BP, adjust meds as tolerated.
+
+3. **Acute Kidney Injury (resolved)**
+   - Likely multifactorial: hypoperfusion, diuretics, contrast exposure.
+   - Peak Cr 2.1, baseline 0.8. Now trending down, UOP >0.5ml/kg/hr.
+   - Plan: Monitor BMP, avoid nephrotoxins, f/u outpatient nephrology.
+
+4. **Transaminitis (resolved)**
+   - Mild AST/ALT elevation (AST 188, ALT 154) on day 2, likely ischemic hepatitis.
+   - Downtrending, no evidence of ongoing injury.
+   - Plan: No hepatotoxic meds, monitor LFTs.
+
+5. **Hospital-Acquired Anemia**
+   - Hgb nadir 8.6, likely dilutional + phlebotomy losses.
+   - No overt bleeding. Hgb 9.9 at discharge. 
+   - Plan: Iron studies outpatient, PO iron.
+
+6. **Remote Concussion, Wrist Sprain**
+   - No acute neuro findings. Wrist pain resolved.
+
+7. **Viral Sinusitis (resolved)**
+   - Initial URI symptoms improved, no fever.
+
+8. **Contraception/Pregnancy**
+   - Not currently pregnant. OCPs held during acute illness.
+   - Plan: Resume OCPs after discharge, per GYN.
+
+9. **VTE Prophylaxis**
+   - On heparin SQ during ICU stay, now ambulating.
+
+10. **Vaccinations/Preventive Care**
+    - Up to date. Flu and COVID vaccines this season.
+
+---------------------------------------------------------------------------
+
+LAB SUMMARY
+
+| Day | Date       | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | AST (U/L) | ALT (U/L) | BNP (pg/mL) | Troponin (ng/mL) |
+|-----|------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|-----------|-----------|-------------|------------------|
+| 1   | 03/06/24   | 12.3       | 13.2       | 40      | 355        | 135         | 4.9        | 99          | 18           | 28          | 1.6        | 112         | 68        | 79        | 6500        | 0.18             |
+| 2   | 03/07/24   | 14.1       | 12.2       | 37      | 308        | 132         | 5.4        | 102         | 17           | 34          | 2.1        | 128         | 188       | 154       | 7200        | 0.12             |
+| 3   | 03/08/24   | 13.7       | 11.4       | 34      | 280        | 133         | 5.1        | 100         | 16           | 37          | 2.0        | 108         | 111       | 114       | --          | --               |
+| 4   | 03/10/24   | 10.9       | 10.2       | 32      | 254        | 137         | 4.4        | 99          | 23           | 23          | 1.2        | 94          | 67        | 59        | 4800        | 0.06             |
+| 5   | 03/12/24   | 9.8        | 8.6        | 29      | 220        | 139         | 4.0        | 104         | 25           | 18          | 0.9        | 88          | 42        | 39        | 3200        | <0.04             |
+| 6   | 03/14/24   | 8.6        | 9.1        | 31      | 205        | 141         | 4.1        | 106         | 27           | 15          | 0.8        | 92          | 28        | 30        | 1900        | <0.04             |
+| 7   | 03/17/24   | 7.9        | 9.9        | 34      | 232        | 142         | 4.2        | 108         | 28           | 12          | 0.8        | 96          | --        | --        | 850         | <0.04             |
+
+*Some lab values not collected every day. BNP, troponin trended daily until device explantation (03/12), then spaced out.*
+
+---------------------------------------------------------------------------
+
+VITALS (Selected)
+
+| Date       | Temp (°C) | HR (bpm) | BP (mmHg) | RR | O2 Sat (%) | Weight (kg) |
+|------------|-----------|----------|-----------|----|------------|-------------|
+| 03/06/24   | 37.8      | 124      | 78/44     | 28 | 91         | 54.3        |
+| 03/07/24   | 36.9      | 112      | 90/56     | 24 | 95         | 54.0        |
+| 03/10/24   | 36.7      | 88       | 112/74    | 18 | 97         | 54.6        |
+| 03/14/24   | 36.4      | 70       | 118/76    | 16 | 98         | 54.8        |
+| 03/19/24   | 36.5      | 68       | 116/72    | 14 | 99         | 55.0        |
+
+---------------------------------------------------------------------------
+
+MEDICATIONS (INPATIENT)
+
+- Carvedilol 6.25mg BID → titrated up
+- Sacubitril/valsartan 24/26mg BID
+- Spironolactone 25mg QD
+- Furosemide IV, then PO
+- Heparin SQ BID (VTE prophylaxis)
+- Acetaminophen PRN
+- OCPs held during ICU stay
+- Losartan 25mg QD (replaced olmesartan)
+- HCTZ 12.5mg QD
+- Atorvastatin 20mg QD
+- Pantoprazole 40mg QD
+
+---------------------------------------------------------------------------
+
+IMAGING
+
+- CXR: Pulmonary edema, small bilateral effusions (admit)
+- ECHO: EF 20% (admit) → 35% (pre-discharge), mild global hypokinesis, no RV failure
+- Cardiac Cath: No CAD, normal coronaries
+
+---------------------------------------------------------------------------
+
+DISCHARGE INSTRUCTIONS
+
+- Strict fluid and salt restriction
+- Daily weights, monitor for SOB, edema
+- Follow up: HF clinic 3 days, nephrology 2 wks, PCP 1 wk, GYN as outpatient
+- Resume OCPs in 2 weeks if stable
+
+---------------------------------------------------------------------------
+
+Attending: H. Nguyen, MD           Resident: J. Lee, MD           ICU RN: M. Carter, RN
+```

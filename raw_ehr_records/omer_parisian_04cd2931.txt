@@ -1,0 +1,214 @@
+---
+**Epic EHR - Progress Note: ICU Admission**
+
+**Patient:** Omer Parisian  
+**MRN:** 0039942-ICU  
+**DOB:** 1985-01-09 (Age: 39)  
+**Sex:** Male  
+**Date of Admission:** 2024-05-21  
+**Attending:** Dr. Alexei McTavish  
+**Location:** MICU, Bed 4B
+
+---
+
+### **Chief Complaint**
+Acute respiratory distress, hypotension, and altered mental status.
+
+---
+
+### **History of Present Illness**
+39-year-old male with a past medical history notable for epilepsy (on diazepam), seizure disorder, and prior acute allergic reactions, who presented to the ED after a witnessed tonic-clonic seizure at home. Per family, patient became unresponsive with perioral cyanosis and had a prolonged post-ictal period. EMS noted hypotension (BP 76/45), hypoxemia, and diffuse urticaria. In ED, he developed worsening hypotension, acute hypoxic respiratory failure, and was intubated for airway protection. He required escalating vasopressor support and was transferred to the ICU.
+
+Within hours of ICU admission, he developed acute cardiogenic shock refractory to fluids and pressors, with echocardiogram demonstrating severe global LV dysfunction (EF 18%). Due to persistent shock and end-organ hypoperfusion, a percutaneous temporary left ventricular assist device (Impella CP) was placed at bedside.
+
+---
+
+### **Past Medical History**
+- Epilepsy (diagnosed age 19, well controlled until recent events)
+- Seizure disorder (single complex febrile seizure as child, now with recurrent events)
+- History of acute allergic reaction (anaphylaxis to nuts as child)
+- Atopy: multiple environmental allergies (see labs)
+- No known cardiac history until this admission
+
+---
+
+### **Past Surgical History**
+- None
+
+---
+
+### **Medications Prior to Admission**
+- Diazepam [Valium] 5mg BID PRN
+- predniSONE 5mg PO daily (for allergy prophylaxis)
+- Astemizole 10mg PO daily
+
+---
+
+### **Allergies**
+- Tree nuts (anaphylaxis)
+- Environmental: pollen, cat dander, dust mite
+
+---
+
+### **Family History**
+- Mother: Asthma, atopy
+- Father: HTN, MI age 65
+- Sibling: Epilepsy
+
+---
+
+### **Social History**
+- Lives with partner, works as accountant
+- Non-smoker, no EtOH, no illicit drugs
+
+---
+
+### **Review of Systems**  
+Unable to obtain secondary to intubation and sedation.
+
+---
+
+### **Physical Exam**
+**Vitals on admission:**  
+- Temp: 36.7°C  
+- HR: 131  
+- BP: 82/41 (on norepinephrine, vasopressin)  
+- RR: ventilated  
+- SpO2: 98% (FiO2 0.6)  
+
+**General:** Intubated, sedated, CVC and arterial line in place  
+**HEENT:** Normocephalic, pupils 3mm, sluggish  
+**CV:** Tachycardic, S1/S2, no murmurs, cold extremities, pulses weak  
+**Resp:** Bilateral crackles, decreased breath sounds bases  
+**Abd:** Soft, non-tender, hypoactive  
+**Ext:** No edema, mild cyanosis toes  
+**Neuro:** Intubated, opens eyes to pain, no purposeful movement, GCS 6  
+**Skin:** Diffuse urticaria, no angioedema
+
+---
+
+### **Hospital Course (ICU Day 6)**
+
+**Day 1-2:**  
+- Intubated for airway protection post seizure, hypotension, and hypoxemia  
+- Required high dose norepinephrine, vasopressin  
+- Echocardiogram: severe global LV dysfunction, EF 18%, no RV strain  
+- Lactate up to 6.2 mmol/L, acute renal injury (Cr 2.1 baseline 0.9)  
+- Impella CP placed for cardiogenic shock, improved MAP and urine output  
+- Started on broad-spectrum antibiotics (cefepime, vanc) for possible aspiration pneumonia
+
+**Day 3-4:**  
+- Vasopressors weaned  
+- Impella continued, echo improved EF to 28%  
+- Renal function improving, extubated day 4  
+- Neurologic exam: following simple commands, no focal deficit  
+- Allergy consult: high IgE to multiple allergens; started on cetirizine, prednisone continued
+
+**Day 5-6:**  
+- Impella weaned, removed on day 5  
+- Transitioned to nasal cannula  
+- Ambulating with PT, neuro status intact  
+- Discharge planning underway
+
+---
+
+### **Laboratory Data**
+
+#### ICU Admission Labs (selected values)
+| Date        | WBC  | Hgb  | Plt  | Na | K  | Cl | CO2 | BUN | Cr | Glu | AST | ALT | Trop I | Lactate |  
+|-------------|------|------|------|----|----|----|-----|-----|----|-----|-----|-----|--------|---------|  
+| 5/21 06:12  | 4.6  | 16.6 | 444  | 138| 4.8| 102| 19  | 21  |2.1 | 128 | 41  | 37  | <0.01  | 6.2     |  
+| 5/21 18:00  | 7.8  | 14.8 | 202  | 134| 4.2| 98 | 15  | 27  |1.7 | 139 | 38  | 35  | 0.13   | 4.4     |  
+| 5/22 06:00  | 9.1  | 13.3 | 189  | 140| 4.0| 105| 22  | 17  |1.3 | 112 | 33  | 32  | 0.04   | 2.3     |  
+| 5/23 06:15  | 8.2  | 12.9 | 215  | 142| 4.5| 107| 25  | 13  |1.0 | 99  | 28  | 29  | <0.01  | 1.1     |  
+| 5/24 07:30  | 7.3  | 13.1 | 234  | 139| 3.9|    |     | 12  |0.9 | 88  |     |     | <0.01  |         |  
+| 5/25 08:00  |      | 13.7 | 255  | 140| 4.3| 105| 24  | 10  |0.8 | 102 | 24  | 28  | <0.01  |         |  
+
+#### **Allergy Panel (pre-admission)**
+- Peanut IgE: 1.97 kU/L (nl <0.1)
+- Egg white IgE: 18.25 kU/L (nl <0.1)
+- Cat dander IgE: 97.7 kU/L (nl <0.1)
+- Cladosporium herbarum IgE: 97.9 kU/L (nl <0.1)
+- Common Ragweed IgE: 21.28 kU/L (nl <0.1)
+- White oak IgE: 6.17 kU/L (nl <0.1)
+
+---
+
+### **Imaging**
+- **Echocardiogram (5/21):** Severe global LV hypokinesis, EF 18%. Mild MR, no pericardial effusion.
+- **Repeat Echo (5/24):** EF improved to 38%, mild MR persists.
+- **CT Head (5/21):** No acute process, chronic microvascular changes.
+
+---
+
+### **Procedures**
+- Endotracheal intubation (5/21)
+- CVC and A-line placement (5/21)
+- Impella CP placement (5/21), removed (5/25)
+
+---
+
+### **Assessment & Plan (Problem-Based)**
+
+**1. Cardiogenic Shock, severe LV dysfunction (likely catecholamine-induced or stress-related)**
+   - Temporary Impella CP placed, now removed
+   - Continue goal-directed medical therapy, ACEi/beta-blocker titration as tolerated
+   - Monitor for arrhythmias
+   - Serial echocardiograms
+
+**2. Status Epilepticus/Epilepsy**
+   - Diazepam held during intubation, now resumed
+   - EEG: no epileptiform activity, no subclinical seizures
+   - Neurology to follow, consider levetiracetam for future prophylaxis
+
+**3. Acute Allergic Reaction/Anaphylaxis**
+   - Urticaria resolved, no angioedema
+   - Prednisone taper, cetirizine added
+   - Avoidance education, outpatient allergy follow-up
+
+**4. Acute Kidney Injury, resolved**
+   - Likely secondary to hypoperfusion
+   - Renal function normalized, continue to monitor
+
+**5. Aspiration Pneumonitis, HAP risk**
+   - Cefepime/vanc x 5d, now stopped
+   - No ongoing fever or leukocytosis
+
+**6. Critical Illness Polyneuropathy/Myopathy**
+   - Mild weakness, improving with PT/OT
+   - Rehabilitative therapies ongoing
+
+**7. Nutrition**
+   - NG feeds during intubation, now on regular diet
+   - Monitor for refeeding syndrome
+
+**8. DVT Prophylaxis**
+   - SQ heparin, SCDs
+
+**9. Disposition**
+   - Stepdown unit when stable, anticipate discharge home in 2-3 days
+
+---
+
+### **Orders**
+- Serial CBC, chem7, cardiac markers q24h
+- Strict I/O
+- Telemetry
+- PT/OT daily
+- Allergy precautions (no nuts, environmental triggers)
+- Cardiology, Neurology, Allergy/Immunology consults
+
+---
+
+### **Additional Notes**
+- Social work involved for discharge planning
+- Family updated daily; patient now able to communicate
+
+---
+
+**Signed:**  
+Alexei McTavish, MD  
+ICU Attending  
+2024-05-26 10:45
+
+---

@@ -1,0 +1,161 @@
+```
+-----------------------------------------------------------------------
+EpicCare Inpatient - Progress Note                          [Page 1/5]
+-----------------------------------------------------------------------
+
+Patient Name: Jose Waelchi
+MRN: 00421987
+DOB: 1956-12-30 (Age: 67)
+Sex: Male
+Date of Admission: 2024-04-13
+Attending: Dr. M. Patel, MD
+Service: Cardiac ICU
+
+Reason for Admission:
+Acute decompensated heart failure with cardiogenic shock requiring temporary left-sided mechanical circulatory support (Impella CP).
+
+History of Present Illness:
+67-year-old male with PMHx significant for HTN, RA (on methotrexate), recurrent viral URIs, and remote cystitis who presented to the ED with 4 days of progressive dyspnea, orthopnea, and non-productive cough. He reported chest tightness and lower extremity swelling. On arrival, he was tachypneic, hypotensive (SBP 84 mmHg), and hypoxic (SpO₂ 88% RA). Initial troponin elevated, BNP >2500, CXR: pulmonary edema. Echo: LVEF 15%, global hypokinesis. He rapidly developed worsening shock requiring norepinephrine, dobutamine, and subsequently, placement of Impella CP for circulatory support.
+
+Hospital Course (Summary):
+- Day 1: Intubated for hypoxic respiratory failure. Started on pressors/inotropes. Emergent Impella CP placed in cath lab.
+- Day 2: Remained hemodynamically unstable. Developed AKI, oliguria. Methotrexate held.
+- Day 3: Improved cardiac index, weaned off norepinephrine. Extubated.
+- Day 4: Diuresed aggressively, improved volume status. Impella removed.
+- Day 5-7: Transferred to stepdown. Persistent mild AKI, improved respiratory status. Mobilizing with PT.
+
+Past Medical History:
+- Hypertension
+- Rheumatoid arthritis (on methotrexate)
+- Recurrent viral sinusitis/pharyngitis
+- Acute bronchitis (remote)
+- Cystitis (remote)
+
+Past Surgical History:
+- None
+
+Medications on Admission:
+- Amlodipine/HCTZ/Olmesartan 5/12.5/20 mg daily
+- Methotrexate 10 mg weekly (held)
+- Naproxen 500 mg BID PRN
+- Acetaminophen 325 mg PRN
+- Nitrofurantoin 5 mg/mL oral suspension PRN
+- Phenazopyridine 100 mg PRN
+
+Allergies:
+- NKDA
+
+Social History:
+- Former smoker (quit 20 yrs ago)
+- Rare EtOH
+- Lives with spouse; retired
+
+Family History:
+- CAD (father), HTN (mother)
+
+Review of Systems:
+Unable to obtain complete ROS at initial presentation due to acuity/intubation.
+
+-----------------------------------------------------------------------
+Vitals & Monitoring                                         [Page 2/5]
+-----------------------------------------------------------------------
+
+| Date       | Temp (C) | HR   | BP           | RR   | SpO₂ | Weight (kg) |
+|------------|----------|------|--------------|------|------|-------------|
+| 4/13/2024  | 37.6     | 112  | 84/55        | 26   | 88%  | 83.0        |
+| 4/14/2024  | 37.2     | 104  | 94/62        | 22   | 93%  | 81.2        |
+| 4/15/2024  | 36.9     | 92   | 97/64        | 18   | 96%  | 79.7        |
+| 4/16/2024  | 37.1     | 88   | 108/70       | 16   | 97%  | 78.9        |
+| 4/17/2024  | 36.8     | 86   | 114/74       | 16   | 97%  | 78.4        |
+
+-----------------------------------------------------------------------
+Laboratory Results (CBC, Chem7, Cardiac Markers, etc.)      [Page 3/5]
+-----------------------------------------------------------------------
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | HCO3 | BUN  | Cr   | Glu  | Troponin I | BNP    |
+|------------|------|------|------|------|------|------|------|------|------|------|------|------------|--------|
+| 4/13/2024  | 8.6  | 14.5 | 39.7 | 206  | 132  | 5.2  | 102  | 21   | 34   | 1.9  | 148  | 0.45       | >2500  |
+| 4/14/2024  | 11.3 | 13.2 | 36.1 | 188  | 130  | 4.8  | 100  | 18   | 46   | 2.7  | 136  | 0.21       | 2240   |
+| 4/15/2024  | 9.0  | 12.8 | 34.9 | 175  | 135  | 4.1  | 102  | 22   | 38   | 2.1  | 118  | <0.01      | 1620   |
+| 4/16/2024  | 7.1  | 13.5 | 36.8 | 196  | 138  | 3.9  | 103  | 24   | 29   | 1.6  | 112  | <0.01      | 890    |
+| 4/17/2024  | 6.8  | NA   | 38.1 | 201  | 140  | 4.2  | 104  | 25   | 23   | 1.3  | 106  | NA         | 530    |
+
+Additional Labs:
+- AST/ALT: 48/56 (4/13/24), trending down to 28/34 (4/17/24)
+- Total bilirubin: 1.2 → 0.7
+- CRP: 12.1 → 4.2
+- ESR: 65 (elevated, likely RA)
+- UA: negative for infection
+
+-----------------------------------------------------------------------
+Problem-Based Assessment & Plan                             [Page 4/5]
+-----------------------------------------------------------------------
+
+1. **Cardiogenic shock, acute decompensated heart failure (LVEF 15%)**
+   - Likely ischemic vs. non-ischemic (workup ongoing)
+   - Required Impella CP for ~72h for circulatory support
+   - Weaned off pressors, Impella removed after hemodynamic stability
+   - Guideline-directed medical therapy (GDMT) for HF initiated
+   - Daily weights, I/Os, strict fluid management
+   - Cardiology following
+
+2. **Acute kidney injury (multifactorial: hypoperfusion, diuretics)**
+   - Monitored urine output, daily BMP
+   - Held nephrotoxins (methotrexate, NSAIDs)
+   - Renal function improving, now Cr 1.3 (baseline ~1.0)
+
+3. **Rheumatoid arthritis**
+   - Methotrexate held during AKI/critical illness
+   - Rheum consult: resume low-dose steroids if needed for flares
+   - Monitor for infection
+
+4. **Hypertension**
+   - Restarted home regimen as tolerated
+   - BP monitored closely
+
+5. **Volume overload/pulmonary edema**
+   - Aggressive IV diuresis
+   - Serial CXRs, daily weights
+
+6. **Recent viral URIs/bronchitis**
+   - No evidence bacterial superinfection
+   - Supportive care
+
+7. **Remote cystitis**
+   - Asymptomatic, no acute issues
+
+8. **Functional status/deconditioning**
+   - PT/OT consulted, progressive ambulation
+
+9. **Other**
+   - DVT prophylaxis (SCDs, LMWH)
+   - Stress ulcer prophylaxis
+   - Fall precautions
+
+-----------------------------------------------------------------------
+Physician Orders, Discharge Planning, Miscellaneous         [Page 5/5]
+-----------------------------------------------------------------------
+
+Active Orders:
+- Telemetry monitoring
+- Cardiac diet, 2g Na restriction, fluid restriction 1.5L/day
+- IV furosemide 40mg BID, titrate per response
+- Restarted Amlodipine/HCTZ/Olmesartan as BP allows
+- Hold methotrexate until renal function stable
+- Acetaminophen PRN pain/fever
+- Incentive spirometry
+- Outpatient follow-up: Cardiology, Rheumatology
+
+Discharge Planning:
+- Anticipate transfer to acute rehab after stepdown
+- Education: HF self-management, med adherence
+
+Miscellaneous:
+- Son visited on Day 6, brought patient’s favorite slippers
+- Sleep interrupted by nighttime lab draws
+- Awaiting insurance approval for outpatient cardiac rehab
+
+-----------------------------------------------------------------------
+End of Note                                                 [Page 5/5]
+-----------------------------------------------------------------------
+```

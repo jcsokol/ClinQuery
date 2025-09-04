@@ -1,0 +1,142 @@
+**EPIC EHR - INPATIENT PROGRESS NOTE**  
+**Patient:** Ondricka, Zula  
+**MRN:** 00211837  
+**DOB:** 04/25/1957 (Age: 67)  
+**Sex:** Female  
+**Admission Date:** 05/29/2024  
+**Attending:** Dr. S. Patel  
+**Service:** Cardiac ICU  
+**Note Date:** 06/04/2024  
+**Location:** ICU, Bed 12  
+
+---
+
+### **Reason for Admission**
+67-year-old female with past medical history significant for prediabetes, anemia, recurrent sinusitis, and recent strep pharyngitis, presenting with acute decompensated heart failure and cardiogenic shock, requiring temporary mechanical circulatory support.
+
+---
+
+### **Hospital Course Summary**
+Ms. Zula Ondricka was admitted from the ED after presenting with progressive dyspnea, orthopnea, and lower extremity edema. She was found to be hypotensive and tachycardic with escalating oxygen requirements. Initial labs significant for elevated BNP, troponin, and worsening renal function. Due to refractory cardiogenic shock despite high-dose inotropes and vasopressors, she was transferred to the Cardiac ICU and a percutaneous left-sided temporary ventricular assist device (Impella CP) was inserted on HD#2 for hemodynamic support. Her course was complicated by transient AKI, mild hemolysis, and anemia requiring transfusion. She was weaned off mechanical support on HD#6 and is currently stable on guideline-directed medical therapy.
+
+---
+
+## **Problem-Based Assessment & Plan**
+
+### 1. **Cardiogenic Shock/Acute Decompensated Heart Failure**
+- **Assessment**: Likely ischemic in etiology, with acute on chronic systolic dysfunction (EF 25% on echo). Required Impella CP placement on HD#2 due to persistent hypotension and end-organ hypoperfusion.
+- **Plan**:
+  - Continue hemodynamic monitoring (A-line, Swan-Ganz catheter).
+  - Titrate IV milrinone, transition to oral GDMT as tolerated (metoprolol succinate, sacubitril/valsartan, spironolactone).
+  - Daily TTE to monitor LV function and Impella flows.
+  - Evaluate for CAD with left heart cath (done HD#3: 2-vessel disease, non-obstructive).
+  - Wean Impella per protocol, device removed HD#6.
+  - Strict I/Os, daily weights.
+
+### 2. **Anemia**
+- **Assessment**: Chronic microcytic anemia, worsened acutely by device-related hemolysis and iatrogenic blood loss.
+- **Plan**:
+  - Monitor CBC daily.
+  - Transfuse PRBC if Hgb <7 g/dL or symptomatic.
+  - Iron studies, B12, folate pending.
+  - No evidence of GI bleed; stool guaiac negative.
+
+### 3. **Acute Kidney Injury**
+- **Assessment**: Likely multifactorial—pre-renal (low flow), nephrotoxic meds, and hemolysis.
+- **Plan**:
+  - Renal consult obtained.
+  - Hold nephrotoxic agents.
+  - Maintain MAP >65 mmHg.
+  - Monitor UOP, daily lytes.
+  - Renal function improved after Impella wean.
+
+### 4. **Prediabetes**
+- **Assessment**: HbA1c 5.9%. No hypoglycemia/hyperglycemia observed during admission.
+- **Plan**:
+  - Continue current diet.
+  - Monitor fasting glucose BID while in ICU.
+  - Outpatient endocrinology follow-up.
+
+### 5. **Infection/Antibiotic Management**
+- **Assessment**: Recent strep pharyngitis, viral sinusitis. No evidence of sepsis.
+- **Plan**:
+  - Completed 7-day amoxicillin/clavulanate, penicillin V at home.
+  - Monitor for fevers/leukocytosis.
+  - Blood cultures negative.
+
+### 6. **Other Problems**
+- Hypertension: Hold ACEi during AKI, restart as tolerated.
+- Dyslipidemia: Continue atorvastatin 40 mg nightly.
+- DVT prophylaxis: SCDs, SQ enoxaparin unless contraindicated.
+- Physical therapy: Initiate as tolerated.
+- Social work: Discharge planning; home support needed.
+
+---
+
+## **Vital Signs (selected)**
+| Date        | Temp (C) | HR (bpm) | BP (mmHg) | RR | SpO2 | Weight (kg) |
+|-------------|----------|----------|-----------|----|------|-------------|
+| 5/29/2024   | 38.0     | 112      | 82/52     | 24 | 94%  | 90.6        |
+| 5/30/2024   | 37.6     | 108      | 90/58     | 22 | 95%  | 90.2        |
+| 6/1/2024    | 37.2     | 96       | 112/66    | 18 | 98%  | 89.9        |
+| 6/4/2024    | 36.8     | 82       | 118/72    | 16 | 99%  | 89.7        |
+
+---
+
+## **Laboratory Results (CBC, CHEM7, others)**
+**(Labs missing on some days as indicated)**
+
+| Date       | WBC   | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2   | BUN   | Cr    | Glucose | Troponin I | BNP    |
+|------------|-------|------|------|------|------|------|------|-------|-------|-------|---------|------------|--------|
+| 5/29/24    | 4.3   | 9.2  | 27.4 | 360  | 139  | 4.0  | 110  | 20.7  | 28    | 1.32  | 75      | 0.18       | 1620   |
+| 5/30/24    | 5.1   | 8.6  | 25.1 | 344  | 137  | 4.6  | 108  | 21.2  | 34    | 1.61  | 80      | 0.23       | 1850   |
+| 5/31/24    | 6.2   | 7.8  | 22.3 | 316  | 135  | 5.2  | 106  | 19.9  | 38    | 2.04  | 92      | 0.20       |        |
+| 6/1/24     | 5.8   | 8.0  | 23.1 | 330  | 138  | 4.3  | 109  | 22.5  | 26    | 1.42  | 88      | 0.12       | 1220   |
+| 6/2/24     | 5.4   | 9.7  | 28.6 | 355  | 140  | 4.1  | 111  | 23.1  | 18    | 1.18  | 86      | <0.01      | 890    |
+| 6/3/24     | 4.9   | 10.2 | 30.2 | 372  | 142  | 4.0  | 113  | 23.9  | 15    | 1.04  | 84      | <0.01      | 540    |
+| 6/4/24     | 4.4   | 10.8 | 32.1 | 360  | 139  | 4.3  | 110  | 24.2  | 14    | 1.01  | 82      | <0.01      | 420    |
+
+**Other Labs**:
+- **LDH**: Peak 540 U/L (HD#3), now 310 U/L (HD#6)
+- **Haptoglobin**: <10 mg/dL (HD#3; hemolysis)
+- **Total Bilirubin**: 2.1 mg/dL (HD#3), 1.1 mg/dL (HD#6)
+- **AST/ALT**: Mild elevation (AST 60, ALT 48 HD#3), now normalizing
+- **Iron panel**: Pending
+- **PT/INR**: 1.1
+
+---
+
+## **Procedures**
+- **Impella CP placement** (left femoral, HD#2)
+- **Swan-Ganz catheter placement** (HD#2)
+- **Left heart catheterization** (HD#3)
+- **Impella explant** (HD#6)
+
+---
+
+## **Medications**
+- Milrinone IV (weaning)
+- Metoprolol succinate 12.5 mg qd (initiated HD#5)
+- Sacubitril/valsartan 24/26 mg qd (initiated HD#6)
+- Furosemide IV 40 mg BID, now PO
+- Atorvastatin 40 mg qhs
+- Amoxicillin/clavulanate (completed)
+- Penicillin V (completed)
+- PRBC transfusion x2 (HD#3, HD#4)
+- Enoxaparin 40 mg SQ qd
+
+---
+
+## **Discharge Planning**
+- Anticipated transfer to telemetry, then home with home health.
+- Follow-up: Cardiology, nephrology, PCP, social work.
+
+---
+
+**Physician:** S. Patel, MD  
+**Co-signed by:** L. Nguyen, MD (Cardiology Fellow)  
+**Date/Time:** 06/04/2024 10:17
+
+---
+
+**END OF NOTE**

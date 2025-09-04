@@ -1,0 +1,201 @@
+---
+**Epic EHR - Patient Chart**
+
+**Patient Name:** Myrl Hegmann  
+**MRN:** 0072384  
+**DOB:** 1952-06-25 (71 y/o)  
+**Sex:** Female  
+**Admitting Physician:** Dr. S. Konrad  
+**Admission Date:** 2024-05-19  
+**Service:** Cardiac ICU  
+**Attending:** Dr. T. Bowers  
+**Consults:** Cardiology, Pulmonology, Endocrinology, Ortho, Infectious Disease  
+**Allergies:** NKDA  
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+**Reason for Admission:**  
+71-year-old female with PMHx significant for severe osteoporosis, recurrent osteoarthritis, recent hip fracture, and acute bronchitis, presenting with 3 days of progressive dyspnea, orthopnea, and lower extremity edema. On arrival, she was found to be in acute decompensated heart failure with evidence of cardiogenic shock and severe hypoxemia. She subsequently required temporary left ventricular support (Impella CP) due to persistent hypotension and low cardiac output despite maximal medical therapy.
+
+**Hospital Course:**  
+- Initial stabilization in the ED with BiPAP, IV diuresis, and vasopressors.
+- Rapid decompensation with hypotension and rising lactate; transferred to Cardiac ICU.
+- Left heart cath: severe global hypokinesis, EF ~18%, no acute coronary obstruction.
+- Impella CP placed for temporary mechanical circulatory support (MCS).
+- Complicated by transient acute kidney injury, mild transaminitis, and hospital-acquired pneumonia.
+- Multidisciplinary management including aggressive physical therapy due to baseline frailty and recent hip fracture.
+- Slow wean off vasopressors, followed by Impella explant on HD#7.
+- Gradual diuresis, improvement in renal function, and recovery of mentation.
+- Discharged to rehab on HD#14.
+
+---
+
+## PROBLEM LIST
+
+1. **Cardiogenic Shock s/p Temporary LV Support (Impella)**
+2. **Acute Decompensated Heart Failure (HFrEF, new dx)**
+3. **Acute Kidney Injury, resolved**
+4. **Hospital-acquired pneumonia**
+5. **Severe osteoporosis w/ prior hip & foot fracture**
+6. **Osteoarthritis, knee**
+7. **Acute bronchitis (resolved)**
+8. **Streptococcal pharyngitis (recent)**
+9. **Chronic pain, polypharmacy**
+10. **Hyperlipidemia**
+11. **Mild transaminitis**
+12. **History of falls**
+
+---
+
+## ASSESSMENT & PLAN
+
+### 1. **Cardiogenic Shock, s/p Impella CP (Removed HD#7)**
+- Initial presentation: Hypotension, cold extremities, elevated lactate, low urine output.
+- Left heart cath: severe LV dysfunction, non-ischemic pattern.
+- Impella CP placed for hemodynamic stabilization (HD#1-7).
+- Serial TTE: gradual improvement in LVEF to ~32% by HD#9.
+- Plan: Continue guideline-directed medical therapy (GDMT), close hemodynamic monitoring, outpatient advanced HF follow-up, consideration for ICD if EF remains <35%.
+
+### 2. **Acute Decompensated Heart Failure (HFrEF, new)**
+- IV furosemide, uptitrated to continuous infusion for first 5 days.
+- Transitioned to oral diuretics as renal function improved.
+- Started on low-dose carvedilol, sacubitril/valsartan, and spironolactone.
+- Daily weights, I/Os, and strict sodium restriction.
+- Plan: Titrate GDMT as tolerated, enroll in HF education.
+
+### 3. **Acute Kidney Injury (pre-renal, multifactorial)**
+- Oliguric on HD#2-4, creatinine peaked at 2.1 mg/dL (baseline 0.9).
+- Improved with volume management, MAP optimization, and removal of nephrotoxins.
+- Renal function normalized by HD#10.
+- Plan: Monitor renal function, avoid nephrotoxins, nephrology follow-up.
+
+### 4. **Hospital-Acquired Pneumonia**
+- Developed fevers, leukocytosis, and hypoxemia on HD#6.
+- CXR: new right lower lobe infiltrate.
+- Started on IV cefepime + azithromycin, completed 7-day course.
+- Plan: Pulmonary toilet, incentive spirometry, monitor for recurrence.
+
+### 5. **Severe Osteoporosis / Pathological Hip & Foot Fractures**
+- Chronic issue, admitted with recent left hip fracture (s/p ORIF 3 wk ago).
+- T-score: -3.1.
+- On alendronate, calcium, and vitamin D.
+- Weight-bearing as tolerated with PT/OT daily.
+- Plan: Endocrine f/u, consider zoledronic acid, fall risk precautions.
+
+### 6. **Osteoarthritis (Knee)**
+- Baseline pain, managed with acetaminophen and intermittent NSAIDs.
+- Avoid NSAIDs due to AKI.
+- Plan: Topical agents, PT, consider ortho f/u outpatient.
+
+### 7. **Acute Bronchitis (Resolved)**
+- Completed abx prior to admission.
+- No current symptoms.
+- Plan: No further intervention.
+
+### 8. **Streptococcal Pharyngitis (Recent)**
+- Treated with penicillin V, resolved prior to admission.
+- Plan: No further intervention.
+
+### 9. **Chronic Pain / Polypharmacy**
+- Meds on admission: naproxen, acetaminophen, meperidine PRN.
+- Meperidine avoided during stay due to delirium risk.
+- Pain controlled with acetaminophen.
+- Plan: Pain management consult, minimize narcotics.
+
+### 10. **Hyperlipidemia**
+- On statin at home, held due to transaminitis.
+- Plan: Recheck LFTs, resume statin if improved.
+
+### 11. **Mild Transaminitis**
+- AST/ALT peaked at 2-3x ULN during shock.
+- Trending down after hemodynamic stabilization.
+- Plan: Monitor, avoid hepatotoxins.
+
+### 12. **Fall Risk**
+- Recent falls, high risk due to frailty, osteoporosis.
+- PT/OT, fall precautions, bed alarm.
+- Plan: DME on discharge, home safety eval.
+
+---
+
+## VITALS (SELECTED)
+
+| Date/Time         | BP (mmHg) | HR (bpm) | RR | Temp (C) | SpO2 | Pain (0-10) |
+|-------------------|-----------|----------|----|----------|------|-------------|
+| 5/19/2024 18:22   | 82/56     | 118      | 26 | 38.4     | 90%  | 6           |
+| 5/20/2024 07:00   | 88/60     | 102      | 22 | 37.8     | 94%  | 4           |
+| 5/22/2024 09:10   | 100/62    | 88       | 18 | 37.2     | 96%  | 2           |
+| 5/25/2024 08:00   | 108/70    | 74       | 16 | 36.8     | 98%  | 1           |
+| 5/29/2024 07:30   | 114/72    | 70       | 14 | 36.7     | 98%  | 1           |
+
+---
+
+## LABS (CBC, CHEM7, OTHER)
+
+| Date       | WBC   | Hgb   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | BNP    | Trop I   |
+|------------|-------|-------|-------|------|------|------|------|------|------|------|------|------|--------|----------|
+| 5/19/2024  | 7.1   | 14.0  | 319   | 137  | 4.2  | 102  | 23   | 32   | 1.2  | 126  | 65   | 72   | 2180   | 0.09     |
+| 5/20/2024  | 10.8  | 12.6  | 266   | 134  | 4.8  | 99   | 19   | 43   | 1.8  | 142  | 112  | 98   | 3980   | 0.14     |
+| 5/21/2024  | 11.2  | 11.8  | 244   | 132  | 5.1  | 95   | 17   | 58   | 2.1  | 150  | 108  | 104  | >5000  | 0.22     |
+| 5/22/2024  | 9.2   | 11.5  | 241   | 136  | 4.6  | 101  | 21   | 41   | 1.4  | 132  | 88   | 79   | 4150   | <0.01    |
+| 5/23/2024  | 8.4   | 11.9  | 231   | 139  | 4.2  | 103  | 24   | 36   | 1.1  | --   | 72   | 54   | 2050   | <0.01    |
+| 5/25/2024  | 7.8   | 12.8  | 245   | 140  | 4.0  | 104  | 25   | 29   | 1.0  | 122  | 39   | 42   | 900    | <0.01    |
+| 5/28/2024  | 6.9   | 13.4  | 261   | 142  | 4.1  | 106  | 26   | 27   | 0.9  | --   | 28   | 25   | 420    | <0.01    |
+| 5/29/2024  | 6.4   | 13.8  | 277   | 143  | 4.3  | 107  | 27   | 24   | 0.9  | 98   | 24   | 21   | 330    | <0.01    |
+
+*-- = Not Collected*
+
+---
+
+## IMAGING
+
+- **CXR (5/20/2024):** Mild pulmonary edema, no focal consolidation.
+- **CXR (5/22/2024):** Right lower lobe infiltrate, small pleural effusion.
+- **TTE (5/21/2024):** Severe global hypokinesis, EF 18%, moderate MR.
+- **TTE (5/28/2024):** EF improved to ~32%, mild MR.
+
+---
+
+## PROCEDURES
+
+- **Left Heart Cath & Impella CP Placement:** 5/19/2024  
+- **Impella CP Removal:** 5/26/2024  
+- **Central line, arterial line placement**  
+- **Foley catheter (removed HD#12)**
+
+---
+
+## DISCHARGE MEDICATIONS
+
+- Carvedilol 3.125 mg BID
+- Sacubitril/valsartan 24/26 mg BID
+- Spironolactone 25 mg QD
+- Furosemide 40 mg QD
+- Alendronate 10 mg QD
+- Calcium/vitamin D
+- Acetaminophen 650 mg PRN
+- Atorvastatin 20 mg QHS (hold if LFTs ↑)
+- Docusate 100 mg BID
+- Bisacodyl 10 mg PRN
+
+---
+
+## RECOMMENDATIONS
+
+- Close follow-up with HF clinic, repeat TTE in 6–8 weeks
+- Cardiac rehab referral
+- Endocrinology for osteoporosis management
+- PT/OT: continue at SNF
+- Home safety evaluation
+- Outpatient labs in 1 week
+
+---
+
+## SIGNED  
+Dr. T. Bowers, MD  
+Cardiology ICU  
+2024-05-29 16:12
+
+---

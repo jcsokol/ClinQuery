@@ -1,0 +1,186 @@
+**Patient Name:** Goyette, Pablo  
+**MRN:** 001928374  
+**DOB:** 02/15/1963 (61 years)  
+**Sex:** Male  
+**Date of Admission:** 06/10/2024  
+**Date of Service:** 06/10/2024 – 06/17/2024  
+**Attending:** Dr. M. Hargrove MD  
+**Unit:** MICU  
+**Consults:** Cardiology, Infectious Disease, Dermatology  
+**Allergies:** NKDA  
+
+---
+
+# ICU Progress Note
+
+---
+
+**Chief Complaint:**  
+"Shortness of breath, chest pain, and lightheadedness for 2 days."
+
+---
+
+**History of Present Illness:**  
+61-year-old male with a history of obesity, chronic intractable migraines, atopic dermatitis, and recent viral sinusitis who presented to the ED with acute onset of severe chest pain, dyspnea, and near-syncope. On arrival, he was tachycardic (HR 124), hypotensive (BP 82/54), and hypoxic (SpO2 89% RA). ECG: anterior STEMI. Troponin peaked at 12 ng/mL. Emergent cardiac cath revealed 100% occlusion of the proximal LAD. Underwent PCI with DES placement, but developed profound cardiogenic shock requiring pressors and subsequent placement of a temporary percutaneous LV assist device (Impella CP) for hemodynamic support.
+
+---
+
+**Past Medical History:**  
+- Atopic dermatitis  
+- Obesity (BMI previously >30, now 27)  
+- Chronic intractable migraines w/o aura  
+- Viral sinusitis (recent, treated with Augmentin)  
+- Hyperlipidemia (well controlled)  
+
+**Past Surgical History:**  
+- None
+
+**Family History:**  
+- Father: MI age 58  
+- Mother: HTN, T2DM
+
+**Social History:**  
+- Former smoker, quit 2010  
+- Rare EtOH, no illicit drugs  
+- Lives with wife, retired schoolteacher
+
+**Home Medications:**  
+- Amoxicillin-clavulanate (recent, for sinusitis)  
+- Atorvastatin 20mg QHS  
+- Topiramate 50mg BID  
+- PRN sumatriptan  
+
+---
+
+## VITALS (ICU Admission and Course)
+
+| Date      | Temp (°C) | HR   | BP        | RR  | SpO2 | Weight (kg) | Pain (0-10) |
+|-----------|-----------|------|-----------|-----|------|-------------|-------------|
+| 6/10      | 36.7      | 124  | 82/54     | 26  | 89%  | 79.5        | 6           |
+| 6/11      | 37.1      | 96   | 94/60     | 18  | 97%  | 79.2        | 2           |
+| 6/13      | 36.9      | 84   | 110/72    | 14  | 98%  | 78.9        | 1           |
+| 6/15      | 37.2      | 78   | 117/74    | 16  | 98%  | 79.0        | 0           |
+| 6/17      | 36.8      | 70   | 124/78    | 16  | 99%  | 79.5        | 0           |
+
+---
+
+## LABS
+
+### CBC + CHEM 7
+
+| Date      | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|-----------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|
+| 6/10      | 8.7        | 13.6       | 41.9    | 162        | 134         | 4.1        | 100         | 21           | 19          | 1.06       | 112         |
+| 6/11      | 10.2       | 12.9       | 39.8    | 154        | 131         | 4.4        | 98          | 19           | 25          | 1.34       | 138         |
+| 6/12      | 9.5        |            | 38.2    | 148        | 137         | 3.9        | 102         | 23           | 23          | 1.18       | 126         |
+| 6/13      |            | 12.8       | 39.2    |            | 139         | 4.0        | 101         | 24           | 18          | 1.02       | 109         |
+| 6/15      | 8.4        | 13.1       |         | 153        | 138         | 4.2        | 100         | 22           |             | 0.97       | 105         |
+| 6/17      | 7.9        | 13.8       | 42.2    | 158        | 140         | 4.3        | 99          | 24           | 17          | 0.95       | 98          |
+
+#### Other Labs:
+- Troponin I: 12.0 → 8.2 → 2.1 ng/mL (trended down)
+- BNP: 2,300 pg/mL (high at admission, down to 1,100 on 6/15)
+- LFTs: AST 71, ALT 66, Alk Phos 102, Tbili 1.2 (admission; normalized by 6/15)
+- Coags: INR 1.2, PT 14.1, PTT 32.2 (admission)
+- Lactate: 4.3 mmol/L (admission), normalized by 6/12
+
+---
+
+## IMAGING / PROCEDURES
+
+- **ECG:** Anterior STEMI, Q waves V2-V4
+- **Echo (6/11):** LVEF 25%, anterior wall akinesis, RV normal, no pericardial effusion  
+- **Cardiac Cath (6/10):** 100% LAD occlusion, successful PCI, no other critical lesions
+- **CXR (6/10):** Mild pulmonary edema, no consolidation
+
+- **Procedures:**  
+  - Emergent PCI  
+  - Placement of percutaneous LVAD (Impella CP)  
+  - Right IJ central line, arterial line  
+  - Foley catheter
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+Admitted for acute anterior STEMI complicated by cardiogenic shock. Required vasopressors and rapid escalation to percutaneous LVAD (Impella CP) for circulatory support. Over next 48-72h, hemodynamics improved, pressors weaned, and LVAD removed on HD4 with stable cardiac output. Renal function transiently worsened (Cr peak 1.34) but recovered. LFTs mildly elevated, likely ischemic hepatitis, resolved. No arrhythmias. Treated for aspiration pneumonia (fever, infiltrate on CXR HD2, started ceftriaxone/azithro x5 days). Atopic dermatitis flared, managed with topical steroids. Migraine prophylaxis continued. Discharged to cardiac rehab on HD7.
+
+---
+
+# ASSESSMENT & PLAN
+
+**1. Acute anterior STEMI, post-PCI, complicated by cardiogenic shock, Impella-supported**  
+- Monitor for arrhythmia, heart failure  
+- Continue guideline-directed medical therapy: ASA, ticagrelor, high-dose statin, beta-blocker, ACEi  
+- Daily ECG, telemetry  
+- Echo to reassess EF prior to discharge  
+- Cardiac rehab, dietary counseling  
+- Plan: outpatient cardiology f/u in 1 week
+
+**2. Cardiogenic shock (resolved)**  
+- Hemodynamics stable post-LVAD removal  
+- Wean pressors, monitor MAP >65  
+- Monitor renal, hepatic function  
+- No further inotropes required
+
+**3. Obesity**  
+- Dietician consult  
+- Encourage weight loss, exercise as tolerated  
+- Monitor for metabolic syndrome
+
+**4. Chronic migraines**  
+- Continue topiramate  
+- PRN sumatriptan  
+- Avoid triggers, maintain hydration
+
+**5. Atopic dermatitis (acute flare)**  
+- Topical triamcinolone  
+- Emollients, avoid irritants  
+- Dermatology f/u outpatient
+
+**6. Aspiration pneumonia (hospital-acquired, HD2, resolved)**  
+- Completed 5-day course ceftriaxone/azithro  
+- Monitor for recurrence
+
+**7. Recent viral sinusitis**  
+- Completed Augmentin prior to admission  
+- No ongoing symptoms
+
+**8. Hyperlipidemia**  
+- Continue atorvastatin  
+- Recheck lipids in 6 weeks
+
+**9. Renal dysfunction (transient, resolved)**  
+- Monitor daily labs  
+- Avoid nephrotoxins
+
+**10. Psychosocial**  
+- Supportive counseling  
+- Family at bedside
+
+**Discharge Medications:**  
+- Aspirin 81mg daily  
+- Ticagrelor 90mg BID  
+- Atorvastatin 80mg QHS  
+- Metoprolol succinate 25mg daily  
+- Lisinopril 5mg daily  
+- Topiramate 50mg BID  
+- PRN sumatriptan  
+- Triamcinolone cream PRN  
+- Emollients
+
+---
+
+**Disposition:**  
+Discharged home in stable condition with cardiac rehab and close cardiology follow-up.
+
+---
+
+**Physician:**  
+M. Hargrove, MD  
+Cardiology/Critical Care  
+06/17/2024 08:55
+
+---
+
+**(Additional documentation in flowsheets, scanned nursing notes, and procedure logs.)**

@@ -1,0 +1,161 @@
+**Patient:** Roosevelt Haley  
+**MRN:** 00438829  
+**DOB:** 08/26/1978  
+**Sex:** M  
+**Date of Admission:** 05/25/2024  
+**Attending:** Dr. Jonathan Lee  
+**Service:** Cardiac ICU
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+**Chief Complaint:**  
+Progressive dyspnea on exertion, lower extremity edema, and orthopnea for 1 week. Acute worsening with chest heaviness and near-syncope at home.  
+
+**History of Present Illness:**  
+45-year-old male with h/o hypertension, prediabetes, chronic anemia, and recent acute viral pharyngitis, presenting with 1 week of worsening dyspnea, PND, and orthopnea. On day of admission, developed near-syncope with diaphoresis and chest heaviness, prompting ED visit. On arrival: tachycardic, hypotensive, saturating 89% on RA.  
+
+Initial workup notable for elevated BNP, troponin, and lactate. EKG showed sinus tachycardia, low voltages, non-specific ST changes. CXR: pulmonary vascular congestion, mild cardiomegaly. Echo: severely reduced LVEF (~15%), severe global hypokinesis, mild MR.  
+
+Despite diuresis and inotropic support, patient remained hypotensive, oliguric, and developed signs of end-organ hypoperfusion (AKI, rising transaminases, lactic acidosis). Decision made for temporary left-sided heart pump (Impella CP) placement on hospital day 2.  
+
+**Hospital Course Highlights:**  
+- ICU admission for acute decompensated heart failure, cardiogenic shock (likely viral myocarditis vs. ischemic).
+- Mechanical circulatory support with percutaneous LVAD (Impella CP) from day 2–7.
+- Pressors/inotropes weaned by day 5, Impella explanted day 7.
+- Complicated by AKI (resolved), mild transaminitis, anemia requiring transfusion, and transient fever (no source found).
+- Stabilized, diuresed, transitioned to oral HF regimen, downgraded to telemetry on day 9.
+- Discharged home on day 12 with outpatient cardiology f/u.
+
+---
+
+## Problem-Based Assessment and Plan
+
+### 1. Cardiogenic Shock / Acute Decompensated Heart Failure (new onset, reduced EF)
+- **Assessment:** Severe global LV dysfunction, likely viral myocarditis vs. ischemic (non-obstructive coronaries on angio).
+- **Course:** Refractory shock, requiring Impella support (day 2–7). Improved with mechanical support + inotropes (milrinone 0.25–0.5 mcg/kg/min).
+- **Plan:**
+  - Continue GDMT (carvedilol, sacubitril/valsartan, spironolactone, dapagliflozin) as tolerated
+  - Close f/u with HF/transplant team
+  - Home weight checks, strict I/O, sodium restriction
+  - Cardiac MRI outpatient for etiology
+
+### 2. Hypertension
+- **Assessment:** Previously suboptimally controlled; off antihypertensives initially due to shock, now restarted.
+- **Plan:**  
+  - Restart amlodipine/olmesartan/HCTZ at lower dose, titrate up as tolerated
+  - Monitor BP daily
+
+### 3. Anemia
+- **Assessment:** Chronic, worsened during ICU stay (nadir Hgb 7.8). Transfused 1 unit PRBCs on day 3. No overt bleeding.
+- **Plan:**
+  - Monitor CBC
+  - Iron studies, B12, folate sent
+  - Outpatient GI follow-up
+
+### 4. Acute Kidney Injury (resolved)
+- **Assessment:** Multifactorial (cardiorenal, hypoperfusion, diuretics)
+- **Plan:**  
+  - Monitor creatinine, electrolytes
+  - Avoid nephrotoxins
+  - Encourage oral hydration
+
+### 5. Transaminitis
+- **Assessment:** Mild, likely ischemic hepatitis from shock; trended down after stabilization.
+- **Plan:**  
+  - Monitor LFTs
+  - No hepatotoxic meds
+
+### 6. Prediabetes
+- **Assessment:** A1c 6.1%; no DKA/HHS during stay.
+- **Plan:**  
+  - Diabetic diet
+  - Outpatient endocrinology referral
+
+### 7. Acute viral pharyngitis (resolved)
+- **Assessment:** Recent URI, now resolved. Possible trigger for myocarditis.
+- **Plan:**  
+  - No further intervention
+
+### 8. Hyperlipidemia
+- **Assessment:** LDL 73, TG 140, HDL 75.
+- **Plan:**  
+  - Start atorvastatin 20 mg daily
+
+### 9. VTE Prophylaxis
+- **Plan:** Enoxaparin 40 mg SC daily while inpatient (held during Impella placement)
+
+### 10. Physical Therapy / Mobility
+- **Plan:**  
+  - Early mobilization post-Impella  
+  - Home PT referral
+
+---
+
+## ICU VITALS & LABS
+
+#### VITALS (Selected)
+| Date        | Temp (C) | HR   | BP       | RR  | SpO2 | Weight (kg) | Pain |
+|-------------|----------|------|----------|-----|------|-------------|------|
+| 5/25/24     | 37.8     | 118  | 87/56    | 22  | 89%  | 100.2       | 2    |
+| 5/26/24     | 38.1     | 120  | 84/50    | 24  | 90%  | 99.8        | 3    |
+| 5/27/24     | 37.3     | 110  | 92/61    | 20  | 95%  | 98.5        | 1    |
+| 5/29/24     | 36.9     | 92   | 104/70   | 18  | 97%  | 97.6        | 0    |
+| 6/1/24      | 37.1     | 86   | 116/76   | 16  | 98%  | 96.8        | 0    |
+
+---
+
+#### LABS (CBC, Chem7, Cardiac, LFTs, selected)
+
+| Date      | WBC  | Hgb  | Hct  | Plt  | Na   | K   | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | T Bili | Troponin | BNP   |
+|-----------|------|------|------|------|------|-----|------|------|------|------|------|------|------|--------|----------|-------|
+| 5/25/24   | 3.7  | 10.1 | 31   | 282  | 143  | 3.9 | 108  | 26   | 10   | 1.4  | 75   | 88   | 95   | 1.6    | 1.21     | 7800  |
+| 5/26/24   | 4.5  | 8.6  | 27   | 246  | 142  | 4.1 | 110  | 22   | 19   | 2.1  | 92   | 219  | 201  | 3.2    | 1.08     | >9000 |
+| 5/27/24   | 6.1  | 7.8  | 24   | 225  | 140  | 4.5 | 108  | 25   | 25   | 2.3  | 101  | 137  | 158  | 2.4    | 0.92     | 8600  |
+| 5/28/24   | 5.9  | 8.3  | 25   | 233  | 139  | 4.3 | 106  | 25   | 23   | 1.9  | 110  | 91   | 84   | 1.2    | 0.32     | 7100  |
+| 5/30/24   | 4.2  | 9.4  | 29   | 265  | 141  | 4.2 | 109  | 27   | 15   | 1.5  | 99   | 48   | 53   | 0.7    | 0.09     | 2100  |
+| 6/1/24    | 5.0  | 10.8 | 32   | 278  | 142  | 4.1 | 108  | 26   | 13   | 1.2  | 104  | 33   | 31   | 0.6    | <0.01    | 1120  |
+| 6/2/24    |      | 11.3 | 33   |      | 143  |     |      | 25   | 12   | 1.1  |      | 28   | 25   | 0.5    | <0.01    | 900   |
+
+---
+
+## PROCEDURES
+
+**Impella CP Placement**  
+- Date: 5/26/24  
+- Indication: Cardiogenic shock refractory to pressors/inotropes  
+- Approach: Right femoral artery  
+- Periprocedural anticoagulation: IV heparin  
+- No immediate complications
+
+**Transfusion**  
+- 1 unit PRBCs on 5/27/24 for Hgb <8
+
+---
+
+## DISCHARGE MEDICATIONS
+
+- Carvedilol 3.125 mg BID
+- Sacubitril/valsartan 24/26 mg BID
+- Spironolactone 25 mg QD
+- Dapagliflozin 10 mg QD
+- Atorvastatin 20 mg QD
+- Amlodipine/Olmesartan/HCTZ 5/20/12.5 mg QD
+- Ferrous sulfate 325 mg QD
+- ASA 81 mg QD
+
+---
+
+## DISPOSITION
+
+- Discharged home, ambulatory, tolerating PO, euvolemic.
+- F/u: HF/transplant clinic 1 week, PCP 2 weeks, Cardiac MRI scheduled.
+
+---
+
+## PROVIDER SIGNATURE
+
+Jonathan Lee, MD  
+Cardiac ICU  
+06/06/2024

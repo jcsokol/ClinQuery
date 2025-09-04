@@ -1,0 +1,171 @@
+[EPIC EHR]
+
+**Patient Name:** Darrick Bergstrom  
+**MRN:** 0104421-AB  
+**DOB:** 04/27/1990 (Age: 34)  
+**Sex:** Male  
+**Admit Date:** 2024-05-18  
+**Attending:** Dr. L. Jameson  
+**Primary Team:** Cardiology/ICU  
+**Allergies:** NKDA  
+**Code Status:** Full code  
+**Height:** 182.9 cm  
+**Weight:** 93.3 kg  
+**BMI:** 27.9 kg/m²  
+
+---
+
+### CHIEF COMPLAINT
+Shortness of breath, chest tightness, and increasing fatigue for 3 days.
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+
+34-year-old male with h/o hypertension, recently treated for viral pharyngitis and sinusitis, who presented to the ED with acute onset dyspnea, orthopnea, chest discomfort, and lightheadedness. Patient reports viral URI symptoms for 10 days prior, with progressive malaise. In the ED, he was found to be hypotensive (BP 82/50), tachycardic (HR 128), and hypoxic (O2 sat 89% on RA). Initial ECG with sinus tachycardia, low voltage QRS. Troponin elevated. CXR showed pulmonary vascular congestion. Echo revealed severe global LV dysfunction (EF 18%), mild RV dysfunction.
+
+He was transferred to ICU for management of acute decompensated heart failure, likely secondary to viral myocarditis. Despite IV diuresis and inotropes, he developed worsening cardiogenic shock requiring placement of a temporary LV assist device (Impella CP) on hospital day 2.
+
+No prior cardiac hx. No tobacco, EtOH, or illicit drug use. Recent treatment for sinusitis/pharyngitis with amox/clav. No recent travel.
+
+---
+
+### HOSPITAL COURSE (Days 1-7)
+
+- **Day 1:** Admitted to ICU. Started on IV furosemide, norepinephrine, dobutamine. Worsening renal function, hypotension refractory to fluids and pressors.
+- **Day 2:** Cardiogenic shock; Impella CP inserted via femoral approach. Anticoagulation initiated. Hemodynamics improved.
+- **Day 3-5:** Gradual improvement. Ventilator weaned, extubated day 4. Renal function stabilized. Serial TTEs show improving EF to 30%.
+- **Day 6:** Impella weaned and removed. Transitioned to oral HF regimen.
+- **Day 7:** Transferred to step-down. Ambulating, tolerating PO, euvolemic.
+
+---
+
+### PAST MEDICAL HISTORY
+- Hypertension
+- Recent viral pharyngitis
+- Viral sinusitis
+
+### PAST SURGICAL HISTORY
+- None
+
+### FAMILY HISTORY
+- No premature CAD, SCD, or heart failure.
+
+### SOCIAL HISTORY
+- Non-smoker
+- No alcohol or recreational drug use
+- Lives with partner, works as software engineer
+
+### MEDICATIONS ON ADMISSION
+- Hydrochlorothiazide 25 mg QD
+- Amoxicillin/Clavulanate 250/125 mg TID (completed prior to admission)
+
+---
+
+## PHYSICAL EXAM (ICU, Day 2)
+
+**Gen:** Ill-appearing, diaphoretic, alert  
+**HEENT:** Oropharynx clear, no JVD  
+**CV:** Tachycardic, S3 gallop, no murmurs, Impella audible  
+**Lungs:** Bibasilar rales, mild respiratory distress  
+**Abd:** Soft, NT/ND  
+**Ext:** Mild pedal edema, pulses 2+  
+**Neuro:** AOx3, no focal deficits
+
+---
+
+## VITALS (Selected)
+
+| Date       | Time   | Temp (°C) | HR | BP       | RR | SpO2 (%) | Pain |
+|------------|--------|-----------|----|----------|----|----------|------|
+| 5/18/2024  | 08:12  | 37.8      | 128| 82/50   | 24 | 89       | 3    |
+| 5/18/2024  | 16:00  | 37.2      | 115| 90/54   | 20 | 92       | 2    |
+| 5/19/2024  | 07:15  | 36.9      | 110| 88/56   | 18 | 94       | 2    |
+| 5/21/2024  | 09:00  | 36.7      | 92 | 108/62  | 16 | 97       | 1    |
+
+---
+
+## LABS
+
+**CBC, Chem7, Cardiac, and Miscellaneous Labs**
+
+| Date      | WBC  | Hgb  | Hct  | Plt | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin I | BNP   | AST  | ALT  | Lactate |
+|-----------|------|------|------|-----|------|------|------|------|------|------|------|------------|-------|------|------|---------|
+| 5/18 AM   | 5.2  | 14.0 | 42.3 | 305 | 135  | 4.7  | 100  | 23   | 28   | 1.3  | 112  | 0.92       | 4200  | 67   | 43   | 3.1     |
+| 5/18 PM   | 4.8  | 13.2 | 39.5 | 281 | 133  | 4.2  | 98   | 21   | 36   | 1.9  | 128  | 1.30       | 5860  | 80   | 60   | 2.8     |
+| 5/19 AM   | 5.5  | 12.8 | 38.7 | 236 | 132  | 4.0  | 99   | 22   | 38   | 2.1  | 109  | 1.02       | 6020  | 72   | 54   | 1.7     |
+| 5/20 AM   | 7.1  | 13.6 | 41.2 | 250 | 137  | 4.3  | 101  | 24   | 30   | 1.5  | 114  | --         | 3700  | 58   | 47   | --      |
+| 5/22 AM   | 6.0  | 14.8 | 44.0 | --  | 139  | 4.1  | 102  | 25   | 18   | 1.1  | 98   | 0.18       | 1200  | 44   | 39   | 1.0     |
+
+---
+
+## IMAGING
+
+- **CXR (5/18):** Pulmonary edema, mild cardiomegaly
+- **ECHO (5/18):** EF 18%, severe global hypokinesis, mild RV dysfunction, no valve vegetations
+- **ECHO (5/21):** EF improved to 30%, mild MR, no thrombus
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock, likely viral myocarditis**
+   - Impella CP placed day 2 for acute decompensated HF, now removed day 6 after improved hemodynamics.
+   - Wean inotropes, transition to oral HF regimen (metoprolol, sacubitril/valsartan, spironolactone).
+   - Monitor for arrhythmias, repeat echo prior to DC.
+
+**2. Acute Systolic Heart Failure**
+   - Guideline-directed medical therapy initiated.
+   - Strict I/O, daily weights, low sodium diet.
+   - Fluid status: euvolemic at present.
+
+**3. Hypertension**
+   - Resumed HCTZ after stabilization.
+   - BP trending up; goal SBP >90.
+
+**4. Acute Kidney Injury (pre-renal)**
+   - Multifactorial: hypoperfusion, diuretics.
+   - Renal function improving off pressors/Impella.
+   - Monitor labs, avoid nephrotoxins.
+
+**5. Recent viral pharyngitis/sinusitis**
+   - Completed Abx prior to admission.
+   - No evidence of ongoing infection.
+
+**6. Anticoagulation**
+   - On IV heparin while Impella in place.
+   - Transitioned to SQ heparin for DVT ppx.
+
+**7. Nutrition/Rehab**
+   - High-protein diet, PT/OT consults, early mobilization.
+
+**8. Discharge Planning**
+   - Cardiac rehab referral, close outpatient cardiology f/u.
+   - Education: heart failure, sodium restriction, device site care.
+
+---
+
+## MEDICATIONS (Current)
+
+- Metoprolol succinate 50 mg PO QD
+- Sacubitril/valsartan 24/26 mg PO BID
+- Spironolactone 25 mg PO QD
+- Furosemide 40 mg PO BID
+- Hydrochlorothiazide 25 mg PO QD
+- Heparin SQ 5000u BID
+- PRN acetaminophen
+
+---
+
+**Physician:**  
+L. Jameson, MD  
+Cardiology/Critical Care
+
+---
+
+**Electronic Signature:**  
+L. Jameson, MD | 2024-05-24 10:17  
+
+---
+
+**END OF NOTE**

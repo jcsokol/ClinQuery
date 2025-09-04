@@ -1,0 +1,181 @@
+```
+----------------------------------------------------------------------
+Patient: Cruickshank, Jc                   MRN: 00648922
+DOB: 02/02/1984  Sex: M                    FIN: 3829461
+Admit Date: 04/13/2024                     Attending: Dr. Lee, Cardiac ICU
+----------------------------------------------------------------------
+
+*** ICU Progress Note ***
+Date/Time: 04/18/2024 07:02
+
+Chief Complaint:
+Acute dyspnea, chest pressure, and hypotension.
+
+History of Present Illness:
+39yo M with PMH significant for recurrent viral URIs, allergic rhinitis, and bronchitis, who presented to ED 5 days ago c/o severe SOB, orthopnea, and palpitations. Prior week: fevers, myalgias, sore throat. Initially presumed viral pharyngitis/bronchitis, but rapidly decompensated with tachycardia, hypotension refractory to fluids, and acute hypoxemic respiratory failure requiring intubation. Bedside echo in ED: LVEF ~10%, global hypokinesis, LV dilation. Troponin elevated. Cardiology consulted—concern for fulminant viral myocarditis. Emergent placement of Impella CP for cardiogenic shock. Transferred to cardiac ICU.
+
+PMHx:
+- Acute viral pharyngitis
+- Viral sinusitis
+- Acute allergic reactions
+- Acute bronchitis
+- No known CAD, DM, CKD, or prior heart failure
+
+PSHx:
+- None
+
+FHx:
+- Father: HTN, MI at age 59
+- Mother: allergic rhinitis
+
+SocHx:
+- Lives alone, works as IT consultant
+- No tobacco, rare EtOH, no illicit drugs
+
+Allergies:
+- NKDA
+
+Home Meds prior to admission:
+- Terfenadine 60 mg PO BID
+- Fluticasone MDI 2 puffs BID
+- Albuterol MDI PRN
+- Prednisone 5mg PO QD (intermittent)
+- Acetaminophen 325mg PRN
+
+----------------------------------------------------------------------
+
+Physical Exam (04/18/2024 AM):
+Gen: intubated, sedated, appears in mild distress, on vent settings PRVC 14/5, FiO2 45%
+HEENT: Oropharynx ETT secure, no edema
+CV: S1/S2, no murmur/gallop, Impella in situ, MAP 72, tachy at 110s
+Resp: Lungs diminished at bases, scattered rales, vent dependent
+Abd: soft, nontender, normal BS
+Ext: No edema, pulses 2+ bilat
+Neuro: Sedated, pupils 3mm brisk, moves all extremities to pain
+
+----------------------------------------------------------------------
+
+Review of Systems: Unable (intubated, sedated)
+
+----------------------------------------------------------------------
+
+LABS [select entries; see chart for full details]
+------------------------------------------------------
+| Date      | WBC   | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | BNP   | AST  | ALT  |
+|-----------|-------|------|------|-------|------|------|------|------|------|------|------|----------|-------|------|------|
+| 4/13/24   | 7.8   | 12.4 | 43.1 | 223   | 136  | 4.2  | 101  | 24   | 19   | 1.1  | 114  | 0.62     | 15200 | 53   | 41   |
+| 4/14/24   | 9.3   | 11.9 | 40.5 | 206   | 134  | 4.8  | 98   | 22   | 27   | 1.6  | 162  | 1.12     | 18000 | 73   | 65   |
+| 4/15/24   | 11.1  | 10.8 | 37.0 | 175   | 132  | 5.4  | 96   | 18   | 36   | 2.4  | 158  | 1.55     | 21000 | 110  | 100  |
+| 4/16/24   | 13.4  | 9.7  | 33.9 | 143   | 130  | 5.9  | 94   | 16   | 41   | 2.9  | 137  | 1.22     | 17000 | 98   | 89   |
+| 4/17/24   | 12.7  | 10.1 | 34.7 | 158   | 132  | 4.2  | 98   | 20   | 29   | 1.7  | 124  | 0.77     | 9200  | 74   | 65   |
+| 4/18/24   |       | 10.9 |      | 167   |      | 3.9  | 100  | 23   | 23   | 1.2  |      | 0.38     | 4900  | 52   |      |
+------------------------------------------------------
+Other labs: INR 1.2, PTT 38s, Lactate 2.8, CRP 92, ESR 64, CK 398 (peak 4/14), Procalcitonin 0.31
+
+----------------------------------------------------------------------
+
+IMAGING:
+- CXR 4/13: Pulmonary edema, bilateral interstitial infiltrates
+- Echo 4/13: LVEF 10%, global hypokinesis, no LV thrombus, mild MR
+- Repeat Echo 4/17: LVEF improved to 28%, Impella in place, RV function normal
+
+----------------------------------------------------------------------
+
+CURRENT MEDICATIONS (ICU):
+- Norepinephrine IV gtt (titrating, weaning)
+- Dobutamine IV gtt
+- Furosemide IV 40mg q8hr
+- Terfenadine 60 mg PO BID (held x2d for QTc)
+- Fluticasone MDI BID
+- Albuterol MDI PRN
+- Prednisone 40 mg IV daily (for suspected myocarditis)
+- Acetaminophen 650 mg PRN
+- Pantoprazole 40 mg IV daily
+- Heparin IV (Impella DVT ppx)
+- Ceftriaxone IV q24hr (empiric, d/c’d 4/16)
+- Vancomycin IV (empiric, d/c’d 4/16)
+
+----------------------------------------------------------------------
+
+ASSESSMENT & PLAN
+
+**1. Cardiogenic shock, presumed fulminant viral myocarditis, status post Impella CP insertion**
+  - Initial presentation with biventricular failure, profound LV dysfunction
+  - Impella CP placed 4/13 for hemodynamic stabilization; vasopressors/inotropes ongoing but being weaned
+  - LVEF improved on 4/17 echo (28%); Impella removal planned for 4/19 if continues to improve
+  - Plan: Continue hemodynamic monitoring, goal MAP >70, titrate pressors, daily TTE, monitor for arrhythmias, trend cardiac markers
+
+**2. Acute hypoxemic respiratory failure, intubated**
+  - Likely multifactorial: cardiogenic pulm edema, possible aspiration
+  - Vent weaning trials as tolerated, daily CXR
+  - Pulmonary toilet, HOB 30 deg, VAP prevention
+
+**3. Acute kidney injury, likely cardiorenal**
+  - Uptrending Cr to peak 2.9, now 1.2; urine output improved with diuresis
+  - Monitor lytes, daily BMP, trend BUN/Cr, avoid nephrotoxins
+
+**4. Systemic inflammatory response**
+  - Elevated CRP, ESR, mild leukocytosis, procalcitonin low (not consistent with bacterial sepsis)
+  - Continue supportive care, monitor for secondary infections
+
+**5. Electrolyte disturbances**
+  - Hyperkalemia (peak 5.9), corrected with diuresis and Kayexalate
+  - Trend lytes, replete as needed
+
+**6. Recent broad-spectrum ABX exposure**
+  - Ceftriaxone and vanc d/c’d after negative cultures, improving labs
+  - Monitor for C diff
+
+**7. Chronic allergic rhinitis, asthma**
+  - Continue home inhalers, avoid triggers in ICU
+  - Monitor for bronchospasm
+
+**8. Stress ulcer ppx, DVT ppx**
+  - Pantoprazole IV, heparin gtt (Impella)
+  - Daily LFTs, monitor for GI bleed
+
+**9. Nutrition/Support**
+  - NPO, tube feeds started 4/15, advancing as tolerated
+  - Daily weights, monitor glycemia
+
+**10. Disposition**
+  - Remains in ICU, daily multidisciplinary rounds
+  - Family updated daily
+
+----------------------------------------------------------------------
+
+ICU Flow Sheet Excerpt (selected):
+--------------------------------------------------------------
+| Date    | MAP | HR  | RR | Temp | SpO2 | UOP/24h | Pressors | Sedation | Vent Mode  |
+|---------|-----|-----|----|------|------|---------|----------|----------|------------|
+| 4/13    | 65  | 133 | 28 | 37.8 | 92% | 620     | NE, Dbt  | Propofol | PRVC 16/8  |
+| 4/14    | 73  | 124 | 22 | 38.0 | 97% | 1400    | NE, Dbt  | Propofol | PRVC 14/6  |
+| 4/15    | 75  | 119 | 20 | 37.4 | 99% | 1920    | NE, Dbt  | Dexmed   | PRVC 14/5  |
+| 4/16    | 70  | 112 | 19 | 37.2 | 97% | 2100    | NE (wean)| Dexmed   | PRVC 14/5  |
+| 4/17    | 72  | 109 | 18 | 36.9 | 98% | 2010    | none     | Dexmed   | PRVC 12/5  |
+| 4/18    | 74  | 108 | 16 | 36.7 | 99% | 2200    | none     | Dexmed   | PRVC 12/5  |
+--------------------------------------------------------------
+
+----------------------------------------------------------------------
+
+Consults:
+- Cardiology (daily)
+- Infectious Disease (4/14, 4/15)
+- Nephrology (4/15, for AKI)
+- Nutrition (4/15)
+
+----------------------------------------------------------------------
+
+To Do:
+- Continue to monitor hemodynamics, daily labs/CXR
+- Impella wean/removal goal 4/19 if stable
+- Wean vent as tolerated
+- Family meeting re: anticipated course
+
+----------------------------------------------------------------------
+
+Signature: Lee, MD (Attending, Cardiac ICU)
+----------------------------------------------------------------------
+
+***END OF NOTE***
+```

@@ -1,0 +1,163 @@
+---
+**Patient Name:** Samara Schimmel  
+**MRN:** 00836952  
+**DOB:** 1991-06-26 (Age: 32)  
+**Sex:** Female  
+**Date of Admission:** 2024-05-14  
+**Attending:** Dr. Stephen M. Roush, MD  
+**Service:** Cardiology ICU  
+**Admitting Dx:** Cardiogenic shock, postpartum, s/p temporary LVAD (Impella CP)  
+**Allergies:** No Known Drug Allergies  
+**Code Status:** Full Code  
+**Height:** 159.9 cm  
+**Weight:** 62.1 kg  
+**BMI:** 24.3 kg/m²  
+---
+
+# ICU Progress Note
+
+## SUBJECTIVE
+
+**Patient** is a 32-year-old female with a history of multiple pregnancies (including one miscarriage in the first trimester, most recent pregnancy complicated by fetal distress of unclear etiology), recently postpartum (~1 week), who presented to OSH (outside hospital) with acute onset severe dyspnea, orthopnea, and chest pain. She was initially diagnosed with acute bronchitis but rapidly deteriorated, developing hypotension and respiratory distress, requiring intubation and transfer to our ICU for management. Notably, she experienced an episode of PEA arrest in the ED, ROSC after 6 minutes of ACLS.
+
+Given ongoing hypotension and evidence of end-organ hypoperfusion (AKI, altered mental status, elevated lactate), she was emergently taken to the cath lab. Echo demonstrated severely depressed LVEF (~15%), global hypokinesis, and no significant valvular pathology. She was started on inotropes (dobutamine, milrinone), vasopressors (norepinephrine), and eventually required temporary mechanical circulatory support with an Impella CP (LVAD) for refractory cardiogenic shock.
+
+Family at bedside. Patient sedated and on mechanical ventilation. No new complaints reported overnight.
+
+---
+
+## OBJECTIVE
+
+### VITALS (Last 24h)
+| Time        | Temp (°C) | HR (bpm) | BP (mmHg) | RR (bpm) | SpO2 (%) | MAP (mmHg) |
+|-------------|-----------|----------|-----------|----------|----------|------------|
+| 05/15 07:00 | 36.8      | 111      | 91/55     | 22       | 97%      | 67         |
+| 05/15 15:00 | 37.1      | 105      | 94/58     | 20       | 98%      | 70         |
+| 05/16 06:30 | 36.5      | 98       | 102/64    | 18       | 98%      | 76         |
+| 05/16 14:00 | 36.9      | 95       | 110/70    | 16       | 99%      | 81         |
+
+**Pain Score:** Unable to assess (sedated, intubated)
+
+---
+
+### PHYSICAL EXAM (ICU, 05/16 AM)
+- **Gen:** Intubated, sedated, moderate distress. No spontaneous movement.
+- **HEENT:** Normocephalic, ETT in place, pupils 3mm, equal/reactive.
+- **CV:** Tachycardic, S1/S2, no murmur/rub/gallop, Impella hum noted.
+- **Resp:** Diminished breath sounds bilaterally, ventilated, no rales/wheezes.
+- **Abd:** Soft, nondistended, hypoactive BS, no rebound/guarding.
+- **Ext:** No edema, pulses 2+ bilat, cool peripheries.
+- **Neuro:** GCS 3T, no withdrawal to pain.
+
+---
+
+### LABS
+
+#### CBC & CHEMISTRY PANEL
+
+| Date        | WBC  | Hgb  | Hct  | Plts | Na   | K     | Cl   | HCO3 | BUN  | Cr   | Glu  |
+|-------------|------|------|------|------|------|-------|------|------|------|------|------|
+| 5/14 22:00  | 13.2 | 13.4 | 41.2 | 147  | 137  | 4.8   | 106  | 20   | 31   | 2.2  | 116  |
+| 5/15 06:30  | 15.1 | 12.9 | 40.0 | 139  | 135  | 5.2   | 104  | 18   | 40   | 2.8  | 132  |
+| 5/15 18:00  | 14.7 | 11.7 | 36.8 | 128  | 136  | 4.3   | 105  | 22   | 38   | 2.1  | 102  |
+| 5/16 07:00  | 10.9 | 12.4 | 37.2 | 156  | 138  | 4.1   | 108  | 24   | 27   | 1.4  | 98   |
+| 5/16 19:00  | 9.8  | 13.0 | 39.8 |      |      |       |      | 25   | 21   | 1.2  |      |
+| 5/17 07:00  |      | 13.6 | 41.5 | 163  | 139  | 4.0   | 109  | 25   | 17   | 1.0  | 102  |
+
+#### ADDITIONAL LABS
+
+| Date        | Troponin I | BNP    | AST   | ALT   | Alk Phos | T. bili | PT    | INR   | aPTT  | Lactate |
+|-------------|------------|--------|-------|-------|----------|---------|-------|-------|-------|---------|
+| 5/14 23:00  | 0.41       | 1820   | 61    | 47    | 143      | 0.7     | 14.2  | 1.18  | 32.5  | 4.7     |
+| 5/15 06:30  | 0.31       | 1390   | 58    | 45    | 131      | 0.6     | 13.9  | 1.16  | 31.0  | 3.9     |
+| 5/15 18:00  | 0.22       | 1100   | 49    | 39    | 126      | 0.6     | 13.1  | 1.09  | 29.8  | 2.1     |
+| 5/16 07:00  | 0.11       | 840    | 44    | 36    | 120      | 0.5     | 12.6  | 1.04  | 27.9  | 1.6     |
+
+---
+
+### IMAGING/DIAGNOSTICS
+
+- **Echo (5/14):** LVEF 15%, global hypokinesis, mild LV dilation. No significant MR/TR. No thrombus.
+- **CXR (5/15):** ETT/OGT/Impella in place. Pulmonary edema, no pneumothorax.
+- **ECG (5/14):** Sinus tach, low voltage, non-specific T-wave changes.
+
+---
+
+## ASSESSMENT & PLAN
+
+**32F, postpartum, with acute decompensated heart failure and cardiogenic shock, s/p Impella CP placement.**
+
+### Problem List & Plan
+
+1. **Cardiogenic Shock (Postpartum Cardiomyopathy, s/p Impella)**
+   - Ongoing wean of vasopressors/inotropes (on low-dose norepi, milrinone).
+   - Impella CP for mechanical support, flows currently 2.6 L/min.
+   - Daily echo to monitor LV recovery.
+   - Strict I/Os, daily weights.
+   - Monitor for hemolysis (LDH, haptoglobin), device complications.
+   - Plan: Evaluate for weaning/removal based on hemodynamics, echo.
+
+2. **Acute Decompensated Heart Failure (New Onset, Peripartum)**
+   - Continue gentle diuresis (IV furosemide).
+   - Monitor electrolytes and renal function.
+   - Titrate ACE inhibitor (enalapril) as tolerated.
+   - Cardiology and heart failure consults following.
+
+3. **Acute Kidney Injury (Likely Ischemic)**
+   - Monitor UOP, daily BMP.
+   - Renal dosing for all nephrotoxic meds.
+   - Renal consult aware; no indication for RRT at present.
+
+4. **Respiratory Failure (Intubated, Ventilated)**
+   - Lung-protective ventilation.
+   - Weaning protocol as tolerated.
+   - Daily CXR for tube/devices.
+   - SBT once hemodynamics stable.
+
+5. **Sedation/Delirium**
+   - Currently on propofol/fentanyl drip, goal RASS -2 to -3.
+   - Daily SAT/SBT.
+   - Monitor for withdrawal, agitation.
+
+6. **Infection Risk (Intubation, Device, Recent Pregnancy)**
+   - Blood, urine, respiratory cultures negative to date.
+   - Prophylactic cefazolin x 48h post-device placement, now d/c’d.
+   - Monitor for fever, leukocytosis.
+
+7. **Obstetric History/Recent Pregnancy**
+   - OB-GYN following, no vaginal bleeding.
+   - Monitor for DVT/PE, VTE prophylaxis with heparin SQ.
+   - No lactation support needed (family request).
+
+8. **Contraception**
+   - Continue Errin, review long-term options with GYN after acute recovery.
+
+9. **Nutrition**
+   - NPO, on tube feeds via OGT.
+   - Monitor glucose, electrolytes.
+
+10. **Psychosocial**
+    - Family updated daily.
+    - Social work and case management involved.
+
+---
+
+## DISPOSITION
+
+- Remains in CICU, close hemodynamic monitoring.
+- Prognosis: Guarded, but improving LV function.
+- Anticipate Impella wean next 24-48h if clinical improvement continues.
+- Will re-evaluate for transfer to stepdown once extubated and off mechanical support.
+
+---
+
+### Attestation
+
+**Stephen M. Roush, MD**  
+Cardiology ICU
+
+---
+
+**[End of Note]**
+
+---

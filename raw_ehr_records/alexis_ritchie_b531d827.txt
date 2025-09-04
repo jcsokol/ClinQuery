@@ -1,0 +1,145 @@
+---
+**Patient Name:** Alexis Ritchie  
+**MRN:** 00498214  
+**DOB:** 2003-04-07 (Age: 21)  
+**Sex:** Male  
+**Admitting Attending:** Dr. S. Patel  
+**Date of Admission:** 2024-05-11  
+**Date of Note:** 2024-05-18  
+**Service:** Cardiac ICU  
+**Admitting Dx:** Cardiogenic shock, acute decompensated heart failure  
+**Secondary Dx:** Allergic rhinitis, s/p appendectomy, acute bronchitis (resolved), h/o otitis media, hand laceration (resolved)  
+**Code Status:** Full code  
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+Alexis Ritchie is a 21-year-old male with no known history of cardiovascular disease, who presented to the ED with acute onset chest pain, progressive shortness of breath, orthopnea, and near-syncope. He was initially found to be tachycardic, hypotensive, and hypoxic. His initial workup revealed elevated cardiac markers, biventricular dysfunction on TTE, and evidence of pulmonary edema on CXR. He rapidly decompensated on the floor with worsening shock, requiring transfer to the CICU, intubation, vasopressors, and eventually placement of a temporary left-sided heart pump (Impella CP) for hemodynamic support.
+
+**Pertinent PMHx:**  
+- Perennial allergic rhinitis  
+- S/p appendectomy (2019)  
+- H/o acute bronchitis, otitis media, hand laceration (all resolved)
+
+**Pertinent FHx:**  
+- No known familial cardiomyopathies  
+- Mother with mild asthma
+
+**Pertinent SHx:**  
+- Non-smoker, no ETOH, no illicit drugs  
+- College student, lives with roommates
+
+---
+
+## VITAL SIGNS SUMMARY (ICU)
+
+| Date        | Temp (C) | HR (bpm) | BP (mmHg)      | RR (/min) | SpO2 (%) | Pain (0-10) |
+|-------------|----------|----------|----------------|-----------|----------|-------------|
+| 5/11/2024   | 37.2     | 128      | 85/56 (MAP 66) | 28        | 91% RA   | 7           |
+| 5/12/2024   | 36.8     | 112      | 92/60          | 22        | 94% 2LNC | 4           |
+| 5/13/2024   | 36.5     | 96       | 107/68         | 18        | 97%      | 2           |
+| 5/14/2024   | 36.3     | 88       | 112/72         | 16        | 98%      | 0           |
+| 5/15/2024   | 36.7     | 90       | 118/76         | 16        | 98%      | 0           |
+| 5/16/2024   | 36.9     | 92       | 116/74         | 16        | 98%      | 0           |
+| 5/17/2024   | 36.6     | 86       | 120/78         | 16        | 98%      | 0           |
+| 5/18/2024   | 36.5     | 82       | 122/80         | 14        | 98%      | 0           |
+
+---
+
+## LABORATORY DATA
+
+**CBC & CHEMISTRIES**
+
+| Date      | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | HCO3 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|-----------|------------|------------|---------|------------|-------------|------------|-------------|---------------|-------------|------------|-------------|
+| 5/11/24   | 7.8        | 13.0       | 40      | 190        | 136         | 4.8        | 101         | 19            | 17          | 1.1        | 104         |
+| 5/12/24   | 9.2        | 12.2       | 36      | 158        | 132         | 5.4        | 97          | 15            | 23          | 1.5        | 134         |
+| 5/13/24   | 11.0       | 10.6       | 32      | 120        | 130         | 6.1        | 95          | 12            | 33          | 2.0        | 178         |
+| 5/14/24   | 8.1        | 11.4       | 34      | 136        | 134         | 4.3        | 98          | 19            | 21          | 1.3        | 122         |
+| 5/15/24   | 7.0        | 12.9       | 39      | 151        | 137         | 4.1        | 101         | 21            | 18          | 1.0        | 104         |
+| 5/16/24   |  —         | 13.1       | —       | 163        | 138         | 3.9        | 103         | —             | 15          | 1.0        | —           |
+| 5/17/24   | 6.8        | 13.2       | 40      | 169        | 139         | 4.0        | 104         | 22            | 13          | 0.9        | 98          |
+| 5/18/24   | 6.9        | 13.1       | 38      | 172        | 140         | 4.2        | 104         | 23            | 12          | 0.8        | 91          |
+
+**OTHER LABS**
+
+| Date      | Troponin I (ng/mL) | BNP (pg/mL) | ALT (U/L) | AST (U/L) | Alk Phos (U/L) | T. Bili (mg/dL) | INR |
+|-----------|--------------------|-------------|-----------|-----------|----------------|-----------------|-----|
+| 5/11/24   | 0.33               | 5800        | 55        | 68        | 120            | 1.3             | 1.1 |
+| 5/12/24   | 0.42               | 7300        | 72        | 104       | 135            | 2.1             | 1.3 |
+| 5/13/24   | 0.29               | 6600        | 88        | 119       | 154            | 2.0             | 1.6 |
+| 5/14/24   | 0.17               | 4200        | 62        | 87        | 110            | 1.1             | 1.2 |
+| 5/15/24   | 0.08               | 1990        | 44        | 56        | 96             | 0.8             | 1.1 |
+| 5/16/24   | —                  | 1200        | 35        | 39        | 82             | 0.6             | 1.0 |
+| 5/17/24   | —                  | 900         | —         | —         | —              | —               | 1.0 |
+| 5/18/24   | —                  | 650         | 30        | 34        | 70             | 0.5             | 1.0 |
+
+---
+
+## HOSPITAL COURSE BY PROBLEM
+
+### 1. **Cardiogenic Shock / Acute Decompensated Heart Failure**
+- **Assessment:** Presented with acute heart failure, likely secondary to fulminant myocarditis (viral vs. idiopathic). Rapid progression to cardiogenic shock refractory to medical therapy.
+- **Hospital Course:** Required norepi, dobutamine, and vasopressin. Refractory hypotension and rising lactate prompted temporary MCS with Impella CP on HD#1. Gradual improvement in hemodynamics, weaned off vasopressors by HD#4, Impella weaned and removed on HD#5. Cardiac MRI: global hypokinesis, LVEF nadir ~15%, improved to 40% by discharge.
+- **Plan:** Continue goal-directed medical therapy for HF (carvedilol, low-dose ACE-I, Lasix PRN). Cardiology f/u. Consider endomyocardial biopsy if recurrent. Strict I/O, daily weights.
+
+### 2. **Acute Kidney Injury (AKI)**
+- **Assessment:** Multifactorial AKI (cardiorenal, hypotension, nephrotoxic exposure). Peak Cr 2.0, improved with hemodynamic support.
+- **Plan:** Renal dosing of all meds, avoid nephrotoxins, monitor UOP. Nephrology f/u as outpatient.
+
+### 3. **Transaminitis / Acute Liver Injury**
+- **Assessment:** Likely shock liver. Transaminases peaked 104/119, normalized with improved perfusion.
+- **Plan:** Monitor LFTs, no evidence of chronic liver disease.
+
+### 4. **Perennial Allergic Rhinitis**
+- **Assessment:** Chronic, well-controlled on loratadine, no exacerbation during admission.
+- **Plan:** Resume home loratadine.
+
+### 5. **History of Appendectomy**
+- **Assessment:** No surgical complications.
+- **Plan:** No intervention needed.
+
+### 6. **Infection Prophylaxis**
+- **Assessment:** Intubated x 3 days, central line, Impella. No evidence of VAP, CLABSI, or UTI.
+- **Plan:** Continue VAP/CLABSI/UTI prevention bundles, d/c abx after 48h negative cultures.
+
+### 7. **Nutrition**
+- **Assessment:** Mild malnutrition on admission (BMI 17.8), improved oral intake as shock resolved.
+- **Plan:** High protein diet, nutritionist consult, monitor prealbumin.
+
+### 8. **Pain/Delirium/Sedation**
+- **Assessment:** Moderate pain initially, well-controlled after extubation. Mild ICU delirium on HD#2–3, resolved.
+- **Plan:** Non-opioid analgesics, reorientation, sleep hygiene.
+
+### 9. **Other Chronic Conditions**
+- **Assessment:** H/o bronchitis, otitis media, hand laceration – all resolved, no acute issues.
+- **Plan:** None.
+
+---
+
+## DISCHARGE MEDICATIONS
+
+- Carvedilol 3.125 mg PO BID
+- Lisinopril 2.5 mg PO QD
+- Furosemide 20 mg PO PRN
+- Loratadine 5 mg PO QD
+- Acetaminophen 325 mg PO PRN
+- Ibuprofen 100 mg PO PRN
+
+---
+
+## DISPOSITION
+
+- Discharged home, stable, close cardiology f/u in 1 week
+- Strict return precautions reviewed
+
+---
+
+## SIGNED:  
+S. Patel, MD (Cardiology/Critical Care)  
+5/18/2024, 13:22
+
+---
+
+**[End of Record]**

@@ -1,0 +1,145 @@
+---
+**Patient:** Sharri Cormier  
+**MRN:** 00678123  
+**DOB:** 08/11/1927 (Age: 96)  
+**Sex:** Female  
+**Admission date:** 04/04/2024  
+**Attending:** Dr. Mark O’Neill  
+**Consultants:** Cardiology, ID, Pulm/CCM  
+**Location:** MICU, Room 14B
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+Sharri Cormier, a 96-year-old female with a complex history notable for viral sinusitis, recurrent otitis media, acute bronchitis (multiple episodes), and a remote concussion, presented to the ED with acute-onset dyspnea, orthopnea, and progressive weakness over 3 days. She rapidly decompensated with hypotension and hypoxemic respiratory failure requiring intubation and transfer to the MICU. Imaging and cardiac biomarkers suggested an acute anterior STEMI complicated by profound cardiogenic shock. After multidisciplinary discussion, a temporary percutaneous left ventricular assist device (Impella CP) was placed for hemodynamic stabilization. Her ICU course was further complicated by AKI, delirium, and nosocomial pneumonia.
+
+---
+
+### ASSESSMENT & PLAN (04/08/2024, ICU Day #5)
+
+#### 1. **Cardiogenic Shock s/p STEMI, on temporary LVAD (Impella CP)**
+- **Summary:** Acute anterior STEMI → profound LV dysfunction (EF 18%) → cardiogenic shock refractory to pressors/inotropes.
+- **Course:** Impella CP placed on HD#2; improved MAPs, lactate downtrending.
+- **Plan:**
+  - Continue Impella support, daily weaning trial as tolerated.
+  - Daily echo to assess LV recovery.
+  - Maintain MAP >65, titrate vasopressors.
+  - Strict I/Os, daily weights.
+  - Consider transition to IABP or explant if LV function improves.
+
+#### 2. **Acute Hypoxemic Respiratory Failure**
+- **Summary:** Intubated for hypoxia and hypercapnia. 
+- **Course:** CXR: bilateral infiltrates; negative pro-BNP, positive for pneumonia (see below).
+- **Plan:**
+  - Lung-protective ventilation, daily SBTs, target extubation ASAP.
+  - Pulmonary toilet, elevate HOB, DVT/ulcer prophylaxis.
+  - Daily ABGs, CXR PRN.
+
+#### 3. **Nosocomial Pneumonia**
+- **Summary:** Developed fever, increased secretions, new infiltrate on HD#3.
+- **Plan:**
+  - Continue pip/tazo, vancomycin pending cultures.
+  - De-escalate abx per sensitivities.
+  - Monitor WBC, procalcitonin.
+
+#### 4. **Acute Kidney Injury (KDIGO II)**
+- **Summary:** Baseline Cr 0.9, up to 2.1 on HD#4 (likely multifactorial: shock, nephrotoxins, contrast).
+- **Plan:**
+  - Avoid nephrotoxins, optimize volume status.
+  - Renal dosing for all meds.
+  - Nephrology consult.
+
+#### 5. **Delirium**
+- **Summary:** ICU delirium, fluctuating course.
+- **Plan:**
+  - Minimize sedation, promote day/night cycle.
+  - Family re-orientation, early PT/OT consult.
+
+#### 6. **History of Viral Sinusitis, Otitis Media, Acute Bronchitis**
+- **Summary:** Not active issues during current admission. No evidence of superimposed sinus or ear infection.
+
+#### 7. **Remote Concussion**
+- **Summary:** No neurologic deficits, non-contributory.
+
+#### 8. **Other Issues**
+- **Nutrition:** NGT feeds, consult nutrition.
+- **VTE Prophylaxis:** Heparin SQ.
+- **Pressure Ulcer Prevention:** Turn q2h.
+- **Code Status:** Full, discussed with family.
+
+---
+
+### ICU FLOW SHEET (SELECTED LABS & VITALS)
+
+| Date        | WBC   | Hgb   | Hct   | Plt   | Na    | K    | Cl    | CO2   | BUN   | Cr    | Glu   | Troponin | BNP      |
+|-------------|-------|-------|-------|-------|-------|------|-------|-------|-------|-------|-------|----------|----------|
+| 4/04/2024   | 4.1   | 14.2  | 41.1  | 211   | 137   | 4.1  | 100   | 23    | 18    | 0.9   | 122   | 18.3     | 1100     |
+| 4/05/2024   | 3.8   | 13.9  | 40.2  | 198   | 135   | 4.5  | 99    | 22    | 22    | 1.4   | 138   | 14.7     | 970      |
+| 4/06/2024   | 5.6   | 12.8  | 37.5  | 182   | 134   | 4.0  | 102   | 21    | 34    | 1.9   | 146   | 8.4      | —        |
+| 4/07/2024   | 8.9   | 12.1  | 35.6  | 164   | 136   | 3.7  | 101   | 20    | 38    | 2.1   | 149   | —        | 720      |
+| 4/08/2024   | 7.2   | 12.9  | 36.2  | 175   | 137   | 4.3  | —     | 23    | 31    | 1.8   | 143   | —        | —        |
+
+**Additional Labs:**  
+- **LFTs:** AST 33, ALT 29, TBili 1.5, Alk Phos 104 (4/06/24)  
+- **INR:** 1.3 (4/05/24)  
+- **ABG (4/05/24):** 7.28 / 52 / 62 / 21 / 98%  
+- **Lactate:** 5.1 → 2.2 (4/04–4/06)
+
+---
+
+### VITALS SUMMARY
+
+- **Temp:** 36.7–38.2°C (max 38.2°C on HD#3)
+- **HR:** 62–110 bpm (afib w/ RVR on HD#2, now NSR)
+- **BP:** MAP 52–84 mmHg (on norepi, weaning)
+- **RR:** 18–34/min (vent dependent)
+- **SpO2:** 91–99% (FiO2 0.6–1.0)
+
+---
+
+### MEDICATIONS (ACTIVE)
+
+- Aspirin 81 mg PO daily
+- Atorvastatin 40 mg PO QHS
+- Amiodarone 400 mg IV q12h (for afib)
+- Norepinephrine IV (weaning)
+- Furosemide 20 mg IV BID
+- Pip/tazo 4.5g IV q8h
+- Vancomycin 1g IV q12h
+- Acetaminophen 325 mg PO/NGT PRN
+- Amoxicillin/clavulanate (held)
+- Pantoprazole 40 mg IV daily
+- Heparin SQ 5000u q8h
+- Thiamine, MVI IV daily
+
+---
+
+### CONSULTANTS
+
+- **Cardiology:** Daily input, device management.
+- **Nephrology:** AKI management.
+- **ID:** Antibiotic stewardship.
+- **Nutrition:** Caloric/protein goals.
+
+---
+
+### FAMILY/GOALS OF CARE
+
+- Family updated daily; full code per prior wishes.
+- Prognosis discussed, reevaluate daily per patient’s values.
+
+---
+
+### DISPOSITION
+
+- Ongoing need for critical care, reassess for step-down pending extubation and device weaning.
+
+---
+
+#### **Physician:**
+Dr. Mark O’Neill, MD  
+MICU Attending  
+*Electronically signed 04/08/2024 09:32*
+
+---

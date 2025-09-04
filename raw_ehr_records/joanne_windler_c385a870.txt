@@ -1,0 +1,210 @@
+```
+----------------------------------------------------------------------
+EpicCare Inpatient EHR - Patient Chart
+----------------------------------------------------------------------
+Patient Name: Joanne Windler
+MRN: 00412897
+DOB: 06/11/1979       Sex: F             Admit Date: 04/21/2024
+Attending: Dr. M. Frazier, MD            ICU Admission: 04/21/2024
+----------------------------------------------------------------------
+
+ADMISSION NOTE
+
+Chief Complaint:  
+"Sudden onset severe SOB and chest tightness"
+
+HPI:  
+39-year-old female with h/o HTN, obesity, anemia, and recent URI presents with acute onset of severe dyspnea, orthopnea, and chest pain x4h prior to arrival. No prior cardiac history. PMHx notable for recurrent bronchitis, obesity (BMI 30), and anemia. No prior MI or CHF. She developed progressive respiratory distress in the ED, requiring high-flow O2, then BiPAP, and was transferred to the MICU for escalating hypoxemia and hemodynamic instability.
+
+Hospital Course (summary):  
+On ICU day 1, patient developed hypotension refractory to fluids, with rising troponin, lactate and progressive hypoxemia. Echo showed severely reduced LVEF (~15%), global hypokinesis, and moderate MR. Cardiology consulted; concern for acute myocarditis vs. peripartum cardiomyopathy. Rapid clinical decline led to emergent placement of a percutaneous LV assist device (Impella CP) for cardiogenic shock. Gradual improvement in hemodynamics over next 5 days, device explanted on hospital day 7. Now weaning off pressors, extubated on day 9, mobilizing with PT.
+
+----------------------------------------------------------------------
+
+ALLERGIES:  
+No known drug allergies.
+
+----------------------------------------------------------------------
+
+PAST MEDICAL HISTORY:
+- Hypertension (on triple therapy)
+- Obesity (BMI ~30)
+- Anemia (hx, now stable)
+- Recurrent acute bronchitis
+- Laceration, forearm (remote, healed)
+- Two prior normal pregnancies
+- No prior CHF, CAD, or arrhythmias
+
+PAST SURGICAL HISTORY:
+- Nexplanon insertion (2018)
+- Tubal ligation (2020)
+
+SOCIAL HISTORY:
+- Non-smoker, rare alcohol
+- Lives with partner and 2 children
+- Employed as office manager
+
+FAMILY HISTORY:
+- Mother: HTN, DM2
+- Father: MI age 61
+
+----------------------------------------------------------------------
+
+MEDICATIONS ON ADMISSION:
+- Amlodipine/HCTZ/Olmesartan 5/12.5/20 mg daily
+- Etonogestrel implant
+- Errin (norethindrone) 0.35 mg daily
+- Medroxyprogesterone acetate 150mg IM q3mo
+- Acetaminophen 325 mg prn
+- Ibuprofen 200 mg prn
+
+----------------------------------------------------------------------
+
+PHYSICAL EXAM ON ADMISSION:
+Gen: Obese, moderate distress, tachypneic
+HEENT: Oropharynx clear, no JVD
+CV: Tachycardic, S3, no murmurs initially, later new holosystolic murmur at apex
+Lungs: Diffuse crackles BL, decreased air entry bases
+Abd: Soft, NT, no HSM
+Ext: 1+ pitting edema BL, no DVT
+Neuro: Alert, oriented x2, mild confusion (hypoperfusion)
+Skin: Warm, flushed
+
+----------------------------------------------------------------------
+
+VITALS (selected):
+| Date/Time         | Temp | HR  | BP        | RR | SpO2 | O2 Device |
+|-------------------|------|-----|-----------|----|------|-----------|
+| 4/21/24 08:00     | 36.9 | 112 | 88/54     | 26 | 90%  | NRB       |
+| 4/21/24 12:00     | 36.8 | 125 | 75/40     | 30 | 86%  | BiPAP     |
+| 4/22/24 06:00     | 37.1 | 105 | 102/60    | 20 | 95%  | Vent      |
+| 4/24/24 08:00     | 37.4 | 98  | 118/70    | 18 | 97%  | Vent      |
+| 4/27/24 09:00     | 36.7 | 86  | 126/74    | 14 | 99%  | RA        |
+
+----------------------------------------------------------------------
+
+LABORATORY DATA
+
+CBC/Chemistry (selected):
+| Date        | WBC   | Hgb  | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Ca   |
+|-------------|-------|------|-------|-------|------|------|------|------|------|------|------|------|
+| 4/21/24 AM  | 14.2  | 10.0 | 31.2  | 212   | 132  | 3.3  | 98   | 17   | 24   | 1.2  | 156  | 7.8  |
+| 4/21/24 PM  | 18.7  | 9.1  | 28.4  | 175   | 128  | 3.1  | 101  | 13   | 29   | 1.6  | 175  |      |
+| 4/22/24     | 12.9  | 9.8  | 30.5  | 201   | 135  | 3.7  | 99   | 18   | 21   | 1.1  | 142  | 8.1  |
+| 4/23/24     | 11.3  | 10.6 | 32.2  | 222   | 138  | 4.1  | 100  | 20   | 17   | 0.9  | 112  |      |
+| 4/24/24     | 9.8   | 11.2 | 34.5  | 234   | 140  | 4.3  | 101  | 22   | 14   | 0.7  | 98   | 8.9  |
+| 4/25/24     |   -   | 11.7 | 36.1  | 243   | 142  | 4.0  | 99   | 21   | 13   | 0.7  | 107  |      |
+| 4/26/24     | 8.7   | 12.1 | 36.7  | 251   |      | 4.2  | 100  | 24   | 12   | 0.6  | 116  | 9.0  |
+| 4/27/24     | 7.9   | 12.6 | 37.8  | 259   | 144  | 4.1  | 102  |     | 11   | 0.6  | 109  |      |
+
+Cardiac Markers:
+| Date        | Troponin-I | CK-MB | BNP   | Lactate |
+|-------------|------------|-------|-------|---------|
+| 4/21/24     | 0.77      | 42    | 3200  | 3.1     |
+| 4/22/24     | 1.24      | 58    | 4950  | 2.7     |
+| 4/23/24     | 0.41      | 31    | 3700  | 1.9     |
+| 4/24/24     | 0.11      | 12    | 1800  | 1.2     |
+| 4/25/24     | <0.01     | 8     | 950   | 0.8     |
+
+Liver Panel:
+| Date        | AST  | ALT  | Alk Phos | T. Bili | Albumin |
+|-------------|------|------|----------|---------|---------|
+| 4/21/24     | 98   | 87   | 122      | 1.1     | 3.2     |
+| 4/22/24     | 102  | 94   | 134      | 1.3     | 2.8     |
+| 4/24/24     | 61   | 50   | 97       | 0.7     | 3.6     |
+| 4/26/24     |      | 40   |          |         | 3.8     |
+
+Other:
+- Coags: INR 1.5 → 1.1 by day 4, aPTT 39s → 33s
+- ABG (ICU day 1): pH 7.22/pCO2 34/pO2 58/HCO3 14 (on BiPAP)
+- CXR: Bilateral pulmonary edema, cardiomegaly
+- ECG: Sinus tach, diffuse low voltage, no ST elevation
+
+----------------------------------------------------------------------
+
+PROCEDURES:
+- 4/21/24: Right IJ central line, arterial line
+- 4/21/24: Emergent Impella CP placement (percutaneous LVAD), femoral approach
+- 4/22/24: TTE: LVEF 15%, global hypokinesis, moderate MR, no thrombus
+- 4/27/24: Impella explant, manual pressure
+- 4/28/24: PICC placed for long-term access
+
+----------------------------------------------------------------------
+
+PROBLEM-BASED ASSESSMENT & PLAN
+
+1. **Cardiogenic Shock, severe LV dysfunction (new, likely myocarditis vs. peripartum CM)**
+   - Emergent Impella CP placed for hemodynamic support, now explanted
+   - Initially required norepinephrine, weaned off by HD#7
+   - Echo: LVEF improved to 28% by discharge
+   - Serial troponins peaked at 1.24, now normalizing
+   - Plan: Continue GDMT (ACEi/BB as tolerated), daily weights, strict I/Os, cardiac rehab consult
+
+2. **Acute Hypoxic Respiratory Failure, pulmonary edema**
+   - Intubated, then extubated day 9
+   - Diuresis: IV furosemide transitioned to PO
+   - Wean O2, monitor ABG, CXR q48h
+   - PT/OT for mobilization
+
+3. **Anemia (multifactorial: acute and chronic)**
+   - Hgb nadir 9.1, likely dilutional + chronic
+   - 1 unit PRBCs transfused HD#2
+   - Iron studies pending, consider PO iron on discharge
+
+4. **Hypertension**
+   - Home regimen held while on inotropes/Impella
+   - Restarted low-dose amlodipine, plan uptitrate as tolerated
+
+5. **Obesity (BMI ~30)**
+   - Nutrition consult, calorie adjustment, PT/OT
+   - Counsel on weight loss, diet follow-up
+
+6. **Contraceptive management/history of normal pregnancy**
+   - Nexplanon and DMPA continued
+   - Gyn aware, no acute OBGYN issues
+
+7. **Acute kidney injury (resolved)**
+   - Peak Cr 1.6, now 0.6
+   - Likely prerenal (hypoperfusion), monitor labs
+
+8. **Transaminitis (resolved)**
+   - AST/ALT peaked, now improving
+   - Likely ischemic hepatitis
+
+9. **History of acute bronchitis**
+   - No current infection, procalcitonin negative
+   - No antibiotics started
+
+10. **Forearm laceration (remote)**
+    - No acute issues
+
+Other:
+- DVT prophylaxis: SCDs, enoxaparin started after Impella removal
+- Social work, case management follow-up for rehab needs
+
+----------------------------------------------------------------------
+
+DISCHARGE MEDICATIONS (pending):
+- Metoprolol succinate 12.5 mg qd
+- Lisinopril 2.5 mg qd
+- Amlodipine 5 mg qd
+- Furosemide 20 mg qd
+- Multivitamin, iron supplement
+- Continue existing contraceptives
+
+----------------------------------------------------------------------
+
+FOLLOW UP:
+- Cardiology (LV recovery, device clinic)
+- PCP (medication titration, chronic disease management)
+- Nutrition, Cardiac rehab
+- Labs in 1 week (CBC, Chem7, BNP, LFTs)
+
+----------------------------------------------------------------------
+
+Signature: M. Frazier, MD
+Date: 04/28/2024  13:12
+
+----------------------------------------------------------------------
+
+```

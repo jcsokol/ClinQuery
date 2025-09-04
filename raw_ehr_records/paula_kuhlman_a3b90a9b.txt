@@ -1,0 +1,168 @@
+**Patient:** Kuhlman, Paula  
+**MRN:** 00938201  
+**DOB:** 03/18/1993  
+**Sex:** Female  
+**Admission Date:** 04/11/2024  
+**Attending:** Dr. R. Kim  
+**Consultants:** Cardiology, Infectious Disease, Maternal-Fetal Medicine  
+**Service:** MICU  
+**Allergies:** NKDA  
+**Code Status:** Full Code
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+Paula Kuhlman is a 31-year-old female with a history of hypertension, multiple recent upper respiratory infections, and a reported normal pregnancy, who presented with acute onset dyspnea, orthopnea, and chest tightness following a week of progressive viral symptoms. On admission, she was found to be in acute decompensated heart failure (HF) with evidence of cardiogenic shock (SBP 82/54, HR 120, lactate 4.2 mmol/L, cold extremities, altered mentation). Despite initial diuresis and vasopressor support, she required emergent placement of a temporary left ventricular assist device (Impella CP) for hemodynamic support. She was transferred to the ICU for ongoing management.
+
+---
+
+## ADMISSION PHYSICAL EXAM
+
+- **General:** Appears ill, moderate respiratory distress, diaphoretic.  
+- **HEENT:** Oropharynx erythematous, mild nasal congestion.  
+- **CV:** Tachycardic, S3 present, no murmur.  
+- **Resp:** Crackles lower 2/3 bilaterally, decreased breath sounds bases.  
+- **Abd:** Soft, NT, no HSM.  
+- **Extremities:** Cool, mild pitting edema to mid-shins.  
+- **Neuro:** Alert, oriented x2, slow to respond.
+
+---
+
+## HOSPITAL COURSE
+
+**Day 1 (ED/Admission):**  
+- Presented with acute respiratory distress, hypoxemia (SpO2 91% RA), hypotension.
+- Initial labs: troponin mildly elevated, BNP 1,120 pg/mL, CXR: pulmonary edema, enlarged cardiac silhouette.
+- Started on IV furosemide, nitroglycerin, then norepinephrine for hypotension.
+- Echo: severe global LV dysfunction, EF ~18%, mild RV dysfunction.
+- Decision made to proceed with temporary LVAD (Impella) for refractory cardiogenic shock.
+
+**Day 2–3 (MICU):**  
+- Impella in place, hemodynamics stabilized on minimal vasopressors.
+- Developed transient AKI (Cr peaked at 1.7), improved with gentle diuresis and reduction in pressors.
+- Monitored for arrhythmias (short runs NSVT, no sustained VT/VF).
+- Infectious workup: negative blood/urine cultures, negative COVID/Flu/RSV, negative strep throat, but positive rhinovirus/enterovirus on NP swab.
+- Cardiology and MFM consulted due to pregnancy and advanced heart failure.
+- OB US: live IUP, 13 weeks, normal fetal HR.
+
+**Day 4–6:**  
+- Weaned off vasopressors, Impella flows reduced, echo shows improving LV function (EF up to 34%).
+- WBC rose to 12.2, concern for secondary infection (possibly VAP), started empiric cefepime/azithro.
+- Serial troponins trended down, CK/CK-MB normalizing.
+- Liver enzymes transiently up (AST 82, ALT 99) with improved trend.
+- Renal function returned to baseline.
+
+**Day 7–9:**  
+- Impella weaned and explanted on day 8 after successful 24-hr trial off device.
+- Transferred to stepdown for continued monitoring.
+- Infectious symptoms resolved, antibiotics discontinued after 5 days.
+- Repeat echo: EF 38%, mild MR, no LV thrombus.
+- Discharged home with LifeVest, close cardiology and high-risk OB follow-up.
+
+---
+
+## PROBLEM-BASED ASSESSMENT AND PLAN
+
+### 1. **Cardiogenic Shock / Acute Decompensated HF**
+- **Assessment:** Severe LV dysfunction, likely viral myocarditis vs. peripartum cardiomyopathy.
+- **Plan:**
+  - Temporary LVAD (Impella) placed, now explanted.
+  - Diuresis (IV furosemide), afterload reduction (hydralazine/nitrate), beta-blocker re-initiation as tolerated.
+  - Daily echo, hemodynamic monitoring.
+  - Cardiology f/u, LifeVest on discharge.
+
+### 2. **Acute Kidney Injury (prerenal)**
+- **Assessment:** Likely secondary to hypoperfusion, improved with volume/CO optimization.
+- **Plan:**
+  - Strict I/Os, daily chem7.
+  - Avoid nephrotoxins.
+  - Renal function normalized prior to transfer.
+
+### 3. **Acute Respiratory Failure / Pulmonary Edema**
+- **Assessment:** Due to acute HF, required non-invasive ventilation for 48 hrs.
+- **Plan:**
+  - Diuresis, oxygen support.
+  - Serial CXR, ABG monitoring.
+  - Weaned to RA prior to stepdown.
+
+### 4. **Pregnancy, 13 weeks (high risk)**
+- **Assessment:** Stable IUP, no evidence of fetal distress.
+- **Plan:**
+  - MFM co-management, limited imaging.
+  - Avoid teratogenic meds (ACEi/ARB).
+  - Serial fetal monitoring.
+
+### 5. **Possible Secondary Infection (VAP)**
+- **Assessment:** Fever, leukocytosis, new infiltrate on CXR.
+- **Plan:**
+  - Empiric cefepime/azithromycin, d/c’d after 5 days.
+  - Infectious Disease consult.
+
+### 6. **Hypertension**
+- **Assessment:** Difficult to control, exacerbated by acute HF, now improved.
+- **Plan:**
+  - Resume outpatient regimen (HCTZ, atenolol/chlorthalidone) as tolerated.
+  - Monitor BP q4h.
+
+### 7. **History of Sinusitis, Bronchitis, Pharyngitis**
+- **Assessment:** Not active, recent viral URI (rhinovirus).
+- **Plan:**
+  - Supportive care, monitor for secondary bacterial infection.
+
+### 8. **Medication Reconciliation**
+- **Assessment:** Multiple OCPs, HCTZ, vitamin B12.
+- **Plan:**
+  - Hold estrogen-containing OCPs, continue prenatal vitamins.
+  - Medroxyprogesterone d/c’d.
+
+---
+
+## ICU FLOW SHEET & LABS
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | AST (U/L) | ALT (U/L) | Troponin (ng/mL) |
+|------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-----------|-----------|-------------------|
+| 4/11/24    | 8.5        | 12.4       | 49.4    | 293        | 137         | 3.8        | 102         | 22           | 19          | 1.2        | 34        | 31        | 0.09              |
+| 4/12/24    | 10.3       | 11.8       | 46.2    | 288        | 135         | 3.4        | 99          | 19           | 33          | 1.7        | 82        | 99        | 0.14              |
+| 4/13/24    | 11.9       | 10.9       | 43.8    | 265        | 134         | 3.6        | 100         | 18           | 28          | 1.4        | 61        | 78        | 0.11              |
+| 4/15/24    | 12.2       | 11.1       | 44.1    | 251        | 137         | 3.9        | 103         | 24           | 21          | 1.1        | 41        | 54        | 0.08              |
+| 4/16/24    | 9.8        | 11.7       | 45.2    | 274        | 139         | 4.1        | 105         | 25           | 17          | 0.9        | 38        | 40        | 0.05              |
+| 4/17/24    | 8.7        | 12.0       | 47.3    | 279        | 140         | 4.0        | 106         | 26           | 15          | 0.8        | -         | -         | 0.04              |
+
+---
+
+### VITALS TREND (SELECTED)
+
+- **Admission:** T 37.6°C, HR 120, BP 82/54, RR 28, SpO2 91% RA  
+- **Day 3:** T 38.1°C, HR 104, BP 98/66, RR 22, SpO2 95% 2L NC  
+- **Day 7:** T 37.2°C, HR 86, BP 112/74, RR 16, SpO2 98% RA  
+
+---
+
+## DISCHARGE MEDICATIONS
+
+- Furosemide 40 mg PO daily
+- Hydralazine 25 mg PO BID
+- Metoprolol succinate 25 mg PO daily (titrate as tolerated)
+- Prenatal vitamin daily
+- Aspirin 81 mg PO daily
+- LifeVest
+
+---
+
+## FOLLOW-UP
+
+- Cardiology clinic (7 days)
+- Maternal-Fetal Medicine (3 days)
+- Outpatient labs (CBC, BMP, NT-proBNP, LFTs in 1 week)
+
+---
+
+**Attestation:**  
+I have reviewed the above and discussed the plan with the patient and her family.
+
+**Signature:**  
+Kim, R. MD  
+04/19/2024 14:23
+
+---

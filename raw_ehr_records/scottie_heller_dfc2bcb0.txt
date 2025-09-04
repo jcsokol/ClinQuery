@@ -1,0 +1,180 @@
+**INPATIENT CHART REVIEW (EPIC)**  
+**Patient:** Scottie Heller  
+**MRN:** 002984771  
+**DOB:** 09/04/1984 (Age: 39)  
+**Sex:** Male  
+**Attending:** Dr. Karen L. Whitaker, MD  
+**Admit Date:** 03/20/2024  
+**Service:** Medical ICU  
+**Location:** ICU, Room 12B
+
+---
+
+### **CHIEF COMPLAINT**
+Shortness of breath and chest pain, found hypotensive at home, brought in by EMS.
+
+---
+
+### **HISTORY OF PRESENT ILLNESS**
+39-year-old male with a history of hypertension, prediabetes, anemia, chronic migraines, and recent acute viral pharyngitis and bronchitis, who presented to the ED after his wife found him confused and short of breath. On arrival, he was hypotensive (BP 76/48), tachycardic (HR 124), and hypoxic (SpO2 88% on room air). Noted to have cool extremities and delayed cap refill. CXR showed pulmonary edema. EKG: sinus tachycardia, no STEMI. Troponin elevated. Labs significant for acute on chronic anemia, AKI, and lactic acidosis. Echo: severely reduced LVEF (~15%), global hypokinesis, moderate MR. Given evidence of cardiogenic shock, admitted to ICU, started on dobutamine and norepinephrine. Due to refractory shock, Impella CP (temporary LVAD) placed on hospital day 1.
+
+---
+
+### **PAST MEDICAL HISTORY**
+- Hypertension
+- Chronic intractable migraines w/o aura
+- Prediabetes
+- Anemia (likely chronic disease)
+- Recent acute viral pharyngitis
+- Recent acute bronchitis
+- History of third-degree burn (remote, no current sequelae)
+
+### **PAST SURGICAL HISTORY**
+- Appendectomy (age 23)
+- Debridement/grafting for burn (age 30)
+
+### **ALLERGIES**
+- NKDA
+
+### **SOCIAL HISTORY**
+- Lives with wife, 2 children
+- Non-smoker, rare EtOH, no illicit drugs
+- Works as IT consultant
+
+### **FAMILY HISTORY**
+- Father: MI age 54, alive
+- Mother: HTN, T2DM
+
+---
+
+### **CURRENT MEDICATIONS (on admission)**
+- Hydrochlorothiazide 25 mg PO QD
+- Acetaminophen/Dextromethorphan/Doxylamine PRN
+- Cefuroxime 250 mg PO BID (completed 5d for bronchitis)
+- Meperidine 50 mg PO PRN
+- Ibuprofen 200 mg PO PRN
+- Ferrous sulfate 325 mg PO QD
+
+---
+
+### **PHYSICAL EXAM (ICU Day 1)**
+- Gen: Diaphoretic, in moderate distress
+- VS: BP 78/46 (on norepi), HR 121, RR 28, SpO2 92% (NRB), T 37.3°C
+- HEENT: Dry mucous membranes, oropharynx clear
+- CV: Rapid, weak pulses, JVD 12cm, S3 present, no murmurs/gallops appreciated
+- Lungs: Rales 2/3 up bilaterally, dullness at bases, mild wheezing
+- Abd: Soft, nontender, no rebound/guarding
+- Ext: Cool, mottled, 1+ pedal pulses, no edema
+- Neuro: Alert, oriented x2 (person, place), GCS 14, no focal deficits
+
+---
+
+### **HOSPITAL COURSE SUMMARY**
+- **Day 1:** ICU admission for decompensated heart failure/cardiogenic shock. Emergent Impella CP placed via right femoral artery after unsuccessful escalation of inotropes/pressors. Started on IV furosemide, broad-spectrum abx for possible pneumonia. CVP 14, MAPs maintained >65 with vasoactives.
+- **Day 2:** Improved mentation, weaned off norepinephrine. Ongoing oliguria, creatinine peaked at 2.2. Transfused 1U PRBCs for hgb 7.8. Echo: LVEF improved to 25% with Impella. Weaned sedation, extubated to HFNC.
+- **Day 3:** Mobilizing in bed, Impella flow reduced, minimal pressor support. Diuresis ongoing. Troponin trending down. Developed mild transaminitis (AST 85, ALT 67). 
+- **Day 4:** Impella removed at bedside. Remained stable off pressors. Diuresis continued, net negative 1.7L. Creatinine improving. 
+- **Day 5:** Transferred to step-down unit. Vitals stable, O2 sat 97% on 2L NC. Cardiac MRI scheduled.
+
+---
+
+### **PROBLEM-BASED ASSESSMENT & PLAN**
+
+#### 1. **Cardiogenic Shock, new-onset severe systolic heart failure**
+- Etiology likely viral myocarditis vs. ischemic insult (troponin elevation w/o clear STEMI).
+- Required Impella CP for circulatory support (HD 1-4).
+- Plan: Continue guideline-directed medical therapy, monitor for arrhythmia, serial EKGs, repeat echo prior to DC, consider referral for advanced HF therapies if no recovery.
+
+#### 2. **Acute on Chronic Anemia**
+- Hgb on arrival: 7.8, likely multifactorial (chronic disease, hemolysis, acute hemodilution)
+- PRBC transfusion x1.
+- Plan: Monitor CBC daily, continue iron, GI workup if persistent.
+
+#### 3. **Acute Kidney Injury**
+- Likely pre-renal from hypoperfusion.
+- Peak Cr 2.2, improved to 1.4 on HD 5.
+- Plan: Monitor I/Os, avoid nephrotoxins, renal consult if worsens.
+
+#### 4. **Volume Overload / Pulmonary Edema**
+- Managed with aggressive IV diuresis.
+- Plan: Continue diuresis, monitor lytes, daily weights.
+
+#### 5. **Prediabetes**
+- No acute issues, BG 65-110 during stay.
+- Plan: Monitor, A1c 5.8%, lifestyle counseling on discharge.
+
+#### 6. **Chronic Migraines**
+- No headaches during ICU stay.
+- Plan: Resume home meds as tolerated.
+
+#### 7. **Hypertension**
+- Off anti-HTN during acute phase, now normotensive.
+- Plan: Restart low-dose HCTZ, titrate as tolerated.
+
+#### 8. **Recent Viral Pharyngitis/Bronchitis**
+- No ongoing respiratory infection.
+- Plan: Abx course completed, monitor for secondary infection.
+
+#### 9. **Remote Third Degree Burn**
+- No current sequelae.
+
+---
+
+### **LABS (Selected, ICU Days 1-5)**
+
+| Date       | WBC (k/uL) | Hgb (g/dL) | Hct (%) | Plt (k/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Gluc (mg/dL) | AST (U/L) | ALT (U/L) | Troponin (ng/mL) |
+|------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|---------------|-----------|-----------|-------------------|
+| 3/20/24    | 9.8        | 7.8        | 23.5    | 285        | 136         | 4.7        | 110         | 23           | 28          | 2.1        | 82            | 32        | 29        | 0.78              |
+| 3/21/24    | 11.1       | 8.6        | 26.2    | 312        | 138         | 4.5        | 108         | 25           | 32          | 2.2        | 76            | 85        | 67        | 0.52              |
+| 3/22/24    | 8.7        | 9.2        | 28.1    | 301        | 137         | 4.2        | 112         | 24           | 23          | 1.7        | 69            | 61        | 48        | 0.19              |
+| 3/23/24    | 7.4        | 10.1       | 30.9    | 344        | --          | 4.0        | --          | 27           | 15          | 1.4        | 65            | 41        | 34        | <0.01             |
+| 3/24/24    | 7.9        | 10.0       | 31.0    | 329        | 139         | 4.3        | 110         | --           | 12          | 1.4        | 71            | --        | --        | --                |
+
+*Some labs not collected each day. Troponin T, AST/ALT only trended while abnormal.*
+
+---
+
+### **VITALS (ICU Stay)**
+- BP: 78/46 (on admission, on norepi) → 104/62 (day 3, off pressors)
+- HR: 121 → 88
+- RR: 28 → 18
+- SpO2: 88% (RA) → 97% (2L NC)
+- Temp: 37.3°C throughout
+
+---
+
+### **IMAGING**
+- **CXR (3/20):** Bilateral alveolar infiltrates, pulmonary vascular congestion, small effusions.
+- **Echo (3/20):** LVEF ~15%, global hypokinesis, mod MR.
+- **Echo (3/22):** LVEF improved to 25% with Impella.
+- **Cardiac MRI (pending):** For further etiology workup.
+
+---
+
+### **PROCEDURES**
+- Impella CP placement (3/20, right femoral artery, under TEE guidance)
+- Central line (R IJ), arterial line (L radial)
+- Foley catheter (removed 3/23)
+
+---
+
+### **MICROBIOLOGY**
+- Blood cultures x2: negative
+- Sputum culture: normal flora
+
+---
+
+### **DISPOSITION**
+- ICU day 5: Transferred to step-down, stable, Impella removed, off pressors, diuresed, creatinine improved.
+- Discharge planning: Cardiology f/u, GDMT, home health RN, outpatient cardiac MRI.
+
+---
+
+### **ATTENDING PHYSICIAN**
+Dr. Karen L. Whitaker, MD  
+**Electronically Signed**  
+03/25/2024 17:42
+
+---
+
+**END OF NOTE**

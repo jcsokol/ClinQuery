@@ -1,0 +1,139 @@
+```
+Patient: Alva, Jorge Luis           MRN: 0038472931              Room: SICU-04
+DOB: 11/09/2004 (Age: 19y)          Sex: Male                     Admit Date: 05/28/2024
+Attending: Dr. K. Sandoval          Service: Cardiology/ICU       Note Date: 06/01/2024
+
+===================================================================
+HOSPITAL COURSE – ICU DAY #5
+===================================================================
+
+CHIEF COMPLAINT:
+Sudden onset severe chest pain, shortness of breath, and diaphoresis while at home; found unresponsive, brought in by EMS.
+
+HISTORY OF PRESENT ILLNESS:
+19-year-old male with h/o otitis media and remote rotator cuff tendon injury, otherwise healthy, presented after a witnessed cardiac arrest at home. Initial rhythm: ventricular tachycardia, required CPR × 3 min, ROSC achieved pre-hospital. On arrival: hypotensive, tachycardic, hypoxic. Intubated in ED. Bedside echo: severe global LV dysfunction (EF ~15%), concern for fulminant myocarditis vs. acute MI. Emergent left femoral arterial and venous access obtained; Impella CP placed for hemodynamic support. Admitted to ICU.
+
+PAST MEDICAL HISTORY:
+- Otitis media (resolved)
+- Remote tendon injury, right shoulder (2019, no sequelae)
+- No prior cardiac history
+
+PAST SURGICAL HISTORY:
+- None
+
+FAMILY HISTORY:
+- Father: MI at age 47
+- Mother: Healthy
+
+SOCIAL HISTORY:
+- No tobacco, ETOH, or illicit drugs
+- College student, lives with parents
+
+ALLERGIES:
+- NKDA
+
+MEDICATIONS ON ADMISSION:
+- None
+
+===================================================================
+ICU VITALS SUMMARY
+===================================================================
+| Date       | Temp (C) | HR  | BP (mmHg) | RR | SpO2 | O2 Device     | Weight (kg) |
+|------------|----------|-----|-----------|----|------|---------------|-------------|
+| 5/28/2024  | 36.7     | 132 | 78/44     | 28 | 91%  | NRB 15L       | 54.3        |
+| 5/29/2024  | 37.2     | 110 | 98/61     | 21 | 99%  | Ventilator    | 54.1        |
+| 5/30/2024  | 36.9     | 104 | 112/68    | 20 | 98%  | Ventilator    | 54.0        |
+| 5/31/2024  | 37.1     | 95  | 120/76    | 18 | 99%  | Ventilator    | 54.1        |
+| 6/1/2024   | 36.8     | 88  | 128/82    | 17 | 99%  | Room Air (T)  | 54.3        |
+
+===================================================================
+LABS – CBC, CHEM7, OTHER LABS
+===================================================================
+CBC/DIFF
+| Date      | WBC   | Hgb   | Hct    | Plt  | Neut % | Lymph % | Mono % |
+|-----------|-------|-------|--------|------|--------|---------|--------|
+| 5/28/24   | 3.8   | 15.3  | 43.8   | 397  | 85     | 8       | 7      |
+| 5/29/24   | 4.6   | 14.8  | 42.1   | 376  | 82     | 11      | 7      |
+| 5/30/24   | 6.1   | 14.2  | 40.5   | 362  | 78     | 15      | 7      |
+| 5/31/24   | 7.2   | 13.7  | 39.3   | 341  | 76     | 17      | 7      |
+| 6/1/24    | 6.8   | 13.8  |   -    | 332  |   -    |   -     |   -    |
+
+CHEM7
+| Date      | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu   |
+|-----------|------|------|------|------|------|------|-------|
+| 5/28/24   | 137  | 4.6  | 102  | 19   | 21   | 1.1  | 156   |
+| 5/29/24   | 139  | 4.2  | 104  | 22   | 18   | 1.0  | 131   |
+| 5/30/24   | 138  | 3.8  | 102  | 23   | 14   | 0.9  | 104   |
+| 5/31/24   | 140  | 3.9  | 105  | 24   | 12   | 0.8  | 98    |
+| 6/1/24    | 141  | 4.1  | 105  | 24   | 11   | 0.8  | 102   |
+
+CARDIAC MARKERS & LIVER ENZYMES
+| Date      | Troponin I | CK-MB | BNP   | AST  | ALT  | AlkPhos | Tbili |
+|-----------|------------|-------|-------|------|------|---------|-------|
+| 5/28/24   | 8.2        | 56    | 2400  | 68   | 40   | 112     | 1.1   |
+| 5/29/24   | 6.6        | 41    | 1950  | 52   | 38   | 104     | 0.9   |
+| 5/30/24   | 2.9        | 19    | 1530  | 35   | 33   | 98      | 0.8   |
+| 5/31/24   | 1.2        | 9     | 820   | 22   | 29   | 95      | 0.7   |
+| 6/1/24    | <0.04      | -     | 385   | 18   | 25   | 92      | 0.7   |
+
+===================================================================
+ASSESSMENT & PLAN (PROBLEM-BASED)
+===================================================================
+
+1. **Cardiogenic Shock, likely fulminant myocarditis (s/p cardiac arrest, severe LV dysfunction)**
+   - Impella CP placed 5/28 for hemodynamic support. Now weaning vasopressors (off norepi × 24h, milrinone ongoing).
+   - Serial lactate normalized. LFTs improved, UOP adequate.
+   - Echo 5/30: EF improved to 32%. Plan: Continue wean Impella flows as tolerated, daily TTE.
+   - Infectious/autoimmune myocarditis workup pending (parvovirus, enterovirus, COVID, EBV, ANA, ESR, CRP).
+   - Consults: Cardiology, ID, CT surgery.
+
+2. **Acute Hypoxic Respiratory Failure (s/p intubation)**
+   - Extubated 5/31, now on 2L NC, satting well.
+   - CXR: Improving bilateral interstitial opacities, no effusion.
+   - Incentive spirometry, PT/OT.
+
+3. **Acute Kidney Injury, resolving**
+   - Initial Cr 1.1 (baseline unknown), now 0.8, good urine output, no need for RRT.
+   - Monitor chem7 daily.
+
+4. **Transaminitis (shock liver)**
+   - AST/ALT peaked on 5/28, now trending down.
+   - Continue supportive care.
+
+5. **Elevated Cardiac Enzymes**
+   - Troponin/CK-MB peaked on admission, now downtrending.
+   - Continue telemetry, trending labs.
+
+6. **History of otitis media, rotator cuff injury**
+   - No acute issues.
+
+7. **Nutrition/Prophylaxis**
+   - Enteral feeds started, tolerating.
+   - DVT ppx: SCDs + SQ heparin.
+   - PPI for GI ppx.
+
+8. **Lines/Access**
+   - Left femoral Impella, R IJ central line, left radial A-line.
+   - Plan: Remove A-line when off vasoactives.
+
+9. **Disposition**
+   - Continue ICU. Transfer to step-down when off Impella and stable.
+
+===================================================================
+ADDITIONAL NOTES
+===================================================================
+- Family updated daily. Good understanding of clinical situation.
+- No sedation/delirium issues. Pain 0/10, awake, following commands.
+- Rehab/PT/OT to evaluate for post-ICU weakness.
+- Next steps: Continue to monitor for arrhythmias, wean supports, repeat echo tomorrow.
+
+===================================================================
+SIGNATURES
+===================================================================
+Physician: Sandoval, K., MD
+Co-sign: Patel, S., MD (Fellow)
+Date/Time: 06/01/2024 08:17
+
+===================================================================
+```
+

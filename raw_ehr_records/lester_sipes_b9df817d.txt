@@ -1,0 +1,236 @@
+**Patient Name:** Lester Sipes  
+**MRN:** 00452791  
+**DOB:** 08/15/1979  
+**Sex:** Female  
+**Admit Date:** 06/03/2024  
+**Attending:** Dr. S. Patel  
+**Consults:** Cardiology, Critical Care, OB/Gyn, Infectious Disease
+
+---
+
+# ICU Progress Note – Hospital Day 7
+
+---
+
+### Chief Complaint:
+Shortness of breath, chest discomfort, and confusion. Brought in by EMS from home. Initial concern for acute heart failure decompensation and possible cardiogenic shock.
+
+---
+
+### HPI:
+
+39-year-old female with PMHx significant for hypertension, multiple prior pregnancies including antepartum eclampsia, osteoarthritis of hip, remote UTI, and recent viral sinusitis, who presented with acute onset dyspnea, orthopnea, and altered mentation. Found to be hypotensive and tachycardic on arrival. Quickly progressed to hypoxic respiratory failure and required intubation in ED. Initial workup showed elevated troponin, low ejection fraction on bedside TTE, and pulmonary edema. Emergent transfer to ICU and placement of left-sided Impella CP device for hemodynamic support.  
+
+Course complicated by AKI, transaminitis, and persistent leukocytosis. Extubated on HD 4. Impella successfully weaned and removed HD 6.
+
+---
+
+### Hospital Course Summary:
+
+- **HD 1:** Intubated for hypoxic resp failure. Started on norepinephrine, dobutamine. Placed left femoral Impella CP.  
+- **HD 2:** Improved hemodynamics, vasopressors weaned. Developed oliguria, Cr uptrending.  
+- **HD 3:** Persistent leukocytosis, started empiric zosyn. LFTs uptrending.  
+- **HD 4:** Extubated. Impella flow down-titrated.  
+- **HD 5:** Impella removed, transitioned to IV diuresis.  
+- **HD 6:** Weaned off all pressors. Urine output improved.  
+- **HD 7:** Transferred to step-down.
+
+---
+
+---
+
+## Problem-Based Assessment and Plan
+
+---
+
+### 1. Cardiogenic Shock / Acute Decompensated Heart Failure (NEW, resolved)
+
+**Assessment:**  
+Acute heart failure with reduced LVEF (25% on TTE), likely ischemic vs peripartum etiology (recent miscarriage, history of eclampsia). Impella CP provided hemodynamic support. Now improved off device.
+
+**Plan:**  
+- Continue aggressive diuresis (IV furosemide)
+- Initiate guideline-directed medical therapy: low-dose carvedilol, lisinopril (as tolerated)
+- Daily weights, strict I/O, monitor for recurrent arrhythmia  
+- Cardiology to follow  
+- Echo planned prior to discharge
+
+---
+
+### 2. AKI (Acute Kidney Injury), likely pre-renal
+
+**Assessment:**  
+Creatinine peaked at 2.3 (baseline 0.9), likely secondary to cardiorenal syndrome and hypoperfusion. Now improving with restoration of perfusion and diuresis.
+
+**Plan:**  
+- Monitor daily BMP, urine output  
+- Avoid nephrotoxins  
+- Renal dosing for all meds  
+- Nephrology consult PRN
+
+---
+
+### 3. Transaminitis
+
+**Assessment:**  
+ALT/AST peaked at 260/310 on HD 3, likely ischemic hepatitis (“shock liver”). Now downtrending.
+
+**Plan:**  
+- Monitor daily LFTs  
+- Hold hepatotoxic drugs  
+- No evidence of biliary obstruction
+
+---
+
+### 4. Leukocytosis / Possible Sepsis
+
+**Assessment:**  
+Persistent WBC elevation (max 17.2), fever on HD 2, started on broad-spectrum abx (zosyn). Cultures negative, likely stress response.
+
+**Plan:**  
+- Continue zosyn for total 5 days, then reassess  
+- Monitor for clinical improvement  
+- Infectious Disease consulted
+
+---
+
+### 5. Hypertension
+
+**Assessment:**  
+History of chronic HTN, off home meds on admission due to shock. Will need to restart as tolerated.
+
+**Plan:**  
+- Resume amlodipine-olmesartan-HCTZ combo at low dose  
+- Monitor BP closely
+
+---
+
+### 6. History of Eclampsia & Recent Miscarriage
+
+**Assessment:**  
+No acute OB issues during this admission. Recent miscarriage at 10 weeks, no retained products on pelvic US.
+
+**Plan:**  
+- OB/Gyn to follow for outpatient care  
+- Offer bereavement support
+
+---
+
+### 7. Osteoarthritis of Hip
+
+**Assessment:**  
+Chronic, managed with naproxen, not given during ICU stay due to AKI.
+
+**Plan:**  
+- Resume NSAIDs if/when renal function recovers  
+- PT consult for mobility
+
+---
+
+### 8. Past Infections (UTI, Strep Throat, Sinusitis)
+
+**Assessment:**  
+No evidence of current infection from these sources.
+
+**Plan:**  
+- Continue to monitor  
+- Urine and throat cultures negative
+
+---
+
+### 9. Concussion (remote)
+
+**Assessment:**  
+No neuro deficits on exam, normal mental status post-extubation.
+
+**Plan:**  
+- Neuro checks Q4h  
+- No imaging needed at this time
+
+---
+
+### 10. Contraceptive Management
+
+**Assessment:**  
+On multiple forms previously, now considering future options.
+
+**Plan:**  
+- Hold estrogen-containing contraceptives until cardiac clearance  
+- OB to counsel prior to discharge
+
+---
+
+---
+
+## Medication Administration Record (selected)
+
+- **Amlodipine-olmesartan-HCTZ**: Held HD 1-5, resumed HD 6  
+- **Chlorpheniramine**: PRN, not given  
+- **Zosyn**: HD 3-7  
+- **Carvedilol**: Started HD 6  
+- **Furosemide IV**: HD 4-7  
+- **Naproxen**: Held  
+- **Penicillin, Nitrofurantoin, Phenazopyridine, Estrostep, Etonogestrel, Depo**: On hold  
+- **Heparin SQ**: DVT prophylaxis
+
+---
+
+# Labs
+
+#### Table 1: CBC and Chem7 (selected values, missing entries indicated by “—”)
+
+| Date       | WBC     | Hgb   | Plts  | Na    | K     | Cl    | CO2   | BUN   | Cr    | Gluc  |
+|------------|---------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| 6/3/2024   | 16.2    | 12.1  | 372   | 134   | 4.9   | 101   | 18    | 24    | 1.5   | 186   |
+| 6/4/2024   | 15.7    | 11.8  | 361   | 136   | 5.2   | 99    | 19    | 31    | 2.1   | 146   |
+| 6/5/2024   | 17.2    | 10.9  | 342   | 137   | 5.5   | 97    | 22    | 45    | 2.3   | 120   |
+| 6/6/2024   | 13.5    | 11.4  | 350   | 139   | 4.7   | 100   | —     | 35    | 1.8   | —     |
+| 6/7/2024   | 11.1    | 12.0  | 355   | 140   | 4.1   | 102   | 24    | 22    | 1.2   | 104   |
+
+#### Table 2: LFTs, Cardiac Markers
+
+| Date       | AST   | ALT   | Alk Phos | Bili T | Troponin | BNP    |
+|------------|-------|-------|----------|--------|----------|--------|
+| 6/3/2024   | 180   | 120   | 88       | 1.0    | 0.13     | 4200   |
+| 6/4/2024   | 310   | 260   | 110      | 2.1    | 0.17     | 5100   |
+| 6/5/2024   | 240   | 200   | 102      | —      | 0.09     | 3800   |
+| 6/6/2024   | 112   | 85    | 95       | 0.8    | 0.04     | 2300   |
+| 6/7/2024   | 58    | 41    | 80       | 0.6    | 0.02     | 1100   |
+
+---
+
+## Vitals (Selected)
+
+| Date/Time   | Temp   | HR  | BP         | RR  | SpO2    | Pain   |
+|-------------|--------|-----|------------|-----|---------|--------|
+| 6/3 09:00   | 38.6   | 131 | 81/52      | 32  | 88% RA  | —      |
+| 6/4 04:00   | 38.2   | 112 | 93/61      | 22  | 96% FiO2| —      |
+| 6/5 18:00   | 37.9   | 98  | 110/68     | 18  | 98% NC  | 1/10   |
+| 6/6 12:00   | 37.2   | 85  | 128/70     | 16  | 98% RA  | 0      |
+| 6/7 08:00   | 36.8   | 79  | 132/74     | 14  | 99% RA  | 0      |
+
+---
+
+## Dispo Plan
+
+- Transfer to step-down for ongoing diuresis, cardiac rehab
+- Outpatient OB, Cardiology, Nephrology follow-up
+- Social work for support services
+
+---
+
+**Signed:**  
+S. Patel, MD – Critical Care  
+06/09/2024 08:53
+
+---
+
+**Additional Notes:**  
+Pt requesting TV in room, family at bedside. Awaiting echo.  
+Diet: Cardiac, low salt, NPO until swallow eval completed.  
+Allergies: NKDA.  
+Code Status: Full.  
+IV access: L arm triple lumen, R femoral arterial line (removed HD 5).  
+Lines/Devices: Foley d/c’d HD 6, Impella removed HD 6.  
+PT/OT: To evaluate HD 8.  
+Psych: Bereavement consult pending.

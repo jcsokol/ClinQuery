@@ -1,0 +1,141 @@
+```
+**Epic EHR: Inpatient Progress Note**
+--------------------------------------------------------------------------------
+Patient Name: Wilda Lehner
+MRN: 00218934
+DOB: 12/10/1983
+Sex: Female
+Date of Admission: 04/18/2024
+Attending: Dr. Pamela Lin, MD
+Consultants: Cardiology, Infectious Disease, OB/GYN, Critical Care
+
+**Chief Complaint:**   
+Shortness of breath, chest pain, and altered mental status.
+
+**HPI:**  
+39-year-old obese female with h/o chronic sinusitis, multiple pregnancies, obesity (BMI ~32), recent E. coli UTI, presents with 2 days of worsening dyspnea, orthopnea, and chest tightness. She collapsed at home, EMS found her hypoxic (SpO2 85% RA), tachycardic, hypertensive, GCS 13. PMHx notable for acute UTI (E. coli) 2 weeks prior, treated with nitrofurantoin and phenazopyridine. No prior cardiac history. Meds: B12 injections, various OCPs, nitrofurantoin, phenazopyridine. No tobacco, EtOH, or illicit drug use. Recent viral URI sxs.
+
+**ED Course:**  
+On arrival: tachycardic (HR 122), hypertensive (BP 168/94), RR 26, O2 sat 88% RA, afebrile. Exam: JVD, S3, crackles at bases, trace LE edema, gravid uterus (estimated 22w gestation, by LMP). ABG: pH 7.29, pCO2 38, pO2 62, HCO3 18. EKG: sinus tachy, nonspecific T changes. CXR: pulmonary edema, mild cardiomegaly. Troponin I mildly elevated (0.13 → 0.18). BNP 1450. Echo: LVEF 19%, global hypokinesis, mild MR, no LV thrombus.
+Rapidly deteriorated, requiring BiPAP, then intubation, vasopressors, transferred to CICU. VBG: worsening acidosis. Decision made for temporary LVAD (Impella CP) placement for acute decompensated heart failure, likely peripartum cardiomyopathy vs viral myocarditis.
+
+--------------------------------------------------------------------------------
+**Hospital Course Summary (Days 1-7):**
+Day 1: CICU, intubated, Impella placed. IVF restricted, started furosemide drip, milrinone, norepinephrine. ABx: ceftriaxone for UTI, later broadened to vanc/piptazo pending sepsis workup.  
+Day 2: Improved perfusion, weaned norepi, extubated. Mild confusion, improved by afternoon. UOP adequate.  
+Day 3: Still on Impella. Echo: LVEF up to 28%. Weaning inotropes.  
+Day 4: Impella weaned, removed. LVEF now 35%.  
+Day 5: Transferred to stepdown. Mild delirium, resolving.  
+Day 6: Mobilizing, O2 sat 98% on 2L NC.  
+Day 7: Ready for transfer to floor. Discharge planning in process.
+
+--------------------------------------------------------------------------------
+**Problem List & Assessment/Plan**
+
+1. **Acute Decompensated Heart Failure (new, likely peripartum CM vs viral myocarditis)**
+   - Required temporary LVAD (Impella) for cardiogenic shock
+   - Initial LVEF 19%, improved to 35% post-support
+   - Continue GDMT: carvedilol, sacubitril/valsartan (as tolerated), spironolactone (hold if K+ >5.0)
+   - Monitor for arrhythmias, daily EKG, telemetry
+   - Cardiology f/u, outpatient echo in 2 wks
+   - Diuresis as needed
+
+2. **Pregnancy (estimated 22 weeks)**
+   - High-risk OB consulted
+   - Fetal heart tones monitored qshift, reassuring
+   - No uterine contractions, no vaginal bleeding
+   - Continue prenatal vitamins, DVT ppx (heparin SQ)
+   - Avoid ACEi/ARB if possible (risk to fetus)
+
+3. **Obesity (BMI 32)**
+   - Daily weights, low Na diet, PT/OT for mobility
+   - Counseling re: nutrition, postpartum weight management
+
+4. **Recent E. coli UTI**
+   - Completed 7 days nitrofurantoin, now off abx
+   - Repeat UA negative, afebrile, no CVA tenderness
+
+5. **Chronic Sinusitis**
+   - No acute issues, saline rinses PRN
+
+6. **Delirium (ICU, resolving)**
+   - Reorientation, sleep hygiene, early mobilization
+
+7. **Concussion (remote, no LOC)**
+   - No sequelae
+
+8. **Electrolyte Disturbances (ICU)**
+   - K+ trended up to 5.2 on day 3, normalized after diuresis
+   - Mg++ 1.6 on day 2, replaced
+   - Monitor lytes qAM
+
+9. **Mild Transaminitis (ICU)**
+   - AST/ALT peaked at 72/95, improved off vasopressors
+   - Liver US: unremarkable
+
+10. **Anemia (mild, pregnancy-related)**
+    - Hgb nadir 10.5, stable, iron studies pending
+
+--------------------------------------------------------------------------------
+**Medications (Active Inpatient)**
+- Carvedilol 3.125 mg BID
+- Sacubitril/valsartan 24/26 mg BID
+- Furosemide 20 mg IV BID
+- Spironolactone 25 mg PO QD (hold if K+ >5.0)
+- Heparin 5000u SQ q8h
+- Prenatal vitamins
+- Magnesium sulfate PRN
+- Ceftriaxone (completed)
+- Vanc/piptazo (discontinued day 3)
+- O2 via nasal cannula PRN
+
+--------------------------------------------------------------------------------
+**Lab Results**
+
+| Date       | WBC   | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | AST  | ALT  | Troponin I | BNP   |
+|------------|-------|------|------|-------|------|------|------|------|------|------|------|------|------------|-------|
+| 4/18/24 AM | 13.2  | 11.1 | 33   | 220   | 132  | 4.9  | 98   | 17   | 34   | 1.3  | 46   | 61   | 0.13       | 1450  |
+| 4/18/24 PM | 12.8  | 10.9 | 32   | 205   | 134  | 5.1  | 100  | 16   | 36   | 1.6  | 52   | 77   | 0.18       |       |
+| 4/19/24    | 11.9  | 10.5 | 31   | 198   | 137  | 5.2  | 102  | 19   | 31   | 1.1  | 72   | 95   | 0.07       | 980   |
+| 4/20/24    | 8.6   | 10.7 |      | 178   | 138  | 4.6  |      | 22   | 20   | 0.8  | 38   | 56   | <0.01      | 480   |
+| 4/21/24    | 7.9   | 11.2 | 33.5 | 199   | 140  | 4.2  | 104  | 24   | 18   | 0.7  | 31   | 44   |            | 320   |
+| 4/22/24    | 7.4   | 11.4 | 34.1 | 202   | 142  | 4.0  | 105  | 25   |      | 0.7  |      |      |            |       |
+
+**Other Labs:**
+- Mg++: 1.6 (4/19), 2.2 (4/21)
+- Lactate: 3.4 (4/18), 1.1 (4/21)
+- D-dimer: 0.7 (4/18)
+- Ferritin: 98 (4/19)
+- Iron: 44 (4/19)
+- TSH: 2.5 (4/20)
+
+--------------------------------------------------------------------------------
+**Imaging:**
+- CXR 4/18: Pulmonary edema, mild cardiomegaly
+- TTE 4/18: LVEF 19%, global hypokinesis, mild MR
+- TTE 4/21: LVEF 35%, improved function
+
+--------------------------------------------------------------------------------
+**ICU Procedures:**
+- Intubation, mechanical ventilation (4/18–4/19)
+- Central line (R IJ), arterial line
+- Temporary LVAD (Impella CP) via femoral access (4/18–4/20)
+- Foley catheter (removed day 4)
+
+--------------------------------------------------------------------------------
+**Discharge Planning:**
+- Anticipated transfer to floor 4/23
+- Cardiac rehab referral
+- High-risk OB f/u
+- Home with partner, will need home health RN check
+
+--------------------------------------------------------------------------------
+**Physician Attestation:**  
+I have personally examined the patient, reviewed the labs/imaging, and discussed the plan with the multidisciplinary team.
+
+**Signature:**  
+Pamela Lin, MD, Cardiology/Critical Care
+
+--------------------------------------------------------------------------------
+**End of Note**
+```

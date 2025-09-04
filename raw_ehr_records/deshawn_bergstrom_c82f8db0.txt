@@ -1,0 +1,176 @@
+**Patient:** Deshawn Bergstrom  
+**MRN:** 10328497  
+**DOB:** 03/22/1951  
+**Sex:** Male  
+**Admit Date:** 06/02/2024  
+**Attending:** Dr. S. Patel  
+**Location:** MICU, Rm 221B  
+
+---
+
+### **Admission H&P Summary**
+
+**Chief Complaint:**  
+Shortness of breath, palpitations, and lightheadedness.
+
+**History of Present Illness:**  
+70 y/o M with PMHx notable for obesity, prediabetes, chronic anemia, Afib (on warfarin, digoxin, verapamil), and recurrent viral URIs, presenting with 3 days of progressive dyspnea, orthopnea, and new onset confusion. At home, found to have HR 130s, BP 86/54. EMS noted irregularly irregular tachycardia, O2 sat 89% RA, and rales. Initial ED workup showed acute on chronic anemia, mild AKI, and lactic acidosis. Rhythm refractory to rate control. Worsening respiratory distress, hypoperfusion, and escalating vasopressor needs prompted ICU admission.
+
+**Hospital Course Summary:**  
+- On hospital day 2, patient developed cardiogenic shock with refractory hypotension and multi-organ dysfunction.
+- Echo: Severe global LV dysfunction, EF 18%, mild RV hypokinesis, left atrial enlargement.
+- Required emergent placement of a percutaneous LVAD (Impella CP) for hemodynamic stabilization.
+- Complications: Bleeding at vascular access site, mild hemolysis, transient acute kidney injury, paroxysms of afib with RVR.
+- Gradual improvement in end-organ function and weaning off vasoactives by day 6. LVAD explanted on day 8.
+- Currently on telemetry, with stable hemodynamics and improving labs.
+
+---
+
+### **PROBLEM-BASED ASSESSMENT & PLAN**
+
+#### 1. **Cardiogenic Shock / Heart Failure (new severe LV dysfunction)**
+- **Assessment:** Acute decompensation, likely on background of chronic atrial fibrillation and ischemic cardiomyopathy, precipitated by rapid ventricular response and viral illness.
+- **Plan:**
+  - Continue diuresis (IV furosemide) to maintain euvolemia.
+  - Titrate vasoactives off as tolerated.
+  - Daily echo to trend LV function.
+  - Continue guideline-directed medical therapy (GDMT) for HF once stable.
+  - Monitor for arrhythmia recurrence, maintain rate control (verapamil, digoxin).
+  - Cardiology/Advanced HF team following.
+
+#### 2. **Temporary Mechanical Circulatory Support (Impella CP)**
+- **Assessment:** Placed for refractory cardiogenic shock on HD2 with subsequent stabilization.
+- **Plan:**
+  - Daily device checks, wean support as tolerated.
+  - Monitor for device-related hemolysis, bleeding, limb ischemia.
+  - Anticoagulation (warfarin, heparin gtt per protocol).
+  - Vascular surgery consult for access site management.
+  - Explanted HD8 after hemodynamic improvement.
+
+#### 3. **Atrial Fibrillation**
+- **Assessment:** Long-standing, with recent increased frequency of RVR episodes. Possible triggers: infection, hypoxia, volume overload.
+- **Plan:**
+  - Continue oral rate control (verapamil, digoxin).
+  - Maintain therapeutic INR (2.0–3.0) with warfarin; bridge with heparin as needed.
+  - Monitor for QTc prolongation, bradycardia.
+  - Consider ablation vs. AV node ablation if recurrent RVR after stabilization.
+
+#### 4. **Obesity (BMI 30+)**
+- **Assessment:** Chronic, contributing to HF and metabolic syndrome.
+- **Plan:**
+  - Nutrition consult for calorie-restricted cardiac diet.
+  - Encourage PT/OT as tolerated, weight reduction counseling on discharge.
+
+#### 5. **Prediabetes**
+- **Assessment:** No DKA/HHS. Mild hyperglycemia during stress.
+- **Plan:**
+  - Monitor glucose q6h while NPO/ICU.
+  - Sliding scale insulin as needed.
+  - Outpatient endocrinology f/u.
+
+#### 6. **Anemia (chronic, worsened acutely)**
+- **Assessment:** Baseline Hgb ~12, dropped to 8.7 on HD3 likely due to GI losses (occult blood positive, no overt GI bleed) and hemolysis from LVAD.
+- **Plan:**
+  - Transfuse for Hgb <7.5 or symptoms.
+  - Iron studies, reticulocyte count.
+  - Monitor for ongoing hemolysis (LDH, haptoglobin, bilirubin).
+
+#### 7. **Viral Sinusitis / Pharyngitis**
+- **Assessment:** Mild, probable trigger for decompensation.
+- **Plan:**
+  - Supportive care (saline nasal spray, acetaminophen).
+  - Monitor for secondary bacterial infection.
+
+#### 8. **Acute Kidney Injury (resolved)**
+- **Assessment:** Pre-renal etiology, volume overload and low cardiac output. Improved with LVAD support and volume management.
+- **Plan:**
+  - Monitor daily BMP, strict I/Os.
+  - Avoid nephrotoxins.
+
+#### 9. **Anticoagulation Management**
+- **Assessment:** High risk for thromboembolism due to Afib, LVAD.
+- **Plan:**
+  - Continue warfarin, bridge with heparin as indicated.
+  - Monitor INR daily, adjust dosing per protocol.
+  - Monitor for bleeding (Hgb, access site checks).
+
+---
+
+### **HOSPITAL COURSE LABS**
+
+#### **Lab values (selected time points)**
+
+| Date        | WBC  | Hgb  | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | INR | Troponin | BNP   | LDH  |
+|-------------|------|------|-------|-------|------|------|------|------|------|------|------|-----|----------|-------|------|
+| 6/02/2024   | 4.3  | 12.1 | 37.2  | 377   | 139  | 3.8  | 106  | 25.7 | 16.4 | 0.95 | 91   | 2.5 | 0.04     | 1200  | 310  |
+| 6/03/2024   | 5.8  | 10.2 | 31.5  | 299   | 138  | 4.1  | 108  | 21.2 | 28.6 | 1.32 | 126  | 3.1 | 0.11     | 3500  | 480  |
+| 6/04/2024   | 7.1  | 8.7  | 29.9  | 274   | 134  | 4.7  | 112  | 18.2 | 34.2 | 1.64 | 143  | 2.8 | 0.07     | 5100  | 690  |
+| 6/05/2024   | 6.5  | 9.4  | 30.8  | 258   | 137  | 4.3  | 109  | 23.4 | 23.1 | 1.22 | 116  | 2.1 | —        | 4000  | —    |
+| 6/06/2024   | —    | 10.1 | 32.9  | 240   | 141  | 4.2  | 110  | 25.1 | 19.5 | 1.01 | 98   | 2.4 | 0.03     | 2100  | 370  |
+| 6/08/2024   | 5.2  | 10.8 | 34.0  | 264   | 140  | 4.0  | 107  | 26.3 | 15.7 | 0.89 | 102  | 2.3 | 0.02     | 1100  | 190  |
+| 6/10/2024   | 4.7  | 11.2 | —     | 289   | —    | 3.9  | 105  | 24.8 | 13.8 | 0.84 | 96   | 2.6 | —        | 850   | —    |
+
+> *Some labs not collected every day; only major trends shown. Marked improvement in renal and cardiac markers after LVAD explant. Mildly elevated troponins throughout, no evidence of acute MI.*
+
+---
+
+### **PHYSICAL EXAM (most recent, 6/10/2024):**
+
+- **Gen:** Alert, NAD, appears older than stated age, mild pallor.
+- **CV:** Irregularly irregular, HR 82, S1/S2 normal, no murmurs, JVP 8cm, trace pedal edema.
+- **Resp:** Lungs clear, no rales/wheezes.
+- **Abd:** Soft, NT/ND, no HSM, no bruit.
+- **Ext:** No cyanosis/clubbing, femoral access site with mild ecchymosis, no active bleeding.
+- **Neuro:** AOx3, no focal deficit.
+
+---
+
+### **VITALS (selected):**
+
+- **Temp:** 37.1°C
+- **HR:** 82 (afib, controlled)
+- **BP:** 112/68
+- **RR:** 18
+- **O2 sat:** 96% RA
+- **Wt:** 90.7 kg
+- **Ht:** 181 cm
+- **BMI:** 27.7
+
+---
+
+### **MEDICATIONS (current inpatient):**
+
+- Warfarin 5 mg PO qHS (target INR 2-3)
+- Heparin gtt (per LVAD protocol; discontinued HD9)
+- Verapamil 40 mg PO TID
+- Digoxin 0.125 mg PO qDay
+- Furosemide 40 mg IV q12h
+- Acetaminophen 650 mg PO q6h PRN
+- Sliding scale insulin PRN
+- Multivitamin PO daily
+
+---
+
+### **CONSULTS**
+
+- **Cardiology/Advanced HF:** Ongoing
+- **Vascular Surgery:** For Impella access management
+- **Nutrition:** Cardiac/diabetic diet
+- **Physical Therapy:** Initiated HD10
+
+---
+
+### **DISPOSITION/PROGNOSIS**
+
+- Continue inpatient cardiac monitoring x48h.
+- Anticipate transfer to stepdown, then home with close cardiology f/u.
+- Prognosis guarded given severe LV dysfunction, but improving.
+
+---
+
+#### **Attending: S. Patel, MD**
+#### **Date/Time: 06/10/2024 09:22**
+
+---
+
+**End of Note**

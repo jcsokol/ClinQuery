@@ -1,0 +1,164 @@
+---
+**EHR: Erick Leannon**  
+**MRN:** 0029482-ICU  
+**DOB:** 1974-04-28  
+**Sex:** Male  
+**Admit Date:** 2024-04-13  
+**Attending:** Dr. J. Lin  
+**Location:** MICU, Bed 8
+
+---
+
+### Admission H&P
+
+**CC:** "Shortness of breath, chest pain, feeling very weak"
+
+**HPI:**  
+49M with hx of DM2, HTN, CKD 1, anemia, hypertriglyceridemia, metabolic syndrome, and recent URI, presented to ED with 3 days of worsening dyspnea, orthopnea, and chest tightness. Home FSBS >300s. No fevers, cough improved from last week. On arrival, found to be hypotensive (SBP 78), tachycardic (HR 128), O2 sat 91% RA. CXR: mild pulmonary edema. ECG: NSR, T-wave inversions V3-V6. Troponin I 4.7 ng/mL. Bedside echo: LVEF ~18%, global hypokinesis, LV dilatation, mild RV dysfunction. Admitted to ICU for cardiogenic shock, started on dobutamine and norepinephrine. Over next 12hr, MAP persistently low despite escalating pressors, developed rising creatinine and lactate. Decision made for percutaneous LVAD (Impella CP) placement on D2.  
+
+**PMH:**  
+- DM2 (on metformin, poorly controlled)  
+- HTN  
+- CKD 1  
+- Anemia (hx of iron/B12 deficiency)  
+- Hypertriglyceridemia  
+- Metabolic syndrome  
+- Recent acute bronchitis & viral pharyngitis  
+- Diabetic nephropathy, microalbuminuria  
+- Hyperglycemia, prediabetes
+
+**PSH:** None
+
+**Allergies:** NKDA
+
+**FH:** Father MI @ 52. Mother DM2, HTN.
+
+**SH:**  
+- Former smoker, 10 pack-years, quit 2018  
+- No ETOH, no illicit drugs  
+- Lives with wife, works as accountant
+
+**Home Meds:**  
+- Metformin ER 500mg QD  
+- HCTZ 25mg QD  
+- B12 inj 1mL IM monthly  
+- PRN cough/cold syrup
+
+---
+
+### ICU Course Summary
+
+**D1:** Admitted in cardiogenic shock. On norepinephrine/dobutamine, O2, foley, A-line.  
+**D2:** Worsening shock, oliguric, lactate 4.2. Impella CP placed via R femoral artery.  
+**D2-4:** Gradual improvement in MAP, urine output, mental status. Weaned off norepi, downtrending lactate, echo: LVEF up to 25%.  
+**D5:** Extubated, started on low-dose beta-blocker, insulin drip transitioned back to SQ.  
+**D7:** Impella weaned, removed.  
+**D8-10:** Mobilizing with PT, renal fxn near baseline, minimal O2.  
+**D10:** Transfer to stepdown.
+
+---
+
+### Problem List & Assessment/Plan
+
+#### 1. **Cardiogenic Shock / Acute Systolic Heart Failure**
+- Etiology: Likely acute on chronic ischemic cardiomyopathy (no clear ACS, but h/o risk factors; trops peaked 4.7, no stents placed)
+- Impella CP placed D2 for hemodynamic support; now explanted
+- Echo: LVEF improved from 18% → 30% by D8, mild MR, mild RV dysfunction
+- Off pressors, stable MAP
+- On guideline-directed medical therapy (GDMT): carvedilol, low-dose ACEi, furosemide PRN
+- Plan: optimize GDMT, cardiac rehab, outpatient f/u with HF and EP
+
+#### 2. **Type 2 Diabetes Mellitus / Hyperglycemia**
+- Poorly controlled pre-admission (A1c 10.2%)
+- Insulin drip in ICU, transitioned to basal-bolus SQ
+- BGs 110-210, no DKA
+- Plan: Endo consult, continue basal-bolus, restart metformin if GFR >45
+
+#### 3. **Hypertension**
+- BP labile in ICU; now on carvedilol, low-dose lisinopril, PRN hydralazine
+- Hold HCTZ for now (AKI)
+- Home BP monitoring on discharge
+
+#### 4. **Chronic Kidney Disease Stage 1, AKI on CKD**
+- Baseline Cr ~1.2, peaked at 2.1 (D3), improved to 1.3
+- Oliguric D2-3, improved with Impella and diuresis
+- No dialysis required
+- Plan: monitor renal fxn, avoid nephrotoxins, nephrology f/u
+
+#### 5. **Anemia**
+- Baseline Hgb ~11, dropped to 8.3 (D2; hemodilution, no overt bleeding)
+- Transfused 1U PRBC D3
+- Hgb stable at 10.1
+- Plan: recheck iron/B12, continue supplement
+
+#### 6. **Recent Acute Bronchitis / Viral Pharyngitis**
+- Cough improved, no infiltrate, afebrile
+- Sputum cx negative
+- No further antibiotics
+
+#### 7. **Hypertriglyceridemia / Metabolic Syndrome**
+- TG >400 on admit, improved with insulin, NPO
+- Plan: statin, restart fenofibrate, dietician consult
+
+#### 8. **Diabetic Nephropathy**
+- Microalbuminuria, no retinopathy
+- ACEi on hold for AKI, will restart
+
+#### 9. **Other**
+- VTE prophylaxis with heparin SQ
+- PT/OT, SCDs
+- Foley removed D7
+
+---
+
+### ICU Labs Table
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Ca   | Troponin I | BNP    | AST  | ALT  | Alb  |
+|------------|------|------|------|------|------|------|------|------|------|------|------|------|------------|--------|------|------|------|
+| 4/13/24    | 6.4  | 11.0 | 32   | 209  | 142  | 4.6  | 104  | 23   | 21   | 1.2  | 367  | 9.1  | 2.2        | 2980   | 38   | 29   | 3.1  |
+| 4/14/24    | 7.9  | 10.5 | 31   | 191  | 140  | 4.9  | 102  | 21   | 29   | 1.6  | 289  | 8.7  | 4.7        | 3890   | 52   | 43   | 2.8  |
+| 4/15/24    | 8.1  | 8.3  | 25   | 158  | 138  | 5.2  | 99   | 18   | 38   | 2.1  | 236  | 8.2  | 3.8        | 4010   | 61   | 59   | 2.5  |
+| 4/16/24    | 7.1  | 9.5  | 29   | 165  | 139  | 4.2  | 101  | 22   | 24   | 1.5  | 172  | 9.0  | 2.1        | 2900   | 49   | 33   |      |
+| 4/17/24    | 7.0  | 9.9  | 30   |      | 140  | 4.0  | 103  | 23   | 19   | 1.3  | 148  | 9.2  | 1.1        | 1800   | 41   | 27   | 2.9  |
+| 4/18/24    | 6.7  | 10.1 | 31   | 180  | 141  | 4.1  |      | 25   | 17   | 1.3  | 136  | 9.3  | 0.7        | 1090   | 35   | 26   | 3.2  |
+| 4/19/24    | 6.5  | 10.2 |      | 188  | 142  | 4.3  | 104  | 26   | 16   | 1.3  | 142  | 9.1  | 0.5        | 850    |      |      |      |
+| 4/20/24    | 6.2  |      | 32   | 192  | 143  | 4.5  | 105  | 27   | 15   | 1.2  | 151  | 9.2  | <0.03      | 510    |      |      |      |
+
+- **Peak troponin:** 4.7 on D2
+- **BNP trended down from 4010 to 510**
+- **AST/ALT peaked with shock, improved**
+- **Cr peaked at 2.1, now baseline**
+
+---
+
+### Imaging
+
+- **CXR (4/13):** Mild pulmonary edema, no consolidation
+- **Echo (4/14):** LVEF 18%, global hypokinesis, mild RV dysfxn
+- **Echo (4/18):** LVEF 30%, mild MR, mild RV dilation
+- **Renal US:** Normal, no obstruction
+
+---
+
+### Discharge Medications (pending)
+- Carvedilol 3.125mg BID
+- Lisinopril 2.5mg QD (hold if Cr ↑)
+- Metformin ER 500mg QD
+- Basal-bolus insulin
+- Atorvastatin 40mg QHS
+- Fenofibrate 145mg QD
+- B12 inj 1mL IM monthly
+- Furosemide 20mg PRN
+
+---
+
+### Discharge Disposition
+- To home with family
+- Close f/u: Cardiology, Nephrology, Endocrinology
+
+---
+
+**Physician:** Lin, J. MD  
+**Date/Time:** 2024-04-21 09:35
+
+---

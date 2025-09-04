@@ -1,0 +1,214 @@
+---
+**Epic EHR – Inpatient Progress Note**
+
+**Patient:** German Balistreri  
+**MRN:** 00918374  
+**Date of Birth:** 04/27/1956  
+**Sex:** Male  
+**Admit Date:** 05/11/2024  
+**Attending:** Dr. K. Davidson  
+**Location:** MICU, Bed 8  
+**Consults:** Cardiology, Infectious Disease, General Surgery
+
+---
+
+## CHIEF COMPLAINT
+Progressive dyspnea, orthopnea, and lower extremity edema.
+
+---
+
+## HOSPITAL COURSE (SUMMARY)
+
+Mr. Balistreri is a 68-year-old male with a history notable for recurrent rectal polyps, chronic anemia, osteoarthritis of the knee, osteoporosis, recurrent cystitis, and recent acute bronchitis, who presented with 1 week of worsening shortness of breath, orthopnea, and increasing bilateral lower extremity swelling. He was initially admitted to the floor, but decompensated on hospital day 2 with hypotension and acute hypoxemic respiratory failure, requiring transfer to the MICU.
+
+On arrival to the ICU, he was hypotensive (SBP 82 mmHg), tachycardic (HR 117), and hypoxic (SpO2 88% on 4L NC). Bedside TTE demonstrated severely reduced LVEF (~15%), global hypokinesis, and moderate MR. Troponin peaked at 2.1 ng/mL. He was started on norepinephrine and dobutamine. Given persistent cardiogenic shock (SCAI C) refractory to medical therapy, a decision was made to place a percutaneous left ventricular assist device (Impella CP) for temporary circulatory support on HD 3.
+
+He stabilized hemodynamically, required diuresis, and was successfully weaned off vasopressors. Over the following days, his renal function improved, and he was transitioned to oral HF guideline-directed medical therapy. The Impella device was explanted on HD 8. He remains intermittently febrile, currently being worked up for possible device-related infection. 
+
+---
+
+## PAST MEDICAL HISTORY
+
+- Polyp of colon; s/p multiple polypectomies  
+- Recurrent rectal polyp  
+- Chronic anemia (multifactorial: GI, chronic disease)  
+- Osteoarthritis, bilateral knees  
+- Osteoporosis (T-score -3.2)  
+- Acute and recurrent cystitis  
+- Acute bronchitis (recent)  
+- Laceration of foot (resolved)  
+- Hyperlipidemia
+
+---
+
+## PAST SURGICAL HISTORY
+
+- Colon polypectomies x3  
+- Right knee arthroscopy (2018)
+
+---
+
+## MEDICATIONS ON ADMISSION
+
+- Naproxen sodium 220 mg PO prn  
+- Nitrofurantoin 5 mg/mL PO  
+- Phenazopyridine 100 mg PO  
+- Alendronate 10 mg PO  
+- Acetaminophen 325 mg PO prn  
+- Ibuprofen 200 mg PO prn
+
+---
+
+## ALLERGIES
+
+- NKDA
+
+---
+
+## SOCIAL HISTORY
+
+- Lives alone, retired teacher  
+- Never smoker  
+- Occasional wine  
+- No illicit drug use
+
+---
+
+## FAMILY HISTORY
+
+- Mother: CHF (deceased, age 83)  
+- Father: Colon cancer (deceased, age 70)
+
+---
+
+## PHYSICAL EXAM (HD 9)
+
+**Gen:** Elderly male, mild distress  
+**VS:** T 37.8°C, HR 92, BP 112/64, RR 18, SpO2 95% RA  
+**HEENT:** Mucous membranes moist  
+**CV:** S3 present, regular, no murmur  
+**Lungs:** Bibasilar crackles  
+**Abd:** Soft, NT, no organomegaly  
+**Ext:** 2+ pitting edema, knees tender  
+**Skin:** No rash, no wound infection  
+**Neuro:** AOx3, no focal deficit
+
+---
+
+## VITALS (SELECTED)
+
+| Date        | Temp (°C) | BP        | HR  | RR | SpO2 | Weight (kg) |
+|-------------|-----------|-----------|-----|----|------|-------------|
+| 5/11/24     | 36.9      | 134/78    | 98  | 18 | 96%  | 88.4        |
+| 5/12/24     | 37.2      | 128/74    | 104 | 20 | 95%  | 88.1        |
+| 5/13/24     | 37.5      | 82/52     | 117 | 28 | 88%  | 87.5        |
+| 5/14/24     | 37.1      | 90/60     | 110 | 22 | 92%  | 86.8        |
+| 5/15/24     | 36.8      | 110/66    | 98  | 18 | 96%  | 86.5        |
+| 5/17/24     | 37.3      | 115/70    | 92  | 16 | 98%  | 86.2        |
+| 5/19/24     | 37.8      | 112/64    | 92  | 18 | 95%  | 86.8        |
+
+---
+
+## LABS
+
+**CBC & Chemistries**  
+(Selected values; missing entries indicated as “–”)
+
+| Date      | WBC   | Hgb  | Hct  | Plt  | Na   | K   | Cl   | CO2  | BUN  | Cr   | Glu  |
+|-----------|-------|------|------|------|------|-----|------|------|------|------|------|
+| 5/11/24   | 5.1   | 10.9 | 33.0 | 410  | 139  | 4.0 | 104  | 25   | 28   | 1.14 | 108  |
+| 5/12/24   | 5.8   | 10.7 | 32.1 | 398  | 138  | 4.2 | 106  | 24   | 32   | 1.18 | 112  |
+| 5/13/24   | 7.2   | 9.8  | 29.1 | 385  | 135  | 4.6 | 108  | 21   | 38   | 1.41 | 119  |
+| 5/14/24   | 6.9   | 9.5  | 28.2 | 370  | 134  | 4.8 | 108  | 19   | 44   | 1.65 | 116  |
+| 5/15/24   | 6.1   | 10.2 | 30.4 | 362  | 137  | 4.4 | 104  | 22   | 35   | 1.27 | 111  |
+| 5/16/24   | 5.9   | 10.8 | 31.6 | 355  | 138  | 4.1 | 105  | 23   | 29   | 1.09 | 104  |
+| 5/17/24   | –     | 11.2 | 32.8 | 349  | –    | 4.0 | 104  | 24   | 27   | 1.03 | 98   |
+| 5/18/24   | 5.5   | 11.4 | –    | 344  | 139  | 4.0 | –    | –    | 25   | 1.01 | 95   |
+| 5/19/24   | 5.3   | 11.5 | 34.1 | 340  | 140  | 4.2 | 103  | 25   | 23   | 1.00 | 97   |
+
+**Additional Labs**
+
+- **Troponin I:** 2.1 ng/mL (peak, 5/13/24), trended down to 0.11 ng/mL (5/18/24)
+- **BNP:** 1845 pg/mL (5/13/24)
+- **AST/ALT:** 45/51 U/L (mildly elevated during shock, normalized by 5/16/24)
+- **INR:** 1.2 (5/13/24)
+- **Lactate:** 4.2 mmol/L (5/13/24), normalized by 5/15/24
+- **Blood cultures:** Pending (5/19/24)
+
+---
+
+## IMAGING
+
+- **CXR (5/13/24):** Pulmonary vascular congestion, mild bibasilar edema, small left pleural effusion.
+- **TTE (5/13/24):** LVEF 15%, global hypokinesis, moderate MR, mildly enlarged LV, no pericardial effusion.
+- **Renal US (5/15/24):** No hydronephrosis.
+
+---
+
+## PROCEDURES
+
+- **5/13/24:** Right femoral arterial/venous access, Impella CP placement under fluoroscopy.
+- **5/18/24:** Impella explantation, manual compression, closure device.
+
+---
+
+## MICROBIOLOGY
+
+- **Urine culture (5/12/24):** E. coli, sensitive to nitrofurantoin  
+- **Blood cultures (5/19/24):** Pending
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock secondary to decompensated HFrEF**  
+- Impella CP placed for refractory shock, now explanted  
+- Guideline-directed medical therapy for HF (carvedilol, sacubitril/valsartan, spironolactone initiated)  
+- On diuresis, euvolemic  
+- Monitor for recurrent decompensation  
+- Daily weights, strict I&O
+
+**2. Acute Kidney Injury (pre-renal, cardiorenal)**  
+- Improved with hemodynamic stabilization  
+- Monitor renal function, adjust meds for renal dosing  
+- Avoid nephrotoxins
+
+**3. Chronic Anemia**  
+- Multifactorial (chronic disease, GI blood loss)  
+- Monitored, Hgb improving, no transfusion required  
+- Iron studies, GI follow-up outpatient
+
+**4. Device-related infection risk**  
+- Intermittent fever, currently being evaluated  
+- Blood cultures pending  
+- Empiric vancomycin/cefepime started  
+- Remove lines ASAP
+
+**5. Osteoarthritis/Osteoporosis**  
+- Continue alendronate  
+- Pain managed with acetaminophen as needed  
+- Ortho consult for mobility planning
+
+**6. Recurrent cystitis**  
+- Treated with nitrofurantoin  
+- Monitor for complications
+
+**7. Colon polyps, GI follow-up**  
+- Due for interval colonoscopy (outpatient)
+
+**8. Hyperlipidemia**  
+- Continue statin therapy
+
+**9. DVT prophylaxis**  
+- SCDs, subQ heparin
+
+**10. Disposition**  
+- Anticipate transfer to step-down in 1-2 days  
+- PT/OT to assess for safe discharge home vs short-term rehab
+
+---
+
+**Signed:** K. Davidson, MD  
+**Date/Time:** 5/19/24 16:02
+
+---

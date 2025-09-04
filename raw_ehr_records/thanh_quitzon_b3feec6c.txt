@@ -1,0 +1,159 @@
+**EPIC EHR - PROGRESS NOTE**  
+**Patient Name:** Thanh Quitzon  
+**MRN:** 00837192  
+**DOB:** 09/26/1990  
+**Sex:** Male  
+**Date of Service:** 05/14/2024  
+**Attending:** Dr. Amanda L. Wirth, MD  
+**Location:** CVICU, 5th Floor
+
+---
+
+### CHIEF COMPLAINT
+Shortness of breath, chest pressure, orthopnea.
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+Thanh Quitzon is a 33-year-old male with PMHx notable for appendectomy (remote), acute viral pharyngitis, prior 1st degree burn, and rupture of patellar tendon (repaired), who presented to the ED with acute onset SOB, orthopnea, and chest tightness x2 days. He reported progressive lower extremity swelling, PND, and decreased exercise tolerance for ~1 week prior to admission. Denied fevers, cough, or recent travel. On arrival to the ED, he was tachycardic (HR 118), hypertensive (BP 154/90), tachypneic (RR 24), and hypoxic (SpO2 90% RA). Initial troponin was 0.18 (ref <0.04), BNP 2123, CXR c/w pulmonary edema. Echo revealed severely depressed LVEF (EF 18%), global hypokinesis, moderate MR, and dilated LV. Despite IV loop diuretics, he developed worsening hypotension and rising lactate. Cardiology and CT surgery were consulted. He was transferred to the CVICU and an Impella CP device was placed for mechanical circulatory support. 
+
+---
+
+### HOSPITAL COURSE SUMMARY
+**Day 1 (Admission):**  
+Admitted to ICU, started on IV furosemide, nitroglycerin drip, and BiPAP. Worsening renal function and persistent hypoperfusion → urgent Impella placement. Started milrinone for inotropy.  
+
+**Day 2-3:**  
+Impella support ongoing. Gradual improvement in end-organ function. Weaned off pressors by day 3. Serial TTE showed partial recovery of LV function (EF 25%).  
+
+**Day 4-5:**  
+Started slow diuresis. Extubated to nasal cannula. Impella successfully weaned and explanted on day 5.  
+
+**Day 6-8:**  
+Stable hemodynamics. Transferred out of CVICU to stepdown. Continued GDMT for heart failure (metoprolol, sacubitril/valsartan, spironolactone).  
+
+**Day 9 (Today):**  
+Ambulating, tolerating PO, euvolemic. Awaiting discharge planning.
+
+---
+
+### PAST MEDICAL HISTORY
+- Appendicitis → appendectomy (childhood)
+- Acute viral pharyngitis (resolved)
+- 1st degree burn (resolved)
+- Ruptured patellar tendon (s/p repair)
+- No history of DM, CAD, HTN, HLD
+
+### PAST SURGICAL HISTORY
+- Appendectomy
+- Patellar tendon repair (L knee)
+
+### MEDICATIONS ON ADMISSION
+- Ibuprofen 200mg PO PRN
+- Acetaminophen 325mg PO PRN
+- Acetaminophen/oxycodone 5/325mg PO PRN
+
+### ALLERGIES
+NKDA
+
+---
+
+## VITALS (Selected)
+| Date      | Temp (C) | HR | BP      | RR | SpO2 | Pain | Weight (kg) |
+|-----------|----------|----|---------|----|------|------|-------------|
+| 5/6/24    | 37.2     | 118| 154/90  | 24 | 90%  | 7    | 89.4        |
+| 5/7/24    | 37.1     | 110| 132/82  | 20 | 94%  | 5    | 88.1        |
+| 5/8/24    | 36.8     | 98 | 120/74  | 18 | 96%  | 3    | 87.2        |
+| 5/10/24   | 36.7     | 89 | 116/70  | 16 | 97%  | 2    | 86.3        |
+
+---
+
+## LABS
+
+### CBC/Chemistry
+
+| Date       | WBC (K) | Hgb (g/dL) | Hct (%) | Plt (K) | Na | K | Cl | CO2 | BUN | Cr | Glu | Ca | Mg | Troponin | BNP   |
+|------------|---------|------------|---------|---------|----|---|----|-----|-----|----|-----|----|----|----------|-------|
+| 5/6/24 03:12 | 6.6     | 16.6       | 41.8    | 319     | 135| 4.1| 105 | 22  | 23  | 1.6| 109 | 8.7| 2.0| 0.18     | 2123  |
+| 5/7/24 04:02 | 8.2     | 15.9       | 39.2    | 265     | 137| 4.3| 103 | 20  | 31  | 2.2| 122 | 8.5| 1.7| 0.09     | 1802  |
+| 5/8/24 06:41 | 7.5     | 15.3       | 37.8    | 241     | 139| 4.0| 102 | 21  | 27  | 1.7| 124 | 8.8| 1.8| <0.04    | 1329  |
+| 5/9/24 07:15 |         | 14.7       | 36.1    | 228     | 140| 4.2| 101 | 23  |     | 1.3| 109 |    |    | <0.04    | 888   |
+| 5/10/24 07:00| 6.2     | 14.9       | 36.5    | 220     | 140| 4.0| 101 | 25  | 19  | 1.1| 102 | 9.0| 1.6| <0.04    | 556   |
+
+**Other labs:**  
+- LFTs (5/6/24): AST 62, ALT 54, ALP 98, Tbili 1.2  
+- Lactate (5/6/24): 3.8 → normalized by 5/8/24  
+- INR: 1.1, aPTT: 29 (on admission)
+
+---
+
+## IMAGING
+- **CXR (5/6/24):** Pulmonary vascular congestion, bilateral interstitial edema, no consolidation.
+- **Echo (5/6/24):** EF 18%, global hypokinesis, moderate MR, mild RV dysfunction, no thrombus.
+- **Echo (5/9/24):** EF 28%, improved LV function, MR mild-moderate.
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Acute Decompensated Heart Failure (new onset, reduced EF, likely viral myocarditis vs. idiopathic):**  
+- Required Impella for cardiogenic shock (now explanted)  
+- GDMT initiated (metoprolol, sacubitril/valsartan, spironolactone)  
+- Monitor volume status, daily weights, strict I/Os  
+- Serial TTEs, trending BNP  
+- Cardiac MRI pending outpatient  
+- Cardiac rehab referral
+
+**2. Cardiogenic Shock (resolved):**  
+- Impella CP placed, removed day 5 after hemodynamic stabilization  
+- No evidence of ongoing hypoperfusion  
+- Monitor for recurrence
+
+**3. Acute Kidney Injury (multifactorial, improved):**  
+- Likely pre-renal from poor cardiac output  
+- Renal function improved post-Impella  
+- Continue to monitor, avoid nephrotoxins
+
+**4. Volume Overload/Pulmonary Edema:**  
+- Aggressive IV diuresis, now transitioned to oral  
+- Achieved euvolemia  
+- Monitor for recurrence
+
+**5. History of Appendectomy:**  
+- No current issues
+
+**6. History of Ruptured Patellar Tendon (s/p repair):**  
+- No current issues  
+- Encourage PT/OT as tolerated
+
+**7. Pain (musculoskeletal, mild):**  
+- PRN acetaminophen/oxycodone, NSAIDs avoided due to renal function
+
+**8. DVT Prophylaxis:**  
+- SCDs in place, SQ heparin started post-bleeding risk assessment
+
+**9. Nutrition:**  
+- Regular diet, encourage high-protein intake
+
+**10. Discharge Planning:**  
+- Anticipate discharge home with close cardiology follow-up  
+- HF education, medication reconciliation, arrange home BP monitor
+
+---
+
+## PHYSICAL EXAM (abbreviated)
+- **Gen:** NAD, alert, conversant
+- **CV:** S3, no murmur, JVP 8cm, bilateral pitting edema (improved)
+- **Resp:** Lungs clear, no rales
+- **Abd:** NT, ND, surgical scars well-healed
+- **Ext:** No erythema, surgical site L knee well-healed, mild pedal edema
+- **Neuro:** AOx3, CN 2-12 intact
+
+---
+
+**Physician:** Amanda L. Wirth, MD  
+**Date/Time Signed:** 05/14/2024 09:37
+
+---
+
+**END OF NOTE**

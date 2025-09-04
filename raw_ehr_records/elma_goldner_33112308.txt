@@ -1,0 +1,202 @@
+---
+**Patient Name:** Elma Goldner  
+**MRN:** 002984321  
+**DOB:** 11/28/1992  
+**Sex:** Female  
+**Admit Date:** 04/16/2024  
+**Attending:** Dr. S. Remy  
+**Service:** Cardiac ICU  
+**Admitting Dx:** Cardiogenic shock s/p viral myocarditis  
+**Allergies:** NKDA  
+**Code Status:** Full Code  
+**Height:** 154.4 cm  
+**Weight:** 59.3 kg  
+**BMI:** 24.9  
+
+---
+
+## HOSPITAL COURSE
+
+**Day 1:**  
+29 yo F with h/o recent viral URI and pregnancy, presents with 3 days of worsening SOB, orthopnea, LE edema and pleuritic CP. In ED: tachypneic, tachycardic (HR 132), BP 88/54, O2 sat 93% RA. CXR: mild pulm edema, ECG: sinus tach, troponin 0.65 -> 1.21, echo: LVEF 18%, global hypokinesis, mild MR, no LV thrombus. Labs: WBC 11.2, Hgb 12.1, Plt 285, Cr 1.1, Na 138, K 4.1, lactate 3.4.  
+
+Transferred to CICU for acute decompensated HF, started on milrinone, lasix IV, norepinephrine for MAPs. Infectious workup sent (resp viral PCR +, coxsackie B, neg COVID).  
+
+**Day 2:**  
+Worsening hypoperfusion (cool extremities, UOP <0.3 ml/kg/hr, lactate 5.7, Cr 1.5). Escalated to dobutamine, IABP placed at bedside for persistent cardiogenic shock.  
+
+**Day 3:**  
+Continued low cardiac output, MAPs <60 off pressors, rising lactate. Consulted CT surgery, Impella CP placed in cath lab. Immediate improvement in MAPs, lactate trended down, weaned off pressors.  
+
+**Day 4-6:**  
+On Impella support, extubated POD#1. UOP improved. LFTs peaked (AST 188, ALT 201, Tbili 2.3) then trended down. Troponin peaked 1.73. Monitored for hemolysis (LDH 420, haptoglobin 22), no evidence of device malfunction.  
+
+**Day 7:**  
+Echo: LVEF up to 26%. Impella wean trial tolerated.  
+
+**Day 8:**  
+Impella explanted at bedside, HD stable.  
+
+**Day 9-12:**  
+Continued diuresis, transitioned to oral HF regimen (metoprolol succinate, sacubitril/valsartan, spironolactone). Serial Echos: LVEF 30%, mild MR persists.  
+
+**Day 13:**  
+Transferred to step-down unit, ambulating, tolerating PO. Awaiting discharge planning.
+
+---
+
+## PROBLEM LIST
+
+1. **Cardiogenic Shock, s/p Viral Myocarditis, s/p Temporary Mechanical Circulatory Support (Impella, IABP)**
+2. **Acute Systolic Heart Failure (EF 18% → 30%)**
+3. **Acute Kidney Injury, resolving**
+4. **Transaminitis, likely ischemic, resolving**
+5. **Volume Overload, improved**
+6. **Recent Pregnancy, not currently pregnant**
+7. **History of Viral Sinusitis, Acute Bronchitis**
+8. **Contraceptive Management**
+9. **Pain, mild, managed with acetaminophen**
+10. **Nutrition/Functional Status**
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock, s/p viral myocarditis, s/p temporary heart pump**
+   - **Assessment:** Cardiogenic shock due to viral myocarditis. Required escalating inotropes, IABP, then Impella CP. Marked improvement after mechanical support.  
+   - **Plan:**
+     - Continue GDMT for HFrEF (metoprolol, sac/val, spirono)
+     - Close hemodynamic monitoring
+     - Repeat TTE prior to discharge
+     - Cardiac rehab referral
+     - Monitor for arrhythmia, device complications
+
+**2. Acute Systolic Heart Failure**
+   - **Assessment:** EF improved but still reduced.  
+   - **Plan:**
+     - Optimize HF meds
+     - Strict I/Os, daily weights
+     - Salt/fluid restriction
+     - Serial Echos
+
+**3. AKI, resolving**
+   - **Assessment:** Likely pre-renal and cardiorenal, Cr peaked at 1.8, now 1.2  
+   - **Plan:**
+     - Monitor renal function, avoid nephrotoxins
+     - IV fluids as needed
+     - Hold ACEi if worsening
+
+**4. Transaminitis, resolving**
+   - **Assessment:** Ischemic hepatitis, peaked on day 4, improving  
+   - **Plan:**
+     - Trend LFTs
+     - Avoid hepatotoxic meds
+
+**5. Volume Overload**
+   - **Assessment:** Improved with diuresis, euvolemic  
+   - **Plan:**
+     - Continue PO diuretics
+     - Monitor for hypovolemia
+
+**6. Recent Pregnancy**
+   - **Assessment:** Not currently pregnant, OBGYN aware  
+   - **Plan:**
+     - Continue contraception, avoid teratogens
+
+**7. Contraceptive Management**
+   - **Assessment:** Multiple methods listed, currently on Liletta  
+   - **Plan:**
+     - Continue Liletta, review as outpatient
+
+**8. Pain**
+   - **Assessment:** Mild, post-procedural  
+   - **Plan:**
+     - PRN acetaminophen
+
+**9. Nutrition/Functional**
+   - **Assessment:** Tolerating PO, working with PT/OT  
+   - **Plan:**
+     - Advance diet as tolerated
+     - Continue PT/OT
+
+---
+
+## VITAL SIGNS (selected points)
+
+| Date         | Temp (C) | HR   | BP     | RR   | O2 Sat | Pain |
+|--------------|----------|------|--------|------|--------|------|
+| 4/16/24 06:00| 37.2     | 132  | 88/54  | 28   | 93% RA | 7    |
+| 4/17/24 12:00| 36.9     | 118  | 104/61 | 22   | 97% HF | 5    |
+| 4/18/24 08:00| 37.1     | 101  | 112/62 | 18   | 98% NC | 2    |
+| 4/21/24 07:00| 36.8     | 88   | 108/72 | 16   | 98% RA | 1    |
+| 4/24/24 07:00| 36.7     | 78   | 114/78 | 14   | 98% RA | 0    |
+
+---
+
+## LABS
+
+### CBC & CHEM7
+
+| Date/Time     | WBC  | Hgb  | Plt  | Na   | K    | Cl   | CO2 | BUN  | Cr   | Glu  |
+|---------------|------|------|------|------|------|------|-----|------|------|------|
+| 4/16/24 06:12 | 11.2 | 12.1 | 285  | 138  | 4.1  | 102  | 20  | 18   | 1.1  | 106  |
+| 4/17/24 05:54 | 13.8 | 11.3 | 273  | 136  | 4.5  | 101  | 18  | 28   | 1.5  | 120  |
+| 4/18/24 06:30 | 12.6 | 10.9 | 249  | 134  | 4.8  | 99   | 16  | 34   | 1.8  | 133  |
+| 4/19/24 07:00 | 11.9 | 11.5 | 258  | 135  | 4.2  | 98   | 18  | 22   | 1.4  | 114  |
+| 4/20/24 08:10 | 9.5  | 12.2 | 302  | 137  | 3.9  | 100  | 21  | 17   | 1.2  | 101  |
+| 4/21/24 07:15 | 8.7  | 12.9 | 318  | 139  | 3.7  | 99   | 22  | 14   | 1.1  | 99   |
+| 4/22/24 06:42 | 8.2  | 13.2 | 325  | 140  | 3.8  | 101  | 20  | 13   | 1.1  | 103  |
+| 4/23/24 06:55 | 7.9  | 13.4 | 333  | 139  | 4.0  | 100  | 22  | 12   | 1.0  | 98   |
+| 4/24/24 06:50 | 7.6  | 13.6 | 340  | 138  | 4.1  | 99   | 21  | 12   | 1.0  | 97   |
+
+### LIVER/CARDIAC MARKERS
+
+| Date       | AST  | ALT  | Alk Phos | Tbili | Troponin | BNP   | LDH  | Haptoglobin |
+|------------|------|------|----------|-------|----------|-------|------|-------------|
+| 4/16/24    | 52   | 48   | 112      | 1.1   | 0.65     | 1460  | 210  | 61          |
+| 4/18/24    | 188  | 201  | 135      | 2.3   | 1.73     | 2200  | 420  | 22          |
+| 4/21/24    | 72   | 67   | 109      | 1.2   | 0.41     | 890   | 180  | 45          |
+| 4/24/24    | 42   | 43   | 107      | 0.9   | 0.11     | 560   | —    | —           |
+
+---
+
+## MICROBIOLOGY
+
+- Respiratory viral PCR: (+) Coxsackie B  
+- Blood cultures: No growth x2  
+- Urine: Negative
+
+---
+
+## PROCEDURES
+
+- 4/17/24: IABP insertion (R femoral)
+- 4/18/24: Impella CP placement (L femoral)
+- 4/20/24: Extubation
+- 4/22/24: Impella explant
+
+---
+
+## MEDICATIONS (selected, current)
+
+- Metoprolol succinate 25 mg PO daily
+- Sacubitril/valsartan 24/26 mg PO BID
+- Spironolactone 25 mg PO daily
+- Furosemide 40 mg PO daily
+- Acetaminophen 325 mg PO PRN
+- Liletta IUD
+- Multivitamin
+
+---
+
+## DISPOSITION
+
+- Anticipate discharge home with close HF follow-up, cardiac rehab, and telemonitoring.
+- Education provided about HF, device, and med compliance.
+
+---
+
+**Physician:** S. Remy, MD  
+**Date/Time:** 4/24/2024 10:39
+
+---

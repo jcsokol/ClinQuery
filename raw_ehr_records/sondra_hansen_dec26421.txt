@@ -1,0 +1,163 @@
+**[EPIC EHR NOTE – ICU Admission]**
+
+**Patient Name:** Sondra Hansen  
+**MRN:** 00322914  
+**DOB:** 04/02/1972 (Age: 52)  
+**Sex:** Female  
+**Date of Admission:** 04/18/2024  
+**Attending:** Dr. Rachel K. Simmons  
+**Consults:** Cardiology, ICU, Nephrology  
+
+---
+
+### **CHIEF COMPLAINT**
+Progressive dyspnea, orthopnea, and lower extremity edema.  
+
+---
+
+### **HOSPITAL COURSE SUMMARY**
+Ms. Hansen, a 52-year-old female with a history notable for chronic sinusitis, anemia, prior eclampsia, and multiple respiratory infections, presented to the ED with a 2-week history of worsening exertional dyspnea, new-onset orthopnea, and bilateral leg swelling. She was found to be hypoxic (O2 sat 86% RA), tachycardic, and hypotensive on arrival. Initial workup revealed acute decompensated heart failure with reduced ejection fraction (EF 20%), likely ischemic in etiology. She developed cardiogenic shock refractory to inotropes and vasopressors, requiring placement of a temporary left ventricular assist device (Impella CP) on hospital day 2.  
+
+Her hospital course was complicated by acute kidney injury, anemia, and labile blood pressures. She required intensive monitoring, diuresis, and serial laboratory assessments. She was weaned off the Impella after 5 days, transitioned to guideline-directed medical therapy, and is currently stable on the floor.
+
+---
+
+## **PROBLEM-BASED ASSESSMENT & PLAN**
+
+### 1. **Cardiogenic Shock / Acute Decompensated Heart Failure (HFrEF, EF 20%)**  
+- **Assessment:** Presented in shock; profound LV dysfunction, likely ischemic.  
+- **Course:** Required Impella CP for 5 days; weaned off after hemodynamics stabilized.  
+- **Plan:**  
+  - Continue GDMT: carvedilol, sacubitril/valsartan, spironolactone  
+  - Daily weights, strict I/O, continue low-salt diet  
+  - Cardiology f/u, consider ICD placement  
+  - Monitor for arrhythmias  
+
+### 2. **Acute Kidney Injury (on CKD 2)**  
+- **Assessment:** Likely multifactorial: hypoperfusion, diuretics, contrast.  
+- **Course:** Creatinine peaked at 2.1, now trending down.  
+- **Plan:**  
+  - Renal dosing of meds  
+  - Monitor labs qAM  
+  - Avoid further nephrotoxins  
+  - Nephrology follow-up  
+
+### 3. **Anemia (multifactorial, chronic + acute)**  
+- **Assessment:** Hgb dropped to 8.6 (baseline ~11).  
+- **Plan:**  
+  - Iron studies, B12, folate pending  
+  - 1 unit PRBCs given on HD 3  
+  - Monitor for GI blood loss  
+
+### 4. **Hypertension / Labile Blood Pressure**  
+- **Assessment:** Fluctuations due to inotrope weaning, volume shifts.  
+- **Plan:**  
+  - Titrate antihypertensives as tolerated  
+  - Monitor for hypotension  
+
+### 5. **Chronic Sinusitis / Recent Viral URI**  
+- **Assessment:** No evidence of ongoing infection; supportive care only.  
+- **Plan:**  
+  - Nasal saline, acetaminophen PRN  
+  - Monitor for secondary bacterial infection  
+
+### 6. **Antepartum Eclampsia (remote)**  
+- **Assessment:** History only, not contributing to current course.  
+- **Plan:**  
+  - No action required  
+
+### 7. **Medication Reconciliation**  
+- **Assessment:** Multiple OCPs, no current contraceptive use.  
+- **Plan:**  
+  - Hold estrogen-containing OCPs due to cardiac risk  
+  - Review necessity of other meds  
+
+### 8. **VTE Prophylaxis**  
+- **Plan:**  
+  - SCDs in place  
+  - Heparin SQ unless contraindicated by platelets/bleeding  
+
+### 9. **Nutrition**  
+- **Assessment:** Mildly malnourished, decreased oral intake in ICU.  
+- **Plan:**  
+  - Nutrition consult  
+  - High-protein, low-salt diet  
+  - Monitor prealbumin  
+
+---
+
+## **VITALS (Selected ICU values)**
+
+| Date/Time    | Temp (C) | HR | BP           | RR | SpO2  | Weight (kg) |
+|--------------|----------|----|--------------|----|-------|-------------|
+| 4/18 08:00   | 37.1     | 117| 86/54        | 22 | 86% RA| 75.0        |
+| 4/19 06:00   | 37.0     | 104| 100/62       | 20 | 94% 2L| 74.1        |
+| 4/20 06:00   | 36.8     | 98 | 110/66       | 18 | 97% 2L| 73.8        |
+| 4/23 07:00   | 36.9     | 89 | 120/74       | 16 | 98% RA| 73.1        |
+
+---
+
+## **LABORATORY DATA (ICU Course)**
+
+**CBC, Chem7, Cardiac Markers**
+
+| Date     | WBC   | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Troponin | BNP    | AST  | ALT  |
+|----------|-------|------|------|-------|------|------|------|------|------|------|----------|--------|------|------|
+| 4/18     | 6.3   | 12.1 | 36.2 | 440   | 137  | 4.1  | 105  | 21   | 28   | 1.4  | 0.34     | 4200   | 41   | 29   |
+| 4/19     | 7.0   | 10.7 | 32.8 | 410   | 133  | 3.7  | 100  | 18   | 38   | 2.1  | 0.46     | 5100   | 61   | 44   |
+| 4/20     | 7.8   | 9.6  | 28.0 | 387   | 135  | 4.5  | 104  | 22   | 41   | 2.0  | 0.18     | 3200   | 49   | 38   |
+| 4/21     | 6.5   | 8.6  | 26.0 | 350   | 138  | 3.9  | 108  | 23   | 34   | 1.5  | 0.08     | 1200   |      |      |
+| 4/22     | 5.8   | 9.8  | 29.7 | 372   | 141  | 4.3  | 109  | 25   | 30   | 1.3  | <0.01    | 850    | 30   | 19   |
+| 4/23     | 5.6   | 10.1 | 30.4 | 402   | 142  | 4.1  | 111  | 26   | 29   | 1.2  | <0.01    | 700    | 27   | 18   |
+
+*Missing values indicate labs not drawn or not processed on those dates.*
+
+---
+
+## **MEDICATION ADMINISTRATION RECORD (HOSPITAL)**
+
+| Date     | Medication                         | Dose/Route                 | Notes                       |
+|----------|------------------------------------|----------------------------|-----------------------------|
+| 4/18     | Furosemide IV                      | 40 mg q12h                 | For volume overload         |
+| 4/18     | Dobutamine IV                      | 2.5 mcg/kg/min (titrated)  | For cardiogenic shock       |
+| 4/18     | Heparin SQ                         | 5000 u q8h                 | VTE prophylaxis             |
+| 4/19     | Impella CP                         | Placement                  | LV support                  |
+| 4/20     | Acetaminophen PO                   | 650 mg q6h PRN             | Fever/pain                  |
+| 4/21     | PRBC transfusion                   | 1 unit                     | Hgb < 9                     |
+| 4/22     | Carvedilol PO                      | 3.125 mg BID               | Started after stabilization |
+| 4/22     | Spironolactone PO                  | 25 mg daily                | For HFrEF                   |
+| 4/23     | Sacubitril/valsartan PO            | 24/26 mg BID               | Started after weaning pump  |
+
+---
+
+## **IMAGING / PROCEDURES**
+
+- **Echocardiogram (4/18):** EF 20%, global hypokinesis, moderate MR, no LV thrombus.
+- **Chest X-ray (4/18):** Pulmonary edema, mild cardiomegaly.
+- **Impella CP Insertion (4/19):** Left femoral artery, no immediate complications.
+- **Renal U/S (4/19):** Increased echogenicity, no hydronephrosis.
+
+---
+
+## **DISPOSITION / FOLLOW-UP**
+- **Current Status:** Off Impella, hemodynamically stable, euvolemic, ambulating with assistance.
+- **Planned Dispo:** Step-down unit, continue cardiac rehab, close f/u Cardiology and Nephrology.
+- **Outpatient Referrals:** Heart Failure Clinic, Nutrition, Social Work.
+
+---
+
+## **ADDITIONAL NOTES**
+- No evidence of ongoing infection; cultures negative.
+- No arrhythmias noted during ICU stay.
+- OCPs discontinued; patient counseled on alternative contraception.
+- Social: Lives with husband, 2 adult children, no tobacco, rare EtOH.
+
+---
+
+**Physician:** Rachel K. Simmons, MD  
+**Date/Time:** 04/23/2024 15:22  
+**Co-signer:** Michael J. Lutz, MD
+
+---
+
+**END OF NOTE**

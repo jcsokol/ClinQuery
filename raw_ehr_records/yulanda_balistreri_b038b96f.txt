@@ -1,0 +1,193 @@
+---
+**Patient Name:** Yulanda Balistreri  
+**MRN:** 00439812  
+**DOB:** 1966-03-21 (58 years)  
+**Sex:** Female  
+**Admitting Service:** Cardiac ICU  
+**Attending:** Dr. S. Patel  
+**Date of Admission:** 2024-04-20  
+**Date of Note:** 2024-04-26  
+**Primary Team:** Cardiology/ICU  
+**Allergies:** NKDA  
+**Code Status:** Full  
+**Consults:** Cardiac Surgery, Infectious Disease, Psychiatry
+
+---
+
+## CHIEF COMPLAINT
+Altered mental status and hypotension at home, brought in by EMS.
+
+---
+
+## HISTORY OF PRESENT ILLNESS
+
+58F with h/o poorly controlled HTN, obesity (BMI ~30), recent E. coli UTI on nitrofurantoin, and remote hx of drug overdose, presenting after being found obtunded at home. EMS noted HR 52, BP 84/50, O2 92% on RA. Patient was intubated for airway protection. In ED, she was found to be in cardiogenic shock with evidence of acute pulmonary edema (CXR: bibasilar infiltrates, enlarged cardiac silhouette). Initial echo: LVEF ~15%, global hypokinesis. Started on norepinephrine + dobutamine. Due to persistent hypoperfusion and rising lactate, Impella CP placed by cardiology for temporary mechanical circulatory support. 
+
+Course complicated by AKI, mild transaminitis, and delirium. On day 3, developed fever, positive urine culture for ESBL E. coli. Weaned off Impella on day 5 as LVEF improved to 32%. Extubated on day 6.  
+
+---
+
+## PAST MEDICAL HISTORY
+
+- Hypertension
+- Obesity (BMI ~30)
+- E. coli UTI (recent)
+- Drug overdose (remote, details unclear)
+- Recurrent viral sinusitis
+- Laceration, forearm (remote)
+
+## SURGICAL HISTORY
+
+- None reported
+
+## FAMILY HISTORY
+
+- Mother: CHF, DM2
+- Father: MI age 65
+
+## SOCIAL HISTORY
+
+- Former smoker (quit 2010)
+- Drinks wine ~2x/week
+- Lives alone, retired teacher
+
+## HOME MEDICATIONS
+
+- Atenolol/chlorthalidone 50/25 mg daily
+- Ibuprofen 200 mg PRN
+- Nitrofurantoin 100 mg BID (recent UTI)
+- Phenazopyridine 100 mg TID (recent UTI)
+
+---
+
+## PHYSICAL EXAM (Day 6, post-Impella removal)
+
+| Vitals               | 6am | 2pm  | 10pm |
+|----------------------|-----|------|------|
+| Temp (°F)            | 99.6| 100.2| 98.9 |
+| HR (bpm)             | 92  | 88   | 84   |
+| BP (mmHg)            | 112/68 | 108/74 | 116/70 |
+| RR                   | 18  | 14   | 16   |
+| O2 Sat (%)           | 97% | 96%  | 97%  |
+| Pain (0-10)          | 1   | 2    | 0    |
+
+**Gen:** Awake, alert, NAD  
+**CV:** RRR, S1S2, no murmur, JVP 9cm, trace LE edema  
+**Resp:** Lungs clear, no rales  
+**Abd:** Soft, NT, ND  
+**Neuro:** A&O x3, no focal deficit  
+**Skin:** Clean, healing puncture site R femoral artery (Impella), forearm laceration healing  
+
+---
+
+## LABS
+
+### CBC + CHEM7 (Selected)
+
+| Date       | WBC  | Hgb  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|------|------|------|------|------|------|------|------|------|------|
+| 4/20 06:30 | 7.2  | 16.0 | 315  | 137  | 4.8  | 104  | 20   | 18   | 1.2  | 132  |
+| 4/21 04:00 | 9.4  | 15.5 | 289  | 135  | 5.6  | 102  | 16   | 34   | 2.1  | 148  |
+| 4/22 08:00 | 13.1 | 14.2 | 250  | 132  | 5.3  | 100  | 15   | 41   | 2.4  | 167  |
+| 4/23 06:00 | 11.8 | 13.4 | 210  | 134  | 4.7  | 98   | 18   | 32   | 1.7  | 142  |
+| 4/24 06:15 | 8.9  | 13.1 | 223  | 136  | 4.1  | 101  | 21   | 22   | 1.4  | 118  |
+| 4/25 08:30 | 7.6  | 13.5 | 258  | 138  | 3.9  | 100  | 20   | 18   | 1.1  | 102  |
+| 4/26 06:00 | 7.8  | 14.1 | 272  | 139  | 4.2  | 102  | 23   | 16   | 1.0  | 99   |
+
+### OTHER LABS
+
+| Date       | AST  | ALT  | Alk Phos | T. bili | Troponin I | BNP   | Lactate |
+|------------|------|------|----------|---------|------------|-------|---------|
+| 4/20 07:00 | 78   | 103  | 120      | 1.1     | 0.19       | 2387  | 4.2     |
+| 4/21 07:00 | 96   | 110  | 132      | 1.3     | 0.21       | 3180  | 3.7     |
+| 4/22 07:00 | 82   | 94   | -        | -       | 0.09       | 1742  | 2.2     |
+| 4/24 06:00 | 51   | 61   | 98       | 0.8     | <0.01      | 930   | 1.1     |
+
+---
+
+## MICROBIOLOGY
+
+- Urine Cx (4/21): ESBL E. coli, >100,000 CFU
+- Blood Cx: No growth x2
+
+---
+
+## IMAGING
+
+- CXR (4/20): Cardiomegaly, pulmonary edema, bibasilar opacities
+- Echo (4/20): LVEF 15%, severe global hypokinesis
+- Echo (4/25): LVEF 32%, mild MR, no thrombus
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+- Admitted in cardiogenic shock, required pressors and Impella CP placement
+- AKI developed, peaked Cr 2.4, now resolving
+- Received vancomycin/meropenem for ESBL UTI, now afebrile
+- Weaned off Impella and pressors by day 5
+- Extubated, mental status baseline
+- Started on GDMT for new HFrEF
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock, New HFrEF (EF 15–32%)**  
+- Likely ischemic vs. non-ischemic, no prior known cardiac dz  
+- Impella CP placed for temporary support; now weaned, stable  
+- Continue GDMT: low-dose carvedilol, sacubitril/valsartan, spironolactone  
+- Cardiac cath deferred (no ongoing ischemia, troponin stable, pt stable)  
+- Cardiac MRI pending outpatient  
+- Daily weights, fluid restriction, monitor for recurrence
+
+**2. Acute Kidney Injury (resolved)**  
+- Likely multifactorial: hypoperfusion, nephrotoxic meds  
+- Cr improved to baseline, continue to monitor  
+- Avoid NSAIDs, adjust renally cleared meds
+
+**3. ESBL E. coli UTI**  
+- Treated with IV meropenem x 5d, now PO  
+- Foley removed, no further fevers  
+- ID following
+
+**4. Obesity/HTN**  
+- Restarted home atenolol/chlorthalidone  
+- Encourage low-salt diet, weight loss counseling
+
+**5. Delirium (resolved)**  
+- Likely multifactorial, resolved  
+- Sleep hygiene, minimize nighttime disruptions
+
+**6. Remote Drug Overdose, Social Concerns**  
+- Psychiatry consulted, no acute suicidality  
+- Social work following for safe d/c plan
+
+**7. Other**  
+- Healing forearm laceration, wound care prn  
+- Sinusitis: supportive care
+
+**Disposition:**  
+- Anticipate transfer to stepdown within 24h, then home with VNA  
+- Close cardiology & PCP follow-up
+
+---
+
+## MEDICATIONS (HOSPITAL DAY 6)
+
+- Carvedilol 3.125 mg BID
+- Sacubitril/valsartan 24/26 mg BID
+- Spironolactone 25 mg QD
+- Furosemide 20 mg IV BID
+- Meropenem 1g IV q8h x 5d (completed)
+- Nitrofurantoin 100 mg PO BID (to finish course)
+- Acetaminophen 650 mg PRN
+
+---
+
+**Attending:** Dr. S. Patel  
+**Resident:** J. Lin, MD  
+**Note Type:** Daily Progress Note  
+**Dictated:** 2024-04-26, 09:12
+
+---

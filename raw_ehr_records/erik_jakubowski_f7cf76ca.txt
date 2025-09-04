@@ -1,0 +1,228 @@
+**Patient Name:** Erik Jakubowski  
+**MRN:** 00648127  
+**DOB:** 08/12/1971 (Age 52)  
+**Sex:** Male  
+**Admit Date:** 03/14/2024  
+**Attending:** Dr. L. Fernandez  
+**Service:** Cardiac ICU  
+**Note Type:** ICU Progress Note  
+**Note Date:** 03/18/2024  
+**Author:** S. Patel, MD
+
+---
+
+# **Chief Complaint**
+Shortness of breath, orthopnea, and lower extremity edema
+
+---
+
+# **HISTORY OF PRESENT ILLNESS**
+52-year-old male with history of obesity (BMI ~30), hyperlipidemia, daily tobacco use, and osteoarthritis of the hip, presented to the ED 4 days ago with progressive dyspnea, productive cough, and increased lower extremity edema. He initially reported a 2-week history of viral upper respiratory symptoms (congestion, sore throat), which he attributed to his chronic sinusitis and viral pharyngitis. Over the past 48 hours prior to admission, he developed severe orthopnea, paroxysmal nocturnal dyspnea, and chest tightness. In the ED, he was tachypneic, hypoxic (SpO2 88% on RA), tachycardic (HR 116), and hypertensive (BP 168/94). CXR showed pulmonary congestion; BNP elevated at 2380. Troponin mildly elevated (0.09 → 0.13). Echo revealed new severe LV systolic dysfunction (EF 18%) with global hypokinesis. He was transferred to the CICU for management of suspected new-onset decompensated heart failure, likely viral myocarditis.
+
+On hospital day 2, patient developed acute hypotension, worsening renal function, and rising lactate. Decision made for temporary mechanical circulatory support with placement of a percutaneous left ventricular assist device (Impella CP). Patient stabilized hemodynamically, with improvement in urine output and mentation. Over subsequent days, he has been weaned off vasopressors but remains on low-dose inotropes.
+
+---
+
+# **PAST MEDICAL HISTORY**
+- **Obesity** (BMI ~30)
+- **Osteoarthritis of hip**
+- **Hyperlipidemia**
+- **Chronic viral sinusitis & pharyngitis**
+- **Daily tobacco use**
+- **Concussion with LOC (remote)**
+- **Acute bronchitis (recent, resolved)**
+
+# **PAST SURGICAL HISTORY**
+- None documented
+
+# **SOCIAL HISTORY**
+- Smokes 1 ppd for 35 years
+- No alcohol or illicit drug use
+- Lives with wife, ambulatory with cane (hip arthritis)
+
+# **FAMILY HISTORY**
+- Father: MI age 60, deceased
+- Mother: HTN, alive
+
+# **ALLERGIES**
+- NKDA
+
+# **MEDICATIONS ON ADMISSION**
+- Simvastatin 10 mg PO qHS
+- Naproxen sodium 220 mg PO PRN
+- Acetaminophen 325 mg PO PRN
+- 24hr nicotine patch
+
+# **HOSPITAL MEDICATIONS**
+- Furosemide IV
+- Milrinone IV
+- Aspirin 81 mg PO
+- Heparin IV (Impella protocol)
+- Simvastatin 10 mg PO
+- Pantoprazole 40 mg IV
+- Acetaminophen 650 mg PO PRN
+- DVT prophylaxis: SCDs
+
+---
+
+# **PHYSICAL EXAM**
+| System         | Findings                                                                 |
+|----------------|--------------------------------------------------------------------------|
+| General        | Alert, fatigued, NAD.                                                    |
+| Vitals         | T 37.3°C  HR 94   BP 108/66 (MAP 77)   RR 22   SpO2 96% (2L NC)          |
+| HEENT          | Mild oropharyngeal erythema, no tonsillar exudate                        |
+| Neck           | JVP 13 cm H2O, no carotid bruits                                         |
+| Cardiac        | Tachycardic, S3 present, no murmurs, Impella hum audible                 |
+| Lungs          | Bibasilar crackles, decreased air entry                                  |
+| Abdomen        | Soft, mild hepatomegaly, non-tender                                      |
+| Extremities    | 2+ pitting edema bilateral LE, pulses 2+                                 |
+| Neuro          | Oriented x3, no focal deficits                                           |
+| Skin           | Intact, mild ecchymosis at femoral access                                |
+
+---
+
+# **ICU DAILY PROBLEM-BASED ASSESSMENT & PLAN**
+
+## 1. **Acute Decompensated Heart Failure (new severe LV dysfunction, likely viral myocarditis)**
+**Assessment:**  
+- Severe LV dysfunction (EF 18%) in setting of viral prodrome; likely viral myocarditis.
+- Required Impella CP for cardiogenic shock on HD#2.
+- Off vasopressors, on low-dose milrinone.
+**Plan:**  
+- Continue Impella support, daily weaning assessment.
+- Titrate diuresis (IV furosemide) for euvolemia.
+- Monitor for arrhythmias, daily EKG.
+- Serial TTEs to trend recovery.
+- Restrict fluids <1.5L/day.
+- Cardiology/heart failure consult.
+
+## 2. **Renal Dysfunction (AKI on CKD?)**
+**Assessment:**  
+- Baseline Cr unknown. Admission Cr 2.8, BUN 32. Improved to Cr 1.9 with support.
+- Likely pre-renal from low output.
+**Plan:**  
+- Monitor UOP hourly.
+- Trend daily chem7.
+- Avoid nephrotoxins, adjust meds for renal function.
+- Nephrology following.
+
+## 3. **Volume Overload/Pulmonary Edema**
+**Assessment:**  
+- Admission CXR: pulmonary congestion, crackles, 2+ LE edema.
+**Plan:**  
+- IV furosemide. Strict I/O.
+- Daily weights.  
+- Monitor electrolytes.
+
+## 4. **Impella Management**
+**Assessment:**  
+- Impella CP placed HD#2 for cardiogenic shock.
+- Heparin gtt for device.
+- No evidence of limb ischemia or hemolysis.
+**Plan:**  
+- Continue heparin per protocol, daily PTT.
+- Access site checks Q4h.
+- Daily Hgb, LDH, haptoglobin.
+- Wean as tolerated.
+
+## 5. **Secondary Prevention (CAD risk, hyperlipidemia, smoking)**
+**Assessment:**  
+- Hyperlipidemia, daily tobacco use.
+**Plan:**  
+- Continue simvastatin.
+- Smoking cessation counseling, nicotine patch.
+- Low-dose aspirin.
+
+## 6. **Osteoarthritis (hip)**
+**Assessment:**  
+- Baseline ambulatory with cane, mild pain.
+**Plan:**  
+- Acetaminophen PRN, avoid NSAIDs due to AKI.
+- PT/OT consult for mobility.
+
+## 7. **Infection Prophylaxis**
+**Assessment:**  
+- No clear evidence of superimposed bacterial infection.
+**Plan:**  
+- Monitor WBC, procalcitonin.
+- Daily CXR for pulmonary status.
+
+## 8. **GI Prophylaxis**
+**Assessment:**  
+- On stress ulcer prophylaxis.
+**Plan:**  
+- Continue pantoprazole IV.
+
+## 9. **DVT Prophylaxis**
+**Assessment:**  
+- SCDs in place, on heparin for Impella.
+**Plan:**  
+- Continue current measures.
+
+## 10. **General Care**
+**Plan:**  
+- DNR/DNI discussed, patient wishes full code at this time.
+- Family updated daily.
+- Nutrition: Cardiac diet, NPO after midnight for possible TTE.
+
+---
+
+# **LABORATORY DATA**
+
+## **CBC & Chemistry (Key values; * = abnormal)**
+| Date       | WBC   | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr    | Gluc | Ca   |
+|------------|-------|-------|-------|-------|------|------|------|------|------|-------|------|------|
+| Admit      | 10.2  | 17.2  | 36.3  | 254   | 138  | 4.3  | 107  | 28   | 32   | 2.8*  | 75   | 9.3  |
+| HD#1 AM    | 9.7   | 16.1  | 33.2  | 238   | 137  | 4.1  | 106  | 27   | 28   | 2.6*  | 89   | 9.1  |
+| HD#2 PM    | 8.4   | 14.8  | 30.7  | 211   | 135  | 4.0  | 105  | 25   | 22   | 2.1*  | 101  |      |
+| HD#3       | 7.9   | 14.9  | 31.1  | 223   | 134  | 3.8  | 104  |      | 19   | 1.9   | 94   | 8.8  |
+| HD#4 AM    | 7.8   | 14.7  | 30.6  | 209   | 135  |      | 105  | 26   | 18   | 1.9   | 92   | 8.7  |
+
+## **Other Labs**
+- **BNP:** 2380 pg/mL (admit)
+- **Troponin I:** 0.09 → 0.13 ng/mL (admit–HD#1)
+- **LDH:** 325 U/L (HD#2, post-Impella)
+- **Haptoglobin:** 92 mg/dL (HD#2)
+- **PTT (heparin):** 61 sec (goal 60–80)
+- **AST/ALT:** 29/40 U/L (admit)
+- **Total bili:** 0.8 mg/dL
+
+---
+
+# **IMAGING**
+- **CXR (admit):** Pulmonary vascular congestion, mild bilateral effusions.
+- **CXR (HD#3):** Improved vascular congestion.
+- **TTE (admit):** EF 18%, global hypokinesis, no valvular vegetations.
+- **TTE (HD#4):** EF 25%, mild improvement.
+
+---
+
+# **VITALS (selected)**
+| Date/Time     | T (°C) | HR   | BP      | RR  | SpO2   |
+|---------------|--------|------|---------|-----|--------|
+| Admit         | 37.4   | 116  | 168/94  | 28  | 88% RA |
+| HD#1 AM       | 37.1   | 104  | 152/86  | 24  | 94% 2L |
+| HD#2 PM       | 36.9   | 98   | 112/68  | 22  | 96% 2L |
+| HD#3          | 37.2   | 92   | 108/66  | 20  | 96% 2L |
+| HD#4 AM       | 37.0   | 94   | 108/66  | 22  | 96% 2L |
+
+---
+
+# **DISPOSITION**
+- Remains in ICU, on Impella support.
+- Awaiting further recovery of myocardial function; plan for Impella wean trial.
+- Prognosis guarded but improving.
+
+---
+
+# **ATTENDING PHYSICIAN:**
+Dr. L. Fernandez
+
+---
+
+# **CO-SIGNATURE:**  
+S. Patel, MD, Cardiology Fellow
+
+---
+
+**END OF NOTE**

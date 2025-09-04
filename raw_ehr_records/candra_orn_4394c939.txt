@@ -1,0 +1,149 @@
+---
+**Patient:** Candra Orn  
+**MRN:** 0034298-ORNC  
+**DOB:** 05/26/1967  
+**Sex:** Female  
+**Admit Date:** 03/11/2024  
+**Attending:** Dr. J. Lormand, MD, Cardiology  
+**Location:** MICU, Bed 8  
+**Reason for Admission:** Acute decompensated heart failure with cardiogenic shock; required temporary LVAD (Impella CP)  
+**Allergies:** NKDA  
+**Code Status:** Full Code  
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+**HPI:**  
+Candra Orn is a 56-year-old woman with obesity (BMI ~30), history of early miscarriage, and viral sinusitis, who presented to the ED with progressive dyspnea, orthopnea, and new lower extremity edema over 1 week. She reported a viral URI two weeks prior. On arrival, she was tachypneic, hypoxic, and hypotensive (SBP 78 mmHg). Initial exam notable for JVD, S3, cool extremities, and bibasilar crackles. Troponin mildly elevated. Echo revealed new severe global LV dysfunction (EF ~18%). She rapidly deteriorated with worsening shock, requiring pressors and urgent temporary LVAD placement (Impella CP) for cardiogenic shock, presumed viral myocarditis.   
+
+**Hospital Course:**  
+- Required intubation and mechanical ventilation for 3 days.  
+- Temporary LVAD in place for 5 days; gradually weaned off pressors and extubated on HD#5.  
+- Developed AKI (peak Cr 2.2 mg/dL) and mild transaminitis.  
+- Complicated by delirium and mild right groin hematoma at Impella site.  
+- LV function slowly improved (EF 32% by HD#8), Impella removed HD#7.  
+- Now on low-dose diuretics, GDMT for HF.  
+- Discharge anticipated to cardiac rehab.  
+
+---
+
+### VITALS (selected)
+
+| Date       | Temp (C) | HR  | BP         | RR  | SpO2  | Pain |
+|------------|----------|-----|------------|-----|-------|------|
+| 3/11/24    | 36.8     | 118 | 78/56      | 26  | 91%RA | 4    |
+| 3/12/24    | 37.1     | 110 | 83/62      | 22  | 96%FM | 3    |
+| 3/13/24    | 36.7     | 104 | 92/68      | 18  | 97%ET | 0    |
+| 3/14/24    | 36.6     | 96  | 102/71     | 16  | 98%ET | 0    |
+| 3/15/24    | 36.9     | 88  | 111/74     | 17  | 98%NC | 2    |
+| 3/17/24    | 36.5     | 82  | 119/76     | 15  | 98%RA | 1    |
+
+---
+
+### LABS
+
+**CBC/Chemistry Panel (selected)**
+
+| Date       | WBC   | Hgb  | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|-------|------|-------|-------|------|------|------|------|------|------|------|
+| 3/11/24 AM | 7.2   | 13.9 | 39.6  | 326   | 134  | 5.2  | 104  | 21   | 31   | 1.3  | 132  |
+| 3/12/24 AM | 6.9   | 13.1 | 38.0  | 310   | 132  | 5.5  | 102  | 19   | 38   | 1.8  | 124  |
+| 3/13/24 AM | 7.4   | 12.7 | 37.2  | 289   | 133  | 5.8  | 101  | 18   | 42   | 2.2  | 118  |
+| 3/14/24 AM | 6.8   | 12.9 | 37.9  | 277   | 135  | 5.1  | 103  | 21   | 27   | 1.7  |      |
+| 3/15/24 AM | 6.2   |      | 38.5  | 266   | 136  | 4.7  |      | 23   | 22   | 1.3  | 107  |
+| 3/17/24 AM | 7.0   | 13.8 | 40.2  | 255   | 137  | 4.2  | 105  | 25   | 16   | 1.0  | 104  |
+
+**Other Labs**
+- BNP: 2860 pg/mL (admission), 1120 pg/mL (HD#7)
+- Troponin I: 0.17 ng/mL (peak, HD#1), 0.04 ng/mL (HD#3)
+- AST/ALT: 88/65 U/L (HD#2), 32/29 U/L (HD#7)
+- INR: 1.3 (HD#2), 1.1 (HD#6)
+- Albumin: 3.1 g/dL (HD#2)
+- LFTs trended down after AKI resolved
+
+---
+
+### IMAGING
+
+**Echocardiogram (3/12/24):**  
+- Severe global LV hypokinesis, EF 18%
+- Mild RV dysfunction, moderate LA dilation
+- No significant valvular disease, no thrombus
+
+**Repeat Echo (3/17/24):**  
+- LVEF improved to 32%
+- Mild MR, no pericardial effusion
+
+**CXR:**  
+- 3/11/24: Pulmonary edema, mild cardiomegaly
+- 3/13/24: Improved, no new consolidation
+
+---
+
+### MEDICATION ADMINISTRATION RECORD (selected)
+
+- Norepinephrine 0.08–0.15 mcg/kg/min IV (HD#1-4)
+- Furosemide 40 mg IV BID (since HD#3)
+- Carvedilol 3.125 mg PO BID (started HD#7)
+- Lisinopril 2.5 mg PO daily (started HD#7)
+- Heparin drip (while Impella in place)
+- Atorvastatin 40 mg PO daily
+- Yaz, Camila, and Jolivette held during admission
+- DVT ppx: Enoxaparin 40 mg SQ daily (after Impella removal)
+
+---
+
+### ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock, Acute on Chronic Systolic Heart Failure, Presumed Viral Myocarditis**  
+- Required Impella CP for 5 days, now removed.  
+- Weaned off vasopressors, improving hemodynamics and end-organ function.  
+- Continue GDMT for HFrEF, low-dose BB/ACEi, monitor for arrhythmia.  
+- Daily weights, strict I/O, up-titrate meds as tolerated.  
+- Cardiac rehab on discharge, outpatient HF follow-up.  
+
+**2. Acute Kidney Injury (resolved)**  
+- Likely multifactorial (hypoperfusion, diuretics, Impella).  
+- Trending down, Cr now at baseline.  
+- Monitor renal function, avoid nephrotoxins.  
+
+**3. Obesity (BMI ~30)**  
+- Dietician consult, low Na diet.  
+- Encourage weight loss, cardiac rehab.  
+
+**4. Delirium (resolved)**  
+- Likely multifactorial: critical illness, intubation, sleep deprivation.  
+- Oriented, sleeping at night, no agitation.  
+
+**5. Groin Hematoma (Impella site)**  
+- Small, stable, no active bleeding.  
+- Serial exams, no intervention needed.  
+
+**6. Menstrual/Hormonal Management**  
+- All OCPs held during admission (risk of VTE).  
+- Gyn consult for future management.  
+
+**7. Secondary Prevention**  
+- Smoking cessation counseling (if applicable).  
+- Statin, cardiac rehab referral.
+
+---
+
+### DISCHARGE PLANNING
+
+- Anticipated discharge HD#9 to cardiac rehab.  
+- Outpatient follow-up with HF, cardiology, and Gyn.  
+- Home meds: Carvedilol, Lisinopril, Atorvastatin, Furosemide PRN, OCPs held.  
+- Return precautions reviewed.
+
+---
+
+**Signed:**  
+J. Lormand, MD  
+Cardiology/Critical Care  
+03/18/2024, 08:31
+
+---
+
+**(Additional pages available in chart review: see full flowsheets, imaging, and consults.)**

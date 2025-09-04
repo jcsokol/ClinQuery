@@ -1,0 +1,243 @@
+**Patient Name:** Lionel McGlynn  
+**MRN:** 00917742  
+**DOB:** 09/19/1919  
+**Sex:** Male  
+**Date of Admission:** 04/17/2024  
+**Attending:** Dr. J. Finkelstein  
+**Admitting Diagnosis:** Cardiogenic shock secondary to acute decompensated heart failure (ADHF) with underlying ischemic cardiomyopathy.  
+**Hospital Day:** 12  
+**ICU Days:** 9  
+**Consults:** Cardiology, Nephrology, Endocrinology, Neurology
+
+---
+
+**Subjective:**  
+99-year-old man with history of severe coronary artery disease, multiple comorbidities including advanced type 2 DM with end-organ complications (retinopathy, neuropathy, CKD1), HTN, metabolic syndrome, chronic anemia, and Alzheimer's dementia. Presented to ED via EMS after collapse at home; EMS reported initial cardiac arrest with successful field resuscitation (CPR x 7 min, 1x epi, 1x amio, ROSC). 
+
+Family reports progressive weakness, confusion, and reduced oral intake for 3 days prior to admission. No recent chest pain, but noted dyspnea and orthopnea. Baseline functional status: ambulates with walker, dependent for most ADLs, nonverbal due to advanced dementia. Blind.
+
+---
+
+**Objective:**
+
+**ICU Course Summary:**  
+- Initial presentation: profound hypotension, bradycardia, hypoxia, GCS 7, intubated for airway protection, transferred to ICU.  
+- Cardiogenic shock diagnosed; bedside echo: EF ~20%, global hypokinesis, severe diastolic dysfunction, mild MR.  
+- Temporary left-sided percutaneous VAD (Impella CP) placed on HD 2 due to refractory shock and evidence of end-organ hypoperfusion despite inotropes/vasopressors.  
+- Gradual improvement in MAP, urine output, lactate clearance over next 72h.  
+- Weaned off Impella on HD 7, extubated HD 9, transferred out of ICU HD 10.  
+- Complicated by AKI (stage 1, non-oliguric), mild transaminitis, and hospital-acquired viral sinusitis.  
+- Ongoing management for DM, CHF, secondary prevention for CAD, and close monitoring for neurologic recovery given baseline dementia and new anoxic brain injury risk.
+
+---
+
+**Vital Signs (selected):**  
+| Date       | Temp (°C) | HR (bpm) | BP (mmHg) | RR | SpO2 (%) | O2 Device   | Pain Score |
+|------------|-----------|----------|-----------|----|----------|-------------|------------|
+| HD 1 (ICU) | 36.5      | 52       | 68/42     | 28 | 82       | 100% NRB    | 1          |
+| HD 2 (ICU) | 36.7      | 66       | 78/54     | 24 | 93       | MV (FiO2 0.4)| Intubated  |
+| HD 5 (ICU) | 37.0      | 84       | 94/58     | 20 | 97       | MV (FiO2 0.35)| Sedated   |
+| HD 9 (ICU) | 36.8      | 76       | 108/56    | 18 | 98       | NC 2L       | 1          |
+| HD 12      | 36.6      | 72       | 112/60    | 18 | 98       | RA          | 1          |
+
+---
+
+**Laboratory Data:**
+
+**CBC + Chem7 (selected):**
+
+| Date  | WBC  | Hgb  | Hct  | Plts | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|-------|------|------|------|------|------|------|------|------|------|------|------|
+| HD 1  | 9.7  | 16.9 | 45.4 | 389  | 139  | 4.7  | 104  | 25   | 15   | 0.9  | 412  |
+| HD 2  | 10.1 | 15.8 | 43.0 | 355  | 141  | 5.1  | 107  | 22   | 23   | 1.2  | 203  |
+| HD 3  | 11.2 | 14.4 | 39.7 | 322  | 142  | 4.9  | 108  | 24   | 38   | 1.6  | 174  |
+| HD 5  | 9.2  | 12.9 | 36.6 | 301  | 143  | 4.2  | 106  | 23   | 31   | 1.3  | 142  |
+| HD 7  | 8.8  | 11.8 | 33.7 | 288  | 139  | 4.0  | 103  | 25   | 27   | 1.1  | 120  |
+| HD 9  | 8.1  | 12.4 | 35.2 | 273  | 137  | 4.5  | 104  | 24   | 23   | 1.0  | 98   |
+| HD 11 | 7.9  | 12.7 | 36.0 | 264  | 138  | 4.3  | 105  | 24   | 18   | 0.9  | 94   |
+| HD 12 | 8.0  | 12.8 | 36.4 | 258  | 139  | 4.4  | 104  | 25   |      | 0.9  | 91   |
+
+**Additional Labs:**  
+- Troponin I (HD 1): 0.12 > 0.07 > 0.05 ng/mL (downtrending, no STEMI)  
+- BNP (HD 1): 3122 pg/mL  
+- LFTs (HD 3): AST 74 U/L, ALT 62 U/L, Tbili 1.6 mg/dL  
+- Lactate (HD 1): 3.8 mmol/L → normalized by HD 4  
+- UA (HD 2): Proteinuria, glucosuria, moderate ketones  
+- ABG (HD 2): pH 7.28 / pCO2 32 / pO2 58 / HCO3 16 (metabolic acidosis, improved with volume resuscitation and VAD)  
+
+---
+
+**Imaging:**  
+- CXR (HD 1): Pulmonary edema, mild cardiomegaly, right lower lobe atelectasis  
+- TTE (HD 1): EF 20%, severe global hypokinesis, LV dilation, mild MR  
+- Head CT (HD 1): No acute hemorrhage or ischemia, advanced atrophy, chronic microvascular changes  
+- Renal US (HD 4): Normal size, mild increased echogenicity, no obstruction
+
+---
+
+**Problem List & Assessment/Plan**
+
+1. **Cardiogenic Shock / Acute Decompensated HF (EF 20%, ischemic, s/p cardiac arrest, s/p VAD):**  
+    - Presented in profound shock, required emergent intubation and pressors.  
+    - Temporary left-sided Impella CP placed for hemodynamic support, weaned off after 5 days.  
+    - Gradual improvement in perfusion, MAP, UOP, and mentation.  
+    - On guideline-directed medical therapy for HFrEF (BB, ACEi held for hypotension, diuretic as tolerated).  
+    - Plan: Monitor for recurrent decompensation, optimize volume status, consider advanced therapies only if recurrent shock.
+
+2. **Coronary Artery Disease / s/p Cardiac Arrest:**  
+    - No new STEMI, troponin downtrending.  
+    - On DAPT (clopidogrel), statin, nitro PRN.  
+    - Plan: Continue secondary prevention. Cardiac cath deferred given poor baseline and advanced age.
+
+3. **Type 2 Diabetes Mellitus with End-Organ Damage (Retinopathy, Neuropathy, Renal):**  
+    - Glucose initially elevated, now improved with IV insulin, transitioned to basal-bolus SQ.  
+    - A1c on prior labs 8.4%.  
+    - Endocrine consult: continue metformin (monitor renal), titrate insulin.  
+    - Plan: Avoid hypoglycemia, monitor for infection.
+
+4. **Chronic Kidney Disease Stage 1, AKI on CKD:**  
+    - AKI likely multifactorial: hypoperfusion, nephrotoxic drugs, myoglobinuria.  
+    - Renal function improved after VAD and volume optimization, now near baseline.  
+    - Plan: Avoid nephrotoxins, monitor urine output, trend Cr/BUN.
+
+5. **Anemia (Multifactorial):**  
+    - Baseline Hgb ~12-13, dropped to 11.8 during ICU stay.  
+    - Likely dilutional and chronic disease.  
+    - Plan: Iron, monitor for overt bleeding; transfusion not indicated.
+
+6. **Alzheimer’s Disease, Advanced:**  
+    - Remains nonverbal, baseline severe dementia.  
+    - Family meeting held; DNR/DNI confirmed.  
+    - Plan: Continue supportive care, minimize delirium risk.
+
+7. **Hospital-Acquired Sinusitis:**  
+    - Low-grade fevers, mild congestion, positive viral panel (rhinovirus).  
+    - Supportive care, monitor for bacterial superinfection.
+
+8. **Hypertension, Hypertriglyceridemia, Metabolic Syndrome:**  
+    - BP controlled on current regimen, statin continued.  
+    - Plan: Monitor lipids, continue simvastatin, adjust antihypertensives as tolerated.
+
+9. **Blindness, Diabetic Retinopathy, Macular Edema:**  
+    - Chronic, irreversible.  
+    - Plan: Ophthalmology aware. No acute intervention.
+
+10. **Osteoarthritis (Hand):**  
+    - Chronic, managed with PRN naproxen.  
+    - Plan: Avoid NSAIDs due to renal risk; use acetaminophen.
+
+11. **Neuropathy (Diabetic):**  
+    - Chronic, no acute issues.  
+    - Plan: Continue supportive care.
+
+---
+
+**Medications (Active):**  
+- Metoprolol 12.5mg BID (titrated down)  
+- Furosemide 20mg IV Q12h (titrated, now PO)  
+- Clopidogrel 75mg PO daily  
+- Simvastatin 20mg PO nightly  
+- Metformin 500mg ER PO daily  
+- Basal-bolus insulin (glargine + lispro)  
+- Ferrous sulfate 325mg PO daily  
+- Tacrine 10mg PO BID  
+- Acetaminophen 500mg PO PRN  
+- Nitroglycerin 0.4mg spray PRN  
+- Atropine, epinephrine, amiodarone (for code use only, not active)
+
+---
+
+**Discharge Planning:**  
+- Family meeting scheduled; likely discharge to SNF with hospice consult given poor neurologic recovery and advanced age/comorbidities.  
+- DNR/DNI in place.  
+- Continue current meds, close f/u with cardiology, primary care, and palliative care.
+
+---
+
+**Physician:**  
+Dr. J. Finkelstein, MD  
+04/29/2024 10:42
+
+---
+
+**(End of Note – Page 1/4)**
+
+---
+
+**(Page 2/4: Flowsheet Data)**
+
+**Selected Flowsheet Data (ICU Days 1–9):**
+
+| Day    | MAP (mmHg) | UOP (mL/24h) | Lactate (mmol/L) | VAD Support | Vasopressors | Sedation |
+|--------|------------|--------------|------------------|-------------|--------------|----------|
+| HD 1   | 48         | 380          | 3.8              | N/A         | NE, Epi      | Propofol |
+| HD 2   | 62         | 890          | 2.7              | Impella CP  | NE, Epi      | Propofol |
+| HD 3   | 68         | 1200         | 1.8              | Impella CP  | NE           | Fentanyl |
+| HD 5   | 77         | 1600         | 1.1              | Impella CP  | Off          | Fentanyl |
+| HD 7   | 82         | 1700         | 0.9              | Weaning     | Off          | Off      |
+| HD 9   | 85         | 1800         | 0.7              | None        | Off          | Off      |
+
+**Abbreviations:**  
+- NE: Norepinephrine  
+- Epi: Epinephrine  
+- VAD: Ventricular assist device (Impella CP)  
+- UOP: Urine output
+
+---
+
+**(Page 3/4: Orders & Consults)**
+
+**Significant Orders:**  
+- Emergent intubation, mechanical ventilation  
+- Impella CP placement (HD 2)  
+- Vasopressors: norepinephrine, epinephrine  
+- IV insulin infusion, transitioned to SQ  
+- Diuretics: furosemide IV, then PO  
+- DVT prophylaxis: SCDs  
+- Code status: DNR/DNI  
+- Contact precautions (viral sinusitis)
+
+**Consults:**  
+- **Cardiology:** VAD management, post-arrest care  
+- **Nephrology:** AKI on CKD, volume management  
+- **Endocrinology:** Diabetes management  
+- **Neurology:** Post-arrest brain injury risk, advanced dementia  
+- **Palliative Care:** Goals of care, symptom management
+
+---
+
+**(Page 4/4: Review of Systems & Additional Data)**
+
+**Review of Systems:**  
+- **General:** Weakness, weight loss (uncertain, unable to report), no fevers after HD 7  
+- **Cardiac:** No chest pain (nonverbal), bradycardia, hypotension initially  
+- **Respiratory:** Intubated, now extubated, no distress  
+- **GI:** No oral intake initially, now tolerating sips  
+- **GU:** Oliguria improved, now adequate UOP  
+- **Neuro:** Nonverbal, nonpurposeful eye opening, baseline severe dementia  
+- **MSK:** Contractures in hands, baseline OA  
+- **Skin:** No decubitus, mild ecchymoses
+
+**Social History:**  
+- Lives with family, dependent for all ADLs  
+- No tobacco, alcohol, or illicit drug use
+
+**Allergies:**  
+- NKDA
+
+**Family/Support:**  
+- Daughter is primary POA; family involved in all decisions
+
+**Code Status:**  
+- DNR/DNI
+
+---
+
+**Signed:**  
+Dr. J. Finkelstein, MD  
+Attending, Critical Care Medicine  
+**Date/Time:** 04/29/2024 10:44
+
+---
+
+**(End of Note – Page 4/4)**

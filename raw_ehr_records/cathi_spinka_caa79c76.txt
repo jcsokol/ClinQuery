@@ -1,0 +1,211 @@
+**EPIC EHR – Inpatient Progress Note**
+
+**Patient:** Spinka, Cathi  
+**MRN:** 00394832  
+**DOB:** 04/04/1973  
+**Sex:** Female  
+**Date of Admission:** 05/21/2024  
+**Attending:** Dr. L. Edwards  
+**Consultants:** Cardiology, Cardiothoracic Surgery, Endocrinology, Burn Surgery  
+**Location:** MICU, Room 12B
+
+---
+
+### CHIEF COMPLAINT
+
+Progressive shortness of breath, orthopnea, and chest discomfort
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+
+49-year-old woman with a history of prediabetes, prior miscarriage, remote 2nd degree burn, recurrent acute bronchitis, viral sinusitis, and recent wrist sprain, presenting with 1 week of worsening dyspnea, lower extremity edema, and chest heaviness. She initially presented to the ED with tachypnea, hypoxia, and hypotension, requiring escalating O2 and vasopressor support. Shortly after arrival, she developed acute pulmonary edema and cardiogenic shock.
+
+Cardiology was consulted. Bedside echo revealed severely reduced LVEF (~10-15%), global hypokinesis, and moderate MR. Given refractory hypotension and evidence of end-organ hypoperfusion, decision was made to place a left-sided Impella CP device for temporary mechanical circulatory support. She was transferred to the MICU. Since admission, she has required careful volume management, inotropic support, and serial labs to monitor for end-organ dysfunction and hemolysis.
+
+---
+
+### HOSPITAL COURSE
+
+**Day 1 (5/21):**  
+- Admitted to MICU, requiring norepinephrine and dobutamine.
+- Echo: Severe global LV dysfunction, LVEF 10-15%, moderate MR, no LV thrombus.
+- Labs notable for mild AKI, mild transaminitis, and lactic acidosis.
+- Impella CP placed via right femoral approach, good flows.
+- Started on heparin for device.
+- Foley placed, strict I/Os.
+
+**Day 2:**  
+- Improved MAPs, weaning vasopressors.
+- Ongoing oliguria, creatinine uptrending.
+- Serial troponins peaked, then trending down.
+- Developed mild hemolysis (↑ LDH, ↓ haptoglobin), no overt bleeding.
+- Infectious workup negative.
+
+**Day 3:**  
+- Renal function stabilized, urine output improving.
+- Weaned off norepinephrine, dobutamine continued.
+- Impella flows stable.
+- Developed fever, blood cultures drawn (negative).
+- Started empiric vancomycin/cefepime, later discontinued.
+
+**Day 4:**  
+- Tolerating diuresis, mild improvement in pulmonary edema.
+- LVEF remains severely depressed.
+- Impella wean trial attempted, tolerated at P2.
+- Extubated to HFNC.
+
+**Day 5:**  
+- Impella removed at bedside after hemodynamic improvement.
+- Monitoring for access site complications.
+- Transitioned to guideline-directed medical therapy (GDMT) for HFrEF.
+- Mobilizing with PT, off pressors, on low-dose milrinone.
+
+---
+
+### PAST MEDICAL HISTORY
+
+- Prediabetes
+- 1st trimester miscarriage (remote)
+- Remote 2nd-degree burn (LLE, resolved)
+- Recurrent viral sinusitis, acute bronchitis
+- Recent wrist sprain
+
+### PAST SURGICAL HISTORY
+
+- None significant
+
+### FAMILY HISTORY
+
+- CAD (father)
+- DM2 (mother)
+
+### SOCIAL HISTORY
+
+- Former smoker (quit 8 years ago, 10 pack-years)
+- Social alcohol use
+- Lives with spouse, employed as teacher
+
+### ALLERGIES
+
+- NKDA
+
+---
+
+### HOME MEDICATIONS
+
+- Amoxicillin 500mg PO BID (recent, for bronchitis – discontinued)
+- Acetaminophen-hydrocodone PRN
+- Ibuprofen PRN
+- Naproxen sodium PRN
+- Acetaminophen PRN
+
+---
+
+### ICU MEDICATIONS (during admission)
+
+- Heparin infusion (Impella)
+- Dobutamine
+- Norepinephrine (weaned off)
+- Furosemide IV
+- Vancomycin/Cefepime (Day 3 only)
+- Metoprolol succinate (initiated Day 5)
+- Lisinopril (initiated Day 5)
+- Spironolactone (initiated Day 5)
+- Atorvastatin
+- Sliding scale insulin
+
+---
+
+## VITALS (Selected)
+
+| Date       | Temp (°C) | HR (bpm) | BP (mmHg) | RR (/min) | SpO2 (%) | Weight (kg) |
+|------------|-----------|----------|-----------|-----------|----------|-------------|
+| 5/21/24    | 36.8      | 122      | 86/52     | 28        | 92% RA   | 89.8        |
+| 5/22/24    | 38.1      | 115      | 94/58     | 26        | 95% NC2L | 89.3        |
+| 5/23/24    | 37.6      | 98       | 102/64    | 20        | 98% HFNC | 88.7        |
+| 5/24/24    | 36.9      | 91       | 110/70    | 18        | 98% RA   | 87.9        |
+| 5/25/24    | 36.5      | 88       | 116/75    | 16        | 99% RA   | 87.2        |
+
+---
+
+## LABS
+
+**CBC, Chemistries, Cardiac, and Related Labs**
+
+| Date       | WBC      | Hgb    | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | TnI     | BNP    | LDH  | Haptog. |
+|------------|----------|--------|-------|-------|------|------|------|------|------|------|------|------|------|---------|--------|------|---------|
+| 5/21/24 AM | 6.7      | 16.0   | 49.2  | 378   | 141  | 4.4  | 105  | 28.6 | 17   | 1.38 | 65   | 87   | 92   | 2.13    | 4230   | 530  | 38      |
+| 5/22/24 AM | 9.3      | 14.2   | 43.1  | 302   | 139  | 4.8  | 108  | 26.1 | 29   | 2.02 | 89   | 134  | 156  | 3.92    | 5120   | 885  | <20     |
+| 5/23/24 AM | 8.1      | 13.8   | 41.7  | 264   | 137  | 4.2  | 106  | 25.4 | 31   | 2.15 | 104  | 97   | 83   | 1.21    | 3900   | 712  | 25      |
+| 5/24/24 AM | 7.0      | 13.5   | 40.5  | 249   | 140  | 4.0  | 104  | 27.8 | 24   | 1.67 | 98   | 52   | 46   | 0.43    | 2210   | 334  | 54      |
+| 5/25/24 AM | 7.2      | 13.7   | 41.1  | 251   | 141  | 4.1  | 105  | 28.1 | 19   | 1.21 | 92   | —    | —    | 0.11    | 1197   | 184  | 66      |
+
+**Other Labs:**  
+- Hemoglobin A1c (on admission): 6.3%
+- LFTs peaked on Day 2 (AST 134, ALT 156), downtrending by Day 5.
+- Troponin I peaked at 3.92 ng/mL on Day 2, downtrended.
+- BNP elevated, downtrending with improvement.
+- LDH peaked Day 2, consistent with hemolysis.
+- Haptoglobin low on Day 2, improved by Day 5.
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock, Acute Systolic HF (new, likely viral or idiopathic)**
+   - Required Impella CP for temporary MCS, now explanted.
+   - GDMT for HFrEF initiated (BB, ACEi, MRA).
+   - Continue diuresis, monitor volume status.
+   - Daily weights, strict I/Os.
+   - Serial Echos: f/u in 1 week.
+   - Cardiac MRI outpatient for etiology.
+   - Consider advanced therapies if no improvement.
+
+**2. Acute Kidney Injury (pre-renal, multifactorial)**
+   - Likely secondary to low cardiac output, improved with MCS.
+   - Renal function improving; continue to monitor.
+   - Avoid nephrotoxins.
+
+**3. Hemolysis (device-related)**
+   - Monitored LDH, haptoglobin—improving post-device removal.
+   - No evidence of overt bleeding.
+   - Labs QAM x 3 days, then prn.
+
+**4. Mild Transaminitis (shock liver)**
+   - Downtrending LFTs.
+   - Supportive care.
+
+**5. Prediabetes**
+   - Monitor glucose.
+   - Nutrition and DM education.
+
+**6. Remote 2nd-degree burn, miscarriage, wrist sprain, recurrent bronchitis/sinusitis**
+   - No acute issues.
+
+**7. Pain Management**
+   - PRN acetaminophen/hydrocodone, acetaminophen, NSAIDs as needed (avoid NSAIDs if AKI worsens).
+
+**8. VTE Prophylaxis**
+   - SCDs, heparin while on Impella, now on SQ heparin.
+
+**9. Disposition**
+   - Continue PT/OT.
+   - Anticipate transfer to stepdown once stable.
+
+---
+
+**Physician:** L. Edwards, MD  
+**Co-signed:** C. Sato, MD  
+
+---
+
+**Additional Notes:**  
+- No access site bleeding or limb ischemia.
+- No arrhythmias post-device.
+- Family updated daily.  
+- Case discussed with advanced HF team.
+
+---
+
+**END OF NOTE**

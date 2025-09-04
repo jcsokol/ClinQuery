@@ -1,0 +1,177 @@
+---
+**Epic EHR - Inpatient Progress Note**
+
+**Patient:** Cammy Herzog  
+**MRN:** 0017392  
+**DOB:** 1965-02-07 (59 years)  
+**Sex:** Female  
+**Admit Date:** 2024-05-28  
+**Attending:** Dr. Jonathan Murphy  
+**Service:** Cardiac ICU  
+**Location:** 6E - Cardiac ICU, Bed 12
+
+---
+
+**Chief Complaint:**  
+Acute onset of chest pain, dyspnea, and syncope at home. EMS called, found hypotensive and tachycardic, with new oxygen requirement.  
+
+**History of Present Illness:**  
+59-year-old woman with a complex past medical history including longstanding type 2 diabetes mellitus, metabolic syndrome, CKD stage 1, chronic anemia, and recurrent colonic polyps. Presented to the ED after sudden chest pain and collapse at home. On arrival: hypotensive (SBP 76), tachycardic, hypoxic. Initial ECG with anterior ST elevations, troponin elevated. Emergent cardiac cath demonstrated severe multivessel CAD with acute LAD thrombotic occlusion. Developed cardiogenic shock. Temporary percutaneous LVAD (Impella CP) placed in cath lab for hemodynamic support. Transferred to ICU for further management.
+
+---
+
+**Past Medical History:**  
+- Type 2 Diabetes Mellitus, 15y, with retinopathy and nephropathy  
+- Metabolic syndrome  
+- Hypertriglyceridemia  
+- Anemia of chronic disease  
+- CKD Stage 1  
+- Recurrent colonic polyps (last polypectomy 1y ago)  
+- Recent viral sinusitis, acute bronchitis (resolved)  
+
+**Past Surgical History:**  
+- Colonoscopic polypectomies x3 (most recent: 2023)  
+- Cataract extraction, L eye (2022)
+
+**Medications on Admission:**  
+- Metformin ER 500 mg q24h  
+- Humulin 70/30, sliding scale  
+- Chlorpheniramine 2 mg/ml prn  
+- Acetaminophen 325 mg q6h prn  
+- Atorvastatin 40 mg qhs (home, held on admission)  
+- Lisinopril 10 mg qd (home, held on admission)
+
+**Allergies:**  
+NKDA
+
+**Social History:**  
+- Lives with spouse  
+- Retired teacher  
+- No tobacco, rare ETOH  
+- No illicit drugs
+
+**Family History:**  
+- Father: MI age 54  
+- Mother: T2DM, breast ca  
+- Sibling: colon ca
+
+---
+
+**Physical Exam (ICU Day 3):**  
+VS: T 36.8°C, HR 98, BP 102/57 (on low-dose norepi), RR 18, SpO2 95% 2L NC  
+Gen: Appears fatigued, no acute distress  
+CV: S1/S2, soft 2/6 holosystolic murmur apex, Impella hum audible, no JVD, trace LE edema  
+Resp: Clear b/l, no rales or wheeze  
+GI: Soft, mild epigastric tenderness, normal BS, no rebound  
+GU: Foley in place, urine clear  
+Neuro: A&O x3, no focal deficits  
+Skin: No rashes, pressure areas intact  
+Ext: No cyanosis/clubbing; trace pedal edema
+
+---
+
+**ICU Events & Course:**  
+- Day 0: Cath lab: LAD PCI, Impella CP placed for refractory shock  
+- Day 1: Pressor support (norepinephrine), started DAPT, IV heparin  
+- Day 2: Still on Impella, pressors weaned, extubated successfully  
+- Day 3: Improved; Impella weaning trial begun  
+- Day 4: Impella explanted, mild AKI, transitioned to low-dose inotropes  
+- Day 5: Stable, transferred to step-down unit
+
+---
+
+**Pertinent Labs & Trends** (selected labs, see chart for full):
+
+|  Date       | WBC   | Hgb   | Plt   | Na   | K    | Cl   | HCO3 | BUN  | Cr   | Gluc | Troponin | AST  | ALT  |
+|-------------|-------|-------|-------|------|------|------|------|------|------|------|----------|------|------|
+| 5/28        | 4.1   | 13.7  | 315   | 139  | 4.3  | 105  | 22   | 19   | 2.6  | 312  | 18.7     | 45   | 32   |
+| 5/29        | 3.9   | 12.8  | 288   | 138  | 4.1  | 107  | 21   | 23   | 2.8  | 247  | 9.2      | 38   | 28   |
+| 5/30        | 4.5   | 11.5  | 350   | 137  | 4.5  | 109  | 20   | 25   | 3.1  | 184  | 3.7      | 29   | 20   |
+| 5/31        | 5.2   | 10.9  | 372   | 136  | 4.2  | 108  | 23   | 21   | 2.4  | 152  | <0.01    | 22   | 15   |
+| 6/1         | 5.7   | 11.2  | 366   | 138  | 4.0  | 106  | 24   | 18   | 2.0  | 124  | --       | --   | --   |
+
+*Some labs missing due to specimen error or not drawn.*
+
+**Other relevant labs:**  
+- BNP (5/28): 1160 pg/mL  
+- CK-MB (5/28): 28 ng/mL  
+- Lactate (5/28): 3.1 mmol/L (normalized by 5/30)  
+- HbA1c (on file): 8.2%  
+- Urine: Proteinuria, microalbumin/Cr 32 mg/g
+
+---
+
+**Imaging:**
+- **Echo (5/28):** LVEF 22%, severe anterior hypokinesis, mild MR, RV normal  
+- **CXR (5/29):** Pulmonary vascular congestion, Impella in place  
+- **CT Abd (5/31):** No acute intra-abdominal process, old colonic polyps, mild fatty liver
+
+---
+
+**Problem-Based Assessment & Plan:**
+
+1. **Cardiogenic Shock s/p Anterior STEMI, Impella CP (now explanted)**
+   - Emergent PCI to LAD, Impella for LV support, now off device
+   - Weaned off pressors, now on low-dose dobutamine
+   - Monitor for arrhythmias, daily TTE
+   - Continue DAPT, consider beta-blocker once stable
+
+2. **Type 2 Diabetes Mellitus, poorly controlled**
+   - Hold metformin until renal function stable
+   - Transition to basal-bolus insulin regimen
+   - Endo consult; monitor for hypoglycemia, daily FS
+
+3. **Acute Kidney Injury on CKD Stage 1**
+   - Likely multifactorial (hypoperfusion, contrast)
+   - Monitor daily BMP, strict I/Os, nephrology following
+   - Avoid nephrotoxins, adjust meds for renal function
+
+4. **Anemia of Chronic Disease**
+   - Hgb trending down, likely multifactorial
+   - Monitor CBC, no active bleed
+   - Iron studies pending, GI following for history of polyps
+
+5. **Metabolic Syndrome, Hypertriglyceridemia**
+   - Statin held due to acute event, re-initiate when LFTs normalize
+   - Low-fat, diabetic diet; monitor lipids
+
+6. **Diabetic Retinopathy**
+   - Not acute, continue outpatient follow-up
+
+7. **History of Colonic Polyps**
+   - No evidence of GI bleed or active polyp disease
+   - GI to follow during admission
+
+8. **Other**
+   - DVT prophylaxis: SCDs, heparin SQ
+   - Foley care, early mobilization
+   - PT/OT consult for deconditioning
+
+---
+
+**To Do / Orders:**
+- Daily CBC, BMP
+- Serial troponins until negative
+- TTE tomorrow
+- Monitor UOP, strict I/Os
+- Continue dobutamine, titrate as tolerated
+- DAPT (ASA, ticagrelor), IV heparin
+- VTE prophylaxis
+- Cardiology, Nephrology, Endocrinology, GI consults
+
+---
+
+**Disposition:**  
+- Cardiac ICU → step-down unit when stable  
+- Plan for cardiac rehab, outpatient follow-up with cardiology, nephrology, endocrinology
+
+---
+
+**Attending:**  
+Dr. Jonathan Murphy, MD  
+**Co-sign:**  
+Dr. Rachel Lin, MD (Cardiology Fellow)
+
+---
+
+**[Next Page: Flowsheets → Labs → Orders → Imaging → MAR → Notes]**

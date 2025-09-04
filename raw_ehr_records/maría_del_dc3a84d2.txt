@@ -1,0 +1,195 @@
+---
+**Epic EHR - Patient Chart**
+
+**Patient Name:** María del Carmen Perales  
+**MRN:** 0082719-ICU  
+**DOB:** 07/12/1970  
+**Sex:** Female  
+**Admit Date:** 03/21/2024  
+**Attending:** Dr. L. Gutierrez, MD  
+**Consults:** Cardiology, Critical Care, Infectious Disease, Nephrology
+
+---
+
+# HOSPITAL COURSE SUMMARY
+
+**Chief Complaint:**  
+Progressive dyspnea, orthopnea, and altered mental status following syncopal episode at home.
+
+**History of Present Illness:**  
+49 y.o. F with PMHx of obesity, prior miscarriage, recurrent viral/bacterial sinusitis, osteoarthritis, UTI, and recent acute bronchitis, presented to ED after family found her confused and diaphoretic. Per EMS, she had been complaining of chest tightness, severe SOB, and had a transient syncopal episode, with subsequent vomiting. On arrival: tachypneic, hypotensive (SBP 78), tachycardic (HR 124), O2 sat 86% RA.  
+Initial labs: lactate 5.4, troponin T 0.48, BNP 3200.  
+ECG: sinus tach, diffuse T wave inversions.  
+Echo: severe global LV hypokinesis, LVEF 18%.  
+She was admitted to the MICU for cardiogenic shock, requiring norepinephrine and dobutamine. After failing to wean from pressors and with persistent end-organ hypoperfusion, a temporary percutaneous LVAD (Impella CP) was placed on HD2.  
+Course complicated by AKI (multifactorial: hypoperfusion, nephrotoxic abx), mild transaminitis, persistent lactic acidosis, and UTI (E. coli, ESBL+).  
+She was gradually weaned from pressors and LVAD explanted on HD7 after LVEF improved to 38%.  
+Transferred to stepdown on HD9.
+
+---
+
+# PAST MEDICAL HISTORY
+
+- Obesity (BMI 30.2)
+- Recurrent viral and bacterial sinusitis
+- Acute bronchitis
+- Osteoarthritis (hand)
+- Drug overdose (remote, no current opioid use)
+- UTI (E. coli, recurrent)
+- Miscarriage, first trimester (remote)
+- Concussion (remote, no sequelae)
+- History of normal pregnancy
+- No known CAD, DM, or HTN
+
+**Surgical Hx:** None  
+**OB/GYN:** G3P2, last pregnancy 2019 (uncomplicated)
+
+---
+
+# HOME MEDICATIONS
+
+- Yaz 28 Day Pack PO qd
+- Camila 28 Day Pack PO qd
+- Mirena IUD in situ
+- Naproxen sodium 220 mg PO prn
+- Acetaminophen 325 mg PO prn
+- Nitrofurantoin 5 mg/ml PO (recent UTI, completed)
+- Phenazopyridine 100 mg PO prn
+- Amox/Clav 250/125 mg PO (recent, completed)
+- Medroxyprogesterone 1 mL IM q3mo
+
+**Allergies:** NKDA
+
+---
+
+# ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock, severe LV dysfunction (LVEF 18%)**  
+- Etiology: Suspect viral myocarditis vs. stress-induced (no CAD on cath, troponin elevated, global hypokinesis)  
+- Management:
+    - Norepinephrine and dobutamine (HD1-3, weaned off HD5)
+    - Impella CP placed HD2 for LV support, explanted HD7
+    - Serial Echos (HD1: LVEF 18%, HD4: 26%, HD7: 38%)
+    - Strict I/O, daily weights, hemodynamic monitoring
+    - Furosemide IV for volume overload (HD2-6)
+    - Cardiology f/u, plan outpatient cardiac MRI
+    - Continue low-dose metoprolol, add ACEi as tolerated
+
+**2. Acute Kidney Injury (Stage 2, multifactorial)**  
+- Likely 2/2 hypoperfusion, pressors, nephrotoxic abx  
+- UOP nadir 0.3 mL/kg/hr on HD3, Cr peaked at 2.8 (baseline 0.9)
+- IVF resuscitation (HD1-2), then diuresis
+- Avoid nephrotoxins, monitor lytes
+- Nephrology consult; did not require RRT
+
+**3. Sepsis, secondary to E. coli UTI (ESBL+)**  
+- Foley placed HD1, removed HD5
+- Cefepime IV x7d, then PO stepdown
+- Blood cultures neg, urine cx cleared HD5
+
+**4. Transaminitis**  
+- Likely ischemic (“shock liver”); AST max 678, ALT 489, trended down by HD8
+- Hepatitis panel neg, no intrinsic liver dz
+
+**5. Obesity (BMI 30.2)**  
+- DVT ppx (SCDs, heparin SQ), dietician consult
+
+**6. Osteoarthritis (hand)**  
+- Continue acetaminophen PRN, avoid NSAIDs during AKI
+
+**7. Contraceptive Management**  
+- Mirena IUD left in place, OCPs held during acute illness
+
+**8. Pain Management**  
+- Mild thigh pain at prior laceration site, acetaminophen PRN
+
+**9. Social/Functional**  
+- Lives with family, employed as teacher, independent ADLs
+- Psych: no SI/HI, CBT offered for adjustment
+
+---
+
+# ICU VITALS & NURSING FLOWSHEET (selected)
+
+| Date       | Temp (C) | HR   | BP       | RR  | O2 Sat | UOP (mL/24h) | Pain |
+|------------|----------|------|----------|-----|--------|--------------|------|
+| 3/21/2024  | 37.6     | 124  | 78/52    | 28  | 86% RA | 900          | 6    |
+| 3/22/2024  | 38.1     | 118  | 86/58    | 25  | 92% 2L | 1200         | 4    |
+| 3/24/2024  | 37.2     | 102  | 98/64    | 20  | 94% NC | 1400         | 2    |
+| 3/26/2024  | 36.9     | 90   | 112/74   | 18  | 97% RA | 1700         | 2    |
+| 3/28/2024  | 37.0     | 82   | 120/78   | 16  | 98% RA | 2000         | 1    |
+
+---
+
+# LABORATORY DATA  
+**CBC, Chem7, LFTs, Cardiac Markers – ICU Stay**
+
+| Date       | WBC   | Hgb  | Plt   | Na   | K   | Cl   | CO2  | BUN  | Cr   | AST  | ALT  | Troponin T | BNP   | Lactate |
+|------------|-------|------|-------|------|-----|------|------|------|------|------|------|------------|-------|---------|
+| 3/21/2024  | 10.2  | 17.3 | 396   | 137  | 4.8 | 108  | 19   | 32   | 2.1  | 456  | 380  | 0.48       | 3200  | 5.4     |
+| 3/22/2024  | 13.6  | 15.1 | 368   | 133  | 5.2 | 104  | 15   | 38   | 2.8  | 678  | 489  | 0.34       | 2800  | 3.9     |
+| 3/23/2024  | 11.7  | 13.9 | 312   | 136  | 4.2 | 105  | 17   | 36   | 2.5  | 509  | 373  | 0.22       | 2100  | 2.6     |
+| 3/24/2024  | 9.8   | 12.7 | 284   | 138  | 3.9 | 107  | 19   | 30   | 1.9  | 312  | 260  | –          | 1700  | 1.8     |
+| 3/26/2024  | 8.2   | 11.8 | 251   | 140  | 4.1 | –    | –    | 23   | 1.2  | 122  | 103  | 0.08       | 900   | 1.2     |
+| 3/28/2024  | 7.9   | –    | 248   | 139  | 4.2 | 102  | 22   | 18   | 0.9  | 48   | 57   | –          | 480   | –       |
+
+- **Blood cultures (3/21, 3/22):** No growth
+- **Urine culture (3/21):** E. coli, ESBL+
+- **Hepatitis panel (3/22):** Neg
+- **INR/PTT (3/21):** INR 1.1, PTT 32
+
+---
+
+# MICROBIOLOGY
+
+- **Urine (3/21):** E. coli, ESBL+, >100,000 cfu/mL  
+- **Blood (3/21, 3/22):** No growth
+
+---
+
+# IMAGING
+
+- **ECG (multiple):** Sinus tach, diffuse TWI, no ST elevation
+- **CXR (3/21):** Pulmonary edema, mild effusions
+- **Echo (3/21):** Severe global LV hypokinesis, LVEF 18%
+- **Echo (3/24):** LVEF 26%, mild MR
+- **Echo (3/28):** LVEF 38%, mild LV dilation
+- **Renal US (3/23):** Normal
+
+---
+
+# PROCEDURES
+
+- **Impella CP LVAD placement (3/22/2024):** R femoral access, no complications
+- **Foley catheter insertion (3/21), removal (3/25)**
+- **Central line, R IJ (3/21), removed (3/28)**
+
+---
+
+# DISCHARGE MEDICATIONS (pending finalization)
+
+- Metoprolol succinate 25 mg PO qd
+- Lisinopril 2.5 mg PO qd
+- Acetaminophen 325 mg PO prn
+- Cefpodoxime 200 mg PO bid x 3d (UTI stepdown)
+- Docusate 100 mg PO bid
+- OCPs to resume after 2 wks if clinically stable
+
+---
+
+# FOLLOW-UP
+
+- Cardiology (HF clinic) in 1 wk
+- Nephrology PRN for renal function
+- PCP in 2 wks
+- Repeat Echo in 1 mo
+- Outpatient cardiac MRI scheduled
+
+---
+
+# SIGNED  
+Gutierrez, L., MD  
+Critical Care Medicine  
+03/29/2024, 13:14
+
+---

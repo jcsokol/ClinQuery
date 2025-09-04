@@ -1,0 +1,161 @@
+**Patient Chart Review – Epic EHR**
+
+---
+
+**PATIENT NAME:** Sonia Reyna  
+**MRN:** 0002516278  
+**DOB:** 11/15/2006  
+**Sex:** Female  
+**Admission Date:** 03/21/2024  
+**Attending:** Dr. L. Marsh  
+**Admitting Dx:** Cardiogenic shock s/p viral myocarditis  
+**Location:** PICU, Bed 4C  
+**Consults:** Cardiology, Infectious Disease, Nutrition, Social Work
+
+---
+
+**HISTORY OF PRESENT ILLNESS:**  
+15-year-old female with PMHx notable for recurrent pharyngitis, prior rib fracture, and otitis media, presented to ED with 3-day history of progressive dyspnea, orthopnea, chest discomfort, and malaise. She was initially seen by PCP for "viral pharyngitis" and prescribed acetaminophen. On day of admission, she became acutely short of breath with syncopal episode at home. EMS noted hypotension (BP 72/45), tachycardia (HR 132), and cool extremities. In ED, she was found to have elevated troponin, CXR with cardiomegaly, EKG with sinus tachycardia and low voltage QRS. Echo revealed severe global LV dysfunction (EF 18%). She was transferred to PICU for management of acute decompensated heart failure secondary to suspected viral myocarditis. On hospital day 2, patient developed worsening shock refractory to inotropes; decision made for temporary LVAD (Impella CP) placement after multidisciplinary discussion.
+
+---
+
+**PAST MEDICAL HISTORY:**  
+- Sprain of ankle (2022)  
+- Streptococcal pharyngitis (multiple episodes, most recent 2023)  
+- Otitis media (2019, 2021)  
+- Rib fracture (2021, non-displaced, no surgery)  
+- Acute viral pharyngitis (2024, 2023)  
+- No known congenital heart disease
+
+**PAST SURGICAL HISTORY:**  
+- None
+
+**FAMILY HISTORY:**  
+- Mother: Asthma  
+- Father: Hypertension  
+- No family history of sudden cardiac death
+
+**SOCIAL HISTORY:**  
+- Lives with parents, 1 younger brother  
+- No tobacco, ETOH, or drug use  
+- 10th grade student, plays soccer
+
+**ALLERGIES:**  
+- NKDA
+
+**HOME MEDICATIONS:**  
+- Acetaminophen 160mg PO PRN  
+- Penicillin V 250mg PO BID (prior, completed)  
+- Amoxicillin 250mg PO BID (prior, completed)
+
+---
+
+**HOSPITAL COURSE SUMMARY:**  
+- **HD 1 (03/21/24):** Admitted to PICU. Started on milrinone, dobutamine, lasix. Intubated for respiratory distress. Initial labs showed elevated cardiac markers, mild AKI.  
+- **HD 2:** Worsening shock, lactate rising, persistent hypotension despite escalating inotropes/vasopressors. Cardiology and CT surgery consulted. Temporary LVAD (Impella CP) placed via right femoral artery. Anticoagulation started.  
+- **HD 3–6:** Gradual improvement in perfusion. Weaned off vasopressors by HD 5. Serial Echos show EF improvement to 32%.  
+- **HD 7:** Extubated. Mobilized to chair. LVAD flows stable.  
+- **HD 8–10:** LVAD weaned, removed on HD 10. Transitioned to oral heart failure regimen (enalapril, carvedilol).  
+- **HD 11–13:** Steady improvement. Off all pressors/inotropes. Cardiac MRI shows resolving myocarditis.  
+- **HD 14:** Discharged to home with close outpatient follow-up.
+
+---
+
+**VITALS (Selected):**
+
+| Date      | Temp (°C) | HR   | BP         | RR  | SpO2 | Weight (kg) |
+|-----------|-----------|------|------------|-----|------|-------------|
+| 3/21/24   | 37.5      | 132  | 72/45      | 28  | 92%  | 41.3        |
+| 3/22/24   | 36.8      | 115  | 85/55      | 22  | 96%  | 40.9        |
+| 3/23/24   | 36.5      | 105  | 98/62      | 20  | 98%  | 41.0        |
+| 3/25/24   | 36.7      | 89   | 102/68     | 16  | 99%  | 41.6        |
+| 3/27/24   | 36.9      | 84   | 108/70     | 15  | 99%  | 41.8        |
+
+---
+
+**LABS**
+
+| Date      | WBC  | Hgb  | Hct   | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | Troponin I | BNP    |
+|-----------|------|------|-------|------|------|------|------|------|------|------|------|------|------|------------|--------|
+| 3/21/24   | 6.6  | 16.5 | 43.9  | 157  | 137  | 4.8  | 101  | 19   | 15   | 0.9  | 86   | 78   | 65   | 5.4        | 4821   |
+| 3/22/24   | 8.3  | 14.7 | 39.2  | 134  | 135  | 5.2  | 100  | 17   | 18   | 1.1  | 94   | 105  | 88   | 3.2        | 3990   |
+| 3/23/24   | 7.8  | 13.2 | 36.1  | 126  | 136  | 4.1  | 102  | 20   | 19   | 1.2  | 99   | 66   | 54   | 1.9        | 2750   |
+| 3/24/24   | 6.1  | 13.0 | 35.6  | 129  | 138  | 3.8  | 99   | 21   | 14   | 0.8  | 101  | --   | --   | 0.7        | 1050   |
+| 3/25/24   | 5.2  | 12.9 | 34.8  | 135  | 139  | 4.0  | 104  | 23   | 11   | 0.7  | 98   | 55   | 47   | 0.3        | 590    |
+| 3/26/24   | --   | 12.7 | --    | 148  | 139  | 3.9  | 105  | --   | 9    | 0.6  | 89   | 48   | 39   | <0.1       | 210    |
+| 3/27/24   | 5.5  | 12.6 | 34.2  | 152  | 140  | 4.1  | 105  | 24   | 8    | 0.6  | 86   | 33   | 28   | <0.1       | 82     |
+
+*Note: Liver enzymes and cardiac markers trended daily for first week. BNP and troponin normalized by HD 7.*
+
+---
+
+**PROBLEM-BASED ASSESSMENT & PLAN**
+
+1. **Cardiogenic Shock s/p Viral Myocarditis, s/p temporary LVAD (Impella CP)**
+   - Etiology: Likely viral (recent URI), no evidence of autoimmune/infiltrative process.
+   - Course: Rapid decompensation, refractory to inotropes → LVAD placement. Good response, myocardial recovery.
+   - Plan:
+     - Continue HF regimen (enalapril, carvedilol, furosemide PRN)
+     - Cardiology f/u in 1 week
+     - Serial Echos as outpatient
+     - Education: activity restriction x 3 months
+
+2. **Respiratory Failure (post-extubation, resolved)**
+   - Plan: Incentive spirometry, monitor for re-demonstration of symptoms
+
+3. **AKI (pre-renal, resolved)**
+   - Improved with diuresis, hemodynamic support
+   - Plan: Monitor renal function, avoid nephrotoxins
+
+4. **Elevated Liver Enzymes (congestive hepatopathy, resolved)**
+   - Plan: Monitor LFTs, expect normalization
+
+5. **Anemia (mild, likely dilutional/iatrogenic)**
+   - Plan: Monitor CBC, iron studies outpatient
+
+6. **Anticoagulation (post-LVAD)**
+   - Heparin bridge, transitioned off after device removal
+   - No evidence of thromboembolism or bleeding
+   - Plan: No further anticoagulation
+
+7. **Infectious Disease**
+   - Negative blood cultures, viral panels positive for Coxsackie B
+   - Plan: Supportive, no antibiotics indicated
+
+8. **Nutrition**
+   - Started on NG feeds, advanced to PO as tolerated
+   - Plan: Nutritionist to follow outpatient
+
+9. **Pain, Anxiety**
+   - Well controlled on acetaminophen, no opiates required
+   - Plan: PRN acetaminophen
+
+10. **Social, Discharge Planning**
+    - Family meeting held, extensive teaching provided
+    - Plan: Home with parents, school note provided, social work to follow up
+
+---
+
+**DISCHARGE MEDICATIONS:**  
+- Enalapril 2.5mg PO BID  
+- Carvedilol 3.125mg PO BID  
+- Furosemide 10mg PO PRN  
+- Acetaminophen 160mg PO PRN  
+- Multivitamin PO daily
+
+---
+
+**FOLLOW-UP:**  
+- Pediatric Cardiology 1 week  
+- PCP in 1–2 weeks  
+- Labs (CBC, BMP, LFTs) in 7 days  
+- Return precautions reviewed with family
+
+---
+
+**Physician:** Lisa Marsh, MD  
+**Date/Time Signed:** 04/04/2024 16:12
+
+---
+
+**End of record**

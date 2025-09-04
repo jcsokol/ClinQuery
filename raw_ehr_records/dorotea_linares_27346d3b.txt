@@ -1,0 +1,154 @@
+```
+==================================================================
+EPIC EHR - INPATIENT PROGRESS NOTE
+==================================================================
+Patient Name: Dorotea Linares  
+MRN: 00321579  
+DOB: 1981-05-29 (Age: 42)  
+Sex: Female  
+Date of Admission: 2024-05-22  
+Date of Note: 2024-06-01  
+Attending: Dr. Susan Mathers, MD  
+Service: Cardiology / ICU  
+==================================================================
+CHIEF COMPLAINT
+------------------------------------------------------------------
+Shortness of breath, orthopnea, lower extremity edema
+
+HISTORY OF PRESENT ILLNESS
+------------------------------------------------------------------
+Ms. Linares is a 42-year-old female with a history of normal pregnancy x2, recurrent viral sinusitis, recent E. coli UTI (treated with nitrofurantoin), and no known cardiac history, who presented to the ED with 4-day history of worsening dyspnea, orthopnea, and new-onset bilateral leg swelling. She reports that symptoms began acutely and were associated with palpitations and mild chest pressure. No syncope or fevers. She denies recent travel or sick contacts. She is currently 6 weeks postpartum.
+
+On arrival, she was tachycardic (HR 121), hypertensive (BP 158/98), and hypoxic (SpO2 89% on RA, improved to 95% with 4L NC). She was found to have bibasilar crackles, elevated JVP, and 2+ pitting edema. Initial labs revealed elevated BNP and troponin, consistent with acute decompensated heart failure. TTE revealed severe global hypokinesis, LVEF ~20%, mild MR, no LV thrombus.
+
+She was admitted to the ICU for acute cardiogenic shock (likely peripartum cardiomyopathy, possible myocarditis) and required a temporary percutaneous LV assist device (Impella CP) for hemodynamic support on HD2 due to worsening hypotension and rising lactate despite escalating inotropes. She has since been weaned off vasopressors and is now status post LVAD explantation (HD7). Currently diuresing, off pressors, extubated, ambulating with PT.
+
+PAST MEDICAL HISTORY
+------------------------------------------------------------------
+- Normal pregnancy x2 (most recent 6wks ago)
+- Escherichia coli UTI (resolved)
+- Recurrent viral sinusitis
+
+PAST SURGICAL HISTORY
+------------------------------------------------------------------
+- C-section x1 (2024)
+- Tubal ligation (2019)
+
+ALLERGIES
+------------------------------------------------------------------
+No known drug allergies
+
+MEDICATIONS ON ADMISSION
+------------------------------------------------------------------
+- Nitrofurantoin 5 mg/mL PO susp (recently completed)
+- Phenazopyridine 100 mg PO TID PRN
+- NuvaRing (not in use since pregnancy)
+- Jolivette (not currently used)
+- Levora (not currently used)
+
+MEDICATIONS DURING HOSPITALIZATION
+------------------------------------------------------------------
+- Furosemide IV
+- Metoprolol succinate PO
+- Lisinopril PO (started HD6)
+- Heparin infusion (for LVAD)
+- Aspirin 81 mg PO
+- Atorvastatin 40 mg PO
+- Ceftriaxone IV (empiric, d/c’d HD4)
+- Enoxaparin SC (post-Impella removal)
+
+VITALS (Selected)
+------------------------------------------------------------------
+| Date       | Temp (C) | HR   | BP     | RR | SpO2 | Weight (kg) |
+|------------|----------|------|--------|----|------|-------------|
+| 5/22/2024  | 36.8     | 121  | 158/98 | 22 | 89%  | 74.2        |
+| 5/23/2024  | 37.0     | 115  | 132/86 | 20 | 93%  | 74.0        |
+| 5/24/2024  | 37.2     | 108  | 120/80 | 18 | 94%  | 73.8        |
+| 5/25/2024  | 36.9     | 102  | 110/76 | 17 | 96%  | 73.5        |
+| 5/27/2024  | 36.7     | 96   | 112/70 | 16 | 97%  | 73.4        |
+| 5/29/2024  | 36.6     | 91   | 116/72 | 15 | 98%  | 73.2        |
+| 6/1/2024   | 36.7     | 84   | 118/74 | 14 | 98%  | 73.1        |
+
+PHYSICAL EXAM (HD10)
+------------------------------------------------------------------
+General: NAD, conversant, sitting up in bed  
+HEENT: PERRL, EOMI, oropharynx clear  
+CV: RRR, S3 present, no murmur  
+Lungs: Bibasilar crackles, improved  
+Abd: Soft, NT, no HSM  
+Extremities: Trace edema, no DVT  
+Neuro: AOx3, no focal deficit  
+Skin: Warm, good turgor
+
+LABS
+------------------------------------------------------------------
+CBC / CHEMISTRY
+
+| Date       | WBC   | Hgb  | Hct  | Plt  | Na   | K   | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin I | BNP    | AST  | ALT  |
+|------------|-------|------|------|------|------|-----|------|------|------|------|------|------------|--------|------|------|
+| 5/22/2024  | 8.7   | 14.8 | 43.7 | 247  | 134  | 3.9 | 104  | 22   | 36   | 1.2  | 132  | 0.17       | 5,600  | 78   | 62   |
+| 5/23/2024  | 11.2  | 13.5 | 40.1 | 225  | 131  | 3.6 | 106  | 20   | 48   | 1.6  | 142  | 0.22       | 7,320  | 94   | 71   |
+| 5/24/2024  | 12.8  | 12.9 | 39.0 | 198  | 129  | 3.4 | 106  | 19   | 52   | 2.0  | 128  | 0.15       | 6,000  | 82   | 66   |
+| 5/25/2024  | 10.1  | 13.1 | 39.8 | 210  | 132  | 3.8 | 104  | 22   | 40   | 1.4  | 110  | 0.09       | 4,200  | 61   | 55   |
+| 5/27/2024  | 8.4   | 13.8 | 41.2 | 234  | 135  | 4.1 | 102  | 23   | 38   | 1.1  | 99   | <0.01      | 2,800  | 45   | 38   |
+| 5/29/2024  | 8.1   | 14.1 |      | 239  | 137  |     | 104  | 25   | 34   | 1.0  | 105  | <0.01      | 1,900  | 38   |      |
+| 6/1/2024   | 7.6   | 14.6 | 43.1 | 241  | 138  | 4.0 | 105  |      | 32   | 0.9  | 102  | <0.01      | 1,100  |      | 32   |
+
+Additional:  
+- LFTs trended down, mild transaminitis resolved  
+- Lactate peaked at 4.2 (5/23), normalized by 5/27  
+- Coags: INR 1.2, PTT 35 (stable during ICU stay)  
+- CXR: Pulm edema, mild cardiomegaly  
+- Echo: LVEF 20% (HD2), 28% (HD8), mild MR, no RV dysfunction
+
+MICROBIOLOGY
+------------------------------------------------------------------
+- Blood cx: No growth x2  
+- Urine cx: Negative  
+- COVID/Flu/RSV: Negative
+
+ASSESSMENT & PLAN
+------------------------------------------------------------------
+1. **Acute Decompensated Heart Failure / Cardiogenic Shock**  
+   - Likely peripartum cardiomyopathy (new dx), severe LV dysfunction  
+   - Required temporary LVAD (Impella CP) for refractory shock (HD2-7)  
+   - Now weaned off mechanical support, improving clinically and hemodynamically  
+   - Plan: Continue diuresis, uptitrate GDMT (goal: max tolerated BB/ACEi), monitor for arrhythmia, repeat TTE prior to discharge
+
+2. **Volume Overload / Pulmonary Edema**
+   - On IV furosemide, transitioned to oral  
+   - Daily weights, strict I/Os  
+   - Monitor renal function, electrolytes
+
+3. **Postpartum State**
+   - 6wks postpartum, no obstetric complications  
+   - OBGYN following  
+   - VTE prophylaxis per protocol
+
+4. **Transient Transaminitis**
+   - Likely ischemic hepatitis from shock  
+   - LFTs improved, continue to monitor
+
+5. **History of UTI**
+   - Treated, no current symptoms  
+   - UA/cx negative
+
+6. **Contraception Counseling**
+   - No hormonal contraception while on HF meds  
+   - OBGYN to discuss options
+
+7. **Physical Therapy / Disposition**
+   - Ambulating, strength improving  
+   - Anticipate stepdown transfer in 1-2d, target discharge home with close cardiology f/u
+
+8. **Other**
+   - DVT prophylaxis with enoxaparin  
+   - Vaccinations up to date  
+   - Social work consult for postpartum support
+
+------------------------------------------------------------------
+PROVIDER: Susan Mathers, MD  
+DATE/TIME: 2024-06-01 08:23
+
+==================================================================
+```

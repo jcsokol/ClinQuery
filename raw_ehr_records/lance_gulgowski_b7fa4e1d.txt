@@ -1,0 +1,174 @@
+**Patient:** Gulgowski, Lance  
+**MRN:** 001382119  
+**DOB:** 08/21/1988  
+**Sex:** Male  
+**Admit Date:** 04/05/2024  
+**Attending:** Dr. Calderon, MICU  
+**Location:** MICU, Bed 12  
+
+---
+
+# History of Present Illness
+
+35-year-old male with a history of hypertension, prediabetes, chronic anemia, and remote viral sinusitis, who presented to the ED after 4 days of progressive dyspnea, orthopnea, and lower extremity edema, with associated fatigue and mild confusion. He reported a recent URI 2 weeks ago, now resolved. On the morning of admission, he experienced near-syncope and was found to be hypotensive at home. On arrival, BP 82/51, HR 124, RR 24, O2 92% RA. Initial labs revealed acute renal insufficiency and troponin elevation. Echo in ED demonstrated new severe global LV dysfunction (EF 15%), RV mildly reduced, no significant valvulopathy. He was admitted to the MICU for cardiogenic shock.  
+
+Despite initial management with dobutamine and norepinephrine, patient remained hypotensive, oliguric, and acidotic. He was intubated for worsening hypoxemia and altered mental status. After multidisciplinary discussion, a percutaneous LVAD (Impella CP) was placed for temporary mechanical circulatory support on hospital day 1.  
+
+Hospital course has been complicated by anemia requiring transfusion, ongoing renal dysfunction, and persistent hypotension. He developed a right thigh hematoma at the Impella insertion site with mild overlying ecchymosis.  
+
+---
+
+# Past Medical History
+
+- Hypertension (on HCTZ)
+- Prediabetes (A1c 6.0%)
+- Chronic anemia (baseline Hgb 10-11)
+- Remote viral sinusitis (resolved)
+- Laceration of thigh (remote, now healed)
+
+# Past Surgical History
+
+- None
+
+# Social History
+
+- Lives with partner, works as graphic designer
+- Denies tobacco, rare EtOH, no illicit drug use
+
+# Allergies
+
+- No known drug allergies
+
+# Medications Prior to Admission
+
+- Hydrochlorothiazide 25 mg daily
+- Acetaminophen 325 mg PRN
+
+# Home Vitals (per family)
+
+- BP 135/85 mmHg, HR 80s, BG 105-120 mg/dL
+
+---
+
+# Hospital Course Summary
+
+| Hospital Day | Key Events |
+|--------------|-----------|
+| 1            | Admitted to MICU, dx cardiogenic shock; intubated; started on inotropes and vasopressors; Impella CP placed via right femoral artery |
+| 2            | Ongoing shock, lactic acidosis; started on furosemide drip for volume overload; transfused 1U PRBCs for Hgb 7.8; mild hemolysis labs; thigh hematoma monitored, no expansion |
+| 3            | Improved MAP, weaned norepi; renal function worsening, started CRRT; echo: LV still severely depressed; extubated to HFNC |
+| 4            | Weaned off dobutamine; Impella flow down to P2; ongoing anemia, Hgb 8.2; thigh bruising stable; mild delirium, improving |
+| 5            | Impella weaned and removed; hemodynamics stable on minimal support; extubated to room air; transferred to step-down unit |
+
+---
+
+# Labs
+
+**CBC, Chem7, Cardiac, Coags, LFTs**
+
+| Date        | WBC (K) | Hgb (g/dL) | Plt (K) | Na | K  | Cl | CO2 | BUN | Cr  | Glu | AST | ALT | TnI  | INR | aPTT |
+|-------------|---------|------------|---------|----|----|----|-----|-----|-----|-----|-----|-----|------|-----|------|
+| 4/5, 06:12  | 10.2    | 8.0        | 255     | 139| 4.2| 105| 23  | 31  | 1.6 | 108 | 28  | 32  | 1.2  | 1.3 | 38.5 |
+| 4/5, 16:42  | 11.7    | 7.8        | 241     | 137| 4.5| 102| 19  | 37  | 2.1 | 102 | 35  | 39  | 1.5  | 1.6 | 41.2 |
+| 4/6, 07:03  | 9.6     | 8.2        | 189     | 140| 4.7| 108| 21  | 45  | 3.2 | 96  | 41  | 44  | 0.8  | 1.5 | 37.8 |
+| 4/6, 18:19  | 8.9     | 8.5        | 201     | 141| 4.8| 107|     | 39  | 2.6 |     |     |     | 0.5  |     |      |
+| 4/7, 07:31  | 8.0     | 8.2        | 176     |    |    |    | 22  | 41  | 3.4 | 86  | 36  | 38  | <0.04| 1.2 | 33.7 |
+| 4/8, 09:02  | 7.8     | 9.1        | 188     | 138| 4.0| 104| 24  | 27  | 1.7 | 94  |     |     | <0.04| 1.1 |      |
+
+*Note: Some labs missing due to specimen hemolysis, CRRT interruptions.*
+
+---
+
+# Problem-Based Assessment and Plan
+
+## 1. Cardiogenic Shock secondary to Acute Severe LV Dysfunction
+- Likely viral myocarditis vs. idiopathic
+- Required intubation, vasoactive support, and Impella CP
+- Now off Impella, stable; continue cardiac monitoring, daily EKGs, telemetry
+- TTE to reassess LV function in 24h
+- Start guideline-directed medical therapy (GDMT) for HFrEF as tolerated (ACEi/ARB, BB, spironolactone)
+- Cardiology f/u, consider endomyocardial biopsy if no improvement
+
+## 2. Acute Kidney Injury (KDIGO Stage 3), on CRRT
+- Likely multifactorial: low perfusion, hypotension, nephrotoxic exposure
+- CRRT ongoing, monitor lytes and volume status q6h
+- Renal dosing of all meds
+- Nephrology following
+- Strict I/Os, daily weights
+
+## 3. Anemia (multifactorial: baseline, dilutional, hemolysis, blood loss)
+- Baseline chronic anemia, worsened by Impella-induced hemolysis and blood loss (thigh hematoma)
+- Monitor CBC q12h, transfuse for Hgb <7.5 or symptomatic anemia
+- Iron studies, haptoglobin, LDH sent
+- Hematology consult if persistent decline
+
+## 4. Right Thigh Hematoma at Impella Insertion Site
+- Monitored with serial exams, no expansion, no neurovascular compromise
+- No active bleeding, Hgb stabilized
+- Ice packs, limb elevation, no anticoagulation unless indicated
+- Vascular surgery on standby
+
+## 5. Volume Overload/CHF
+- On furosemide drip, now euvolemic
+- Daily CXR, monitor for pulmonary edema
+- Gradually liberalize fluids as renal function recovers
+
+## 6. Delirium/ICU Psychosis
+- Mild, improving after extubation
+- Nonpharmacologic measures: re-orientation, sleep-wake cycle, minimize restraints
+- Quetiapine PRN for agitation
+
+## 7. Prediabetes
+- Monitor BG q6h, sliding scale insulin as needed
+- Endocrine to see if persistent hyperglycemia
+
+## 8. Hypertension
+- Off home HCTZ for now due to AKI
+- Restart as tolerated after renal recovery
+
+## 9. Pain (mild, thigh)
+- Acetaminophen PRN
+- No opioids due to delirium
+
+## 10. Infection Prophylaxis
+- VAP, CLABSI, CAUTI bundles in place
+- Daily oral care, chlorhexidine baths
+
+---
+
+# Discharge Planning
+
+- Anticipate transfer to cardiac step-down in 24-48h
+- Cardiac rehab, PT/OT consults pending
+- Social work: counseling for new cardiac diagnosis, work accommodations
+- Family meeting scheduled
+
+---
+
+# Orders (Active)
+
+- CRRT, per nephrology
+- Telemetry monitoring
+- Furosemide 20mg/hr IV drip
+- Acetaminophen 325mg PO q6h PRN pain
+- DVT prophylaxis: SCDs
+- Sliding scale insulin
+- NPO except meds (pending SLP eval)
+
+---
+
+# Additional Notes
+
+- Code status: Full
+- COVID PCR: negative
+- Influenza/RSV: negative
+- Blood cultures: no growth to date
+
+---
+
+**Physician:** Calderon, MD  
+**Date/Time:** 04/08/2024 12:15
+
+---
+
+**End of Note**

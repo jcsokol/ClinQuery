@@ -1,0 +1,154 @@
+**Patient:** Gutkowski, Miles  
+**MRN:** 02384759  
+**DOB:** 03/31/1961  
+**Sex:** Male  
+**Admit Date:** 2024-05-19  
+**Attending:** Dr. K. Walters  
+**Service:** Medical ICU  
+**Reason for Admission:** Cardiogenic shock secondary to acute decompensated heart failure in the setting of severe metabolic syndrome and longstanding poorly controlled diabetes. Required temporary percutaneous LVAD (Impella CP) support.
+
+---
+
+# ICU Progress Note
+
+## SUBJECTIVE:
+Patient is a 63-year-old male with PMHx significant for obesity, metabolic syndrome, type 2 DM with neuropathy, hypertriglyceridemia, anemia, and recent first degree burn (resolved), presenting with 2 days of worsening dyspnea, orthopnea, and lower extremity edema. On arrival, found to be hypotensive and in respiratory distress. Admitted to MICU, subsequently developed cardiogenic shock requiring temporary mechanical circulatory support.
+
+Patient is currently intubated (day 2), sedated. Unable to provide subjective history. Family at bedside reports baseline functional status as “limited—walks only short distances, mostly sedentary at home.”
+
+## OBJECTIVE:
+
+### Vitals (ICU Day 3, 0400):
+| Time    | Temp (°C) | HR (bpm) | BP (mmHg) | RR | SpO2 | O2 device | Pain (0-10) |
+|---------|-----------|----------|-----------|----|------|-----------|-------------|
+| 0400    | 36.7      | 97       | 101/56    | 18 | 97%  | Vent      | sedated     |
+| 0800    | 36.9      | 102      | 98/54     | 17 | 98%  | Vent      | sedated     |
+| 1300    | 36.8      | 95       | 104/60    | 20 | 97%  | Vent      | sedated     |
+
+### Physical Exam
+- **Gen:** Intubated, sedated, appears overweight, no acute distress
+- **CV:** Impella CP in place (L femoral). S1/S2, no murmurs. Cool extremities, 2+ pitting edema BLE.
+- **Resp:** Ventilated, diminished breath sounds at bases, mild bibasilar crackles.
+- **GI:** Soft, non-tender, mildly distended, bowel sounds present.
+- **Neuro:** Sedated, GCS 6T (E1 Vt M4).
+- **Skin:** No new burns, well-healed previous burn to left forearm, mild erythema at femoral access site, no drainage.
+
+---
+
+## LABS
+
+### CBC & Chemistries
+
+| Date      | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|-----------|------|------|------|------|------|------|------|------|------|------|------|
+| 5/19 0600 | 6.1  | 12.8 | 38.2 | 374  | 142  | 4.2  | 105  | 23   | 21   | 1.13 | 238  |
+| 5/20 0600 | 6.5  | 11.6 | 35.0 | 369  | 143  | 4.6  | 102  | 25   | 23   | 1.21 | 186  |
+| 5/21 0600 | 5.9  | 10.4 | 31.2 | 361  | 141  | 4.7  | 100  | 21   | 27   | 1.28 | 154  |
+| 5/22 0600 | 6.3  | 10.2 | 30.5 | 358  | 143  | 4.4  | 100  | 24   | 24   | 1.32 | 136  |
+| 5/23 0600 | 7.2  | 9.7  | 29.1 | 350  | 145  | 4.5  | 103  | 22   | 29   | 1.38 | 119  |
+| 5/24 0600 | 7.0  | 9.6  | 28.8 | 353  | 142  | 4.3  | 101  | 23   | 28   | 1.41 | 112  |
+
+**Missing labs:** Some electrolytes/chemistry values not measured each day; some values may reflect hemolysis or dilutional effects.
+
+#### Additional labs:
+
+- **Troponin I:** 0.08 → 0.07 → 0.06 ng/mL (downtrending, peaked on admission at 0.11)
+- **BNP:** 1880 pg/mL (admission), 1432 pg/mL (5/21)
+- **AST/ALT:** Mildly elevated (AST 46, ALT 41 U/L on 5/20), likely secondary to hypoperfusion
+- **Lactate:** 4.1 (admission), 2.3 (5/20), 1.6 (5/21)
+- **HbA1c:** 6.0% (on file, last month)
+- **Urine microalbumin/Cr:** 11.2 mg/g (chronic, stable)
+- **Lipid panel:** TC 188, TG 132, LDL 92, HDL 70 (baseline, outpatient)
+
+---
+
+## ASSESSMENT & PLAN
+
+**63M with obesity, metabolic syndrome, DM2 (neuropathy), hypertriglyceridemia, anemia, viral sinusitis, s/p 1st degree burn (resolved), presenting with acute decompensated heart failure and cardiogenic shock. Required temporary LV mechanical support via Impella CP.**
+
+### 1. Cardiogenic Shock / Acute Decompensated Heart Failure
+- Required norepinephrine and milrinone for inotropic/vasopressor support on arrival.
+- Impella CP placed in cath lab, ongoing hemodynamic support.
+- Weaning underway as hemodynamics and end-organ function improve.
+- Continue daily TTE for LV function, monitor Impella purge pressures, site care.
+- Plan: Titrate pressors, consider weaning Impella if stable x 24h, daily labs, strict I/Os, maintain MAP >65.
+
+### 2. Type 2 Diabetes Mellitus / Hyperglycemia / Metabolic Syndrome
+- On insulin drip ICU days 1–2, transitioned to basal-bolus regimen.
+- BGs improved as shock resolved, now 110–160.
+- Continue sliding scale + home metformin (hold if AKI).
+- Monitor for hypoglycemia as nutrition advanced.
+
+### 3. Anemia (Multifactorial: chronic disease + hemodilution)
+- Hgb trending down, nadir 9.6, no overt bleeding.
+- Consider iron studies, transfuse if <8 or symptomatic.
+- Monitor retic, LDH, haptoglobin if further decline.
+
+### 4. Obesity / Hypertriglyceridemia
+- On statin and fenofibrate prior, both held for acute illness.
+- Will resume when PO and stable.
+- Dietician consult for calorie-controlled, heart-healthy diet.
+
+### 5. Neuropathy (DM-related)
+- Baseline numbness/tingling in feet, no new deficits.
+- PT/OT on board for mobility once extubated.
+
+### 6. AKI (likely cardiorenal, improving)
+- Creatinine peaked 1.41, now plateaued.
+- UOP improved with better cardiac output.
+- Continue to monitor, avoid nephrotoxins.
+
+### 7. Infectious concerns / Burns / Sinusitis
+- No active infection; afebrile, WBC stable.
+- Previous burn site clean, dry.
+- Sinusitis symptoms resolved, no abx indicated.
+
+### 8. Sedation/Delirium/Analgesia
+- On propofol and low-dose fentanyl.
+- Lighten sedation daily, assess for delirium.
+- Pain well controlled (verbal when awake, pain 1–2/10).
+
+### 9. Disposition / Goals of Care
+- Remain in ICU for now.
+- Family updated daily.
+- Plan for stepdown to telemetry when extubated and Impella removed.
+
+---
+
+## ICU Flow Sheet (selected)
+
+| Date      | UOP (mL) | Net Fluid (mL) | Pressors | Vent Mode | FiO2 | GCS |
+|-----------|----------|----------------|----------|-----------|------|-----|
+| 5/19      | 600      | +2100          | Norepi   | AC/VC     | 60%  | 6T  |
+| 5/20      | 1200     | +800           | Norepi   | AC/VC     | 50%  | 7T  |
+| 5/21      | 1800     | +300           | Weaning  | AC/VC     | 40%  | 8T  |
+| 5/22      | 2200     | -400           | Off      | CPAP      | 35%  | 9T  |
+| 5/23      | 2300     | -900           | Off      | CPAP      | 30%  | 10T |
+
+---
+
+**Medications (ICU Day 3):**
+- Metformin 500mg ER PO q24h (*held if Cr >1.5*)
+- Insulin glargine 18u qHS + SSI
+- Acetaminophen 650mg q6h PRN
+- Furosemide IV 40mg q12h
+- Milrinone IV gtt (tapering)
+- Norepinephrine IV (off)
+- Heparin SQ 5000u q8h (DVT ppx)
+- Propofol IV gtt (light sedation)
+- Fentanyl IV PRN
+
+---
+
+**Summary:**  
+Patient is a 63-year-old male with advanced metabolic syndrome, DM2, and chronic anemia, admitted in cardiogenic shock requiring temporary LVAD (Impella CP). Now showing improving clinical and laboratory parameters. Extubation and Impella wean planned as tolerated. Will continue to monitor and support multisystem recovery.
+
+---
+
+**Physician:**  
+K. Walters, MD  
+Date/Time: 2024-05-24 08:23
+
+---
+
+**(Additional pages available in chart: see "Labs" and "Cardiology Consult" tabs for further detail.)**

@@ -1,0 +1,175 @@
+---
+**Patient Name:** Kina Reichel  
+**MRN:** 00189347  
+**DOB:** 2006-01-01 (18 y/o)  
+**Sex:** Female  
+**Attending:** Dr. S. Markowitz  
+**Admit Date:** 2024-04-18  
+**Service:** Pediatric ICU  
+**Note Date:** 2024-04-24  
+**Visit Type:** Inpatient, ICU  
+
+---
+
+## HOSPITAL COURSE
+
+Kina Reichel, an 18-year-old female with a history of atopic dermatitis, perennial allergic rhinitis, childhood asthma, and multiple food/environmental allergies, was admitted to the PICU with acute hypoxemic respiratory failure secondary to status asthmaticus complicated by viral myocarditis and subsequent cardiogenic shock. She required escalation to mechanical ventilation, inotropic support, and ultimately placement of a temporary percutaneous left ventricular assist device (Impella CP) for severe LV dysfunction with ejection fraction (EF) nadir 18%. She has also had strep pharyngitis and acute bronchitis during this admission.
+
+### Timeline Summary
+- **Day 1 (ED/Admission):** Severe respiratory distress, hypoxemia, wheezing, retractions. Failed initial bronchodilator therapy. Intubated for worsening hypercapnia.  
+- **Day 2:** Persistent hypotension despite fluids, started on epinephrine and milrinone. Echo: severe global LV hypokinesis, EF 18%. Troponin I 2.6 ng/mL, BNP 1430 pg/mL. Cardiology, CVICU consult.  
+- **Day 3:** Worsening lactatemia, oliguria, rising LFTs. Decision made for Impella CP placement via right femoral artery.  
+- **Day 4–5:** Gradual improvement in cardiac output, weaning of inotropes.  
+- **Day 6:** Impella weaned and explanted. Extubated to HFNC.  
+- **Day 7:** Transferred to step-down.  
+
+---
+
+## ASSESSMENT & PLAN
+
+### 1. **Cardiogenic Shock Secondary to Viral Myocarditis**
+- **Assessment:** Sudden decompensation with hypotension, elevated troponin/BNP, echo-proven severe LV dysfunction.  
+- **Plan:**
+  - Impella CP placed for temporary LV support (days 3–6).
+  - Daily TTEs to assess recovery.
+  - Wean inotropes as tolerated.
+  - Strict I/Os, daily weights.
+  - Monitor for arrhythmias and limb ischemia.
+  - Serial cardiac markers.
+  - Cardiogenics consult ongoing.
+
+### 2. **Acute Hypoxemic Respiratory Failure / Status Asthmaticus**
+- **Assessment:** Severe asthma exacerbation, intubated on admission.
+- **Plan:**
+  - Continuous albuterol neb, IV methylpred, supportive care.
+  - Extubated day 6, now on HFNC.
+  - Resume home inhalers as tolerated.
+  - Pulm consult, asthma action plan update.
+
+### 3. **Acute Viral Pharyngitis / Streptococcal Pharyngitis**
+- **Assessment:** Positive rapid strep, also viral panel positive for rhinovirus.
+- **Plan:**
+  - Completed 10-day course of Penicillin V.
+  - Supportive care for viral symptoms.
+
+### 4. **Liver Dysfunction (Shock Liver)**
+- **Assessment:** Transient transaminitis (AST/ALT peak 410/295) with shock, now improving.
+- **Plan:**
+  - Daily LFTs, trending down.
+  - Monitor for coagulopathy.
+  - No hepatomegaly or jaundice on exam.
+
+### 5. **Renal Dysfunction (AKI, multifactorial)**
+- **Assessment:** Oliguria, Cr peak 1.4, now improving with cardiac output.
+- **Plan:**
+  - Renal panel q24h, monitor K+.
+  - Avoid nephrotoxins.
+
+### 6. **Atopic Dermatitis / Allergic Rhinitis / Asthma (chronic)**
+- **Assessment:** History of severe atopy, food/environmental allergies.
+- **Plan:**
+  - Resume topical hydrocortisone, loratadine.
+  - Avoid known allergens.
+  - Allergy/Immunology to follow up outpatient.
+
+### 7. **Nutrition / Failure to Thrive**
+- **Assessment:** BMI <5th percentile, weight loss during PICU stay.
+- **Plan:**
+  - Enteral feeds, dietitian consult.
+  - Nutrition labs, daily weights.
+
+### 8. **DVT Prophylaxis**
+- **Plan:** SCDs while Impella in place, transitioned to SQ heparin post-explant.
+
+### 9. **Psychosocial**
+- **Assessment:** Anxiety, family at bedside.
+- **Plan:** Social work, child life, psych consult as needed.
+
+---
+
+## LABS
+
+### Table 1. CBC & CHEM7 (Selected Dates)
+
+| Date        | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|-------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|
+| 4/18 (ED)   | 10.5       | 14.6       | 39      | 320        | 138         | 4.3        | 103         | 23           | 14          | 0.7        | 102         |
+| 4/19 (ICU)  | 12.2       | 13.8       | 37      | 290        | 137         | 4.8        | 101         | 19           | 18          | 1.0        | 128         |
+| 4/20        | 14.8       | 12.9       | 34      | 255        | 133         | 5.4        | 98          | 15           | 27          | 1.4        | –           |
+| 4/21        | 10.2       | 13.5       | 36      | 272        | 135         | 4.7        | 99          | 21           | 20          | 1.1        | 110         |
+| 4/22        | 8.9        | –          | –       | 301        | 136         | 4.2        | 102         | 23           | 16          | 0.9        | 96          |
+| 4/23        | 7.2        | 13.9       | 38      | 341        | 138         | 3.9        | 104         | 25           | 13          | 0.7        | 101         |
+
+---
+
+### Table 2. Additional Labs
+
+| Date      | AST (U/L) | ALT (U/L) | Alk Phos (U/L) | Total Bili (mg/dL) | BNP (pg/mL) | Troponin I (ng/mL) | PT (s) | INR | PTT (s) | Lactate (mmol/L) |
+|-----------|-----------|-----------|----------------|--------------------|-------------|--------------------|--------|-----|---------|------------------|
+| 4/19      | 320       | 205       | 89             | 1.2                | 1430        | 2.6                | 14.2   | 1.1 | 29      | 3.2              |
+| 4/20      | 410       | 295       | 110            | 2.1                | 1620        | 2.8                | 16.1   | 1.3 | 31      | 5.4              |
+| 4/21      | 190       | 135       | 98             | 1.5                | 990         | 1.1                | 13.7   | 1.0 | 27      | 2.4              |
+| 4/22      | 78        | 54        | 101            | 0.9                | 560         | 0.4                | –      | –   | –       | 1.1              |
+| 4/23      | 39        | 27        | –              | 0.7                | 210         | <0.02              | 12.8   | 0.9 | 25      | <0.5             |
+
+---
+
+### Table 3. Cardiac Imaging
+
+| Date    | Summary                                                                 |
+|---------|-------------------------------------------------------------------------|
+| 4/19    | TTE: Global LV hypokinesis, EF 18%, mild RV involvement, no pericardial effusion |
+| 4/21    | TTE: EF 32%, improved wall motion, Impella in situ                       |
+| 4/23    | TTE: EF 48%, normalized LV size, no thrombus                             |
+
+---
+
+## MEDICATION ADMINISTRATION RECORD (selected)
+
+| Medication                    | Dose/Route                | Frequency      | Start      | Stop      |
+|-------------------------------|---------------------------|---------------|------------|-----------|
+| Epinephrine                   | 0.05 mcg/kg/min IV        | Continuous    | 4/19       | 4/22      |
+| Milrinone                     | 0.5 mcg/kg/min IV         | Continuous    | 4/19       | 4/23      |
+| Methylprednisolone            | 1 mg/kg IV                | q6h           | 4/18       | 4/23      |
+| Albuterol Neb                 | 2.5 mg neb                | Continuous    | 4/18       | 4/22      |
+| Penicillin VK                 | 250 mg PO                 | q6h           | 4/18       | 4/28      |
+| Loratadine                    | 5 mg PO                   | daily         | Home med   | Ongoing   |
+| Hydrocortisone Topical        | 10 mg/mL cream            | BID           | Home med   | Ongoing   |
+
+---
+
+## ALLERGIES
+
+- **Peanut, Walnut, Codfish, Wheat, White oak, Ragweed, Cat dander, House dust mite, Cladosporium herbarum** (high IgE titers)
+- **Shrimp, Egg, Soy, Cow milk, Honey bee, Latex** (low/negative titers, not clinically relevant per Allergy)
+
+---
+
+## VITALS (Selected, ICU course)
+
+| Date/Time    | Temp (C) | HR   | RR   | BP           | SpO2 | O2 Device     | Pain |
+|--------------|----------|------|------|--------------|------|---------------|------|
+| 4/18 18:15   | 37.1     | 142  | 32   | 84/44        | 89   | NRB           | 0    |
+| 4/19 07:00   | 37.0     | 128  | 24   | 92/56        | 95   | MV            | 0    |
+| 4/20 03:00   | 38.2     | 156  | MV   | 78/38        | 91   | MV            | 0    |
+| 4/21 12:00   | 36.8     | 119  | 16   | 98/62        | 98   | MV            | 0    |
+| 4/22 09:00   | 36.7     | 108  | 18   | 104/70       | 99   | HFNC          | 0    |
+| 4/23 08:00   | 36.9     | 94   | 14   | 111/74       | 99   | RA            | 0    |
+
+---
+
+## DISPOSITION
+
+- **PICU** → Step-down pending continued improvement, cardiac f/u, outpatient allergy/asthma management.
+
+---
+
+**Physician:**  
+Sophie Markowitz, MD  
+Pediatric Cardiology/Critical Care
+
+---
+
+**Attestation:** This is a simulated EHR record for training purposes only.
+
+---

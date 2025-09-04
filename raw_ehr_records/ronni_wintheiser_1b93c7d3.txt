@@ -1,0 +1,172 @@
+```
+-------------------------------------------------------------------------------
+EpicCare Inpatient - Patient Chart
+-------------------------------------------------------------------------------
+
+Patient Name: Ronni Wintheiser
+MRN: 003749204
+DOB: 08/21/1943 (Age: 80)
+Sex: Female
+Date of Admission: 03/12/2024
+Attending: Dr. J. Harten
+Admitting Diagnosis: Cardiogenic shock secondary to acute decompensated heart failure, s/p temporary LVAD (Impella CP) placement
+
+-------------------------------------------------------------------------------
+CHIEF COMPLAINT
+-------------------------------------------------------------------------------
+Progressive shortness of breath, orthopnea, lower extremity edema, and acute confusion.
+
+-------------------------------------------------------------------------------
+HISTORY OF PRESENT ILLNESS
+-------------------------------------------------------------------------------
+80 y.o. female with PMH significant for obesity (BMI 30+), seizure disorder (on carbamazepine), remote miscarriage, tubal pregnancy, hx of colonic polyp (2.3 mm, removed 2022), and prior viral pharyngitis presents with 1-week history of worsening dyspnea, increasing lower extremity edema, and confusion. Family reports decreased oral intake over past 3 days and acute onset of orthopnea. No fever, cough, or chest pain. On arrival to ED found to be hypotensive (SBP 78 mmHg), tachycardic (HR 112), tachypneic (RR 26), and hypoxic (SpO2 85% on RA). CXR: pulmonary edema. Echo: severely reduced LVEF (15%), global hypokinesis, moderate MR. Troponin mildly elevated (see labs). Emergent transfer to ICU for management of cardiogenic shock.
+
+Despite initial stabilization with vasopressors, patient continued to deteriorate. Decision made for temporary LVAD (Impella CP) placement at bedside, with subsequent improvement in end-organ perfusion.
+
+-------------------------------------------------------------------------------
+PAST MEDICAL HISTORY
+-------------------------------------------------------------------------------
+- Obesity (BMI 30+)
+- Seizure disorder (on carbamazepine)
+- Hx of single seizure
+- Colonic polyp (removed, 2022)
+- Remote miscarriage (1st trimester), tubal pregnancy
+- Viral sinusitis, acute viral pharyngitis (resolved)
+- Sprained wrist (remote)
+
+PAST SURGICAL HISTORY
+- Colonoscopy with polypectomy (2022)
+- Tubal ligation (1972)
+
+FAMILY HISTORY
+- Mother: MI at age 68
+- Father: Stroke at age 70
+- No known inherited cardiac conditions
+
+SOCIAL HISTORY
+- Lives with daughter, retired school teacher
+- No tobacco, rare ETOH, no illicit drugs
+- Ambulates with cane at baseline
+
+ALLERGIES
+- NKDA
+
+-------------------------------------------------------------------------------
+HOME MEDICATIONS
+-------------------------------------------------------------------------------
+- Acetaminophen 325 mg po PRN
+- Amoxicillin/Clavulanate 250/125 mg po q12h (recent, for pharyngitis)
+- Carbamazepine 200 mg po BID
+
+-------------------------------------------------------------------------------
+PHYSICAL EXAM (on ICU admission)
+-------------------------------------------------------------------------------
+Gen: Elderly female, ill-appearing, drowsy
+VS: T 37.8°C, HR 112, BP 78/52 (MAP 59), RR 26, SpO2 85% (RA)
+HEENT: Mucous membranes dry, no JVD
+CV: Tachycardic, S3, soft murmur at apex, cool extremities, 2+ pitting edema
+Lungs: Crackles throughout, decreased air entry bases
+Abd: Soft, mild distension, NT/ND, no HSM
+Neuro: Drowsy, moves all extremities, no focal deficit
+Skin: No rash, poor turgor
+
+-------------------------------------------------------------------------------
+ICU COURSE (Days 1-7)
+-------------------------------------------------------------------------------
+**Day 1:** Admitted to MICU. Hypotensive, requiring norepinephrine and dobutamine. ABG: pH 7.28, pCO2 33, pO2 62. Worsening lactic acidosis. Urine output <0.3 mL/kg/h. Nephrology consulted for oliguria. Impella CP placed at bedside. Immediate improvement in MAP to 68, lactate downtrending.
+
+**Day 2:** Weaned off norepinephrine, still on low-dose dobutamine. Extubated. Cardiology: Ischemic vs non-ischemic cardiomyopathy unclear, likely mixed. Started on low-dose carvedilol, spironolactone, furosemide drip.
+
+**Day 3:** Improving urine output. LFTs elevated (see labs). Mild troponin leak. WBC trending up. Blood cultures negative. Echo: persistent low EF, Impella in good position.
+
+**Day 4:** Developed mild delirium, likely multifactorial. Mobilized to chair.
+
+**Day 5:** Downtrending creatinine. Furosemide drip transitioned to IV bolus. LFTs improved.
+
+**Day 6:** Impella wean trial successful. Device removed without complication.
+
+**Day 7:** Transferred to step-down unit. Neurologically at baseline.
+
+-------------------------------------------------------------------------------
+LABS (selected, ICU days 1-7)
+-------------------------------------------------------------------------------
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | Alk Phos | TnI   | BNP   |
+|------------|------|------|------|------|------|------|------|------|------|------|------|------|------|----------|-------|-------|
+| 3/12/2024  | 10.3 | 15.2 | 45.8 | 233  | 138  | 4.5  | 102  | 23   | 32   | 1.8  | 132  | 56   | 48   | 90       | 0.12  | 3200  |
+| 3/13/2024  | 12.1 | 14.7 | 43.6 | 201  | 136  | 4.7  | 104  | 20   | 41   | 2.3  | 148  | 98   | 87   | 112      | 0.09  | 3050  |
+| 3/14/2024  | 13.2 | 13.9 |      | 188  | 135  | 4.1  | 100  | 19   | 52   | 2.9  | 155  | 132  | 109  |          | 0.08  | 2980  |
+| 3/15/2024  | 11.9 | 13.2 | 39.8 | 160  | 139  | 3.9  | 103  | 22   | 36   | 2.1  | 142  | 76   |      | 108      | 0.06  | 2700  |
+| 3/16/2024  |  9.8 | 12.4 | 37.0 | 155  | 140  | 4.2  |      | 25   | 28   | 1.5  | 131  | 44   | 39   | 92       | 0.03  | 2100  |
+| 3/17/2024  |  8.6 |      | 34.2 | 144  | 142  | 4.0  | 108  | 27   | 24   | 1.2  | 127  |      | 28   | 75       | <0.01 | 1100  |
+| 3/18/2024  |  7.9 | 12.0 | 33.5 | 138  | 144  | 3.8  | 109  | 25   | 22   | 1.1  | 120  | 29   | 21   | 62       | <0.01 | 680   |
+
+Additional labs:
+- Lactate peaked 4.5 mmol/L (D1), normalized by D3.
+- INR: 1.1-1.3, no coagulopathy.
+- Albumin: 3.2-3.8 g/dL
+- Blood cultures: negative
+- Urinalysis: bland
+
+-------------------------------------------------------------------------------
+PROBLEM-BASED ASSESSMENT & PLAN
+-------------------------------------------------------------------------------
+
+**1. Cardiogenic Shock, s/p temporary LVAD (Impella CP)**
+   - Etiology: acute decompensated heart failure, likely ischemic/non-ischemic mix.
+   - Managed with vasopressors, mechanical support (Impella), diuresis.
+   - Plan: Monitor volume status, continue GDMT (goal-directed medical therapy), close hemodynamic monitoring, repeat echo prior to DC.
+
+**2. Acute Decompensated Heart Failure (EF 15%)**
+   - On furosemide, spironolactone, carvedilol (low dose).
+   - Daily weights, strict I/O, fluid restriction.
+   - Continue cardiac rehab/PT consult.
+
+**3. Acute Kidney Injury (pre-renal, multifactorial)**
+   - Oliguria improved post-Impella.
+   - Nephrology followed, downtrending creatinine.
+   - Hold nephrotoxic agents, optimize hemodynamics.
+
+**4. Hepatic Congestion / Transaminitis**
+   - LFTs peaked D3, downtrending.
+   - Supportive care, monitor coags.
+
+**5. Seizure Disorder**
+   - On home carbamazepine, levels monitored (last: 7.3 mcg/mL).
+   - No witnessed seizures in hospital.
+
+**6. Delirium**
+   - Multifactorial (metabolic, ICU, medication).
+   - Non-pharmacologic measures, re-orient, minimize sedation.
+
+**7. Obesity (BMI 30+)**
+   - Dietician consult, low salt/cardiac diet.
+   - Encourage mobility as tolerated.
+
+**8. Colonic Polyp (remote)**
+   - Surveillance colonoscopy per guidelines.
+
+**9. Hx miscarriage/tubal pregnancy**
+   - No acute issues.
+
+**Other:**
+   - DVT prophylaxis: SCDs, heparin SQ
+   - Vaccinations up to date
+   - Family updated daily
+
+-------------------------------------------------------------------------------
+DISCHARGE PLANNING (pending)
+-------------------------------------------------------------------------------
+- Anticipate transfer to rehab for ongoing PT/OT
+- Close cardiology and neurology F/U
+- Medication reconciliation prior to DC
+
+-------------------------------------------------------------------------------
+SIGNATURES
+-------------------------------------------------------------------------------
+Attending: Dr. J. Harten, MD
+Resident: S. Patel, MD
+Date/Time: 03/18/2024 17:08
+
+-------------------------------------------------------------------------------
+```

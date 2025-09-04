@@ -1,0 +1,203 @@
+**Patient:** Ian Rogahn  
+**MRN:** 0032781  
+**DOB:** 09/01/1980  
+**Sex:** Male  
+**Admit Date:** 05/29/2024  
+**Attending:** Dr. T. Glasser  
+**Service:** Cardiac ICU  
+**Location:** 3C-ICU, Bed 7
+
+---
+
+# Admission H&P
+
+**Chief Complaint:**  
+Worsening shortness of breath, chest tightness, and productive cough
+
+**History of Present Illness:**  
+Mr. Rogahn is a 43-year-old male with a past medical history significant for acute bronchitis (onset 2 weeks ago), hypertension, and hyperlipidemia who presented to the ED with 4 days of progressive dyspnea, orthopnea, and fatigue. He also reports a persistent productive cough with yellow sputum. He denied fever, chills, or hemoptysis. On arrival, he was tachycardic (HR 112), hypotensive (BP 88/52), and tachypneic (RR 27). He became increasingly hypoxic despite supplemental O2 and developed signs of cardiogenic shock requiring transfer to the ICU.  
+
+**Past Medical History:**  
+- Acute bronchitis  
+- Hypertension  
+- Hyperlipidemia  
+
+**Past Surgical History:**  
+- None
+
+**Medications on Admission:**  
+- Acetaminophen 325 mg PO PRN  
+- Lisinopril 20 mg QD (home)  
+- Atorvastatin 40 mg QHS (home)
+
+**Allergies:**  
+- NKDA
+
+**Social History:**  
+- Tobacco: 1 PPD, quit 3 years ago  
+- EtOH: Rare  
+- Illicit drugs: Denies  
+- Lives with wife, works as accountant
+
+**Family History:**  
+- Father: MI at 62  
+- Mother: HTN, DM2
+
+**Review of Systems:**  
+- General: Fatigue, malaise  
+- CV: Chest tightness, palpitations  
+- Resp: SOB, cough, no hemoptysis  
+- GI: Nausea, no vomiting or diarrhea  
+- GU: No dysuria  
+- Neuro: No focal deficits  
+- MSK: No myalgias  
+- Skin: No rashes
+
+**Physical Exam:**  
+- Gen: Alert but fatigued, pale, diaphoretic  
+- Vitals: T 37.2°C, HR 112, BP 88/52, RR 27, SpO2 91% on 6L NC  
+- HEENT: No JVD, oropharynx clear  
+- Chest: Crackles bilateral bases, diminished air entry  
+- CV: Tachycardic, S3 present, no murmurs  
+- Abd: Soft, mildly tender RUQ  
+- Ext: Cool, trace edema, pulses 1+  
+- Neuro: AOx3, no focal deficit
+
+---
+
+# ICU Course Summary (05/29 - 06/03)
+
+**Day 1:**  
+Admitted to ICU for acute hypoxic respiratory failure and shock. Rapid escalation of O2; started on norepinephrine for hypotension. Bedside echo showed severely reduced LVEF (~15%), global hypokinesis, mild LV dilation. Troponin mildly elevated. Started on IV diuretics, broad-spectrum antibiotics (ceftriaxone/azithromycin), and dobutamine. Despite this, worsening end-organ hypoperfusion (AKI, rising lactate).  
+
+**Day 2:**  
+Persistent hypotension and low cardiac output despite escalating inotropes/pressors. Multidisciplinary team decision for placement of a temporary left ventricular assist device (Impella CP) at bedside. Device placed without complication. Immediate improvement in MAP and urine output.  
+
+**Day 3-4:**  
+Gradual improvement in end-organ function. Weaned off norepinephrine. Cough improved, less dyspneic. Still on Impella support. Serial echoes showed improved LV unloading.  
+
+**Day 5:**  
+Impella weaned and removed. Patient stable, transitioned to high-flow nasal cannula. Diuresis continued.  
+
+**Day 6:**  
+Steady improvement, off vasopressors/inotropes. Transferred to step-down unit.
+
+---
+
+# Problem List / Assessment & Plan
+
+**1. Cardiogenic Shock, severe LV systolic dysfunction**  
+- Likely secondary to acute myocarditis vs. ischemic insult (troponin rise, no clear STEMI)  
+- Required temporary LVAD (Impella CP) for hemodynamic support  
+- Plan: Continue GDMT for HF, monitor volume status, daily echo, wean support as tolerated
+
+**2. Acute Hypoxic Respiratory Failure**  
+- Multifactorial: pulmonary edema (CHF), bronchitis  
+- O2 support (initially NRB, then HFNC), diuresis  
+- Plan: Continue diuretics, chest physiotherapy, monitor ABGs
+
+**3. Acute on Chronic Kidney Injury**  
+- Likely pre-renal from poor perfusion  
+- Improved with LVAD and diuresis  
+- Plan: Monitor renal function, avoid nephrotoxins, adjust meds by GFR
+
+**4. Acute Bronchitis**  
+- Productive cough, recent URI symptoms  
+- Treated empirically with ceftriaxone/azithromycin  
+- Plan: Reassess need for abx, sputum cultures pending
+
+**5. Hyperlipidemia**  
+- On atorvastatin, continue  
+- Plan: Reassess lipid panel prior to discharge
+
+**6. Hypertension**  
+- Previously well controlled  
+- Hold ACEi/ARB during AKI, resume once stable
+
+**7. Anemia**  
+- Mild, likely dilutional/acute illness  
+- Follow CBC, transfuse if Hb <7
+
+**8. Electrolyte Disturbances**  
+- Mild hyponatremia, hypomagnesemia  
+- Correct as needed, monitor daily
+
+**9. Pain**  
+- Mild, managed with acetaminophen
+
+---
+
+# Labs
+
+**Summary Table: CBC and Chem7**
+
+| Date        | WBC (x10^3/uL) | Hgb (g/dL) | Plt (x10^3/uL) | Na (mmol/L) | K (mmol/L) | Cr (mg/dL) | BUN (mg/dL) | Glu (mg/dL) |
+|-------------|----------------|------------|----------------|-------------|------------|------------|-------------|-------------|
+| 5/29/2024   | 14.2           | 13.2       | 311            | 130         | 3.2        | 1.8        | 38          | 112         |
+| 5/30/2024   | 11.7           | 12.9       | 255            | 132         | 3.8        | 1.6        | 34          | 108         |
+| 5/31/2024   | 9.1            | 12.5       | 202            | 134         | 4.1        | 1.3        | 27          | 106         |
+| 6/1/2024    | 8.7            | 12.0       | 195            | 137         | 4.0        | 1.1        | 22          | 102         |
+| 6/2/2024    | 7.5            | 12.1       | 201            | 138         | 4.2        | 1.0        | 19          | 99          |
+| 6/3/2024    | 7.4            | 12.4       | 220            | 139         | 4.1        | 0.9        |             | 101         |
+
+**Other Labs:**
+
+- **Troponin I:** 0.09 → 0.13 → 0.11 (peak on 5/29, downtrending)  
+- **BNP:** 2250 pg/mL (high, 5/29)  
+- **AST/ALT:** AST 55, ALT 39 (mildly elevated 5/29, normalized by 6/2)  
+- **Lactate:** 4.2 (admission), 2.0 (6/1)
+
+---
+
+# Imaging
+
+**CXR (5/29):** Bilateral pulmonary edema, mild cardiomegaly  
+**Echo (5/29):** LVEF ~15%, global hypokinesis  
+**Echo (6/2):** LVEF improved to 30%, less LV dilation
+
+---
+
+# Procedures
+
+- **5/30:** Placement of Impella CP via femoral approach under fluoroscopy, no complications  
+- **6/2:** Impella removed at bedside
+
+---
+
+# Medications During Admission
+
+- Norepinephrine IV (titrated off 6/1)
+- Dobutamine IV (titrated off 6/2)
+- Furosemide IV
+- Ceftriaxone IV, Azithromycin IV
+- Acetaminophen 325 mg PO PRN
+- Atorvastatin 40 mg QHS
+- Lisinopril held during AKI
+
+---
+
+# Disposition
+
+**Plan:**  
+- Transfer to telemetry step-down  
+- Continue GDMT for heart failure  
+- Cardiology follow-up, outpatient echo in 2 weeks  
+- Education on HF symptoms, low salt diet
+
+---
+
+# Additional Notes
+
+- Occasional mild headaches, resolved spontaneously  
+- No evidence of DVT/PE on lower extremity Doppler  
+- Stool guaiac negative  
+- Sputum and blood cultures negative to date
+
+---
+
+**Signed:**  
+Dr. T. Glasser, MD  
+Cardiac ICU  
+06/03/2024 18:23
+
+---

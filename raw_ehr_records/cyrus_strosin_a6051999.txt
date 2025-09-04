@@ -1,0 +1,144 @@
+**Patient:** Cyrus Strosin  
+**MRN:** 00928475  
+**DOB:** 1966-08-21 (57 yo)  
+**Sex:** Male  
+**Admission Date:** 2024-05-29  
+**Attending:** Dr. J. Eldridge  
+**Admitting Dx:** Cardiogenic shock secondary to decompensated heart failure  
+**Service:** MICU
+
+---
+
+### HOSPITAL COURSE SUMMARY:
+
+Mr. Strosin is a 57-year-old male with a history notable for sinusitis (recurrent, viral), acute bronchitis, and first-degree burn, who presented with progressive dyspnea, orthopnea, and lower extremity edema. He reported a viral URI two weeks prior to admission. He developed worsening respiratory distress at home, prompting EMS activation. On arrival to the ED, he was hypoxic (O2 sat 86% RA), tachycardic (HR 124), BP 82/54, and diaphoretic. CXR showed pulmonary edema and cardiomegaly. BNP was markedly elevated (2,150 pg/mL), troponin I 0.09 (mildly elevated), and echo revealed severely reduced LVEF (15%) with global hypokinesis. He rapidly decompensated, requiring intubation for hypoxic respiratory failure and escalating vasopressor support. Cardiogenic shock was diagnosed.
+
+Given refractory shock and persistent end-organ hypoperfusion, an Impella CP device was placed in the cardiac cath lab for temporary LV support. He subsequently required CRRT for AKI (creatinine peak 3.2). Over the next week, his cardiac function improved, vasopressors were weaned, and Impella was explanted on HD#8. He was extubated on HD#10 and transitioned to medical therapy for heart failure.
+
+---
+
+# ICU Progress Note (Day 12)
+
+**Subjective:**  
+Patient awake, alert. Denies chest pain. Mild SOB on exertion, improving. No fever/chills. Some cough, non-productive. Appetite returning. Mild fatigue.
+
+**Objective:**  
+
+**Vitals:**  
+| Time        | Temp (°C) | HR   | BP         | RR  | SpO2  | Pain |
+|-------------|-----------|------|------------|-----|-------|------|
+| 06:00       | 36.8      | 88   | 110/62     | 18  | 95%    | 2    |
+| 14:00       | 37.2      | 92   | 112/68     | 16  | 96%    | 3    |
+| 22:00       | 36.7      | 85   | 108/60     | 17  | 96%    | 2    |
+
+**I/O:**  
+Yesterday: IN 2.5 L, OUT 3.2 L (CRRT+urine)  
+Net: -0.7 L
+
+**Physical Exam:**  
+- **Gen:** Alert, NAD  
+- **CV:** JVD 6cm, S1/S2, no murmur. No gallop. Exts: trace edema.  
+- **Resp:** Lungs clear, no crackles.  
+- **Abd:** Soft, nontender, normoactive.  
+- **Skin:** Intact, no new burns/lesions.  
+- **Neuro:** AOx3.
+
+---
+
+## Labs
+
+| Date       | WBC  | Hgb   | Hct    | Plt   | Na   | K    | Cl   | CO2   | BUN  | Cr   | Glu  | Troponin | BNP    | AST  | ALT  |
+|------------|------|-------|--------|-------|------|------|------|-------|------|------|------|----------|--------|------|------|
+| 5/29       | 9.2  | 16.8  | 49     | 312   | 135  | 4.1  | 102  | 21    | 28   | 1.2  | 106  | 0.09     | 2150   | 42   | 35   |
+| 5/30       | 10.1 | 15.7  | 45     | 265   | 132  | 4.3  | 100  | 18    | 37   | 2.1  | 115  | 0.06     | 2080   | 55   | 44   |
+| 6/1        | 12.8 | 14.9  | 43     | 198   | 129  | 5.2  | 98   | 16    | 52   | 3.2  | 118  | 0.05     | 1750   | 63   | 51   |
+| 6/3        | 9.5  | 13.8  | 40     | 170   | 135  | 4.5  | 102  | 22    | 34   | 1.9  | 102  | <0.01    | 1200   | 41   | 38   |
+| 6/6        | 8.6  | 13.7  | 41     | 142   | 136  | 4.0  | 101  | 20    | 22   | 1.3  | 99   | <0.01    | 950    | 36   | 32   |
+| 6/9        | 7.9  | 14.2  | 43     | 151   | 137  | 4.2  | 103  | 24    | 18   | 1.1  | 108  | --       | 810    | 29   | 27   |
+| 6/12       | 8.2  | 14.8  | 44     | 146   | 139  | 4.1  | 104  | 25    | 16   | 1.0  | 112  | --       | 735    | 25   | 24   |
+
+**Additional Labs:**  
+- **INR:** 1.2 (peak 1.6 on 6/1)  
+- **Lactate:** 3.9 mmol/L (5/29, normalized by 6/2)  
+- **CK-MB:** 7.3 ng/mL (5/29, trended down)  
+- **Pro-BNP:** see above  
+- **CRP:** 18 mg/L (5/30, trended to 8 by 6/6)
+
+---
+
+## Problem-Based Assessment & Plan
+
+### 1. **Cardiogenic Shock / Decompensated Heart Failure**
+- **Etiology:** Suspected viral myocarditis (recent URI, no CAD on cath, global hypokinesis)
+- **Course:** Required Impella CP for 8d with CRRT; now off support, improving
+- **Plan:**  
+  - Continue GDMT: carvedilol, sacubitril-valsartan, spironolactone  
+  - Daily weights, strict I/O  
+  - Echo scheduled for 6/14  
+  - Cardiac rehab consult  
+  - Follow up with heart failure team
+
+### 2. **Acute Kidney Injury (Stage 3, now improved)**
+- Likely multifactorial: low output, pressors, nephrotoxic exposure (contrast)
+- On CRRT HD#1-7, now off, creatinine trending down
+- Monitor labs, fluid balance
+- Renal dosing for all meds
+
+### 3. **Respiratory Failure (now resolved)**
+- Intubated HD#1-10, now extubated and weaning O2
+- Incentive spirometry, pulmonary hygiene
+- Monitor for nosocomial pneumonia
+
+### 4. **Recurrent Sinusitis, Acute Bronchitis (remote)**
+- No active infection currently
+- Continue home inhalers (Fluticasone, Albuterol) as needed
+- Monitor for recurrence
+
+### 5. **First Degree Burn (remote)**
+- Well-healed, no active skin issues
+
+### 6. **Pain**
+- Mild, mostly myalgias and procedural discomfort
+- Acetaminophen PRN
+
+### 7. **Nutrition**
+- Now tolerating PO, diet advanced as tolerated
+- Monitor for refeeding
+
+### 8. **GI prophylaxis**
+- Pantoprazole for stress ulcer prophylaxis
+
+### 9. **DVT prophylaxis**
+- SCDs, enoxaparin 40 mg SC daily
+
+### 10. **Other**
+- Monitor for delirium, frequent reorientation
+- Social work and PT/OT involved for discharge planning
+
+---
+
+**Medications (Current):**  
+- Carvedilol 6.25 mg BID  
+- Sacubitril-valsartan 24/26 mg BID  
+- Spironolactone 25 mg QD  
+- Furosemide 40 mg IV BID  
+- Fluticasone inhaler PRN  
+- Albuterol inhaler PRN  
+- Acetaminophen PRN  
+- Pantoprazole 40 mg IV QD  
+- Enoxaparin 40 mg SC QD
+
+---
+
+**Disposition:**  
+- Anticipate transfer to step-down in 24-48h, then home with home health and close f/u with HF clinic
+
+---
+
+**Signed:**  
+Dr. J. Eldridge, MD, MICU  
+6/12/2024, 10:15 AM
+
+---
+
+**(Additional pages: see MAR, nursing notes, PT/OT, radiology, echo reports, and consults in chart.)**

@@ -1,0 +1,187 @@
+**EPIC EHR - Inpatient Chart Review**  
+**Patient:** Kyla Kirlin  
+**MRN:** 00432921  
+**DOB:** 02/23/1992 (Age: 32)  
+**Sex:** Female  
+**Admit Date:** 05/18/2024  
+**Attending:** Dr. S. Patel  
+**Location:** MICU, Bed 5  
+**Admitting Dx:** Cardiogenic shock secondary to acute decompensated heart failure, likely postpartum cardiomyopathy  
+**Allergies:** NKDA  
+**Code Status:** Full Code  
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+Kyla Kirlin is a 32-year-old G4P1 female with a past medical history notable for prediabetes, anemia, several prior pregnancies (including one miscarriage, one blighted ovum), recent normal pregnancy, and remote viral sinusitis and bronchitis, who presented to the ED with progressively worsening SOB, orthopnea, and lower extremity edema 2 weeks postpartum. She was found to be hypotensive, tachycardic, and hypoxic on arrival. Initial workup showed evidence of acute decompensated heart failure with reduced LVEF (15% on TTE), lactic acidosis, and end-organ hypoperfusion. The patient rapidly deteriorated, requiring transfer to the MICU for escalating vasopressor support and was subsequently placed on a temporary left ventricular assist device (Impella CP) for refractory cardiogenic shock.
+
+---
+
+### ADMISSION VITALS (ED/ICU)
+
+| Date        | Temp (C) | HR  | BP        | RR  | SpO2   | O2 device  | Pain |
+|-------------|----------|-----|-----------|-----|--------|------------|------|
+| 5/18/24 19:23 | 37.5     | 132 | 82/53     | 28  | 90%    | 6L NC      | 7    |
+| 5/19/24 02:00 | 36.9     | 110 | 96/60     | 18  | 94%    | 4L NC      | 4    |
+| 5/20/24 06:15 | 36.7     | 98  | 112/70    | 16  | 98%    | RA         | 2    |
+
+---
+
+### LABS
+
+#### CBC & CHEMISTRIES
+
+| Date/Time     | WBC   | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu   | Ca    |
+|---------------|-------|-------|-------|-------|------|------|------|------|------|------|-------|-------|
+| 5/18/24 20:00 | 4.9   | 10.5  | 32.0  | 148   | 137  | 4.8  | 106  | 21   | 19   | 1.1  | 142   | 8.9   |
+| 5/19/24 06:00 | 7.8   | 11.2  | 34.6  | 259   | 136  | 4.8  | 107  | 24   | 16   | 0.9  | 100   | 9.4   |
+| 5/20/24 06:00 | 6.2   | 10.7  | 33.5  | 204   | --   | 4.2  | 104  | 23   | 17   | 1.2  | 97    | --    |
+| 5/21/24 05:59 | --    | 10.9  | 34.1  | 192   | 139  | 4.6  | 109  | --   | --   | 1.0  | 99    | 9.2   |
+| 5/22/24 06:20 | 5.5   | --    | 32.8  | 177   | 138  | --   | 107  | 23   | 15   | 0.8  | 92    | 9.0   |
+
+#### ADDITIONAL LABS
+
+- **NT-proBNP**: 14,200 pg/mL (5/18/24)
+- **Troponin I**: 0.08 ng/mL (5/18/24), 0.06 ng/mL (5/19/24)
+- **Lactate**: 4.2 mmol/L (5/18/24), 2.1 mmol/L (5/19/24)
+- **AST/ALT**: 55/62 U/L (5/18/24)
+- **Total bili**: 1.1 mg/dL (5/19/24)
+- **INR**: 1.2 (5/18/24)
+- **A1c**: 6.3% (outpatient, 04/2024)
+
+---
+
+### IMAGING
+
+- **TTE (5/18/24):** LVEF 15%, global hypokinesis, mild MR, RV normal, no pericardial effusion.
+- **CXR (5/18/24):** Pulmonary edema, mild cardiomegaly, no consolidation.
+- **CT chest (5/19/24):** No PE, pulmonary congestion.
+
+---
+
+### CONSULTS
+
+- **Cardiology:** Management of cardiogenic shock; recommended Impella placement.
+- **Cardiac Surgery:** Impella CP placed 5/19/24, bedside echo guidance. No complications.
+- **OB/Gyn:** Cleared for Impella and anticoagulation, postpartum status.
+- **Endocrine:** Recommendations re: prediabetes management deferred until stable.
+
+---
+
+### HOSPITAL COURSE BY DAY
+
+#### Day 1 (5/18/24)
+- ED presentation with acute SOB, orthopnea, LE edema.  
+- Rapid decompensation; hypotension, lactic acidosis.  
+- Started on norepinephrine, transferred to MICU.  
+- TTE: Severe global LV dysfunction.  
+- Intubated for hypoxic respiratory failure.
+
+#### Day 2 (5/19/24)
+- Persistent cardiogenic shock despite max pressors.  
+- Impella CP placed.  
+- Hemodynamics improved over next 12h.  
+- Lactate cleared, urine output improved.  
+- Weaned norepinephrine.
+
+#### Day 3 (5/20/24)
+- Extubated, mentating well.  
+- Impella flows stable, minimal hemolysis.  
+- Down-titrated vasopressors, diuresed 2L net negative.
+
+#### Day 4 (5/21/24)
+- Impella weaning protocol initiated; echo with improved LVEF (now 28%).  
+- Off pressors, transitioned to GDMT (metoprolol, sacubitril/valsartan, spironolactone).  
+- Mild AKI resolved.
+
+#### Day 5 (5/22/24)
+- Impella removed at bedside, hemostasis achieved.  
+- Ambulating in room, tolerating PO.  
+
+---
+
+### PROBLEM-BASED ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock / Acute Decompensated Heart Failure (Postpartum Cardiomyopathy)**
+   - **Assessment:** Rapid onset severe LV systolic dysfunction postpartum. Cardiogenic shock refractory to medical management, required temporary LVAD (Impella CP).
+   - **Plan:**
+     - Continue close monitoring in ICU.
+     - GDMT for HFrEF: start/uptitrate beta-blocker, ARNI, MRA.
+     - Daily TTE until stable; monitor for LV recovery.
+     - Monitor for arrhythmia, end-organ damage.
+     - Continue furosemide for euvolemia.
+     - Outpatient HF follow-up, cardiac rehab.
+
+**2. Impella Device (Temporary LVAD)**
+   - **Assessment:** Placed 5/19/24 for refractory shock, now successfully weaned.
+   - **Plan:**
+     - Daily device checks, anticoagulation per protocol.
+     - Monitor for hemolysis, infection, limb ischemia.
+     - Device removed 5/22/24, continue site checks.
+
+**3. Anemia**
+   - **Assessment:** Chronic mild anemia, Hgb nadir 10.5, no evidence of acute blood loss post-Impella.
+   - **Plan:**
+     - Monitor CBC.
+     - Iron studies as outpatient.
+     - No transfusion indicated.
+
+**4. Prediabetes**
+   - **Assessment:** A1c 6.3%. Hyperglycemia mild, stress-related.
+   - **Plan:**
+     - Monitor glucose.
+     - No insulin started; reassess after discharge.
+     - Endocrine to follow up outpatient.
+
+**5. Postpartum status**
+   - **Assessment:** Cleared by OB/Gyn for anticoagulation, no ongoing obstetric complications.
+   - **Plan:**
+     - Routine postpartum care.
+     - VTE prophylaxis until fully ambulatory.
+
+**6. Acute Kidney Injury (resolved)**
+   - **Assessment:** Creatinine peaked at 1.2, now improved.
+   - **Plan:**
+     - Monitor renal function.
+     - Avoid nephrotoxins.
+
+**7. Pain**
+   - **Assessment:** Mild-moderate, controlled with acetaminophen.
+   - **Plan:**
+     - PRN acetaminophen, avoid NSAIDs due to AKI.
+
+**8. Psychosocial**
+   - **Assessment:** High stress re: new diagnosis, postpartum, and ICU course.
+   - **Plan:**
+     - Social work and psych consult.
+     - Family involvement encouraged.
+
+---
+
+### ACTIVE MEDICATIONS
+
+| Medication Name                             | Dose/Route           | Indication                   |
+|---------------------------------------------|----------------------|------------------------------|
+| Metoprolol tartrate                        | 12.5 mg PO BID       | Heart failure                |
+| Sacubitril/valsartan                       | 24/26 mg PO BID      | Heart failure                |
+| Spironolactone                             | 25 mg PO QD          | Heart failure                |
+| Furosemide                                 | 40 mg IV BID         | Volume overload              |
+| Acetaminophen                              | 650 mg PO q6h PRN    | Pain                         |
+| Heparin                                    | 5000 units SQ q8h    | VTE prophylaxis (post-Impella)|
+| Multivitamin                               | PO daily             | Nutrition                    |
+
+---
+
+### DISPOSITION
+
+- Plan for transfer to telemetry, anticipate discharge home with close HF follow-up, cardiac rehab, and OB/Gyn follow-up.  
+- Patient/family counseled on diagnosis, device, and prognosis.  
+
+---
+
+**Attending:** S. Patel, MD  
+**Date/Time:** 5/22/2024 10:18  
+**Co-signed by:** ICU Team
+
+---

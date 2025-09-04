@@ -1,0 +1,136 @@
+```
+Patient Name: Man Herzog
+MRN: 00837451
+DOB: 01/31/1983 (Age: 41)
+Sex: Male
+Date of Admission: 06/04/2024
+Attending Physician: Dr. J. Feldman
+Admitting Diagnosis: Cardiogenic shock s/p drug overdose, acute decompensated heart failure, status post temporary left ventricular assist device (Impella CP) placement
+
+-------------------------------------------------------------------
+CHIEF COMPLAINT:
+Altered mental status, hypotension, and respiratory distress following suspected drug overdose.
+
+-------------------------------------------------------------------
+HISTORY OF PRESENT ILLNESS:
+41-year-old male with PMHx significant for seizure disorder (remote single seizure, likely situation-related), chronic migraine, chronic pain, perennial allergic rhinitis, impacted molars, and recent drug overdose, who presented to the ED after being found unresponsive at home. Per EMS, empty bottles of acetaminophen and diphenhydramine were found at the scene. On arrival, patient was hypotensive (BP 78/40), tachycardic (HR 122), tachypneic (RR 28), and saturating 91% on 4L NC. GCS 9 on arrival. Initial labs significant for elevated lactate, mild transaminitis, and acute kidney injury. EKG: sinus tachycardia, non-specific ST-T changes. Bedside echo: severe global hypokinesis, LVEF ~15%. Cardiology consulted; decision made to place temporary left-sided heart pump (Impella CP) for cardiogenic shock. Patient admitted to ICU for further management.
+
+-------------------------------------------------------------------
+PAST MEDICAL HISTORY:
+- Seizure disorder (single episode, situation-related, no AEDs)
+- Chronic intractable migraine (no aura)
+- Chronic pain (multifactorial, back and orofacial)
+- Perennial allergic rhinitis w/seasonal variation
+- Impacted molars
+- Drug overdose (acetaminophen/diphenhydramine, current admission)
+- Fracture of ankle (remote, s/p ORIF)
+- Acute bronchitis (remote)
+
+PAST SURGICAL HISTORY:
+- ORIF right ankle (2016)
+- Wisdom tooth extraction pending
+
+SOCIAL HISTORY:
+- Lives alone, limited support. Smokes ~1/2 PPD, denies EtOH. No IVDA.
+- Unemployed, previously worked as warehouse staff.
+- No recent travel, no sick contacts.
+
+FAMILY HISTORY:
+- Noncontributory (no CAD, SCD, arrhythmia, or epilepsy)
+
+ALLERGIES:
+- NKDA
+
+-------------------------------------------------------------------
+MEDICATIONS ON ADMISSION:
+- diphenhydramine 25mg PO PRN
+- epinephrine auto-injector 0.3mL (for allergy, not used)
+- acetaminophen 325mg PO PRN (multiple bottles found at scene)
+
+-------------------------------------------------------------------
+PHYSICAL EXAM (ICU Day 1, post-device):
+GEN: Intubated, sedated, on mechanical ventilation. Appears acutely ill.
+VS: T 36.2C, HR 110 (paced), BP 92/54 (on norepinephrine), RR 16 (vent), SpO2 97% (FiO2 50%)
+HEENT: Pupils 2mm, sluggish. Oropharynx clear. Impacted molars noted bilaterally.
+CV: Impella humming, S1/S2, no murmurs, JVP 12cm.
+RESP: Ventilated, coarse crackles B/L.
+ABD: Soft, NT, mild hepatomegaly.
+EXT: No edema, pulses 2+.
+NEURO: Sedated, localizes pain, no clonus, DTRs 2+.
+
+-------------------------------------------------------------------
+ICU EVENTS & HOSPITAL COURSE:
+- ICU Day 1: Impella CP placed via femoral access under fluoroscopy. Started on heparin infusion. Started on norepinephrine, vasopressin for shock. Intubated for airway protection.
+- ICU Day 2: Lactate improved, but persistent low-output. TTE: LVEF 18%. Mildly elevated troponin. Started on milrinone.
+- ICU Day 3: Weaned off vasopressin, norepinephrine decreased. Extubated to HFNC. Renal function improved with diuresis. Still Impella-dependent.
+- ICU Day 4: Impella weaned, device removed. LVEF improved to 30%. Started on low-dose carvedilol, lisinopril. Transitioned to step-down unit.
+
+-------------------------------------------------------------------
+LABORATORY DATA (selected, see full chart for details):
+
+| Date        | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | AST (U/L) | ALT (U/L) | Troponin (ng/mL) | Lactate (mmol/L) |
+|-------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|-----------|-----------|-------------------|------------------|
+| 6/04 08:00  | 16.2       | 11.8       | 34.7    | 142        | 132         | 5.2        | 100         | 22           | 38          | 2.3        | 119         | 144       | 137       | 0.18              | 6.2              |
+| 6/04 20:00  | 14.0       | 10.9       | 32.2    | 132        | 134         | 4.8        | 102         | 21           | 36          | 2.1        | 111         | 175       | 155       | 0.21              | 4.1              |
+| 6/05 08:00  | 10.3       | 10.5       | 31.5    | 128        | 136         | 4.4        | 104         | 23           | 30          | 1.7        | 98          | 120       | 98        | 0.11              | 2.5              |
+| 6/06 08:00  | 8.5        | 11.1       | 34.2    | 155        | 137         | 4.1        | 103         | 25           | 20          | 1.2        | 89          | 65        | 54        | 0.05              | 1.1              |
+| 6/07 08:00  | 7.9        | 12.2       | 36.0    | 162        | 139         | 3.9        | 103         | 26           | 19          | 1.1        | 92          | 35        | 40        | <0.01             | 0.7              |
+| 6/08 08:00  | 9.0        | 12.0       | 35.7    | 148        | 140         | 4.2        | 104         | 24           | 18          | 1.0        | *           | 30        | 33        | *                 | *                |
+
+* = not collected
+
+-------------------------------------------------------------------
+ASSESSMENT & PLAN (ICU Day 4)
+
+1. **Cardiogenic shock, s/p drug overdose, severe LV dysfunction, s/p temporary LVAD (Impella CP)**
+   - Likely myocardial stunning from toxic ingestion (diphenhydramine/acetaminophen)
+   - Shock resolved, LVEF improving, device weaned and removed
+   - Continue guideline-directed medical therapy (GDMT): start low-dose carvedilol, lisinopril
+   - Monitor for arrhythmia, repeat TTE in 48h
+   - Cardiology f/u
+
+2. **Acute kidney injury - improved**
+   - Likely pre-renal from low cardiac output
+   - Renal function improving, continue gentle diuresis, monitor UOP
+   - Hold nephrotoxins
+
+3. **Transaminitis**
+   - Likely ischemic hepatitis, acetaminophen toxicity component
+   - Downtrending, monitor LFTs
+   - Acetylcysteine completed x 72h
+
+4. **Respiratory failure, s/p intubation**
+   - Extubated to HFNC, O2 weaning
+   - IS, pulmonary hygiene, monitor for reintubation
+
+5. **Seizure disorder (remote, no AEDs)**
+   - No witnessed seizures this admission
+   - EEG monitoring off, neuro checks q4h
+
+6. **Chronic migraine, chronic pain**
+   - On scheduled acetaminophen, avoid NSAIDs due to AKI
+   - Gabapentin PRN, non-pharm modalities
+
+7. **Perennial allergic rhinitis**
+   - Continue home antihistamines, nasal steroids
+
+8. **Oral health: impacted molars**
+   - Dental consult pending, pain controlled
+
+9. **Social/psychosocial**
+   - Psychiatry consult for overdose, safety assessment
+   - Social work for discharge planning, home support
+
+10. **VTE prophylaxis**
+    - SCDs, heparin SQ (post-device removal)
+
+-------------------------------------------------------------------
+DISPOSITION:
+- Step-down unit, cardiac monitoring
+- Anticipate transfer to medicine floor in 2-3 days if stable
+
+-------------------------------------------------------------------
+ATTENDING ATTESTATION:
+I have personally examined the patient, reviewed the data, and discussed the plan with the ICU team.
+```
+--- END OF NOTE (4 pages) ---

@@ -1,0 +1,173 @@
+**INPATIENT PROGRESS NOTE**  
+**Patient Name:** Abernathy, Misha  
+**MRN:** 00719284  
+**DOB:** 08/04/1996 (27 y/o F)  
+**Date of Admission:** 04/17/2024  
+**Date of Service:** 04/21/2024  
+**Attending:** Dr. Patel  
+**Consults:** Cardiology, CT Surgery, Infectious Disease, Pulmonary  
+
+---
+
+### CHIEF COMPLAINT  
+Progressive dyspnea, orthopnea, and chest pressure  
+
+---
+
+### HISTORY OF PRESENT ILLNESS  
+Misha Abernathy is a 27-year-old female with a history of early-onset coronary heart disease (onset age 24), hyperlipidemia, and recent URI symptoms, who presented to the ED with 2 weeks of progressive exertional dyspnea, orthopnea, and intermittent chest discomfort. She reported a viral prodrome with cough, rhinorrhea, and sore throat 3 weeks prior, partially improved, but subsequently developed worsening fatigue, lower extremity edema, and shortness of breath at rest. Denied fever, hemoptysis, or syncope.
+
+On arrival: tachypneic, hypoxic (SaO2 88% RA), tachycardic, BP 92/56 mmHg. CXR: pulmonary vascular congestion, mild interstitial edema. Troponin I 4.2 ng/mL, BNP 1450 pg/mL. ECG: sinus tach, nonspecific ST-T changes. Echo: LVEF 15%, global hypokinesis, moderate MR, no tamponade. Emergent right heart cath: elevated PCWP, low CI (1.6), elevated SVR.
+
+Transferred to CCU, started on dobutamine and nitroglycerin. Continued to deteriorate with progressive hypotension and rising lactate (peak 5.7 mmol/L), so Impella CP device placed for temporary circulatory support.
+
+---
+
+### PAST MEDICAL HISTORY  
+- Coronary Heart Disease (multiple non-calcified plaques, no prior MI)  
+- Viral myocarditis (current admission)  
+- Acute bronchitis, viral sinusitis, pharyngitis (multiple prior episodes)  
+- Laceration of forearm (remote, healed)  
+- Normal pregnancy (G1P1, 2020)  
+- Streptococcal sore throat (age 15)  
+
+### PAST SURGICAL HISTORY  
+- None
+
+### FAMILY HISTORY  
+- Father: MI at 49, HTN, hyperlipidemia  
+- Mother: hypothyroidism  
+- No early sudden cardiac death, no known inherited arrhythmia syndromes
+
+### SOCIAL HISTORY  
+- Non-smoker, rare alcohol, no recreational drugs  
+- Lives with partner and 3-year-old son  
+- Works as a pharmacist  
+
+### ALLERGIES  
+- NKDA
+
+---
+
+### MEDICATIONS PRIOR TO ADMISSION  
+- Clopidogrel 75mg PO daily  
+- Simvastatin 20mg PO daily  
+- Amlodipine 5mg PO daily  
+- Nitroglycerin 0.4mg Mucosal Spray PRN  
+- Acetaminophen 325mg PO PRN  
+- Naproxen sodium 220mg PO PRN  
+- Dextromethorphan/acetaminophen/doxylamine syrup PRN  
+- Penicillin V potassium 250mg PO (recently completed 10d course)  
+- Natazia 28 Day Pack (OCP)  
+- Trinessa 28 Day Pack (OCP, previously)  
+
+---
+
+## ICU HOSPITAL COURSE  
+| Date       | Day | Events/Interventions                                      |
+|------------|-----|----------------------------------------------------------|
+| 4/17/24    | 0   | Admit ICU, inotropes started, noninvasive O2             |
+| 4/18/24    | 1   | Increased O2 need, started IV diuresis, cardiac markers trending up |
+| 4/19/24    | 2   | Cardiogenic shock, Impella CP placed, started heparin drip |
+| 4/20/24    | 3   | Weaned off dobutamine, improved perfusion, extubated     |
+| 4/21/24    | 4   | Impella weaning trial, stable, transferred to stepdown   |
+
+---
+
+## VITAL SIGNS (Selected)  
+| Date/Time    | Temp (C) | HR  | BP         | RR | SpO2 (%) | Pain |
+|--------------|----------|-----|------------|----|----------|------|
+| 4/17 08:00   | 37.1     | 121 | 92/56      | 26 | 88       | 2    |
+| 4/18 08:00   | 37.0     | 114 | 100/60     | 20 | 92       | 1    |
+| 4/19 06:00   | 36.9     | 128 | 82/54      | 28 | 89       | 3    |
+| 4/19 12:00   | 37.2     | 110 | 105/68     | 18 | 95       | 0    |
+| 4/20 07:00   | 36.7     | 98  | 122/72     | 16 | 98       | 1    |
+
+---
+
+## LABS  
+**CBC, Chem7, Cardiac Markers, LFTs, Coags**  
+*(some entries intentionally missing)*
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na  | K   | Cl  | HCO3 | BUN | Cr  | Troponin I | BNP  | AST | ALT | INR |
+|------------|------|------|------|------|-----|-----|-----|------|-----|-----|------------|------|-----|-----|-----|
+| 4/17 07:00 | 7.3  | 16.3 | 41.6 | 291  | 137 | 3.8 | 102 | 23   | 19  | 1.0 | 4.2        | 1450 | 41  | 38  | 1.2 |
+| 4/18 06:30 | 9.1  | 15.7 | 39.8 | 265  | 134 | 3.4 | 98  | 19   | 26  | 1.2 | 5.8        | 2130 | 58  | 47  | 1.4 |
+| 4/19 05:45 | 11.6 | 14.9 | 37.2 | 182  | 131 | 2.9 | 96  | 17   | 34  | 1.7 | 8.7        | 2790 | 92  | 68  | 1.8 |
+| 4/20 08:15 | 8.7  | 15.5 | 40.0 |      | 136 | 3.7 | 101 | 24   | 18  | 1.1 | 2.1        | 950  | 48  | 45  | 1.3 |
+| 4/21 07:10 |      | 16.1 |      | 240  | 138 | 4.1 | 104 | 25   | 16  | 0.9 | <0.01      | 580  | 40  |     | 1.1 |
+
+---
+
+## PERTINENT IMAGING  
+- **CXR (4/17/24):** Interstitial edema, mild pulmonary vascular congestion, no focal infiltrate.
+- **TTE (4/17/24):** Severely reduced LVEF (15%), global hypokinesis, moderate MR, RV normal.
+- **TTE (4/20/24):** LVEF improved to 28%, less MR, Impella visualized.
+
+---
+
+## ASSESSMENT & PLAN
+
+### 1. **Cardiogenic Shock, likely viral myocarditis on top of CHD**
+   - Admitted with acute decompensated heart failure, low-output shock.
+   - Required inotropes and subsequently percutaneous LV assist device (Impella CP).
+   - Now improving: off inotropes, Impella weaning, LVEF improving.
+   - **Plan:**  
+     - Continue Impella wean, monitor for hemolysis/limb ischemia  
+     - Strict I/Os, daily weights  
+     - Goal-directed medical therapy for HF (ACEi/BB to be started if stable)  
+     - Cardiac MRI after device removal for myocarditis assessment  
+     - Telemetry for arrhythmias  
+     - Consider cardiac biopsy if no further improvement
+
+### 2. **Acute Kidney Injury, likely cardiorenal**
+   - Uptrending creatinine, improved with volume management and improved perfusion
+   - **Plan:**  
+     - Monitor UOP, renal panel q12h  
+     - Avoid nephrotoxins  
+     - Renal consult if worsening
+
+### 3. **Transaminitis**
+   - Likely ischemic hepatitis from low-output state, improving
+   - **Plan:**  
+     - Monitor LFTs  
+     - Hold statin for now  
+     - Avoid hepatotoxins
+
+### 4. **History of CAD, hyperlipidemia**
+   - Likely exacerbated by myocarditis; no acute MI on imaging
+   - **Plan:**  
+     - Resume statin once LFTs normalize  
+     - Continue clopidogrel  
+     - Cardiac rehab referral
+
+### 5. **Recent upper respiratory infection**
+   - Viral prodrome, some concern for secondary bacterial infection
+   - **Plan:**  
+     - Respiratory viral PCR sent, negative for influenza/RSV/COVID  
+     - No antibiotics unless new evidence of infection
+
+### 6. **Gynecologic/OCP management**
+   - OCPs held during acute illness; risk of thromboembolism with immobility
+   - **Plan:**  
+     - Discuss long-term contraception at follow-up  
+     - DVT prophylaxis with heparin
+
+### 7. **Other**
+   - Pain: mild, managed with acetaminophen  
+   - Nutrition: NPO for first 24h, then cardiac diet  
+   - Physical therapy: consult placed for early mobilization  
+   - Psychosocial: SW and psych consult for coping, anxiety
+
+---
+
+## DISPOSITION  
+- Anticipate transfer to stepdown, then home with close follow-up in heart failure clinic.
+- Will require close outpatient cardiac monitoring, repeat TTE, and consideration for ICD if EF remains <35%.
+
+---
+
+**Physician:** Patel, MD  
+**Date/Time:** 04/21/2024 09:15
+
+---

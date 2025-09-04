@@ -1,0 +1,239 @@
+```
+Patient Name: Kent Ruecker
+MRN: 001703492
+DOB: 10/05/1960   Sex: M
+Admit Date: 03/18/2024
+Attending: Dr. S. Conrad
+Service: Medical ICU
+Room: 5-321B
+Type: Inpatient
+Consults: Cardiology, GI, Infectious Disease
+
+CHIEF COMPLAINT:
+Acute dyspnea, chest pain, hypotension.
+
+HISTORY OF PRESENT ILLNESS:
+Kent Ruecker is a 63-year-old male with a history of hypertension, obesity, chronic sinusitis, prediabetes, anemia, recurrent colon polyps, and prior colon cancer on chemotherapy (oxaliplatin, leucovorin) who presented to the ED with 2 days of worsening shortness of breath, pleuritic chest pain, and acute fatigue. At home, he developed orthopnea and paroxysmal nocturnal dyspnea. No recent fever, but noted dry cough and palpitations.
+
+In the ED, he was found to be hypotensive (BP 82/54), tachycardic (HR 121), hypoxic (SpO2 88% RA), and in respiratory distress. Exam notable for JVD, rales, new S3, and cool extremities. He was admitted to ICU for cardiogenic shock. Initial TTE showed severe global LV systolic dysfunction (EF 20%), mild RV dysfunction, and no pericardial effusion. Troponin I was elevated (see labs). He rapidly developed worsening end-organ dysfunction (AKI, transaminitis, elevated lactate), requiring norepinephrine and dobutamine. Cardiology was consulted, and a left-sided temporary percutaneous LVAD (Impella CP) was placed at bedside for circulatory support.
+
+PAST MEDICAL HISTORY:
+- Hypertension
+- Obesity (BMI prior to admission 30.2)
+- Chronic sinusitis
+- Prediabetes
+- Anemia (baseline Hgb 9-10)
+- Recurrent colon polyp, history of malignant colon tumor (status post resection, on chemotherapy)
+- Acute bronchitis (resolved)
+
+PAST SURGICAL HISTORY:
+- Colon resection (2023)
+- Polypectomies (multiple)
+- No CABG/PCI
+
+FAMILY HISTORY:
+- Father: MI age 71, DM2
+- Mother: Colon cancer, HTN
+
+SOCIAL HISTORY:
+- Former tobacco use (quit 2008), no EtOH, no illicit drugs.
+- Lives with spouse, retired accountant.
+
+ALLERGIES:
+- NKDA
+
+MEDICATIONS ON ADMISSION:
+- Hydrochlorothiazide 25 mg daily
+- Acetaminophen 325 mg PRN
+- Leucovorin 100 mg IV
+- Oxaliplatin 50 mg IV q2wks
+
+HOSPITAL COURSE SUMMARY:
+03/18/24: Admitted to ICU, intubated for hypoxic respiratory failure. Started on norepi/dobutamine for shock. Echo: new severe LV dysfunction. Labs: troponin I 3.2 ng/mL, lactate 6.1. Cardiology: Impella CP placed via R femoral artery.
+03/19-03/22: Remained dependent on Impella and vasopressors. Renal function worsened (Cr up to 2.3). Required CRRT x2 days for volume overload. Developed mild transaminitis (AST 121, ALT 89). Anemia worsened; transfused 2U PRBC. Blood cultures negative.
+03/23: Gradual improvement in cardiac index, vasopressors weaned. Echo: LVEF improved to 35%. Impella CP removed 03/24.
+03/24-03/26: Continued improvement, extubated 03/25. Diuresed, transitioned to oral antihypertensives. Chemotherapy held. No new arrhythmias.
+03/27: Transferred to stepdown. Awaiting further oncologic management.
+
+VITAL SIGNS (Selected):
+| Date       | T (°C) | HR   | BP         | RR | SpO2 | Weight (kg) |
+|------------|--------|------|------------|----|------|-------------|
+| 03/18/24   | 36.9   | 121  | 82/54      | 28 | 88%  | 73.1        |
+| 03/19/24   | 37.2   | 109  | 92/58      | 22 | 96%  | 72.8        |
+| 03/21/24   | 37.0   | 98   | 110/62     | 18 | 99%  | 71.9        |
+| 03/25/24   | 36.7   | 84   | 126/70     | 16 | 98%  | 71.0        |
+
+LABS (CBC, Chem7, Cardiac Markers, LFTs, Coags, Lipids, others as indicated):
+
+CBC
+| Date     | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Neut% | Lymph% | RDW   |
+|----------|------------|------------|---------|------------|-------|--------|-------|
+| 3/18/24  | 8.1        | 8.0        | 24.1    | 384        | 70    | 19     | 14.3  |
+| 3/19/24  | 7.8        | 7.3        | 21.5    | 377        | 69    | 20     | 14.8  |
+| 3/20/24  | 7.2        | 8.7        | 26.2    | 341        | 68    | 21     | 15.1  |
+| 3/21/24  | 6.5        | 10.1       | 29.8    | 322        | 72    | 19     | 14.4  |
+| 3/23/24  | 7.0        | 9.7        | 28.6    | 289        | —     | —      | —     |
+
+CHEM 7
+| Date     | Na | K  | Cl | CO2 | BUN | Cr  | Glu  |
+|----------|----|----|----|-----|-----|-----|------|
+| 3/18/24  |141 |4.5 |109 | 25  | 10  |1.06 | 84   |
+| 3/19/24  |139 |4.7 |110 | 22  | 18  |1.59 | 92   |
+| 3/20/24  |138 |5.1 |108 | 20  | 26  |2.12 | 101  |
+| 3/21/24  |138 |4.9 |109 | 21  | 31  |2.33 | 99   |
+| 3/22/24  |140 |4.3 |106 | 25  | 22  |1.61 | 97   |
+| 3/24/24  |142 |4.2 |108 | 27  | 16  |1.27 | 89   |
+
+LFTs
+| Date     | AST | ALT | AlkPhos | Tbili | Alb  |
+|----------|-----|-----|---------|-------|------|
+| 3/18/24  | 51  | 47  | 113     | 0.8   | 3.8  |
+| 3/19/24  | 121 | 89  | 119     | 1.1   | 3.5  |
+| 3/20/24  | 98  | 61  | 132     | 1.4   | 3.2  |
+| 3/22/24  | 72  | 55  | 120     | 0.9   | 3.7  |
+| 3/24/24  | 40  | 38  | 112     | 0.7   | 4.1  |
+
+CARDIAC MARKERS
+| Date     | Troponin I (ng/mL) | BNP (pg/mL) | CK-MB (ng/mL) |
+|----------|--------------------|-------------|---------------|
+| 3/18/24  | 3.2                | 2,137       | 16            |
+| 3/19/24  | 2.7                | 1,998       | 12            |
+| 3/20/24  | 1.1                | 1,540       | 7             |
+| 3/22/24  | 0.6                | 1,148       | —             |
+
+COAGULATION
+| Date     | PT  | INR | PTT  | Fibrinogen |
+|----------|-----|-----|------|------------|
+| 3/18/24  | 17  | 1.5 | 32   | 398        |
+| 3/19/24  | 15  | 1.3 | 29   | 410        |
+| 3/21/24  | —   | —   | —    | —          |
+| 3/23/24  | 14  | 1.2 | 28   | 377        |
+
+OTHER LABS (selected):
+| Date     | Lactate (mmol/L) | Mg (mg/dL) | Phos (mg/dL) | HbA1c (%) | GFR (mL/min) |
+|----------|------------------|------------|--------------|-----------|--------------|
+| 3/18/24  | 6.1              | 2.1        | 3.5          | 6.2       | 51           |
+| 3/20/24  | 3.8              | 1.9        | 2.7          | —         | 29           |
+| 3/24/24  | 1.4              | 2.0        | 2.9          | —         | 44           |
+
+PROBLEM-BASED ASSESSMENT & PLAN
+
+1. **Cardiogenic Shock, Severe LV Dysfunction (EF 20%), Acute Decompensated Heart Failure**
+   - Presentation: Hypotension, hypoxia, end-organ hypoperfusion, high troponin, severe LV dysfunction.
+   - Etiology: Likely multifactorial: chemotherapy-induced cardiotoxicity (oxaliplatin), hypertensive heart disease, ischemic insult (no clear MI).
+   - Management:
+     - Impella CP placed for temporary LV support, weaned off on 3/24/24.
+     - Vasopressors/inotropes (norepinephrine, dobutamine), now discontinued.
+     - Diuresis (IV furosemide).
+     - Serial Echos: improving LVEF.
+     - Cardiology f/u for long-term management, consider GDMT for HF.
+     - Monitor for arrhythmias.
+
+2. **Acute Kidney Injury (AKI) on CKD**
+   - Likely secondary to low cardiac output and hypotension.
+   - Required CRRT x2d for volume overload, now off.
+   - Renal function improving, creatinine trending down.
+   - Monitor UOP, lytes, avoid nephrotoxins.
+
+3. **Anemia, Chronic and Acute on Chronic**
+   - Baseline Hgb 9-10, dropped to 7.3 during shock.
+   - Transfused 2U PRBC; no overt GI bleeding.
+   - Hemolysis w/u negative. Likely multifactorial (hemodilution, chronic disease, chemo).
+   - Monitor CBC, iron studies pending.
+
+4. **Malignant Colon Tumor, s/p Resection, On Chemo**
+   - Chemotherapy (oxaliplatin, leucovorin) held during ICU stay.
+   - No evidence of GI bleeding.
+   - Oncology to reassess prior to discharge.
+
+5. **Obesity, Hypertension, Prediabetes**
+   - Meds held during shock, now restarted as tolerated.
+   - Encourage salt/fluid restriction, monitor glycemic control.
+   - Will need outpatient f/u for weight, BP, DM screening.
+
+6. **Transaminitis**
+   - Mild-moderate, peaked with shock/liver hypoperfusion.
+   - Trending down as perfusion improves.
+
+7. **Other (Sinusitis, Hx bronchitis, Polyps)**
+   - No active infection.
+   - No current respiratory symptoms post-extubation.
+
+DISPOSITION:
+- Transfer to stepdown, anticipate discharge home with close cardiology and oncology f/u.
+- Cardiac rehab referral.
+- Outpatient echo and labs in 1-2 weeks.
+
+PHYSICIAN ATTESTATION:
+I personally evaluated this patient, reviewed all data, and performed all procedures as documented above.
+
+— S. Conrad, MD, Attending Physician
+
+--- PAGE 2 ---
+
+**PROGRESS NOTE, 3/20/24**
+
+SUBJECTIVE:
+Patient sedated, mechanically ventilated. Vitals stable on Impella support. No new bleeding or fevers. Spouse at bedside.
+
+OBJECTIVE:
+- Vitals: T 37.0, HR 98, BP 110/62, SpO2 99% (FiO2 40%)
+- Exam: Intubated, sedated. JVP 8cm. Lungs clear. Exts cool but improving.
+- UOP: 0.7 cc/kg/hr
+- Labs: Hgb 8.7, Cr 2.12, K 5.1, AST 98, ALT 61, Troponin 1.1, BNP 1,540
+- CXR: mild vascular congestion, no infiltrate.
+- Echo: LVEF 28%, Impella flows 3.6 L/min.
+
+ASSESSMENT/PLAN:
+1. Cardiogenic shock: On Impella, stable. Continue close monitoring. Wean pressors as tolerated.
+2. AKI: Continue CRRT, monitor lytes.
+3. Anemia: Hgb stable post-transfusion.
+4. Colon cancer: Chemo on hold.
+5. Nutrition: Enteral feeds at goal.
+
+--- PAGE 3 ---
+
+**PROGRESS NOTE, 3/23/24**
+
+SUBJECTIVE:
+Awake, following commands, extubated overnight. Reports mild chest discomfort, no SOB.
+
+OBJECTIVE:
+- Vitals: T 36.8, HR 92, BP 116/62, SpO2 98% RA
+- Exam: Mild pedal edema. Lungs clear. Cardiac: S3 present, no new murmurs.
+- Labs: Hgb 9.7, Cr 1.61, Na 140, BNP 1,148, Troponin 0.6
+- CXR: improved vascular congestion.
+- Echo: LVEF 35%, Impella at P2, plan for removal tomorrow.
+
+ASSESSMENT/PLAN:
+1. HF: Improving, consider transition to oral HF meds (BB, ACEi).
+2. Renal: Off CRRT, monitor for diuresis.
+3. Anemia: Stable, no further transfusion.
+4. Dispo: Likely ready for stepdown in 24-48hr.
+
+--- PAGE 4 ---
+
+**DISCHARGE SUMMARY (Anticipated)**
+
+Kent Ruecker is a 63-year-old man admitted with acute decompensated heart failure and cardiogenic shock, requiring temporary LVAD support (Impella CP). Hospitalization complicated by AKI (requiring CRRT), anemia (transfused), and mild hepatic dysfunction. He improved with circulatory support and is being transferred to stepdown in stable condition.
+
+DISCHARGE MEDS:
+- Metoprolol succinate 25 mg daily
+- Lisinopril 5 mg daily
+- Furosemide 40 mg daily
+- Hydrochlorothiazide 25 mg daily
+- Acetaminophen 325 mg PRN
+- Hold chemotherapy pending oncology f/u
+
+FOLLOW-UP:
+- Cardiology (1 wk)
+- Oncology (2 wks)
+- Primary Care (2 wks)
+- Cardiac rehab referral
+
+Patient and family educated on diet, fluid restriction, medication adherence, and signs of decompensation.
+
+Attending: S. Conrad, MD
+
+--- END OF NOTE ---
+```

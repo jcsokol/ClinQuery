@@ -1,0 +1,207 @@
+**EPIC EHR - Daily Progress Note**
+
+---
+**Patient Name:** Cameron Hamill  
+**MRN:** 002145379  
+**DOB:** 12/04/1959 (64 years)  
+**Sex:** Male  
+**Date of Admission:** 05/04/2024  
+**Date/Time of Note:** 05/08/2024 07:16  
+**Attending:** Dr. M. Fischer  
+**Primary Team:** Cardiology ICU  
+**Consults:** Endocrinology, Nephrology, GI, Infectious Disease
+
+---
+
+### CHIEF COMPLAINT:
+Worsening dyspnea, orthopnea, and lower extremity edema.
+
+### HISTORY OF PRESENT ILLNESS:
+Cameron Hamill is a 64-year-old male with a history of hypertension, type 2 diabetes mellitus (on metformin), metabolic syndrome, hypertriglyceridemia, anemia, and nonproliferative diabetic retinopathy, who presented to the ED with a 1-week history of progressive shortness of breath, orthopnea, PND, and bilateral leg swelling. He also reported fatigue, poor oral intake, and mild chest pressure without exertional component.
+
+In the ED, he was found to be tachypneic and hypoxic (O2 sat 86% RA), BP 98/62, HR 119, with JVD and S3 on exam. CXR showed pulmonary edema. Troponin mildly elevated. Echo revealed LVEF 15%, global hypokinesis, moderate MR, and RV dysfunction. He was transferred to the CICU for management of acute decompensated heart failure, likely cardiogenic shock.
+
+Despite initial IV diuresis, dobutamine and vasopressors, the patient remained hypotensive and oliguric. Cardiothoracic surgery consulted and patient underwent percutaneous placement of a left-sided Impella CP device on hospital day 2 for temporary mechanical circulatory support.
+
+Subsequent course complicated by AKI (creatinine up to 2.1), transient lactic acidosis, anemia requiring transfusion, and an episode of paroxysmal atrial fibrillation with RVR. Device was weaned/removed on HD5 after cardiac output improved and end organ perfusion recovered.
+
+---
+
+### PAST MEDICAL HISTORY:
+- Hypertension
+- Type 2 Diabetes Mellitus (poorly controlled)
+- Hypertriglyceridemia
+- Metabolic syndrome
+- Anemia (chronic, multifactorial)
+- Nonproliferative diabetic retinopathy
+- Polyp of colon (removed 2023)
+- OSA (not on CPAP)
+- GERD
+- Recurrent viral pharyngitis/sinusitis
+
+### PAST SURGICAL HISTORY:
+- Colon polyp removal (2023)
+- Appendectomy (1979)
+
+### ALLERGIES:
+- NKDA
+
+### MEDICATIONS ON ADMISSION:
+- Hydrochlorothiazide 25 mg daily
+- Metformin ER 500 mg BID
+- Atorvastatin 40 mg nightly
+- Lisinopril 20 mg daily (held on admission)
+- Aspirin 81 mg daily
+- Multivitamin, OTC
+
+---
+
+### VITALS (selected):
+| Date        | Temp (C) | HR  | BP        | RR | SpO2 | Weight (kg) | Pain |
+|-------------|----------|-----|-----------|----|------|-------------|------|
+| 5/4 08:00   | 37.9     | 119 | 98/62     | 24 | 86%  | 83.1        | 2    |
+| 5/4 18:00   | 38.1     | 113 | 95/60     | 22 | 91%  | 83.0        | 2    |
+| 5/5 06:00   | 37.6     | 110 | 102/65    | 20 | 97%  | 82.6        | 2    |
+| 5/6 07:00   | 37.2     | 89  | 115/70    | 18 | 97%  | 81.5        | 1    |
+| 5/7 07:00   | 36.9     | 82  | 122/76    | 18 | 98%  | 80.8        | 1    |
+
+---
+
+### LABS:
+
+#### CBC / CHEM7 (selected)
+
+| Date       | WBC  | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|------|-------|-------|-------|------|------|------|------|------|------|------|
+| 5/4 AM     | 10.4 | 16.3  | 39.4  | 270   | 137  | 5.1  | 101  | 20   | 14   | 1.03 | 65   |
+| 5/5 AM     | 9.6  | 13.2  | 32.1  | 225   | 136  | 5.5  | 99   | 18   | 22   | 1.54 | 92   |
+| 5/6 AM     | 8.8  | 10.7  | 28.0  | 210   | 134  | 5.0  | 97   | 15   | 34   | 2.11 | 106  |
+| 5/7 AM     | 9.2  | 11.9  | 31.5  | 245   | 136  | 4.7  | 99   | 20   | 27   | 1.65 | 101  |
+| 5/8 AM     | 8.7  | 12.3  | 33.0  | 258   | 137  | 4.3  | 100  | 22   | 18   | 1.12 | 94   |
+| 5/8 PM     |      | 12.1  |       | 265   | 138  |      |      |      |      |      |      |
+
+#### ADDITIONAL LABS:
+
+- Troponin I: 0.18 → 0.23 → 0.19 (w/ improvement)
+- BNP: 2875 pg/mL (admission), 1640 pg/mL (5/8)
+- Lactic acid: 4.1 (admission), 1.8 (5/7)
+- AST/ALT: 42/38 (mildly elevated, improved)
+- Albumin: 3.1 g/dL (low)
+- INR: 1.2
+- A1c (on file): 8.2% (last month)
+- Microalbumin/Cr: 9.3 mg/g (baseline)
+
+---
+
+### IMAGING:
+- CXR (5/4): Pulmonary edema, cardiomegaly
+- Echo (5/4): LVEF 15%, global hypokinesis, mod MR, mild RV dysfunction
+- Renal US: No obstruction, normal size
+
+---
+
+### PROCEDURES:
+- 5/5/2024: Percutaneous placement of Impella CP, left femoral artery access
+- 5/7/2024: Impella CP removed after hemodynamic stabilization
+
+---
+
+## ASSESSMENT & PLAN (Problem-based)
+
+### 1. Cardiogenic Shock, Decompensated HFrEF (LVEF 15%)
+- Etiology: Likely ischemic, chronic HTN/DM, possible viral insult
+- Course: Required temporary mechanical support (Impella CP) x 48h
+- Now stable off vasopressors/inotropes, euvolemic
+- **Plan**:
+    - Continue guideline-directed HF therapy (beta-blocker, ACEi, spironolactone titration as tolerated)
+    - Daily weights, strict I/O, sodium restriction
+    - Cardiac rehab consult
+    - Monitor for arrhythmia, recurrent shock
+
+### 2. Acute Kidney Injury (prerenal, multifactorial)
+- Peak Cr 2.11, now improving (1.12)
+- Likely due to low CO, diuretic use, contrast
+- **Plan**:
+    - Monitor renal function, avoid nephrotoxins
+    - Renal dosing of all meds
+    - Nephrology following
+
+### 3. Anemia (chronic + acute on CKD)
+- Hgb dropped to 10.7, transfused 1U PRBC
+- No overt GI bleeding; stool hemoccult positive (baseline)
+- **Plan**:
+    - Monitor H/H
+    - Iron studies, B12, folate pending
+    - GI following for colon polyp hx
+
+### 4. Diabetes Mellitus (Type 2), poorly controlled
+- Admission A1c 8.2%, now on sliding scale insulin
+- Metformin held during AKI, now resumed
+- **Plan**:
+    - Continue metformin, resume statin
+    - Endocrinology to follow
+    - Reinforce DM education
+
+### 5. Secondary Hypertriglyceridemia / Metabolic Syndrome
+- Triglycerides 124 (improved on statin)
+- **Plan**:
+    - Continue statin, consider fenofibrate if TG ↑
+    - Dietician consult
+
+### 6. Paroxysmal Atrial Fibrillation (new onset, s/p conversion)
+- Occurred during ICU course, self-limited
+- **Plan**:
+    - Monitor telemetry, maintain K/Mg
+    - Consider anticoagulation if recurs
+
+### 7. Diabetic Retinopathy (nonproliferative)
+- Stable, no acute changes
+- **Plan**:
+    - Ophtho outpatient f/u
+
+### 8. OSA, Not on CPAP
+- **Plan**:
+    - Sleep study outpatient, consider inpatient trial if tolerated
+
+### 9. Colon polyp (hx)
+- Removed 2023, no recurrence
+- **Plan**:
+    - Routine surveillance
+
+### 10. Miscellaneous
+- GERD: on PPI
+- Viral pharyngitis/sinusitis: supportive, resolved
+- DVT prophylaxis: SCDs, LMWH
+
+---
+
+### DISPOSITION:
+- Anticipate transfer to telemetry floor in 24h
+- Close monitoring for recurrent decompensation
+- Cardiac rehab, dietician, endocrinology, nephrology, GI, and social work to follow
+
+---
+
+### SIGNED:
+Michael Fischer, MD  
+Attending, Cardiology ICU
+
+---
+
+**(END OF NOTE)**
+
+---
+
+**Additional Labs/Results (for reference):**
+| Date       | AST  | ALT  | INR | Albumin | Troponin I | BNP   | Lactate |
+|------------|------|------|-----|---------|------------|-------|---------|
+| 5/4 AM     | 42   | 38   | 1.2 | 3.1     | 0.18       | 2875  | 4.1     |
+| 5/5 AM     | 38   | 36   |     | 3.0     | 0.23       |       | 2.8     |
+| 5/6 AM     |      |      |     | 3.0     | 0.19       |       | 1.8     |
+| 5/7 AM     | 35   | 34   |     | 3.2     |            | 1640  | 1.3     |
+
+---
+
+**Physician's Comments:**  
+Patient tolerated Impella removal well. Will need careful outpatient follow-up for advanced HF, DM, and CKD. Awaiting results of iron studies, will update plan as indicated. Family updated.  
+

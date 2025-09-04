@@ -1,0 +1,216 @@
+---
+**Patient Name:** Ranae Berge  
+**MRN:** 001284596  
+**DOB:** 05/19/1992  
+**Sex:** Female  
+**Attending:** Dr. Jonathan Krieger  
+**Admit Date:** 05/02/2024  
+**Note Date:** 05/09/2024  
+**Location:** MICU, 3rd Floor  
+**FIN:** 0098234  
+**Consults:** Cardiology, Infectious Disease, OB/GYN
+
+---
+
+**Chief Complaint:**  
+Acute onset dyspnea, orthopnea, and chest pain. Worsening lower extremity edema.  
+
+---
+
+**HPI:**  
+29yo F with hx of chronic sinusitis, recurrent UTI, recent viral pharyngitis, and prior normal pregnancies, presented from home with 3 days of progressive SOB, orthopnea, and substernal chest pain. On day of admission, patient had syncope at home, EMS called. In ED, noted to be hypotensive (SBP 82), tachycardic (HR 128), with O2 sat 91% RA. CXR: bilateral pulmonary edema. ECG: sinus tachycardia, nonspecific ST-T changes. Troponin elevated. Echo: LVEF 10-15%, global hypokinesis. Emergent transfer to MICU.  
+
+On hospital day 1, patient developed worsening shock (MAP < 60 despite pressors), and decision made to place a temporary percutaneous LVAD (Impella CP) for cardiogenic shock.  
+
+PMHx:  
+- Chronic sinusitis  
+- Recurrent E. coli UTI  
+- Viral pharyngitis (multiple)  
+- 2 prior normal pregnancies  
+- Remote wrist sprain  
+
+PSurgHx: Mirena IUD placement, etonogestrel implant  
+Allergies: NKDA  
+SHx: No tobacco, EtOH socially, no illicit drugs. Lives with partner and 2 children, works as teacher.  
+FHx: Mother with CHF age 58, father with DM2  
+
+---
+
+**Medications on Admission:**  
+- Trinessa 28 Day Pack  
+- Nitrofurantoin 5mg/mL  
+- Phenazopyridine 100mg  
+- Ibuprofen 200mg  
+- Mirena IUD  
+- Camila 28 Day Pack  
+- Medroxyprogesterone acetate 150mg/mL  
+- Etonogestrel implant  
+- Natazia 28 Day Pack
+
+**Hospital Medications:**  
+- Furosemide IV  
+- Milrinone infusion  
+- Norepinephrine infusion  
+- Heparin IV (for pump)  
+- Ceftriaxone IV (empiric)  
+- Metoprolol held  
+- Pantoprazole IV  
+- DVT prophylaxis  
+- IVF as needed  
+- O2 via NC, later BiPAP  
+
+---
+
+**Physical Exam (05/09/2024):**  
+Gen: Appears tired, oriented, mild respiratory distress  
+HEENT: Oropharynx clear, mild nasal congestion  
+Neck: JVD 8cm, no carotid bruits  
+CV: Tachy, S3, no murmurs, Impella in place (R groin site clean)  
+Lungs: Bibasilar crackles, decreased at bases  
+Abd: Soft, NT, +BS  
+Ext: 2+ pitting edema BLE, pulses 2+, no DVT  
+Skin: Warm, no rash  
+Neuro: Nonfocal, A&O x3  
+
+---
+
+**ICU Course Summary:**  
+- **Day 1:** Admitted for decompensated heart failure, cardiogenic shock. Pressors, inotropes started. Impella CP placed via R femoral artery.  
+- **Day 2:** Hemodynamics improved, MAP 70s. Weaned norepi. Extubated, on BiPAP.  
+- **Day 3:** Lactate normalized. Renal function transiently worsened.  
+- **Day 4:** Developed fever (38.5C), urine cx grew E. coli. Switched to ceftriaxone.  
+- **Day 5:** Sinus tachycardia, improved oxygenation, Impella flows stable.  
+- **Day 6-7:** Gradual diuresis, extubated, transitioned to low-dose oral diuretics.  
+- **Day 8:** Impella removed. Echo: LVEF improved to 35%. Transferred to step-down.  
+
+---
+
+**LABS:**  
+| Date        | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Troponin (ng/mL) | BNP (pg/mL) | AST (U/L) | ALT (U/L) |
+|-------------|------------|------------|------------|-------------|------------|-------------|------------|------------------|-------------|-----------|-----------|
+| 5/2         | 6.2        | 13.9       | 388        | 132         | 4.3        | 26          | 1.3        | 0.42             | 12,500      | 78        | 67        |
+| 5/3         | 7.1        | 12.4       | 362        | 134         | 4.6        | 31          | 1.8        | 0.91             | 10,800      | 92        | 80        |
+| 5/4         | 9.0        | 12.1       | 340        | 137         | 4.9        | 28          | 1.5        | 0.67             | 8,200       | 45        | 56        |
+| 5/5         | 8.7        | 11.8       | 335        | 139         | 4.5        | 25          | 1.1        | 0.45             | 5,700       | 37        | 44        |
+| 5/6         | 7.8        | 11.9       | 314        | 140         | 4.2        | 22          | 0.9        | 0.18             | 3,900       | -         | -         |
+| 5/7         | 7.2        | 12.3       | 290        | 142         | 4.0        | 19          | 0.8        | -                | -           | 32        | 33        |
+| 5/8         | 6.6        | 12.8       | 281        | 143         | 3.9        | 17          | 0.7        | -                | 1,100       | 29        | 27        |
+| 5/9         | -          | 13.1       | -          | 141         | -          | 16          | 0.6        | <0.01            | 750         | 24        | 19        |
+
+---
+
+**Problem List / Assessment & Plan**
+
+1. **Cardiogenic Shock, New Severe Non-Ischemic Cardiomyopathy (EF 10-15%)**  
+   - Etiology unclear, likely viral myocarditis vs. idiopathic  
+   - Impella CP placed, good flows, removed day 8 after recovery  
+   - Inotropes/pressors titrated off  
+   - Cardiology f/u, consider cardiac MRI, outpatient cardiomyopathy panel  
+   - Restart GDMT as tolerated (ACEi/ARB/ARNI, beta-blocker, MRA)  
+
+2. **Acute Decompensated Heart Failure**  
+   - Diuresed to euvolemia  
+   - Daily weights, strict I/Os  
+   - Echo: LVEF improved to 35%  
+   - Continue furosemide, add metolazone prn  
+
+3. **Acute Kidney Injury, Multifactorial (Pre-renal, Cardiorenal)**  
+   - Peak Cr 1.8 → now 0.6  
+   - Monitor renal function, avoid nephrotoxins  
+   - Hold ACEi until Cr stable  
+
+4. **E. coli UTI, Catheter-Associated**  
+   - Positive urine culture, fever day 4  
+   - Treated with ceftriaxone x7d  
+   - Foley removed day 5  
+
+5. **Anticoagulation (Impella, DVT Prophylaxis)**  
+   - Heparin gtt for Impella, transitioned to SQ heparin  
+   - No bleeding or HIT  
+   - Plan: Continue SQ for 48h post-Impella  
+
+6. **Chronic Sinusitis**  
+   - Mild symptoms, no acute intervention  
+   - ENT f/u outpatient  
+
+7. **Viral Pharyngitis**  
+   - Resolved prior to admission  
+   - Supportive care only  
+
+8. **OB/GYN issues (Contraceptives, Mirena, Implants)**  
+   - Continue current contraception, Mirena IUD in situ  
+   - No signs of pregnancy  
+
+9. **Pain (Wrist, myalgias, headache)**  
+   - Mild, managed with acetaminophen  
+   - No NSAIDs due to AKI  
+
+10. **Psychosocial**  
+    - Young children at home, social work involved  
+    - Family support present  
+
+---
+
+**Dispo/Follow-up:**  
+- Transfer to telemetry for monitoring  
+- Cardiology: outpatient f/u 1 week  
+- Labs: BMP, CBC, LFTs in 2 days  
+- Social work to assist with home needs  
+- Patient education: heart failure, Impella, AKI, contraception  
+- Strict return precautions given
+
+---
+
+**Significant Events:**  
+- No arrhythmias  
+- No bleeding or vascular complications  
+- No evidence of sepsis/systemic infection  
+- No neurologic events  
+
+---
+
+**Attending:** Dr. Jonathan Krieger  
+**Resident:** E. Kumar, MD  
+**Nurse:** M. Ramirez, RN  
+**Case Manager:** S. Liu  
+
+---
+
+**Orders:**  
+- D/C Impella  
+- Continue GDMT  
+- Physical therapy  
+- Diet: cardiac, low sodium  
+- Activity: as tolerated  
+- Foley D/C’d  
+- O2 as needed  
+
+---
+
+**Additional Labs Collected:**  
+- Procalcitonin: negative  
+- CK-MB: peaked at 12 (nl < 8)  
+- Lactate (admission): 4.3 → normalized  
+- Mg: 2.0, Phos 3.1  
+- Coags: INR 1.1, PT 13.2, aPTT 32  
+
+---
+
+**Imaging:**  
+- CXR: Pulmonary edema, improved  
+- Echo (admission): LVEF 10-15%, global hypokinesis  
+- Echo (pre-discharge): LVEF 35%, mild MR  
+
+---
+
+**Consults:**  
+- Cardiology: for management of new cardiomyopathy  
+- ID: for febrile episode, UTI management  
+- OB/GYN: contraception review  
+
+---
+
+**Patient/family updated daily.**  
+**All questions answered.**  
+
+---

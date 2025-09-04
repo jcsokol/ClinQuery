@@ -1,0 +1,264 @@
+---
+**Epic EHR - ICU Progress Note**
+
+**Patient Name:** Jacquetta Kunde  
+**MRN:** 11902834  
+**DOB:** 05/11/1954  
+**Sex:** Female  
+**Date of Admission:** 04/09/2024  
+**Date of Note:** 04/14/2024  
+**Attending:** Dr. M. Healy  
+**Consultants:** Cardiology, Infectious Diseases, Endocrinology, General Surgery
+
+---
+
+**Chief Complaint**  
+Shortness of breath, chest pressure, and progressive lower extremity edema.  
+
+**History of Present Illness**  
+Jacquetta Kunde is a 69-year-old female with significant past medical history including hypertension, hyperlipidemia, obesity (BMI 30+), prediabetes, anemia, recurrent colon polyps, and a remote history of overlapping malignant neoplasm of the colon (s/p partial colectomy 2017), who presented to the ED with a 3-day history of progressive shortness of breath, orthopnea, non-productive cough, and lower extremity swelling. She reports mild chest discomfort, but denies fevers, chills, or palpitations. She has had increased fatigue and decreased appetite.  
+
+On arrival, she was tachypneic, mildly hypoxic (O2 sat 91% on RA), and hypotensive (BP 87/52 mmHg). She was found to have acute decompensated heart failure with evidence of cardiogenic shock. She was transferred to ICU for further management.  
+
+---
+
+**Hospital Course (Days 1-5):**  
+- Day 1: Initial stabilization with BiPAP, IV diuresis, vasopressors. Cardiology consulted for shock.  
+- Day 2: Worsening hemodynamics despite medical management. Bedside echo: severe LV systolic dysfunction (EF ~15%), moderate MR, dilated IVC. Decision made for temporary percutaneous LV assist device (Impella CP) placement for cardiogenic shock.  
+- Day 3: Clinical improvement on mechanical support. Weaned off vasopressors. Renal function monitored closely, transient AKI resolved with improved perfusion.  
+- Day 4: Gradual improvement in volume status. Transitioned to oral diuretics. Initiated low-dose beta blockade.  
+- Day 5: Impella weaned and explanted. Patient remains in ICU for monitoring.  
+
+---
+
+**Past Medical History**  
+- Hypertension  
+- Hyperlipidemia  
+- Obesity (BMI 30.3)  
+- Anemia  
+- Prediabetes (A1c 6.0%)  
+- Chronic/recurrent sinusitis  
+- Recurrent rectal/colon polyps  
+- Overlapping malignant neoplasm of colon (s/p partial colectomy 2017, no recurrence)  
+- Acute bronchitis, viral pharyngitis (remote)  
+- Rotator cuff tendon injury (remote)  
+
+**Past Surgical History**  
+- Partial colectomy (2017)  
+- Colon polypectomy (multiple)  
+- Right rotator cuff repair  
+
+**Family History**  
+- Father: MI at 68  
+- Mother: Colon cancer, HTN  
+- Brother: Type 2 DM  
+
+**Social History**  
+- Former smoker (quit 1999)  
+- Rare ETOH  
+- No illicit drug use  
+- Lives with spouse, retired teacher  
+
+---
+
+**Allergies**  
+- NKDA  
+
+**Medications on Admission**  
+- Hydrochlorothiazide 25 mg qAM  
+- Simvastatin 10 mg qHS  
+- Acetaminophen 325 mg PRN  
+- Multivitamin  
+- Ferrous sulfate (home, not resumed in ICU)  
+
+---
+
+**Review of Systems**  
+- General: Fatigue, poor appetite  
+- Cardiac: Orthopnea, PND, chest pressure  
+- Pulm: Dyspnea, mild nonproductive cough  
+- GI: No N/V, no abdominal pain, no melena  
+- GU: Oliguria on Day 2, resolved  
+- Neuro: No focal deficits, mild confusion on Day 2 (resolved)  
+- MSK: Baseline shoulder pain  
+
+---
+
+**Physical Exam**  
+- Gen: Obese, appears fatigued, alert, NAD  
+- VS: T 37.7°C, HR 98, BP 112/68 (on day 5), RR 18, SpO2 95% RA  
+- HEENT: Oropharynx clear, mild nasal congestion  
+- Neck: JVD 8cm  
+- CV: S1/S2, S3, no murmurs, Impella hum noted prior to removal  
+- Lungs: Bibasilar crackles  
+- Abd: Obese, nontender, healing surgical scar  
+- Ext: 1+ pitting edema BLE  
+- Neuro: Nonfocal  
+- Skin: No rashes  
+
+---
+
+**Labs**
+
+| Date         | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | AST (U/L) | ALT (U/L) | Alk Phos (U/L) | T bili (mg/dL) |
+|--------------|------------|------------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|-----------|-----------|---------------|----------------|
+| 4/09/2024    | 11.2       | 10.8       | 178        | 136         | 5.1        | 108         | 19           | 24          | 1.42       | 154         | 32        | 41        | 116           | 1.3            |
+| 4/10/2024    | 12.5       | 9.9        | 151        | 134         | 5.6        | 106         | 18           | 36          | 1.99       | 132         | 41        | 55        | 140           | 1.6            |
+| 4/11/2024    | 10.3       | 10.3       | 168        | 137         | 4.3        | 109         | 22           | 18          | 1.17       | 110         | 28        | 39        | 108           | 1.0            |
+| 4/12/2024    | 8.7        | 10.7       | 165        | 139         | 4.1        | 110         | 24           | 13          | 0.99       | 106         | 27        | 38        | 112           | 0.8            |
+| 4/13/2024    | 7.9        | 11.1       | 172        | 138         | 4.2        | 111         | 25           | 14          | 0.93       | 99          | 31        | 36        | 113           | 0.7            |
+| 4/14/2024    | 8.1        | 11.3       | 170        | 137         | 4.4        | 112         | 25           | 13          | 0.89       | 98          | 29        | 34        | 110           | --             |
+
+*Missing labs: T bili not drawn on 4/14; Alk Phos not drawn on 4/10; Glucose not checked on 4/14.*
+
+**Other Labs:**  
+- NT-proBNP 4/09: 12,400 pg/mL (markedly elevated)  
+- Troponin I 4/09: 0.07 ng/mL (mildly elevated, stable on repeat)  
+- Lactate 4/10: 3.2 mmol/L (resolved to 1.4 by 4/12)  
+- Ferritin 4/11: 88 ng/mL  
+- TSAT 19%, Iron 42 mcg/dL  
+- COVID PCR: Negative  
+- Blood Cultures: Negative x2  
+- PT/INR 1.2, PTT 29s  
+- Lipid Panel 4/13: TC 162, LDL 78, HDL 58, TG 143  
+
+---
+
+**Imaging**  
+- CXR 4/09: Pulmonary vascular congestion, small bilateral effusions  
+- Echo 4/10: Severe LV systolic dysfunction (EF 15%), mild RV dysfunction, moderate MR, dilated LA/IVC  
+- CT Abd/Pelvis 4/11: No acute findings, post-surgical changes, no recurrence of malignancy  
+- Duplex LE: Negative for DVT  
+
+---
+
+**Procedures**  
+- 4/10: Placement of percutaneous LVAD (Impella CP) for cardiogenic shock  
+- 4/12: Removal of Impella after hemodynamic improvement  
+- Foley catheter placed (removed 4/13)  
+- Central venous line (IJ), arterial line (R radial)  
+
+---
+
+**Microbiology**  
+- Blood, urine cultures: Negative  
+- Sputum: No growth, no organisms  
+
+---
+
+**Assessment and Plan**  
+**1. Cardiogenic Shock, Acute Decompensated Heart Failure (EF 15%)**  
+- Etiology: Likely ischemic vs. nonischemic (coronary angiography pending)  
+- Status post temporary percutaneous LVAD (Impella CP) for refractory shock, now improved  
+- Continue guideline-directed medical therapy, up-titrate beta blocker and ACEi as tolerated  
+- Daily weights, strict I/O, maintain euvolemia  
+- Serial echo for LV function  
+- Cardiac rehab consult  
+- Monitor for arrhythmias, end-organ dysfunction  
+
+**2. Hypertension**  
+- Off home thiazide during acute renal injury, will resume as renal function normalizes  
+- Monitor BP, titrate antihypertensive regimen  
+
+**3. Hyperlipidemia**  
+- Continue statin therapy  
+- Lipids rechecked, at goal  
+
+**4. Obesity, Prediabetes**  
+- Nutrition consult, diabetic diet  
+- Monitor glucose, A1c 6.0%  
+- Encourage gradual weight loss post-discharge  
+
+**5. Anemia**  
+- Chronic, mild, multifactorial (anemia of chronic disease + iron deficiency); no transfusion required  
+- Monitor hemoglobin, iron studies  
+- Resume iron supplementation after ICU  
+
+**6. Colon Cancer (remote, s/p colectomy), Polyps**  
+- No evidence of recurrence on recent imaging  
+- GI to follow outpatient, colonoscopy scheduled in 6 months  
+
+**7. Sinusitis (chronic/viral)**  
+- No evidence of acute infection during this admission  
+- Supportive care only  
+
+**8. AKI (transient, resolved)**  
+- Likely pre-renal from shock, resolved with improved perfusion  
+- Monitor renal function, avoid nephrotoxins  
+
+**9. Pain, Right Shoulder (rotator cuff injury, chronic)**  
+- Acetaminophen PRN  
+- Avoid NSAIDs due to renal/cardiac status  
+
+**10. VTE Prophylaxis**  
+- SCDs, low-dose heparin  
+
+**11. Physical Deconditioning**  
+- PT/OT evaluation, early mobilization as tolerated  
+
+**12. Social/Disposition**  
+- Discharge planning with case manager, likely SNF for rehab  
+
+---
+
+**Sign-out/To-Do:**  
+- Monitor hemodynamics, volume status  
+- Up-titrate HF meds  
+- Arrange cardiac MRI if ischemic workup negative  
+- Continue monitoring for infection, arrhythmia  
+- Prepare for step-down transfer when stable  
+
+**Attending:** M. Healy, MD  
+**ICU Team:** S. Patel, MD; C. Wong, PA-C; J. Bernstein, RN  
+
+---
+
+**Medications (Current Hospital Orders)**  
+- Metoprolol succinate 12.5 mg daily  
+- Lisinopril 2.5 mg daily  
+- Furosemide 40 mg IV q12h (transition to PO soon)  
+- Simvastatin 10 mg nightly  
+- Acetaminophen 325 mg q6h PRN  
+- Ferrous sulfate 325 mg PO daily (hold until step-down)  
+- Pantoprazole 40 mg IV daily  
+- Heparin 5000 units SQ q8h  
+- Docusate sodium 100 mg BID  
+
+---
+
+**Nursing/Other Orders**  
+- Strict I/O  
+- Daily weights  
+- Telemetry  
+- SCDs  
+- PT/OT, nutrition consult  
+- Foley care  
+- Central/arterial line care  
+
+---
+
+**Vitals (Selected ICU Days)**
+
+| Date         | Temp (°C) | HR   | BP         | RR | SpO2   | Pain |
+|--------------|-----------|------|------------|----|--------|------|
+| 4/09/2024    | 37.7      | 112  | 87/52      | 22 | 91% RA | 2    |
+| 4/10/2024    | 37.5      | 119  | 90/54      | 20 | 93% RA | 3    |
+| 4/11/2024    | 37.1      | 104  | 98/61      | 18 | 94% RA | 2    |
+| 4/12/2024    | 36.9      | 98   | 110/68     | 17 | 96% RA | 1    |
+| 4/13/2024    | 37.2      | 96   | 112/70     | 16 | 95% RA | 1    |
+| 4/14/2024    | 37.3      | 98   | 112/68     | 18 | 95% RA | 1    |
+
+---
+
+**Discharge Planning**  
+- Anticipate transfer to step-down in 48-72h if stable  
+- SNF placement for rehab likely  
+- Close outpatient follow-up with Cardiology, PCP, GI  
+
+---
+
+**Physician Signature:**  
+M. Healy, MD  
+04/14/2024 14:32
+
+---

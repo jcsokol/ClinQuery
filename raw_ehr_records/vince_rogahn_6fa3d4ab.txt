@@ -1,0 +1,173 @@
+```
+PATIENT NAME: Rogahn, Vince
+MRN: 00398452
+DOB: 06/23/1971 (Age: 52)         SEX: Male
+ADMIT DATE: 03/13/2024
+ATTENDING: Dr. R. Kessler
+SERVICE: Cardiac ICU
+
+----------------------------------------------------------------------
+CHIEF COMPLAINT
+----------------------------------------------------------------------
+Worsening dyspnea and lower extremity edema, found to be in acute decompensated heart failure with cardiogenic shock.
+
+----------------------------------------------------------------------
+HISTORY OF PRESENT ILLNESS
+----------------------------------------------------------------------
+Mr. Vince Rogahn is a 52-year-old male with a past medical history notable for epilepsy, chronic sinusitis, perennial allergic rhinitis, and seizure disorder, who presented to the ED with 3 days of progressive shortness of breath, orthopnea, and new onset bilateral lower extremity swelling. He reported decreased exercise tolerance and one episode of near-syncope at home. No recent chest pain, but did endorse palpitations and mild confusion. He denied fever, cough, or recent sick contacts.
+
+In the ED, he was tachycardic and hypotensive (HR 122, BP 84/51), with cool extremities and JVD. Labs were notable for elevated BNP and troponin. CXR showed pulmonary edema. Echo demonstrated severely reduced LVEF (~15%), global hypokinesis, and moderate MR. He was admitted to the CICU for management of cardiogenic shock. Due to ongoing hypotension and poor perfusion despite escalating inotropic support, he underwent placement of a percutaneous left-sided temporary ventricular assist device (Impella CP) on hospital day 2.
+
+Hospital course was complicated by AKI, transient transaminitis, and non-sustained VT. He received aggressive diuresis, uptitration of heart failure medications, and was weaned off mechanical support on day 7. He was transitioned to oral heart failure regimen, and ultimately stabilized for transfer to the telemetry floor.
+
+----------------------------------------------------------------------
+PAST MEDICAL HISTORY
+----------------------------------------------------------------------
+- Perennial allergic rhinitis
+- Chronic sinusitis (w/ recurrent acute exacerbations)
+- Epilepsy / Seizure disorder (on chronic clonazepam, diazepam PRN)
+- History of otitis media
+- Sprain of ankle (remote)
+- No known CAD, DM, CKD prior to this admission
+
+PAST SURGICAL HISTORY
+- None
+
+FAMILY HISTORY
+- Father: MI at 68, HTN
+- Mother: Allergies, sinusitis
+- No family history of sudden cardiac death
+
+SOCIAL HISTORY
+- Lives alone, works as accountant
+- Denies tobacco, drinks alcohol socially, no illicit drug use
+- No recent travel
+
+ALLERGIES
+- NKDA
+
+----------------------------------------------------------------------
+MEDICATIONS ON ADMISSION
+----------------------------------------------------------------------
+- diphenhydramine 25 mg PO PRN allergies
+- prednisone 5 mg PO daily
+- amoxicillin-clavulanate 250/125 mg PO BID (recent course, completed)
+- acetaminophen 160 mg PO PRN
+- clonazepam 0.5 mg PO BID
+- diazepam 5 mg PO PRN seizures
+
+----------------------------------------------------------------------
+PHYSICAL EXAM (on admission)
+----------------------------------------------------------------------
+GEN: Appears ill, mild respiratory distress
+VS: T 98.7F, HR 122, BP 84/51, RR 24, SpO2 94% RA
+HEENT: Pale conjunctivae, oropharynx clear, mild nasal congestion
+CV: Tachycardic, S3, JVD 10cm, no murmurs/gallops
+LUNG: Bibasilar crackles, decreased air movement
+ABD: Soft, NT, mild hepatomegaly
+EXT: 2+ pitting edema to knees, cool
+NEURO: A&O x2, mild confusion, no focal deficits
+
+----------------------------------------------------------------------
+LABS
+----------------------------------------------------------------------
+
+| Date        | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | BNP   | AST  | ALT  |
+|-------------|------|------|------|------|------|------|------|------|------|------|------|----------|-------|------|------|
+| 3/13/24 06:12 | 7.1  | 14.0 | 35.9 | 172  | 134  | 5.2  | 100  | 19   | 34   | 1.73 | 132  | 0.49     | 4230  | 82   | 59   |
+| 3/13/24 18:09 | 6.5  | 13.2 | 34.0 | 158  | 132  | 5.8  | 98   | 17   | 38   | 2.11 | 120  | 0.89     | >5000 | 198  | 165  |
+| 3/14/24 07:40 | 8.3  | 12.9 | 33.2 | 140  | 136  | 5.1  | 102  | 23   | 44   | 2.88 | 112  | 0.37     | 3210  | 121  | 98   |
+| 3/15/24 05:55 | 7.9  | 12.4 | 32.1 | 122  | 139  | 4.3  | 104  | 24   | 36   | 1.95 | 108  | 0.29     | 2390  | 61   | 53   |
+| 3/16/24 06:00 | 7.2  | 12.6 | 33.0 | 145  | 138  | 4.5  | 102  | 22   | 31   | 1.41 | 101  | 0.18     | 1085  | 32   | 23   |
+| 3/17/24 07:00 |      | 12.5 |      | 153  | 137  | 4.2  |      | 18   | 28   | 1.12 |      | 0.10     | 600   | 25   |      |
+| 3/18/24 06:30 | 6.7  |      | 32.7 | 168  | 136  | 4.1  | 101  | 17   | 22   | 0.92 | 98   | <0.01    | 285   |      | 17   |
+
+*Some values not collected at all timepoints.
+
+----------------------------------------------------------------------
+CARDIAC IMAGING
+----------------------------------------------------------------------
+Echocardiogram (3/13/24): 
+- LVEF ~15%, global hypokinesis
+- Moderate MR, mild TR
+- Mild RV dysfunction
+- No pericardial effusion
+
+----------------------------------------------------------------------
+HOSPITAL COURSE SUMMARY
+----------------------------------------------------------------------
+- Admitted to CICU for acute decompensated heart failure with cardiogenic shock. 
+- Started on dobutamine, then milrinone, with minimal improvement.
+- Required norepinephrine for MAP support.
+- Underwent urgent placement of a percutaneous LVAD (Impella CP) for ongoing shock on HD2.
+- Complicated by AKI (peak Cr 2.88), mild transaminitis, and runs of non-sustained VT.
+- Aggressive diuresis initiated after stabilization. Renal function improved after initial insult.
+- Impella weaned and removed on HD7.
+- Transitioned to oral HF regimen (metoprolol, sacubitril/valsartan, spironolactone, furosemide).
+- Remained seizure-free during admission; maintained on clonazepam.
+- No infectious complications. Sinusitis managed symptomatically.
+- Discharged to telemetry floor in stable condition on HD9.
+
+----------------------------------------------------------------------
+ASSESSMENT & PLAN
+----------------------------------------------------------------------
+
+1. **Cardiogenic Shock, New Onset Severe Systolic Heart Failure (EF 15%)**
+   - Likely idiopathic or viral; ischemic workup negative.
+   - Required inotropes/vasopressors, then Impella CP for mechanical support.
+   - Now off support, improving diuresis, titrating GDMT.
+   - Plan: Continue uptitration of HF meds. Cardiac rehab. Outpt workup for etiology.
+
+2. **Acute Kidney Injury (resolved)**
+   - Likely multifactorial: low perfusion, diuresis.
+   - Improved with hemodynamic stabilization and careful volume management.
+   - Plan: Monitor renal function, avoid nephrotoxins.
+
+3. **Non-sustained Ventricular Tachycardia**
+   - Occurred during acute decompensation, no recurrence.
+   - No ICD indicated at this time.
+   - Plan: Tele monitoring. Cardiology f/u for primary prevention ICD eval if persists.
+
+4. **Chronic Sinusitis / Allergic Rhinitis**
+   - Mild nasal congestion, no acute infection.
+   - Plan: Continue current meds, ENT f/u as outpatient.
+
+5. **Epilepsy / Seizure Disorder**
+   - No seizures this admission.
+   - Maintained on clonazepam, diazepam PRN.
+   - Plan: Continue current regimen, neuro f/u.
+
+6. **Transaminitis**
+   - Likely hepatic congestion, resolved with improved perfusion.
+   - Plan: Monitor LFTs.
+
+7. **Psychosocial/Functional**
+   - Lives alone. May need home health on discharge.
+   - Plan: Social work eval, PT/OT consult.
+
+8. **Preventive Care**
+   - Up to date on vaccines.
+   - Plan: Smoking cessation counseling, flu shot prior to discharge if not already given.
+
+----------------------------------------------------------------------
+DISCHARGE MEDICATIONS (anticipated)
+----------------------------------------------------------------------
+- Metoprolol succinate 25 mg PO daily
+- Sacubitril/valsartan 24/26 mg PO BID
+- Spironolactone 25 mg PO daily
+- Furosemide 40 mg PO BID
+- Clonazepam 0.5 mg PO BID
+- Diazepam 5 mg PO PRN
+- Diphenhydramine 25 mg PO PRN
+
+----------------------------------------------------------------------
+SIGNATURE
+----------------------------------------------------------------------
+Kessler, MD 
+Cardiology/ICU
+
+----------------------------------------------------------------------
+
+**END OF NOTE**
+```
+*Some non-relevant and repeated historical info included per instruction. If you need further details (e.g., nursing notes, more imaging, or procedure reports), please specify.

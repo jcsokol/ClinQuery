@@ -1,0 +1,147 @@
+```
+=======================================================================
+EpicCare Inpatient - Progress Note
+=======================================================================
+Patient: Kevin Trantow                MRN: 00423951
+DOB: 04/15/2002 (Age: 21)             Sex: Male
+Date of Admission: 06/09/2024         Attending: Dr. S. Milstein
+Date of Service: 06/14/2024           Note Author: Dr. L. Nirenberg
+=======================================================================
+
+CHIEF COMPLAINT:
+Progressive shortness of breath, chest pain, and hypotension.
+
+HISTORY OF PRESENT ILLNESS:
+21-year-old male with PMHx of chronic sinusitis and recent viral pharyngitis (on penicillin) presents to the ED with 2 days of worsening dyspnea, orthopnea, and chest discomfort. He was found to be hypotensive (BP 82/54), tachycardic, and hypoxic (SpO2 91% RA). CXR: pulmonary edema. Echo: severe global hypokinesis, LVEF ~15%. Cardiology consulted. Despite initial diuresis and pressor support, patient decompensated into cardiogenic shock. Emergent placement of a percutaneous temporary LVAD (Impella CP) was performed in the ICU. Subsequent course complicated by acute kidney injury and transaminitis.
+
+RELEVANT PAST MEDICAL HISTORY:
+- Chronic sinusitis
+- Acute viral pharyngitis
+- Concussion (2019, no LOC)
+- Wrist sprain (remote)
+- No known CAD, DM, HTN
+- No family history of sudden cardiac death
+
+MEDICATIONS ON ADMISSION:
+- Acetaminophen 160 mg PO PRN
+- Penicillin V potassium 250 mg PO QID
+
+ALLERGIES:
+- NKDA
+
+SOCIAL HISTORY:
+- Non-smoker, no EtOH, no recreational drugs
+- College student, lives with parents
+
+FAMILY HISTORY:
+- Negative for cardiomyopathy, SCD, early MI
+
+REVIEW OF SYSTEMS:
+- General: Fatigue, malaise
+- CV: Chest pain, palpitations, dyspnea
+- Resp: Orthopnea, mild cough
+- GI: Nausea, no vomiting
+- GU: Oliguria
+- Neuro: No focal deficits
+
+PHYSICAL EXAM (ICU Day 5):
+T 37.4°C   HR 103   BP 93/57 (on norepinephrine)   RR 22   SpO2 95% (2L NC)
+- General: Appears ill, mild distress
+- HEENT: Oropharynx clear, sinus tenderness
+- CV: S1, S2, no murmur, JVD 8cm, cool extremities
+- Pulm: Bibasilar crackles, decreased air entry bases
+- Abd: Soft, NT, mild hepatomegaly
+- Neuro: Alert, oriented x3, no focal deficits
+- Skin: No rash, good perfusion to fingers/toes
+
+-----------------------------------------------------------------------
+LABORATORY DATA (ICU Days 1–5)
+-----------------------------------------------------------------------
+
+| Date       | WBC   | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|-------|-------|-------|-------|------|------|------|------|------|------|------|
+| 6/09/24    | 5.1   | 14.1  | 45.6  | 419   | 137  | 4.1  | 104  | 22   | 18   | 1.0  | 103  |
+| 6/10/24    | 6.7   | 13.8  | 43.9  | 365   | 135  | 5.2  | 101  | 20   | 26   | 1.4  | 116  |
+| 6/11/24    | 7.3   | 13.5  | 41.8  | 301   | 133  | 5.7  | 99   | 19   | 38   | 2.1  |      |
+| 6/12/24    | 8.5   | 13.2  | 39.7  | 279   | 132  | 5.5  | 97   | 18   | 44   | 2.8  | 142  |
+| 6/13/24    | 7.9   | 13.4  | 40.2  | 294   | 135  | 4.7  | 101  | 21   | 30   | 1.9  | 126  |
+| 6/14/24    | 6.0   | 13.7  | 41.0  |       | 137  | 4.2  |      | 23   | 21   | 1.1  |      |
+
+Other labs:
+- Troponin I: 0.22 (peak 0.39, trended down)
+- BNP: 3120 pg/mL (admission)
+- AST/ALT: 172/155 (peak), improved to 58/41 by ICU Day 5
+- Lactate: 3.1 (ICU admission), now 1.7
+- INR: 1.4 (ICU Day 2), now 1.1
+
+-----------------------------------------------------------------------
+IMAGING
+-----------------------------------------------------------------------
+- CXR: Bilateral pulmonary edema, mild cardiomegaly
+- TTE: Severe global LV dysfunction, LVEF 15%, mild RV dysfunction, no valvular vegetations
+- Renal US: Normal
+
+-----------------------------------------------------------------------
+HOSPITAL COURSE SUMMARY
+-----------------------------------------------------------------------
+- Day 1: Admitted for acute decompensated heart failure, presumed viral myocarditis. Started on IV diuretics, inotropes, vasopressors.
+- Day 2: Progressive shock, multi-organ dysfunction (AKI, transaminitis). Emergent percutaneous LVAD (Impella CP) placed by Interventional Cardiology. Transferred to CVICU.
+- Day 3–4: Gradual hemodynamic improvement. Weaned off norepinephrine by Day 4. Renal function improved with diuresis. Liver enzymes trended down.
+- Day 5: Extubated, LVAD support ongoing, low-dose milrinone. Mobilizing with PT/OT. Cardiac MRI pending.
+
+-----------------------------------------------------------------------
+ASSESSMENT & PLAN (PROBLEM-BASED)
+-----------------------------------------------------------------------
+
+1. **Acute Decompensated Heart Failure, Cardiogenic Shock, likely Viral Myocarditis**
+   - Required temporary LVAD (Impella CP) for hemodynamic support
+   - Continue LVAD, daily TTE assessment
+   - Wean inotropes as tolerated
+   - Serial cardiac enzymes, monitor for arrhythmias
+   - Cardiac MRI pending for definitive diagnosis
+
+2. **Acute Kidney Injury (pre-renal, secondary to low cardiac output)**
+   - Now improving (Cr trending down)
+   - Strict I&Os, daily BMP
+   - Avoid nephrotoxins
+
+3. **Transaminitis (likely ischemic hepatitis)**
+   - Trending down with improved perfusion
+   - Monitor LFTs q48h
+
+4. **Volume Overload/Pulmonary Edema**
+   - On IV loop diuretics, net -1.5L since admission
+   - Daily weights, CXR PRN
+
+5. **Risk of LVAD Complications (bleeding, infection, limb ischemia)**
+   - Daily access site checks
+   - CBC, coagulation studies
+   - Prophylactic antibiotics x48h post-procedure
+
+6. **Sinusitis/Pharyngitis (recent)**
+   - Continue current penicillin course (completing 10d)
+   - Monitor for superimposed bacterial infection
+
+7. **Pain, Anxiety**
+   - Acetaminophen prn
+   - Supportive care, chaplaincy consult
+
+8. **Early Mobilization**
+   - PT/OT daily
+
+9. **Nutrition**
+   - High-calorie, low-salt diet
+   - Speech eval for swallow safety post-extubation
+
+10. **Disposition**
+    - Likely to require step-down cardiac unit
+    - Early advanced heart failure team involvement
+
+-----------------------------------------------------------------------
+SIGNATURE
+-----------------------------------------------------------------------
+/s/ Dr. L. Nirenberg, MD (Cardiology Fellow)        06/14/2024 11:06
+
+-----------------------------------------------------------------------
+```
+**END OF NOTE**

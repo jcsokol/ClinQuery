@@ -1,0 +1,152 @@
+```
+---------------------------------------------------------------------
+Patient Name: Buster King                   MRN: 003248517
+DOB: 10/09/1962                            Sex: Male
+Admit Date: 06/08/2024                     Attending: Dr. F. Singleton
+Service: Cardiac ICU                       Room: 8B-ICU-4
+---------------------------------------------------------------------
+
+**Admission Summary:**
+65-year-old male with h/o hypertension, chronic sinusitis, and recent viral URIs, presenting with acute decompensated heart failure and cardiogenic shock. Hospital course complicated by progressive hemodynamic instability requiring placement of a temporary left ventricular assist device (Impella CP) on HD#2 for refractory low-output state. Now day 8 of admission.
+
+**HOSPITAL COURSE:**
+- Day 1: Presented to ED with acute SOB, orthopnea, and chest tightness. Found to have BP 82/56, HR 122, sat 91% RA. Initial workup significant for troponin 0.34→0.39, BNP 1680, CXR with pulmonary edema, echo with LVEF 15%, global hypokinesis.
+- Day 2: Worsening shock despite inotropes and diuresis. Emergent Impella CP placed at bedside. Transferred to ICU.
+- Days 3-5: Gradual hemodynamic improvement, weaned off norepinephrine. Complications: AKI (Cr peaked at 2.1), mild transaminitis, transient atrial fibrillation.
+- Days 6-8: Improving. Impella weaned and explanted HD#7. Now on low-dose furosemide, HCTZ resumed, slow renal recovery.
+
+**PAST MEDICAL HISTORY:**
+- Hypertension
+- Chronic sinusitis
+- Viral sinusitis (recent)
+- Acute viral pharyngitis (recent)
+- Hyperlipidemia (per labs)
+- No known CAD, DM, CKD, tobacco
+
+**PAST SURGICAL HISTORY:**
+- None
+
+**FAMILY HISTORY:**
+- Non-contributory
+
+**SOCIAL HISTORY:**
+- Lives with wife, retired teacher
+- Denies EtOH, tobacco, illicit drugs
+
+**ALLERGIES:**
+- NKDA
+
+**HOME MEDICATIONS:**
+- Hydrochlorothiazide 25 mg daily
+
+---
+
+**VITALS (Selected):**
+| Date       | Temp (C) | HR | BP      | RR | SpO2 | Pain |
+|------------|----------|----|---------|----|------|------|
+| 6/8/24 AM  | 37.5     | 122| 82/56   | 24 | 91%  | 4    |
+| 6/9/24 AM  | 37.2     | 109| 95/58   | 20 | 93%  | 3    |
+| 6/10/24 PM | 36.9     | 98 | 104/66  | 18 | 95%  | 2    |
+| 6/12/24 AM | 37.0     | 87 | 112/68  | 16 | 97%  | 2    |
+| 6/14/24 AM | 36.8     | 82 | 118/71  | 16 | 98%  | 1    |
+
+---
+
+**LABS (CBC, Chem7, Cardiac Markers, LFTs, BNP, others):**
+
+| Date      | WBC   | Hgb  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | BNP   | AST  | ALT  | AlkP | TBili |
+|-----------|-------|------|------|------|------|------|------|------|------|------|----------|-------|------|------|------|-------|
+| 6/8/24    | 7.6   | 17.1 | 195  | 135  | 4.8  | 101  | 22   | 28   | 1.2  | 112  | 0.34     | 1680  | 38   | 42   | 88   | 0.9   |
+| 6/9/24    | 9.3   | 16.4 | 184  | 133  | 5.1  | 99   | 20   | 33   | 1.7  | 126  | 0.39     | 1540  | 52   | 57   | 94   | 1.2   |
+| 6/10/24   | 10.1  | 15.8 | 172  | 132  | 5.4  | 98   | 19   | 40   | 2.1  | 137  | 0.29     | 1300  | 65   | 71   | 102  | 1.5   |
+| 6/12/24   | 8.7   | 15.2 | 168  | 135  | 4.5  | 100  | 21   | 32   | 1.8  | 121  | <0.01    | 1020  | 44   | 59   | 88   | 1.0   |
+| 6/14/24   | 7.2   | 14.9 | 160  | 138  | 4.0  | 104  | 23   | 26   | 1.5  | 109  | <0.01    | 660   | 32   | 40   | 80   | 0.8   |
+| 6/15/24   |  --   | 15.1 |  --  | 139  | 4.2  |  --  | 22   |  --  | 1.4  | 105  |  --      |  --   | 35   |  --  |  --  |  --   |
+
+---
+
+**PROBLEM-BASED ASSESSMENT & PLAN**
+
+**1. Cardiogenic Shock (s/p Impella CP, weaned)**
+   - Etiology: Suspected viral myocarditis vs. idiopathic non-ischemic cardiomyopathy.
+   - Course: Required temporary LV assist device for 5 days; now explanted.
+   - Plan:
+     - Continue GDMT for HF (carvedilol initiated, uptitrate as tolerated)
+     - Daily weights, strict I/O, low Na diet
+     - Monitor for arrhythmias, tele
+     - Serial echoes; repeat prior to D/C
+     - Cardiology f/u, cardiac MRI pending
+
+**2. Acute Decompensated Heart Failure**
+   - LVEF 15% on admission, improved to 25% on HD#7.
+   - Plan:
+     - Resume HCTZ, add low-dose furosemide
+     - ACEi held for renal recovery, consider re-initiation
+     - Monitor electrolytes, renal function
+
+**3. Acute Kidney Injury (now improving)**
+   - Likely multifactorial: low output, nephrotoxic meds, diuretics
+   - Plan:
+     - Avoid nephrotoxins, monitor UOP
+     - Renal dosing for meds
+     - Nephrology consult if Cr worsens
+
+**4. Paroxysmal Atrial Fibrillation (transient, resolved)**
+   - Occurred HD#4, no recurrence
+   - Plan:
+     - Continue tele, no anticoagulation (CHA2DS2-VASc=1)
+     - Monitor for recurrence; consider outpatient Holter
+
+**5. Hypertension**
+   - Off home meds during shock, now resuming HCTZ
+   - Plan:
+     - BP goal <130/80
+     - Add ACEi/ARB if renal function allows
+
+**6. Transaminitis (mild, resolving)**
+   - Likely ischemic hepatitis vs. congestion
+   - Plan:
+     - Monitor LFTs, trend down
+     - Avoid hepatotoxins
+
+**7. Chronic Sinusitis / Viral URI**
+   - No acute symptoms on admission, resolved
+   - Plan:
+     - Supportive care PRN, f/u with PCP
+
+**8. Hyperlipidemia**
+   - Not on statin; consider initiation outpatient
+
+**9. DVT Prophylaxis**
+   - On SQ heparin
+
+**10. Nutrition**
+   - Renal diet, salt restriction
+
+---
+
+**Discharge Planning:**
+- Anticipate transfer out of ICU in 1-2 days
+- Education: CHF, meds, device precautions
+- Home health referral
+- F/U: Cardiology, nephrology, PCP
+
+---
+
+**Physician:**
+Dr. F. Singleton, MD
+Attending, Cardiology ICU
+
+**Co-signs:**
+Dr. L. Patel, Cardiology Fellow
+
+---------------------------------------------------------------------
+Additional documentation:
+- CXR 6/8/24: Pulmonary edema, no focal consolidation
+- Echo 6/8/24: LVEF 15%, severe global hypokinesis, mild MR
+- Echo 6/12/24: LVEF 25%, mild MR
+- Cardiac MRI pending
+
+---------------------------------------------------------------------
+```
+

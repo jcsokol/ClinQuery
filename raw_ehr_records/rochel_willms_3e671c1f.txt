@@ -1,0 +1,214 @@
+---
+**EPIC EHR - INPATIENT PROGRESS NOTE**  
+**Patient Name:** Rochel Willms  
+**MRN:** 00248710  
+**DOB:** 12/25/1986  
+**Sex:** Female  
+**Admit Date:** 05/11/2024  
+**Attending:** Dr. Charles F. Morales  
+**Service:** Cardiology/ICU  
+**Note Date:** 05/15/2024  
+**Author:** R. Singh, MD  
+
+---
+
+**Chief Complaint:**  
+Altered mental status, severe dyspnea, and chest pain.  
+
+---
+
+**History of Present Illness:**  
+Rochel Willms is a 37-year-old female with a history of type 2 diabetes, hypertension, hypertriglyceridemia, and recent pregnancy complicated by preeclampsia, who presented to the ED with progressive shortness of breath, lower extremity edema, and confusion. She was 2 weeks postpartum from a normal pregnancy, complicated by gestational hypertension and preeclampsia managed with labetalol and magnesium sulfate. In the ED, she was found to be hypoxic (SpO2 88% on RA), tachypneic (RR 32), tachycardic (HR 126), and hypertensive (BP 178/99). EKG showed sinus tachycardia, CXR with pulmonary edema, and initial troponin 0.21 (ref <0.04). Bedside echo revealed severely reduced LVEF (~20%), global hypokinesis, and moderate mitral regurgitation. She was transferred to the ICU for management of acute decompensated heart failure, likely secondary to peripartum cardiomyopathy, and ultimately required placement of a left-sided Impella CP device due to refractory cardiogenic shock despite maximal medical therapy.
+
+---
+
+**Past Medical History:**  
+- Diabetes mellitus (type 2), poorly controlled  
+- Hypertension  
+- Hypertriglyceridemia  
+- Preeclampsia (recent)  
+- Multiple prior normal pregnancies  
+- Acute bronchitis (remote)  
+
+**Surgical History:**  
+- None
+
+**Obstetric History:**  
+- G5P5, most recent delivery 2 weeks prior, term, normal spontaneous vaginal delivery
+
+**Medications on Admission:**  
+- Astemizole 10mg PO  
+- EpiPen 0.3mg  
+- NuvaRing  
+- Acetaminophen 325mg PO  
+- Medroxyprogesterone acetate (various)  
+- Yaz, Natazia, Etonogestrel implant  
+- Hydrochlorothiazide 25mg PO  
+
+**Allergies:**  
+- NKDA
+
+**Family History:**  
+- Mother: HTN, DM2  
+- Father: MI age 62
+
+**Social History:**  
+- Non-smoker, rare EtOH, denies illicit drugs  
+- Lives with husband and children
+
+---
+
+**Physical Exam (ICU Day 4):**  
+- GEN: Appears fatigued, mild distress  
+- CVS: S1, S2, tachycardic, S3 present, soft holosystolic murmur at apex  
+- RESP: Tachypneic, bibasilar crackles  
+- ABD: Soft, non-tender, no hepatomegaly  
+- EXT: 2+ pitting edema to knees, pulses present  
+- NEURO: Drowsy but arousable, no focal deficits  
+- SKIN: Warm, dry
+
+---
+
+**ICU Course Summary:**  
+- **Day 0:** Admitted for acute heart failure/postpartum cardiomyopathy, started on IV furosemide, low-dose nitroglycerin, and BiPAP.  
+- **Day 1:** Worsening shock, SBP < 90 despite vasopressors (norepinephrine, dobutamine).  
+- **Day 2:** Impella CP placed via left femoral artery for mechanical circulatory support.  
+- **Day 3:** Gradual improvement in end-organ perfusion, decreased vasopressor requirements.  
+- **Day 4:** Weaning Impella support, diuresis ongoing, off BiPAP, extubated.  
+- **Complications:** Transient AKI (resolved), mild hemolysis (LDH peaked at 512, haptoglobin low), no arrhythmias.
+
+---
+
+# **Assessment & Plan**
+
+**1. Acute decompensated heart failure (new onset, postpartum/peripartum cardiomyopathy)**
+   - LVEF 20% on TTE, global hypokinesis, moderate MR  
+   - Required temporary mechanical support (Impella) for cardiogenic shock  
+   - Now weaning support, improving hemodynamics  
+   - Plan: Continue gentle diuresis, monitor volume status, daily TTE, wean Impella as tolerated, initiate guideline-directed medical therapy (GDMT) for HFrEF as BP allows (beta-blocker, ACEi/ARB/ARNI, MRA), sodium restriction, DVT ppx
+
+**2. Cardiogenic Shock**
+   - Impella placed on ICU Day 2, now on minimal vasopressors  
+   - Monitoring for device-related complications (hemolysis, limb ischemia, infection)  
+   - Serial labs for hemolysis, LDH, haptoglobin, free Hgb  
+   - Plan: Remove Impella when stable >24h off vasopressors, monitor for rebound shock
+
+**3. Recent pregnancy/preeclampsia**
+   - Delivered 2 weeks prior, recent gestational HTN/preeclampsia  
+   - Monitor for eclampsia, HELLP, ongoing BP control  
+   - Plan: Continue magnesium if seizure risk, monitor LFTs/platelets
+
+**4. Diabetes Mellitus (Type 2)**
+   - A1c 6.6%, glucose variable in ICU (90–180 mg/dL)  
+   - On sliding scale insulin, hold oral agents  
+   - Plan: Resume metformin if renal fxn stable, continue fingerstick glucose
+
+**5. Hypertension**
+   - Difficult to control, now improved with diuresis  
+   - Plan: Restart home antihypertensives as tolerated, monitor BP closely
+
+**6. Hypertriglyceridemia**
+   - Triglycerides 188 mg/dL on admission  
+   - Plan: Restart statin/fibrate when stable, dietary counseling
+
+**7. AKI (resolved)**
+   - Likely secondary to low cardiac output, improved with support  
+   - Creatinine peaked at 1.5, now 0.9  
+   - Plan: Monitor UOP, renal panel daily
+
+**8. Volume overload**
+   - Ongoing diuresis, net negative ~3L since admission  
+   - Plan: Continue IV furosemide, monitor lytes
+
+**9. Anemia of critical illness**
+   - Hgb nadir 8.9 g/dL, now stable  
+   - No overt bleeding  
+   - Plan: Monitor CBC, transfuse PRN
+
+**10. Contraception management**
+   - On multiple hormonal agents, reevaluate given cardiac dx  
+   - Plan: Consult OB for recommendations
+
+**11. DVT prophylaxis**
+   - On subq heparin, SCDs  
+   - Plan: Continue
+
+**12. Psychosocial support**
+   - New diagnosis, postpartum, high stress  
+   - Plan: Social work, psych consult
+
+---
+
+# **LABS**
+
+**Table 1: CBC, Chem7, Cardiac/Liver Markers**
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Gluc | AST  | ALT  | Tbil | Troponin | BNP   | LDH  |
+|------------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|----------|-------|------|
+| 5/11/2024  | 9.8  | 12.7 | 38.1 | 445  | 136  | 5.2  | 109  | 24   | 18   | 1.2  | 123  | 34   | 41   | 0.6  | 0.21     | 2335  | 412  |
+| 5/12/2024  | 12.2 | 10.4 | 32.0 | 302  | 134  | 5.9  | 111  | 21   | 29   | 1.5  | 146  | 55   | 62   | 1.2  | 0.17     | 3890  | 512  |
+| 5/13/2024  | 10.1 | 9.8  | 29.7 | 279  | 137  | 5.3  | 107  | 23   | 22   | 1.1  | 98   | 41   | 53   | 0.8  | <0.04    | 1275  | 387  |
+| 5/14/2024  | 8.7  | 8.9  | 27.1 | 265  | 138  | 4.1  | 106  | 25   | 16   | 0.9  | 112  | 31   | 39   | 0.5  | <0.04    | 760   | 302  |
+| 5/15/2024  | 9.2  | 9.3  | 28.2 | 282  | 139  | 4.2  | 108  | 26   | 17   | 0.9  | 105  | —    | —    | —    | <0.04    | 540   | 209  |
+
+*— = test not collected*
+
+---
+
+**Microbiology:**  
+- Blood cultures: No growth  
+- Urine: No growth  
+- Sputum: Not sent
+
+**Imaging:**  
+- CXR (5/11): Bilateral pulmonary edema  
+- Echo (5/12): LVEF 20%, global hypokinesis, moderate MR  
+- Renal US (5/13): Normal
+
+---
+
+**Procedures:**  
+- 5/12: Left femoral Impella CP placement (fluoro-guided, no complications)  
+- 5/14: TTE—improved LVEF ~28% on support  
+
+---
+
+**Medications (Current):**  
+- Furosemide IV 40mg q8h  
+- Metoprolol tartrate 12.5mg PO BID  
+- Lisinopril 2.5mg PO daily  
+- Eplerenone 25mg PO daily  
+- Insulin sliding scale  
+- Subq heparin 5000u q8h  
+- Acetaminophen PRN  
+- All home hormonal agents held  
+- Multivitamin, thiamine  
+- Magnesium sulfate (as needed)
+
+---
+
+**Consults:**  
+- Cardiology (primary)  
+- OB/GYN  
+- Endocrinology  
+- Social work  
+- Nutrition
+
+---
+
+**Disposition:**  
+- Remains in ICU, plan for step-down to telemetry once Impella removed and hemodynamics stable.
+
+---
+
+**Attestation:**  
+I have personally reviewed the patient, labs, and imaging, and discussed her care with the multidisciplinary team.
+
+---
+
+**Signed:**  
+R. Singh, MD  
+Cardiology/ICU  
+05/15/2024
+
+---

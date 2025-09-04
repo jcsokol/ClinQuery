@@ -1,0 +1,191 @@
+**EPIC EHR - Inpatient Chart Review**  
+**Patient:** Ardath Zboncak  
+**MRN:** 00238402  
+**DOB:** 1991-08-12 (32 years)  
+**Sex:** Female  
+**Admit Date:** 2024-05-29  
+**Attending:** Dr. R. Mahoney  
+**Primary Team:** Cardiac ICU  
+**Location:** 6B-ICU, Room 12  
+
+---
+
+### CHIEF COMPLAINT  
+Acute onset shortness of breath, chest pain, and dizziness.
+
+---
+
+### HISTORY OF PRESENT ILLNESS  
+32-year-old female with PMHx notable for viral sinusitis and acute viral pharyngitis, presents with 4 days of progressive dyspnea, orthopnea, and pleuritic chest pain. Symptoms began as mild URI but rapidly progressed. Seen by PCP, started on supportive care. Over past 24 hours, developed worsening fatigue, dizziness, near-syncope, and lower extremity swelling. Presented to ED with tachycardia, hypotension, hypoxia, and signs of low cardiac output. Initial workup was concerning for fulminant myocarditis. Rapid progression to cardiogenic shock requiring transfer to cardiac ICU. Temporary left-sided heart pump (Impella CP) placed for circulatory support on hospital day 1.
+
+---
+
+### PAST MEDICAL HISTORY  
+- Viral sinusitis (recurrent, last episode 2 months ago)  
+- Acute viral pharyngitis (resolved)  
+- No known structural heart disease prior to this admission  
+- No diabetes, hypertension, or CKD  
+
+### PAST SURGICAL HISTORY  
+- None
+
+### FAMILY HISTORY  
+- Mother: HTN  
+- Father: MI at age 60  
+- No known inherited cardiac disease
+
+### SOCIAL HISTORY  
+- Non-smoker  
+- Occasional alcohol  
+- No illicit drug use  
+- Sexually active with one partner  
+- Lives with spouse, works as a graphic designer
+
+### ALLERGIES  
+- NKDA
+
+---
+
+### HOME MEDICATIONS  
+- Natazia 28 Day Pack  
+- NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring  
+- 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Patch  
+- Jolivette 28 Day Pack  
+- Levora 0.15/30 28 Day Pack  
+*(Multiple contraceptive formulations listed, patient reports frequent changes due to side effects)*
+
+---
+
+### VITAL SIGNS (ED and ICU Course)
+
+| Date       | Temp (°C) | HR (bpm) | BP (mmHg) | RR (/min) | SpO2 (%) | Pain (0-10) |
+|------------|-----------|----------|-----------|-----------|----------|-------------|
+| 5/29/24 AM | 37.3      | 116      | 88/54     | 22        | 90       | 4           |
+| 5/29/24 PM | 37.1      | 130      | 74/42     | 26        | 89       | 6           |
+| 5/30/24    | 36.9      | 98       | 106/68    | 18        | 97       | 2           |
+| 5/31/24    | 37.2      | 86       | 112/74    | 16        | 98       | 2           |
+| 6/01/24    | 37.0      | 82       | 120/79    | 16        | 98       | 1           |
+
+---
+
+### PHYSICAL EXAM (ICU Day 2, post-Impella)  
+- **Gen:** Appears fatigued, no acute distress
+- **HEENT:** No JVD, oropharynx clear
+- **Cardiac:** Tachycardic, S3 present, no murmurs, Impella hum audible
+- **Lungs:** Bibasilar crackles, decreased air entry at bases
+- **Abdomen:** Soft, NT, mild hepatomegaly
+- **Extremities:** 2+ pitting edema bilaterally, pulses intact
+- **Neuro:** Alert, oriented x3, no focal deficits
+
+---
+
+### LABS
+
+#### CBC, CHEM7, Cardiac Markers, LFTs
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | AST  | ALT  | BNP   |
+|------------|------|------|------|------|------|------|------|------|------|------|------|----------|------|------|-------|
+| 5/29/24 AM | 5.7  | 14.6 | 48   | 348  | 134  | 4.7  | 101  | 19   | 32   | 1.4  | 102  | 0.18     | 48   | 52   | 4,350 |
+| 5/29/24 PM | 7.8  | 13.2 | 44   | 309  | 132  | 5.2  | 97   | 17   | 34   | 1.6  | 140  | 0.35     | 76   | 81   | 5,300 |
+| 5/30/24    | 8.1  | 12.8 | 41   | 277  | 138  | 4.1  | 103  | 22   | 26   | 1.2  | 108  | 0.12     | 51   | 46   | 2,800 |
+| 5/31/24    | 7.2  | 13.9 | 43   | 254  | 140  | 4.2  | 103  | 24   | 19   | 0.9  | 98   | 0.06     | 38   | 32   | 1,275 |
+| 6/01/24    | 6.9  | 14.2 | 44   | 259  | 139  | 4.3  | 102  | 23   | 17   | 0.8  |      | <0.01    | 31   | 27   | 654   |
+
+*Some values missing due to hemolysis/sample errors
+
+---
+
+### IMAGING & PROCEDURES
+- **ECG (5/29/24):** Sinus tachycardia, diffuse ST elevations
+- **Echo (5/29/24):** LVEF 18%, global hypokinesis, mild RV dysfunction, no valvular vegetations
+- **CXR:** Pulmonary vascular congestion, mild bilateral effusions
+- **RHC (5/29/24):** RA 12, PA 46/23 (mean 33), PCWP 28, CI 1.7
+- **Impella CP (5/29/24):** Placed via right femoral artery without complication
+- **Echo (5/31/24):** LVEF improved to 32%, Impella functioning, moderate LV recovery
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+- **HD 0-1:** Rapid progression to cardiogenic shock, intubated for hypoxia. Started on norepinephrine, dobutamine. Emergent Impella placed for biventricular support.
+- **HD 2-3:** Gradual improvement in hemodynamics, weaned off vasopressors. Extubated HD3. Mild transaminitis, improved with volume offloading.
+- **HD 4:** Marked improvement in cardiac output. Impella weaned and explanted. Transitioned to oral HF regimen.
+- **HD 5:** Transferred to stepdown, ambulating, tolerating diet, euvolemic.
+
+---
+
+### ASSESSMENT & PLAN (Problem-Based)
+
+**1. Fulminant Viral Myocarditis with Cardiogenic Shock (s/p temporary LVAD/Impella):**  
+- Likely secondary to recent viral URI, confirmed by echo and labs  
+- Supportive care, Impella placed HD1, explanted HD4  
+- Monitoring for arrhythmias, serial echos  
+- Now on guideline-directed HF therapy (metoprolol, spironolactone, low-dose lisinopril)  
+- Limit exertion, close f/u with HF and cardiac rehab
+
+**2. Acute Decompensated Heart Failure:**  
+- Diurese to euvolemia (IV furosemide HD1-3, now PO)  
+- Daily weights, strict I/O, sodium restriction  
+- Monitor renal function and electrolytes
+
+**3. Acute Kidney Injury (pre-renal, resolved):**  
+- Likely due to hypoperfusion during shock  
+- Improved with cardiac recovery and volume management  
+- Continue to trend Cr
+
+**4. Transaminitis:**  
+- Mild, likely secondary to hypoperfusion  
+- LFTs trending down, will continue to monitor
+
+**5. History of Recurrent Viral Sinusitis/Pharyngitis:**  
+- No current symptoms  
+- No antibiotics indicated
+
+**6. Contraception Management:**  
+- Multiple recent changes, unclear compliance  
+- Hold estrogen-containing contraceptives during hospitalization due to increased thrombotic risk  
+- Discuss with Gyn prior to discharge
+
+**7. VTE Prophylaxis:**  
+- SCDs, LMWH initiated once bleeding risk low
+
+**8. Nutrition:**  
+- Cardiac diet, salt restriction, consult dietician
+
+**9. Disposition:**  
+- Discharge planning with case management  
+- Cardiac rehab referral  
+- Education on HF symptoms, medication adherence
+
+---
+
+### MEDICATIONS (INPATIENT)
+
+| Name            | Dose           | Route | Schedule     | Indication            |
+|-----------------|----------------|-------|--------------|-----------------------|
+| Metoprolol      | 12.5mg         | PO    | BID          | HF, tachycardia       |
+| Spironolactone  | 25mg           | PO    | Daily        | HF                    |
+| Lisinopril      | 2.5mg          | PO    | Daily        | HF, afterload         |
+| Furosemide      | 20mg           | IV/PO | BID          | Diuresis              |
+| Heparin         | 5000u          | SQ    | q8h          | VTE prophylaxis       |
+| Acetaminophen   | 650mg          | PO    | PRN          | Pain, fever           |
+| Pantoprazole    | 40mg           | IV    | Daily        | GI prophylaxis        |
+
+---
+
+### EDUCATION & FOLLOW-UP  
+- HF self-care, medication adherence, warning signs  
+- Outpatient echo in 2 weeks  
+- Cardiology clinic in 1 week  
+- Gyn consult for contraceptive plan  
+- Cardiac rehab referral
+
+---
+
+**Signed:**  
+R. Mahoney, MD  
+Cardiac ICU  
+2024-06-04  
+---
+
+(Additional documentation, nursing notes, and scanned records available in chart.)

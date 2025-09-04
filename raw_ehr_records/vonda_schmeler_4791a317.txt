@@ -1,0 +1,192 @@
+**EPIC EHR: PATIENT SUMMARY**
+
+**Patient Name:** Vonda Schmeler  
+**MRN:** 00739281  
+**DOB:** 2005-12-29 (Age: 18)  
+**Sex:** Female  
+**Admit Date:** 2024-03-12  
+**Admitting Service:** Pediatric Cardiology/ICU  
+**Attending:** Dr. K. Mendez  
+**Primary Team:** Cardiac ICU  
+**Consults:** Pediatric Infectious Disease, Allergy/Immunology
+
+---
+
+### **Chief Complaint**
+Acute onset chest pain, dyspnea, and syncope at home. EMS noted hypotension, tachycardia, and altered sensorium.  
+
+---
+
+### **HPI**
+Vonda Schmeler is an 18-year-old female with a history of seasonal allergic rhinitis, prior concussion (no LOC), and viral sinusitis, who presented with 2 days of progressive fatigue, myalgias, and low-grade fever. On the morning of admission, she developed sudden-onset chest pain, palpitations, and collapsed at home. On EMS arrival, she was found to be hypotensive and tachycardic; she was transported to the ED, where she rapidly deteriorated with evidence of cardiogenic shock. She was transferred to the PICU and required intubation and vasopressors. Due to ongoing hemodynamic instability and echocardiographic evidence of severely reduced LV function (EF 18%), a temporary left-sided ventricular assist device (Impella CP) was inserted at bedside.  
+
+---
+
+### **Past Medical History**
+- Seasonal allergic rhinitis (severe, perennial and pollen associated)
+- Viral sinusitis (recurrent)
+- Concussion without LOC (2022)
+
+### **Past Surgical History**
+- None
+
+### **Medications on Admission**
+- Loratadine 5 mg chewable tab PRN
+- Epinephrine 0.3 mL auto-injector (never used)
+- No chronic cardiac meds
+
+### **Allergies**
+- Environmental: White oak, ragweed, cat dander, Cladosporium, walnut (see IgE panel)
+- Drug: NKDA
+
+---
+
+### **Vital Signs (selected)**
+| Date/Time         | Temp (C) | HR  | BP         | RR | O2 Sat | Pain |
+|-------------------|----------|-----|------------|----|--------|------|
+| 2024-03-12 08:22  | 37.2     | 139 | 78/43      | 22 | 93%RA  | 1    |
+| 2024-03-12 14:02  | 38.1     | 152 | 68/39      | 28 | 89%RA  | Intub |
+| 2024-03-13 07:45  | 36.8     | 112 | 92/57      | 18 | 100%ETT| Sedat |
+| 2024-03-14 10:15  | 37.0     | 98  | 105/64     | 16 | 99%ETT | 0    |
+
+---
+
+### **Physical Exam (ICU Day 1)**
+- **Gen:** Intubated, sedated, appears ill
+- **HEENT:** Pupils 3 mm, sluggish, oropharynx clear
+- **CV:** S1/S2, no murmur, tachy, S3 present, cool extremities, delayed cap refill
+- **Resp:** MV, bilateral breath sounds, mild crackles bases
+- **Abd:** Soft, NT/ND, +BS
+- **Neuro:** GCS 6T (sedated), no lateralizing signs
+- **Skin:** No rash, mild mottling legs
+
+---
+
+## **LABS**
+
+**CBC, Chemistries, Cardiac Enzymes, LFTs, Coags**
+
+| Date/Time       | WBC   | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin I | BNP   | AST  | ALT  | INR   |
+|-----------------|-------|------|------|------|------|------|------|------|------|------|------|------------|-------|------|------|-------|
+| 3/12 09:00      | 7.1   | 16.6 | 49.3 | 330  | 132  | 5.3  | 97   | 17   | 19   | 1.2  | 146  | 0.43       | 12,700| 68   | 44   | 1.4   |
+| 3/12 16:05      | 6.4   | 14.9 | 44.2 | 285  | 130  | 5.8  | 98   | 13   | 27   | 1.7  | 182  | 0.92       | 16,900| 112  | 77   | 2.0   |
+| 3/13 08:15      | 5.8   | 13.1 | 39.0 | 209  | 136  | 4.7  | 102  | 21   | 17   | 1.3  | 108  | 0.19       | 7,850 | 62   | 38   | 1.2   |
+| 3/14 07:50      | 7.4   | 11.9 | 36.0 | 166  | 139  | 4.3  | 104  | 25   | 11   | 0.9  | 96   | <0.01      | 2,310 | 29   | 24   | 1.0   |
+| 3/15 10:20      | 8.3   | 12.4 | 38.2 | 195  | 142  | 4.0  |      |      | 9    | 0.7  |      |            | 1,410 |      |      |       |
+
+*Some missing values due to hemolysis/sample error.*
+
+---
+
+### **Microbiology**
+- Blood cultures x2 (3/12): No growth at 48h
+- Respiratory viral panel: Negative
+- Sputum: No growth
+
+---
+
+### **Imaging**
+- **Echocardiogram (3/12):** LVEF 18%, dilated LV, moderate MR, no thrombus, no pericardial effusion.
+- **CXR (3/12):** Mild pulmonary edema, central lines in place, no focal infiltrate.
+- **Head CT (3/12):** Normal.
+- **Repeat Echo (3/14):** LVEF improved to 38%, mild MR.
+
+---
+
+### **Procedures**
+- Intubation (3/12)
+- Right IJ central line (3/12)
+- Left radial arterial line (3/12)
+- Temporary LV assist device (Impella CP) via femoral artery (3/12)
+- Foley catheter
+
+---
+
+### **Consult Notes**
+**Peds Infectious Disease:** Myocarditis likely viral, no evidence for bacterial sepsis. No abx recommended.  
+**Allergy/Immunology:** No evidence of anaphylaxis. Continue home allergy meds PRN.
+
+---
+
+## **Assessment & Plan**
+**1. Cardiogenic Shock s/p Temporary LVAD Placement (Impella CP) [Resolved]:**
+   - Likely due to acute viral myocarditis.
+   - Monitored in ICU, on milrinone and norepinephrine x 36h, then weaned off.
+   - LVAD removed on 3/14 after marked improvement in LV function.
+   - Serial echos for recovery, wean inotropes, extubated on 3/15.
+   - Cardiac MRI pending for further evaluation.
+
+**2. Acute Viral Myocarditis [Resolved, Improving]:**
+   - Supportive care, no evidence of bacterial infection.
+   - Negative viral PCRs but clinical syndrome consistent.
+   - LFTs and troponin trended down.
+   - Cardiology f/u after discharge.
+
+**3. Acute Hypoxic Respiratory Failure [Resolved]:**
+   - Likely secondary to heart failure/pulmonary edema.
+   - Intubated for 48h, now off vent, on nasal cannula.
+   - Diuresed with furosemide.
+
+**4. Acute Kidney Injury [Improved]:**
+   - Multifactorial: low cardiac output, pressors.
+   - Improved with restoration of perfusion.
+   - Monitoring labs; Cr now normal.
+
+**5. Thrombocytopenia [Mild]:**
+   - Likely dilutional/consumptive, trending up.
+   - No evidence of DIC or HIT.
+
+**6. Allergic Rhinitis [Chronic]:**
+   - Continue loratadine PRN.
+   - Avoid triggers; no evidence of acute allergic reaction this admit.
+
+**7. Concussion, h/o [Remote]:**
+   - No new head trauma, CT head neg.
+
+**8. Nutrition/Supportive:**
+   - NPO x 2d, now on cardiac diet.
+   - PT/OT eval for deconditioning.
+
+**9. DVT Prophylaxis:**
+   - SCDs; no anticoag due to thrombocytopenia and device.
+
+**10. Disposition:**
+   - Stepdown planned next 24h.
+   - F/u: Cardiology, PCP, Allergy.
+
+---
+
+### **Medications (Current)**
+- Loratadine 5 mg chewable tab PRN
+- Furosemide IV 20 mg q12h (weaning)
+- Famotidine IV 20 mg q12h
+- Milrinone (stopped 3/14)
+- Norepinephrine (weaned off 3/13)
+- Acetaminophen PRN
+- Enoxaparin prophylaxis (to start after Plt >200K)
+
+---
+
+### **Allergy Panel (Admission)**
+| Allergen        | IgE (kU/L) |
+|-----------------|------------|
+| White oak       | 90.2       |
+| Ragweed         | 33.7       |
+| Cat dander      | 56.3       |
+| Cladosporium    | 91.7       |
+| Walnut          | 74.4       |
+| Peanut          | 0.25       |
+| Others <0.4     |            |
+
+---
+
+### **Summary**
+18F with severe myocarditis leading to fulminant cardiogenic shock, requiring temporary mechanical circulatory support (Impella CP). Marked improvement after 3 days, now stable for stepdown.  
+**Prognosis:** Good recovery expected, needs close outpatient f/u.
+
+---
+
+**Signed:** K. Mendez, MD  
+**Date/Time:** 2024-03-15 13:34
+
+---

@@ -1,0 +1,193 @@
+---
+**Patient Name**: Cassin, Georgann  
+**MRN**: 00478213  
+**DOB**: 1983-11-28 (Age: 40)  
+**Sex**: Female  
+**Date of Admission**: 2024-06-07  
+**Date of Service**: 2024-06-07—2024-06-13  
+**Attending**: Dr. Jameson, MD  
+**Location**: MICU, Bed 12
+
+---
+
+### Chief Complaint
+Progressive shortness of breath, orthopnea, and chest pain x 3 days.
+
+---
+
+### HPI
+
+40F with prior healthy pregnancies, on multiple contraceptives (see below), presented with acute SOB and chest pain. Found to be hypotensive (SBP 70s), tachycardic, and hypoxic in ED. Rapidly developed cardiogenic shock, requiring intubation and pressors. Emergent echo revealed severely reduced LVEF (~10%) with global hypokinesis, consistent with acute fulminant myocarditis (likely peripartum/post-viral, no prior cardiac hx). Required placement of a temporary left-sided Impella heart pump for hemodynamic support. ICU stay complicated by AKI, transaminitis, and coagulopathy. Now weaning off support, extubated, and transitioning to oral meds.
+
+---
+
+### Past Medical History
+
+- Normal pregnancies x4, last delivery 2 years ago
+- No prior cardiac disease
+- No DM, HTN, HLD
+
+### Past Surgical History
+
+- None
+
+### Medications on Admission
+
+- Medroxyprogesterone acetate 150 mg/mL IM q3mo (last dose 3/2024)
+- Etonogestrel 68 mg implant (Nexplanon, placed 2023)
+- Camila (norethindrone) 28-day pack, PO daily
+- Liletta IUD, placed 2022
+
+### Allergies
+
+- NKDA
+
+---
+
+### Family History
+
+- Mother: HTN, alive
+- Father: MI age 62, deceased
+
+### Social History
+
+- Non-smoker, no EtOH, no drugs
+- Lives with partner and 2 children
+
+---
+
+## ICU Course Summary
+
+**Day 0 (Admission):**  
+- Severe dyspnea, chest pain, hypotension, O2 sat 85% RA  
+- Intubated for hypoxic resp failure  
+- Vasopressors (norepi, vasopressin)  
+- Echo: LVEF 10%, global hypokinesis  
+- Cardiac cath: No CAD  
+- Impella CP placed (L femoral)  
+- Labs: WBC 7.4, Cr 1.8, ALT 210, AST 342, INR 1.8, TnI 3.2  
+- Started on empiric IV methylprednisolone for suspected myocarditis
+
+**Day 1-3:**  
+- Ongoing hemodynamic support  
+- Renal function worsened (Cr peaked 2.5)  
+- AST/ALT uptrending, INR peaked 2.4  
+- Platelets nadir 82k  
+- Mild GI bleeding (melena, EGD: gastritis)  
+- Weaned off pressors by day 3  
+- Extubated day 3
+
+**Day 4-5:**  
+- LVEF improved to 25%  
+- Impella weaned, explanted day 5  
+- O2 on NC, ambulating  
+- Renal/liver function improving
+
+**Day 6-7:**  
+- Transferred to stepdown  
+- Cardiac MRI: myocarditis, no scar  
+- Planning for discharge to home with close f/u
+
+---
+
+## **Vitals (selected)**
+
+| Date       | Temp | HR  | BP         | RR | O2 Sat | Weight (kg) |
+|------------|------|-----|------------|----|--------|-------------|
+| 6/7/2024   | 36.9 | 121 | 78/50      | 28 | 85% RA | 68.7        |
+| 6/8/2024   | 37.2 | 110 | 92/56      | 22 | 97% MV | 68.3        |
+| 6/9/2024   | 37.0 | 103 | 101/62     | 18 | 99% NC | 68.4        |
+| 6/10/2024  | 36.8 | 92  | 108/70     | 16 | 98% NC | 68.1        |
+| 6/11/2024  | 36.8 | 84  | 116/74     | 16 | 98% RA | 68.0        |
+
+---
+
+## **Labs**
+
+#### CBC + Chemistry
+
+| Date       | WBC   | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|-------|-------|-------|-------|------|------|------|------|------|------|------|
+| 6/7/2024   | 7.4   | 15.2  | 44    | 122   | 135  | 5.2  | 102  | 19   | 34   | 1.8  | 132  |
+| 6/8/2024   | 8.1   | 14.7  | 43    | 98    | 132  | 5.7  | 99   | 21   | 38   | 2.3  | 144  |
+| 6/9/2024   | 7.7   | 13.8  | 41    | 82    | 133  | 5.3  | 104  | 22   | 44   | 2.5  | 139  |
+| 6/10/2024  | 6.2   | 12.6  | 39    | 109   | 136  | 4.8  | 101  | 24   | 32   | 1.9  | 108  |
+| 6/11/2024  | 5.9   | 13.4  | 40    | 137   | 139  | 4.2  | 105  | 24   | 21   | 1.3  | 106  |
+| 6/12/2024  | -     | 13.8  | 41    | -     | 140  | 4.0  | 106  | 23   | 15   | 1.0  | 102  |
+
+#### *Other Relevant Labs*
+
+| Date       | AST  | ALT  | INR  | TnI  | CK-MB | BNP  | Alb  | T.bili |
+|------------|------|------|------|------|-------|------|------|--------|
+| 6/7/2024   | 342  | 210  | 1.8  | 3.2  | 14    | 3460 | 2.6  | 1.2    |
+| 6/8/2024   | 388  | 249  | 2.1  | 2.8  | 10    | 3200 | 2.3  | 1.8    |
+| 6/9/2024   | 407  | 312  | 2.4  | 1.6  | 7     | 2100 | 2.1  | 2.0    |
+| 6/10/2024  | 185  | 140  | 1.6  | 0.8  | 3     | 1200 | 2.6  | 1.5    |
+| 6/11/2024  | 72   | 71   | 1.2  | 0.3  | <2    | 840  | 3.0  | 1.1    |
+
+---
+
+## **Imaging**
+
+- **Echo (6/7):** LVEF 10%, global hypokinesis, mild MR, no thrombus
+- **Echo (6/10):** LVEF 25%, improved wall motion
+- **Cardiac MRI (6/12):** Myocarditis, no delayed enhancement, no thrombus
+- **CXR (6/7):** Pulmonary edema, mild cardiomegaly
+
+---
+
+## **Problem-Based Assessment & Plan**
+
+### 1. **Cardiogenic Shock—Acute Fulminant Myocarditis**
+   - Impella CP placed for LV support, explanted D5
+   - High-dose IV methylprednisolone, slow taper started
+   - Serial echos: improving LVEF
+   - Guideline-directed medical therapy for HF started (metoprolol, sacubitril-valsartan, spironolactone)
+   - Plan: Cardiology f/u, close monitoring, repeat echo in 2w
+
+### 2. **Acute Kidney Injury (likely cardiorenal)**
+   - Initial oliguric AKI, Cr peaked 2.5
+   - No dialysis required
+   - Improving with diuresis, Cr now 1.0
+   - Plan: Renal f/u, monitor labs
+
+### 3. **Transaminitis & Coagulopathy**
+   - Likely ischemic hepatitis, INR peaked 2.4, improved with hemodynamics
+   - No evidence of active bleeding (post-EGD)
+   - Plan: Monitor LFTs, INR, avoid hepatotoxic drugs
+
+### 4. **Mild GI Bleed (melena)**
+   - EGD: gastritis, no ulcer/varices
+   - PPI started, now resolved
+   - Plan: Continue PPI, GI f/u prn
+
+### 5. **Contraceptive Management**
+   - On 4 forms; all held during ICU due to acute illness/hypercoagulability
+   - To resume after discharge, per GYN recs
+
+### 6. **Deconditioning**
+   - PT/OT consult, early mobilization in ICU/stepdown
+
+### 7. **Secondary Prevention**
+   - Started on aspirin, statin
+   - Lifestyle counseling
+
+---
+
+## **Discharge Planning**
+
+- Anticipate discharge 6/13/2024 to home
+- Cardiology, nephrology, GI, GYN follow-up
+- Home health for lab draws, PT/OT
+- Close monitoring for HF recurrence
+
+---
+
+**Signed:**  
+Dr. Jameson, MD  
+Dictated: 2024-06-12 19:43  
+Cosigned: 2024-06-13 07:12
+
+---
+
+**End of Note**

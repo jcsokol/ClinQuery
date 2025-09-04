@@ -1,0 +1,212 @@
+**[EPIC EHR: ICU ADMISSION NOTE]**
+
+**Patient Name:** Jaime Molina  
+**MRN:** 002384733  
+**DOB:** 03/12/1960  
+**Sex:** Male  
+**Date of Admission:** 06/18/2024  
+**Attending:** Dr. L. Chen (Cardiology/ICU)  
+**Consults:** Cardiology, Infectious Disease, Endocrinology, Hematology  
+**Admitting Dx:** Cardiogenic shock, acute decompensated heart failure, anemia  
+**Date/Time of Note:** 06/23/2024 06:30  
+**Author:** Dr. M. Ghosh, ICU Resident
+
+---
+
+### CHIEF COMPLAINT
+
+Progressive SOB, orthopnea, fatigue, confusion.  
+Brought in by EMS after a syncopal episode at home.
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+
+Jaime Molina is a 64-year-old male with a history of prediabetes, chronic sinusitis (frequent viral exacerbations), and chronic mild anemia who presented with acute-on-chronic SOB, orthopnea, and near-syncope. He was found at home confused and hypotensive by his wife, who called EMS. EMS noted tachycardia and O2 sat 86% on RA, improved to 94% on 4L NC. On arrival to ED, hypotensive (SBP 78 mmHg), tachycardic (HR 121), and in moderate respiratory distress. CXR: Pulm edema, cardiomegaly. ECG: Sinus tachycardia, no STEMI. Troponin mildly elevated. Echo: LVEF 15%, severe global hypokinesis, RV mildly reduced. No prior cardiac hx.
+
+He was admitted to ICU for cardiogenic shock (cold/wet), required norepinephrine, dobutamine, and subsequently underwent emergent placement of a temporary percutaneous LVAD (Impella CP) due to persistent shock.
+
+Course complicated by ongoing volume overload, AKI, and ongoing anemia. Also, chronic sinusitis flared during stay, requiring ENT eval and abx.
+
+---
+
+### PAST MEDICAL HISTORY
+
+- Prediabetes (A1c 6.2%)
+- Anemia (baseline Hgb 13.0, now lower)
+- Chronic sinusitis (frequent viral)
+- Hyperlipidemia (remote, untreated)
+
+### PAST SURGICAL HISTORY
+
+- None
+
+### FAMILY HISTORY
+
+- Father: MI at age 59
+- Mother: T2DM, HTN
+
+### SOCIAL HISTORY
+
+- Ex-smoker (quit 1998, 15 pack-years)
+- No EtOH, no illicit drugs
+- Married, lives with wife
+
+### ALLERGIES
+
+- NKDA
+
+### HOME MEDICATIONS
+
+- None reported
+
+---
+
+## ICU HOSPITAL COURSE (Day 1-6)
+
+**DAY 1 (6/18):**  
+- ED: Hypotensive, tachycardic, SOB, O2 4L NC  
+- IV Lasix 40mg x1, started on norepinephrine, dobutamine
+- Labs: Hgb 11.8, Cr 1.2, BNP 1892, Trop 0.13 (peak 0.17)
+- CXR: Pulm edema
+- Echo: LVEF 15%, severe global hypokinesis
+- Admitted to ICU, A-line placed
+- Oliguric, started on gentle diuresis
+- Infectious workup: neg for COVID, flu, RSV
+
+**DAY 2 (6/19):**  
+- Remained hypotensive despite pressors, worsening lactic acidosis
+- Emergent Impella CP placed (femoral)
+- Improved MAP, weaned norepinephrine
+- CVP 18, UOP improved after diuresis
+- Hgb dropped to 10.6, transfused 1U PRBC
+- Infectious: fever 38.3C, WBC 12.5, started empiric vanc/cefepime
+
+**DAY 3 (6/20):**  
+- Hemodynamics stable, Impella support ongoing
+- Troponin trended down, BNP 1590
+- Creatinine uptrending (peak 1.9), nephro consult
+- Sinusitis sx (congestion, purulent d/c), ENT consult, started augmentin
+- Anemia persists (Hgb 9.8), iron studies sent
+
+**DAY 4 (6/21):**  
+- Gradual diuresis, net -1.9L
+- Impella flows decreased to P2, trials off support
+- UOP improved
+- Hgb stable (9.9), Cr 1.6
+- Vitals improved, pressors off
+- O2 sat 98% on 2L NC
+
+**DAY 5 (6/22):**  
+- Impella weaned, device explanted
+- Mild hypotension post-explant, resolved with IVF
+- Echo: LVEF 23%
+- WBC 10.7, afebrile, abx narrowed to augmentin
+- Plan for transfer to step-down
+
+**DAY 6 (6/23):**  
+- Stable, ambulating at bedside
+- O2 sat 97% RA, tolerating diet
+- Persistent mild anemia (Hgb 10.2), iron-deficiency confirmed
+- Discharge planning underway
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. Cardiogenic shock (resolved), acute decompensated HF (EF 15–23%)
+- Initial: Norepi, dobutamine, diuresis, then Impella
+- Now: Off pressors, Impella explanted, hemodynamically stable
+- Plan: Continue gentle diuresis, uptitrate GDMT as tolerated (ACEi, BB), monitor for recurrent shock, daily weights, strict I/Os
+
+### 2. Acute kidney injury (multifactorial: prerenal, cardiorenal)
+- Cr peaked 1.9, improved to 1.3
+- Plan: Renal dose diuretics, avoid nephrotoxins, monitor lytes, daily BMP
+
+### 3. Anemia (chronic, worsened acutely)
+- Baseline Hgb 13, nadir to 9.8 during stay
+- Iron-deficiency on workup, no active bleed
+- Plan: Continue oral iron, monitor Hgb, consider GI eval outpatient
+
+### 4. Chronic sinusitis, acute viral flare with secondary bacterial infection
+- ENT: purulent discharge, facial tenderness
+- Plan: Augmentin x10d, nasal saline, follow-up ENT outpatient
+
+### 5. Prediabetes
+- A1c 6.2% on admission
+- Plan: Monitor glucose, diabetic diet, f/u PCP
+
+### 6. Hyperlipidemia (untreated)
+- TC 173, LDL 78, HDL 74, TG 104
+- Plan: Start statin when stable, f/u lipid panel outpatient
+
+### 7. Hospital-acquired infection risk
+- On broad-spectrum abx, now narrowed
+- Plan: Monitor for fever, WBC, remove lines ASAP
+
+### 8. Disposition/Social
+- Stable for step-down, discharge planning with wife
+- Needs HF teaching, home BP cuff, scale
+
+---
+
+## ICU VITALS & LABS (Selected)
+
+**Table 1: Chem 7, CBC, Cardiac Markers, Others**
+
+| Date       | Na  | K   | Cl  | CO2 | BUN | Cr  | Glu | WBC  | Hgb  | Plt  | Trop   | BNP   | AST | ALT | Ferritin | TIBC | Fe   |
+|------------|-----|-----|-----|-----|-----|-----|-----|------|------|------|--------|-------|-----|-----|----------|------|------|
+| 6/18/2024  | 140 | 4.7 | 109 | 21  | 18  | 1.2 | 76  | 10.2 | 11.8 | 390  | 0.13   | 1892  | 34  | 29  |          |      |      |
+| 6/19/2024  | 139 | 4.9 | 108 | 19  | 23  | 1.5 | 81  | 12.5 | 10.6 | 382  | 0.17   | 1703  | 44  | 38  |          |      |      |
+| 6/20/2024  | 138 | 5.1 | 110 | 18  | 28  | 1.9 | 88  | 11.3 | 9.8  | 374  | 0.11   | 1590  | 48  | 42  | 97       | 270  | 29   |
+| 6/21/2024  | 140 | 4.5 | 107 | 22  | 20  | 1.6 | 92  | 10.8 | 9.9  | 362  | <0.01  |       | 36  | 33  | 104      | 260  | 38   |
+| 6/22/2024  | 142 | 4.2 | 108 | 24  | 16  | 1.3 | 98  | 10.7 | 10.1 | 355  | <0.01  | 1450  |     |     |          |      |      |
+| 6/23/2024  | 141 | 4.1 | 109 | 25  | 15  | 1.2 | 102 | 10.9 | 10.2 | 357  | <0.01  |       |     |     |          |      |      |
+
+*Note: Some labs missing/not drawn daily.*
+
+---
+
+## PHYSICAL EXAM (6/23/2024)
+
+- **General:** Alert, NAD, mild fatigue
+- **HEENT:** Mild periorbital swelling, nasal congestion, purulent d/c, no meningismus
+- **CV:** RRR, S3 present, JVP 12cm, trace pedal edema
+- **Resp:** Bibasilar crackles, improved from baseline
+- **ABD:** NT, ND, no HSM
+- **Skin:** Warm, dry, no rashes
+- **Neuro:** AOx3, no focal deficits
+
+---
+
+## ICU FLOW SHEET (selected)
+
+| Date       | HR  | BP        | RR | Temp | SpO2 | O2 Device | UOP (mL/24hr) |
+|------------|-----|-----------|----|------|------|-----------|---------------|
+| 6/18/2024  | 121 | 78/52     | 28 | 36.9 | 94%  | 4L NC     | 550           |
+| 6/19/2024  | 112 | 86/60     | 25 | 38.3 | 96%  | 5L NC     | 980           |
+| 6/20/2024  | 106 | 92/64     | 21 | 37.5 | 98%  | 2L NC     | 1700          |
+| 6/21/2024  | 98  | 110/72    | 20 | 37.0 | 98%  | 2L NC     | 2150          |
+| 6/22/2024  | 90  | 114/75    | 17 | 36.7 | 98%  | RA        | 2250          |
+| 6/23/2024  | 84  | 118/78    | 16 | 36.8 | 97%  | RA        | 2100          |
+
+---
+
+## DISCHARGE PLANNING
+
+- Anticipate transfer to step-down 6/24/2024
+- Home with wife, close f/u with cardiology, ENT, nephrology, PCP
+- Cardiac rehab referral
+- Home meds: Lasix 20mg daily, iron sulfate 325mg BID, augmentin x4d, ASA 81mg
+- HF teaching, daily weights, low salt diet
+
+---
+
+**Signed:**  
+Dr. M. Ghosh, PGY-2  
+ICU Resident, UMC Hospital  
+06/23/2024 07:02
+
+---
+
+**[End of Note]**

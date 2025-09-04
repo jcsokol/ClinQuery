@@ -1,0 +1,134 @@
+**Patient Name:** Everette Davis  
+**MRN:** 0092345-ED  
+**DOB:** 12/04/1976  
+**Sex:** M  
+**Admit Date:** 04/12/2024  
+**Attending:** Dr. H. Lin  
+**Service:** MICU  
+**Consults:** Cardiology, Infectious Disease  
+**Location:** ICU, Bed 8A
+
+---
+
+**History of Present Illness:**  
+Mr. Everette Davis is a 47-year-old male with a history of obesity (BMI 30+), chronic sinusitis, and recent viral pharyngitis and bronchitis, who presented to the ED with 5 days of progressive dyspnea, orthopnea, lower extremity edema, and productive cough. He denied chest pain but reported palpitations, fatigue, and poor oral intake. He developed acute hypoxic respiratory failure requiring intubation and was transferred to the ICU. During the ICU stay, he developed acute decompensated heart failure with cardiogenic shock, requiring vasopressor support and emergent placement of a percutaneous left ventricular assist device (Impella CP).
+
+---
+
+**Hospital Course:**  
+- **Day 1:** Presented with severe SOB, tachycardia, hypotension. Initial labs showed leukocytosis, elevated BNP, and troponin I. CXR: pulmonary edema. Started on BiPAP, transitioned to intubation for worsening hypoxia.  
+- **Day 2:** Developed hypotension refractory to fluids, started on norepinephrine. Echo: severe global LV dysfunction (EF 15%). Cardiology consulted, Impella CP placed at bedside.  
+- **Day 3-5:** Gradual hemodynamic improvement, weaned off pressors. Developed AKI, monitored closely.  
+- **Day 6-8:** Renal function stabilized. Impella weaned and removed. Extubated successfully.  
+- **Day 9-10:** Ongoing diuresis, transitioned to oral heart failure regimen. Discharged to telemetry floor for continued care.
+
+---
+
+**Vital Signs (Selected):**
+
+| Date     | Temp (C) | HR  | BP         | RR | O2 Sat | Weight (kg) |
+|----------|----------|-----|------------|----|--------|-------------|
+| 4/12/24  | 37.6     | 112 | 88/52      | 24 | 89% RA | 81.4        |
+| 4/13/24  | 38.0     | 105 | 93/60      | 22 | 93% FiO2| 80.7        |
+| 4/14/24  | 37.2     | 98  | 102/66     | 20 | 97% ETT| 80.0        |
+| 4/17/24  | 36.8     | 86  | 117/75     | 18 | 98% RA | 78.1        |
+| 4/19/24  | 37.0     | 82  | 124/78     | 16 | 98% RA | 77.5        |
+
+---
+
+**Laboratory Data:**
+
+| Date     | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin I | BNP   | AST  | ALT  |
+|----------|------|------|------|------|------|------|------|------|------|------|------|------------|-------|------|------|
+| 4/12/24  | 16.2 | 15.1 | 44.2 | 322  | 131  | 5.2  | 102  | 19   | 29   | 1.7  | 138  | 0.44       | 3120  | 58   | 45   |
+| 4/13/24  | 14.7 | 14.3 | 41.8 | 298  | 133  | 4.8  | 100  | 22   | 34   | 2.2  | 142  | 0.38       | 2800  | 71   | 68   |
+| 4/14/24  | 12.1 | 13.2 | 39.5 | 277  | 137  | 4.2  | 104  | 24   | 31   | 1.9  | 134  | 0.21       | 2100  | 62   | 55   |
+| 4/15/24  | 11.3 |      |      | 263  | 138  | 4.0  | 105  | 26   |      | 1.6  | 126  |            | 1500  |      |      |
+| 4/17/24  | 9.8  | 12.7 | 36.2 | 240  | 140  | 3.7  | 106  | 27   | 24   | 1.3  | 119  | 0.09       | 900   | 39   | 41   |
+| 4/19/24  | 8.7  | 12.2 | 34.9 | 218  | 142  | 3.9  | 108  | 27   | 18   | 1.1  | 118  | 0.03       | 620   | 31   | 29   |
+
+*Some labs not collected every day. Troponin and BNP trended as indicated. LFTs obtained due to shock liver risk.*
+
+---
+
+**Imaging:**
+- **CXR 4/12/24:** Diffuse bilateral pulmonary edema, mild cardiomegaly.
+- **Echo 4/13/24:** Severe LV systolic dysfunction (EF 15%), moderate MR, RV function mildly reduced, no pericardial effusion.
+- **Renal US 4/14/24:** No hydronephrosis.
+
+---
+
+**Problem-Based Assessment and Plan**
+
+**1. Acute Decompensated Heart Failure / Cardiogenic Shock (s/p Impella CP)**
+   - Hx severe LV dysfunction, shock requiring temporary mechanical support.
+   - **Assessment:** Cardiogenic shock secondary to acute on chronic LV failure, likely precipitated by viral illness.
+   - **Plan:**  
+     - Continue aggressive diuresis (IV furosemide).
+     - Monitor hemodynamics, daily weights, strict I/O.
+     - Continue GDMT: initiate low-dose carvedilol, sacubitril/valsartan, spironolactone.
+     - Monitor for arrhythmias.
+     - Cardiology f/u.
+     - Patient/family education re: advanced therapies.
+
+**2. Acute Hypoxic Respiratory Failure (resolved)**
+   - Intubated for hypoxia, now extubated, weaning O2.
+   - **Plan:** Pulm hygiene, incentive spirometry, monitor ABGs, continue bronchodilators PRN.
+
+**3. Acute Kidney Injury (resolved)**
+   - Likely multifactorial (hypoperfusion, nephrotoxic exposure).
+   - **Plan:** Monitor renal function, avoid nephrotoxins, optimize volume status.
+
+**4. Obesity (BMI 30+)**
+   - **Plan:** Dietician consult, low-salt, heart failure diet, encourage mobility as tolerated.
+
+**5. Chronic Sinusitis, Recent Bronchitis/Pharyngitis**
+   - **Plan:** Supportive care, consider ENT f/u outpatient.
+
+**6. Pain (mild, 2-3/10)**
+   - **Plan:** Acetaminophen PRN, avoid NSAIDs.
+
+**7. Psychosocial**
+   - **Plan:** Social work consult for rehab placement, psychiatric screening for adjustment.
+
+**8. DVT Prophylaxis**
+   - **Plan:** SCDs, SQ heparin.
+
+**9. Stress Ulcer Prophylaxis**
+   - **Plan:** PPI while NPO/intubated.
+
+---
+
+**Medications:**
+- Acetaminophen 325 mg PO q6h PRN
+- Furosemide IV
+- Carvedilol 3.125 mg PO BID (initiated day 7)
+- Sacubitril/valsartan 24/26 mg PO BID
+- Spironolactone 12.5 mg PO daily
+- Pantoprazole 40 mg IV daily
+- Heparin SQ 5000 units q12h
+
+---
+
+**Discharge Planning:**  
+Anticipate transfer to telemetry floor, then cardiac rehab. Close f/u with cardiology, primary care, and heart failure team.
+
+---
+
+**Provider:** H. Lin, MD  
+**Date/Time:** 4/20/2024 09:13
+
+---
+
+**Additional Notes:**  
+- Code status: Full  
+- Allergies: NKDA  
+- Immunizations: Up to date per chart  
+- No evidence of acute infection on recent cultures; viral panel positive for rhinovirus.  
+- Family updated daily; patient oriented x3 after extubation.  
+- Wound at Impella site clean, dry, intact.  
+- Home meds: acetaminophen only prior to admit.  
+
+---
+
+**End of Note**

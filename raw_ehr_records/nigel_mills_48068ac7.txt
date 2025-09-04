@@ -1,0 +1,193 @@
+---
+**EHR: EPIC INPATIENT NOTE**
+
+**Patient Name:** Nigel Mills  
+**MRN:** 00824751  
+**DOB:** 01/23/1974  
+**Sex:** Male  
+**Date of Admission:** 06/02/2024  
+**Attending:** Dr. Samuel Levine  
+**Location:** MICU, Bed 4
+
+---
+
+### ADMISSION SUMMARY
+
+**Chief Complaint:**  
+Acute onset dyspnea, chest discomfort, and near-syncope at home.
+
+**History of Present Illness:**  
+49-year-old obese male with PMHx of chronic sinusitis, obesity, acute bronchitis, and recent hand laceration, presenting with 2 days of progressive SOB, orthopnea, and mild chest pain. No prior cardiac history. On arrival: O2 sat 87% RA, BP 85/55, HR 122, RR 28, afebrile. CXR: pulmonary edema. Troponin I 1.8 ng/mL. Bedside echo: severely reduced LVEF (~18%), global hypokinesis, LV dilation. Cardiogenic shock suspected. Required pressors, urgent placement of left-sided temporary LVAD (Impella CP) in cath lab for hemodynamic support.
+
+**Allergies:**  
+NKDA
+
+**Home Medications:**  
+- Acetaminophen 325 mg PO q6h PRN pain
+
+**Social History:**  
+- Non-smoker, rare EtOH, works as accountant.  
+- Lives with spouse, 2 children.  
+- No illicit drug use.
+
+**Family History:**  
+- Father: MI age 57  
+- Mother: HTN, T2DM
+
+---
+
+### PAST MEDICAL HISTORY
+
+- Chronic sinusitis  
+- Obesity (BMI previously >30, currently 28.6)  
+- Acute bronchitis (remote, 2022)  
+- Laceration of hand (resolved, 2023)
+
+---
+
+### PAST SURGICAL HISTORY
+
+- None
+
+---
+
+### PHYSICAL EXAM (ICU DAY 2)
+
+| System         | Findings                                                   |
+|----------------|-----------------------------------------------------------|
+| General        | Obese male, mild distress, sedated but arousable          |
+| HEENT          | Sinus tenderness, no JVD                                   |
+| CV             | Tachycardic, S3, no murmurs, Impella hum present          |
+| Pulm           | Crackles at bases, decreased breath sounds left lower lobe |
+| Abd            | Soft, NT, +BS                                              |
+| Ext            | No edema, hand wound well-healed                           |
+| Skin           | Warm, dry                                                  |
+| Neuro          | A&Ox2, drowsy, follows commands                            |
+
+---
+
+### ICU VITALS (selected)
+
+| Date        | BP        | HR   | RR  | SpO2 | Temp (C) | Weight (kg) |
+|-------------|-----------|------|-----|------|----------|-------------|
+| 6/2/24 08:00| 85/55     | 122  | 28  | 87%  | 36.8     | 84.0        |
+| 6/2/24 22:00| 97/62     | 105  | 23  | 92%  | 37.1     | 84.2        |
+| 6/3/24 08:00| 102/64    | 96   | 20  | 94%  | 36.9     | 83.8        |
+| 6/4/24 08:00| 110/74    | 88   | 18  | 96%  | 36.6     | 83.6        |
+
+---
+
+### LABS (CBC, CHEM7, Cardiac, Liver - selected)
+
+| Date/Time   | WBC   | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin I | AST  | ALT  | Bili | BNP    |
+|-------------|-------|-------|-------|-------|------|------|------|------|------|------|------|------------|------|------|------|--------|
+| 6/2 08:15   | 6.1   | 14.3  | 48.2  | 425   | 135  | 5.2  | 102  | 19   | 32   | 2.1  | 128  | 1.8        | 62   | 44   | 1.0  | 4,900  |
+| 6/2 16:00   | 6.7   | 13.8  | 46.9  | 399   | 137  | 4.8  | 104  | 20   | 28   | 1.7  | 116  | 1.5        | 48   | 39   | 0.9  | -      |
+| 6/3 06:00   | 7.3   | 13.5  | 45.7  | 374   | 139  | 4.4  | 107  | 22   | 22   | 1.3  | 110  | 0.8        | 34   | 29   | 0.7  | 2,800  |
+| 6/4 07:00   | 7.0   | 13.4  | 45.1  | 362   | 140  | 4.1  | 108  | 23   | 18   | 1.0  | 104  | <0.04      | 27   | 22   | 0.6  | 1,500  |
+| 6/5 07:00   | 6.8   | 13.6  | 45.9  | 370   | 139  | 4.2  | 109  | 23   | 17   | 0.9  | 98   | <0.04      | -    | -    | -    | 1,000  |
+
+---
+
+### HOSPITAL COURSE
+
+**ICU Day 1:**  
+- Admitted in cardiogenic shock.  
+- Intubated for hypoxia/resp distress.  
+- Started on norepinephrine, dobutamine.  
+- Emergent Impella CP placed for LV support.  
+- Diuresed with IV furosemide.  
+- Started empiric ceftriaxone/azithro for possible pneumonia.  
+- Monitored for arrhythmia; no VT/VF.  
+- Serial troponin trended down.
+
+**ICU Day 2-3:**  
+- Weaned off pressors by day 3.  
+- Extubated day 3.  
+- Renal function improved, no need for RRT.  
+- Impella flows adequate, no hemolysis.  
+- Daily echo: LVEF improved to ~32% by day 3.
+
+**ICU Day 4-5:**  
+- Impella removed on day 4, hemodynamics stable.  
+- Transitioned to oral HF regimen (metoprolol, sacubitril-valsartan, spironolactone).  
+- Physical therapy started.  
+- Infectious workup negative; abx d/c’d.
+
+**ICU Day 6:**  
+- Transferred to stepdown, ambulating with assistance.  
+- Plan: cardiac rehab, outpatient f/u for advanced HF therapy eval.
+
+---
+
+### ASSESSMENT & PLAN (Problem-based)
+
+1. **Cardiogenic Shock s/p Acute Decompensated Heart Failure, Recovered**
+   - Initial presentation with shock, severe LV dysfunction
+   - Managed with temporary LVAD (Impella CP), inotropes, diuresis
+   - LVEF improved, Impella removed, now stable
+   - Plan: Continue guideline-directed medical therapy (GDMT), close cardiac f/u, consider advanced therapies if recurrent
+
+2. **Obesity (BMI 28.6)**
+   - Weight trending down, likely fluid loss
+   - Plan: Nutrition consult, low-salt diet, weight loss counseling
+
+3. **Chronic Sinusitis**
+   - No acute sinus symptoms
+   - Plan: Resume fluticasone nasal spray PRN
+
+4. **History of Acute Bronchitis**
+   - No current symptoms; CXR negative for consolidation
+   - Plan: Monitor, no abx needed
+
+5. **Hand Laceration (resolved)**
+   - Scar visualized, no sign of infection
+   - Plan: No intervention
+
+6. **Acute Kidney Injury (resolved)**
+   - Initial Cr 2.1, improved to 0.9
+   - Plan: Monitor renal function, avoid nephrotoxins
+
+7. **Hypervolemia/pulmonary edema (resolved)**
+   - Responded to diuresis
+   - Plan: Continue fluid balance, daily weights
+
+8. **Possible Hospital-acquired Infection (ruled out)**
+   - Negative cultures, abx stopped
+   - Plan: None
+
+9. **Discharge Planning**
+   - PT/OT ongoing, home care arranged
+   - Cardiology, HF clinic f/u in 1 week
+   - Education: Meds, diet, s/sx of HF
+
+---
+
+### PROCEDURES
+
+- **Left-sided temporary LVAD (Impella CP) placement**: Left femoral access, fluoroscopic guidance, no complications.
+- **Central line insertion (IJ)**
+- **Arterial line (radial)**
+- **Intubation (ICU Day 1)**
+- **Echo x3**
+
+---
+
+### DISCHARGE MEDICATIONS (planned)
+
+- Metoprolol succinate 25 mg daily
+- Sacubitril-valsartan 24/26 mg BID
+- Spironolactone 25 mg daily
+- Furosemide 20 mg daily
+- Acetaminophen 325 mg PRN
+
+---
+
+### SIGNED  
+Samuel Levine, MD  
+Cardiology/ICU  
+06/07/2024 09:15
+
+---
+
+**[End of Note]**

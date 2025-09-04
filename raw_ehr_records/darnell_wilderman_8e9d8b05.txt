@@ -1,0 +1,245 @@
+**Darnell Wilderman**  
+MRN: 003948211  
+DOB: 10/27/1921 (Age: 102)  
+Sex: Male  
+Admit Date: 3/14/2024  
+Attending: W. Choi, MD  
+Unit: MICU  
+Note Date: 3/18/2024  
+Type: Progress Note - ICU  
+-------------------------------
+
+**Chief Complaint:**  
+Progressive shortness of breath, orthopnea, and LE edema.
+
+---
+
+**History of Present Illness:**  
+Mr. Darnell Wilderman is a 102-year-old male with a history significant for obesity (BMI ~30), prediabetes, chronic anemia, advanced prostate neoplasm (with prior carcinoma in situ, on leuprolide and docetaxel), osteoarthritis, chronic pain, and early-onset familial Alzheimer’s disease, who presented to the ED after 3 days of worsening dyspnea, paroxysmal nocturnal dyspnea, and new LE swelling. He was recently treated for acute bronchitis with amoxicillin/clavulanate. On arrival, he was hypoxic (O2 sat 85% on RA), tachypneic, and found to have bibasilar rales, JVD, and S3 gallop. Bedside echo in ED showed severely reduced LVEF (~20%), moderate MR, and elevated RVSP. Troponin mildly elevated, BNP >1800. He was admitted to MICU for acute decompensated heart failure (HF) with cardiogenic shock.  
+Due to persistent hypotension despite high-dose inotropes and escalating O2 requirements, he underwent placement of a percutaneous left ventricular assist device (Impella CP) on hospital day 2.
+
+---
+
+**Past Medical History:**  
+- Osteoarthritis, bilateral knees  
+- Obesity (BMI ~30)  
+- Prediabetes  
+- Chronic anemia  
+- Prostate neoplasm, hx carcinoma in situ (on hormonal/chemo)  
+- Early-onset familial Alzheimer’s disease  
+- Chronic pain  
+- S/p laceration foot  
+- Recent acute bronchitis, acute bacterial sinusitis
+
+**Past Surgical History:**  
+- TURP (2019)  
+- L knee arthroscopy (2015)
+
+**Medications on Admission:**  
+- Naproxen 220mg PRN  
+- Oxycodone/Acetaminophen 5/325mg PRN  
+- Docetaxel 20mg/mL injection  
+- Leuprolide 30mg/mL  
+- Ibuprofen 200mg PRN  
+- Acetaminophen 325mg PRN  
+- Amox/Clav 250/125mg (recent)
+
+**Allergies:**  
+NKDA
+
+**Social History:**  
+Retired, widower, lives with daughter. No tobacco, rare ETOH. No illicit drug use.
+
+**Family History:**  
+Positive for Alzheimer’s, T2DM, CAD.
+
+---
+
+**Physical Exam (3/18/2024):**  
+VS: T 36.9°C, HR 109, BP 92/54 (MAP 66), RR 23, SpO2 96% (2L NC)  
+Gen: Elderly, frail, cachectic, intubated, sedated, on Impella support  
+CV: JVD 12cm, S3, soft systolic murmur, no rubs, cold extremities  
+Resp: Bibasilar crackles, decreased breath sounds RLL  
+Abd: Soft, mild distention, no rebound  
+Ext: 2+ pitting edema to knees  
+Neuro: Nonverbal, opens eyes to pain, MMSE 4/30  
+Skin: Stage 1 sacral ulcer, ecchymosis on arms
+
+---
+
+**Hospital Course (Summary):**  
+- Day 1: Admitted with ADHF, escalating O2, SBP <85, started on dobutamine and nitroprusside.  
+- Day 2: Worsening shock, Impella CP placed.  
+- Day 3: Improved hemodynamics, persistent oliguria, worsening creatinine.  
+- Day 4: Weaned dobutamine, extubated, but delirium persists.  
+- Day 5: Ongoing diuresis, mild improvement in renal function, Impella wean trial started.
+
+---
+
+# **Assessment/Plan (Problem-Based)**
+
+**1. Cardiogenic Shock, ADHF, Severe LV Dysfunction**  
+- Impella CP placed day 2 for refractory shock  
+- Dobutamine weaned off, MAPs stable >65  
+- Continue Impella, daily echo  
+- Titrate diuresis (IV furosemide)  
+- Monitor for device complications (limb ischemia, hemolysis, infection)  
+- Consider advanced care planning/goals of care
+
+**2. Acute Kidney Injury (on CKD?)**  
+- Baseline Cr ~0.8, peaked 2.1 on HD3, now 1.7  
+- Oliguria improved with diuresis  
+- Monitor UOP, daily lytes, strict I/Os  
+- Avoid nephrotoxins
+
+**3. Prostate CA (on Hormonal/Chemo)**  
+- Last docetaxel 2 weeks ago  
+- Leuprolide on schedule  
+- PSA elevated (last 7.3)  
+- Onc consult: hold chemo until hemodynamics stable  
+- Monitor for neutropenia
+
+**4. Chronic Anemia**  
+- Hgb 8.2-10.0 during stay, no overt bleeding  
+- Folate, B12, Fe panel sent  
+- Transfuse if Hgb <7 or symptomatic
+
+**5. Alzheimer’s Disease, Delirium**  
+- Baseline severe dementia (MMSE 4/30)  
+- ICU delirium, nonverbal, fluctuating arousal  
+- Nonpharm: reorientation, sleep hygiene  
+- Avoid benzos/antipsychotics if possible
+
+**6. Obesity, Prediabetes**  
+- BGs 90-160 on sliding scale insulin  
+- Continue low-carb diet, monitor A1c (last 6.1%)
+
+**7. Osteoarthritis, Chronic Pain**  
+- PRN acetaminophen, avoid NSAIDs d/t renal fx  
+- PT consult for mobility after extubation
+
+**8. Recent Infections**  
+- S/p bronchitis, sinusitis  
+- No new fevers, procalcitonin negative  
+- Continue to monitor for VAP, CLABSI
+
+**9. DVT Prophylaxis**  
+- On SCDs, SQ heparin  
+- LE dopplers negative for DVT
+
+**10. Skin Integrity**  
+- Stage 1 sacral ulcer  
+- Turn q2h, barrier cream
+
+---
+
+# **LABS**
+
+**CBC & CHEMISTRIES (Selected values, ICU stay):**
+
+| Date       | WBC (K) | Hgb (g/dL) | Hct (%) | Plt (K) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|------------|---------|------------|---------|---------|-------------|------------|-------------|--------------|-------------|------------|-------------|
+| 3/14 06:40 | 11.2    | 9.5        | 31.2    | 308     | 139         | 4.2        | 104         | 25           | 18          | 0.9        | 142         |
+| 3/15 05:12 | 13.4    | 8.7        | 28.9    | 274     | 140         | 4.8        | 106         | 23           | 22          | 1.4        | 167         |
+| 3/16 04:50 | 12.1    | 8.2        | 27.4    | 256     | 142         | 5.7        | 107         | 19           | 41          | 2.1        | 153         |
+| 3/17 06:28 | 10.1    | 9.0        | 29.8    | 312     | 144         | 4.3        | 103         | 24           | 28          | 1.7        | 134         |
+| 3/18 07:03 | 9.9     | 9.7        | 31.6    | 301     | 142         | 4.0        | 105         | 25           | 20          | 1.2        | 121         |
+
+**Other Labs:**
+
+| Date       | Troponin I (ng/mL) | BNP (pg/mL) | AST (U/L) | ALT (U/L) | Alk Phos (U/L) | Total Bili (mg/dL) | PSA (ng/mL) | Procalcitonin (ng/mL) |
+|------------|--------------------|-------------|-----------|-----------|----------------|--------------------|-------------|-----------------------|
+| 3/14       | 0.12               | 1893        | 31        | 38        | 143            | 1.0                | 7.3         | 0.09                  |
+| 3/16       | 0.09               | 1560        | 28        | 33        | 139            | 1.1                | 7.2         | <0.05                 |
+| 3/18       | 0.08               | 1330        | 25        | 29        | 137            | 1.1                | 7.1         | <0.05                 |
+
+*Some labs not drawn each day due to line issues/clinical reasons.*
+
+---
+
+# **Imaging/Procedures**
+
+- **3/14**: CXR: Pulmonary edema, small bilateral effusions, cardiomegaly  
+- **3/14**: TTE: LVEF 20%, moderate MR, RVSP 54 mmHg  
+- **3/15**: R heart cath: PCWP 28, CI 1.7, SVR 1520, supporting cardiogenic shock dx  
+- **3/15**: Impella CP placed, no immediate complications  
+- **3/17**: Repeat TTE: LVEF 25%, Impella well-positioned
+
+---
+
+# **Orders/Interventions**
+
+- Impella CP LVAD (percutaneous, via L femoral)  
+- Dobutamine IV gtt (tapered off HD4)  
+- Furosemide IV (goal net negative 1-2L/day)  
+- Heparin SQ for DVT ppx  
+- Telemetry, A-line, Foley  
+- Daily labs, CXR PRN  
+- PT/OT consult, wound care
+
+---
+
+# **Discharge Planning**
+
+- Awaiting improvement for device wean  
+- Family meeting scheduled for goals of care  
+- Anticipate transfer to stepdown if stable  
+- Consideration for SNF vs home hospice depending on recovery
+
+---
+
+# **Summary**
+
+Mr. Wilderman is a 102-year-old male with advanced comorbidities admitted with cardiogenic shock, now stabilized on temporary LV support (Impella). He remains critically ill, with tenuous organ function and significant risk for further decompensation. Prognosis guarded.
+
+---
+
+**Signed:**  
+W. Choi, MD  
+MICU/Heart Failure Team
+
+---
+
+**(Continued on next page...)**
+
+---
+
+**Page 2: Flowsheet Excerpt**
+
+| Date/Time       | Temp (C) | HR   | BP (mmHg) | MAP | RR  | SpO2 | O2 Device | UOP (mL/24h) | I/O Net (L) | Pain Score |
+|-----------------|----------|------|-----------|-----|-----|------|-----------|--------------|-------------|------------|
+| 3/14 06:00      | 37.2     | 102  | 86/54     | 62  | 24  | 89%  | 6L NRB    | 400          | +1.1        | 5          |
+| 3/15 07:00      | 36.8     | 109  | 88/48     | 61  | 27  | 94%  | 2L NC     | 250          | +0.2        | 3          |
+| 3/16 06:00      | 36.7     | 114  | 92/54     | 66  | 22  | 98%  | RA        | 800          | -0.6        | 2          |
+| 3/17 07:00      | 36.9     | 99   | 104/62    | 76  | 19  | 97%  | RA        | 1200         | -1.4        | 0          |
+| 3/18 07:00      | 37.0     | 92   | 110/65    | 80  | 18  | 97%  | RA        | 1200         | -1.6        | 0          |
+
+---
+
+**Page 3: Medication Administration Record (MAR) Excerpt**
+
+| Date  | Medication               | Dose    | Route | Frequency | Last Given | Notes              |
+|-------|--------------------------|---------|-------|-----------|------------|--------------------|
+| 3/14  | Dobutamine               | 5 mcg/kg/min | IV | cont      | 3/17 18:00 | Tapered off 3/17   |
+| 3/14  | Nitroprusside            | 0.5 mcg/kg/min | IV | cont      | 3/15 03:00 | D/C after Impella  |
+| 3/15  | Furosemide               | 40 mg   | IV    | BID       | 3/18 08:00 |                    |
+| 3/14  | Acetaminophen            | 650 mg  | PO    | PRN       | 3/17 23:00 | For pain/fever     |
+| 3/14  | Oxycodone/Acetaminophen  | 5/325 mg| PO    | PRN       | 3/15 10:00 |                    |
+| 3/14  | Leuprolide               | 30 mg   | SQ    | Monthly   | 3/10       | Onc to resume post-ICU |
+| 3/14  | Docetaxel                | 20 mg   | IV    | q3wks     | 2/29       | Hold per Onc       |
+| 3/14  | Heparin                  | 5000 U  | SQ    | TID       | 3/18 07:00 | DVT prophylaxis    |
+
+---
+
+**Page 4: Clinical Events/Consults**
+
+- **3/14:** Cardiology consult, heart failure team, Onc consult  
+- **3/15:** Impella CP placed, R heart cath  
+- **3/15:** Nephrology consult for AKI  
+- **3/16:** PT/OT, wound care, ethics consult for goals of care  
+- **3/17:** Attempted extubation, delirium management, Impella wean initiated  
+- **3/18:** Family meeting scheduled, awaiting further stabilization
+
+---
+
+**(End of note. See chart for full details and scanned documents.)**

@@ -1,0 +1,123 @@
+```
+----------------------------------------------------------------------
+Patient Name: Timothy Frami            MRN: 00821934
+DOB: 10/17/1973                        Sex: Male
+Date of Admission: 04/06/2024          Attending: Dr. K. Wilson
+----------------------------------------------------------------------
+
+ADMISSION DIAGNOSIS
+  - Cardiogenic shock secondary to acute decompensated heart failure
+  - Obesity (BMI >30)
+  - Streptococcal pharyngitis, resolved
+  - Acute viral pharyngitis, resolved
+  - Remote whiplash injury to neck
+
+HOSPITAL COURSE SUMMARY:
+Mr. Frami is a 50-year-old male with a history of obesity, recent upper respiratory infections (viral and strep pharyngitis), and remote whiplash injury who presented to the ED with progressive dyspnea, orthopnea, fatigue, and lower extremity edema. His initial exam was notable for hypotension (SBP 82 mmHg), tachycardia (HR 112), JVD, and bibasilar crackles. Labs and TTE revealed reduced LVEF (~15%), elevated BNP (2100 pg/mL), and troponin T 0.13 ng/mL. He rapidly deteriorated into cardiogenic shock requiring norepinephrine, furosemide, and urgent placement of a percutaneous LV assist device (Impella CP) in the CCU. Course complicated by AKI, mild transaminitis, and delirium.
+
+----------------------------------------------------------------------
+
+VITALS & MEDICATIONS
+Height: 191.9 cm   Weight: 102.4 kg   BMI: 27.8 (recent BMI >30 documented)
+Temp: 37.7°C       BP: 82/54 mmHg on admission, improved to 108/67
+HR: 112 → 84 bpm   RR: 24 → 18/min   O2 Sat: 94% RA → 98% on 2L NC
+
+Active Medications:
+- Furosemide IV
+- Norepinephrine IV (discontinued HD #3)
+- Impella CP (in place HD #1–4, removed HD #4)
+- Aspirin 81 mg PO daily
+- Atorvastatin 40 mg PO qHS
+- Penicillin V (completed for previous strep)
+- Ibuprofen PRN (not given during ICU course)
+- Lisinopril initiated HD #5
+
+----------------------------------------------------------------------
+
+LABS (Selected, see full table below)
+Day 1 (ED):    WBC 13.1, Hgb 15.2, Plt 297, Na 132, K 4.3, Cr 1.7, Glu 119, BNP 2100, Trop 0.13
+Day 2 (ICU):   WBC 12.8, Hgb 14.7, Plt 249, Na 134, K 4.7, Cr 1.9, Glu 107, AST 88, ALT 61
+Day 3 (ICU):   WBC 10.4, Hgb 13.9, Plt 211, Na 136, K 4.1, Cr 2.2, Glu 103
+Day 4 (ICU):   WBC 9.8, Hgb 13.5, Plt 204, Na 137, K 4.3, Cr 1.6, Glu 98, AST 44, ALT 32
+Day 5 (Telemetry): WBC 8.4, Hgb 13.2, Plt 188, Na 139, K 4.2, Cr 1.2, Glu 94
+
+----------------------------------------------------------------------
+
+LAB TABLE: CBC, CHEM7, SELECTED OTHERS
+
+| Date        | WBC   | Hgb  | Plt  | Na   | K    | Cl   | HCO3 | BUN  | Cr   | Glu  | AST  | ALT  | BNP   | Trop  |
+|-------------|-------|------|------|------|------|------|------|------|------|------|------|------|-------|-------|
+| 4/6/24      | 13.1  | 15.2 | 297  | 132  | 4.3  | 98   | 22   | 32   | 1.7  | 119  | 77   | 49   | 2100  | 0.13  |
+| 4/7/24      | 12.8  | 14.7 | 249  | 134  | 4.7  | 101  | 21   | 45   | 1.9  | 107  | 88   | 61   | 1500  | 0.09  |
+| 4/8/24      | 10.4  | 13.9 | 211  | 136  | 4.1  | 100  | 23   | 54   | 2.2  | 103  | ---  | ---  | ---   | ---   |
+| 4/9/24      | 9.8   | 13.5 | 204  | 137  | 4.3  | 101  | 25   | 38   | 1.6  | 98   | 44   | 32   | 890   | 0.04  |
+| 4/10/24     | 8.4   | 13.2 | 188  | 139  | 4.2  | 103  | 27   | 31   | 1.2  | 94   | ---  | ---  | 620   | <0.01 |
+
+*Some labs not collected daily or resulted after discharge from ICU.
+
+----------------------------------------------------------------------
+
+PROBLEM-BASED ASSESSMENT & PLAN
+
+1. **Cardiogenic Shock, Acute Decompensated HF (EF 15%)**
+   - Initial presentation with hypotension, pulmonary edema, elevated BNP/trop. Required vasoactive support and temporary LVAD (Impella CP) placement HD #1. Device removed HD #4 after hemodynamic improvement.
+   - Echo: LVEF 15%, globally reduced, moderate MR, mild RV dysfunction.
+   - Plan: Continue GDMT for HFrEF (lisinopril, beta-blocker to be started after euvolemia), f/u with HF clinic, strict I/Os, fluid restriction.
+
+2. **Acute Kidney Injury (KDIGO II)**
+   - Likely multifactorial: low output state, nephrotoxic exposure (contrast), diuretics.
+   - Cr peaked 2.2, improved to 1.2 with improved perfusion/diuretic titration.
+   - Plan: Monitor renal function, avoid nephrotoxins, adjust meds as needed.
+
+3. **Obesity (BMI >30, baseline)**
+   - Contributes to HF/HTN risk. Weight loss discussed.
+   - Plan: Nutritional consult, daily weights, counseling.
+
+4. **Transaminitis**
+   - Mild AST/ALT elevation (peak AST 88), likely shock liver/ischemia.
+   - Trending down as perfusion improves.
+   - Plan: Monitor LFTs, repeat if clinical worsening.
+
+5. **Electrolyte Disturbances (hypoNa, mild hyperK)**
+   - Na improved with diuresis, K stable.
+   - Plan: Monitor daily, replete as needed.
+
+6. **Delirium**
+   - Fluctuating mental status in ICU, improved after Impella removal/off pressors.
+   - Plan: Sleep hygiene, minimize sedation, PT/OT.
+
+7. **History of Streptococcal & Viral Pharyngitis**
+   - Completed penicillin course, no signs of ongoing infection.
+   - Plan: Supportive care, no further antibiotics.
+
+8. **Remote Whiplash Injury**
+   - No acute findings, chronic neck pain well controlled.
+   - Plan: Continue home ibuprofen PRN, PT referral.
+
+9. **Secondary Prevention (CAD risk factors)**
+   - Initiated statin, low-dose ASA.
+   - Plan: Continue, consider further workup for CAD as outpatient.
+
+----------------------------------------------------------------------
+
+PROCEDURES
+- Impella CP placement, right femoral arterial access, HD #1
+- Right heart cath: RAP 14, PCWP 26, CI 1.6, SVR 2100
+- Echo x2: Initial and post-Impella removal
+
+----------------------------------------------------------------------
+
+DISCHARGE PLAN
+- Discharge to home, daily weights, fluid restriction 2L/d
+- Meds: Lisinopril, beta-blocker (titrate up), furosemide, ASA, atorvastatin
+- Follow-up: HF clinic 1 week, labs in 3 days, PCP f/u 2 weeks
+- Education re: heart failure symptoms, diet, medication compliance
+
+----------------------------------------------------------------------
+
+PHYSICIAN ATTESTATION:  
+Dictated and electronically signed by Dr. K. Wilson, MD, Cardiology/Critical Care
+
+----------------------------------------------------------------------
+
+```

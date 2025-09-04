@@ -1,0 +1,220 @@
+**Patient:** Sawayn, Luna  
+**MRN:** 0039281-45  
+**DOB:** 12/20/1952  
+**Sex:** Female  
+**Admit Date:** 04/11/2024  
+**Attending:** Dr. J. Tomlinson  
+**Service:** MICU  
+**Room:** 5B-ICU-2  
+
+---
+
+# ICU Progress Note
+
+**Subjective:**  
+Patient is a 71-year-old female with a history of T2DM, obesity, metabolic syndrome, seizure disorder, chronic sinusitis, anemia, hypertriglyceridemia, and neuropathy who was admitted for acute decompensated heart failure with cardiogenic shock. She initially presented to the ED with 2 days of progressive dyspnea, orthopnea, and lower extremity edema. She also reported intermittent chest tightness and increased fatigue. Her medical history is notable for poorly controlled diabetes, hyperlipidemia, and a prior single episode of seizure (on AEDs).  
+
+On hospital day 2, she developed hypotension refractory to fluids and escalating vasopressors, with rising lactate and evidence of end-organ hypoperfusion. She was transferred to the MICU and a temporary left ventricular assist device (Impella CP) was placed emergently for cardiogenic shock secondary to presumed acute on chronic ischemic cardiomyopathy.
+
+---
+
+**Medications:**  
+- Metformin ER 500 mg PO qHS  
+- Ferrous sulfate 325 mg PO qAM  
+- Acetaminophen 325 mg PO q6h PRN  
+- Amox/Clav 250/125 mg PO BID (for sinusitis)  
+- Naproxen sodium 220 mg PO BID PRN  
+- Clonazepam 0.5 mg PO BID  
+- Carbamazepine 200 mg PO BID  
+- Diazepam 2 mg PO q8h PRN  
+- IV Furosemide 40 mg q8h  
+- Lisinopril 10 mg PO daily  
+- Atorvastatin 40 mg PO daily  
+- Insulin glargine 20 units SC qHS  
+- Sliding scale insulin  
+- IV norepinephrine (titrated to MAP >65)  
+- Heparin infusion (Impella anticoagulation)
+
+---
+
+**Allergies:**  
+No known drug allergies.
+
+---
+
+**ICU VITALS (Selected):**
+
+| Date       | Temp (C) | HR (bpm) | BP (mmHg) | RR | SpO2 | MAP  | O2 Device         |
+|------------|----------|----------|-----------|----|------|------|-------------------|
+| 4/11/2024  | 37.7     | 104      | 96/52     | 24 | 95   | 62   | 4L NC             |
+| 4/12/2024  | 38.1     | 112      | 90/48     | 26 | 92   | 58   | NRB mask          |
+| 4/13/2024  | 37.5     | 102      | 110/60    | 22 | 96   | 70   | Room Air          |
+| 4/14/2024  | 37.3     | 97       | 118/64    | 20 | 98   | 77   | Room Air          |
+
+---
+
+**LABS**
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Ca   | Troponin | BNP   | AST  | ALT  | Lactate |
+|------------|------|------|------|------|------|------|------|------|------|------|------|------|----------|-------|------|------|---------|
+| 4/11/2024  | 4.8  | 13.7 | 46.2 | 170  | 142  | 4.1  | 109  | 24   | 10   | 0.63 | 88   | 8.9  | 0.04     | 1670  | 39   | 41   | 2.2     |
+| 4/12/2024  | 7.1  | 12.9 | 44.0 | 155  | 140  | 3.8  | 105  | 21   | 19   | 1.1  | 182  | 8.6  | 0.19     | 2120  | 55   | 63   | 4.0     |
+| 4/13/2024  | 6.5  | 13.5 | 45.3 | 163  | 141  | 4.4  | 107  | 22   | 14   | 0.92 | 154  | 9.1  | 0.05     | 1430  | 44   | 48   | 1.5     |
+| 4/14/2024  | 5.9  | 13.9 | 46.1 | 178  | 139  | 4.0  | 106  | 23   | 12   | 0.81 | 131  | 8.8  | --       | 1100  | --   | 39   | 1.1     |
+
+*Selected labs. Some omitted for brevity.  
+*BNP and troponin trended due to shock/CHF.  
+*Liver enzymes trended given mild transaminitis.  
+*Lactate trended as marker of perfusion.  
+
+---
+
+**Review of Systems:**  
+General: Fatigue, malaise, no fever/chills now  
+Cardiac: Dyspnea, orthopnea, PND, chest tightness  
+Pulm: Mild cough, no hemoptysis  
+GI: No N/V/D/C  
+Neuro: Alert, oriented, no focal deficit, seizure-free  
+Extremity: Bilateral pitting edema, improved
+
+---
+
+**Exam** (4/14/2024):  
+Gen: Obese, NAD, drowsy but arousable  
+CV: S1/S2, no M/R/G, tachy, JVD +3cm, pitting edema  
+Resp: CTA, RR 20, no distress  
+GI: Soft, NT, ND, normal BS  
+Neuro: AOx3, no focal deficit, no myoclonus  
+Skin: Warm, dry, intact, foot laceration healing  
+Ext: 2+ pitting edema BLE, pulses +2
+
+---
+
+# Assessment and Plan
+
+**1. Cardiogenic Shock / Acute Decompensated Heart Failure (ADHF)**
+- Hx: DM, metabolic syndrome, obesity, likely ischemic CMP. Presented w/ shock, required vasopressors, evidence end-organ hypoperfusion.  
+- Course: Required temporary LVAD (Impella CP) on HD2.  
+- Current: Weaning off vasopressors, improved lactate, MAP stable, urine output adequate.  
+- Plan:  
+  - Continue Impella support, daily echo to reassess LV function  
+  - Wean pressors as tolerated  
+  - Diuresis w/ IV Lasix  
+  - Strict I/O, daily weights  
+  - Anticoagulation per Impella protocol  
+  - Cardiology, CT surgery following  
+  - Consider transition to oral HF regimen as able  
+  - Monitor for arrhythmia, device complications
+
+**2. Type 2 Diabetes Mellitus / Hyperglycemia**
+- Hx: Poorly controlled, on metformin, insulin started on admission.  
+- Course: Glucose up to 182 mg/dL during shock, improved with insulin.  
+- Plan:  
+  - Continue basal/bolus insulin  
+  - Monitor glucose Q6h  
+  - Hold metformin while on pressors/renal dysfunction  
+  - Endo consult for regimen adjustment pre-discharge
+
+**3. Anemia (Multifactorial)**
+- Baseline mild anemia, stable Hgb.  
+- Plan:  
+  - Continue iron supplementation  
+  - Monitor CBC q24h  
+  - No transfusion indicated
+
+**4. Seizure Disorder / Epilepsy**
+- Hx: Hx of single seizure, on AEDs (carbamazepine, clonazepam, prn diazepam).  
+- Course: No seizures this admission.  
+- Plan:  
+  - Continue AEDs  
+  - Monitor for CNS changes  
+  - EEG if any events
+
+**5. Obesity / Metabolic Syndrome / Hypertriglyceridemia**
+- BMI 30+, metabolic syndrome, hyperlipidemia.  
+- Plan:  
+  - Continue statin  
+  - Monitor lipids  
+  - Dietician consult  
+  - Weight management counseling
+
+**6. Neuropathy (Diabetic)**
+- Chronic, baseline.  
+- Plan:  
+  - Continue glycemic control  
+  - Gabapentin if pain
+
+**7. Chronic Sinusitis / Acute Bronchitis / Viral Pharyngitis**
+- On abx for acute sinusitis, viral symptoms resolving.  
+- Plan:  
+  - Complete abx course  
+  - Supportive care  
+  - ENT f/u outpatient
+
+**8. Foot Laceration**
+- Healing, no signs infection.  
+- Plan:  
+  - Local wound care  
+  - Monitor for infection
+
+**9. Osteoarthritis (Knee)**
+- Chronic.  
+- Plan:  
+  - PRN acetaminophen  
+  - PT/OT consult if needed
+
+---
+
+**Consults:**  
+- Cardiology (daily, managing Impella, HF)  
+- CT Surgery (Impella removal)  
+- Endocrinology  
+- Nutrition  
+- PT/OT
+
+---
+
+**Dispo:**  
+- Remains in MICU.  
+- Anticipate continued Impella support x 2-3 more days, then attempt wean/removal.  
+- Will reassess for transfer to stepdown when stable off pressors and device.
+
+---
+
+**Attending:** Dr. J. Tomlinson  
+**Resident:** Dr. A. Patel  
+**Nurse:** K. Weller  
+
+---
+
+**Additional Labs (Selected):**  
+| Date       | HbA1c | Albumin | AST | ALT | AlkPhos | Tbili |
+|------------|-------|---------|-----|-----|---------|-------|
+| 4/11/2024  | 5.4%  | 3.6     | 39  | 41  | 102     | 0.8   |
+| 4/12/2024  | --    | 3.3     | 55  | 63  | 117     | 1.2   |
+| 4/13/2024  | --    | 3.4     | 44  | 48  | 95      | 1.0   |
+| 4/14/2024  | --    | 3.8     | --  | 39  | 89      | 0.7   |
+
+---
+
+**Imaging:**  
+- CXR 4/11: Pulmonary edema, mild cardiomegaly  
+- Echo 4/12: LVEF 18%, global hypokinesis, moderate MR, RV normal, no pericardial effusion  
+- LE Dopplers 4/12: No DVT  
+- Head CT 4/11: No acute process
+
+---
+
+**Summary:**  
+71F w/ T2DM, obesity, metabolic syndrome, seizure d/o, ischemic cardiomyopathy admitted w/ ADHF and cardiogenic shock, required temporary LVAD (Impella) support. Now improving, weaning pressors, close monitoring ongoing. Multiple comorbidities being managed.
+
+---
+
+**Signature:**  
+A. Patel, MD  
+PGY-2, Internal Medicine  
+04/14/2024 09:13
+
+---
+
+**End of Note**

@@ -1,0 +1,203 @@
+---
+**Patient Name:** Hayley Armstrong  
+**MRN:** 1002837-47  
+**DOB:** 1994-07-03 (Age: 29)  
+**Sex:** Female  
+**Admit Date:** 2024-06-20  
+**Attending:** Dr. M. Suri  
+**Service:** Cardiac ICU  
+**Room:** 5-B-ICU-12  
+**Allergies:** NKDA  
+**Code Status:** Full Code  
+**Isolation:** None  
+**Language:** English  
+**Height:** 164 cm  
+**Weight:** 56.8 kg  
+**BMI:** 21.1  
+**Pain Score:** 4/10  
+
+---
+
+# ADMISSION NOTE
+
+## CHIEF COMPLAINT
+Acute onset dyspnea, chest tightness, and syncope at home.
+
+## HISTORY OF PRESENT ILLNESS
+Hayley Armstrong is a 29-year-old woman with a history of childhood asthma, recurrent bronchitis, and prior uncomplicated pregnancies who presented to the ED after a syncopal episode at home. She reported 2 days of progressive exertional dyspnea, orthopnea, and mild pleuritic chest pain. No recent URI symptoms. On arrival, she was tachycardic, hypotensive (BP 78/52), tachypneic, and hypoxemic (SpO₂ 89% RA). She required 4L NC O₂ and was transferred to the ICU for escalating inotropic and respiratory support. Initial TTE showed severe global LV hypokinesis, LVEF 15%, and mild RV dysfunction. No significant valvulopathy. Cardiac enzymes were elevated. Infectious work-up was negative. She rapidly deteriorated with worsening shock and end-organ hypoperfusion, requiring emergent placement of a percutaneous left ventricular assist device (Impella CP) for cardiogenic shock.
+
+## PAST MEDICAL HISTORY
+- Childhood asthma
+- Acute bronchitis (multiple episodes)
+- Cystitis
+- Streptococcal pharyngitis (remote)
+- Sprain of right ankle (remote)
+- 3 prior normal pregnancies, no complications
+
+## PAST SURGICAL HISTORY
+- None
+
+## OB/GYN
+- G3P3, LMP: 2 weeks ago, regular cycles
+
+## MEDICATIONS (on admission)
+- Fluticasone propionate MDI 44mcg 2 puffs BID PRN
+- Albuterol MDI 90mcg 2 puffs Q4H PRN
+- Medroxyprogesterone acetate 150mg IM q3mo
+- Acetaminophen 325mg PO PRN
+- Trinessa, Seasonique, Levora (previous OCPs, not currently taking)
+- Penicillin V (completed, for prior strep)
+- Nitrofurantoin, Phenazopyridine (completed, for prior UTI)
+
+## FAMILY HISTORY
+- Mother: HTN, alive
+- Father: MI at 54, alive
+- No family hx of sudden cardiac death or inherited cardiomyopathies
+
+## SOCIAL HISTORY
+- Non-smoker, no EtOH, no illicit drugs
+- Lives with partner, works as a teacher
+
+## REVIEW OF SYSTEMS
+- General: Fatigue, malaise, fever x1 day
+- Cardiac: Palpitations, chest tightness, no prior syncope
+- Pulm: SOB, orthopnea, no cough
+- GI: Nausea, no vomiting/diarrhea
+- GU: Oliguria since this AM
+
+## PHYSICAL EXAM (on ICU arrival)
+- **Temp:** 38.3°C  **HR:** 124  **BP:** 78/52 (MAP 61)  **RR:** 28  **SpO₂:** 91% on 4L NC
+- **Gen:** Appears acutely ill, anxious
+- **HEENT:** PERRLA, no oropharyngeal erythema
+- **CV:** Tachycardic, S3, no murmurs, JVP 9cm
+- **Resp:** Tachypneic, mild diffuse crackles, no wheeze
+- **Abd:** Soft, nontender, no HSM
+- **Ext:** Cool, mild mottling, 1+ pitting edema ankles
+- **Neuro:** Alert, oriented, no focal deficits
+
+---
+
+# ICU HOSPITAL COURSE (Days 1–7)
+
+## Day 1
+- Admitted in cardiogenic shock, requiring norepinephrine and dobutamine
+- Impella CP placed at bedside for LV support
+- Broad-spectrum abx started (concern for myocarditis vs sepsis)
+- Initial labs: lactic acidosis, AKI, elevated troponin, mild transaminitis
+
+## Day 2  
+- Hemodynamics improved with Impella + pressors, urine output increased
+- Echo: LVEF 18%, Impella flow 3.4 L/min
+- Infectious workup negative, stopped abx
+- Diuresis started
+
+## Day 3–4  
+- Gradual wean of vasopressors
+- Mental status improved, extubated on Day 4
+- Serial TTE: LVEF up to 28%, Impella support ongoing
+- Mild improvement in renal/liver function
+
+## Day 5–7  
+- Impella weaned, removed on Day 7 after echo showed LVEF 38%
+- Transitioned to oral HF meds (metoprolol, sacubitril/valsartan)
+- Mobilizing with PT, tolerating oral diet
+- Awaiting cardiac MRI
+
+---
+
+# LABS
+
+| Date       | WBC  | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | AlkPhos | Trop I | BNP   |
+|------------|------|-------|-------|-------|------|------|------|------|------|------|------|------|------|---------|--------|-------|
+| 6/20/24 AM | 15.2 | 13.1  | 40.2  | 276   | 138  | 4.8  | 103  | 20   | 37   | 2.2  | 160  | 78   | 91   | 146     | 7.2    | 4230  |
+| 6/21/24 AM | 11.4 | 12.5  | 38.6  | 249   | 136  | 4.4  | 101  | 22   | 28   | 1.7  | 148  | 66   | 70   | 130     | 5.3    | 3650  |
+| 6/22/24 AM | 8.8  | 12.9  | 39.0  | 302   | 137  | 4.2  | 104  | 24   | 19   | 1.2  | 112  | 44   | 51   | 113     | 2.9    | 1870  |
+| 6/23/24 AM | 7.1  | 13.5  | 41.2  | 315   | 138  | 4.1  | 102  | 23   | 14   | 1.0  | 101  | 35   | 40   | 109     | 1.7    | 980   |
+| 6/24/24 AM | 6.3  | 13.7  | 41.6  | 325   | 139  | 4.3  | 103  | 23   | 12   | 0.9  | 97   | 27   | 32   |        | 0.8    | 540   |
+| 6/25/24 AM |      | 13.9  | 42.4  | 318   | 139  | 4.3  |      | 24   | 11   | 0.8  | 91   |      | 29   | 102     |        | 320   |
+| 6/26/24 AM | 5.9  | 13.8  | 41.9  | 327   | 140  | 4.4  | 105  | 24   | 10   | 0.8  | 88   | 19   |      | 98      | <0.04  | 180   |
+| 6/27/24 AM | 5.2  | 13.7  |       |       | 140  | 4.4  | 105  | 25   | 9    | 0.8  | 87   | 17   | 22   | 94      | <0.04  | 95    |
+
+---
+
+# ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock, Acute Severe Systolic HF (new, likely myocarditis vs. idiopathic)**
+   - Required emergent Impella CP for LV support due to refractory shock
+   - Successfully weaned off after 7 days, LVEF now 38%
+   - Plan: Continue GDMT (metoprolol, sacubitril/valsartan, spironolactone), monitor for arrhythmias, cardiac MRI pending
+
+**2. Acute Kidney Injury (resolved)**
+   - Likely secondary to hypoperfusion, now improving
+   - Monitor renal function, avoid nephrotoxins
+
+**3. Transaminitis (improving)**
+   - Likely ischemic hepatitis from shock
+   - LFTs trending down, monitor
+
+**4. Fever on admission**
+   - Infectious workup negative, likely inflammatory
+   - No abx needed at this time
+
+**5. Asthma (mild, remote)**
+   - No current exacerbation
+   - Continue inhalers PRN
+
+**6. VTE Prophylaxis**
+   - On SQ heparin
+
+**7. Nutrition**
+   - On cardiac diet, PO intake adequate
+
+**8. Physical Therapy**
+   - Mobilizing, continue daily PT/OT
+
+**9. Psychosocial**
+   - Supportive counseling provided, social work consult
+
+---
+
+# PROCEDURES
+
+- 6/20/24: Impella CP placement, right femoral artery, under fluoroscopic guidance. No complications.
+- 6/21/24: TTE x2
+- 6/24/24: Pulmonary artery catheter removal
+
+---
+
+# IMAGING
+
+- **6/20/24 CXR:** Mild pulmonary edema, small left pleural effusion
+- **6/21/24 TTE:** Severe global LV dysfunction, LVEF 15%, Impella in place
+- **6/27/24 TTE:** LVEF 38%, mild global hypokinesis, no thrombus
+- **6/28/24 Cardiac MRI (pending):** To assess for myocarditis/scar
+
+---
+
+# MEDICATIONS (Current)
+
+- Metoprolol succinate 25mg PO daily
+- Sacubitril/valsartan 24/26mg PO BID
+- Spironolactone 25mg PO daily
+- Furosemide 20mg PO daily
+- Fluticasone/Albuterol (PRN)
+- Acetaminophen 325mg PO PRN
+- Heparin SQ 5000u q8h
+
+---
+
+# DISPOSITION
+- Plan for step-down to telemetry tomorrow if stable
+- Close follow-up with HF/Cardiology, consider wearable defibrillator pending MRI results
+- Education re: HF, medications, and warning signs provided
+
+---
+
+# SIGNED  
+Dr. M. Suri, MD  
+Cardiac ICU  
+Date/Time: 2024-06-27 18:43
+
+---
+
+**[End of Record]**

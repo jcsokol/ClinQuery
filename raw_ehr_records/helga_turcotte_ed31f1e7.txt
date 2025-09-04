@@ -1,0 +1,126 @@
+```
+Patient Name: Helga Turcotte            MRN: 00214829          FIN: 3840271
+DOB: 07/20/1980 (Age: 43)               Sex: Female            Admit Date: 03/06/2024
+Attending: Dr. Sarah Kim, MD            Service: Cardiology ICU
+
+-------------------
+HOSPITAL COURSE SUMMARY
+-------------------
+Ms. Helga Turcotte is a 43-year-old female with a history of chronic hypertension, recurrent upper respiratory infections, and multiple prior normal pregnancies, who presented to the ED with acute onset chest pain, severe dyspnea, and orthopnea. She was found to be in acute decompensated heart failure with evidence of cardiogenic shock, requiring ICU admission and urgent placement of a temporary left-sided Impella heart pump for hemodynamic support.
+
+The patient’s hospital stay was notable for a complicated ICU course, including acute renal injury, mild transaminitis, and a prolonged wean from mechanical circulatory support. She required aggressive diuresis, vasopressors, and close monitoring for arrhythmias and infection.
+
+-------------------
+ADMISSION VITALS & PHYSICAL EXAM (03/06/2024 17:35)
+-------------------
+BP: 92/58 mmHg (MAP 69)
+HR: 119 bpm, irregular
+RR: 26/min
+SpO2: 91% RA
+Temp: 37.1°C (Oral)
+Wt: 74.5 kg    Ht: 166.4 cm    BMI: 26.9
+General: Appears acutely ill, mild respiratory distress
+CV: Tachycardic, S3 present, JVD 10 cm, trace pedal edema
+Chest: Bibasilar crackles, decreased breath sounds at bases
+Abd: Soft, mild RUQ tenderness, no rebound
+Ext: Cool, delayed cap refill, trace edema
+
+-------------------
+PROBLEM-BASED ASSESSMENT & PLAN
+-------------------
+
+1. **Acute Decompensated Heart Failure with Cardiogenic Shock**
+   - Presentation: Acute SOB, chest pain, hypoperfusion. Echo: Severe LV systolic dysfunction, EF 15%, moderate MR.
+   - Treatment: Initiated dobutamine and norepinephrine. Impella CP placed for LV unloading.
+   - Monitoring: Daily TTEs, serial lactates, strict fluid balance, hemodynamics via PA catheter.
+   - Plan: Titrate off vasopressors, continue Impella until cardiac output >4L/min, consider transition to durable LVAD if no recovery.
+
+2. **Acute Kidney Injury (KDIGO Stage 2)**
+   - Likely multifactorial: cardiorenal syndrome, low perfusion.
+   - Labs: Cr peaked at 2.1 (baseline 0.9), BUN 38.
+   - Plan: Renal dose diuretics, avoid nephrotoxins, daily renal panel. Nephrology consulted.
+
+3. **Hypertension**
+   - History of chronic HTN, on HCTZ at baseline.
+   - BP labile during ICU stay; holding antihypertensives during shock.
+   - Plan: Will restart HCTZ and consider ACEi when hemodynamics stabilize.
+
+4. **Mild Transaminitis**
+   - Labs: AST 82, ALT 97 (peak), likely ischemic hepatitis.
+   - Plan: Monitor LFTs, avoid hepatotoxic meds.
+
+5. **Arrhythmia - Paroxysmal AF with RVR**
+   - Developed on day 2, HR 140s, self-terminated after IV amiodarone.
+   - Plan: Continue telemetry, PRN amio.
+
+6. **Volume Overload/Pulmonary Edema**
+   - Managed with IV furosemide, ultrafiltration x 2 days.
+   - Plan: Daily weights, I/O, chest imaging.
+
+7. **Infection Risk (ICU, Impella in situ)**
+   - No fever, WBC 9.7-12.0. Blood cx negative.
+   - Plan: Line care, daily cultures if fever.
+
+8. **Reproductive Health**
+   - Hx multiple pregnancies, on OCPs.
+   - Plan: Hold OCPs for now, Gyn consult for long-term contraception post-discharge.
+
+9. **Psychosocial/Disposition**
+   - Significant stress, husband at bedside.
+   - Plan: Social work, psych support, discuss advanced care planning if needed.
+
+-------------------
+LABS - CBC, CHEM-7, ADDITIONAL RELEVANT LABS
+-------------------
+| Date       | WBC   | Hgb  | Hct  | Plts | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | Trop  | BNP    |
+|------------|-------|------|------|------|------|------|------|------|------|------|------|------|------|-------|--------|
+| 03/06/24   | 12.0  | 13.2 | 39.8 | 189  | 133  | 4.8  | 99   | 23   | 38   | 2.1  | 143  | 82   | 97   | 0.36  | 5400   |
+| 03/07/24   | 10.5  | 12.8 | 38.5 | 172  | 135  | 4.2  | 101  | 21   | 33   | 1.7  | 139  | 66   | 71   | 0.22  | 4780   |
+| 03/08/24   | 9.9   | 12.2 | 37.2 | 164  | 137  | 4.0  | 100  | 24   | 28   | 1.4  | 126  | 43   | 59   | 0.12  | 3900   |
+| 03/09/24   | 9.7   | 12.6 | 38.0 | 201  | 138  | 4.3  | 98   | 22   | 20   | 1.1  | 112  | 34   | 39   | <0.01 | 2100   |
+| 03/10/24   | 9.1   | 13.1 |      | 210  | 140  |      |      | 25   | 17   | 0.9  |      | 28   | 29   |       | 900    |
+
+*Some labs (ALT, AST, BNP, Troponin) not drawn daily. Missing entries indicate not collected.*
+
+-------------------
+CARDIAC IMAGING
+-------------------
+- Echo (03/06): Severe global hypokinesis, EF ~15%, moderate MR, RV function mildly reduced.
+- Echo (03/09): EF improved to 27%, Impella in situ, mild MR.
+
+-------------------
+MEDICATION ADMINISTRATION RECORD (ICU Days 1-5)
+-------------------
+- Dobutamine IV, titrated off by day 4
+- Norepinephrine IV, stopped by day 2
+- Furosemide IV 40 mg q8h, then PRN
+- Amiodarone IV bolus x1, then oral 200 mg daily x2d
+- Acetaminophen PRN
+- HCTZ held, to resume
+- DVT ppx: Enoxaparin 40 mg SC q24h
+- PPI: Pantoprazole 40 mg IV q24h
+
+-------------------
+PROCEDURES
+-------------------
+- Impella CP insertion via right femoral artery (03/06/24)
+- Right IJ central line, left radial A-line
+- Foley catheter (removed day 4)
+
+-------------------
+DISPOSITION
+-------------------
+- To step-down unit for continued monitoring, Impella removed on hospital day 5.
+- Plan for cardiac rehab, outpatient heart failure follow-up, and evaluation for advanced therapies if EF <35% persists.
+
+-------------------
+ATTENDING PHYSICIAN SIGNATURE
+-------------------
+Sarah Kim, MD
+Cardiology ICU
+03/11/2024 07:45
+
+-------------------
+END OF NOTE
+-------------------
+```

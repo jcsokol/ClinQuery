@@ -1,0 +1,205 @@
+---
+**Patient:** Abel Connelly  
+**MRN:** 0449327  
+**DOB:** 12/12/1999 (Age: 24)  
+**Sex:** Male  
+**Admission Date:** 06/16/2024  
+**Attending:** Dr. S. Patel, MD  
+**Admitting Diagnosis:** Acute decompensated heart failure, cardiogenic shock  
+**Other Active Problems:** Chronic sinusitis, acute bronchitis, viral sinusitis, rotator cuff tendon injury, concussion  
+**Allergies:** NKDA  
+**Code Status:** Full code  
+**Isolation:** None  
+**Disposition:** ICU  
+
+---
+
+## CHIEF COMPLAINT
+Shortness of breath, chest pain, and syncope.
+
+---
+
+## HISTORY OF PRESENT ILLNESS
+24-year-old male with past medical history significant for recurrent sinusitis, bronchitis, recent concussion (3 months ago), and remote left rotator cuff injury, presenting to the ED with 2 days of progressive dyspnea, orthopnea, and an episode of syncope at home. Family reports he had a viral URI 10 days prior, followed by worsening fatigue, PND, and mild non-productive cough. In the ED found to be hypotensive (BP 82/54), tachycardic (HR 123), tachypneic (RR 28), and hypoxic (SpO2 89% RA). Exam notable for JVD, S3, bibasilar crackles, and cool extremities.
+
+Initial labs and bedside echo concerning for severe global LV dysfunction (EF 15%), elevated troponin, and lactic acidosis. Admitted to ICU for management of cardiogenic shock. Required vasopressor support and was emergently placed on a percutaneous left ventricular assist device (Impella CP) due to refractory shock.
+
+---
+
+## HOSPITAL COURSE
+
+### ICU DAY 1-2:
+- Ongoing hypotension and worsening end-organ perfusion on norepinephrine and dobutamine.
+- Impella CP placed via right femoral artery. Hemodynamics improved.
+- Diuresis with IV furosemide initiated; net -1.8L over 24h.
+- Started on broad-spectrum antibiotics for possible pneumonia.
+- Serial troponins downtrending. Echo: EF 15%, no tamponade.
+- Monitored for arrhythmias; brief NSVT, self-limited.
+
+### ICU DAY 3-4:
+- Weaned off vasopressors.
+- Impella flow reduced; LV function improving (EF up to 28%).
+- Developed non-oliguric AKI (Cr peaked at 1.8).
+- Persistent mild transaminitis (AST/ALT peaked 95/102).
+- Negative infectious workup; antibiotics discontinued.
+- Mental status improved; extubated on Day 4.
+
+### ICU DAY 5-7:
+- Continued recovery of cardiac function (EF 35%).
+- Impella removed on Day 6; hemodynamics stable.
+- Transitioned to oral heart failure regimen (metoprolol, lisinopril).
+- CK, troponin, and BNP trending down.
+- Repeat echo: mild LV dilation, EF 37%.
+- Mobilized with PT/OT.
+- Renal function returned to baseline.
+- Discharged from ICU to telemetry on Day 7.
+
+---
+
+## PAST MEDICAL HISTORY
+- Chronic sinusitis
+- Acute bronchitis (multiple episodes)
+- Viral sinusitis
+- Left rotator cuff tendon injury (remote, non-operative)
+- Concussion (3 months ago)
+- No known structural heart disease prior to this admission
+
+## PAST SURGICAL HISTORY
+- None
+
+## FAMILY HISTORY
+- Father: HTN, CAD
+- Mother: Hypothyroidism
+- No known inherited cardiomyopathies
+
+## SOCIAL HISTORY
+- Lives with parents
+- No tobacco, alcohol, or illicit drug use
+- College student, recreational soccer
+
+## MEDICATIONS ON ADMISSION
+- Acetaminophen 325 mg PO PRN
+
+## HOSPITAL MEDICATIONS
+- Metoprolol succinate 25mg daily
+- Lisinopril 2.5mg daily
+- Furosemide 40mg IV BID (transitioned to PO)
+- Aspirin 81mg daily
+- Heparin infusion (Impella protocol, discontinued post-removal)
+- Acetaminophen 325mg PO PRN
+- Pantoprazole 40mg IV daily
+
+---
+
+## PHYSICAL EXAM (ICU DAY 5)
+- **Gen:** Alert, NAD, conversant
+- **VS:** T 36.7C, HR 97, BP 105/68, RR 18, SpO2 97% RA
+- **HEENT:** Mild sinus tenderness, no drainage
+- **CV:** Regular, S3, soft systolic murmur, no rubs
+- **Lungs:** Bibasilar crackles, improved from admission
+- **Abd:** NT, no HSM
+- **Ext:** No edema, pulses 2+, no cyanosis
+- **Neuro:** AOx3, CN II-XII grossly intact
+
+---
+
+## LABS
+
+### Table 1: CBC & Chem7
+
+| Date       | WBC  | Hgb  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Gluc |  
+|------------|------|------|------|------|------|------|------|------|------|------|
+| 6/16/24 AM | 10.2 | 16.6 | 187  | 134  | 4.1  | 103  | 21   | 18   | 1.3  | 102  |
+| 6/17/24 AM | 12.4 | 15.1 | 163  | 132  | 4.5  | 108  | 19   | 24   | 1.7  | 99   |
+| 6/18/24 AM | 11.8 | 14.0 | 148  | 137  | 4.3  | 110  | 22   | 28   | 1.8  | 106  |
+| 6/19/24 AM | 9.7  | 13.7 | 141  | 139  | 4.0  | 109  | 24   | 17   | 1.4  |      |
+| 6/20/24 AM |      | 14.3 | 147  | 140  | 4.2  | 107  | 23   | 15   | 1.1  | 98   |
+| 6/21/24 AM | 7.5  | 14.7 |      | 137  |      | 106  | 24   | 14   | 1.0  | 95   |
+
+---
+
+### Table 2: Cardiac & Other Relevant Labs
+
+| Date       | Troponin I | BNP  | CK   | AST  | ALT  | INR  | Lactate |
+|------------|------------|------|------|------|------|------|---------|
+| 6/16/24    | 2.1        | 1872 | 398  | 89   | 97   | 1.1  | 4.2     |
+| 6/17/24    | 1.7        | 1550 | 287  | 102  | 95   | 1.2  | 2.9     |
+| 6/18/24    | 0.8        | 980  | 176  | 80   | 71   | 1.1  | 1.8     |
+| 6/19/24    | 0.3        | 600  | 120  | 55   | 58   | 1.0  | 1.1     |
+| 6/20/24    | <0.1       | 410  | 88   | 37   | 41   |      | 0.9     |
+
+---
+
+## IMAGING
+- **CXR (6/16):** Pulmonary edema, mild cardiomegaly, no consolidation
+- **Echo (6/16):** Severe global LV systolic dysfunction, EF 15%, mild RV dysfunction, no LV thrombus
+- **Echo (6/20):** EF 37%, mild LV dilation, improved wall motion
+- **Head CT (on admission):** No acute findings, stable post-concussion changes
+
+---
+
+## ASSESSMENT & PLAN
+
+### 1. **Acute Decompensated Heart Failure/Cardiogenic Shock (viral myocarditis suspected)**
+   - Presentation with severe LV dysfunction, elevated cardiac enzymes, shock requiring Impella
+   - Plan:
+     - Continue HF guideline-directed therapy (BB, ACEi, diuretics)
+     - Monitor for arrhythmias
+     - Daily weights, strict I/O
+     - Repeat echo outpatient in 2 weeks
+     - Cardiology f/u
+
+### 2. **Impella Device (Temporary LVAD)**
+   - Placed for refractory cardiogenic shock, removed after 5 days
+   - Plan:
+     - Site care, monitor for access complications (bleeding, infection, limb ischemia)
+     - DVT prophylaxis until ambulation
+     - Monitor Hgb, renal function
+
+### 3. **Non-oliguric AKI (resolved)**
+   - Likely multifactorial (cardiorenal, hypoperfusion, nephrotoxins)
+   - Plan:
+     - Monitor renal function, avoid nephrotoxins
+     - Hydration as tolerated
+
+### 4. **Transaminitis (resolved)**
+   - Likely shock liver
+   - Plan:
+     - Monitor LFTs, expect normalization
+
+### 5. **Arrhythmia (NSVT, resolved)**
+   - Plan:
+     - Continue telemetry
+     - Hold antiarrhythmics unless recurrence
+
+### 6. **Concussion (remote)**
+   - No acute findings
+   - Plan: No restrictions
+
+### 7. **Chronic/Acute Sinusitis, Acute Bronchitis**
+   - Treated as secondary to viral illness, no current symptoms
+   - Plan: Supportive care
+
+### 8. **Remote Rotator Cuff Injury**
+   - No acute issues
+   - Plan: Resume PT as tolerated
+
+### 9. **VTE Prophylaxis**
+   - Plan: SCDs, LMWH until ambulatory
+
+### 10. **Nutrition/Rehabilitation**
+   - High-calorie, low sodium, cardiac diet
+   - PT/OT
+
+---
+
+## DISCHARGE PLANNING
+- Anticipate discharge to home with close follow-up
+- Home health RN for wound checks
+- Cardiology, PCP, and PT/OT follow-up
+
+---
+
+**[End of ICU Progress Note]**
+
+---

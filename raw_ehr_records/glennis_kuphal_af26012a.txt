@@ -1,0 +1,172 @@
+**[EPIC EHR - INPATIENT PROGRESS NOTE]**
+
+---
+
+**Patient Name:** Glennis Kuphal  
+**MRN:** 0102456  
+**DOB:** 04/18/2000 (24 years old)  
+**Sex:** Female  
+**Admitting Service:** MICU  
+**Attending:** Dr. R. Lin  
+**Date of Admission:** 2024-06-18  
+**Date of Note:** 2024-06-22  
+**Hospital Day:** 4  
+
+---
+
+### **Chief Complaint**
+
+Shortness of breath, chest pain, and hypotension.
+
+---
+
+### **History of Present Illness**
+
+Glennis Kuphal is a 24-year-old female with PMHx significant for hypertension, viral sinusitis, normal pregnancy (remote, G1P1 2022), and remote rib fracture, presenting to the ED with 3 days of worsening dyspnea, orthopnea, and pleuritic chest pain. She was initially evaluated for viral sinusitis and treated with amoxicillin/clavulanate. Shortly after, she developed progressive fatigue and lower extremity edema. In the ED, she was found to be hypotensive (SBP 80s), tachycardic, and hypoxic on room air (SpO2 87%).
+
+She rapidly decompensated with evidence of cardiogenic shock. Point-of-care echo showed severely reduced LVEF (~15%) with global hypokinesis, no pericardial effusion. She was transferred to the MICU for management of shock and required the placement of a temporary left ventricular assist device (Impella CP) for hemodynamic support. She has since stabilized on inotropes and is being weaned from mechanical support.
+
+---
+
+### **Past Medical History**
+
+- Hypertension (dx 2022)
+- Viral sinusitis (recent, 2024)
+- Fracture of rib (right, non-displaced, 2021, healed)
+- Normal pregnancy (G1P1, uncomplicated, 2022)
+
+### **Past Surgical History**
+
+- None
+
+### **Ob/Gyn History**
+
+- G1P1, NSVD 2022
+- Regular menses, currently on OCP (Natazia, Yaz)
+
+### **Medications on Admission**
+
+- Yaz 28 Day Pack
+- Natazia 28 Day Pack
+- Amoxicillin/Clavulanate 250/125 mg PO BID (started 4 days ago)
+- Ibuprofen 200 mg PO PRN
+- Hydrochlorothiazide 25 mg PO daily
+
+### **Allergies**
+
+- NKDA
+
+---
+
+### **Physical Exam**
+
+**Gen:** Young female, appears tired but not in acute distress.  
+**VS:** T 37.1°C, HR 108, BP 92/64 (on low-dose norepinephrine), RR 22, SpO2 95% (2L NC)  
+**HEENT:** Normocephalic, mild sinus tenderness  
+**CV:** S1/S2, tachycardic, diminished peripheral pulses, Impella hum audible  
+**Resp:** Mild crackles, no wheeze  
+**Abd:** Soft, NT, no HSM  
+**Ext:** 1+ pitting edema BLE  
+**Neuro:** AOx3, no focal deficit  
+**Skin:** No rash, warm
+
+---
+
+### **Hospital Course (Summary)**
+
+- **HD1:** Admitted with acute decompensated heart failure and shock. Started on inotropes (dobutamine), norepinephrine. Intubated for hypoxia. Impella CP placed.
+- **HD2:** Hemodynamics improving, extubated to nasal cannula. Echo: LVEF 18%.
+- **HD3:** Weaning off vasoactives. Impella flows decreased to P2. Renal function stable.  
+- **HD4:** Impella explanted this morning. Monitoring for rebound shock.  
+
+---
+
+### **Laboratory Data**
+
+#### **CBC & Chem7 Table**
+
+| Date       | WBC   | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|-------|-------|-------|-------|------|------|------|------|------|------|------|
+| HD1 (adm)  | 7.2   | 15.9  | 41.2  | 342   | 137  | 3.8  | 103  | 21   | 19   | 1.02 | 112  |
+| HD2        | 6.1   | 14.0  | 39.0  | 265   | 135  | 4.2  | 102  | 20   | 28   | 1.25 | 104  |
+| HD3        | 5.2   | 13.1  |       | 210   | 134  |      | 99   | 22   | 24   | 1.17 |      |
+| HD4        | 6.9   | 14.2  | 40.1  | 232   | 136  | 4.0  | 101  | 23   | 16   | 0.97 | 98   |
+
+#### **Other Relevant Labs**
+
+- **Troponin I (HD1):** 0.21 → 0.19 → 0.13 ng/mL (downtrending)
+- **BNP (HD1):** 1832 pg/mL
+- **Liver panel (HD2):** AST 42, ALT 38, ALK 90, TBili 1.1
+- **ABG (HD1):** pH 7.29 / pCO2 51 / pO2 68 / HCO3 23
+
+---
+
+### **Imaging**
+
+- **CXR (HD1):** Pulmonary edema, mild cardiomegaly, no consolidation
+- **Echo (HD1):** LVEF 15-18%, global hypokinesis, mild MR, RV normal
+- **CXR (HD2):** Improved vascular congestion
+
+---
+
+### **Assessment & Plan**
+
+**1. Cardiogenic Shock (likely myocarditis, viral prodrome):**  
+ - Etiology likely viral myocarditis (recent URI, sinusitis, rapid decompensation).
+ - Required Impella for hemodynamic support, now explanted.
+ - Plan: Monitor for recurrent shock, daily echo, trend troponin/BNP, continue inotropes PRN, wean O2.
+
+**2. Acute Decompensated Heart Failure:**  
+ - LVEF severely reduced, volume overload on admission.
+ - Diuresis with IV furosemide, strict I/O, sodium restriction.
+ - Continue telemetry, daily weights, titrate HF meds as tolerated.
+
+**3. Recent Viral Sinusitis:**  
+ - Treated with Augmentin, symptoms improved.
+ - No evidence of superimposed bacterial infection.
+
+**4. Hypertension:**  
+ - Held outpatient HCTZ on admission due to hypotension.
+ - To resume after hemodynamic stability achieved.
+
+**5. Medication Management:**  
+ - OCPs (Natazia, Yaz) held during acute illness (hypercoagulability risk).
+   - Plan to re-evaluate prior to discharge.
+ - Ibuprofen PRN for mild rib pain (avoid NSAIDs if renal function worsens).
+
+**6. VTE Prophylaxis:**  
+ - On heparin SQ.
+
+**7. Nutrition:**  
+ - Cardiac diet, salt restriction.
+
+**8. Psychosocial:**  
+ - Patient anxious about prognosis, supportive counseling provided.
+
+**9. Disposition:**  
+ - Continue ICU monitoring.
+   - Step-down to telemetry when stable.
+   - Anticipate prolonged recovery.
+
+---
+
+### **Orders**
+
+- Cardiac telemetry
+- Daily CBC, Chem7, troponin, BNP
+- Strict I/O, foley catheter
+- Physical therapy consult
+- Cardiology consult
+- Repeat echo q48h
+
+---
+
+### **Signatures**
+
+**Resident:** J. Patel, MD  
+**Attending:** R. Lin, MD  
+**Date/Time:** 2024-06-22 14:23
+
+---
+
+**[End of Note]**

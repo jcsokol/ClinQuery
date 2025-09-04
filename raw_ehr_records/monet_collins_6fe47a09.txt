@@ -1,0 +1,135 @@
+```
+----------------------------------------------------------
+Monet Collins         MRN: 00984732        FIN: 2024-ICU-0093
+DOB: 02/09/1954      Sex: Female          Admit Date: 04/09/2024
+Attending: Dr. J. Patel
+Service: Cardiology ICU
+----------------------------------------------------------
+
+Admission HPI:
+69-year-old female with PMHx significant for HTN, obesity, prediabetes, chronic anemia, hyperlipidemia, and remote hx of colonic polyp, presented to ED c/o progressive dyspnea, orthopnea, chest tightness, and lower extremity edema x 2 weeks. Home meds include HCTZ, simvastatin, and intermittent NSAID use for joint pain. She denied fever/chills, recent URI, or known cardiac disease. On arrival: BP 92/56, HR 113, RR 24, O2 sat 92% RA, T 37.5°C. Exam notable for JVD, bibasilar crackles, 2+ pitting edema, mild confusion. Labs showed elevated BNP, troponin 0.11 -> 0.18, mild AKI, and normocytic anemia. CXR: pulmonary edema. Echo: LVEF 18%, global hypokinesis, moderate MR. She developed worsening hypotension refractory to diuresis and required transfer to CICU for inotrope support and mechanical circulatory support with placement of a temporary percutaneous LVAD (Impella CP) on HD2 for cardiogenic shock.
+
+Hospital Course (Days 1-7):
+- HD1: Admitted to ICU, started on IV furosemide, dobutamine. Persistent hypotension, rising lactate to 3.2, urine output <0.3 ml/kg/hr.
+- HD2: Emergent LHC: non-obstructive CAD, elevated LVEDP. Impella CP placed for acute decompensated HFrEF with shock.
+- HD3-4: Gradual improvement in MAP, downtrend in lactate, weaned off vasopressors. Developed mild hemolysis (haptoglobin 17, LDH 312).
+- HD5: Began transition to oral HF regimen, Impella weaned. Renal function improved. Developed mild transaminitis.
+- HD6: Impella explanted. Neuro status improved. Tolerating oral intake.
+- HD7: Transferred to stepdown. Continue uptitration of GDMT. Discharge planning underway.
+
+----------------------------------------------------------
+PROBLEM-BASED ASSESSMENT & PLAN
+
+1. Cardiogenic Shock s/p Impella CP
+   - Etiology: Acute decompensated HFrEF (non-ischemic, severe LV dysfunction)
+   - Course: Required MCS (Impella) for 4 days, now explanted
+   - Current: Stable, off inotropes, MAP >65, improving end-organ function
+   - Plan:
+     - Continue GDMT (metoprolol, sacubitril-valsartan, spironolactone, furosemide PRN)
+     - Daily weights, strict I/Os
+     - Serial EKGs, monitor for arrhythmia
+     - Cardiac rehab consult
+     - TTE prior to discharge
+
+2. Acute on Chronic Systolic Heart Failure (EF 18%)
+   - Exacerbation likely precipitated by dietary indiscretion, NSAID use, possible viral trigger
+   - Plan:
+     - Optimize volume status, maintain euvolemia
+     - Continue uptitration of HF meds as tolerated
+     - Sodium/fluid restriction
+     - Education: low Na diet, med adherence
+
+3. Acute Kidney Injury (resolved)
+   - Pre-renal, secondary to low cardiac output
+   - Creatinine peaked 2.1, now 1.0
+   - Plan:
+     - Monitor renal function daily
+     - Avoid nephrotoxins, hold NSAIDs
+
+4. Anemia (baseline, multifactorial; hgb nadir 9.8, baseline 12.7)
+   - Mild hemolysis during Impella support (LDH ↑, haptoglobin ↓)
+   - Plan:
+     - Monitor CBC q48h
+     - Iron studies, retic, haptoglobin
+     - No transfusion indicated
+
+5. Mild Transaminitis (ALT/AST peaked 84/64, now trending down)
+   - Likely ischemic hepatitis from low perfusion
+   - Plan:
+     - Trend LFTs
+     - Avoid hepatotoxic meds
+
+6. Hypertension, Hyperlipidemia, Prediabetes, Obesity
+   - Continue home HCTZ, simvastatin, lifestyle counseling
+   - Endocrine consult for DM risk, weight management
+
+7. Polypharmacy
+   - Streamline meds, avoid duplications (simvastatin x12 on home list)
+   - Review and clarify med list prior to discharge
+
+8. Remote Hx: Colon polyp, anemia, resolved pharyngitis, remote sprains
+   - Colonoscopy up to date, no evidence of active GI bleed
+
+9. Dispo/Social:
+   - Lives alone, daughter nearby
+   - SW/PT/OT eval for safety, home support
+
+----------------------------------------------------------
+LABS (Selected)
+
+| Date       | Na   | K   | Cl   | CO2  | BUN  | Cr   | Glu  | Ca   | WBC  | Hgb  | Hct  | Plt  | Troponin | BNP   | ALT  | AST  | LDH  | Haptog | Lactate |
+|------------|------|-----|------|------|------|------|------|------|------|------|------|------|----------|-------|------|------|------|--------|---------|
+| 4/09/24 AM | 143  | 4.1 | 110  | 24   | 14   | 1.0  | 102  | 9.8  | 6.4  | 12.5 | 39.2 | 378  | 0.11     | 1845  | 42   | 31   | 210  | 42     | 2.8     |
+| 4/09/24 PM | 142  | 4.3 | 112  | 21   | 18   | 1.4  | 117  | ---  | 7.1  | 11.2 | 34.8 | 399  | 0.18     | 2050  | 56   | 48   | 243  | 34     | 3.2     |
+| 4/10/24    | 140  | 4.5 | 108  | 22   | 21   | 2.1  | 132  | 10.0 | 8.2  |  9.8 | 30.1 | 423  | 0.13     | 1942  | 84   | 64   | 312  | 17     | 2.4     |
+| 4/11/24    | 138  | 4.0 | 107  | 23   | 17   | 1.5  | 105  | 10.2 | ---  | 10.3 | 33.0 | 401  | 0.09     | 1487  | 61   | 52   | 199  | ---    | 1.8     |
+| 4/12/24    | 139  | 3.9 | ---  | 24   | 14   | 1.2  | 98   | 10.1 | 6.9  | 11.1 | 35.0 | 377  | <0.01    |  843  | 44   | 34   | 154  | 30     | 1.2     |
+| 4/13/24    | 141  | 4.2 | 109  | 25   | 13   | 1.0  | 112  | ---  | 6.6  | 12.1 | 37.8 | 402  | <0.01    |  560  | 42   | 31   | 120  | 45     | 0.9     |
+| 4/14/24    | 142  | --- | 108  | 24   | 12   | 1.0  | 105  | 10.0 | 6.4  | 12.7 | 43.8 | 402  | <0.01    |  402  | 42   | 31   | 102  | 50     | 0.8     |
+
+Other notable labs:
+- Ferritin: 48 ng/mL (low)
+- Iron: 23 mcg/dL (low)
+- TIBC: 378 mcg/dL (high)
+- Retic: 2.2%
+- Albumin: 3.7 → 4.2 g/dL (improved)
+- INR: 1.3 max (normalizes)
+- HbA1c: 5.8%
+
+Microbiology:
+- Blood cultures x2: negative
+- Respiratory viral panel: negative
+
+----------------------------------------------------------
+VITALS (ICU Course)
+- HR: 85-112 bpm
+- BP: 88/52 (lowest) → 112/68 (improving)
+- MAP: 62-78
+- RR: 16-28
+- O2 sat: 91-98% (NC 2L, now RA)
+- Temp: 36.9-37.8°C
+- UOP: 400-1800 mL/24h
+
+----------------------------------------------------------
+Discharge Medications (anticipated):
+- Metoprolol succinate 25 mg daily
+- Sacubitril-valsartan 24/26 mg bid
+- Spironolactone 25 mg daily
+- Furosemide 40 mg PRN
+- Simvastatin 10 mg nightly
+- HCTZ 12.5 mg daily
+- ASA 81 mg daily
+
+----------------------------------------------------------
+EDUCATION/COUNSELING:
+- HF self-care, daily weights, symptom monitoring
+- Medication reconciliation
+- Cardiac rehab referral
+- Low sodium diet, fluid restriction
+
+----------------------------------------------------------
+ATTENDING ATTESTATION:
+I have reviewed the above documentation and agree with the assessment and plan.
+
+----------------------------------------------------------
+```

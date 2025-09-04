@@ -1,0 +1,176 @@
+---
+**EPIC EHR Record**
+**Patient Name:** Candice Daugherty  
+**MRN:** 03749125  
+**DOB:** 01/04/1927  
+**Sex:** Female  
+**Date of Admission:** 02/17/2024  
+**Attending:** Dr. S. Mendez, MD  
+**Admitting Dx:** ADHF (acute decompensated heart failure), Cardiogenic shock  
+**Allergies:** NKDA  
+**Code Status:** Full Code  
+**Height:** 168.7 cm **Weight:** 73.2 kg **BMI:** 25.7 kg/m2  
+**Primary Language:** English  
+**Consults:** Cardiology, Cardiac Surgery, Endocrinology, Oncology
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+Mrs. Daugherty is a 97-year-old woman with a complex cardiac history (CAD, chronic CHF, prior stroke, breast cancer s/p mastectomy, HTN, prediabetes) who presented with acute dyspnea, orthopnea, and altered mental status. On arrival to the ED, she was found to be hypotensive (BP 82/50), tachycardic, hypoxic. EKG: NSR, Q waves V1-3, poor R wave progression. Troponin mildly elevated. Echo: severely reduced LVEF (32%), global hypokinesis, moderate MR, RV normal. CXR: pulmonary edema. Given IV Lasix, BiPAP.
+
+She rapidly decompensated with escalating O2 requirements, worsening lactic acidosis, and persistent hypotension despite vasopressors. Emergent decision made for placement of a temporary percutaneous LVAD (Impella CP) for cardiogenic shock due to acute on chronic systolic heart failure. Patient transferred to the CICU for ongoing management. Subsequently stabilized, weaned from Impella on HD#5. Complicated by volume overload, AKI, delirium, and infection (see below). Eventually transferred to telemetry on HD#11.
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. **Cardiogenic Shock / ADHF**
+- **Assessment:** Acute on chronic systolic CHF with ADHF, likely ischemic. Cardiogenic shock requiring temporary LVAD (Impella CP) support.
+- **Plan:**
+  - Continue GDMT: Lasix, metoprolol, ACEi (held during shock), spironolactone (held for K+).
+  - Diuresis, strict I/Os, daily weights.
+  - Impella weaned and removed HD#5.
+  - Monitor for arrhythmia, low output.
+  - Serial echo: LVEF improved to 38%.
+  - Cardiology to follow.
+
+### 2. **Volume Overload / Renal Dysfunction**
+- **Assessment:** Worsening renal function (AKI on CKD3) secondary to hypoperfusion, diuretic use, contrast exposure.
+- **Plan:**
+  - Renal dosing of meds.
+  - Monitor BUN/Cr, lytes qAM.
+  - Nephrology consult.
+  - Avoid nephrotoxins.
+  - Strict fluid balance.
+
+### 3. **Hypertension**
+- **Assessment:** Longstanding, now labile due to shock.
+- **Plan:**
+  - Hold antihypertensives during hypotension.
+  - Restart as tolerated post-Impella.
+  - Monitor BP q1h.
+
+### 4. **Coronary Artery Disease**
+- **Assessment:** Known CAD, recent NSTEMI.
+- **Plan:**
+  - Continue ASA, clopidogrel.
+  - Statin therapy (simvastatin).
+  - Cardiac rehab consult.
+
+### 5. **History of Stroke**
+- **Assessment:** No acute neuro deficits this admission.
+- **Plan:**
+  - Continue DVT ppx.
+  - Maintain BP control.
+
+### 6. **Breast Cancer, s/p Mastectomy**
+- **Assessment:** No recurrence, no active chemo.
+- **Plan:**
+  - Oncology to follow as outpatient.
+
+### 7. **Prediabetes**
+- **Assessment:** HbA1c 6.1%, no hyperglycemia during stay.
+- **Plan:**
+  - Monitor FS glucose BID.
+  - Diabetic diet.
+
+### 8. **Chronic Sinusitis**
+- **Assessment:** No acute symptoms.
+- **Plan:** Supportive care.
+
+### 9. **Delirium**
+- **Assessment:** ICU delirium, waxing/waning on HD 2-6.
+- **Plan:**
+  - Minimize sedation.
+  - Sleep-wake cycle support.
+  - PT/OT, early mobilization.
+
+### 10. **Infection**
+- **Assessment:** Fever on HD#4, urine cx + for E. coli.
+- **Plan:**
+  - IV ceftriaxone x 7 days.
+  - Remove Foley ASAP.
+
+---
+
+## VITALS (SELECTED)
+
+| Date/Time           | Temp (°C) | HR  | BP       | RR | O2 Sat | O2 Device    | Pain |
+|---------------------|-----------|-----|----------|----|--------|-------------|------|
+| 2/17/24 09:12       | 36.8      | 108 | 82/50    | 28 | 91%    | 4L NC       | 4    |
+| 2/18/24 06:15       | 37.2      | 101 | 98/58    | 22 | 94%    | BiPAP       | 3    |
+| 2/20/24 04:00       | 37.9      | 115 | 90/55    | 24 | 93%    | BiPAP       | 2    |
+| 2/22/24 08:00       | 36.6      | 89  | 108/64   | 18 | 97%    | Room Air    | 2    |
+| 2/25/24 10:00       | 36.4      | 84  | 124/66   | 16 | 98%    | Room Air    | 1    |
+
+---
+
+## LABS
+
+**CBC**  
+| Date/Time     | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Neut (%) | Lymph (%) |
+|---------------|------------|------------|---------|------------|----------|-----------|
+| 2/17/24 09:45 | 7.2        | 13.1       | 41.1    | 410        | 72       | 15        |
+| 2/18/24 05:22 | 8.4        | 12.4       | 38.2    | 388        | 80       | 12        |
+| 2/20/24 06:20 | 10.2       | 11.7       | 36.0    | 362        | 85       | 8         |
+| 2/22/24 07:50 | 9.8        | 12.0       | 37.0    | 372        | 82       | 10        |
+| 2/25/24 11:10 | 7.1        | 12.9       | 39.5    | 355        | 76       | 14        |
+
+**CHEM 7**  
+| Date/Time     | Na  | K   | Cl  | CO2 | BUN | Cr   | Glu  |
+|---------------|-----|-----|-----|-----|-----|------|------|
+| 2/17/24 09:45 | 142 | 4.3 | 108 | 23  | 17  | 1.2  | 106  |
+| 2/18/24 05:22 | 140 | 4.8 | 107 | 21  | 22  | 1.4  | 121  |
+| 2/20/24 06:20 | 138 | 5.1 | 106 | 18  | 31  | 2.2  | 145  |
+| 2/22/24 07:50 | 139 | 4.2 | 109 | 22  | 26  | 1.7  | 98   |
+| 2/25/24 11:10 | 141 | 4.0 | 106 | 23  | 19  | 1.1  | 100  |
+
+**LIVER FXN / CARDIAC MARKERS**
+| Date/Time     | AST  | ALT  | Alk Phos | Total Bili | Troponin I | NT-proBNP  |
+|---------------|------|------|----------|------------|------------|------------|
+| 2/17/24 10:10 | 56   | 48   | 61       | 1.1        | 0.11       | 3200       |
+| 2/18/24 07:15 | 44   | 41   | --       | --         | 0.09       | 2890       |
+| 2/20/24 06:20 | 39   | 34   | 68       | 0.9        | 0.07       | 2512       |
+| 2/22/24 07:50 | 33   | 29   | 60       | 0.7        | <0.04      | 1708       |
+
+---
+
+## PROCEDURES
+
+**2/17/24:** Impella CP placement via R femoral artery under fluoroscopic guidance. No immediate complications.  
+**2/22/24:** Impella explanted at bedside, hemostasis achieved.  
+**2/19/24:** Right IJ central line, A-line placed. Foley inserted on admission, removed HD#6.
+
+---
+
+## IMAGING
+
+- **2/17/24 CXR:** Pulmonary edema, bilateral effusions.
+- **2/17/24 Echo:** LVEF 32%, global hypokinesis, mod MR.
+- **2/23/24 Echo:** LVEF 38%, trace MR, improved LV function.
+
+---
+
+## MEDICATION ADMINISTRATION (selected)
+
+- Lasix 40mg IV BID (titrated)
+- Metoprolol succinate 100mg daily (held HD 1-2, restarted HD 3)
+- Amlodipine 5mg daily (held HD 1-2, restarted HD 5)
+- Clopidogrel 75mg daily
+- Simvastatin 20mg nightly
+- Nitroglycerin PRN
+- Ceftriaxone IV 1g daily x 7d (HD 4-10)
+- Meperidine PRN pain
+
+---
+
+## DISPOSITION
+
+Transferred to telemetry, improved hemodynamics and volume status. Will require close outpatient follow-up with Cardiology and Nephrology. Home with daughter, home health arranged.
+
+---
+
+**Physician:** S. Mendez, MD  **Date/Time:** 02/25/2024 15:23
+
+---

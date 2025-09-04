@@ -1,0 +1,174 @@
+**[EPIC EHR]**
+
+---
+**PATIENT SUMMARY**
+
+- **Name:** Emerald Green  
+- **MRN:** 00218761  
+- **DOB:** 12/06/1952  
+- **Sex:** Female  
+- **Admit Date:** 04/12/2024  
+- **Attending:** Dr. S. Menon, Cardiology  
+- **Consults:** Cardiac Surgery, Endocrinology, Infectious Disease
+
+---
+
+**REASON FOR ADMISSION:**  
+72F with h/o HTN, obesity, hyperlipidemia, prediabetes, presents with acute decompensated heart failure (ADHF) and cardiogenic shock, requiring ICU admission and placement of a temporary left ventricular assist device (Impella CP) for hemodynamic support.
+
+---
+
+**HOSPITAL COURSE SUMMARY:**  
+Patient was admitted from the ED after presenting with progressive dyspnea, orthopnea, and lower extremity edema. Initial workup revealed pulmonary edema, elevated BNP, and troponin leak. The patient rapidly decompensated, requiring intubation and vasopressor support. Echo showed LVEF 15%, severe global hypokinesis, no valvular vegetations. Emergent right heart cath confirmed cardiogenic shock (CI 1.5, PCWP 25, MAP 55 on norepinephrine and dobutamine). Decision was made to place Impella CP for temporary LV unloading. She was managed in the CCU for 6 days, followed by gradual weaning and transfer to telemetry.
+
+---
+
+**ACTIVE PROBLEMS:**
+
+1. **Cardiogenic shock secondary to decompensated HFrEF**
+2. **Acute on chronic systolic heart failure (EF 15%)**
+3. **Hypertension**
+4. **Obesity (BMI 30)**
+5. **Hyperlipidemia**
+6. **Prediabetes**
+7. **Acute bronchitis (resolved)**
+8. **Viral sinusitis (resolved)**
+9. **Recent laceration hand/thigh (healing)**
+10. **AKI on CKD3a (transient, resolved)**
+11. **Mild transaminitis (likely ischemic)**
+12. **Anemia of critical illness (resolved)**
+13. **Delirium (ICU, resolved)**
+
+---
+
+**ASSESSMENT & PLAN:**
+
+---
+
+**1. Cardiogenic Shock / Acute Decompensated HFrEF**
+- 72F with longstanding HTN, obesity, hyperlipidemia, prediabetes, now with severe ADHF and shock.
+- Required escalation to vasopressors/inotropes, then Impella CP placement on D1 for refractory shock.
+- Serial Echos: Initial LVEF 15%, improved to 25% after 5 days of support.
+- Weaned off Impella on D7, extubated on D8.
+- Diuresed aggressively with IV furosemide, net -7.5L over 6 days.
+- Plan: Continue guideline-directed medical therapy (GDMT), up-titrate beta blocker/ACEi as tolerated. Cardiac rehab consult. Consider ICD at follow-up.
+
+**2. Hypertension**
+- Held atenolol/chlorthalidone during shock. Restarted low-dose carvedilol on D9.
+- BP stable off drips. Continue to titrate as tolerated.
+
+**3. Obesity / Metabolic Syndrome**
+- BMI 30.5 on admission.
+- Dietician consult obtained. Calorie-restricted, low-salt diet in hospital.
+- Plan: Weight loss counseling, outpatient follow-up.
+
+**4. Hyperlipidemia**
+- On simvastatin prior to admission. Held x 3 days due to transaminitis, now resumed.
+- Lipid panel: TC 173, LDL 87, HDL 63, TG 157.
+- Plan: Continue simvastatin, monitor LFTs.
+
+**5. Prediabetes**
+- HgbA1c 6.2%. Glucose range 70–180 in hospital.
+- No insulin required, home metformin not started due to AKI.
+- Plan: Lifestyle counseling, monitor.
+
+**6. AKI on CKD3a (transient)**
+- Admission Cr 1.6 (baseline 1.1), improved to 1.0 by D6.
+- Likely multifactorial: cardiorenal, hypoperfusion.
+- Plan: Monitor renal function, avoid nephrotoxins.
+
+**7. Mild Ischemic Transaminitis**
+- AST/ALT peaked at 79/66, resolved by D8.
+- Likely secondary to hypoperfusion.
+- Plan: Monitor.
+
+**8. Recent Lacerations (Hand, Thigh)**
+- No signs of infection. Suture removal on D5.
+- Plan: Continue wound care, monitor for infection.
+
+**9. Delirium (ICU)**
+- Confusion Assessment Method positive on D3–4, resolved with re-orientation and improved cardiac output.
+- Plan: Monitor cognition.
+
+**10. Anemia of Critical Illness**
+- Hgb dropped to 8.9 on D4, transfused 1U PRBC, stable since.
+- Plan: Monitor, iron studies outpatient.
+
+---
+
+**LABORATORY DATA**
+
+**CBC & CHEMISTRIES (Selected Days):**
+
+| Date       | WBC   | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|-------|------|------|-------|------|------|------|------|------|------|------|
+| 4/12/2024  | 14.2  | 13.1 | 39.8 | 328   | 138  | 4.6  | 104  | 22   | 27   | 1.6  | 135  |
+| 4/13/2024  | 12.5  | 12.0 | 36.6 | 295   | 137  | 4.2  | 102  | 21   | 25   | 1.4  | 142  |
+| 4/14/2024  | 10.3  | 10.2 | 31.9 | 267   | 139  | 3.8  | 101  | 24   | 22   | 1.2  | 112  |
+| 4/15/2024  | 9.1   | 9.8  | 30.5 | 219   | 141  | 4.0  | 106  | 26   | 17   | 1.0  | 106  |
+| 4/16/2024  | 7.8   | 8.9  | 27.6 | 210   | 143  | 4.3  | 108  | 26   | 15   | 1.0  | 98   |
+| 4/17/2024  | 7.1   | 9.8  | 29.5 | 258   | 140  | 4.1  | 107  | 25   | 13   | 0.9  | 117  |
+| 4/18/2024  | 6.6   | 10.7 | 32.1 | 299   | 139  | 4.4  | 104  | 24   | 12   | 1.0  | 121  |
+| 4/19/2024  | 6.5   | 11.8 | 35.2 | 348   | 140  | 4.2  | 105  | 23   | 11   | 1.0  |      |
+| 4/20/2024  | 6.4   | 12.6 | 37.2 | 361   |      | 4.3  |      | 23   | 10   | 1.0  | 110  |
+
+*Some entries missing as not all labs were repeated daily after D8.*
+
+---
+
+**OTHER LABS:**
+
+- **BNP:** 3,200 → 1,280 pg/mL (improved)
+- **Troponin I:** 0.42 → 0.11 ng/mL (downtrend)
+- **AST/ALT:** 79/66 (D3), normalized by D8
+- **Alk Phos:** 128 U/L
+- **Total Bilirubin:** 0.5 mg/dL
+- **Albumin:** 2.8 g/dL on D4, improved to 3.4 g/dL by D9
+- **Lipid Panel:** See above
+- **PT/INR:** 13.9 sec / 1.2 (mildly elevated, stable)
+- **Lactate:** 4.2 mmol/L on D1, normalized by D5
+
+---
+
+**VITALS (Selected):**
+
+| Date/Time     | Temp (C) | HR   | BP         | RR   | SpO2 |
+|---------------|----------|------|------------|------|------|
+| 4/12 07:10    | 37.8     | 112  | 82/54      | 26   | 92%  |
+| 4/13 00:30    | 38.2     | 106  | 94/62      | 22   | 97%  |
+| 4/14 11:40    | 37.4     | 93   | 108/68     | 18   | 98%  |
+| 4/15 08:00    | 37.1     | 88   | 120/74     | 16   | 99%  |
+| 4/16 09:30    | 36.8     | 80   | 124/76     | 16   | 99%  |
+| 4/17 06:20    | 36.7     | 76   | 126/78     | 14   | 99%  |
+| 4/18 10:45    | 36.9     | 72   | 128/82     | 14   | 99%  |
+
+---
+
+**MEDICATIONS (INPATIENT):**
+
+- IV Furosemide, titrated
+- Norepinephrine, dobutamine (D1–D6)
+- Impella CP (D1–D7)
+- Simvastatin 10mg PO qHS (held D3–D5)
+- Acetaminophen 325mg PRN
+- Heparin (Impella anticoagulation)
+- Carvedilol, low dose (from D9)
+- Amoxicillin/clavulanate (D1–D4, concern for aspiration PNA)
+- PRBC transfusion (D4)
+
+---
+
+**DISCHARGE PLANNING:**
+
+- Anticipate transfer to cardiac rehab after discharge.
+- Follow-up: Cardiology (ICD eval), wound care, primary care, dietician, endocrinology.
+
+---
+
+**PHYSICIAN SIGNATURE:**  
+S. Menon, MD  
+Cardiology
+
+---
+
+**END OF NOTE**

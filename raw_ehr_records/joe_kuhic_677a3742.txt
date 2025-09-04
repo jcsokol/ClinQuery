@@ -1,0 +1,161 @@
+**EPIC EHR: Inpatient ICU Encounter**
+
+---
+
+**Patient Name:** Joe Kuhic  
+**MRN:** 003294875  
+**DOB:** 07/11/1968  
+**Age:** 55  
+**Sex:** Male  
+**Date of Admission:** 03/15/2024  
+**Attending:** Dr. C. R. Treadwell  
+**Admitting Diagnosis:** Cardiogenic shock secondary to acute decompensated heart failure
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+Mr. Joe Kuhic, a 55-year-old male with a PMHx significant for prediabetes, chronic sinusitis, anemia, and obesity (BMI 30), presented to the ED with complaints of progressive dyspnea, orthopnea, and lower extremity swelling. He reported a viral prodrome one week prior, with worsening fatigue and cough. He was found to be hypotensive and tachycardic on arrival, with evidence of pulmonary edema on CXR and elevated cardiac biomarkers. He rapidly decompensated requiring intubation and initiation of vasopressors. Due to refractory cardiogenic shock, he was transferred to the CICU and a left-sided Impella CP device was placed for temporary mechanical support.
+
+---
+
+### VITALS (selected from ICU stay)
+
+| Date       | Temp (°C) | HR (bpm) | BP (mmHg) | RR | SpO2 (%) | Weight (kg) |
+|------------|-----------|----------|-----------|----|----------|-------------|
+| 3/15/24    | 36.8      | 112      | 84/54     | 24 | 91 (RA)  | 101.2       |
+| 3/16/24    | 37.1      | 102      | 92/65     | 22 | 96 (2L)  | 100.4       |
+| 3/17/24    | 36.6      | 88       | 109/72    | 18 | 98 (RA)  | 99.7        |
+| 3/18/24    | 36.9      | 76       | 117/78    | 16 | 98 (RA)  | 99.1        |
+
+---
+
+### ICU MEDICATIONS (active and recent)
+
+- Norepinephrine IV drip (weaned off 3/17)
+- Furosemide 40mg IV q8h
+- Acetaminophen 325mg PO q6h PRN
+- Acetaminophen/dextromethorphan/doxylamine solution 10mL q8h PRN
+- Atorvastatin 40mg PO qHS
+- Aspirin 81mg PO daily
+- Lisinopril 10mg PO daily (held during hypotension)
+- Metoprolol succinate 25mg PO daily (initiated 3/18)
+- Pantoprazole 40mg IV daily
+
+---
+
+### NURSING/RESPIRATORY
+
+- Intubated on 3/15 for hypoxic respiratory failure, extubated successfully on 3/17.
+- Foley catheter placed, removed 3/18.
+- Central venous catheter (right IJ), removed 3/18.
+- Impella CP placed 3/15, removed 3/18.
+
+---
+
+### LABS (CBC + Chem7 + Cardiac Markers + Others)
+
+**Key:**  
+ND = Not Done
+
+| Date      | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | BNP   | Troponin | AST  | ALT  |
+|-----------|------|------|------|------|------|------|------|------|------|------|------|-------|----------|------|------|
+| 3/15/24   | 8.7  | 13.2 | 38.6 | 271  | 137  | 4.7  | 101  | 27   | 12   | 1.25 | 94   | 2540  | 0.41     | 67   | 55   |
+| 3/16/24   | 10.2 | 12.1 | 34.9 | 249  | 139  | 4.4  | 103  | 24   | 19   | 1.57 | 118  | 2340  | 0.31     | 79   | 61   |
+| 3/17/24   | 7.4  | 11.7 | 33.1 | 219  | 141  | 4.0  | 104  | 26   | 16   | 1.32 | 102  | ND    | 0.19     | 62   | 49   |
+| 3/18/24   | 6.9  | 11.5 | 32.7 | 210  | 140  | 4.1  | 103  | 25   | 14   | 1.21 | 97   | 1120  | ND       | 48   | 39   |
+
+**Other labs:**  
+- LFTs: Mild elevation, trended down with improved perfusion.
+- HbA1c: 5.8% (from prior labs)
+- CRP: peaked at 12.3 mg/L, now 4.2 mg/L.
+
+---
+
+### ASSESSMENT & PLAN (by problem)
+
+#### 1. Cardiogenic Shock (acute decompensated heart failure, likely viral myocarditis)
+- Presented with hypotension, pulmonary edema, low cardiac index on echo.
+- Required vasopressors and temporary LV support (Impella CP) for 72h.
+- **Plan:** Continue guideline-directed medical therapy (GDMT), monitor for arrhythmias, serial TTEs. Weaned off Impella and vasopressors. Follow-up with HF clinic on discharge.
+
+#### 2. Acute Hypoxic Respiratory Failure
+- Intubated for airway protection and pulmonary edema, extubated after diuresis and improved hemodynamics.
+- **Plan:** Incentive spirometry, pulmonary hygiene, monitor for reintubation risk.
+
+#### 3. Volume Overload / Acute on Chronic Heart Failure
+- Significant lower extremity edema, JVD, bibasilar crackles.
+- **Plan:** IV furosemide, daily weights, strict I/O, sodium restriction.
+
+#### 4. Anemia
+- Baseline mild anemia, worsened with acute illness and phlebotomy.
+- **Plan:** Monitor CBC, consider iron studies as outpatient, no transfusion needed.
+
+#### 5. Prediabetes
+- Glucose controlled during admission, no insulin use.
+- **Plan:** Continue lifestyle modifications, outpatient follow-up.
+
+#### 6. Chronic Sinusitis / Recent Viral Syndrome
+- Ongoing mild congestion, no fever/leukocytosis after day 2.
+- **Plan:** Supportive care, saline nasal sprays, monitor for secondary infection.
+
+#### 7. Facial Laceration (s/p fall at home prior to admission)
+- 2cm laceration to left cheek, cleaned and closed in ED.
+- **Plan:** Daily dressing changes, monitor for infection.
+
+#### 8. Renal Dysfunction (acute kidney injury, multifactorial)
+- Creatinine peaked at 1.57, improved with volume management, no need for RRT.
+- **Plan:** Monitor renal function, avoid nephrotoxins.
+
+#### 9. Elevated LFTs (likely congestive hepatopathy)
+- AST/ALT elevated, trended down with improved cardiac output.
+- **Plan:** Monitor, no specific intervention.
+
+#### 10. Pain Control
+- Low pain scores, acetaminophen as needed.
+- **Plan:** Continue PRN.
+
+#### 11. Disposition/Social
+- Lives alone, will need home health for 1-2 weeks.
+- PT/OT consulted, safe for discharge home after 3/19.
+
+---
+
+### PROGRESS NOTES
+
+**3/15/24:**  
+Patient admitted in extremis, required intubation, pressors. Impella placed without complication. Family updated.
+
+**3/16/24:**  
+Stable on support, diuresis initiated, improved oxygenation. Renal function monitored.
+
+**3/17/24:**  
+Weaning off Impella and pressors, extubated to nasal cannula. Awake, following commands.
+
+**3/18/24:**  
+Impella and central lines removed, transitioned to oral HF meds. Mobilizing with PT.
+
+---
+
+### IMAGING
+
+- **CXR (3/15/24):** Pulmonary edema, mild cardiomegaly.
+- **TTE (3/15/24):** LVEF 20%, global hypokinesis, no LV thrombus.
+- **TTE (3/18/24):** LVEF improved to 38%, no pericardial effusion.
+
+---
+
+### DISCHARGE PLAN
+
+- **Medications:** Continue GDMT, resume home meds for sinusitis/anemia.
+- **Follow-up:** HF clinic 1 week, PCP 1 week, cardiac rehab referral.
+- **Instructions:** Daily weights, low sodium diet, s/sx of HF exacerbation, wound care for facial laceration.
+
+---
+
+**Physician:** Dr. C. R. Treadwell, MD  
+**Date/Time:** 03/18/2024 16:47
+
+---
+
+**END OF NOTE**

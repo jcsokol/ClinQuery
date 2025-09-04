@@ -1,0 +1,167 @@
+```
+====================================================================
+Epic EHR - Patient Chart
+====================================================================
+
+Patient Name: Keneth Schneider
+MRN: 00394821
+DOB: 12/13/2003   Sex: Male   Age: 20
+Admit Date: 5/24/2024    Provider: Dr. L. Harris, MD
+Encounter Type: ICU Admission
+====================================================================
+
+Allergies: NKDA
+
+Home Medications:
+- Amoxicillin-clavulanate 250/125 mg PO BID
+- Penicillin V potassium 250 mg PO QID
+- Acetaminophen 160 mg PO PRN
+
+====================================================================
+Chief Complaint:
+"Shortness of breath, chest pain, and syncope x 2 days"
+
+====================================================================
+HPI:
+Keneth Schneider is a 20-year-old male with a history of chronic and recurrent viral sinusitis, acute viral pharyngitis, and previous concussion (no LOC), who presented to the ED with acute onset dyspnea, orthopnea, and pleuritic chest discomfort. He had a syncopal episode at home, prompting EMS transport. On arrival, he was hypotensive (BP 82/46), tachycardic (HR 128), and hypoxic (SaO2 89% on RA). He rapidly deteriorated with signs of cardiogenic shock, requiring intubation, vasopressors, and subsequently placement of a temporary left ventricular assist device (Impella CP) in the CCU.
+
+====================================================================
+Past Medical History:
+- Chronic sinusitis
+- Recurrent viral sinusitis
+- Acute viral pharyngitis
+- Concussion, no LOC (2022)
+- Ankle sprain (2021)
+
+Past Surgical History: None
+
+Family History:
+- Father: HTN, alive
+- Mother: Asthma, alive
+- No known hereditary cardiac disease
+
+Social History:
+- College student, lives in dorm
+- No tobacco, EtOH; denies illicit drug use
+- No recent travel, no sick contacts
+
+====================================================================
+Physical Exam (ICU Day 2, post-Impella):
+GEN: Intubated, sedated, moderate distress
+VS: T 37.2°C, HR 102, BP 94/56 (on norepi), RR 18 (vent), SpO2 97% (FiO2 40%)
+HEENT: Oropharynx clear, ETT secure
+CV: S1, S2, soft S3, no murmur, Impella hum noted
+RESP: Bibasilar crackles, decreased breath sounds at bases
+ABD: Soft, NT, ND, bowel sounds present
+EXT: No edema, pulses 2+ all extremities, toes warm
+NEURO: Sedated, non-focal
+SKIN: Intact, no rashes/bruising
+
+====================================================================
+Problem List:
+1. Cardiogenic shock, new onset
+2. Acute decompensated heart failure (EF 22%)
+3. Temporary LVAD (Impella CP) - in place
+4. Acute kidney injury
+5. Recurrent viral sinusitis
+6. Intubation, mechanical ventilation
+7. Transaminitis (mild)
+8. Electrolyte disturbances
+9. Anemia, new (likely multifactorial)
+10. Pain control
+
+====================================================================
+Assessment & Plan:
+
+1. **Cardiogenic Shock, New Onset**
+   - Etiology likely viral myocarditis (pending viral panel, troponin, echo: global hypokinesis)
+   - Hemodynamic instability requiring pressors, Impella CP placed on ICU day 1 for LV support
+   - Continue hemodynamic monitoring, daily TTE, wean pressors as tolerated
+
+2. **Acute Decompensated Heart Failure (EF 22%)**
+   - Diuresis as tolerated (IV furosemide, monitor UOP)
+   - Daily weights, strict I/O, sodium restriction
+   - Await improvement with mechanical support
+
+3. **Temporary LVAD (Impella CP)**
+   - Device flows adequate (avg 3.2 L/min)
+   - Daily device checks, monitor for hemolysis (LDH, haptoglobin, plasma free Hgb)
+   - Anticoagulation: heparin drip, monitoring PTT
+
+4. **Acute Kidney Injury (Cr 2.4, baseline 0.9)**
+   - Likely multifactorial: hypoperfusion, pressors
+   - IVF challenge x1, now on fluid restriction
+   - Monitor BUN/Cr, lytes, consider RRT if worsening
+
+5. **Recurrent Viral Sinusitis**
+   - Supportive care, ENT consulted
+   - Continue current abx for secondary bacterial infection
+
+6. **Intubation/Mechanical Ventilation**
+   - Sedation: propofol + fentanyl
+   - Weaning trials daily as tolerated
+   - VAP prevention bundle
+
+7. **Transaminitis**
+   - Mild AST/ALT elevation, likely ischemic
+   - Trending down, monitor LFTs
+
+8. **Electrolyte Disturbances**
+   - Correct K, Mg, Phos as needed (see labs)
+   - Monitor q6-8h
+
+9. **Anemia**
+   - Hgb nadir 8.9, likely dilutional/hemolysis
+   - Monitor, transfuse if <7 or symptomatic
+
+10. **Pain Control**
+    - Acetaminophen PRN, no opioids currently
+
+====================================================================
+Hospital Course Summary:
+Day 1: Admitted for acute cardiogenic shock, intubated for hypoxic resp failure, Impella placed via R femoral artery. Started on norepinephrine, dobutamine. Initial echo: global hypokinesis, EF 22%. Fluids given, then fluid restriction.
+Day 2: Improving hemodynamics, weaning pressors. AKI noted. Device flows stable.
+Day 3: Attempted wean from ventilation, failed SBT. LFTs improving. Diuresis started.
+Day 4: Improved renal function, decreasing pressors, chest x-ray: mild pulmonary edema. Sinusitis symptoms improved.
+
+====================================================================
+Key Labs (ICU Course)
+| Date       | WBC   | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | Troponin | LDH  | BNP   |
+|------------|-------|------|------|------|------|------|------|------|------|------|------|------|------|----------|------|-------|
+| 5/24/24 AM | 5.6   | 13.8 | 39   | 405  | 137  | 4.2  | 103  | 22   | 38   | 2.4  | 110  | 82   | 104  | 2.1      | 522  | 4100  |
+| 5/24/24 PM | 7.1   | 13.4 | 38   | 385  | 135  | 3.8  | 101  | 20   | 42   | 2.6  | 148  | 65   | 99   | 1.9      | 477  |       |
+| 5/25/24    | 6.2   | 12.9 | 36   | 360  | 133  | 4.1  | 101  |      | 40   | 2.2  | 102  | 48   | 72   | 1.2      | 336  | 3900  |
+| 5/26/24    | 5.9   | 12.1 |      | 342  | 137  | 4.4  | 104  | 23   | 31   | 1.7  | 94   | 33   |      | 0.7      |      | 2890  |
+| 5/27/24    | 5.4   | 11.6 | 33   | 335  |      | 4.6  | 102  | 22   | 28   | 1.2  | 89   |      | 46   | 0.3      | 201  | 1420  |
+
+*Note: Some labs missing due to specimen hemolysis or not ordered.
+
+====================================================================
+Imaging:
+- ECHO (5/24): EF 22%, global LV hypokinesis, mild RV dysfunction, no thrombus
+- CXR (5/24): Pulmonary edema, ETT, Impella catheter in place
+- CXR (5/26): Improving vascular congestion
+
+====================================================================
+Microbiology:
+- Blood cultures x2: no growth
+- Viral PCR: pending (coxsackie, influenza, adenovirus)
+- Nasal swab: rhinovirus positive
+
+====================================================================
+Consults:
+- Cardiology (primary)
+- Critical Care
+- ENT
+- Nephrology (for AKI)
+
+====================================================================
+Discharge Planning:
+- Prognosis guarded, likely prolonged ICU course
+- Goals: Wean mechanical/Impella support, optimize end-organ perfusion
+- Anticipate inpatient rehab needs
+
+====================================================================
+Attending: Dr. L. Harris, MD
+```
+

@@ -1,0 +1,146 @@
+```
+----------------------------------------------------------------------------------------------------------------------------------
+EpicCare Inpatient - Progress Note
+
+Patient Name: James Gottlieb       MRN: 1000192837        DOB: 12/24/1960        Sex: Male
+Admit Date: 6/12/2024              Attending: Dr. Paulson, MD
+Location: 4C ICU                   Note Date: 6/16/2024 10:33
+
+Reason for Admission:  
+Acute decompensated heart failure with cardiogenic shock requiring temporary LVAD (Impella CP) support
+
+Code Status: Full
+
+Allergies: NKDA
+
+Medications (active):
+- Hydorchlorothiazide 25 mg PO daily
+- Simvastatin 10 mg PO daily
+- Acetaminophen 325 mg PO prn
+- Naproxen sodium 220 mg PO prn
+- Furosemide IV 40mg BID
+- Milrinone IV 0.375 mcg/kg/min
+- Lisinopril 2.5 mg PO daily (held)
+- Metoprolol 12.5 mg PO BID (held)
+- Heparin drip per LVAD protocol
+
+----------------------------------------------------------------------------------------------------------------------------------
+HISTORY OF PRESENT ILLNESS
+James Gottlieb is a 63-year-old male with a PMHx of hypertension, hyperlipidemia, obesity (BMI 30.4), and chronic sinusitis who presented to the ED with acute onset of SOB, orthopnea, and lower extremity edema. He reported 1 week of increasing dyspnea, PND, and 2-pillow orthopnea. He also had recent viral URI symptoms. On arrival, he was hypotensive (BP 82/53), tachycardic, with cool extremities and JVD. CXR: pulmonary edema. Echo: EF 15%, global hypokinesis. Troponin mildly elevated. He developed worsening shock despite diuresis and inotropes and was transferred to the ICU where a temporary percutaneous LVAD (Impella CP) was placed for cardiogenic shock. 
+
+Hospital course notable for:
+- Vasopressor/inotrope dependence (milrinone)
+- Diuresis with IV furosemide
+- Temporary LVAD support (Impella CP) placed HD#1, ongoing
+- AKI on CKD III (creatinine up to 3.2 from baseline 1.4)
+- Mild transaminitis, no evidence of ischemic hepatitis
+- No arrhythmias
+- No infectious complications to date
+
+----------------------------------------------------------------------------------------------------------------------------------
+PHYSICAL EXAM (6/16/2024, 08:00)
+Gen: Obese male, alert, NAD
+CV: S1/S2, no murmur, Impella hum audible, JVD 10cm, cool LE, trace pedal edema
+Pulm: Bibasilar crackles, mild tachypnea, O2 sat 94% RA
+Abd: Soft, NT, no HSM
+Neuro: AAO x3, no focal deficit
+Skin: Healing facial lac (sutured, no erythema)
+Ext: 1+ pitting edema BLE
+
+----------------------------------------------------------------------------------------------------------------------------------
+VITALS (selected):
+| Date       | Temp (C) | HR   | BP        | RR | O2 Sat | Weight (kg) |
+|------------|----------|------|-----------|----|--------|-------------|
+| 6/13/2024  | 36.6     | 112  | 84/53     | 22 | 93% RA | 109.2       |
+| 6/14/2024  | 36.8     | 105  | 91/59     | 19 | 94% RA | 108.8       |
+| 6/15/2024  | 37.2     | 98   | 97/62     | 18 | 95% RA | 108.4       |
+| 6/16/2024  | 36.9     | 92   | 102/65    | 17 | 94% RA | 108.3       |
+
+----------------------------------------------------------------------------------------------------------------------------------
+LABS (CBC, CHEM7, LFTs, Troponin, BNP) [see table below]
+
+| Date       | WBC    | Hgb  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | AST  | ALT  | Alk Phos | T. Bili | Troponin | BNP    |
+|------------|--------|------|-------|------|------|------|------|------|------|------|------|----------|---------|----------|--------|
+| 6/13/2024  | 5.2    | 12.6 | 343   | 137  | 4.8  | 105  | 26   | 24   | 2.9  | 43   | 40   | 114      | 0.3     | 0.09     | 1980   |
+| 6/14/2024  | 4.7    | 12.1 | 327   | 136  | 4.6  | 106  | 25   | 28   | 3.2  | 41   | 39   | 109      | 0.2     | 0.07     | 1840   |
+| 6/15/2024  | 5.0    | 11.9 | 355   | 138  | 4.7  | 104  | 24   | 25   | 3.0  | 38   | 36   | 104      | 0.2     | 0.06     | 1560   |
+| 6/16/2024  | 4.9    | 12.0 | 362   | 138  | 4.6  | 106  | 25   | 18   | 2.1  | 37   | 37   | 101      | 0.19    | 0.05     | 1102   |
+
+*Some labs not drawn on all days. BNP trended down, troponin stable, LFTs improved.
+
+----------------------------------------------------------------------------------------------------------------------------------
+ASSESSMENT & PLAN
+
+1. Cardiogenic Shock s/p Impella CP insertion (HD#1)
+   - Etiology: Likely acute on chronic ischemic/non-ischemic cardiomyopathy (EF 15%)
+   - Ongoing Impella support, weaning inotropes as tolerated
+   - Serial hemodynamic monitoring (Swan-Ganz removed HD#2)
+   - Daily TTE to monitor LV recovery
+   - Continue milrinone, titrate as tolerated
+   - Strict I/Os, daily weights
+   - Multidisciplinary team: Heart Failure, CT surgery
+
+2. Acute on CKD (baseline Cr 1.4, peaked 3.2)
+   - Likely cardiorenal syndrome
+   - Renal function improving with diuresis and improved perfusion
+   - Avoid nephrotoxins, adjust medication dosing
+   - Monitor for indications for RRT
+
+3. Acute Decompensated Heart Failure (HFrEF, EF 15%)
+   - Guideline-directed medical therapy on hold due to hypotension/AKI
+   - Resume ACEi/BB as tolerated
+   - Continue aggressive diuresis (IV furosemide)
+   - Fluid/salt restriction
+
+4. Hypertension, Hyperlipidemia, Obesity
+   - Chronic, suboptimally controlled
+   - Simvastatin continued
+   - Antihypertensives held due to shock
+   - Counsel on lifestyle modifications
+
+5. Chronic Sinusitis, Recent Viral URI
+   - Supportive care, no antibiotics
+   - Monitor for secondary infection
+
+6. Facial laceration (sutured, ED)
+   - Healing, no signs of infection
+   - Suture removal planned HD#7
+
+7. Other
+   - VTE prophylaxis: heparin drip (per Impella protocol)
+   - GI prophylaxis: pantoprazole IV
+   - Nutrition: cardiac/renal diet, salt restriction
+   - PT/OT consult for early mobility as tolerated
+
+----------------------------------------------------------------------------------------------------------------------------------
+IMAGING:
+- 6/13/2024 CXR: Pulmonary edema, mild cardiomegaly
+- 6/13/2024 TTE: EF 15%, global hypokinesis, no valvular vegetations
+- 6/15/2024 TTE: EF 20%, Impella position stable
+
+----------------------------------------------------------------------------------------------------------------------------------
+CONSULTS:
+- Cardiology: Daily
+- CT Surgery: On standby for escalation to durable VAD/transplant if no recovery
+- Nephrology: Consulted for AKI management
+- PT/OT: Early mobility
+
+----------------------------------------------------------------------------------------------------------------------------------
+NURSING/OTHER NOTES:
+- Foley d/c'd HD#2
+- Strict I/Os, Foley reinserted HD#4 for worsening AKI, now removed
+- Impella site clean, dry, intact
+
+----------------------------------------------------------------------------------------------------------------------------------
+DISCHARGE PLANNING:
+- Plan for Impella wean as tolerated
+- Anticipate stepdown to telemetry floor pending hemodynamic stability
+- Outpatient HF follow-up, weight monitoring, medication adjustment
+
+----------------------------------------------------------------------------------------------------------------------------------
+SIGNATURE:  
+Paulson, MD (Attending)  
+6/16/2024 10:33
+
+----------------------------------------------------------------------------------------------------------------------------------
+```

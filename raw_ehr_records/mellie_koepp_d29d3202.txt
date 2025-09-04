@@ -1,0 +1,169 @@
+**EHR - EPIC Simulation**  
+**Patient Name:** Mellie Koepp  
+**MRN:** 00294831  
+**DOB:** 06/21/1951 (72 y/o)  
+**Sex:** Female  
+**Date of Admission:** 03/07/2024  
+**Date of Discharge:** 03/21/2024  
+**Attending:** Dr. Mark Heller  
+**Admitting Dx:** Cardiogenic shock secondary to acute decompensated heart failure (ADHF)  
+**Code Status:** Full  
+**Allergies:** NKDA  
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+**History of Present Illness:**  
+72-year-old female with a history of obesity, prediabetes, chronic anemia, and hyperlipidemia presented to the ED with acute-onset dyspnea, orthopnea, and chest tightness. She rapidly decompensated with hypotension (BP 77/50), tachycardia, and signs of poor perfusion. Initial work-up was notable for elevated BNP, troponin I, and rising creatinine, suggestive of acute on chronic heart failure, likely ischemic in etiology. She required ICU admission for hemodynamic monitoring and escalating vasopressor support. Due to refractory cardiogenic shock and evidence of end-organ dysfunction, a temporary left-sided percutaneous ventricular assist device (Impella CP) was placed on hospital day #2.
+
+---
+
+### PAST MEDICAL HISTORY
+
+- Body mass index 30+ (Obesity – BMI 32 on admission)
+- Prediabetes (HbA1c 6.3%)
+- Anemia (chronic, multifactorial – baseline Hgb 10.5-11.5)
+- Hyperlipidemia
+- Hypertension (remote, off meds per pt)
+- GERD
+
+### PAST SURGICAL HISTORY
+
+- Cholecystectomy (2010)
+- Hysterectomy (benign, 1997)
+
+### FAMILY HISTORY
+
+- Father: MI at 68; DM2
+- Mother: Breast Ca, HTN
+
+### SOCIAL HISTORY
+
+- Lives alone, retired school teacher
+- Former smoker (quit 2004, 20 pack-years)
+- Rare EtOH, no illicit drugs
+
+### HOME MEDICATIONS
+
+- Hydrocortisone 10mg/mL topical cream (prn eczema)
+- Chlorpheniramine 4mg po prn allergies
+- Atorvastatin 20mg qhs
+- Ferrous sulfate 325mg po qd (noncompliant)
+
+---
+
+## ICU COURSE
+
+#### Day 1 (Admission/ED)
+- **VS**: T 36.7C, HR 110, BP 77/50, RR 24, O2 91% RA
+- **Exam:** cool extremities, JVD, rales, S3, mild LE edema
+- **Labs:** Initial CBC, chem7, cardiac enzymes, BNP, LFTs sent (see LABS below)
+- **Echo:** LVEF 20%, global hypokinesis, mild MR
+- **CXR:** Pulmonary edema, mild cardiomegaly
+
+#### Day 2 (ICU)
+- Progressive hypotension, rising lactate, worsening creatinine
+- Started on norepinephrine, dobutamine infusion
+- **Impella CP** placed via femoral approach for left ventricular support
+- Diuresis initiated with IV furosemide
+
+#### Days 3–10
+- Gradual improvement in hemodynamics
+- Impella weaned off on day 8, removed on day 9
+- Monitored for hemolysis, bleeding, and infection
+- Developed transient acute tubular necrosis with slow renal recovery
+- Hgb dropped to 8.2, transfused 1 unit PRBCs
+- Persistent low-grade fever, negative blood cultures; likely line-related, resolved with line change
+- Nutrition consult: started on high-protein, moderate-carb diet
+
+#### Days 11–14
+- Steady improvement, transitioned to oral diuretics
+- Mobilized with PT/OT
+- Discharge planning: LifeVest arranged, close cardiology f/u
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. **Acute Decompensated Heart Failure / Cardiogenic Shock**
+- Impella CP placed for hemodynamic support; removed after stabilization
+- Guideline-directed medical therapy (GDMT) initiated: low-dose carvedilol and sacubitril/valsartan titrated up as tolerated
+- Monitor for arrhythmias, volume status, and evidence of end-organ perfusion
+- Cardiology f/u in 1 week, consider advanced therapies if recurrent decompensation
+
+### 2. **Chronic Anemia**
+- Baseline microcytic anemia, likely multifactorial (CKD, iron deficiency)
+- Iron studies: ferritin 32, Fe 28, TIBC 390
+- Transfused PRBCs x1 during admission for Hgb <8.5
+- Resume oral iron on discharge, GI work-up outpatient
+
+### 3. **Prediabetes**
+- HbA1c 6.3%, fasting glucoses 90-120
+- Diabetic diet, monitor inpatient glucose
+- Endocrine f/u for risk modification
+
+### 4. **Obesity (BMI 32)**
+- Dietician consult, calorie restriction, PT/OT for mobility
+- Education re: heart failure and weight management
+
+### 5. **Acute Kidney Injury (on CKD)**
+- Likely multifactorial: low output state, diuretics, contrast
+- Monitored UOP, daily chem7; creatinine peaked at 2.1, improved to 1.3 at d/c
+- Avoid nephrotoxins, f/u renal function post-d/c
+
+### 6. **Electrolyte Abnormalities**
+- Monitored for hypo/hyperkalemia, hyponatremia
+- K+ replaced as needed, Na+ nadir 131, corrected with fluid balance
+
+### 7. **Other Active Issues**
+- Hyperlipidemia: resume atorvastatin
+- Line infection risk: changed central line, monitored, no bacteremia
+- DVT prophylaxis: SQ heparin
+
+---
+
+## ICU LABS (Selected)
+
+| Date       | WBC (K) | Hgb (g/dL) | Plt (K) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Troponin (ng/mL) | BNP (pg/mL) | AST (U/L) | ALT (U/L) |
+|------------|---------|------------|---------|-------------|------------|-------------|--------------|-------------|------------|-------------|-------------------|-------------|-----------|-----------|
+| 3/7/24 AM  | 8.1     | 10.9       | 183     | 137         | 4.2        | 102         | 24           | 17          | 0.77       | 91          | 0.42              | 2200        | 31        | 28        |
+| 3/8/24 AM  | 11.3    | 9.5        | 168     | 134         | 4.9        | 100         | 19           | 28          | 1.41       | 108         | 0.68              | 3040        | 48        | 44        |
+| 3/9/24 AM  | 12.8    | 8.2        | 145     | 132         | 5.1        | 99          | 17           | 49          | 2.10       | 120         | 0.51              | 3800        | 62        | 53        |
+| 3/10/24    | 10.7    | 8.8        | 159     | 133         | 4.7        | 98          | 21           | 41          | 1.78       | 112         | 0.20              | 2300        | 38        | 36        |
+| 3/11/24    | 9.9     | 9.3        |        | 135         | 4.3        | 101         | 23           | 29          | 1.22       | 99          | <0.01              | 950         | 29        | 25        |
+| 3/13/24    | 7.8     | 9.9        | 189     | 137         | 4.0        | 103         | 26           | 21          | 1.03       | 97          | <0.01              | 420         | 18        | 17        |
+| 3/15/24    | 7.2     | 10.5       | 202     | 138         | 4.2        | 104         | 25           | 18          | 0.98       | 95          | <0.01              | 198         | 14        | 13        |
+| 3/18/24    |         | 11.1       | 211     | 139         | 4.4        | 105         | 27           | 16          | 0.89       | 92          | --                 | 98          | 11        | 10        |
+
+---
+
+## HOSPITAL DISCHARGE MEDICATIONS
+
+- Carvedilol 3.125mg BID
+- Sacubitril/valsartan 24/26mg BID
+- Furosemide 20mg PO qAM
+- Atorvastatin 20mg PO qhs
+- Ferrous sulfate 325mg PO daily
+- Hydrocortisone 10mg/mL topical cream PRN
+- Chlorpheniramine 4mg PO PRN
+
+---
+
+## DISCHARGE INSTRUCTIONS
+
+- Daily weights, strict fluid restriction (1.5L/d)
+- Low sodium, heart-healthy diet
+- Home PT/OT
+- LifeVest to be worn at all times
+- Cardiology, nephrology, and primary care follow-up within 1 week
+
+---
+
+## SIGNATURES
+
+Mark Heller, MD  
+ICU Attending  
+03/21/2024 14:12
+
+---

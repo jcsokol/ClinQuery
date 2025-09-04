@@ -1,0 +1,169 @@
+---
+**Patient Name:** Galina Durgan  
+**MRN:** 00458139  
+**DOB:** 1965-09-30 (58 y/o)  
+**Sex:** Female  
+**Admit Date:** 2024-05-12  
+**Attending:** Dr. Samuelson, Cardiology  
+**Location:** MICU, Bed 18  
+**Note Type:** ICU Progress Note  
+**Date/Time:** 2024-05-17 08:23
+
+---
+
+## Chief Complaint
+Acute dyspnea, orthopnea, and chest discomfort x 2 days.
+
+---
+
+## HPI
+
+58-year-old female with a complex cardiac history including known coronary heart disease, prediabetes, and chronic anemia, presenting with 2 days of worsening dyspnea, chest tightness, and lower extremity edema. Patient reports a recent viral URI with cough and sinus congestion. She was brought in via EMS after an episode of near-syncope at home. In the ED, found to be hypotensive (SBP 79), tachycardic, and hypoxic (O2 sat 88% RA), with rales on exam and JVD. Initial labs notable for elevated troponin, creatinine bump, and worsening anemia. She was admitted to the ICU for management of acute decompensated heart failure (ADHF) and cardiogenic shock. Due to persistent hemodynamic instability, a temporary left-sided percutaneous ventricular assist device (Impella CP) was placed on HD 2.
+
+---
+
+## Hospital Course (Summary)
+
+- **HD 1:** Admitted to MICU. Treated with BiPAP, IV diuretics, vasopressors (norepinephrine). Cardiology consulted for shock.
+- **HD 2:** Worsening hypotension and rising lactate, echo showed LVEF ~15%. Impella CP placed via femoral approach. Urine output improved post-device.
+- **HD 3-4:** Gradual improvement in MAP and mental status. Weaned off norepinephrine.
+- **HD 5:** Impella weaned and explanted. Remained stable. Diuresis continued.
+- **Ongoing:** Treated for superimposed bronchitis with azithromycin. Monitored for device-related complications (none noted). Anemia managed with transfusion.
+
+---
+
+## Problem List / Assessment & Plan
+
+### 1. **Cardiogenic Shock secondary to Acute Decompensated Heart Failure (CHF, ischemic)**
+- Hx: CAD, prior stents, EF 20-25% baseline, recent viral illness likely precipitant.
+- Course: Developed hypotension refractory to fluids/pressors → Impella CP placed HD 2.
+- Plan:
+  - Continue guideline-directed medical therapy (GDMT): beta-blocker, ACEi, statin, antiplatelet.
+  - Monitor hemodynamics q2h, daily TTE.
+  - Diuresis to euvolemia.
+  - Consider advanced therapies (LVAD eval) if no improvement.
+
+### 2. **Anemia (multifactorial: chronic disease, acute on chronic)**
+- Hgb dropped to 7.2 on HD 2. Transfused 2U PRBCs with improvement to 9.1.
+- Plan:
+  - Monitor CBC q12h.
+  - Iron studies, B12, folate pending.
+  - GI consult if further drop.
+
+### 3. **Prediabetes**
+- Fasting glucoses 100–125. No DKA/HHS.
+- Plan:
+  - Monitor FS glucose BID.
+  - Dietary education.
+  - Hold metformin during renal dysfunction.
+
+### 4. **Acute Bronchitis / Superimposed Infection**
+- Productive cough, low-grade fever. CXR: bibasilar infiltrates.
+- Plan:
+  - Azithromycin x 5d, supportive care.
+  - Monitor for VAP.
+
+### 5. **Coronary Artery Disease / Secondary Prevention**
+- On simvastatin, aspirin, clopidogrel.
+- Plan:
+  - Cardiology f/u.
+  - Continue DAPT, statin.
+
+### 6. **Ruptured Patellar Tendon (remote, s/p repair 2021)**
+- No acute issues.
+- Plan: DVT prophylaxis, PT consult for mobilization.
+
+### 7. **Pain Management**
+- Moderate pain at femoral access site, controlled with acetaminophen/oxycodone.
+- Plan:
+  - Pain team consult.
+  - Reassess need for opioids.
+
+### 8. **Electrolyte Abnormalities / Renal Dysfunction**
+- AKI likely pre-renal, improved with device support.
+- Monitor chem7 daily, adjust diuretics.
+
+### 9. **Nutrition**
+- NPO HD 1-2, now on cardiac diet.
+- Monitor prealbumin, dietician consult.
+
+---
+
+## Medications (Active)
+
+- Nitroglycerin 0.4mg spray PRN
+- Simvastatin 20mg nightly
+- Amlodipine 5mg QD
+- Clopidogrel 75mg QD
+- Aspirin 81mg QD
+- Furosemide IV 40mg BID
+- Norepinephrine (weaned off HD 4)
+- Azithromycin 500mg x 1, 250mg x 4d
+- Acetaminophen/oxycodone 325/5mg PRN
+- DVT prophylaxis: Enoxaparin 40mg SQ QD
+
+---
+
+## Vital Signs (Select)
+
+| Date/Time         | Temp (°C) | HR | BP        | RR | SpO2 | Weight (kg) |
+|-------------------|-----------|----|-----------|----|------|------------|
+| 2024-05-12 06:00  | 36.7      | 112| 79/48     | 22 | 88%  | 76.4       |
+| 2024-05-13 08:00  | 37.1      | 104| 96/55     | 18 | 92%  | 75.6       |
+| 2024-05-14 06:00  | 36.5      | 89 | 104/62    | 17 | 95%  | 74.9       |
+| 2024-05-15 06:00  | 36.9      | 82 | 112/68    | 16 | 96%  | 74.3       |
+| 2024-05-16 06:00  | 36.6      | 78 | 117/70    | 15 | 97%  | 74.2       |
+
+---
+
+## Labs
+
+### Hematology / Chemistries
+
+| Date         | WBC (K) | Hgb (g/dL) | Hct (%) | Plt (K) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | HCO3 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Gluc (mg/dL) | Ca (mg/dL) | Troponin (ng/mL) | AST (U/L) | ALT (U/L) |
+|--------------|---------|------------|---------|---------|-------------|------------|-------------|---------------|-------------|------------|--------------|------------|------------------|-----------|-----------|
+| 5/12 (ED)    | 5.1     | 8.2        | 25      | 188     | 136         | 5.2        | 110         | 19            | 31          | 1.2        | 132          | 8.7        | 0.38             | 59        | 49        |
+| 5/13 (HD 2)  | 4.7     | 7.2        | 22      | 175     | 135         | 5.4        | 108         | 18            | 36          | 1.5        | 118          | 8.5        | 0.41             | 67        | 61        |
+| 5/14         | 5.3     | 9.1        | 28      | 217     | 137         | 4.8        | 109         | 21            | 26          | 1.1        | 102          | 8.9        | 0.21             | 45        | 38        |
+| 5/15         | 4.9     | 9.4        | 29      | 239     | 137         | 4.5        | 110         | 23            | 20          | 0.9        | 98           | 9.0        | <0.01            | 36        | 29        |
+| 5/16         | 4.6     | 9.0        | 28      | —       | 138         | —          | 111         | 24            | 18          | 0.8        | —            | 9.1        | —                | —         | —         |
+
+- **Notes:** Troponin peaked on HD 2, trending down. Mild transaminitis, likely ischemic/hypoperfusion. Platelets dropped transiently, recovered.
+
+---
+
+## Imaging & Procedures
+
+- **Echo (HD 2):** LVEF 15%, global hypokinesis, mild MR, dilated LV, RV mildly reduced.
+- **CXR (HD 1):** Pulmonary edema, bibasilar infiltrates.
+- **Impella CP Placement (HD 2):** Left femoral approach, no vascular complications.
+- **Lower extremity Dopplers (HD 4):** Negative for DVT.
+
+---
+
+## Disposition / Prognosis
+
+- Remains in MICU, improving hemodynamics post-Impella.
+- Anticipate transfer to stepdown pending continued stability.
+- Prognosis guarded, high risk for recurrent decompensation.
+- Family meeting scheduled re: advanced heart failure therapies.
+
+---
+
+## Orders / Recommendations
+
+- Continue close monitoring in ICU.
+- Daily labs, strict I/O, daily weights.
+- Early mobilization with PT/OT.
+- Cardiology: Consider ICD, LVAD eval if no recovery.
+- Social work, palliative care consults per family request.
+
+---
+
+**Signed:**  
+Dr. Samuelson, Cardiology  
+2024-05-17 08:23
+
+---
+
+**[End of Note]**

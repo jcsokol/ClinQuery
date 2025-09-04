@@ -1,0 +1,201 @@
+**EPIC EHR - Progress Note**  
+**Patient:** Francisco Haag  
+**MRN:** 00371249  
+**DOB:** 07/25/1976  
+**Sex:** Male  
+**Admit Date:** 03/21/2024  
+**Attending:** Dr. L. Rigg  
+**Consultants:** Cardiology, Infectious Disease, Orthopedics  
+**Location:** MICU, Bed 11B  
+
+---
+
+### CHIEF COMPLAINT  
+Shortness of breath, chest pain, and fever.  
+
+---
+
+### HISTORY OF PRESENT ILLNESS  
+Francisco Haag is a 47 year old male with a history notable for acute bronchitis, recurrent viral pharyngitis, and remote right wrist fracture/subluxation, presenting to the ED with 3 days of progressive dyspnea, orthopnea, subjective fevers, and non-productive cough. He reported substernal chest pressure radiating to the jaw, associated with diaphoresis and nausea. On arrival, tachycardic to 132, BP 82/60, O2 sat 91% on 2L NC.  
+
+Initial workup was notable for CXR with pulmonary edema, troponin 1.62, BNP 1882, and EKG with new LBBB. Echo revealed LVEF ~15%, global hypokinesis, moderate MR. He rapidly decompensated with worsening hypoxia, hypotension refractory to fluids/pressors, and was emergently intubated and transferred to the ICU. Due to ongoing cardiogenic shock and end-organ hypoperfusion, the decision was made to place a temporary left-sided heart pump (Impella CP) for mechanical circulatory support.  
+
+He has required ongoing management for volume overload, AKI, and secondary infections.  
+
+---
+
+### PAST MEDICAL HISTORY  
+- Acute bronchitis (multiple episodes)  
+- Acute viral pharyngitis  
+- Fracture/subluxation, right wrist (remote, no hardware)  
+
+### PAST SURGICAL HISTORY  
+- None reported  
+
+### ALLERGIES  
+- NKDA  
+
+### HOME MEDICATIONS  
+- Acetaminophen 325 mg PO PRN  
+- Meperidine 50 mg PO PRN  
+
+### SOCIAL HISTORY  
+- Former smoker, quit 2018 (10 pack-year)  
+- Occasional ETOH  
+- Lives with wife, works as accountant  
+- No illicit drug use  
+
+---
+
+### REVIEW OF SYSTEMS  
+Unable to obtain full ROS due to intubation and sedation. Per EMS/family, no prior cardiac history, no recent sick contacts.  
+
+---
+
+### PHYSICAL EXAM (ICU Day 3)  
+**Gen:** Intubated, sedated, appears ill  
+**VS:** T 37.8°C, HR 109, BP 93/54 (on norepi 0.06 mcg/kg/min), RR 18 (vent), SpO2 97% (FiO2 40%)  
+**HEENT:** Oropharynx clear, tube in place  
+**CV:** S1, S2, soft S3, no murmur, Impella hum noted, JVD ~12cm  
+**Lungs:** Rales at bases, decreased breath sounds LLL  
+**Abd:** Soft, mildly distended, normoactive BS  
+**Ext:** No clubbing/cyanosis, trace edema  
+**Neuro:** Sedated, moves all extremities to pain  
+**Lines:** R IJ TLC, R radial A-line, Foley, Impella CP via femoral  
+
+---
+
+## LABS
+
+| Date/Time       | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Troponin (ng/mL) | BNP (pg/mL) | AST (U/L) | ALT (U/L) |
+|-----------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|------------------|-------------|-----------|-----------|
+| 3/21 18:14      | 14.2       | 14.9       | 49      | 208        | 131         | 5.1        | 98          | 21           | 38          | 2.1        | 162         | 1.62             | 1882        | 78        | 66        |
+| 3/22 07:32      | 12.7       | 13.7       | 46      | 187        | 134         | 4.3        | 99          | 23           | 44          | 2.4        | 141         | 0.98             | 2039        | 92        | 80        |
+| 3/23 05:56      | 10.6       | 12.8       | 44      | 153        | 137         | 4.8        | 103         | 20           | 39          | 1.9        | 108         | 0.51             | 1545        | 101       | 88        |
+| 3/24 06:20      | 9.3        | 12.2       | 41      | 139        | 138         | 4.2        | 102         | 18           | 33          | 1.4        | 117         |                  | 1310        | 77        | 64        |
+| 3/25 07:10      |            | 11.7       | 39      | 126        | 140         | 3.9        | 100         | 22           | 28          | 1.2        | 102         |                  |             |           |           |
+
+---
+
+### IMAGING/DIAGNOSTICS
+- **CXR (3/21):** Pulmonary edema, bilateral vascular congestion, trace left pleural effusion  
+- **EKG (3/21):** New LBBB, Q waves V2-V4  
+- **Echo (3/21):** LVEF 15%, global hypokinesis, mod MR  
+- **Repeat Echo (3/24):** LVEF improved to 30% on Impella support  
+- **Right heart cath (3/22):** PCWP 27, CI 1.6, SVR 1720  
+
+---
+
+## ASSESSMENT & PLAN  
+
+**1. Cardiogenic Shock (secondary to acute decompensated heart failure, likely viral myocarditis vs. ischemia)**
+   - Impella CP placed ICU day 1, ongoing support, flows 3.2-3.5 L/min  
+   - Weaning vasopressors, MAP goal >65  
+   - Serial cardiac markers, daily echo  
+   - Diuresis with IV furosemide  
+   - Monitor for hemolysis (LDH, haptoglobin, plasma free Hgb), limb ischemia  
+   - Daily labs, strict I/Os  
+   - Plan: Consider Impella wean/removal if LVEF >35% and hemodynamics stable  
+
+**2. Acute Kidney Injury (multifactorial: low perfusion, diuretics, contrast)**
+   - Daily renal panel, monitor urine output  
+   - Avoid nephrotoxins, adjust med dosing  
+   - Renal consult if Cr >2.5 or oliguric  
+   - Renal function improving as perfusion improves  
+
+**3. Acute Hypoxic Respiratory Failure**
+   - Intubated, lung protective ventilation  
+   - Daily CXR, ABG monitoring  
+   - Weaning FiO2 as tolerated  
+   - Pulmonary edema improving with diuresis  
+
+**4. Secondary Bacterial Infection (possible VAP)**
+   - Fevers, rising WBC, purulent secretions on day 2  
+   - Started on empiric vanc/cefepime  
+   - Blood/sputum cultures pending  
+   - De-escalate abx per sensitivities  
+
+**5. Pain Control**
+   - Acetaminophen PRN, meperidine PRN  
+   - Assess pain q4h, minimize sedatives as able  
+
+**6. Nutrition**
+   - NPO, started on tube feeds ICU day 2  
+   - Monitor electrolytes, glycemic control  
+
+**7. DVT Prophylaxis**
+   - SCDs, SQ heparin  
+
+**8. Stress Ulcer Prophylaxis**
+   - IV pantoprazole  
+
+**9. Glycemic Management**
+   - Insulin sliding scale, target BG <180  
+
+**10. History of Wrist Fracture**
+   - No current issues, ortho PRN  
+
+---
+
+### ICU COURSE (BRIEF SUMMARY)  
+- Day 1: Cardiac arrest x1, ROSC after 3min CPR. Impella placed.  
+- Day 2: Improved hemodynamics, extubated briefly but reintubated for hypoxia.  
+- Day 3: Weaning off pressors, urine output improving.  
+- Day 4: LVEF improved, Impella flows reduced, planning for wean.  
+
+---
+
+### DISPOSITION/PLAN  
+- Continue ICU monitoring, titrate support  
+- Family updated daily  
+- Await further improvement in cardiac/renal function for step-down  
+
+---
+
+**Physician:** L. Rigg, MD  
+**Date/Time:** 3/25/2024 09:12  
+
+---
+
+**Additional Labs (selected):**
+- LDH day 2: 234 U/L (↑), Haptoglobin 28 mg/dL (↓)
+- PT/INR day 1: 17.4 s / 1.7  
+- ABG day 2: 7.31/48/61/19 on FiO2 50%  
+- Lactic acid day 1: 4.8 mmol/L → day 3: 1.7 mmol/L  
+- Plasma Free Hgb (day 3): 32 mg/dL (mildly ↑)
+
+---
+
+**Flowsheet – Vitals (selected):**  
+| Date/Time   | Temp (C) | HR  | BP   | RR  | SpO2 | Pain |
+|-------------|----------|-----|------|-----|------|------|
+| 3/21 18:10  | 37.9     | 132 | 82/60| 28  | 91   | 3.6  |
+| 3/22 07:30  | 38.2     | 115 | 94/55| 22  | 97   | 2    |
+| 3/23 06:00  | 37.6     | 104 | 98/61| 18  | 97   | 0    |
+
+---
+
+**Medications Administered (ICU):**  
+- Norepinephrine infusion  
+- Furosemide IV  
+- Vancomycin IV  
+- Cefepime IV  
+- Acetaminophen PO/IV  
+- Meperidine PO  
+- Pantoprazole IV  
+- Heparin SQ  
+
+---
+
+**Nursing Comments:**  
+- Family at bedside, patient sedated but hemodynamically stable.  
+- Foley patent, no clots, urine clear yellow.  
+- Dressing changes per protocol.  
+
+---
+
+**Signature:**  
+L. Rigg, MD  
+ICU/CCM  
+03/25/2024 09:12  
+---

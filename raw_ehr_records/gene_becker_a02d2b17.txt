@@ -1,0 +1,179 @@
+**Patient Name:** Gene Becker  
+**MRN:** 00938475  
+**DOB:** 12/27/1997  
+**Sex:** Male  
+**Admission Date:** 6/06/2024  
+**Attending:** Dr. R. Mendez  
+**Location:** MICU, Bed 5  
+**Admitting Diagnosis:** Cardiogenic shock, acute decompensated heart failure (new), respiratory failure  
+**Consults:** Cardiology, ID, Pulm/CCM, Ortho  
+
+---
+
+# **HOSPITAL COURSE SUMMARY**
+
+**HPI:**  
+20M with PMH notable for HTN, recent forearm fracture (s/p ORIF 5/2024), and recurrent viral URIs, presented to ED with 2 days of progressive dyspnea, orthopnea, and lower extremity swelling. Noted to be febrile at home, tachycardic, and hypotensive on arrival. Chest x-ray with diffuse pulmonary edema, BNP >2000, troponin 0.33, EKG with NSR, low voltage. Echo revealed EF 10% with global hypokinesis, severe LV dysfunction. Rapid progression of shock requiring norepinephrine, then temporary percutaneous LVAD (Impella CP) was placed. Complicated ICU stay with AKI, transaminitis, coagulopathy, and recurrent infections.  
+
+**Hospital Day:** 0-10 (current)  
+**Code Status:** Full  
+**Allergies:** NKDA  
+
+---
+
+# **PROBLEM-BASED ASSESSMENT & PLAN**
+
+## 1. **Cardiogenic Shock / Severe Acute Systolic HF (new)**
+- **Assessment:** Severe decompensated HF, likely viral myocarditis vs. idiopathic DCM. Required Impella CP on HD1 for refractory shock, weaned off pressors HD3. EF persistently 10-15% on repeat echo.  
+- **Plan:**  
+  - Continue hemodynamic monitoring (A-line, CVP)  
+  - Daily echo assessment  
+  - Wean Impella as tolerated, target MAP >65  
+  - IV diuresis (furosemide drip)  
+  - Start GDMT (beta-blocker, ACEi) as tolerated  
+  - Serial BNP, troponin q48h  
+  - Cardiology to follow  
+  - Consider endomyocardial biopsy if EF does not improve  
+  - Restrict fluids (<1.5L/d)  
+
+## 2. **Acute Respiratory Failure (hypoxemic)**
+- **Assessment:** Due to pulmonary edema, required intubation HD0–HD6, now extubated to HFNC.  
+- **Plan:**  
+  - Wean O2 as tolerated  
+  - Chest PT, incentive spirometry  
+  - Monitor ABG, CXR daily  
+  - Pulm/CCM following  
+
+## 3. **Acute Kidney Injury (KDIGO stage 2)**
+- **Assessment:** Likely multifactorial—shock, diuretics, possible nephrotoxins. Baseline Cr 0.8, peaked at 2.3, now 1.7. UOP improving.  
+- **Plan:**  
+  - Nephrology consult  
+  - Strict I/O, daily weights  
+  - Avoid nephrotoxins  
+  - Adjust meds for renal function  
+
+## 4. **Coagulopathy / Thrombocytopenia**
+- **Assessment:** Platelets dropped to 55K on HD2, possibly due to Impella/consumptive coagulopathy.  
+- **Plan:**  
+  - Monitor CBC q12h  
+  - Hold all anticoagulation except Impella flush  
+  - Transfuse plt <30K or if bleeding  
+  - Monitor for hemolysis, schistocytes  
+
+## 5. **Recurrent Viral URIs / Bronchitis / Sinusitis**
+- **Assessment:** History of frequent URIs, most recent episode 1 week prior. Considered as possible viral myocarditis trigger.  
+- **Plan:**  
+  - Monitor for secondary infection  
+  - Supportive care  
+  - ID consult for guidance on viral panels, PCRs  
+
+## 6. **Hypertension**
+- **Assessment:** Difficult to manage with current hemodynamics.  
+- **Plan:**  
+  - Hold anti-HTN agents until stable  
+  - Resume HCTZ and start low-dose ACEi when off pressors  
+
+## 7. **Post-Op Forearm Fracture (s/p ORIF)**
+- **Assessment:** Healing well, no signs of infection, immobilized.  
+- **Plan:**  
+  - Ortho following  
+  - Maintain immobilization  
+  - DVT prophylaxis (mechanical only)  
+
+## 8. **Nutrition, BMI <15 (Severe malnutrition)**
+- **Assessment:** BMI 14.2 on admission, cachectic  
+- **Plan:**  
+  - Nutrition consult  
+  - Initiate tube feeds (NGT)  
+  - Monitor lytes, refeeding syndrome labs  
+
+## 9. **Pain Control**
+- **Assessment:** Mild pain, well controlled  
+- **Plan:**  
+  - Acetaminophen PRN  
+  - Avoid opiates  
+
+## 10. **Other:**
+- **Vaccinations:** Not up to date, consider prior to discharge  
+- **Psych:** Anxiety with ICU stay, psych to evaluate  
+
+---
+
+# **ICU VITALS & EVENTS (selected)**
+
+| Date        | Temp (C) | HR   | BP        | RR  | SpO2 | Comments                |
+|-------------|----------|------|-----------|-----|------|-------------------------|
+| 6/6/24      | 37.1     | 124  | 78/43     | 28  | 91%  | Intubated, norepi start |
+| 6/7/24      | 38.3     | 108  | 86/54     | 24  | 98%  | Impella placed          |
+| 6/8/24      | 37.8     | 99   | 95/60     | 20  | 99%  | Weaning pressors        |
+| 6/9/24      | 36.9     | 92   | 103/68    | 18  | 98%  | Extubated               |
+| 6/10/24     | 37.0     | 81   | 110/74    | 17  | 99%  | On HFNC                 |
+
+---
+
+# **LABS (CBC, Chem7, Cardiac, Other)**
+
+| Date     | WBC  | Hgb  | Hct   | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | BNP   | AST  | ALT  | ALP  | TBili |
+|----------|------|------|-------|------|------|------|------|------|------|------|------|----------|-------|------|------|------|-------|
+| 6/6/24   | 4.6  | 14.7 | 36.5  | 303  | 132  | 4.3  | 100  | 18   | 29   | 1.5  | 110  | 0.33     | 2431  | 74   | 61   | 143  | 1.2   |
+| 6/7/24   | 5.9  | 13.8 | 34.2  | 122  | 134  | 4.7  | 98   | 16   | 38   | 2.1  | 133  | 0.41     | 2104  | 191  | 170  | 158  | 2.4   |
+| 6/8/24   | 6.1  | 12.9 | 32.8  | 55   | 137  | 4.1  | 102  | 20   | 44   | 2.3  | 148  | 0.29     | 1800  | 87   | 73   | 121  | 1.6   |
+| 6/9/24   | 5.4  | 13.2 | 33.6  | 68   | 138  | 4.0  | 104  | 22   | 40   | 1.7  | 116  | 0.13     | 1450  | 55   | 40   | 111  | 1.1   |
+| 6/10/24  | 7.2  | 12.4 | 31.2  | 81   | 140  | 3.8  | 103  | 23   | 35   | 1.3  | 105  | 0.06     | 1200  | 34   | 29   |      |       |
+| 6/11/24  |      | 12.7 | 32.1  | 99   | 141  | 4.2  |      | 24   |      | 1.1  | 99   |          | 1040  |      |      |      |       |
+
+---
+
+# **CURRENT MEDICATIONS**
+
+- Furosemide IV drip (40mg/hr, titrate)
+- Norepinephrine (off since HD3)
+- Acetaminophen 650mg q6h PRN
+- Amox/clav d/c’d HD2
+- HCTZ held
+- Dextromethorphan/doxylamine oral solution PRN
+- Pantoprazole 40mg IV daily
+- Heparin flush (Impella only)
+- Tube feeds (Jevity 1.5cal @ 65ml/hr)
+
+---
+
+# **IMAGING**
+
+- **CXR 6/6/24:** Bilat alveolar infiltrates, pulmonary edema, mild cardiomegaly.
+- **Echo 6/6/24:** LVEF 10%, severe LV dilation, global hypokinesis.
+- **Echo 6/9/24:** LVEF 15%, minimal improvement, Impella in place, no thrombus.
+- **Forearm XR 6/10/24:** Stable hardware, no acute findings.
+
+---
+
+# **CONSULTS**
+
+- **Cardiology:** Daily, Impella management, advanced HF therapies.
+- **Nephrology:** AKI, fluid mgmt.
+- **ID:** Viral myocarditis workup (pending PCRs).
+- **Pulm/CCM:** Vent mgmt, weaning.
+- **Ortho:** Immobilization, wound checks.
+
+---
+
+# **DISPOSITION**
+
+- Remains in MICU, Impella wean planned, not yet candidate for step-down.
+- Family updated daily.
+
+---
+
+# **SIGNATURE**
+
+**R. Mendez, MD**  
+**Date/Time:** 6/11/2024 09:23
+
+---
+
+**Addendum (Nursing):**  
+Pt remains stable on Impella, sedated overnight for agitation, no acute events. Family at bedside.  
+
+---
+
+**END OF NOTE**

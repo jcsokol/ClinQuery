@@ -1,0 +1,234 @@
+**Patient:** Kermit Legros  
+**MRN:** 00678341  
+**DOB:** 07/20/1971  
+**Sex:** Male  
+**Admit Date:** 04/15/2024  
+**Attending:** Dr. Michael C. Warren  
+**Location:** CVICU, Rm 5404  
+**Consults:** Cardiology, Endocrinology, Pulmonology, Dentistry
+
+---
+
+# Admission H&P (04/15/2024 13:11)
+
+**Chief Complaint:**  
+Progressive dyspnea, chest pain, and confusion. Brought in by EMS after syncopal episode at home.
+
+**HPI:**  
+Kermit Legros is a 52-year-old male with a history of hypertension, diabetes mellitus type 2, chronic bronchitis, anemia, and chronic pain who presented to the ED with progressive shortness of breath, orthopnea, and chest tightness over the last 4 days. Noted confusion and diaphoresis per wife. Collapsed at home this AM; EMS found him hypotensive (SBP 74), tachycardic, and hypoxic. ROS notable for cough, increased sputum, chronic facial pressure (sinusitis), and chronic migraines.
+
+**PMHx:**
+- HTN
+- T2DM
+- COPD (chronic bronchitis)
+- Chronic sinusitis
+- Chronic migraines
+- Chronic pain
+- Anemia
+- Hypertriglyceridemia
+- Neuropathy due to DM
+- Metabolic syndrome
+- Prediabetes
+- Prior drug overdose (remote, 2018)
+- Impacted molars
+- Recent viral pharyngitis
+
+**PSHx:**  
+Dental extractions x2, appendectomy (childhood)
+
+**FHx:**  
+Father: MI age 56  
+Mother: T2DM, HTN
+
+**SHx:**  
+Former smoker (40 pack-years, quit 2019), rare EtOH, no recent illicit drugs
+
+**Home Meds:**  
+- Amlodipine/HCTZ/Olmesartan 5/12.5/20 mg
+- Fluticasone/salmeterol DPI 250/50 mcg BID
+- Metformin XR 500 mg QD
+- OTC ibuprofen prn
+- Gabapentin 100mg TID (for neuropathy)
+
+**Allergies:**  
+NKDA
+
+---
+
+# Physical Exam (on admission)
+
+| Vital Signs        | Value         |
+|--------------------|--------------|
+| Temp (oral)        | 37.4°C       |
+| HR                 | 114 bpm      |
+| BP                 | 82/46 mmHg   |
+| RR                 | 26/min       |
+| SpO2               | 89% RA       |
+| Weight             | 87.4 kg      |
+| Height             | 176.7 cm     |
+| BMI                | 28 kg/m²     |
+
+**General:** Somnolent, diaphoretic, obese male in moderate distress  
+**HEENT:** Pale mucosa, mild sinus tenderness, poor dentition  
+**Chest:** Diffuse bilateral rales, mild wheezing  
+**CV:** Tachycardic, S3 gallop, JVD 8cm, no murmurs  
+**Abd:** Soft, mildly distended, NT/ND, +BS  
+**Ext:** 1+ pitting edema bilateral LE  
+**Neuro:** Oriented x1, mild asterixis, decreased vibratory sense bilat feet  
+**Skin:** Warm, no rashes
+
+---
+
+# Initial Labs (ED, 04/15/2024 13:40)
+
+| Lab                     | Result     | Ref Range         |
+|-------------------------|------------|-------------------|
+| WBC                     | 4.8        | 4-11 x10³/µL      |
+| Hgb                     | 11.2       | 13.5-17.5 g/dL    |
+| Hct                     | 34.0       | 41-53%            |
+| Plt                     | 289        | 150-400 x10³/µL   |
+| Na                      | 134        | 135-145 mmol/L    |
+| K                       | 5.5        | 3.5-5.1 mmol/L    |
+| Cl                      | 108        | 98-107 mmol/L     |
+| CO2                     | 19         | 22-29 mmol/L      |
+| BUN                     | 31         | 8-21 mg/dL        |
+| Cr                      | 1.8        | 0.7-1.3 mg/dL     |
+| Glucose                 | 264        | 70-100 mg/dL      |
+| Ca                      | 8.1        | 8.5-10.2 mg/dL    |
+| Troponin I              | 0.14       | <0.04 ng/mL       |
+| BNP                     | 1345       | <100 pg/mL        |
+| AST                     | 45         | <40 U/L           |
+| ALT                     | 38         | <41 U/L           |
+| Alk Phos                | 85         | 40-129 U/L        |
+| Total Bili              | 1.2        | 0.2-1.2 mg/dL     |
+| Lactate                 | 3.7        | 0.5-2.2 mmol/L    |
+
+---
+
+# Hospital Course Summary
+
+**Day 1 (ED/ICU Admission):**  
+Admitted for acute decompensated heart failure (ADHF) with cardiogenic shock, likely on background of ischemic cardiomyopathy (new dx). Required norepinephrine, then dobutamine for persistent hypotension. Intubated for hypoxic respiratory failure. Cardiology consulted; emergent bedside echo: EF 15%, LV dilated, global hypokinesis, RV mod dysfunction. Troponin uptrending, concern for ischemia/infarct.  
+
+**Day 2:**  
+Remained on vasopressors, poor urine output, rising lactate. IABP (intra-aortic balloon pump) placed at bedside. Some improvement in MAPs, but still oliguric. Labs consistent with multi-organ dysfunction (rising creatinine, LFTs).  
+
+**Day 3:**  
+Worsening shock. TandemHeart percutaneous LVAD placed in cath lab. Immediate improvement in hemodynamics, able to wean off norepinephrine. Started on IV diuresis. Extubated late day 3.  
+
+**Day 4-6:**  
+Progressive improvement. LVAD support continued. Urine output improved, creatinine downtrending. Weaned off inotropes.  
+
+**Day 7:**  
+TandemHeart LVAD explanted. Echo: EF 27%, still low but improving. Started on guideline-directed therapy for HFrEF (carvedilol, sacubitril/valsartan, spironolactone, dapagliflozin).  
+
+**Day 8-10:**  
+Transferred to step-down, then floor. Physical therapy, nutrition, diabetic education. Discharge planning.
+
+---
+
+# Problem-based Assessment & Plan
+
+## 1. Cardiogenic Shock / Acute Decompensated HFrEF
+- **Assessment:** New diagnosis severe nonischemic cardiomyopathy (probable ischemic contribution, extensive risk factors), with cardiogenic shock requiring temporary mechanical circulatory support (IABP → percutaneous LVAD).
+- **Plan:**
+  - Monitor hemodynamics, daily TTE
+  - Continue GDMT (carvedilol, sacubitril/valsartan, dapagliflozin, spironolactone)
+  - Strict I/O, daily weights
+  - Cardiac rehab, close f/u with HF, cardiology
+  - Consider ICD if EF remains low at 3mo
+
+## 2. Acute Kidney Injury on CKD
+- **Assessment:** Likely multifactorial: low perfusion, nephrotoxic meds, DM. Improved w/ volume status optimization.
+- **Plan:**
+  - Monitor BMP, renal panel daily
+  - Avoid nephrotoxins, adjust meds
+  - Nephrology consult
+
+## 3. Diabetes / Hyperglycemia
+- **Assessment:** Poorly controlled pre-admission, stress hyperglycemia on admission. 
+- **Plan:**
+  - Sliding scale insulin in ICU, resume metformin when stable
+  - Endocrine consult
+  - Diabetic education
+
+## 4. COPD
+- **Assessment:** Underlying dx, mild exacerbation on admit; no new infiltrate, no need for steroids after day 2.
+- **Plan:**
+  - Resume inhalers (fluticasone/salmeterol)
+  - Pulm f/u
+
+## 5. Chronic Pain, Neuropathy, Migraines
+- **Plan:**
+  - Resume gabapentin, PRN acetaminophen
+  - Avoid NSAIDs (renal)
+  - Neurology f/u
+
+## 6. Anemia
+- **Assessment:** Chronic, multifactorial; mild drop w/ acute illness.
+- **Plan:** Monitor, iron studies, consider EPO if persistent
+
+## 7. Chronic Sinusitis, Dental Disease
+- **Assessment:** Poor dentition, mild sinus tenderness, no acute infection
+- **Plan:** Dental consult, sinus CT if recurrent
+
+## 8. Hypertriglyceridemia, Metabolic Syndrome
+- **Plan:** Dietician, statin therapy, f/u lipid panel
+
+## 9. Recent Drug Overdose (remote)
+- **Plan:** Psychiatry consult, social work
+
+## 10. Viral Pharyngitis
+- **Plan:** Supportive care, resolved
+
+---
+
+# Labs (selected, hospital course)
+
+| Date/Time      | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Gluc | Ca   | Troponin | BNP  |
+|----------------|------|------|------|------|------|------|------|------|------|------|------|------|----------|------|
+| 4/15 13:40     | 4.8  | 11.2 | 34.0 | 289  | 134  | 5.5  | 108  | 19   | 31   | 1.8  | 264  | 8.1  | 0.14     | 1345 |
+| 4/16 06:02     | 5.1  | 10.8 | 33.2 | 292  | 136  | 5.1  | 109  | 21   | 38   | 2.1  | 201  | 8.3  | 0.11     | 1200 |
+| 4/17 05:45     | 6.3  | 10.5 | 32.7 | 277  | 137  | 4.4  | 110  | 22   | 29   | 1.6  | 154  | 8.7  | 0.07     | 1102 |
+| 4/18 07:12     | 5.9  | 10.9 | 33.5 | 301  | 139  | 4.2  | 108  | 24   | 22   | 1.3  | 109  | 8.9  | 0.04     | 963  |
+| 4/19 06:30     |      | 11.4 |      | 312  | 140  | 4.0  |      | 27   | 19   | 1.1  | 98   |      | <0.04    | 768  |
+| 4/21 08:02     | 4.7  | 12.2 | 36.5 | 328  | 141  | 3.9  | 107  | 26   | 16   | 0.9  | 92   | 9.2  | <0.04    | 512  |
+
+---
+
+# Discharge Summary
+
+**Hosp Stay:** 10 days (ICU 7d, floor 3d)  
+**Final Dx:**  
+- Cardiogenic shock (resolved)  
+- HFrEF, new dx (EF 27% at d/c)  
+- AKI, resolving  
+- COPD, stable  
+- T2DM  
+- Chronic pain, neuropathy  
+- Anemia  
+- Chronic sinusitis, impacted molars  
+
+**Disposition:** Home with wife, close f/u for HF, nephrology, endocrine, dental
+
+---
+
+# Orders & Misc
+
+- Cardiac diet
+- Strict I/O
+- DVT ppx (enoxaparin, then SCDs)
+- PT/OT
+- Social work: home support services
+- Dental: outpatient extraction scheduled
+- F/U labs: CBC, BMP, BNP, LFTs in 1 week
+
+---
+
+**Physician:** Michael C. Warren, MD  
+**Date/Time:** 04/24/2024 16:45  
+**Cosign:** Pending
+
+---
+
+**(End of Note)**

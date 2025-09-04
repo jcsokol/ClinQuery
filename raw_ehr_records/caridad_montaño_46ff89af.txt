@@ -1,0 +1,170 @@
+---
+**Patient Name:** Caridad Montaño  
+**MRN:** 00928374  
+**DOB:** 1962-05-10 (61 years)  
+**Sex:** Female  
+**Admit Date:** 2024-03-12  
+**Attending:** Dr. S. Velasquez, MD  
+**Location:** CVICU, Rm 18-B  
+
+---
+
+## Provider Note – ICU Progress Note
+
+### SUBJECTIVE
+Admitted for acute decompensated heart failure (new diagnosis), presenting with progressive dyspnea, orthopnea, and lower extremity edema. Initial workup revealed severely reduced LV function on TTE (EF 15%), and evidence of cardiogenic shock (SBP 78/46 mmHg, lactate 4.2). No prior cardiac history. Noted to have viral URI symptoms over preceding 10 days. 
+
+Patient reports mild sore throat, nasal congestion, and myalgias prior to admission; now resolved. Denies chest pain, palpitations, or fever. Reports chronic left knee pain (baseline 3/10), well-controlled on naproxen prn. No recent falls. Mild right shoulder pain, related to prior clavicle fracture. Denies syncope, visual changes, or focal weakness.
+
+### REVIEW OF SYSTEMS  
+- **Constitutional:** No fever, chills. Fatigue, mild.
+- **Cardiac:** Dyspnea, orthopnea, PND, no palpitations.
+- **Respiratory:** No cough, no hemoptysis.
+- **GI:** No N/V/D, no abdominal pain.
+- **GU:** No dysuria, normal urine output.
+- **Neuro:** No HA, dizziness, weakness.
+- **MSK:** Chronic left knee pain, right shoulder pain. No swelling/redness.
+- **Skin:** No rashes/ulcers.
+- **Others:** No new symptoms.
+
+---
+
+### OBJECTIVE
+
+#### VITALS (Selected; see flowsheets for full data)
+| Date         | Temp (°C) | HR (bpm) | BP (mmHg) | RR | SpO2 | Pain |
+|--------------|-----------|----------|-----------|----|------|------|
+| 3/12 07:45   | 37.1      | 112      | 78/46     | 26 | 92%  | 6    |
+| 3/13 06:30   | 37.0      | 98       | 102/55    | 20 | 95%  | 2    |
+| 3/14 04:50   | 36.9      | 85       | 108/60    | 18 | 97%  | 2    |
+| 3/15 08:00   | 37.2      | 78       | 112/65    | 16 | 98%  | 1    |
+
+#### PHYSICAL EXAM (ICU Day 4)
+- **Gen:** AAOx3, NAD, mild fatigue
+- **Cardiac:** S1S2, no murmurs, JVP 12cm, +S3
+- **Pulm:** Bibasilar crackles, mild
+- **Extremities:** 2+ pitting edema BLE
+- **Neuro:** Non-focal, CN II-XII intact
+- **MSK:** TTP left knee, right clavicle deformity, no acute findings
+- **Skin:** Intact, no ulcers
+- **Lines/Devices:** R IJ Cordis, left femoral arterial line, Impella CP in situ (placed 3/12, removed 3/14)
+
+---
+
+#### LABORATORY DATA
+
+**CBC/Chemistry/Other Labs**  
+| Date      | WBC   | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | BNP     | AST  | ALT  | Lactate |
+|-----------|-------|------|------|------|------|------|------|------|------|------|------|----------|---------|------|------|---------|
+| 3/12 06:00| 12.3  | 14.2 | 41   | 168  | 132  | 3.2  | 98   | 22   | 32   | 1.58 | 184  | 0.33     | 9785    | 56   | 43   | 4.2     |
+| 3/13 04:00| 9.7   | 12.8 | 37   | 155  | 135  | 3.6  | 101  | 24   | 20   | 1.12 | 132  | 0.12     | 6200    | 41   | 36   | 1.9     |
+| 3/14 06:00| 7.5   | 12.0 | 35   | 143  | 137  | 4.0  | 104  | 25   | 16   | 0.98 | 117  | 0.08     | 3150    | 32   | 27   | 1.1     |
+| 3/15 05:40| 6.2   | 11.6 | 34   | 139  | 138  | 4.2  | 106  | 25   | 14   | 0.94 | 109  | <0.01    | 1800    | 27   | 21   | —       |
+| 3/16 06:10| —     | 11.1 | 33   | —    | 139  | 4.1  | —    | 26   | 13   | 0.88 | 105  | —        | —       | —    | —    | —       |
+
+**Selected additional labs:**  
+- **HbA1c (admit):** 6.1%  
+- **Lipid panel (admit):** TC 179, LDL 80, HDL 78, TG 102  
+- **INR/PT (admit):** 1.3/15.2  
+- **TSH (admit):** 2.1  
+- **Urinalysis (3/13):** unremarkable
+
+---
+
+#### DIAGNOSTICS
+- **EKG:** Sinus tach, low voltage QRS, no acute ST/T changes
+- **CXR:** Cardiomegaly, mild vascular congestion, low lung volumes
+- **TTE (3/12):** LVEF 15%, global hypokinesis, mild MR, no thrombus
+- **Right heart cath:** CI 1.7, PCWP 26, SVR 1850, PAP 48/22, RAP 13
+- **Coronary angio:** Non-obstructive CAD
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+Caridad Montaño presented with new-onset severe heart failure and evidence of cardiogenic shock following a viral URI. She rapidly deteriorated, requiring vasopressors and mechanical circulatory support with placement of a left-sided Impella CP device on hospital day 1. She was managed with inotropes, diuresis, and supportive care. Over 48 hours, her hemodynamics and end-organ perfusion improved, allowing for weaning off vasopressors and device explant on day 3. She remains in the ICU for ongoing monitoring and optimization of heart failure regimen.
+
+---
+
+### ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock secondary to new-onset nonischemic cardiomyopathy (likely post-viral)**
+   - Status: Improved after Impella support, now stable on medical therapy.
+   - Plan:
+     - Continue GDMT: carvedilol, sacubitril/valsartan (if tolerated), spironolactone.
+     - Monitor for arrhythmias, volume status, renal function.
+     - Serial ECHO (repeat planned day 7).
+     - Cardiac rehab consult.
+
+**2. Acute Decompensated Heart Failure**
+   - Status: Euvolemic, off inotropes, diuresing well.
+   - Plan:
+     - Maintain gentle diuresis (IV furosemide).
+     - Salt/fluid restriction.
+     - Daily weights, strict I/Os.
+     - Education re: HF self-management.
+
+**3. Prediabetes**
+   - Status: HbA1c 6.1%.
+   - Plan:
+     - Monitor glucose q6h while on steroids.
+     - Nutrition consult for diabetic diet.
+     - Outpt f/u with PCP.
+
+**4. Post-viral syndrome (resolved URI, sinusitis, pharyngitis)**
+   - Status: Resolved.
+   - Plan: Supportive care, no further intervention.
+
+**5. Chronic Osteoarthritis (left knee)**
+   - Status: Stable, pain controlled.
+   - Plan:
+     - Continue naproxen prn.
+     - Physical therapy as tolerated.
+
+**6. Remote right clavicle fracture**
+   - Status: Chronic, no acute findings.
+   - Plan: None.
+
+**7. Contraception management**
+   - Status: Multiple methods documented (patch, implant, OCPs).
+   - Plan:
+     - Review indications/risks in setting of new heart failure.
+     - Gyn consult.
+
+**8. Pain control**
+   - Status: Adequate.
+   - Plan: Continue current regimen, reassess daily.
+
+**9. DVT prophylaxis**
+   - Plan: SCDs, subQ heparin.
+
+**10. Disposition planning**
+   - Remain in ICU for further monitoring.
+   - Stepdown to telemetry when stable.
+   - Social work/case management consult for discharge planning.
+
+---
+
+### MEDICATIONS (Active in Hospital)
+- Furosemide IV
+- Carvedilol
+- Sacubitril/valsartan (initiated 3/14)
+- Spironolactone
+- Heparin SQ
+- Acetaminophen/hydrocodone prn
+- Naproxen prn
+- Yaz (held pending gyn rec)
+- Camila (held pending gyn rec)
+- Etonogestrel implant (in place)
+- Insulin sliding scale (prn)
+
+---
+
+### SIGNED:  
+Dr. S. Velasquez, MD  
+Attending, Cardiology/Critical Care  
+2024-03-16 09:14
+
+---
+
+**[End of Note]**

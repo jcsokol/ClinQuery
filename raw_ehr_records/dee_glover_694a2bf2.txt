@@ -1,0 +1,175 @@
+```
+Patient Name: Glover, Dee       MRN: 00193827       DOB: 07/21/1976      Sex: F
+Admit Date: 04/07/2024          Attending: Dr. J. Patel      Location: MICU
+
+---------------------------------------------------------
+ADMISSION NOTE
+
+Chief Complaint:
+Progressive shortness of breath, orthopnea, and lower extremity edema x2 weeks.
+
+HPI:
+45-year-old female with PMH significant for obesity (BMI 30.5), prediabetes, chronic anemia, recurrent acute bronchitis, multiple prior pregnancies (incl. tubal pregnancy, 1st trimester miscarriage), and viral sinusitis, presented to ED with 2 weeks of worsening dyspnea, PND, and bilateral leg swelling. She reports mild cough, no fever, and chest tightness. She denies hemoptysis or recent sick contacts. At home, she became increasingly fatigued, unable to climb stairs, and had a syncopal episode 2 days prior to admission.
+
+On arrival: BP 94/56, HR 121, RR 19, SpO2 92% RA, Temp 37.3°C. JVP elevated, +S3, bibasilar crackles, 2+ pitting edema to knees. CXR: pulmonary edema, cardiomegaly. ECG: sinus tachycardia, nonspecific ST-T changes. Echo: LVEF 15%, global hypokinesis, mild MR, mild TR, RV function preserved. Troponin mildly elevated, BNP 2376. Admitted to MICU for acute decompensated heart failure with cardiogenic shock.
+
+Hospital Course Summary (to date):
+- Required escalating vasopressors and inotropes for persistent hypotension and hypoperfusion (lactate 4.2 on day 1).
+- Developed worsening renal function and altered mental status.
+- Cardiology consulted; decision made for percutaneous placement of temporary left ventricular assist device (Impella CP) on hospital day 2.
+- Gradual hemodynamic stabilization, weaned off vasopressors by day 5, diuresis initiated.
+- Complicated by anemia requiring transfusion, mild transaminitis, and transient atrial fibrillation (rate controlled).
+- Impella explanted on hospital day 8 after recovery of native cardiac function (repeat echo LVEF 30%).
+- Transferred out of ICU on day 9.
+
+Past Medical History:
+- Obesity (BMI >30)
+- Prediabetes (HbA1c 6.3%)
+- Chronic anemia
+- History of miscarriage (1st trimester), normal pregnancies x3, one tubal pregnancy
+- Recurrent acute bronchitis, viral sinusitis, pharyngitis
+
+Past Surgical History:
+- Cesarean section x1
+- Laparoscopic salpingectomy (right, for ectopic)
+
+Allergies:
+- NKDA
+
+Medications on Admission:
+- Acetaminophen 325mg PO PRN
+- Jolivette 28 Day Pack PO
+- Etonogestrel 68mg implant
+- Medroxyprogesterone acetate 150mg/1mL IM q3mo
+- Acetaminophen/Dextromethorphan/Doxylamine PRN
+
+Social History:
+- Lives with partner, 3 children.
+- Denies tobacco, rare ETOH, no illicit drugs.
+- Works as a school secretary.
+
+Family History:
+- DM2 (mother), CAD (father), no known inherited cardiac dz.
+
+Review of Systems:
+- General: fatigue, mild malaise
+- CV: orthopnea, PND, palpitations, edema
+- Resp: mild cough, no hemoptysis
+- GI: poor appetite, no abd pain, N/V/D
+- GU: oliguria on admission, improved after diuresis
+- Neuro: mild confusion (resolved), no focal deficits
+
+Physical Exam (admission):
+- Gen: Obese, in moderate distress
+- Vitals: T 37.3, HR 121, BP 94/56, RR 19, SpO2 92% RA
+- HEENT: Pale conjunctiva, oropharynx clear
+- Neck: JVD 9cm
+- CV: Tachycardic, S3, no murmurs, no rubs
+- Resp: Bibasilar rales, decreased breath sounds at bases
+- Abd: Soft, NTND, mild hepatomegaly, no ascites
+- Ext: 2+ pitting edema to knees
+- Neuro: Alert, oriented x2 (improving)
+
+---------------------------------------------------------
+LABS
+
+| Date         | WBC    | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin  | BNP   | AST | ALT | AlkPhos | TBili |
+|--------------|--------|------|------|-------|------|------|------|------|------|------|------|-----------|-------|-----|-----|---------|-------|
+| 4/07/24 06:00| 10.4   | 12.9 | 39.1 | 156   | 138  | 4.3  | 103  | 21.7 | 17   | 0.95 | 98   | 0.09      | 2376  | 45  | 61  | 99      | 1.0   |
+| 4/08/24 06:00| 11.7   | 10.8 | 32.2 | 148   | 137  | 5.1  | 101  | 19.2 | 29   | 1.44 | 112  | 0.13      | 2600  | 58  | 72  | 112     | 1.5   |
+| 4/09/24 06:00| 9.2    | 8.9  | 29.4 | 142   | 135  | 4.8  | 99   | 18.0 | 32   | 1.61 | 125  | 0.08      | 1980  | 71  | 86  | 121     | 1.7   |
+| 4/10/24 06:00| 7.8    | 9.5  | 31.0 | 132   | 134  | 4.2  | 98   | 20.1 | 25   | 1.22 | 110  | <0.01     | 1720  | 38  | 49  | 99      | 1.1   |
+| 4/11/24 06:00| 8.5    | 11.3 | 35.7 | 139   | 136  | 4.1  | 100  | 21.7 | 19   | 1.01 | 107  | <0.01     | 1100  | 27  | 34  | 89      | 0.9   |
+| 4/12/24 06:00| 9.1    | 12.2 | 38.4 | 144   | 137  | 4.4  | 102  | 22.3 | 17   | 0.91 | 99   | <0.01     | 876   | 21  | 22  | 72      | 0.8   |
+| 4/13/24 06:00| 10.8   |      |      | 152   |      |      | 103  |      | 16   | 0.88 | 96   |           | 750   |     |     |         |       |
+| 4/14/24 06:00| 10.3   | 12.8 | 39.5 | 157   | 138  | 4.3  | 103  | 21.9 | 17   | 0.93 | 98   |           | 700   | 19  | 19  | 65      | 0.7   |
+
+Abnormal labs highlighted in yellow (not shown here). Labs notable for: initial leukocytosis, progressive anemia acutely (transfused 4/09/24), acute kidney injury (max Cr 1.61), transaminitis (peak AST/ALT 71/86), elevated cardiac biomarkers, improving trend after day 5.
+
+---------------------------------------------------------
+VITALS (selected)
+- Day 1: BP 94/56, HR 121, RR 19, SpO2 92% RA, T 37.3°C
+- Day 2: BP 88/54, HR 130 (on norepi, dobutamine)
+- Day 4: BP 106/60, HR 102 (weaning off pressors)
+- Day 6: BP 118/75, HR 88, SpO2 96% 2L NC
+- Day 9: BP 122/78, HR 81, SpO2 98% RA
+
+---------------------------------------------------------
+IMAGING
+
+CXR (4/07): Cardiomegaly, pulmonary venous congestion, interstitial edema, mild bilateral effusions.
+Echo (4/07): LVEF 15%, global hypokinesis, mild MR/TR, RV normal.
+Echo (4/12): LVEF improved to 30%, mild MR, RV function preserved.
+
+---------------------------------------------------------
+ASSESSMENT & PLAN
+
+1. **Cardiogenic Shock/Acute Decompensated Heart Failure (new-onset, nonischemic likely)**
+   - Presentation: Profound LV dysfunction (EF 15%), shock, pulmonary edema, acute renal/liver injury, lactic acidosis.
+   - Management:
+     - ICU, monitor hemodynamics, strict I/O.
+     - Vasopressors/inotropes (norepinephrine, dobutamine).
+     - Early Impella CP placement day 2 for mechanical circulatory support.
+     - Slow recovery of native function; device explanted day 8.
+     - Diuresis (IV furosemide) after stabilization.
+     - Beta-blocker/ACEi initiated after pressor wean.
+     - Serial Echos.
+     - Cardiac MRI pending for etiology (nonischemic vs myocarditis vs peripartum?).
+   - Prognosis: Guarded, but improving.
+
+2. **Acute Kidney Injury (multifactorial: cardiorenal, hypoperfusion, pre-existing anemia)**
+   - Monitored daily labs.
+   - Improved with volume removal and cardiac output restoration.
+   - Avoid nephrotoxins.
+
+3. **Transaminitis**
+   - Likely ischemic hepatitis ("shock liver").
+   - Trending down with improved perfusion.
+   - Monitor LFTs.
+
+4. **Chronic Anemia (baseline Hgb ~11.5, dropped to 8.9)**
+   - Likely exacerbated by hemodilution, blood loss (Impella), and chronic disease.
+   - Transfused 1U PRBC on 4/09.
+   - Iron studies, B12, folate pending.
+
+5. **Arrhythmias**
+   - Paroxysmal AFib (resolved, rate controlled with metoprolol).
+   - Telemetry monitoring.
+
+6. **Obesity, Prediabetes**
+   - DVT prophylaxis, SCDs, early mobilization.
+   - Endocrine consult for glycemic optimization.
+   - Dietician consult.
+
+7. **Gynecologic Hx**
+   - Continue current contraception (Jolivette, etonogestrel, medroxyprogesterone).
+   - No acute GYN issues.
+
+8. **Infection Prophylaxis**
+   - Daily oral care, incentive spirometry.
+   - No evidence of pneumonia or UTI.
+
+9. **Psychosocial**
+   - Counseling re: new diagnosis, advanced therapies, family support.
+
+10. **Dispo/Follow-up**
+   - Cardiac rehab referral.
+   - Close outpatient cardiology, nephrology, and primary care follow-up.
+
+---------------------------------------------------------
+Orders/Medications (Active)
+- Furosemide IV
+- Metoprolol PO
+- Lisinopril PO
+- Acetaminophen PRN
+- DVT prophylaxis (enoxaparin)
+- Sliding scale insulin PRN
+- Continue home contraceptives
+
+---------------------------------------------------------
+Sign-off:  
+Dr. J. Patel, MD, Cardiology/CCU  
+Date/Time: 4/14/2024 11:16 AM
+
+---------------------------------------------------------
+```

@@ -1,0 +1,183 @@
+---
+**Patient:** Sue Ritchie  
+**MRN:** 00294761  
+**DOB:** 05/17/1988  
+**Sex:** Female  
+**Attending:** Dr. Lauren B.  
+**Admit Date:** 2024-04-17  
+**Note Type:** ICU Progress Note  
+**Note Date/Time:** 2024-04-25 07:15  
+---
+
+# HOSPITAL COURSE SUMMARY
+
+**Chief Complaint:**  
+Progressive shortness of breath, orthopnea, and lower extremity edema.  
+
+**History of Present Illness:**  
+Ms. Sue Ritchie is a 35-year-old woman with a PMH significant for multiple pregnancies (including preeclampsia), recent acute bronchitis, and chronic use of hormonal contraceptives, who presented to the ED with a 4-day history of worsening dyspnea, cough, and lower extremity swelling. She reported paroxysmal nocturnal dyspnea and two-pillow orthopnea. No prior cardiac history. Noted to be tachycardic and hypoxic on arrival. Initial workup revealed elevated BNP and troponin, bilateral pulmonary edema on CXR, and evidence of poor cardiac output. She rapidly progressed to cardiogenic shock requiring ICU transfer, vasopressors, and, subsequently, the placement of a temporary left ventricular assist device (Impella CP) for hemodynamic support.  
+
+**Hospital Course:**  
+- Admitted to MICU on 4/17/24 with acute decompensated heart failure and cardiogenic shock.  
+- Started on norepinephrine, dobutamine, and furosemide drips.  
+- Emergent placement of temporary LVAD (Impella CP) on 4/18/24 for refractory shock.  
+- Gradual improvement in end-organ perfusion and weaning of vasopressors by HD #4.  
+- Complicated by AKI (creatinine peaked at 2.7), mild transaminitis, and non-sustained VT.  
+- Extubated on HD #6.  
+- Currently stable on minimal inotropes; Impella weaned and explanted on HD #7.  
+- Ongoing management for volume status, anticoagulation, and infection prophylaxis.  
+
+---
+
+# PROBLEM-BASED ASSESSMENT & PLAN
+
+## 1. Cardiogenic Shock / Acute Heart Failure  
+- Likely peripartum cardiomyopathy vs. viral myocarditis (recent viral syndrome, no prior cardiac hx, hx of pregnancy complications).  
+- Required temporary LVAD (Impella) for hemodynamic support, now explanted.  
+- Diuresis with furosemide, transitioned to oral torsemide.  
+- On metoprolol succinate and low-dose lisinopril.  
+- Daily weights, strict I/O, fluid restriction 1.5L/day.  
+- Cardiology, HF, and EP consults following.  
+- **Plan:** Continue uptitrating GDMT, monitor for arrhythmias, echo scheduled HD #9.
+
+## 2. Acute Kidney Injury (AKI)  
+- Multifactorial: hypoperfusion, diuretic use, possible contrast nephropathy.  
+- Creatinine peaked at 2.7 (baseline 0.8), now down-trending.  
+- Strict fluid balance, avoid nephrotoxins, monitor UOP.  
+- **Plan:** Renal dosing of meds, hold ACEi if worsening, daily BMP.
+
+## 3. Preeclampsia (remote, not current)  
+- PMHx of preeclampsia; no current pregnancy.  
+- BP controlled on labetalol as needed.  
+- Monitoring for delayed cardiac sequelae.
+
+## 4. Arrhythmia (non-sustained VT)  
+- Monitored on telemetry, started on metoprolol.  
+- No further episodes since HD #5.  
+- **Plan:** Continue beta-blocker, repeat ECG daily.
+
+## 5. Infection Prophylaxis  
+- Recent acute bronchitis and sinusitis.  
+- No evidence of active infection on admission; afebrile, negative procalcitonin.  
+- On cefazolin x48h post-Impella for device prophylaxis.  
+- VAP bundle, oral hygiene, DVT prophylaxis.
+
+## 6. Volume Overload  
+- Daily weights, serial chest imaging.  
+- Diuretic management; transitioned to oral loop.  
+- Chest clear, improving pedal edema.
+
+## 7. Contraceptive Management  
+- Multiple prior contraceptive regimens (see med list); Mirena IUD in situ.  
+- No estrogen-containing meds since admission due to VTE risk.
+
+## 8. Pain Management  
+- Mild pain (2/10), acetaminophen PRN.  
+- No opioids required.
+
+## 9. Nutrition  
+- NPO x24h post-procedure, now on cardiac diet.  
+- Registered dietician following.
+
+## 10. Discharge Planning  
+- Anticipate stepdown transfer in 48h if stable.  
+- Multidisciplinary team involved (social work, PT/OT, pharmacy).
+
+---
+
+# VITALS (selected)
+
+| Date       | T (°C) | HR (bpm) | BP (mmHg) | RR | SpO2 (%) | Weight (kg) |
+|------------|--------|----------|-----------|----|----------|-------------|
+| 4/17/24 06:30 | 37.1 | 114      | 91/61     | 22 | 90       | 73.2        |
+| 4/18/24 07:00 | 36.9 | 119      | 82/55     | 24 | 89       | 72.7        |
+| 4/19/24 09:00 | 37.3 | 99       | 106/73    | 18 | 95       | 71.8        |
+| 4/20/24 08:30 | 36.7 | 86       | 112/76    | 16 | 97       | 71.0        |
+| 4/22/24 07:15 | 37.0 | 77       | 118/79    | 15 | 98       | 70.3        |
+
+---
+
+# LABS
+
+## CBC & CHEMISTRIES
+
+| Date       | WBC  | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|------|------|------|-------|------|------|------|------|------|------|------|
+| 4/17/24    | 6.1  | 14.7 | 43.9 | 421   | 134  | 4.9  | 100  | 21   | 18   | 1.5  | 113  |
+| 4/18/24    | 7.8  | 13.9 | 41.0 | 367   | 132  | 5.2  | 98   | 18   | 29   | 2.0  | 145  |
+| 4/19/24    | 8.4  | 12.0 | 36.5 | 355   | 133  | 5.1  | 97   | 19   | 41   | 2.7  | 132  |
+| 4/20/24    | 7.2  | 12.8 | 38.2 | 312   | 135  | 4.4  | 101  | 23   | 32   | 2.2  |      |
+| 4/21/24    | 6.0  | 13.6 | 40.1 | 328   |      | 4.1  | 102  | 24   | 24   | 1.8  | 109  |
+| 4/22/24    | 5.7  | 14.3 |      | 340   | 137  | 3.9  | 99   | 25   | 20   | 1.4  | 104  |
+| 4/23/24    |      | 14.8 | 44.2 | 343   | 139  | 4.2  | 100  | 26   | 17   | 1.2  | 101  |
+
+## ADDITIONAL LABS
+
+| Date       | BNP    | Troponin I | AST  | ALT  | Alk Phos | T. Bili | INR  | PT   | aPTT |
+|------------|--------|------------|------|------|----------|---------|------|------|------|
+| 4/17/24    | 1440   | 0.34       | 78   | 92   | 104      | 1.2     | 1.3  | 14.5 | 36.2 |
+| 4/18/24    | 2100   | 0.61       | 112  | 154  | 128      | 1.6     | 1.4  | 15.2 | 39.0 |
+| 4/19/24    | 1990   | 0.55       | 98   | 137  | 117      | 1.4     | 1.2  | 13.8 | 34.7 |
+| 4/21/24    | 1160   | <0.01      | 65   | 72   | 94       | 1.1     | 1.1  | 13.4 | 31.5 |
+
+---
+
+# MEDICATION ADMINISTRATION RECORD (selected)
+
+- **Norepinephrine** IV gtt (4/17-4/20)
+- **Dobutamine** IV gtt (4/17-4/21)
+- **Furosemide** IV/PO (daily)
+- **Metoprolol succinate** 25mg PO qd
+- **Lisinopril** 2.5mg PO qd
+- **Cefazolin** 1g IV q8h x6 doses
+- **Acetaminophen** 650mg PO PRN
+- **Enoxaparin** 40mg SC qd (prophylaxis)
+
+---
+
+# IMAGING/PROCEDURES
+
+- **CXR (4/17/24):** Bilateral pulmonary edema, mild cardiomegaly.
+- **Echo (4/18/24):** LVEF 20%, global hypokinesis, moderate MR, no LV thrombus.
+- **ECG (4/18/24):** Sinus tachycardia, NSVT episodes.
+- **Impella CP placement (4/18/24):** L femoral access, no immediate complications.
+- **CXR (4/20/24):** Improved pulmonary edema, Impella in place.
+
+---
+
+# SOCIAL HISTORY
+
+- Lives with partner, 2 children.
+- Non-smoker, no ETOH, no illicit drugs.
+- Employed as a teacher.
+
+---
+
+# ALLERGIES
+
+- NKDA
+
+---
+
+# PHYSICAL EXAM (HD #8)
+
+- Gen: Appears fatigued, alert, NAD.
+- CV: S1S2, soft S3, no murmurs, JVP elevated (8cm), trace pedal edema.
+- Pulm: Bibasilar crackles, improved.
+- Abd: NT/ND, no HSM.
+- Ext: No DVT, mild pitting edema.
+- Neuro: AOx3, no focal deficits.
+
+---
+
+# DISPOSITION  
+- Remain in ICU for continued monitoring, anticipate transfer to telemetry floor in 48h if clinical stability maintained.  
+- Discharge planning with HF education, cardiac rehab referral, and close outpatient follow-up.
+
+---
+
+**Attending:** Dr. Lauren B.  
+**Resident:** Dr. J. Patel  
+**RN:** Sarah M., ICU
+
+---

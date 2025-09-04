@@ -1,0 +1,181 @@
+**Patient:** Dooley, Renae  
+**MRN:** 00816473  
+**DOB:** 02/09/1954  
+**Age:** 70  
+**Sex:** Female  
+**Admit Date:** 03/22/2024  
+**Attending:** Dr. M. Reddick  
+**Location:** CVICU, Bed 12
+
+---
+
+# ICU Progress Note  
+**Date:** 03/26/2024  
+**Time:** 07:15  
+**Author:** Sara Kim, MD (PGY3)  
+
+---
+
+## Reason for Admission  
+70F with hx of NSCLC (stage I, s/p multiple cycles cisplatin/paclitaxel), CKD III, prediabetes, chronic sinusitis, presenting with progressive SOB, orthopnea, and acute hypoxemic respiratory failure. Developed cardiogenic shock during hospitalization requiring temporary LVAD (Impella CP) for circulatory support.
+
+---
+
+## Hospital Course Summary  
+- Admitted with acute decompensated heart failure and hypoxemia.
+- Initial CXR: pulmonary edema, RLL infiltrate.
+- Echo: severe global LV dysfunction (EF 20%), moderate MR, RVSP 48 mmHg.
+- Troponin I peaked at 7.8 ng/mL, consistent with NSTEMI.
+- Developed hypotension, escalating vasopressor needs → Impella CP placed on D2.
+- Complicated by AKI (Cr up to 3.2), transaminitis, thrombocytopenia.
+- Improved after diuresis, Impella weaned on D5, extubated D6.
+- Ongoing evaluation for OHT vs LVAD candidacy.
+
+---
+
+## Problem-Based Assessment & Plan
+
+### 1. Cardiogenic Shock s/p NSTEMI, Impella CP (now explanted)
+- Day 2: profound hypotension, lactate 5.1, MAPs <55 on 2 pressors.
+- Emergent LHC: diffuse CAD, no discrete culprit, no PCI performed.
+- Impella CP placed at bedside.
+- Now off pressors, hemodynamically stable; device explanted D5.
+- **Plan:** Continue GDMT for HFrEF, monitor for arrhythmia, telemetry. Daily TTE to trend EF.
+
+### 2. Acute Decompensated Heart Failure (EF 20%)
+- Likely multifactorial: ischemia, chemo-induced cardiomyopathy (cisplatin/paclitaxel), longstanding HTN.
+- Lasix gtt transitioned to IV bolus; net negative 2.8L last 24h.
+- **Plan:** Continue gentle diuresis, strict I/O, daily weights, titrate beta-blocker as tolerated.
+
+### 3. Acute Kidney Injury (baseline Cr 1.6, peak 3.2, now 2.1)
+- Likely cardiorenal, hypoperfusion, nephrotoxic insult from chemo.
+- UOP improved post-diuresis.
+- **Plan:** Hold ACEi/ARB, renally dose abx, monitor lytes, nephrology following.
+
+### 4. Non-Small Cell Lung Cancer (stage I, RUL, on chemo)
+- Last cycle cisplatin/paclitaxel 2 weeks prior to admit.
+- Oncology consulted; recommend hold further chemo until stabilized.
+- **Plan:** Continue supportive care, address goals of care with patient/family.
+
+### 5. Chronic Sinusitis, Viral Sinusitis
+- Mild nasal congestion, no current evidence of bacterial superinfection.
+- **Plan:** Continue supportive care, nasal saline.
+
+### 6. Prediabetes
+- Glucose stable, no insulin requirements.
+- **Plan:** FS glucose BID, hold oral agents.
+
+### 7. Anemia, Thrombocytopenia (Hb nadir 8.4, Plt nadir 54)
+- Likely multifactorial: chemo, AKI, device-related hemolysis.
+- No active bleeding. Hgb stabilized, platelets rising.
+- **Plan:** Trend labs, hold antiplatelets, transfuse PRN.
+
+### 8. Transaminitis (ALT peaked 68, AST 74)
+- Likely ischemic hepatitis, resolved with improved perfusion.
+- **Plan:** Monitor LFTs.
+
+### 9. Pain - 7/10 (chest wall, sinus pressure)
+- **Plan:** Scheduled acetaminophen, PRN oxycodone.
+
+---
+
+## ICU Events (03/22–03/26)
+- 03/22: Admitted, hypoxemic, intubated for airway protection.
+- 03/23: Cardiogenic shock, started on NE, Impella placed.
+- 03/24: Ongoing diuresis, improved O2, extubated.
+- 03/25: Impella weaned, device removed, hemodynamics stable.
+- 03/26: At goal euvolemia, AKI resolving, discussing disposition.
+
+---
+
+## Vitals (last 24h)
+| Time  | HR | BP         | MAP | SpO2 | RR | Temp | Pain |
+|-------|----|------------|-----|------|----|------|------|
+| 06:00 | 92 | 98/54      | 67  | 97%  | 18 | 36.8 | 7    |
+| 12:00 | 88 | 104/60     | 75  | 98%  | 16 | 37.2 | 5    |
+| 18:00 | 84 | 110/68     | 82  | 99%  | 15 | 37.0 | 6    |
+
+---
+
+## Laboratory Data
+
+### CBC / Chemistry Panel (Selected)
+
+| Date      | WBC  | Hb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Ca   |
+|-----------|------|------|-------|-------|------|------|------|------|------|------|------|------|
+| 3/22/24   | 9.1  | 12.1 | 42.2  | 357   | 140  | 4.7  | 106  | 24   | 13   | 2.8  | 80   | 8.6  |
+| 3/23/24   | 8.5  | 10.9 | 38.7  | 312   | 138  | 4.2  | 104  | 22   | 18   | 3.2  | 86   | 8.1  |
+| 3/24/24   | 6.8  | 9.2  | 30.1  | 154   | 134  | 5.4  | 101  | 20   | 21   | 2.9  | 92   | 7.9  |
+| 3/25/24   | 7.4  | 10.2 | 33.8  | 201   | 136  | 4.5  | 103  | 23   | 15   | 2.1  | 99   |      |
+| 3/26/24   |      | 11.3 | 35.2  | 253   | 138  |      | 105  | 22   | 14   | 2.0  | 102  | 8.3  |
+
+### Other Relevant Labs
+
+| Date      | Troponin I | BNP   | ALT  | AST  | Alk Phos | Alb  | TBili |
+|-----------|------------|-------|------|------|----------|------|-------|
+| 3/22/24   | 6.4        | 3320  | 47   | 23   | 91       | 4.9  | 0.9   |
+| 3/23/24   | 7.8        | 3621  | 68   | 74   | 104      | 4.1  | 1.1   |
+| 3/24/24   | 4.1        | 2050  | 59   | 54   | 97       | 4.0  | 1.0   |
+| 3/25/24   | 2.9        | 1200  | 38   | 32   | 83       | 4.3  |       |
+| 3/26/24   |            | 800   | 32   | 26   | 78       | 4.8  | 0.7   |
+
+### Microbiology  
+- Blood cx x2: no growth at 48h  
+- Sputum: normal respiratory flora  
+- Urine cx: no growth
+
+---
+
+## Imaging  
+- **CXR 3/22/24**: Bilateral pulmonary edema, RLL infiltrate.
+- **Echo 3/23/24**: Severe global LV dysfunction (EF 20%), moderate MR, RVSP 48 mmHg.
+- **CT chest 3/24/24**: Stable RUL mass, no new nodules, no PE.
+
+---
+
+## Medications (Active)
+- Ferrous sulfate 325 mg PO daily
+- Amox-Clav 250/125 mg PO q12h (sinusitis)
+- Furosemide 40 mg IV q8h
+- Metoprolol tartrate 12.5 mg PO BID
+- Atorvastatin 40 mg PO daily
+- Acetaminophen 650 mg PO q6h
+- Oxycodone 5 mg PO q4h PRN (pain)
+- Heparin SQ 5000U q8h (DVT ppx)
+- **HOLD:** All chemo, ACEi/ARB
+
+---
+
+## Disposition
+- Anticipating transfer to stepdown within 24–48h if stable
+- Multidisciplinary discussion re: advanced therapies (OHT vs LVAD)
+- Palliative care consult pending
+
+---
+
+## Code Status
+- Full code, per family meeting 3/24/24
+
+---
+
+# Attestation  
+I have reviewed the above and discussed with ICU team.  
+Sara Kim, MD  
+03/26/2024 07:15
+
+---
+
+## Additional Notes
+
+### Fluid Balance (03/22–03/26)
+- Net negative 5.4L since admission
+
+### Lines/Devices
+- R IJ TLC (removed 3/25)
+- L radial A-line (in place)
+- Foley (removed 3/25)
+- Impella CP (removed 3/25)
+
+---
+
+**END OF NOTE**

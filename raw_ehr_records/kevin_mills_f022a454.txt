@@ -1,0 +1,160 @@
+**Patient Name:** Kevin Mills  
+**MRN:** 0092841  
+**Date of Birth:** 09/09/1996  
+**Sex:** Female  
+**Admit Date:** 04/21/2024  
+**Attending:** Dr. Patel  
+**Location:** MICU, Room 4B  
+**Primary Team:** Cardiology/CCU Consult  
+
+---
+
+# HOSPITAL COURSE SUMMARY
+
+**Admitting Dx:**  
+Cardiogenic shock secondary to peripartum cardiomyopathy, s/p temporary LV assist device (Impella CP) placement.
+
+**Past Medical Hx:**  
+- Hypertension  
+- Peripartum state (G2P1, 33w GA at admission)  
+- Recent viral sinusitis  
+- Streptococcal pharyngitis (remote)  
+- Sprain of ankle (remote)  
+- Obesity (BMI 27.9)  
+- No prior CHF, CAD, or arrhythmia documented
+
+**Home Meds:**  
+- Medroxyprogesterone IM  
+- Natazia, Camila (recently d/c’d, currently pregnant)  
+- HCTZ 25 mg  
+- Atenolol/Chlorthalidone  
+- Amlodipine/HCTZ/Olmesartan  
+- Naproxen (prn, not given in hospital)  
+- Penicillin V K (recently, for pharyngitis)
+
+---
+
+# HOSPITAL COURSE
+
+33-year-old F, G2P1 at 33w, presented to ED with acute onset dyspnea, orthopnea, and chest pressure. PMHx notable for chronic HTN, obesity, and recent viral URI. On arrival, tachycardic (HR 128), hypotensive (BP 82/53), febrile (Tmax 38.9°C). CXR: mild pulmonary edema. Echo: LVEF 15%, LV dilated, mild MR, RV normal. Troponin mildly elevated. BNP 2120.  
+
+Admitted to MICU for acute decompensated HF, likely peripartum cardiomyopathy. Rapid progression to cardiogenic shock on hospital day 2 (requiring norepinephrine, then dobutamine). Despite escalation, persistent hypoperfusion (lactate 4.1, Cr 2.1 from baseline 0.8, worsening LFTs). Multidisciplinary team (OB, Cardiology, CT surgery) decision for temporary mechanical circulatory support. Impella CP placed via R femoral artery. Fetal monitoring reassuring.  
+
+Course complicated by:
+- Transient AKI (Cr peaked at 2.7, improved with diuresis and hemodynamic support)
+- Mild coagulopathy (INR 1.7, platelets nadir 72k)
+- One episode of non-sustained VT
+- Ongoing fevers, workup negative (viral myocarditis vs idiopathic)
+- Empiric antibiotics x48h, then stopped
+
+Gradual improvement in perfusion, weaned off vasopressors day 5, LVAD explanted day 7. Diuresed 6 kg. Repeat echo LVEF up to 35%. Discharged to stepdown on day 10, plan for close outpatient f/u and ongoing heart failure management.
+
+---
+
+# VITAL SIGNS (selected)
+
+| Date        | Temp (°C) | HR   | BP       | RR  | SpO2 | Weight (kg) |
+|-------------|-----------|------|----------|-----|------|-------------|
+| 4/21/24     | 38.9      | 128  | 82/53    | 22  | 96%  | 60.6        |
+| 4/22/24     | 38.4      | 117  | 90/60    | 20  | 97%  | 60.2        |
+| 4/24/24     | 37.2      | 98   | 108/68   | 18  | 98%  | 58.0        |
+| 4/27/24     | 36.8      | 90   | 112/76   | 16  | 98%  | 54.4        |
+
+---
+
+# LABS
+
+## CBC, CHEM7, Additional Labs
+
+| Date     | WBC  | Hgb  | Hct  | Plts | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | INR  | BNP    | Trop  |
+|----------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|--------|-------|
+| 4/21/24  | 3.7  | 13.5 | 49.8 | 155  | 132  | 4.7  | 98   | 20   | 22   | 0.8  | 132  | 72   | 61   | 1.3  | 2120   | 0.11  |
+| 4/22/24  | 4.1  | 12.9 | 46.7 | 138  | 130  | 5.1  | 97   | 18   | 31   | 1.3  | 148  | 93   | 70   | 1.7  | 2100   | 0.13  |
+| 4/23/24  | 5.5  | 11.2 | 39.1 | 112  | 134  | 4.2  | 99   |      | 41   | 2.1  | 128  | 112  | 89   | 1.6  |        | 0.09  |
+| 4/24/24  | 6.9  | 10.4 | 35.7 | 98   | 136  | 4.0  | 102  | 23   | 52   | 2.7  | 121  | 137  | 110  | 1.4  | 1800   | 0.07  |
+| 4/25/24  | 5.8  | 10.6 | 35.9 | 87   | 137  | 4.1  | 100  | 25   | 33   | 1.4  | 115  | 91   | 78   | 1.2  | 900    | 0.05  |
+| 4/27/24  | 4.7  | 11.9 | 38.8 | 98   | 140  | 4.0  | 102  | 27   | 21   | 0.9  | 106  | 32   | 40   | 1.1  | 650    | 0.03  |
+| 4/29/24  | 4.2  | 12.8 | 41.2 | 103  |      |      |      | 26   | 19   | 0.8  | 100  |      |      | 1.0  | 430    |       |
+
+---
+
+# PHYSICAL EXAM (ICU day 2)
+
+**Gen:** Appears fatigued, mild respiratory distress.  
+**CV:** JVP 12 cm, S3 present, tachycardic, no murmurs/rubs/gallops.  
+**Resp:** Tachypneic, bibasilar crackles, no wheeze.  
+**GI:** Soft, mild RUQ tenderness, no rebound/guarding.  
+**Ext:** 2+ pitting edema B/L LE, pulses intact.  
+**Neuro:** AOx3, no focal deficits.  
+**Skin:** No rashes, no petechiae.  
+**OB:** Fundal height consistent with 33w, FHR 140s, no contractions.
+
+---
+
+# ASSESSMENT & PLAN
+
+**1. Peripartum Cardiomyopathy, Cardiogenic Shock, s/p Temporary LVAD (Impella CP)**
+- Initial presentation with CHF symptoms, severe LV dysfunction, and shock.
+- Required vasopressors, then mechanical support.
+- LV function improved; device explanted.
+- Continue GDMT (beta-blocker, ARNI/ACEi if tolerated, diuretic).
+- Strict I/O, monitor for recurrence, daily weights.
+- Planned close cardiology and advanced HF f/u.
+
+**2. Pregnancy, 33w, Stable**
+- OB closely involved; fetal status stable throughout admission.
+- Betamethasone given for fetal lung maturity.
+- Plan for close OB monitoring, goal to continue pregnancy to term if maternal status stable.
+
+**3. Hypertension**
+- Previously on multiple agents, held during shock.
+- Restarted low-dose carvedilol, amlodipine as tolerated.
+- Monitor BP, avoid hypotension.
+
+**4. AKI, resolving**
+- Likely multifactorial (low flow, diuretics, cardiorenal syndrome).
+- Renal function improved post-LVAD.
+- Monitor labs, avoid nephrotoxins, renally dose meds.
+
+**5. Fever, rule out infection**
+- Initial fevers likely due to myocarditis/CHF.
+- Negative Cx, no clear source, stopped abx.
+- Monitor for new infectious symptoms.
+
+**6. Coagulopathy/Thrombocytopenia**
+- Mild, likely device-related and dilutional.
+- Monitored closely, no bleeding.
+- Trending toward improvement.
+
+**7. Electrolyte Abnormalities**
+- Hypokalemia, hyponatremia during diuresis, corrected.
+- Daily BMP, replace as needed.
+
+**8. Pain (ankle, chronic)**
+- Naproxen held due to AKI; acetaminophen prn.
+
+**9. Contraception/OB history**
+- Counsel re: future pregnancy risk, contraception options postpartum.
+
+---
+
+# DISCHARGE PLAN
+
+- Discharge to home with HF clinic f/u in 1 week, OB in 3 days.
+- Continue carvedilol, low-dose amlodipine, furosemide.
+- Strict low Na diet, fluid restriction.
+- Daily weights, keep log of symptoms.
+- Education on signs of HF recurrence, when to seek care.
+
+---
+
+# ADDENDUM
+
+- Social: Lives with partner, employed as teacher, two-year-old at home.
+- Allergies: NKDA.
+- Immunizations: Up to date.
+- Code status: Full code, discussed and confirmed with patient.
+
+---
+
+**(End of chart; see "Labs" tab for full results and "Imaging" for CXR and echo details.)**

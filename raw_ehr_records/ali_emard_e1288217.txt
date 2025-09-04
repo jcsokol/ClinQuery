@@ -1,0 +1,159 @@
+**[EPIC EHR: INPATIENT CHART]**
+
+---
+
+**Patient Name:** Ali Emard  
+**MRN:** 00256941  
+**DOB:** 08/06/1917 (Age: 106)  
+**Sex:** Male  
+**Admit Date:** 04/14/2024  
+**Attending:** Dr. R. Kessler  
+**Location:** MICU, Room 14  
+**Code Status:** Full Code  
+**Allergies:** NKDA  
+**Height:** 180 cm  
+**Weight:** 90 kg  
+**BMI:** 27.8 (obese per prior documentation)  
+
+---
+
+**CHIEF COMPLAINT:**  
+Acute SOB, orthopnea, confusion, and hypotension.
+
+**HPI:**  
+106M with h/o COPD, obesity, prediabetes, anemia, recurrent colon polyps s/p colectomy (2022) for colon CA, OA, and chronic sinusitis, presenting with progressive SOB and productive cough for 1 week. Noted increased confusion by family, orthopnea, and PND. On home Advair, acetaminophen, naproxen, and oncology follow-up for colon CA. On arrival to ED: Hypotensive (BP 78/44), tachycardic (HR 119), hypoxic (SpO2 86% RA). CXR: pulmonary edema, diffuse B lines, mild consolidation. Troponin mildly elevated. Echo: LVEF 18%, severe global hypokinesis. Transferred to ICU for shock and progressive hypoxemia.
+
+---
+
+**HOSPITAL COURSE (abridged):**  
+- Required noninvasive ventilation, then intubation for hypoxemic respiratory failure.
+- Developed cardiogenic shock refractory to vasopressors; Impella CP (temporary LVAD) placed on HD2.
+- Improved hemodynamics, weaned off vasopressors by HD6, Impella explanted HD7.
+- Complicated by AKI (resolved), anemia (transfused), delirium, and recurrent AF with RVR (amiodarone started).
+- Extubated HD10, transitioned to nasal cannula.  
+- Oncology and GI consulted for follow-up of colon CA and polyp recurrence.
+- Discharged to acute rehab on HD16.
+
+---
+
+**PROBLEM-BASED ASSESSMENT & PLAN**
+
+---
+
+**1. Cardiogenic Shock / Acute Decompensated Heart Failure (new-onset severe LV dysfunction):**
+- Presentation: Low-output state, hypotension, pulmonary edema, elevated troponin, echo with LVEF 18%.
+- Management:
+  - Vasopressors (norepinephrine, dobutamine) HD1-2.
+  - Temporary mechanical circulatory support: Impella CP placed HD2, explanted HD7.
+  - Diuresis with IV furosemide after stabilization.
+  - Serial echocardiograms, daily weights.
+  - Strict I/O.
+  - Plan: Continue guideline-directed medical therapy (GDMT) as tolerated. Cardiology f/u.
+
+**2. Acute Hypoxic Respiratory Failure / COPD Exacerbation / Pneumonia:**
+- Required intubation/ventilation HD1-10.
+- CXR: pulmonary edema and RLL infiltrate.
+- Sputum cx: no growth, blood cx neg.
+- Treated with ceftriaxone/azithro x 5d.
+- Pulmonary toilet, incentive spirometry post-extubation.
+- Continue home Advair, wean O2.
+
+**3. Chronic Anemia (h/o colon CA, recurrent polyps):**
+- Baseline Hgb 8-9, nadir 7.1 on HD3.
+- 2u PRBCs transfused HD3.
+- Iron studies: low ferritin, low transferrin sat.
+- Plan: GI/onc f/u, outpatient colon surveillance, oral iron.
+
+**4. AKI (resolved):**
+- Creatinine peaked at 2.1 (baseline 0.9), likely multifactorial (hypoperfusion, diuretics, contrast).
+- Improved with hemodynamic support, now at baseline.
+- Hold nephrotoxins, monitor UOP.
+
+**5. Paroxysmal Atrial Fibrillation (new):**
+- Multiple episodes RVR (HR 140-160s) HD4-8.
+- Started on IV amiodarone → PO.
+- TTE: no clot.
+- Anticoagulation: hold due to hx colon polyps, discuss with GI.
+- Telemetry monitoring.
+
+**6. Colon CA, s/p partial colectomy (2022), recurrent polyps:**
+- Oncology: no active chemo, adjuvant completed.
+- Recent CEA wnl.
+- GI: surveillance colonoscopy recommended in 6 months.
+- Plan: outpatient follow-up.
+
+**7. Osteoarthritis (knees), chronic pain:**
+- Pain managed with acetaminophen and intermittent low-dose naproxen (hold during AKI).
+- PT/OT for mobility.
+
+**8. Prediabetes / Obesity:**
+- Glucose 90-140s, no insulin required.
+- Reinforce diet/exercise, outpatient DM education.
+
+**9. Delirium / Encephalopathy:**
+- Likely multifactorial: sepsis, hypoxemia, metabolic derangements.
+- Improved after extubation and medical stabilization.
+- Non-pharm interventions (sleep hygiene, reorientation).
+
+**10. Chronic Sinusitis:**
+- No acute management needed. Continue home regimen.
+
+---
+
+**MEDICATIONS (INPATIENT):**  
+- Furosemide IV  
+- Norepinephrine, dobutamine (weaned off HD6)  
+- Amiodarone IV → PO  
+- Ceftriaxone, azithromycin (completed)  
+- Acetaminophen PRN  
+- Fluticasone/salmeterol inhaler  
+- Pantoprazole  
+- PRN albuterol  
+- DVT prophylaxis: enoxaparin (held during Impella)  
+- Iron sulfate PO  
+
+---
+
+**PROCEDURES:**
+- Impella CP placement (L femoral, HD2)
+- Right IJ central line, HD1
+- A-line, HD1
+- ETT placement, HD1 (extubated HD10)
+- Foley catheter (removed HD12)
+
+---
+
+**ICU LABS (SELECTED):**  
+
+| Date      | WBC   | Hgb   | Plt   | Na    | K     | Cl    | CO2   | BUN   | Cr    | Gluc  | LFTs (ALT/AST) | Troponin | BNP    |
+|-----------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|---------------|----------|--------|
+| HD1       | 7.9   | 8.2   | 266   | 140   | 4.0   | 111   | 21    | 29    | 1.8   | 142   | 55/21         | 0.19     | 3410   |
+| HD2       | 12.0  | 7.1   | 205   | 139   | 3.6   | 108   | 19    | 33    | 2.1   | 122   | 68/31         | 0.38     | 5570   |
+| HD3       | 10.4  | 7.5   | 219   | 137   | 3.7   | 109   | 20    | 31    | 1.6   | 119   | 60/27         | 0.26     |        |
+| HD4       | 8.8   | 8.9   | 244   | 140   | 3.9   | 111   | 22    | 24    | 1.2   | 98    | 54/19         | 0.18     |        |
+| HD6       | 7.2   | 9.1   | 247   | 142   | 4.1   | 114   | 24    | 19    | 1.0   | 102   | 47/18         | <0.10    | 2200   |
+| HD8       | 6.9   | 9.8   | 266   | 140   | 3.8   | 112   | 25    | 17    | 0.9   | 94    | 38/17         | <0.10    | 1090   |
+| HD10      | 6.1   | 10.5  | 259   | 141   | 4.2   | 112   | 25    | 16    | 0.9   | 97    | 35/16         | <0.10    |        |
+| HD14      | 7.0   | 10.9  | 251   | 141   | 4.0   | 110   | 24    | 16    | 0.9   | 93    | 32/15         | <0.10    |        |
+
+*Some values missing, not all drawn daily. LFTs = ALT/AST (U/L). BNP, troponin for reference.*
+
+---
+
+**DISCHARGE SUMMARY (abridged):**  
+- Discharged on: 04/30/2024 to acute rehab  
+- Ambulating with walker, O2 at 2L NC  
+- Cardiology, GI, Oncology, PT/OT, primary care f/u arranged  
+- Home meds: continue Advair, acetaminophen, iron, amiodarone, furosemide, pantoprazole  
+- Strict fluid/salt restriction, daily weights, home BP log  
+- Return precautions: SOB, chest pain, confusion, bleeding
+
+---
+
+**PHYSICIAN ATTESTATION:**  
+I have personally examined the patient and reviewed all available data. Ali Emard’s care was complicated by acute cardiogenic shock requiring mechanical circulatory support, with significant improvement on Impella support. Prognosis guarded due to age and comorbidities.  
+— Dr. R. Kessler, MD, Cardiology/Critical Care
+
+---
+
+**END OF NOTE**

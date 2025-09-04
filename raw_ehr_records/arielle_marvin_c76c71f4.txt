@@ -1,0 +1,168 @@
+---
+**Patient Name:** Arielle Marvin  
+**MRN:** 00562419  
+**DOB:** 10/31/1949 (Age: 74)  
+**Sex:** Female  
+**Admit Date:** 03/21/2024  
+**Attending:** Dr. N. Gopal  
+**Unit:** MICU  
+**Code Status:** Full  
+**Allergies:** NKDA  
+**Height:** 175.7 cm  
+**Weight:** 84.3 kg (BMI: 27.3)  
+
+---
+
+### CHIEF COMPLAINT
+Shortness of breath, chest pressure, and lower extremity swelling x 1 week.
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+74F with PMHx of HTN, obesity, HLD, and chronic sinusitis who presented to the ED with acute-on-chronic SOB, orthopnea, and LE edema. Pt was initially hypertensive (BP 172/97) and tachycardic (HR 116), hypoxic to 88% on RA. CXR showed pulmonary edema. Troponin mildly elevated (0.06 → 0.11). Echo in ED revealed new LVEF 15% (baseline 50% 2y prior), global hypokinesis, moderate MR. On arrival to MICU, patient acutely decompensated into cardiogenic shock (MAP 58, cool extremities, lactate 3.8). Required vasopressors and emergent placement of a percutaneous LVAD (Impella CP). Subsequently stabilized but remains on inotropes and mechanical support.
+
+---
+
+### PAST MEDICAL HISTORY
+- Hypertension
+- Obesity (BMI >30, now 27 by recent weight loss)
+- Hyperlipidemia
+- Chronic viral sinusitis
+- Remote tobacco use (quit 30y ago)
+- No prior CAD or CHF documented
+
+### PAST SURGICAL HISTORY
+- Cholecystectomy (2003)
+- Hysterectomy (benign, 1994)
+
+### FAMILY HISTORY
+- Father: MI age 61, DM2
+- Mother: HTN, died CVA
+
+### SOCIAL HISTORY
+- Lives alone, retired librarian
+- No EtOH, no current tobacco, no illicit drugs
+
+### HOME MEDICATIONS
+- Amlodipine/HCTZ/Olmesartan 5/12.5/20mg daily
+- Simvastatin 10mg qHS (documented multiple times in med list)
+- Fluticasone nasal spray PRN
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+**Day 0 (3/21):**  
+- ED presentation with acute SOB, hypoxia, flash pulm edema, mild troponin leak
+- Started on IV furosemide, BiPAP, transferred to MICU
+- Cardiac ECHO: LVEF 15%, global hypokinesis, mod MR
+- Cardiac markers uptrending, lactic acidosis
+- Developed hypotension refractory to fluids, started on norepinephrine & dobutamine
+- Emergent Impella CP placed by cardiology at bedside
+
+**Day 1:**  
+- Hemodynamics improved on Impella + inotropes
+- Extubated to high-flow nasal cannula
+- Creatinine uptrending (AKI likely cardiorenal)
+- Diuresed, strict I/Os, started low-dose spironolactone
+- Serial labs, echo, and neuro checks
+
+**Day 2:**  
+- Improved oxygenation, off pressors
+- Still requiring Impella support (low native cardiac output)
+- Renal function plateaued, urine output stable
+- Troponin peaked, then trending down
+- Repeat echo: LVEF up to 22%, still severely reduced
+
+**Day 3:**  
+- Attempted Impella wean, MAP dropped, re-escalated support
+- Multidisciplinary discussion (Heart Failure, Cardiology, Ethics): not a candidate for durable LVAD or transplant due to age/comorbidities
+- Goals of care discussion with patient/family
+
+**Day 4-5:**  
+- Gradual improvement, transitioned off inotropes
+- Weaned off Impella on day 5, device explanted at bedside
+- Renal function improving, transitioned to PO diuretics
+- Mobilizing with PT, appetite returning
+
+---
+
+## ICU VITALS & LABS (selected)
+
+| Date       | Time | WBC   | Hgb  | Plt  | Na   | K    | Cl   | CO2   | BUN  | Cr   | Glu  | Ca   | Troponin | BNP   | ALT   | AST   |
+|------------|------|-------|------|------|------|------|------|-------|------|------|------|------|----------|-------|-------|-------|
+| 3/21/24    | 08:14| 14.2  | 12.9 | 275  | 139  | 4.7  | 108  | 19    | 28   | 1.9  | 134  | 8.7  | 0.06     | 3100  | 44    | 39    |
+| 3/21/24    | 18:02| 13.1  | 11.7 | 219  | 140  | 5.1  | 110  | 18    | 33   | 2.6  | 121  | 8.4  | 0.11     | 3350  | 39    | 41    |
+| 3/22/24    | 06:10| 12.6  | 10.9 | 189  | 141  | 4.8  | 109  | 21    | 36   | 2.9  | 112  | 8.9  | 0.09     | 2990  | 35    | 33    |
+| 3/22/24    | 17:40| 10.8  | 10.5 | 203  | 141  | 4.2  | 104  | 24    | 32   | 2.5  | 107  | 9.5  | *n/a*    | 2760  | *n/a* | *n/a* |
+| 3/23/24    | 07:00| 9.9   | 10.2 | 220  | 142  | 4.1  | 102  | 22    | 27   | 2.2  | 98   | 9.6  | 0.07     | 2300  | 31    | 28    |
+| 3/23/24    | 15:50| 8.7   | 10.6 | 218  | 143  | 4.0  | 103  | 25    | 22   | 1.9  | 96   | 9.0  | *n/a*    | 1850  | 29    | 26    |
+| 3/24/24    | 06:11| 7.8   | 11.2 | 228  | 142  | 4.3  | 101  | 27    | 19   | 1.4  | 91   | 8.8  | 0.03     | 1300  | 27    | 21    |
+| 3/25/24    | 07:00| *n/a* | 11.6 | 242  | 143  | 4.5  | 99   | 28    | 15   | 1.1  | 88   | 9.2  | *n/a*    | *n/a* | 23    | 18    |
+
+*Additional labs: LFTs, INR, Mg, Phos, lactate drawn intermittently; see results tab.*
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. Cardiogenic Shock (Acute Decompensated HFrEF)
+- Etiology: Presumed ischemic (troponin leak, new global LV dysfunction)
+- Required Impella CP for circulatory support, dobutamine/norepinephrine for MAP goals
+- Now off mechanical/inotropic support, MAP stable >70
+- Plan: Continue gentle diuresis, optimize GDMT as tolerated, monitor for arrhythmias, daily weights, strict I/Os, serial TTEs
+
+### 2. Acute Kidney Injury (Cardiorenal Syndrome)
+- Baseline Cr 1.1, peaked at 2.9, now improved to 1.4
+- Etiology: low cardiac output, pre-renal
+- Now diuresing, off pressors, urine output adequate
+- Plan: Monitor renal function, avoid nephrotoxins, adjust diuretics as needed
+
+### 3. Heart Failure with Reduced EF (HFrEF, new dx)
+- LVEF 15% → 22% → 30% (latest TTE)
+- Not a candidate for transplant or durable LVAD
+- Plan: Initiate low-dose BB/ACEi/aldactone as tolerated, fluid restriction
+
+### 4. Hypertension/Hyperlipidemia
+- Restarted home antihypertensives and statin
+- Plan: Aggressive risk factor modification, dietary consult
+
+### 5. Obesity
+- Weight trending down (likely fluid loss)
+- Plan: Dietician consult, PT/OT for mobility
+
+### 6. Viral sinusitis (remote)
+- No current symptoms, continue supportive care
+
+### 7. Delirium (hospital-acquired, resolved)
+- No active confusion, reoriented
+
+### 8. Pain (chest wall, mild)
+- Likely related to Impella site, managed with Tylenol
+
+---
+
+## DISCHARGE PLANNING
+- Anticipate transfer to step-down in 24-48h
+- HF clinic f/u, outpatient TTE, home health referral
+- Continue cardiac rehab/PT
+
+---
+
+**Physician:** N. Gopal, MD  
+**Date/Time:** 3/25/2024 08:12
+
+---
+
+## ADDITIONAL ORDERS & NOTES
+
+**Diet:** Cardiac, 2g Na, fluid restriction 1.5L  
+**Activity:** OOB with assist, PT/OT as tolerated  
+**DVT Prophylaxis:** SCDs, LMWH  
+**Code Status:** Full
+
+---
+
+**See EHR for additional imaging, progress notes, and consults.**
+
+---

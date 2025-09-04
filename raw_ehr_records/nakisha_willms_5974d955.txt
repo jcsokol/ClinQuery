@@ -1,0 +1,237 @@
+**INPATIENT PROGRESS NOTE – ICU – EPIC EHR**
+
+---
+**Patient Name:** Nakisha Willms  
+**MRN:** 00384792  
+**DOB:** 1950-08-07 (Age: 73)  
+**Sex:** Female  
+**Date of Admission:** 2024-05-17  
+**Date of Note:** 2024-05-24  
+**Attending:** Dr. S. Ricciardi  
+**Primary Team:** Cardiology ICU  
+**Consults:** Cardiac Surgery, Infectious Disease, Endocrinology, Physical Therapy
+
+---
+
+### CHIEF COMPLAINT
+Progressive dyspnea, orthopnea, and lower extremity swelling.
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+Nakisha Willms is a 73-year-old woman with a history of chronic congestive heart failure (CHF) with reduced ejection fraction (EF ~30%), hyperlipidemia, prediabetes, fibromyalgia, and recurrent viral sinusitis, who was admitted from the ED with worsening heart failure symptoms. She presented with several days of exertional shortness of breath, orthopnea, paroxysmal nocturnal dyspnea, and bilateral lower extremity edema. She also reported decreased appetite, mild confusion, and intermittent palpitations. She denied chest pain, fever, or recent sick contacts. Her home medications include metoprolol succinate, Lasix, simvastatin, pregabalin, milnacipran, duloxetine, and vitamin B12.
+
+On arrival, she was tachypneic, mildly hypertensive, and hypoxic to 89% on room air. She was admitted to the ICU for acute-on-chronic decompensated heart failure with evidence of hypoperfusion (cool extremities, rising creatinine, hypotension on day 2). Despite aggressive diuresis and uptitration of inotropes, her hemodynamics deteriorated, and she required the placement of a temporary left-sided ventricular assist device (Impella CP) on hospital day 3 for cardiogenic shock.
+
+---
+
+### PAST MEDICAL HISTORY
+- Chronic congestive heart failure (EF 30%, ischemic)
+- Hyperlipidemia
+- Prediabetes
+- Primary fibromyalgia syndrome
+- Recurrent viral sinusitis
+- Spontaneous miscarriage, 1st trimester (remote)
+- No prior MI, no CVA
+
+### PAST SURGICAL HISTORY
+- Cholecystectomy (2012)
+- Appendectomy (childhood)
+
+### ALLERGIES
+- NKDA
+
+### SOCIAL HISTORY
+- Retired school teacher. Lives with husband. No tobacco, rare alcohol, no illicit drug use.
+- No recent travel. No pets.
+
+### FAMILY HISTORY
+- Father: MI at age 68, CHF
+- Mother: T2DM, HTN
+
+---
+
+### MEDICATIONS (on admission)
+- Metoprolol succinate 100mg daily
+- Lasix 40mg BID
+- Simvastatin 10mg nightly
+- Pregabalin 100mg BID
+- Milnacipran 100mg BID
+- Duloxetine 20mg daily
+- Vitamin B12 5mg/mL inj weekly
+- Amox/Clav 250/125mg (recent, for sinusitis, completed)
+- Naproxen 500mg PRN
+
+---
+
+## ICU HOSPITAL COURSE
+
+**Day 1 (5/17):**  
+Admitted for ADHF. Vitals: T 36.7°C, HR 92, BP 162/88, RR 22, SpO2 89% RA. Bibasilar crackles, JVD, 2+ pitting edema. Labs: BNP 1088, troponin <0.01, Cr 1.1, BUN 29, Na 139, K 4.2.  
+IV Lasix started, O2 by NC, metoprolol held due to borderline BP, started dobutamine for inotropy.  
+Echo: EF 30%, LV dilation, severe MR.  
+CXR: Pulmonary edema.
+
+**Day 2 (5/18):**  
+Oliguric overnight, escalating O2 needs. BP 96/56, HR 108. Cr up to 1.5.  
+Worsening confusion.  
+Cardiac index 1.8, SVR elevated.  
+Started norepinephrine, increased dobutamine.  
+Discussion with cardiac surgery re: mechanical support.
+
+**Day 3 (5/19):**  
+Cardiogenic shock refractory to medical management.  
+Bedside Impella CP placed by cardiac surgery.  
+Immediate improvement in MAP and urine output.  
+Weaned off norepinephrine over next 24hr.
+
+**Day 4-7 (5/20-5/23):**  
+Gradual improvement.  
+Lasix continued, transitioned to low-dose dobutamine.  
+Impella flows 3.2-3.5 L/min.  
+No limb ischemia, no hemolysis.  
+Blood cultures negative.  
+Physical therapy daily.  
+Mild transaminitis on day 5, resolved.
+
+**Day 8 (5/24):**  
+Impella weaning trial successful.  
+Device removed without complication.  
+Stable hemodynamics on minimal inotrope support.  
+Transitioning to oral HF regimen.  
+Discharge planning with case management.
+
+---
+
+## VITALS (Selected)
+| Date       | Temp (°C) | HR  | BP       | RR | SpO2 (%) | Weight (kg) |
+|------------|-----------|-----|----------|----|----------|-------------|
+| 5/17/2024  | 36.7      | 92  | 162/88   | 22 | 89       | 92.0        |
+| 5/18/2024  | 36.8      | 108 | 96/56    | 24 | 91       | 91.2        |
+| 5/19/2024  | 36.6      | 98  | 110/72   | 20 | 95       | 90.5        |
+| 5/20/2024  | 36.5      | 87  | 124/74   | 18 | 96       | 90.0        |
+| 5/22/2024  | 36.8      | 80  | 132/78   | 16 | 98       | 89.3        |
+
+---
+
+## LABS
+
+**CHEMISTRIES & HEMATOLOGY**
+
+| Date      | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Ca   | WBC  | Hgb  | Hct   | Plt  | AST | ALT | Alk Phos | BNP   | Troponin |
+|-----------|------|------|------|------|------|------|------|------|------|------|-------|------|-----|-----|----------|-------|----------|
+| 5/17 AM   | 139  | 4.2  | 102  | 22   | 29   | 1.1  | 88   | 8.7  | 7.2  | 13.5 | 48.6  | 275  | 32  | 37  | 21       | 1088  | <0.01    |
+| 5/18 AM   | 138  | 4.5  | 103  | 19   | 34   | 1.5  | 92   | 8.5  | 8.0  | 12.9 | 46.2  | 262  | 38  | 41  | 24       | 1122  | <0.01    |
+| 5/19 AM   | 137  | 4.7  | 104  | 18   | 36   | 1.6  | 95   | 8.2  | 7.8  | 12.6 | 45.4  | 255  | 41  | 44  | 31       | 1210  | 0.02     |
+| 5/20 AM   | 139  | 4.3  | 101  | 23   | 28   | 1.2  | 90   | 8.8  | 6.5  | 13.2 | 47.1  | 280  | 27  | 36  | 20       | 950   | <0.01    |
+| 5/21 AM   | 142  | 4.4  | 103  | 22   | 24   | 1.0  | --   | 8.9  | 7.0  | 13.6 | --    | 271  | --  | --  | 22       | 800   | <0.01    |
+| 5/22 AM   | 143  | 4.1  | 102  | 24   | 19   | 0.9  | 87   | 8.7  | 6.9  | 13.8 | 48.0  | 295  | 28  | 32  | 18       | 610   | <0.01    |
+| 5/23 AM   | --   | 4.2  | --   | 23   | 17   | 0.8  | 86   | --   | 7.1  | 13.9 | 48.5  | 305  | 25  | 29  | 17       | 540   | <0.01    |
+
+---
+
+**OTHER PERTINENT LABS**
+- Albumin: 3.9 (5/17), 3.7 (5/19)
+- Total Protein: 7.1 (5/17), 6.8 (5/19)
+- Total Bilirubin: 0.4 (5/17), 0.6 (5/20)
+- INR: 1.2 (5/17), 1.3 (5/19)
+- Lactate: 2.1 (5/18), 1.6 (5/20)
+- NT-proBNP: 1088 (5/17), 1210 (5/19), 950 (5/20), 610 (5/22)
+
+---
+
+## IMAGING
+- **Echo (5/17):** EF 30%, moderate LV dilation, severe MR, mild TR, RV systolic function low-normal, IVC plethoric.
+- **CXR (5/17):** Pulmonary edema, mild cardiomegaly.
+- **Lower extremity dopplers (5/20):** No DVT.
+- **Renal US (5/19):** Normal size, no obstruction.
+
+---
+
+## ASSESSMENT & PLAN (PROBLEM BASED)
+
+### 1. **Acute on Chronic Decompensated Heart Failure (HFrEF, EF 30%) with Cardiogenic Shock**
+- Admission for ADHF with hypoperfusion and renal dysfunction.
+- Temporary mechanical support (Impella CP) placed on day 3 with rapid hemodynamic improvement.
+- Weaned off inotropes and Impella by day 8.  
+**Plan:**  
+- Continue aggressive diuresis as tolerated.
+- Restart beta-blocker (metoprolol) at low dose.
+- Initiate ACEi/ARNI as BP allows.
+- Monitor for arrhythmias.
+- Daily weights, strict I/Os.
+- Education: low Na diet, HF self-management.
+
+### 2. **Renal Dysfunction (AKI on CKD)**
+- Oliguria and rising Cr during shock, improved post-Impella.
+- No evidence of ATN or obstruction.
+**Plan:**  
+- Monitor daily labs.
+- Avoid nephrotoxic agents.
+- Renal dosing for all meds.
+- Nephrology consult PRN.
+
+### 3. **Hyperlipidemia**
+- On simvastatin, lipids at goal.
+**Plan:**  
+- Continue statin.
+- Repeat lipid panel outpatient.
+
+### 4. **Prediabetes**
+- HgbA1c 6.0%.
+**Plan:**  
+- Monitor glucose.
+- Consider metformin outpatient.
+
+### 5. **Fibromyalgia**
+- Baseline, on pregabalin, milnacipran, duloxetine.
+**Plan:**  
+- Continue home regimen.
+- PT/OT involvement for mobility.
+
+### 6. **Recurrent Viral Sinusitis**
+- Completed recent antibiotics, no new symptoms.
+**Plan:**  
+- Symptomatic management PRN.
+
+### 7. **Anemia**
+- Hgb nadir 12.6, no evidence of bleeding.
+**Plan:**  
+- Monitor CBC.
+- Iron studies outpatient.
+
+### 8. **Transaminitis**
+- Mild, transient, resolved.
+**Plan:**  
+- Continue to monitor LFTs.
+
+### 9. **Psychosocial/Discharge Planning**
+- Needs cardiac rehab, close follow-up.
+**Plan:**  
+- SW/case management to arrange SNF vs home with services.
+- Education for patient and family.
+
+---
+
+## PROCEDURES
+- Impella CP placement (5/19), removed (5/24)
+- Right heart cath (5/18): CI 1.8, PCWP 27, SVR 1700
+
+---
+
+## CONSULTS
+- Cardiac Surgery: Impella placement
+- Endocrinology: Prediabetes management
+- Infectious Disease: Antibiotic stewardship
+- Physical Therapy: Early mobilization
+
+---
+
+## SIGNED BY:  
+Dr. S. Ricciardi, MD  
+Cardiology ICU  
+Date/Time: 2024-05-24 13:42
+
+---
+
+**END OF NOTE**

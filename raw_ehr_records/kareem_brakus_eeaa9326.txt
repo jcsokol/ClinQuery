@@ -1,0 +1,249 @@
+---
+**Patient Name:** Kareem Brakus  
+**MRN:** 00982734  
+**DOB:** 08/14/1957 (Age: 66)  
+**Sex:** Male  
+**Admit Service:** MICU  
+**Attending:** Dr. Amy Q. Chen  
+**Date of Admission:** 04/11/2024  
+**Date of Note:** 04/18/2024  
+**Note Type:** ICU Daily Progress Note  
+**Author:** Dr. S. N. Resident, PGY-2  
+
+---
+
+### **Chief Complaint**
+Shortness of breath, orthopnea, and chest discomfort
+
+---
+
+### **History of Present Illness**
+
+Mr. Kareem Brakus, a 66-year-old male with a history of hypertension, obesity (BMI 30), epilepsy (on chronic AEDs), osteoporosis, and chronic/viral sinusitis, presented to the ED with acute onset of progressive dyspnea, paroxysmal nocturnal dyspnea, and chest heaviness for 2 days. He reported worsening lower extremity edema, decreased exercise tolerance, and two episodes of near-syncope. No fevers or cough. No recent seizure activity per family.
+
+In the ED, he was found to be hypertensive (BP 178/99), tachycardic (HR 116), hypoxic (O2 sat 88% RA), and in moderate respiratory distress. ECG showed NSR with LVH and nonspecific ST-T changes. CXR: pulmonary vascular congestion, mild bilateral effusions. Troponin I was mildly elevated. BNP 2120. Echo: LVEF 15% with global hypokinesis. He developed worsening hypotension and hypoperfusion despite diuresis and afterload reduction. Cardiogenic shock was diagnosed and he was transferred to MICU for vasopressor support. Given persistent shock, a percutaneous left-sided temporary mechanical circulatory support device (Impella CP) was placed at bedside on hospital day 2.
+
+---
+
+### **Hospital Course (Summarized by Day)**
+
+**Day 1 (Admission):**  
+- Admitted for acute decompensated heart failure (newly reduced EF) and cardiogenic shock.  
+- Started on IV furosemide, nitroglycerin drip, supplemental O2.  
+- Initial labs: AKI (Cr 1.8), mild transaminitis, lactic acidosis (lactate 3.5), troponin 0.19 → 0.25.  
+- EEG negative for seizure, maintained on levetiracetam.  
+- BP labile, MAP <65 at times.
+
+**Day 2:**  
+- Worsening shock, escalating norepinephrine and vasopressin.  
+- Impella CP placed via right femoral artery without complications.  
+- Improved MAP, urine output, lactic acid downtrending.  
+- Started empiric antibiotics for possible aspiration (ceftriaxone, azithro).
+
+**Day 3-5:**  
+- Slow improvement.  
+- Weaned off vasopressors by day 4.  
+- Impella weaned and explanted on day 5.  
+- Renal function improved.  
+- Diuresis continued.  
+- Developed mild delirium, likely multifactorial (ICU, metabolic).
+
+**Day 6-8:**  
+- Stepped down to CCU.  
+- Transitioned to oral HF regimen (metoprolol, sacubitril-valsartan, spironolactone).  
+- Mobilized with PT.  
+- Bone health re-addressed (alendronate resumed), DEXA confirmed osteoporosis.  
+- No further seizure activity.  
+- Persistent mild nasal congestion (chronic sinusitis).
+
+---
+
+### **Past Medical History**
+
+- Hypertension  
+- Epilepsy (hx of single seizure, no recent events)  
+- Obesity (BMI >30)  
+- Chronic and viral sinusitis  
+- Osteoporosis (T-score -3.05)  
+- Hyperlipidemia (well controlled)
+
+---
+
+### **Surgical History**
+
+- None
+
+---
+
+### **Family History**
+
+- Father: MI age 67  
+- Mother: Osteoporosis  
+- No known hereditary epilepsy
+
+---
+
+### **Social History**
+
+- Former smoker (quit 2010, 20 pack-years)  
+- No alcohol, illicit drugs  
+- Retired accountant  
+- Lives with spouse
+
+---
+
+### **Allergies**
+
+- NKDA
+
+---
+
+### **Home Medications**
+
+- Hydrochlorothiazide 25 mg PO QD  
+- Alendronate 10 mg PO QD  
+- Levetiracetam 500 mg PO BID  
+- Atorvastatin 20 mg PO QHS  
+- Lisinopril 20 mg PO QD
+
+---
+
+### **Hospital Medications (active)**
+
+- Metoprolol succinate 100 mg PO QD  
+- Sacubitril-valsartan 24/26 mg PO BID  
+- Spironolactone 25 mg PO QD  
+- Furosemide 40 mg IV BID (transitioning to PO)  
+- Aspirin 81 mg PO QD  
+- Alendronate 10 mg PO QD  
+- Levetiracetam 500 mg PO BID  
+- Docusate 100 mg PO BID  
+- PRN acetaminophen
+
+---
+
+### **Review of Systems**
+
+- **General:** Fatigue, improving.  
+- **HEENT:** Chronic nasal congestion.  
+- **Cardiac:** Orthopnea, PND, no chest pain now.  
+- **Resp:** Dyspnea improved, no cough.  
+- **GI:** No N/V/D, normal appetite.  
+- **Neuro:** No focal deficits, no seizures.  
+- **MSK:** Mild hip pain (chronic).
+
+---
+
+### **Physical Exam**
+
+| System         | Findings                                  |
+|----------------|-------------------------------------------|
+| General        | Tired, NAD                                |
+| Vitals         | T 36.8°C, HR 86, BP 116/68, RR 18, SpO2 95% RA |
+| HEENT          | Nasal congestion, oropharynx clear        |
+| Neck           | JVP 8cm                                   |
+| CV             | S1, S2, S3 present, no murmurs            |
+| Lungs          | Bibasilar crackles, improved              |
+| Abdomen        | Soft, NT/ND, no HSM                       |
+| Neuro          | AOx3, no focal deficits                   |
+| MSK            | No LE edema now, full ROM                 |
+| Skin           | No rashes, warm, dry                      |
+
+---
+
+### **Laboratory Results**  
+**CBC & Chemistries (selected values; blank = not collected):**
+
+| Date       | WBC   | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Ca   | AST  | ALT  | TnI  | BNP   | Lactate |
+|------------|-------|-------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|-------|---------|
+| 4/11/24 AM | 4.5   | 14.6  | 43.6  | 347   | 137  | 4.8  | 101  | 22   | 34   | 1.8  | 129  | 8.6  | 62   | 55   | 0.19 | 2120  | 3.5     |
+| 4/12/24 AM | 8.2   | 13.2  | 39.8  | 294   | 135  | 5.2  | 99   | 20   | 35   | 2.1  | 112  | 8.2  | 78   | 72   | 0.25 | 1980  | 2.3     |
+| 4/13/24 AM | 7.6   | 12.9  | 38.4  | 278   | 134  | 4.0  | 98   | 21   | 28   | 1.6  | 108  | 8.7  | 56   | 48   | 0.11 | 1650  | 1.4     |
+| 4/14/24 AM | 6.7   | 12.7  | 37.8  | 256   | 138  | 3.6  | 104  | 23   | 21   | 1.2  | 112  | 8.9  | 39   | 30   | <0.01| 1120  |         |
+| 4/15/24    | 6.2   | 13.0  | 39.2  | 244   |      | 3.7  |      | 24   | 19   | 1.1  |      |      |      |      |      | 650   |         |
+| 4/16/24    |       | 13.4  | 40.8  | 232   | 139  | 3.9  | 102  | 25   | 17   | 1.0  | 98   | 9.2  |      |      |      | 440   |         |
+| 4/17/24    | 5.9   | 13.8  | 41.7  |       | 141  | 4.1  | 104  | 25   | 15   | 0.9  | 104  |      |      |      |      |       |         |
+
+**Additional labs:**  
+- CK-MB: peak 32 U/L (4/12/24)
+- INR: 1.1 (4/11/24)
+- Mg: 2.1 (4/13/24)
+- Phos: 3.0 (4/14/24)
+- TSH: 2.3 (4/13/24)
+- Urinalysis: bland
+
+---
+
+### **Imaging/Diagnostics**
+
+- **CXR:** Pulmonary vascular congestion, small bilateral effusions (4/11/24)
+- **ECG:** NSR, LVH, nonspecific ST-T changes (4/11/24)
+- **ECHO:** LVEF 15%, global hypokinesis, no thrombus (4/12/24)
+- **EEG:** No epileptiform activity (4/11/24)
+- **DXA:** T-score -3.06 (osteoporosis) (prior to admission)
+
+---
+
+### **Assessment & Plan (problem-based)**
+
+---
+
+**1. Cardiogenic Shock (newly reduced EF, acute decompensated HF)**
+   - Etiology likely ischemic vs. viral myocarditis.
+   - Required temporary mechanical support (Impella CP) days 2-5.
+   - Now off vasopressors, Impella explanted, stable on medical therapy.
+   - Plan: Continue uptitration of GDMT, monitor volume status, f/u outpatient advanced heart failure.
+
+**2. Acute Kidney Injury (resolved)**
+   - Pre-renal etiology from shock.
+   - Improved with restoration of perfusion and diuresis.
+   - Plan: Monitor renal function, avoid nephrotoxins.
+
+**3. Epilepsy (hx of single seizure, no recent events)**
+   - Maintained on levetiracetam, no events during hospitalization.
+   - EEG negative.
+   - Plan: Continue home AED, neurology to f/u.
+
+**4. Hypertension**
+   - Previously poorly controlled, now on optimized regimen.
+   - Plan: Continue current BP meds, monitor for hypotension.
+
+**5. Obesity (BMI 30)**
+   - Contributing to HF.
+   - Plan: Nutrition consult, encourage weight loss, PT/OT.
+
+**6. Osteoporosis**
+   - DEXA T-score -3.06.
+   - Plan: Continue alendronate, calcium/vitamin D, PT for fall prevention.
+
+**7. Chronic sinusitis**
+   - Mild symptoms, no acute infection.
+   - Plan: Continue nasal saline, f/u with ENT as outpatient.
+
+**8. Hyperlipidemia**
+   - On statin, well controlled.
+   - Plan: Continue atorvastatin.
+
+**9. Delirium (resolved)**
+   - Likely multifactorial, resolved with metabolic stabilization.
+   - Plan: Monitor mental status, minimize sedatives.
+
+**10. Hospital-acquired constipation**
+   - On bowel regimen.
+   - Plan: Continue docusate, monitor BM.
+
+---
+
+### **Discharge Planning**
+- Anticipated discharge home in 1-2 days.
+- Close f/u with HF clinic, neurology, and PCP.
+- Home health PT/OT arranged.
+- Spouse educated on s/sx of decompensation.
+
+---
+
+**Signed:**  
+Dr. S. N. Resident, PGY-2  
+04/18/2024 09:14
+
+---

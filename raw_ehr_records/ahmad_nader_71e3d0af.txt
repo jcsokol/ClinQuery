@@ -1,0 +1,164 @@
+```
+--------------------------------------------------------------------------------
+INPATIENT PROGRESS NOTE
+--------------------------------------------------------------------------------
+Patient: Ahmad Nader  
+MRN: 004398217  
+DOB: 1991-04-21 (Age: 33)  
+Sex: Male  
+Date of Admission: 2024-04-15  
+Attending: Dr. J. Kumar  
+Service: Cardiac ICU  
+Location: 4C-ICU Bed 7  
+--------------------------------------------------------------------------------
+
+CHIEF COMPLAINT  
+Progressive shortness of breath, orthopnea, and lower extremity swelling.
+
+HISTORY OF PRESENT ILLNESS  
+Mr. Ahmad Nader is a 33-year-old male with a history of appendectomy (2016), remote viral sinusitis, and no known cardiac history who presented with 1 week of worsening dyspnea, orthopnea, and bilateral leg swelling. He initially attributed symptoms to a viral illness but subsequently developed chest discomfort and was found to be hypoxic and hypotensive at an outside facility. He was transferred to our hospital for further evaluation. On arrival, he was tachycardic (HR 119), hypotensive (BP 82/54), and hypoxic (SpO2 89% RA). Bedside echo revealed severely reduced LVEF (~15%) with global hypokinesis, no significant valvular disease. He rapidly developed worsening cardiogenic shock despite escalating medical therapy. A decision was made to place a temporary left ventricular assist device (Impella CP) for circulatory support. He was transferred to the cardiac ICU and started on inotropic and vasopressor support.
+
+PAST MEDICAL HISTORY  
+- Appendicitis, s/p appendectomy (2016)  
+- Viral sinusitis (remote)  
+- No known hypertension, diabetes, or prior cardiac disease
+
+PAST SURGICAL HISTORY  
+- Appendectomy (laparoscopic, 2016)
+
+SOCIAL HISTORY  
+- Lives alone, works as a software engineer  
+- Denies tobacco, ETOH, or illicit drug use  
+- No recent travel, no sick contacts
+
+FAMILY HISTORY  
+- No premature CAD, sudden death, or cardiomyopathy
+
+ALLERGIES  
+- NKDA
+
+HOME MEDICATIONS  
+- None
+
+--------------------------------------------------------------------------------
+PHYSICAL EXAM (ICU Day 5)
+--------------------------------------------------------------------------------
+GEN: Appears fatigued, intubated and sedated, on ventilator  
+VITALS:  
+- Temp: 37.1°C  
+- HR: 106 bpm (sinus tach)  
+- BP: 94/62 mmHg (MAP 71)  
+- RR: 18 (vent)  
+- SpO2: 97% (FiO2 40%)  
+HEENT: Normocephalic, atraumatic, ETT in place  
+CV: Tachycardic, distant heart sounds, Impella audible, no murmur/gallop  
+RESP: Ventilated, clear to auscultation, no crackles/wheezes  
+ABD: Soft, non-tender, surgical scar RLQ  
+EXT: 1+ pitting edema BL LEs, pulses palpable  
+SKIN: Intact, no rashes, central lines and Impella access site clean
+
+--------------------------------------------------------------------------------
+LABS
+--------------------------------------------------------------------------------
+
+| Date       | WBC  | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin I | AST  | ALT  | BNP    |
+|------------|------|-------|-------|-------|------|------|------|------|------|------|------|------------|------|------|--------|
+| 4/15/2024  | 8.6  | 17.3  | 43.5  | 253   | 139  | 3.7  | 105  | 22   | 21   | 1.0  | 101  | 0.04       | 23   | 18   | 1523   |
+| 4/16/2024  | 10.2 | 15.9  | 40.1  | 210   | 137  | 3.4  | 102  | 18   | 28   | 1.2  | 118  | 0.11       | 35   | 21   | 1880   |
+| 4/17/2024  | 12.9 | 14.8  | 38.0  | 162   | 134  | 3.2  | 99   | 16   | 31   | 1.5  | 132  | 0.16       | 56   | 38   | 2204   |
+| 4/18/2024  | 11.7 | 13.7  | 35.9  | 108   | 133  | 3.0  | 97   | 15   | 34   | 1.7  | 124  | 0.09       | 51   | 30   | 2103   |
+| 4/19/2024  | 9.5  | ---   | 33.5  | 95    | 135  | 3.6  | 100  | 17   | 27   | 1.3  | 112  | 0.07       | 40   | 19   | 1810   |
+| 4/20/2024  | 8.3  | 14.2  | 36.0  | 141   | 137  | 3.8  | ---  | 20   | 19   | 1.0  | 99   | ---        | 28   | ---  | 1562   |
+
+*Note: BNP and troponin I trended daily due to shock/cardiomyopathy. AST/ALT monitored due to rising LFTs w/ shock liver. Platelets trended due to device/bleeding risk.*
+
+--------------------------------------------------------------------------------
+CARDIAC STUDIES  
+- Echo (4/15): LVEF 15%, global hypokinesis, mild LV dilation, no significant MR/TR, RV size/function normal  
+- Repeat Echo (4/19): LVEF improved to 28%, Impella in good position  
+- ECG: Sinus tachycardia, occasional PVCs, no ST elevation
+
+--------------------------------------------------------------------------------
+IMAGING  
+- CXR (4/15): Pulmonary edema, mild bilateral effusions, Impella/ETT in place  
+- CXR (4/18): Improved edema, Impella unchanged  
+- Abd US: Normal (done for RUQ pain, 4/16)
+
+--------------------------------------------------------------------------------
+HOSPITAL COURSE  
+Day 1: Arrived in profound cardiogenic shock, intubated for hypoxic respiratory failure, started on norepinephrine, dobutamine. Impella CP placed via right femoral artery.  
+Day 2: Hemodynamics improved w/ Impella, but developed AKI (Cr peaked at 1.7), elevated LFTs.  
+Day 3: Platelets trended down (lowest 95), required 1U platelets for access site oozing.  
+Day 4: Weaned off vasopressors, Impella flow reduced.  
+Day 5: Extubated, mentation improved, LVEF up to 28%.  
+Day 6: Impella removed, transitioned to oral HF therapy (metoprolol, sacubitril/valsartan, spironolactone).  
+Day 7: Transferred to step-down.
+
+--------------------------------------------------------------------------------
+PROBLEM-BASED ASSESSMENT & PLAN
+--------------------------------------------------------------------------------
+
+1. **Cardiogenic Shock, New Systolic Heart Failure (EF 15-28%)**
+   - Etiology unclear, likely viral myocarditis vs. idiopathic
+   - Impella placed, now removed after LV recovery
+   - Guideline-directed medical therapy started
+   - Plan: Continue uptitration of HF meds, daily weights, fluid status, monitor for recurrent arrhythmias
+
+2. **Acute Kidney Injury (Stage 2, multifactorial)**
+   - Likely pre-renal (shock), improved w/ volume/flow restoration
+   - Monitoring daily BMP, strict I/Os
+   - Renal function improving
+
+3. **Thrombocytopenia**
+   - Suspect device-related consumption, no evidence HIT
+   - Platelets nadir 95, no major bleeding
+   - Platelets recovering off device
+
+4. **Shock Liver (Ischemic Hepatitis)**
+   - Transient LFT increase, now improving
+   - Monitor AST/ALT
+
+5. **Respiratory Failure, now resolved**
+   - Intubated for 3 days, now extubated
+   - Weaning O2, pulmonary toilet
+
+6. **History of Appendectomy**
+   - No acute findings
+
+7. **Viral Sinusitis (remote)**
+   - No current symptoms
+
+8. **Access Site Management**
+   - Femoral site clean, no hematoma
+
+9. **Nutrition**
+   - Enteral feeds in ICU, now tolerating PO
+
+10. **DVT Prophylaxis**
+    - SCDs, started on low-dose enoxaparin after extubation
+
+--------------------------------------------------------------------------------
+MEDICATIONS (Current)
+--------------------------------------------------------------------------------
+- Metoprolol succinate 25 mg PO BID
+- Sacubitril/valsartan 24/26 mg PO BID
+- Spironolactone 25 mg PO daily
+- Furosemide 20 mg IV BID (transitioning to PO)
+- Enoxaparin 40 mg SQ daily
+- Acetaminophen PRN
+- Pantoprazole 40 mg IV daily
+
+--------------------------------------------------------------------------------
+DISCHARGE PLANNING
+--------------------------------------------------------------------------------
+- Anticipate transfer to telemetry floor in 24h
+- Cardiac MRI planned as outpatient
+- Follow-up: Cardiology, HF clinic, labs in 1 week
+
+--------------------------------------------------------------------------------
+SIGNATURE  
+J. Kumar, MD  
+Cardiac ICU  
+2024-04-21
+--------------------------------------------------------------------------------
+```

@@ -1,0 +1,212 @@
+**[EPIC EHR: Patient Chart]**
+
+**Patient Name:** David Guillen  
+**MRN:** 003249875  
+**DOB:** 08/12/1940  
+**Sex:** Male  
+**Admitting Physician:** Dr. Samantha R. Kwan, MD  
+**Attending:** Dr. Michael R. Glass, MD  
+**Date of Admission:** 05/12/2024  
+**Date of Discharge:** 05/26/2024  
+**Location:** MICU → Step-down → Telemetry  
+**Consults:** Cardiology, Endocrinology, Neurology, Infectious Disease  
+**Code Status:** Full Code  
+**Allergies:** NKDA  
+
+---
+
+### Reason for Admission
+**Acute decompensated heart failure with cardiogenic shock, requiring temporary LVAD (Impella CP) placement.**
+
+---
+
+## HPI
+
+79-year-old male with significant cardiac and metabolic comorbidities (HTN, DM2, CAD, obesity, AFib, hyperlipidemia) presented to the ED with acute-onset dyspnea, orthopnea, chest heaviness, and lower extremity edema. Found to be hypotensive (SBP 68) and tachycardic (HR 134, irregularly irregular), hypoxic to 87% RA. Diaphoretic, distressed. Initial troponin mildly elevated, CXR with pulmonary edema, BNP 1897. Echo: LVEF 15%, severe global hypokinesis, moderate MR. Patient rapidly deteriorated into cardiogenic shock. Emergent placement of temporary LVAD (Impella CP) for circulatory support, transferred to MICU. Complicated course with AKI, transient delirium, and volume overload.
+
+---
+
+## Hospital Course (Summary)
+
+- **Day 1:** Admission to MICU for acute decompensated HF. Started on inotropes (dobutamine), IV diuresis (furosemide), and vasopressors (norepinephrine). Developed worsening shock; Impella CP placed at bedside by Interventional Cardiology.
+- **Day 2–4:** Gradual stabilization on mechanical circulatory support. Renal function worsened (Cr peaked at 3.2). Monitored for hemolysis and device-related complications.
+- **Day 5–8:** Improvement in end-organ perfusion, weaned off vasopressors. Impella weaned and explanted on day 7. Transitioned to step-down with close monitoring for arrhythmias, AKI, and secondary infections.
+- **Day 9–12:** Persistent volume overload, required slow diuresis. AKI improving. Atrial fibrillation managed with amiodarone and anticoagulation. Monitored for signs of infection (brief low-grade fever, no clear source).
+- **Day 13–14:** Neurology consulted for confusion—likely multifactorial (metabolic, ICU delirium, recent seizure hx). Gradual improvement; transferred to telemetry for continued rehab and optimization of HF regimen.
+
+---
+
+## Problem List
+
+1. **Cardiogenic Shock secondary to Acute Decompensated Heart Failure**
+   - Temporary LVAD (Impella CP) placed for hemodynamic support.
+   - Weaned off inotropes/vasopressors, device explanted on day 7.
+2. **Chronic Systolic Heart Failure (EF 15%)**
+   - GDMT: Beta-blocker (atenolol), ACEi held for AKI, resumed low-dose on day 10.
+   - Diuresis, daily weights, fluid restriction.
+3. **Atrial Fibrillation**
+   - Rate controlled with amiodarone, transitioned back to digoxin and verapamil.
+   - Anticoagulated with warfarin (INR monitored daily).
+4. **Acute Kidney Injury on CKD**
+   - Multifactorial: hypoperfusion, diuretics, contrast.
+   - Nephrology consulted.
+   - Monitored for improvement, creatinine trending down.
+5. **Type 2 Diabetes Mellitus**
+   - Sliding scale insulin in ICU, resumed metformin on day 12.
+   - BG monitored Q6h.
+6. **Obesity, Metabolic Syndrome, Hyperlipidemia**
+   - Dietician consulted, statin continued.
+7. **History of Seizure Disorder**
+   - Carbamazepine continued, no new seizures.
+   - Neurology follow-up.
+8. **Anemia of Chronic Disease**
+   - Monitored H/H, no transfusion required.
+9. **Recent Acute Bronchitis, Sinusitis**
+   - Treated with short course of azithromycin, now resolved.
+10. **Volume Overload**
+    - Aggressive but judicious diuresis, monitored electrolytes closely.
+11. **Delirium/ICU Psychosis**
+    - Resolved with reorientation, minimization of sedatives.
+
+---
+
+## Assessment & Plan
+
+### 1. Acute Decompensated Heart Failure/Cardiogenic Shock
+- **Assessment:** Severe ADHF, LVEF 15%. Impella CP placed for circulatory support. Improved perfusion, off vasopressors/inotropes by day 7.
+- **Plan:**
+  - Continue GDMT as tolerated
+  - Daily echo, telemetry
+  - Fluid/Na restriction
+  - Enter cardiac rehab
+
+### 2. Atrial Fibrillation
+- **Assessment:** Persistent AFib, high risk for stroke.
+- **Plan:**
+  - Continue amiodarone/digoxin/warfarin
+  - Monitor INR, adjust warfarin
+  - Electrolyte repletion
+
+### 3. Acute Kidney Injury (on CKD)
+- **Assessment:** Pre-renal, improved with volume and perfusion restoration.
+- **Plan:**
+  - Monitor renal function q12h
+  - Avoid nephrotoxins
+  - Diurese judiciously
+
+### 4. Type 2 Diabetes Mellitus
+- **Assessment:** Stress hyperglycemia, BGs 110-240.
+- **Plan:**
+  - Insulin sliding scale, resume metformin when stable
+  - Monitor for hypoglycemia
+
+### 5. Seizure Disorder
+- **Assessment:** No events during admission.
+- **Plan:**
+  - Continue carbamazepine
+  - Avoid triggers, monitor for delirium
+
+### 6. Obesity/Metabolic Syndrome/Hyperlipidemia
+- **Assessment:** BMI 30+, multiple metabolic derangements.
+- **Plan:**
+  - Dietician consult
+  - Continue statin, monitor for myalgias
+  - Consider SGLT2i on discharge
+
+### 7. Anemia of Chronic Disease
+- **Assessment:** Stable, no transfusion needed.
+- **Plan:**
+  - Monitor CBC, iron studies if worsens
+
+### 8. Infectious Disease
+- **Assessment:** No clear infection source during ICU stay.
+- **Plan:**
+  - Monitor for fever, cultures as needed
+
+---
+
+## Vitals (Selected)
+
+| Date       | Temp (C) | HR   | BP        | RR  | SpO2   | Weight (kg) |
+|------------|----------|------|-----------|-----|--------|-------------|
+| 5/12       | 37.9     | 134  | 68/42     | 26  | 87% RA | 89.3        |
+| 5/13       | 37.2     | 110  | 92/54     | 22  | 94% NC | 88.0        |
+| 5/14       | 36.8     | 98   | 103/61    | 20  | 96% NC | 87.1        |
+| 5/19       | 37.1     | 80   | 118/68    | 18  | 97% RA | 85.7        |
+
+---
+
+## Labs
+
+### CBC & CHEM7
+
+| Date    | WBC   | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2   | BUN   | Cr    | Glu   |
+|---------|-------|-------|-------|-------|------|------|------|-------|-------|-------|-------|
+| 5/12    | 10.5  | 13.2  | 39.1  | 192   | 142  | 3.7  | 104  | 22    | 28    | 2.9   | 211   |
+| 5/13    | 9.8   | 12.7  | 37.6  | 185   | 144  | 4.0  | 106  | 23    | 32    | 3.2   | 187   |
+| 5/14    | 9.1   | 12.9  | 38.2  | 180   | 143  | 3.9  | 106  | 24    | 26    | 2.8   | 142   |
+| 5/15    | 8.7   | 13.4  | 39.6  | 174   | 142  | 4.2  | 108  | 24    | 22    | 2.4   | 108   |
+| 5/18    |       | 13.6  | 40.1  | 170   | 143  |      | 107  | 23    | 18    | 2.1   | 99    |
+| 5/20    | 8.1   | 13.9  | 41.2  |       | 142  | 3.8  | 105  | 24    | 16    | 1.8   | 91    |
+| 5/22    | 7.7   |       | 40.4  | 164   |      | 4.0  | 104  | 23    | 15    | 1.7   | 88    |
+| 5/25    | 7.3   | 14.2  | 41.0  | 158   | 140  | 3.9  | 104  | 24    | 15    | 1.6   | 92    |
+
+---
+
+### Additional Labs
+
+- **BNP**: 1897 pg/mL (on admission), trended down to 672 by day 10.
+- **Troponin I**: 0.12 → 0.07 → 0.03 ng/mL (days 1–3; non-dynamic, likely demand ischemia).
+- **INR**: 2.1 → 2.3 → 2.4 (monitored daily).
+- **ALT/AST**: ALT 47 → 35, AST 31 → 22 (mild transaminitis, improved with perfusion).
+- **Albumin**: 3.6 → 4.0 g/dL.
+- **LDL/HDL/Trig**: LDL 87, HDL 80, TG 154 (on statin therapy).
+
+---
+
+## Procedures
+
+- **Impella CP placement** (5/12/2024; right femoral artery, fluoroscopic guidance)
+- **Impella CP explant** (5/19/2024)
+- **Echo** (multiple): Severe global hypokinesis, LVEF 15–20%
+- **CXR**: Pulmonary edema resolved
+
+---
+
+## Discharge Medications
+
+- Atenolol 50mg/chlorthalidone 25mg PO daily
+- Metformin XR 500mg PO BID
+- Clopidogrel 75mg PO daily
+- Simvastatin 20mg PO qHS
+- Amlodipine 5mg PO daily
+- Nitroglycerin 0.4mg spray PRN
+- Carbamazepine 200mg PO BID
+- Diazepam 5mg PO PRN
+- Acetaminophen 325mg PO PRN
+- Warfarin 5mg PO daily (INR goal 2–3)
+- Verapamil 40mg PO BID
+- Digoxin 0.125mg PO daily
+
+---
+
+## Disposition
+
+- **Discharged to:** Home with home health
+- **Follow up:** Cardiology (1 week), PCP (3 days), Neurology (2 weeks)
+- **Instructions:** Daily weights, low Na diet, strict fluid restriction, monitor INR, HF education, medication adherence emphasized
+
+---
+
+## Additional Notes
+
+- Family meeting held on 5/13/2024; discussed prognosis, goals of care.
+- Patient/family educated about signs of HF decompensation.
+- Palliative care consulted for goals, but patient/family wish to pursue full interventions.
+
+---
+
+**Signed:**  
+Michael R. Glass, MD  
+Attending, Cardiology  
+[Electronic Signature – 05/26/2024 14:53]

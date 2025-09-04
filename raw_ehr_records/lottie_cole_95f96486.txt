@@ -1,0 +1,200 @@
+---
+**Epic EHR - ICU Progress Note**  
+**Patient:** Lottie Cole  
+**MRN:** 00218456  
+**DOB:** 02/20/1985 (Age: 39)  
+**Sex:** Female  
+**Date of Admission:** 05/12/2024  
+**Date of Note:** 05/19/2024  
+**Attending:** Dr. S. Williams, MD  
+**Service:** Cardiology ICU  
+**Location:** 6B-ICU, Bed 14  
+
+---
+
+## CHIEF COMPLAINT
+Shortness of breath, chest pain, and syncope at home.
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+Ms. Lottie Cole is a 39-year-old female with a history of prediabetes, anemia, and recent normal pregnancy (G4P4), who presented to the ED with acute onset dyspnea, pleuritic chest pain, and near-syncope. She was found to be tachycardic, hypotensive, and hypoxic. Given her recent postpartum state (delivered 8 weeks ago), peripartum cardiomyopathy was suspected. TTE in the ED revealed an LVEF of 20%, severe global hypokinesis, and mild MR. She developed acute pulmonary edema and required intubation, vasopressors, and was transferred to the ICU. Due to refractory cardiogenic shock, she underwent emergent placement of a percutaneous left-sided heart pump (Impella CP) on hospital day 2.
+
+She has since had a complicated ICU course including AKI (now resolving), transient liver injury, anemia requiring transfusion, and hospital-acquired pneumonia. She is now extubated, on minimal pressor support, and the Impella is being weaned.
+
+---
+
+## PAST MEDICAL HISTORY
+
+- **Pregnancy:** G4P4, last delivery 8 weeks ago, all prior pregnancies uncomplicated
+- **Anemia:** Chronic, previously stable, now worsened
+- **Prediabetes**
+- **Acute bronchitis** (remote)
+- **Viral sinusitis** (remote)
+
+## PAST SURGICAL HISTORY
+
+- Four C-sections (most recent 8 weeks ago)
+
+## MEDICATIONS ON ADMISSION
+
+- Errin 28 Day Pack (Norethindrone)
+- Seasonique 91 Day Pack (Levonorgestrel/Ethinyl Estradiol)  
+- Acetaminophen 325 mg PO PRN  
+- Amoxicillin-Clavulanate 250/125 mg PO BID
+
+## ALLERGIES
+
+- NKDA
+
+## FAMILY HISTORY
+
+- Mother: HTN, DM2
+- Father: MI age 58
+
+## SOCIAL HISTORY
+
+- No tobacco, no EtOH, no illicit drugs
+- Lives with partner, 4 children
+
+---
+
+## PHYSICAL EXAM (ICU Day 7)
+
+**General:** Awake, alert, NAD  
+**HEENT:** PERRL, sclera anicteric  
+**CV:** Tachycardic (HR 110), S3 present, no murmurs; Impella in place, left groin site clean  
+**Resp:** Clear B/L, RR 18, O2 2L NC, no rales  
+**Abd:** Soft, NT, ND, Pfannenstiel scar well-healed  
+**Ext:** No edema, pulses 2+  
+**Neuro:** AOx3, no focal deficits  
+**Skin:** No rashes, no bruising
+
+---
+
+## ICU VITALS (Select)
+
+| Date       | Temp (C) | HR  | BP         | RR  | SpO2 | Pain |
+|------------|----------|-----|------------|-----|------|------|
+| 5/12/2024  | 36.9     | 138 | 82/54      | 28  | 89%  | 7    |
+| 5/13/2024  | 37.2     | 120 | 90/60      | 24  | 93%  | 6    |
+| 5/14/2024  | 37.0     | 108 | 104/68     | 20  | 98%  | 3    |
+| 5/16/2024  | 36.6     | 98  | 112/74     | 16  | 99%  | 2    |
+| 5/19/2024  | 36.7     | 92  | 120/82     | 14  | 99%  | 1    |
+
+---
+
+## LABS
+
+#### **CBC/Chemistries (Selected Days)**
+| Date     | WBC    | Hgb   | Hct   | Plt    | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|----------|--------|-------|-------|--------|------|------|------|------|------|------|------|
+| 5/12/24  | 13.2   | 8.7   | 27.1  | 372    | 146  | 5.1  | 103  | 19   | 21   | 1.6  | 92   |
+| 5/13/24  | 12.8   | 7.9   | 25.4  | 355    | 144  | 4.8  | 101  | 21   | 27   | 2.1  | 108  |
+| 5/14/24  | 11.3   | 9.8   | 30.2  | 362    | 143  | 4.9  | 99   | 23   | 19   | 1.4  | 98   |
+| 5/15/24  | 10.7   | 10.9  | 33.0  | 344    | 142  | 4.5  | 98   | 24   | 13   | 1.2  | 91   |
+| 5/16/24  | 9.8    | 11.1  | 35.1  | 322    | 141  | 4.7  | 101  | 25   | 11   | 1.0  | 87   |
+| 5/17/24  | 8.7    | 11.4  | 37.0  | 315    | 140  | 4.6  | 103  | 24   | 9    | 0.9  | 83   |
+| 5/18/24  | 8.2    | 11.8  | 38.2  | 312    | 140  | 4.5  | 104  | 23   | 8    | 0.9  | 82   |
+| 5/19/24  | 7.9    | 12.1  | 39.5  | 309    | 139  | 4.4  | 105  | 23   | 8    | 0.9  | 77   |
+
+*Some values missing, e.g. no platelets on 5/17, no Hct on 5/14.*
+
+#### **Liver/Other Labs**
+- AST: 5/13/24: 102 (peak), now 28
+- ALT: 5/13/24: 86 (peak), now 24
+- Alk Phos: 5/13/24: 108, now 72
+- Total Bili: 1.3 (now 0.7)
+- BNP: 1800 → 645
+- Troponin: 0.09 (peak), now 0.03
+- Lactate: 3.5 → 1.2
+
+---
+
+## IMAGING
+- **CXR 5/12/24:** Bilateral pulmonary edema, mild cardiomegaly
+- **TTE 5/12/24:** LVEF 20%, severe global hypokinesis, mild MR, no LV thrombus
+- **CXR 5/16/24:** Improving vascular congestion, Impella in place
+
+---
+
+## PROCEDURES
+- 5/12/24: Intubation (ETT 7.0)
+- 5/13/24: Impella CP placement (left femoral)
+- 5/13-5/17: Daily TTEs for Impella assessment
+- 5/13/24: Central line, right IJ
+- 5/13/24: A-line, left radial
+
+---
+
+## MICROBIOLOGY
+- Blood cultures: No growth
+- Sputum culture: Klebsiella pneumoniae (hospital-acquired, treated)
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. **Cardiogenic Shock, Peripartum Cardiomyopathy**
+   - Initial LVEF 20%, severe global hypokinesis
+   - Required Impella CP placement HD2 for refractory shock
+   - Vasopressors (norepinephrine, weaning off)
+   - Diuresis (IV furosemide), daily weights
+   - Serial TTEs, Impella wean ongoing
+   - Goal: Recovery of native function, bridge to recovery or advanced therapies if no improvement
+   - Monitor for arrhythmias, anticoagulation per protocol
+
+### 2. **Acute Hypoxic Respiratory Failure**
+   - Intubated for pulmonary edema; extubated HD5
+   - Now on 2L NC, sat >98%
+   - CXR improved
+   - Pulmonary toilet, incentive spirometry
+
+### 3. **Hospital-acquired Pneumonia**
+   - Klebsiella pneumoniae, responsive to cefepime (completed 7d course)
+   - Afebrile, WBC trending down, CXR improved
+
+### 4. **Acute Kidney Injury**
+   - Multifactorial (low perfusion, diuretics, sepsis)
+   - Peak Cr 2.1, now 0.9
+   - UOP >0.5 mL/kg/hr, IV fluids adjusted
+
+### 5. **Transaminitis**
+   - Shock liver, AST/ALT peaked, now normalized
+   - Monitor LFTs
+
+### 6. **Chronic Anemia**
+   - Hgb nadir 7.9, transfused 2U PRBCs HD2
+   - Now stable, trending up
+
+### 7. **Prediabetes**
+   - HbA1c 6.1% on admission, glucose stable
+   - No insulin needed during stay
+
+### 8. **Pain**
+   - Mild, managed with acetaminophen PRN
+
+### 9. **Contraceptive Management**
+   - Errin & Seasonique on hold during acute illness
+   - To be reassessed on discharge
+
+### 10. **Nutrition, VTE Prophylaxis, Mobility**
+   - Enteral feeds, now advancing PO
+   - SCDs, SQ heparin
+   - PT/OT evaluation
+
+---
+
+## DISPOSITION
+- Remains in ICU, Impella weaning
+- Plan for step-down once hemodynamically stable and device removed
+
+---
+
+## ATTENDING PHYSICIAN  
+Dr. S. Williams, MD
+
+---
+
+**End of Note**

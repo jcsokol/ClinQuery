@@ -1,0 +1,153 @@
+---
+**Patient Name:** Wilda Upton  
+**MRN:** 00293847  
+**DOB:** 03/27/1985  
+**Sex:** Female  
+**Admitting Service:** Cardiac ICU  
+**Date of Admission:** 02/07/2024  
+**Date of Note:** 02/14/2024  
+**Attending:** Dr. J. Feldman  
+**Consults:** Cardiology, Endocrinology, ENT, Infectious Disease
+
+---
+
+## ADMISSION SUMMARY
+
+**CC:** Shortness of breath, chest pain, orthopnea  
+**HPI:**  
+38 y/o F with h/o HTN, prediabetes, anemia, and recurrent sinusitis, presented to ED with 2 days of progressive dyspnea, pleuritic chest pain, and orthopnea. No prior cardiac hx. Initial TTE: LVEF ~15%, global hypokinesis, mild MR, RV mod fxn. Troponin I mildly elevated. Developed hypotension refractory to fluids/pressors, required intubation and placement of temporary LVAD (Impella CP) for cardiogenic shock.  
+
+**PMHx:**  
+- Hypertension  
+- Prediabetes  
+- Chronic sinusitis  
+- Anemia  
+- Prior normal pregnancies x3  
+- Recurrent viral pharyngitis  
+- Laceration of thigh (remote)  
+
+**Surgical Hx:** None  
+**Allergies:** NKDA  
+**Home Meds:**  
+- HCTZ 25 mg qd  
+- Camila 28 Day Pack  
+- NuvaRing  
+- Yaz  
+- Ibuprofen 200 mg prn
+
+---
+
+## HOSPITAL COURSE
+
+**Day 1:**  
+Admitted from ED for acute decompensated heart failure/cardiogenic shock. Required norepinephrine, then Impella CP placed. Labs: WBC 10.2, Hgb 13.3, Cr 1.0, BNP 2,300, troponin 0.32. Started on broad-spectrum abx for possible pneumonia (cefepime, azithro), diuresis with IV lasix, strict I/O.  
+
+**Day 2-3:**  
+Remained intubated, on Impella and moderate pressor support. Developed AKI (Cr up to 1.4). LFTs wnl. Echo: LVEF 15%, no LV thrombus. Infectious workup neg. Persistent low-grade fevers—likely central line.  
+
+**Day 4-6:**  
+Hemodynamics improved, pressors weaned. Impella weaned and explanted on day 5. Extubated. Diuresed further, net negative 3L. Renal function improved.  
+
+**Day 7-8:**  
+Transitioned to oral HF regimen (metoprolol, sacubitril/valsartan, spironolactone). Mobilizing with PT. Plan for discharge to home with close f/u.
+
+---
+
+## PERTINENT LABS
+
+| Date       | WBC (10^3/uL) | Hgb (g/dL) | Hct (%) | Plts (10^3/uL) | Na (mmol/L) | K (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Troponin (ng/mL) | BNP (pg/mL) | AST (U/L) | ALT (U/L) |
+|------------|---------------|------------|---------|---------------|-------------|------------|-------------|------------|-------------|------------------|--------------|-----------|-----------|
+| 2/07 AM    | 10.2          | 13.3       | 40      | 291           | 140         | 4.5        | 14          | 1.0        | 90          | 0.32             | 2,300        | 32        | 28        |
+| 2/08 AM    | 12.1          | 10.8       | 33      | 156           | 139         | 4.7        | 23          | 1.2        | 99          | 0.18             | 2,200        | 40        | 30        |
+| 2/09 AM    | 9.5           | 9.6        | 30      | 173           | 137         | 4.1        | 31          | 1.4        | 102         | 0.12             | 1,800        | 41        | 29        |
+| 2/10 PM    | 7.4           | 11.2       | 35      | 210           | 138         | 4.3        | 20          | 1.2        | 98          | 0.08             | 1,200        | 34        | 27        |
+| 2/11 AM    | 8.2           | 12.6       | --      | 201           | 140         | 4.5        | 17          | 1.1        | 95          | --               | 900          | --        | --        |
+| 2/13 AM    | 6.9           | 13.1       | 39      | 245           | 141         | 4.4        | 15          | 1.0        | 92          | <0.01            | 540          | 28        | 24        |
+
+*Other labs:*
+- LDH: 415 U/L (peak, 2/08), trended down to 212 by 2/13
+- Ferritin: 340 ng/mL (2/08)
+- CRP: 9.6 mg/dL (2/08), 2.1 (2/13)
+- LFTs otherwise wnl
+- Blood cx x2: No growth
+
+---
+
+## VITALS (selected)
+
+| Date/Time  | Temp (C) | HR | BP         | RR | SpO2 | Pain |
+|------------|----------|----|------------|----|------|------|
+| 2/07 08:00 | 37.7     | 103| 98/54 (MAP 69) | 21 | 97%  | 0   |
+| 2/08 06:00 | 38.2     | 111| 85/49 (MAP 61) | 24 | 94%  | 2   |
+| 2/09 16:00 | 37.0     | 97 | 104/61 (MAP 75)| 18 | 98%  | 0   |
+| 2/11 09:00 | 36.8     | 88 | 117/67 (MAP 83)| 15 | 99%  | 0   |
+| 2/13 12:00 | 37.1     | 72 | 123/78 (MAP 93)| 14 | 99%  | 0   |
+
+---
+
+## ASSESSMENT & PLAN (by problem)
+
+**1. Cardiogenic Shock secondary to new severe non-ischemic cardiomyopathy**  
+- Required Impella CP for hemodynamic support (days 1-5)  
+- Likely viral myocarditis (recent viral URI, negative ischemic w/u, no CAD risk factors)  
+- Now off mechanical support, stable, weaning off pressors  
+- Plan: Continue HF guideline therapy, echo prior to d/c, f/u in HF clinic, consider wearable defibrillator
+
+**2. Acute decompensated heart failure (HFrEF, LVEF ~15%)**  
+- Started GDMT: beta blocker, ARNI, spironolactone  
+- Diuresed, now euvolemic  
+- Monitor for recurrent congestion, titrate meds as tolerated
+
+**3. Acute kidney injury, multifactorial**  
+- Likely pre-renal from shock, diuresis  
+- Cr peaked at 1.4, now 1.0  
+- Renal function improving, monitor daily  
+- Avoid nephrotoxins, renally dose meds
+
+**4. Recurrent viral sinusitis, chronic sinusitis**  
+- Recent URI symptoms, now resolved  
+- ENT consulted, no acute intervention  
+- Saline rinses, follow-up outpatient
+
+**5. Anemia (baseline)**  
+- Hgb nadir 9.6, likely dilutional/acute phase  
+- No evidence of bleeding, trending up  
+- Iron studies wnl
+
+**6. Hypertension**  
+- Off home HCTZ, transitioned to HF regimen  
+- Monitor BP closely
+
+**7. Prediabetes**  
+- Glucose stable throughout admission  
+- Continue lifestyle modifications
+
+**8. Infection risk (central line, intubation)**  
+- Fevers likely central line-related, cultures negative  
+- Abx discontinued after 72h, line removed
+
+**9. OBGYN hx (multiple normal pregnancies, contraceptive use)**  
+- No acute GYN issues  
+- Avoid estrogen-containing agents in context of new heart failure
+
+**10. Laceration of thigh (remote)**  
+- Healed, no sequelae
+
+---
+
+## DISCHARGE PLANNING
+
+- Anticipate discharge on 2/15/2024  
+- Home with visiting nurse for HF monitoring  
+- F/u Cardiology, HF clinic within 1 week  
+- Strict sodium/fluid restriction  
+- Daily weights, call if SOB, edema, wt gain  
+- Medication reconciliation complete  
+
+---
+
+**Physician:** J Feldman, MD  
+**Signature:**  
+**Date/Time:** 02/14/2024 14:21
+
+---

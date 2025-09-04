@@ -1,0 +1,51 @@
+# --- Python bytecode / cache ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual environments / env files ---
+.venv/
+venv/
+env/
+.env
+.env.*
+*.env
+
+# --- OS cruft ---
+.DS_Store
+Thumbs.db
+
+# --- Editors/IDE ---
+.vscode/
+.idea/
+*.code-workspace
+
+# --- Packaging / build artifacts ---
+build/
+dist/
+.eggs/
+*.egg-info/
+pip-wheel-metadata/
+__pypackages__/
+
+# --- Tests / coverage / type/lint caches ---
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.mypy_cache/
+.pytype/
+.ruff_cache/
+.cache/
+
+# --- Jupyter scratch ---
+.ipynb_checkpoints/
+
+# --- Logs ---
+logs/
+*.log
+
+# --- Keys / certs ---
+*.pem
+*.key

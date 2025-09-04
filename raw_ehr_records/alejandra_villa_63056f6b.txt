@@ -1,0 +1,196 @@
+```
+--------------------------------------------------------------------------------
+PATIENT SUMMARY
+--------------------------------------------------------------------------------
+Patient Name: Alejandra Villa
+MRN: 00213456
+DOB: 07/31/1960 (Age: 63)
+Sex: Female
+Admit Date: 04/15/2024
+Attending: Dr. Sharon Lin, MD
+Primary Team: Cardiology/Critical Care
+Location: MICU, Bed 8
+
+--------------------------------------------------------------------------------
+CHIEF COMPLAINT
+--------------------------------------------------------------------------------
+Progressive shortness of breath and chest pain x1 week, now with hypotension and oliguria.
+
+--------------------------------------------------------------------------------
+HISTORY OF PRESENT ILLNESS
+--------------------------------------------------------------------------------
+Alejandra Villa is a 63-year-old female with a history of hypertension, obesity, hypothyroidism, stage III colon cancer post partial colectomy (chemotherapy ongoing), and chronic kidney disease (baseline Cr 2.0-2.5), who presented to the ED with worsening dyspnea, orthopnea, and chest discomfort. She reported increasing lower extremity edema and reduced urine output over 3 days. On arrival, she was found to be hypotensive (BP 84/52), tachycardic (HR 114), and hypoxic (SpO2 91% on RA). Initial labs revealed acute on chronic renal failure, elevated troponin, and BNP. CXR showed pulmonary edema. She rapidly deteriorated, requiring intubation and vasopressor support. Echo revealed severely reduced LV EF (~15%), global hypokinesis, and moderate MR. Cardiology was consulted; she was transferred to the MICU for management of acute decompensated heart failure with cardiogenic shock. Due to persistent hemodynamic instability despite maximal medical therapy, a percutaneous left ventricular assist device (Impella CP) was placed on hospital day 2.
+
+--------------------------------------------------------------------------------
+PAST MEDICAL HISTORY
+--------------------------------------------------------------------------------
+- Hypertension
+- Idiopathic atrophic hypothyroidism
+- Obesity (BMI 32)
+- CKD stage 3b
+- Malignant tumor of colon (s/p colectomy, on chemo)
+- Recurrent rectal polyp
+- Viral sinusitis (remote)
+- 1st trimester miscarriage (remote)
+
+--------------------------------------------------------------------------------
+PAST SURGICAL HISTORY
+--------------------------------------------------------------------------------
+- Partial colectomy (2023)
+
+--------------------------------------------------------------------------------
+MEDICATIONS ON ADMISSION
+--------------------------------------------------------------------------------
+- Hydrochlorothiazide 25 mg daily
+- Levothyroxine 75 mcg daily
+- Leucovorin 100 mg IV (per chemo protocol)
+- Oxaliplatin 50 mg IV (per chemo protocol)
+- Lisinopril 10 mg daily
+- Atorvastatin 20 mg daily
+- Metoprolol succinate 25 mg daily
+
+--------------------------------------------------------------------------------
+ALLERGIES
+--------------------------------------------------------------------------------
+No known drug allergies.
+
+--------------------------------------------------------------------------------
+SOCIAL HISTORY
+--------------------------------------------------------------------------------
+Lives with husband, retired accountant. No tobacco, rare ETOH. No illicit drugs. Ambulates independently at baseline.
+
+--------------------------------------------------------------------------------
+FAMILY HISTORY
+--------------------------------------------------------------------------------
+Mother: HTN, DM2
+Father: MI at 69, deceased
+
+--------------------------------------------------------------------------------
+REVIEW OF SYSTEMS
+--------------------------------------------------------------------------------
+Unable to obtain due to intubation/sedation.
+
+--------------------------------------------------------------------------------
+PHYSICAL EXAM (ICU, HOSP DAY 5)
+--------------------------------------------------------------------------------
+GEN: Intubated, sedated, on mechanical ventilation.
+VS: T 37.5°C, HR 92 (paced), BP 98/62 (on norepinephrine 0.06 mcg/kg/min), RR 18 (vent), SpO2 97% (FiO2 40%)
+HEENT: No JVD, oral ETT in place
+CV: S1, S2, soft S3, holosystolic murmur at apex, Impella in situ, no pericardial rub
+RESP: Bibasilar crackles, good air entry
+ABD: Soft, mildly distended, nontender, healed colectomy scar
+GU: Foley in place, minimal output
+EXT: 2+ pitting edema BLE, pulses palpable
+NEURO: Intact to pain, sedated, no focal deficit
+
+--------------------------------------------------------------------------------
+LABS (SELECTED)
+--------------------------------------------------------------------------------
+| Date       | WBC    | Hgb   | Hct   | Plt    | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Ca   | Alb  | AST  | ALT  | T.bili | Trop I | BNP   |
+|------------|--------|-------|-------|--------|------|------|------|------|------|------|------|------|------|------|------|--------|--------|-------|
+| 4/15/24 AM | 9.3    | 14.7  | 43    | 354    | 139  | 5.1  | 108  | 26   | 34   | 3.2  | 106  | 9.4  | 2.8  | 42   | 55   | 1.1    | 1.21   | 8200  |
+| 4/16/24 AM | 10.6   | 12.9  | 38    | 302    | 141  | 5.7  | 110  | 24   | 49   | 4.1  | 119  | 8.9  | 2.6  | 51   | 61   | 1.4    | 0.97   | >10000|
+| 4/17/24 AM | 11.2   | 10.2  | 30    | 280    | 140  | 4.8  | 108  | 22   | 57   | 5.2  | 82   | 8.7  | 2.3  | 38   | 47   | 1.7    | 0.54   | 9350  |
+| 4/18/24 AM | 8.4    | 9.9   | 29    | 335    | 138  | 4.3  | 104  | 23   | 44   | 3.7  | 89   | 9.1  | 2.7  | 36   | 42   | 1.3    | <0.01  | 7200  |
+| 4/19/24 AM | 6.9    | 9.4   | 27    | 376    | 137  | 4.1  | 106  | 25   | 41   | 2.9  | 93   | 9.3  | 2.9  | 29   | 35   | 1.0    | <0.01  | 5100  |
+| 4/20/24 AM | 7.7    | 8.7   | 25    | 388    | 137  | 4.0  | 104  | 24   | 39   | 2.5  | 88   | 9.7  | 3.1  | 22   | 28   | 0.8    | <0.01  | 3200  |
+| 4/21/24 AM | 7.2    | 8.1   | 23    | 402    | 138  | 4.3  | 107  | 24   | 32   | 2.4  | 95   |      |      |      |      |        |        |       |
+
+*Note: Missing entries indicate labs not collected or results pending.
+
+--------------------------------------------------------------------------------
+IMAGING
+--------------------------------------------------------------------------------
+CXR (4/15): Pulmonary edema, bilateral pleural effusions, mild cardiomegaly.
+Echo (4/15): LVEF 15%, global hypokinesis, moderate MR, RV function preserved, no tamponade.
+CT Abd/Pelvis (4/10): Interval stability of post-colectomy changes, no new masses.
+
+--------------------------------------------------------------------------------
+HEMODYNAMICS (POST-IMPELLA, 4/16)
+--------------------------------------------------------------------------------
+- CI: 2.5 L/min/m2 (on support)
+- MAP: 68 mmHg (on norepi 0.06)
+- PCWP: 21 mmHg
+- RAP: 9 mmHg
+- SVR: 1020 dynes
+
+--------------------------------------------------------------------------------
+PROBLEM-BASED ASSESSMENT & PLAN
+--------------------------------------------------------------------------------
+
+1. **Cardiogenic shock secondary to acute on chronic heart failure**
+   - Cause: Likely ischemic/chemotherapy-induced cardiomyopathy in setting of multiple comorbidities.
+   - Course: Required intubation, vasopressors, and temporary LV support (Impella CP) on HD2.
+   - Plan:
+     - Continue Impella support, wean as tolerated.
+     - Daily TTE for LV recovery.
+     - Titrate inotropes/vasopressors per hemodynamics.
+     - Diuresis as tolerated.
+     - Consider evaluation for durable LVAD/transplant if no recovery.
+
+2. **Acute on chronic kidney injury**
+   - Baseline Cr ~2.0, peaked at 5.2, now trending down.
+   - Multifactorial: cardiorenal, hypoperfusion, nephrotoxic exposures.
+   - Plan:
+     - Strict I/O, daily weights.
+     - Avoid nephrotoxins.
+     - Renal dosing of all meds.
+     - CRRT if further deterioration.
+
+3. **Colon cancer (recent chemo)**
+   - Receiving oxaliplatin/leucovorin, last cycle 4/4/24.
+   - No evidence of acute GI bleed.
+   - Plan:
+     - Hold chemo until stabilized.
+     - Monitor for neutropenia/infection.
+     - Oncology following.
+
+4. **Hypothyroidism**
+   - TSH mildly elevated, T4 low-normal.
+   - Plan: Continue levothyroxine, recheck TSH/T4 weekly.
+
+5. **Hypertension/Obesity**
+   - HTN well-controlled prior to admission.
+   - No antihypertensives currently due to hypotension.
+   - Plan: Resume agents as tolerated after ICU course.
+
+6. **Recent anemia**
+   - Hgb dropped from 14.7 to 8.1, likely dilutional and/or GI losses.
+   - Plan: Monitor for overt bleeding, transfuse PRBCs for Hgb <7.5.
+
+7. **Electrolyte disturbances**
+   - Hyperkalemia and hyponatremia, now improved with diuresis/renal recovery.
+   - Plan: Monitor daily, replete as needed.
+
+8. **Risk of infection**
+   - Central lines, intubation, immunosuppression (chemo).
+   - Plan: Daily blood cultures if fever, strict aseptic technique.
+
+9. **Nutrition**
+   - NPO initially, now on tube feeds.
+   - Plan: Advance as tolerated, monitor prealbumin.
+
+10. **DVT prophylaxis**
+    - SCDs, heparin 5000U SQ BID.
+
+--------------------------------------------------------------------------------
+ICU COURSE SUMMARY (Days 1-7)
+--------------------------------------------------------------------------------
+- HD1: Admitted for decompensated HF, intubated, started norepinephrine.
+- HD2: Worsening shock; Impella CP placed, improved hemodynamics.
+- HD3: Diuresis initiated, renal function worsened, started CRRT for 24h.
+- HD4: Weaning vasopressors, improved UOP, CRRT stopped.
+- HD5-7: Stable on Impella, slow diuresis, extubated on HD7.
+
+--------------------------------------------------------------------------------
+DISPOSITION
+--------------------------------------------------------------------------------
+- Remains in MICU, planned transition to stepdown once off Impella and stable.
+- Multidisciplinary care: Cardiology, Nephrology, Oncology, Nutrition, PT/OT.
+
+--------------------------------------------------------------------------------
+ATTENDING PHYSICIAN: Sharon Lin, MD
+--------------------------------------------------------------------------------
+
+[END OF NOTE]
+```

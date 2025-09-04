@@ -1,0 +1,149 @@
+**Patient Name:** Robbi Dach  
+**MRN:** 0092438-DA  
+**DOB:** 07/01/1994  
+**Sex:** Female  
+**Admit Date:** 04/13/2024  
+**Attending:** Dr. K. Yates  
+**Location:** CICU, 6th Floor, Bed 12
+
+---
+
+## ADMISSION SUMMARY:
+
+**Chief Complaint:**  
+Acute onset dyspnea, severe headache, and visual changes at 33 weeks gestation. Brought in by EMS after syncopal episode at home.
+
+**History of Present Illness:**  
+Robbi Dach is a 29-year-old G2P1 female with a history of antepartum eclampsia (current pregnancy), mild TBI (remote concussion, no LOC), viral sinusitis, and prior facial laceration, presenting with acute shortness of breath, severe headache, and blurry vision. On arrival, she was hypertensive (BP 198/122), tachycardic, tachypneic, and hypoxic to 88% on RA. Fetal bradycardia was noted on admission NST. Shortly after arrival, she developed acute pulmonary edema and rapid clinical decompensation requiring intubation and emergent delivery via C-section in the ICU. Post-op, she developed refractory cardiogenic shock (EF 15% by bedside echo), requiring placement of a temporary left ventricular assist device (Impella CP) for hemodynamic support.
+
+---
+
+## HOSPITAL COURSE (Days 1–7):
+
+- **Day 1:** Admitted with severe preeclampsia/eclampsia, hypertensive crisis, pulmonary edema. Started on IV labetalol, magnesium sulfate, furosemide, and O2. Fetal distress → emergent bedside C-section (33w2d). Neonate to NICU, mother intubated.
+- **Day 2:** Worsening hypotension and respiratory distress. Echo: severe LV dysfunction, LVEF 15%. Labs: rising troponin, transaminitis, AKI. Started on norepinephrine, dobutamine.  
+- **Day 3:** Oliguric, escalating pressor/ionotropic requirements. Multidisciplinary decision for temporary LVAD (Impella CP) placement. Device placed without complication.
+- **Day 4–5:** Gradual improvement in hemodynamics, weaning of vasopressors. Renal function recovering. Extubated to HFNC on Day 5.
+- **Day 6:** Impella weaned and removed. Stable on low-dose diuretics, off pressors.  
+- **Day 7:** Transfer to step-down unit for ongoing management of postpartum cardiomyopathy.
+
+---
+
+## PAST MEDICAL HISTORY:
+- Antepartum eclampsia (current)
+- Normal pregnancy (prior)
+- Concussion (remote, mild, no LOC)
+- Viral sinusitis (remote)
+- Facial laceration (healed)
+
+## SURGICAL HISTORY:
+- C-section (current admission)
+
+## ALLERGIES:
+- NKDA
+
+## MEDICATIONS ON ADMISSION:
+- Levora 0.15/30 28 Day Pack (discontinued on admission)
+- Mirena IUS (in place)
+- Trinessa 28 Day Pack (discontinued)
+- Natazia 28 Day Pack (discontinued)
+- Acetaminophen 325 mg PO PRN
+- Natazia 28 Day Pack (duplicate entry, discontinued)
+
+## HOME MEDICATIONS (prior to admission):
+- None relevant to acute presentation
+
+## VITALS (SELECTED):
+
+| Date        | Temp (C) | HR   | BP         | RR  | O2 Sat | Pain |
+|-------------|----------|------|------------|-----|--------|------|
+| 4/13/2024   | 36.9     | 124  | 198/122    | 28  | 88%    | 8    |
+| 4/14/2024   | 37.1     | 109  | 110/62     | 24  | 95%    | sed. |
+| 4/15/2024   | 36.7     | 98   | 101/54     | 20  | 98%    | 2    |
+| 4/16/2024   | 37.2     | 92   | 108/66     | 18  | 99%    | 1    |
+| 4/17/2024   | 36.8     | 88   | 116/70     | 18  | 99%    | 0    |
+| 4/18/2024   | 36.6     | 82   | 120/72     | 16  | 99%    | 0    |
+
+---
+
+## LABS
+
+### CBC & CHEMISTRY
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na | K  | Cl | CO2 | BUN | Cr  | Glu | Ca | AST | ALT | Troponin I |
+|------------|------------|------------|---------|------------|----|----|----|-----|-----|-----|-----|----|-----|-----|------------|
+| 4/13/2024  | 7.2        | 13.3       | 44.3    | 337        | 137| 4.3| 102| 19  | 16  | 0.9 | 99  | 8.6| 52  | 61  | 0.04       |
+| 4/14/2024  | 15.8       | 11.2       | 36.4    | 110        | 134| 5.8| 98 | 16  | 32  | 2.1 | 112 | 8.1| 181 | 102 | 0.42       |
+| 4/15/2024  | 12.7       | 10.8       | 34.1    | 175        | 136| 5.1| 100| 18  | 24  | 1.5 | 108 | 8.4| 79  | 71  | 0.21       |
+| 4/16/2024  | 9.2        | 11.6       | 36.8    | 211        | 138| 4.4| 104| 22  | 19  | 1.1 | 104 | 8.5| 35  | 41  | 0.08       |
+| 4/17/2024  | 8.5        | 12.7       | 39.9    | 264        | 139| 4.1| 105| 24  | 14  | 0.9 | 101 | 8.6| 22  | 30  | <0.01      |
+| 4/18/2024  | 7.6        | 13.1       | 42.1    | 292        | 140| 3.9| 106| 25  | 11  | 0.7 | 97  | 8.7| —   | —   | <0.01      |
+
+*Some values not measured on all days.*
+
+---
+
+## MICROBIOLOGY / BLOOD CULTURES:
+- 4/14: Blood cultures x2, no growth at 48h
+- 4/15: UA negative; urine culture no growth
+
+---
+
+## IMAGING:
+- **CXR 4/13:** Pulmonary edema, bilateral effusions
+- **ECHO 4/14:** Severe global hypokinesis, LVEF ~15%, moderate MR, dilated LV
+- **Head CT 4/13:** No acute ICH, no mass
+
+---
+
+## ASSESSMENT & PLAN
+
+### 1. **Peripartum Cardiomyopathy / Cardiogenic Shock**
+- Severe LV dysfunction post-eclampsia, postpartum, requiring temporary LVAD (Impella CP)
+- **Plan:** Continue GDMT for heart failure (carvedilol, sacubitril/valsartan, spironolactone as tolerated), monitor volume status, daily weights, strict I/Os, serial ECHOs, wean diuretics as tolerated, DVT prophylaxis
+
+### 2. **Antepartum Eclampsia / Superimposed Preeclampsia**
+- Resolved with delivery; monitor for seizures, continue magnesium sulfate for 24h postpartum, monitor BP, transition to oral antihypertensives
+
+### 3. **Acute Kidney Injury (AKI)**
+- Likely multifactorial: hypoperfusion, preeclampsia, nephrotoxic meds. Improving with volume and hemodynamic support.
+- **Plan:** Monitor renal function, avoid nephrotoxins, adjust meds for renal dosing
+
+### 4. **Respiratory Failure / Pulmonary Edema**
+- Required intubation, now extubated. O2 via HFNC, diuresis ongoing.
+- **Plan:** Wean O2, chest PT, monitor for re-accumulation of edema
+
+### 5. **Status Post C-section**
+- No signs of wound infection or dehiscence.
+- **Plan:** Continue wound care, serial CBCs, monitor for PPH
+
+### 6. **Anemia of Acute Illness/Blood Loss**
+- Hgb nadir 10.8, stable, no transfusion required.
+- **Plan:** Monitor, iron studies outpatient
+
+### 7. **Contraceptive Management**
+- All OCPs discontinued due to VTE risk post-partum and during critical illness; Mirena IUS remains in place.
+
+### 8. **Pain Control**
+- Mild, managed with acetaminophen PRN
+
+### 9. **Other Problems**
+- Remote concussion, facial laceration, viral sinusitis – no active issues
+
+---
+
+## DISPOSITION / FOLLOW-UP
+- Step-down unit for continued HF management
+- Cardiology, OB, and renal follow-up
+- Neonate remains in NICU, stable
+
+---
+
+**Physician:**  
+K. Yates, MD  
+Attending, Cardiology/Critical Care  
+Signed: 4/19/2024, 08:32
+
+---
+
+**[End of Note]**

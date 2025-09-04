@@ -1,0 +1,179 @@
+---
+**Patient:** Kara Schneider  
+**MRN:** 00453721  
+**DOB:** 07/07/1976  
+**Sex:** Female  
+**Admit Date:** 04/09/2024  
+**Service:** Medical ICU  
+**Attending:** Dr. Singh  
+**Consults:** Cardiology, Infectious Disease, Endocrinology
+
+---
+
+### ADMISSION SUMMARY
+
+**Chief Complaint:**  
+Acute shortness of breath, chest pain, and syncope at home. EMS found pt in cardiac arrest, ROSC after 2 rounds of CPR and 1 shock. Admitted to ICU for post-arrest care.
+
+**HPI:**  
+Kara Schneider is a 47-year-old female with PMHx significant for prediabetes, anemia, prior UTI, and recent viral sinusitis, who was found unresponsive at home by her husband. EMS noted pulseless VT, CPR x 7 min, intubated in the field, 1 epi, 1 shock, ROSC achieved. On arrival to ED, hypotensive and tachycardic, requiring norepinephrine. Echo revealed severe LV dysfunction, EF 15%. Emergent Impella CP placed for cardiogenic shock. Admitted to ICU for management of post-cardiac arrest syndrome and shock.
+
+---
+
+### VITALS (Initial & ICU Course)
+
+| Date       | Temp (°C) | HR (bpm) | BP (mmHg) | RR | SpO2 | Pain | Weight (kg) |
+|------------|-----------|----------|-----------|----|------|------|-------------|
+| 4/9/24 19:17 | 36.1      | 118      | 78/56     | 24 | 95%  | 0    | 84.2        |
+| 4/10/24 07:10 | 36.7      | 102      | 104/67    | 20 | 98%  | 2    | 83.7        |
+| 4/11/24 06:54 | 37.2      | 98       | 110/70    | 18 | 99%  | 1    | 82.9        |
+| 4/12/24 07:02 | 36.8      | 87       | 116/76    | 17 | 98%  | 2    | 82.7        |
+
+---
+
+### LABS
+
+**CBC / CHEM7 / CARDIAC & LIVER MARKERS**
+
+| Date        | WBC   | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | Trop I | BNP   |
+|-------------|-------|------|------|-------|------|------|------|------|------|------|------|------|------|--------|-------|
+| 4/9/24 20:00| 7.2   | 13.1 | 39.3 | 402   | 144  | 3.9  | 102  | 23   | 11   | 1.18 | 63   | 56   | 41   | 18.4   | 3260  |
+| 4/10/24 04:30| 8.6  | 11.7 | 36.2 | 350   | 142  | 4.2  | 98   | 21   | 15   | 1.43 | 77   | 62   | 55   | 12.9   | 2970  |
+| 4/10/24 16:00| 9.4  | 10.9 | 33.7 | 288   | 141  | 4.0  | 99   | 22   | 18   | 1.54 | 88   | —    | —    | 9.7    | —     |
+| 4/11/24 07:00| 7.8  | 12.5 | 37.2 | 274   | 143  | 4.1  | 101  | 25   | 14   | 1.22 | 91   | 44   | 31   | 4.8    | 1890  |
+| 4/12/24 06:45| 6.4  | 13.7 | 39.9 | 335   | 142  | 3.8  | 96   | 23   | 10   | 1.15 | 85   | 32   | 28   | 1.2    | 980   |
+
+*Some labs not drawn at all time points.
+
+---
+
+### ASSESSMENT & PLAN (PROBLEM BASED)
+
+**1. Cardiac Arrest / Cardiogenic Shock (EF 15%)**  
+- S/p out-of-hospital cardiac arrest (VT) with ROSC, severe LV dysfunction.  
+- Impella CP placed for hemodynamic support on 4/9.  
+- Weaning vasopressors, MAP >65.  
+- TTE daily, last: EF 20%, mild MR, LV dilation.  
+- Cardiac markers trending down, no re-arrest.  
+- Plan: Continue Impella, titrate off pressors, planned RHC if stable. Monitor for hemolysis/limb ischemia.
+
+**2. Acute Kidney Injury (likely secondary to shock, multifactorial)**  
+- Creatinine peaked at 1.54, now improving.  
+- UOP >0.5 cc/kg/hr.  
+- Avoid nephrotoxins, monitor lytes, daily BMP.
+
+**3. Anemia (baseline, worsened in ICU)**  
+- Hgb dropped to 10.9, likely dilutional/hemolysis.  
+- No overt bleeding.  
+- Monitor CBC, transfuse PRBC if Hgb <7.5 or symptomatic.
+
+**4. Prediabetes**  
+- Glucose 65–91, no hypoglycemia since ICU.  
+- Baseline A1c 6.4%.  
+- Sliding scale insulin PRN, monitor for stress hyperglycemia.
+
+**5. Escherichia coli UTI (recent)**  
+- Positive urine cx on 4/7, started on nitrofurantoin.  
+- Now afebrile, urine clear, WBC trending down.  
+- Complete 7-day course.
+
+**6. Viral Sinusitis / Acute Bronchitis**  
+- Productive cough, CXR: no infiltrate or consolidation.  
+- No hypoxia, no antibiotics needed.  
+- Symptomatic management, chest physio.
+
+**7. Pain/Delirium/ICU Care**  
+- Mild pain (2/10), acetaminophen prn.  
+- CAM-ICU negative.  
+- Early PT/OT, DVT ppx, PPI for GI ppx.
+
+**8. Disposition / Code Status**  
+- Full code, discussed w/ family.  
+- Will need step-down once off Impella and pressors.
+
+---
+
+### ICU COURSE HIGHLIGHTS
+
+**Hospital Day 1:**  
+- Arrival post-arrest, intubated, on norepinephrine, Impella placed.  
+- Initial labs: lactate 7.2, troponin 18.4, BNP 3260.  
+- Started broad-spectrum abx (later narrowed to nitrofurantoin for UTI).
+
+**Hospital Day 2:**  
+- Sedation weaned, extubated to HFNC.  
+- Vasopressors weaned, UOP improved.  
+- TTE showed persistent LV dysfunction.  
+- No arrhythmias overnight.
+
+**Hospital Day 3:**  
+- Stable off pressors, Impella flows 3.2 L/min, no hemolysis.  
+- AKI improving, WBC downtrending.  
+- Family meeting: discussed prognosis, advanced therapies.
+
+**Hospital Day 4:**  
+- Impella weaning trial started.  
+- Patient alert, oriented, tolerating oral intake.  
+- Physical therapy initiated.  
+- Plan for removal of Impella if stable overnight.
+
+---
+
+### MEDICATIONS (Active in Hospital)
+
+- Nitrofurantoin 100mg PO q12h
+- Phenazopyridine 100mg PO TID prn
+- Acetaminophen 650mg PO q6h prn pain/fever
+- Heparin SQ 5000u q8h (DVT ppx)
+- Metoprolol 12.5mg PO BID (started day 3)
+- Sliding scale insulin per protocol
+- Pantoprazole 40mg IV q24h (GI ppx)
+
+---
+
+### MICROBIOLOGY
+
+- Urine cx (4/7): E. coli >100,000 CFU/mL, sensitive to nitrofurantoin
+- Blood cx x2 (4/9): No growth at 72h
+
+---
+
+### IMAGING
+
+- CXR (4/9): Pulmonary edema, no consolidation, ETT/Impella in place.
+- TTE (4/9): EF 15%, global hypokinesis, mild MR
+- TTE (4/11): EF 20%, persistent LV dysfunction
+
+---
+
+### ALLERGIES
+
+- NKDA
+
+---
+
+### SOCIAL HISTORY
+
+- Lives with husband and 2 children.  
+- Non-smoker, rare EtOH, no illicit drugs.  
+- Works as a teacher.
+
+---
+
+### FAMILY HISTORY
+
+- Mother: HTN, DM2  
+- Father: MI age 58, deceased
+
+---
+
+### REVIEW OF SYSTEMS (Unable to obtain on admission, now negative except as noted above)
+
+---
+
+**Signature:**  
+Dr. Amita Singh, MD  
+Medical ICU  
+04/12/2024 09:45
+
+---

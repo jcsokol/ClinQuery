@@ -1,0 +1,116 @@
+---
+**Patient Name:** Leo Kreiger  
+**MRN:** 00349822  
+**DOB:** 2/7/1949  
+**Sex:** Male  
+**Admitting Service:** Cardiac ICU  
+**Attending:** Dr. H. Jensen  
+**Date of Admission:** 2024-03-22  
+**Date of Note:** 2024-03-29  
+**Reason for Admission:** Acute decompensated heart failure with cardiogenic shock; required temporary LVAD (Impella CP)  
+**Allergies:** NKDA  
+**Code Status:** Full  
+**Past Medical History:**  
+- BMI >30 (Obesity, class I)  
+- Coronary Heart Disease (hx of MI x2, stents in 2018/2021)  
+- Hypertension  
+- Hyperlipidemia  
+- Chronic stable angina  
+- Viral sinusitis (resolved)  
+- Acute bronchitis (recent, resolved)  
+- OSA (uses CPAP at home)  
+- GERD  
+
+**Home Medications:**  
+- Clopidogrel 75 mg PO daily  
+- Simvastatin 20 mg PO qHS  
+- Amlodipine 5 mg PO daily  
+- Nitroglycerin 0.4 mg spray PRN  
+- Acetaminophen 325 mg PO PRN  
+
+---
+
+## HOSPITAL COURSE
+
+Mr. Kreiger is a 75-year-old male with obesity, CAD, and prior MI who presented to the ED with acute-onset dyspnea, orthopnea, and chest tightness. He was found to be hypotensive (SBP 78 mmHg), tachycardic (HR 112), and hypoxic (SpO2 88% RA). Initial EKG: sinus tach, Q waves V1-3, no acute ST changes. Troponin mildly elevated. BNP 2,350. CXR: pulmonary edema, enlarged cardiac silhouette. Bedside echo: LVEF 15%, severe global hypokinesis, mild MR.
+
+He rapidly decompensated requiring norepinephrine, then dobutamine. On hospital day 1, he developed worsening lactic acidosis, rising creatinine, and oliguric AKI. Cardiology and CT surgery consulted. Impella CP placed via right femoral artery for temporary mechanical circulatory support. After placement, hemodynamics stabilized, pressors weaned off by day 3. Extubated on day 4. Diuresed aggressively with IV furosemide. Impella weaned and explanted on hospital day 6. Currently off inotropes, on low-dose diuretics, with marked clinical improvement.
+
+---
+
+## VITALS (selected, ICU course)
+
+| Date        | Temp (°C) | HR  | BP (mmHg) | RR | SpO2 | Weight (kg) | Pain (0-10) |
+|-------------|-----------|-----|-----------|----|------|-------------|-------------|
+| 3/22/2024   | 36.8      | 112 | 78/54     | 24 | 88%  | 91.6        | 5           |
+| 3/23/2024   | 37.1      | 108 | 92/60     | 20 | 94%  | 91.2        | 4           |
+| 3/24/2024   | 36.9      | 96  | 104/68    | 18 | 96%  | 90.8        | 3           |
+| 3/26/2024   | 36.7      | 88  | 118/72    | 16 | 98%  | 89.9        | 2           |
+| 3/29/2024   | 36.5      | 82  | 128/76    | 14 | 99%  | 89.2        | 2           |
+
+---
+
+## LABS (CBC, CHEM7, Other selected labs)
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na  | K   | Cl  | CO2 | BUN | Cr  | Glu  | Troponin I | BNP    | AST  | ALT  | Lactate |
+|------------|------|------|------|------|-----|-----|-----|-----|-----|-----|------|------------|--------|------|------|---------|
+| 3/22/2024  | 8.2  | 12.6 | 36.1 | 446  | 132 | 5.3 | 104 | 18  | 31  | 1.9 | 148  | 0.22       | 2350   | 38   | 43   | 4.1     |
+| 3/23/2024  | 9.1  | 11.9 | 34.5 | 421  | 130 | 5.6 | 102 | 16  | 35  | 2.3 | 141  | 0.19       | 2200   | 42   | 46   | 3.7     |
+| 3/24/2024  | 8.7  | 12.3 | 35.6 | 410  | 134 | 4.9 | 101 | 22  | 29  | 1.7 | 137  | 0.13       | 1800   | 39   | 41   | 2.2     |
+| 3/25/2024  | 8.0  | 12.7 | 36.4 | 399  | 137 | 4.1 | 102 | 24  | 25  | 1.4 | 134  | 0.09       | 1200   | 33   | 39   | 1.7     |
+| 3/26/2024  | 7.9  | 12.9 | 37.0 | 384  | 139 | 4.0 | 104 | 25  | 21  | 1.1 | 128  | <0.01      | 670    | 29   | 36   | 1.1     |
+| 3/27/2024  | 7.8  | 13.1 | 37.6 | 377  | 140 | 4.3 | 106 | 27  | 17  | 0.9 | 123  | <0.01      | 400    | 26   | 35   |         |
+| 3/28/2024  | 7.5  | 13.3 | 38.0 | 362  |     |     |     |     |     |     |      |            |        |      |      |         |
+| 3/29/2024  | 7.1  | 13.5 | 38.6 | 355  | 142 | 4.5 | 107 | 28  | 15  | 0.8 | 119  | <0.01      | 250    | 23   | 33   | 0.9     |
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. **Cardiogenic Shock/Decompensated Heart Failure**
+- Presentation with severe low-output state, hypotension, and end-organ hypoperfusion after acute decompensation.
+- Required norepinephrine, dobutamine, then urgent Impella CP for mechanical support.
+- Course complicated by AKI, lactic acidosis, mild transaminitis (hepatic congestion).
+- Improved after diuresis and Impella support; Impella explanted day 6.
+- **Plan:** Continue aggressive diuresis (IV furosemide), titrate to euvolemia. Monitor for recurrent shock. TTE scheduled tomorrow to reassess LVEF. Transition to oral heart failure regimen as tolerated.
+
+### 2. **Coronary Artery Disease/Ischemic Cardiomyopathy**
+- Hx CAD, prior MI, stents. Troponin mildly elevated on admit, likely supply-demand mismatch.
+- No acute stent thrombosis on angio.
+- **Plan:** Continue DAPT (clopidogrel, aspirin added), high-intensity statin (switch to atorvastatin 40 mg). Consider ICD for secondary prevention if LVEF remains <35%. Optimize antianginals.
+
+### 3. **Acute Kidney Injury (pre-renal, resolved)**
+- Oliguric, Cr peaked 2.3, now trending down. Likely multifactorial (low perfusion, diuresis).
+- **Plan:** Monitor UOP, daily BMP. Avoid nephrotoxins. Renal dosing for all meds.
+
+### 4. **Obesity/Metabolic Syndrome**
+- BMI 30+; mild hypertriglyceridemia, low HDL.
+- **Plan:** Dietician consult. Start cardiac rehab referral. Encourage weight loss post-discharge.
+
+### 5. **Hypertension/HLD**
+- BP improved with euvolemia. On amlodipine, statin.
+- **Plan:** Restart low-dose ACEi if renal function stable. Lipid panel to be rechecked prior to discharge.
+
+### 6. **Recent Acute Bronchitis/Viral Sinusitis**
+- No current symptoms. No productive cough, fever, or sinus tenderness.
+- **Plan:** Supportive only. Monitor for secondary infection.
+
+### 7. **Pain**
+- Moderate chest discomfort, improved.  
+- **Plan:** Acetaminophen PRN, minimize opioids.
+
+### 8. **Other**
+- OSA: CPAP at bedside when off mechanical ventilation.
+- DVT prophylaxis: SCDs, subQ heparin.
+- Physical therapy for early mobilization.
+
+---
+
+**Discharge planning:**  
+Anticipate transfer to step-down unit within 48h. Will require close outpatient HF follow-up, cardiac rehab, possible evaluation for advanced therapies if LVEF does not improve.
+
+---
+
+**Physician:** H. Jensen, MD  
+**Date/Time:** 2024-03-29 09:21  
+---

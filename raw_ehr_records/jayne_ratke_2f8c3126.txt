@@ -1,0 +1,165 @@
+```
+---------------------------------------------------------------
+EpicCare Inpatient EHR - Progress Note
+Patient: Jayne Ratke              MRN: 20498374
+DOB: 03/31/1981                   Sex: Female
+Date of Service: 06/17/2024       Attending: Dr. R. Trewick
+---------------------------------------------------------------
+
+**Chief Complaint:**  
+"Shortness of breath, chest heaviness, dizziness"
+
+**History of Present Illness:**  
+Jayne Ratke is a 43-year-old female with a history notable for prediabetes and multiple prior normal pregnancies, who presented to the ED with acute onset of chest heaviness, progressive shortness of breath, and orthopnea. She reported several days of worsening malaise, decreased exercise tolerance, and mild viral URI symptoms (congestion, rhinorrhea, non-productive cough) approximately 2 weeks prior. No prior cardiac history. She is not currently pregnant and uses contraceptive medication (see meds list). No recent travel, sick contacts, or illicit drug use.  
+
+Upon arrival, she was tachycardic (HR 122), hypertensive (BP 158/98), and hypoxic (SpO2 89% RA). She was found to be in acute decompensated heart failure with evidence of cardiogenic shock. Initial troponin was elevated, and bedside echocardiogram demonstrated severely reduced LVEF (~15%) with global hypokinesis and moderate MR.  
+
+She was admitted to the Cardiac ICU, started on inotropic support (dobutamine) and diuretics, but rapidly deteriorated with worsening end-organ dysfunction. A temporary left ventricular assist device (Impella CP) was emergently placed at bedside. She stabilized hemodynamically post-procedure.  
+
+**Past Medical History:**  
+- Prediabetes  
+- Multiple prior normal pregnancies  
+- Viral sinusitis (remote, resolved)  
+
+**Past Surgical History:**  
+- None
+
+**Allergies:**  
+- NKDA
+
+**Medications:**  
+- Medroxyprogesterone acetate 0.65 mL (160 mg/mL) IM q3mo  
+- Etonogestrel 68 mg subdermal implant  
+- Natazia (estradiol valerate/dienogest) 28-day pack  
+- Camila (norethindrone) 28-day pack  
+- Multivitamin PRN
+
+**Family History:**  
+- Noncontributory
+
+**Social History:**  
+- Non-smoker, rare EtOH, no illicit drug use  
+- Lives with partner and 2 children  
+- Works as a paralegal
+
+**Review of Systems:**  
+- General: Fatigue, no fever  
+- Cardiac: Chest heaviness, palpitations  
+- Pulmonary: SOB, orthopnea  
+- GI: Mild nausea, no vomiting  
+- GU: Denies dysuria, not pregnant  
+- Neuro: Dizziness, no focal deficits
+
+---------------------------------------------------------------
+PHYSICAL EXAM (ICU Day 3):
+General: Appears tired, alert, oriented x3  
+HEENT: Mucous membranes moist  
+Neck: JVD 13cm, no thyromegaly  
+Cardiac: Irregular tachycardia, S3, no murmur  
+Lungs: Mild bibasilar crackles  
+Abdomen: Soft, mild RUQ fullness, non-tender  
+Extremities: Trace pedal edema, cool to touch  
+Neuro: No focal deficits  
+Skin: No rashes, mild mottling lower extremities  
+Device: Impella CP in situ, right femoral access, dressing clean/dry
+
+---------------------------------------------------------------
+VITALS (ICU Days 1-5, representative):
+| Date        | Temp  | HR   | BP       | RR | SpO2 | Weight (kg) |
+|-------------|-------|------|----------|----|------|-------------|
+| 6/13/24     | 36.9  | 122  | 158/98   | 24 | 89%  | 75.0        |
+| 6/14/24     | 37.3  | 110  | 141/85   | 22 | 94%  | 74.7        |
+| 6/15/24     | 36.8  | 98   | 124/68   | 18 | 97%  | 74.6        |
+| 6/16/24     | 37.1  | 90   | 117/66   | 16 | 98%  | 74.5        |
+| 6/17/24     | 36.7  | 82   | 116/64   | 14 | 99%  | 74.5        |
+
+---------------------------------------------------------------
+LABS (ICU Days 1-5):
+
+CBC/CHEM7:
+| Date      | WBC   | Hgb   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu   |
+|-----------|-------|-------|-------|------|------|------|------|------|------|-------|
+| 6/13/24   | 13.2  | 12.8  | 208   | 134  | 5.8  | 98   | 20   | 35   | 2.1  | 202   |
+| 6/14/24   | 11.6  | 13.1  | 176   | 136  | 4.9  | 99   | 24   | 28   | 1.7  | 167   |
+| 6/15/24   | 10.1  | 13.8  | 185   | 138  | 4.2  | 97   | 26   | 23   | 1.2  | 139   |
+| 6/16/24   | 9.8   | 14.1  | 198   | 139  | 4.1  | 99   | 27   | 18   | 1.1  | 118   |
+| 6/17/24   | 9.1   | 13.9  | 210   |      | 4.0  | 101  | 28   | 15   | 1.0  | 112   |
+
+OTHER LABS:
+| Date      | Troponin I | BNP   | AST  | ALT  | Alk Phos | T Bili | INR  | aPTT | Lactate  |
+|-----------|------------|-------|------|------|----------|--------|------|------|----------|
+| 6/13/24   | 2.3        | 2800  | 52   | 48   | 120      | 1.0    | 1.3  | 34   | 3.2      |
+| 6/14/24   | 1.8        | 2120  | 48   | 45   | 106      | 1.1    | 1.2  | 31   | 2.0      |
+| 6/15/24   | 0.7        | 1205  | 38   | 40   | 96       | 0.9    | 1.1  |      | 1.2      |
+| 6/16/24   | <0.01      | 730   | 32   | 37   | 90       | 0.8    |      |      | 1.0      |
+| 6/17/24   | <0.01      | 420   |      | 35   | 88       | 0.7    | 1.0  | 28   | 0.7      |
+
+HbA1c (from admission labs): 6.1%
+
+---------------------------------------------------------------
+CARDIOLOGY PROCEDURES:
+- 6/13/24: Impella CP (left femoral artery) placed for acute cardiogenic shock, no immediate complications.
+- 6/15/24: Impella flow reduced, weaning trial successful.
+- 6/16/24: Impella explanted at bedside, hemostasis achieved.
+
+---------------------------------------------------------------
+IMAGING:
+- 6/13/24: Bedside TTE: LVEF ~15%, global hypokinesis, mod MR, mild RV dysfunction
+- 6/17/24: Repeat TTE: LVEF improved to ~40%, mild MR
+
+---------------------------------------------------------------
+ASSESSMENT & PLAN
+
+1. **Acute Decompensated Heart Failure, Cardiogenic Shock (likely viral myocarditis)**
+   - Presentation and course consistent with acute biventricular failure, presumed viral myocarditis (history of URI, elevated troponin, global hypokinesis)
+   - Required inotropes and temporary LV support (Impella CP)
+   - Now hemodynamically stable, off inotropes, EF improving
+   - Monitor for arrhythmia, continue aggressive diuresis, daily weights, strict I/Os
+   - Cardiology to follow; consider cardiac MRI as outpatient
+
+2. **Acute Kidney Injury, resolving**
+   - Likely multifactorial: hypoperfusion, high-dose diuretics, baseline prediabetes
+   - Creatinine improved from 2.1 to 1.0
+   - Monitor renal function, avoid nephrotoxins
+
+3. **Mild Transaminitis**
+   - Likely ischemic hepatitis from hypoperfusion, downtrending AST/ALT
+   - Monitor LFTs
+
+4. **Prediabetes**
+   - HbA1c 6.1%, stress hyperglycemia during admission
+   - Now off insulin drip, BG <140 on sliding scale
+   - Endocrine to follow as outpatient
+
+5. **Contraception Management**
+   - Continue current regimen, no contraindications at this time
+   - Counsel regarding future pregnancy risk and heart failure
+
+6. **Volume Overload**
+   - Recurrent pulmonary edema, now euvolemic on exam
+   - Continue furosemide, monitor electrolytes
+
+7. **Anemia of Critical Illness**
+   - Hgb nadir 12.8, no evidence of overt bleeding
+   - Monitor CBC
+
+8. **Risk for Vascular Complications (Impella site)**
+   - Daily vascular checks, continue DVT prophylaxis
+   - Doppler US of right femoral artery on 6/16/24: patent, no hematoma
+
+9. **Nutrition**
+   - On cardiac diet, PO intake improving
+
+10. **Discharge Planning**
+    - Anticipate transfer to telemetry, then home with close follow-up
+    - Physical therapy to evaluate for rehab needs
+    - Education on heart failure, signs/symptoms to monitor
+
+---------------------------------------------------------------
+ATTENDING ATTESTATION:  
+I have personally examined the patient, reviewed the data, and agree with the above assessment and plan.
+
+---------------------------------------------------------------
+Cosigned: R. Trewick, MD   Date/Time: 06/17/2024 13:42
+---------------------------------------------------------------
+```

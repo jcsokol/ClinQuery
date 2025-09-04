@@ -1,0 +1,192 @@
+**Inpatient Progress Note**  
+**Patient:** Gilberto Prosacco  
+**MRN:** 0082341  
+**DOB:** 10/08/1962  
+**Sex:** Male  
+**Attending:** Dr. L. Hargrove  
+**Date of Admission:** 2024-04-11  
+**Date of Note:** 2024-04-17  
+**Location:** MICU – Bed 14  
+
+---
+
+## CHIEF COMPLAINT
+Progressive dyspnea, orthopnea, and lower extremity edema.
+
+---
+
+## HISTORY OF PRESENT ILLNESS
+Gilberto Prosacco is a 61-year-old man with chronic systolic heart failure (EF 30-40% prior echo, baseline NT-proBNP ~700), obesity, hyperlipidemia, chronic sinusitis, osteoarthritis of the knees, and recent streptococcal pharyngitis (treated with penicillin) who presented to the ED with 4 days of progressively worsening shortness of breath, PND, and leg swelling. He reported a 5-kg weight gain over the past week, decreased urine output, and new confusion. On arrival, he was tachypneic, hypertensive, and hypoxic.  
+
+He was admitted for acute decompensated heart failure with volume overload and mild hypoxic respiratory failure. Diuresis was initiated with IV furosemide. Over the next 24 hours, he developed hypotension, rising creatinine, and worsening hypoxia requiring BiPAP. Cardiology was consulted and recommended right heart catheterization, which revealed elevated filling pressures and low cardiac output. Inotropes (dobutamine) were started, but hypotension persisted.  
+
+On hospital day 2, the patient became oliguric and encephalopathic with rising lactate. He was transferred to the ICU and a temporary percutaneous left ventricular assist device (Impella CP) was placed for cardiogenic shock. Over the following days, he showed gradual improvement in end-organ perfusion. The Impella was weaned off on day 5 post-placement.  
+
+His course was complicated by transient AKI, mild transaminitis, and delirium. He is now weaning off pressors and diuresis is ongoing.
+
+---
+
+## PAST MEDICAL HISTORY
+- Chronic systolic heart failure (EF 30-40%, ischemic)
+- Obesity (BMI 30+)
+- Hyperlipidemia
+- Chronic sinusitis, viral and bacterial
+- Osteoarthritis, bilateral knees
+- Streptococcal pharyngitis (recent)
+- Hypertension (not on home meds due to hypotension on admission)
+
+## PAST SURGICAL HISTORY
+- Right knee arthroscopy (2016)
+- Cholecystectomy (2011)
+
+## ALLERGIES
+- No known drug allergies
+
+## HOME MEDICATIONS
+- Metoprolol succinate 100 mg QD
+- Simvastatin 10 mg QHS
+- Furosemide 40 mg QAM
+- Naproxen 220 mg PRN for knee pain
+- Penicillin V potassium 500 mg (recently completed)
+- No ACEi/ARB due to prior hypotension
+
+---
+
+## SOCIAL HISTORY
+- Lives with wife, retired
+- Former smoker (quit 2010, 20 pack-years)
+- No alcohol, no drugs
+
+## FAMILY HISTORY
+- Father: MI age 62
+- Mother: T2DM, HTN
+
+---
+
+## REVIEW OF SYSTEMS
+- **General:** Fatigue, weight gain
+- **CV:** Orthopnea, PND, LE edema
+- **Resp:** Dyspnea, cough (no sputum)
+- **GI:** Decreased appetite, mild nausea
+- **GU:** Oliguria (improved)
+- **MSK:** Chronic knee pain
+
+---
+
+## PHYSICAL EXAM (ICU Day 6)
+- **Temp:** 37.2°C
+- **BP:** 109/64 mmHg (off pressors)
+- **HR:** 89 bpm, regular
+- **RR:** 18
+- **SpO2:** 96% on 2L NC
+- **Wt:** 88.9 kg (down from 94 kg on admit)
+- **Gen:** Alert, oriented x3, mildly fatigued
+- **Neck:** JVP ~11 cm
+- **Lungs:** Bibasilar rales
+- **CV:** S3, no murmur, Impella hum, trace peripheral pulses
+- **Abd:** Soft, NT, mild hepatomegaly
+- **Ext:** 2+ pitting edema to knees; no DVT
+- **Neuro:** No focal deficit, mild inattention (improving delirium)
+
+---
+
+## HOSPITAL COURSE SUMMARY
+- HD 1: Admitted for AHF, started IV Lasix, BiPAP for hypoxia
+- HD 2: Worsening shock, oliguric, transferred to ICU, Impella CP placed, started on dobutamine and norepinephrine
+- HD 3-5: Gradual improvement, weaning pressors, diuresis, Impella weaned off HD 5
+- HD 6: Continued diuresis, off pressors, improving mentation
+
+---
+
+## LABS
+
+| Date        | WBC      | Hgb    | Plt   | Na   | K    | Cl   | CO2   | BUN  | Cr   | Glu  | AST  | ALT  | Alk Phos | TBili | Alb   | NT-proBNP |
+|-------------|----------|--------|-------|------|------|------|-------|------|------|------|------|------|----------|-------|-------|-----------|
+| 4/11 (ED)   | 13.2     | 14.1   | 189   | 137  | 4.3  | 103  | 22    | 21   | 1.0  | 112  | 31   | 36   | 56       | 0.7   | 3.2   | 8,954     |
+| 4/12 (ICU)  | 15.6     | 12.9   | 177   | 135  | 4.7  | 106  | 18    | 28   | 1.7  | 98   | 54   | 61   | 69       | 1.1   | 2.9   | 11,200    |
+| 4/13        | 12.9     | 12.2   | 162   | 133  | 5.2  | 107  | 17    | 33   | 2.2  | 134  | 60   | 66   | 73       | 1.8   | 2.7   | 10,400    |
+| 4/14        | 10.1     | 11.8   | 158   | 137  | 4.1  | 105  | 22    | 29   | 1.8  | 107  | 38   | 49   | 68       | 1.0   | 3.3   | 7,300     |
+| 4/15        | 8.7      | 11.3   | 151   | 136  | 3.8  | 104  | 24    | 21   | 1.4  | 101  | 29   | 36   | 59       | 0.8   | 3.8   | 4,800     |
+| 4/16        | 7.9      | 11.1   | 149   | 137  | 3.9  | 105  | 25    | 17   | 1.2  | 92   | 27   | 34   | 57       | 0.7   | 4.1   | 2,100     |
+| 4/17        | 7.6      | 11.0   | 147   | 138  | 4.0  | 104  | 25    | 16   | 1.1  | 88   |      |      |          |       | 4.2   | 1,400     |
+
+*Some labs (e.g., cardiac enzymes, troponin, CK) negative throughout. Negative blood cultures. LFTs peaked on HD 3, now trending down.*
+
+---
+
+## IMAGING & STUDIES
+- **CXR:** Pulmonary congestion, small pleural effusions, improved on HD 5
+- **ECHO (HD 2):** LVEF 32%, moderate MR, RV mild dysfunction, LV dilated, IVC >2.1 cm, no thrombus
+- **RHC (HD 2):** RA 16, PA 48/26 (mean 33), PCWP 29, CI 1.7, SVR 2,100
+
+---
+
+## ASSESSMENT & PLAN
+
+1. **Cardiogenic Shock (Acute on chronic HFrEF, ischemic)**
+   - Admitted in decompensated HF, progressed to shock, required Impella CP for LV support
+   - Weaned off Impella, inotropes discontinued, now off pressors
+   - Continue aggressive diuresis, daily weights, strict I/Os
+   - Monitor for arrhythmia, end-organ injury
+   - Cardiology following, plan for GDMT optimization, possible ICD eval
+
+2. **Acute Kidney Injury (pre-renal, now improving)**
+   - Likely 2/2 low perfusion, diuretic therapy
+   - Renal function improving, Cr now 1.1 (was 2.2 HD 3)
+   - Monitor lytes, avoid nephrotoxins, adjust meds for renal dosing
+
+3. **Volume Overload**
+   - Ongoing diuresis, net negative ~5L since admission
+   - Monitor for hypovolemia, electrolyte derangements
+   - Salt/fluid restriction
+
+4. **Transaminitis (ischemic hepatitis)**
+   - LFTs peaked HD 3, now improving
+   - Supportive care, monitor trend
+
+5. **Delirium (ICU)**
+   - Likely multifactorial (shock, metabolic, sleep deprivation)
+   - Improving as off pressors, re-orient, minimize restraints, avoid benzos
+
+6. **Chronic Conditions**
+   - **Obesity:** Continue dietary consult, monitor glycemic status
+   - **Osteoarthritis:** Avoid NSAIDs, use acetaminophen PRN
+   - **Sinusitis:** No current infection, continue supportive care
+
+7. **Secondary Prevention**
+   - Statin resumed (simvastatin)
+   - DVT prophylaxis (SQ heparin)
+   - Cardiac rehab referral on discharge
+
+8. **Discharge Planning**
+   - Anticipate transfer to stepdown in 48-72h if stable
+   - Social work/PT/OT consult for post-ICU care
+
+---
+
+**Attending:** L. Hargrove, MD  
+**Resident:** J. McAllister, MD  
+**Cardiology:** Dr. S. Ferris
+
+---
+
+**Orders:**  
+- Continue telemetry
+- IV Lasix 40mg q8h, titrate to urine output
+- Daily labs: CBC, Chem7, LFTs
+- Strict I/O, daily weights
+- DVT prophylaxis
+- Cardiology to follow
+- Low salt, fluid restriction
+
+---
+
+**Sign-out/To Do:**  
+- Monitor for arrhythmias, recurrent shock
+- Review echo after diuresis
+- Reassess for up-titration of GDMT
+- Family meeting re: prognosis, goals of care
+
+---
+
+**END OF NOTE**

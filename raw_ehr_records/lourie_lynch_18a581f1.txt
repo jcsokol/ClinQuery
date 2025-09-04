@@ -1,0 +1,131 @@
+---
+**Patient Name:** Lourie Lynch  
+**MRN:** 0094321  
+**DOB:** 10/14/1952  
+**Sex:** Female  
+**Admit Date:** 3/12/2024  
+**Attending:** Dr. S. Bernard  
+**Admitting Dx:** Cardiogenic shock, NSTEMI  
+**ICU Location:** CVICU  
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+**Chief Complaint:**  
+Severe chest pain, SOB, orthopnea, and near-syncope at home.
+
+**HPI:**  
+69F with PMHx of obesity, remote ectopic and tubal pregnancies, prior lacerations, and recurrent pharyngitis, presented to ED with acute onset substernal chest pain radiating to jaw, associated with diaphoresis, vomiting, and severe shortness of breath. No prior history of CAD, but family history positive. On arrival, hypotensive (SBP < 85), tachycardic, hypoxic. Initial EKG: sinus tachycardia, nonspecific ST-T changes. Troponin markedly elevated. Echo: severe global hypokinesis, EF 20%. Developed acute pulmonary edema and worsening shock refractory to fluids and pressors. Emergent decision made for placement of a percutaneous LVAD (Impella CP) for hemodynamic support.  
+
+**Hospital Course:**  
+She was managed in the CVICU with temporary LVAD support, diuresis, inotropes, and broad spectrum antibiotics given concern for possible aspiration. Complicated by AKI, mild transaminitis, and delirium. Weaned off LVAD day 4, device removed day 5. Required slow diuresis for persistent volume overload. Gradual improvement in end-organ function and mentation.  
+
+---
+
+## VITALS - ICU ADMISSION
+
+| Date       | Temp (C) | HR | BP         | RR | SpO2 | Weight (kg) | Pain |
+|------------|----------|----|------------|----|------|-------------|------|
+| 3/12 23:10 | 37.3     | 112| 82/54 MAP 63| 28 | 93%  | 65.0        | 7    |
+| 3/13 06:20 | 37.1     | 108| 88/56 MAP 67| 24 | 96%  | 64.8        | 6    |
+| 3/14 04:50 | 37.0     | 94 | 98/62 MAP 74| 20 | 97%  | 63.7        | 3    |
+| 3/15 09:15 | 36.8     | 86 | 106/64 MAP 81| 18 | 98%  | 62.5        | 1    |
+| 3/16 11:30 | 36.9     | 78 | 112/70 MAP 84| 16 | 98%  | 61.9        | 0    |
+
+---
+
+## PERTINENT LABS
+
+### CBC & CHEMISTRIES
+
+| Date        | WBC   | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|-------------|-------|------|------|-------|------|------|------|------|------|------|------|
+| 3/12 23:00  | 11.2  | 13.7 | 41.2 | 178   | 129  | 5.1  | 97   | 20   | 32   | 1.9  | 142  |
+| 3/13 04:00  | 13.4  | 12.9 | 39.5 | 162   | 131  | 4.8  | 100  | 18   | 36   | 2.5  | 151  |
+| 3/13 15:30  | 12.6  | 12.6 | 37.0 | 158   | 134  | 4.5  | 102  | 21   | 34   | 2.1  | 135  |
+| 3/14 08:00  | 10.8  | 12.2 | 36.2 | 149   | 136  | 4.2  | 104  | 22   | 28   | 1.5  |      |
+| 3/15 07:00  | 9.6   | 12.5 | 37.1 | 143   | 137  | 4.0  | 106  | 24   | 25   | 1.3  | 112  |
+| 3/16 06:00  | 8.2   | 12.8 | 38.3 | 156   | 138  | 3.8  | 107  | 25   | 21   | 1.1  | 98   |
+
+### CARDIAC MARKERS / OTHER
+
+| Date       | Troponin T | BNP    | AST | ALT | T.Bili | INR  | PT   | Lactate |
+|------------|------------|--------|-----|-----|--------|------|------|---------|
+| 3/12 23:05 | 3.24       | 7700   | 88  | 65  | 1.8    | 1.3  | 15.8 | 4.4     |
+| 3/13 05:55 | 2.47       | 6800   | 76  | 54  | 1.5    | 1.2  | 15.0 | 2.1     |
+| 3/14 10:10 | 1.25       | 4125   | 52  | 28  | 1.1    | 1.1  | 13.4 | 1.2     |
+| 3/16 07:45 | 0.42       | 1800   | 28  | 18  | 0.8    | 1.1  | 12.8 | 0.9     |
+
+---
+
+## ASSESSMENT & PLAN
+
+### 1. Acute Decompensated Heart Failure/Cardiogenic Shock (s/p NSTEMI, temporary LVAD [Impella CP] day 1-5)
+- Presented in shock, required pressors and mechanical support.
+- Now weaned off LVAD, stable on minimal diuretics, off pressors.
+- EF improved to 29% on most recent TTE.
+- Continue daily weights, strict I/O, aggressive diuresis (furosemide IV), low salt diet.
+- Continue guideline-directed medical therapy (GDMT): carvedilol, low-dose ACEi, spironolactone as tolerated.
+- Monitor for arrhythmias, volume status, and hypotension.
+- Cardiac rehab consult, up-titrate meds as tolerated.
+
+### 2. Acute Kidney Injury (pre-renal, multifactorial: low perfusion, diuretics)
+- Peak Cr 2.5 → now 1.1.
+- Avoid nephrotoxins, adjust meds for GFR.
+- Monitor renal panel qAM.
+- Nephrology consulted; no need for dialysis.
+
+### 3. Obesity (BMI at baseline >30, now 28 after diuresis)
+- Nutrition consult, calorie restriction.
+- Monitor for sarcopenia during rehab.
+
+### 4. Transaminitis (likely ischemic hepatitis, resolving)
+- AST/ALT peaked on day 1, normalizing.
+- Monitor LFTs, no hepatotoxic meds.
+
+### 5. Delirium (ICU, multifactorial: shock, infection, sedatives)
+- Improving with re-orientation, minimal sedation.
+- PT/OT for early mobility.
+
+### 6. Recurrent Infections (history: otitis, pharyngitis)
+- No evidence of active infection now.  
+- Continue infection prevention (oral care, VAP bundle).
+
+### 7. Past OB/GYN history (remote miscarriage, tubal pregnancy)
+- No acute gynecologic issues.
+
+### 8. Other (remote facial/forearm lacerations)
+- No acute wounds or infections.  
+
+---
+
+## MEDICATIONS (Current)
+
+- Furosemide 40mg IV BID
+- Metoprolol succinate 25mg PO daily
+- Lisinopril 2.5mg PO daily
+- Spironolactone 25mg PO daily
+- Aspirin 81mg PO daily
+- Atorvastatin 40mg PO daily
+- Hydrocortisone topical (prn)
+- Acetaminophen 325mg PO prn
+- Chlorpheniramine prn
+- Amoxicillin (completed, not active)
+- Naproxen (hold, GI risk)
+
+---
+
+## DISPOSITION
+
+- Anticipate transfer to telemetry/stepdown in 24-48h if stable.
+- Outpatient HF follow-up, cardiac rehab, weight management.
+
+---
+
+## SIGNED  
+S. Bernard, MD  
+Cardiology/CVICU  
+3/16/2024
+
+---

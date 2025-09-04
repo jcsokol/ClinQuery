@@ -1,0 +1,242 @@
+**EHR: EPIC Chart Review**  
+**Patient:** Hildred Bergnaum  
+**MRN:** 003-18-1927  
+**DOB:** 08/11/1927 (Age: 96)  
+**Sex:** Female  
+**Admitting Service:** Cardiology/ICU  
+**Attending:** Dr. S. Hargrove  
+**Admit Date:** 03/08/2024  
+**Note Date:** 03/17/2024  
+**Type:** ICU Progress Note  
+
+---
+
+# HOSPITAL COURSE SUMMARY
+
+96-year-old female with past medical history significant for seizure disorder, epilepsy, chronic congestive heart failure (CHF), obesity, chronic pain, osteoarthritis of hip, recent forearm fracture, and polyp of colon, admitted from home after syncopal episode and progressive dyspnea. She developed acute decompensated heart failure and cardiogenic shock on hospital day 2, requiring transfer to the cardiac ICU and placement of a percutaneous left ventricular assist device (Impella CP) for temporary mechanical circulatory support. 
+
+She also has chronic pain (on multiple pain medications), obesity, and a history of falls. Hospital course complicated by acute kidney injury (AKI), mild transaminitis, and delirium.
+
+---
+
+# CHIEF COMPLAINT
+"Shortness of breath, swelling in legs, confusion" (per family, patient baseline mild dementia)
+
+---
+
+# HISTORY OF PRESENT ILLNESS
+
+Hildred Bergnaum is a 96-year-old woman with chronic systolic CHF (EF ~49%), seizure disorder (on carbamazepine), osteoarthritis, and obesity, who presented after a syncopal episode at home with several days of worsening dyspnea, orthopnea, and lower extremity edema. Family reports decreased oral intake and confusion. On arrival to ED, she was tachypneic, hypoxic (O2 sat 88% RA), hypertensive (BP 170/92), and had evidence of volume overload. Initial labs notable for elevated NT-proBNP, mild AKI, and elevated LFTs. 
+
+On hospital day 2, she developed hypotension (MAP ~58), worsening hypoxia, and altered mental status. Bedside echocardiogram revealed severely reduced LV function (EF now 22%), moderate MR, and RV dysfunction. She was transferred to the ICU, started on inotropes (dobutamine) and vasopressors. Due to persistent cardiogenic shock, Impella CP was placed via femoral access. Over ensuing days, diuresis achieved, inotropes weaned, and renal function improved. Device was explanted on day 6 after hemodynamic stabilization.
+
+---
+
+# MEDICATIONS ON ADMISSION
+
+- Carbamazepine (Tegretol) 200 mg BID
+- Naproxen sodium 220 mg TID PRN
+- Acetaminophen 325 mg / Hydrocodone 7.5 mg BID PRN
+- Oxycodone ER 15 mg BID
+- Metoprolol succinate 100 mg daily
+- Furosemide (Lasix) 40 mg IV BID
+- Simvastatin 20 mg QHS
+- ASA 81 mg daily
+- Senna 8.6 mg BID
+- Calcium/vitamin D
+
+---
+
+# ALLERGIES
+
+- NKDA
+
+---
+
+# PAST MEDICAL HISTORY
+
+- Chronic systolic heart failure (EF 48-22% during this admission)
+- Seizure disorder/epilepsy (single unprovoked seizure, now on carbamazepine)
+- Osteoarthritis (hip, knees)
+- Obesity (BMI ~28)
+- Chronic pain
+- History of falls, recent forearm fracture
+- Otitis media (remote)
+- Colon polyp (removed 2019)
+- Ankle sprain (remote)
+
+---
+
+# PAST SURGICAL HISTORY
+
+- Colonoscopy w/polypectomy (2019)
+- Left hip replacement (2015)
+- None other documented
+
+---
+
+# FAMILY HISTORY
+
+- Mother: CHF, stroke (deceased age 74)
+- Father: MI, diabetes
+
+---
+
+# SOCIAL HISTORY
+
+- Widowed, lives with daughter.  
+- Former smoker (quit 1972), no alcohol or illicit drug use.
+- Ambulates with walker, needs assistance with ADLs.
+
+---
+
+# REVIEW OF SYSTEMS
+
+Unable to obtain reliable ROS due to baseline cognitive impairment and acute delirium. Family denies fevers, cough, chest pain, but reports increasing SOB, lower extremity swelling, and confusion.
+
+---
+
+# PHYSICAL EXAM (ICU DAY 3, POST-IMPELLA)
+
+**General:** Elderly female, drowsy but arousable, appears volume overloaded  
+**Vitals:** T 36.5°C, HR 92, BP 106/68 (MAP 71), RR 20, SpO2 94% 2L NC  
+**HEENT:** No JVD, oropharynx clear  
+**Cardiac:** Irregularly irregular rhythm, S3 present, 2/6 holosystolic murmur at apex  
+**Lungs:** Bibasilar crackles, decreased breath sounds bases  
+**Abdomen:** Obese, soft, mild hepatomegaly, non-tender  
+**Extremities:** 2+ pitting edema to knees, ecchymosis right forearm (recent fracture), mild tenderness left hip  
+**Neuro:** Drowsy, follows simple commands, non-focal, no asterixis  
+**Skin:** Intact, mild sacral erythema
+
+---
+
+# ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock, Acute on Chronic Systolic Heart Failure (EF dropped to 22%)**  
+- Transient severe decompensation with hypotension, multi-organ hypoperfusion.  
+- Impella CP placed day 2, explanted day 6 after hemodynamic improvement.  
+- On guideline-directed medical therapy (metoprolol, furosemide, ACEi held due to AKI).  
+- Now off inotropes/pressors, stable on low-dose Lasix, euvolemic.  
+- Echo: EF improved to 38% post-Impella, moderate MR, mild RV dysfunction persists.  
+- Continue aggressive diuresis, up-titrate GDMT as tolerated, daily weights, strict I/Os.
+
+**2. Acute Kidney Injury (Stage 2, likely cardiorenal)**  
+- Baseline Cr 0.5, peaked at 1.4 on ICU day 3, now improved to 0.7.  
+- Monitored UOP, avoided nephrotoxins, adjusted diuretics accordingly.  
+- Renal function improved with volume management.
+
+**3. Acute Delirium**  
+- Likely multifactorial: CHF, hypoperfusion, ICU stay, infection ruled out.  
+- Monitored with CAM-ICU, reoriented, minimized sedation.  
+- Now improved, back at baseline per daughter.
+
+**4. Chronic Pain, Osteoarthritis, Recent Forearm Fracture**  
+- On opioids, acetaminophen, naproxen (held during AKI).  
+- Pain controlled, fracture splinted, ortho consulted (no acute intervention needed).  
+- Continue PT/OT, minimize opioids.
+
+**5. Seizure Disorder/Epilepsy**  
+- Remained on carbamazepine, levels monitored (see labs).  
+- No witnessed seizures this admission.
+
+**6. Obesity, Deconditioning**  
+- High risk for falls, pressure ulcers.  
+- PT/OT daily, pressure ulcer precautions.
+
+**7. Colon Polyp (remote), Otitis Media (remote), Ankle Sprain (remote)**  
+- No acute issues.
+
+**8. Polypharmacy**  
+- Medication reconciliation ongoing, minimize sedatives and nephrotoxins.
+
+---
+
+# LABS
+
+**CBC/Chemistry/Other Labs (selected values, ICU course):**
+
+| Date       | WBC  | Hgb   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | Alk Phos | NT-proBNP | Carbamazepine |
+|------------|------|-------|-------|------|------|------|------|------|------|------|------|------|----------|-----------|---------------|
+| 3/8/2024   | 4.2  | 15.1  | 248   | 143  | 4.4  | 103  | 29   | 17   | 0.51 | 72   | 7    | 49   | 126      | 1075      | 6.2           |
+| 3/9/2024   | 6.1  | 14.7  | 232   | 140  | 3.9  | 101  | 27   | 19   | 0.68 | 84   | 9    | 56   | 139      | 1450      | 6.8           |
+| 3/10/2024  | 9.8  | 13.5  | 208   | 138  | 3.6  | 100  | 26   | 25   | 1.24 | 110  | 24   | 65   | 160      | 2200      | 7.1           |
+| 3/11/2024  | 11.2 | 12.9  | 178   | 139  | 3.5  | 98   | 24   | 31   | 1.41 | 145  | 38   | 77   | 180      | 2450      | 7.0           |
+| 3/12/2024  | 9.0  | 13.2  | 190   | 141  | 3.9  | 100  | 25   | 28   | 1.12 | 132  | 27   | 63   | 155      | 1800      | 6.7           |
+| 3/13/2024  | 7.5  | 13.9  | 205   | 142  | 4.1  | 102  | 28   | 19   | 0.89 | 96   | 15   | 54   | 140      | 1280      | 6.3           |
+| 3/14/2024  | 5.8  | 14.2  | 221   | 143  | 4.2  | 104  | 29   | 15   | 0.73 | 81   | 10   | 50   | 128      | 1100      | 6.1           |
+| 3/15/2024  | 5.1  | 14.8  | 237   | 142  | 4.3  | 102  |      | 14   | 0.71 |      |      | 47   | 126      |           | 5.9           |
+| 3/16/2024  |      | 15.0  | 249   | 142  | 4.4  |      | 28   | 13   | 0.67 | 78   | 8    |      | 124      | 1050      |               |
+
+*Note: Some labs not drawn daily or resulted late. See full chart for details.*
+
+---
+
+# MICROBIOLOGY
+
+- Blood cultures x2: negative
+- Urine culture: negative
+- CXR: mild pulmonary edema, no infiltrate
+
+---
+
+# IMAGING
+
+- **Echocardiogram (3/9/2024):** EF 22%, severe global hypokinesis, moderate MR, mild RV dysfunction.
+- **Echocardiogram (3/13/2024):** EF 38%, mild MR, improved LV function.
+- **CXR:** Mild pulmonary edema, no pneumonia.
+- **Right forearm x-ray:** Healing distal radius fracture.
+
+---
+
+# PROCEDURES
+
+- **Impella CP Placement (3/9/2024):** Left femoral artery, no immediate complications.
+- **Impella CP Removal (3/15/2024):** Hemostasis achieved, no vascular complications.
+- **PICC line placement (3/10/2024).**
+
+---
+
+# DISPOSITION
+
+- Anticipate transfer to step-down unit in 1-2 days after further mobilization, continued diuresis, and physical therapy.
+- Goals of care discussed with family, DNR in place per patient wishes.
+
+---
+
+# SIGNED:
+Dr. S. Hargrove, MD (Cardiology/ICU)  
+03/17/2024, 10:22 AM
+
+---
+
+# ADDITIONAL CLINICAL NOTES
+
+- Daughter at bedside daily, involved in care discussions.
+- Physical therapy notes: slow progress, requires 2-person assist to stand.
+- Nutrition: On cardiac diet, supplements for low PO intake.
+- Social work: Coordinating SNF placement post-discharge.
+
+---
+
+# ORDERS
+
+- Lasix 40 mg IV q12h, hold for SBP <100
+- Metoprolol succinate 50 mg daily
+- Carbamazepine 200 mg BID, monitor levels
+- DVT prophylaxis: Enoxaparin 40 mg SQ daily
+- Strict I/O, daily weights
+- PT/OT evaluation
+- Frequent neuro checks
+- Cardiac monitoring
+- Labs: CBC, Chem7 daily until transfer
+
+---
+
+# COMMUNICATION
+
+- Family updated daily; advanced directives reviewed.
+- Cardiology, nephrology, and palliative care consulted during ICU stay.
+
+---
+
+**End of Chart**

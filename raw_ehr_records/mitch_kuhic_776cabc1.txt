@@ -1,0 +1,185 @@
+---
+**Patient:** Mitch Kuhic  
+**MRN:** 00321847  
+**DOB:** 09/25/1951 (Age: 72)  
+**Sex:** Male  
+**Date of Admission:** 2024-03-10  
+**Attending:** Dr. S. O’Connor  
+**Admitting Dx:** Cardiogenic Shock secondary to Acute Decompensated Heart Failure; Hx of CAD  
+**Service:** Cardiology ICU  
+**Allergies:** NKDA  
+**Code Status:** Full  
+**Height:** 172 cm  
+**Weight:** 83 kg  
+**BMI:** 27.9  
+
+---
+
+# HOSPITAL COURSE SUMMARY
+
+Mr. Kuhic is a 72-year-old male with a history of hypertension, CAD s/p PCI x2, chronic stable angina, and hyperlipidemia, who presented to the ED with worsening dyspnea, orthopnea, and chest discomfort. He was initially hypertensive and tachycardic, but hypotension quickly developed after arrival. Initial troponin was elevated, EKG showed diffuse ST depressions, and CXR showed pulmonary edema. He was admitted to the CICU for acute decompensated heart failure (ADHF) and developed cardiogenic shock requiring vasopressors and intra-aortic balloon pump (IABP) placement for hemodynamic support.
+
+---
+
+# ICU DAILY PROGRESS NOTE (DAY 5) — 2024-03-15
+
+**Subjective:**  
+Patient remains intubated and sedated, unable to provide history. Family at bedside, reports he had been “more short of breath for a week” prior to admission. No new complaints per nursing.  
+
+**Objective:**  
+**Gen:** Intubated, sedated, on IABP, appearing stable overnight.  
+**VS:** T 37.1°C, HR 86, BP 92/56 (MAP 67), RR 18 (vent), SpO2 97% (FiO2 40%), CVP 12.  
+**I/O (24h):** In: 2.5L, Out: 2.7L (UOP 2.2L, Chest tube 0.5L)  
+**Exam:**  
+- **HEENT:** PERRL, no scleral icterus, ETT in place  
+- **CV:** IABP in L femoral, S1S2, no murmur, cool extremities, pulses present  
+- **Resp:** Intubated, clear B/L, vent settings stable  
+- **Abd:** Soft, NT, NABS  
+- **Ext:** No edema, pulses 2+  
+- **Neuro:** Richmond Agitation-Sedation Scale (RASS) -4, nonfocal
+
+**Lines/Tubes:**  
+- R IJ TLC  
+- L radial A-line  
+- Foley catheter  
+- IABP (L femoral)  
+
+---
+
+## LABS
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | AST  | ALT  | Bili | INR  |
+|------------|------|------|------|------|------|------|------|------|------|------|------|----------|------|------|------|------|
+| 3/10/2024  | 12.1 | 13.2 | 39.8 | 197  | 137  | 4.6  | 102  | 22   | 36   | 2.1  | 144  | 2.08     | 65   | 51   | 1.5  | 1.3  |
+| 3/11/2024  | 11.8 | 12.9 | 38.7 | 158  | 136  | 4.7  | 101  | 24   | 41   | 2.4  | 132  | 1.76     | 82   | 64   | 2.2  | 1.6  |
+| 3/12/2024  | 9.7  | 11.6 | 34.8 | 114  | 135  | 4.2  | 103  | 21   | 48   | 2.9  | 118  | 0.92     | 57   | 43   | --   | 1.3  |
+| 3/13/2024  | 8.3  | 11.0 | 32.9 | 99   | 133  | 4.1  | 100  | 19   | 56   | 3.4  | 106  | 0.54     | 49   | 36   | 1.8  | 1.1  |
+| 3/14/2024  | 7.0  | 10.7 | 31.8 | 112  | 137  | 4.5  | 100  | 20   | 52   | 3.1  | 97   | --       | 29   | 24   | 1.2  | --   |
+| 3/15/2024  | 6.2  | 10.3 | 30.4 | 129  | 139  | 4.2  | 102  | 23   | 39   | 2.2  | 101  | 0.31     | 21   | 19   | --   | 1.0  |
+
+*Gaps represent uncollected or pending labs.*
+
+---
+
+## CARDIAC STUDIES
+
+- **EKG:** Low voltage QRS, ST depressions (3/10), later NSR with poor R wave progression  
+- **Echo (3/11):** LVEF 15%, severe diffuse hypokinesis, mild MR, RV mildly reduced  
+- **Swan-Ganz (3/12):** CI 1.7, wedge 28 mmHg, SVR 2100, MAP 63  
+- **CXR:** Bilateral interstitial edema, IABP in good position
+
+---
+
+## MEDICATION ADMINISTRATION RECORD (MAR) — HOSPITAL DAY 1-5
+
+- Fluticasone MDI: Held since intubation  
+- Albuterol MDI: PRN, not administered  
+- Atenolol/chlorthalidone: Held for hypotension  
+- Clopidogrel: Held on admission due to planned IABP  
+- Simvastatin: Continued  
+- Amlodipine: Held  
+- Nitroglycerin: IV gtt, titrated off by day 4  
+- Norepinephrine: ICU days 1–3, weaned  
+- Furosemide IV: Daily  
+- IV fluids: Maintenance, titrated  
+- Heparin gtt: For IABP  
+- Pantoprazole, DVT ppx, sedation/analgesia as per protocol  
+
+---
+
+# PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. **Cardiogenic Shock / ADHF (Primary)**
+- IABP placed for hemodynamic support; weaned off vasopressors by day 4.
+- Echo: LVEF 15%, global hypokinesis.
+- Careful volume management with IV furosemide; daily weights, strict I/O.
+- Plan: Titrate IABP support, continue inotropes PRN. Repeat echo planned. Evaluate candidacy for advanced therapies (LVAD, transplant) if no improvement.
+
+### 2. **Coronary Artery Disease / ACS**
+- Elevated troponin, EKG changes; likely demand ischemia vs. type 2 MI.
+- Antiplatelet therapy held due to IABP.
+- Plan: Resume clopidogrel once IABP removed and bleeding risk acceptable. Statin continued.
+
+### 3. **Acute Kidney Injury**
+- Baseline Cr 1.2; peaked at 3.4, now improving.
+- Likely multifactorial: hypoperfusion, diuretics, contrast.
+- Plan: Monitor renal function, adjust meds, avoid nephrotoxins, nephrology consult if worsening.
+
+### 4. **Respiratory Failure**
+- Intubated for hypoxic respiratory failure, likely multifactorial (pulmonary edema, volume overload).
+- Weaning O2, extubation planned when hemodynamics/mental status allow.
+
+### 5. **Hypertension**
+- Home meds (atenolol/chlorthalidone, amlodipine) held; currently normotensive/hypotensive.
+- Plan: Resume antihypertensives as tolerated after stabilization.
+
+### 6. **Infection Risk**
+- Leukocytosis on admit, trending down. No fever. CXR: No consolidation.
+- Plan: Monitor for VAP, CLABSI, UTI; empiric antibiotics not started.
+
+### 7. **Sedation / Delirium Prevention**
+- Light sedation (propofol, fentanyl), daily SAT/SBT.
+- Plan: Minimize sedation, daily awakening trial, re-orient as able.
+
+### 8. **Nutrition**
+- NPO, started on tube feeds day 2.
+- Plan: Titrate enteral feeds, monitor for aspiration.
+
+### 9. **DVT Prophylaxis**
+- Heparin gtt for IABP, SCDs in place.
+
+### 10. **Other Chronic Conditions**
+- Viral sinusitis, acute viral pharyngitis: No active issues.
+- Hyperlipidemia: Continue statin.
+
+---
+
+# DISPOSITION / GOALS OF CARE
+
+- Prognosis guarded, but some improvement seen.
+- Family meeting scheduled to discuss goals of care and long-term options.
+- Plan for gradual IABP wean, continued diuresis, and consideration for advanced heart failure therapies if no recovery.
+
+---
+
+# ADDITIONAL ORDERS / EVENTS
+
+- Daily CBC, Chem7, LFTs, troponin
+- Q1h VS, strict I/O
+- CXR daily
+- Foley, A-line, TLC, IABP care per protocol
+
+---
+
+# SIGNED  
+S. O’Connor, MD  
+Cardiology/Critical Care
+
+---
+
+**(Continued: See next page for flowsheet, medication summary, consults, and additional labs)**
+
+---
+
+## ICU Flowsheet (abbreviated)
+
+| Date       | MAP | HR  | SpO2 | Temp | UOP (mL) | IABP Ratio | Sedation Score |
+|------------|-----|-----|------|------|----------|------------|----------------|
+| 3/10/2024  | 61  | 112 | 93%  | 36.9 | 1800     | 1:1        | -4             |
+| 3/11/2024  | 65  | 100 | 95%  | 37.3 | 2100     | 1:2        | -4             |
+| 3/12/2024  | 67  | 92  | 97%  | 37.1 | 2200     | 1:2        | -4             |
+| 3/13/2024  | 63  | 88  | 97%  | 36.8 | 1700     | 1:3        | -4             |
+| 3/14/2024  | 70  | 85  | 98%  | 37.0 | 2000     | 1:3        | -3             |
+| 3/15/2024  | 67  | 86  | 97%  | 37.1 | 2200     | 1:3        | -4             |
+
+---
+
+**Consults:**  
+- Nephrology (AKI)  
+- Cardiac Surgery (IABP, LVAD candidacy)  
+- Nutrition  
+- PT/OT (pending extubation)
+
+---
+
+**End of Record**

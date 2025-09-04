@@ -1,0 +1,156 @@
+---
+
+**Patient Name:** Adolfo O'Keefe  
+**MRN:** 00394822  
+**DOB:** 02/03/2003 (21 yo)  
+**Sex:** Male  
+**Date of Admission:** 05/14/2024  
+**Attending:** Dr. T. Chang  
+**Admitting Dx:** Cardiogenic shock secondary to acute myocarditis  
+**Allergies:** NKDA  
+**Code Status:** Full Code  
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+Adolfo O'Keefe is a 21-year-old male with no significant prior cardiac history who presented to the ED with a 3-day history of fevers, sore throat, and progressive dyspnea. Initial evaluation revealed tachycardia, hypotension, and signs of poor perfusion. He was admitted to the ICU for management of presumed viral myocarditis with resultant cardiogenic shock. During the course of his hospitalization, he required placement of a temporary left ventricular assist device (Impella CP) for hemodynamic support. He also sustained a facial laceration following a syncopal event at home prior to arrival.
+
+---
+
+## ICU ASSESSMENT & PLAN (05/15/2024, Day 2 of Admission)
+
+### 1. **Cardiogenic Shock secondary to Acute Fulminant Myocarditis**
+- **Assessment:** Rapid-onset heart failure with hypotension (SBP 70s), tachycardia, elevated lactate (peak 5.1), and evidence of end-organ hypoperfusion. Echo on admission: LVEF 15%, global hypokinesis, no significant valvular abnormality. Troponin I peaked at 8.2 ng/mL.
+- **Course:** Initiated on norepinephrine, dobutamine. Due to refractory shock, Impella CP placed on Day 1 for LV unloading. 
+- **Plan:**  
+  - Continue mechanical circulatory support, daily Impella checks  
+  - Wean vasoactives as tolerated  
+  - Serial echocardiography  
+  - Monitor for device-related complications (hemolysis, limb ischemia)  
+  - Cardiology to follow  
+  - Goal-directed medical therapy for HF as tolerated  
+
+### 2. **Acute Viral Pharyngitis**
+- **Assessment:** Sore throat, positive rapid strep negative, viral PCR positive for Coxsackie B.  
+- **Plan:**  
+  - Supportive care (acetaminophen, ibuprofen PRN)  
+  - Monitor for airway compromise (none at present)  
+
+### 3. **Acute Bronchitis**
+- **Assessment:** Mild cough, scant sputum, afebrile. No CXR infiltrate.  
+- **Plan:**  
+  - Supportive, no antibiotics  
+  - Pulmonary toilet, incentive spirometry  
+
+### 4. **Facial Laceration**
+- **Assessment:** 2.5 cm linear laceration left cheek, sustained during syncopal fall. No signs of infection.  
+- **Plan:**  
+  - Sutures placed in ED, daily wound checks  
+  - Remove sutures Day 7  
+  - Topical bacitracin  
+
+### 5. **Volume Status / Renal Function**
+- **Assessment:** Oliguric on admission, improved with diuresis and support. Creatinine peaked at 1.7 (baseline 0.9), now trending down.  
+- **Plan:**  
+  - Strict I/Os  
+  - Daily BMP  
+  - Hold nephrotoxic agents  
+  - Monitor for ATN  
+
+### 6. **Pain Management**
+- **Assessment:** Minimal pain, VAS 1/10.  
+- **Plan:**  
+  - Acetaminophen 325 mg q6h PRN  
+  - Ibuprofen 100 mg q8h PRN, avoid if renal function worsens  
+
+### 7. **Nutrition**
+- **Assessment:** Mildly underweight (BMI 18.8), NPO first 24h, now advancing diet as tolerated.  
+- **Plan:**  
+  - High-calorie, high-protein diet  
+  - Daily weights  
+  - Consider nutrition consult if poor intake persists  
+
+### 8. **DVT Prophylaxis**
+- **Plan:**  
+  - SCDs in place  
+  - Enoxaparin 40 mg SQ daily (hold if platelets < 70k or bleeding risk increases)  
+
+### 9. **Other**  
+- **Vaccinations up to date**  
+- **No psychiatric or social concerns identified at this time**  
+
+---
+
+## ICU VITALS & MONITORING (selected)
+
+| Date        | HR  | BP         | RR | Temp (°C) | SpO2 | O2 Device     |
+|-------------|-----|------------|----|-----------|------|--------------|
+| 5/14/24 18:00 | 128 | 78/52      | 26 | 37.9      | 94%  | 2L NC        |
+| 5/15/24 04:00 | 110 | 94/60      | 20 | 37.5      | 96%  | RA           |
+| 5/15/24 16:00 | 98  | 112/68     | 18 | 37.2      | 98%  | RA           |
+| 5/16/24 08:00 | 92  | 118/70     | 16 | 36.9      | 98%  | RA           |
+
+---
+
+## LABS (CBC, CHEM7, Cardiac/Other)
+
+| Date/Time     | WBC   | Hgb   | Plt   | Na | K   | Cl  | CO2 | BUN | Cr  | Troponin I | BNP   | AST  | ALT  | Lactate |
+|---------------|-------|-------|-------|----|-----|-----|-----|-----|-----|------------|-------|------|------|---------|
+| 5/14/24 18:00 | 6.3   | 15.1  | 348   | 135| 4.2 | 101 | 20  | 17  | 1.6 | 8.2        | 2450  | 70   | 65   | 5.1     |
+| 5/15/24 04:00 | 7.1   | 14.7  | 320   | 137| 4.0 | 102 | 22  | 19  | 1.7 | 7.1        | 2200  | 52   | 56   | 2.6     |
+| 5/15/24 16:00 | 7.0   | 14.8  | 310   | 138| 3.9 | 103 | 23  | 14  | 1.4 | 4.0        | 1500  | 38   | 44   | 1.8     |
+| 5/16/24 08:00 | 6.4   | 14.6  | 299   | 139| 4.1 | 104 | 24  | 12  | 1.1 | 1.2        | 830   | 34   | 29   | 1.2     |
+| 5/17/24 08:00 | 6.1   | 14.2  | 285   |    | 4.3 |     | 24  | 11  | 0.9 | <0.02      | 420   |      |      |         |
+
+*Some labs (Na, Cl, AST/ALT, lactate) not drawn on all days.*
+
+---
+
+## MICROBIOLOGY
+
+- **Blood Cultures**: No growth x2  
+- **Respiratory viral PCR**: Coxsackie B positive  
+- **Throat Culture**: Negative for group A strep  
+
+---
+
+## PROCEDURES
+
+- **Impella CP Placement (5/14/24 19:10, Dr. O. Telford)**  
+  - Left femoral arterial access, no complications.  
+- **Facial laceration repair (ED, 5/14/24 17:45)**
+
+---
+
+## MEDICATION ADMINISTRATION RECORD (MAR) - select
+
+- **Ibuprofen 100 mg PO q8h PRN** (last given 5/15/24 12:00)
+- **Acetaminophen 325 mg PO q6h PRN** (last given 5/16/24 07:00)
+- **Norepinephrine IV** (5/14–5/15, weaned off)
+- **Dobutamine IV** (5/14–5/15, weaned off)
+- **Enoxaparin 40 mg SQ q24h** (started 5/15)
+- **Furosemide 20 mg IV q12h PRN** (for volume overload, 2 doses given)
+
+---
+
+## CONSULTATIONS
+
+- **Cardiology**
+- **Cardiothoracic Surgery** (Impella placement)
+- **Nutrition** (pending)
+- **Wound Care** (for facial laceration)
+
+---
+
+## DISPOSITION
+
+Patient remains in the ICU on Impella support, hemodynamics improving, weaning off vasoactives. Anticipate possible Impella wean and explant within the next 48–72 hours pending further cardiac recovery.
+
+---
+
+**Physician:**  
+T. Chang, MD  
+05/16/2024 09:14
+
+---

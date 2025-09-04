@@ -1,0 +1,154 @@
+**[EPIC - Patient Summary]**
+
+---
+
+**Patient Name:** Ricky Zieme  
+**MRN:** 00398457  
+**DOB:** 07/14/1964 (59 years)  
+**Sex:** Male  
+**Admitting Physician:** Dr. R. Sandhu  
+**Admit Date:** 05/21/2024  
+**Service:** Cardiology ICU  
+**Attending:** Dr. P. Naylor
+
+---
+
+### **Hospital Course (ICU Admission)**
+
+Mr. Ricky Zieme is a 59-year-old male, with a history of chronic sinusitis, prediabetes, anemia, and recent diagnosis of a colonic polyp, who presented to the ED with progressive exertional dyspnea, orthopnea, and chest discomfort over 3 days. In the ED, he was tachycardic, hypotensive, and hypoxic. Initial troponin was elevated. ECG showed new LBBB. Echo revealed severe global LV hypokinesis with EF ~20%. He rapidly developed cardiogenic shock (SCAI C), requiring transfer to the CICU, initiation of vasopressors, and urgent placement of a left-sided temporary ventricular assist device (Impella CP) for hemodynamic support.
+
+His course was complicated by acute kidney injury, anemia, and transient liver enzyme elevation. He was weaned off the Impella on hospital day 5 after myocardial recovery was demonstrated. He required diuresis, aggressive medical management for heart failure, and close monitoring of labs.
+
+---
+
+### **Active Problems (A/P)**
+
+#### 1. **Acute Decompensated Heart Failure / Cardiogenic Shock**
+- **Assessment:** Severe new-onset systolic dysfunction (EF 20%). Cardiogenic shock requiring temporary LVAD (Impella CP). Etiology likely ischemic—awaiting formal cath.
+- **Plan:**
+  - Continue GDMT for HF (metoprolol, low-dose ACEi as tolerated, spironolactone).
+  - Wean off IV inotropes/pressors as tolerated.
+  - Monitor volume status and daily weights.
+  - Repeat TTE after Impella explant.
+  - Schedule cardiac catheterization.
+
+#### 2. **Temporary LVAD (Impella) Placement, Day 0-5**
+- **Assessment:** Required for shock, now explanted.
+- **Plan:**
+  - Monitor for vascular complications, hemolysis.
+  - Serial LDH, haptoglobin, and free Hgb.
+  - Neurovascular checks q4h for 48h post-explant.
+  - Anticoagulation held 24h post-explant.
+
+#### 3. **Acute Kidney Injury (KDIGO Stage 1)**
+- **Assessment:** Likely multifactorial (hypoperfusion, nephrotoxic meds).
+- **Plan:**
+  - Monitor renal function (BUN, Cr q12h).
+  - Avoid nephrotoxins.
+  - Strict I/O, target net negative fluid balance.
+
+#### 4. **Anemia (Chronic, worsened acutely)**
+- **Assessment:** Baseline mild anemia, acute drop to Hgb nadir 8.7 g/dL on HD2. No overt bleeding.
+- **Plan:**
+  - Daily CBC.
+  - Iron studies, retic count, haptoglobin, LDH.
+  - Transfuse PRBCs if Hgb <7.5 or symptomatic.
+
+#### 5. **Prediabetes**
+- **Assessment:** HbA1c 6.4%. No evidence DKA/HHS.
+- **Plan:**
+  - FS glucose q6h while inpatient.
+  - Low-carb diet.
+  - Outpatient DM education.
+
+#### 6. **Chronic Sinusitis, Recent Viral URI**
+- **Assessment:** Mild symptoms on admission, no current fevers.
+- **Plan:**
+  - Continue fluticasone as outpatient.
+  - Supportive care only.
+
+#### 7. **Colon Polyp (10mm, recently resected)**
+- **Assessment:** Path pending, no evidence of GI bleeding.
+- **Plan:**
+  - Monitor Hgb.
+  - GI follow-up after discharge.
+
+#### 8. **Other (Remote rotator cuff injury, laceration, first-degree burn)**
+- **Assessment:** No acute issues.
+- **Plan:**  
+  - None required.
+
+---
+
+### **Medications (Hospital Day 6)**
+
+- Metoprolol succinate 12.5 mg PO daily
+- Lisinopril 2.5 mg PO daily
+- Spironolactone 12.5 mg PO daily
+- Furosemide 40 mg IV q12h
+- Heparin 5000U SQ q8h (DVT ppx)
+- Fluticasone MDI 1 puff BID
+- Albuterol MDI PRN
+- Ibuprofen and naproxen held due to AKI
+- Sliding scale insulin PRN
+
+---
+
+### **Vital Signs (ICU Course)**
+
+| Date        | Temp (C) | HR  | BP        | RR | O2 Sat | Weight (kg) | Pain |
+|-------------|----------|-----|-----------|----|--------|-------------|------|
+| 5/21/24     | 37.2     | 118 | 84/52     | 23 | 92% RA | 96.1        | 3    |
+| 5/22/24     | 37.0     | 106 | 92/61     | 20 | 95% NC | 95.6        | 2    |
+| 5/23/24     | 36.8     | 98  | 104/68    | 18 | 97% NC | 94.9        | 1    |
+| 5/24/24     | 37.4     | 88  | 112/74    | 16 | 98% RA | 94.1        | 1    |
+| 5/25/24     | 37.1     | 84  | 118/78    | 16 | 98% RA | 93.7        | 0    |
+
+---
+
+### **Labs (ICU Days 1–6)**
+
+**CBC, Chem7, Cardiac, and Select Labs**
+
+| Date     | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin I | BNP   | AST  | ALT  | LDH  |
+|----------|------|------|------|------|------|------|------|------|------|------|------|------------|-------|------|------|------|
+| 5/21/24  | 8.2  | 12.9 | 39   | 215  | 142  | 4.2  | 109  | 26   | 23   | 1.4  | 197  | 0.94       | 2690  | 68   | 54   | 410  |
+| 5/22/24  | 7.5  | 10.1 | 31   | 203  | 144  | 4.1  | 111  | 25   | 29   | 1.6  | 163  | 0.71       | 3320  | 74   | 67   | 496  |
+| 5/23/24  | 6.8  | 8.7  | 27   | 197  | 143  | 4.0  | 110  | 25   | 34   | 1.8  | 142  | 0.43       | 2840  | 69   | 56   | 445  |
+| 5/24/24  | 7.2  | 9.8  | 30   | 202  | 141  | 4.3  | 112  | 26   | 24   | 1.4  | 134  | 0.19       |       | 55   | 39   |      |
+| 5/25/24  | 7.9  | 10.7 | 32   | 210  | 142  | 4.4  | 110  | 27   | 18   | 1.1  | 127  | <0.01      | 1870  | 44   | 28   | 298  |
+| 5/26/24  |      | 11.3 |      | 217  | 143  | 4.2  |      | 27   | 15   | 1.0  | 110  |            |       | 37   |      |      |
+
+---
+
+### **Imaging**
+
+- **Echocardiogram (5/21/24):** Severe global LV hypokinesis, EF 20%, mild RV dysfunction, moderate MR.
+- **Chest X-ray (5/21/24):** Mild pulmonary edema, Impella in place.
+- **Abdominal CT (5/15/24):** 10mm colonic polyp, no acute findings.
+
+---
+
+### **Procedures**
+
+- **5/21/24:** Impella CP LVAD insertion via right femoral artery (fluoroscopic guidance).  
+- **5/25/24:** Impella explant, manual compression, no acute complications.
+
+---
+
+### **Discharge Planning**
+
+- Target discharge: HD 7–8 if stable.
+- Cardiac rehab referral.
+- Home weight scale, daily weights.
+- Close outpatient cardiology and GI follow-up.
+
+---
+
+### **Summary**
+
+Ricky Zieme required ICU admission for acute decompensated heart failure and cardiogenic shock, necessitating temporary mechanical circulatory support. He has improved clinically, with stabilization of renal function, resolution of shock, and transition to oral heart failure therapy. Multidisciplinary follow-up is arranged. 
+
+---
+
+**[End of Note]**

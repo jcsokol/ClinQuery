@@ -1,0 +1,173 @@
+---
+**Patient Name:** Lora Leannon  
+**MRN:** 00394832  
+**DOB:** 1998-07-05 (25 years)  
+**Sex:** Female  
+**Date of Admission:** 2024-05-20  
+**Date of Note:** 2024-05-29  
+**Attending:** Dr. Parker, Cardiology  
+**Consults:** Cardiology, Neurology, Infectious Disease, OB/GYN  
+**Location:** MICU, Room 7B  
+
+---
+
+## Admission HPI
+
+25-year-old female with PMHx of chronic anemia, intractable migraine, and recent viral pharyngitis, presenting via ED with acute-onset chest pain, progressive dyspnea, and orthopnea for 24 hours. Notable for a syncopal episode at home. Initial workup in ED revealed hypotension, tachycardia, elevated troponin, and evidence of pulmonary edema on CXR. Patient rapidly decompensated with cardiogenic shock requiring intubation and vasopressors. Emergent bedside echo demonstrated severely reduced LVEF (15%), global hypokinesis, and moderate MR. Cardiology recommended placement of a temporary left ventricular assist device (Impella CP) for refractory shock.  
+
+---
+
+## Hospital Course (Summary)
+
+- **Day 1:** Presented in cardiogenic shock, intubated, started on norepinephrine and dobutamine. Labs significant for anemia (Hgb 8.9), leukocytosis, elevated BNP, troponin I 2.3 ng/mL. Emergent Impella placed via right femoral artery.  
+- **Day 2:** Remained intubated. Improved hemodynamics. Weaned off norepinephrine, continued on dobutamine. Started on IV lasix for volume overload.  
+- **Day 3:** Extubated. Developed fever (38.5°C), started empiric vancomycin/cefepime. Blood cultures pending.  
+- **Day 4:** Impella weaned, then removed. LVEF improved to 35% on repeat TTE.  
+- **Day 5:** Stable off pressors, transitioned to oral heart failure regimen (metoprolol, lisinopril).  
+- **Day 6-9:** Ongoing evaluation for secondary causes of cardiomyopathy (viral, postpartum, drug-induced). Headaches managed with IV acetaminophen.  
+- **Day 10:** Preparing for transfer to telemetry.  
+
+---
+
+## Problem List / Assessment & Plan
+
+### 1. **Acute Decompensated Heart Failure with Cardiogenic Shock (NEW)**
+- **Assessment:** Severe LV dysfunction, likely acute viral myocarditis vs. peripartum cardiomyopathy (unclear recent pregnancy status, OB involved), required temporary mechanical circulatory support (Impella) for 72h.
+- **Plan:**
+  - Continue guideline-directed medical therapy (GDMT) for HF: Metoprolol, lisinopril, furosemide PRN
+  - Monitor for arrhythmia, daily TTE to trend EF
+  - Cardiac MRI scheduled for further evaluation
+  - Serial troponins/BNP
+  - Monitor volume status, strict I/Os
+
+### 2. **Anemia (Chronic, Exacerbated in ICU)**
+- **Assessment:** Hgb nadir 8.1, likely multifactorial (chronic, dilutional, possible blood loss from Impella site)
+- **Plan:** 
+  - Monitor CBC q24h
+  - Iron studies, retic count pending
+  - Transfuse PRN if Hgb <7 or symptomatic
+  - GI prophylaxis with pantoprazole
+
+### 3. **Fever/Sepsis Rule-Out (Day 3)**
+- **Assessment:** Fever, leukocytosis. Concern for line-related, device-related, or other nosocomial infection.
+- **Plan:** 
+  - Continue broad-spectrum ABX (vanc/cefepime), de-escalate per cultures
+  - Daily blood cultures x2
+  - Remove unnecessary lines
+  - Infectious disease consult
+
+### 4. **Chronic Migraine/Chronic Pain**
+- **Assessment:** History of refractory migraine, on chronic opioid therapy, at risk for withdrawal. Headaches during ICU stay, no acute neurologic findings.
+- **Plan:**
+  - Continue home pain regimen (acetaminophen/oxycodone as needed, avoid NSAIDs)
+  - Neurology consult
+  - Monitor for opioid withdrawal
+  - Non-pharm: low lights, minimize stimulation
+
+### 5. **Recent Streptococcal and Viral Pharyngitis, Sinusitis**
+- **Assessment:** Recent antibiotics for sore throat, now resolved. No ongoing symptoms.
+- **Plan:** 
+  - No further antibiotics unless new infection develops
+  - Monitor for recurrence
+
+### 6. **Impacted Molars**
+- **Assessment:** Chronic issue, not contributing to current presentation.
+- **Plan:** Outpatient dental referral after discharge.
+
+### 7. **Normal Pregnancy (Remote?)**
+- **Assessment:** Home meds include OCP/injectable contraception. No current pregnancy, last menses 1 month ago per chart.
+- **Plan:** OB/GYN to follow for contraception management.
+
+---
+
+## Medications (Hospital Day 10)
+
+| Medication                                      | Dose/Route             | Schedule         | Indication             |
+|-------------------------------------------------|------------------------|------------------|------------------------|
+| Metoprolol succinate                            | 25 mg PO daily         | Daily            | Heart failure          |
+| Lisinopril                                      | 5 mg PO daily          | Daily            | Heart failure          |
+| Furosemide                                      | 20 mg IV/PO daily      | Daily PRN        | Volume overload        |
+| Acetaminophen/oxycodone                         | 325/5 mg PO q6h PRN    | PRN              | Pain                   |
+| Acetaminophen/hydrocodone (Vicodin)             | 300/5 mg PO q6h PRN    | PRN              | Pain                   |
+| Yaz 28 Day Pack                                 | PO                     | Daily            | Contraception          |
+| Vancomycin                                      | 1 g IV q12h            | Temporary        | Fever/sepsis           |
+| Cefepime                                        | 2 g IV q8h             | Temporary        | Fever/sepsis           |
+| Pantoprazole                                    | 40 mg IV daily         | Daily            | GI prophylaxis         |
+
+---
+
+## ICU Vitals (Selected, Last 5 Days)
+
+| Date       | Temp (°C) | HR   | BP            | RR   | SpO2 | Pain |
+|------------|-----------|------|---------------|------|------|------|
+| 5/25/2024  | 37.2      | 98   | 108/65        | 18   | 98%  | 2    |
+| 5/26/2024  | 38.5      | 112  | 102/58        | 20   | 97%  | 3    |
+| 5/27/2024  | 36.9      | 88   | 115/72        | 16   | 99%  | 1    |
+| 5/28/2024  | 37.0      | 91   | 118/75        | 16   | 98%  | 1    |
+| 5/29/2024  | 36.8      | 84   | 120/78        | 16   | 99%  | 1    |
+
+---
+
+## Laboratory Data
+
+**CBC/Basic Metabolic Panel (select days, missing values indicated)**
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|------------|------------|------------|---------|------------|-------------|------------|-------------|------------|-------------|
+| 5/20/2024  | 12.4       | 8.9        | 27.1    | 232        | 135         | 4.8        | 32          | 1.1        | 126         |
+| 5/21/2024  | 10.7       | 8.1        | 25.8    | 219        | 137         | 5.1        | 30          | 1.2        | 109         |
+| 5/22/2024  | 9.8        | 9.4        | 29.0    | 211        | 139         | 4.2        | 28          | 1.0        | 101         |
+| 5/23/2024  | 8.7        | 10.1       | 31.0    | 194        | 140         | 4.0        | 25          | 0.9        | 95          |
+| 5/24/2024  | --         | 10.7       | --      | 188        | 141         | 3.8        | 23          | 0.8        | 89          |
+| 5/25/2024  | 7.5        | --         | 32.3    | 184        | 141         | 4.0        | --          | 0.8        | 86          |
+| 5/26/2024  | 8.3        | 11.0       | 33.9    | 179        | --          | --         | 20          | 0.7        | --          |
+| 5/27/2024  | 6.9        | 11.2       | 34.5    | 177        | 142         | 4.1        | 19          | 0.7        | 90          |
+| 5/28/2024  | 6.7        | 11.1       | 34.1    | 175        | 143         | 4.3        | 18          | 0.7        | 92          |
+| 5/29/2024  | 6.4        | 11.3       | 34.7    | 173        | 143         | 4.2        | 18          | 0.7        | 93          |
+
+**Additional Labs**
+
+| Date       | Troponin I (ng/mL) | BNP (pg/mL) | ALT (U/L) | AST (U/L) | Alk Phos (U/L) | Total Bili (mg/dL) | INR  |
+|------------|--------------------|-------------|-----------|-----------|----------------|--------------------|-------|
+| 5/20/2024  | 2.3                | 3200        | 56        | 72        | 98             | 1.1                | 1.2   |
+| 5/21/2024  | 1.8                | 2900        | 49        | 61        | 90             | 1.0                | 1.1   |
+| 5/22/2024  | 0.7                | 2100        | 37        | 44        | --             | 0.9                | 1.0   |
+| 5/23/2024  | 0.3                | 1800        | 29        | 31        | 85             | 0.7                | 1.0   |
+| 5/24/2024  | <0.01              | 1200        | --        | 27        | 81             | 0.7                | 1.0   |
+| 5/25/2024  | <0.01              | 900         | 24        | 25        | 79             | 0.7                | 1.0   |
+
+---
+
+## Imaging
+
+**CXR (5/20/2024):** Bilateral pulmonary edema, cardiomegaly  
+**TTE (5/20/2024):** LVEF 15%, global hypokinesis, mod MR  
+**TTE (5/24/2024):** LVEF improved to 35%, mild MR  
+**Cardiac MRI:** Scheduled
+
+---
+
+## Procedures
+
+- **5/20/2024:** Emergent Impella CP placement (RFA)
+- **5/24/2024:** Impella explant at bedside
+- **5/21/2024:** Right IJ triple lumen CVC placed
+- **5/21/2024:** Left radial arterial line placed
+
+---
+
+## Discharge Planning
+
+- Anticipate transfer to telemetry in 24h
+- Cardiac rehab referral
+- Outpatient cardiology f/u 1 week post-discharge
+- Dental and GI follow-up as outpatient
+- Ongoing contraception management
+
+---
+
+**Signed:**  
+Dr. Parker, Attending, Cardiology  
+05/29/2024 14:17
+
+---

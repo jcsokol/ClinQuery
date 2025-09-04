@@ -1,0 +1,228 @@
+---
+**Patient:** Vanessa Reinger  
+**MRN:** 00823948  
+**DOB:** 1972-05-16 (Age: 51)  
+**Sex:** Female  
+**Admit Date:** 2024-05-22  
+**Attending:** Dr. Lisa Wernick, Cardiology  
+**Unit:** Medical/Cardiac ICU  
+**Consults:** Endocrinology, Cardiac Surgery, Infectious Disease, PT/OT
+
+---
+
+### CHIEF COMPLAINT
+Progressive shortness of breath, orthopnea, fatigue, chest pressure, and LE edema x 2 weeks. Brought in via EMS after acute decompensation at home.
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+
+Ms. Vanessa Reinger is a 51-year-old female with a history of T2DM, chronic hypertension, metabolic syndrome, hypertriglyceridemia, prediabetes, and diabetic neuropathy, who presented with acute on chronic heart failure exacerbation. She had a recent viral URI one week prior, followed by increasing dyspnea, PND, and pedal edema. EMS found her hypoxic and tachycardic at home; she was admitted to the ICU for further management. Within 24 hours, she developed cardiogenic shock refractory to medical therapy, requiring urgent placement of a percutaneous left ventricular assist device (Impella CP) for hemodynamic support.
+
+---
+
+### PAST MEDICAL HISTORY
+
+- **Diabetes Mellitus, Type 2** (on Metformin XR)
+- **Hypertension** (on multiple antihypertensives)
+- **Hypertriglyceridemia**
+- **Metabolic syndrome**
+- **Anemia** (chronic, mild)
+- **Diabetic neuropathy**
+- **Fracture/subluxation, wrist** (remote)
+- **Recent acute viral bronchitis & pharyngitis**
+- **Prediabetes**
+
+---
+
+### PAST SURGICAL HISTORY
+
+- None reported
+
+---
+
+### SOCIAL HISTORY
+
+- Tobacco: Denies
+- Alcohol: Rare, social
+- Drugs: Denies
+- Lives alone, independent ADLs
+- No recent travel
+
+---
+
+### FAMILY HISTORY
+
+- Mother: CAD, DM2
+- Father: Stroke, HTN
+
+---
+
+### ALLERGIES
+
+- NKDA
+
+---
+
+### HOME MEDICATIONS
+
+- Errin 28 Day Pack
+- Metformin XR 500mg PO QHS
+- Atenolol/Chlorthalidone 50/25mg PO daily
+- Amlodipine/HCTZ/Olmesartan 5/12.5/20mg PO daily
+- Jolivette 28 Day Pack
+- Acetaminophen/Dextromethorphan/Doxylamine PRN
+- Meperidine 50mg PO PRN pain
+- Acetaminophen 325mg PRN
+- Mirena IUD, Liletta IUD, Etonogestrel implant, Medroxyprogesterone inj (contraceptive hx, not all current)
+
+---
+
+### ICU ADMISSION PHYSICAL EXAM (Day 1)
+
+- **Gen:** Obese, moderate distress, using accessory muscles
+- **VS:** T 37.7°C, HR 122, BP 88/54 (MAP 65 on norepinephrine), RR 28, SpO2 92% on 4L NC
+- **HEENT:** Oropharynx erythematous, no exudate
+- **CV:** S3, JVP 12cm, cool extremities, pitting edema to knees
+- **Resp:** Crackles BL bases, mild wheeze
+- **Abd:** Soft, mild RUQ tenderness, no rebound/guarding
+- **Neuro:** Alert, oriented x3, distal sensory loss feet
+- **Skin:** No rashes, mild ecchymosis at IV sites
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+- **Day 1:** Admitted with acute decompensated heart failure; started on IV furosemide, BiPAP, dobutamine, and norepinephrine.
+- **Day 2:** Cardiogenic shock worsened; echo: LVEF ~15%, global hypokinesis, no tamponade. Right heart cath: CI 1.7, PCWP 23, SVR 1800. Impella CP placed via femoral approach. Started on broad-spectrum abx for possible pneumonia.
+- **Day 3-5:** Gradual improvement in end-organ perfusion, weaned off norepinephrine. Renal function transiently worsened, improved with diuresis. Diabetic control challenging, sliding scale insulin started. Developed mild transaminitis, likely ischemic hepatitis.
+- **Day 6:** Impella weaned, removed after successful 24hr off support. Transferred to step-down unit. Mobilization started with PT/OT.
+- **Day 7-9:** Continued diuresis, improved respiratory status. Blood glucose stabilized. Remained mildly anemic. Discharge planning initiated.
+
+---
+
+### VITALS TREND (Selected)
+
+| Date       | Temp (°C) | HR  | BP      | RR | SpO2 | Pain |
+|------------|-----------|-----|---------|----|------|------|
+| 5/22/24    | 37.7      | 122 | 88/54   | 28 | 92%  | 3    |
+| 5/23/24    | 37.3      | 110 | 94/62   | 22 | 96%  | 2    |
+| 5/25/24    | 37.1      | 98  | 108/70  | 18 | 98%  | 2    |
+| 5/27/24    | 36.9      | 88  | 116/74  | 16 | 98%  | 1    |
+
+---
+
+### LABS
+
+#### CBC & CHEMISTRY
+
+| Date       | WBC (K) | Hgb (g/dL) | Hct (%) | Plts (K) | Na | K  | Cl | CO2 | BUN | Cr  | Glu | Ca  |
+|------------|---------|------------|---------|----------|----|----|----|-----|-----|-----|-----|-----|
+| 5/22/24 AM | 8.3     | 16.1       | 48.7    | 319      |139 |4.4 |102 |24.7 | 11  |1.13 |  98 |9.7  |
+| 5/23/24 AM | 10.7    | 14.8       | 44.5    | 285      |137 |4.0 |104 |20.1 | 19  |1.67 |  154|9.1  |
+| 5/24/24 AM | 9.9     | 13.7       | 40.9    | 272      |136 |3.8 |100 |21.3 | 16  |1.48 |  132|8.8  |
+| 5/25/24 AM | 8.8     | 12.9       | 39.0    | 256      |137 |4.1 |101 |23.2 | 14  |1.28 |  124|9.2  |
+| 5/26/24 AM | 7.2     | 12.7       | 38.5    | 241      |138 |4.2 |103 |23.8 | 12  |1.11 |  116|9.4  |
+| 5/27/24 AM | 7.9     | 12.5       | 37.9    | 233      |--- |--- |--- |---  | 11  |1.02 |  110|---  |
+| 5/28/24 AM | 8.2     | 12.8       | 38.2    | 240      |139 |4.4 |102 |24.1 | 10  |0.98 |  105|9.6  |
+
+#### OTHER LABS
+
+- **Troponin I:** 0.09 → 0.13 → 0.07 ng/mL (mildly elevated, no rise/fall)
+- **BNP:** 3800 pg/mL (admission), 2100 (day 4)
+- **AST/ALT:** 102/89 U/L (peak day 3), trending down
+- **Total bili:** 1.7 mg/dL (day 3), normalized
+- **A1c:** 6.0% (baseline)
+- **Lipid panel:** TC 168, TG 121, LDL 74, HDL 69
+- **Microalbumin/Cr ratio:** 13 mg/g
+
+---
+
+### IMAGING
+
+- **CXR (5/22):** Cardiomegaly, pulmonary vascular congestion, small bilateral effusions
+- **Echo (5/22):** LVEF 15%, global hypokinesis, moderate MR, no vegetation
+- **RHC (5/23):** CI 1.7, PCWP 23, RA 12, SVR 1800
+
+---
+
+### ASSESSMENT & PLAN
+
+**1. Cardiogenic shock, acute on chronic HFrEF**  
+- Etiology: Likely viral myocarditis on background of diabetic/HTN heart disease  
+- Impella CP placed, now removed after 4 days support  
+- Continue aggressive diuresis, monitor for arrhythmias  
+- Telemetry, daily weights, strict I/Os  
+- Consider GDMT optimization after stabilization  
+- F/u echo planned
+
+**2. Type 2 Diabetes Mellitus / Hyperglycemia**  
+- Poor control during critical illness, now improving  
+- Sliding scale insulin, resume Metformin as renal function normalizes  
+- Endocrine to follow
+
+**3. Hypertension**  
+- On multiple agents, held while on pressors  
+- Gradual reinitiation as hemodynamics stabilize  
+- Monitor for hypotension
+
+**4. Anemia, multifactorial (chronic disease, dilutional, phlebotomy)**  
+- Hgb trending down but stable, no transfusion needed  
+- Iron studies pending, monitor CBC
+
+**5. Acute kidney injury, resolved**  
+- Pre-renal from hypoperfusion, improved with volume status correction  
+- Monitor renal function closely
+
+**6. Transaminitis (ischemic hepatitis)**  
+- Trend LFTs, supportive care
+
+**7. Pneumonia / bronchitis**  
+- Treated empirically with ceftriaxone/azithro, improved  
+- Repeat CXR planned
+
+**8. Neuropathy, diabetic**  
+- Continue gabapentin  
+- PT/OT for mobilization
+
+**9. Hypertriglyceridemia / Metabolic syndrome**  
+- Resume statin/fibrate after acute phase  
+- Dietary counseling
+
+**10. Contraceptive management**  
+- Multiple forms noted, review for VTE risk given immobility  
+- Gyn consult requested
+
+**11. Pain, chronic and acute (musculoskeletal)**  
+- Mild, managed with acetaminophen  
+- Avoid NSAIDs due to renal/LV dysfunction
+
+**12. Discharge planning**  
+- Anticipate SNF vs. home with VNA  
+- Outpatient f/u: Cardiology, Endocrine, PT/OT
+
+---
+
+### ORDERS & CONSULTS
+
+- Cardiology: daily
+- Endocrine: glycemic management
+- Infectious Disease: abx guidance
+- PT/OT: mobility, safety eval
+- Dietician: DM/CHF diet
+- SW/CM: discharge planning
+
+---
+
+### PROVIDER ATTESTATION
+
+I have personally reviewed this patient’s chart, examined the patient, and discussed the plan with the multidisciplinary team.
+
+---
+
+**Signed:** Lisa Wernick, MD  
+**Date/Time:** 2024-05-29 09:12
+
+---
+
+**[End of Note]**

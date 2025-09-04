@@ -1,0 +1,136 @@
+```
+Patient Name: Audrie Howell
+MRN: 00348821
+DOB: 06/13/1945
+Sex: Female
+Attending: Dr. Harinder Grewal, MD
+Admit Date: 03/14/2024
+Service: MICU
+Room: 5-ICU-13
+Allergies: NKDA
+Code Status: Full Code
+
+Chief Complaint:
+Worsening dyspnea, orthopnea, and lower extremity edema
+
+History of Present Illness:
+79-year-old female with a history of poorly controlled type 2 diabetes, diabetic retinopathy (proliferative and nonproliferative), diabetic neuropathy, metabolic syndrome, hypertriglyceridemia, osteoporosis with pathologic fracture (forearm), and chronic anemia, presenting with 3 days of progressive shortness of breath, orthopnea, and lower extremity swelling. She reports mild cough, no fever, and decreased appetite. She was recently found to have an EF of 25% on echo done at an outside facility 2 weeks prior. No prior cardiac interventions. No chest pain. Noted to have low BP (SBP in 80s) and tachycardia (HR 110-120s) on arrival. Initial troponin was elevated at 0.21 ng/mL (ref <0.04). She was admitted for acute decompensated heart failure with cardiogenic shock. She subsequently required ICU transfer for worsening hypotension and hypoperfusion and was started on inotropes (dobutamine) and eventually required placement of a percutaneous left ventricular assist device (Impella CP) on hospital day 2 for persistent shock and end organ hypoperfusion.
+
+Past Medical History:
+- Type 2 Diabetes Mellitus (with complications: neuropathy, proliferative and nonproliferative retinopathy)
+- Metabolic syndrome
+- Hypertriglyceridemia
+- Hyperglycemia
+- Osteoporosis (with pathologic forearm fracture)
+- Chronic anemia
+- Atopic dermatitis
+- History of first trimester miscarriage
+- Viral sinusitis (remote, currently not active)
+
+Past Surgical History:
+- None
+
+Family History:
+- Mother: T2DM, MI at 72
+- Father: Stroke at 80
+- No known inherited cardiac disorders
+
+Social History:
+- Lives with husband
+- Retired school teacher
+- Denies tobacco, rare alcohol, no illicit drugs
+
+Home Medications:
+- Metformin ER 500mg daily
+- Cyclosporine 50mg BID (for atopic dermatitis)
+- Hydrocortisone topical PRN
+- Alendronate 10mg daily
+- Ibuprofen PRN
+- Multivitamin
+
+Physical Exam (on admission):
+- Vitals: T 36.9°C, HR 112, BP 84/58, RR 21, SpO2 94% on 2L NC
+- Gen: Appears fatigued, mild respiratory distress
+- HEENT: Anicteric, no JVD
+- Lungs: Bibasilar crackles, decreased air entry bases
+- CV: Tachycardic, S3 present, no murmurs
+- Abd: Soft, NT, mild hepatomegaly
+- Ext: 2+ pitting edema to knees, cold extremities
+- Neuro: AOx3, mild decreased sensation bilateral feet
+
+Hospital Course:
+HD1: Admitted with acute decompensated heart failure and cardiogenic shock. Started on furosemide IV, low-dose dobutamine. BP remained low despite escalating inotropes.
+HD2: Worsening hypoperfusion (lactate 4.1), oliguria, rising creatinine. Cardiology consulted; decision made for placement of percutaneous LVAD (Impella CP). Device placed in cath lab, tolerated well. Started on heparin drip for device. Monitored in ICU.
+HD3: Improved MAPs (now 70-75), UOP improving. Still requiring moderate inotropes. Lactate trending down. Diuresis ongoing. Monitored for hemolysis and device complications. Developed mild hematuria.
+HD4: Weaning inotropes, Impella flows adequate. Renal function improved. Hb trending down (10.2 to 8.0). Transfused 1 unit PRBCs. No active bleeding found. 
+HD5: Extubated, improved mentation. Weaning off support. Plan for device removal HD6 if stable. 
+HD6: Impella removed, transitioned to high-dose GDMT (metoprolol, sacubitril/valsartan, spironolactone), continue aggressive diuresis. Stable for transfer out of ICU.
+
+LABS
+
+| Date      | WBC    | Hgb   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu   | Troponin | Lactate | AST  | ALT  | BNP  |
+|-----------|--------|-------|-------|------|------|------|------|------|------|-------|----------|---------|------|------|------|
+| HD1       | 9.4    | 10.2  | 214   | 137  | 3.8  | 103  | 27   | 25   | 1.1  | 188   | 0.21     | 3.8     | 41   | 37   | 4620 |
+| HD2 AM    | 11.1   | 9.2   | 186   | 139  | 3.5  | 104  | 23   | 31   | 1.6  | 161   | 0.17     | 4.1     | 55   | 61   | 5400 |
+| HD2 PM    |        | 8.9   | 175   | 138  | 3.4  |      | 22   | 34   | 1.7  | 149   | 0.12     |         |      |      |      |
+| HD3       | 8.7    | 8.0   | 170   | 140  | 3.7  | 105  | 25   | 29   | 1.3  | 142   | 0.09     | 2.9     | 61   | 44   | 3210 |
+| HD4       | 8.1    | 8.2   | 159   | 139  | 3.9  | 102  | 26   | 22   | 1.1  | 133   | 0.04     | 1.8     | 39   | 31   | 1890 |
+| HD5       | 7.9    | 9.0   | 154   | 137  | 4.1  | 101  | 27   | 18   | 0.9  | 120   | <0.01    | 1.2     | 33   | 28   | 950  |
+| HD6       |        | 9.8   | 144   | 136  | 4.0  |      | 28   | 15   | 0.8  | 108   | <0.01    |         |      |      |      |
+
+Other notable labs:
+- Hemolysis panel (HD3): LDH 324 (high), haptoglobin <10, indirect bili 1.5
+- Coags: INR 1.2, PTT 34 (on heparin)
+- UA: 10-15 RBCs, no casts
+
+Problem-based Assessment and Plan
+
+1. **Acute Decompensated Heart Failure with Cardiogenic Shock**
+   - Etiology: Likely ischemic + longstanding diabetic/metabolic syndrome
+   - Impella CP placed HD2 for refractory shock, ongoing inotropes support, aggressive diuresis
+   - Monitor for hemolysis, device complications, arrhythmia
+   - Post-device: transition to maximally tolerated GDMT (metoprolol, sacubitril/valsartan, spironolactone, dapagliflozin considered)
+   - Strict I/Os, daily weights, monitor renal function
+
+2. **Type 2 Diabetes Mellitus (complicated)**
+   - Hold metformin during acute illness, resume when stable
+   - IV insulin sliding scale while NPO, transition to oral when able
+   - Monitor glucose q4h, A1c last 8.2%
+   - Endo consult for optimization
+
+3. **Chronic Anemia**
+   - Multifactorial: chronic disease, possible GI loss, recent hemolysis (r/o device-related)
+   - Transfused 1U PRBCs HD4
+   - Monitor Hgb daily, iron panel pending
+
+4. **Osteoporosis / Pathologic Fracture**
+   - Continue alendronate when PO
+   - Fall precautions, PT/OT consult
+
+5. **Diabetic Neuropathy**
+   - Gabapentin PRN, daily foot exams
+   - Fall risk precautions
+
+6. **Hypertriglyceridemia, Metabolic Syndrome**
+   - Statin held during acute illness, will resume
+   - Continue low-fat, ADA diet
+
+7. **Atopic Dermatitis**
+   - Continue topical steroids, cyclosporine as per Derm
+
+8. **Viral Sinusitis**
+   - No current symptoms
+
+9. **Other**
+   - DVT prophylaxis: SCDs, heparin (with device, per protocol)
+   - Monitor for delirium, daily sedation interruption
+   - Family updated daily, goals of care addressed
+
+Disposition:
+- Plan transfer to stepdown once stable off Impella and inotropes
+- Cardiac rehab referral, close cardiology follow-up
+
+Attending: Dr. Harinder Grewal, MD      Resident: S. Patel, MD
+
+--- END OF NOTE ---
+```

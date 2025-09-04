@@ -1,0 +1,197 @@
+**Epic EHR - Patient Summary**
+
+---
+
+**Patient Name:** Les Medhurst  
+**MRN:** 000523498  
+**DOB:** 03/31/1914 (Age: 110)  
+**Sex:** Male  
+**Admit Date:** 04/02/2024  
+**Attending:** Dr. Smith, MD  
+**Consults:** Cardiology, Cardiothoracic Surgery, Hematology/Oncology, Infectious Disease  
+**Code Status:** Full Code  
+**Allergies:** NKDA  
+**Isolation:** Standard  
+**Height:** 177 cm  
+**Weight:** 70.8 kg  
+**BMI:** 22.6  
+**Primary Language:** English  
+**Tobacco Use:** Yes (current daily smoker, 1 ppd)  
+**Alcohol:** Denies  
+**Advance Directive:** Not on file  
+
+---
+
+### Reason for Admission
+
+**Acute decompensated heart failure with cardiogenic shock requiring temporary left ventricular assist device (Impella CP) placement.**
+
+---
+
+### Hospital Course Summary
+
+Elderly male with extensive PMHx including prostate neoplasm (on chemo + leuprolide), chronic mild anemia, prediabetes, h/o appendectomy, and daily tobacco use presented from home with 3 days of worsening dyspnea, orthopnea, chest tightness, and profound fatigue. On arrival to ED found to be tachypneic (RR 32), hypotensive (BP 78/52), tachycardic (HR 116), and hypoxic (O2 sat 89% RA). Rapidly developed respiratory distress and altered mental status; intubated for airway protection.
+
+Labs notable for elevated troponin, BNP, worsening renal function, and lactic acidosis. CXR: pulmonary edema. Echo: severe global LV systolic dysfunction (EF 15%), moderate RV dysfunction, no tamponade. Emergent cardiogenic shock protocol initiated. Started on norepinephrine, dobutamine, and Lasix drip. Due to refractory shock and end-organ hypoperfusion, Impella CP placed at bedside. Gradual hemodynamic improvement over several days, device weaned off on HD#6.
+
+Complicated by AKI (resolved), mild transaminitis, anemia (transfused x1), and HAP (treated with pip/tazo). No arrhythmias. Extubated HD#8, transferred to stepdown on HD#10.
+
+---
+
+### Problem List
+
+1. **Cardiogenic Shock, s/p Impella CP placement**
+2. **Decompensated Heart Failure with reduced EF (HFrEF)**
+3. **AKI on CKD III**
+4. **Anemia (multifactorial)**
+5. **Prostate cancer, on docetaxel/leuprolide**
+6. **Smoker**
+7. **Hospital-acquired pneumonia**
+8. **Prediabetes**
+9. **History of appendectomy**
+10. **Viral pharyngitis/sinusitis (recent)**
+11. **Pain control (opioid use)**
+12. **Electrolyte abnormalities**
+13. **Nutritional risk**
+
+---
+
+### Assessment & Plan
+
+#### 1. Cardiogenic Shock, s/p Impella CP Placement
+- Elderly male with severe acute on chronic LV failure, likely ischemic vs. chemo-induced.  
+- Required Impella for 6 days, now weaned off, HD stable.
+- Continue guideline-directed medical therapy (GDMT): beta-blocker (carvedilol), ACEi held for AKI.
+- Follow-up echo in 2 days.
+- Strict I/O, daily weights, monitor for hemolysis.
+- Anticoagulation: heparin drip per device protocol, now off.
+
+#### 2. HFrEF (EF 15%, now ~25% by bedside echo)
+- Continue low-dose carvedilol.
+- Lasix IV q12h, titrate to euvolemia.
+- Fluid restriction 1.5L/day.
+- Cardiology f/u, consider advanced therapies if re-decompensates.
+
+#### 3. AKI on CKD III (baseline Cr ~1.3, peaked 2.7, now 1.5)
+- Monitor renal function daily.
+- Avoid nephrotoxins.
+- Adjust all meds for renal dosing.
+- Nephro consult.
+
+#### 4. Anemia (baseline Hgb ~11.2, nadir 7.9 g/dL, transfused 1U PRBC HD#3)
+- Likely multifactorial: chronic disease, chemo, AKI, acute illness.
+- Hold further chemo.
+- Iron studies pending.
+- Monitor for GI bleed.
+
+#### 5. Prostate Cancer (on docetaxel/leuprolide)
+- Onc consulted, recommend holding chemo until stabilized.
+- PSA trended, stable.
+- Continue leuprolide.
+
+#### 6. Smoker
+- Nicotine patch 21mg daily.
+- Counseling, cessation resources.
+
+#### 7. Hospital-acquired pneumonia (HD#5)
+- Cough, fever, new infiltrate.
+- Started on pip/tazo, de-escalate per cultures.
+- Pulm hygiene.
+
+#### 8. Prediabetes
+- Glucose 70-140 mg/dL, A1c 6.0%.
+- Monitor FSBS q6h.
+- Diet: ADA.
+- No insulin required.
+
+#### 9. Hx of Appendectomy, viral pharyngitis/sinusitis
+- Resolved, no current issues.
+
+#### 10. Pain Control
+- Oxycodone/acetaminophen PRN.
+- Monitor for delirium, constipation.
+
+#### 11. Electrolyte Abnormalities
+- Mild hypokalemia (K nadir 3.3), repleted.
+- Monitor Mg, Phos.
+
+#### 12. Nutritional Risk
+- Dietician consult.
+- Ensure oral intake improving.
+
+---
+
+### Labs
+
+**CBC & Chemistries (Selected; see full chart for all entries)**
+
+| Date        | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Gluc (mg/dL) |
+|-------------|------------|------------|------------|-------------|------------|-------------|--------------|-------------|------------|--------------|
+| 4/2 06:00   | 10.3       | 11.2       | 293        | 141         | 4.9        | 102         | 25           | 16          | 1.3        | 104          |
+| 4/2 18:00   | 13.5       | 9.7        | 276        | 139         | 3.4        | 100         | 21           | 22          | 1.9        | 142          |
+| 4/3 06:00   | 12.7       | 8.3        | 241        | 138         | 3.3        | 98          | 19           | 25          | 2.4        | 119          |
+| 4/3 18:00   | 11.0       | 7.9        | 238        | 136         | 3.5        | 96          | 18           | 27          | 2.7        | 87           |
+| 4/4 06:00   | 9.8        | 8.8        | 252        | 138         | 3.7        | 98          | 20           | 22          | 2.1        | 99           |
+| 4/5 06:00   | 8.2        | 9.6        | 258        | 140         | 4.0        | 101         | 23           | 19          | 1.8        | 95           |
+| 4/6 06:00   | 7.4        | 10.1       | 271        | 142         | 4.2        | 103         | 24           | 17          | 1.6        | 87           |
+| 4/7 06:00   | 7.1        | 10.7       | 278        | 141         | 4.5        | 102         | 26           | 15          | 1.5        | 92           |
+| 4/8 06:00   | 8.0        | 10.9       | 293        | -           | 4.5        | 101         | 26           | 14          | 1.4        | 98           |
+| 4/9 06:00   | 7.8        | 11.1       | -          | 140         | 4.6        | 100         | 25           | 15          | 1.3        | 101          |
+
+**Other Labs:**
+- **Troponin I:** 0.17 → 0.23 → 0.14 ng/mL (peak HD#1-2)
+- **BNP:** 2240 pg/mL (HD#1), 1643 (HD#3), 990 (HD#7)
+- **LFTs:** ALT 37 → 72 (HD#2) → 41 (HD#5); AST 32 → 61 → 33; ALP 62 U/L
+- **PT/INR:** 14.9s/1.2
+- **aPTT:** 32s (on heparin)
+- **Lactate:** 5.2 (presentation), 2.1 (HD#2), 1.1 (HD#4)
+- **PSA:** 4.8 ng/mL (stable)
+- **UA:** Proteinuria, trace blood, negative nitrites/leuk esterase
+
+---
+
+### Vitals (Selected)
+
+| Date        | Temp (C) | HR | BP       | RR | SpO2 (%) | Pain |
+|-------------|----------|----|----------|----|----------|------|
+| 4/2 06:00   | 37.6     | 116| 78/52    | 32 | 89       | 7    |
+| 4/3 06:00   | 38.0     | 108| 88/60    | 28 | 92       | 5    |
+| 4/4 06:00   | 37.8     | 95 | 98/66    | 22 | 95       | 3    |
+| 4/6 06:00   | 37.2     | 88 | 108/72   | 18 | 97       | 2    |
+| 4/8 06:00   | 36.9     | 82 | 118/74   | 16 | 99       | 0    |
+
+---
+
+### Procedures
+
+- **Impella CP placement** (4/2/2024, bedside, femoral approach, no complications)
+- **Intubation and mechanical ventilation** (4/2/2024 – 4/8/2024)
+- **Right heart cath** (4/2/2024: PCWP 29, CI 1.7, SVR 1420)
+- **Transfusion of 1U PRBC** (4/3/2024)
+- **Central line, arterial line** (HD#1)
+
+---
+
+### Imaging
+
+- **CXR:** Bilateral pulmonary edema, improving on HD#4, new infiltrate HD#5.
+- **Echo:** Severe global LV dysfunction, moderate RV dysfunction, no tamponade, no significant valvular dz.
+
+---
+
+### Discharge Planning
+
+- Transfer to stepdown, anticipate SNF placement due to frailty and high care needs.
+- Outpatient cardiology and oncology follow-up.
+- Home oxygen evaluation.
+- PT/OT to evaluate for safety.
+- Smoking cessation program referral.
+
+---
+
+**Physician Attestation:**  
+This note was prepared by Dr. Smith, MD, Cardiology, and reviewed with the ICU team.
+
+---
+
+**END OF NOTE**

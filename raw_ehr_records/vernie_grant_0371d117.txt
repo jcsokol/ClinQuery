@@ -1,0 +1,167 @@
+---
+**Patient:** Vernie Grant  
+**MRN:** 0043829-ICU  
+**DOB:** 07/09/1963  
+**Sex:** Female  
+**Date of Admission:** 03/09/2024  
+**Attending:** Dr. Jason L. Meier  
+**Admitting Dx:** Cardiogenic shock, acute on chronic heart failure  
+**Code Status:** Full Code  
+**Allergies:** NKDA  
+**Height:** 164 cm  
+**Weight:** 74.5 kg  
+**BMI:** 27.7
+
+---
+
+# HOSPITAL COURSE – ICU
+
+**HPI:**  
+Ms. Vernie Grant is a 60-year-old female with a history of hypertension, prediabetes, hypothyroidism, and remote polypectomy who presented to the ED with 4 days of worsening dyspnea, orthopnea, and lower extremity edema. She reported a viral URI two weeks prior. On arrival, she was hypotensive (SBP 74), tachycardic, hypoxic (SpO2 86%), and had JVD up to 12 cm H2O, S3, and diffuse rales. She rapidly deteriorated, requiring intubation and vasopressors. Bedside echo: LVEF 15%, global hypokinesis, RV normal. Swan-Ganz confirmed cardiogenic shock (CI 1.2, wedge 29, SVR 1400). Emergent left-sided Impella CP placement for temporary mechanical circulatory support was performed in the ICU.
+
+---
+
+## ICU Problem-Based Assessment and Plan
+
+### 1. **Cardiogenic Shock / Acute Decompensated Heart Failure**
+- Etiology likely ischemic vs viral myocarditis.
+- Placed on Impella CP for hemodynamic support, dobutamine drip, and norepinephrine.
+- Daily TTE: LV function remains severely reduced, no tamponade.
+- Diuresed with IV furosemide, net negative 1.7L/day.
+- Wean vasopressors as tolerated.
+- Cardiology: Plan for LHC/angiography after stabilization.
+- Consider advanced therapies (LVAD, transplant eval) if no recovery.
+
+### 2. **Respiratory Failure / Intubation**
+- Intubated for hypoxic respiratory failure; on lung-protective ventilation.
+- CXR: Bilateral pulmonary edema, no consolidation.
+- Daily spontaneous breathing trials.
+- Extubated on ICU day 4 after diuresis and improvement.
+- Incentive spirometry, pulmonary toilet.
+
+### 3. **Renal Dysfunction / AKI**
+- Baseline Cr 0.9, peaked at 1.7 on day 2 (likely cardiorenal).
+- Monitored urine output hourly.
+- Renal function improving with improved perfusion, net negative I/O.
+- Avoid nephrotoxins. Nephrology following.
+
+### 4. **Hypothyroidism**
+- Continued home levothyroxine (75 mcg daily) via OG tube.
+- Monitored TSH, fT4. Labs within target.
+
+### 5. **Hypertension / Prediabetes**
+- Held HCTZ on admission due to AKI and low BP.
+- Tight glycemic control; sliding scale insulin, BG 80–150 mg/dL.
+- Restart antihypertensives as tolerated.
+
+### 6. **GI Prophylaxis / Stress Ulcer**
+- PPI for stress ulcer prophylaxis.
+- Bowel regimen: Sennosides, docusate.
+- No GI bleeding.
+
+### 7. **Infectious Disease / Antibiotics**
+- Blood, urine, sputum cultures negative.
+- Empiric ceftriaxone/azithro initially, d/c after 48h.
+- Monitor for line-associated infection.
+
+### 8. **Hematology / DVT Prophylaxis**
+- Platelets trended down to 105k on day 5, likely dilutional/Impella.
+- No bleeding; TEG normal.
+- SQ heparin for DVT prophylaxis.
+
+### 9. **Nutrition**
+- NPO x 48h, then started tube feeds, advanced to oral after extubation.
+- Monitored prealbumin, electrolytes.
+
+### 10. **Miscellaneous**
+- Colon polyp: No acute issues.
+- GYN: No active OB/GYN problems.
+- Family updated daily.
+
+---
+
+# VITALS (ICU Day 1–7)
+
+| Date        | Temp (°C) | HR | BP (mmHg)    | RR | SpO2 | Pain |
+|-------------|-----------|----|-------------|----|------|------|
+| 3/9         | 37.8      | 121| 74/44 (MAP 54)| 28 | 86%  | 0    |
+| 3/10        | 37.2      | 101| 88/60 (MAP 69)| 22 | 93%  | 0    |
+| 3/11        | 36.8      | 97 | 96/64 (MAP 75)| 20 | 96%  | 0    |
+| 3/12        | 36.7      | 88 | 108/72 (MAP 84)| 18 | 98%  | 0    |
+| 3/13        | 37.1      | 85 | 112/74 (MAP 86)| 17 | 98%  | 1    |
+| 3/14        | 37.0      | 82 | 116/80 (MAP 92)| 16 | 99%  | 1    |
+| 3/15        | 36.8      | 80 | 118/82 (MAP 94)| 16 | 99%  | 1    |
+
+---
+
+# LABS – CBC, CHEM7, Other
+
+| Date   | WBC   | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | TSH  | fT4  | Troponin | BNP   | ALT | AST |
+|--------|-------|------|------|-------|------|------|------|------|------|------|------|------|------|----------|-------|-----|-----|
+| 3/9    | 4.1   | 16.8 | 46.7 | 416   | 141  | 4.6  | 103  | 27   | 8    | 0.9  | 76   | 3.8  | 0.11 | 0.07     | 5980  | 34  | 38  |
+| 3/10   | 3.6   | 15.7 | 44.0 | 312   | 139  | 4.1  | 100  | 25   | 15   | 1.2  | 110  |      |      | 0.05     | 7780  | 41  | 53  |
+| 3/11   | 3.2   | 14.2 | 41.2 | 245   | 137  | 4.0  | 99   | 22   | 22   | 1.7  | 128  |      |      | 0.04     | 6890  | 65  | 71  |
+| 3/12   | 4.4   | 13.9 | 39.6 | 204   | 140  | 4.2  | 102  | 23   | 16   | 1.3  | 102  | 4.2  | 0.12 | 0.03     | 5100  | 38  | 44  |
+| 3/13   | 3.9   | 13.8 | 38.5 | 140   | 142  | 4.1  | 104  | 26   | 13   | 1.0  | 98   |      |      | 0.02     | 4000  | 29  | 32  |
+| 3/14   |       | 13.5 | 37.3 | 105   | 143  | 4.0  | 106  | 27   | 10   | 0.9  | 92   |      |      | <0.01    | 3200  | 23  | 25  |
+| 3/15   | 4.2   | 13.7 | 37.8 | 116   | 142  | 4.3  | 106  | 28   | 9    | 0.9  | 93   | 3.6  | 0.13 | <0.01    | 2500  | 19  | 19  |
+
+---
+
+# PROCEDURES
+
+- **03/09/24**: Emergent left femoral Impella CP placement for refractory cardiogenic shock.  
+  - No vascular complications.
+  - Flow 3.6 L/min, purge pressure 520 mmHg.
+- **03/13/24**: Right heart cath, LHC: No obstructive CAD, diffuse LV dysfunction.
+- **03/14/24**: Impella weaned and explanted after hemodynamic improvement.
+
+---
+
+# MICROBIOLOGY
+
+- Blood, urine, sputum cultures: No growth x 5 days.
+- Viral panel (nasal swab): Negative.
+
+---
+
+# MEDICATION ADMINISTRATION (ICU)
+
+- Dobutamine infusion, titrated off by day 5.
+- Norepinephrine, weaned off by day 3.
+- Furosemide IV.
+- Levothyroxine 75 mcg daily.
+- Stress ulcer prophylaxis: Pantoprazole.
+- DVT ppx: Heparin SQ.
+- Sliding scale insulin.
+- Home medications resumed as clinically appropriate.
+
+---
+
+# DISPOSITION
+
+- ICU day 7: Transferred to cardiac stepdown, off inotropes, euvolemic, ambulating with PT.
+- Plan: Aggressive cardiac rehab, consider advanced heart failure therapies if no further improvement.
+
+---
+
+# SUMMARY/PLAN (Problem-based)
+
+1. **Cardiogenic shock/ADHF**: Impella support, now explanted. Close cardiac monitoring.
+2. **Resp failure**: Extubated, O2 sat stable. Pulm hygiene.
+3. **AKI**: Improving; monitor daily.
+4. **Hypothyroid**: Continue thyroid replacement.
+5. **HTN/Prediabetes**: Resume home meds as tolerated, monitor.
+6. **GI prophylaxis**: Continue until off stress.
+7. **DVT prophylaxis**: Continue until full ambulation.
+8. **Nutrition**: Oral diet, monitor labs.
+9. **Follow-up**: Cardiology, nephrology, nutrition, PT/OT.
+
+---
+
+**Auth:**  
+Jason L. Meier, MD  
+Attending, Cardiology/ICU  
+03/15/2024, 08:12
+
+---

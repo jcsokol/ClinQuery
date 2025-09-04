@@ -1,0 +1,187 @@
+**EPIC EHR - Inpatient Chart**  
+**Patient Name:** Abraham Heller  
+**MRN:** 00209127  
+**DOB:** 04/15/2002 (Age: 21)  
+**Sex:** Male  
+**Admit Date:** 03/18/2024  
+**Attending:** Dr. S. Lin, Cardiology  
+**ICU Service**  
+**Location:** CCU/ICU, Bed 7A
+
+---
+
+### ADMISSION SUMMARY
+
+**Chief Complaint:**  
+Progressive shortness of breath, chest discomfort, and orthopnea x2 weeks.  
+
+**History of Present Illness:**  
+21-year-old male with past medical history of obesity (BMI 36.6), recent viral sinusitis and pharyngitis, and multiple episodes of acute bronchitis, presented to the ED with 5 days of worsening dyspnea, low-grade fevers, and new-onset lower extremity edema. He reported a dry cough and mild chest pain that worsened with exertion. Denied illicit drug use. No prior cardiac history. On arrival, found to be tachycardic (HR 122), BP 98/56, O2 sat 92% on room air.
+
+Within 12 hours, he developed hypotension (SBP 80s), hypoxemia, and progressive respiratory distress requiring transfer to ICU and intubation. TTE showed severe global LV dysfunction (EF ~15%), RV mildly reduced, no significant valvular disease. Troponin mildly elevated. Cardiac index <2.0 L/min/m2 on Swan-Ganz. Given concern for fulminant myocarditis, patient underwent urgent placement of a percutaneous LV assist device (Impella CP) for cardiogenic shock.
+
+---
+
+### PAST MEDICAL HISTORY
+- Obesity (BMI 36.6)
+- Recurrent viral sinusitis
+- Acute bronchitis (multiple episodes)
+- Otitis media (hx childhood)
+- Acute viral pharyngitis
+
+### PAST SURGICAL HISTORY
+- None
+
+### ALLERGIES
+- NKDA
+
+### HOME MEDICATIONS
+- Acetaminophen 325 mg PO PRN
+- Amoxicillin/Clavulanate 250/125 mg PO BID (recent course for sinusitis)
+- Amoxicillin 500 mg PO BID (completed 2 weeks ago)
+
+### SOCIAL HISTORY
+- Lives with parents, attends college
+- No smoking, EtOH socially, no illicit drugs
+- No recent travel
+
+### FAMILY HISTORY
+- No known cardiac disease
+- Father: HTN, Mother: Asthma
+
+---
+
+## HOSPITAL COURSE
+
+**Day 1-2:**  
+- Rapid decompensation, intubated for hypoxic respiratory failure  
+- Vasopressor support (norepinephrine, dobutamine)  
+- Swan-Ganz: CI 1.8, PCWP 23  
+- Echo: Severe LV dysfunction, mild RV dysfunction  
+- Lactate 4.2, troponin 0.13, BNP 1421  
+- Impella CP placed, rapid hemodynamic improvement  
+- Started on IV diuresis, broad-spectrum abx (vanc/cefepime), IVIG for suspected viral myocarditis  
+- Blood cultures x2, viral panel sent
+
+**Day 3-4:**  
+- Weaned off vasopressors  
+- Renal function stable  
+- Extubated to HFNC  
+- Impella support ongoing, LV function improving on serial echos  
+- Negative blood/resp cultures  
+- Cardiac MRI: findings consistent with myocarditis  
+- LFTs uptrending (mild), likely secondary to shock liver  
+- Troponin trending down
+
+**Day 5-7:**  
+- Continued improvement  
+- Impella weaned and explanted on Day 6  
+- Started on low-dose carvedilol, lisinopril  
+- Diuresed to dry weight  
+- Down-titrated oxygen, transitioned to nasal cannula  
+- Physical therapy initiated  
+- Repeat echo: LVEF improved to 35%  
+- Discharge planning in progress
+
+---
+
+## VITALS (Selected)
+| Date       | Temp (C) | HR | BP       | RR | SpO2 (%) | Weight (kg) |
+|------------|----------|----|----------|----|----------|-------------|
+| 3/18/2024  | 37.6     | 122| 98/56    | 26 | 92       | 97.1        |
+| 3/19/2024  | 38.2     | 110| 101/60   | 22 | 98 (vent)| 96.8        |
+| 3/20/2024  | 37.2     | 96 | 110/68   | 18 | 98 (HFNC)| 95.9        |
+| 3/21/2024  | 36.8     | 88 | 115/70   | 16 | 97       | 95.2        |
+| 3/23/2024  | 36.7     | 76 | 124/78   | 14 | 98       | 94.0        |
+
+---
+
+## LABS
+#### CBC + CHEM7 (selected values, missing entries as noted)
+| Date       | WBC (K) | Hgb (g/dL) | Plt (K) | Na | K   | Cl  | CO2 | BUN | Cr  | Glu | Ca |
+|------------|---------|------------|---------|----|-----|-----|-----|-----|-----|-----|----|
+| 3/18/2024  | 5.9     | 14.4       | 265     | 136| 4.9 | 101 | 18  | 21  | 1.1 | 112 | 8.7|
+| 3/19/2024  | 7.2     | 13.7       | 211     | 134| 5.2 | 99  | 16  | 29  | 1.3 | 129 | 8.2|
+| 3/20/2024  | 8.4     | 13.5       | 188     | 132| 4.7 | 101 | 17  | 36  | 1.6 | 133 | -- |
+| 3/21/2024  | --      | 13.9       | 176     | 135| --  | 98  | --  | 31  | 1.3 | 112 | 8.9|
+| 3/23/2024  | 5.1     | 14.2       | 225     | 137| 4.3 | 102 | 20  | 19  | 1.0 | 97  | 9.1|
+
+#### OTHER LABS
+| Date       | Troponin I | BNP   | AST  | ALT  | Alk Phos | Tbili | INR  | PT   | aPTT |
+|------------|------------|-------|------|------|----------|-------|------|------|------|
+| 3/18/2024  | 0.13       | 1421  | 92   | 81   | 142      | 1.2   | 1.4  | 17.2 | 38   |
+| 3/19/2024  | 0.11       | 1209  | 108  | 97   | 151      | 1.8   | 1.6  | 18.9 | 41   |
+| 3/20/2024  | 0.07       | 991   | 77   | 74   | 130      | 1.1   | 1.2  | 16.3 | 32   |
+| 3/21/2024  | 0.04       | 612   | 38   | 44   | 102      | 0.8   | 1.1  | 14.2 | 29   |
+| 3/23/2024  | <0.01      | 320   | 29   | 32   | 95       | 0.7   | 1.0  | 13.1 | 27   |
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock (likely fulminant viral myocarditis) - s/p Impella CP placement**  
+- Initial presentation with acute decompensated heart failure and shock  
+- Rapid initiation of mechanical circulatory support (Impella)  
+- Hemodynamics stabilized, LV function improved  
+- Plan: Continue GDMT (guideline-directed medical therapy), monitor for arrhythmias, serial Echos, close follow-up with advanced heart failure
+
+**2. Acute Hypoxic Respiratory Failure - s/p intubation, now extubated**  
+- Likely secondary to pulmonary edema and low output heart failure  
+- Weaned off ventilator, now on nasal cannula  
+- Plan: Monitor O2, chest PT, incentive spirometry
+
+**3. Obesity (BMI 36.6)**  
+- Risk factor for poor outcomes  
+- Dietary consult, PT/OT, discussed weight management
+
+**4. Acute Kidney Injury (pre-renal, resolved)**  
+- Likely secondary to low cardiac output and diuresis  
+- Now improved, Cr trending down  
+- Plan: Monitor renal function, avoid nephrotoxins
+
+**5. Transaminitis / Shock Liver (resolved)**  
+- Mild LFT elevation, now improving  
+- Plan: Monitor LFTs, supportive care
+
+**6. Past Infections (sinusitis, bronchitis, otitis media)**  
+- No evidence of ongoing infection  
+- Completed abx courses  
+- Plan: No further antibiotics
+
+**7. Pain (mild, 3/10)**  
+- Likely post-procedural  
+- Managed with acetaminophen  
+- Plan: Continue PRN, avoid NSAIDs due to renal risk
+
+**8. Psychosocial**  
+- Young patient, new diagnosis, significant stress  
+- SW and Chaplain involved  
+- Plan: Continue support, consider psych consult if needed
+
+---
+
+**Discharge Planning:**  
+- Anticipate transfer to telemetry step-down 3/24  
+- Close f/u with advanced HF, cardiology, PCP  
+- Echo in 2 weeks, labs in 1 week  
+- Return precautions reviewed
+
+---
+
+**Physician:** S. Lin, MD  
+**Date/Time:** 3/23/2024, 19:57
+
+---
+
+**Orders:**  
+- Daily labs: CBC, Chem7, LFTs, BNP, troponin  
+- Carvedilol 3.125mg BID, Lisinopril 2.5mg daily  
+- Furosemide 20mg IV BID, then PO as tolerated  
+- Physical therapy  
+- Cardiac diet  
+- DVT prophylaxis (SCDs, heparin sq)  
+- Telemetry monitoring
+
+---
+
+**DOCUMENTATION COMPLETE**

@@ -1,0 +1,205 @@
+---
+**Patient Name:** Ruthe Heidenreich  
+**MRN:** 0058392  
+**DOB:** 01/16/1998  
+**Sex:** Female  
+**Admit Date:** 05/22/2024  
+**Attending:** Dr. Jameson  
+**Service:** Cardiology ICU  
+**Location:** CICU, Room 4B
+
+---
+
+### ADMISSION SUMMARY
+
+**Chief Complaint:**  
+Progressive dyspnea, chest pain, and palpitations
+
+**History of Present Illness:**  
+25-year-old female with PMHx significant for viral sinusitis, acute bronchitis, and recent facial laceration s/p repair, presents with 4 days of worsening SOB, orthopnea, and pleuritic chest discomfort. She reports a non-productive cough, subjective fevers, and malaise. She was previously healthy except for a normal pregnancy two years prior. On the day of admission, she developed severe fatigue and near-syncope at home. EMS found her tachycardic and hypotensive (BP 82/48), with cool extremities and mild confusion. She was brought to the ED where she was found to have evidence of cardiogenic shock and was transferred to the CICU for escalation of care.
+
+**Past Medical History:**  
+- Acute bronchitis (2024)  
+- Viral sinusitis (2024)  
+- Facial laceration (2023), s/p repair, no residual deficits  
+- Normal pregnancy (2022)
+
+**Surgical History:**  
+- None except facial laceration repair
+
+**Medications prior to admission:**  
+- Acetaminophen 325 mg PO PRN  
+- Ibuprofen 200 mg PO PRN  
+- Medroxyprogesterone acetate 104 mg IM q3mo (last dose 2 months ago)  
+- Etonogestrel 68 mg implant placed 2021
+
+**Allergies:**  
+NKDA
+
+**Social History:**  
+- Non-smoker, no EtOH, no illicit drug use  
+- Lives with partner and toddler  
+- Works as a barista
+
+**Family History:**  
+- Mother: HTN  
+- Father: “Heart issues” in 40s (unclear)  
+- No known early sudden cardiac death
+
+---
+
+### HOSPITAL COURSE
+
+**Day 1:**  
+On arrival, patient was hypotensive, tachycardic, with S3 gallop and rales. ABG: pH 7.31, lactate 4.1. CXR: pulmonary edema. EKG: sinus tachy, nonspecific ST-T changes. Troponin mildly elevated (0.19 → 0.26). Echo: LVEF 15%, global hypokinesis, moderate MR, LV dilated. Given IV lasix, dobutamine, and norepinephrine. Infectious workup initiated (blood/urine cultures, viral panel). Cardiology and CT surgery consulted.
+
+**Day 2:**  
+Persistent hypotension despite escalating inotropes/pressors. Worsening lactic acidosis. Decision made to place percutaneous LVAD (Impella CP) for cardiogenic shock due to suspected fulminant viral myocarditis. Procedure performed at bedside, no complications. Anticoagulation initiated. Hemodynamics improved over next 12 hours. Renal function closely monitored (UOP low, Cr peaked at 2.1).
+
+**Day 3-4:**  
+Patient weaned off norepinephrine. Lactic acid normalized. LVEF remained low, but MAP stable on Impella support. Developed mild transaminitis (AST 102, ALT 94), likely ischemic hepatitis. Infectious workup: positive for Coxsackie B virus. No bacterial growth. Developed fever to 38.3, cultures negative, empiric abx held. Mild thrombocytopenia (nadir 61K). Monitored for hemolysis (LDH up, haptoglobin low).
+
+**Day 5-6:**  
+Gradual improvement in end-organ perfusion. Renal function recovered (Cr down to 1.1). Impella weaned and explanted on day 6. Repeat echo: LVEF 30%. Transitioned to oral HF regimen (metoprolol, lisinopril, furosemide). Transaminitis resolving. Transferred to step-down unit on day 7.
+
+---
+
+## PAST MEDICAL/SURGICAL HISTORY
+
+- See above
+
+---
+
+## PHYSICAL EXAM
+
+| Vitals        | Value      | Comment                  |
+|---------------|------------|--------------------------|
+| Temp          | 37.8C      | Max 38.3C (day 4)        |
+| HR            | 114        | Sinus tach, occasional PACs|
+| BP            | 96/54      | On dobutamine            |
+| RR            | 22         | Mild distress            |
+| SpO2          | 97%        | 2L NC                    |
+| Weight        | 58.2 kg    | Down 1.1kg from admit    |
+
+**Gen:** Appears fatigued, in mild distress  
+**HEENT:** Facial laceration, well-healed  
+**CV:** Tachycardic, S3, soft systolic murmur  
+**Lungs:** Rales at bases, mild accessory use  
+**Abd:** Nontender, mild hepatomegaly  
+**Ext:** No edema, pulses 2+  
+**Neuro:** Alert, oriented
+
+---
+
+## LABS
+
+**Selected Hospital Labs (CBC, Chem7, Cardiac, LFTs, others)**
+
+| Date | WBC  | Hgb | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | Trop | BNP   | LDH  |
+|------|------|-----|------|------|------|------|------|------|------|------|------|------|------|-------|------|
+| D1   | 7.9  | 15.8| 242  | 134  | 4.2  | 101  | 23   | 18   | 1.0  | 108  | 34   | 29   | 0.19 | 2200  | 220  |
+| D2   | 10.2 | 14.7| 205  | 132  | 4.8  | 98   | 19   | 23   | 2.1  | 144  | 67   | 59   | 0.26 | 3200  | 310  |
+| D3   | 8.1  | 13.1|  88  | 137  | 4.7  | 103  | 21   | 29   | 1.6  | 131  | 102  | 94   | 0.12 | 1600  | 366  |
+| D4   | 7.2  | 12.8|  61  | 136  | 4.1  | 105  | 24   | 17   | 1.3  | 120  | 85   | 72   | 0.09 | 1100  | 290  |
+| D5   | 6.5  | 12.3| 102  | 138  | 3.9  | 107  | 25   | 12   | 1.1  | 124  | 61   | 44   | <0.01| 890   | 200  |
+| D6   |      | 12.9| 149  | 140  | 4.0  | 106  | 26   | 11   | 1.1  |      | 37   | 28   | <0.01| 510   | 140  |
+
+*Missing entries reflect uncollected or hemolyzed samples.*
+
+---
+
+## MICROBIOLOGY
+
+- Blood cultures x2: no growth
+- Respiratory viral panel: positive for Coxsackie B
+- Urine culture: no growth
+
+---
+
+## IMAGING
+
+- CXR (admit): pulmonary edema, mild cardiomegaly
+- TTE (admit): LVEF 15%, dilated LV, mod MR
+- TTE (day 7): LVEF 30%, mild MR
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock secondary to fulminant viral myocarditis**  
+- Impella CP placed for mechanical support days 2-6  
+- Inotropes (dobutamine), pressors (norepinephrine)  
+- Guideline-directed medical therapy for HF initiated  
+- Monitor for arrhythmias, end-organ perfusion  
+- Plan: TTE in 1 week, outpatient HF F/U
+
+**2. Acute Decompensated Heart Failure**  
+- Diuresed with IV furosemide  
+- Fluid status monitored  
+- Transitioned to oral diuretic, beta-blocker, ACEi  
+- Daily weights, strict I/Os  
+- Plan: GDMT up-titration as tolerated
+
+**3. Acute Kidney Injury (resolved)**  
+- Likely multifactorial (hypoperfusion, diuretics)  
+- Cr peaked 2.1, now normalized  
+- Monitored UOP, nephrology consulted  
+- Plan: Avoid nephrotoxins, monitor labs
+
+**4. Ischemic Hepatitis (transaminitis)**  
+- AST/ALT peaked D3/D4, now improving  
+- No evidence of biliary obstruction  
+- Plan: Monitor LFTs, supportive care
+
+**5. Thrombocytopenia**  
+- Likely multifactorial (Impella, sepsis, meds)  
+- Nadir 61K, now improving  
+- No bleeding  
+- Plan: Monitor CBC, no intervention
+
+**6. Facial laceration, s/p repair**  
+- Healed, no infection  
+- Continue wound care PRN
+
+**7. Acute bronchitis, viral sinusitis**  
+- Supportive care, no abx indicated  
+- Monitor for secondary infection
+
+**8. Contraception**  
+- Medroxyprogesterone and etonogestrel implant  
+- Readdress after recovery
+
+**9. Pain**  
+- Mild, managed with acetaminophen/ibuprofen as needed  
+- Avoid NSAIDs in setting of renal injury
+
+---
+
+## MEDICATIONS (Active)
+
+- Metoprolol succinate 12.5 mg PO daily
+- Lisinopril 2.5 mg PO daily
+- Furosemide 20 mg PO daily
+- Acetaminophen 325 mg PO PRN
+- Heparin (while on Impella)
+- Docusate 100 mg PO BID
+- Pantoprazole 40 mg IV daily
+
+---
+
+## DISCHARGE PLANNING
+
+- Anticipate transfer to cardiac rehab after step-down
+- Close F/U with HF, primary care, and cardiology
+- Echo in 1 week, labs in 2 days post-discharge
+- Avoid strenuous activity, monitor for recurrent symptoms
+
+---
+
+**Attestation:**  
+This note was created by Dr. Jameson, Cardiology ICU, with input from cardiothoracic surgery, nephrology, and infectious disease.
+
+---
+
+**[END OF NOTE]**
+

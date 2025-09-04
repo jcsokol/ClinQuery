@@ -1,0 +1,167 @@
+**Patient:** Le Quigley  
+**MRN:** 3817261  
+**DOB:** 1981-02-27  
+**Sex:** Female  
+**Admitting Service:** Cardiology ICU  
+**Date of Admission:** 2024-03-29  
+**Attending:** Dr. R. Frazier  
+**Consults:** CV Surgery, Endocrinology, OB/GYN
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+**Le Quigley** is a 43-year-old female with past medical history of hypertension, obesity, prediabetes, chronic anemia, and multiple prior pregnancies complicated by antepartum eclampsia, admitted from the ED for acute decompensated heart failure with cardiogenic shock secondary to peripartum cardiomyopathy (PPCM). The patient required urgent placement of a temporary left ventricular assist device (Impella CP) for hemodynamic stabilization.
+
+She was transferred to the ICU, where her course was complicated by acute kidney injury, paroxysmal atrial fibrillation with RVR, and persistent anemia. She was managed with IV diuresis, inotropic support, and eventually weaned off temporary mechanical support. Below is a detailed problem-based assessment and plan, followed by a summary of her labs and relevant data.
+
+---
+
+## ASSESSMENT & PLAN
+
+### 1. **Cardiogenic Shock / Peripartum Cardiomyopathy**
+- **Assessment:** Patient presented with progressive dyspnea, orthopnea, PND, and lower extremity edema one week postpartum (G6P5). Echo on admission: LVEF 18%, global hypokinesis, mild MR, moderate TR, LVEDD 6.4cm. Troponin mildly elevated without ischemic pattern. Refractory hypotension despite pressors.
+- **Plan:**
+    - Temporary LVAD (Impella CP) placed at bedside, successful with immediate improvement in MAP.
+    - Titrated milrinone and norepinephrine for inotropic/vasopressor support.
+    - Serial echocardiography to monitor LV function.
+    - Guideline-directed medical therapy (GDMT): Initiated low-dose carvedilol, titrated lisinopril as tolerated.
+    - Daily CV surgery rounds.
+    - Strict I/O, daily weights, volume status assessment.
+    - Monitor for device-related hemolysis, limb ischemia.
+
+### 2. **Acute Kidney Injury (AKI) – likely cardiorenal**
+- **Assessment:** Oliguria on admission; Cr rose from baseline 0.9 to peak 2.1 mg/dL, likely multifactorial (low flow, diuretics, ACEi).
+- **Plan:**
+    - Held nephrotoxins, adjusted diuretics for urine output.
+    - Monitored lytes, replaced K/Mg/PO4 as needed.
+    - Nephrology consulted; no indication for RRT, renal function improving post-LVAD support.
+
+### 3. **Atrial Fibrillation with RVR**
+- **Assessment:** Developed new-onset AFib on HD#2, HR to 160s, symptomatic with mild hypotension.
+- **Plan:**
+    - IV amiodarone load, transitioned to oral after rate/rhythm control.
+    - Anticoagulation with IV heparin (bridge to warfarin).
+    - Continued telemetry monitoring.
+
+### 4. **Chronic Anemia**
+- **Assessment:** Baseline Hgb ~10-11, dropped to 7.8 on HD#3 (likely dilutional, some hemolysis from device).
+- **Plan:**
+    - Monitored haptoglobin, LDH, retic (see labs).
+    - 1 unit PRBC transfused HD#3.
+    - Iron studies sent; oral iron re-initiated.
+    - GI consult for occult blood loss (FOBT negative).
+
+### 5. **Hypertension / Heart Failure**
+- **Assessment:** Longstanding, poorly controlled; BP labile during ICU stay.
+- **Plan:**
+    - Restarted carvedilol and ACEi as tolerated.
+    - Strict BP monitoring, goal SBP 100-110.
+    - Continued home atenolol/chlorthalidone on discharge planning.
+
+### 6. **Obesity**
+- **Assessment:** BMI 30.1 on admission; weight gain due to volume overload.
+- **Plan:**
+    - Fluid restriction, daily weights.
+    - Nutrition consult for low-sodium, heart-healthy diet.
+    - Weight loss counseling on discharge.
+
+### 7. **Pregnancy/Postpartum Status**
+- **Assessment:** 8 days postpartum, no current OB complications, uterus involuting appropriately.
+- **Plan:**
+    - OB/GYN co-management.
+    - Pump thromboprophylaxis.
+    - Lactation consult (not breastfeeding due to meds).
+
+### 8. **Prediabetes**
+- **Assessment:** HbA1c 6.3% on admission, hyperglycemia during stress.
+- **Plan:**
+    - Sliding scale insulin in ICU.
+    - Endocrinology consult.
+    - Discussed lifestyle changes.
+
+### 9. **Streptococcal Pharyngitis (remote), Viral Pharyngitis (remote)**
+- **Assessment:** No evidence of active infection; throat culture negative.
+- **Plan:**
+    - No antibiotics needed.
+    - Monitor for nosocomial infection.
+
+---
+
+## ICU EVENTS TIMELINE
+
+| Hospital Day | Event Summary |
+|--------------|--------------|
+| HD#0         | Admitted from ED, severe SOB, CXR: pulm edema, Echo: EF 18%. Transferred to ICU. |
+| HD#1         | MAP <65 despite pressors. Impella CP placed. Started milrinone. Nephrology, CV Surgery consulted. |
+| HD#2         | Oliguria, rising Cr. New AFib with RVR. Amio started. |
+| HD#3         | Hgb drop, transfused PRBC x1. Renal function stabilizing. |
+| HD#4         | Weaned off Impella. Echo: EF 28%. Steady improvement. |
+| HD#5         | Mobilized to chair. Transferred to step-down. |
+
+---
+
+## LABS (ICU COURSE)
+
+| Date/Time        | WBC   | Hgb  | Hct   | Plt   | Na   | K    | Cl   | CO2   | BUN  | Cr   | Glu   | Troponin | AST   | ALT   | LDH   |
+|------------------|-------|------|-------|-------|------|------|------|-------|------|------|-------|----------|-------|-------|-------|
+| 2024-03-29 04:00 | 12.1  | 10.2 | 31.0  | 265   | 136  | 4.3  | 101  | 21    | 22   | 1.4  | 148   | 0.08     | 46    | 33    | 410   |
+| 2024-03-29 18:00 | 13.7  | 9.7  | 29.5  | 238   | 134  | 4.1  | 98   | 19    | 27   | 1.8  | 171   | 0.12     | 52    | 38    | 557   |
+| 2024-03-30 06:00 | 11.9  | 9.1  | 28.2  | 231   | 133  | 4.0  | 97   | 20    | 32   | 2.1  | 134   | 0.11     | 57    | 43    | 601   |
+| 2024-03-30 21:00 | 10.5  | 8.3  | 25.9  | 209   | 135  | 4.5  | 99   | 23    | 28   | 1.9  | 118   | 0.10     | 49    | 36    | 477   |
+| 2024-03-31 07:00 | 9.2   | 7.8  | 24.1  | 202   | 136  | 4.2  | 100  | 25    | 24   | 1.8  | 101   | 0.07     | 38    | 29    | 388   |
+| 2024-03-31 19:00 | 8.8   | 9.2  | 28.6  | 219   | 137  | 4.0  | 102  | 24    | 21   | 1.5  | 96    | 0.06     | 34    | 25    | 255   |
+| 2024-04-01 08:00 | 7.6   | 9.9  | 31.5  | 228   | 138  | 3.9  | 103  | 26    | 18   | 1.2  | 92    |          | 29    | 20    |       |
+| 2024-04-02 07:30 |       | 10.4 | 33.0  | 237   | 139  | 4.1  | 104  | 27    | 16   | 1.0  |       | 0.03     |       | 18    | 199   |
+
+*Some labs (e.g., LDH, AST/ALT, troponin) not repeated daily; see full chart for trend.*
+
+---
+
+## VITALS (SELECTED)
+
+| Date/Time        | Temp    | HR   | BP         | RR  | SpO2  | Comments                |
+|------------------|---------|------|------------|-----|-------|-------------------------|
+| 2024-03-29 04:00 | 37.8°C  | 116  | 82/54      | 24  | 92%   | On 4L NC, dyspneic      |
+| 2024-03-29 18:00 | 37.6°C  | 98   | 104/62     | 22  | 95%   | Impella in situ         |
+| 2024-03-30 06:00 | 37.3°C  | 92   | 110/68     | 20  | 96%   | AFib onset              |
+| 2024-03-30 21:00 | 37.2°C  | 78   | 100/66     | 20  | 97%   | After amiodarone        |
+| 2024-03-31 07:00 | 37.0°C  | 76   | 98/64      | 18  | 98%   | Extubated, alert        |
+| 2024-04-01 08:00 | 36.9°C  | 74   | 104/70     | 18  | 99%   | Mobilized to chair      |
+
+---
+
+## DISCHARGE PLAN
+
+- Step-down telemetry for ongoing cardiac monitoring, pending removal of all lines.
+- Cardiology, nephrology, OB/GYN, and nutrition outpatient follow-up.
+- Home medications to include GDMT for HF, oral anticoagulation, iron supplementation, and antihypertensives.
+- Strict sodium/fluid restriction, daily weights, BP log.
+- Anticoagulation teaching; avoid pregnancy until cleared by cardiology/OB.
+
+---
+
+## ORDERS / ACTIVE MEDS (ICU & Step-Down)
+
+| Medication                      | Dose/Route             | Indication                  |
+|----------------------------------|------------------------|-----------------------------|
+| Milrinone                       | 0.25 mcg/kg/min IV     | Inotrope, weaned HD#4       |
+| Norepinephrine                  | Titrated IV            | Pressor, off HD#2           |
+| Amiodarone                      | 150mg IV load, PO      | AFib with RVR               |
+| Heparin                         | IV drip                | Anticoagulation             |
+| Lisinopril                      | 2.5mg PO daily         | HF, titrate as tolerated    |
+| Carvedilol                      | 3.125mg PO BID         | HF, beta-blocker            |
+| Furosemide                      | 40mg IV BID            | Diuresis                    |
+| Iron sulfate                    | 325mg PO daily         | Anemia                      |
+| PRBC                            | 1 unit                 | Hgb <8                      |
+| Sliding scale insulin            |                        | Hyperglycemia               |
+
+---
+
+**Physician:**  
+Dr. R. Frazier, MD  
+Cardiology ICU Attending
+
+---
+
+**End of Note**

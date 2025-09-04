@@ -1,0 +1,187 @@
+**[EPIC EHR: Inpatient ICU Encounter]**
+
+---
+
+**Patient Name:** Iluminada Pacocha  
+**MRN:** 00344812  
+**DOB:** 04/19/1977 (47 years)  
+**Sex:** Female  
+**Date of Admission:** 03/02/2024  
+**Attending:** Dr. S. Morales, MD  
+**Consults:** Cardiology, Endocrinology, Infectious Disease  
+**Admission Diagnosis:** Acute decompensated heart failure with cardiogenic shock  
+**Significant PMH:** Prediabetes, viral sinusitis (recurrent), hyperlipidemia, obesity (BMI 28), possible OSA (not previously worked-up), remote tobacco use (quit 2009)  
+**Allergies:** NKDA  
+**Code status:** Full code  
+**Language:** English/Spanish
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+Ms. Pacocha presented to ED with 3 days of worsening dyspnea, orthopnea, and lower extremity edema. She was found to be tachypneic, hypoxic on room air (SpO₂ 86%), tachycardic (HR 121), and hypotensive (BP 82/54). Initial labs revealed acute kidney injury, elevated lactate, and mild troponin elevation. She was admitted to the ICU for management of cardiogenic shock. Despite diuresis and inotropes, she required placement of a temporary percutaneous left ventricular assist device (Impella CP) for hemodynamic support on hospital day 2. Multispecialty teams were involved. She experienced mild improvement in end-organ perfusion and was weaned off the device by day 7.
+
+---
+
+### ICU PHYSICAL EXAM (HD 3)
+
+**Gen:** Obese, in no acute distress, on nasal cannula 2L  
+**HEENT:** Oropharynx moist, mild sinus tenderness  
+**CV:** Tachycardic, S3 present, no murmur, Impella device in place, femoral site clean  
+**Pulm:** Bibasilar crackles, reduced air entry bases, no wheeze  
+**Abd:** Soft, NT, +BS  
+**Ext:** 2+ pitting edema BLE, pulses 2+  
+**Neuro:** AOx3, no focal deficit  
+**Skin:** No rashes, device site C/D/I  
+**Lines:** R IJ TLC, L radial A-line, Foley, Impella LFA
+
+---
+
+### VITALS TREND (selected)
+
+| Date      | Temp (°C) | HR | BP         | RR | SpO₂ | Weight (kg) |
+|-----------|-----------|----|------------|----|------|-------------|
+| 3/2/24    | 36.9      | 121| 82/54      | 28 | 86%  | 66.2        |
+| 3/3/24    | 37.0      | 105| 90/62      | 24 | 92%  | 65.9        |
+| 3/5/24    | 36.7      | 96 | 104/68     | 18 | 96%  | 65.5        |
+| 3/8/24    | 36.8      | 83 | 116/72     | 16 | 98%  | 65.7        |
+
+---
+
+### LABS
+
+#### CBC/Chemistry (selected, ICU days 1-8)
+
+| Date   | WBC (K) | Hgb (g/dL) | Plt (K) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|--------|---------|------------|---------|-------------|------------|-------------|--------------|-------------|------------|-------------|
+| 3/2/24 | 7.0     | 14.2       | 341     | 143         | 4.0        | 108         | 22.7         | 8.8         | 1.07       | 67.4        |
+| 3/3/24 | 8.1     | 13.7       | 315     | 141         | 4.2        | 110         | 21           | 13.2        | 1.24       | 89.3        |
+| 3/5/24 | 10.4    | 13.1       | 289     | 139         | 4.5        | 112         | 19           | 21.7        | 1.62       | 118.0       |
+| 3/6/24 | 9.6     | 13.5       | 277     | 140         | 4.1        | 111         | 23           | 18.9        | 1.40       | 112.2       |
+| 3/7/24 | 8.9     | 13.9       | --      | 140         | 4.3        | --          | --           | 16.3        | 1.18       | 102.1       |
+| 3/8/24 | 7.7     | 14.0       | 311     | 142         | 4.0        | 107         | 24           | 12.8        | 1.00       | 101.5       |
+
+#### Other labs
+
+- **Troponin I:** 0.12 ng/mL (3/2), 0.10 ng/mL (3/3), 0.05 ng/mL (3/5)
+- **BNP:** 2342 pg/mL (3/2)
+- **Lactate:** 3.1 mmol/L (3/2), 2.1 (3/3), 1.1 (3/5)
+- **AST/ALT:** 46/41 U/L (3/3), 31/28 (3/6)
+- **Total bili:** 1.3 mg/dL (3/3), 0.9 (3/7)
+- **INR:** 1.2 (3/3)
+- **HbA1c:** 6.3% (baseline)
+
+#### Imaging
+
+- **CXR (3/2):** Pulmonary vascular congestion, mild bibasilar effusions, enlarged cardiac silhouette
+- **Echo (3/2):** LVEF 15%, global hypokinesis, mild MR, RV normal, no thrombus
+- **CT sinus (3/4):** Mucosal thickening, consistent with chronic sinusitis
+
+---
+
+### MEDICATION ADMINISTRATION HISTORY
+
+- Furosemide IV 40 mg q8h
+- Dobutamine IV (titrated, HD2-6)
+- Norepinephrine IV (HD1-2, weaned off)
+- Amoxicillin-clavulanate 250/125 mg PO BID (for sinusitis, HD1-7)
+- Atorvastatin 20 mg PO qHS
+- Aspirin 81 mg PO daily (started HD3)
+- Insulin sliding scale (prn, BG >180)
+- DVT prophylaxis: Heparin SQ 5000u q8h
+
+---
+
+### PROBLEM-BASED ASSESSMENT & PLAN
+
+#### 1. **Cardiogenic Shock / Acute Decompensated HF**
+- Etiology: Non-ischemic cardiomyopathy (presumed viral, no CAD on prior workup)
+- Required temporary LVAD (Impella CP) for HD2-7
+- Diuresis, inotropes, vasopressors as needed
+- Monitored for hemolysis, limb ischemia, device malfunction
+- Plan: Continue uptitration of GDMT, consider advanced therapies if no recovery, close hemodynamics
+
+#### 2. **Acute Kidney Injury (AKI)**
+- Likely pre-renal from hypoperfusion, diuretics; Cr peaked at 1.62, improved to baseline
+- Monitored urine output q1h, daily labs
+- Plan: Avoid nephrotoxins, adjust diuretics, maintain MAP >65
+
+#### 3. **Volume Overload / Pulmonary Edema**
+- Managed with IV diuretics, fluid restriction
+- Monitored weights, CXR, physical exam
+- Plan: Continue aggressive diuresis, daily weights
+
+#### 4. **Prediabetes / Hyperglycemia**
+- BG fluctuated (67-118), HbA1c 6.3%
+- No DKA/HHS, no insulin required except sliding scale
+- Plan: Monitor BG, consider endocrinology f/u post-discharge
+
+#### 5. **Sinusitis, Viral (superimposed bacterial?)**
+- Sinus tenderness, imaging c/w chronic changes
+- Completed 7-day course of amox-clav
+- Plan: Supportive care, ENT outpatient
+
+#### 6. **Hyperlipidemia**
+- On statin, LDL 88
+- Plan: Continue statin, dietary counseling
+
+#### 7. **Obesity (BMI 28)**
+- Nutritional consult, monitored caloric intake
+- Plan: Weight loss counseling, sleep study as outpatient
+
+#### 8. **DVT Prophylaxis**
+- Heparin SQ, SCDs
+- No DVT/PE
+
+#### 9. **Device-related**
+- Impella site monitored daily: no bleeding, infection, or limb ischemia
+- Device removed HD7, site C/D/I
+
+#### 10. **Social / Discharge Planning**
+- Lives with daughter, independent
+- Needs PT/OT assessment, education on HF, close f/u
+- Discharge goal: home with VNA, f/u HF clinic
+
+---
+
+### ICU DAILY PROGRESS NOTE EXCERPTS
+
+**HD2:**  
+"Pt requiring escalating vasopressors, Impella CP placed at bedside by interventional cardiology. Immediate improvement in MAP and UOP. Tolerated procedure well."
+
+**HD4:**  
+"On Impella support, stable hemodynamics, down-titrating dobutamine. AKI improving. Sinusitis symptoms resolving."
+
+**HD7:**  
+"Impella weaned and removed, hemostasis achieved, no acute complications. Diuresis ongoing, transitioning to PO diuretics."
+
+---
+
+### DISCHARGE MEDICATIONS
+
+- Furosemide 40 mg PO BID
+- Metoprolol succinate 25 mg PO daily (to uptitrate)
+- Lisinopril 2.5 mg PO daily
+- Atorvastatin 20 mg PO qHS
+- Aspirin 81 mg PO daily
+- Amoxicillin-clavulanate (course completed)
+- Sliding scale insulin (prn)
+
+---
+
+### FOLLOW-UP
+
+- Cardiology/HF clinic in 1 week
+- Endocrinology for DM prevention
+- ENT for sinusitis
+- PT/OT as outpatient
+- Sleep study referral
+
+---
+
+**Physician:** S. Morales, MD  
+**Date/Time:** 03/09/2024 09:18
+
+---
+
+**[End of EHR record]**

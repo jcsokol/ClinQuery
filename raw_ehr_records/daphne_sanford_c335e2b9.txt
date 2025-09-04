@@ -1,0 +1,153 @@
+**Patient Name:** Sanford, Daphne  
+**MRN:** 00842371  
+**DOB:** 03/19/1964  
+**Sex:** Female  
+**Admission Date:** 03/18/2024  
+**Attending:** Dr. S. Patel  
+**Admitting Dx:** Cardiogenic shock secondary to acute decompensated heart failure  
+**Service:** MICU  
+**Allergies:** NKDA  
+**Code Status:** Full Code  
+
+---
+
+# HOSPITAL COURSE SUMMARY
+
+**Daphne Sanford** is a 60-year-old woman with a history of hypertension, prediabetes, chronic anemia, hyperlipidemia, and recent viral pharyngitis, who presented to the ED with progressive dyspnea on exertion, orthopnea, and lower extremity edema. Her home medications include atenolol/chlorthalidone, multiple contraceptives (recently stopped), and simvastatin. Initial workup was notable for elevated BNP, CXR with pulmonary edema, and EKG with nonspecific ST-T changes. Troponin T trended up over the first 24 hrs. Despite IV diuresis, she became hypotensive and oliguric, requiring transfer to the MICU.
+
+On hospital day 2, she developed worsening hypoxia and hypotension refractory to pressors and inotropes. She was subsequently intubated and a left-sided Impella CP device was placed for temporary mechanical circulatory support. She stabilized over the next 48 hrs, with slow improvement in end-organ function. After 5 days, the Impella was weaned and removed. She has since been transitioned to oral heart failure regimen and is making slow progress in stepdown.
+
+---
+
+# ASSESSMENT & PLAN (by problem)
+
+## 1. Cardiogenic Shock / Acute Decompensated Heart Failure  
+- **Background:** Hx HTN, hyperlipidemia, prediabetes, chronic anemia; no prior known CAD or established HF.  
+- **Hospital Course:** Presented with acute pulmonary edema, hypotension, and evidence of end-organ hypoperfusion. Required intubation, vasopressors, and mechanical support (Impella CP). Likely ischemic etiology given troponin leak and echo with new anterior wall hypokinesis.  
+- **Plan:**  
+  - Continue gentle diuresis (IV furosemide)  
+  - Titrate beta-blocker and ACEi as tolerated  
+  - Daily weights, I/Os, strict low Na diet  
+  - Serial TTEs  
+  - Cardiology f/u  
+  - Outpatient cardiac MRI scheduled  
+  - Consider ICD if EF remains reduced at 90 days  
+  - Cardiac rehab referral
+
+## 2. Anemia  
+- **Background:** Chronic microcytic anemia, baseline Hgb ~11. Recent drop to 8.4 on admission, likely multifactorial (acute illness, hemodilution, possible GI loss).  
+- **Plan:**  
+  - Monitor CBC daily  
+  - Iron studies pending  
+  - No transfusion at this time (asymptomatic, Hgb >7)  
+  - GI consult if persistent downtrend
+
+## 3. Prediabetes  
+- **Background:** A1c 6.3% on admission; no prior DM diagnosis.  
+- **Plan:**  
+  - Monitor CBGs while inpatient  
+  - Diabetic diet  
+  - Endocrine f/u as outpatient
+
+## 4. Hypertension  
+- **Background:** Multiple antihypertensives at home. BP labile during ICU stay.  
+- **Plan:**  
+  - Restart home atenolol/chlorthalidone as tolerated  
+  - Monitor for hypotension  
+  - Hold PRN if MAP <65
+
+## 5. Hyperlipidemia  
+- **Plan:**  
+  - Restart simvastatin  
+  - Lipid panel prior to discharge
+
+## 6. Recent viral pharyngitis and sinusitis  
+- **Plan:**  
+  - Continue supportive care  
+  - No antibiotics indicated  
+  - Monitor for secondary infection
+
+## 7. Contraception management  
+- **Plan:**  
+  - All hormonal contraceptives held due to acute illness and risk of thrombosis  
+  - Gyn consult for long-term plan
+
+## 8. ICU Delirium Prevention  
+- **Plan:**  
+  - Sleep hygiene, early mobilization  
+  - Reorient PRN  
+  - Minimize sedation
+
+## 9. VTE Prophylaxis  
+- **Plan:**  
+  - SCDs now, start LMWH when safe post-Impella removal
+
+---
+
+# HOSPITAL LABS
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Troponin T | BNP (pg/mL) | AST (U/L) | ALT (U/L) | Alk Phos (U/L) | Alb (g/dL) | Ca (mg/dL) |
+|------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|------------|-------------|-----------|-----------|---------------|------------|------------|
+| 3/18/24    | 8.7        | 8.4        | 25.3    | 310        | 139         | 5.2        | 111         | 28           | 23          | 1.3        | 202         | 0.18       | 2165        | 27        | 36        | 29            | 3.6        | 9.8        |
+| 3/19/24    | 7.9        | 8.8        | 27.0    | 334        | 141         | 4.8        | 109         | 27           | 18          | 1.1        | 176         | 0.22       | 1840        | 31        | 34        | 32            | 3.9        | 9.7        |
+| 3/20/24    | 9.1        | 9.1        | 28.5    | 352        | 140         | 4.5        | 110         | 26           | 15          | 1.0        | 128         | 0.20       | 1560        | 23        | 29        | 28            | 3.8        | 9.6        |
+| 3/21/24    | 8.2        | 9.4        | 29.6    | 370        | 139         | 4.2        | 112         | 25           | 14          | 0.9        | 110         | 0.12       | 1210        | 21        | 27        | --            | 3.9        | --         |
+| 3/22/24    | 7.6        | 9.6        | 30.1    | 354        | 140         | 4.1        | 111         | 25           | 12          | 0.8        | 104         | --         | 950         | --        | --        | 27            | --         | 9.7        |
+| 3/23/24    | 7.2        | 10.1       | 32.1    | 341        | --          | 4.0        | 110         | 25           | 12          | 0.8        | 98          | --         | 800         | 19        | 25        | 25            | 4.0        | 9.8        |
+
+*Note: Several labs not drawn daily due to line issues or clinical discretion.*
+
+---
+
+# PROCEDURES
+
+- **3/19/24:** Left-sided Impella CP placement via femoral artery, performed in cath lab under fluoroscopic guidance. No immediate complications; device supported for 5 days.
+- **3/19/24:** Endotracheal intubation for acute hypoxic respiratory failure.
+- **3/24/24:** Impella explant at bedside, hemostasis achieved.
+
+---
+
+# MICROBIOLOGY
+
+- Blood cultures x2: No growth
+- Respiratory viral panel: Rhinovirus/Enterovirus positive
+- Sputum cultures: Not collected
+
+---
+
+# IMAGING
+
+- **CXR 3/18/24:** Pulmonary edema, bilateral effusions, enlarged cardiac silhouette  
+- **TTE 3/19/24:** LVEF 28%, new anterior wall hypokinesis, mild MR  
+- **CT Head 3/19/24:** No acute infarct or hemorrhage
+
+---
+
+# MEDICATIONS (Active Inpatient)
+
+- Furosemide IV 40mg q8h  
+- Metoprolol tartrate 12.5mg BID (titrating)  
+- Lisinopril 2.5mg daily  
+- Simvastatin 10mg nightly  
+- Heparin SQ 5000u q8h (started after Impella removal)  
+- Acetaminophen PRN  
+- All hormonal contraceptives held
+
+---
+
+# DISCHARGE PLANNING
+
+- Anticipate transfer to telemetry floor in 48 hrs  
+- Cardiac rehab referral  
+- Home health nursing for first 2 weeks  
+- Close outpatient cardiology and primary care follow-up  
+
+---
+
+# SIGNED  
+S. Patel, MD  
+03/24/2024 14:13
+
+---
+
+**(End of note)**

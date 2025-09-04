@@ -1,0 +1,130 @@
+**Patient:** Sporer, Wilfred  
+**MRN:** 01589276  
+**DOB:** 12/15/1987  
+**Sex:** Male  
+**Date of Admission:** 05/20/2024  
+**Attending:** Dr. R. Hersch  
+**Location:** MICU, 3rd Floor  
+**Admitting Dx:** Cardiogenic Shock, s/p Influenza B myocarditis, acute decompensated heart failure  
+**Allergies:** NKDA  
+**Code Status:** Full Code  
+**Height:** 178 cm  
+**Weight:** 94.8 kg  
+**BMI:** 29.9 kg/m2  
+
+---
+
+# History of Present Illness
+
+36-year-old male with PMH of viral sinusitis, acute bronchitis, and recent pharyngitis who presented to the ED with 3 days of severe dyspnea, orthopnea, and progressive lower extremity edema. Initial workup notable for hypotension, hypoxia, elevated troponin, and new onset reduced LVEF (EF 18%) on echo. Influenza B PCR positive. Patient deteriorated rapidly, requiring intubation and vasopressor support. Due to worsening shock and end-organ hypoperfusion, a percutaneous left ventricular assist device (Impella CP) was placed on hospital day 2.  
+
+Medications on admission: acetaminophen, astemizole, epinephrine auto-injector (home med, not used in hospital).
+
+---
+
+# Hospital Course Summary
+
+- **Day 1:** Admitted MICU for presumed viral myocarditis. Initial labs with leukocytosis, mild transaminitis, AKI (Cr 1.7). Echo: global hypokinesis, EF 18%, mild MR.
+- **Day 2:** Developed refractory hypotension, rising lactate. Initiated norepinephrine, dobutamine. Worsening renal and hepatic indices. Impella CP placed via femoral approach. Hemodynamics improved.
+- **Day 3-5:** Gradual improvement in perfusion, weaned off vasopressors. Persistent AKI, started on CRRT. Extubated on HD 4.
+- **Day 6-7:** Impella weaned and explanted. Renal function recovering. Transaminitis resolving.  
+- **Day 8-present:** Mobilizing with PT. Renal function near baseline. Off pressors/inotropes.
+
+---
+
+# Problem-Based Assessment and Plan
+
+## 1. Cardiogenic Shock, s/p Influenza B Myocarditis, Impella CP  
+- Initial presentation with fulminant myocarditis, rapidly progressive shock.  
+- Impella CP placed HD 2 for mechanical circulatory support, explanted HD 6.  
+- Now hemodynamically stable, off all pressors/inotropes.  
+- **Plan:** Continue cardiac monitoring, daily TTE; guideline-directed medical therapy (GDMT) for HF to be initiated as tolerated. Cardiology f/u.  
+
+## 2. Acute Kidney Injury (KDIGO Stage 2), multifactorial  
+- Likely secondary to low cardiac output and vasopressor use.  
+- Required temporary CRRT HD 3-6, now off. UOP improving.  
+- **Plan:** Monitor daily lytes, Cr, strict I/O, nephrology consult. Avoid nephrotoxins.  
+
+## 3. Acute Liver Injury  
+- Transaminitis (AST/ALT peak 304/210) likely from shock liver. Downtrending now.  
+- **Plan:** Monitor LFTs, supportive care.  
+
+## 4. Acute Hypoxic Respiratory Failure  
+- Intubated HD 2-4 for hypoxia, likely multifactorial (pulmonary edema, myocarditis, possible aspiration).  
+- Extubated HD 4, on 2L NC O2. CXR: improving vascular congestion.  
+- **Plan:** Pulmonary toilet, IS, wean O2.  
+
+## 5. Deconditioning  
+- Prolonged ICU stay with bedrest.  
+- **Plan:** PT/OT daily, nutrition optimization.  
+
+## 6. Viral Sinusitis/Bronchitis/Pharyngitis  
+- No current evidence of ongoing infection.  
+- **Plan:** Supportive care, monitor for secondary bacterial infection.  
+
+## 7. Other  
+- DVT ppx (SCDs, heparin sq), stress ulcer ppx (PPI), bowel regimen, glycemic control, VTE risk assessment daily.  
+- Home meds reviewed; astemizole held due to QTc prolongation risk.
+
+---
+
+# Labs
+
+**CBC / CHEM7 / LFT Trends**  
+| Date       | WBC  | Hgb  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | AST  | ALT  | Alk Phos | T. Bili | Troponin | BNP   |
+|------------|------|------|------|------|------|------|------|------|------|------|------|----------|---------|----------|-------|
+| 5/20/24 AM | 15.2 | 16.7 | 162  | 137  | 4.3  | 102  | 23   | 32   | 1.7  | 198  | 143  | 110      | 1.1     | 3.45     | 982   |
+| 5/21/24 AM | 12.6 | 15.1 | 139  | 134  | 4.8  | 98   | 19   | 41   | 2.2  | 304  | 210  | 137      | 2.3     | 4.12     | 1167  |
+| 5/22/24 PM | 9.2  | 14.8 | 122  | 138  | 4.1  | 104  | 21   | 38   | 2.4  | 272  | 189  | 123      | 1.8     | 2.88     | 837   |
+| 5/23/24 AM | 7.5  | 13.9 | 168  | 136  | 3.7  | 100  | 18   | 26   | 1.6  | 201  | 122  | 118      | 1.2     | 1.22     | 504   |
+| 5/24/24 AM | --   | 12.8 | 182  | 139  | 3.9  | 104  | 22   | 19   | 1.3  | 112  | 78   | --       | --      | 0.47     | 287   |
+| 5/26/24 AM | 6.2  | 12.6 | 201  | 140  | 4.0  | 106  | --   | 14   | 1.1  | 49   | 36   | 97       | 0.7     | --       | 122   |
+
+*Some labs missing due to hemolysis or sampling error.*
+
+---
+
+# Vitals (selected)
+
+| Date/Time   | BP        | HR   | RR   | Temp  | SpO2  | O2 device  |
+|-------------|-----------|------|------|-------|-------|------------|
+| 5/20/24 06:00 | 88/54   | 119  | 24   | 37.4  | 91%   | RA         |
+| 5/21/24 03:00 | 77/48   | 126  | 28   | 36.9  | 89%   | 6L NC      |
+| 5/22/24 12:00 | 95/60   | 109  | 17   | 37.1  | 94%   | 2L NC      |
+| 5/24/24 06:00 | 108/64  | 97   | 16   | 37.0  | 97%   | RA         |
+| 5/26/24 08:00 | 112/70  | 84   | 15   | 36.8  | 98%   | RA         |
+
+---
+
+# Medications (Hospital)
+
+- Norepinephrine (HD 2-4, off)
+- Dobutamine (HD 2-5, off)
+- Furosemide IV (prn)
+- Heparin SQ
+- Omeprazole
+- Acetaminophen
+- Astemizole (held)
+- Metoprolol (started HD 7)
+- Lisinopril (initiated HD 8, low dose)
+- Epinephrine auto-injector (home med, not used inpatient)
+
+---
+
+# Discharge Planning
+
+- Anticipate transfer to stepdown unit in 24h if stable.
+- Cardiology, nephrology, PT/OT f/u  
+- HF education, vaccination review, med reconciliation
+- Outpatient echo in 1-2 weeks
+
+---
+
+# Physician Attestation
+
+I have reviewed the above and discussed with the ICU team.  
+— Dr. R. Hersch, MD
+
+---
+
+**[End of Note]**

@@ -1,0 +1,180 @@
+---
+**Epic EHR - Inpatient Chart Review**  
+**Patient:** Margarita Casillas  
+**MRN:** 021473-ICU  
+**DOB:** 10/19/1973  
+**Sex:** Female  
+**Admit Date:** 2024-04-12  
+**Attending:** Dr. Janine Lee, Cardiology  
+**Consults:** Cardiology, Nephrology, Infectious Disease, ICU Medicine  
+**Allergies:** NKDA  
+**Code Status:** Full
+
+---
+
+### **Admission H&P (4/12/2024)**
+
+**Chief Complaint:**  
+Progressive shortness of breath, orthopnea, and chest pressure x 5 days.  
+
+**HPI:**  
+49F with h/o obesity, hyperlipidemia, chronic pain, presented with 5 days of worsening SOB, chest pressure, and lower extremity swelling. Denies fever, cough, or sick contacts. No recent travel. PMH notable for hyperlipidemia (on simvastatin), chronic pain (on ER oxycodone), and multiple prior viral URIs. No prior cardiac history.  
+
+On arrival: BP 96/54, HR 118, RR 22, SpO2 94% RA, T 37.9C. Exam: JVD, S3, bibasilar crackles, 2+ pitting edema.  
+
+**Pertinent PMH:**  
+- Hyperlipidemia  
+- Obesity (BMI 30+)  
+- Chronic pain  
+- Multiple prior viral URIs and cystitis  
+- No known CAD or DM  
+- Creatinine elevated at baseline (CKD III?)  
+
+**Pertinent Medications at Home:**  
+- Simvastatin 10 mg qHS  
+- Oxycodone ER 15 mg BID  
+- Nitrofurantoin (recent, for cystitis)  
+- Amox/Clav (recent, for sinusitis)  
+- Phenazopyridine PRN  
+
+**Social:**  
+Non-smoker, rare ETOH, no illicit drugs. Lives with partner.  
+
+---
+
+#### **Hospital Course Summary:**
+
+**Day 1:**  
+Admitted to ICU for acute decompensated heart failure with low-output shock, likely new-onset nonischemic cardiomyopathy (EF 12% on echo). Progressive hypotension despite diuresis and inotropes. Lactate 3.1, troponin 0.08 → 0.12.  
+
+**Day 2:**  
+Continued hemodynamic compromise. Swan-Ganz: CI 1.6, PCWP 25. Required increasing norepinephrine and dobutamine. Emergent placement of temporary percutaneous LVAD (Impella CP) for cardiogenic shock.  
+
+**Day 3-6:**  
+Hemodynamics improved. Weaned off vasopressors by day 5. Renal function worsened transiently but improved with diuresis and improved perfusion. Infectious w/u negative.  
+
+**Day 7:**  
+Impella weaned and explanted. Initiated on guideline-directed HF therapy.  
+
+**Day 8+:**  
+Stable, off pressors, transitioning to oral HF meds. Slow improvement in renal function.  
+
+---
+
+### **Assessment & Plan**
+
+**1. Cardiogenic Shock, Nonischemic Cardiomyopathy, s/p Temporary LVAD (Impella CP)**
+- New severe LV dysfunction (EF 12%), no CAD on cath
+- Etiology unclear; likely viral myocarditis vs. idiopathic
+- Emergent LVAD for refractory shock, now explanted
+- Plan: Continue GDMT (beta-blocker, ACEi, spironolactone), close monitoring, cardiac MRI pending, consider endomyocardial biopsy if no improvement
+
+**2. Acute on Chronic Kidney Injury (baseline Cr ~1.2, peak 2.7)**
+- Likely multifactorial: low cardiac output, diuretic use
+- Now trending down (Cr 2.1 today)
+- Plan: Monitor UOP, avoid nephrotoxins, adjust meds, nephrology following
+
+**3. Hyperlipidemia**
+- Continue simvastatin
+- Monitor LFTs, lipid panel on discharge
+
+**4. Obesity (BMI 30+)**
+- Nutrition consult
+- Encourage mobility as tolerated
+
+**5. Chronic Pain**
+- Continue home ER oxycodone, minimize as possible
+- PT/OT consult for non-pharm modalities
+
+**6. History of recurrent UTIs and viral URIs**
+- No evidence of active infection
+- Monitor for secondary infections (device-related, nosocomial)
+
+**7. Anemia of chronic disease**
+- Hgb trending low-normal (see labs), monitor
+
+**8. Disposition**
+- Anticipate transfer to stepdown once stable
+- Discharge planning with social work
+
+---
+
+### **Progress Notes**
+
+**4/13/24**  
+- Overnight: Stable on Impella, off norepinephrine by 0400.  
+- Vitals: BP 104/62, HR 96, CVP 13.  
+- UOP: 900mL/24hr.  
+- Labs: Cr 2.4, K 4.3, Hgb 13.7.  
+- Plan: Wean Impella flow, monitor volume status.  
+
+**4/15/24**  
+- Impella removed, hemodynamics stable.  
+- Started low-dose carvedilol, lisinopril.  
+- Cr 2.1, trending down.  
+- No new complaints.  
+
+---
+
+### **LABS**
+
+| Date       | WBC   | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Gluc | Ca   | AST  | ALT  | ALP  | T. Bili |
+|------------|-------|------|------|-------|------|------|------|------|------|------|------|------|------|------|------|---------|
+| 4/12/24 AM | 9.2   | 14.7 | 35.7 | 401   | 138  | 4.1  | 102  | 29   | 9    | 2.7  | 86   | 8.6  | 16   | 54   | 68   | 0.6     |
+| 4/13/24 AM | 8.8   | 13.7 | 33.5 | 377   | 136  | 4.3  | 101  | 27   | 11   | 2.4  | 93   | 8.3  | —    | —    | —    | —       |
+| 4/14/24 AM | 7.4   | 12.9 | 31.2 | 340   | 135  | 4.2  | 100  | 28   | 13   | 2.2  | 91   | —    | —    | —    | —    | —       |
+| 4/15/24 AM | 7.1   | 12.5 | 30.8 | 322   | 137  | 4.0  | 101  | 27   | 11   | 2.1  | 88   | 8.4  | 15   | 51   | 66   | 0.7     |
+| 4/16/24 AM | —     | 12.7 | —    | 335   | 138  | 4.1  | 102  | —    | 10   | 1.9  | 90   | —    | —    | —    | —    | —       |
+
+**Other labs:**  
+- Troponin I: 0.08 → 0.12 (4/12-4/13), then <0.04  
+- BNP: 3,200 pg/mL (admission)  
+- Lactate: 3.1 (admission), 2.0 (4/13), 1.2 (4/15)  
+- LFTs: Mildly elevated, trending down  
+- Blood cultures x2: No growth  
+- UA: bland
+
+---
+
+### **Imaging**
+
+- **Echocardiogram (4/12/24):** EF 12%, global hypokinesis, LV dilatation, mild MR, RV normal  
+- **Cardiac cath (4/12/24):** No CAD  
+- **CXR:** Mild pulmonary edema  
+- **Renal US:** No obstruction  
+
+---
+
+### **Medications (Current)**
+
+- Simvastatin 10 mg qHS  
+- Carvedilol 3.125 mg BID  
+- Lisinopril 2.5 mg daily  
+- Spironolactone 12.5 mg daily  
+- Furosemide 40 mg IV BID  
+- Oxycodone ER 15 mg BID  
+- PRN acetaminophen  
+- DVT prophylaxis (enoxaparin)
+
+---
+
+### **Orders/Reminders**
+
+- Cardiac MRI when stable  
+- Telemetry  
+- Daily weights  
+- Strict I/O  
+- PT/OT  
+- Nutritionist  
+- Nephrology f/u  
+- Cardiology f/u
+
+---
+
+### **Discharge Planning**
+
+- Home with partner anticipated  
+- Home health RN  
+- Cardiology, nephrology, primary care f/u  
+- Medication reconciliation prior to discharge  
+---

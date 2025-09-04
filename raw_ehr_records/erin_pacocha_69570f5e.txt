@@ -1,0 +1,190 @@
+**EPIC EHR - ICU Admission Note**  
+**Patient:** Erin Pacocha  
+**MRN:** 00421978  
+**DOB:** 1992-05-29 (31 years)  
+**Sex:** Female  
+**Date of Admission:** 2024-03-18  
+**Date of Note:** 2024-03-29  
+**Attending:** Dr. A. Mahoney  
+**Consultants:** Cardiology, Maternal-Fetal Medicine, Dermatology, Infectious Disease  
+**Service:** MICU  
+
+---
+
+### CHIEF COMPLAINT  
+Progressive shortness of breath, chest pressure, and orthopnea x3 days.  
+
+### HISTORY OF PRESENT ILLNESS  
+31-year-old G2P1 female with h/o normal pregnancy (currently 34w), chronic anemia, atopic dermatitis, and recent acute bronchitis, presenting with 3 days of worsening dyspnea, orthopnea, and lower extremity edema. She was seen in the ED 2 days prior for cough and mild hypoxia, attributed to bronchitis; treated with supportive care and discharged. Today, found at home tachypneic and diaphoretic, O2 sat 87% RA, and was brought in by EMS. On arrival: BP 88/52, HR 128, RR 32, O2 sat 91% on 4L NC. Exam: JVD, bilateral rales, S3, 2+ pitting edema. CXR: pulmonary edema. Echo: severe global LV systolic dysfunction (EF 18%), mild RV dysfunction, no significant valvulopathy. Troponin mildly elevated.  
+
+She decompensated on the floor with hypotension refractory to fluids, requiring transfer to MICU, initiation of norepinephrine and dobutamine, and ultimately placement of a percutaneous left ventricular assist device (Impella CP) for cardiogenic shock.  
+
+---
+
+### PAST MEDICAL HISTORY  
+- Normal pregnancy (currently 34w, G2P1)  
+- Anemia (h/o iron deficiency, on B12)  
+- Acute bronchitis (recent, resolved)  
+- Contact dermatitis (eczema, flares)  
+
+### PAST SURGICAL HISTORY  
+- None  
+
+### OB/GYN HISTORY  
+- G2P1, currently 34 weeks gestation  
+- Prior uncomplicated vaginal delivery  
+
+### MEDICATIONS (on admission)  
+- Yaz 28 Day Pack (stopped on admission)  
+- Natazia 28 Day Pack (stopped on admission)  
+- Vitamin B12 5 mg/mL IM  
+- Acetaminophen/dextromethorphan/doxylamine PRN cough  
+- Hydrocortisone 10 mg/mL topical  
+- Cetirizine 10 mg PO QHS  
+- Epinephrine auto-injector  
+- Seasonique 91 Day Pack (stopped on admission)  
+
+### ALLERGIES  
+- No known drug allergies  
+
+### FAMILY HISTORY  
+- Non-contributory  
+
+### SOCIAL HISTORY  
+- Non-smoker  
+- No EtOH, no illicit drugs  
+- Lives with husband and 1 child  
+
+### REVIEW OF SYSTEMS  
+- General: Fatigue, malaise  
+- CV: Dyspnea, orthopnea, PND, no palpitations  
+- Resp: Cough, mild wheeze, no hemoptysis  
+- GI: Nausea, no vomiting, no abd pain  
+- GU: No dysuria, no hematuria  
+- Skin: Eczematous rash, pruritus  
+- Neuro: No focal deficits  
+
+---
+
+### PHYSICAL EXAM  
+**GEN:** Appears ill, tachypneic  
+**VITALS (on ICU arrival):**  
+- Temp: 36.5°C  
+- HR: 132  
+- BP: 85/52 (MAP 62)  
+- RR: 30  
+- O2 sat: 94% (NRB)  
+
+**CV:** JVD 10 cm, S3 present, regular rhythm, no murmurs  
+**LUNG:** Bibasilar crackles, diminished at bases  
+**ABD:** Soft, gravid, NT/ND  
+**EXT:** 2+ pitting edema to knees  
+**NEURO:** AOx3, no focal deficits  
+**SKIN:** Eczematous plaques bilateral upper/lower extremities, 30% BSA, excoriations  
+
+---
+
+## HOSPITAL COURSE  
+- Admitted for acute decompensated heart failure (likely peripartum cardiomyopathy vs. viral myocarditis), rapidly progressive, complicated by cardiogenic shock.
+- Required norepinephrine and dobutamine infusions.
+- Impella CP device placed on hospital day 2 for hemodynamic support.
+- Spontaneous preterm labor on hospital day 4; urgent C-section at bedside with maternal stabilization, delivered viable male infant (NICU).  
+- Complicated by AKI (pre-renal, resolved), mild transaminitis, and persistent anemia (transfused x1).  
+- Dermatology consulted for eczema flare, treated with topical steroids.  
+- Weaning of inotropes and device explantation on day 8 after cardiac recovery (EF improved to ~39%).  
+- Now on low-dose beta-blocker and diuretic, transitioned to telemetry floor.  
+- Multidisciplinary discharge planning in process.
+
+---
+
+## PERTINENT LABS & STUDIES  
+
+**CBC + CHEM7 + CARDIAC + LIVER LABS**  
+| Date (HD) | WBC | Hgb | Plt | Na | K | Cl | CO2 | BUN | Cr | Glu | AST | ALT | BNP | Trop I |  
+|-----------|-----|-----|-----|----|---|----|-----|-----|----|-----|-----|-----|-----|--------|  
+| 3/18 (1)  | 9.0 | 11.0| 261 | 134|3.2| 98 | 21  | 29  |1.4 | 118 | 74  | 68  | 2627| 0.13   |  
+| 3/19 (2)  | 8.6 | 10.7| 243 | 132|3.0| 97 | 19  | 38  |1.7 | 104 | 93  | 82  | 3700| 0.18   |  
+| 3/20 (3)  | 9.4 | 10.2| 219 | 135|3.7|100 | 25  | 32  |1.2 | 122 | 69  | 61  | 2950| 0.07   |  
+| 3/21 (4)  | 8.1 | 9.6 | 198 | 137|4.1|104 | 27  | 21  |0.9 | 98  | --  | --  | 2100| <0.01  |  
+| 3/22 (5)  | 7.3 | 10.6| 201 | 139|4.0|104 | 23  | 18  |0.7 | 105 | 42  | 38  | 1850| <0.01  |  
+| 3/24 (7)  | 6.5 | 11.7| 228 | 141|3.9|104 | 24  | 16  |0.6 | 112 | 31  | 27  | 990 | <0.01  |  
+| 3/27 (10) | --  | 12.4| 245 | 143|4.3|108 | 26  | 15  |0.6 | 108 | 25  | 19  | 550 | <0.01  |  
+
+Additional labs:  
+- Lactate 3.4 (ICU admit), 1.8 (HD 3), 1.1 (HD 7)  
+- D-dimer: 1.2 (admit)  
+- Pro-BNP: see above  
+- Troponin T/I: see above  
+- LFTs: mild transaminitis, resolved by HD 7  
+- Urine protein/creatinine ratio: 0.8 (HD 2)  
+- Echo (HD 1): LVEF 18%, severe global hypokinesis, mild MR  
+- Echo (HD 8): LVEF 39%, mild MR  
+- CXR: pulmonary edema, improved by HD 5  
+- CMR (pending)  
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock / Acute decompensated heart failure (presumed peripartum cardiomyopathy)**  
+- Impella CP placed for hemodynamic support (HD 2–8).  
+- Weaned off inotropes, device explanted after EF recovery.  
+- Now on metoprolol succinate 12.5 mg QD, furosemide 20 mg BID.  
+- Daily weights, strict I/O, telemetry.  
+- Cardiology f/u.  
+- Plan: continue uptitrating HF meds as tolerated, consider ACEi postpartum.
+
+**2. Pregnancy (now postpartum, G2P2, 34 weeks at delivery)**  
+- Preterm labor, urgent C-section HD 4.  
+- Infant to NICU, stable.  
+- OB following; lactation support.  
+- Contraception counseling prior to discharge.
+
+**3. Anemia**  
+- Baseline iron deficiency, worsened during admission (Hgb nadir 9.6).  
+- 1 unit PRBC transfused HD 4.  
+- Continue supplemental iron, B12 IM.  
+- Recheck CBC prior to discharge.
+
+**4. AKI (resolved)**  
+- Likely pre-renal from hypoperfusion, Cr peaked 1.7, now 0.6.  
+- Monitored, resolved with improved CO and diuresis.  
+- Renal f/u if rebound.
+
+**5. Eczema / Contact Dermatitis**  
+- Flare during admission, 30% BSA, no superinfection.  
+- Managed with topical hydrocortisone, cetirizine for pruritus.  
+- Dermatology f/u.
+
+**6. Recent Acute Bronchitis**  
+- No longer febrile, cough improved.  
+- No infiltrate on CXR, no antibiotics required.  
+- Monitor for secondary infection.
+
+**7. Thromboembolism Prophylaxis**  
+- SCDs while bleeding risk, transitioned to enoxaparin 40 mg SQ daily postpartum.
+
+**8. Psychosocial / Disposition**  
+- Significant stress, counseling offered.  
+- Multidisciplinary discharge planning; home health, PCP, cardiology, OB, dermatology.
+
+---
+
+**Attending Physician:**  
+A. Mahoney, MD
+
+**Co-sign:**  
+J. Lee, MD (Cardiology)  
+T. Singh, MD (OB)  
+K. Patel, MD (Dermatology)  
+
+---
+
+**Addenda:**  
+- Awaiting final CMR for further assessment of myocardial recovery.  
+- Infant remains stable in NICU, no signs of heart failure or infection.  
+- Patient agreeable to postpartum contraception; options discussed.
+
+---
+
+**END OF NOTE**

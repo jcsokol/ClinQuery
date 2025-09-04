@@ -1,0 +1,168 @@
+**[EPIC EHR – Patient Chart]**
+
+---
+
+**Patient Name:** Michel Heaney  
+**MRN:** 00923985  
+**DOB:** 12/18/1932 (Age: 91)  
+**Sex:** Male  
+**Admit Date:** 05/28/2024  
+**Attending:** Dr. R. Gallagher  
+**Consults:** Cardiology, Neurology, Infectious Disease  
+**Allergies:** NKDA  
+**Code Status:** Full  
+**Height:** 104.5 cm  
+**Weight:** 13.5 kg  
+**BMI:** 12.4 kg/m2  
+**Admitting Dx:** Cardiogenic shock, acute on chronic systolic heart failure, seizure disorder, epilepsy
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+Mr. Michel Heaney is a 91-year-old male with a significant past medical history of epilepsy, seizure disorder, and chronic heart failure, who was admitted to the ICU on 05/28/2024 after being found unresponsive at home by his daughter. EMS reported a witnessed tonic-clonic seizure lasting approximately 2 minutes, post-ictal confusion, and hypotension refractory to initial fluid resuscitation. On arrival, the patient was obtunded, hypotensive (SBP 68 mmHg), tachycardic, and hypoxic. Initial labs and ECG were concerning for acute decompensated heart failure with evidence of end-organ hypoperfusion.
+
+Cardiology was consulted early due to rapid clinical deterioration; a bedside echocardiogram revealed a severely reduced LVEF (20%), severe global hypokinesis, and LV thrombus. The patient developed worsening lactic acidosis and multi-organ dysfunction. After multidisciplinary discussion, a decision was made to place a percutaneous temporary left ventricular assist device (Impella CP) for circulatory support.
+
+The patient subsequently developed complications including acute kidney injury, mild transaminitis, and delirium. His hospital course was further complicated by nosocomial pneumonia and persistent seizures requiring escalation of anti-epileptic medications. He was weaned off the Impella after 5 days with gradual hemodynamic improvement. He remains in the ICU at the time of this note.
+
+---
+
+### PROBLEM-BASED ASSESSMENT & PLAN
+
+#### 1. **Cardiogenic Shock, Acute on Chronic Systolic Heart Failure (HFrEF)**
+- **Assessment:** Severe LV dysfunction, likely ischemic in etiology, complicated by hypotension and end-organ hypoperfusion. Temporary mechanical support (Impella CP) was initiated on HD1.
+- **Plan:**
+  - Continue inotropic support (dobutamine, wean as tolerated).
+  - Diuresis with IV furosemide, cautious volume management.
+  - Daily echo to monitor LV function and thrombus.
+  - Cardiology to follow for possible advanced therapies.
+  - Monitor hemodynamics (A-line, CVP).
+  - DVT prophylaxis (heparin SQ unless contraindicated).
+  - Strict I/Os, daily weights.
+
+#### 2. **Epilepsy / Seizure Disorder**
+- **Assessment:** Known epilepsy, on clonazepam and carbamazepine, breakthrough seizure on admission, possibly due to metabolic derangement or medication noncompliance.
+- **Plan:**
+  - Continue clonazepam 0.5mg BID, carbamazepine 200mg BID, diazepam PRN for breakthrough.
+  - Monitor EEG for subclinical seizures.
+  - Check serum AED levels (carbamazepine, clonazepam).
+  - Neurology to follow.
+  - Maintain seizure precautions.
+
+#### 3. **Acute Kidney Injury (AKI)**
+- **Assessment:** Likely multifactorial (cardiogenic shock, hypotension, nephrotoxic meds).
+- **Plan:**
+  - Monitor daily BMP, urine output.
+  - Hold nephrotoxic agents.
+  - Renal dose adjust all medications.
+  - Nephrology consult if no improvement.
+
+#### 4. **Delirium**
+- **Assessment:** ICU delirium, likely multifactorial (sepsis, metabolic, medications).
+- **Plan:**
+  - Reorient frequently, minimize sedation.
+  - Sleep hygiene, lights on during day.
+  - Consider haloperidol PRN if agitation worsens.
+
+#### 5. **Nosocomial Pneumonia**
+- **Assessment:** New fevers, CXR with RLL infiltrate, sputum cultures pending.
+- **Plan:**
+  - Empiric antibiotics: cefepime + azithromycin.
+  - Respiratory therapy Q4hr.
+  - Monitor WBC, lactate, procalcitonin.
+
+#### 6. **Malnutrition/Frailty**
+- **Assessment:** Underweight, BMI 12.4, cachectic appearance.
+- **Plan:**
+  - Nutrition consult.
+  - Enteral feeding via NG tube.
+  - Daily calorie/protein counts.
+
+#### 7. **Pressure Ulcer Prevention**
+- **Assessment:** High risk due to immobility, low BMI.
+- **Plan:**
+  - Wound care nurse consult.
+  - Q2hr turns, specialty mattress.
+
+---
+
+### ICU VITALS (Select)
+
+| Date       | Temp (C) | HR  | BP         | RR | SpO2 | Pain (0-10) |
+|------------|----------|-----|------------|----|------|-------------|
+| 5/28/24    | 36.8     | 112 | 68/41      | 22 | 91%  | 4           |
+| 5/29/24    | 37.2     | 100 | 79/55      | 18 | 96%  | 3           |
+| 5/30/24    | 36.9     | 88  | 98/61      | 16 | 98%  | 2           |
+| 5/31/24    | 37.5     | 92  | 108/66     | 20 | 97%  | 1           |
+| 6/1/24     | 36.7     | 86  | 112/74     | 16 | 98%  | 2           |
+
+---
+
+### LABORATORY RESULTS
+
+**CBC / CHEM 7**  
+(* = abnormal)
+
+| Date    | WBC (x10^3/uL) | Hgb (g/dL) | Hct (%) | Plt (x10^3/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|---------|----------------|------------|---------|----------------|-------------|------------|-------------|--------------|-------------|------------|-------------|
+| 5/28/24 | 6.1            | 12.4       | 47.9    | 216            | 132         | 5.5*       | 98          | 18           | 29*         | 2.1*       | 144         |
+| 5/29/24 | 7.8            | 11.7       | 45.2    | 194            | 134         | 4.7        | 101         | 17           | 37*         | 2.8*       | 162         |
+| 5/30/24 | 9.2*           | 10.9*      | 42.1    | 155*           | 136         | 4.2        | 103         | 19           | 44*         | 3.3*       | 139         |
+| 5/31/24 | 8.5            | 11.2       | 43.3    | 178            | 137         | 4.0        | 105         | 21           | 39*         | 2.5*       | 120         |
+| 6/1/24  | 7.1            | 12.0       | 45.0    | 200            | 139         | 4.3        | 104         | 23           | 28          | 1.7        | 117         |
+
+**Additional Labs**
+
+| Date    | AST (U/L) | ALT (U/L) | Alk Phos (U/L) | T. Bili (mg/dL) | Troponin I (ng/mL) | BNP (pg/mL) | Lactate (mmol/L) | AED Levels  |
+|---------|-----------|-----------|----------------|-----------------|--------------------|-------------|------------------|-------------|
+| 5/28/24 | 56*       | 62*       | 188            | 1.2             | 0.16               | 7420*       | 4.3*             | -           |
+| 5/29/24 | 61*       | 68*       | 201            | 1.5*            | 0.13               | 6210*       | 3.1*             | Cbz 6.2     |
+| 5/30/24 | 48        | 51        | 170            | 1.0             | 0.09               | 5000*       | 2.2              | Clz 0.09    |
+| 5/31/24 | 39        | 43        | 155            | 0.7             | 0.07               | 4320*       | 1.1              | Cbz 5.8     |
+| 6/1/24  | 34        | 37        | 149            | 0.6             | 0.08               | 3450*       | 1.0              | -           |
+
+---
+
+### ACTIVE MEDICATIONS (INPATIENT)
+
+- Clonazepam 0.5 mg PO BID
+- Carbamazepine 200 mg PO BID
+- Diazepam 2 mg IV PRN seizure
+- Furosemide 20 mg IV BID
+- Dobutamine IV infusion, titrate per protocol
+- Cefepime 2g IV q8hr
+- Azithromycin 500mg IV daily
+- Heparin 5000U SQ q12hr
+- Acetaminophen 650mg PO q6hr PRN pain
+
+---
+
+### IMAGING
+
+- **CXR 5/29/24:** RLL infiltrate, mild pulmonary edema
+- **ECHO 5/28/24:** LVEF 20%, severe global hypokinesis, LV thrombus
+- **CT Head 5/28/24:** No acute intracranial pathology, chronic microvascular changes
+
+---
+
+### CONSULTS
+
+- **Cardiology:** Following for advanced heart failure management, LVAD suitability.
+- **Neurology:** Following for seizure management, AED titration.
+- **Infectious Disease:** Following for pneumonia, antibiotic selection.
+
+---
+
+### DISPOSITION
+
+- Remains in ICU, guarded prognosis. Awaiting further stabilization for step-down to telemetry.
+
+---
+
+**Physician:** Dr. R. Gallagher  
+**Date/Time:** 06/01/2024 10:21 AM
+
+---
+
+**[End of Note]**

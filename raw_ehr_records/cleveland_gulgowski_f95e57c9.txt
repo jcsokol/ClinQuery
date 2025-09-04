@@ -1,0 +1,212 @@
+---
+**Patient Name:** Gulgowski, Cleveland  
+**MRN:** 002983247  
+**DOB:** 02/07/1958  
+**Sex:** Male  
+**Date of Admission:** 03/14/2024  
+**Date of Note:** 03/22/2024  
+**Attending:** Patel, Rakesh MD  
+**Consults:** Cardiology, Nephrology, Infectious Disease  
+**Location:** MICU  
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+Cleveland Gulgowski is a 66-year-old male with a complex medical history including prediabetes, chronic anemia, chronic pain, migraine, and multiple recurrent sinus/bronchial infections, who presented to the ED with acute-onset dyspnea, orthopnea, and chest tightness. On arrival, he was tachypneic, hypoxic, and in moderate respiratory distress. Initial workup revealed evidence of acute decompensated heart failure (ADHF) with cardiogenic shock. He rapidly deteriorated requiring transfer to the MICU and initiation of inotropes and vasopressors.
+
+Due to persistent hypotension, hypoperfusion (lactate up to 4.2), and evidence of end-organ dysfunction, a decision was made to place a percutaneous left ventricular assist device (Impella CP) for temporary mechanical circulatory support. After device placement, the patient’s hemodynamics and end-organ function improved. He was weaned off vasopressors by hospital day 5 and the device was successfully explanted on day 7.
+
+His ICU course was complicated by acute kidney injury (resolved), anemia requiring transfusion, and a lower extremity access site hematoma. He also developed a low-grade fever, with subsequent work-up positive for Enterococcus faecalis bacteremia, likely catheter-associated. He completed 7 days of IV antibiotics with clearance of cultures.
+
+Cleveland was transferred to the telemetry floor on hospital day 9, where he continued to improve. Discharge planning involved physical therapy, medication optimization, and close cardiology follow-up.
+
+---
+
+## CHIEF COMPLAINT
+
+Shortness of breath, chest tightness
+
+---
+
+## HISTORY OF PRESENT ILLNESS
+
+66-year-old male with history of prediabetes, chronic anemia, chronic pain, migraines, and frequent respiratory infections, presented with 2 days of worsening dyspnea, orthopnea, and fatigue. No recent fevers, cough, or sick contacts. He reports intermittent chest pressure, “like a squeezing,” associated with palpitations and lightheadedness. No prior history of MI or known heart failure. Brought in by wife after he became confused and “looked pale.”
+
+---
+
+## PAST MEDICAL HISTORY
+
+- Prediabetes (HbA1c 6.0)
+- Anemia (chronic, multifactorial)
+- Chronic pain (musculoskeletal, lumbar radiculopathy)
+- Chronic intractable migraine without aura
+- Recurrent acute sinusitis/bronchitis
+- Hx of drug overdose (remote, accidental, acetaminophen)
+- Impacted molars
+- Laceration of hand (remote, healed)
+
+## PAST SURGICAL HISTORY
+
+- Wisdom tooth extraction (2019)
+
+## SOCIAL HISTORY
+
+- Former smoker (quit 2012, 20 pack-years)
+- Occasional alcohol use
+- No illicit drug use
+- Lives with wife, retired machinist
+
+## FAMILY HISTORY
+
+- Father: MI at 59, DM2
+- Mother: HTN, CHF
+
+## MEDICATIONS ON ADMISSION
+
+- Hydrocortisone 10mg/mL topical cream (prn)
+- Diphenhydramine 25mg PO (prn)
+- Acetaminophen 325mg PO (prn)
+- Amox/Clav 250/125mg PO (recent, for sinusitis)
+- Naproxen sodium 220mg PO (prn)
+- Dextromethorphan/doxylamine/acetaminophen syrup (prn)
+
+## ALLERGIES
+
+- NKDA
+
+---
+
+## VITALS/TRENDS
+
+| Date       | Temp (°C) | HR    | BP         | RR  | SpO2 (%) | O2 Device   | Pain |
+|------------|-----------|-------|------------|-----|----------|-------------|------|
+| 3/14/2024  | 36.9      | 112   | 83/55      | 28  | 89       | 6L NC       | 7    |
+| 3/15/2024  | 37.8      | 98    | 92/61      | 22  | 95       | 2L NC       | 6    |
+| 3/16/2024  | 37.4      | 86    | 107/68     | 18  | 97       | RA          | 4    |
+| 3/17/2024  | 37.2      | 78    | 119/73     | 18  | 98       | RA          | 3    |
+| 3/19/2024  | 36.7      | 75    | 122/76     | 16  | 98       | RA          | 2    |
+| 3/21/2024  | 36.6      | 74    | 124/80     | 14  | 98       | RA          | 2    |
+
+---
+
+## LABS
+
+**CBC, Chem7, and other relevant labs (selected days shown):**
+
+| Date      | WBC   | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | Lactate | AST  | ALT  | AlkPhos | Bili |
+|-----------|-------|------|------|------|------|------|------|------|------|------|------|----------|---------|------|------|--------|------|
+| 3/14/24   | 4.8   | 8.9  | 27   | 237  | 137  | 4.2  | 105  | 20   | 34   | 1.6  | 82   | 0.08     | 4.2     | 48   | 37   | 112    | 1.2  |
+| 3/15/24   | 5.1   | 8.5  | 25   | 191  | 139  | 4.7  |      | 19   | 39   | 2.2  | 134  | 0.06     | 2.8     | 55   | 40   |        |      |
+| 3/16/24   | 6.4   | 9.7  | 28   | 216  | 140  | 4.1  | 106  | 22   | 29   | 1.3  | 110  | 0.05     | 1.6     | 51   |      | 134    | 1.0  |
+| 3/17/24   | 7.2   | 10.8 | 32   | 222  | 140  | 4.3  | 107  | 24   | 20   | 1.1  | 107  | <0.01    | 1.2     | 38   | 34   | 120    | 0.7  |
+| 3/19/24   | 6.0   | 11.0 | 33   | 230  | 138  | 4.0  | 105  | 24   | 17   | 1.0  | 100  | <0.01    |         | 33   | 29   |        |      |
+| 3/21/24   | 5.4   | 10.7 | 32   | 241  | 139  |      | 106  | 25   | 15   | 0.9  | 98   | <0.01    |         |      |      | 105    |      |
+
+*Missing values indicate not collected or pending.*
+
+---
+
+## MICROBIOLOGY
+
+- 3/15: Blood cultures positive for Enterococcus faecalis (x2)
+- 3/17: Repeat cultures negative
+
+---
+
+## IMAGING
+
+- **CXR (3/14):** Pulmonary edema, mild cardiomegaly, no focal consolidation
+- **Echo (3/14):** LVEF 18%, severe global hypokinesis, LV dilatation, mild MR, RV mildly reduced
+- **Repeat Echo (3/18):** LVEF improved to 28%, mild MR
+
+---
+
+## PROCEDURES
+
+- 3/14: Right IJ central line, left femoral arterial line
+- 3/15: Impella CP placement (left femoral)
+- 3/17: PRBC transfusion x2 units (Hgb <8)
+- 3/21: Impella explant
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. Cardiogenic Shock secondary to Acute Decompensated Heart Failure
+- Likely ischemic/non-ischemic cardiomyopathy, new diagnosis
+- Required percutaneous LVAD (Impella CP) for hemodynamic support
+- Vasopressors/inotropes weaned off post-device
+- Daily echo/telemetry monitoring
+- Loop diuretic IV (furosemide), uptitrated
+- Guideline-directed medical therapy initiated as tolerated (metoprolol, sacubitril/valsartan, spironolactone)
+- Cardiology to follow, outpatient heart failure program referral
+
+### 2. Anemia (Chronic, multifactorial)
+- Baseline Hgb ~10, dropped to 8.5 (likely dilutional and iatrogenic)
+- 2 units PRBC transfused
+- Iron, B12, folate sent (iron low, others WNL)
+- Monitor for GI loss; no overt bleeding
+
+### 3. Acute Kidney Injury (resolved)
+- Pre-renal etiology, multifactorial (hypoperfusion, diuretics)
+- Cr peaked at 2.2, now improved to 0.9
+- Fluid status closely monitored
+
+### 4. Catheter-associated Enterococcus faecalis Bacteremia
+- Source: likely central line
+- 7-day course IV ampicillin, line removed
+- Blood cultures cleared
+
+### 5. Access Site Hematoma
+- Monitored, no evidence of active bleeding, serial Hgb stable
+- Conservative management, vascular surgery aware
+
+### 6. Prediabetes
+- HbA1c 6.0%, glucose stable
+- Diabetic diet, endocrinology to follow as outpatient
+
+### 7. Chronic Pain/Migraine
+- Continue home regimen as able
+- Pain team consulted for multimodal approach
+- Non-opioid adjuncts preferred
+
+### 8. Recurrent Sinusitis/Bronchitis
+- No current infection, completed outpatient antibiotics
+- Pulmonology to evaluate for chronic cause
+
+### 9. Other/Preventive
+- DVT prophylaxis (SCDs, heparin SQ)
+- Physical therapy consult, early mobilization
+- Discharge planning initiated
+
+---
+
+## DISCHARGE MEDICATIONS (pending)
+
+- Furosemide 40mg PO daily
+- Metoprolol succinate 25mg PO daily
+- Sacubitril/valsartan 24/26mg PO BID
+- Spironolactone 25mg PO daily
+- Iron sulfate 325mg PO daily
+- Acetaminophen 325mg PO q6h prn pain
+- Continue home topical hydrocortisone, prn
+- D/c amox/clav, d/c IV abx
+
+---
+
+## FOLLOW-UP
+
+- Cardiology (HF clinic) in 1 week
+- PCP within 1 week
+- Labs: CBC, BMP, LFTs, iron studies in 1 week
+
+---
+
+## SIGNED  
+Patel, Rakesh MD  
+03/22/2024 12:45
+
+---
+
+**End of Note**

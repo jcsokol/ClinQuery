@@ -1,0 +1,203 @@
+---
+**Patient Name:** Brady Windler  
+**MRN:** 0093847201  
+**DOB:** 09/19/1919  
+**Sex:** Male  
+**Admit Date:** 05/23/2024  
+**Attending:** Dr. Lisa Tran  
+**Consults:** Cardiology, Cardiothoracic Surgery, Oncology, Infectious Disease  
+**Admitting Dx:** Acute decompensated heart failure (ADHF) with cardiogenic shock, hx non-small cell lung cancer (NSCLC) s/p recent chemotherapy, anemia, obesity, HTN  
+
+---
+
+**PROGRESS NOTE – ICU – 5/27/2024**
+
+---
+
+**Chief Complaint:**  
+Progressive dyspnea, orthopnea, fatigue, hypotension
+
+**History of Present Illness:**  
+100-year-old male with a history of HTN, obesity, chronic sinusitis, prediabetes, anemia, and stage I NSCLC currently undergoing cisplatin/paclitaxel chemotherapy. Presented from home with 4 days of worsening SOB, PND, lower extremity edema, and decreased oral intake. Home BP meds (HCTZ) held due to hypotension. On arrival to ED, found to be tachypneic, hypoxic, and hypotensive (BP 82/54), with bibasilar rales, JVD, and 3+ pitting edema. CXR: pulmonary edema, mild cardiomegaly. Troponin I mildly elevated. Bedside echo: LVEF ~20%, global hypokinesis, dilated LV. BNP 1243. Transferred to ICU, started on dobutamine and norepinephrine for cardiogenic shock. Temporary left-sided Impella CP heart pump placed on HD2 for ongoing shock and end-organ hypoperfusion.
+
+---
+
+**Hospital Course/Events:**
+- ICU Day 1: Vasopressors, inotropes, O2 via HFNC. Worsening renal function, oliguria, rising lactate.
+- ICU Day 2: Impella CP placed via left femoral artery by CT surgery. Marked improvement in MAP/BP, urine output improved.  
+- ICU Day 3-5: Vasopressors weaned, extubated on day 4. Developed fever (38.7°C) and leukocytosis, blood cx positive for S. epidermidis (likely line-related). Started on vanc.  
+- ICU Day 6: Impella weaned and explanted. Renal and hepatic function improved.  
+- ICU Day 7-10: Gradual diuresis, transitioned to oral antihypertensives, physical therapy initiated, oncology re-consulted for chemo resumption planning.
+
+---
+
+**Review of Systems:**  
+- General: Fatigue, no recent weight loss  
+- HEENT: Chronic sinus congestion  
+- Cardiac: Orthopnea, PND, palpitations  
+- Pulm: Dyspnea, no hemoptysis  
+- GI: Poor appetite, no N/V  
+- GU: Oliguria (improved)  
+- MSK: Chronic hand pain  
+- Neuro: Alert, mild confusion on day 2 (resolved)
+
+---
+
+**Physical Exam (ICU Day 8):**
+- **Gen:** Elderly, frail, NAD  
+- **HEENT:** Pale conjunctivae, chronic rhinorrhea  
+- **CV:** Irregularly irregular, S3, JVD, no murmurs  
+- **Lungs:** Bibasilar crackles, mild improvement  
+- **Abd:** Soft, NT, mild hepatomegaly  
+- **Ext:** 2+ pitting edema, hand OA deformities  
+- **Neuro:** A&O x3, no focal deficit
+
+---
+
+**Labs:**  
+(See next page for full table. Select entries below.)
+
+| Date         | WBC  | Hgb  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Gluc | Troponin | AST  | ALT  | Alk Phos | BNP   | Lactate |
+|--------------|------|------|------|------|------|------|------|------|------|------|----------|------|------|----------|-------|---------|
+| 5/23/2024    | 10.2 | 8.7  | 297  | 142  | 5.0  | 99   | 27   | 31   | 1.7  | 136  | 0.12     | 45   | 38   | 103      | 1243  | 4.2     |
+| 5/24/2024    | 12.6 | 7.8  | 254  | 141  | 5.7  | 101  | 26   | 37   | 2.1  | 145  | 0.19     | 67   | 54   | 112      | 1310  | 3.8     |
+| 5/25/2024    | 13.4 | 7.4  |      |      | 5.2  |      | 28   | 29   | 1.9  |      | 0.09     | 55   | 43   | 97       |       | 2.1     |
+| 5/26/2024    | 11.1 | 8.1  | 210  | 143  |      | 102  | 29   | 21   | 1.3  | 128  | 0.04     | 31   | 27   | 88       | 980   | 1.1     |
+| 5/27/2024    | 9.9  | 8.9  | 186  | 144  | 4.7  | 100  |      | 18   | 1.1  | 112  | <0.01    | 19   | 21   | 81       | 653   |         |
+
+
+---
+
+**Assessment and Plan:**  
+1. **Cardiogenic Shock/Acute Decompensated Heart Failure (ADHF):**  
+   - Likely precipitated by recent chemo, severe anemia, underlying CAD/HTN, and possible cardiotoxic effects of cisplatin/paclitaxel.
+   - Required Impella CP support for 4 days; improved end-organ perfusion.
+   - Now off vasopressors/inotropes, euvolemic, extubated.
+   - Continue diuresis, daily weights, strict I/Os, cardiac diet, PT/OT.
+   - Monitor for arrhythmia/recurrence of shock.
+   - Cardiology to follow for GDMT optimization.
+
+2. **Non-Small Cell Lung Cancer (NSCLC), Stage I:**  
+   - S/p multiple cycles cisplatin/paclitaxel, currently on hold for acute illness.
+   - Oncology to re-evaluate for chemo resumption after stabilization.
+   - Monitor for neutropenic fever, infection.
+
+3. **Anemia:**  
+   - Multifactorial: chemo-induced, chronic disease, volume overload, possible GI loss.
+   - Transfused 2 units PRBCs on HD2.
+   - Daily CBC, monitor for hemolysis/bleeding.
+   - Iron studies, retic, EPO level pending.
+
+4. **Acute Kidney Injury (AKI):**  
+   - Likely pre-renal (low CO, diuretics, contrast).
+   - Improved with Impella support; Cr trending down.
+   - Hold nephrotoxins, monitor fluid status, renal dosing of all meds.
+
+5. **Infection (Line-Related Bacteremia):**  
+   - S. epidermidis x1 blood culture, fever, leukocytosis.
+   - Central line removed, vanc started, afebrile x 48h.
+   - ID to follow, repeat cultures pending.
+
+6. **Hypertension/Obesity/Prediabetes:**  
+   - Hold HCTZ until stable.
+   - Continue home DM/HTN management as tolerated.
+   - Low-salt, low-carb diet. Endocrine consult for DM optimization.
+
+7. **Chronic Sinusitis, OA, Smoking:**  
+   - PRN acetaminophen and naproxen for OA.
+   - Nicotine patch continued, smoking cessation counseling.
+   - ENT f/u as outpatient for chronic sinusitis.
+
+---
+
+**Medications (Active):**  
+- Dobutamine (weaned off)
+- Norepinephrine (weaned off)
+- Furosemide IV q12h
+- Vancomycin IV q12h (to be reassessed)
+- Acetaminophen 650mg PO q6h PRN
+- Nicotine patch 24hr
+- HCTZ 25mg PO (on hold)
+- PRN naproxen, PRN ondansetron
+- DVT ppx: enoxaparin 40mg SQ q24h
+
+---
+
+**Imaging:**  
+- CXR daily: improving pulmonary edema.
+- TTE: LVEF 20%, global hypokinesis, no significant valvulopathy.
+- No acute DVT on duplex.
+
+---
+
+**Consults:**  
+- Cardiology: GDMT, Impella management
+- CT Surgery: Impella placement/removal
+- Infectious Disease: Bacteremia
+- Oncology: Chemo plan
+
+---
+
+**Discharge Planning:**  
+- Needs continued PT/OT, possible SNF placement.
+- Close f/u with cards, onco, nephro, PCP.
+
+---
+
+**Signout/To-Do:**  
+- Monitor for arrhythmia, bleeding, infection
+- Labs: Daily CBC/Chem7, cultures
+- F/u echo after recovery
+
+---
+
+**Provider:**  
+Tran, Lisa MD  
+5/27/2024 09:14
+
+---
+
+**LAB TABLE (Full):**  
+_(Some values missing as not all tests ordered daily.)_
+
+| Date       | WBC  | Hgb  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Gluc | AST  | ALT  | Alk Phos | Troponin | BNP   | Lactate |
+|------------|------|------|------|------|------|------|------|------|------|------|------|------|----------|----------|-------|---------|
+| 5/23/24    | 10.2 | 8.7  | 297  | 142  | 5.0  | 99   | 27   | 31   | 1.7  | 136  | 45   | 38   | 103      | 0.12     | 1243  | 4.2     |
+| 5/24/24    | 12.6 | 7.8  | 254  | 141  | 5.7  | 101  | 26   | 37   | 2.1  | 145  | 67   | 54   | 112      | 0.19     | 1310  | 3.8     |
+| 5/25/24    | 13.4 | 7.4  |      |      | 5.2  |      | 28   | 29   | 1.9  |      | 55   | 43   | 97       | 0.09     |       | 2.1     |
+| 5/26/24    | 11.1 | 8.1  | 210  | 143  |      | 102  | 29   | 21   | 1.3  | 128  | 31   | 27   | 88       | 0.04     | 980   | 1.1     |
+| 5/27/24    | 9.9  | 8.9  | 186  | 144  | 4.7  | 100  |      | 18   | 1.1  | 112  | 19   | 21   | 81       | <0.01    | 653   |         |
+
+---
+
+**Vital Signs (Selected):**  
+- BP: 110/58 (improved from 82/54)  
+- HR: 92, irregular  
+- RR: 20  
+- SpO2: 96% on 2L NC  
+- Temp: 37.1°C  
+- Weight: 95.3 kg (down from 99 kg on admission)
+
+---
+
+**Additional Notes:**  
+- Mild delirium on HD2, resolved with improved perfusion.
+- Family meeting: DNR/DNI status discussed, patient remains full code.
+- Oral intake improving, tolerating soft diet.
+
+---
+
+**Next Steps:**  
+- Continue to monitor for recurrent decompensation.
+- Plan for transfer out of ICU pending continued stability.
+
+---
+
+**Electronically signed by:**  
+Tran, Lisa MD  
+ICU Attending  
+5/27/2024 09:14
+
+---
+
+**(End of Note)**

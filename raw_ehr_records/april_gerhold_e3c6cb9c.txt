@@ -1,0 +1,175 @@
+---
+**Patient Name:** April Gerhold  
+**MRN:** 00592738  
+**DOB:** 09/16/1957  
+**Sex:** Female  
+**Admit Date:** 2024-05-21  
+**Service:** Cardiology / ICU  
+**Attending:** Dr. Marlene Hsu  
+**Consults:** CV Surgery, Endocrinology, ID  
+**Note Type:** ICU Progress Note  
+**Note Date:** 2024-05-27  
+**Author:** Dr. S. Patel, PGY-2
+
+---
+
+### CHIEF COMPLAINT  
+Acute onset dyspnea, chest pain, and syncope.
+
+---
+
+### HISTORY OF PRESENT ILLNESS  
+April Gerhold is a 66-year-old woman with a history of prediabetes, hyperlipidemia, obesity, and recent viral upper respiratory tract infection presenting to the ED with 2 days of progressive dyspnea, orthopnea, and non-radiating chest pressure. She experienced a syncopal episode at home this morning, prompting EMS activation. In the ED, she was found to be hypotensive, tachycardic, and hypoxic. Initial troponin was elevated, ECG showed diffuse ST depressions, and bedside echo revealed severely reduced LVEF (~20%) with global hypokinesis. She developed cardiogenic shock with evidence of end-organ hypoperfusion. After discussion with cardiology and cardiothoracic surgery, a decision was made to proceed with placement of a percutaneous left ventricular assist device (Impella CP) for temporary hemodynamic support.
+
+---
+
+### PAST MEDICAL HISTORY  
+- Prediabetes  
+- Obesity (BMI 30.6)  
+- Hyperlipidemia  
+- Recent viral sinusitis and acute pharyngitis (self-limited)  
+- No known CAD or prior MI  
+- No prior arrhythmia or heart failure
+
+### PAST SURGICAL HISTORY  
+- Cholecystectomy (2010)  
+- Tubal ligation (1987)
+
+### ALLERGIES  
+No known drug allergies
+
+### SOCIAL HISTORY  
+- Former smoker, quit 2010 (10 pack-years)  
+- Rare alcohol use  
+- Lives with spouse  
+- Retired school teacher
+
+### FAMILY HISTORY  
+- Mother: T2DM, MI age 74  
+- Father: HTN, stroke
+
+---
+
+### REVIEW OF SYSTEMS  
+Unable to obtain complete ROS due to intubation/sedation. Per EMS/family, had cough, congestion, mild sore throat x1 week, no fever. No prior cardiac symptoms.
+
+---
+
+### PHYSICAL EXAM (ICU, Day 6)  
+**Gen:** Intubated, sedated, appears chronically ill  
+**VS:**  
+- Temp: 37.7°C  
+- HR: 98 bpm (sinus)  
+- BP: 108/58 mmHg (MAP ~74, on low dose norepinephrine)  
+- RR: 18 (vent)  
+- SpO2: 98%  
+**HEENT:** Normocephalic, atraumatic  
+**CV:** S1/S2, no murmurs, Impella in situ, pulses 2+  
+**Resp:** Intubated, bilateral crackles  
+**Abd:** Soft, NT, ND  
+**Ext:** No edema, peripheral pulses present  
+**Neuro:** Sedated, moves all extremities spontaneously  
+**Skin:** No rashes, pressure injury L sacrum (stage 1)
+
+---
+
+### HOSPITAL COURSE (Summary)  
+- **Day 1:** Admitted to ICU with cardiogenic shock. Started vasopressors, intubated for respiratory distress. Impella CP placed via femoral approach.  
+- **Day 2-3:** Gradual improvement in MAP and urine output. Troponin peaked at 4.7 ng/mL, BNP 2100 pg/mL.  
+- **Day 4:** Attempted wean from Impella, developed hypotension. Device support continued.  
+- **Day 5:** Improved volume status. Developed mild transaminitis, presumed hypoperfusion.  
+- **Day 6:** Stable on minimal pressor support, Impella flows reduced. Extubation planned next 24h.
+
+---
+
+## LABS (Selected)
+
+| Date       | WBC (10^3/uL) | Hgb (g/dL) | Hct (%) | Plt (10^3/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | AST (U/L) | ALT (U/L) | Trop (ng/mL) | BNP (pg/mL) |
+|------------|---------------|------------|---------|--------------|-------------|------------|-------------|--------------|-------------|------------|-------------|-----------|-----------|--------------|-------------|
+| 5/21 05:00 | 10.5          | 14.9       | 43      | 162          | 139         | 4.5        | 110         | 21           | 31          | 1.2        | 133         | 48        | 51        | 2.1          | 1900        |
+| 5/22 06:00 | 12.3          | 13.8       | 40      | 143          | 138         | 4.1        | 108         | 20           | 40          | 1.7        | 146         | 61        | 72        | 4.7          | 2100        |
+| 5/23 06:00 | 11.0          | 13.6       | 39      | 137          | 140         | 3.7        | 109         | 20           | 29          | 1.1        | 121         | 58        | 70        | 3.2          | 2050        |
+| 5/24 07:00 | 9.2           | 13.9       | 41      | 158          | 141         | 4.0        | 109         | 22           | 18          | 0.9        | 109         | 55        | 62        | 1.4          | 1770        |
+| 5/25 06:00 | 8.4           | 14.2       | 42      | 150          | 142         | 4.2        | 110         | 23           | 15          | 0.8        | 101         | 39        | 47        | 0.7          | 1200        |
+| 5/26 06:00 | 7.8           | 14.8       | 44      | 149          | 141         | 4.1        | 111         | 24           | 13          | 0.7        | 98          | 41        | 43        | 0.2          | 900         |
+| 5/27 06:00 | 8.1           | 15.1       | 45      | 155          | 140         | 4.0        | 110         | 22           | 11          | 0.6        | 95          | 38        | 41        | <0.01        | 700         |
+
+*Some labs (e.g. LFTs, troponin) not collected daily. Lactate peaked at 4.8 mmol/L on admission, normalized by day 3.*
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. Cardiogenic Shock, Severe LV Dysfunction (EF ~20%)
+- Etiology likely viral myocarditis (recent URI prodrome, no CAD hx, global hypokinesis).
+- Supported with Impella CP, weaning as tolerated.
+- On low dose norepinephrine, plan to discontinue in next 24h.
+- Daily TTE to monitor recovery.
+- Cardiac MRI planned post-ICU if stable.
+- Monitor for arrhythmia, device complications (hemolysis, limb ischemia).
+- Plan: Wean device, continue supportive care, consider GDMT for HF as tolerated.
+
+### 2. Hypoxic Respiratory Failure, Intubated (now improving)
+- Intubated day 1 for hypoxia, volume overload.
+- Daily spontaneous awakening and breathing trials.
+- CXR: improving pulmonary edema.
+- Extubation planned pending neuro status and gas exchange.
+
+### 3. Acute Kidney Injury (pre-renal, now resolved)
+- Oliguria and Cr up to 1.7 on day 2, improved with volume resuscitation and improved perfusion.
+- Now off diuretics, UOP >0.5 cc/kg/hr.
+- Monitor for nephrotoxic meds.
+
+### 4. Transaminitis, mild (ischemic hepatitis)
+- AST/ALT peaked day 2, now improving.
+- Monitor LFTs. No evidence of biliary obstruction.
+
+### 5. Prediabetes, Hyperglycemia
+- Fingerstick glucose q6h, sliding scale insulin as needed.
+- No DKA/HHS.
+
+### 6. Obesity, BMI 30.6
+- DVT ppx with SCDs and low dose heparin.
+- Nutrition: Enteral feeds, caloric restriction as appropriate.
+- PT/OT consult on standby.
+
+### 7. Pressure Injury, sacrum (stage 1)
+- Turn q2h, barrier cream.
+- Wound care consult.
+
+### 8. Viral pharyngitis/sinusitis (resolved)
+- Supportive care. No active infection.
+
+### 9. Hyperlipidemia
+- Resume statin when PO.
+
+### 10. Delirium prevention
+- Light sedation, daily wake up, reorientation, family at bedside.
+
+---
+
+**Medications (current ICU):**  
+- Norepinephrine (weaning)  
+- Heparin SQ  
+- Sliding scale insulin  
+- Furosemide PRN  
+- Lansoprazole  
+- Acetaminophen PRN  
+- Enteral nutrition  
+
+**To Do:**  
+- Wean Impella, extubate when safe  
+- Monitor hemodynamics, UOP  
+- Repeat TTE q24h  
+- Cardiac MRI if stable  
+- Family meeting/disposition planning
+
+---
+
+**Attestation:**  
+I have reviewed the above with the attending and agree with the plan.  
+— Dr. S. Patel, PGY-2
+
+---
+
+**[End of Note]**

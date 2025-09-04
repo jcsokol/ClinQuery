@@ -1,0 +1,177 @@
+**[EPIC EHR: ADMISSION NOTE]**
+
+**Patient Name:** Jeffrey Gerhold  
+**MRN:** 002984153  
+**DOB:** 01/17/1987 (37 y/o)  
+**Sex:** Male  
+**Date of Admission:** 05/11/2024  
+**Attending:** Dr. R. Linton  
+**Admitting Diagnosis:** Cardiogenic shock secondary to acute decompensated heart failure (new onset, unknown etiology)
+
+---
+
+### CHIEF COMPLAINT
+Shortness of breath and chest discomfort x 2 days, worsened acutely this morning with presyncope and diaphoresis.
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+37-year-old male with PMHx of chronic sinusitis, prediabetes, and recent viral sinusitis (treated with amox/clav), presented to ED with progressive dyspnea, orthopnea, and chest tightness. On arrival, hypotensive (BP 79/55), tachycardic (HR 122), tachypneic (RR 26), and hypoxic (O2 sat 89% RA). Physical exam notable for JVD, S3, cool extremities, and mild bibasilar crackles. CXR: pulmonary edema. Labs revealed elevated troponin, rising creatinine, and lactate 4.1. Echo: EF ~15%, global hypokinesis, no valvular vegetations. Cardiology consulted; etiology suspected viral myocarditis vs. idiopathic. Patient rapidly deteriorated, requiring pressors and intubation. Emergent placement of temporary left-sided heart pump (Impella CP) for circulatory support on HD 1.
+
+---
+
+### PAST MEDICAL HISTORY
+- Chronic sinusitis
+- Viral sinusitis (recent, resolved)
+- Prediabetes
+
+### PAST SURGICAL HISTORY
+- None
+
+### FAMILY HISTORY
+- Father: MI at 52
+- Mother: HTN, T2DM
+
+### SOCIAL HISTORY
+- Smoker: Denies
+- Alcohol: Rare
+- Illicit drugs: Denies
+- Occupation: Accountant
+
+### ALLERGIES
+- NKDA
+
+### HOME MEDICATIONS
+- Amoxicillin/Clavulanate 250/125 mg PO BID (completed 5/8/24)
+
+---
+
+## ICU HOSPITAL COURSE SUMMARY
+
+**HD 1:** Admitted in cardiogenic shock, intubated, started on norepinephrine, dopamine. Emergent Impella CP placed. Echo: EF 15%.  
+**HD 2:** Hemodynamics stabilizing on Impella, weaned off dopamine. Pressors titrated.  
+**HD 3:** Improved end-organ perfusion. Lactate normalized. Attempted to wean Impella support.  
+**HD 4:** Developed fever (38.6°C), blood cultures drawn, started empiric vancomycin/cefepime.  
+**HD 5:** Improved, extubated. Impella weaned and explanted without complication.  
+**HD 6-7:** Diuresis initiated, transitioned to guideline-directed HF therapy (metoprolol, lasix, spironolactone).  
+**HD 8:** Transferred to step-down unit.
+
+---
+
+## VITAL SIGNS (selected)
+| Date        | Temp (°C) | HR  | BP      | RR  | SpO2 | MAP |
+|-------------|-----------|-----|---------|-----|------|-----|
+| 5/11/24 AM  | 36.7      | 122 | 79/55   | 26  | 89%  | 60  |
+| 5/11/24 PM  | 36.4      | 110 | 90/62   | 22  | 95%  | 71  |
+| 5/12/24 AM  | 36.6      | 98  | 105/68  | 18  | 97%  | 80  |
+| 5/13/24 AM  | 37.2      | 90  | 112/72  | 16  | 98%  | 85  |
+| 5/14/24 AM  | 38.6      | 102 | 108/66  | 20  | 96%  | 80  |
+| 5/15/24 AM  | 36.8      | 82  | 118/74  | 14  | 99%  | 89  |
+
+---
+
+## LABS
+
+### CBC + CHEM7 TREND
+
+| Date       | WBC   | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|-------|-------|-------|-------|------|------|------|------|------|------|------|
+| 5/11/24 AM | 8.4   | 16.6  | 35.7  | 402   | 136  | 4.9  | 101  | 20.2 | 17.9 | 1.14 | 85.9 |
+| 5/12/24 AM | 10.2  | 15.1  | 33.0  | 380   | 138  | 4.7  | 102  | 18.1 | 22.0 | 1.42 | 102  |
+| 5/13/24 AM | 9.8   | 14.6  | 32.5  | 360   | 139  | 4.4  | 103  | 22.5 | 18.2 | 1.19 | 97   |
+| 5/14/24 AM | 12.4  | 14.1  | 31.9  | 299   | 137  | 4.1  | 99   | 24.3 | 16.8 | 1.01 | 90   |
+| 5/15/24 AM | 8.6   | 14.5  | 33.2  | 322   | 138  | 4.3  | 101  | 23.0 | 15.7 | 0.98 | 96   |
+| 5/16/24 AM | 7.9   |       |       | 310   |      |      | 100  |      |      |      |      |
+
+**Other Labs**
+- Troponin I (5/11): 0.92 → 0.38 (downtrending)
+- NT-proBNP (5/11): 18,400 pg/mL
+- Lactate (5/11): 4.1, (5/12): 1.2
+- LFTs (5/12): AST 52, ALT 44, Alk Phos 88, Tbili 0.7
+- INR 1.3, PT 15.2, PTT 32.1
+
+---
+
+## MICROBIOLOGY
+- Blood Cx (5/14): No growth x 5 days
+- Sputum Cx: Negative
+
+---
+
+## IMAGING
+- **CXR (5/11):** Pulmonary edema, mild cardiomegaly
+- **Echo (5/11):** LVEF 15%, global hypokinesis, no RV failure, no valvular vegetations or thrombus
+
+---
+
+## ASSESSMENT & PLAN
+
+**37M with no significant cardiac history, presented in cardiogenic shock, likely acute viral myocarditis, requiring temporary mechanical circulatory support (Impella CP). Hospital course complicated by ventilator-associated pneumonia, now resolved.**
+
+**Problem-Based A/P:**
+
+1. **Cardiogenic Shock / Acute Decompensated HF**
+    - Impella CP placed HD 1, explanted HD 5.
+    - Initially on norepi/dopamine, now off all pressors.
+    - Diuresed, started on metoprolol succinate 25 mg daily, lasix 40 mg IV BID, spironolactone 25 mg daily.
+    - Echo to be repeated prior to discharge.
+    - Cardiac MRI pending for myocarditis evaluation.
+    - Daily weights, strict I/O, monitor for arrhythmia.
+
+2. **Acute Kidney Injury (pre-renal, improved)**
+    - Cr peaked at 1.42, now 0.98.
+    - Improved with hemodynamic stabilization.
+    - Continue to monitor renal function.
+
+3. **Possible Ventilator-associated pneumonia (HD 4-5)**
+    - Treated empirically with vanc/cefepime.
+    - Afebrile since HD 5, blood cultures negative.
+    - Antibiotics discontinued.
+
+4. **Prediabetes**
+    - A1c 6.0%.
+    - Glucose controlled in hospital.
+    - Dietician consulted, recommend lifestyle modification.
+
+5. **Chronic Sinusitis**
+    - No acute symptoms.
+    - ENT follow-up as outpatient.
+
+6. **Hyperlipidemia**
+    - LDL 83, HDL 67, TG 139.
+    - Consider statin therapy after acute phase.
+
+7. **DVT Prophylaxis**
+    - SCDs, started enoxaparin 40 mg SQ daily.
+
+8. **Physical Debilitation**
+    - PT/OT evaluation, reconditioning post-ICU.
+
+9. **Follow-up**
+    - Cardiology, HF clinic, repeat TTE, consider wearable defibrillator pending EF recovery.
+
+---
+
+**Discharge Goals:**  
+- Clinically euvolemic, stable on oral HF meds, ambulatory, normal renal function, no active infection.
+
+---
+
+### ORDERS
+
+- Metoprolol succinate 25 mg PO daily
+- Furosemide 40 mg IV BID, transition to PO when stable
+- Spironolactone 25 mg PO daily
+- Enoxaparin 40 mg SQ daily
+- Cardiac MRI
+- TTE prior to discharge
+- PT/OT consult
+
+---
+
+**Physician:** R. Linton, MD  
+**Date/Time:** 5/16/2024 09:34
+
+---
+
+**(End of Note)**

@@ -1,0 +1,165 @@
+---
+**INPATIENT PROGRESS NOTE**  
+**Patient:** Noella Funk  
+**MRN:** 00518924  
+**DOB:** 02/04/1958 (Age: 66)  
+**Sex:** Female  
+**Date of Service:** 2024-06-14  
+**Admitting Physician:** Dr. J. Allen  
+**Consults:** Cardiology, Cardiothoracic Surgery, Hematology/Oncology  
+**Attending:** Dr. M. Rios  
+**Location:** Medical ICU, Rm 4B-12  
+**Code Status:** Full Code  
+---
+
+### CHIEF COMPLAINT  
+Progressive dyspnea, orthopnea, fatigue, and chest discomfort
+
+### HISTORY OF PRESENT ILLNESS  
+66-year-old female with a history of breast cancer (s/p lumpectomy, ongoing paclitaxel and anastrozole), chronic anemia, prediabetes, and osteoarthritis of the hand, presented to the ED with 4 days of worsening shortness of breath, orthopnea, and lower extremity edema. She noted mild chest tightness and lightheadedness. Denied fevers, cough, or recent URI symptoms. She had recently completed her 8th cycle of paclitaxel.
+
+On arrival: tachycardic, hypotensive (BP 84/52), tachypneic, O2 sat 90% on room air, JVD, bibasilar crackles, and 2+ pitting edema. ECG: low voltage, sinus tach, no ST changes. Troponin mildly elevated. CXR: pulmonary edema. Echo: LVEF 18%, global hypokinesis, mild MR.  
+
+Despite IV diuresis and inotropes, she developed worsening shock and oliguric renal failure. Cardiology consulted; decision made for percutaneous placement of a temporary left ventricular assist device (Impella CP) for cardiogenic shock, likely secondary to acute decompensated heart failure (possible chemotherapy-induced cardiomyopathy).
+
+### PERTINENT PMH  
+- Malignant neoplasm of left breast (s/p lumpectomy, on anastrozole, paclitaxel)  
+- Anemia (chronic, multifactorial)  
+- Prediabetes  
+- Osteoarthritis, hand  
+- Past OB hx: 1st trimester miscarriage, tubal pregnancy  
+- Viral sinusitis (remote)  
+- Acute viral pharyngitis (remote)
+
+### PERTINENT PSH  
+- Lumpectomy, left breast (2022)
+
+### MEDICATIONS PRIOR TO ADMISSION  
+- Paclitaxel 100mg IV weekly  
+- Anastrozole 1mg PO daily  
+- Naproxen sodium 220mg PO prn  
+- Amoxicillin/clavulanate (recent, for sinusitis)
+
+### ALLERGIES  
+No known drug allergies
+
+### SOCIAL HISTORY  
+- Lives alone, retired teacher  
+- Never smoker, rare alcohol, no illicit drugs  
+- No recent travel or sick contacts
+
+### FAMILY HISTORY  
+- Mother: breast cancer  
+- Father: MI at age 72  
+- No known genetic cardiac disease
+
+---
+
+## PHYSICAL EXAM (ICU Day 5)
+
+- **Gen:** Appears fatigued, mild distress
+- **VS:** T 37.9°C, HR 108, BP 92/58 (on dobutamine), RR 22, SpO2 95% (2L NC)
+- **HEENT:** Oropharynx clear, no JVD now post-diuresis
+- **CV:** Tachycardic, S3 gallop, Impella hum, no murmurs
+- **Resp:** Bibasilar crackles, diminished at bases
+- **Abd:** Soft, NT, mild hepatomegaly
+- **Ext:** 2+ pitting edema (decreasing), hand OA changes
+- **Neuro:** A&O x3, mild lethargy
+
+---
+
+## ICU HOSPITAL COURSE SUMMARY
+
+- **Day 1:** Admitted for ADHF, shock, AKI. Initial stabilization with BiPAP, IV furosemide, dobutamine, nitroglycerin.  
+- **Day 2:** Worsening shock, oliguric. Placed Impella CP via R femoral artery. Started heparin drip.  
+- **Day 3:** Some hemodynamic improvement, urine output increased. Monitored for hemolysis.  
+- **Day 4:** Echo: LVEF up to 25%. Weaned off dobutamine. Developed mild hemolysis (LDH 620, Hgb drop).  
+- **Day 5:** Ongoing improvement. Impella flows decreased. Plan for device wean.
+
+---
+
+## LABS
+
+| Date        | WBC (10^3/uL) | Hgb (g/dL) | Hct (%) | Plt (10^3/uL) | Na (mmol/L) | K (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | AST (U/L) | ALT (U/L) | TnI (ng/mL) | LDH (U/L) |
+|-------------|---------------|------------|---------|---------------|-------------|------------|-------------|------------|-------------|-----------|-----------|-------------|-----------|
+| Day 1       | 3.9           | 10.3       | 31      | 215           | 134         | 5.2        | 38          | 2.1        | 103         | 32        | 25        | 0.13        | 449       |
+| Day 2       | 3.1           | 9.1        | 28      | 182           | 135         | 4.8        | 45          | 2.4        | 98          | 44        | 33        | 0.11        | 582       |
+| Day 3       | 4.8           | 8.7        | 27      | 156           | 137         | 4.2        | 37          | 2.0        | 115         | 38        | 28        | 0.08        | 620       |
+| Day 4       | 4.2           | 8.9        | 28      | 172           | 138         | 4.0        | 28          | 1.7        | 123         | 29        | 24        | 0.04        | 430       |
+| Day 5       | 4.6           | 9.3        | 29      | 189           | 139         | 4.3        | 22          | 1.4        | 110         | -         | -         | <0.01       | 311       |
+
+*Missing: AST/ALT not drawn day 5. Troponin and LDH not drawn day 1.  
+*Additional: HgbA1c on admit: 6.2%; BNP day 1: 1890 pg/mL
+
+---
+
+## IMAGING
+
+**CXR (Day 1):** Pulmonary edema, mild cardiomegaly  
+**Echo (Day 2):** LVEF 18%, global hypokinesis, mild MR  
+**Echo (Day 4):** LVEF 25%, Impella in situ, mild MR  
+**CT chest (Day 3):** No PE, moderate pleural effusions
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock/Acute Decompensated Heart Failure (likely chemo-induced cardiomyopathy)**  
+- Presentation: Hypotension, pulmonary edema, low output, AKI  
+- Management: IV diuresis, inotropes, vasopressors, then Impella CP for mechanical support  
+- Hemodynamics improved, weaning Impella  
+- Monitor for device complications (hemolysis, limb ischemia, infection)  
+- Cardiology to reassess for recovery and explantation
+
+**2. Acute Kidney Injury (pre-renal, improved)**  
+- Likely secondary to low cardiac output  
+- Improved urine output, trending creatinine down  
+- Continue monitoring, avoid nephrotoxins
+
+**3. Anemia (chronic, worsened by hemolysis from device)**  
+- Hgb nadir 8.7, mild hemolysis, LDH peaked at 620  
+- No transfusion needed, monitoring labs  
+- Iron studies pending
+
+**4. Breast Cancer (s/p lumpectomy, on chemo/hormonal therapy)**  
+- Paclitaxel held during ICU stay  
+- Oncology following, plan to resume after stabilization  
+- No evidence of metastatic disease on imaging
+
+**5. Prediabetes**  
+- Glucose stable, no insulin required  
+- Monitoring for steroid-induced hyperglycemia
+
+**6. Osteoarthritis, hand**  
+- Chronic, pain controlled, naproxen held due to AKI  
+- Resume as tolerated after renal recovery
+
+**7. Infection prophylaxis**  
+- No active infection  
+- Blood cultures negative  
+- Continue VTE and GI prophylaxis
+
+**8. Psychosocial/care planning**  
+- Patient anxious, aware of prognosis  
+- Social work consulted  
+- Family meetings ongoing
+
+---
+
+### TO-DOs / SIGN-OUT  
+- Cardiology: Continue to wean Impella, repeat TTE tomorrow  
+- Labs: CBC, chem7, LDH, haptoglobin, daily  
+- Monitor: Vitals q2h, strict I/Os  
+- PT/OT: Begin as tolerated  
+- Oncology: Resume chemo plan after ICU transfer  
+- Consider transfer to stepdown when stable
+
+---
+
+**Signed:**  
+Dr. J. Allen, MD  
+2024-06-14, 08:31 AM
+
+---
+
+**END OF NOTE**

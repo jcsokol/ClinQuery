@@ -1,0 +1,54 @@
+name: clinquery_environment
+
+channels:
+  - conda-forge
+
+dependencies:
+  # Core
+  - python=3.10
+  - pip
+  - numpy=1.26.*
+  - pandas=2.2.*
+  - duckdb=1.1.*
+  - requests=2.*
+  - rich=13.*
+  - typing_extensions=4.*
+  - tzdata
+  - setuptools
+  - wheel
+  - pyarrow
+  - optree=0.12.*
+  - psycopg
+  - streamlit
+  - faiss-cpu
+  - scipy=1.12.* # not required for pipeline_query
+  - scikit-learn=1.5.* # not required for pipeline_query
+  - matplotlib=3.8.* # not required for pipeline_query
+  - h5py=3.12.* # not required for pipeline_query
+  - pillow=10.* # not required for pipeline_query
+
+  # for notebooks (not required for pipeline_query)
+  - jupyter
+  - ipykernel
+  - ipywidgets
+  - jupyterlab_widgets
+  - notebook
+
+  # gpu-enabled TF (not required for pipeline_query)
+  - tensorflow=2.18.* 
+  - tensorboard=2.18.* 
+  - cudnn 
+  - cuda-toolkit 
+  - nccl 
+  - cuda-version=12.5   
+
+  - pip:
+      - rapidfuzz
+      - sentence-transformers
+      - openai
+      - sqlparse
+      - seqeval # not required for pipeline_query
+      - tf-keras # not required for pipeline_query  
+      - transformers # not required for pipeline_query  
+      - datasets # not required for pipeline_query  
+      - accelerate # not required for pipeline_query  

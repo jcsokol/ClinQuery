@@ -1,0 +1,193 @@
+**[EPIC EHR - INPATIENT NOTE]**
+
+---
+
+**Patient Name:** Edyth Bins  
+**MRN:** 10032784  
+**DOB:** 09/17/1970  
+**Sex:** Female  
+**Admitting Physician:** Dr. J. S. Patel  
+**Attending:** Dr. Emily Chou  
+**Date of Admission:** 04/15/2024  
+**Date of Note:** 04/22/2024  
+**Service:** Cardiac ICU  
+**Location:** 6E Cardiac ICU, Bed 12
+
+---
+
+### **HISTORY OF PRESENT ILLNESS**
+Edyth Bins is a 53-year-old female with a PMHx notable for obesity (BMI ~28-30), early-onset familial Alzheimer’s, and hyperlipidemia, who presented to the ED with 2 days of worsening shortness of breath, orthopnea, and lower extremity edema. She was found to be hypoxic (SpO2 87% RA), tachycardic, and hypertensive on arrival. Initial workup revealed elevated BNP, troponin, and CXR with pulmonary edema. She rapidly decompensated, developing hypotension refractory to diuresis and inotropes, requiring urgent placement of a temporary left ventricular assist device (Impella CP) for cardiogenic shock.
+
+---
+
+### **PAST MEDICAL HISTORY**
+- Obesity (BMI 28-32)
+- Familial Alzheimer’s disease, early onset (MMSE 23/30 last clinic)
+- Hyperlipidemia
+- Hypertension (remote, on/off)
+- No known CAD, DM, CKD, or prior MI
+
+### **PAST SURGICAL HISTORY**
+- None reported
+
+### **MEDICATIONS ON ADMISSION**
+- Galantamine 4 mg PO daily
+- Atorvastatin 20 mg PO qhs (per outside records)
+- Lisinopril 10 mg PO daily (nonadherent)
+- Multivitamin
+
+### **ALLERGIES**
+- NKDA
+
+---
+
+### **SOCIAL HISTORY**
+- Lives with husband, two adult children
+- Retired school teacher
+- Occasional wine, no tobacco, no illicit drug use
+- Family history: father deceased age 59 (sudden cardiac death), mother with Alzheimer’s dx age 62
+
+---
+
+### **REVIEW OF SYSTEMS**
+Unable to obtain full ROS due to cognitive baseline and ICU setting. Per family and chart:
+- **Constitutional:** No fevers, chills
+- **Cardiac:** Chest pain (denied), palpitations (denied), orthopnea (+), PND (+)
+- **Pulm:** SOB (+), cough (denied)
+- **GI:** Nausea (+), vomiting (+)
+- **GU:** Oliguria on day 2
+- **Neuro:** Baseline mild confusion, no focal deficits
+- **MSK:** Leg swelling (+)
+
+---
+
+### **PHYSICAL EXAM**
+**GEN:** Obese female, mildly confused, on supplemental O2, Impella in place  
+**VITALS (see flowsheet below):**
+- T 36.7°C, HR 116, BP 99/56 (MAP 67), RR 22, SpO2 94% (2L NC)
+- Weight: 78.5 kg, Height: 166 cm, BMI: 28.4
+**HEENT:** No JVD, oropharynx clear  
+**CV:** Tachycardic, S3 present, no murmurs, Impella hum  
+**LUNG:** Bibasilar crackles  
+**ABD:** Soft, mild epigastric tenderness  
+**EXT:** 2+ pitting edema BLE  
+**NEURO:** Oriented x2 (person, place), MMSE 23/30, no lateralizing signs  
+**SKIN:** Intact
+
+---
+
+### **HOSPITAL COURSE**
+
+#### **DAY 1 (4/15/2024):**
+- Presents to ED with acute CHF exacerbation
+- Initial labs: BNP 3120, Troponin 0.14 rising to 0.36, Creatinine 1.2 (baseline 0.8)
+- CXR: Pulmonary edema
+- Started on IV furosemide, nitroglycerin, BiPAP
+- Rapid progression to hypotension (SBP <90), hypoperfusion
+- Started on dobutamine, norepinephrine
+- Cardiology: bedside echo—EF ~15%, severe global hypokinesis
+- Impella CP placed in cath lab for cardiogenic shock, transferred to CICU
+
+#### **DAY 2-3:**
+- Impella flows maintained at P6, MAP 65-75
+- Worsening renal function (Cr peak 2.1), urine output improved after diuresis
+- Lactate peaked at 3.2, normalized with improved perfusion
+- Extubated to high-flow nasal cannula
+- Persistent confusion at baseline
+
+#### **DAY 4-5:**
+- Weaned off pressors
+- Diuresis continued with net negative fluid balance
+- Echo: EF 20%, mild improvement
+- Liver enzymes transiently elevated (AST 94, ALT 70), trended down
+- Impella weaned to P2, removed without complication on day 5
+
+#### **DAY 6-7:**
+- Transitioned to oral HF regimen (carvedilol, sacubitril/valsartan, spironolactone)
+- Cognition at baseline, MMSE 23/30
+- Mobilizing with PT/OT
+- No recurrent arrhythmias
+
+---
+
+## **LABS (Selected CBC, Chem7, Cardiac Markers, LFTs)**
+
+| Date       | WBC  | Hgb  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | Troponin | BNP   | Lactate |
+|------------|------|------|------|------|------|------|------|------|------|------|------|------|----------|-------|---------|
+| 4/15 AM    | 9.5  | 14.7 | 359  | 137  | 4.2  | 101  | 25   | 18   | 1.2  | 112  | 37   | 29   | 0.14     | 3120  | 1.8     |
+| 4/15 PM    | 10.7 | 13.6 | 332  | 135  | 4.8  | 98   | 22   | 28   | 1.7  | 156  | 60   | 52   | 0.36     | >5000 | 3.2     |
+| 4/16       | 11.2 | 12.8 | 289  | 136  | 5.1  | 99   | 19   | 34   | 2.1  | 143  | 94   | 70   | 0.22     | >5000 | 2.4     |
+| 4/17       | 8.9  | 13.2 | 255  | 139  | 4.5  | 102  | 24   | 27   | 1.6  | 110  | 61   | 49   | 0.12     | 4860  | 1.1     |
+| 4/18       | 7.8  | 12.9 | 241  | 141  | 4.0  | 104  | 28   | 21   | 1.4  | 99   | 40   | 33   | --       | 3380  | --      |
+| 4/19       | 7.1  | 13.0 | 232  | 140  | 4.2  | 100  | 27   | 18   | 1.0  | 102  | 31   | 26   | <0.01    | 2290  | <1.0    |
+| 4/20       | 6.8  | 12.8 | 220  | --   | 4.1  | 99   | 26   | 17   | 0.9  | 98   | 28   | 22   | --       | 1280  | --      |
+| 4/21       | --   | 12.5 | 210  | 143  | 4.3  | 103  | 27   | 16   | 0.8  | 96   | 29   | 20   | --       | 870   | --      |
+
+**Key:**  
+-- = not collected
+
+---
+
+## **ASSESSMENT & PLAN**
+
+**1. Cardiogenic Shock, Severe Systolic Heart Failure (EF 15-20%)**
+- Etiology: Likely ischemic vs. non-ischemic (family hx SCD, no prior MI)
+- Required Impella for hemodynamic support, now explanted
+- Improving cardiac output, off vasopressors
+- Plan:
+  - Continue guideline-directed medical therapy (GDMT): carvedilol, sacubitril/valsartan, spironolactone
+  - Monitor for recurrent arrhythmia, repeat echo in 1-2 weeks
+  - Cardiac rehab consult
+  - Outpatient ischemic workup (cardiac MRI, stress test)
+
+**2. Acute Kidney Injury, resolving**
+- Likely secondary to hypoperfusion
+- Now improved with volume status optimization
+- Plan:
+  - Monitor daily BMP, strict I/Os
+  - Avoid nephrotoxins
+
+**3. Acute on Chronic Liver Injury**
+- Transaminitis likely secondary to shock liver, now trending down
+- Plan: Monitor LFTs, supportive care
+
+**4. Early-Onset Alzheimer’s Disease**
+- Baseline mild-moderate cognitive dysfunction
+- Galantamine resumed, MMSE stable
+- Plan: Continue current regimen, involve neurology if acute change
+
+**5. Obesity, Hyperlipidemia**
+- Atorvastatin resumed
+- Plan: Cardiac diet, nutritionist consult, encourage weight loss as tolerated
+
+**6. Delirium**
+- Multifactorial: ICU, heart failure, baseline cognitive impairment
+- Plan: Nonpharmacologic measures, minimize sedation, mobilize
+
+**7. Risk for VTE**
+- On SCDs, transitioned from heparin gtt to prophylactic enoxaparin
+
+**8. Disposition**
+- Anticipate transfer to step-down in 24-48h
+- PT/OT, social work to assess for safe discharge
+
+---
+
+**Physician:** Emily Chou, MD  
+**Date/Time:** 4/22/2024 09:13
+
+---
+
+**Orders:**  
+- Daily CBC, BMP  
+- Repeat TTE in 1 week  
+- Continue GDMT  
+- DVT prophylaxis  
+- Cardiac diet  
+- PT/OT  
+- Monitor neuro status  
+- Foley out when appropriate
+
+---
+
+**[END OF NOTE]**

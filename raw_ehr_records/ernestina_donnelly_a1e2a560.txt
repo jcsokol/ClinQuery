@@ -1,0 +1,171 @@
+**Inpatient Progress Note – ICU (EPIC SIMULATION)**
+
+---
+
+**Patient Name:** Ernestina Donnelly  
+**MRN:** 00612998  
+**DOB:** 1976-02-14 (48y)  
+**Sex:** Female  
+**Date of Admission:** 2024-05-22  
+**Attending:** Dr. M. Purvi  
+**Admitting Dx:** Acute Decompensated Heart Failure (ADHF) with Cardiogenic Shock  
+**Secondary Dx:** Hypertension, Obesity, Chronic Migraine, Chronic Sinusitis, Perennial Allergic Rhinitis, Hx. Acute Bronchitis  
+**Allergies:** NKDA  
+**Code Status:** Full  
+**Consults:** Cardiology, Critical Care, Infectious Disease
+
+---
+
+**HOSPITAL COURSE SUMMARY:**
+
+Ms. Donnelly is a 48-year-old female with h/o poorly controlled HTN, obesity (BMI ~29), chronic migraines, and chronic sinusitis, who presented to the ED with 2 weeks of progressive dyspnea on exertion, orthopnea, and lower extremity edema. On presentation, she was tachycardic, hypotensive, hypoxic, and found to be in acute pulmonary edema with evidence of end-organ hypoperfusion (creatinine 2.2 mg/dL, lactate 4.1 mmol/L). She rapidly deteriorated and required intubation, vasopressors, and was transferred to the ICU.
+
+Despite optimization of preload and afterload, she remained in refractory cardiogenic shock. Emergent bedside echocardiogram revealed severely depressed LVEF (~15%), moderate RV dysfunction, and global hypokinesis. Multidisciplinary decision made for temporary mechanical circulatory support. A left-sided percutaneous axial-flow heart pump (Impella CP) was placed on hospital day 1. She was managed with anticoagulation, inotropes, and diuresis. Gradual improvement observed, with explantation of Impella on day 6.
+
+Complicated by:  
+- AKI (stage II, non-oliguric, improved with perfusion)  
+- Transient transaminitis  
+- New-onset atrial fibrillation (resolved)  
+- Multiple episodes of hypotension requiring vasopressors  
+- Migraine exacerbation (treated with acetaminophen, antiemetics)  
+- Superimposed bacterial sinusitis (treated with ceftriaxone)
+
+She was successfully extubated on day 7, transitioned to oral heart failure regimen, and transferred to stepdown on day 10.
+
+---
+
+**PROBLEM-BASED ASSESSMENT & PLAN**
+
+---
+
+**1. Cardiogenic Shock secondary to decompensated heart failure (new reduced EF)**
+   - **Assessment:** Severe LV systolic dysfunction, likely hypertensive heart disease. Profound hypoperfusion with multi-organ dysfunction at presentation.  
+   - **Plan:**  
+     - Temporary LV support (Impella CP, HD 1–6)  
+     - Vasopressors (norepinephrine, vasopressin) for MAP >65  
+     - Inotropes (dobutamine, milrinone titrated)  
+     - Serial TTEs  
+     - Strict I/Os, daily weights  
+     - Transition to goal-directed HF therapy (carvedilol, sacubitril-valsartan, spironolactone) as tolerated  
+     - Cardiology f/u, consider advanced HF referral
+
+**2. Acute Kidney Injury (KDIGO stage II)**
+   - **Assessment:** Likely pre-renal, secondary to low cardiac output. Peak Cr 2.7 mg/dL (baseline ~1.0).  
+   - **Plan:**  
+     - Optimize MAP/perfusion  
+     - Avoid nephrotoxins  
+     - Renal dose adjust all medications  
+     - Monitor UOP, daily BMP  
+     - Renal consult
+
+**3. Transaminitis**
+   - **Assessment:** Mild AST/ALT elevation, likely “shock liver” (ischemic hepatitis). No evidence of biliary obstruction or viral hepatitis.  
+   - **Plan:**  
+     - Monitor LFTs q48h  
+     - Supportive care
+
+**4. New-onset Atrial Fibrillation**
+   - **Assessment:** Paroxysmal, rate-related, no evidence of embolic phenomenon.  
+   - **Plan:**  
+     - Rate control (IV metoprolol)  
+     - Anticoagulation (heparin drip while Impella in place)  
+     - Rhythm monitoring  
+     - CHADS-VASC calculated (score 2)  
+     - Cardiology to determine long-term anticoagulation
+
+**5. Chronic Hypertension**
+   - **Assessment:** Poorly controlled, contributed to decompensation.  
+   - **Plan:**  
+     - Resume home regimen as tolerated (amlodipine/HCTZ/olmesartan)  
+     - Titrate as BP allows
+
+**6. Obesity (BMI 28-29)**
+   - **Assessment:** Risk factor for HF, OSA (not previously evaluated).  
+   - **Plan:**  
+     - Dietician consult  
+     - Encourage weight loss  
+     - Consider sleep study outpatient
+
+**7. Chronic Migraine**
+   - **Assessment:** Exacerbated by stress/illness; managed with acetaminophen, antiemetics.  
+   - **Plan:**  
+     - Avoid triptans/NSAIDs due to AKI  
+     - Continue acetaminophen PRN  
+     - Neurology consult for preventive management
+
+**8. Chronic Sinusitis/Allergic Rhinitis**
+   - **Assessment:** Baseline, but with acute exacerbation (purulent drainage, facial pain).  
+   - **Plan:**  
+     - ENT consult  
+     - Ceftriaxone IV x5d, then PO  
+     - Continue chlorpheniramine  
+     - Nasal saline irrigations
+
+**9. Contraceptive Management**
+   - **Assessment:** Multiple forms in chart (some not current).  
+   - **Plan:**  
+     - Clarify active contraception  
+     - Hold hormonal agents during acute illness  
+     - Gyn consult if needed
+
+**10. DVT Prophylaxis**
+   - **Plan:**  
+     - SCDs until ambulating  
+     - Heparin for anticoagulation while Impella in place
+
+---
+
+**HOSPITAL COURSE VITALS (SELECTED):**
+
+| Date       | Temp (°C) | HR (bpm) | BP (mmHg) | RR | SpO2 (%) | Weight (kg) | Comments           |
+|------------|-----------|----------|-----------|----|----------|-------------|--------------------|
+| 5/22/24    | 36.7      | 119      | 83/53     | 22 | 91       | 80.1        | On norepi/vent     |
+| 5/23/24    | 37.3      | 99       | 91/68     | 20 | 97       | 79.9        | Impella placed     |
+| 5/24/24    | 36.9      | 83       | 103/74    | 18 | 98       | 78.8        | Weaning pressors   |
+| 5/25/24    | 36.6      | 78       | 110/80    | 18 | 99       | 78.1        | On diuresis        |
+| 5/28/24    | 36.5      | 75       | 117/85    | 16 | 98       | 77.6        | Extubated          |
+
+---
+
+**HOSPITAL COURSE LABS (CBC, CHEM7, LFTs, Cardiac)**
+
+| Date     | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Gluc | AST  | ALT  | T. bili | Troponin | BNP   |
+|----------|------|------|------|------|------|------|------|------|------|------|------|------|------|---------|----------|-------|
+| 5/22/24  | 15.2 | 15.9 | 47   | 144  | 139  | 4.8  | 102  | 22   | 36   | 2.2  | 114  | 172  | 144  | 1.8     | 0.18     | 2340  |
+| 5/23/24  | 13.9 | 14.2 | 43   | 133  | 137  | 4.2  | 104  | 21   | 38   | 2.7  | 131  | 193  | 160  | 2.1     | 0.12     | 2120  |
+| 5/24/24  | 10.5 | 13.7 | 41   | 122  | 138  | 4.3  | 104  | 24   | 32   | 2.0  | 102  | 91   | 80   | 1.1     | 0.09     | 1550  |
+| 5/25/24  |  8.2 | 12.8 | 39   | 111  | 140  | 4.1  | 105  | 26   | 28   | 1.6  | 99   | 58   | 56   | 0.8     | 0.04     | 890   |
+| 5/26/24  |  6.9 | 12.2 | 37   | 130  | 139  | 4.0  | 106  | 28   | 24   | 1.2  |      |      |      |         | 0.02     | 510   |
+| 5/28/24  |  6.1 | 13.0 | 39   | 164  | 139  | 4.3  | 104  | 26   | 21   | 1.1  | 105  | 43   | 44   | 0.5     | <0.01    | 320   |
+
+---
+
+**MEDICATION ADMINISTRATION (INPATIENT)**
+- Norepinephrine IV gtt (HD 1–3)
+- Dobutamine IV gtt (HD 1–5)
+- Heparin IV (Impella duration)
+- Ceftriaxone IV (HD 2–6)
+- Metoprolol IV/PO
+- Furosemide IV
+- Acetaminophen PO/IV
+- Ondansetron IV PRN
+- Home antihypertensives (as tolerated)
+- Chlorpheniramine PO
+
+---
+
+**DISCHARGE PLANNING**
+- Education: HF, low sodium diet, med reconciliation
+- Outpatient f/u: Cardiology (1 week), PCP, Neurology, ENT
+- Home meds: Carvedilol, sacubitril-valsartan, spironolactone, amlodipine, acetaminophen, chlorpheniramine
+- Pending: Sleep study, advanced HF evaluation
+
+---
+
+**ATTENDING PHYSICIAN:**  
+/Dr. M. Purvi, MD/  
+**Date/Time:** 2024-06-02 09:17
+
+---
+
+**END OF NOTE**

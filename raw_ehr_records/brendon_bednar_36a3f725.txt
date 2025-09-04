@@ -1,0 +1,157 @@
+---
+**Patient:** Brendon Bednar  
+**MRN:** 04728391  
+**DOB:** 10/2/1939  
+**Sex:** Male  
+**Attending:** Dr. K. Redmond  
+**Admit Date:** 4/16/2024  
+**Admit Service:** ICU  
+**Admitting Dx:** Cardiogenic shock, acute on chronic heart failure  
+**Allergies:** NKDA  
+**Code Status:** Full code  
+**Height:** 174 cm  
+**Weight:** 84.6 kg  
+**BMI:** 27.8 (note: charted as >30 in PMHx, but recent weight lower)  
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+Mr. Brendon Bednar is an 84-year-old male with a history notable for hypertension, obesity (BMI previously >30), chronic obstructive bronchitis, chronic anemia, hyperlipidemia, and prior cardiac risk factors, who presented to the ED with acute worsening dyspnea, orthopnea, and lower extremity edema. Initial evaluation revealed hypoxic respiratory failure, hypotension, and elevated JVP. Troponin mildly elevated at 0.12, BNP 2680, CXR with pulmonary edema. He rapidly decompensated requiring vasopressors and mechanical ventilation. Echo showed EF 18%, severe global hypokinesis, and dilated LV.
+
+Due to persistent cardiogenic shock despite maximal medical therapy (dobutamine, norepinephrine), a decision was made to place a percutaneous left ventricular assist device (Impella CP) for temporary mechanical circulatory support on hospital day 2. The patient stabilized hemodynamically, with gradual improvement in end-organ perfusion. Device was weaned and explanted on hospital day 7. Complicated course included AKI (requiring brief CVVH), anemia requiring transfusion, delirium, and volume overload. He is currently improving, off pressors, extubated, weaning O2, and transferred to step-down.
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock secondary to acute decompensated HFrEF**
+   - Etiology: Ischemic vs. hypertensive heart disease; non-ischemic pattern on echo, no acute MI on serial trops.
+   - Required temporary LV support (Impella CP, HD2-7).
+   - Now: Off pressors/inotropes, MAP >65, lactate normalizing.
+   - Continue aggressive diuresis, afterload reduction (ACEi deferred until renal function recovers).
+   - Telemetry, daily weights, strict I/Os.
+   - Cardiology and advanced HF following.
+
+**2. Chronic Systolic Heart Failure (EF 18%)**
+   - Home regimen: ACEi/ARB, BB, MRA—currently held due to AKI/hypotension.
+   - Resume guideline-directed therapy as tolerated.
+   - Sodium restriction, fluid restriction.
+
+**3. Acute Kidney Injury (Stage 3, multifactorial: low perfusion, nephrotoxins, contrast)**
+   - Peak Cr 4.2, now improved to 2.1.
+   - Brief CVVH (2 days); now off, making urine.
+   - Avoid nephrotoxins, monitor lytes/renal panel QAM.
+
+**4. Chronic Obstructive Pulmonary Disease**
+   - On home LABA/ICS inhaler.
+   - Mild AECOPD on admission; now improved.
+   - Resume inhalers, monitor for bronchospasm.
+
+**5. Anemia (multifactorial: chronic disease, AKI, GI evaluation pending)**
+   - Hgb nadir 7.4, transfused 1U PRBC.
+   - Now stable at 9.3.
+   - Trend CBC, consider GI workup if recurrent.
+
+**6. Hyperlipidemia**
+   - On simvastatin, continued during admission.
+   - Recheck lipid panel prior to discharge.
+
+**7. Obesity (BMI previously >30)**
+   - Nutritional consult, weight trending down.
+   - Encourage mobility, dietician follow-up.
+
+**8. Delirium**
+   - Likely multifactorial: ICU stay, AKI, sedation.
+   - Improving, reoriented, off restraints.
+   - Continue non-pharm interventions, minimize sedatives.
+
+**9. Laceration of hand (old, healed)**
+   - No acute issues.
+
+**10. Others:**
+   - Viral sinusitis, acute bronchitis resolved.
+   - Concussion, sprain of ankle—remote, no sequelae.
+   - DVT prophylaxis with SCDs, SQ heparin.
+
+---
+
+## HOSPITAL MEDICATIONS
+
+- Dobutamine IV (HD1-5, now off)
+- Norepinephrine IV (HD1-3, now off)
+- Furosemide IV 80mg BID
+- Simvastatin 10mg QHS
+- Fluticasone/salmeterol inhaler BID
+- Olmesartan/amlodipine/HCTZ—held, resume as tolerated
+- Heparin SQ for DVT ppx
+- PRN acetaminophen, PRN oxycodone (rare use)
+- Pantoprazole 40mg IV daily
+
+---
+
+## ICU VITALS SUMMARY
+
+| Date       | HR   | BP          | RR  | Temp  | SpO2   | Weight (kg) |
+|------------|------|-------------|-----|-------|--------|-------------|
+| 4/16/24    | 123  | 84/51 (MAP 62) | 28  | 36.5  | 88% RA | 85.2        |
+| 4/17/24    | 110  | 98/64 (MAP 75) | 24  | 37.2  | 95% NRB | 84.8        |
+| 4/18/24    | 92   | 102/66 (MAP 78) | 20  | 37.0  | 97% HFNC | 84.2        |
+| 4/19/24    | 88   | 110/74 (MAP 86) | 18  | 36.8  | 98% NC  | 83.7        |
+| 4/20/24    | 85   | 114/76 (MAP 89) | 16  | 36.6  | 98% RA  | 83.5        |
+
+---
+
+## LABS
+
+**CBC & Chem7**
+
+| Date       | WBC      | Hgb  | Plt   | Na   | K    | Cl   | HCO3 | BUN  | Cr   | Gluc | Ca   | AST  | ALT  | Alk Phos | TBili | Alb  |
+|------------|----------|------|-------|------|------|------|------|------|------|------|------|------|------|----------|-------|------|
+| 4/16/24    | 15.2     | 8.1  | 148   | 134  | 5.0  | 106  | 24   | 39   | 3.9  | 132  | 8.2  | 42   | 38   | 124      | 1.2   | 3.1  |
+| 4/17/24    | 12.8     | 7.4  | 142   | 136  | 4.8  | 109  | 22   | 52   | 4.2  | 119  | 8.7  | 36   | 31   | 110      | 1.0   | 2.8  |
+| 4/18/24    | 10.5     | 8.7  | 156   | 137  | 4.2  | 108  | 24   | 38   | 3.1  | 102  | 9.1  | 29   | 28   | 105      | 0.9   | 3.2  |
+| 4/19/24    | 9.8      | 9.3  | 157   | 139  | 4.0  | 108  | 27   | 24   | 2.3  | 98   | 9.0  | 24   | 27   | 99       | 0.7   | 3.5  |
+| 4/20/24    | 8.9      | 9.2  | 163   | 140  | 4.1  | 110  | 28   | 18   | 2.1  |      | 8.9  |      |      | 93       | 0.7   |     |
+| 4/21/24    | 8.2      |      | 171   | 142  | 4.2  | 111  | 28   | 16   | 2.1  |      |      |      |      | 87       |       |     |
+
+**Other Labs:**
+- BNP: 2680 (4/16), 1340 (4/19), 980 (4/21)
+- Troponin I: 0.12 → 0.10 → 0.08 (no dynamic rise)
+- INR: 1.3 (baseline)
+- PT/PTT: Mildly prolonged while on Impella (max PT 16.2 s)
+- Lactate: 3.4 (admission), normalized by HD3
+
+---
+
+## PROCEDURES
+
+- **Impella CP placement** (L femoral artery, 4/17/24): No immediate complications
+- **CVVH** (4/17–4/19): Discontinued after renal recovery
+- **Transfusion:** 1U PRBC 4/17/24
+- **Right IJ central line, L radial A-line** (4/16/24)
+- **Mechanical ventilation** (4/16–4/18): Extubated 4/18
+
+---
+
+## IMAGING
+
+- **CXR (4/16):** Pulmonary edema, vascular congestion, cardiomegaly
+- **Echo (4/17):** EF 18%, severe global hypokinesis, mild MR, moderate TR, RV mildly reduced, no LV thrombus
+- **Renal US (4/17):** No hydronephrosis
+- **Hand X-ray (old):** No acute fracture
+
+---
+
+## DISPOSITION
+
+- Now on step-down, expected to go to acute rehab after further recovery.
+- Prognosis guarded given advanced age and severe LV dysfunction, but improving.
+
+---
+
+**Sign-off:**  
+Dr. K. Redmond, MD  
+Attending, Critical Care/Cardiology  
+4/21/2024  
+---

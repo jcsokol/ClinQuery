@@ -1,0 +1,174 @@
+---
+**Patient:** Cameron Kiehn  
+**MRN:** 0012987342  
+**DOB:** 05/02/2006  
+**Sex:** Male  
+**Admit Date:** 05/04/2024  
+**Attending:** Dr. L. Braun  
+**Service:** Pediatric ICU  
+**Note Date:** 05/09/2024  
+**Note Type:** Progress Note  
+**Author:** Dr. L. Braun, MD
+
+---
+
+## **Chief Complaint**
+Cardiac arrest s/p resuscitation and temporary LVAD placement.
+
+---
+
+## **HPI**
+Cameron Kiehn is a 17-year-old male with a past medical history of viral sinusitis, acute bronchitis, and a recent out-of-hospital cardiac arrest who was admitted after successful field resuscitation. He developed recurrent ventricular arrhythmias and cardiogenic shock requiring escalation to inotropes and ultimately placement of a temporary left ventricular assist device (Impella CP) for circulatory support. He is post-ROSC (return of spontaneous circulation), intubated, deeply sedated, and remains in the ICU with multi-disciplinary management.
+
+---
+
+## **Hospital Course**
+**05/04/24:**  
+- Found unresponsive at home, CPR initiated by bystander.
+- EMS arrived, defibrillated for VFib, ROSC achieved after 2 rounds of epi + 300mg amio.
+- Transported to ED, intubated, started on norepinephrine for hypotension.
+- Initial labs: acidosis, elevated troponin, mild transaminitis.
+
+**05/05/24:**  
+- Developed recurrent VT despite amiodarone and lidocaine.
+- Echo: severe global hypokinesis, LVEF ~20%.
+- Cardiology consulted; decision made to place temporary LVAD (Impella CP) for ongoing cardiogenic shock.
+- Admitted to PICU, started on heparin infusion.
+
+**05/06/24 - 05/09/24:**  
+- Gradual improvement in end-organ perfusion.
+- Weaned off norepinephrine by 05/07.
+- LVAD flows stable, no device alarms.
+- Neurologic exam: sedated, but reactive pupils, intermittent spontaneous movement.
+- Infectious work-up negative for bacterial causes; viral sinusitis resolved.
+- Mild transaminitis resolved.
+- Plan for LVAD wean and extubation trial.
+
+---
+
+## **Review of Systems**
+Unable to obtain due to intubation and sedation.
+
+---
+
+## **Physical Exam (Most Recent)**
+- **General:** Sedated, intubated, on mechanical ventilation (SIMV, PEEP 5, FiO2 30%)
+- **HEENT:** Pupils 3mm, reactive. No scleral icterus.
+- **Cardiac:** Regular, S1/S2, LVAD hum present, no murmur, tachycardic.
+- **Pulm:** Breath sounds coarse, mild rhonchi, no rales.
+- **Abd:** Soft, nontender, no distension.
+- **Ext:** No edema, pulses present.
+- **Skin:** Intact, central line in R IJ, arterial line in L radial.
+- **Neuro:** Deeply sedated, localizing to pain, no focal deficits.
+
+---
+
+## **Labs**
+
+**Table 1: CBC & CHEM-7 (Selected Days)**
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | HCO3 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|------------|------------|------------|---------|------------|-------------|------------|-------------|---------------|-------------|------------|-------------|
+| 05/04/24   | 7.0        | 16.8       | 35.4    | 435        | 137         | 4.2        | 102         | 16            | 24          | 0.9        | 108         |
+| 05/05/24   | 6.4        | 15.1       | 32.2    | 398        | 135         | 5.7        | 100         | 14            | 33          | 1.3        | 122         |
+| 05/06/24   | 8.1        | 14.8       | 31.5    | 372        | 139         | 4.3        | 99          | 18            | 21          | 0.8        | 101         |
+| 05/07/24   | 7.5        | 15.2       | 32.9    | 379        | 141         | 4.1        | 103         | 19            | 19          | 0.7        | 98          |
+| 05/08/24   | 6.9        | 15.7       | 33.8    | 402        | 140         | 4.0        | 104         | 21            | 16          | 0.7        | 95          |
+| 05/09/24   | 7.1        | 15.5       | 33.6    | 400        | 142         | 4.2        | 105         | 22            | 15          |            | 99          |
+
+**Other Labs:**  
+- **Troponin I:** 2.1 → 0.5 → <0.01 ng/mL (trended to normal by 05/08)  
+- **AST/ALT:** 98/110 on 05/04, improved to 38/41 by 05/08  
+- **BNP:** 2250 pg/mL on 05/05, down to 980 by 05/09  
+- **PT/INR:** 13.5s/1.3, stable  
+- **aPTT:** 41s (on heparin)  
+- **Lactate:** 6.2 mmol/L (admission), 1.8 by 05/07
+
+---
+
+## **Assessment & Plan**
+
+### 1. **Cardiac Arrest, S/P ROSC, Cardiogenic Shock**
+- **Background:** Likely arrhythmic arrest, possibly secondary to myocarditis vs. inherited channelopathy (workup pending).
+- **Course:** Required multiple rounds of ACLS, developed refractory shock, placed on temporary LVAD (Impella CP).
+- **Plan:**  
+  - Continue LVAD support, daily echo to assess function.
+  - Gradual wean of inotropes/vasopressors.
+  - Cardiology and electrophysiology consults.
+  - Monitor for arrhythmias, telemetry.
+  - Consider cardiac MRI, genetic workup for channelopathies.
+
+### 2. **Acute Hypoxic Respiratory Failure, Intubated**
+- **Plan:**
+  - Ventilator support, wean as tolerated.
+  - Daily CXR, pulmonary toilet.
+  - Monitor for VAP.
+
+### 3. **Transaminitis, Resolved**
+- **Plan:**
+  - LFTs trending down, likely ischemic hepatitis.
+  - No intervention needed.
+
+### 4. **Mild Acute Kidney Injury, Resolved**
+- **Plan:**
+  - Renal function improved with restoration of perfusion.
+  - Monitor I/Os, daily BMP.
+
+### 5. **Viral Sinusitis / Bronchitis, Resolved**
+- **Plan:**
+  - No evidence of ongoing infection.
+  - Supportive care only.
+
+### 6. **Sedation/Pain**
+- **Plan:**
+  - Continue propofol/fentanyl as needed.
+  - Daily sedation vacation.
+
+### 7. **Anticoagulation**
+- **Plan:**
+  - Continue heparin drip for LVAD.
+  - Monitor aPTT, signs of bleeding.
+
+### 8. **Nutrition**
+- **Plan:**
+  - NPO, NG feeds started.
+  - Monitor electrolytes.
+
+### 9. **Social/Disposition**
+- **Plan:**
+  - Family updated daily.
+  - SW/Case Management involved for potential rehab placement.
+
+---
+
+**Medications (Current):**
+- Epinephrine (ACLS, not ongoing)
+- Amiodarone infusion (tapering)
+- Atropine (as needed, not ongoing)
+- Acetaminophen PRN
+- Heparin infusion
+- Fentanyl/propofol infusions
+
+---
+
+## **To Do:**
+- Consider LVAD wean, extubation trial if neuro exam improves.
+- Continue telemetry, cardiac workup.
+- Repeat labs daily.
+- Monitor for complications (bleeding, infection, device malfunction).
+
+---
+
+**Signed:**  
+L. Braun, MD  
+Pediatric Critical Care
+
+---
+
+**Additional Notes:**  
+- ID consulted, no evidence of sepsis.
+- EEG pending.
+- Awaiting genetics for channelopathy panel.
+- Family meeting scheduled for 05/10/24.
+
+---

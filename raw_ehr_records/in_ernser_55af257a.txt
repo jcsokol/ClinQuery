@@ -1,0 +1,175 @@
+```
+Patient: Ernser, In              MRN: 00349215
+DOB: 11/11/1945                  Sex: Female
+Admission Date: 5/21/2024        Attending: Dr. J. Michaels
+Location: CVICU, Bed 3           Service: Cardiology/CT Surgery
+_______________________________________________________________________________
+
+ADMISSION SUMMARY:
+87-year-old female with hx of HTN, HLD, chronic sinusitis, remote miscarriage, and colon polyp admitted from ED with acute decompensated heart failure (ADHF), cardiogenic shock, and subsequent multi-organ dysfunction. Required placement of temporary LVAD (Impella CP) for hemodynamic support. Course complicated by AKI, volume overload, and new-onset atrial fibrillation.
+
+_______________________________________________________________________________
+
+CHIEF COMPLAINT:
+Shortness of breath, orthopnea, increasing lower extremity edema x 1 week.
+
+HPI:
+Ms. Ernser presented to the ED with progressive dyspnea, PND, and 2-pillow orthopnea. Noted 10 lb weight gain over 1 week, decreased urine output, and mild chest discomfort without radiation. On arrival: hypotensive (BP 74/48), tachycardic (HR 114), O2 sat 89% RA. EKG: new-onset a-fib, troponin elevated. Echo: EF 15%, severe global hypokinesis. Decision made for urgent placement of temporary LVAD for refractory cardiogenic shock.
+
+_______________________________________________________________________________
+
+PAST MEDICAL HISTORY:
+- Chronic sinusitis, recurrent viral episodes
+- Colon polyp (removed 2021, 4mm, benign)
+- First trimester miscarriage (remote)
+- Hyperlipidemia
+- No known CAD or prior MI
+- No diabetes, CKD, or stroke
+
+PAST SURGICAL HISTORY:
+- Colonoscopy with polypectomy (2021)
+- Tonsillectomy (childhood)
+
+MEDICATIONS ON ADMISSION:
+- Ferrous sulfate 325mg PO daily
+- Atorvastatin 40mg nightly (home)
+- Lisinopril 10mg daily (home) [held on admit]
+- Furosemide 40mg daily (home) [held]
+- No known drug allergies
+
+SOCIAL HISTORY:
+- Lives alone, retired school teacher
+- No tobacco, rare ETOH, no illicit drug use
+
+FAMILY HISTORY:
+- HTN (father), breast CA (mother), no early cardiac deaths
+
+_______________________________________________________________________________
+
+PHYSICAL EXAM (ICU Day 3):
+
+GENERAL: Elderly female, alert, mild distress, on Impella support.
+VITALS: T 36.9, HR 88 (paced), BP 98/55 (MAP 68), RR 18, SpO2 97% (2L NC)
+HEENT: Sinus tenderness, mild nasal congestion, oropharynx clear.
+CHEST: Crackles at bases, decreased breath sounds LLL.
+CV: S1, S2, no murmur, JVP 12cm, +S3, cold extremities.
+ABD: Soft, nontender, mild hepatomegaly, no rebound.
+EXT: 2+ pitting edema BLE, pulses diminished.
+NEURO: A&O x3, no focal deficit.
+
+_______________________________________________________________________________
+
+ICU HOSPITAL COURSE (Days 1–5):
+
+**Day 1 (5/21/24) – ED/ICU:**
+- Presented with ADHF/cardiogenic shock.
+- Labs: Creat 2.1 (baseline 0.9), BNP 2893, troponin 0.21 → 0.34, lactate 4.8.
+- CXR: Pulmonary edema, cardiomegaly.
+- Started on norepinephrine, dobutamine. Intubated for hypoxic resp failure.
+- Emergent Impella CP via R femoral artery placed.
+- Foley, A-line, central line inserted.
+
+**Day 2:**
+- Improved MAPs with Impella (2.4L/min). Weaned off norepi.
+- Urine output low; IV Lasix started.
+- Rhythm: A-fib with RVR; started on amiodarone drip.
+- Labs: Worsening renal function (Cr 2.6), mild transaminitis (AST 78, ALT 67), INR 1.5.
+- Echo: EF unchanged, Impella position satisfactory.
+
+**Day 3:**
+- Extubated successfully. Remains on Impella support.
+- Diuresis ongoing, net -1.2L.
+- Now in NSR.
+- Mild delirium overnight, improved with reorientation.
+- Blood cultures negative to date.
+
+**Day 4:**
+- Impella weaning trial; tolerated 1.8L/min. MAPs stable.
+- Creat 1.8, lactate normalizing. LFTs improving.
+- Developed mild fever (Tmax 38.1); CXR unchanged, UA WNL.
+- Started empiric ceftriaxone, vancomycin (d/c’d after negative cultures).
+
+**Day 5:**
+- Impella removed, hemodynamics stable off support.
+- Transitioned to oral diuretics, started low-dose metoprolol.
+- Mobilizing with PT.
+- Plan for step-down transfer.
+
+_______________________________________________________________________________
+
+LABS (Selected CBC, Chem7, Cardiac, LFTs):
+
+| Date        | WBC  | Hgb  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | Trop  | BNP    |
+|-------------|------|------|------|------|------|------|------|------|------|------|------|------|-------|--------|
+| 5/21/24 AM  | 10.2 | 17.1 | 422  | 137  | 4.2  | 105  | 21   | 38   | 2.1  | 112  | 45   | 38   | 0.21  | 2893   |
+| 5/21/24 PM  | 11.4 | 15.9 | 398  | 135  | 4.7  | 103  | 20   | 41   | 2.6  | 126  | 78   | 67   | 0.34  |        |
+| 5/22/24 AM  | 10.9 | 15.2 |      | 136  | 4.3  | 102  | 23   | 39   | 2.4  | 134  | 56   | 49   | 0.17  |        |
+| 5/23/24 AM  | 9.8  | 14.8 | 367  | 138  | 3.9  | 104  | 22   | 32   | 1.9  | 118  | 39   | 31   | <0.01 |        |
+| 5/24/24 AM  | 9.1  | 14.3 | 352  | 140  | 3.7  |      | 24   | 28   | 1.8  | 109  | 31   | 24   | <0.01 |        |
+| 5/25/24 AM  | 8.7  | 13.9 |      | 141  | 4.1  | 106  | 25   | 23   | 1.5  | 116  | 28   | 19   | <0.01 |        |
+
+*Some labs missing due to hemolysis, specimen error, or not ordered.
+
+_______________________________________________________________________________
+
+ASSESSMENT & PLAN (ICU Day 5):
+
+**1. Cardiogenic shock, acute decompensated HF, s/p Impella CP:**
+- Etiology likely ischemic (possible silent MI) with severe LV dysfunction.
+- Now hemodynamically stable, off Impella, EF remains low.
+- Continue guideline-directed medical therapy (GDMT): beta-blocker, ACE-i/ARB (as tolerated), cautious diuresis.
+- Repeat echo prior to discharge.
+- Cardiac rehab referral.
+
+**2. Acute kidney injury (AKI):**
+- Pre-renal, multifactorial (low flow, diuretics).
+- Renal function improving with euvolemia.
+- Monitor daily labs, strict I/Os.
+
+**3. New-onset atrial fibrillation:**
+- Converted to NSR with amio; plan for PO amio x 1 week, then re-eval.
+- Anticoagulation deferred due to high bleeding risk, recent Impella.
+
+**4. Volume overload / Pulmonary edema:**
+- Now net negative, euvolemic.
+- Slow uptitration of oral diuretics.
+
+**5. Fever, possible line infection:**
+- Blood cultures negative, empiric abx discontinued.
+- Remove invasive lines as soon as feasible.
+
+**6. Chronic sinusitis:**
+- Symptomatic management; ENT outpatient follow-up.
+
+**7. Colon polyp hx:**
+- Surveillance colonoscopy per GI.
+
+**8. Anemia of chronic disease:**
+- Monitor Hgb, iron studies, continue iron PO.
+
+**9. Delirium:**
+- Resolved; maintain non-pharmacologic measures.
+
+**10. Disposition:**
+- Anticipate transfer to telemetry, then home with family support.
+- Goals of care discussed with patient and daughter, DNR/DNI not indicated at this time.
+
+_______________________________________________________________________________
+
+ORDERS:
+- Daily labs: CBC, Chem7, Mg, Phos, LFTs
+- Telemetry
+- DVT prophylaxis (SCDs, heparin)
+- Strict I/O, daily weights
+- Physical therapy, dietician consult
+
+_______________________________________________________________________________
+
+PHYSICIAN ATTESTATION:
+I have personally examined the patient, reviewed imaging and labs, and discussed the plan with the multidisciplinary team.
+
+Dr. J. Michaels, MD
+Cardiology/Critical Care
+
+***END OF NOTE***
+```

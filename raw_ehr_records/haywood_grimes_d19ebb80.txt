@@ -1,0 +1,178 @@
+```
+[EPIC EHR]
+
+PATIENT NAME: Grimes, Haywood
+MRN: 001239487
+DOB: 06/30/1924 (Age 99)
+SEX: Male
+ADMISSION DATE: 04/12/2024
+ATTENDING PHYSICIAN: Dr. S. Becker, MD, Cardiology
+CONSULTANTS: Cardiology, Nephrology, Oncology, Pulmonology
+
+CHIEF COMPLAINT:  
+Progressive shortness of breath, orthopnea, and lower extremity edema.
+
+HISTORY OF PRESENT ILLNESS:
+Haywood Grimes is a 99-year-old male with a history of chronic congestive heart failure (CHF), chronic sinusitis, prediabetes, anemia, osteoporosis, hyperlipidemia, prostate neoplasm/carcinoma in situ, active tobacco use, and prior orthopedic injuries, presenting from home with 3 weeks of worsening dyspnea, PND, and 2-pillow orthopnea. He also notes decreased appetite, 3.5 kg weight gain, and mild confusion. He was on maximal medical therapy for heart failure but did not improve. On arrival, he was hypotensive, tachypneic, and hypoxic. CXR revealed pulmonary edema. NT-proBNP markedly elevated. Echo showed LVEF 28%. He developed cardiogenic shock on hospital day 2 with rising lactate and oliguria, requiring ICU transfer. Temporary percutaneous left ventricular assist device (Impella CP) was placed for hemodynamic support. Complicated course included acute kidney injury, persistent volume overload, and delirium.
+
+PAST MEDICAL HISTORY:
+- Chronic sinusitis
+- Prediabetes
+- Anemia (chronic, multifactorial)
+- Tobacco use (daily, >80 pack-years)
+- Osteoporosis
+- Sprain of right wrist (remote)
+- Hyperlipidemia
+- Prostate adenocarcinoma (cT1c, Gleason 6, on leuprolide/Docetaxel)
+- Carcinoma in situ of prostate
+- Sprain of left ankle (remote)
+- Chronic congestive heart failure (EF 35% baseline, ischemic)
+
+SURGICAL HISTORY:
+- TURP (2015)
+- ORIF, right wrist (1947, remote)
+
+FAMILY HISTORY:
+- Father: MI, deceased age 71
+- Mother: Breast cancer, deceased age 67
+
+SOCIAL HISTORY:
+- Lives alone, widowed, 2 adult children
+- Smokes 1 pack/day
+- No EtOH, no illicit drugs
+
+ALLERGIES: NKDA
+
+CURRENT HOME MEDICATIONS:
+- 24hr nicotine patch
+- Acetaminophen 325mg PO PRN
+- Docetaxel 20mg/mL IV q3wks
+- Leuprolide 30mg/mL q3mo
+- Simvastatin 10mg PO QHS
+- Metoprolol succinate 100mg PO QD
+- Lasix 40mg PO QAM
+- Ibuprofen 200mg PO PRN
+- Furosemide 10mg/mL IV PRN
+
+VITALS ON ADMISSION:
+HR: 109    BP: 89/52    RR: 24    Temp: 36.4C    SpO2: 91% RA
+Weight: 76.3 kg    Height: 167.3 cm    BMI: 27.3
+
+PHYSICAL EXAM:
+Gen: Thin, frail, drowsy, mild respiratory distress.
+HEENT: Pale conjunctivae, mild oropharyngeal dryness.
+CV: S3, JVD 12cm, 2+ pitting edema to knees, cool extremities.
+Lungs: Bibasilar crackles, decreased breath sounds at bases.
+Abd: Soft, nontender, mild hepatomegaly, no rebound.
+Neuro: Oriented x2, mild confusion, no focal deficits.
+MSK: Kyphosis, limited ROM wrists/ankles, no deformities.
+
+HOSPITAL COURSE:
+Day 1: Admitted to medicine for CHF exacerbation, started IV diuretics, O2, telemetry.
+Day 2: Worsening hypotension, urine output <0.3 cc/kg/hr, lactate 4.2; moved to ICU. Echo: LVEF 28%, severe global hypokinesis. Right heart cath: PCWP 29, CI 1.6. Impella CP placed by interventional cardiology for cardiogenic shock. Started on heparin drip for device.
+Day 3-7: Improved hemodynamics, weaned off pressors. Developed AKI (Cr peaked at 2.1), nephrology consulted. Delirium, likely multifactorial; haloperidol started. Persistent hypervolemia, continued diuresis, daily weights.
+Day 8-12: Gradual improvement, Impella removed day 10. Ongoing diuresis, transitioned to oral meds. Mental status improved. Evaluated by PT/OT for deconditioning.
+Day 13: Transferred to floor, stable, plan for SNF placement.
+
+LABS (SELECTED):
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Ca   |
+|------------|------|------|------|------|------|------|------|------|------|------|------|------|
+| 4/12/2024  | 7.5  | 10.7 | 32.1 | 173  | 137  | 4.1  | 109  | 19   | 24   | 1.4  | 96   | 8.6  |
+| 4/13/2024  | 8.2  | 9.8  | 29.4 | 155  | 136  | 4.7  | 112  | 17   | 38   | 2.1  | 118  | 8.3  |
+| 4/14/2024  | 6.9  | 9.6  | 28.8 | 140  | 135  | 4.2  | 110  | 18   | 34   | 2.0  | 142  | 8.9  |
+| 4/15/2024  |      | 10.2 |      | 133  | 134  | 4.0  | 108  | 19   | 29   | 1.7  |      | 9.0  |
+| 4/16/2024  | 6.4  | 10.9 | 33.6 | 147  | 137  | 3.9  | 112  | 22   | 21   | 1.3  | 101  | 8.8  |
+| 4/17/2024  | 7.0  | 11.3 | 34.1 | 158  | 138  | 4.1  | 110  | 20   | 18   | 1.1  | 102  |      |
+| 4/18/2024  |      | 11.1 | 33.2 | 162  | 139  | 4.0  |      | 23   | 15   | 0.9  | 99   | 9.1  |
+| 4/20/2024  | 6.1  | 11.8 | 35.4 | 169  | 140  | 4.2  | 112  | 24   | 13   | 0.8  | 98   | 9.2  |
+
+Additional labs:
+- NT-proBNP: 24,500 pg/mL (HD2), 18,900 (HD5), 7,200 (HD10)
+- Troponin T: <0.05 (HD2), <0.05 (HD5)
+- AST: 52 (HD2), 37 (HD5), 31 (HD10)
+- ALT: 41 (HD2), 32 (HD5), 28 (HD10)
+- Alk Phos: 135 (HD2), 122 (HD5), 110 (HD10)
+- Total Bilirubin: 1.1 (HD2), 0.7 (HD5), 0.5 (HD10)
+- Albumin: 3.4 (HD2), 3.7 (HD5), 3.9 (HD10)
+- INR: 1.1 (HD2), 1.0 (HD5)
+- UA: Proteinuria (3+), granular casts
+
+DIAGNOSTIC STUDIES:
+- CXR (HD1): Pulmonary edema, cardiomegaly, mild pleural effusions
+- ECG: NSR, Q waves inferiorly, poor R wave progression
+- Echo (HD2): LVEF 28%, severe global hypokinesis, mild MR/TR
+- Renal US: No obstruction
+
+PROBLEM-BASED ASSESSMENT & PLAN:
+
+1. **Cardiogenic Shock secondary to acute on chronic decompensated HFrEF**
+   - Impella CP placed for hemodynamic support (HD2-10)
+   - IV heparin for device
+   - IV lasix, uptitrated for diuresis
+   - Daily weights, strict I/Os
+   - Transitioned to oral heart failure regimen as tolerated
+   - Plan: Continue guideline-directed therapy, monitor for arrhythmia, wean diuretics, consider hospice if further decompensation
+
+2. **Acute Kidney Injury (on CKD 3a)**
+   - Likely pre-renal, multifactorial (low perfusion, CHF, nephrotoxic exposures)
+   - Monitored UOP, daily BMP
+   - Avoided nephrotoxic agents
+   - Nephrology consulted
+   - Renal function improved with volume management
+
+3. **Delirium (multifactorial)**
+   - Likely due to critical illness, device, metabolic derangements
+   - Haloperidol PRN, sleep-wake cycle optimization
+   - Reoriented by staff and family
+
+4. **Volume Overload**
+   - Diuretics (IV then PO)
+   - Monitored electrolytes, replaced K+/Mg++ as needed
+
+5. **Chronic Anemia**
+   - Monitored CBC, no transfusion required
+   - Workup consistent with chronic disease
+
+6. **Chronic Sinusitis**
+   - Supportive care, no acute infection
+
+7. **Prostate Neoplasm (on leuprolide and docetaxel)**
+   - Oncology aware
+   - PSA stable; no new GU symptoms
+
+8. **Osteoporosis**
+   - Fall precautions, PT/OT
+   - Calcium/Vitamin D supplementation
+
+9. **Nicotine Dependence**
+   - 24hr patch continued
+   - Counseling offered
+
+10. **Hyperlipidemia**
+   - Continue statin
+
+11. **Deconditioning**
+   - Early mobilization as tolerated
+   - PT/OT evaluation
+
+DISPOSITION:
+- Stable for transfer to SNF for rehab and continued medical management
+
+DISCHARGE MEDICATIONS:
+- Metoprolol succinate 100mg PO QD
+- Lasix 40mg PO QAM
+- Simvastatin 10mg PO QHS
+- Acetaminophen 325mg PO PRN
+- 24hr nicotine patch
+- Calcium/Vitamin D supplementation
+- Continue oncology regimen per outpatient
+
+FOLLOW-UP:
+- Cardiology, Nephrology, Oncology as outpatient
+- SNF for rehab, PT/OT
+
+_____________________________________________________________________
+
+[Additional Data and Flowsheets available in EHR]
+```

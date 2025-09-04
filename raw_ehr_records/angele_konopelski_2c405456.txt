@@ -1,0 +1,206 @@
+---
+**Patient:** Angele Konopelski  
+**MRN:** 0094721  
+**DOB:** 08/13/1966 (57 y/o)  
+**Sex:** Female  
+**Admit Date:** 01/06/2024  
+**Attending:** Dr. Samantha J. Wirth, MD  
+**Service:** ICU – Cardiology/Oncology  
+**Admitting Dx:** Cardiogenic shock, acute decompensated heart failure, Hx of non-small cell lung carcinoma (s/p chemo), diabetes, metabolic syndrome, obesity
+
+---
+
+# ICU Progress Note  
+**Date:** 01/10/2024  
+**Time:** 09:14  
+**Author:** Michael R. Dorsey, MD
+
+---
+
+## Subjective
+
+57 y/o F with extensive PMHx:  
+- Non-small cell lung carcinoma (Stage I, s/p multiple cycles cisplatin/paclitaxel, last dose 12/2023)
+- Type 2 DM with neuropathy, hyperglycemia, metabolic syndrome, obesity (BMI ~30)
+- HTN, hypertriglyceridemia, anemia
+- Recent viral sinusitis (outpatient Rx amox/clav)
+- Hx 1st trimester miscarriage
+
+Presented 01/06/24 with increasing SOB, orthopnea, LE edema, and chest heaviness. Noted 2-day h/o progressive dyspnea, non-productive cough. Home BGM >300s, skipped metformin x2 days d/t nausea. No chest pain on admission. ROS notable for fatigue, mild confusion (family report).  
+
+---
+
+## Objective
+
+### Vitals (selected)
+| Date       | Temp   | HR   | BP       | RR  | SpO2 | O2 |
+|------------|--------|------|----------|-----|------|----|
+| 1/6 09:15  | 37.1°C | 112  | 82/42    | 22  | 91%  | 4L |
+| 1/7 07:30  | 37.7°C | 98   | 95/54    | 18  | 95%  | 2L |
+| 1/8 05:40  | 36.9°C | 87   | 104/66   | 15  | 97%  | RA |
+| 1/9 06:50  | 36.6°C | 72   | 113/68   | 16  | 98%  | RA |
+
+### Physical Exam  
+- Gen: Drowsy, arousable; NAD  
+- CV: Tachycardic, S3, JVP 10cm, cool extremities  
+- Resp: Bibasilar crackles, mild resp distress  
+- Abd: Soft, NT, mild hepatomegaly  
+- Ext: 2+ pitting edema BLE  
+- Neuro: AOx2, follows commands
+
+### Labs
+
+#### CBC/Chemistry  
+| Date      | WBC   | Hgb  | Hct  | Plt  | Na  | K   | Cl  | CO2 | BUN  | Cr   | Glu  |
+|-----------|-------|------|------|------|-----|-----|-----|-----|------|------|------|
+| 1/6 09:20 | 5.9   | 16.7 | 44.1 | 222  | 143 | 4.4 | 104 | 26  | 16.4 | 0.76 | 199  |
+| 1/7 07:35 | 10.3  | 13.7 | 34.5 | 211  | 139 | 4.9 | 106 | 23  | 21.7 | 1.16 | 262  |
+| 1/8 06:20 | 7.1   | 11.9 | 30.6 | 185  | 137 | 4.1 | 104 | 25  | 18.3 | 1.02 | 158  |
+| 1/9 07:05 | 6.2   | 12.8 | 32.1 | 210  | 136 | 4.3 | 103 | 24  | 19.0 | 0.97 | 144  |
+| 1/10 08:15| 6.0   | 12.4 | 31.3 | 207  |     |     |     |     |      |      |      |
+
+#### Other Labs
+- BNP: 1863 pg/mL (1/6)
+- Troponin I: 0.08 → 0.12 (peak 1/7)
+- LFTs: ALT 49, AST 27, Alk Phos 74 (1/6)
+- Albumin: 4.8 g/dL
+- Lactate: 3.1 (1/6), 1.9 (1/7)
+- ABG (1/6): 7.28/38/69/17, A-a grad ↑
+- UA: proteinuria, glucosuria, ketones +
+- A1c: 8.2% (prior, 12/2023)
+- Lipids: Total chol 252, TG 318, LDL 154, HDL 34
+
+#### Imaging  
+- CXR (1/6): Pulm vascular congestion, bibasilar opacities, mild effusion RLL  
+- TTE (1/6): LVEF 21%, global hypokinesis, mild MR/TR, dilated LV, RV mildly reduced  
+- CT Chest (12/2023): Stable RUL nodule, no new mets  
+- ECG: Sinus tachy, low voltage, NSST-T changes
+
+#### Procedures  
+- 1/6: R IJ central line, femoral A-line  
+- 1/6: Impella CP placed for cardiogenic shock (florid pulm edema despite pressors/diuresis), no complications  
+- 1/7: Extubated after 12h of mechanical ventilation  
+- 1/7: Foley d/c
+
+---
+
+## Hospital Course (Summary)
+
+Day 1:  
+Admitted from ED after presenting in shock. Initial SBP 80s, lactate 3.1, severe hypoperfusion. Started norepi + dobutamine, transferred to ICU. TTE: severe global LV dysfunction (EF 21%). Developed flash pulm edema, intubated for hypoxic resp failure. Impella CP placed at bedside for hemodynamic support. Diuresis with IV furosemide, net -3L in 24h.  
+
+Day 2:  
+Hemodynamics improved, norepi weaned off. Extubated after 12h. Mental status improved. Mild AKI (Cr 1.16, BUN 21.7), downtrending lactate. Cardiac enzymes peaked, no clear MI on EKG or echo.  
+
+Day 3-4:  
+Impella support ongoing. Gradual improvement in end-organ perfusion. Diuresis continued. Cr trended down, urine output stable. Transitioned to low-dose dobutamine, later weaned.  
+
+Day 5:  
+Impella removed after hemodynamics stable off vasoactives. Continued slow diuresis, optimized HF meds.  
+
+Complications:  
+- Anemia worsened (likely multifactorial: acute illness, chronic dz, chemo)
+- Hyperglycemia (managed insulin sliding scale)
+- Mild AKI (resolved)
+- Hospital-acquired delirium (resolved)
+- No infectious complications
+
+---
+
+## Assessment & Plan
+
+### 1. Cardiogenic Shock, Acute Decompensated Heart Failure (EF 21%)
+- Impella CP placed for refractory shock, now explanted
+- Off pressors, hemodynamics stable
+- Continue GDMT (beta-blocker, ACEi, spironolactone, consider SGLT2i)
+- Daily weights, strict I/O, low Na diet
+- Monitor for arrhythmia, recurrent decompensation
+
+### 2. Non-Small Cell Lung Cancer, s/p Chemo
+- No evidence of progression on recent CT
+- Oncology f/u, hold further chemo until cardiac status stable
+- Monitor for infection, cytopenias
+
+### 3. Diabetes Mellitus (T2DM), Hyperglycemia, Neuropathy
+- Sliding scale insulin in ICU, resume metformin as renal function normalizes
+- Daily BGM, endocrinology consult
+- Monitor for DKA, HHS
+
+### 4. Anemia (multifactorial)
+- Hgb trended down, likely chronic + acute on chronic (chemo, hemodilution)
+- Monitor, consider EPO if persistent
+- Iron studies, B12, folate pending
+
+### 5. Hypertension, Hypertriglyceridemia, Metabolic Syndrome
+- Restart home antihypertensives as tolerated
+- Statin, consider fibrate if TG persist >500
+- Dietary consult, encourage weight loss post-ICU
+
+### 6. AKI (resolved)
+- Likely pre-renal, now improved
+- Continue to monitor renal function
+
+### 7. Delirium (resolved)
+- Monitor MS, minimize sedatives
+
+### 8. Obesity
+- Nutrition f/u, weight loss counseling
+
+### 9. History of Miscarriage
+- No acute issue
+
+#### Prophylaxis:  
+- PPI for GI
+- Heparin SQ for DVT
+- SCDs
+
+#### Dispo:  
+- Stepdown transfer when stable, anticipate prolonged rehab
+
+---
+
+## Orders
+
+- Daily CBC, Chem7, Mg, Phos
+- Telemetry
+- Strict I/O
+- PT/OT consult when stable
+- Cardiac rehab evaluation
+
+---
+
+### Medications (selected, current)
+- Metoprolol succinate 25mg PO qd
+- Lisinopril 5mg PO qd
+- Spironolactone 25mg PO qd
+- Furosemide IV 40mg BID → PO as tolerated
+- Insulin sliding scale
+- Atorvastatin 80mg PO qhs
+- Heparin SQ 5000u q8h
+- Omeprazole 20mg PO qd
+- Hold cytotoxic chemo
+- Home contraceptives held
+
+---
+
+## Labs Table (Full CBC+Chem7, selected other labs)
+
+| Date      | WBC  | Hgb  | Hct  | Plt  | Na   | K   | Cl   | CO2  | BUN  | Cr   | Glu  | BNP   | Troponin I | ALT | AST | Lactate |
+|-----------|------|------|------|------|------|-----|------|------|------|------|------|-------|------------|-----|-----|---------|
+| 1/6 09:20 | 5.9  | 16.7 | 44.1 | 222  | 143  | 4.4 | 104  | 26   | 16.4 | 0.76 | 199  | 1863  | 0.08       | 49  | 27  | 3.1     |
+| 1/7 07:35 | 10.3 | 13.7 | 34.5 | 211  | 139  | 4.9 | 106  | 23   | 21.7 | 1.16 | 262  |       | 0.12       |     |     | 1.9     |
+| 1/8 06:20 | 7.1  | 11.9 | 30.6 | 185  | 137  | 4.1 | 104  | 25   | 18.3 | 1.02 | 158  |       |            |     |     |         |
+| 1/9 07:05 | 6.2  | 12.8 | 32.1 | 210  | 136  | 4.3 | 103  | 24   | 19.0 | 0.97 | 144  |       |            |     |     |         |
+| 1/10 08:15| 6.0  | 12.4 | 31.3 | 207  |      |     |      |      |      |      |      |       |            |     |     |         |
+
+---
+
+## Attestation
+
+I personally examined the patient and reviewed the data above.  
+Michael R. Dorsey, MD  
+Cardiology/Critical Care
+
+---
+
+**End of Note**

@@ -1,0 +1,191 @@
+---
+**Epic EHR - Progress Note**  
+**Patient:** Gerald Walsh  
+**MRN:** 00982716  
+**DOB:** 10/07/1957 (66 years old)  
+**Sex:** Male  
+**Date of Admission:** 2024-05-22  
+**Date of Note:** 2024-05-28  
+**Author:** Gregory K. Sullivan, MD  
+**Service:** Cardiology/Critical Care ICU
+
+---
+
+### CHIEF COMPLAINT  
+Shortness of breath, orthopnea, chest tightness.
+
+---
+
+### HISTORY OF PRESENT ILLNESS  
+Mr. Gerald Walsh is a 66-year-old male with a complex medical history including severe obesity, type 2 diabetes mellitus with neuropathy, chronic sinusitis and viral sinusitis, chronic obstructive bronchitis (COPD), anemia, hypertriglyceridemia, metabolic syndrome, and recurrent streptococcal pharyngitis. He presented to the ED with progressive dyspnea, new-onset orthopnea, and chest discomfort over 3 days. He denied fevers, cough, or recent sick contacts. His home medications include vitamin B12, fluticasone/salmeterol inhaler, prednisone, and penicillin (recently for strep throat).
+
+On arrival, he was tachypneic, hypertensive (BP 162/98), tachycardic (HR 109), and hypoxic (SpO2 88% on RA). Initial labs revealed hyperglycemia, mild AKI, and a troponin elevation. CXR showed pulmonary edema and cardiomegaly. He rapidly developed hypotension (SBP < 90), refractory hypoxemia, and signs of low cardiac output despite diuresis and noninvasive ventilation. Echo showed severely reduced LVEF (15%), global hypokinesis, and moderate MR. He was admitted to the ICU for acute decompensated heart failure (ADHF) with cardiogenic shock, requiring escalating vasopressors and inotropes.
+
+Due to worsening end-organ hypoperfusion and persistent shock, a percutaneous left ventricular assist device (Impella CP) was placed on hospital day 2 for temporary mechanical circulatory support.
+
+---
+
+### PAST MEDICAL HISTORY  
+- Type 2 diabetes mellitus (with diabetic neuropathy)  
+- Chronic obstructive bronchitis (FEV1/FVC 49%)  
+- Obesity (BMI ~30)  
+- Chronic sinusitis, recurrent viral sinusitis  
+- Anemia (chronic, multifactorial)  
+- Hypertriglyceridemia, metabolic syndrome  
+- Recurrent streptococcal pharyngitis  
+- History of acute allergic reactions
+
+### PAST SURGICAL HISTORY  
+- None reported
+
+### ALLERGIES  
+- NKDA
+
+### SOCIAL HISTORY  
+- Former smoker (30 pack-years, quit 2018)  
+- Alcohol: Rare  
+- Lives with spouse
+
+### FAMILY HISTORY  
+- Father: MI age 63, deceased  
+- Mother: T2DM, alive age 88
+
+---
+
+### HOME MEDICATIONS  
+- Vitamin B12 5 mg/mL IM monthly  
+- Fluticasone/salmeterol inhaler 1 puff BID  
+- Prednisone 5 mg PO daily  
+- Penicillin V potassium 500 mg PO BID (recent, completed 7-day course)
+
+---
+
+### PHYSICAL EXAM (ICU, HD#6)  
+
+| Vital Sign         | Value    |
+|--------------------|----------|
+| Temp (oral)        | 37.9°C   |
+| HR                 | 102      |
+| BP                 | 104/64   |
+| RR                 | 26       |
+| SpO2               | 94% (HFNC 40% FiO2) |
+| Weight             | 85.8 kg  |
+| Height             | 176.7 cm |
+| BMI                | 27.5     |
+
+**Gen:** Obese male, weak, mildly diaphoretic  
+**HEENT:** No oropharyngeal erythema, mild nasal congestion  
+**CV:** S3 present, tachycardic, regular, no murmurs post-Impella.  
+**Lungs:** Diffuse crackles, decreased air movement, mild wheezing  
+**Abd:** Soft, nontender, no HSM  
+**Ext:** 2+ pitting edema BLE  
+**Neuro:** Alert, oriented x3, mild bilateral lower extremity numbness  
+**Skin:** No rashes, good turgor
+
+---
+
+## ICU DAILY LABS TABLE
+
+| Date       | WBC   | Hgb  | Plt   | Na   | K     | Cl   | CO2  | Cr    | BUN  | Glucose | Troponin | AST  | ALT  | BNP   |
+|------------|-------|------|-------|------|-------|------|------|-------|------|---------|----------|------|------|-------|
+| 5/22/24    | 9.2   | 13.7 | 390   | 137  | 5.1   | 107  | 20   | 1.00  | 14   | 124     | 0.24     | 38   | 41   | 3200  |
+| 5/23/24    | 12.5  | 11.2 | 346   | 134  | 4.8   | 104  | 17   | 1.34  | 24   | 172     | 0.32     | 46   | 34   | 3880  |
+| 5/24/24    | 13.1  | 10.4 | 312   | 135  | 5.4   | 105  | 16   | 1.67  | 29   | 201     | 0.29     | 51   | 37   | 4040  |
+| 5/25/24    | 11.4  | 10.6 | 294   | 138  | 5.0   | 106  | 19   | 1.21  | 19   | 156     | 0.22     | —    | —    | 2890  |
+| 5/26/24    | 9.8   | 11.1 | 271   | 139  | 4.2   | 108  | —    | 1.10  | 16   | 143     | —        | 29   | 28   | —     |
+| 5/27/24    | —     | 11.8 | 287   | 140  | 4.1   | 110  | 21   | 1.04  | 13   | 128     | 0.13     | —    | —    | 1950  |
+| 5/28/24    | 8.8   | 12.0 | 299   | 141  | 4.3   | 111  | 22   | 0.97  | 11   | 119     | <0.01    | 21   | 19   | 980   |
+
+*Missing values indicate labs not drawn or not resulted.*
+
+---
+
+### MICROBIOLOGY  
+- Blood Cultures (5/22, 5/23): Negative  
+- Sputum: Mixed flora, no growth of pathogens  
+- Nasal swab: Negative for influenza/RSV/COVID-19  
+- Throat culture: Negative for strep A
+
+---
+
+### IMAGING  
+- **CXR (5/22):** Cardiomegaly, pulmonary vascular congestion, bilateral opacities  
+- **Echo (5/22):** LVEF 15%, global hypokinesis, moderate MR, mild RV dysfunction  
+- **Echo (5/25):** LVEF improved to 25% post-Impella, mild MR  
+- **CT chest (5/23):** No PE, diffuse ground-glass opacities
+
+---
+
+## ICU ASSESSMENT & PLAN
+
+### 1. **Cardiogenic shock s/p Impella CP placement (HD#2)**
+   - ADHF on chronic metabolic syndrome, DM, and obesity background.
+   - Initial presentation with hypotension, end-organ hypoperfusion, rising lactate, and persistent low-output state.
+   - Impella CP placed for temporary LV support, with rapid improvement in MAP and urine output.
+   - Vasopressors/inotropes weaned off by HD#4.  
+   - Daily echo for Impella positioning; device removed HD#5 after hemodynamic stability.
+   - Continue close monitoring, goal-directed therapy.
+   - Plan: Optimize HF meds as tolerated, start gentle diuresis, consider SGLT2i when stable.
+
+### 2. **Acute decompensated heart failure (HFrEF, likely ischemic)**
+   - BNP peaked at 4,040, CXR with pulmonary edema, echo with low LVEF.
+   - Diuresed with IV furosemide, transitioned to PO HD#6.
+   - Fluid status: euvolemic post-diuresis, weight down 4.8 kg.
+   - Plan: Continue diuretics, low-salt diet, up-titrate GDMT as tolerated (BB, ACEi/ARB, MRA).
+
+### 3. **Type 2 diabetes mellitus (with neuropathy)**
+   - Hyperglycemia with stress/infection, glucose peaked at 201.
+   - Insulin sliding scale in ICU, now on basal-bolus regimen.
+   - A1c 6.9% on admission.
+   - Plan: Endo consult, continue tight glycemic control, foot checks.
+
+### 4. **Chronic obstructive bronchitis**
+   - Baseline FEV1/FVC 49%.
+   - COPD exacerbation ruled out (no wheezing, no increased secretions).
+   - Continue home inhalers, monitor for secondary infections.
+   - Plan: Pulm f/u, consider PFTs as outpatient.
+
+### 5. **Anemia (multifactorial)**
+   - Hgb dropped from 13.7 to 10.4 (nadir) during ICU stay, now stable.
+   - Normocytic, consistent with chronic disease/renal and heart failure; no overt bleeding.
+   - Plan: Monitor, iron studies pending, consider EPO if CKD progresses.
+
+### 6. **Obesity/metabolic syndrome**
+   - BMI at admission 30+; weight loss during hospitalization.
+   - Hypertriglyceridemia, LDL elevated.
+   - Plan: Cardio diet consult, statin therapy, consider GLP-1 agonist outpatient.
+
+### 7. **Recent streptococcal pharyngitis, chronic sinusitis**
+   - Completed penicillin course prior to admission.
+   - No evidence of ongoing infection.
+   - Plan: Monitor, ENT follow-up as outpatient.
+
+### 8. **Acute kidney injury (resolved)**
+   - Creatinine peaked at 1.67, now <1.0.
+   - Likely prerenal from low cardiac output, improved with MCS/diuresis.
+   - Plan: Monitor, avoid nephrotoxins.
+
+### 9. **Other**
+   - DVT prophylaxis: SCDs, heparin SQ.
+   - Stress ulcer prophylaxis: pantoprazole.
+   - VTE screen negative.
+   - PT/OT: Mobilizing with assistance, mild neuropathy persists.
+   - Vaccines: UTD.
+
+---
+
+### DISPOSITION
+- Remains in ICU, planned transfer to step-down in 1-2 days.
+- Cardiac rehab, close HF follow-up.
+- Prognosis guarded but improved.
+
+---
+
+**Signed:**  
+Gregory K. Sullivan, MD  
+Cardiology/Critical Care  
+5/28/2024 09:18
+
+---
+
+**End of Note**

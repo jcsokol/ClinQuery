@@ -1,0 +1,227 @@
+---
+**EPIC EHR - Progress Note**  
+**Patient:** Laree Grady  
+**MRN:** 00245371  
+**DOB:** 05/11/1941 (Age: 82)  
+**Sex:** Female  
+**Attending:** Dr. Michael T. Heller  
+**Admit Date:** 04/20/2024  
+**Service:** Cardiology/ICU  
+**Location:** B5-ICU, Room 14  
+**Note Type:** ICU Daily Progress Note  
+**Date of Note:** 04/25/2024  
+**Author:** Marissa Li, MD
+
+---
+
+## Hospital Course Summary
+
+Ms. Laree Grady is an 82-year-old female with significant PMHx including obesity, CKD III (baseline Cr ~1.7), hyperlipidemia, anemia of chronic disease, prediabetes, and OA knees, who presented from home after 2 days of progressive SOB, orthopnea, and lower extremity edema. She was found to be in acute decompensated heart failure with hypotension and evidence of cardiogenic shock. Initial echo revealed severe LV systolic dysfunction (EF ~18%), moderate MR, and RV dysfunction. She was transferred to the ICU for escalation of care and ultimately required placement of a percutaneous left ventricular assist device (Impella CP) for refractory cardiogenic shock.
+
+---
+
+## Problem List
+
+1. **Cardiogenic Shock, s/p Impella CP Placement (4/21/24)**
+2. **Acute Decompensated Heart Failure (HFrEF, new diagnosis)**
+3. **Acute Kidney Injury on CKD III**
+4. **Anemia of Chronic Disease**
+5. **Volume Overload**
+6. **Hyperlipidemia**
+7. **Obesity (BMI 30+)**
+8. **Osteoarthritis, bilateral knees**
+9. **History of viral sinusitis, acute bronchitis, viral pharyngitis**
+10. **Remote right ankle fracture**
+11. **Prediabetes**
+12. **Chronic sinusitis**
+
+---
+
+### 1. Cardiogenic Shock, s/p Impella CP Placement
+
+- **Presentation:** Hypotension (MAP < 60), cold extremities, low urine output, lactate 3.9.
+- **Course:** Required norepinephrine, dobutamine. Worsening end-organ perfusion. Impella CP placed 4/21 for hemodynamic support.
+- **Current:** Device flows 2.8-3.2 L/min, MAPs stable 70-75, weaning off pressors.
+- **Complications:** Mild hemolysis (LDH up, haptoglobin down), no device malfunction.
+- **Plan:**  
+  - Continue Impella support; daily device checks  
+  - Serial lactate, LDH, haptoglobin  
+  - Wean pressors as tolerated  
+  - Cardiac surgery consult for long-term planning  
+  - Maintain MAP > 65
+
+### 2. Acute Decompensated Heart Failure (HFrEF, new)
+
+- **Background:** No prior cardiac hx. Echo: LVEF 18%, global hypokinesis, moderate MR, mild RV dysfunction, LAE.
+- **NT-proBNP:** 10,800 on admission.
+- **Plan:**  
+  - Continue aggressive diuresis (IV furosemide, metolazone PRN)  
+  - Fluid balance targeting -1.5L/d  
+  - Daily weights, strict I/Os  
+  - Hold beta-blocker for now, consider low dose carvedilol if stable  
+  - Monitor for arrhythmia
+
+### 3. Acute Kidney Injury on CKD III
+
+- **Baseline Cr:** 1.7, uptrended to 3.1 on 4/22, now improving (2.3).
+- **Urine output:** Improving; no need for RRT.
+- **Plan:**  
+  - Avoid nephrotoxins  
+  - Adjust meds for renal dosing  
+  - Nephrology following  
+  - Monitor K+, creatinine daily
+
+### 4. Anemia of Chronic Disease
+
+- **Admit Hgb:** 9.1, lowest 8.3. Stable at 8.5-8.7 last 2 days.
+- **Etiology:** Likely multifactorial (chronic disease, mild hemolysis from Impella).
+- **Plan:**  
+  - Monitor CBC qAM  
+  - Transfuse if <7.5 or symptomatic  
+  - Iron studies pending
+
+### 5. Volume Overload
+
+- **Exam:** 2+ pitting edema, bibasilar crackles, JVP 10cm.
+- **CXR:** Pulmonary edema, small pleural effusions.
+- **Plan:**  
+  - Ongoing IV diuresis  
+  - Daily CXR, weights  
+  - Fluid restrict 1.2L/d
+
+### 6. Hyperlipidemia
+
+- **On admission:** TC 187, LDL 84, HDL 49, TG 123.
+- **Plan:**  
+  - Continue simvastatin  
+  - Hold for LFTs >3x ULN or rhabdo
+
+### 7. Obesity (BMI 30+)
+
+- **BMI:** 30.2 on admission.
+- **Plan:**  
+  - Calorie-restricted diet  
+  - PT/OT for mobility as tolerated
+
+### 8. Osteoarthritis, bilateral knees
+
+- **Pain:** 3-4/10, managed with PRN acetaminophen.
+- **Plan:**  
+  - Continue acetaminophen  
+  - Avoid NSAIDs due to AKI
+
+### 9-11. History of viral sinusitis, acute bronchitis, viral pharyngitis, old ankle fracture, and prediabetes
+
+- **Plan:**  
+  - No acute issues; monitor
+
+### 12. Chronic sinusitis
+
+- **Plan:**  
+  - Saline nasal spray PRN
+
+---
+
+## Medications (Hospital)
+
+- **Simvastatin 10 mg PO qhs**
+- **Acetaminophen 325 mg PO q6h PRN**
+- **IV furosemide 40mg q12h**
+- **Metolazone 2.5mg PO q48h PRN**
+- **Norepinephrine drip (weaning)**
+- **Dobutamine drip (weaning)**
+- **Pantoprazole 40mg IV q24h**
+- **Heparin 5000u SQ q8h (DVT ppx)**
+- **Meperidine 50mg PO q8h PRN (rare use, avoid if possible)**
+- **Hold naproxen (AKI)**
+
+---
+
+## Vital Signs (Selected, ICU)
+
+| Date       | Temp (°C) | HR     | BP         | RR  | SpO2 (%) | Pain (0-10) | Weight (kg) |
+|------------|-----------|--------|------------|-----|----------|-------------|-------------|
+| 4/20/24    | 36.9      | 97     | 82/60      | 23  | 93% RA   | 4           | 71.2        |
+| 4/21/24    | 37.1      | 105    | 78/58      | 22  | 91%      | 5           | 70.8        |
+| 4/22/24    | 37.2      | 90     | 98/68      | 18  | 97%      | 3           | 70.4        |
+| 4/23/24    | 36.8      | 82     | 102/70     | 17  | 98%      | 3           | 70.0        |
+| 4/24/24    | 36.7      | 80     | 104/74     | 16  | 98%      | 2           | 69.7        |
+
+---
+
+## Labs
+
+#### CBC, CHEM7, Cardiac/Liver Markers (selected, ICU course)
+
+| Date    | WBC   | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | BNP    | ALT  | AST  | AlkPhos | LDH  | Haptoglb |
+|---------|-------|------|------|------|------|------|------|------|------|------|------|----------|--------|------|------|---------|------|----------|
+| 4/20    | 10.7  | 9.1  | 28.0 | 271  | 139  | 5.1  | 108  | 23   | 41   | 2.7  | 112  | 0.09     | 10800  | 26   | 25   | 57      | 310  | 45       |
+| 4/21    | 11.3  | 8.7  | 27.1 | 289  | 137  | 5.4  | 109  | 21   | 46   | 3.1  | 106  | 0.12     |        | 29   | 24   | 61      | 495  | 31       |
+| 4/22    | 9.8   | 8.3  | 25.5 | 306  | 136  | 4.9  | 111  | 22   | 38   | 2.6  |      | 0.08     | 9200   | 25   | 24   | 59      | 388  | 40       |
+| 4/23    | 8.4   | 8.5  | 26.1 | 322  | 138  | 4.7  | 110  | 24   | 31   | 2.3  | 98   | 0.05     | 7800   | 23   | 21   | 54      | 255  | 55       |
+| 4/24    | 7.9   | 8.7  | 26.4 | 341  | 140  | 4.5  | 108  | 25   | 28   | 2.1  | 92   | <0.01    | 6200   | 22   | 20   | 49      | 210  | 58       |
+
+*Missing entries reflect not collected/hemolyzed sample.
+
+---
+
+## Imaging
+
+- **4/20/24 CXR:** Pulmonary vascular congestion, small bilateral pleural effusions.
+- **4/21/24 TTE:** LVEF 18%, severe global hypokinesis, moderate MR, mild RV dysfunction.
+- **4/23/24 CXR:** Decreased congestion, stable effusions.
+- **4/24/24 LE Doppler:** No DVT.
+
+---
+
+## Procedures
+
+- **4/21/24:** Right femoral arterial access, Impella CP placement under fluoroscopic guidance. No immediate complications.
+- **4/22/24:** Foley catheter placed for strict I/O.
+
+---
+
+## Assessment & Plan (Problem-based)
+
+**1. Cardiogenic shock, s/p Impella:**  
+   - Continue device support, wean pressors, monitor for hemolysis, device malfunction.  
+   - Daily TTE if clinical change.  
+   - Daily CBC, LDH, haptoglobin.
+
+**2. Acute decompensated HFrEF:**  
+   - Aggressive IV diuresis, strict I/O, consider gentle uptitration of GDMT as tolerated.
+
+**3. AKI on CKD:**  
+   - Avoid nephrotoxins, renal dosing, daily labs.
+
+**4. Anemia:**  
+   - Monitor, transfuse if <7.5.
+
+**5. Volume overload:**  
+   - Fluid restriction, ongoing diuresis.
+
+**6. Hyperlipidemia:**  
+   - Continue statin.
+
+**7. Obesity:**  
+   - Calorie restriction, PT/OT.
+
+**8. OA knees:**  
+   - Acetaminophen PRN, no NSAIDs.
+
+**9-12. Other PMHx:**  
+   - No acute needs.
+
+---
+
+## Disposition
+
+- Remains in ICU, close monitoring.  
+- Will reassess candidacy for further advanced HF therapies once stabilized.
+
+---
+
+**Physician:** Marissa Li, MD  
+**Date/Time:** 04/25/2024 08:14
+
+---

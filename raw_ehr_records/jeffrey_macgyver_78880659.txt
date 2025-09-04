@@ -1,0 +1,192 @@
+**[EPIC EHR - INPATIENT CHART]**
+
+**Patient Name:** Jeffrey MacGyver  
+**MRN:** 00543821  
+**DOB:** 07/03/1959  
+**Sex:** Male  
+**Admission Date:** 04/14/2024  
+**Attending:** Dr. Emily Sandoval, MD  
+**Location:** CVICU, Room 18  
+**Consultants:** Cardiology, Pulmonary, Infectious Disease, PT/OT
+
+---
+
+## CHIEF COMPLAINT
+Progressive shortness of breath, orthopnea, and lower extremity edema.
+
+---
+
+## HISTORY OF PRESENT ILLNESS
+
+Mr. Jeffrey MacGyver is a 64-year-old male with a history of hypertension, obesity (BMI ~30), osteoarthritis (knee), and recent acute bronchitis, presenting with 4 days of worsening dyspnea, productive cough, and fatigue. He was initially seen in the ED for hypoxia (O2 sat 87% RA), tachycardia, and hypotension. On arrival, he was found to have bibasilar crackles, JVD, and 2+ pitting edema. CXR showed pulmonary edema. Transthoracic echo revealed severe global LV dysfunction (EF 15%), moderate MR, and RV dysfunction. Troponins mildly elevated. He developed worsening cardiogenic shock (SBP < 85 mmHg, lactate 4.2), refractory to high-dose vasopressors and inotropes. Emergent Impella CP (percutaneous LVAD) placed in cath lab on HD1 for hemodynamic support.
+
+---
+
+## PAST MEDICAL HISTORY
+- Hypertension
+- Obesity (BMI 30.0)
+- Osteoarthritis, bilateral knees
+- Hx of right ankle sprain (remote, 2019)
+- Acute bronchitis (recent, 2 weeks prior)
+
+## PAST SURGICAL HISTORY
+- Right knee arthroscopy (2018)
+- Cholecystectomy (2015)
+
+## FAMILY HISTORY
+- Father: MI age 62, deceased
+- Mother: HTN, OA, alive age 89
+
+## SOCIAL HISTORY
+- Former smoker, quit 2010 (20 pack-years)
+- No alcohol, no illicit drugs
+- Lives with wife, retired engineer
+- Limited mobility due to knee pain
+
+## ALLERGIES
+- NKDA
+
+---
+
+## HOME MEDICATIONS
+- Amlodipine 5 mg / Hydrochlorothiazide 12.5 mg / Olmesartan medoxomil 20 mg PO daily
+- Naproxen sodium 220 mg PO prn
+- Acetaminophen/dextromethorphan/doxylamine syrup prn
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+**Day 0-1:**  
+Admitted for acute decompensated heart failure, rapidly progressing to cardiogenic shock. Placed on norepinephrine, dobutamine. Emergent Impella CP placed via femoral approach. Intubated for hypoxic respiratory failure. Diuresis started.
+
+**Day 2-3:**  
+Persistent low urine output, rising creatinine (peak 2.2 mg/dL). CVVH initiated. Infectious workup negative. Echo: No tamponade, Impella flows 3.2 L/min. Weaned off norepinephrine, still requiring dobutamine.
+
+**Day 4-5:**  
+Improvement in end-organ perfusion, lactate normalized. Impella weaned, explanted on HD5. Extubated to HFNC. Renal function improving. Mobilized to chair with PT.
+
+**Day 6-7:**  
+Stable hemodynamics. Transitioned to oral HF regimen (carvedilol, sacubitril-valsartan, spironolactone). Transferred to cardiac stepdown.
+
+---
+
+## VITALS (Selected)
+| Date         | Temp (C) | HR  | BP        | RR | O2 Sat | Weight (kg) | Pain (0-10) |
+|--------------|----------|-----|-----------|----|--------|-------------|-------------|
+| 4/14/2024    | 36.8     | 112 | 85/52     | 24 | 87%RA  | 83.2        | 6           |
+| 4/15/2024    | 37.0     | 106 | 92/55     | 18 | 94%Venti| 83.0       | 4           |
+| 4/17/2024    | 36.7     | 90  | 104/68    | 16 | 97%NC  | 81.7        | 2           |
+| 4/19/2024    | 36.6     | 84  | 116/74    | 15 | 98%RA  | 80.9        | 1           |
+
+---
+
+## LABS
+
+### CBC & CHEMISTRIES
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Ca   |
+|------------|------|------|------|------|------|------|------|------|------|------|------|------|
+| 4/14/24    | 10.1 | 12.0 | 36.3 | 426  | 135  | 5.2  | 104  | 19   | 34   | 1.6  | 134  | 8.2  |
+| 4/15/24    | 9.8  | 11.4 | 34.7 | 398  | 132  | 5.6  | 102  | 17   | 45   | 2.1  | 120  |      |
+| 4/16/24    | 8.2  | 10.9 | 33.1 | 377  | 136  | 4.8  | 105  | 20   | 41   | 2.2  | 114  | 8.6  |
+| 4/18/24    |      | 11.2 | 34.5 | 389  | 139  | 4.0  | 107  | 23   | 24   | 1.4  | 102  |      |
+| 4/19/24    | 7.6  | 12.7 | 38.2 |      | 140  | 4.1  |      | 25   | 19   | 1.1  | 97   | 9.0  |
+
+#### Additional labs
+- **Troponin I (4/14):** 0.17 → (4/15): 0.13 → (4/16): 0.09 ng/mL
+- **BNP (4/14):** 1580 pg/mL
+- **AST/ALT (4/15):** 62 / 48 IU/L
+- **Lactate (4/14):** 4.2 mmol/L (peak), normalized by 4/17
+- **INR (4/15):** 1.3
+
+---
+
+## IMAGING & STUDIES
+
+- **CXR 4/14:** Pulmonary edema, bilateral effusions, cardiomegaly
+- **Echo 4/14:** LVEF 15%, moderate MR, RV dysfunction, no thrombus
+- **EKG 4/14:** Sinus tachycardia, nonspecific ST-T changes
+
+---
+
+## PROCEDURES
+
+- **Impella CP Placement (4/14, cath lab):** Successful, no immediate complications
+- **Right IJ central line, arterial line**
+- **Intubation (4/14), extubated (4/17)**
+- **CVVH (CRRT) initiated 4/15, discontinued 4/18**
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. Cardiogenic Shock, Acute Decompensated Heart Failure (new severe LV systolic dysfunction)
+- Emergent Impella CP for mechanical support, now explanted
+- Vasopressors/inotropes as above, now discontinued
+- Monitoring for arrhythmias, volume status
+- Transitioned to guideline-directed medical therapy (GDMT): beta-blocker, ARNI, MRA
+- Daily weights, strict I/Os
+- Cardiology f/u; consider advanced therapies if no recovery
+
+### 2. Acute Kidney Injury (cardiorenal syndrome, oliguric, requiring CRRT)
+- CRRT 4/15–4/18, now off
+- Renal function improving, monitor labs
+- Avoid nephrotoxins, adjust meds for renal dosing
+
+### 3. Respiratory Failure, Hypoxic (secondary to pulmonary edema)
+- Intubated, now extubated to high flow, now NC
+- Diuresis, fluid management
+- CXR monitoring
+
+### 4. Hypertension (chronic)
+- Restart home antihypertensives as tolerated
+- Monitor BP closely
+
+### 5. Obesity
+- Dietician consult, calorie restriction, PT for mobility
+
+### 6. Osteoarthritis, bilateral knees
+- Naproxen held during AKI, now resumed prn
+- PT/OT for mobility
+
+### 7. Recent Acute Bronchitis
+- No evidence of active infection, afebrile
+- Sputum cultures negative
+
+### 8. DVT Prophylaxis
+- SCDs, SQ heparin
+
+### 9. Nutrition
+- NPO initially, now on cardiac diet
+
+### 10. Disposition Planning
+- Anticipate stepdown transfer, then home with cardiac follow-up
+
+---
+
+## HOSPITAL MEDICATIONS (current)
+- Carvedilol 3.125 mg PO BID
+- Sacubitril-valsartan 24/26 mg PO BID
+- Spironolactone 25 mg PO qAM
+- Furosemide 40 mg IV BID (now PO)
+- Amlodipine/HCTZ/Olmesartan resumed
+- Naproxen sodium prn
+- Acetaminophen prn
+
+---
+
+## DISCHARGE PLANNING
+- Cardiac rehab referral
+- Close outpatient cardiology follow-up
+- Home health PT/OT referral
+- Medication reconciliation and education
+
+---
+
+**Signed:** Emily Sandoval, MD  
+**Date/Time:** 04/20/2024 16:33
+
+---
+
+**[End of Note]**

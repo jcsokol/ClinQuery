@@ -1,0 +1,172 @@
+**[EPIC EHR - Inpatient Chart]**
+
+---
+
+**Patient Name:** Brant Ebert  
+**MRN:** 00428119  
+**DOB:** 12/03/1970 (M, 53 yrs)  
+**Admit Date:** 05/30/2024  
+**Attending:** Dr. K. Patel  
+**Admitting Dx:** Cardiogenic shock, s/p acute decompensated heart failure, temporary LVAD placement  
+**Allergies:** NKDA  
+**Code Status:** Full Code  
+**Height:** 171 cm  
+**Weight:** 82.1 kg  
+**BMI:** 28  
+
+---
+
+### Chief Complaint
+Shortness of breath, orthopnea, lower extremity edema x 4 days, hypotension at home.
+
+---
+
+### HPI
+
+Mr. Brant Ebert is a 53-year-old male with a history of hypertension and remote viral pharyngitis, presenting with progressive dyspnea, orthopnea, and bilateral leg swelling. He was found hypotensive (BP 80/50) at home, brought in by EMS. On arrival: tachycardic, hypoxic, with pulmonary edema on CXR. Initial labs notable for elevated troponin, BNP. Echo: LVEF 15%, global hypokinesis. He rapidly deteriorated, requiring intubation, vasopressors, and was transferred to the ICU. Due to persistent cardiogenic shock, a temporary left ventricular assist device (Impella CP) was placed on hospital day 2.
+
+---
+
+### Past Medical History
+
+- Hypertension (on HCTZ)
+- Hyperlipidemia (not on statin)
+- Viral pharyngitis (remote)
+- No prior cardiac history documented
+
+### Surgical History
+
+- None
+
+### Social History
+
+- Lives alone
+- Denies tobacco, EtOH, or illicit drug use
+
+### Family History
+
+- Father: MI at 57
+- Mother: HTN, alive
+
+---
+
+## Hospital Course
+
+**Day 1 (ED/ICU):**  
+Presented with acute hypoxic respiratory failure, hypotension. Intubated for respiratory distress. Started on norepinephrine, dobutamine. Echo: LVEF 15%. Transferred to ICU.
+
+**Day 2:**  
+Persistent shock despite inotropes. Cardiology consulted. Temporary LVAD (Impella CP) placed via femoral approach. Hemodynamics improved, vasopressors weaned.
+
+**Day 3:**  
+Diuresis initiated. Extubated to high-flow nasal cannula. Renal function stable, mild transaminitis. Started on low-dose beta-blocker, ACEi held for low BP.
+
+**Day 4:**  
+LVAD support ongoing. Improved urine output. Mobilized to chair. Plan for LVAD wean trial.
+
+**Day 5:**  
+LVAD weaned successfully. Echo: LVEF improved to 30%. Device explanted at bedside. Monitored for arrhythmias, none noted. Transferred to step-down unit.
+
+---
+
+## Vitals (ICU Days 1-5)
+
+| Date        | Temp (C) | HR   | BP         | RR   | SpO2 | Pain (0-10) |
+|-------------|----------|------|------------|------|------|-------------|
+| 05/30/2024  | 37.4     | 112  | 80/50      | 28   | 88%  | 2           |
+| 05/31/2024  | 37.1     | 98   | 92/60      | 23   | 94%  | 1           |
+| 06/01/2024  | 36.9     | 88   | 110/68     | 18   | 98%  | 1           |
+| 06/02/2024  | 37.0     | 82   | 115/73     | 16   | 99%  | 0           |
+| 06/03/2024  | 36.7     | 78   | 119/75     | 14   | 99%  | 0           |
+
+---
+
+## Labs
+
+**CBC, Chem7, Cardiac Markers, LFTs**
+
+| Date        | WBC   | Hgb  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | BNP   | AST  | ALT  |
+|-------------|-------|------|------|------|------|------|------|------|------|------|----------|-------|------|------|
+| 5/30/2024   | 8.3   | 16.1 | 171  | 136  | 4.8  | 101  | 22   | 18   | 1.0  | 128  | 0.17     | 2900  | 48   | 65   |
+| 5/31/2024   | 7.9   | 14.8 | 154  | 138  | 5.1  | 99   | 21   | 22   | 1.2  | 142  | 0.14     | 2500  | 52   | 70   |
+| 6/1/2024    | 7.5   | 13.3 | 148  | 140  | 4.5  | 100  | 23   | 20   | 1.1  | 136  | 0.09     | 1580  | 41   | 59   |
+| 6/2/2024    | 6.8   | 12.9 | 156  | 139  | 4.2  | 102  | 24   | 16   | 1.0  | 122  | <0.01    | 800   | 35   | 44   |
+| 6/3/2024    | 7.0   | 13.0 |      | 141  | 4.3  | 103  | 25   | 15   | 0.9  |      |          | 420   |      |      |
+
+**Other labs:**  
+- Lipids: TC 199, TG 117, LDL 113, HDL 62 (admission labs)  
+- INR 1.1, aPTT 29, CK 90 (5/30/2024)
+
+---
+
+## Medications (Hospital Course)
+
+- Hydrochlorothiazide 25 mg daily (home, held on admission)
+- Norepinephrine infusion (ICU days 1-2)
+- Dobutamine infusion (ICU days 1-2)
+- Furosemide IV 40 mg BID (ICU days 2-5)
+- Metoprolol succinate 12.5 mg daily (from ICU day 3)
+- Aspirin 81 mg daily (from ICU day 2)
+- Heparin IV (Impella anticoagulation, days 2-5)
+- Atorvastatin 40 mg daily (from ICU day 3)
+- Lisinopril 2.5 mg daily (from ICU day 4, as BP tolerated)
+- KCl supplement PRN
+
+---
+
+## Problem-Based Assessment & Plan
+
+### 1. **Cardiogenic Shock, s/p Temporary LVAD**
+- s/p Impella CP (femoral) for refractory shock, now explanted
+- Hemodynamics improved, off vasopressors/inotropes
+- Plan: Continue cardiac monitoring, daily echo for recovery, optimize GDMT (guideline-directed medical therapy), education re: device, consider ICD if persistent low EF
+
+### 2. **Acute Decompensated Heart Failure (LVEF 15% → 30%)**
+- Aggressive IV diuresis, fluid restriction, monitor lytes/renal
+- Initiated low-dose beta-blocker, uptitrating as tolerated
+- Plan: GDMT titration, daily weights, strict I/O, monitor for recurrent congestion
+
+### 3. **Hypertension**
+- Home HCTZ held for AKI risk/hypotension
+- BP improved with recovery
+- Plan: Continue to monitor, resume home regimen as tolerated, consider ACEi uptitration
+
+### 4. **Renal Dysfunction (pre-renal AKI)**
+- Mild AKI on admission, improved with volume status optimization
+- Plan: Monitor Cr/BUN daily, avoid nephrotoxins, maintain MAP > 65
+
+### 5. **Transaminitis**
+- Mild, likely ischemic hepatitis from shock liver, improved
+- Plan: Trending down, monitor LFTs, avoid hepatotoxins
+
+### 6. **Hyperlipidemia**
+- Not on statin at baseline, started atorvastatin
+- Plan: Continue, outpatient lipid clinic f/u
+
+### 7. **Prophylaxis (VTE, GI)**
+- Heparin IV for Impella, transitioned to SQ heparin when device off
+- Pantoprazole for GI protection
+
+### 8. **Other**
+- Physical therapy: Mobilizing with assistance
+- Nutrition: Cardiac diet, Na restriction
+- Social work: Assess for home supports, post-discharge care
+
+---
+
+## Discharge Planning
+
+- Anticipate discharge to home in 1-2 days if stable
+- Cardiology f/u in 1 week, echo in 1 month
+- Home meds: continue beta-blocker, ACEi, statin, aspirin, diuretic as tolerated
+- Heart failure education
+
+---
+
+**Physician:** K. Patel, MD  
+**Date/Time:** 06/03/2024 12:40  
+**Cosign:** [pending]
+
+---
+
+**[End of Note]**

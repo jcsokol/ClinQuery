@@ -1,0 +1,152 @@
+**INPATIENT EHR NOTE**  
+**Patient:** Lazaro Senger  
+**MRN:** 01949425  
+**Date of Birth:** 01/25/1994  
+**Sex:** Male  
+**Admit Date:** 05/18/2024  
+**Attending Physician:** Dr. Jacquelyn Cortez  
+**Unit:** MICU  
+
+---
+
+### CHIEF COMPLAINT  
+Acute onset chest pain, dyspnea, and hypotension.
+
+---
+
+### HISTORY OF PRESENT ILLNESS  
+25-year-old male with a history of hypertension, chronic sinusitis, and recent viral pharyngitis, presenting to the ED with 3 days of myalgias, cough, and progressive shortness of breath. On day of admission, developed severe retrosternal chest pain, diaphoresis, and presyncope. In the ED, he was tachypneic, hypotensive (BP 85/60), requiring 2L O2 via NC for SpO2 90%. Exam notable for S3 gallop, crackles at bases, JVD. Troponin elevated. Echo: severe global hypokinesis, LVEF 15%. Cardiogenic shock suspected. Emergent transfer to MICU.  
+
+**Past Medical History:**  
+- Hypertension  
+- Acute viral pharyngitis (recent, 2 weeks ago)  
+- Chronic viral sinusitis  
+
+**Medications on Admission:**  
+- Hydrochlorothiazide 25 mg daily  
+- Atenolol 50mg/Chlorthalidone 25mg daily  
+- Amlodipine 5mg/HCTZ 12.5mg/Olmesartan 20mg daily  
+
+**Allergies:** NKDA
+
+---
+
+### HOSPITAL COURSE  
+**ICU Day 1:**  
+- Rapid deterioration with hypotension refractory to fluids, started on norepinephrine, then dobutamine for low-output state.  
+- Bedside echo: severe LV dysfunction, no RV dilation, no tamponade.  
+- Intubated for hypoxic respiratory failure.  
+- Swan-Ganz: CI 1.5, PCWP 27, SVR 1400.  
+- Decision made to place temporary percutaneous LVAD (Impella CP) for cardiogenic shock.  
+- Started broad-spectrum abx for possible myocarditis.  
+- Serial cardiac markers, CBC, BMP, LFTs, coags, lactate monitored.  
+- Foley, A-line, central line placed.
+
+**ICU Days 2-5:**  
+- Responded to LVAD support, weaned off vasopressors by day 4.  
+- Troponin peaked, then declined.  
+- Developed transient AKI (creatinine 2.1) resolving with improved perfusion.  
+- Mild transaminitis.  
+- Extubated on day 5.  
+- LVAD weaned off on day 6 after echo showed LVEF improved to 35%.
+
+**ICU Days 6-10:**  
+- Transferred to stepdown.  
+- Diuresed for persistent congestion.  
+- Initiated GDMT for heart failure: low-dose carvedilol, started sacubitril/valsartan.  
+- Monitored for arrhythmias (none significant).  
+- Infectious w/u negative for bacteria; viral PCR positive for Coxsackie B.
+
+---
+
+### VITALS (Selected)  
+| Date       | Temp (C) | HR | BP         | RR | SpO2 | Weight (kg) |
+|------------|----------|----|------------|----|------|-------------|
+| 5/18/24    | 37.2     | 122| 85/60      | 28 | 90%  | 79.1        |
+| 5/19/24    | 36.9     | 110| 95/65      | 20 | 95%  | 78.2        |
+| 5/21/24    | 37.0     | 95 | 110/70     | 16 | 98%  | 78.0        |
+| 5/24/24    | 36.7     | 80 | 120/76     | 14 | 98%  | 77.5        |
+
+---
+
+### LABS  
+#### CBC & CHEM7 (Selected, some values missing)
+
+| Date       | WBC  | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|------|------|------|-------|------|------|------|------|------|------|------|
+| 5/18/24    | 7.2  | 15.8 | 39.7 | 167   | 134  | 4.9  | 101  | 21   | 28   | 1.3  | 124  |
+| 5/19/24    | 8.6  | 14.2 | 37.2 | 145   | 132  | 5.3  | 100  | 19   | 36   | 2.1  | 112  |
+| 5/20/24    | 9.1  | 13.8 | 36.5 | 139   | 136  | 4.7  | 99   | 20   | 31   | 1.7  |      |
+| 5/21/24    | 7.8  | 14.6 | 38.0 | 153   | 137  | 4.2  | 98   | 23   | 22   | 1.2  | 108  |
+| 5/23/24    |      | 15.0 |      | 159   | 139  |      | 102  | 24   | 19   | 1.0  | 102  |
+| 5/24/24    | 7.5  | 15.2 | 39.1 | 172   | 140  | 4.0  | 103  | 25   | 17   | 0.9  |      |
+
+#### OTHER LABS
+
+**Cardiac Markers:**  
+- Troponin I: 2.1 → 8.7 (peak on 5/19) → 2.0 ng/mL (5/22)  
+- BNP: 2470 → 1800 (5/22)  
+**Liver Panel:**  
+- AST: 99 (peak 5/19), ALT: 76 (peak 5/19), Alk Phos: 110, Tbili: 1.1  
+**Lactate:**  
+- 4.5 (on admission) → 2.1 (by 5/20)
+
+---
+
+### IMAGING/DIAGNOSTICS  
+**Echocardiogram (5/18):** LVEF 15%, severe global hypokinesis, mild MR, no pericardial effusion.  
+**Repeat Echo (5/24):** LVEF 35%, improved wall motion, mild MR.  
+**CXR:** Bibasilar opacities, mild pulmonary edema.  
+**ECG:** Sinus tach, diffuse low voltage, no ST-elevation.
+
+---
+
+### ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock secondary to suspected viral myocarditis (Coxsackie B)**
+   - Placed on temporary LVAD (Impella CP) for hemodynamic support.
+   - Vasopressors/inotropes for initial stabilization, now weaned.
+   - Serial cardiac markers, echo monitoring.
+   - Plan: Continue GDMT for HF, close follow-up with heart failure and transplant team.
+
+**2. Acute Hypoxic Respiratory Failure**
+   - Required mechanical ventilation, now extubated.
+   - Diuresed for pulmonary edema.
+   - Plan: Continue O2 as needed, monitor for recurrence.
+
+**3. Acute Kidney Injury (resolved)**
+   - Likely secondary to hypoperfusion.
+   - Improved with restoration of cardiac output.
+   - Plan: Monitor renal function.
+
+**4. Transaminitis**
+   - Likely ischemic hepatitis due to shock.
+   - Trending down.
+   - Plan: Monitor LFTs.
+
+**5. Hypertension**
+   - Hold home antihypertensives during shock.
+   - Re-initiate as tolerated, currently on low-dose carvedilol, sacubitril/valsartan.
+   - Plan: Titrate as BP allows.
+
+**6. Recent viral pharyngitis, chronic sinusitis**
+   - No evidence of secondary bacterial infection.
+   - Plan: Symptomatic management.
+
+**7. Thromboprophylaxis**
+   - On LMWH for DVT prophylaxis while on LVAD.
+
+**8. Nutrition**
+   - NGT feeds in ICU, now transitioned to PO diet.
+
+**9. Disposition**
+   - Anticipate transfer to rehab for cardiac recovery.
+
+---
+
+**Physician:** Jacquelyn Cortez, MD  
+**Date/Time:** 05/24/2024 15:42
+
+---
+
+**End of Note**

@@ -1,0 +1,205 @@
+**Patient:** Gennie Spinka  
+**MRN:** 1839472  
+**DOB:** 08/30/1968  
+**Sex:** Female  
+**Admission Date:** 04/12/2024  
+**Attending:** Dr. R. Lattimore  
+**Admitting Dx:** Cardiogenic shock secondary to acute decompensated heart failure  
+**Current Location:** Med/Surg ICU - Bed 7  
+
+---
+
+# ICU ADMISSION NOTE
+
+---
+
+### CHIEF COMPLAINT  
+Shortness of breath, orthopnea, and lower extremity edema x 2 weeks, acutely worsened over the past 48 hours.
+
+---
+
+### HISTORY OF PRESENT ILLNESS  
+Gennie Spinka is a 55-year-old female with a history of obesity, chronic sinusitis, and recent acute bronchitis who presented with worsening dyspnea, productive cough, and increasing lower extremity swelling. She reported difficulty sleeping flat, requiring several pillows, and noted a 10-lb weight gain over the last two weeks. On arrival, she was tachypneic and hypoxic. Exam revealed rales, jugular venous distension, and bilateral pitting edema. CXR showed pulmonary edema. BNP and troponin were elevated. Echo showed severe global hypokinesis, LVEF ~15%. She developed hypotension refractory to IV diuretics and dobutamine, prompting placement of a left-sided percutaneous LVAD (Impella CP) for hemodynamic support.  
+
+---
+
+### PAST MEDICAL HISTORY  
+- Obesity (BMI ~30)  
+- Chronic sinusitis  
+- Recurrent acute bronchitis  
+- Hyperlipidemia (controlled)  
+- No known CAD, prior MI, or prior HF diagnosis documented
+
+### PAST SURGICAL HISTORY  
+- Tonsillectomy (childhood)
+
+### MEDICATIONS ON ADMISSION  
+- Acetaminophen 325 mg PO PRN  
+- Atorvastatin 20 mg PO qHS (home med, held on admission)  
+- No regular home diuretic
+
+### ALLERGIES  
+- NKDA
+
+### FAMILY HISTORY  
+- Father: MI at 62, deceased  
+- Mother: Type 2 DM, HTN
+
+### SOCIAL HISTORY  
+- Former smoker, quit 2018  
+- No alcohol, no illicit drugs  
+- Lives with spouse
+
+---
+
+### REVIEW OF SYSTEMS  
+**General:** Fatigue, 10-lb weight gain  
+**HEENT:** Chronic congestion  
+**Resp:** SOB, cough, no hemoptysis  
+**CV:** PND, orthopnea, edema  
+**GI:** No abdominal pain, N/V  
+**GU:** Oliguria since yesterday  
+**Neuro:** Mild headache, no focal deficits  
+**MSK:** Bilateral leg swelling  
+**Skin:** No rashes
+
+---
+
+### EXAM  
+**VS on arrival:** BP 82/54, HR 122, RR 24, T 36.8°C, SpO2 89% RA  
+**Gen:** Obese, in moderate distress  
+**HEENT:** Oropharynx clear, mild facial fullness  
+**Neck:** JVD ~10cm, no lymphadenopathy  
+**Chest:** Bibasilar crackles  
+**CV:** Tachycardic, S3, no murmurs  
+**Abd:** Soft, nontender  
+**Ext:** 2+ pitting edema to mid-shins  
+**Neuro:** Alert, oriented x3
+
+---
+
+## HOSPITAL COURSE (Days 1–7)
+
+**Day 1:**  
+- Worsening shock, started norepinephrine, then dobutamine  
+- Echo: LVEF 15%, severe LV dysfunction  
+- Impella CP placed via femoral artery  
+- Transient hypotension post-procedure, stabilized on dual pressors  
+- Diuresis initiated, UOP improved
+
+**Day 2–3:**  
+- Gradual wean of vasopressors  
+- Ongoing diuresis, net -2.5L by day 3  
+- Mild transaminitis, likely hypoperfusion  
+- Monitored for hemolysis (LDH, haptoglobin)  
+- Developed mild thrombocytopenia, Impella-related  
+- Cough improved, no further fevers
+
+**Day 4–5:**  
+- Impella support continued  
+- Renal function stable, minor rise in creatinine  
+- Troponin trended down  
+- Mobilized to chair  
+- No arrhythmias observed
+
+**Day 6–7:**  
+- Impella weaned and explanted on Day 7  
+- Transitioned to oral HF therapy (metoprolol, sacubitril/valsartan, furosemide)  
+- Transferred to step-down unit
+
+---
+
+## LABS
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | BNP   | Trop   | LDH   | Haptog |  
+|------------|------|------|------|------|------|------|------|------|------|------|------|------|------|-------|--------|-------|--------|
+| 4/12/24    | 6.4  | 16.2 | 37   | 340  | 136  | 4.1  | 102  | 24   | 34   | 1.1  | 102  | 76   | 54   | 3890  | 0.42   | 510   | 78     |
+| 4/13/24    | 7.8  | 15.1 | 34   | 212  | 134  | 4.5  | 100  | 22   | 39   | 1.3  | 118  | 144  | 110  | 2800  | 0.27   | 650   | 44     |
+| 4/14/24    | 8.1  | 15.4 | 35   | 179  | 135  | 4.2  | 101  | 23   | 41   | 1.5  | 126  | 88   | 70   | 1900  | 0.12   | 410   | 38     |
+| 4/15/24    | 7.2  | 14.8 | 33   | 162  | 137  | 4.0  | 103  | 24   | 36   | 1.3  | 110  |      |      | 1200  | <0.01  |       |        |
+| 4/16/24    |      | 14.5 |      | 171  | 138  | 4.3  | 104  | 25   | 32   | 1.2  | 106  | 56   | 40   | 850   | <0.01  | 350   |        |
+| 4/17/24    | 6.7  |      | 32   | 184  |      |      | 101  |      | 27   | 1.1  | 99   |      |      | 600   | <0.01  |       |        |
+| 4/18/24    | 6.1  | 14.2 | 31   | 210  | 138  | 4.1  | 100  | 24   | 25   | 1.0  | 92   | 32   | 28   | 520   | <0.01  | 210   |        |
+
+*Note: Some labs not drawn daily or resulted after table completion.*
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Acute decompensated heart failure with cardiogenic shock**  
+- Severe LV dysfunction, likely new diagnosis  
+- Impella CP placed for hemodynamic support  
+- Weaned off pressors, Impella explanted Day 7  
+- Initiated guideline-directed medical therapy (GDMT) for HFrEF  
+- Daily weights, strict I/O, fluid restriction  
+- Cardiology following
+
+**2. Obesity**  
+- Counseling on diet/exercise  
+- Monitored for volume overload, renal dosing of medications
+
+**3. Acute kidney injury (transient, likely prerenal)**  
+- Monitored renal function, improved with diuresis and hemodynamic support  
+- Avoided nephrotoxins
+
+**4. Impella-related thrombocytopenia**  
+- Monitored platelets daily  
+- No evidence of bleeding  
+- Platelets recovered after Impella removal
+
+**5. Transaminitis, improved**  
+- Monitored LFTs, trended down after improved perfusion
+
+**6. Chronic sinusitis, acute bronchitis (resolved)**  
+- No fevers, no productive cough  
+- Supportive care only
+
+**7. Hyperlipidemia**  
+- Atorvastatin held during acute illness, plan to resume prior to discharge
+
+**8. Pain management**  
+- Acetaminophen PRN  
+- Pain well-controlled, NRS 2-4/10
+
+**9. DVT prophylaxis**  
+- SCDs, later started on low-dose SQ heparin after bleeding risk reduced
+
+**10. Disposition/social**  
+- Extensive education re: new heart failure diagnosis and device history  
+- SW involved for possible cardiac rehab referral  
+- Anticipate step-down transfer, then home with close f/u
+
+---
+
+**Attending:** Dr. R. Lattimore  
+**Resident:** K. Jensen, MD  
+**Cardiology:** Dr. T. Ghosh
+
+---
+
+**Orders:**  
+- Continue telemetry  
+- Daily labs: CBC, Chem7, LFTs, Troponin, BNP as indicated  
+- Furosemide 40mg PO BID  
+- Metoprolol succinate 25mg PO qAM  
+- Sacubitril/valsartan 24/26mg PO BID  
+- Resume atorvastatin 20mg PO qHS  
+- DVT prophylaxis: heparin 5000u SQ q8h  
+- SCDs while in bed  
+- Strict I/O, daily weights  
+- 1.5L fluid restriction  
+- Low sodium diet
+
+---
+
+**Next Steps:**  
+- Continue GDMT  
+- Cardiac rehab referral  
+- Close outpatient follow-up with HF clinic  
+- Education on heart failure self-management
+
+---
+
+**EHR Note Completed:** 04/19/2024 08:39  
+**Signed:** K. Jensen, MD

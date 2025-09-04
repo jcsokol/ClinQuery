@@ -1,0 +1,166 @@
+```
+---------------------------------------------------------------------------
+Patient Name: Brittanie Goyette                  MRN: 004598392
+DOB: 01/27/1994 (Age: 30)                        Sex: Female
+Attending: Dr. S. Patel                          Date of Admission: 03/12/2024
+Admitting Dx: Cardiogenic shock, acute decompensated heart failure, status post temporary LVAD (Impella CP)
+---------------------------------------------------------------------------
+Chief Complaint:
+Shortness of breath, chest discomfort, and near-syncope
+
+History of Present Illness:
+Brittanie Goyette is a 30-year-old female with past medical history significant for multiple pregnancies, contact dermatitis, and no known cardiac history, who presented to the ED with acute onset SOB, orthopnea, and chest tightness. She was noted to be hypotensive (SBP 78 mmHg), tachycardic (HR 132), and hypoxic (SpO2 88% RA). Initial troponin was elevated and BNP markedly increased. ECG showed sinus tachycardia with non-specific ST-T changes. CXR: pulmonary edema. Bedside echo: severe global LV dysfunction (EF ~15%). She was admitted to the MICU for acute decompensated heart failure and cardiogenic shock. Due to rapid clinical deterioration and refractory hypotension despite vasopressors/inotropes, Impella CP was placed for temporary mechanical circulatory support on HD1.
+
+Past Medical History:
+- Normal pregnancies x3
+- Contact dermatitis
+- Atopy (multiple allergens, see labs)
+- No prior cardiac history
+
+Past Surgical History:
+- None significant
+
+Medications on Admission:
+- Ortho Tri-Cyclen 28 Day Pack
+- Levora 0.15/30 28 Day Pack
+- Natazia 28 Day Pack
+- Yaz 28 Day Pack
+- Hydrocortisone 10 MG/ML Topical Cream
+- Fexofenadine 60 mg PO BID
+- Epinephrine auto-injector
+
+Allergies:
+- NKDA (no known drug allergies)
+
+Family History:
+- Mother: HTN, T2DM
+- Father: MI at age 62
+
+Social History:
+- Never smoker, no EtOH, no illicit drug use
+- Lives with partner and two children
+- Works as a teacher
+
+---------------------------------------------------------------------------
+Physical Exam (on ICU day 2):
+General: Appears fatigued, mild respiratory distress
+CV: Tachycardic, S3 present, Impella in place, no murmurs
+Resp: Crackles at bases, mild resp effort, O2 via HFNC
+Abd: Soft, nontender, normal bowel sounds
+Ext: Trace edema, no DVT
+Neuro: Alert, oriented x3
+
+---------------------------------------------------------------------------
+ICU/Hospital Course Summary:
+- HD1: Admitted with cardiogenic shock, intubated for hypoxemic resp failure. Started on norepinephrine, dobutamine. Impella CP placed via R femoral artery.
+- HD2: Hemodynamics gradually improved, weaned off norepi. Labs with improving lactate. CXR: resolving edema. Renal function closely monitored.
+- HD3: Extubated to HFNC. Echo: persistent severe LV dysfunction. Impella flows maintained.
+- HD4: Developed fever (38.3C), WBC uptrending; started on empiric vanc/cefepime for possible line infection, blood cx sent.
+- HD5: Afebrile, cultures negative. Weaned off inotropes. Impella removed after successful 24h wean. Transitioned to guideline-directed medical therapy for HFrEF.
+- HD6-7: Stable, ambulating with PT. Discharge planning initiated.
+
+---------------------------------------------------------------------------
+
+**Vital Signs (selected):**
+| Date        | Temp (°C) | HR   | BP         | RR   | SpO2   | O2 device   |
+|-------------|-----------|------|------------|------|--------|-------------|
+| 3/12/2024   | 36.7      | 132  | 78/44      | 28   | 88%    | RA          |
+| 3/13/2024   | 37.0      | 110  | 92/56      | 22   | 94%    | HFNC        |
+| 3/14/2024   | 36.8      | 98   | 108/62     | 18   | 97%    | HFNC        |
+| 3/15/2024   | 38.3      | 102  | 104/58     | 20   | 95%    | NC          |
+| 3/16/2024   | 36.9      | 90   | 116/74     | 16   | 98%    | RA          |
+
+---------------------------------------------------------------------------
+
+**LABS (select values shown for ICU days 1, 3, 4, 6):**
+
+| Date        | WBC  | Hgb  | Hct   | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Gluc | Troponin I | BNP     | AST   | ALT   |
+|-------------|------|------|-------|------|------|------|------|------|------|------|------|------------|---------|-------|-------|
+| 3/12/2024   | 9.2  | 12.8 | 46.0  | 302  | 135  | 5.4  | 99   | 19   | 28   | 1.7  | 148  | 1.12       | 3500    | 82    | 64    |
+| 3/13/2024   | 8.7  | 12.1 | 43.7  | 278  | 137  | 4.8  | 102  | 21   | 24   | 1.3  | 123  | 0.83       | 2900    | 44    | 38    |
+| 3/14/2024   | 11.4 | 11.6 | 41.2  | 263  | 138  | 4.2  | 103  | 23   | 21   | 1.1  | 112  | 0.52       | 2200    | 37    | 29    |
+| 3/16/2024   | 7.8  | 12.3 | 44.6  | 246  | 139  | 4.4  | 104  | 25   | 19   | 1.0  | 108  | 0.09       | 1700    | 32    | 27    |
+
+*Some labs (e.g. 3/15/2024) not drawn. Troponin I and BNP trended q24-48h. LFTs trended due to mild ischemic hepatitis.*
+
+---------------------------------------------------------------------------
+**Other Labs:**
+- Lactate (HD1): 4.2 → 1.8 (HD3)
+- Blood cultures: negative x2
+- Coags: INR 1.3, aPTT 31
+- Echo (HD1): Severe global LV dysfunction (EF 15%), no valve vegetations
+
+---------------------------------------------------------------------------
+**Imaging:**
+- CXR (HD1): Pulmonary edema, ETT and Impella in place
+- CXR (HD3): Decreased edema
+- Echo (HD3): Persistent severe LV dysfunction, Impella in place
+
+---------------------------------------------------------------------------
+
+**Assessment & Plan:**
+
+1. **Cardiogenic Shock, acute decompensated heart failure (new onset, non-ischemic)**
+   - Likely etiology: peripartum cardiomyopathy vs viral myocarditis (recent URI hx)
+   - Managed with vasopressors, inotropes
+   - Temporary LVAD (Impella CP) placed HD1, removed HD5 after hemodynamic stability
+   - Guideline-directed HF therapy: carvedilol, sacubitril/valsartan, spironolactone
+   - Daily echo to monitor LV function, wean support as tolerated
+   - Cardiology f/u, outpatient cardiac MRI scheduled
+
+2. **Hypoxemic Respiratory Failure**
+   - Initially required intubation, now extubated to HFNC
+   - Wean O2 as tolerated
+   - Monitor for pulmonary edema, daily CXR PRN
+
+3. **Acute Kidney Injury (pre-renal, resolved)**
+   - Elev Cr on admission, now improved
+   - Monitored UOP, avoided nephrotoxins
+   - Renal function daily
+
+4. **Possible line infection (ruled out)**
+   - Fever HD4, empiric abx started, BCx neg, abx stopped HD5
+   - Monitor for new fevers
+
+5. **Atopy/Contact Dermatitis**
+   - Continue topical hydrocortisone, oral fexofenadine
+   - Skin care with CHG wipes
+
+6. **Contraceptive Management/Medication Reconciliation**
+   - Hold estrogen-containing OCPs due to acute illness and risk of VTE
+   - Discuss alternative contraception at discharge
+
+7. **VTE Prophylaxis**
+   - SCDs, SQ heparin
+
+8. **PT/OT**
+   - Early mobilization, up with assist x2
+
+9. **Disposition**
+   - Plan for stepdown to telemetry, then home with close cardiac follow-up
+
+---------------------------------------------------------------------------
+
+**Discharge Medications (anticipated):**
+- Carvedilol 3.125 mg BID
+- Sacubitril/valsartan 24/26 mg BID
+- Spironolactone 25 mg daily
+- Furosemide 20 mg daily
+- Fexofenadine 60 mg BID
+- Hydrocortisone cream PRN
+
+---------------------------------------------------------------------------
+
+**Provider:**
+A. N. Resident, MD (PGY-2)
+Co-signed: S. Patel, MD
+
+---------------------------------------------------------------------------
+
+**Additional Notes:**
+- Social work consult for home support
+- Cardiac rehab referral placed
+- Cardiac MRI scheduled 2 weeks post-discharge
+
+---------------------------------------------------------------------------
+```

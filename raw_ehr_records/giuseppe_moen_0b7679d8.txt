@@ -1,0 +1,185 @@
+```
+**Patient Name:** Giuseppe Moen  
+**MRN:** 00982743  
+**DOB:** 04/01/1965 (59 y/o)  
+**Sex:** Male  
+**Admitting Physician:** Dr. R. Sanchez, MD  
+**Consultants:** Cardiology, Pulmonology, Neurology  
+**Date of Admission:** 2024-05-29  
+**Date of Note:** 2024-06-06  
+**Hospital Day:** 8  
+**Attending of Record:** Dr. R. Sanchez  
+**Admitting Diagnosis:** Cardiogenic shock secondary to acute coronary syndrome (NSTEMI), s/p temporary LVAD (Impella CP), acute CHF exacerbation  
+**Allergies:** NKDA  
+
+---
+
+**HPI:**  
+Mr. Giuseppe Moen is a 59-year-old male with a history of coronary artery disease (s/p PCI 2018), prediabetes, anemia, and remote concussion who presented to the ED with 2 days of progressive dyspnea, orthopnea, and chest pressure. He had a recent URI/bronchitis treated with azithromycin as an outpatient. In the ED, he was found to be hypotensive (SBP 72 mmHg), tachycardic, hypoxic, and in respiratory distress. EKG showed diffuse ST depressions; troponin T was elevated at 1.5 ng/mL. CXR: pulmonary edema. Echo: severe global hypokinesis, LVEF 18%. He was admitted to the CCU for cardiogenic shock, started on norepinephrine, dobutamine, and furosemide drips. Due to persistent hypotension and end-organ dysfunction, Impella CP device was placed on HD2 for mechanical circulatory support.  
+
+**PMHx:**  
+- Coronary heart disease (s/p PCI 2018, stent LAD)  
+- Prediabetes  
+- Anemia (chronic, multifactorial)  
+- Acute bronchitis (recent, resolved)  
+- Concussion with LOC (2015)  
+- Hyperlipidemia  
+- Hypertension  
+- Chronic tobacco use (quit 2018)  
+
+**PSHx:**  
+- Cardiac cath w/ stent (2018)  
+- Cholecystectomy (2009)  
+
+**FHx:**  
+- Father: MI age 61  
+- Mother: T2DM, HTN  
+
+**SHx:**  
+- Former smoker (30 pack-years, quit 2018)  
+- Social alcohol (<2/wk)  
+- Lives with spouse, retired  
+
+**Meds On Admission:**  
+- Clopidogrel 75mg PO daily  
+- Simvastatin 20mg PO qHS  
+- Amlodipine 5mg PO daily  
+- Nitroglycerin 0.4mg spray PRN  
+- Acetaminophen 325mg PO PRN  
+- Vitamin B12 5mg/mL IM qmonth  
+- Home: ASA 81 mg (held on admission)  
+
+---
+
+**Physical Exam (ICU, HD8):**  
+**Gen:** Intubated, sedated, on Impella support  
+**VS:** T 37.2°C, HR 109, BP 92/54 (MAP 68), RR 16 (vent), SpO2 98% (FiO2 40%)  
+**HEENT:** Normocephalic, ETT in place  
+**CV:** Distant S1/S2, no murmur, Impella hum present, cool extremities, 1+ pedal edema  
+**Resp:** Decreased breath sounds, bibasilar crackles  
+**Abd:** Soft, NT, NABS  
+**Neuro:** Sedated, localizes pain, moves all extremities  
+**Skin:** Intact, no rashes, central line R IJ, A-line L radial  
+**Lines/Devices:**  
+- R IJ CVC (day 7)  
+- L radial A-line (day 7)  
+- Impella CP (day 6, femoral)  
+- Foley  
+
+---
+
+**LABS (Selected):**  
+
+| Date        | WBC     | Hgb   | Hct   | Plt   | Na    | K    | Cl   | CO2  | BUN   | Cr    | Glu   | Troponin T | AST  | ALT  | AlkPhos | LFTs | Lactate | BNP    |
+|-------------|---------|-------|-------|-------|-------|------|------|------|-------|-------|-------|------------|------|------|---------|------|---------|--------|
+| 5/29/2024   | 6.1     | 13.5  | 38.2  | 242   | 143   | 4.0  | 102  | 27   | 18    | 1.2   | 128   | 1.5        | 39   | 34   | 112     |      | 3.2     | 12350  |
+| 5/30/2024   | 8.6     | 12.2  | 34.9  | 211   | 141   | 4.3  | 104  | 23   | 26    | 2.0   | 145   | 1.7        | 67   | 51   | 143     |      | 2.5     |        |
+| 5/31/2024   | 10.2    | 11.8  | 33.5  | 189   | 137   | 4.8  | 100  | 21   | 32    | 2.6   | 161   | 1.3        | 76   | 59   | 156     |      | 1.8     | 9800   |
+| 6/1/2024    | 8.4     | 10.9  | 31.5  | 172   | 139   | 4.1  | 98   | 24   | 28    | 2.1   | 112   | 0.7        | 52   | 38   | 120     |      |         | 8400   |
+| 6/2/2024    | 7.7     | 10.4  | 29.2  | 156   | 141   | 3.7  | 101  | 26   | 23    | 1.7   | 97    | 0.3        | 44   | 33   | 99      |      |         |        |
+| 6/4/2024    | 7.3     | 10.7  | 30.1  | 142   | 140   | 3.9  | 104  | 27   | 17    | 1.3   | 94    | <0.1       | 38   | 27   | 88      |      | 1.2     | 4100   |
+| 6/6/2024    | 6.9     | 11.3  | 32.6  | 130   | 139   | 4.0  | 102  | 28   | 16    | 1.1   | 85    | <0.05      | 32   | 22   | 74      |      | 1.0     | 3600   |
+
+---
+
+**Imaging:**
+- **CXR 5/29**: Bilateral pulmonary edema, vascular congestion, mild cardiomegaly
+- **Echo 5/29**: LVEF 18%, severe global hypokinesis, no LV thrombus, mild MR
+- **CT Head 5/29**: Old contusion, no acute bleed
+- **Repeat Echo 6/5**: LVEF improved to 28% on Impella support
+
+---
+
+**Problem-Based Assessment & Plan:**
+
+**1. Cardiogenic Shock / Acute CHF Exacerbation**
+   - s/p NSTEMI with persistent shock, LVEF 18%
+   - Required high-dose inotropes/vasopressors; Impella CP placed HD2, significant hemodynamic improvement, weaning vasopressors
+   - Daily echo evaluation, close monitoring of device position/perfusion
+   - Plan: Wean Impella as tolerated, transition to oral HF regimen, consider LVAD/MCS if recovery inadequate
+
+**2. Acute Renal Injury (secondary to shock)**
+   - Peak Cr 2.6, now improved to 1.1
+   - Oliguric initially, now making >0.5 cc/kg/hr
+   - Monitored lytes, replaced K/Mg as needed
+   - Plan: Continue daily labs, avoid nephrotoxins, monitor for recovery
+
+**3. Respiratory Failure / Pulmonary Edema**
+   - Intubated HD1 for hypoxemia, on low vent settings now
+   - Diuresis ongoing, CXR improving
+   - Plan: Wean sedation, SBT qAM, extubate when criteria met
+
+**4. Anemia (chronic, acute on chronic)**
+   - Hgb nadir 10.4, stable, no evidence of active bleeding
+   - Iron studies pending, B12 repleted
+   - Plan: Monitor H/H, transfuse if <8 or symptomatic
+
+**5. Prediabetes / Hyperglycemia**
+   - Glucose fluctuated (85-161), no insulin drip required
+   - Plan: FS q6h, sliding scale, resume PO agents when eating
+
+**6. Ischemic Heart Disease / Hyperlipidemia**
+   - Restarted statin, on dual antiplatelet therapy
+   - Plan: Cardiac rehab, outpatient follow-up, risk factor modification
+
+**7. Recent Acute Bronchitis**
+   - Completed azithromycin, no current respiratory infection
+   - Plan: Monitor for secondary infections
+
+**8. History of Concussion**
+   - CT head negative for acute pathology
+   - No neuro deficits off sedation
+   - Plan: Neuro checks q4h
+
+**9. Delirium Prevention**
+   - Sedation holidays, mobilize as tolerated
+   - Plan: Minimize sedation, reorient, sleep hygiene
+
+**10. VTE Prophylaxis**
+   - On SQ heparin, SCDs
+
+**11. Lines/Devices**
+   - Daily site checks, remove as soon as feasible
+   - Foley d/c when extubated
+
+**12. Disposition/Social**
+   - Will need cardiac rehab, social work to assess needs for home support
+
+---
+
+**Medications (Hospital Day 8):**
+- Norepinephrine (weaning)
+- Dobutamine (weaning)
+- Furosemide IV
+- Clopidogrel 75 mg PO daily
+- Simvastatin 20 mg PO qHS
+- Amlodipine 5 mg PO daily
+- Acetaminophen 325 mg PO PRN
+- Vitamin B12 5 mg/mL IM qmonth
+- Sliding scale insulin
+- Heparin SQ
+
+---
+
+**To Do:**
+- Continue weaning Impella/device eval
+- Reassess for extubation
+- Monitor renal function, lytes
+- Cardiology: LVAD candidacy if poor recovery
+- Social work/discharge planning
+
+---
+
+**Signature:**  
+R. Sanchez, MD  
+Cardiology/Critical Care  
+06/06/2024 13:42
+
+---
+
+**Additional Notes:**  
+- Family updated daily, wife at bedside
+- Awaiting PT/OT evaluation  
+- Palliative care consult placed for goals of care discussion
+
+```

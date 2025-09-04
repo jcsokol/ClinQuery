@@ -1,0 +1,257 @@
+**INPATIENT NOTE**  
+**Patient:** Wonda Gutmann  
+**MRN:** 001928173  
+**DOB:** 08/02/1971 (52 y/o F)  
+**Date of Service:** 2024-05-23  
+**Admitting Service:** Cardiology ICU  
+**Attending:** Dr. J. Lemberg  
+**Consultants:** Pulm/ID, Endocrine  
+**Allergies:** NKDA
+
+---
+
+### CHIEF COMPLAINT
+Shortness of breath, orthopnea, lower extremity edema.
+
+---
+
+### HOSPITAL COURSE SUMMARY (ADMISSION DAY 12)
+
+Ms. Gutmann is a 52-year-old woman with a history of anemia, prediabetes, osteoarthritis, allergic rhinitis, and viral sinusitis, who presented to the ED with 3 days of progressive dyspnea, fatigue, and lower extremity swelling. She was found to be in acute decompensated heart failure, complicated by cardiogenic shock refractory to initial medical therapy. She required ICU admission and placement of a temporary left ventricular assist device (LVAD; Impella CP) on hospital day 2. She has since been weaned off pressors and is being bridged to decision regarding long-term management.
+
+---
+
+### PAST MEDICAL HISTORY
+
+- Perennial allergic rhinitis
+- Prediabetes
+- Anemia (likely chronic, previously iron-deficiency)
+- Osteoarthritis (knee)
+- Viral sinusitis, acute viral pharyngitis (recent)
+- Hyperlipidemia (diagnosed on admission)
+- Heart failure with reduced EF (new, EF 18% on echo)
+
+### PAST SURGICAL HISTORY
+
+- None
+
+### SOCIAL HISTORY
+
+- Lives with husband, works as a bookkeeper.
+- Never smoker, rare alcohol, no illicit drugs.
+- No recent travel.
+- No pets.
+
+### FAMILY HISTORY
+
+- Father: MI age 62, DM2
+- Mother: RA, HTN
+
+### HOME MEDICATIONS
+
+- Fluticasone inhaler 44 mcg, 1 puff BID PRN
+- Albuterol inhaler 90 mcg, PRN
+- Chlorpheniramine 2mg/5ml syrup PRN
+- Naproxen sodium 220 mg PO BID PRN
+
+### ADMISSION VITALS
+
+| Date       | Temp (C) | HR  | BP      | RR | SpO2 | Weight (kg) | Pain |
+|------------|----------|-----|---------|----|------|-------------|------|
+| 5/12/24    | 37.2     | 112 | 88/56   | 22 | 91%  | 81.2        | 7/10 |
+| 5/13/24    | 37.1     | 98  | 102/61  | 18 | 96%  | 80.8        | 5/10 |
+| 5/15/24    | 36.9     | 85  | 110/70  | 16 | 98%  | 80.2        | 3/10 |
+| 5/18/24    | 37.0     | 80  | 116/74  | 14 | 98%  | 80.0        | 2/10 |
+
+---
+
+### LABS
+
+#### CBC & CHEMISTRY
+
+| Date     | WBC   | Hgb  | Hct  | Plts | Na   | K    | Cl   | CO2  | BUN  | Cr   | Gluc | Ca   |
+|----------|-------|------|------|------|------|------|------|------|------|------|------|------|
+| 5/12/24  | 5.2   | 7.8  | 24.5 | 142  | 134  | 5.1  | 102  | 23   | 26   | 1.1  | 119  | 8.3  |
+| 5/13/24  | 4.9   | 8.1  | 25.1 | 158  | 137  | 4.3  | 109  | 25   | 21   | 1.0  | 102  | 8.9  |
+| 5/14/24  | 6.1   | 8.6  | 26.6 | 135  | 138  | 4.0  | 108  | 24   | 18   | 0.9  | 98   |      |
+| 5/15/24  | 5.7   | 9.5  | 29.1 | 180  | 140  | 4.2  | 110  | 25   | 15   | 0.8  | 97   | 9.1  |
+| 5/17/24  | 5.0   | 10.2 | 31.5 | 205  | 141  | 4.1  | 112  | 25   |      | 0.7  | 95   | 9.3  |
+| 5/19/24  | 4.8   | 10.5 | 32.2 | 219  |      | 4.0  | 113  | 26   | 12   | 0.7  | 92   | 9.2  |
+
+_Note: Gaps in data reflect missing blood draws or hemolyzed samples._
+
+#### ADDITIONAL LABS
+
+- **Troponin I:** 0.12 → 0.08 → 0.04 ng/mL (downtrending, not consistent with MI)
+- **BNP:** 3820 pg/mL (admission), 2100 (HD 4), 1200 (HD 10)
+- **LFTs:** Mildly elevated AST/ALT on HD 1-3 (AST 86, ALT 62), normalized by HD 8
+- **Lactate:** 3.8 (HD 1), 1.2 (HD 4)
+- **INR:** 1.1 (no anticoagulation prior to ICU)
+- **TSH:** 1.9
+
+---
+
+### MICROBIOLOGY
+
+- SARS-CoV2 PCR: Negative
+- Blood cultures: Negative x2
+- Respiratory viral panel: Rhinovirus positive (HD -3, prior to admission)
+
+---
+
+### IMAGING
+
+- **CXR:** Bilateral pulmonary edema, mild cardiomegaly (HD 1-4); improved by HD 8
+- **Echo (HD 1):** LVEF 18%, severe global hypokinesis, mild MR, RV mildly reduced, IVC plethoric, PASP 40mmHg
+
+---
+
+### ICU PROCEDURES
+
+- **Impella CP (LVAD, percutaneous):** Placed HD 2 for refractory cardiogenic shock. No immediate complications.
+- **Right heart cath:** RA 11, RV 45/7, PA 45/22, wedge 26, CI 1.7, SVR 2100.
+- **Central line (IJ), arterial line (radial), Foley cath.**
+
+---
+
+### ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock, new HFrEF, s/p temporary LVAD (Impella)**  
+- Acute decompensation, likely viral myocarditis (recent URI symptoms, no CAD on cath)
+- LVAD required due to refractory shock. Now weaning pressors, device still in place HD 12.
+- Echo: EF improved to 28% on HD 11.
+- Plan: Continue device support, daily echo, wean as tolerated. Consideration for long-term device or transplant evaluation if no further improvement.  
+- Monitor for arrhythmias, hemolysis, device-related complications.
+
+**2. Anemia (chronic, multifactorial; acutely worsened by dilution/bleeding?)**  
+- Hgb nadir 7.8, now 10.5. 2 units PRBCs transfused HD 2/3.
+- Iron studies: ferritin 58, Fe 42, TIBC 310, TSat 12%.
+- Plan: Continue iron supplementation, monitor Hgb q48h.
+
+**3. AKI (resolved)**  
+- Creatinine peaked at 1.1, now 0.7; likely pre-renal from low flow.
+- Plan: Monitor urine output, maintain MAP >70, avoid nephrotoxins.
+
+**4. Prediabetes**  
+- Admission A1c 5.8%. Glucose 92-119 during stay.
+- Plan: Monitor glucose, no insulin needed, continue lifestyle counseling.
+
+**5. Perennial allergic rhinitis / chronic sinusitis**  
+- Fluticasone, albuterol, chlorpheniramine as needed.
+- No acute exacerbation, continue home regimen.
+
+**6. Osteoarthritis (knee)**  
+- No acute pain, off NSAIDs during ICU stay (renal/bleeding risk)
+- Plan: Resume naproxen at discharge if renal function stable.
+
+**7. Hyperlipidemia**  
+- Total chol 181, LDL 85, HDL 68, TG 142.
+- Plan: Start atorvastatin 20mg daily.
+
+**8. DVT prophylaxis**  
+- Enoxaparin 40mg SQ daily.  
+- SCDs in place.
+
+**9. Infection prevention**  
+- No evidence of bacterial infection.  
+- Monitor for VAP, CLABSI, CAUTI.
+
+**10. Disposition**  
+- Awaiting further recovery. Will reassess for device wean or bridge to advanced therapies.
+
+---
+
+### MEDICATIONS (INPATIENT)
+
+- Milrinone IV (titrated off HD 10)
+- Furosemide IV 40mg BID → PO
+- Atorvastatin 20mg PO QHS
+- Iron sucrose IV 200mg q48h x3
+- Enoxaparin 40mg SQ daily
+- Fluticasone, albuterol, chlorpheniramine (as above)
+- PRN acetaminophen for fever/pain
+
+---
+
+### ACTIVE ORDERS
+
+- VS q2h, strict I/O, daily weights
+- CBC, Chem7 daily, BNP q3d, troponin qd x3, LFTs q72h
+- Echo daily while on Impella
+- Cardiac telemetry
+
+---
+
+### CONSULTS
+
+- Cardiac surgery (LVAD/Transplant eval, pending)
+- Endocrinology (glycemic management)
+- Physical therapy (mobility, post-ICU weakness)
+
+---
+
+**Attending:** Dr. J. Lemberg  
+**Resident:** M. Anders, MD  
+**Date/Time:** 2024-05-23 08:14
+
+---
+
+**Next steps:**  
+Continue current management, reassess for device wean, monitor for complications. Family updated daily.  
+**Code status:** Full.  
+
+---
+
+**END OF NOTE (PAGE 1/4)**
+
+---
+
+**PAGE 2/4: ICU FLOW SHEET (SELECTED DATA)**
+
+| Date     | MAP  | CVP | UOP (mL/24h) | Lactate | Device Flow (L/min) | Vasopressors | Comments                |
+|----------|------|-----|--------------|---------|---------------------|--------------|-------------------------|
+| 5/12/24  | 62   | 15  | 600          | 3.8     | -                   | Norepi 0.15  | Pre-Impella, shock      |
+| 5/13/24  | 75   | 13  | 1300         | 2.1     | 3.2                 | Norepi 0.05  | Post-Impella, improved  |
+| 5/14/24  | 80   | 12  | 2200         | 1.4     | 3.5                 | Off          | Weaning diuretics       |
+| 5/16/24  | 87   | 10  | 2500         | 1.0     | 3.6                 | Off          | Diuresis ongoing        |
+| 5/19/24  | 92   | 8   | 2800         | 0.9     | 3.2                 | Off          | Stable, off pressors    |
+
+---
+
+**PAGE 3/4: CARDIAC IMAGING/ECHO SUMMARY**
+
+- **HD 1 (5/12):**  
+  LVEF 18%, severe diffuse hypokinesis, mild MR, RV mild dysfunction.  
+  LVEDD 6.2cm, LA dilated.  
+  No pericardial effusion.  
+  TAPSE 1.7cm.
+
+- **HD 4 (5/15):**  
+  LVEF 21%, improved wall motion, persistent mild MR.  
+  IVC 2.4cm, <50% collapse.
+
+- **HD 11 (5/22):**  
+  LVEF 28%, moderate global dysfunction, MR trace, RV function improved.  
+  LVEDD 5.5cm.  
+  No new findings.
+
+**Device position confirmed on TTE and CXR. No device migration or thrombus.**
+
+---
+
+**PAGE 4/4: DISCHARGE PLANNING / FOLLOW-UP**
+
+- **Physical therapy:** Begun HD 9, tolerating OOB to chair, walking with assistance.
+- **Nutrition:** High-protein, low-salt, diabetic diet.
+- **Education:** HF self-management, device care.
+- **Family meetings:** Daily, advanced therapies discussion ongoing.
+- **Anticipated needs:** Home health, outpatient cardiac rehab.
+
+**Follow-up:**  
+- Cardiology (LVAD/Transplant) clinic in 1 week  
+- Labs: CBC, Chem7, BNP, LFTs in 1 week  
+- PT/OT at home
+
+---
+
+**END OF NOTE**

@@ -1,0 +1,196 @@
+---
+**Patient Name:** Jeremiah Rodriguez  
+**MRN:** 0012345678  
+**DOB:** 03/31/1914  
+**Sex:** Male  
+**Admit Date:** 06/01/2024  
+**Attending:** Dr. J. Smith  
+**Service:** Cardiology ICU  
+**Location:** 8E ICU, Rm 823-B
+
+---
+
+# ICU ADMISSION NOTE
+
+## CHIEF COMPLAINT
+Progressive shortness of breath, orthopnea, and lower extremity edema for 2 weeks. Presented to ED after syncopal episode at home.
+
+---
+
+## HISTORY OF PRESENT ILLNESS
+Jeremiah Rodriguez is a 110-year-old male with a past medical history significant for chronic congestive heart failure (CHF) with reduced ejection fraction (last known EF 43%), hypertension, obesity (BMI 30+), prediabetes, anemia, prostate neoplasm (carcinoma in situ), history of stroke, chronic sinusitis, and significant alcohol use. He presented with worsening dyspnea on exertion, paroxysmal nocturnal dyspnea, and peripheral edema. Family reports decreased oral intake and confusion. In the ED, he had hypotension (SBP 78 mmHg), tachycardia, and hypoxia requiring 2L O2 via nasal cannula. Initial labs notable for elevated NT-proBNP, mild acute kidney injury, and anemia.
+
+He was admitted to the ICU for cardiogenic shock secondary to acute-on-chronic decompensated heart failure. Due to persistent hypotension and end-organ hypoperfusion despite maximal medical therapy, a percutaneous left ventricular assist device (Impella CP) was placed on HD2.
+
+---
+
+## PAST MEDICAL HISTORY  
+- CHF (EF 43%)  
+- Hypertension  
+- Obesity (BMI ~30)  
+- Prediabetes  
+- Anemia  
+- Alcoholism  
+- Prostate carcinoma in situ  
+- Chronic/acute sinusitis, bronchitis  
+- Prior stroke (non-hemorrhagic)
+
+## PAST SURGICAL HISTORY  
+- TURP (2015)  
+- Appendectomy (childhood)
+
+## MEDICATIONS ON ADMISSION  
+- HCTZ 25 mg PO daily  
+- Metoprolol succinate 100 mg PO daily  
+- Furosemide 40 mg PO/IV  
+- Acetaminophen 325 mg PO PRN  
+- Clopidogrel 75 mg PO daily  
+- Leuprolide injections  
+- Docetaxel IV (onc pending)  
+- Amox/Clav 250/125 mg PO BID  
+- Alteplase PRN (stroke protocol)
+
+## ALLERGIES  
+No known drug allergies.
+
+## SOCIAL HISTORY  
+- Former smoker, quit 1972  
+- Alcohol: 2-3 drinks/day  
+- Lives with daughter  
+- Retired, limited mobility
+
+## FAMILY HISTORY  
+- Father: MI age 58  
+- Mother: CHF, DM2
+
+---
+
+## ICU COURSE SUMMARY (HD1–HD8)
+
+- **HD1 (Admit):** Hypotensive (SBP 78/40 mmHg), cold/clammy, JVD, bibasilar crackles, 2+ pitting edema. CXR: pulmonary edema. Echo: EF 38%, LV dilation, moderate MR. Started on norepinephrine, dobutamine.  
+- **HD2:** No improvement in MAP or urine output. Lactate rising (2.8 → 3.5 mmol/L). Impella CP placed without complications. MAP improved to 65–70 mmHg, weaned pressors over 24h. Started on IV Lasix.  
+- **HD3–HD5:** Gradual improvement. Diuresed 3.2L net negative. Creatinine peaked at 2.1, then improved. Anemia worsened, transfused 1U PRBCs HD4. No bleeding.  
+- **HD6:** Weaned from Impella, explanted at bedside (vascular closure device).  
+- **HD7–HD8:** Stable, transitioned to oral diuretics. Transferred to step-down unit. Awaiting disposition.
+
+---
+
+# PHYSICAL EXAM (HD3)
+
+| VITAL SIGN            | VALUE         |
+|-----------------------|--------------|
+| Temp                  | 37.2°C       |
+| BP                    | 102/66 mmHg  |
+| HR                    | 87 bpm       |
+| RR                    | 18           |
+| O2 Sat                | 96% (2L NC)  |
+| Weight                | 75.4 kg      |
+| Height                | 165.8 cm     |
+
+**General:** Elderly male, NAD, alert, oriented x2 (mild confusion improving).  
+**HEENT:** Pale conjunctiva, no scleral icterus, oropharynx clear.  
+**CV:** S3 present, elevated JVP, regular rhythm, no murmurs.  
+**Resp:** Bibasilar crackles, no increased WOB.  
+**Abd:** Soft, NT/ND, mild hepatomegaly.  
+**Ext:** 2+ pitting edema BLE, no DVT.  
+**Neuro:** Nonfocal, mild confusion, baseline per family.  
+**Skin:** No rashes, pressure areas intact.
+
+---
+
+# PROBLEM-BASED ASSESSMENT & PLAN
+
+## 1. Cardiogenic Shock, Acute-on-Chronic Systolic CHF (EF 39%)
+- Impella CP placed for refractory shock; improved perfusion.
+- Now off pressors/inotropes, euvolemic.
+- Continue guideline-directed medical therapy (GDMT): beta-blocker, ACEi/ARB (consider if renal fxn stable), diuretics.
+- Daily weights, strict I/O, monitor for arrhythmia.
+- Cardiology f/u, echo planned.
+
+## 2. Acute Kidney Injury (on CKD 3)
+- Likely ischemic ATN, improved with restoration of perfusion and diuresis.
+- Monitor renal panel BID.
+- Avoid nephrotoxins, adjust meds for GFR.
+
+## 3. Anemia (Hgb nadir 8.2, baseline ~13)
+- Transfused 1U PRBCs HD4.
+- No evidence of bleeding, likely multifactorial (chronic dz, dilutional, chemo).
+- Monitor CBC qAM.
+
+## 4. Hypertension
+- Hold HCTZ during AKI, resume if BP stable and euvolemic.
+- Continue metoprolol, titrate as tolerated.
+
+## 5. Prostate CA (c/s, on leuprolide/docetaxel)
+- Oncology f/u; no active issues during ICU stay.
+- Continue leuprolide, hold chemo until stabilized.
+
+## 6. Alcohol Use Disorder
+- CIWA protocol on admission, no withdrawal.
+- Social work consult; thiamine, folate supplementation.
+
+## 7. Stroke (remote)
+- Remains at baseline. No new focal deficits.
+- Continue secondary prevention (statin, antiplatelet).
+
+## 8. Sinusitis/Bronchitis
+- Treated with amox/clav for 5 days (HD1–5), improved.
+- No fevers, WBC normalized.
+
+## 9. Prediabetes, Obesity
+- Sliding scale insulin, monitor glucose.
+- Nutrition consult, low-salt, cardiac diet.
+
+## 10. DVT Prophylaxis
+- SCDs, low-dose heparin SC.
+
+---
+
+# LABS
+
+**Selected CBC, Chem7, Cardiac, and Hepatic Panels (HD1–HD7)**
+
+| Date | WBC (K) | Hgb (g/dL) | Plt (K) | Na | K | Cl | CO2 | BUN | Cr | Glu | Ca | AST | ALT | ALP | Bili | NT-proBNP | Troponin |
+|------|---------|------------|---------|----|---|----|-----|-----|----|-----|----|-----|-----|-----|------|-----------|----------|
+|HD1   | 4.1     | 13.8       | 368     | 140|4.3|102 | 28  | 16  |0.64| 67  |9.1 | 9   |27   |92   |0.8   | 475       | 0.04     |
+|HD2   | 3.7     | 12.1       | 322     | 138|4.2|101 | 27  | 21  |1.8 | 92  |8.7 | 12  |24   |88   |0.7   | 7830      | 0.06     |
+|HD3   | 3.9     | 10.3       | 290     | 135|4.0|100 | 25  | 28  |2.1 | 104 |8.5 | 14  |19   |80   |0.9   | 8390      | 0.08     |
+|HD4   | 3.5     | 8.2        | 285     | 137|4.0| 99 | 26  | 25  |1.7 | 112 |8.6 | 10  |21   |84   |0.6   | 6200      | <0.01    |
+|HD5   | 4.6     | 9.6        | 320     | 136|4.2|103 | 29  | 19  |1.3 | 110 |9.3 | 11  |18   |90   |0.7   | 5700      | <0.01    |
+|HD6   | 5.0     | 10.7       | 347     | 138|4.4|104 | 28  | 18  |1.1 | 98  |9.0 | --  |--   |--   |--    | 4100      | <0.01    |
+|HD7   | --      | 11.2       | 362     | 139|4.3|103 | 28  | 17  |0.9 | 96  |8.8 | --  |--   |--   |--    | 3200      | <0.01    |
+
+- **GFR nadir:** 20 mL/min/1.73m² (HD3)
+- **LFTs:** Mildly elevated AST/ALT on HD1–4, normalized after HD5.
+- **NT-proBNP:** Peaked at 8390 pg/mL (HD3), now trending down.
+- **Trop:** No dynamic changes, ruling out acute MI.
+
+---
+
+# IMAGING  
+- **CXR (HD1):** Cardiomegaly, interstitial edema, mild pleural effusions.  
+- **Echo (HD1):** EF 38%, moderate MR, dilated LV, mild RV dysfunction.
+
+---
+
+# CONSULTS  
+- **Cardiology**: Daily.  
+- **Nephrology**: AKI management, Impella candidacy.  
+- **Oncology**: Recommendations re: prostate CA therapy.  
+- **Nutrition, SW, PT/OT**: Ongoing.
+
+---
+
+# DISPOSITION
+- Plan for transfer to step-down unit, pending stable hemodynamics and continued improvement in renal function.  
+- Anticipate discharge to subacute rehab.  
+- Advance directives discussed (DNR/DNI, comfort measures only if recurrent refractory shock).
+
+---
+
+# SIGNED  
+Dr. J. Smith, MD  
+Cardiology ICU  
+06/08/2024 11:45
+
+---

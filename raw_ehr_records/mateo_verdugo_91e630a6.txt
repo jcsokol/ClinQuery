@@ -1,0 +1,235 @@
+---
+**Patient Name:** Mateo Verdugo  
+**MRN:** 00548237  
+**DOB:** 11/17/1963 (60 yo)  
+**Sex:** Male  
+**Date of Admission:** 03/18/2024  
+**Date of Discharge:** 03/29/2024  
+**Admitting Service:** Cardiology ICU  
+**Attending:** Dr. Janice Liu  
+**Consults:** Endocrinology, Hematology, Oncology, General Surgery  
+**Allergies:** NKDA  
+**Code Status:** Full Code  
+**Isolation:** None  
+**Language:** English  
+**Height:** 166 cm  
+**Weight:** 81 kg  
+**BMI:** 29.2 kg/m2  
+
+---
+
+## CHIEF COMPLAINT
+Progressive shortness of breath, chest pressure, and fatigue x 1 week. Presented to ED with acute decompensated heart failure and hypotension.
+
+---
+
+## HISTORY OF PRESENT ILLNESS
+
+Mateo Verdugo is a 60-year-old male with a past medical history of obesity, hypertension, type 2 diabetes, metabolic syndrome, anemia, colon cancer s/p resection, and diabetic retinopathy who presented to the ED after several days of progressive SOB, orthopnea, and new-onset chest pressure. On arrival, he was found to be hypotensive (SBP 78 mmHg), tachycardic, and hypoxic. CXR showed pulmonary edema. Echo revealed severe global LV dysfunction (EF 18%). Troponin mildly elevated, no acute ECG changes. He developed worsening cardiogenic shock despite high-dose inotropes and was transferred to the CCU.
+
+Given refractory shock, a temporary left ventricular assist device (Impella CP) was placed on hospital day 1. Course complicated by AKI, fluctuating mentation, and anemia requiring transfusion. Oncology consulted for h/o colon cancer; no evidence of recurrent disease.
+
+---
+
+## HOSPITAL COURSE
+
+- **Day 1:** Admitted to CCU. Impella placed for cardiogenic shock. Started on norepinephrine, dobutamine, lasix drip, broad-spectrum antibiotics for possible pneumonia (fever 38.2°C, CXR opacities).
+- **Day 2:** Improved MAPs. Weaned from norepinephrine. Lactate normalizing. Developed hemoglobin drop (from 10.4 → 7.2); transfused 2U PRBC. CT angio: No active bleed. Renal function stable.
+- **Day 3-6:** Gradual improvement. Impella flows stable (3.2-3.8 L/min). Extubated on day 4. Diuresis continued. Worsening hyperglycemia, managed with insulin drip. Mild transaminitis noted.
+- **Day 7:** Impella weaned off and removed. Echo: EF improved to 30%. Renal function recovered. Began transition to oral heart failure regimen.
+- **Day 8-11:** Transferred to stepdown. Mobilization, physical therapy. Glycemic control improved. Discharged home with close cardiology and oncology follow-up.
+
+---
+
+## PAST MEDICAL HISTORY
+
+- Obesity (BMI 29-33)
+- Hypertension
+- Type 2 diabetes mellitus, poorly controlled
+- Hypertriglyceridemia
+- Metabolic syndrome
+- Anemia of chronic disease
+- Diabetic retinopathy
+- Colon polyp, h/o stage II colon cancer (s/p resection 2022)
+- Viral sinusitis (remote)
+- Acute bronchitis (remote)
+- Hand laceration (remote)
+
+## PAST SURGICAL HISTORY
+
+- Colon resection (2022, for malignant polyp)
+- Cholecystectomy (2015)
+
+## FAMILY HISTORY
+
+- Mother: T2DM, deceased (MI age 72)
+- Father: Colon cancer, HTN
+
+## SOCIAL HISTORY
+
+- Never smoker
+- Occasional alcohol use
+- No illicit drugs
+- Lives with wife, retired
+
+## HOME MEDICATIONS
+
+- Metformin XR 500 mg qAM
+- HCTZ 12.5 mg qAM
+- Ibuprofen 200 mg prn
+- Acetaminophen 325 mg prn
+- Leucovorin 100 mg IV (oncology, not home med)
+- Oxaliplatin 5 mg/mL IV (oncology, not home med)
+
+---
+
+# PHYSICAL EXAM (on admission)
+
+| Vitals      | Value                  |
+|-------------|------------------------|
+| Temp        | 37.9°C                 |
+| HR          | 112 bpm                |
+| BP          | 78/52 mmHg             |
+| RR          | 26                     |
+| SpO2        | 92% (2L NC)            |
+| Weight      | 81 kg                  |
+| Height      | 166 cm                 |
+
+**General:** Obese male, in mild distress, diaphoretic  
+**HEENT:** No JVD, oropharynx clear  
+**Lungs:** Crackles at bases, decreased breath sounds LLL  
+**CV:** Tachycardic, S3, no murmur  
+**Abd:** Obese, soft, nontender, healed midline scar  
+**Ext:** No edema, pulses 2+  
+**Neuro:** Alert, AOx3 (later fluctuated)  
+**Skin:** No rash, chronic hand scars
+
+---
+
+# LABS
+
+### CBC, CHEM7, LIVER PANEL (Selected, see chart for full results)
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | AST  | ALT  | Alk Phos | T. bili |
+|------------|------|------|------|------|------|------|------|------|------|------|------|------|----------|---------|
+| 3/18/24 AM | 8.1  | 10.4 | 31.1 | 271  | 138  | 4.2  | 108  | 25   | 19   | 1.2  | 22   | 35   | 110      | 0.5     |
+| 3/19/24 AM | 11.7 | 7.2  | 22.3 | 244  | 139  | 4.6  | 111  | 23   | 28   | 1.6  | 32   | 57   | 134      | 1.1     |
+| 3/20/24 AM | 9.4  | 8.8  | 27.3 | 292  | 140  | 4.5  | 112  | 24   | 22   | 1.4  | 26   | 48   | 138      | 0.9     |
+| 3/22/24 AM | 7.2  | 9.8  | 29.4 | 309  | 141  | 3.9  | 110  | 27   | 18   | 1.1  | 19   | 28   | 120      | 0.7     |
+| 3/25/24 AM | 6.6  | 11.2 | 33.6 | 298  | 139  | 4.0  | 109  | 26   | 15   | 1.0  | 17   | 22   | 106      | 0.5     |
+| 3/27/24 AM | 5.9  | 11.7 | 34.1 | 320  | 138  | 4.2  | 108  | --   | 13   | 0.9  | --   | 19   | 101      | 0.4     |
+
+#### Other labs:
+- **Troponin T (3/18):** 0.07 ng/mL (slightly ↑, likely demand)
+- **NT-proBNP (3/18):** 18,900 pg/mL (markedly ↑)
+- **Lactate (3/18):** 4.2 mmol/L (normalized by 3/20)
+- **A1c (on admission):** 7.8%
+- **TSH (3/20):** 2.1 uIU/mL
+- **LDH (3/19):** 310 U/L
+- **Urine microalbumin/Cr:** 3.3 mg/g
+
+---
+
+# IMAGING
+
+- **CXR (3/18):** Bilateral pulmonary edema, small left pleural effusion
+- **Echo (3/18):** EF 18%, global LV hypokinesis, mild MR, RV mildy reduced, no tamponade
+- **Echo (3/24):** EF 30%, improved
+- **CT angio chest/abd (3/19):** No active bleed, mild hepatic steatosis, post-surgical colon changes
+
+---
+
+# PROCEDURES
+
+- **Impella CP placement (3/18, R femoral)**
+- **Central line, arterial line**
+- **2U PRBC transfused (3/19)**
+- **Impella removal (3/25)**
+
+---
+
+# PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. **Cardiogenic Shock (now resolved)**
+- Severe acute decompensated HF, likely on background of chronic metabolic syndrome
+- Managed with inotropes, vasopressors, Impella LVAD for 7 days
+- Off pressors, Impella explanted, now stable on PO regimen
+- Plan: Continue GDMT (carvedilol, sacubitril/valsartan, dapagliflozin, spironolactone), f/u heart failure clinic. Consider advanced therapies if recurrent.
+
+### 2. **Type 2 Diabetes Mellitus**
+- Poorly controlled on admission (A1c 7.8%), stress hyperglycemia during ICU course
+- On insulin drip in ICU, transitioned back to metformin + basal insulin
+- Plan: Endocrine f/u, continue home regimen, reinforce DM education
+
+### 3. **Anemia**
+- Multifactorial: chronic disease, acute blood loss (iatrogenic, possible GI), dilutional
+- Hgb nadir 7.2 (3/19), transfused 2U PRBC, now stable >11
+- Plan: Monitor, avoid further phlebotomy, iron studies outpatient
+
+### 4. **Colon Cancer (history of)**
+- No evidence of recurrence on recent CT
+- Follow-up with oncology as outpatient
+
+### 5. **Hypertension**
+- Poorly controlled prior, now on carvedilol, sacubitril/valsartan
+- Plan: Monitor, titrate as tolerated, avoid hypotension
+
+### 6. **CKD Stage 2 (transient AKI)**
+- Creatinine peaked at 1.6, now improved to 0.9
+- Plan: Monitor, avoid nephrotoxins
+
+### 7. **Obesity / Metabolic Syndrome**
+- BMI 29, ongoing risk for CV events
+- Plan: Nutrition consult, weight loss counseling, cardiac rehab referral
+
+### 8. **Diabetic Retinopathy**
+- Stable, no acute changes
+- Plan: Continue annual eye exams
+
+### 9. **Hypertriglyceridemia**
+- Triglycerides 185 mg/dL on admission
+- Plan: Resume statin/fibrate outpatient
+
+### 10. **Viral Sinusitis / Acute Bronchitis (remote)**
+- No active infection now
+- Plan: PRN management
+
+### 11. **Hand Laceration (remote)**
+- Healed, no acute issue
+
+---
+
+# DISCHARGE MEDICATIONS
+
+- Metformin XR 500 mg daily
+- Carvedilol 3.125 mg BID
+- Sacubitril/valsartan 24/26 mg BID
+- Spironolactone 25 mg daily
+- Dapagliflozin 10 mg daily
+- Furosemide 20 mg BID
+- Basal insulin 10 U qHS
+- Atorvastatin 40 mg qHS
+- ASA 81 mg daily
+- Acetaminophen 325 mg prn
+- Ibuprofen 200 mg prn
+
+---
+
+# DISPOSITION / FOLLOW-UP
+
+- Discharged home in stable condition
+- Outpatient follow-up in 1 week: Cardiology, Oncology, Endocrinology, PCP
+- Cardiac rehab referral placed
+- Heart failure education reviewed
+- Return precautions discussed
+
+---
+
+# SIGNED BY:
+Dr. Janice Liu, MD  
+Cardiology ICU  
+03/29/2024
+
+---
+
+**(Additional pages: see scanned nursing flowsheets, PT/OT notes, dietary consults, and medication administration record in chart review.)**

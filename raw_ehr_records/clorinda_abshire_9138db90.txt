@@ -1,0 +1,181 @@
+---
+**Patient Name:** Clorinda Abshire  
+**MRN:** 00438291  
+**DOB:** 1927-01-04 (Age: 97)  
+**Sex:** Female  
+**Attending:** Dr. M. Rios  
+**Admit Date:** 2024-05-26  
+**Service:** ICU/Cardiology  
+**Allergies:** NKDA  
+
+---
+
+**ADMISSION SUMMARY**  
+Clorinda Abshire is a 97-year-old female with a history of atrial fibrillation (on warfarin), obesity (BMI ~30), chronic sinusitis, prior miscarriage, impacted molars, and remote ankle sprain, who presented to the ED with acute onset dyspnea, orthopnea, and lower extremity edema. She was found to be in rapid AFib with RVR, hypotensive, and in acute decompensated heart failure with evidence of cardiogenic shock. She required ICU admission and placement of a temporary left-sided ventricular assist device (Impella CP) for hemodynamic support.  
+
+---
+
+**HOSPITAL COURSE SUMMARY**  
+Day 1:  
+- Presented with severe SOB, O2 sat 85% RA, BP 80/52, HR 142 (irregular), RR 28, T 36.9°C  
+- CXR: Pulmonary edema, mild cardiomegaly  
+- BNP 2010 pg/mL, Troponin I 0.09 ng/mL (borderline), Creatinine 1.6 mg/dL (baseline 1.0)  
+- Echo: EF 18%, global hypokinesis, moderate MR  
+- Started on dobutamine, norepinephrine, IV diuresis  
+- Warfarin held, started on heparin drip  
+- Emergent Impella CP placed via right femoral artery  
+
+Day 2-4:  
+- Gradual improvement in MAP and urine output  
+- Remained intubated and sedated for 24h, extubated POD#2  
+- Developed mild AKI, LFTs peaked but trended down  
+- Low-grade fever (Tmax 37.8°C) on day 3, blood cx negative  
+- Impella weaning trial on day 4  
+
+Day 5-7:  
+- Impella explanted POD#5  
+- Transitioned to oral HF meds (carvedilol, spironolactone, lasix)  
+- AFib rate controlled on verapamil and digoxin  
+- Warfarin resumed after INR normalized  
+- Mobilized with PT, mild delirium (resolved)  
+
+---
+
+**PROBLEM-BASED ASSESSMENT & PLAN**
+
+**1. Cardiogenic Shock / Decompensated Heart Failure**  
+**Assessment:**  
+- Acute on chronic systolic HF (EF 18%, likely ischemic/non-ischemic mixed) with volume overload and end-organ hypoperfusion.
+- Required mechanical circulatory support (Impella).
+- Improved after diuresis and inotropes.
+
+**Plan:**  
+- Continue guideline-directed medical therapy (GDMT): carvedilol, spironolactone, lasix, sacubitril/valsartan (if tolerated)
+- Monitor volume status, daily weights, strict I/O
+- Repeat echo prior to discharge
+- Cardiology f/u 1 week post-discharge
+
+**2. Atrial Fibrillation (Chronic, with RVR on admission)**  
+**Assessment:**  
+- Hx of paroxysmal AF, anticoagulated.  
+- RVR on admission precipitated decompensation.
+
+**Plan:**  
+- Continue rate control: verapamil, digoxin  
+- Resume warfarin (goal INR 2-3), bridge with LMWH until INR therapeutic  
+- Telemetry monitoring  
+- Consider rhythm control if recurrent rapid AF
+
+**3. Acute Kidney Injury (AKI) on CKD**  
+**Assessment:**  
+- Likely multifactorial: hypoperfusion, diuretics, contrast.  
+- Creatinine peaked at 2.0, now trending down (last 1.2 mg/dL)
+
+**Plan:**  
+- Monitor renal function daily  
+- Avoid nephrotoxins  
+- Adjust HF meds as needed
+
+**4. Obesity (BMI 30)**  
+**Plan:**  
+- Low sodium, calorie-controlled diet  
+- PT/OT for mobility  
+- Outpt nutrition referral
+
+**5. Anticoagulation Management**  
+**Assessment:**  
+- Warfarin held on admission due to risk of bleeding with Impella, transitioned to heparin drip  
+- No evidence of major bleeding
+
+**Plan:**  
+- Resume warfarin, bridge with LMWH until INR >2  
+- Daily CBC, monitor for GI or access site bleeding
+
+**6. Delirium (Resolved)**  
+**Plan:**  
+- Non-pharm interventions  
+- Sleep/wake cycle normalization  
+- Reorient, minimize nighttime disturbances
+
+**7. Chronic Sinusitis**  
+**Plan:**  
+- Continue supportive care  
+- Nasal saline PRN  
+- ENT f/u as outpatient
+
+**8. Dental (Impacted molars)**  
+**Plan:**  
+- No acute issues; outpatient dental follow-up
+
+**9. History of miscarriage, remote ankle sprain**  
+**Plan:**  
+- No acute issues
+
+---
+
+**LAB RESULTS**  
+*Note: Not all labs available at every time point*
+
+| Lab              | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 | Day 6 | Day 7 |
+|------------------|-------|-------|-------|-------|-------|-------|-------|
+| WBC (10^3/uL)    | 7.2   | 6.5   | 7.0   | 6.9   | 7.1   | 6.8   |       |
+| Hgb (g/dL)       | 13.1  | 12.6  | 12.4  | 12.7  | 12.9  | 13.0  | 13.2  |
+| Hct (%)          | 40.7  | 39.8  | 38.9  | 41.2  | 41.9  | 42.1  | 41.7  |
+| Plt (10^3/uL)    | 211   | 190   | 183   | 209   | 215   | 225   | 222   |
+| Na (mmol/L)      | 138   | 136   | 135   | 139   | 140   | 141   | 140   |
+| K (mmol/L)       | 4.0   | 3.5   | 4.2   | 4.1   | 4.0   | 3.9   |       |
+| Cl (mmol/L)      | 102   | 104   | 103   | 102   | 101   | 103   | 102   |
+| HCO3 (mmol/L)    | 25    | 23    | 21    | 24    | 25    | 25    |       |
+| BUN (mg/dL)      | 34    | 36    | 28    | 22    | 19    | 18    | 17    |
+| Cr (mg/dL)       | 1.6   | 1.9   | 2.0   | 1.4   | 1.2   | 1.1   | 1.1   |
+| Glucose (mg/dL)  | 110   | 102   | 99    | 98    | 101   |       | 99    |
+| AST (U/L)        | 42    | 61    | 55    | 38    | 28    |       |       |
+| ALT (U/L)        | 33    | 48    | 41    | 27    | 23    |       |       |
+| Alk Phos (U/L)   | 105   | 111   | 108   | 102   | 98    |       |       |
+| INR              | 3.1   | 2.4   | 1.8   | 2.2   | 2.0   | 2.2   | 2.1   |
+| Troponin I (ng/mL)| 0.09  | 0.07  | 0.04  | <0.01 |       |       |       |
+| BNP (pg/mL)      | 2010  | 1930  | 1720  | 1400  | 1100  |       | 900   |
+
+---
+
+**HOSPITAL MEDICATIONS**  
+- Dobutamine IV (days 1-3, then off)  
+- Norepinephrine IV (days 1-2, titrated off)  
+- Furosemide IV/PO  
+- Carvedilol PO  
+- Spironolactone PO  
+- Sacubitril/valsartan PO (started day 6)  
+- Heparin drip (days 1-5), transitioned back to warfarin PO  
+- Verapamil, Digoxin  
+- Acetaminophen, Ibuprofen PRN  
+- Pantoprazole  
+- DVT prophylaxis: SCDs, LMWH (while off warfarin)
+
+---
+
+**VITALS SUMMARY**  
+| Date   | T (°C) | HR   | BP         | RR | O2Sat | Weight (kg) |
+|--------|--------|------|------------|----|-------|-------------|
+| Day 1  | 36.9   | 142  | 80/52      | 28 | 85%   | 74.1        |
+| Day 2  | 37.1   | 110  | 95/61      | 22 | 92%   | 73.2        |
+| Day 3  | 37.8   | 92   | 102/64     | 18 | 96%   | 72.6        |
+| Day 4  | 36.7   | 86   | 110/70     | 16 | 97%   | 72.0        |
+| Day 5  | 36.8   | 80   | 114/74     | 16 | 98%   | 71.7        |
+| Day 6  | 36.6   | 74   | 120/78     | 15 | 98%   | 71.4        |
+| Day 7  | 36.7   | 70   | 118/80     | 15 | 98%   | 71.2        |
+
+---
+
+**DISCHARGE PLAN**  
+- To SNF, then home with family  
+- Cardiology, anticoagulation clinic, PCP, ENT, dental f/u  
+- LifeVest recommended pending further LVEF assessment  
+- Med reconciliation completed  
+- Return precautions reviewed  
+
+---
+
+**Physician:** M. Rios, MD  
+**Date/Time:** 2024-06-02 10:43
+
+---

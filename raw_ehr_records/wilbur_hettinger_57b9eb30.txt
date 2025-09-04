@@ -1,0 +1,215 @@
+---
+**Epic EHR – Inpatient Progress Note**
+
+**Patient Name:** Wilbur Hettinger  
+**MRN:** 004189273  
+**DOB:** 03/22/1958  
+**Sex:** Male  
+**Admit Date:** 06/01/2024  
+**Attending:** Dr. S. Ghosh  
+**Consults:** Cardiology, Cardiothoracic Surgery, Oncology  
+**Service:** MICU  
+**Allergies:** NKDA  
+
+---
+
+### CHIEF COMPLAINT
+Shortness of breath, chest pain, generalized weakness
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+Wilbur Hettinger is a 66-year-old male with past medical history significant for non-small cell lung cancer (stage 1, on cisplatin/paclitaxel), chronic and viral sinusitis, seizure disorder (single prior event), prediabetes, and anemia. He was admitted from the oncology clinic after reporting two days of progressive dyspnea, orthopnea, increased fatigue, and intermittent chest discomfort. He became acutely hypoxic and hypotensive in the ED, requiring urgent transfer to the MICU.
+
+On arrival to the ICU, Wilbur developed worsening respiratory distress and hypotension refractory to fluids and vasopressors. Bedside TTE demonstrated severe global LV dysfunction (EF ~15%), new compared to prior echo (EF 55% two months ago). Cardiology was consulted and the patient was emergently cannulated for percutaneous left ventricular assist device (Impella CP) support for presumed cardiogenic shock, likely secondary to acute myocarditis vs. ischemic insult (possibly chemotherapy-associated). 
+
+Course complicated by acute renal failure, anemia, and transaminitis. Oncology, nephrology, and infectious disease have been involved.
+
+---
+
+### PAST MEDICAL HISTORY
+- Non-small cell carcinoma of lung, TNM stage 1
+- Seizure disorder (single episode, 2018)
+- Chronic sinusitis, viral sinusitis
+- Acute bronchitis, viral pharyngitis
+- Anemia (baseline Hgb 11–12)
+- Prediabetes
+
+### PAST SURGICAL HISTORY
+- None significant
+
+### FAMILY HISTORY
+- Father: MI at 68, DM2
+- Mother: breast ca, deceased
+
+### SOCIAL HISTORY
+- Tobacco: Former smoker (quit 2019, 40 pack-years)
+- Alcohol: Social
+- Drugs: Denies
+- Living with spouse, retired machinist
+
+---
+
+### MEDICATIONS (Pre-admission)
+- Cisplatin/Paclitaxel (q3wk, last 10d ago)
+- Acetaminophen 325 mg PO PRN
+- Amox/Clav 250/125 mg PO BID x7d (recent bronchitis)
+- Multivitamin
+- No home cardiac meds
+
+---
+
+### VITAL SIGNS (Selected)
+| Date/Time        | Temp (°C) | HR   | BP         | RR   | SpO2 | Pain |
+|------------------|-----------|------|------------|------|------|------|
+| 06/01/24 17:45   | 37.4      | 112  | 82/48      | 28   | 92%  | 8    |
+| 06/02/24 07:00   | 37.8      | 108  | 98/54 (on norepi) | 22   | 95%  | 6    |
+| 06/03/24 07:05   | 37.3      | 98   | 104/60     | 20   | 96%  | 4    |
+| 06/04/24 07:00   | 37.1      | 86   | 116/66     | 16   | 97%  | 2    |
+
+---
+
+### ICU HOSPITAL COURSE SUMMARY
+
+**Day 0:**  
+- Admitted MICU, acute hypoxemic respiratory failure (O2 via NRB), hypotension
+- Labs: lactic acidosis, AKI, mild transaminitis, anemia
+- CXR: mild pulmonary edema, no consolidation
+- Echo: severe new LV dysfunction; EF 15%
+- Initiated norepinephrine, dobutamine; minimal response
+- Emergency Impella CP (left-sided) placed at bedside by CT surgery  
+- Started on broad-spectrum abx (vanc, cefepime) pending cultures
+
+**Day 1–2:**  
+- Hemodynamics improved with Impella + pressors
+- Renal function worsened; urine output <0.3 ml/kg/hr x 8hr
+- Developed confusion, mild myoclonus (no overt seizures)
+- Oncology: held chemo, concern for cardiac toxicity
+- Cardiac markers: troponin I mildly elevated, BNP >2000
+
+**Day 3–4:**  
+- Gradual improvement in perfusion, weaned off vasopressors
+- Impella weaned, decannulated on day 4 after echo showed EF up to 35%
+- Persistent AKI (Cr peaked 3.4, downtrending to 2.1)
+- Transaminitis resolving, LFTs improved
+- Off broad abx (cultures negative)
+
+---
+
+## REVIEW OF SYSTEMS (on day of note)
+- **General:** Fatigue, no fevers, improved appetite
+- **CV:** No new CP, palpitations, orthopnea improving
+- **Resp:** No hemoptysis, mild nonproductive cough
+- **GI:** Mild nausea, no vomiting, no diarrhea
+- **GU:** Oliguria improving
+- **Neuro:** No new seizures, mild confusion resolved
+
+---
+
+## PHYSICAL EXAM
+
+- **General:** Appears fatigued, no acute distress
+- **HEENT:** Oropharynx clear, mild sinus tenderness
+- **CV:** S1/S2, soft S3, no murmurs/rubs
+- **Lungs:** Bibasilar crackles, improving
+- **Abd:** Soft, NT, no HSM
+- **Ext:** No edema, pulses 2+
+- **Neuro:** Alert, oriented x3, no focal deficits
+
+---
+
+## LABS
+
+**CBC, CHEM 7, Cardiac Markers, LFTs, Others**
+
+| Date        | WBC    | Hgb   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Ca   | Glu  | Troponin I | AST   | ALT   | Alk Phos | Alb   | Bili T | GFR   |
+|-------------|--------|-------|-------|------|------|------|------|------|------|------|------|------------|-------|-------|----------|-------|--------|-------|
+| 6/1         | 8.9    | 12.3  | 389   | 136  | 5.0  | 105  | 21   | 10   | 2.65 | 9.4  | 99   | 0.12       | 36    | 11    | 42       | 4.7   | 0.16   | 18    |
+| 6/2         | 7.4    | 11.1  | 355   | 133  | 4.7  | 101  | 18   | 23   | 3.41 | 8.7  | 104  | 0.18       | 41    | 32    | 55       | 4.3   | 0.20   | 12    |
+| 6/3         | 6.8    | 10.3  | 322   | 137  | 4.3  | 106  | 22   | 19   | 3.08 | 9.1  | 108  | 0.10       | 28    | 29    | 49       | 4.0   | 0.14   | 16    |
+| 6/4         | 7.1    | 10.7  | 307   | 139  | 4.1  | 108  | 23   | 13   | 2.12 | 9.0  | 105  | <0.01      | 22    | 18    | 39       | 4.2   | 0.10   | 26    |
+| 6/5         | 8.2    | —     | 298   | 141  | 4.4  | —    | 24   | 11   | 1.95 | 9.2  | 101  | —          | 19    | —     | 43       | —     | —      | 31    |
+
+- BNP (6/2): 2345 pg/mL  
+- Lactate (6/1): 3.2 mmol/L → normalized by 6/3  
+- HbA1c (on admit): 6.1%  
+- UA (6/2): Proteinuria (300 mg/dL), trace ketones
+
+---
+
+## IMAGING
+- **CXR (6/1):** Pulmonary vascular congestion, no focal infiltrate
+- **Echo (6/1):** Severely reduced LVEF (15%), no tamponade, severe global hypokinesis
+- **Echo (6/4):** LVEF improved to 35%, mild MR
+- **CT chest (5/28):** Stable 2.1cm RUL mass, no new lesions
+
+---
+
+## ASSESSMENT & PLAN
+
+**66M with NSCLC, recent chemo, now acute cardiogenic shock requiring temporary LV assist device (Impella CP), AKI, and anemia.**
+
+**Active Problems:**
+
+1. **Cardiogenic Shock, Acute LV Failure**  
+   - Presumed secondary to chemo-induced myocarditis vs. ischemic insult  
+   - Required Impella CP, now decannulated, improving EF  
+   - Plan: Daily TTE, telemetry, continue goal-directed medical therapy, avoid further cardiotoxins
+
+2. **Acute Kidney Injury (Stage 3, multifactorial)**  
+   - Likely pre-renal (shock), nephrotoxic meds  
+   - Plan: Renal dose adjustments, nephrology f/u, monitor UOP, trending Cr, strict I/Os
+
+3. **Non-small Cell Lung Cancer (Stage 1, RUL)**  
+   - On cisplatin/paclitaxel, held for now  
+   - Plan: Resume pending cardiac stabilization, oncology f/u, consider alternative agents
+
+4. **Anemia (likely chronic, worsened by AKI/critical illness)**  
+   - Baseline Hgb ~11–12, nadir 10.3  
+   - Plan: Monitor, transfuse if <8 or symptomatic, iron studies pending
+
+5. **Transaminitis**  
+   - Mild, likely shock liver, resolving  
+   - Plan: Monitor LFTs, avoid hepatotoxins
+
+6. **Seizure Disorder**  
+   - No new seizures, mild confusion likely metabolic  
+   - Plan: Continue seizure precautions, neurology prn
+
+7. **Infection Risk, Immunocompromised**  
+   - No current evidence of infection; cultures negative  
+   - Plan: D/C abx, monitor for new fevers, neutropenic precautions
+
+8. **Prediabetes**  
+   - HbA1c 6.1%, mild hyperglycemia during stress  
+   - Plan: Monitor FS, sliding scale insulin prn
+
+9. **Chronic Sinusitis/Bronchitis**  
+   - No current URI sx  
+   - Plan: Supportive, ENT prn
+
+**Disposition:**  
+- Continue ICU monitoring, anticipate step-down in 24–48h if stable  
+- PT/OT eval prior to transfer  
+- Cardiac rehab consult
+
+---
+
+## SIGNED:
+Dr. S. Ghosh, MD  
+MICU Attending  
+06/05/2024 08:22
+
+---
+
+### ADDITIONAL ORDERS & EVENTS
+
+- Foley d/c’d 6/4  
+- Central line removed 6/5  
+- O2 weaned to NC 2L/min  
+- Physical therapy, early mobilization  
+- Social work and case management involved
+
+---
+
+**END OF NOTE**

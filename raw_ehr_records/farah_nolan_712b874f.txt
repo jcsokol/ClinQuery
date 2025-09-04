@@ -1,0 +1,191 @@
+---
+**Patient Name:** Farah Nolan  
+**MRN:** 009283471  
+**DOB:** 07/01/1987  
+**Sex:** Female  
+**Admit Date:** 05/22/2024  
+**Attending:** Dr. Samuel H. Kerr  
+**Location:** MICU, Bed 12  
+
+---
+
+**HOSPITAL COURSE SUMMARY**
+
+Ms. Farah Nolan is a 36-year-old female with a past medical history notable for obesity (BMI ~34), hypertension, anemia, seizure disorder (single event, likely situational), recurrent urinary tract infections, and a history of normal pregnancies. She presented to the Emergency Department on 5/22/2024 with 3 days of progressive dyspnea, orthopnea, and lower extremity edema. She also reported intermittent non-radiating chest pain, and had a witnessed syncopal event at home prior to arrival.
+
+On arrival, she was found to be tachycardic (HR 116), hypertensive (BP 172/98), febrile (38.1°C), and hypoxic (SpO2 89% on RA). Initial labs suggested a new acute decompensated heart failure with possible myocarditis, with evidence of multi-organ hypoperfusion. She was transferred to the MICU for hemodynamic monitoring, where she subsequently developed cardiogenic shock requiring vasopressors and temporary left-sided mechanical circulatory support (Impella CP, placed on hospital day 2).
+
+---
+
+**PROBLEM LIST**
+
+1. **Cardiogenic Shock secondary to Acute Myocarditis (presumed viral)**  
+2. **Acute Decompensated Heart Failure (new diagnosis, EF 18%)**  
+3. **Temporary Left Ventricular Assist Device (Impella CP) placement**  
+4. **Hypertension**  
+5. **Obesity (BMI 33.9)**  
+6. **Seizure disorder (remote, no events this admission)**  
+7. **Acute kidney injury (multifactorial, pre-renal vs cardiorenal)**  
+8. **Anemia (baseline, worsened during admission)**  
+9. **Acute viral pharyngitis (initial presentation, resolved)**  
+10. **History of UTI, no current evidence**  
+11. **History of bronchitis**  
+12. **Streptococcal pharyngitis (remote)**  
+13. **Contraceptive management**  
+14. **Pain (musculoskeletal, mild)**
+
+---
+
+**HOSPITAL COURSE BY PROBLEM**
+
+---
+
+**1. Cardiogenic Shock / Acute Decompensated Heart Failure**  
+- **Presentation:** Worsening SOB, LE edema, chest discomfort, syncope.  
+- **ED findings:** Hypoxia, hypotension after initial hypertension, elevated JVP, S3.  
+- **Echo:** LVEF 18%, global hypokinesis, mild MR, small pericardial effusion (no tamponade).  
+- **Troponin I:** Peaked at 4.2 ng/mL (ref <0.04).  
+- **BNP:** 1890 pg/mL (ref <100).  
+- **Course:** Rapid clinical deterioration, required norepinephrine and dobutamine. Worsening lactic acidosis, oliguria.  
+- **Interventions:**  
+    - Impella CP placed via right femoral approach on HD2.  
+    - IV diuresis (furosemide gtt), cautious after stabilization.  
+    - Guideline-directed medical therapy for HF initiated after stabilization (low-dose carvedilol, spironolactone).  
+- **Outcome:** Gradual improvement in end-organ perfusion. Impella weaned and explanted on HD6.  
+- **Plan:** Continue aggressive HF management, cardiac MRI outpatient to further evaluate for myocarditis.
+
+---
+
+**2. Temporary LVAD (Impella CP) Placement**  
+- **Indication:** Refractory cardiogenic shock, failed medical therapy.  
+- **Course:**  
+    - No device-related complications.  
+    - Serial TTE showed improved LVEF to 34% on HD6.  
+    - Vascular US: No DVT.  
+- **Plan:**  
+    - Weekly vascular checks.  
+    - Anticoagulation (heparin infusion, then warfarin).  
+    - Cardiology f/u, consider wearable defibrillator.
+
+---
+
+**3. Hypertension**  
+- **Prior meds:** Amlodipine/HCTZ/Olmesartan, nonadherent.  
+- **During admission:** Held during acute shock, now restarted at reduced doses.  
+- **Plan:** Monitor BP, titrate as tolerated.
+
+---
+
+**4. Obesity**  
+- **BMI:** 33.9  
+- **Plan:** Nutritional counseling, referral to weight management post-discharge.
+
+---
+
+**5. Seizure disorder**  
+- **No events this admission.**  
+- **Plan:** Continue current anticonvulsant regimen, monitor for interactions.
+
+---
+
+**6. Acute Kidney Injury**  
+- **Labs:** Cr peaked at 2.1 mg/dL (baseline 1.0).  
+- **Etiology:** Pre-renal (hypoperfusion), possibly nephrotoxic meds.  
+- **Course:** Improved with volume management, Cr down to 1.3 mg/dL.  
+- **Plan:** Monitor, avoid nephrotoxins.
+
+---
+
+**7. Anemia**  
+- **Baseline:** Hgb 11.2 g/dL, nadir 8.8 g/dL (HD3).  
+- **Etiology:** Likely multifactorial (hemodilution, AKI, device).  
+- **Plan:** Monitor, iron panel pending, no transfusion needed.
+
+---
+
+**8. Acute Viral Pharyngitis**  
+- **Symptoms:** Resolved after supportive care.  
+- **Plan:** No further interventions.
+
+---
+
+**9. UTI / Bronchitis / Streptococcal pharyngitis**  
+- **No current evidence of infection.**  
+- **Plan:** Monitor for recurrence.
+
+---
+
+**10. Contraceptive Management**  
+- **Current:** NuvaRing, Errin, Camila (prior).  
+- **Plan:** Discussed risk of estrogen-containing contraceptives with new heart failure; advised progestin-only method.
+
+---
+
+**11. Pain**  
+- **Severity:** 3/10, musculoskeletal  
+- **Plan:** PRN acetaminophen.
+
+---
+
+---
+
+**LABORATORY DATA (SELECTED)**
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Troponin I (ng/mL) | BNP (pg/mL) |
+|------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|--------------|---------------------|-------------|
+| 5/22/2024  | 13.2       | 11.2       | 33      | 420        | 136         | 4.7        | 101         | 22           | 24          | 1.1        | 112          | 2.8                 | 1560        |
+| 5/23/2024  | 15.7       | 10.1       | 30      | 392        | 134         | 5.1        | 99          | 19           | 31          | 1.9        | 149          | 4.2                 | 1890        |
+| 5/24/2024  | 14.9       | 8.8        | 27      | 373        | 132         | 5.5        | 96          | 18           | 36          | 2.1        | 138          | 3.1                 | 1760        |
+| 5/25/2024  | 12.3       | 9.3        | 28      | 355        | 137         | 4.1        | 103         | 21           | 29          | 1.5        | 112          | 1.8                 | 1400        |
+| 5/26/2024  | 9.8        | 9.7        | 29      | 334        | 139         | 4.0        | 104         | 22           | 20          | 1.3        | 108          | 0.7                 | 980         |
+| 5/27/2024  | 8.7        | 10.5       | 31      | 338        | 140         | 3.7        | 105         | 23           | 18          | 1.3        | 94           | 0.3                 | 610         |
+| 5/28/2024  | 7.6        | 11.0       | 33      | 345        | 141         | 4.1        | 104         | 22           | 16          | 1.1        | 101          |                     | 420         |
+
+**Other labs:**  
+- **ALT:** Max 71 U/L (ref <40), normalized.  
+- **AST:** Max 98 U/L, trended down.  
+- **Total bili:** 1.4 mg/dL, normalized.  
+- **Lactate:** Peaked at 4.7, normalized by HD5.  
+- **INR:** 1.2-2.1 (on heparin, then warfarin).
+
+---
+
+**DIAGNOSTICS**  
+- **ECG:** Sinus tachycardia, nonspecific ST/T changes  
+- **TTE:** LVEF 18% → 34% (post-Impella)  
+- **CXR:** Pulmonary edema, improved  
+- **Cardiac MRI:** Pending outpatient
+
+---
+
+**MEDICATION ADMINISTRATION RECORD (abridged)**  
+- Norepinephrine IV gtt (HD1-3)  
+- Dobutamine IV gtt (HD1-4)  
+- Heparin IV gtt (HD2-7)  
+- Furosemide IV, then oral  
+- Carvedilol, spironolactone  
+- Amlodipine/HCTZ/Olmesartan (restarted HD6)  
+- Acetaminophen PRN  
+- NuvaRing discontinued HD7
+
+---
+
+**DISPOSITION/PLAN:**  
+- Discharge to home with close cardiology and heart failure follow-up.  
+- Continue HF meds, warfarin (pending INR).  
+- Physical therapy referral.  
+- Strict fluid and salt restriction.  
+- Outpatient echo and cardiac MRI.  
+- Vascular surgery f/u for femoral access site.  
+- Avoid estrogen-containing contraceptives.
+
+---
+
+**Attestation:**  
+Samuel H. Kerr, MD  
+Cardiology/ICU  
+Date: 5/29/2024
+
+---
+
+**(End of note)**

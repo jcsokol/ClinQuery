@@ -1,0 +1,172 @@
+```
+--------------------------------------------------------------
+EpicCare Inpatient - Progress Note
+--------------------------------------------------------------
+Patient Name: Cassandra Hilll
+MRN: 00291834
+DOB: 1976-09-16 (47 y/o)
+Sex: Female
+Date of Admission: 2024-05-29
+Date of Note: 2024-06-06
+Author: John Doe, MD
+
+--------------------------------------------------------------
+Chief Complaint:
+Shortness of breath, fatigue, and chest tightness.
+
+History of Present Illness:
+Ms. Cassandra Hilll is a 47-year-old female with a PMH significant for obesity (BMI ~29), chronic sinusitis, acute viral pharyngitis (multiple episodes), facial laceration (remote), prior first-degree burn, and acute bronchitis, who presented to the ED 8 days ago with progressive dyspnea, orthopnea, and lower extremity edema. She reported a viral URI 2 weeks prior with persistent malaise. Over the last 48 hours prior to admission, she developed paroxysmal nocturnal dyspnea and chest pressure. No prior history of heart failure or CAD.
+
+On admission, she was tachypneic, hypoxic (O2 sat 89% RA), and tachycardic (HR 112). Initial workup revealed elevated BNP and troponin, bilateral pulmonary edema on CXR, and reduced LVEF on TTE. She rapidly deteriorated, requiring ICU transfer and inotropic support. On hospital day 2, she developed cardiogenic shock with worsening lactic acidosis and hypotension refractory to medical therapy. Decision was made for placement of a temporary percutaneous left ventricular assist device (Impella CP) as a bridge to recovery.
+
+Past Medical History:
+- Chronic sinusitis
+- Obesity (BMI up to 30+)
+- Recurrent viral pharyngitis
+- Acute bronchitis
+- Remote facial laceration, first-degree burn
+- G2P2, both pregnancies uncomplicated
+
+Past Surgical History:
+- None
+
+Allergies:
+- NKDA
+
+Home Medications:
+- diphenhydramine 25mg PO PRN
+- Ethinyl Estradiol/norelgestromin transdermal patch
+- Camila 28d PO
+- Ibuprofen 200mg PO PRN
+- Naproxen sodium 220mg PO PRN
+- Acetaminophen 325mg PO PRN
+- Trinessa 28d PO
+- Etonogestrel 68mg implant
+
+Social History:
+- Works as office manager
+- No tobacco, rare EtOH, no illicit drug use
+- Lives with husband and two children
+
+Family History:
+- Father: HTN, MI at 62
+- Mother: Asthma
+- Brother: Healthy
+
+Review of Systems:
+- General: Fatigue, malaise
+- CV: Orthopnea, PND, LE edema
+- Resp: SOB, cough (non-productive)
+- GI: Nausea, no vomiting
+- GU: Oliguria on day 2
+- Neuro: No focal deficits
+
+Physical Exam (on ICU admission):
+- VS: Temp 37.2°C, HR 114, BP 88/54, RR 26, SpO2 91% on 4L NC
+- Gen: Obese, ill-appearing, in mild distress
+- CV: Tachycardic, S3, JVP 12cm, cool extremities, +LE edema
+- Resp: Crackles 2/3 bilaterally
+- Abd: Mildly distended, NTND
+- Neuro: A&O x3, no focal findings
+- Skin: No rashes, old facial laceration scar
+
+--------------------------------------------------------------
+Hospital Course Summary:
+- Day 0: ED presentation, admitted for acute decompensated HF, started on IV furosemide and low-dose dobutamine.
+- Day 1: Worsening hypotension, increasing O2 requirements, escalation to ICU.
+- Day 2: Cardiogenic shock, lactic acidosis, acute renal hypoperfusion, bedside TTE LVEF 20%, LV dilation. Temporary percutaneous LVAD (Impella) placed. Initiated on heparin drip for device.
+- Day 3-5: Gradual improvement in end-organ perfusion, weaned off high-dose vasopressors. Persistent mild AKI.
+- Day 6: Device weaned, removed after TTE showed LVEF improved to 38%. Continued diuresis.
+- Day 7-8: Progressive mobilization, transition to oral diuretics. Stable hemodynamics. Preparing for step-down transfer.
+
+--------------------------------------------------------------
+Problem-Based Assessment & Plan:
+
+1. Cardiogenic Shock, acute, likely viral myocarditis vs. idiopathic
+   - Required temporary LVAD (Impella CP)
+   - Now hemodynamically stable, off pressors
+   - Continue guideline-directed medical therapy for HF (beta-blocker, ACEi) as tolerated
+   - Serial TTE monitoring
+   - Plan: Cardiology to follow, consider cardiac MRI after stabilization
+
+2. Acute Systolic Heart Failure (new diagnosis)
+   - Initial LVEF 20%, post-device LVEF 38%
+   - Strict I/O, daily weights, continue oral furosemide, start low-dose carvedilol
+   - Salt/fluid restriction, HF education
+
+3. Acute Kidney Injury, multifactorial (pre-renal vs. cardiorenal)
+   - Improved with device support and diuresis
+   - Monitor renal function, avoid nephrotoxins
+   - Plan: Renal consult if creatinine worsens
+
+4. Obesity (BMI ~29)
+   - Nutrition consult, calorie-restricted diet
+
+5. Recurrent viral pharyngitis, chronic sinusitis
+   - No acute infection at present
+   - Continue supportive care PRN
+
+6. Facial laceration, first-degree burn (remote)
+   - No active issues
+
+7. Hyperlipidemia
+   - LDL 73, continue lifestyle modification
+   - Statin therapy deferred until HF stabilized
+
+8. Contraceptive management
+   - Continue current regimen, no contraindication at present
+
+9. DVT prophylaxis
+   - Sequential compression devices, heparin SQ (post-device removal)
+
+10. Psychosocial
+    - Social work consult for support, family meetings
+
+--------------------------------------------------------------
+Laboratory Data
+
+| Date         | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Troponin (ng/mL) | BNP (pg/mL) | AST (U/L) | ALT (U/L) |
+|--------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|-------------------|-------------|-----------|-----------|
+| 5/29         | 10.1       | 15.2       | 41      | 355        | 132         | 4.7        | 99          | 21           | 29          | 1.6        | 122         | 0.47              | 721         | 39        | 52        |
+| 5/30         | 13.6       | 13.9       | 38      | 270        | 128         | 5.1        | 95          | 17           | 42          | 2.1        | 113         | 0.36              | 1650        | 62        | 79        |
+| 5/31         | 9.9        | 12.7       | 34      | 203        | 135         | 4.1        | 103         | 23           | 30          | 1.8        | 99          | 0.21              | 1247        | 49        | 58        |
+| 6/1          | 8.8        | 13.1       | 36      | 210        | 137         | 4.0        | 104         | 25           | 28          | 1.5        | 102         | 0.12              | 860         | 32        | 45        |
+| 6/2          | --         | 13.5       | --      | 262        | 139         | 4.4        | 108         | 24           | 23          | 1.2        | 98          | --                | 498         | --        | 39        |
+| 6/3          | 7.7        | 12.9       | 35      | 302        | 137         | --         | 105         | 22           | 18          | 1.1        | 108         | 0.08              | 302         | 28        | 33        |
+| 6/4          | 8.2        | --         | 36      | 319        | 140         | 4.3        | 110         | --           | 17          | 0.9        | 97          | --                | 220         | 25        | 31        |
+| 6/5          | --         | 13.6       | 37      | 354        | 141         | 4.2        | 109         | 26           | 15          | 0.8        | 104         | 0.04              | 180         | 21        | 27        |
+| 6/6          | 7.1        | 14.0       | 39      | 370        | 142         | 4.1        | 110         | 26           | 14          | 0.7        | 99          | <0.01             | 96          | 14        | 18        |
+
+--------------------------------------------------------------
+Imaging:
+- CXR 5/29: Bilateral pulmonary edema, mild cardiomegaly
+- TTE 5/29: LVEF 20%, severe global hypokinesis, no thrombus
+- TTE 6/6: LVEF 38%, mild LV dilation, trace MR
+
+--------------------------------------------------------------
+Procedures:
+- 5/30: Placement of percutaneous LVAD (Impella CP) via right femoral artery
+- 6/6: Device explant, hemostasis achieved
+
+--------------------------------------------------------------
+Medications (Inpatient):
+- Furosemide IV/PO
+- Dobutamine IV (weaned off)
+- Heparin drip (for Impella)
+- Lisinopril 2.5mg PO
+- Metoprolol succinate 12.5mg PO
+- Acetaminophen PRN
+- All prior home meds held except acetaminophen
+
+--------------------------------------------------------------
+Discharge Planning:
+- Anticipate transfer to telemetry/step-down in 24-48h
+- Cardiology outpatient follow-up 1 week post-discharge
+- HF nursing education
+- Home health RN referral
+
+--------------------------------------------------------------
+Attestation:
+John Doe, MD | Cardiology
+```
+

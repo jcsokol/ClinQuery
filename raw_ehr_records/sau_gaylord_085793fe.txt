@@ -1,0 +1,166 @@
+---
+**Patient Name:** Sau Gaylord  
+**MRN:** 00298431  
+**DOB:** 1980-12-05 (43 years)  
+**Sex:** Female  
+**Admit Date:** 2024-05-23  
+**Attending:** Dr. Lena O’Rourke, MD  
+**Service:** Cardiac ICU  
+**LOS:** 14 days  
+**Note Type:** Progress Note – ICU (Day 14)  
+**Date/Time:** 2024-06-06 07:12  
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+
+43 yo F with PMHx notable for prediabetes, multiple prior pregnancies (x4, all term except 1 first trimester miscarriage), recurrent viral URIs, and recurrent UTIs, who presented to the ED two weeks ago with 3 days of progressive dyspnea, orthopnea, PND, and lower extremity edema. She denied chest pain but noted palpitations and a syncopal episode at home. On arrival, she was tachycardic (HR 122), hypertensive (BP 174/92), and hypoxic to 90% on RA. CXR showed pulmonary vascular congestion and small bilateral pleural effusions. BNP elevated to 1840 pg/mL. TTE revealed severe global LV hypokinesis (EF 18%), mild RV dysfunction, no significant valvular disease. Troponin I mildly elevated. Cardiac cath: non-ischemic.  
+
+She was admitted to the CICU for acute decompensated heart failure, likely new non-ischemic cardiomyopathy (DDx: viral myocarditis vs. peripartum CM—remote, no current pregnancy). Despite IV diuresis and afterload reduction, she developed progressive cardiogenic shock with rising lactate and oliguria. Temporary LVAD (Impella CP) placed on HD 2. Subsequent stabilization, weaning of vasoactives, and gradual end-organ recovery.  
+
+Course complicated by AKI (Cr peaked 2.1, now improved), transient transaminitis, and delirium. Serial TTEs show persistent severe LV dysfunction. Awaiting advanced heart failure/transplant eval.  
+
+---
+
+### ASSESSMENT & PLAN
+
+**1. Acute Decompensated Heart Failure, severe LV systolic dysfunction (EF ~18%)**  
+- Suspect non-ischemic, possibly viral myocarditis (recent URI 2 weeks prior).  
+- On GDMT: carvedilol, sacubitril-valsartan, spironolactone (titrated as tolerated).  
+- Strict I/Os, daily weights.  
+- Diuresis: IV furosemide, transitioned to oral.  
+- Sodium restriction.  
+- Serial TTEs, telemetry.  
+- Plan: Continue uptitration of GDMT as tolerated, monitor for arrhythmias.
+
+**2. Cardiogenic Shock, s/p temporary LVAD (Impella CP) placement**  
+- Impella placed HD2 for worsening shock.  
+- Weaned off vasoactives (dobutamine, norepi) by HD6.  
+- Impella removed HD10 after hemodynamic improvement.  
+- Daily hemodynamics, vigilant for limb ischemia/bleeding.  
+- Plan: Monitor for recurrent shock, consider advanced therapies if no myocardial recovery.
+
+**3. Acute Kidney Injury (KDIGO II), resolving**  
+- Likely multifactorial: low output, diuretics, possible contrast.  
+- Cr peaked at 2.1, now 1.3 (baseline ~0.8).  
+- Strict renal dosing, avoid nephrotoxins.  
+- Plan: Continue to monitor, expect further recovery.
+
+**4. Transaminitis, resolving**  
+- AST/ALT peaked at 320/225 (ischemic hepatitis), now trending down.  
+- No biliary obstruction.  
+- Plan: Serial LFTs, supportive care.
+
+**5. Delirium, improving**  
+- Likely multifactorial: metabolic, ICU environment, sedatives.  
+- Reoriented, off sedatives, sleep hygiene.  
+- Plan: Continue non-pharm interventions.
+
+**6. Prediabetes**  
+- A1c 6.2% on admission.  
+- No insulin needs during hospitalization.  
+- Plan: Dietician consult, f/u PCP for further management.
+
+**7. Recurrent UTIs (remote, none active)**  
+- No current UTI s/s or pyuria.  
+- Plan: Monitor, avoid unnecessary foley.
+
+**8. Contraception/PMHx OBGYN**  
+- Multiple prior contraceptive agents; currently not sexually active.  
+- No current pregnancy, LMP 3 weeks ago.  
+- Plan: Counseling deferred, to be addressed outpatient.
+
+**9. DVT Prophylaxis**  
+- SCDs, heparin SQ.
+
+**10. Vaccinations**  
+- Up to date.
+
+---
+
+### HOSPITAL COURSE (SELECTED EVENTS)
+
+- **HD1:** Admitted CICU, severe decompensated HF, started on IV furosemide/nitroprusside
+- **HD2:** Worsening shock, Impella CP placed; started on dobutamine + norepi
+- **HD4:** Lactate improving, urine output up, weaning pressors
+- **HD6:** Pressors off, Impella support ongoing
+- **HD10:** Impella explant, stable
+- **HD11-14:** Diuresis, GDMT titration, transfer planning
+
+---
+
+### VITALS (SELECTED)
+
+| Date       | Temp (C) | HR (bpm) | BP (mmHg) | RR | SpO2 | Weight (kg) | Pain (0-10) |
+|------------|----------|----------|-----------|----|------|-------------|-------------|
+| 5/23/24    | 37.2     | 122      | 174/92    | 22 | 90%  | 76.6        | 1           |
+| 5/24/24    | 37.4     | 112      | 152/86    | 18 | 94%  | 75.9        | 0           |
+| 5/28/24    | 36.9     | 98       | 110/70    | 16 | 98%  | 74.3        | 0           |
+| 6/2/24     | 36.7     | 82       | 104/68    | 14 | 99%  | 73.4        | 0           |
+
+---
+
+### LABS
+
+| Date       | WBC  | Hgb  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Gluc | AST  | ALT  | BNP    | Troponin I | LFTs | Ca   |
+|------------|------|------|------|------|------|------|------|------|------|------|------|------|--------|------------|------|------|
+| 5/23/24    | 4.3  | 13.7 | 241  | 137  | 4.8  | 104  | 22   | 22   | 1.1  | 142  | 320  | 225  | 1840   | 0.10       |      | 8.7  |
+| 5/24/24    | 5.6  | 12.8 | 198  | 136  | 5.1  | 102  | 19   | 30   | 1.8  | 163  | 285  | 187  | 2020   | 0.08       |      |      |
+| 5/26/24    |      | 12.4 | 163  |      | 4.7  | 99   | 20   | 28   | 2.1  | 151  | 180  | 108  |        | 0.04       |      | 8.2  |
+| 5/28/24    | 6.2  | 11.9 | 158  | 135  |      | 100  | 21   | 24   | 1.7  |      | 99   | 92   | 900    | <0.01      |      |      |
+| 6/2/24     | 7.4  | 12.8 | 178  | 137  | 3.9  | 105  | 24   | 19   | 1.3  | 138  | 44   | 53   | 410    | <0.01      |      | 8.9  |
+| 6/5/24     |      | 13.2 | 196  | 138  | 4.1  |      | 26   | 17   | 1.1  | 122  | 38   | 41   | 380    | <0.01      |      |      |
+
+---
+
+### MICROBIOLOGY
+
+- Blood cultures x2 (5/23): No growth at 5d
+- Urine cx (5/23): No growth
+- Respiratory viral PCR (5/23): Positive for rhinovirus/enterovirus
+
+---
+
+### IMAGING
+
+- **CXR 5/23:** Pulmonary edema, small bilateral effusions.
+- **TTE 5/23:** Severe global LV hypokinesis, EF 18%, mild RV dysfunction.
+- **Repeat TTE 5/29:** Persistent severe LV dysfunction.
+
+---
+
+### PROCEDURES
+
+- **5/24:** Right/left heart cath—no significant CAD.
+- **5/24:** Impella CP placement, right femoral artery.
+- **6/3:** Impella explant, bedside.
+
+---
+
+### MEDICATIONS (SELECTED)
+
+- Furosemide IV/PO
+- Carvedilol (titrating)
+- Sacubitril-valsartan (titrating)
+- Spironolactone
+- Heparin SQ (prophylaxis)
+- Atorvastatin
+- Multivitamin
+- PRN acetaminophen
+
+---
+
+### DISCHARGE PLANNING
+
+- Awaiting transplant evaluation
+- Cardiac rehab referral
+- Close outpatient follow-up with Heart Failure
+
+---
+
+**Cosigned by:** Lena O’Rourke, MD, Cardiology  
+**Electronically signed at 2024-06-06 07:41**
+
+---
+
+**END OF NOTE**

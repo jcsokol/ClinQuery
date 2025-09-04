@@ -1,0 +1,179 @@
+---
+**Patient Name:** Van Emmerich  
+**MRN:** 008312894  
+**DOB:** 03/16/1935 (89 y/o)  
+**Sex:** Male  
+**Date of Admission:** 04/17/2024  
+**Attending:** Dr. R. Martinez  
+**Consults:** Cardiology, Pulmonology, Orthopedics  
+**ICU Stay:** Yes  
+**Allergies:** NKDA  
+
+---
+
+**CHIEF COMPLAINT:**  
+Progressive shortness of breath, orthopnea, and lower extremity swelling.  
+
+---
+
+**HISTORY OF PRESENT ILLNESS:**  
+Mr. Van Emmerich is an 89-year-old male with history of severe pulmonary emphysema, chronic pain from prior right ankle fracture, and hyperlipidemia, who presented to the ED with 4 days of worsening dyspnea, productive cough, subjective fevers, and increased lower extremity edema. He also reported chest tightness and two episodes of near-syncope at home. On arrival, he was hypoxemic (SpO2 86% RA), tachycardic to 112, and hypertensive (BP 168/92). CXR revealed pulmonary vascular congestion and possible infiltrate. Initial labs were notable for elevated BNP and troponin. He was admitted to the ICU for acute on chronic hypoxic respiratory failure and decompensated heart failure.  
+
+During hospitalization, he developed hypotension refractory to diuretics and inotropes, requiring temporary left ventricular assist device (Impella CP) placement on HD 2 for cardiogenic shock.  
+
+---
+
+**PAST MEDICAL HISTORY:**  
+- **Pulmonary emphysema** (severe, GOLD IV)  
+- **Acute viral pharyngitis** (recent, resolved)  
+- **Remote right ankle fracture** (s/p ORIF, 2019)  
+- **Hyperlipidemia**  
+- **HTN** (well-controlled)  
+- **Chronic pain** (ankle)  
+
+**PAST SURGICAL HISTORY:**  
+- ORIF right ankle (2019)  
+- Appendectomy (childhood)  
+
+**SOCIAL HISTORY:**  
+- Former smoker (60 pack-years, quit 2015)  
+- Lives with spouse, retired engineer  
+- No EtOH or illicit drug use  
+
+**FAMILY HISTORY:**  
+- Father: MI at 69  
+- Mother: COPD  
+- No known inherited cardiac conditions  
+
+---
+
+**HOME MEDICATIONS:**  
+- Acetaminophen 325mg / Hydrocodone 7.5mg PO PRN  
+- Fluticasone/salmeterol 250/50mcg DPI BID  
+- Ibuprofen 200mg PO PRN  
+- Atorvastatin 20mg QHS  
+- Lisinopril 10mg QAM  
+
+---
+
+**PHYSICAL EXAM ON ADMISSION:**  
+- **General:** Elderly male, mild distress, using accessory muscles  
+- **VS:** T 37.4°C, HR 112, BP 168/92, RR 22, SpO2 86% RA (improved to 94% on 4L NC)  
+- **HEENT:** Mild pharyngeal erythema, no exudate  
+- **CV:** JVP 13cm, S3 present, irregularly irregular, 2+ pitting edema LE  
+- **Resp:** Diffuse wheezes, decreased breath sounds bilaterally  
+- **Abd:** Soft, nontender  
+- **Ext:** Healing right ankle scar, mild deformity, 2+ edema  
+- **Neuro:** AOx3, no focal deficits  
+
+---
+
+**ICU COURSE SUMMARY:**  
+**HD 1:**  
+- Admitted for acute decompensated HF, acute on chronic hypoxic respiratory failure  
+- Started on BiPAP, IV furosemide, empiric ceftriaxone/azithro for possible CAP  
+- Cardiology consulted; echo: LVEF 20%, severe global hypokinesis, RV mildly reduced  
+- Troponin mildly ↑; BNP 2,040 pg/mL  
+- Gradual hypotension despite inotropes (dobutamine)  
+
+**HD 2:**  
+- Worsening shock, MAP <60 despite escalating pressors  
+- Impella CP LVAD placed at bedside by interventional cardiology  
+- Hemodynamics improved, urine output increased  
+- Weaned off norepi over next 24h  
+
+**HD 3-5:**  
+- Gradual improvement, weaned to 2L NC  
+- Impella weaned and explanted HD 4  
+- Diuresis continued, net negative 6L  
+- Ankle pain managed with hydrocodone/acetaminophen  
+- No arrhythmias, no new fevers  
+
+**HD 6-8:**  
+- Stepped down to telemetry  
+- Mobilizing with PT/OT  
+- Cough improved, chest x-ray clear  
+- Discharged to home with spouse  
+
+---
+
+**PROBLEM-BASED ASSESSMENT & PLAN:**  
+
+**1. Cardiogenic Shock / Decompensated HF**  
+   - Likely precipitated by viral URI + acute ischemia  
+   - Impella CP for temporary LV support, explanted HD 4  
+   - Continue guideline-directed medical therapy (GDMT): ACEi, BB, statin  
+   - Monitor for recurrent symptoms  
+   - Outpt HF clinic f/u in 1 week  
+
+**2. Pulmonary Emphysema (severe)**  
+   - Continue inhaled LABA/ICS  
+   - Pulmonary rehab referral  
+   - SpO2 goal >88%  
+   - Home O2 eval at discharge  
+
+**3. Acute Viral Pharyngitis (recent, resolved)**  
+   - No further intervention needed  
+
+**4. Acute on Chronic Pain - Right Ankle**  
+   - Continue hydrocodone/APAP PRN  
+   - PT/OT for strengthening  
+
+**5. Hyperlipidemia**  
+   - Continue atorvastatin  
+   - F/u lipid panel in 1 month  
+
+**6. HTN**  
+   - Restart lisinopril, monitor BP  
+
+**7. Hospital Course Complications**  
+   - No VTE, no arrhythmias, no AKI  
+   - Foley removed HD 5, ambulating independently  
+
+---
+
+**LABS (MOST RELEVANT):**
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Troponin (ng/mL) | BNP (pg/mL) | AST (U/L) | ALT (U/L) |
+|------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|------------------|-------------|-----------|-----------|
+| 4/17/2024  | 11.2       | 14.9       | 43      | 249        | 139         | 4.7        | 102         | 23           | 31          | 1.41       | 146         | 0.06             | 2040        | 32        | 29        |
+| 4/18/2024  | 10.3       | 13.6       | 41      | 218        | 134         | 5.2        | 99          | 21           | 38          | 1.58       | 133         | 0.08             | 1750        | 37        | 33        |
+| 4/19/2024  | 9.8        | 13.1       | 40      | 212        | 137         | 4.6        | 98          | 25           | 29          | 1.28       | 122         | 0.04             | 950         | 28        | 28        |
+| 4/20/2024  | 8.5        | 12.8       | 39      | 235        | 140         | 4.5        | 100         | 27           | 22          | 1.11       | 108         | 0.03             | 430         | 26        | 26        |
+| 4/21/2024  | 7.7        | 13.5       | 40      | 278        | 142         | 4.1        | 101         | 28           | 18          | 1.04       | 100         | 0.01             | 320         | 22        | 25        |
+| 4/22/2024  | 7.1        | 13.7       | 41      | 265        | --          | --         | --          | 27           | 15          | 1.00       | 98          | --               | 200         | --        | --        |
+
+**Microbiology:**  
+- Blood cultures x2 negative  
+- Sputum: no growth  
+- RSV/Influenza/COVID PCR negative  
+
+**Radiology:**  
+- CXR (admission): Pulmonary vascular congestion, right basilar infiltrate  
+- CXR (HD 5): Improved, no infiltrate  
+- TTE: LVEF 20%, severe global hypokinesis, RV mildly reduced  
+
+---
+
+**DISCHARGE MEDICATIONS:**  
+- Lisinopril 10mg QAM  
+- Carvedilol 3.125mg BID  
+- Atorvastatin 20mg QHS  
+- Fluticasone/salmeterol DPI BID  
+- Acetaminophen/hydrocodone PRN  
+- Home O2 as needed  
+
+---
+
+**FOLLOW-UP:**  
+- HF clinic (1 week)  
+- Pulmonary clinic (2 weeks)  
+- PCP (2 weeks)  
+- PT/OT as outpatient  
+
+---
+
+**SIGNATURE:**  
+R. Martinez, MD  
+04/23/2024  
+---

@@ -1,0 +1,167 @@
+```
+---------------------------------------------------------------------------
+Epic EHR - Patient Chart
+
+Patient Name: Daina Dickens
+MRN: 00389211
+DOB: 07/04/1921  Sex: F   Age: 102
+Attending: Dr. J. Salinger
+Admit Date: 03/22/2024
+Service: MICU
+
+Allergies: NKDA
+
+---------------------------------------------------------------------------
+CHIEF COMPLAINT
+Shortness of breath, confusion
+
+HISTORY OF PRESENT ILLNESS
+Daina Dickens is a 102-year-old female with history of obesity, osteoporosis, Alzheimer’s dementia, hyperlipidemia, and chronic kidney disease who presented from her SNF with worsening shortness of breath and acute confusion for 2 days. Family reports baseline severe memory impairment (MMSE 3/30), ambulates with walker, and is DNR/DNI but full code for 30 days per POLST.
+
+On arrival: BP 82/52, HR 112, RR 30, O2 sat 85% RA, T 37.4C. Exam: cold extremities, JVP 12cm, bibasilar crackles, S3, minimal edema. CXR: pulmonary edema. ECG: sinus tachycardia, no STEMI. Troponin 0.12 > 0.19. BNP 2200. Echo: EF 15%, severe global hypokinesis, moderate MR.
+
+She became hypotensive despite diuresis and low-dose dobutamine, requiring temporary percutaneous LVAD (Impella CP) for cardiogenic shock, transferred to MICU. Complicated by AKI, delirium, and transient atrial fibrillation.
+
+---------------------------------------------------------------------------
+PAST MEDICAL HISTORY
+- Obesity (BMI 30+)
+- Osteoporosis
+- Alzheimer’s disease, severe
+- Hyperlipidemia
+- CKD III (baseline Cr ~1.8)
+- HTN
+- S/p laceration of thigh (remote)
+- Recent acute bacterial sinusitis, viral pharyngitis, bronchitis (resolved)
+- Sprain of ankle, remote
+
+PAST SURGICAL HISTORY
+- None documented
+
+SOCIAL HISTORY
+- SNF resident, widowed, 2 children, non-smoker, no alcohol
+
+FAMILY HISTORY
+- Noncontributory
+
+MEDICATIONS (on admission)
+- Donepezil 10/23 mg PO qd
+- Simvastatin 10 mg PO qhs
+- Acetaminophen 325 mg PO prn
+- Ibuprofen 200 mg PO prn
+- Naproxen sodium 220 mg PO prn
+
+---------------------------------------------------------------------------
+PHYSICAL EXAM (on ICU day 2)
+General: elderly, cachectic, obtunded
+HEENT: normocephalic, mucous membranes dry
+CV: tachycardic, S3, no murmurs, JVP 10cm, Impella in situ
+Lungs: crackles at bases, tachypnea, decreased breath sounds
+Abdomen: soft, NTND, normal BS
+Extremities: mild pitting edema, cold
+Neuro: disoriented, follows simple commands, no focal deficits
+Skin: sacral erythema, old thigh scar
+
+---------------------------------------------------------------------------
+VITALS (selected)
+| Date       | Temp   | HR  | BP         | RR | O2 Sat | Weight | Pain |
+|------------|--------|-----|------------|----|--------|--------|------|
+| 3/22/24    | 37.2C  | 112 | 82/52      | 29 | 85% RA | 71 kg  | 0    |
+| 3/23/24    | 37.4C  | 98  | 102/58     | 23 | 94% NC | 70.9kg | 0    |
+| 3/24/24    | 37.0C  | 96  | 110/62     | 20 | 95% NC | 70.4kg | 0    |
+| 3/25/24    | 36.9C  | 88  | 115/66     | 18 | 96% NC | 70.2kg | 0    |
+
+---------------------------------------------------------------------------
+LABS (see also flowsheet for full data)
+CBC/Chemistry (selected values from ICU stay)
+
+| Date     | WBC   | Hgb  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Ca   | Glu  | AST  | ALT  | Alk Phos | T bili | Alb  | Troponin |
+|----------|-------|------|------|------|------|------|------|------|------|------|------|------|------|----------|--------|------|----------|
+| 3/22/24  | 8.2   | 13.6 | 192  | 143  | 4.5  | 106  | 28   | 15   | 2.88 | 8.8  | 69   | 25   | 46   | 111      | 0.53   | 4.0  | 0.12     |
+| 3/23/24  | 10.1  | 12.9 | 155  | 145  | 5.2  | 105  | 26   | 22   | 3.41 | 8.6  | 72   | 31   | 51   | 124      | 0.61   | 3.2  | 0.19     |
+| 3/24/24  | 9.4   | 11.7 | 133  | 140  | 4.1  | 103  | 25   | 18   | 2.76 |      | 82   |      | 43   | 98       | 0.47   |      | <0.01    |
+| 3/25/24  | 7.5   | 11.0 | 149  | 138  | 4.0  |      | 24   | 16   | 2.21 | 8.9  | 90   | 21   |      | 101      |        | 3.7  | <0.01    |
+
+Other: BNP 2200 (on admit), Lactate 2.1 -> 1.1, INR 1.2, PT 13.8, PTT 32
+
+---------------------------------------------------------------------------
+IMAGING/DIAGNOSTICS
+- CXR: diffuse pulmonary edema, mild cardiomegaly
+- Echo: EF 15%, LV dilated, severe hypokinesis, mod MR
+- ECG: sinus tach, no acute ischemia
+
+---------------------------------------------------------------------------
+PROCEDURES
+- 3/22/24: Placement, percutaneous LVAD (Impella CP) via right femoral artery, sterile technique, no immediate complications
+- 3/23/24: DC cardioversion for afib RVR (1 episode, NSR post)
+- 3/24/24: Foley removal
+
+---------------------------------------------------------------------------
+ASSESSMENT & PLAN
+
+1. **Cardiogenic Shock, Decompensated HFrEF**
+   - Severe LV dysfunction, acute on chronic
+   - Required Impella CP for hemodynamic support, weaning initiated as BP stabilized
+   - Diuresis with IV furosemide, net negative 3L since admit
+   - Low-dose dobutamine, transitioning to PO guideline-directed therapy as tolerated
+   - Monitor for arrhythmia, end organ perfusion, wean pressors as tolerated
+
+2. **Acute Kidney Injury (on CKD III)**
+   - Likely multifactorial: hypoperfusion, diuretics, contrast
+   - Nephrology following, trending improvement (Cr 3.4 -> 2.2)
+   - Avoid nephrotoxins, strict I/O, monitor lytes
+
+3. **Alzheimer's Dementia, Severe**
+   - Baseline severe (MMSE 3/30); acute delirium likely secondary to critical illness
+   - Non-pharm delirium prevention in ICU
+   - Continue donepezil at home dose
+
+4. **Atrial Fibrillation, Paroxysmal**
+   - Brief episode of afib RVR, cardioverted, NSR since
+   - Rate control with low-dose metoprolol as needed
+   - Anticoagulation held due to fall risk and advanced dementia
+
+5. **Volume Overload / Pulmonary Edema**
+   - Diuresis ongoing, improvement in CXR and exam
+   - Maintain net negative fluid balance
+
+6. **Obesity, Osteoporosis**
+   - Fall precautions, PT/OT consult
+   - Continue home simvastatin, naproxen and ibuprofen held for AKI
+
+7. **Pressure Injury Prevention**
+   - Sacral erythema, barrier cream, frequent turning
+
+8. **Code Status/Goals of Care**
+   - DNR/DNI per POLST, discussed with family
+   - Comfort measures if no meaningful recovery
+
+9. **Other:**
+   - Hyperlipidemia: continue statin
+   - Pain: acetaminophen prn, no opioids
+   - Monitor for infections, daily CBC
+
+---------------------------------------------------------------------------
+DISPOSITION
+- Continue ICU management, anticipate transfer to stepdown when off Impella and stable off pressors
+- Plan for SNF return if baseline achieved, otherwise hospice
+
+---------------------------------------------------------------------------
+
+Attending: Dr. J. Salinger           Cosigned: Dr. L. Patel, PGY2
+Date/Time: 3/25/2024 09:21
+
+---------------------------------------------------------------------------
+
+LABS (Detailed Flowsheet - CBC/Chem7, selected)
+
+| Date       | WBC  | Hgb | Plt | Na   | K    | Cl   | CO2  | BUN  | Cr   | Ca   | Glu | Comments         |
+|------------|------|-----|-----|------|------|------|------|------|------|------|-----|------------------|
+| 3/22/2024  | 8.2  | 13.6|192  | 143  | 4.5  | 106  | 28   | 15   | 2.88 | 8.8  | 69  | On admit         |
+| 3/23/2024  | 10.1 | 12.9|155  | 145  | 5.2  | 105  | 26   | 22   | 3.41 | 8.6  | 72  | Post-procedure   |
+| 3/24/2024  | 9.4  | 11.7|133  | 140  | 4.1  | 103  | 25   | 18   | 2.76 |      | 82  | Missing Ca       |
+| 3/25/2024  | 7.5  | 11.0|149  | 138  | 4.0  |      | 24   | 16   | 2.21 | 8.9  | 90  | Missing Cl       |
+
+Other labs: see above
+
+---------------------------------------------------------------------------
+```

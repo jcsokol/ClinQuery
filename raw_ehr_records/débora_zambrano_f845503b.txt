@@ -1,0 +1,196 @@
+**Epic EHR - Inpatient Progress Note**
+
+**Patient Name:** Débora Zambrano  
+**MRN:** 0098765432  
+**Date of Birth:** 1974-06-14  
+**Sex:** Female  
+**Date of Admission:** 2024-05-28  
+**Date of Note:** 2024-06-08  
+**Attending:** Dr. Marquez  
+**Location:** CVICU, 6th Floor  
+**Consults:** Cardiology, Cardiothoracic Surgery, Infectious Disease  
+
+---
+
+### Chief Complaint
+Acute abdominal pain, fever, and hypotension.
+
+---
+
+### HPI
+49-year-old female with PMHx of prediabetes, anemia, and prior appendectomy (remote, unclear details), presented to ED with 2 days of worsening abdominal pain, fever, emesis. On arrival, hypotensive, tachycardic, febrile. CT abd/pelvis showed peri-appendiceal abscess and free fluid. She developed rapid shock requiring ICU transfer and vasopressor support. Echo revealed new severe LV dysfunction (EF ~15%). Developed progressive cardiogenic shock, requiring placement of a percutaneous LVAD (Impella CP) on HD2. Complicated course with sepsis, AKI, and ongoing anemia.
+
+---
+
+### Hospital Course Summary
+- HD 1: Admitted for presumed ruptured appendicitis, septic shock. Started broad-spectrum abx.
+- HD 2: Worsening hemodynamics, pressor-refractory shock. Echo: severe new systolic dysfunction. Impella placed for cardiogenic shock.
+- HD 3-5: Gradual hemodynamic improvement. Persistent AKI, oliguric. Blood transfused for Hgb <8.0.
+- HD 6: Impella weaned and explanted. LV function partial recovery (EF 35%). Extubated. 
+- HD 7-11: Slow improvement. Mobilizing, weaning pressors, renal function improving, but still requiring intermittent HD. Persistent anemia.
+- HD 12: Transferred to step-down. 
+
+---
+
+### Problem List & Assessment/Plan
+
+---
+
+#### 1. **Cardiogenic Shock s/p Temporary LVAD (Impella)**
+   - New severe LV dysfunction in setting of septic shock (likely sepsis-induced cardiomyopathy vs. underlying ischemic insult).
+   - Impella placed HD2, explanted HD6. Now EF 35%, MAP stable off pressors.
+   - **Plan:**
+     - Continue GDMT for HF (started low-dose carvedilol, lisinopril; goal up-titrate as tolerated).
+     - Monitor for arrhythmias, volume status.
+     - Daily weights, I/Os, strict fluid balance.
+     - Repeat TTE in 3 days.
+     - Cardiology following.
+
+---
+
+#### 2. **Septic Shock / Ruptured Appendix**
+   - Peri-appendiceal abscess, peritonitis. Source controlled with percutaneous drain HD1.
+   - Blood cultures: E. coli, Bacteroides fragilis. 
+   - **Plan:**
+     - Continue Zosyn + metronidazole, 14d total.
+     - Monitor for abscess resolution, fevers, WBC.
+     - ID consulted.
+
+---
+
+#### 3. **Acute Kidney Injury (KDIGO 3)**
+   - Oliguric, Cr peak 3.2→now improved to 1.6. Likely multifactorial (shock, nephrotoxins, myoglobinuria).
+   - **Plan:**
+     - Renal dose adjustments.
+     - Monitor lytes, BUN/Cr, urine output.
+     - Avoid nephrotoxins.
+     - Nephrology following.
+
+---
+
+#### 4. **Anemia**
+   - Chronic anemia, worsened acutely (Hgb nadir 7.2), likely acute blood loss + dilutional + chronic disease.
+   - **Plan:**
+     - Transfuse PRBCs to keep Hgb >7.5.
+     - Monitor CBC daily.
+     - Iron studies, retic count pending.
+
+---
+
+#### 5. **Prediabetes**
+   - Mildly elevated A1c (6.1%). Stress hyperglycemia during ICU stay.
+   - **Plan:**
+     - FS glucose q6h while on steroids/TPN.
+     - Sliding scale insulin prn.
+     - Endo to follow as outpatient.
+
+---
+
+#### 6. **Contraceptive Management**
+   - Extensive prior contraceptive use (NuvaRing, Mirena, etc.), currently none placed.
+   - **Plan:**
+     - No estrogen-based contraceptives while recovering from critical illness.
+     - Outpatient GYN f/u for long-term planning.
+
+---
+
+#### 7. **History of Appendectomy**
+   - Prior appendectomy, unclear if complete resection; now complicated by peri-appendiceal abscess.
+   - **Plan:**
+     - Monitor for recurrent infection.
+
+---
+
+#### 8. **Other (Remote patellar tendon rupture, viral pharyngitis, normal pregnancy)**
+   - Not contributing to current hospitalization.
+
+---
+
+### Procedures
+- HD1: Peri-appendiceal abscess drain placement (IR)
+- HD2: Right femoral arterial access, Impella CP placement (Cath Lab)
+- HD6: Impella explantation (Cath Lab)
+- Multiple central and arterial lines
+
+---
+
+### Medications (Hospital Day 11)
+- Zosyn 4.5g IV q8h
+- Metronidazole 500mg IV q8h
+- Acetaminophen 1g IV q6h prn
+- Carvedilol 3.125mg BID
+- Lisinopril 2.5mg daily
+- Furosemide 20mg IV q12h
+- Sliding scale insulin
+- PRBCs as needed for Hgb <7.5
+- Heparin SQ for DVT prophylaxis
+
+---
+
+### Vital Signs (select points, see flowsheet for details)
+
+| Date       | Temp (°C) | HR (bpm) | BP (mmHg) | RR | SpO2 | Pain |
+|------------|-----------|----------|-----------|----|------|------|
+| HD1        | 38.4      | 112      | 83/51     | 24 | 95%  | 8    |
+| HD3        | 37.9      | 102      | 91/58     | 22 | 97%  | 6    |
+| HD6        | 37.6      | 90       | 102/62    | 18 | 99%  | 4    |
+| HD11       | 36.9      | 76       | 119/72    | 16 | 99%  | 2    |
+
+---
+
+### Laboratory Data
+
+**CBC + Chem7 (selected; see full flowsheet for all values)**
+
+| Date    | WBC (x10³/uL) | Hgb (g/dL) | Hct (%) | Plt (x10³/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Gluc (mg/dL) |
+|---------|---------------|------------|---------|---------------|-------------|------------|-------------|--------------|-------------|------------|--------------|
+| HD1     | 18.2          | 10.5       | 33.1    | 215           | 134         | 4.9        | 102         | 19           | 32          | 2.1        | 172          |
+| HD2     | 21.5          | 8.6        | 27.5    | 186           | 132         | 5.8        | 98          | 15           | 44          | 3.2        | 188          |
+| HD3     | 14.7          | 7.2        | 22.8    | 178           | 136         | 5.4        | 100         | 17           | 41          | 2.9        | 163          |
+| HD4     | 10.2          | 8.0        | 25.3    | 198           | 138         | 4.8        | 102         | 20           | 33          | 2.1        | 124          |
+| HD6     | 8.6           | 9.8        | 29.7    | 212           | 137         | 4.6        | 101         | --           | 25          | 1.8        | 115          |
+| HD8     | 6.1           | 10.3       | 32.1    | 221           | --          | 4.3        | 104         | 22           | 21          | 1.4        | 99           |
+| HD11    | 5.2           | 11.1       | 34.2    | 228           | 139         | 4.4        | 103         | 23           | 18          | 1.3        | 94           |
+
+**Other Labs:**
+
+| Date    | Troponin I (ng/mL) | BNP (pg/mL) | ALT (U/L) | AST (U/L) | Alk Phos (U/L) | Total Bili (mg/dL) | INR | APTT (sec) | Lactate (mmol/L) |
+|---------|---------------------|-------------|-----------|-----------|----------------|--------------------|-----|-----------|------------------|
+| HD2     | 0.23                | 1210        | 45        | 67        | 92             | 0.9                | 1.2 | 37        | 4.2              |
+| HD3     | 0.18                | 980         | 51        | 75        | --             | 1.3                | 1.4 | 42        | 3.5              |
+| HD5     | 0.09                | 622         | 39        | 52        | 88             | 0.7                | 1.1 | --        | 2.1              |
+| HD7     | <0.01               | 312         | 37        | 33        | 74             | 0.5                | 1.0 | 30        | 1.2              |
+
+---
+
+### Imaging
+
+- **CT Abd/Pelvis (HD1):** Peri-appendiceal abscess, free fluid, fat stranding.
+- **TTE (HD2):** Severe global LV hypokinesis, EF 15%, mild MR, RV normal.
+- **TTE (HD6):** Improved LV function, EF 35%, no LV thrombus.
+- **CXR (serial):** Evolving pulmonary edema, improved by HD7.
+
+---
+
+### Disposition
+- Remains in step-down, planned for transfer to telemetry once stable off inotropes, considering early rehab.
+
+---
+
+### Additional Notes
+
+- **Lines:** R IJ central, L radial A-line, Foley d/c’d HD9.
+- **Allergies:** NKDA.
+- **Code Status:** Full.
+- **Family updated daily.**
+
+---
+
+**Signature:**  
+Marisol Marquez, MD  
+CVICU Attending  
+06/08/2024 08:31
+
+---
+
+**(See flowsheet for further labs, medications, and nursing documentation.)**

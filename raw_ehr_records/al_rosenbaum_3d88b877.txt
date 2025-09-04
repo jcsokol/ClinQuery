@@ -1,0 +1,207 @@
+---
+**Patient Name:** Al Rosenbaum  
+**MRN:** 009234091  
+**DOB:** 03/15/1999  
+**Sex:** Male  
+**Attending:** Dr. K. Hargrove  
+**Admit Date:** 06/19/2024  
+**Note Date:** 06/23/2024  
+**Location:** MICU, Room 11  
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+Al Rosenbaum is a 25-year-old male with a past medical history notable for perennial allergic rhinitis, recurrent otitis media, hypertension, viral sinusitis, and prior episodes of streptococcal pharyngitis, who presented to the ED with worsening dyspnea, orthopnea, and chest pain. On arrival, he was found to be tachycardic and hypotensive with evidence of pulmonary edema. Initial labs and imaging were concerning for acute decompensated heart failure, likely secondary to myocarditis (see below). He rapidly deteriorated, requiring intubation and vasopressor support, ultimately progressing to cardiogenic shock. Due to persistent hypotension and evidence of end-organ hypoperfusion despite maximal medical therapy, a decision was made to place a percutaneous left ventricular assist device (Impella CP) on hospital day 2.
+
+---
+
+## PAST MEDICAL HISTORY
+
+- Perennial allergic rhinitis w/ seasonal variation
+- Otitis media (recurrent, childhood)
+- Acute bronchitis (remote, resolved)
+- Hypertension
+- Viral sinusitis (recent, 2 weeks prior)
+- Streptococcal sore throat (remote, childhood)
+
+---
+
+## PAST SURGICAL HISTORY
+
+- None
+
+---
+
+## ALLERGIES
+
+- NKDA
+
+---
+
+## HOME MEDICATIONS
+
+- Loratadine 5 mg chewable tab, daily PRN
+- Epinephrine autoinjector 0.3 mL, PRN
+- Cefuroxime 250 mg oral tab, BID (recent course, completed 5 days prior)
+- Naproxen sodium 220 mg oral tab, PRN
+- Acetaminophen/dextromethorphan/doxylamine soln, PRN
+- Hydrochlorothiazide 25 mg, daily
+- Penicillin V potassium 500 mg oral tab, BID (recent, completed 2 weeks prior)
+
+---
+
+## SOCIAL HISTORY
+
+- Lives with parents
+- College student, denies tobacco, EtOH, or illicit drug use
+- No recent travel, no sick contacts
+
+---
+
+## FAMILY HISTORY
+
+- Father: HTN, CAD  
+- Mother: Allergic rhinitis  
+- No family hx of cardiomyopathy or sudden cardiac death
+
+---
+
+## REVIEW OF SYSTEMS
+
+Unable to obtain full ROS due to intubation and sedation. Per family, 4 days of worsening dyspnea, cough, myalgias, fevers, orthopnea. No recent chest trauma, no palpitations, no syncope.
+
+---
+
+## PHYSICAL EXAM (initial, ED)
+
+- **General:** Ill-appearing, diaphoretic, in moderate respiratory distress
+- **HEENT:** Oropharynx clear, nares congested
+- **Neck:** JVD 12 cm, no carotid bruits
+- **Chest:** Crackles at bases, decreased air entry
+- **CV:** Tachycardic, S3, no murmurs, cool extremities, weak pulses
+- **Abd:** Soft, NT/ND, no HSM
+- **Extremities:** 1+ pitting edema BLE
+- **Neuro:** AOx2 (confused), no focal deficits
+
+---
+
+## ICU HOSPITAL COURSE
+
+### Day 0 (Admission)
+- Worsening SOB, chest pain, fevers
+- Initial VS: T 38.8°C, HR 132, BP 88/50, RR 32, SpO2 89% RA
+- CXR: Pulm edema, cardiomegaly
+- Echo: LVEF ~20%, global hypokinesis, no valvular vegetations
+- Troponin I: 2.3 → 3.1 ng/mL (rising)
+- BNP: 1560 pg/mL
+- Started on IV furosemide, dobutamine, norepinephrine
+- Intubated for hypoxic respiratory failure
+
+### Day 1
+- Remained hypotensive despite escalating pressors
+- Lactate rising (peak 6.2 mmol/L)
+- Renal function worsening (Cr from 1.0 → 2.1)
+- Multidisciplinary decision: temporary LVAD (Impella) placement
+- Infectious workup: Viral panel (+) Coxsackie B; blood cx negative
+- Empiric vanc/cefepime started, later d/c’d
+
+### Day 2
+- Impella placed via femoral approach, hemodynamics improved
+- Weaned off norepinephrine, dobutamine continued
+- Extubated to HFNC, mentation improved
+- Diuresis continued, net -2.5L
+
+### Day 3-4
+- LVEF improving (now 35% by bedside echo)
+- Downtrend in troponin and BNP
+- Renal function stabilizing (Cr 1.4)
+- Weaning Impella support, device explanted on day 4
+- Monitoring for arrhythmias, none noted
+
+---
+
+## PERTINENT LABS
+
+| Date      | WBC   | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin I | BNP   | AST   | ALT   | Lactate |
+|-----------|-------|------|------|-------|------|------|------|------|------|------|------|------------|-------|-------|-------|---------|
+| 6/19/24   | 9.4   | 12.7 | 43.8 | 423   | 134  | 4.1  | 102  | 19   | 18   | 1.0  | 108  | 2.3        | 1560  | 62    | 54    | 3.9     |
+| 6/20/24   | 11.2  | 11.9 | 39.4 | 211   | 128  | 3.7  | 97   | 15   | 34   | 2.1  | 142  | 3.1        | 1800  | 96    | 86    | 6.2     |
+| 6/21/24   | 8.7   | 12.0 | 36.8 | 156   | 133  | 4.5  | 100  | 21   | 29   | 1.7  | 124  | 1.8        | 1190  | 48    | 39    | 2.0     |
+| 6/22/24   | 7.9   | 13.4 | 41.2 | 233   | 137  | 4.2  | 105  | 22   | 21   | 1.4  | 117  | 0.7        | 654   | 32    | 25    | 1.1     |
+| 6/23/24   |       | 13.1 |      | 188   | 139  | 4.1  | 103  |      | 18   |      | 102  | 0.3        | 390   |       |       |         |
+
+---
+
+## MICROBIOLOGY
+
+- Blood cultures x2: No growth
+- Respiratory viral PCR: (+) Coxsackie B virus
+- Strep A antigen: Negative
+
+---
+
+## IMAGING
+
+- CXR (6/19): Cardiomegaly, pulmonary edema, mild effusions
+- CXR (6/21): Improved vascular congestion
+- TTE (6/19): LVEF 20%, global hypokinesis, no thrombus
+- TTE (6/22): LVEF 35%, mild MR, no pericardial effusion
+
+---
+
+## ASSESSMENT & PLAN
+
+### 1. Cardiogenic Shock due to Fulminant Myocarditis (Coxsackie B)
+- Required temporary LVAD (Impella) for hemodynamic support
+- Now improving, LVAD explanted, off pressors
+- Monitoring for recurrent arrhythmias, end-organ dysfunction
+- Continue GDMT for HF (ACEi to be started as tolerated)
+- Serial EKGs, daily labs
+
+### 2. Acute Decompensated Heart Failure
+- Diuresed aggressively, now euvolemic
+- Monitor for volume status, adjust diuretics as needed
+- Cardiology to follow
+
+### 3. Acute Kidney Injury (pre-renal, multifactorial)
+- Improved with volume offload and improved perfusion
+- Monitor UOP, renal panel daily
+
+### 4. Hypoxic Respiratory Failure, s/p Intubation
+- Extubated, on HFNC
+- Pulm hygiene, incentive spirometry
+
+### 5. Hypertension
+- Held home HCTZ during AKI, will resume once stable
+- Monitor BP
+
+### 6. Allergic Rhinitis, Sinusitis, Otitis Media (remote)
+- No active symptoms, continue home allergy meds as tolerated
+
+### 7. Pain/Agitation
+- On PRN acetaminophen
+- Monitor for delirium
+
+### 8. DVT Prophylaxis
+- SCDs in place, start enoxaparin once bleeding risk reduced
+
+### 9. Infection Prophylaxis
+- Empiric vanc/cefepime discontinued after negative cultures
+
+### 10. Nutrition
+- NPO x 48h, now on cardiac diet
+
+---
+
+## DISPOSITION
+
+- Continue telemetry
+- Cardiac rehab consult
+- Anticipate transfer to stepdown in 24-48h if stable
+
+---
+
+**Physician:** Dr. K. Hargrove, MD  
+**Date/Time:** 06/23/2024 08:17  
+---

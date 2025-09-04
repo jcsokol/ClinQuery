@@ -1,0 +1,175 @@
+---
+**Patient Name:** Lucia Bahena  
+**MRN:** 00928374  
+**DOB:** 10/23/1974  
+**Sex:** Female  
+**Admit Date:** 05/12/2024  
+**Attending:** Dr. J. Meyers  
+**Consultants:** Cardiology, Endocrinology, Nephrology  
+**Admitting Diagnosis:** Cardiogenic shock, acute decompensated heart failure  
+**Code Status:** Full  
+**Allergies:** NKDA  
+**Height:** 154 cm  
+**Weight:** 68 kg  
+**BMI:** 28.8 kg/m2  
+**Past Medical History:**  
+- Obesity (BMI >30)  
+- Prediabetes  
+- Hyperlipidemia  
+- Recurrent viral URIs  
+- Miscarriage x1  
+- G2P1A1  
+- CKD stage 3a (baseline Cr 1.3-1.5)  
+- Hx of OCP/IUD use  
+**Past Surgical History:** None  
+**Social History:** Never smoker, rare EtOH, no illicit drugs, lives with husband and daughter  
+**Family History:** Father MI age 56, mother DM2, brother HTN  
+
+---
+
+# ICU Progress Note – Day 7
+
+## Chief Complaint:
+Progressive shortness of breath, orthopnea, lower extremity edema, and chest heaviness, requiring ICU admission and temporary LVAD placement.
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+Lucia Bahena is a 49-year-old female with multiple comorbidities who presented with acute dyspnea, orthopnea, and chest tightness. On arrival, she was tachycardic, hypotensive (SBP 78 mmHg), tachypneic, and hypoxemic (SpO2 90% on 6L NC). Initial workup revealed elevated BNP (2350 pg/mL), troponin I (0.37 → 0.45 ng/mL), CXR with pulmonary edema, and echo with severe global LV dysfunction (EF 20%), moderately reduced RV function, and mild MR. She developed worsening shock refractory to diuretics and inotropes, requiring placement of a percutaneous LVAD (Impella CP) on hospital day 2. Multidisciplinary management in the ICU included aggressive diuresis, uptitration of inotropes, and close hemodynamic monitoring. She is now day 7 post-admission, day 6 post-LVAD, and weaning off inotropes. Renal function has worsened but is now stabilizing.
+
+---
+
+## ASSESSMENT & PLAN
+
+### 1. Cardiogenic Shock, Acute Decompensated Heart Failure, s/p Temporary LVAD
+- Initial presentation with hypotension, low-output state, pulmonary edema, elevated BNP/troponin, and echo with severe LV dysfunction.
+- Impella CP placed day 2; flow 3.2 L/min, MAP 70-75.
+- Weaning off norepinephrine and dobutamine.
+- Echo day 6: EF improved to 30%, LVAD support down to P3.
+- Plan:
+  - Continue LVAD wean, planned removal in 24-48h if stable.
+  - Daily TTE for LV function.
+  - Monitor for hemolysis, device complications.
+  - Continue telemetry, strict I/O, daily weights.
+  - Cardiology following.
+
+### 2. Acute Kidney Injury on CKD 3a
+- Baseline Cr 1.3-1.5; peaked at 2.9 post-shock, now downtrending to 2.1.
+- Oliguric for 48h, now improving diuresis.
+- No indication for RRT at this time.
+- Plan:
+  - Monitor renal function, avoid nephrotoxins.
+  - Adjust meds for renal dosing.
+  - Nephrology following.
+
+### 3. Hyperlipidemia, Prediabetes
+- LDL 128, HDL 32, TG 179, HbA1c 6.0%.
+- Plan:
+  - Resume simvastatin.
+  - Monitor glucose, avoid hyperglycemia.
+  - Endocrine to re-evaluate outpatient.
+
+### 4. Obesity (BMI 29-30)
+- BMI on admission 28.8, up from baseline due to fluid overload.
+- Plan: Fluid status optimization, dietician consult.
+
+### 5. Anemia, Mild Thrombocytosis
+- Hgb dropped from 14.7 to 10.2 (post-device), platelets up to 480.
+- Suspect dilutional + device-related hemolysis.
+- Plan: Monitor for overt bleeding, haptoglobin, LDH.
+
+### 6. Contraceptive Management
+- Long-acting reversible contraception in situ.
+- Plan: No changes inpatient.
+
+### 7. Psychosocial
+- Significant anxiety re: prognosis, family stress.
+- Plan: Social work, psych support.
+
+---
+
+## VITALS SUMMARY (ICU COURSE)
+| Date           | Temp (C) | HR  | BP         | RR | SpO2 | Weight (kg) | O2 device     |
+|----------------|----------|-----|------------|----|------|-------------|---------------|
+| 5/12/24 (ED)   | 36.9     | 122 | 78/54      | 28 | 90   | 68.2        | 6L NC         |
+| 5/13/24        | 37.2     | 110 | 85/60      | 24 | 94   | 69.0        | Optiflow 40%  |
+| 5/14/24        | 37.6     | 98  | 92/66      | 18 | 96   | 67.5        | Optiflow 30%  |
+| 5/15/24        | 37.1     | 90  | 100/70     | 14 | 98   | 66.3        | RA            |
+| 5/17/24        | 37.0     | 82  | 110/75     | 12 | 98   | 65.8        | RA            |
+
+---
+
+## LABS
+
+### CBC / CHEMISTRY TABLE
+
+| Date     | WBC  | Hgb   | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Ca    |
+|----------|------|-------|------|------|------|------|------|------|------|------|-------|
+| 5/12/24  | 4.2  | 14.7  | 443  | 140  | 4.9  | 104  | 22   | 18   | 2.9  | 81   | 8.6   |
+| 5/13/24  | 5.0  | 13.1  | 470  | 138  | 5.2  | 102  | 21   | 30   | 2.8  | 86   | 8.5   |
+| 5/14/24  | 6.1  | 11.4  | 480  | 137  | 5.5  | 101  | 19   | 35   | 2.6  | 102  | 8.2   |
+| 5/15/24  | 5.8  | 10.2  | 457  | 138  | 4.8  | 103  | 23   | 28   | 2.4  | 108  | 8.7   |
+| 5/16/24  | 5.2  | 10.6  | 442  |      |      |      |      |      | 2.1  |      | 8.9   |
+| 5/17/24  | 4.9  | 10.7  | 430  | 140  | 4.7  | 104  | 25   | 22   | 2.1  | 99   | 9.0   |
+
+---
+
+### ADDITIONAL RELEVANT LABS
+
+- **BNP:** 2350 → 1320 pg/mL (improving)
+- **Troponin I:** 0.37 → 0.45 → 0.31 ng/mL
+- **LFTs:** ALT 26, AST 29, AlkPhos 20, Bili 1.1  
+- **Albumin:** 4.0  
+- **LDH:** 410 (elevated, likely device-related hemolysis)
+- **Haptoglobin:** 12 (low)
+- **INR:** 1.3, PTT 31  
+- **HbA1c:** 6.0%  
+- **Lipid Panel:** TC 187, LDL 128, HDL 32, TG 179
+
+---
+
+## IMAGING & STUDIES
+
+- **CXR (5/12/24):** Pulmonary edema, prominent pulmonary vasculature, mild cardiomegaly  
+- **Echo (5/12/24):** EF 20%, severe global hypokinesis, mild MR  
+- **Echo (5/16/24):** EF 30%, improved LV function, LVAD in situ  
+- **Renal US:** No hydronephrosis, normal size  
+- **EKG:** Sinus tachycardia, low voltage QRS
+
+---
+
+## MEDICATIONS
+
+- Simvastatin 10 mg QHS
+- Metoprolol XL 25 mg QHS (held first 3 days)
+- Furosemide IV, then PO
+- Lisinopril 2.5 mg QD (started day 6)
+- Norepinephrine, dobutamine (weaned off)
+- Heparin drip (per LVAD protocol)
+- Docusate, PRN acetaminophen
+- OCP/IUD (home, no changes inpatient)
+- Sliding scale insulin PRN
+
+---
+
+## PHYSICAL EXAM (ICU DAY 7)
+
+- **Gen:** Alert, NAD, anxious
+- **CV:** S1 S2, no new murmurs, device hum, JVP 7cm, trace pedal edema
+- **Pulm:** Lungs clear, no rales, O2 sat 98% RA
+- **Abd:** Soft, NT, no HSM
+- **Ext:** No DVT, trace edema
+- **Neuro:** AAOx3
+
+---
+
+## DISPOSITION
+- Remain in ICU, continue LVAD wean, anticipate transfer to stepdown in 48h if stable.
+- Close f/u cardiology, nephrology, nutrition, psych.
+
+---
+
+**Signed:** J. Meyers, MD  
+**Date/Time:** 05/18/2024 08:43  
+---

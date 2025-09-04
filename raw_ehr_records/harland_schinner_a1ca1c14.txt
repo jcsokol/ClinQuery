@@ -1,0 +1,145 @@
+**Patient Name:** Harland Schinner  
+**MRN:** 03844721  
+**DOB:** 1992-05-06 (Age: 31)  
+**Sex:** Male  
+**Admission Date:** 2024-04-21  
+**Attending:** Dr. R. Patel  
+**Admitting Dx:** Cardiogenic shock secondary to viral myocarditis  
+**Consults:** Cardiology, Infectious Disease, Pulmonology  
+
+---
+
+# ICU Progress Note – 2024-04-25
+
+---
+
+## Subjective:
+Harland Schinner is a 31-year-old male with PMHx notable for recent viral sinusitis, acute bronchitis, and no significant cardiac history, who presented to the ED with 3 days of worsening dyspnea, orthopnea, and chest tightness. He was initially being treated as an outpatient for URI symptoms but developed profound fatigue, palpitations, and an episode of near-syncope. He was found to be hypotensive (SBP: 80s mmHg), tachycardic, and hypoxic on room air.  
+
+On admission, he reported 8/10 chest discomfort, severe shortness of breath, and mild confusion. Since admission, he has been intubated for hypoxemic respiratory failure and required escalating pressor support. Family at bedside.  
+
+---
+
+## Objective:
+
+### Vitals (Selected, full chart in flowsheet)
+| Date        | Temp (°C) | HR   | BP (mmHg) | RR  | SpO2 | FiO2 | Pain |
+|-------------|-----------|------|-----------|-----|------|------|------|
+| 4/21 07:00  | 37.8      | 123  | 82/49     | 28  | 89%  | 100% | 8    |
+| 4/22 04:00  | 38.1      | 110  | 95/62     | 22  | 94%  | 60%  | 4    |
+| 4/23 12:00  | 37.4      | 102  | 104/68    | 18  | 96%  | 40%  | 2    |
+| 4/24 19:00  | 36.9      | 88   | 118/74    | 15  | 98%  | 35%  | 1    |
+
+### Physical Exam (abridged)
+- **Gen:** Intubated, sedated, appears younger than stated age, intermittently follows commands.
+- **CV:** Tachycardic, S3 gallop, no murmurs, pulses 1+.
+- **Resp:** Coarse breath sounds, mild crackles bilat bases, ventilator dependent.
+- **GI:** Abdomen soft, NT/ND, bowel sounds present.
+- **Ext:** No edema. No cyanosis.
+- **Skin:** Warm, well-perfused. No rash.
+
+---
+
+### Labs
+
+#### Hematology/Chemistry
+
+| Date       | WBC   | Hgb   | Hct   | Plt   | Na  | K   | Cl  | HCO3 | BUN | Cr   | Glu | Troponin | AST  | ALT  | BNP    |
+|------------|-------|-------|-------|-------|-----|-----|-----|------|-----|------|-----|----------|------|------|--------|
+| 4/21 08:00 | 5.9   | 14.1  | 48.5  | 410   | 137 | 4.2 | 102 | 23   | 21  | 1.1  | 92  | 0.22     | 43   | 36   | 3680   |
+| 4/22 05:00 | 9.2   | 12.3  | 41.2  | 255   | 134 | 3.5 | 97  | 18   | 39  | 2.1  | 108 | 1.6      | 161  | 144  | 9200   |
+| 4/23 13:00 | 7.5   | 11.8  | 38.7  | 215   | 135 | 3.7 | 99  | 20   | 32  | 1.7  | 102 | 0.88     | 97   | 61   | 6030   |
+| 4/24 19:00 | 6.1   | 12.4  | 39.2  | 230   | 138 | 4.0 | 100 | 22   | 26  | 1.3  | 97  | 0.37     | 56   | 43   | 4310   |
+| 4/25 07:00 | 5.8   | 12.7  |       | 201   |     |     |     |      | 24  | 1.2  | 101 |          |      |      |        |
+
+- **Other labs:** Procalcitonin 0.13 ng/mL (4/21), CK-MB 13.2 ng/mL (4/22), LDH 490 U/L (4/22), Ferritin 311 ng/mL (4/22), CRP 18 mg/L (4/22), D-dimer 0.89 mg/L (4/22).
+
+#### Microbiology
+- **NP swab**: Positive for Coxsackie B virus (PCR)
+- **Blood cultures**: No growth at 48h
+
+#### Imaging
+- **CXR 4/21**: Bilateral interstitial infiltrates, mild pulmonary edema.
+- **TTE 4/21**: LVEF 12%, global hypokinesis, mild RV dysfunction, no vegetations.
+- **Repeat TTE 4/24**: LVEF improved to 32% after support.
+
+---
+
+### Hospital Course Summary
+
+- **Day 1-2:** Rapid decompensation requiring intubation and norepinephrine, then vasopressin. Echo confirmed severe LV dysfunction. Multidisciplinary decision for placement of temporary percutaneous LVAD (Impella CP) on 4/22 for refractory cardiogenic shock.
+- **Day 2-4:** Gradual improvement in hemodynamics, weaned off vasopressors. Impella support for 60 hours. Complicated by mild hemolysis (dark urine, elevated LDH, falling haptoglobin). Renal function transiently worsened, improved after volume optimization.
+- **Day 4:** Impella weaned, explanted at bedside. No device-related infection, no significant vascular complications.
+- **Day 5:** Extubated, transitioned to high-flow nasal cannula, then room air. Neurologically intact.
+
+---
+
+## Assessment & Plan
+
+**1. Cardiogenic Shock, likely secondary to acute viral myocarditis (Coxsackie B)**
+- Required temporary LVAD (Impella) for 60h, now explanted.
+- LVEF improving (now 32%).
+- Plan: Continue guideline-directed medical therapy (GDMT) for HF (carvedilol, low-dose lisinopril), monitor telemetry, daily weights, strict I/O. Cardiology f/u.
+
+**2. Acute Kidney Injury (KDIGO stage 2, likely multifactorial)**
+- Likely pre-renal from low output, possible hemolysis.
+- Trending improved (Cr: 2.1 → 1.2).
+- Plan: Monitor renal panel, avoid nephrotoxins, maintain euvolemia.
+
+**3. Transient Hemolysis (Impella-associated)**
+- Resolved after device removal.
+- Plan: Monitor Hgb, LDH, haptoglobin.
+
+**4. Hypoxemic Respiratory Failure**
+- Intubated days 1-4, now extubated.
+- Weaning O2, pulmonary toilet, incentive spirometry.
+
+**5. Viral Sinusitis/Bronchitis**
+- Supportive care, no antibiotics.
+- Symptoms improving.
+
+**6. Pain, mild**
+- PRN acetaminophen.
+
+**7. Vascular Access**
+- Left femoral arterial and venous lines for device and monitoring, removed without complication.
+
+**8. Nutrition**
+- Enteral nutrition while intubated, now on cardiac diet.
+
+**9. DVT prophylaxis**
+- SCDs, SQ heparin.
+
+**10. Disposition**
+- Stepdown when stable, anticipate transfer in 24-48h.
+- Outpatient f/u: Cardiology, PCP, repeat TTE in 2-4 weeks.
+
+---
+
+## Medications (Active)
+
+- Acetaminophen 325mg PO q6h PRN pain/fever
+- Carvedilol 6.25mg PO BID
+- Lisinopril 2.5mg PO daily
+- Furosemide 20mg IV q12h (hold if SBP <90)
+- Heparin 5000u SQ q8h
+- Pantoprazole 40mg IV daily
+
+---
+
+## Orders/Tasks
+
+- Daily labs: CBC, Chem7, LFTs
+- Monitor fluid status, daily CXR
+- Mobilize as tolerated
+- Remove Foley when ambulatory
+- PT/OT consult
+
+---
+
+**Physician:** R. Patel, MD  
+**Date/Time:** 2024-04-25 10:15
+
+---
+
+**[END OF NOTE]**

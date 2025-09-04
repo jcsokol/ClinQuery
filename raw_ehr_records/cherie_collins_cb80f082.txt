@@ -1,0 +1,171 @@
+---
+**Patient Name:** Cherie Collins  
+**MRN:** 2045123  
+**DOB:** 1956-01-31  
+**Sex:** Female  
+**Admit Date:** 2024-04-12  
+**Attending:** Dr. S. Patel  
+**Service:** Cardiac ICU  
+**Note Date:** 2024-04-19  
+**Encounter Type:** Inpatient  
+**Note Author:** Dr. S. Patel, MD
+
+---
+
+# ICU Progress Note
+
+---
+
+## HISTORY OF PRESENT ILLNESS
+
+66-year-old female with PMHx significant for prediabetes, chronic anemia, osteoporosis (on alendronate), remote miscarriage, and baseline mild CKD III, who presented to ED with 2 days of progressive dyspnea, orthopnea, and chest heaviness. She reported viral URI symptoms 1 week prior. On arrival: tachypneic, hypotensive (SBP 78), tachycardic to 118, O2 sat 89% RA. CXR: pulmonary edema. ECG: sinus tachycardia, low voltage. BNP 2523, troponin 0.18 → 0.24, echo: LVEF 13%, severe global hypokinesis, LV dilatation. She rapidly developed cardiogenic shock, refractory to high-dose vasopressors/inotropes. Emergent left-sided Impella CP (percutaneous LVAD) placed at bedside.
+
+Hospital course complicated by oliguric renal failure (resolved), anemia requiring transfusion, and GI bleed (melena). She is now 7 days post-Impella, weaning inotropes. Current issues: volume overload, anemia, osteoporosis, prediabetes, mild delirium.
+
+---
+
+## VITALS (last 24h)
+
+| Time      | HR  | BP       | RR  | SpO2 | Temp | MAP  | Weight (kg) |
+|-----------|-----|----------|-----|------|------|------|-------------|
+| 04:00     | 92  | 104/62   | 18  | 98%  | 36.7 | 76   | 86.5        |
+| 12:00     | 88  | 112/68   | 16  | 97%  | 36.9 | 81   | 86.3        |
+| 20:00     | 95  | 108/66   | 19  | 99%  | 36.8 | 80   | 86.2        |
+
+Pain: 3/10 (intermittent, chest wall, post-Impella insertion site).
+
+---
+
+## LABS
+
+**CBC/Chemistry (selected values, see full flowsheet for details):**
+
+| Date       | WBC (K) | Hgb (g/dL) | Hct (%) | Plt (K) | Na  | K   | Cl  | CO2 | BUN | Cr  | Glu | Ca  |
+|------------|---------|------------|---------|---------|-----|-----|-----|-----|-----|-----|-----|-----|
+| 4/13 06:15 | 5.9     | 9.4        | 27.5    | 102     | 141 | 4.8 | 102 | 21  | 31  | 1.4 | 161 | 8.9 |
+| 4/14 06:30 | 6.1     | 8.7        | 25.1    | 95      | 139 | 5.2 | 98  | 18  | 44  | 2.1 | 138 | 9.1 |
+| 4/15 05:50 | 5.3     | 9.9        | 29.2    | 120     | 140 | 4.5 | 99  | 20  | 23  | 1.1 | 112 | 9.3 |
+| 4/16 07:00 | 4.8     | 10.2       | 30.1    | 130     | 142 | 4.2 | 100 | 22  | 19  | 0.9 | 102 | —   |
+| 4/17 05:20 | —       | 10.6       | 31.0    | 135     | 143 | 4.1 | 101 | —   | 17  | 0.8 | 98  | 9.1 |
+| 4/18 06:10 | 5.2     | 10.4       | 30.4    | 143     | 144 | 4.0 | —   | 23  | 16  | 0.8 | 95  | 9.2 |
+| 4/19 05:40 | 5.8     | 10.7       | 31.3    | 154     | 142 | 4.8 | 101 | 21  | 15  | 0.8 | 94  | 9.4 |
+
+**Other labs:**
+
+- **BNP:** 2523 (admit, trending down to 1120 4/18)
+- **Troponin I:** 0.18 → 0.24 (admit, down to 0.07 4/19)
+- **Liver panel:** AST 48 (peak), ALT 39, Tbili 1.4 (4/14, improved)
+- **PT/INR:** 1.7 (admit, now 1.2)
+- **Lactate:** 3.9 (admit), normalized by 4/16
+
+---
+
+## IMAGING/DIAGNOSTICS
+
+- **CXR (4/13):** Pulmonary edema, mild cardiomegaly, small bilateral effusions.
+- **Echo (4/13):** LVEF 13% (severe global hypokinesis), dilated LV, mild MR, RV normal.
+- **ECG:** Sinus tach, low voltage QRS, no acute ST-T.
+- **Head CT (4/15):** No acute infarct/bleed (delirium workup).
+
+---
+
+## HOSPITAL COURSE
+
+Day 0-1: Admitted to ICU in shock, intubated for hypoxic resp failure. High-dose norepinephrine, dobutamine started. Emergent Impella CP placed for cardiogenic shock (likely viral myocarditis vs. acute decompensated HF).  
+Day 2-3: Improving hemodynamics, weaned off pressors, oliguric AKI (Cr peaked 2.1, now 0.8), hemoglobin drop (GI bleed suspected, 2u PRBC transfused, PPI started, EGD deferred).  
+Day 4-5: Extubated, started diuresis, mild confusion/delirium, improving oxygenation.  
+Day 6-7: Impella weaning, stable off pressors, volume status improved. Physical therapy started. Monitoring for arrhythmias, bleeding, renal recovery.
+
+---
+
+# ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock (probable viral myocarditis, acute decompensated HF):**  
+- S/P emergent Impella CP placement (day 0), now 7d post-insertion.  
+- Off pressors/inotropes, stable hemodynamics.  
+- Echo: LVEF still reduced (repeat pending).  
+- **Plan:** Continue Impella wean, neuro checks q2h, daily TTE, monitor for hemolysis, device complications, transition to guideline-directed medical therapy as tolerated. Cardiac MRI pending for etiology. Consider advanced HF therapies if no recovery.
+
+**2. Acute Kidney Injury (resolved):**  
+- Oliguric, Cr up to 2.1, now normalized.  
+- **Plan:** Maintain euvolemia, monitor UOP, daily BMP.
+
+**3. Anemia (multifactorial, likely GI bleed + chronic):**  
+- Hgb nadir 8.7, transfused 2u PRBC, now stable.  
+- **Plan:** Monitor CBC, GI prophylaxis, hold anticoag as able, iron studies pending. Outpatient GI f/u.
+
+**4. Volume Overload:**  
+- Initial pulmonary edema, now improved.  
+- **Plan:** IV Lasix prn, strict I/O, daily weights.
+
+**5. Osteoporosis:**  
+- Chronic, on alendronate.  
+- **Plan:** Continue home meds, monitor Ca/vit D.
+
+**6. Prediabetes:**  
+- A1c 5.8%.  
+- **Plan:** Monitor glucose, diabetic diet, endocrinology consult if needed.
+
+**7. Delirium (ICU):**  
+- Mild, improving.  
+- **Plan:** Reorient, minimize sedatives, PT/OT, sleep hygiene.
+
+**8. Other:**  
+- Pain: mild, managed with PRN acetaminophen, ibuprofen held for renal recovery.  
+- Wound: Impella site clean, dry, no erythema.  
+- DVT ppx: SCDs, Lovenox held x2d during GI bleed, now resumed.
+
+---
+
+## ACTIVE MEDICATIONS
+
+- Alendronate 10mg PO qd
+- Pantoprazole 40mg IV qd
+- Furosemide 20mg IV q12h
+- Acetaminophen 650mg PO q6h prn
+- Enoxaparin 40mg SQ qd (on hold if bleeding)
+- Multivitamin PO qd
+
+**Allergies:** NKDA
+
+---
+
+## DISPOSITION
+
+- Remain in ICU, continue Impella support, goal transfer to cardiac stepdown if stable off device.
+- Anticipate rehab needs due to deconditioning, arrange PT/OT.
+
+---
+
+**Prepared by:** Dr. S. Patel, MD  
+**Signed:** 2024-04-19 07:34
+
+---
+
+**Addendum:**  
+- Social work consulted for discharge planning.
+- Family updated, DNR status: Full code.  
+- Awaiting repeat TTE and cardiac MRI.
+
+---
+
+**Flowsheet – Labs (selected):**
+
+| Date       | WBC | Hgb | Plt | Na  | K   | Cl  | CO2 | BUN | Cr  | Glu | Ca  |
+|------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 4/13 06:15 | 5.9 | 9.4 | 102 | 141 | 4.8 | 102 | 21  | 31  | 1.4 | 161 | 8.9 |
+| 4/14 06:30 | 6.1 | 8.7 | 95  | 139 | 5.2 | 98  | 18  | 44  | 2.1 | 138 | 9.1 |
+| 4/15 05:50 | 5.3 | 9.9 | 120 | 140 | 4.5 | 99  | 20  | 23  | 1.1 | 112 | 9.3 |
+| 4/16 07:00 | 4.8 | 10.2| 130 | 142 | 4.2 | 100 | 22  | 19  | 0.9 | 102 | —   |
+| 4/17 05:20 | —   | 10.6| 135 | 143 | 4.1 | 101 | —   | 17  | 0.8 | 98  | 9.1 |
+| 4/18 06:10 | 5.2 | 10.4| 143 | 144 | 4.0 | —   | 23  | 16  | 0.8 | 95  | 9.2 |
+| 4/19 05:40 | 5.8 | 10.7| 154 | 142 | 4.8 | 101 | 21  | 15  | 0.8 | 94  | 9.4 |
+
+---
+
+**Next steps:**  
+- Continue close monitoring, multidisciplinary rounds daily.  
+- Repeat labs, imaging as above.  
+- Family meeting scheduled for goals of care discussion.
+
+---

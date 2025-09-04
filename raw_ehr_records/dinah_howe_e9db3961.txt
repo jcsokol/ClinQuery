@@ -1,0 +1,202 @@
+**[EPIC EHR - PATIENT CHART]**  
+**Patient Name:** Dinah Howe  
+**MRN:** 00422198  
+**DOB:** 05/14/1937 (Age: 86)  
+**Sex:** Female  
+**Admitting Attending:** Dr. Raymond Chao, MD  
+**Admission Date:** 03/16/2024  
+**Admitting Diagnosis:** Acute Decompensated Heart Failure (ADHF), Cardiogenic Shock  
+**Allergies:** NKDA  
+**Code Status:** Full Code  
+**Isolation:** None
+
+---
+### HOSPITAL COURSE SUMMARY
+
+Ms. Dinah Howe is an 86-year-old female with a past medical history significant for hypertension, prediabetes, hyperlipidemia, osteoarthritis, and remote miscarriage, who presented to the ED with progressive dyspnea, orthopnea, and fatigue. She was found to be in acute decompensated heart failure with evidence of cardiogenic shock, requiring ICU admission and subsequently temporary mechanical circulatory support with a left ventricular assist device (Impella CP) on hospital day 2. Her course was complicated by acute kidney injury, transient liver enzyme elevation, and delirium. She was weaned off the pump on day 6 and transferred to the step-down unit on day 9.
+
+---
+
+#### ADMISSION VITALS (ED)
+- Temp: 36.7°C
+- HR: 121 bpm, irregular
+- BP: 84/54 mmHg
+- RR: 24/min
+- SpO2: 91% on 2L NC
+- Pain Score: 2/10
+
+---
+
+### PAST MEDICAL HISTORY
+- Hypertension
+- Prediabetes (A1c 6.2%)
+- Hyperlipidemia
+- Osteoarthritis (knees, chronic NSAID use)
+- History of viral sinusitis
+- Remote miscarriage (G2P1A1)
+- No known coronary artery disease prior to admission
+
+### PAST SURGICAL HISTORY
+- None
+
+### FAMILY HISTORY
+- Father: MI at 69
+- Mother: HTN, T2DM
+
+### SOCIAL HISTORY
+- Lives alone, retired teacher
+- Ex-smoker, quit age 54
+- Drinks wine socially, <1 drink/week
+- Denies illicit drug use
+
+### HOME MEDICATIONS
+- Atenolol/Chlorthalidone 50/25 mg PO daily
+- Simvastatin 10 mg PO daily
+- Naproxen sodium 220 mg PRN (knee pain)
+
+---
+
+## HOSPITAL COURSE (DAILY PROGRESS)
+
+#### Day 1 (ICU Admission)
+- **Presentation:** Progressive SOB, orthopnea, lower extremity edema x1 week.
+- **Exam:** JVD +3cm, bibasilar crackles, S3 present, 2+ pitting LE edema.
+- **CXR:** Pulm edema, mild cardiomegaly, no consolidation.
+- **EKG:** Atrial fibrillation with RVR, no ST changes.
+- **Labs:** (see table below)
+- **Interventions:** IV furosemide, nitroglycerin drip, started on heparin for AFib, O2 via NC.
+- **Course:** Worsening hypotension, rising lactate, oliguria. Pressors started (norepinephrine).
+
+#### Day 2
+- **Findings:** MAP <60 despite pressors, rising creatinine, worsening confusion.
+- **Echo:** LVEF 20%, global hypokinesis, no tamponade.
+- **Decision:** Placed percutaneous LVAD (Impella CP) for cardiogenic shock.
+- **Labs:** Worsening renal function, mild LFT elevation.
+- **Course:** Improved MAP, urine output increased, mental status slowly improved.
+
+#### Day 3–6
+- **Course:** Gradual improvement. Diuresis continued. Pressors weaned off by day 4. Temporary delirium, managed non-pharmacologically. No arrhythmias. Nutrition via NGT (mild swallowing difficulty).
+- **Complications:** Mild hemolysis (LDH up, haptoglobin down), resolved with pump adjustments.
+- **PT/OT:** Bedside mobility initiated day 5.
+
+#### Day 7–9
+- **Pump weaned:** Successfully explanted on day 6. Maintained stable hemodynamics.
+- **Renal:** Creatinine improved but did not return to baseline.
+- **Transferred to step-down on day 9.**
+
+#### Day 10–12
+- **Continued:** Diuresis, up in chair, transitioning to oral meds.
+- **Discharge planning:** Anticoagulation for AFib, HF education, close outpatient follow-up.
+
+---
+
+## LABS (SELECTED, ICU STAY)
+
+| Date        | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | AST (U/L) | ALT (U/L) | Alb (g/dL) | T Bili (mg/dL) | BNP (pg/mL) | Troponin I (ng/mL) |
+|-------------|------------|------------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|-----------|-----------|------------|----------------|--------------|--------------------|
+| 3/16/24     | 5.4        | 13.2       | 406        | 144         | 4.7        | 110         | 21           | 18          | 2.9        | 91          | 22        | 30        | 4.1        | 0.7            | 1423         | 0.09               |
+| 3/17/24     | 6.1        | 12.9       | 399        | 143         | 5.2        | 108         | 20           | 24          | 3.7        | 108         | 44        | 62        | 3.7        | 0.9            | 1685         | 0.13               |
+| 3/18/24     | 8.1        | 11.7       | 385        | 141         | 5.6        | 107         | 18           | 31          | 4.3        | 112         | 63        | 78        | 3.4        | 1.2            | 1532         | 0.11               |
+| 3/19/24     | 7.2        | 11.9       | 372        | 142         | 4.9        | 109         | 23           | 26          | 3.6        | 99          | 38        | 53        | 3.6        | 0.8            | 1450         | 0.08               |
+| 3/20/24     |            | 12.1       |            | 143         | 4.8        | 110         | 24           | 22          | 3.2        |             | 29        |           | 3.8        |                | 1322         |                    |
+| 3/22/24     | 5.2        | 12.8       | 402        | 141         | 4.5        | 108         | 25           | 19          | 2.8        | 86          | 19        | 24        | 4.0        | 0.7            | 867          | 0.05               |
+
+*Some lab entries missing due to hemolysis or not drawn.*
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. **Acute Decompensated Heart Failure/Cardiogenic Shock**
+- **Assessment:** Severe new-onset HFrEF, likely ischemic, presenting with pulmonary edema, hypotension, multi-organ hypoperfusion. Required MCS for stabilization.
+- **Plan:**
+  - Impella CP placed, removed after 5 days.
+  - IV diuresis, transitioned to oral as tolerated.
+  - Strict I/Os, daily weights.
+  - TTE post-explant: LVEF 30%.
+  - GDMT initiation deferred until stabilized.
+  - Cardiology, HF specialist f/u.
+
+### 2. **Acute Kidney Injury (Stage 2, resolving)**
+- **Assessment:** Likely pre-renal from low CO, improved with MCS.
+- **Plan:**
+  - Monitor labs, avoid nephrotoxins.
+  - Adjust diuretics to renal function.
+  - Renal consult if worsening.
+
+### 3. **Atrial Fibrillation with RVR**
+- **Assessment:** New-onset, likely secondary to decompensation.
+- **Plan:**
+  - Rate control (initially IV metoprolol, now PO).
+  - Anticoagulation: Heparin → Apixaban at discharge.
+  - TTE to r/o thrombus pre-cardioversion if rhythm control considered.
+
+### 4. **Transaminitis**
+- **Assessment:** Likely ischemic hepatitis (“shock liver”), resolved with improved perfusion.
+- **Plan:**
+  - Monitor LFTs, trending down.
+  - No hepatotoxic meds.
+
+### 5. **Delirium**
+- **Assessment:** Multifactorial (hypoperfusion, ICU, sleep deprivation).
+- **Plan:**
+  - Non-pharm measures, minimize restraints.
+  - Sleep hygiene, reorientation.
+  - No antipsychotics needed.
+
+### 6. **Hypertension/Hyperlipidemia/Prediabetes**
+- **Assessment:** Chronic, previously controlled.
+- **Plan:**
+  - Restart meds as tolerated.
+  - Outpatient follow-up for A1c, lipids.
+
+### 7. **Osteoarthritis**
+- **Assessment:** Knee pain, mobility limited during ICU stay.
+- **Plan:**
+  - Resume PT/OT.
+  - Avoid NSAIDs (renal risk).
+  - Topical agents, acetaminophen.
+
+---
+
+## DISCHARGE MEDICATIONS (anticipated)
+- Metoprolol succinate 25 mg PO daily
+- Apixaban 2.5 mg PO BID
+- Simvastatin 10 mg PO daily
+- Furosemide 40 mg PO daily
+- Acetaminophen PRN
+- Hold NSAIDs
+
+---
+
+## CONSULTANTS
+- Cardiology (primary)
+- Renal
+- PT/OT
+- Nutrition
+
+---
+
+## IMAGING
+- Echo (3/17): LVEF 20%, severe global dysfunction, no LV thrombus
+- CXR: Pulmonary edema, mild effusions, improved on 3/22
+- Renal US: No obstruction
+
+---
+
+## EDUCATION/PLAN
+- HF education, diet, weight monitoring
+- Outpatient HF clinic 1 week
+- Cardiac rehab referral
+- Close f/u for renal fx, anticoagulation
+
+---
+
+**Signed:**  
+Raymond Chao, MD  
+Attending Cardiologist  
+03/24/2024 14:33
+
+---
+
+**[End of Note]**

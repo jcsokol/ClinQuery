@@ -1,0 +1,226 @@
+```
+Patient Name: Hoa Dooley
+MRN: 002847199
+DOB: 04/10/1940  Sex: F
+Admitting Service: Cardiology/ICU
+Attending: Dr. M. Patel
+Admit Date: 03/05/2024
+Note Type: ICU Progress Note
+Date/Time: 03/11/2024 08:13
+___________________________________________________________________________
+
+CHIEF COMPLAINT:
+Progressive shortness of breath, orthopnea, and chest heaviness for 2 days prior to admission.
+
+HISTORY OF PRESENT ILLNESS:
+79-year-old female with a complex PMHx notable for poorly controlled DM2, CKD1, HTN, metabolic syndrome, hyperlipidemia, anemia, and prior OB/GYN history as below, presenting with acute decompensated heart failure and cardiogenic shock requiring ICU admission and temporary mechanical circulatory support.
+
+Pt was found at home by daughter, confused, tachypneic, with new peripheral edema and decreased urine output. EMS noted BP 78/45, HR 121, O2 sat 90% RA. In ED, patient became increasingly hypotensive and hypoxic, requiring norepinephrine and BiPAP. Echo revealed new severe global LV dysfunction (EF 20%), moderate MR, and mild RV dysfunction. Troponin elevated (peak 2.1 ng/mL). No acute STEMI. Cardiac cath: diffuse 2-vessel CAD, no culprit lesion, likely demand ischemia.
+
+Due to ongoing shock and rising lactate, pt received a percutaneous Impella CP device on hospital day 1. Hemodynamics improved. Now day 6 of ICU course, weaning off vasopressors, Impella still in situ.
+
+PAST MEDICAL HISTORY:
+- Hypertension
+- Type 2 diabetes mellitus, insulin-dependent
+- CKD stage 1, diabetic nephropathy
+- Hyperlipidemia, hypertriglyceridemia, metabolic syndrome X
+- Anemia of chronic disease
+- Osteoarthritis (knees)
+- Colon polyp (removed 2022)
+- History of multiple tubal pregnancies and 1st trimester miscarriage
+- Viral sinusitis, recurrent pharyngitis, whiplash injury (remote)
+
+PAST SURGICAL HISTORY:
+- Laparoscopic salpingectomy (bilateral)
+- Colonoscopy with polypectomy
+
+ALLERGIES:
+- NKDA
+
+HOME MEDICATIONS:
+- Amlodipine/HCTZ/Olmesartan 5/12.5/20 mg daily
+- Metformin XR 500 mg daily
+- Insulin NPH/Regular (Humulin 70/30) 16u AM, 10u PM
+- Naproxen 220 mg prn
+- Simvastatin 10 mg qHS
+- Amox-clav 250/125 mg BID x10d (recent, for sinusitis)
+
+SOCIAL HISTORY:
+- Lives with daughter, retired teacher, independent ADLs prior to this admission
+- Denies tobacco, EtOH, illicit drug use
+
+FAMILY HISTORY:
+- CAD (mother), DM2 (father), colon CA (brother)
+
+REVIEW OF SYSTEMS:
+Unable to obtain full ROS due to intubation/somnolence. Per daughter, pt had increased dyspnea, orthopnea, 2-pillow PND, poor PO intake, mild cough, and confusion. No recent travel/infectious contacts.
+
+PHYSICAL EXAM:
+GEN: Elderly obese female, sedated, intubated, Impella in situ, central line R IJ, A-line L radial
+VITALS (see flowsheet; most recent below):
+T: 38.0°C   HR: 102   BP: 97/61 (MAP 72)   RR: 20 (vent)   SpO2: 97% (FiO2 40%)
+Wt: 76 kg  Ht: 158 cm  BMI: 30.3
+HEENT: Oropharynx clear, ETT in place. Pupils 2mm, reactive.
+CV: S1, S2, tachycardic, S3 present, no murmurs (difficult to auscultate). JVP ~10cm. Impella hum.
+LUNGS: Bibasilar crackles, scattered wheeze, diminished bases.
+ABD: Soft, NT, no HSM, normal BS.
+EXT: 2+ pitting edema to knees. Warm, pulses palpable.
+NEURO: Moves all extremities to noxious stimuli, GCS 9T.
+
+___________________________________________________________________________
+
+LABS
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Ca   | Alb  | AST  | ALT  | Trop  | BNP   | Lactate |
+|------------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|-------|-------|---------|
+| 3/05 06:00 | 10.2 | 17.1 | 35.4 | 322  | 139  | 4.6  | 110  | 23   | 21   | 2.5  | 181  | 9.0  | 3.7  | 12   | 27   | 2.1   | 3450  | 4.2     |
+| 3/06 06:00 | 9.8  | 16.9 | 34.9 | 298  | 141  | 4.8  | 108  | 22   | 32   | 2.8  | 151  | 8.7  | 3.2  | 15   | 31   | 1.7   | 3010  | 2.8     |
+| 3/07 06:00 | 9.3  | 16.8 | 34.4 | 301  | 140  | 4.5  | 109  | 21   | 28   | 2.3  | 122  |      |      |      |      | 0.8   | 1872  |         |
+| 3/08 06:00 | 8.7  | 15.2 |      | 276  | 138  | 4.3  | 107  | 23   | 27   | 2.1  | 110  | 8.9  |      |      |      | <0.04 | 1100  | 1.2     |
+| 3/09 06:00 | 8.9  | 13.8 | 29.2 |      | 141  | 4.2  | 111  | 23   | 23   | 1.9  | 101  |      | 3.0  | 13   | 28   | <0.04 | 880   | 0.9     |
+| 3/10 06:00 | 8.6  | 13.5 | 28.5 | 265  | 142  | 4.1  | 109  | 24   | 18   | 1.6  | 94   | 9.1  | 3.1  | 10   | 22   | <0.04 | 701   | 0.8     |
+
+(Additional labs: LFTs, troponins, BNP, lactate trended per shock protocol above.)
+
+Other labs:
+- UA: 3/05: Proteinuria (2+), microalbumin/creat ratio 200 mg/g
+- CXR: Pulmonary edema, mild cardiomegaly
+- ECG: Sinus tach, nonspecific ST-T changes
+
+___________________________________________________________________________
+
+ASSESSMENT & PLAN
+
+1. **Cardiogenic Shock, Acute on Chronic HFrEF, s/p Impella CP (day 6)**
+   - Acute decompensation likely precipitated by demand ischemia (severe hypertension, DM, CAD, infection).
+   - Impella CP placed for hemodynamic support, currently still in place. MAP >65, weaning norepinephrine, lactate normalizing.
+   - Continue daily echo, Impella flows, wean pressors as tolerated.
+   - Plan for Impella wean/removal in next 24-48hr if sustained stability.
+   - Daily labs, strict I/Os, monitor for hemolysis, limb ischemia, infection.
+   - Cardiac surgery, HF, and interventional on board.
+
+2. **Type 2 Diabetes Mellitus, Insulin and Metformin**
+   - Hyperglycemia on admission, now euglycemic with insulin sliding scale.
+   - Hold metformin (AKI risk, lactic acidosis).
+   - Monitor for hypoglycemia, adjust insulin as PO intake resumes.
+
+3. **Chronic Kidney Disease (Stage 1), AKI on CKD**
+   - Cr peaked at 2.8, now improving (1.6 today).
+   - Likely pre-renal from shock, improved with volume/pressors.
+   - Monitor UOP, electrolytes, avoid nephrotoxins.
+
+4. **Anemia of Chronic Disease**
+   - Hgb down-trending (17→13.5), likely dilutional, some hemolysis possible (Impella).
+   - Daily CBC, monitor for transfusion needs.
+
+5. **Hypertension/Metabolic Syndrome/Hyperlipidemia**
+   - Continue home anti-HTN, hold statin for now (LFTs, rhabdo risk).
+   - Resume as tolerated on transfer to floor.
+
+6. **Volume Overload/Pulmonary Edema**
+   - Improved with diuresis and Impella support.
+   - Daily CXR, diurese as tolerated.
+
+7. **Colon Polyp, Osteoarthritis, Remote OB/GYN History**
+   - No acute issues.
+
+8. **Infection Risk, Recent Sinusitis**
+   - On empiric ceftriaxone/azithro for possible aspiration pneumonia (CXR, fever).
+   - Monitor cultures, de-escalate as able.
+
+9. **Nutrition, Delirium, DVT Prophylaxis**
+   - NPO, on tube feeds.
+   - SCDs, heparin sq.
+   - Re-orient, minimize sedation.
+
+10. **Disposition**
+   - Remain in ICU, daily multidisciplinary rounds.
+   - Anticipate transfer to stepdown after Impella removal and 48hr stability.
+
+___________________________________________________________________________
+
+ORDERS:
+- Continue Impella support, titrate flows per protocol
+- Norepinephrine PRN MAP <65
+- Insulin sliding scale, hold metformin
+- Ceftriaxone/azithro IV
+- DVT ppx: Heparin sq
+- Daily CBC, BMP, LFTs, troponin, BNP, lactate
+- Strict I/O, daily weights, telemetry
+
+___________________________________________________________________________
+
+SIGNATURE: M. Patel, MD (Cardiology/ICU)
+```
+--- PAGE 2 ---
+
+**ICU Flowsheet: Key Trends**
+
+| Date    | Temp (°C) | HR | BP (MAP) | SpO2 | UOP(ml/24h) | Pressors | Impella Flow |
+|---------|-----------|----|----------|------|-------------|----------|--------------|
+| 3/05    | 38.2      |128 | 78/45(54)| 90%  |  600        | NE 0.18  | 3.9 L/min    |
+| 3/06    | 37.9      |118 | 90/52(65)| 94%  | 1100        | NE 0.09  | 3.4 L/min    |
+| 3/07    | 37.5      |109 | 95/58(71)| 96%  | 1380        | NE 0.05  | 3.2 L/min    |
+| 3/08    | 37.2      |102 | 97/61(72)| 97%  | 1500        | Off      | 3.0 L/min    |
+| 3/09    | 37.1      | 99 |101/64(76)| 98%  | 1600        | Off      | 2.7 L/min    |
+| 3/10    | 36.9      | 96 |104/65(78)| 98%  | 1700        | Off      | 2.5 L/min    |
+
+**Medications Administered (ICU)**
+- Norepinephrine infusion (tapered off by day 4)
+- Furosemide IV 40mg BID
+- Ceftriaxone 1g q24h, Azithromycin 500mg q24h (days 1–4)
+- Heparin 5000u sq q12h
+- Insulin sliding scale
+- Thiamine, multivitamin, tube feed formula
+
+**Imaging**
+- 3/05: CXR – pulmonary vascular congestion, bilateral effusions, mild cardiomegaly
+- 3/07: TTE – EF 20%, moderate MR, Impella visualized, no LV thrombus
+- 3/09: CXR – improved edema, lines/tubes in place
+
+--- PAGE 3 ---
+
+**Consult Notes**
+
+*Cardiology (3/05):*  
+Pt with new severe LV dysfunction, likely demand ischemia/possible myocarditis vs. ischemic. No STEMI. Impella CP for shock. Will monitor for recovery; consider advanced therapies if no improvement.
+
+*Nephrology (3/06):*  
+AKI on CKD, likely multifactorial (shock, pressors, contrast). Renal recovery expected. Avoid nephrotoxins, monitor volume, trend Cr/UOP.
+
+*Endocrinology (3/07):*  
+Hold metformin for now. Titrate insulin, avoid hypoglycemia. Resume metformin if renal function improves.
+
+*Infectious Disease (3/06):*  
+No clear source of infection; possible aspiration. Continue empiric abx, de-escalate if cultures negative.
+
+*Physical Therapy (3/10):*  
+Begin passive ROM, re-eval for early mobilization post-Impella removal.
+
+--- PAGE 4 ---
+
+**Discharge Planning**
+
+- Anticipate ICU stay x2-3 more days for Impella wean/removal.
+- If stable, transfer to stepdown, then rehab.
+- Home with daughter; arrange home health, PT/OT.
+- Needs close cardiology, nephrology, endocrinology f/u.
+- Education re: HF, DM, med adherence, warning signs.
+
+**Patient Education:**
+- HF symptoms, fluid restriction, daily weights.
+- DM monitoring, insulin administration.
+- Medication reconciliation (statin, ACEi/ARB, etc).
+
+**Advance Directives:**
+- Daughter is POA. Full code. Discuss goals of care if no cardiac recovery.
+
+**Summary:**
+79F with DM2, CKD, HTN, CAD, acute decompensated HFrEF with cardiogenic shock, required percutaneous temporary LVAD (Impella CP), now improving. Anticipate slow recovery and need for multidisciplinary support.
+
+**Physician:**
+M. Patel, MD, Cardiology/ICU  
+Date/Time: 03/11/2024 08:13
+
+--- END OF NOTE ---
+

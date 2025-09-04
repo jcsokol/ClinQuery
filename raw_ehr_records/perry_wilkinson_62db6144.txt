@@ -1,0 +1,200 @@
+---
+**Epic EHR Note**  
+**Patient Name:** Perry Wilkinson  
+**MRN:** 1004763  
+**DOB:** 08/06/1917  
+**Sex:** Male  
+**Date of Admission:** 05/22/2024  
+**Date of Note:** 05/28/2024  
+**Attending:** Dr. H. Filmore  
+**Consults:** Cardiology, Pulm/Crit Care, Infectious Disease
+
+---
+
+**Chief Complaint:**  
+Shortness of breath, productive cough, weakness
+
+**HPI:**  
+100y M with PMHx of obesity, hyperlipidemia, prediabetes, chronic anemia, COPD/emphysema, recurrent sinusitis and bronchitis, presents from home with 3 days of worsening dyspnea, orthopnea, cough productive of yellow sputum, and decreased oral intake. Family reports increased confusion over past 24 hours. No chest pain. No fever but subjective chills. Home O2 at 2L/min, now requiring 5L/min to keep sats >90%. No recent travel, sick contacts, or hospitalizations.  
+
+On arrival to ED:  
+- RR 30, O2 sat 86% RA, improved to 94% on 5L NC  
+- HR 110, BP 98/54, T 37.6°C  
+- Appeared distressed, using accessory muscles  
+- Bibasilar crackles, distant heart sounds  
+- CXR: pulmonary edema, no focal infiltrate  
+- BNP: 1870 pg/mL, Trop I: 0.21 ng/mL  
+- ABG: pH 7.32/CO2 55/O2 68  
+- Creatinine 2.6 (baseline 1.2 per outside records)  
+- Labs notable for Hgb 10.4, WBC 11.2
+
+Given concern for acute on chronic heart failure with hypoxic/hypercapnic respiratory failure, patient was admitted to ICU for monitoring and escalation.  
+
+Overnight, developed hypotension refractory to fluids, requiring norepinephrine. Echo showed LVEF ~15%, global hypokinesis, moderate MR, RV mildly reduced. Cardiology consulted, decision made to place a percutaneous left ventricular assist device (Impella CP) for cardiogenic shock.  
+
+---
+
+## **Hospital Course:**
+
+**Day 1 (05/22):**  
+- Admitted to ICU, placed on BiPAP, diuresed with IV furosemide.  
+- Worsening lactic acidosis, rising creatinine, persistent hypotension despite pressors.  
+- Echo: severe global LV dysfunction, LVEF 15%.  
+- Cardiology: Impella CP placed via right femoral artery.  
+- Started on broad-spectrum abx (cefepime, vanc), blood cultures sent.  
+- Foley, A-line, central line placed.  
+- Nephrology consulted for AKI.  
+
+**Day 2:**  
+- Improved MAPs with Impella support, pressors weaned.  
+- UOP improved after diuresis, creatinine stable.  
+- O2 needs decreased, weaned to high-flow NC.  
+- Infectious workup: no growth, abx narrowed to ceftriaxone.  
+- Mild delirium, reoriented with sitter.  
+- Nutrition: NGT feeds started, TPN considered but deferred.  
+- PT/OT eval: bedbound, passive ROM only.  
+
+**Day 3:**  
+- Repeat echo: LVEF improved to 25%, Impella flows stable.  
+- CXR: improved pulmonary edema.  
+- Labs: WBC downtrending, Hgb stable.  
+- Renal function slowly improving, off pressors.  
+- Remains on high-flow O2, trialed on nasal cannula overnight.  
+- Family updated, DNR/DNI discussed but patient/family wishes full code.  
+
+**Day 4:**  
+- Impella wean trial successful, device removed at bedside.  
+- Monitored closely for vascular complications—none observed.  
+- Transitioned to oral diuretics, started low-dose metoprolol.  
+- Ambulated to chair with PT x2.  
+- Discharge planning initiated; likely SNF placement.
+
+---
+
+## **Review of Systems:**
+- **General:** Weakness, confusion (improved), no fever
+- **Cardiac:** Orthopnea, PND, no chest pain
+- **Pulm:** SOB, productive cough
+- **GI:** Poor PO, no N/V/D
+- **GU:** No dysuria
+- **Neuro:** No focal deficits, mild delirium resolved
+- **Skin:** No rashes, pressure ulcer on sacrum (Stage 1)
+
+---
+
+## **Physical Exam (Day 4):**
+- **Gen:** Elderly male, NAD, alert
+- **HEENT:** Dry mucous membranes, mild oropharyngeal erythema
+- **CV:** Irregularly irregular, no murmurs/gallops/rubs, peripheral pulses 2+
+- **Resp:** Crackles at bases, decreased breath sounds LLL
+- **Abd:** Soft, NT/ND, no rebound/guarding
+- **Ext:** Trace LE edema, no DVT
+- **Neuro:** AOx3, no focal deficits
+- **Skin:** Stage 1 ulcer over sacrum
+
+---
+
+## **Labs**
+#### CBC, Chem7, Cardiac Markers, Liver Panel
+
+| Date         | WBC   | Hgb   | Plt   | Na    | K    | Cl    | CO2   | BUN   | Cr    | Glu   | Troponin I | BNP    | AST   | ALT   | TBili | Alb   |
+|--------------|-------|-------|-------|-------|------|-------|-------|-------|-------|-------|------------|--------|-------|-------|-------|-------|
+| 05/22        | 11.2  | 10.4  | 242   | 142   | 4.7  | 102   | 24    | 39    | 2.6   | 135   | 0.21       | 1870   | 32    | 59    | 0.4   | 4.5   |
+| 05/23        | 10.1  | 10.2  | 220   | 140   | 4.5  | 100   | 22    | 36    | 2.4   | 130   | 0.12       | 1740   | 29    | 57    | 0.3   | 4.2   |
+| 05/24        | 9.2   | 10.5  | 210   | 138   | 4.2  | 98    | 25    | 30    | 2.1   | 122   | <0.01      | 1310   | 24    | 41    | 0.3   | 4.0   |
+| 05/25        | 8.7   | 10.7  | 205   | 137   | 4.3  | 98    | 27    | 27    | 1.8   | 118   | <0.01      | 980    | 21    | 38    | —     | —     |
+| 05/26        | 9.1   | 10.9  | 210   | 139   | 4.2  | 100   | 25    | 25    | 1.6   | 120   | —          | —      | —     | —     | —     | —     |
+| 05/27        | 8.8   | 10.6  | 203   | 140   | 4.1  | 101   | 24    | 24    | 1.5   | 124   | —          | —      | —     | —     | —     | —     |
+| 05/28        | 9.0   | 10.8  | 211   | 141   | 4.3  | 102   | 25    | 23    | 1.3   | 127   | —          | —      | —     | —     | —     | 4.1   |
+
+---
+
+## **Imaging/Diagnostics**
+- **CXR (05/22):** Pulmonary edema, mild cardiomegaly, no consolidation
+- **Echo (05/22):** LVEF 15%, global hypokinesis, mod MR, mild RV dysfunction
+- **Echo (05/24):** LVEF 25%, improved wall motion, mod MR persists
+- **Lower extremity Doppler (05/25):** No DVT
+
+---
+
+## **Assessment & Plan**
+
+**1. Cardiogenic Shock, severe LV dysfunction (LVEF 15%), acute on chronic HFrEF**  
+- Likely precipitated by acute bronchitis/COPD exacerbation and fluid overload  
+- Required Impella CP for hemodynamic support, now explanted—hemodynamics stable  
+- Continue low-dose metoprolol, add low-dose lisinopril if BP tolerates  
+- Daily weights, strict I/Os, titrate diuretics  
+- Monitor for arrhythmia, electrolytes
+
+**2. Acute on chronic hypoxic/hypercapnic respiratory failure, COPD/emphysema**  
+- Wean O2 as tolerated  
+- Continue inhaled fluticasone/salmeterol  
+- Pulm hygiene, incentive spirometry  
+- Consider home O2 at discharge
+
+**3. AKI, multifactorial (cardiorenal, diuretic, hypotension)**  
+- Renal function improved with perfusion/diuresis  
+- Avoid nephrotoxins, monitor daily chem7  
+- Nephrology following
+
+**4. Anemia, chronic**  
+- Hgb stable, likely anemia of chronic disease  
+- Monitor, transfuse if <8 or symptomatic  
+- Iron studies pending
+
+**5. Infection risk (acute bronchitis, possible aspiration, immunosenescence)**  
+- 5-day course of ceftriaxone, monitor cultures  
+- Pulmonary toilet, aspiration precautions  
+- Vaccination status to be updated
+
+**6. Delirium, resolved**  
+- Reoriented, off restraints  
+- Minimize sedatives, encourage sleep-wake cycle  
+- Sitter discontinued
+
+**7. Pressure ulcer, sacrum (Stage 1)**  
+- Wound care, frequent repositioning  
+- PT/OT involvement
+
+**8. Hyperlipidemia, prediabetes, obesity**  
+- Goal-directed medical therapy, continue simvastatin  
+- Encourage low-salt, low-carb diet  
+- Endocrine/nutrition consult
+
+**9. Discharge Planning**  
+- Family meeting to discuss SNF placement  
+- PT/OT eval for rehab potential  
+- Goals of care readdressed, full code per patient/family
+
+---
+
+**Medications (active):**  
+- Simvastatin 10mg PO qHS  
+- Fluticasone/Salmeterol 250/50mcg 1 puff BID  
+- Metoprolol succinate 12.5mg PO daily  
+- Furosemide 40mg PO BID  
+- Ceftriaxone 1g IV q24h (x5d total)  
+- Acetaminophen 325mg PO q6h PRN  
+- Doxycycline completed
+
+---
+
+**Allergies:** NKDA
+
+---
+
+**Significant Events:**  
+- Impella CP placed 05/22, explanted 05/25  
+- No vascular complications  
+- No arrhythmias  
+- Delirium resolved  
+- Discharge pending SNF acceptance
+
+---
+
+**Provider:** H. Filmore, MD  
+**Co-signed:** S. Patel, MD (Cardiology)
+
+---
+
+**End of Note**

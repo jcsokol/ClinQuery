@@ -1,0 +1,161 @@
+```
+---------------------------------------------------------------------
+EpicCare Inpatient EHR             [MRN: 10048723]
+Patient Name: Chong Schulist       DOB: 12/18/1932     Sex: Male
+Admission Date: 04/13/2024         Attending: Dr. S. Feldman
+Encounter: Medical ICU (MICU)      Location: 4C-ICU, Room 12
+---------------------------------------------------------------------
+
+Chief Complaint:
+Progressive SOB, orthopnea, and lower extremity edema. Presented in cardiogenic shock.
+
+HPI:
+89M with h/o chronic CHF (reduced EF), prediabetes, anemia, chronic sinusitis, and recent viral URI, who presented from home with 4 days of worsening SOB, orthopnea, PND, and new bilateral LE edema. Also noted decreased oral intake, malaise, and subjective fevers. On arrival, found to be hypotensive, tachycardic, hypoxic, and in acute respiratory distress. Rapidly required BIPAP, then intubation for hypoxic respiratory failure. Initial workup significant for markedly elevated NT-proBNP, CXR with pulmonary edema, and echocardiogram with severely reduced LVEF (~20%). Cardiology consulted, patient acutely decompensated with MAP <60 mmHg on maximal medical therapy (dobutamine, milrinone, pressors), and was emergently taken for placement of a left-sided temporary ventricular assist device (Impella CP).
+
+Hospital Course Summary:
+- Day 1: ICU admission for acute decompensated heart failure/shock. Intubated. Started on IV diuretics, vasopressors, inotropes. Emergent Impella placed.
+- Day 2-3: Gradual improvement in perfusion, weaned off norepinephrine, still requiring milrinone. Renal function fluctuated, transient oliguria. Required blood transfusion for anemia (Hb 7.2→9.1). Infectious workup negative. Started on empiric cefuroxime for concern for possible pneumonia.
+- Day 4: Extubated to HFNC. Impella flows adequate, LV function slowly improving. Began oral nutrition. Weaned diuretics, transitioned to oral metoprolol and furosemide.
+- Day 5: Impella weaned and removed. Stable hemodynamics on oral meds. Mobilizing with PT. Discharged to step-down on Day 7.
+
+---------------------------------------------------------------------
+Allergies: NKDA
+Code Status: Full
+
+---------------------------------------------------------------------
+Past Medical History:
+- Chronic systolic heart failure (prior EF 42%, now 20%)
+- Prediabetes (A1c 6.2%)
+- Chronic anemia
+- Chronic/viral sinusitis (remote, no acute sx)
+- Otitis media (childhood)
+- Prior ankle sprain
+- Hyperlipidemia
+
+Past Surgical History:
+- None
+
+Home Medications:
+- Metoprolol succinate 100mg daily
+- Lasix 40mg daily
+- Cefuroxime 250mg BID (recent Rx)
+- Ibuprofen 200mg PRN
+- Acetaminophen 325mg PRN
+
+Social History:
+- Lives alone, retired
+- No tobacco, EtOH, or illicit drug use
+- Widowed, 2 adult children
+
+Family History:
+- CAD (father)
+- HTN (mother)
+
+---------------------------------------------------------------------
+Physical Exam (ICU Day 2, 04/14/2024, 06:45 AM):
+
+Gen: Elderly male, intubated, sedated
+VS: T 36.8°C, HR 102, BP 88/54 (MAP 62) on norepi 0.1 mcg/kg/min, RR 22 (vent), SpO2 97% (FiO2 40%)
+HEENT: Normocephalic, nares patent, ET tube in situ
+CV: Tachycardic, S3, no murmurs, cool extremities, JVD 12cm
+Resp: Bilateral crackles, decreased BS bases
+Abd: Soft, NT/ND, +BS
+Ext: 2+ pitting edema BLE, pulses 1+, no DVT
+Neuro: Sedated, moves all extremities to pain
+
+---------------------------------------------------------------------
+LABS (Selected, see full table below):
+
+| Date       | WBC  | Hgb  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Gluc | AST  | ALT  | AlkPhos | T. bili | Albumin | NT-proBNP |
+|------------|------|------|------|------|------|------|------|------|------|------|------|------|---------|---------|---------|-----------|
+| 4/13/2024  | 12.1 | 7.2  | 384  | 137  | 4.9  | 101  | 23   | 32   | 1.4  | 109  | 29   | 55   | 101     | 0.7     | 2.9     | 25,300    |
+| 4/14/2024  | 10.4 | 8.5  | 399  | 139  | 5.1  | 106  | 25   | 28   | 1.1  | 101  | 27   | 49   |         | 0.5     | 3.2     | 19,400    |
+| 4/15/2024  | 9.8  | 9.1  | 385  | 141  | 4.7  | 104  | 26   | 21   | 0.9  | 93   | 24   | 39   | 93      |         | 3.6     | 12,800    |
+| 4/16/2024  | 8.6  | 8.8  | 372  | 140  | 4.2  | 103  | 27   | 17   | 0.8  |      | 22   | 32   | 87      | 0.4     | 3.8     | 7,400     |
+| 4/17/2024  |      | 9.2  |      | 139  | 4.5  |      | 28   | 15   | 0.7  | 89   | 20   |      |         |         | 4.0     | 5,200     |
+
+Other relevant labs:
+- Troponin T (4/13): 0.027 ng/mL (slightly elevated, stable)
+- BNP (4/13): 18,000 pg/mL
+- Lactate (4/13): 3.9 mmol/L (normalized by 4/15)
+
+---------------------------------------------------------------------
+Imaging:
+- CXR (4/13): Pulmonary edema, mild cardiomegaly, small right pleural effusion
+- Echo (4/13): LVEF 20%, global hypokinesis, dilated LV, mild MR, no thrombus, normal RV
+- Renal US: No hydronephrosis
+
+---------------------------------------------------------------------
+Procedures:
+- 04/13/2024: Placement of left-sided Impella CP via R femoral artery, TTE-guided
+- 04/13/2024: Right IJ central line, left radial A-line
+- 04/13/2024: Intubation, ETT 7.5
+- 04/14/2024: Blood transfusion (1 unit PRBC)
+- 04/15/2024: Extubation
+- 04/16/2024: Impella removal at bedside
+
+---------------------------------------------------------------------
+Medications (Inpatient):
+- Metoprolol succinate 100mg PO daily (held x2 days, now resumed)
+- Furosemide 40mg IV BID → PO
+- Cefuroxime 250mg PO BID x5d
+- Milrinone IV gtt (weaned off 4/16)
+- Norepinephrine IV (off 4/15)
+- Acetaminophen 325mg PO PRN
+- Pantoprazole 40mg IV daily
+- Heparin SQ 5000u q8h (DVT ppx)
+
+---------------------------------------------------------------------
+ASSESSMENT & PLAN (ICU Day 4, 04/16/2024):
+
+1. **Acute Decompensated Heart Failure (HFrEF, LVEF 20%) with Cardiogenic Shock**
+   - s/p Impella CP placement for circulatory support, now weaning
+   - Gradual improvement in hemodynamics, off pressors/inotropes
+   - Continue low-dose PO furosemide, resume beta-blocker
+   - Daily weights, strict I/O, monitor for recurrent shock
+   - Cardiology to follow, consider repeat echo prior to discharge
+
+2. **Acute on Chronic Anemia**
+   - Hb nadir 7.2, transfused 1U PRBC, now stable
+   - Monitor CBC daily, iron studies pending
+   - Avoid further phlebotomy, GI prophylaxis
+
+3. **Acute Kidney Injury (pre-renal, multifactorial)**
+   - Likely from low perfusion, diuretics
+   - Renal function improving, Cr 0.7 (baseline 1.0)
+   - Avoid nephrotoxins, monitor UOP, trend electrolytes
+
+4. **Prediabetes**
+   - Glucose stable, no hypoglycemia
+   - Continue monitoring, diabetic diet
+
+5. **Chronic Sinusitis / Recent Viral URI**
+   - No acute symptoms, empiric cefuroxime completed
+   - No evidence of ongoing infection
+
+6. **DVT Prophylaxis**
+   - On SQ heparin, SCDs in place
+
+7. **ICU Delirium Prevention**
+   - Early mobilization, minimize sedation, reorientation
+
+8. **Nutrition**
+   - Advanced to regular diet as tolerated
+
+9. **Other Chronic Issues**
+   - Otitis media, remote; Ankle sprain, resolved
+
+Dispo: Anticipate transfer to medicine floor in 24h, then home with home health/PT.
+
+---------------------------------------------------------------------
+CLINICAL COURSE, NURSING/THERAPY:
+- PT/OT: Mobilizing, needs assist x1
+- SLP: Passed swallow eval post-extubation
+- Social Work: DME arranged, family updated daily
+
+---------------------------------------------------------------------
+SIGNATURE: S. Feldman, MD             COSIGN: (pending)
+DATE/TIME: 04/16/2024 17:12
+
+---------------------------------------------------------------------
+```

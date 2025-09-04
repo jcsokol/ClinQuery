@@ -1,0 +1,159 @@
+**Inpatient Epic EHR Record**
+
+**Patient Name:** Vito Mertz  
+**MRN:** 003921488  
+**DOB:** 04/08/1988  
+**Sex:** Male  
+**Admit Date:** 06/02/2024  
+**Attending:** Dr. K. Haskins, MD  
+**Location:** MICU, 3rd Floor, Rm 23-A  
+**Reason for Admission:** Cardiogenic shock secondary to acute decompensated heart failure, requiring temporary LVAD (Impella CP) placement.
+
+---
+
+### **HOSPITAL COURSE SUMMARY**
+
+Mr. Vito Mertz is a 36-year-old male with no significant past cardiac history, who presented to the ED with progressive shortness of breath, orthopnea, and chest tightness. He was initially evaluated for viral bronchitis and sinusitis at an outside clinic 10 days prior, treated with naproxen, amoxicillin-clavulanate, and acetaminophen. However, his symptoms progressed, and he developed syncope at home, prompting EMS activation.
+
+On arrival to the ED, he was hypotensive (BP 82/56 mmHg), tachycardic (HR 122 bpm), with cool extremities and altered mentation. Labs revealed elevated troponin I, lactate, and NT-proBNP. CXR showed pulmonary edema. Echo revealed severely depressed LVEF (~15%), moderate MR, and global hypokinesis. He was admitted to the MICU for acute decompensated heart failure with cardiogenic shock. He rapidly deteriorated despite maximal medical therapy, requiring placement of a temporary percutaneous LVAD (Impella CP) for circulatory support.
+
+Hospital course was complicated by AKI, mild transaminitis, and a right radial arterial line-associated laceration requiring repair. He remained on temporary LVAD support for 5 days, with eventual improvement in end-organ perfusion and gradual weaning to oral diuretics and afterload reduction.
+
+---
+
+## **PROGRESS NOTES**
+
+**Date:** 06/03/2024  
+**Author:** Dr. K. Haskins, MD
+
+### **Subjective:**
+Patient intubated, sedated. Unable to provide subjective complaints. Family at bedside reports no prior cardiac history. Recent URI, treated as outpatient.
+
+### **Objective:**
+
+**Vitals (AM):**  
+- Temp: 36.7°C  
+- HR: 112 bpm (sinus tach)  
+- BP: 89/52 mmHg (on low-dose norepi)  
+- RR: 18 (vent)  
+- SpO2: 98% (FiO2 40%)
+
+**Physical Exam:**  
+- Gen: Intubated, sedated, no acute distress  
+- CV: S1/S2, tachy, no murmur  
+- Lungs: Bibasilar crackles  
+- Abd: Soft, NT, ND  
+- Extremities: Cool, 2+ pulses, no edema  
+- Skin: Healing laceration, right forearm (arterial line site), clean and dry, sutured
+
+**Lines:**  
+- R IJ CVC, R radial arterial line (removed day 3 d/t laceration)
+- Foley, Impella CP via L femoral
+
+---
+
+## **LABS**
+
+### **Table 1: CBC / Chem7 / Additional Labs**
+
+| Date        | WBC     | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin I | AST  | ALT  | NT-proBNP | Lactate |
+|-------------|---------|-------|-------|-------|------|------|------|------|------|------|------|------------|------|------|-----------|---------|
+| 6/2/24 22:00| 11.4    | 14.2  | 43.1  | 310   | 134  | 5.2  | 99   | 22   | 32   | 1.7  | 118  | 2.24       | 54   | 62   | 14,320    | 4.1     |
+| 6/3/24 07:30| 12.8    | 13.7  | 41.5  | 284   | 136  | 4.9  | 100  | 20   | 36   | 2.4  | 102  | 1.97       | 89   | 71   | 13,400    | 2.6     |
+| 6/4/24 06:45| 10.9    | 14.0  | 42.7  | 265   | 139  | 4.5  | 104  | 25   | 29   | 1.3  | 95   | 1.02       | 61   | 54   | 7,420     | 1.2     |
+| 6/5/24 07:10| 9.8     | 14.7  | 44.8  | 250   | 142  | 4.2  | 102  | 24   | 22   | 1.0  | 110  | 0.41       | 44   | 36   | 2,955     | 0.8     |
+| 6/6/24 07:25| 8.4     | 15.1  | 45.2  | 238   | 140  | 4.1  | 103  | 23   | 19   | 0.9  | 94   | <0.01      | 32   | 24   | 1,380     | —       |
+| 6/7/24 08:00| 7.7     | 14.9  | 44.5  | 221   | 138  | 3.9  | 100  | —    | 15   | 0.8  | 87   | —          | —    | —    | 1,160     | —       |
+
+---
+
+## **IMAGING**
+
+**6/2/24:** CXR: Pulmonary edema, prominent vascular markings, mild cardiomegaly  
+**6/2/24:** TTE: LVEF ~15%, global hypokinesis, moderate MR, no pericardial effusion  
+**6/6/24:** Repeat TTE: LVEF improved to 30%, Impella in satisfactory position
+
+---
+
+## **ASSESSMENT & PLAN**
+
+**1. Cardiogenic Shock / Acute Decompensated Heart Failure (new onset, severe):**  
+- Likely viral myocarditis or idiopathic DCM.  
+- Required temporary LVAD (Impella CP) for hemodynamic support, 5 days.  
+- Gradual improvement in LVEF and end-organ function.  
+- Plan: Continue aggressive diuresis, uptitrate ACEi/BB as tolerated, transition to oral, cardiac MRI as outpatient if stable, arrange for HF clinic follow-up.
+
+**2. Acute Kidney Injury (Stage 2, likely pre-renal):**  
+- Context: Hypoperfusion, pressors, high-dose diuresis  
+- Monitored UOP, trending down at worst (0.4 cc/kg/hr, now >1 cc/kg/hr)  
+- Creatinine improved with improved perfusion  
+- Plan: Monitor lytes/renal fxn, avoid nephrotoxins, adjust diuretics
+
+**3. Transaminitis:**  
+- Mild, likely ischemic hepatitis from shock  
+- Trending downward with improved perfusion  
+- Plan: Monitor LFTs, supportive care
+
+**4. Arterial Line Site Laceration (R forearm):**  
+- Required suture repair, no active bleed  
+- No signs of infection  
+- Plan: Daily dressing change, suture removal day 7
+
+**5. Acute Bronchitis / Viral Sinusitis:**  
+- History of URI prior to cardiac symptoms  
+- No current respiratory infection signs  
+- Plan: Supportive, no abx
+
+**6. Secondary Prevention:**  
+- Initiated statin, ASA  
+- Cardiac rehab referral  
+- Smoking cessation counseling (if applicable)
+
+**7. Disposition:**  
+- Anticipate transfer to step-down once off inotropes/Impella out  
+- Education: HF self-care, medication compliance, s/sx to monitor
+
+**Medications:**  
+- Milrinone (weaning), Furosemide IV, Lisinopril (uptitrating), Metoprolol succinate  
+- ASA 81 mg, Atorvastatin 40 mg, Pantoprazole  
+- Acetaminophen prn, Naproxen (stopped), Amox-Clav (stopped)
+
+---
+
+## **DAILY FLOW SHEETS (SELECTED)**
+
+**6/3/24:**  
+- Vitals: BP 87/48 (MAP 62, norepi 0.05), HR 118  
+- UOP: 400 mL/24h  
+- CVC site: clean  
+- Impella flows: 3.4 L/min
+
+**6/4/24:**  
+- Vitals: BP 92/54, HR 106  
+- UOP: 900 mL/24h  
+- Weaned norepi, continued milrinone  
+- CXR: improved vascular congestion
+
+**6/5/24:**  
+- Vitals: BP 102/62, HR 92  
+- UOP: 1.4 L/24h  
+- Mobilizing in bed with PT
+
+---
+
+## **DISCHARGE PLANNING**
+
+- Anticipated discharge to home with home health follow-up in 3 days  
+- Close cardiology and HF clinic follow-up  
+- Medication education provided
+
+---
+
+**Signed:**  
+Dr. K. Haskins, MD  
+Attending Physician, MICU  
+06/07/2024, 09:13
+
+---
+
+**[End of Epic EHR Record]**

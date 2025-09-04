@@ -1,0 +1,156 @@
+---
+**Epic EHR - Inpatient Chart**  
+**Patient Name:** Monserrate Carter  
+**MRN:** 00123877  
+**DOB:** 11/21/1915 (Age: 108)  
+**Sex:** Female  
+**Admit Date:** 04/22/2024  
+**Attending:** Dr. Michael R. Stern  
+**Admitting Dx:** Cardiogenic Shock secondary to Decompensated Heart Failure  
+**Allergies:** NKDA  
+**Code Status:** Full Code  
+**Isolation:** None  
+**Consults:** Cardiology, Nephrology, Infectious Disease, PT/OT, Palliative Care  
+---
+
+**HOSPITAL COURSE OVERVIEW:**  
+Ms. Monserrate Carter is a 108-year-old female with a complex medical history including chronic hypertension, hyperlipidemia, paroxysmal atrial fibrillation, heart failure with reduced ejection fraction (EF 22% on TTE), CKD III, recurrent colon polyps, osteoporosis, chronic sinusitis, and a recent course of adjuvant chemotherapy for colon adenocarcinoma. She was admitted from home after being found by family in respiratory distress, hypotensive, and somnolent.  
+
+On arrival, she was tachycardic (HR 124), BP 78/54, SpO2 86% on 6L, RR 30, T 36.7°C. She was transferred to the ICU for management of cardiogenic shock. She required norepinephrine and dobutamine infusions but remained hypotensive with evidence of end-organ hypoperfusion and rising lactate (see labs below). Bedside echo revealed severe biventricular dysfunction.  
+
+Due to refractory shock, the patient underwent percutaneous placement of a left-sided Impella CP device for hemodynamic support on hospital day 1. After device placement, her hemodynamics improved but she developed AKI and required CRRT. Her course was complicated by paroxysmal atrial fibrillation with RVR, volume overload, and delirium. She was ultimately weaned off pressors and the Impella was removed on hospital day 5. She remained in the ICU for continued management.
+
+---
+
+**PROBLEM-BASED ASSESSMENT & PLAN**
+
+1. **Cardiogenic Shock / Acute on Chronic Heart Failure (HFrEF, EF 22%)**
+   - Presentation: Hypotension, pulmonary edema, elevated JVP, cool extremities, oliguria
+   - Interventions:
+     - Norepinephrine and dobutamine infusions (HD 0–4)
+     - Impella CP placement (HD 1–5)
+     - Daily echo monitoring, invasive hemodynamic monitoring (A-line, PA catheter)
+     - Diuresis with IV furosemide (after stabilization)
+     - Strict I/Os, daily weights
+     - Fluid restriction
+   - Plan: Continue GDMT as tolerated, monitor for device-related complications, cardiology to follow
+
+2. **Acute Kidney Injury on CKD III**
+   - Creatinine peaked at 4.1 mg/dL (baseline 2.2), oliguria, required CRRT for 3 days
+   - Nephrology consulted
+   - Monitored electrolytes, limited nephrotoxins, dose-adjusted medications
+   - Plan: Monitor renal recovery, daily labs, consider transition to intermittent HD if not improving
+
+3. **Paroxysmal Atrial Fibrillation**
+   - Multiple episodes of RVR, treated with IV amiodarone, resumed home digoxin and warfarin
+   - TTE: No LA thrombus
+   - Plan: Continue rate control, anticoagulation, monitor for bleeding
+
+4. **Volume Overload / Pulmonary Edema**
+   - Clinical and radiographic evidence, diuresed aggressively after stabilization
+   - Plan: Monitor fluid status, adjust diuretics as renal function allows
+
+5. **Osteoporosis, Osteoarthritis, Chronic Pain**
+   - History of chronic knee pain, vertebral compression fractures
+   - Pain managed with acetaminophen, low-dose oxycodone PRN
+   - PT/OT consulted for mobility and fall prevention
+
+6. **History of Colon Polyp, Recent Chemotherapy**
+   - S/p colonoscopy with polypectomy x2, adjuvant oxaliplatin/leucovorin (last cycle 3 weeks prior)
+   - No evidence of active GI bleeding or infection
+   - Plan: Resume cancer surveillance outpatient
+
+7. **Other Chronic Conditions**
+   - Hypertension, Hyperlipidemia: resumed home meds as able
+   - Chronic sinusitis & bronchitis: No acute findings, continue nasal saline and PRN inhalers
+
+8. **Delirium**
+   - Developed ICU delirium, managed with sleep hygiene, low-dose quetiapine PRN
+
+9. **Advance Care Planning**
+   - Goals-of-care discussions ongoing with patient and family, Palliative Care following
+
+---
+
+**LABS (SELECTED)**
+
+| Date/Time     | WBC (x10^3/uL) | Hgb (g/dL) | Plt (x10^3/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glucose (mg/dL) | Troponin I (ng/mL) | Lactate (mmol/L) | AST (U/L) | ALT (U/L) | Alb (g/dL) |
+|---------------|----------------|------------|---------------|-------------|------------|-------------|--------------|-------------|------------|-----------------|---------------------|------------------|-----------|-----------|------------|
+| 4/22 06:31    | 4.3            | 15.2       | 262           | 136         | 4.7        | 109         | 22           | 33          | 2.8        | 139             | 0.09                | 4.1              | 39        | 61        | 2.9        |
+| 4/22 18:12    | 5.2            | 14.8       | 241           | 137         | 4.9        | 111         | 21           | 41          | 3.6        | 122             | 0.14                | 3.8              | 44        | 57        |            |
+| 4/23 07:03    |                | 13.7       | 231           |             | 5.2        | 108         | 19           | 46          | 4.1        | 117             | 0.12                | 3.1              |           |           | 3.1        |
+| 4/24 06:44    | 4.7            | 12.9       | 213           | 135         |            | 107         | 22           | 39          | 3.7        |                 | 0.08                | 1.8              | 37        | 53        | 3.3        |
+| 4/25 06:58    | 4.5            | 11.8       | 198           | 139         | 4.2        | 106         | 23           | 28          | 2.9        | 101             | 0.04                | 1.3              | 33        | 48        | 3.8        |
+| 4/26 07:21    | 4.1            | 11.4       | 177           | 137         | 4.0        |             | 25           | 21          | 2.3        | 98              |                     | 0.9              | 31        | 44        | 4.0        |
+
+**Other notable labs:**  
+- INR (on warfarin): ranged 2.1–2.7 (goal 2–3)
+- BNP: 3890 pg/mL (admission)
+- CK-MB: 8.9 ng/mL (admission)
+- LFTs: Mildly elevated, trended down after HD 2
+- Blood cultures: No growth x2
+
+---
+
+**PROCEDURES:**  
+- 4/22: Right IJ central line, left radial arterial line  
+- 4/22: Impella CP (left femoral artery, successful placement under fluoroscopy)  
+- 4/22: Foley catheter  
+- 4/23–4/25: Continuous renal replacement therapy (CRRT)  
+- 4/25: Impella removal at bedside, manual pressure, no vascular complications
+
+---
+
+**IMAGING:**  
+- 4/22: CXR – Bilateral pulmonary edema, mild cardiomegaly  
+- 4/22: TTE – LVEF 22%, severe global hypokinesis, mild MR, dilated LA, RV dysfunction  
+- 4/24: CXR – Improved vascular congestion  
+- 4/25: Renal US – No hydronephrosis
+
+---
+
+**MEDICATION ADMINISTRATION RECORD (abbreviated):**  
+- Norepinephrine infusion: HD 0–4  
+- Dobutamine infusion: HD 0–5  
+- Amiodarone IV load → PO  
+- Furosemide IV, titrated  
+- Digoxin 0.125 mg PO daily  
+- Warfarin 5 mg PO daily, INR monitored  
+- Simvastatin 10 mg PO nightly  
+- Verapamil 40 mg PO BID  
+- Oxycodone 5 mg/acetaminophen 325 mg PO PRN  
+- Acetaminophen 325 mg PO PRN  
+- Naproxen 220 mg PO PRN  
+- Amoxicillin 500 mg PO BID (for chronic sinusitis, started HD 3)  
+- Home anti-hypertensives resumed as tolerated  
+- CRRT as above
+
+---
+
+**DISPOSITION:**  
+- Remains in ICU, off vasopressors, Impella removed, CRRT discontinued  
+- Renal function improving, transitioned to intermittent hemodialysis if needed  
+- Continuing slow diuresis, close monitoring  
+- Awaiting transfer to step-down as medically appropriate  
+- Palliative care and family involved in ongoing goals-of-care discussions
+
+---
+
+**SIGNATURE:**  
+Michael R. Stern, MD  
+Attending, Cardiology/Critical Care  
+04/26/2024, 10:27 AM
+
+---
+
+**Additional Notes:**  
+- Patient/family education ongoing regarding device care, heart failure management, medication changes  
+- PT/OT: Bed mobility, progressing to chair as tolerated  
+- Foley removed on HD 6, voiding trial successful  
+- Fall precautions in place; bed alarm active  
+- Social Work: Planning for SNF vs. home with 24h care
+
+---
+
+**End of ICU Progress Note – See daily notes for further details.**  
+---

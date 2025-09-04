@@ -1,0 +1,168 @@
+---
+**EPIC EHR - ICU Progress Note**  
+**Patient Name:** Hiram Towne  
+**MRN:** 00628159  
+**DOB:** 01/31/1975 (Age: 49)  
+**Sex:** Male  
+**Date of Admission:** 05/19/2024  
+**Attending:** Dr. S. McCarthy  
+**Location:** CVICU, Rm 312-B  
+**Note Date/Time:** 05/23/2024 06:54  
+
+---
+
+### CHIEF COMPLAINT  
+Shortness of breath, orthopnea, and chest tightness for 3 days; worsening fatigue.
+
+---
+
+### HISTORY OF PRESENT ILLNESS  
+49-year-old male with known history of severe COPD (FEV1/FVC 14%), anemia, and chronic sinusitis, presented to the ED with acute-on-chronic dyspnea, orthopnea, and cough. He reported progressive exertional intolerance and lower extremity swelling. In the ED, he was found to be hypoxic (SpO₂ 87% on RA), tachypneic, and in mild respiratory distress. Initial CXR showed pulmonary vascular congestion, and BNP was 1620 pg/mL. ECG showed sinus tachycardia with non-specific ST changes. Troponin peaked at 0.37 ng/mL. Bedside echo: severely reduced LVEF (~15%), global hypokinesis, moderate MR, RV mildly dilated, no pericardial effusion.  
+
+He was admitted to the ICU for management of acute decompensated heart failure (ADHF) with hypoperfusion and respiratory distress. Despite initial diuresis and BiPAP, he developed worsening hypotension and signs of end-organ hypoperfusion (AKI, rising lactate). A left-sided percutaneous ventricular assist device (Impella CP) was placed on HD2 for cardiogenic shock.  
+
+---
+
+### HOSPITAL COURSE  
+- **HD1:** Admitted to ICU, BiPAP, IV diuresis started, worsening hypotension, transferred to pressors (norepi).
+- **HD2:** Impella CP placed; improved MAP, weaned off norepi, but ongoing oliguria and elevated creatinine.
+- **HD3:** Extubated to BiPAP, weaning diuretics, started on low-dose carvedilol and sacubitril-valsartan.
+- **HD4:** Stable on Impella, renal function improving, transitioned to high-flow nasal cannula.
+- **HD5:** Impella weaned and removed, stable hemodynamics, ongoing optimization of HF regimen.
+
+---
+
+### PAST MEDICAL HISTORY
+- Chronic obstructive pulmonary disease (severe, FEV1/FVC 14%)
+- Chronic anemia (baseline Hgb 11-13)
+- Chronic viral sinusitis
+- Hyperlipidemia (well-controlled)
+- Hypertension
+
+### PAST SURGICAL HISTORY
+- Tonsillectomy (childhood)
+- Cholecystectomy (2018)
+
+### MEDICATIONS (Prior to Admission)
+- Fluticasone/Salmeterol 250/50 mcg DPI, 1 puff BID
+- Albuterol inhaler PRN
+- Ferrous sulfate 325 mg daily
+- Atorvastatin 20 mg qHS
+- Lisinopril 10 mg daily
+
+### ALLERGIES
+- NKDA
+
+---
+
+### VITALS (ICU, select entries)
+
+| Date       | Temp (°C) | HR (bpm) | BP (mmHg) | RR | O2 Sat (%) | Weight (kg) | Pain (0-10) |
+|------------|-----------|----------|-----------|----|------------|-------------|-------------|
+| 5/19/24    | 36.8      | 112      | 95/58     | 26 | 87         | 83.8        | 3           |
+| 5/20/24    | 37.2      | 104      | 82/50     | 28 | 91 (BiPAP) | 82.5        | 2           |
+| 5/21/24    | 36.6      | 98       | 108/64    | 22 | 94 (Impella)| 80.7        | 2           |
+| 5/22/24    | 36.9      | 88       | 117/73    | 18 | 96 (HFNC)  | 79.9        | 1           |
+| 5/23/24    | 36.7      | 86       | 120/76    | 17 | 97 (RA)    | 80.1        | 1           |
+
+---
+
+### PERTINENT LABS
+
+**CBC & CHEMISTRY PANEL**
+
+| Date     | WBC (K) | Hgb (g/dL) | Hct (%) | Plt (K) | Na | K  | Cl | CO2 | BUN | Cr  | Glu | Ca | AST | ALT | Troponin | BNP   |
+|----------|---------|------------|---------|---------|----|----|----|-----|-----|-----|-----|----|-----|-----|----------|-------|
+| 5/19/24  | 9.8     | 13.6       | 49.1    | 413     | 136| 4.2| 98 | 23  | 24  | 1.1 | 112 | 8.7| 42  | 34  | 0.12     | 1620  |
+| 5/20/24  | 11.2    | 12.2       | 43.8    | 389     | 134| 3.7| 97 | 19  | 39  | 2.1 | 146 | 8.2| 65  | 44  | 0.37     | 1810  |
+| 5/21/24  | 10.7    | 11.8       | 41.2    | 370     | 135| 3.9| 99 | 21  | 34  | 1.8 | 128 | 8.4| 58  | 39  | 0.19     | 1550  |
+| 5/22/24  | 8.9     | 12.5       | 44.0    | 344     | 137| 4.1| 100| 24  | 28  | 1.2 | 105 | -- | 40  | --  | <0.01    | 1120  |
+| 5/23/24  | 8.1     | 12.8       | 45.7    | --      | 138| 4.3| 101| 25  | 23  | 1.0 | 101 | 8.9| --  | 32  | <0.01    | 890   |
+
+**Additional labs:**  
+- Lactate (5/20): 2.8 mmol/L (peak), trended to 1.4 by 5/22  
+- LFTs: AST/ALT peaked at 65/44 on HD2, normalized by HD5  
+- ProBNP: peaked at 1810 pg/mL, trended down  
+- INR: 1.3 (5/20), 1.1 (5/22)
+
+---
+
+## ASSESSMENT & PLAN
+
+### 1. Cardiogenic Shock secondary to acute decompensated heart failure (new diagnosis, likely ischemic)
+- Required Impella CP placement for hemodynamic instability on HD2; now weaned, stable.
+- Plan: Continue aggressive HF management (GDMT), monitor for arrhythmias, daily weights, strict I/Os, trend BNP/troponin.
+
+### 2. Severe Systolic Heart Failure (EF ~15%)
+- Started on low-dose beta-blocker (carvedilol) and sacubitril-valsartan as tolerated.
+- Diuresed with IV furosemide; transitioned to oral as renal function improved.
+- Plan: Echo prior to discharge, titrate HF meds, low-salt diet.
+
+### 3. COPD (GOLD IV)
+- On home inhalers, continued in hospital; required BiPAP initially, now on HFNC/RA.
+- No acute infection; CXR without infiltrate, procalcitonin negative.
+- Plan: Pulm to follow, optimize bronchodilators, encourage incentive spirometry, PT/OT evaluation.
+
+### 4. Anemia (chronic, multifactorial)
+- Hgb trended down with volume overload, nadir 11.8, now improving.
+- No overt bleeding, iron-replete.
+- Plan: Monitor, supplement iron PO, no transfusion at present.
+
+### 5. Acute Kidney Injury (pre-renal, resolving)
+- Oliguria post-shock, Cr peaked 2.1, now 1.0.
+- Plan: Hold nephrotoxins, monitor UOP, renal panel daily.
+
+### 6. Hyperlipidemia, Hypertension, Chronic Sinusitis
+- Continue home atorvastatin, restart lisinopril as tolerated.
+- Sinusitis: supportive care, no antibiotics indicated.
+
+### 7. DVT Prophylaxis
+- SCDs, subQ heparin.
+
+### 8. Social, Discharge Planning
+- Lives with spouse, works as accountant.
+- Needs cardiac rehab, home O2 evaluation.
+
+---
+
+### ICU DAILY PROBLEM LIST (Selected)
+
+- Cardiogenic shock, Impella CP (removed HD5)
+- Acute systolic HF, EF 15%
+- COPD (severe), on inhalers
+- AKI, resolving
+- Chronic anemia
+- Volume overload, now euvolemic
+- Hyperlipidemia, HTN
+- Chronic sinusitis
+
+---
+
+### ORDERS
+- Strict I/O
+- Daily labs (CBC, Chem7, BNP, troponin)
+- Cardiac monitoring
+- Pulmonary toilet
+- Physical therapy
+- Cardiac diet
+
+---
+
+### CONSULTS
+- Cardiology: device management, HF optimization
+- Pulmonology: COPD management
+- Renal: AKI management
+
+---
+
+### ADDITIONAL NOTES
+- No arrhythmias during course; telemetry unremarkable.
+- No evidence of infection—cultures negative.
+- Impella site: no bleeding or hematoma.
+
+---
+
+**Physician:** S. McCarthy, MD  
+**Electronically Signed:** 05/23/2024 07:08
+
+---

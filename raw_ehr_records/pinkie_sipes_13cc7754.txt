@@ -1,0 +1,162 @@
+**[EPIC EHR - INPATIENT - ICU]**
+
+**Patient Name:** Pinkie Sipes  
+**MRN:** 00854834  
+**Birthdate:** 11/22/1973  
+**Sex:** Female  
+**Admit Date:** 04/09/2024  
+**Attending:** Dr. L. McAllister  
+**Location:** MICU, Rm 7B-12
+
+---
+
+### **ADMISSION SUMMARY**
+
+**Chief Complaint:**  
+Progressive SOB and orthopnea, found to be in acute decompensated heart failure with hypotension.
+
+**HPI:**  
+49F with h/o HTN, prediabetes, chronic anemia, and recent URI, presented to ED with 3 days of worsening dyspnea, orthopnea, non-productive cough, and lower extremity edema. On arrival, BP 82/54, HR 123, RR 26, O2 91% on 2L NC. Initial CXR: pulmonary edema. Echo: new severe global hypokinesis, LVEF ~15%. Troponin mildly elevated. Over first 12h, patient developed worsening hypoxia and hypotension refractory to diuretics/vasopressors. Required intubation and placement of percutaneous temporary LVAD (Impella CP) for cardiogenic shock. Admitted to MICU.
+
+**PMHx:**  
+- Hypertension  
+- Prediabetes  
+- Chronic anemia (ID)  
+- Recurrent acute bronchitis  
+- G2P2, last pregnancy >10yrs ago  
+- 1st degree burn, resolved
+
+**Medications on Admission:**  
+- HCTZ 25mg QD  
+- Ferrous sulfate 325mg QD  
+- Yaz 28d PO  
+- Mirena IUD  
+- Ibuprofen 200mg PRN  
+- Acetaminophen PRN  
+- DPMA inj (last >6mo ago)
+
+**Allergies:** NKDA
+
+---
+
+### **ICU HOSPITAL COURSE (Summarized)**
+
+**Day 1-2:**  
+Cardiogenic shock, Impella CP placed. Started on dobutamine, norepinephrine. Intubated for respiratory distress. Diuresed with IV bumetanide. Anemia worsened (Hgb nadir 7.8). Started on IV iron. Infectious w/u negative.  
+
+**Day 3-5:**  
+Hemodynamics improved, weaned off norepi. Extubated on day 4. Persistent low-grade fevers, empiric abx started. Echo: LVEF improved to 30%.  
+
+**Day 6-9:**  
+Impella weaned and explanted. Diuresis continued. Transfused 1U PRBC for Hgb 7.5. Mobilization with PT. Discharge planning initiated.
+
+---
+
+## **PROBLEM-BASED ASSESSMENT & PLAN**
+
+### 1. **Cardiogenic Shock / Acute Decompensated Heart Failure**
+- Presumed viral myocarditis vs. ischemic insult (troponin T 0.11 → 0.09, non-diagnostic ECG, cath deferred)
+- Impella CP placed for hemodynamic support, explanted day 6
+- Dobutamine x5d, norepinephrine x2d, weaned
+- Daily echo: LVEF improved from 15% → 30%
+- Strict I/Os, diuresis (net -2.7L in 72h)
+- Plan: Continue GDMT, consider outpatient cardiac MRI, follow-up echo
+
+### 2. **Hypoxemic Respiratory Failure / Acute Bronchitis**
+- Intubated d/t shock/hypoxia, extubated day 4
+- CXR: pulm edema, no consolidation
+- Sputum/blood cx neg; procalcitonin <0.1
+- Empiric ceftriaxone/azithromycin x4d, discontinued
+- Plan: Incentive spirometry, pulm rehab
+
+### 3. **Chronic Anemia (Hx IDA)**
+- Hgb dropped to 7.5, retic 2.1%, ferritin 30, TSAT 11%
+- 1U PRBC transfused, IV iron repleted
+- Plan: Continue iron, repeat CBC in 2wks
+
+### 4. **Hypertension**
+- Held HCTZ during shock, restarted on day 8
+- BP improved to baseline (110-120/70-80)
+- Plan: Continue HCTZ, consider ACEi
+
+### 5. **Prediabetes**
+- Glucose 70-140 range, no insulin needed
+- A1c 5.9%
+- Plan: Lifestyle counseling, f/u with PCP
+
+### 6. **Gynecologic Hx**
+- Mirena IUD in place, no acute issues
+- Yaz held during ICU stay, resumed on floor
+- Plan: Routine gyn follow-up
+
+### 7. **Pain/Other**
+- Mild myalgias, pain 1-2/10, acetaminophen PRN
+- No evidence of new burns or injury
+
+---
+
+## **LABS**
+
+**CBC & CHEMISTRY TREND**
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Gluc (mg/dL) |
+|------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|--------------|
+| 4/09/24 08:15 | 4.8        | 9.2        | 29.1    | 196        | 138         | 5.4        | 104         | 19           | 18          | 1.12       | 133          |
+| 4/10/24 05:40 | 5.1        | 8.1        | 26.3    | 187        | 137         | 5.1        | 102         | 17           | 21          | 1.19       | 117          |
+| 4/11/24 07:20 | 4.2        | 7.8        | 25.1    | 168        | 139         | 4.8        | 107         | 22           | 17          | 1.06       | 108          |
+| 4/12/24 06:05 | 4.9        | 8.5        | 27.6    | 172        | 140         | 4.7        | 105         | 20           | 14          | 0.97       | 95           |
+| 4/13/24 09:10 | 5.3        | 9.4        | 30.7    | 180        | 141         | 4.5        | 104         | 23           | 13          | 0.91       | 89           |
+| 4/14/24 07:50 | 4.5        | 9.2        | 29.6    | 165        | 142         | 4.1        | 102         | 25           | 12          | 0.88       | 102          |
+| 4/15/24 06:45 | 4.7        | 10.2       | 32.8    | 171        | 143         | 4.2        | 103         | 24           | 13          | 0.86       | 110          |
+| 4/16/24 07:00 |            | 10.5       | 33.2    |            | 142         | 4.3        |             | 23           | 12          | 0.82       |              |
+
+**OTHER LABS**
+
+- Troponin T: 0.11 → 0.09 → 0.07 ng/mL (peak 4/09-4/10)
+- BNP: 3210 pg/mL (admission), 1560 (day 5)
+- Ferritin: 30 ng/mL (admission), 62 (post-iron)
+- TSAT: 11% (admission), 20% (discharge)
+- LFTs: WNL throughout
+- Coags: INR 1.2, PTT 28 (on admission)
+- Procalcitonin: <0.1 ng/mL
+
+---
+
+## **VITALS (First 48h)**
+
+| Time           | Temp (C) | HR  | BP         | RR | SpO2   | O2 Flow |
+|----------------|----------|-----|------------|----|--------|---------|
+| 4/09 08:00     | 37.2     | 123 | 82/54      | 26 | 91%    | 2L NC   |
+| 4/09 16:00     | 37.8     | 116 | 94/66      | 22 | 95%    | 4L NC   |
+| 4/10 04:00     | 38.1     | 108 | 103/68     | 18 | 98%    | Vent    |
+| 4/10 12:00     | 37.6     | 97  | 109/74     | 17 | 99%    | Vent    |
+
+---
+
+## **IMAGING**
+
+**CXR (4/09):**  
+Interstitial edema, mild bilateral effusions, no focal consolidation.
+
+**Echo (4/09):**  
+LVEF 15%, severe global hypokinesis, mild MR, RV normal.
+
+**Echo (4/13):**  
+LVEF 30%, mild MR, no thrombus.
+
+---
+
+## **DISCHARGE PLAN**
+
+- Continue HCTZ, ferrous sulfate, resume Yaz
+- Cardiology f/u in 1 week (repeat echo, consider MRI)
+- Outpatient labs: CBC, iron studies, BMP in 1 week
+- Pulm rehab referral
+- Patient/caregiver education re: signs of HF
+
+---
+
+**Electronically signed:**  
+Dr. L. McAllister, MD  
+Date: 4/16/2024  
+---

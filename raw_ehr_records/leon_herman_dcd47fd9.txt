@@ -1,0 +1,172 @@
+**EPIC EHR – INPATIENT PROGRESS NOTE**  
+**Patient:** Leon Herman  
+**MRN:** 00439281  
+**DOB:** 2000-05-05 (Age: 23)  
+**Sex:** Male  
+**Date of Admission:** 2024-05-14  
+**Attending:** Dr. S. Patel  
+**Location:** MICU, Bed 8  
+
+---
+
+### CHIEF COMPLAINT  
+"Shortness of breath, chest pain, and near-syncope"
+
+---
+
+### HISTORY OF PRESENT ILLNESS  
+23-year-old male with h/o hypertension, childhood asthma, perennial allergic rhinitis, and remote orthopedic injuries (L ankle sprain, R wrist subluxation/fracture) who presented to the ED with 2 days of progressive dyspnea, orthopnea, and intermittent chest discomfort. On arrival, found to be tachycardic (HR 132), hypotensive (BP 88/54), and hypoxic (SpO2 89% RA). He rapidly decompensated with evidence of cardiogenic shock (cool extremities, altered mentation, oliguria). Emergent echo revealed severe global LV systolic dysfunction (EF 15%), moderate MR, and no RV involvement. No previous cardiac history. Transferred to ICU for vasopressor support and evaluation for advanced therapies.  
+
+Due to ongoing hemodynamic instability despite maximal medical therapy (dobutamine, norepinephrine), decision made for placement of a percutaneous left ventricular assist device (Impella CP) on HD2. Subsequent stabilization, weaning of pressors, and ongoing workup for underlying etiology (viral myocarditis suspected, workup pending; negative tox, no ischemia on serial troponins).   
+
+---
+
+### PAST MEDICAL HISTORY  
+- Hypertension (dx age 19, poorly controlled)  
+- Childhood asthma (mild, intermittent)  
+- Allergic rhinitis (perennial)  
+- Viral sinusitis (intermittent, last episode 2 months ago)  
+- Orthopedic: L ankle sprain (2019), R wrist subluxation/fracture (2018, resolved)  
+
+### PAST SURGICAL HISTORY  
+- None
+
+### FAMILY HISTORY  
+- Father: HTN, CAD  
+- Mother: Asthma  
+- No known inherited cardiomyopathies
+
+### SOCIAL HISTORY  
+- Non-smoker, rare ETOH, no illicit drugs  
+- Lives with roommates, college student  
+- No recent travel, sick contacts
+
+### ALLERGIES  
+- NKDA
+
+---
+
+### HOME MEDICATIONS  
+- Fexofenadine 30 mg PO QD  
+- Fluticasone 0.044 mg/actuation INH BID  
+- Albuterol 0.09 mg/actuation INH PRN  
+- Epinephrine 1mg/mL auto-injector PRN  
+- Acetaminophen 325 mg PO PRN  
+- HCTZ 12.5 mg PO QD  
+- Atenolol 50 mg / Chlorthalidone 25 mg PO QD  
+- Amlodipine 5 mg / HCTZ 12.5 mg / Olmesartan 20 mg PO QD  
+
+---
+
+### PHYSICAL EXAM (HD3, post-Impella)  
+- Gen: Appears tired, in no acute distress  
+- Vitals: T 36.9C, HR 94 (Impella), BP 102/66 (MAP 78), RR 18, SpO2 96% (2L NC)  
+- HEENT: PERRLA, oropharynx clear  
+- Lungs: Bibasilar crackles, mild expiratory wheeze  
+- CV: S1/S2, soft S3, no murmur; Impella hum audible; pulses 2+  
+- Abd: Soft, NT, no HSM  
+- Ext: No edema, warm, cap refill <2s  
+- Neuro: AO x3, no focal deficit  
+
+---
+
+## LABS
+
+#### CBC + CHEM7 (selected, ICU days 1-5)
+
+| Date         | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|--------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|
+| 5/14 (ED)    | 14.2       | 15.8       | 47.6    | 230        | 137         | 5.4        | 99          | 21           | 32          | 1.7        | 122         |
+| 5/15 (HD1)   | 12.6       | 14.1       | 42.2    | 194        | 135         | 4.9        | 97          | 18           | 41          | 2.1        | 108         |
+| 5/16 (HD2)   | 10.7       | 13.2       | 39.8    | 158        | 138         | 4.2        | 100         | 22           | 36          | 1.5        | 112         |
+| 5/17 (HD3)   | 9.9        | 12.4       | 37.0    | 135        | 139         | --         | 101         | 23           | 28          | 1.3        | 106         |
+| 5/18 (HD4)   | 8.4        | 11.7       | 35.1    | 128        | --          | 4.1        | 98          | 24           | 21          | 1.1        | --          |
+
+#### ADDITIONAL LABS
+
+| Date         | Troponin I (ng/mL) | BNP (pg/mL) | AST (U/L) | ALT (U/L) | Alk Phos (U/L) | T.bili (mg/dL) | INR  |
+|--------------|--------------------|-------------|-----------|-----------|---------------|----------------|-------|
+| 5/14         | 0.07               | 3212        | 61        | 73        | 104           | 1.2            | 1.3   |
+| 5/15         | 0.06               | 3880        | 75        | 96        | 117           | 1.4            | 1.5   |
+| 5/16         | 0.04               | 3341        | 52        | 62        | --            | 1.1            | 1.2   |
+| 5/18         | <0.01              | 2101        | 39        | 49        | 89            | --             | 1.0   |
+
+---
+
+### MICROBIOLOGY / SEROLOGY
+- Viral panel: Pending (Coxsackie, Parvo, Adenovirus, Influenza, RSV)
+- Blood cultures x2: No growth at 48h
+- COVID-19 PCR: Negative
+- ANA/DSDNA: Pending
+
+---
+
+### RADIOLOGY  
+- **CXR (5/14):** Cardiomegaly, pulmonary edema  
+- **Echo (5/14):** Severe LV systolic dysfunction (EF 15%), moderate MR, no RV dysfunction, no pericardial effusion  
+- **Repeat Echo (5/17):** LV EF improved to 31% (Impella in situ), MR mild, no LV thrombus  
+
+---
+
+## ASSESSMENT & PLAN
+
+**23M with new severe non-ischemic cardiomyopathy (likely myocarditis) and cardiogenic shock, s/p Impella CP LVAD placement.**
+
+### PROBLEM-BASED LIST
+
+1. **Cardiogenic shock, new severe LV dysfunction (EF 15%)**
+   - Etiology: Suspected viral myocarditis vs. other non-ischemic cause (no CAD risk factors, neg trops, unremarkable tox)
+   - Management: 
+     - Pressors/inotropes (weaned off by HD3)
+     - Impella CP placed HD2 for circulatory support; flows 3.2-3.6 L/min
+     - Serial TTEs: improving EF, stable device position
+     - Strict I/O, daily weights, diuresis as tolerated
+     - Plan: Continue Impella, reassess for weaning/removal HD5-6 if stable
+2. **Hypertension**
+   - Previously poorly controlled, now labile with shock
+   - Held PO anti-HTNs, titrating as tolerated
+   - Plan: Resume oral agents as hemodynamics allow
+3. **Acute Kidney Injury (pre-renal, resolving)**
+   - Initial Cr up to 2.1, now 1.1, likely 2/2 low perfusion
+   - Monitored UOP, adjusted diuretics, improved with Impella
+   - Plan: Monitor, avoid nephrotoxins, rehydrate as tolerated
+4. **Mild transaminitis**
+   - AST/ALT peaked HD1-2, likely shock liver, trending down
+   - Plan: Monitor LFTs, avoid hepatotoxins
+5. **Respiratory failure, mild**
+   - Mild pulmonary edema, O2 via NC, improved after diuresis
+   - Asthma hx, no active wheeze or need for nebs
+   - Plan: Monitor, PRN inhalers, pulmonary toilet
+6. **Thromboprophylaxis**
+   - On heparin per Impella protocol, SCDs
+   - Platelets trending down but >100K, monitor for HIT
+7. **Infection risk**
+   - No evidence of secondary infection
+   - Blood cultures negative, viral studies pending
+   - Plan: Monitor, remove lines ASAP
+8. **Nutrition**
+   - Mildly malnourished on admit (BMI ~19.9)
+   - Started on enteral feeds, TPN not indicated
+9. **Pain**
+   - Mild, s/p device placement, well-controlled on acetaminophen
+10. **Psychosocial**
+    - College student, anxious re: prognosis
+    - Social work and psych consults placed
+
+---
+
+### DISPOSITION  
+- Remain in ICU, daily assessment for Impella weaning/removal  
+- If stable and EF recovers, stepdown to telemetry  
+- Close f/u with Heart Failure/Cardiology, consider wearable defibrillator  
+
+---
+
+### SIGNED  
+Dr. S. Patel, MD  
+Cardiology / Critical Care  
+Date/Time: 2024-05-18 09:22
+
+---
+
+**END OF NOTE**

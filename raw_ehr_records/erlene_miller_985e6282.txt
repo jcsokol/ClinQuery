@@ -1,0 +1,161 @@
+**Patient:** Erlene Miller  
+**MRN:** 0032481  
+**DOB:** 09/17/1988  
+**Sex:** Female  
+**Admit Date:** 05/27/2024  
+**Attending:** Dr. S. Nguyen  
+**Consults:** Cardiology, Infectious Disease, Obstetrics  
+**Location:** CVICU, Room 8  
+
+---
+
+### Hospital Course Summary
+
+Erlene Miller, a 35-year-old female with chronic hypertension and a history notable for recent viral pharyngitis and sinusitis, presented to the ED on 5/27/2024 with acute onset of severe dyspnea, orthopnea, chest pressure, and palpitations. She was found to be in acute decompensated heart failure with hypotension and evidence of end-organ hypoperfusion. Notably, she was 17 weeks pregnant (G2P1A0, singleton gestation, viable) at the time of admission. Initial echocardiogram showed severely reduced LVEF (18%) with global hypokinesis. She rapidly deteriorated requiring intubation, vasopressors, and was transferred to the CVICU where she underwent emergent placement of a percutaneous left ventricular assist device (Impella CP).
+
+Her ICU course was complicated by AKI, transaminitis, and persistent hypotension requiring multiple vasopressors. Infectious workup revealed evidence of recent viral infection (parainfluenza PCR positive). Cardiac markers peaked and trended down with supportive care. Multidisciplinary discussions with OB, Cardiology, and Ethics were held regarding maternal and fetal risks. After 6 days of hemodynamic support, her cardiac function began to recover and the device was removed. She was extubated on hospital day 8 and transferred to step-down on day 10.
+
+---
+
+## Assessment & Plan
+
+#### 1. **Cardiogenic Shock due to Fulminant Myocarditis**
+   - *Assessment*: Acute decompensated heart failure (LVEF 18%) in the setting of recent viral illness, highly suspicious for viral myocarditis. Required temporary mechanical circulatory support (Impella CP).
+   - *Plan*:  
+     - Device removed HD7 after LVEF improved (now 38%).
+     - Continue GDMT for heart failure (beta blocker, ACEi – hold if SBP <100).
+     - TTE q72h; monitor for arrhythmias.
+     - Serial cardiac markers, telemetry.
+     - Cardiology f/u, consider endomyocardial biopsy if recurrence.
+     - Restrict fluids, daily weights, strict I/O.
+
+#### 2. **Acute Kidney Injury (KDIGO Stage 2)**
+   - *Assessment*: Multifactorial—hypoperfusion, vasopressors, nephrotoxic abx (Augmentin).
+   - *Plan*:  
+     - Renal dose adjustments.
+     - Avoid nephrotoxins.
+     - Monitor urine output, daily BMP.
+     - Consult Nephrology if worsening.
+
+#### 3. **Pregnancy - 17 weeks, singleton, viable**
+   - *Assessment*: High risk due to maternal critical illness and hemodynamic instability.
+   - *Plan*:  
+     - OB co-management.
+     - Daily fetal heart tones, OB sono q3d.
+     - Avoid ACEi/ARBs while pregnant.
+     - Folic acid, prenatal vitamins.
+     - Counseling re: risks, maternal-fetal medicine f/u.
+
+#### 4. **Hypertension**
+   - *Assessment*: Previously controlled on atenolol/chlorthalidone; now labile due to critical illness.
+   - *Plan*:  
+     - Restart beta blocker at low dose when stable.
+     - Consider labetalol for BP control.
+     - Hold thiazide while AKI.
+
+#### 5. **Recent Viral Pharyngitis/Sinusitis**
+   - *Assessment*: Likely trigger for myocarditis.
+   - *Plan*:  
+     - Continue supportive care.
+     - Monitor for superimposed bacterial infection.
+
+#### 6. **Transaminitis**
+   - *Assessment*: Likely shock liver from hypoperfusion, resolving.
+   - *Plan*:  
+     - Trend LFTs.
+     - Avoid hepatotoxic meds.
+
+#### 7. **Contraception Issues**
+   - *Assessment*: On progestin-only pill, Mirena IUD, Levora (recently d/c’d).
+   - *Plan*:  
+     - Mirena in place.
+     - Continue progestin-only pill if OB agrees.
+
+#### 8. **Pain**
+   - *Assessment*: Mild, 2/10, likely musculoskeletal.
+   - *Plan*:  
+     - Acetaminophen prn.
+     - Avoid NSAIDs due to AKI.
+
+#### 9. **VTE Prophylaxis**
+   - *Plan*:  
+     - Sequential compression devices.
+     - Consider LMWH if bleeding risk low.
+
+#### 10. **Nutrition**
+   - *Plan*:  
+     - High-protein, low-sodium cardiac diet.
+     - Enteral feeds while intubated.
+
+---
+
+## **Lab Results Table**
+
+| Date         | WBC (K/uL) | Hgb (g/dL) | Plts (K/uL) | Na (mmol/L) | K (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | AST (U/L) | ALT (U/L) | Trop I (ng/mL) | BNP (pg/mL) | Comments                 |
+|--------------|------------|------------|-------------|-------------|------------|-------------|------------|-----------|-----------|---------------|-------------|--------------------------|
+| 5/27/24 04:10| 6.5        | 15.7       | 425         | 135         | 4.1        | 19          | 1.3        | 88        | 121       | 0.98          | 2240        | On admission             |
+| 5/28/24 07:45| 8.1        | 14.2       | 399         | 132         | 3.7        | 28          | 2.1        | 137       | 185       | 2.32          | 3187        | Post-Impella placement   |
+| 5/29/24 06:12| 7.9        | 13.8       | 385         | 130         | 3.3        | 34          | 2.6        | 201       | 218       | 2.01          | 2951        | Peak AKI, LFTs rising    |
+| 5/30/24 08:00| 6.4        | 13.6       | 352         | 132         | 3.9        | 27          | 1.9        | 158       | 166       | 1.44          | 2100        | LFTs trending down       |
+| 5/31/24 07:21| 5.8        | 13.4       | 341         | 134         | 4.2        | 19          | 1.4        | 99        | 98        | 0.88          | 1500        | Device weaned            |
+| 6/2/24 09:15 | 5.5        | 13.5       | 337         | 135         | 4.0        | 16          | 1.2        | 55        | 66        | 0.19          | 899         | Extubated                |
+| 6/3/24 10:30 | 5.7        | 13.8       | 345         | 136         | 4.1        | 17          | 1.0        | —         | —         | <0.01         | 750         | Moved to step-down       |
+
+---
+
+## **Vital Signs Flow Sheet (Selected)**
+
+| Date/Time     | Temp (°C) | HR   | BP         | RR   | SpO2 | Comments         |
+|---------------|-----------|------|------------|------|------|------------------|
+| 5/27/24 04:10 | 37.8      | 128  | 82/54      | 31   | 92%  | On 4L O2         |
+| 5/27/24 12:00 | 38.1      | 119  | 78/48      | 28   | 95%  | On norepi, vent  |
+| 5/28/24 06:00 | 37.4      | 110  | 92/62      | 25   | 97%  | Impella in situ  |
+| 5/29/24 08:00 | 36.9      | 97   | 98/70      | 21   | 98%  | Weaning pressors |
+| 5/31/24 14:00 | 37.0      | 85   | 112/76     | 18   | 99%  | Off vasopressors |
+| 6/2/24 10:00  | 36.8      | 79   | 117/80     | 17   | 99%  | Extubated        |
+
+---
+
+## **Medications Administered (Selected)**
+
+- Norepinephrine infusion (max 0.18 mcg/kg/min, tapered off HD5)
+- Dobutamine infusion (HD1-4)
+- Furosemide IV 40mg q8h (held HD3-5 due to AKI)
+- Heparin SQ 5000u q8h (held HD2 for hematuria)
+- Atenolol 25mg PO (restarted HD9)
+- Amoxicillin/Clavulanate 875/125mg PO BID (HD1-2, then d/c)
+- Acetaminophen 650mg PO q6h prn
+- Prenatal vitamins daily
+- Labetalol 20mg IV PRN SBP>160
+
+---
+
+## **Imaging/Procedures**
+
+- **TTE 5/27/24**: LVEF 18%, global hypokinesis, LV dilation
+- **TTE 5/31/24**: LVEF improved to 38%
+- **CXR 5/27/24**: Pulmonary edema, mild cardiomegaly
+- **Impella CP placement**: 5/27/24, removed 6/2/24
+
+---
+
+## **Consult Notes (Summary)**
+
+- **Cardiology:** Recommends GDMT, device placement, close monitoring.
+- **OB:** High-risk pregnancy, daily FHTs, no contraindication to continuing pregnancy.
+- **Infectious Disease:** Viral myocarditis likely, no ongoing need for antibiotics.
+
+---
+
+## **Discharge Planning**
+
+- Anticipate transfer to acute rehab after step-down.
+- Close follow-up with Cardiology, OB, and Primary Care.
+- Home BP monitoring, heart failure education, medication reconciliation.
+- Social work and case management involved.
+
+---
+
+**Signed:** S. Nguyen, MD  
+**Date/Time:** 6/3/2024 14:21  
+**Cosigned by:** C. Patel, MD, Cardiology

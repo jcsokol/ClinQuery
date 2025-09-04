@@ -1,0 +1,163 @@
+**Patient Name:** Art Steuber  
+**MRN:** 00384922  
+**DOB:** 09/22/1969  
+**Sex:** Male  
+**Admit Date:** 03/14/2024  
+**Attending:** Dr. R. Yates  
+**Consults:** Cardiology, Pulm/Crit Care, Renal  
+**Location:** MICU, Room 16B
+
+---
+
+### CHIEF COMPLAINT  
+Unresponsive at home, found pulseless, ROSC after CPR.  
+
+---
+
+### HISTORY OF PRESENT ILLNESS  
+Mr. Art Steuber is a 54-year-old male with a history of hypertension, obesity (BMI 30), and remote cardiac arrest who presented after another witnessed cardiac arrest at home. The patient was found unresponsive by his wife, CPR was initiated, EMS arrived within 8 minutes, and ROSC was achieved after 2 rounds of epi/defib. He was intubated in the field and brought to the ED.
+
+On arrival:  
+- GCS: 3T  
+- BP: 82/54 mmHg (MAP 60)  
+- HR: 134  
+- O2 Sat: 92% on 100% FiO2  
+- Lactate: 5.2  
+- EKG: ST depressions V4-V6, RBBB  
+- TTE: Severely reduced LVEF (~15%), global hypokinesis  
+- Troponin I: 4.8 → 6.2  
+- CXR: Pulmonary edema  
+- Labs: AKI (Cr 2.1), mild transaminitis  
+- PMH: Hypertension, obesity, acute bronchitis (recent), prior cardiac arrest (2019, not requiring advanced support)  
+
+He was brought to the ICU for post-arrest management. Due to persistent cardiogenic shock (requiring norepinephrine, dobutamine), an Impella CP was placed at bedside for temporary circulatory support.
+
+---
+
+### HOSPITAL COURSE SUMMARY  
+**Day 1-2:**  
+- Ongoing shock, high-dose vasopressors/inotropes  
+- Impella CP placed, improved MAPs  
+- Ongoing hypoxemic respiratory failure, mechanical ventilation  
+- Oliguria, worsening creatinine  
+- Broad-spectrum antibiotics for aspiration concern  
+- Initial improvement in lactate and urine output after Impella
+
+**Day 3-5:**  
+- Impella support ongoing, weaning of vasopressors  
+- Neurological exam: purposeful movement, off sedation  
+- AKI persists, started CVVH on D4  
+- Mild transaminitis, trending down  
+- Persistent leukocytosis, CXR with evolving infiltrates (VAP concern)  
+- Echo: LVEF improved to 28%  
+- Weaned FiO2, extubated on D5  
+- Mobilization with PT/OT, delirium (resolving)
+
+**Day 6-8:**  
+- Impella weaned and explanted on D7 after hemodynamic stability  
+- Renal function improving, off CVVH by D8  
+- Transitioned to oral antihypertensives  
+- Disposition planning for acute rehab
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock s/p cardiac arrest, severe LV dysfunction.**  
+- Impella CP for mechanical circulatory support  
+- Weaned vasopressors/inotropes  
+- Serial ECHO, telemetry  
+- Guideline-directed medical therapy (GDMT): started low-dose carvedilol, lisinopril  
+- Plan: Close follow-up with heart failure/transplant team
+
+**2. Acute Kidney Injury (KDIGO Stage 3).**  
+- Likely multifactorial: low output, nephrotoxic meds, contrast  
+- CVVH x 3 days, off now, improving urine output  
+- Renal dosing for all meds  
+- Monitor creatinine, lytes
+
+**3. Post-cardiac arrest care, hypoxic-ischemic encephalopathy risk.**  
+- Maintained normothermia  
+- Serial neuro checks, EEG  
+- PT/OT for cognitive and mobility rehab
+
+**4. Ventilator-associated pneumonia (VAP).**  
+- Cefepime + vancomycin, de-escalated to ceftriaxone after cultures  
+- CXR and procalcitonin trending  
+- Extubated D5, on 2L NC
+
+**5. Hypertension, Obesity.**  
+- Restarted HCTZ, added carvedilol  
+- Nutrition consult, low-salt diet  
+- Weight trending down
+
+**6. Recent acute bronchitis.**  
+- Symptomatic management  
+- No current bronchospasm
+
+**7. Other:**  
+- DVT prophylaxis: enoxaparin  
+- Stress ulcer ppx: pantoprazole  
+- Glycemic control: sliding scale insulin
+
+---
+
+## LABORATORY RESULTS
+
+#### CBC / CHEM7 / CARDIAC MARKERS / LIVER ENZYMES
+
+| Date      | WBC   | Hgb   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Gluc | Troponin I | AST  | ALT  | Lactate |
+|-----------|-------|-------|-------|------|------|------|------|------|------|------|------------|------|------|---------|
+| 3/14      | 16.2  | 13.1  | 412   | 136  | 5.6  | 102  | 19   | 38   | 2.1  | 188  | 4.8        | 92   | 67   | 5.2     |
+| 3/15      | 15.1  | 12.8  | 392   | 138  | 5.1  | 104  | 21   | 46   | 2.5  | 154  | 6.2        | 68   | 55   | 2.8     |
+| 3/16      | 13.4  | 12.2  | 370   | 139  | 4.1  | 106  | 23   | 32   | 2.2  | 124  | 2.2        | 52   | 38   | 1.7     |
+| 3/17      | 12.8  | 11.5  | 340   | 141  | 4.0  | 108  | 25   | 21   | 1.7  | 109  | 1.1        | 34   | 25   | 1.2     |
+| 3/18      | 10.9  | 11.1  | 305   | 142  | —    | 107  | 24   | 15   | 1.3  | 104  | <0.03      | 26   | 19   | —       |
+| 3/19      | 10.2  | 11.3  | 298   | 140  | 4.3  | 105  | 23   | 13   | 1.0  | 98   | <0.03      | 22   | 16   | 0.9     |
+
+*Some labs missing as noted.*
+
+---
+
+## ICU VITALS SUMMARY
+
+| Date      | Temp | HR  | BP         | RR | O2 Sat | MAP | FiO2 |
+|-----------|------|-----|------------|----|--------|-----|------|
+| 3/14      | 36.1 | 134 | 82/54      | 18 | 92%    | 60  | 1.0  |
+| 3/15      | 36.8 | 110 | 98/62      | 20 | 95%    | 74  | 0.7  |
+| 3/16      | 37.2 | 102 | 116/68     | 16 | 98%    | 84  | 0.4  |
+| 3/17      | 36.6 | 92  | 110/70     | 14 | 99%    | 83  | 0.3  |
+| 3/18      | 36.9 | 81  | 118/76     | 14 | 98%    | 90  | 0.21 |
+
+---
+
+## MEDICATION ADMINISTRATION RECORD
+
+- **Hydrochlorothiazide 25mg PO qAM** (held D1-3 for AKI, restarted D4)
+- **Acetaminophen 325mg PO q6h PRN**  
+- **Carvedilol 3.125mg PO BID** (started D5)
+- **Lisinopril 2.5mg PO daily** (started D6)
+- **Norepinephrine** (D1-3, weaned)
+- **Dobutamine** (D1-4, weaned)
+- **Enoxaparin 40mg SQ daily**
+- **Cefepime → ceftriaxone**
+- **Pantoprazole 40mg IV daily**
+- **Insulin sliding scale**
+
+---
+
+## DISPOSITION
+
+- Acute rehab recommended for ongoing weakness, physical therapy
+- Cardiology follow-up for advanced HF therapy evaluation
+- Outpatient nephrology for monitoring renal recovery
+
+---
+
+**Physician:**  
+R. Yates, MD  
+03/19/2024 15:46
+
+---
+
+**END OF NOTE**

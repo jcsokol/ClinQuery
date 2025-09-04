@@ -1,0 +1,178 @@
+**INPATIENT PROGRESS NOTE - ICU**  
+**Patient:** Thiel, Damion  
+**MRN:** 00458213  
+**DOB:** 03/07/1968  
+**Sex:** Male  
+**Date of Service:** 06/22/2024  
+**Location:** CCU/ICU  
+**Attending:** Dr. J. Malhotra  
+**Consults:** Cardiology, Endocrinology, Infectious Disease  
+**Admission Date:** 06/15/2024  
+
+---
+
+### Chief Complaint
+Progressive shortness of breath, orthopnea, and fatigue.  
+
+---
+
+### History of Present Illness
+Damion Thiel is a 56-year-old male with a history of hypertension, obesity (BMI ~29-30), prediabetes, chronic anemia, and recent acute viral pharyngitis. He presented via EMS after 4 days of worsening dyspnea, PND, and bilateral leg swelling. He described mild chest tightness but denied typical angina. He had subjective fevers and sore throat a week prior, with decreased oral intake. On arrival, he was tachycardic, hypotensive, and hypoxic, prompting ICU transfer for acute decompensated heart failure with evidence of cardiogenic shock.  
+
+During ICU stay, he developed escalating vasopressor requirements and deteriorating end-organ perfusion. After multidisciplinary discussion, a decision was made to place a percutaneous temporary left ventricular assist device (Impella CP) for hemodynamic support.  
+
+---
+
+### Past Medical History
+- **Hypertension** (well-controlled on Atenolol/Chlorthalidone)
+- **Obesity** (BMI 29-31)
+- **Prediabetes** (A1c 6.1%)
+- **Chronic anemia** (baseline Hgb ~11-12)
+- **Acute viral pharyngitis** (recent, resolved)
+- **Concussion (remote, no LOC)**
+
+### Past Surgical History
+- None relevant
+
+### Social History
+- Former smoker, quit 2012  
+- No alcohol or illicit drug use  
+- Lives with wife, ambulatory baseline
+
+### Family History
+- CAD (father, early 60s), HTN (mother)
+
+---
+
+### Home Medications
+- Atenolol/Chlorthalidone 50/25mg PO qd
+
+---
+
+### Allergies
+- NKDA
+
+---
+
+### ICU Course Summary (Days 1-7)
+- **Day 1-2:** Hypotension (MAP <60), tachycardia, O2 sat 91% RA, bibasilar crackles, JVD. BNP 2300, Troponin mild elevation (0.09→0.12). Echo: LVEF 20%, global hypokinesis, no valvular vegetations.
+- **Day 2:** Cardiogenic shock, rising lactate, AKI (Cr 2.1 from baseline 1.3). Started on norepinephrine and dobutamine.  
+- **Day 3:** Worsening hemodynamics, oliguria, transferred to cath lab for Impella CP placement.  
+- **Day 4-5:** Hemodynamically improved on mechanical support. Weaned off vasopressors. Mild transaminitis, ongoing anemia.  
+- **Day 6:** Impella weaning trial successful, device removed. Continued diuresis, improvement in renal function.  
+- **Day 7:** Transferred to telemetry, ambulating, tolerating diet.
+
+---
+
+### Review of Systems  
+- **General:** Weakness, fatigue, no fevers since admission  
+- **Cardiac:** No chest pain currently, palpitations resolved  
+- **Respiratory:** Improved, O2 sat 96% on 2L NC  
+- **GI:** Mild anorexia, no N/V  
+- **GU:** No hematuria  
+- **Neuro:** No focal deficits  
+- **Extremities:** Mild edema, improving
+
+---
+
+### Physical Exam (ICU Day 5)  
+- **Temp:** 37.2°C  
+- **BP:** 108/66 mmHg (off vasopressors)  
+- **HR:** 92 bpm  
+- **RR:** 18  
+- **SpO2:** 96% on 2L NC  
+- **Gen:** Appears fatigued, NAD  
+- **CV:** S1/S2, S3 present, no murmurs  
+- **Lungs:** Bibasilar crackles  
+- **Abd:** Soft, NT, no HSM  
+- **Ext:** 1+ pitting edema  
+- **Neuro:** AOx3, no focal deficit
+
+---
+
+## Labs
+
+#### Table 1: CBC & Chemistry  
+| Date       | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|
+| 6/15/24 AM | 8.9        | 11.6       | 34.9    | 304        | 136         | 3.8        | 109         | 24           | 18          | 1.3        | 74          |
+| 6/16/24 AM | 9.2        | 10.3       | 32.1    | 289        | 134         | 3.5        | 111         | 21           | 29          | 1.9        | 92          |
+| 6/17/24 PM | 10.4       | 9.7        | 29.5    | 262        | 132         | 3.2        | 112         | 19           | 36          | 2.1        | 88          |
+| 6/18/24 AM | 8.6        | 9.8        | 30.3    | 277        | 137         | 3.7        | 108         | 23           | 24          | 1.4        | 101         |
+| 6/19/24 AM | 7.8        | 10.8       | 33.0    | 315        | 139         | 3.9        | 107         | 25           | 16          | 1.2        | 116         |
+| 6/20/24 AM | 7.1        | 11.3       | 35.2    | 301        | 141         | 4.1        | 106         | 26           | 14          | 1.1        | 110         |
+| 6/21/24 AM | 7.4        | 11.5       | 36.1    | 289        | 140         | 4.0        | 105         | 25           | 13          | 1.1        | —           |
+
+#### Table 2: Cardiac & Other Labs  
+| Date       | BNP (pg/mL) | Troponin I (ng/mL) | AST (U/L) | ALT (U/L) | Total Bili (mg/dL) | PT (sec) | INR  |
+|------------|-------------|--------------------|-----------|-----------|--------------------|----------|-------|
+| 6/15/24    | 2320        | 0.09               | 38        | 45        | 1.0                | 13.1     | 1.1   |
+| 6/16/24    | 2250        | 0.12               | 49        | 57        | 1.2                | 14.2     | 1.2   |
+| 6/17/24    | 2210        | 0.10               | 54        | 62        | 1.0                | —        | —     |
+| 6/18/24    | 1870        | 0.08               | 38        | 47        | 0.8                | 13.0     | 1.1   |
+| 6/20/24    | 980         | <0.01               | 31        | 36        | 0.7                | 12.7     | 1.0   |
+
+---
+
+## Imaging
+- **Echocardiogram (6/15/24):** LVEF 20%, global hypokinesis, mild LV dilation, mild MR, RV normal, no vegetations.
+- **Chest X-ray (6/15/24):** Pulmonary edema, mild cardiomegaly.
+- **Repeat Echo (6/20/24):** LVEF 28%, mild improvement.
+
+---
+
+## Problem-Based Assessment & Plan
+
+### 1. Cardiogenic Shock secondary to Acute Decompensated Heart Failure
+- Likely precipitated by viral myocarditis on background of HTN, obesity.
+- Required pressors, inotropes, and temporary mechanical circulatory support (Impella CP).
+- **Plan:** Continue GDMT for HF, monitor for arrhythmias, continue telemetry, daily weights, strict I/Os. Cardiology to follow.
+
+### 2. Acute Kidney Injury (resolved)
+- Pre-renal etiology from hypoperfusion, improved with support.
+- **Plan:** Monitor renal function, avoid nephrotoxins, continue diuresis as tolerated.
+
+### 3. Chronic Anemia
+- Baseline Hgb ~11 g/dL, nadir 9.7 g/dL during ICU course.
+- **Plan:** Monitor CBC, iron studies outpatient, no transfusion indicated at present.
+
+### 4. Prediabetes
+- A1c 6.1%, stress hyperglycemia noted, no DKA/HHS.
+- **Plan:** Monitor glucose, continue lifestyle mod, consider metformin outpatient.
+
+### 5. Hypertension
+- Previously controlled, labile during ICU stay.
+- **Plan:** Resume home meds, monitor BP, titrate as tolerated.
+
+### 6. Obesity (BMI 29-30)
+- Risk factor for HF, OSA.
+- **Plan:** Nutrition consult, encourage weight loss, f/u outpatient.
+
+### 7. Recent Viral Pharyngitis
+- Resolved, no ongoing symptoms.
+- **Plan:** Supportive.
+
+### 8. Electrolyte Abnormalities
+- Mild hypokalemia on days 2-3, now resolved.
+- **Plan:** Monitor chemistries, replete PRN.
+
+### 9. ICU Delirium/Weakness
+- Mild, improved with reorientation, early PT/OT.
+- **Plan:** Continue mobility, minimize sedation.
+
+---
+
+**Disposition:**  
+Stable for transfer to step-down/telemetry. Plan for aggressive GDMT titration, cardiac rehab referral, close outpatient follow-up.
+
+---
+
+**Attending:** Dr. J. Malhotra, MD  
+**Resident:** J. Lee, MD  
+**Date/Time Signed:** 06/22/2024 09:18 AM
+
+---
+
+**Addendum:**  
+Please see nursing, PT/OT, and dietary notes for additional details.  
+Cardiology procedure note and Impella flows documented separately.

@@ -1,0 +1,264 @@
+---
+**Patient Name:** Sandie Purdy  
+**MRN:** 004398534  
+**DOB:** 07/07/1932  
+**Sex:** Female  
+**Admitting Physician:** Dr. Leon F. Madsen  
+**Date of Admission:** 04/19/2024  
+**Date of Note:** 04/25/2024  
+**Attending:** Dr. Madsen  
+**Service:** MICU  
+**Consultants:** Cardiology, Endocrinology, Nephrology, Infectious Disease  
+**Code Status:** Full Code  
+
+---
+
+### CHIEF COMPLAINT
+Shortness of breath, chest pain, and confusion.
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+
+Sandie Purdy is an 91-year-old female with a complex PMHx including type 2 diabetes, CKD stage 1, breast cancer (s/p L mastectomy 2009), hyperlipidemia, metabolic syndrome, anemia, and osteoarthritis, who presented with 2 days of progressive dyspnea, orthopnea, and chest discomfort. She was found by family to be confused and diaphoretic at home, with a home blood glucose of 278 mg/dL.
+
+EMS noted hypoxia (O2 sat 86% RA), tachycardia (HR 126), and hypotension (SBP 82). En route to ED, she developed pulseless VT requiring CPR x3 min, ROSC achieved. In ED, ECG showed ST depressions V2-V5, TnI 13.1 ng/mL, BNP 1620 pg/mL. CXR: pulmonary edema. Emergent echo: severe global LV dysfunction (EF 20%), mild RV dysfunction, moderate MR. She was intubated for hypoxic resp failure and admitted to MICU for cardiogenic shock.
+
+Due to persistent hypotension despite norepi and dobutamine, a percutaneous left ventricular assist device (Impella CP) was placed. She was anticoagulated with heparin. Over the subsequent days, she developed AKI and mild transaminitis.
+
+---
+
+### PAST MEDICAL HISTORY
+
+- Diabetes mellitus (insulin-dependent)
+- CKD stage 1 & diabetic nephropathy
+- Malignant neoplasm of breast (L, s/p mastectomy, no recurrence)
+- Hypertriglyceridemia, hyperlipidemia, metabolic syndrome
+- Anemia (chronic, multifactorial)
+- Osteoarthritis (hands)
+- Hx whiplash injury to neck
+- Hx streptococcal pharyngitis, remote
+- Gyn: 1 miscarriage (1st trimester)
+
+---
+
+### PAST SURGICAL HISTORY
+
+- L mastectomy (2009)  
+- Cholecystectomy  
+- R knee arthroscopy  
+
+---
+
+### MEDICATIONS (prior to admission)
+- Fluticasone 44mcg MDI, 2 puffs BID
+- Albuterol 90mcg MDI, prn
+- Insulin NPH/regular (Humulin 70/30), 40u qAM, 20u qPM
+- Simvastatin 10mg qHS
+- Naproxen 220mg prn
+- Penicillin VK 500mg BID x7d (recent, for pharyngitis)
+
+---
+
+### ALLERGIES
+- NKDA
+
+---
+
+### SOCIAL HISTORY
+- Lives with daughter, retired school teacher  
+- Former smoker (quit 1978), no EtOH, no illicit drugs  
+- Ambulates with cane, independent ADLs prior to admit
+
+---
+
+### FAMILY HISTORY
+- Mother: DM2, MI age 79  
+- Father: Colon cancer, CKD  
+- Sister: Breast cancer
+
+---
+
+### REVIEW OF SYSTEMS  
+Unable to obtain (intubated, sedated).
+
+---
+
+### PHYSICAL EXAM (ICU, 04/25/2024)
+
+**Gen:** Elderly F, intubated, sedated, appears chronically ill  
+**VS:** T 38.2°C, HR 112, BP 98/57 (on norepinephrine), RR 18 (vent), SpO2 97% (FiO2 40%)  
+**HEENT:** Normocephalic, ETT in place, pupils 2mm equal/reactive  
+**CV:** Tachycardic, S1/S2, soft systolic murmur at apex, no rubs/gallops  
+**Lungs:** Decr breath sounds bases, scattered rales  
+**Abd:** Soft, nontender, normoactive BS  
+**Ext:** No edema, pulses 1+  
+**Neuro:** Nonfocal, moves all extremities to noxious stim  
+**Skin:** No rashes/ulcers
+
+---
+
+### HOSPITAL COURSE (Summary through ICU Day 6)
+
+**ICU Day 1**: Admitted s/p cardiac arrest. Hypotensive, intubated, on norepi/dobutamine. Cardiac cath: severe 3-vessel CAD, non-obstructive plaque rupture, no PCI indicated. Echo: EF 20%, mod MR. Impella CP placed for cardiogenic shock.  
+**ICU Day 2**: Persistent metabolic acidosis, AKI (Cr ↑2.6), mild transaminitis. UOP low (~0.3 mL/kg/hr). CVP 17.  
+**ICU Day 3**: Improved hemodynamics, weaned off dobutamine. Norepi at 2 mcg/min. Started empiric vancomycin/cefepime for fever (T 38.9°C), blood cx drawn.  
+**ICU Day 4**: BP stable, Impella flows 3.2 L/min. Cr trending down. Lactate normalizing.  
+**ICU Day 5**: Extubated to NRB. Mild delirium. Echo: EF 28%. Impella weaned.  
+**ICU Day 6**: Impella removed. Stable on minimal pressors. UOP improving.  
+
+---
+
+### LABS
+
+#### Table 1: CBC / Chem7 / Cardiac Markers
+
+| Date        | WBC   | Hgb  | Hct  | Plt   | Na    | K     | Cl    | CO2   | BUN   | Cr    | Glu   | TnI   | BNP     |
+|-------------|-------|------|------|-------|-------|-------|-------|-------|-------|-------|-------|-------|---------|
+| 4/19/2024   | 8.2   | 12.5 | 38   | 312   | 139   | 4.6   | 108   | 20    | 29    | 2.2   | 278   | 13.1  | 1620    |
+| 4/20/2024   | 10.6  | 11.9 | 36   | 295   | 140   | 5.2   | 110   | 18    | 32    | 2.6   | 198   | 7.1   | 1480    |
+| 4/21/2024   | 7.8   | 11.7 | 35   | 289   | 139   | 4.8   | 108   | 21    | 27    | 2.4   | 162   | 2.8   | 1200    |
+| 4/22/2024   | 9.3   | 11.2 | 34   | 268   | 142   | 4.4   | 107   | 23    | 23    | 2.1   | 144   | 0.8   | 1090    |
+| 4/23/2024   | 11.1  | 10.7 | 32   | 254   | 141   | 4.2   | 106   | 24    | 19    | 1.7   | 133   | <0.01 | 810     |
+| 4/24/2024   | 9.6   | 10.9 | 33   | 242   | 140   | 4.0   | 105   | 23    | 15    | 1.5   | 118   | <0.01 | 610     |
+| 4/25/2024   | 8.1   | 11.1 | 34   | 235   | 139   | 4.1   | 105   | 23    | 14    | 1.3   | 109   | <0.01 |         |
+
+#### Table 2: LFTs / Other
+
+| Date        | AST   | ALT   | Alk Phos | TBili | Alb  | PT/INR | Lactate | Microalb/Cr | A1c   |
+|-------------|-------|-------|----------|-------|------|--------|---------|-------------|-------|
+| 4/19/2024   | 36    | 38    | 71       | 1.1   | 3.9  | 1.3    | 3.8     | 138         | 7.8   |
+| 4/21/2024   | 51    | 44    | 80       | 1.3   | 3.7  | 1.6    | 2.2     |             |       |
+| 4/23/2024   | 42    | 33    | 79       | 1.0   | 4.1  | 1.2    | 1.3     |             |       |
+| 4/25/2024   | 31    | 29    | 68       | 0.9   | 4.4  | 1.1    | 0.9     |             |       |
+
+---
+
+### IMAGING
+
+- **CXR (ED, 4/19):** Pulm edema, mild cardiomegaly, left basilar atelectasis.
+- **Echo (4/19):** LVEF 20%, global hypokinesis, mod MR, mild RVdysfx.
+- **Echo (4/24):** LVEF 28%, mod MR persists.
+
+---
+
+### MICROBIOLOGY
+
+- **Blood cultures** (4/20): No growth x5 days
+- **Urine cx**: No growth
+
+---
+
+## ASSESSMENT & PLAN
+
+91F w/ DM2, CKD, HLD, breast CA hx, anemia, who presented s/p cardiac arrest, found to be in cardiogenic shock 2/2 acute decompensated HF w/ severe LV dysfunction (likely ischemic). Required temporary LVAD (Impella) for hemodynamic support.
+
+**1. Cardiogenic Shock (s/p cardiac arrest, severe LV dysfunction, Impella)**
+   - Impella placed day 1 for refractory shock, now removed after hemodynamic recovery
+   - Continue close hemodynamic monitoring
+   - Titrate off pressors as tolerated
+   - Serial echocardiography for recovery
+   - Cardiology f/u for consideration of long-term advanced HF therapies
+
+**2. Acute Decompensated Heart Failure**
+   - Diuresis as tolerated (now off IV diuretics, UOP improving)
+   - Daily weights, strict I/Os
+   - Monitor for recurrent congestion
+
+**3. Acute Kidney Injury (on CKD)**
+   - Likely ischemic/ATN, Cr improving
+   - Renal consult: continue to avoid nephrotoxins, monitor UOP/lytes
+   - Hold ACEi/ARB, adjust meds as needed
+
+**4. Type 2 Diabetes Mellitus**
+   - Sliding scale insulin in ICU
+   - Resume home regimen when eating, monitor BGs q6h
+
+**5. Anemia (chronic, multifactorial)**
+   - Hgb stable, no transfusion needed
+   - Monitor CBC
+
+**6. Fever/possible Sepsis**
+   - Febrile on day 3, empiric abx started (now off, cultures neg)
+   - Monitor for secondary infection
+
+**7. Hyperlipidemia / Hypertriglyceridemia / Metabolic Syndrome**
+   - Continue statin, dietary counseling
+
+**8. History of Breast Cancer**
+   - s/p mastectomy, no evidence recurrence
+
+**9. Osteoarthritis, chronic pain**
+   - Resume naproxen as tolerated, pain control
+
+**10. Delirium**
+    - Likely multifactorial (ICU, metabolic), improving
+    - Re-orient, minimize sedation
+
+**11. Disposition**
+    - Continue ICU monitoring x24h, anticipate transfer to stepdown pending stability
+    - PT/OT consult for mobility, d/c planning
+
+---
+
+### ORDERS/TO DO
+- TTE repeat in 3d
+- Daily CBC, chem7, Mg/Phos
+- Monitor UOP, I/O q2h
+- Insulin sliding scale
+- DVT ppx
+- SCDs
+- Foley to gravity, assess for removal
+- Family meeting for goals of care
+
+---
+
+**Physician:** Leon F. Madsen, MD  
+**Date/Time:** 04/25/2024 10:18
+
+---
+
+#### (Page 2/4)
+
+**NURSING PROGRESS NOTE (ICU DAY 6):**
+- Vitals stable overnight. 
+- Impella removed per protocol, site hemostatic.
+- Foley patent, UOP 0.7 cc/kg/hr.
+- Extubated, requiring NRB but alert, following simple commands.
+- Family at bedside. No acute distress.
+
+---
+
+#### (Page 3/4)
+
+**CARDIOLOGY CONSULT NOTE (04/20/2024):**
+- 91F w/ new severe LV systolic dysfunction, ischemic pattern, s/p cardiac arrest, on Impella.
+- Not a candidate for acute revasc; recommend continued support, serial ECHOs, cardiac rehab if improves.
+- Discussed advanced HF therapies; not candidate for transplant/LVAD due to age/comorbidities.
+
+---
+
+#### (Page 4/4)
+
+**PHYSICAL THERAPY INITIAL ASSESSMENT**
+- Patient awake, weak but able to move all extremities.
+- Will require rehab post-ICU for deconditioning.
+- Recommend early mobilization as tolerated.
+
+---
+
+**Additional Labs:**  
+- Mg: 1.7 → 2.1 mg/dL  
+- Phos: 3.8 → 3.2 mg/dL  
+- INR stable at 1.1–1.2  
+- No evidence of hemolysis or DIC
+
+---
+
+**Discharge Planning:**  
+- Anticipate transfer to telemetry, then SNF for rehab.
+- Continue home meds, consider palliative care input.
+
+---
+
+**END OF NOTE**

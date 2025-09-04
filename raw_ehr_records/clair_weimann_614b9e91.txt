@@ -1,0 +1,146 @@
+```
+Epic EHR - Progress Note
+--------------------------------------------------------------------------------
+Patient Name: Clair Weimann                MRN: 00938471
+DOB: 1948-02-04 (76y)                      Sex: Male
+Date of Admission: 2024-05-22              Attending: Dr. Chen, Cardiology
+Date/Time of Note: 2024-05-27 07:15        Author: Dr. H. Lin, ICU
+
+Reason for Admission:
+76-year-old male with history of hypertension, severe COPD, and early-onset familial Alzheimer’s disease admitted with acute hypoxemic respiratory failure, hypotension, and chest pain. Course complicated by cardiogenic shock requiring placement of a temporary left ventricular assist device (Impella CP) in the CICU. 
+
+--------------------------------------------------------------------------------
+HOSPITAL COURSE SUMMARY:
+
+Day 0 (ED presentation): 
+- Found at home lethargic, increased confusion over baseline, severe SOB.
+- Vitals: HR 116, BP 74/42, RR 30, SpO2 81% on RA, T 36.6C
+- CXR: Hyperinflation, bilateral infiltrates.
+- ECG: ST depressions V4-V6, T wave inversion.
+- Troponin 3.4 → 5.1 ng/mL (elevated)
+- BNP 1840 pg/mL. Echo: LVEF 20%, severe global hypokinesis.
+- Worsening shock despite fluids, norepinephrine started, transferred to ICU.
+
+Day 1:
+- Cardiogenic shock, multi-organ hypoperfusion. Worsening lactic acidosis (lactate 5.9 mmol/L).
+- Temporary LVAD (Impella CP) placed via femoral approach.
+- Intubated for respiratory failure.
+- Broad spectrum antibiotics for possible aspiration pneumonia.
+- Started on dobutamine, weaned off norepinephrine.
+
+Day 2-4:
+- Gradual hemodynamic improvement, urine output increased.
+- Sedation weaned, neurologic exam limited (MMSE not reliable).
+- Renal function improved (Cr 1.9 → 1.2), LFTs trended down.
+- Impella flows 3.7-4.2 L/min, minimal hemolysis.
+- Volume overload, diuresed with IV furosemide.
+
+Day 5:
+- Impella weaned and successfully explanted.
+- Extubated to high-flow nasal cannula.
+- Persistent delirium, likely multifactorial (underlying dementia, ICU delirium).
+- Antibiotics narrowed after cultures negative.
+
+Current Status (Day 6):
+- Off vasopressors, O2 via nasal cannula at 2L.
+- Awake but confused, at baseline per family.
+- Mobilizing with PT. Appetite poor.
+- Plan for transfer to stepdown.
+
+--------------------------------------------------------------------------------
+ACTIVE PROBLEM LIST & ASSESSMENT/PLAN
+
+1. **Cardiogenic Shock s/p Temporary LVAD (Impella)**
+   - Shock likely secondary to acute decompensated heart failure (ischemic vs. arrhythmic).
+   - Impella CP placed Day 1, removed Day 5 after cardiac recovery.
+   - Echo: LVEF now 32%, mild MR.
+   - Plan: Continue GDMT for HF, monitor for recurrent decompensation.
+
+2. **Acute on Chronic Systolic Heart Failure**
+   - History of HTN, recent echo LVEF 20% (now 32%).
+   - Diuresed, now euvolemic.
+   - Continue carvedilol, consider sacubitril/valsartan if BP tolerates.
+   - Monitor for arrhythmias.
+
+3. **Severe COPD**
+   - Chronic FEV1/FVC <20%. On home LABA/ICS.
+   - Acute exacerbation at admission, now stable on inhalers.
+   - Continue fluticasone/salmeterol, titrate O2 to keep SpO2 >88%.
+   - Incentive spirometry, pulmonary rehab.
+
+4. **Aspiration Pneumonia (Resolved)**
+   - Treated with ceftriaxone + azithromycin, now afebrile, WBC normalized.
+   - Sputum + blood cultures negative.
+   - Monitor for recurrence.
+
+5. **Acute Kidney Injury (Resolved)**
+   - Pre-renal, improved with volume/CO optimization.
+   - Monitor SCr, avoid nephrotoxins.
+
+6. **Hypertension**
+   - Previously on amlodipine/HCTZ/olmesartan.
+   - Restarted low-dose as BP stabilizing.
+   - Monitor for hypotension.
+
+7. **Alzheimer’s Dementia, Early Onset**
+   - Baseline MMSE 3/30. Family reports at baseline confusion now.
+   - On galantamine/memantine.
+   - Supportive care, PT/OT.
+
+8. **ICU Delirium**
+   - Likely multifactorial. Reoriented, sleep-wake cycle supported.
+   - No antipsychotics at present.
+
+9. **Malnutrition Risk**
+   - Poor oral intake, mild hypoalbuminemia.
+   - Dietician consult, calorie/protein supplementation.
+
+--------------------------------------------------------------------------------
+LABORATORY DATA (Selected)
+
+| Date        | WBC   | Hgb  | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | BNP   | AST  | ALT  | Alb  | Lactate |
+|-------------|-------|------|-------|-------|------|------|------|------|------|------|------|----------|-------|------|------|------|---------|
+| 5/22 06:30  | 14.6  | 13.1 | 37.8  | 184   | 135  | 4.8  | 100  | 18   | 34   | 2.1  | 138  | 3.4      | 1840  | 98   | 109  | 2.5  | 5.9     |
+| 5/23 04:15  | 13.2  | 12.5 | 36.1  | 165   | 133  | 4.6  | 101  | 20   | 29   | 1.9  | 132  | 5.1      | 1540  | 82   | 86   | 2.8  | 4.5     |
+| 5/24 05:20  | 11.1  | 12.8 | 36.8  | 152   | 137  | 4.2  | 99   | 22   | 20   | 1.5  | 144  | 2.7      | 1120  | 60   | 58   | 3.0  | 2.2     |
+| 5/25 06:00  | 9.8   | 13.7 | 39.1  | 147   | 139  | 4.3  | 98   | 25   | 18   | 1.2  | 121  | 1.1      | 940   | 41   | 44   | 3.3  | --      |
+| 5/26 07:00  | 10.0  | 13.4 | 38.6  | 164   | 141  | 4.0  | 97   | 24   | 16   | 1.1  | 117  | <0.04    | --    | 32   | 36   | 3.4  | --      |
+| 5/27 04:30  | 9.4   | 13.8 | 39.7  | 159   | 139  | 3.9  | 99   | --   | 15   | 1.0  | --   | --       | --    | --   | --   | --   | --      |
+
+*Bolded labs indicate abnormal results at time of collection. Some values not collected daily (blank cells).
+
+--------------------------------------------------------------------------------
+PHYSICAL EXAM (abbreviated):
+
+Gen: Cachectic male, awake, inattentive, appears older than stated age.
+CV: Regular, tachycardic, normal S1/S2, no murmurs post-Impella.
+Resp: Coarse crackles bibasilar, mild wheeze, no increased work of breathing.
+Neuro: Follows simple commands, disoriented, MMSE unreliable.
+Abd: Soft, NT, no HSM.
+Ext: No edema, peripheral pulses 2+.
+Skin: No rashes, lines clean.
+
+--------------------------------------------------------------------------------
+MEDICATION ADMINISTRATION (inpatient):
+
+- Carvedilol 6.25 mg PO BID
+- Amlodipine/HCTZ/Olmesartan (resumed 5/25)
+- Furosemide 40 mg IV BID (5/22-5/25)
+- Fluticasone/Salmeterol DPI 1 puff BID
+- Galantamine 4 mg PO BID
+- Memantine 10 mg PO BID
+- Ceftriaxone 1g IV q24h (5/22-5/25)
+- Azithromycin 500mg IV q24h (5/22-5/24)
+- Norepinephrine (5/22-5/23)
+- Dobutamine (5/22-5/25)
+- Pantoprazole 40mg IV q24h
+
+--------------------------------------------------------------------------------
+DISPOSITION:
+- Stable for transfer to stepdown.
+- Continue PT/OT, close cardiac and pulmonary follow-up.
+- Goals of care discussion ongoing with family.
+
+--------------------------------------------------------------------------------
+Attending: _____________________    Resident: _____________________    Date/Time: ______
+```

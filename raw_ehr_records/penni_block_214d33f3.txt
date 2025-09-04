@@ -1,0 +1,198 @@
+---
+
+**Patient Name**: Block, Penni  
+**MRN**: 00548391  
+**DOB**: 03/27/1961 (63 y/o)  
+**Sex**: Female  
+**Admit Date**: 04/12/2024  
+**Attending**: Smith, John MD  
+**Consults**: Cardiology, Endocrinology, Pulmonary  
+**Allergies**: NKDA  
+
+---
+
+### **History of Present Illness**
+
+Penni Block is a 63-year-old female with a PMHx of obesity (BMI ~28), perennial allergic rhinitis, remote miscarriage, and hyperlipidemia, who presented to the ED with progressive exertional dyspnea, orthopnea, and PND for 1 week. She reported mild chest tightness and lower extremity swelling. No fevers, cough, or sick contacts. She was noted to have elevated JVP, bibasilar crackles, and 2+ pitting edema on exam. Initial CXR showed pulmonary congestion and mild cardiomegaly. Troponin was modestly elevated, NT-proBNP >8000. Echo demonstrated severe global LV systolic dysfunction (EF 15%), mild RV dysfunction, and no significant valvular disease. She developed worsening hypotension and hypoperfusion on hospital day 2, requiring transfer to the ICU and initiation of inotropes (dobutamine). On day 3, due to persistent cardiogenic shock, a percutaneous left ventricular assist device (Impella CP) was placed for temporary support.
+
+---
+
+### **Hospital Course Summary**
+
+- **Day 1:** Admitted to floor, started on IV diuretics. O2 via NC.
+- **Day 2:** Worsening hypotension, transferred to ICU, started on dobutamine, vasopressors.
+- **Day 3:** Refractory cardiogenic shock, Impella CP inserted via right femoral artery. BP improved, end-organ perfusion stabilized. 
+- **Day 4-7:** Gradual improvement in renal and hepatic function. Weaned off vasopressors. Continued diuresis. Serial ECHOs showed improved LV unloading. 
+- **Day 8:** Impella removed. Remained hemodynamically stable on oral heart failure regimen.
+- **Day 9-12:** Continued recovery, ambulating with PT, transitioned to step-down, working on discharge planning.
+
+---
+
+### **Active Problems**
+
+1. **Acute decompensated heart failure with reduced ejection fraction (HFrEF), NYHA IV**
+2. **Cardiogenic shock, requiring temporary LVAD (Impella)**
+3. **Acute kidney injury on CKD 2 (resolved)**
+4. **Transaminitis, likely secondary to hypoperfusion (improving)**
+5. **Obesity (BMI 28)**
+6. **Perennial allergic rhinitis**
+7. **Hyperlipidemia**
+8. **Contraceptive management (Mirena, etonogestrel implant)**
+9. **Anemia of chronic disease (stable)**
+10. **Remote miscarriage**
+
+---
+
+### **Assessment & Plan**
+
+#### 1. **Acute Decompensated HFrEF / Cardiogenic Shock**
+- Severe global LV dysfunction (EF 15%), likely non-ischemic (no prior CAD, negative ischemic workup).
+- Required temporary LVAD (Impella CP) for 5 days.
+- Now hemodynamically stable, off vasopressors/inotropes.
+- Continue goal-directed medical therapy: carvedilol, sacubitril-valsartan, spironolactone, furosemide.
+- Daily weights, strict I/Os, sodium restriction.
+- Cardiac rehab consult. 
+- Cardiology f/u arranged.
+
+#### 2. **Acute Kidney Injury**
+- Likely multifactorial: low flow state, diuretic effect.
+- Creatinine peaked at 2.2, now downtrending to 1.2.
+- Avoid nephrotoxins, monitor lytes daily.
+
+#### 3. **Transaminitis**
+- ALT/AST peaked at 220/195, now trending down.
+- Etiology: ischemic hepatitis vs. congestive hepatopathy.
+- Monitor LFTs q3d.
+
+#### 4. **Obesity**
+- BMI 28, weight loss counseling.
+- Nutritionist consult.
+- Encourage activity as tolerated.
+
+#### 5. **Perennial Allergic Rhinitis**
+- Continue home meds: fluticasone, albuterol PRN, diphenhydramine PRN.
+
+#### 6. **Hyperlipidemia**
+- Continue statin therapy.
+- Recheck lipids in 3 months.
+
+#### 7. **Contraceptive Management**
+- Mirena and etonogestrel implant in place.
+- No acute issues, continue as is.
+
+#### 8. **Anemia of Chronic Disease**
+- Hgb stable at 10.9-12.3.
+- No evidence of bleeding.
+
+#### 9. **DVT Prophylaxis**
+- SCDs in place, on LMWH.
+
+#### 10. **Disposition**
+- Anticipate discharge to home with family support.
+- Outpatient HF nurse and PT follow-up.
+
+---
+
+### **Medications (Active Orders)**
+
+| Medication                 | Dose/Route          | Frequency      | Indication               |
+|----------------------------|---------------------|---------------|--------------------------|
+| Furosemide                 | 40 mg IV            | BID           | Volume overload          |
+| Sacubitril-valsartan       | 24/26 mg PO         | BID           | HFrEF                    |
+| Carvedilol                 | 6.25 mg PO          | BID           | HFrEF                    |
+| Spironolactone             | 25 mg PO            | daily         | HFrEF                    |
+| Atorvastatin               | 40 mg PO            | daily         | Hyperlipidemia           |
+| Fluticasone MDI            | 1-2 puffs           | BID PRN       | Allergic rhinitis        |
+| Albuterol MDI              | 2 puffs             | q4h PRN       | Bronchospasm             |
+| Diphenhydramine            | 25 mg PO            | qHS PRN       | Allergy                  |
+| Enoxaparin                 | 40 mg SQ            | daily         | DVT prophylaxis          |
+
+---
+
+### **Vital Signs (ICU Days 2-7)**
+
+| Date       | HR   | BP         | RR  | Temp   | SpO2  | Weight (kg) |
+|------------|------|------------|-----|--------|-------|-------------|
+| 4/12/24    | 98   | 104/68     | 18  | 36.7   | 97%   | 74.2        |
+| 4/13/24    | 110  | 88/54      | 22  | 36.6   | 96%   | 74.1        |
+| 4/14/24    | 92   | 92/60      | 20  | 36.8   | 98%   | 73.6        |
+| 4/16/24    | 86   | 112/70     | 18  | 37.0   | 98%   | 72.8        |
+| 4/18/24    | 82   | 116/74     | 16  | 36.9   | 99%   | 72.0        |
+
+---
+
+### **Laboratory Data**
+
+**CBC & CHEM7**
+
+| Date      | WBC   | Hgb   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|-----------|-------|-------|-------|------|------|------|------|------|------|------|
+| 4/12/24   | 10.2  | 11.9  | 350   | 138  | 4.1  | 101  | 22   | 18   | 1.1  | 112  |
+| 4/13/24   | 11.8  | 10.9  | 320   | 136  | 5.2  | 99   | 18   | 28   | 1.7  | 126  |
+| 4/14/24   | 13.4  | 10.2  | 289   | 133  | 5.8  | 98   | 16   | 38   | 2.2  | 117  |
+| 4/15/24   | 11.1  | 11.4  | 301   | 135  | 4.8  | 100  | 21   | 23   | 1.4  |      |
+| 4/16/24   | 8.9   | 12.3  |       | 137  | 4.0  | 102  | 23   | 17   | 1.2  | 108  |
+| 4/18/24   |       | 12.1  | 309   |      | 4.2  |      |      |      | 1.1  | 102  |
+
+**LIVER PANEL**
+
+| Date      | AST   | ALT   | Alk Phos | Total Bili | Albumin |
+|-----------|-------|-------|----------|------------|---------|
+| 4/13/24   | 195   | 220   | 135      | 1.7        | 3.1     |
+| 4/15/24   | 89    | 101   | 110      | 1.2        | 3.5     |
+| 4/17/24   | 36    | 42    | 89       | 1.0        | 3.8     |
+
+**CARDIAC MARKERS**
+
+| Date      | Troponin I | NT-proBNP |
+|-----------|------------|-----------|
+| 4/12/24   | 0.12       | 8500      |
+| 4/13/24   | 0.16       | 9200      |
+| 4/15/24   | 0.09       | 6800      |
+
+---
+
+### **Imaging**
+
+- **CXR (4/12/24):** Pulmonary vascular congestion, mild cardiomegaly, small bilateral effusions.
+- **Echo (4/12/24):** Severe global LV hypokinesis (EF 15%), mild RV dysfunction, no significant valvular disease.
+- **Repeat Echo (4/16/24):** LV unloading, improved filling pressures, EF estimated 20%.
+- **Lower extremity Doppler (4/14/24):** No DVT.
+
+---
+
+### **Procedures**
+
+- **4/13/24:** Right femoral arterial Impella CP placement under fluoroscopic guidance.
+- **4/18/24:** Impella explantation at bedside, hemostasis achieved with manual compression.
+
+---
+
+### **Consults**
+
+- **Cardiology:** Ongoing management, device wean, advanced HF therapy counseling.
+- **Endocrinology:** Diabetes screening, obesity management.
+- **Pulmonary:** OSA screening (Epworth 13), recommend outpatient sleep study.
+
+---
+
+### **Social History**
+
+- Lives with spouse. Retired teacher. No tobacco, rare EtOH, no illicit drugs.
+- Supportive family, motivated for rehab.
+
+---
+
+### **Discharge Planning**
+
+- Anticipate discharge to home in 1-2 days.
+- HF nurse and PT to follow.
+- Close outpatient follow-up with cardiology and PCP.
+
+---
+
+**Attending:** John Smith, MD  
+**Resident:** Anna Lee, MD  
+**Date/Time:** 04/19/2024 09:14
+
+---

@@ -1,0 +1,133 @@
+---
+**Patient:** Fermin Auer  
+**MRN:** 20834712  
+**DOB:** 1911-04-08 (Age: 113)  
+**Sex:** Male  
+**Date of Admission:** 2024-05-29  
+**Attending:** Dr. J. Albright  
+**Location:** MICU, Room 17A
+
+---
+
+### Reason for Admission
+Acute decompensated heart failure with cardiogenic shock in the setting of recent chemotherapy (epirubicin) for metastatic breast cancer, chronic hypertension, and anemia. Required temporary left-sided heart pump (Impella CP) for hemodynamic support.
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+Mr. Fermin Auer, a 113-year-old male with a past medical history significant for hypertension, prediabetes, chronic anemia, chronic sinusitis, opioid abuse, and metastatic breast cancer (currently on epirubicin and tamoxifen) presented to the ED with progressive dyspnea, orthopnea, and lower extremity edema. He was found to be in acute decompensated heart failure with evidence of cardiogenic shock (MAP < 60 mmHg, lactate 4.1 mmol/L, cold extremities, altered mental status). The patient rapidly deteriorated requiring ICU admission, vasopressors, and subsequently placement of a temporary left-sided heart pump (Impella CP) for circulatory support.
+
+### Hospital Day 1
+- Admitted to MICU for shock.
+- Started on norepinephrine, dobutamine.
+- Intubated for respiratory distress and hypoxia (PaO2/FiO2 170).
+- Echocardiogram: LVEF 15%, global hypokinesis, moderate MR.
+- Impella CP placed via femoral approach for hemodynamic support.
+- Labs notable for acute renal injury (Cr 2.1 mg/dL from baseline 0.9), mild transaminitis, NT-proBNP > 18,000, troponin T 0.09.
+- Blood cultures, urine cultures drawn (all negative).
+
+### Hospital Day 2-4
+- Gradual improvement in hemodynamics, weaned off norepinephrine.
+- Vasodilators initiated for afterload reduction.
+- Monitored for hemolysis (LDH, haptoglobin), and device-related complications.
+- Diuresed aggressively.
+- Developed new fever, broad-spectrum antibiotics initiated (cefepime/vancomycin).
+- Serial CBCs showed persistent anemia, platelets trended down (likely multifactorial: device, sepsis, chemo).
+- Renal function improved with diuresis and hemodynamic stabilization.
+
+### Hospital Day 5-8
+- Impella weaned and removed on day 7.
+- Extubated to high-flow nasal cannula.
+- Continued monitoring for arrhythmias, bleeding, infection.
+- Chemotherapy held during ICU stay.
+- Consults: Cardiology, Oncology, Palliative care, PT/OT.
+- Discharge planning initiated, goals-of-care discussion with family.
+
+---
+
+## ASSESSMENT & PLAN (PROBLEM-BASED)
+
+### 1. **Cardiogenic Shock / Acute Decompensated Heart Failure**
+- Likely multifactorial: anthracycline (epirubicin) cardiotoxicity, hypertensive heart disease, anemia.
+- Required Impella CP for 7 days.
+- Plan: Continue ACE-inhibitor/ARB (if tolerated), beta-blocker initiation as outpatient, eplerenone, close follow-up with HF clinic.
+
+### 2. **Metastatic Breast Cancer**
+- On tamoxifen, recent epirubicin (held during ICU stay).
+- Oncology to re-evaluate chemotherapy regimen given new cardiac dysfunction.
+- Palliative care involved for goals of care.
+
+### 3. **Anemia (baseline, worsened in ICU)**
+- Likely multifactorial: chronic disease, chemo, device-related hemolysis.
+- Monitored daily CBC.
+- Transfused 2 units PRBCs (Hb < 7 g/dL).
+- Iron studies, B12, folate pending.
+
+### 4. **Acute Kidney Injury (resolved)**
+- Likely pre-renal from hypoperfusion.
+- Improved with diuresis and hemodynamic support.
+- Monitor renal function, avoid nephrotoxins.
+
+### 5. **Chronic Sinusitis / Acute Viral Pharyngitis**
+- Supportive care, ENT consult not indicated at this time.
+- No evidence of bacterial superinfection.
+
+### 6. **Opioid Use Disorder**
+- On home hydrocodone/APAP.
+- Monitored for withdrawal, transitioned to scheduled acetaminophen and oxycodone as needed.
+- Consider MAT (buprenorphine) if chronic pain remains an issue.
+
+### 7. **Infection / Sepsis (ruled out)**
+- Fever on day 2, cultures negative, improved off antibiotics.
+- Source unclear, likely non-infectious (device, chemo).
+
+### 8. **Hypertension / Prediabetes**
+- BP well controlled with HCTZ.
+- Glucose stable, A1c 6.3%.
+
+---
+
+## PERTINENT LABS (MICU STAY)
+
+| Date       | WBC (10^3/uL) | Hgb (g/dL) | Hct (%) | Plt (10^3/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | HCO3 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Troponin (ng/mL) | NT-proBNP (pg/mL) |
+|------------|---------------|------------|---------|---------------|-------------|------------|-------------|---------------|-------------|------------|-------------|-------------------|-------------------|
+| 5/29/2024  | 9.2           | 8.3        | 25.1    | 211           | 140         | 5.8        | 109         | 18            | 41          | 2.10       | 160         | 0.09              | >18,000           |
+| 5/30/2024  | 7.8           | 7.1        | 21.5    | 178           | 142         | 4.9        | 107         | 20            | 33          | 1.80       | 146         | 0.08              |                   |
+| 5/31/2024  | 8.4           | 7.5        | 22.8    | 159           | 143         | 4.2        | 105         | 24            | 22          | 1.30       | 120         | 0.06              | 15,300            |
+| 6/1/2024   | 10.3          | 9.2        | 27.8    | 135           | 139         | 4.6        | 104         | 23            | 19          | 1.10       | 112         | 0.05              |                   |
+| 6/2/2024   | 8.9           | 10.7       | 31.9    | 181           | 137         | 4.0        | 105         |               | 15          | 1.00       | 109         |                   | 11,800            |
+| 6/3/2024   | 7.2           | 10.0       |         | 195           | 138         | 4.1        |             | 26            | 13          | 0.98       | 102         |                   |                   |
+| 6/4/2024   | 6.3           | 10.1       | 30.4    | 212           | 140         | 4.2        | 107         | 25            | 11          | 0.90       |              |                   |                   |
+| 6/5/2024   | 6.1           | 10.8       | 32.7    | 203           | 141         | 4.3        | 108         | 27            | 10          | 0.89       | 99          |                   |                   |
+
+**Other labs:**  
+- ALT/AST peaked at 95/102 (day 2), normalized by day 6.
+- LDH 410 U/L (day 3), haptoglobin low (35 mg/dL) – consistent with device-related hemolysis.
+- INR max 1.6, PTT max 42 sec (on heparin for Impella).
+- Blood cultures x2, urine culture: negative.
+
+---
+
+## VITALS (SELECTED, ICU COURSE)
+- HR: 62–108 bpm (afib with RVR on day 1, converted)
+- BP: 72/48 mmHg (shock, day 1) → 108/66 mmHg (day 4+)
+- Temp: 37.1–38.4°C (max on day 2)
+- O2: Intubated (FiO2 60%), then HFNC, then room air by day 8
+
+---
+
+## DISCHARGE PLAN
+- To acute rehab with close follow-up by cardiology, oncology, and palliative care
+- Restart heart failure guideline-directed therapy as tolerated
+- Oncology to reassess chemo regimen
+- Home health for medication management, PT/OT
+
+---
+
+**Physician:** Dr. J. Albright  
+**Date/Time:** 2024-06-06 09:21
+
+---
+
+**[End of Note]**

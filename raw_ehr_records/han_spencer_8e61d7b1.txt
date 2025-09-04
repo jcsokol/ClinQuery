@@ -1,0 +1,228 @@
+**[EPIC EHR]**
+
+---
+
+**Patient Name:** Spencer, Han  
+**MRN:** 00718439  
+**DOB:** 02/06/1973 (Age: 51)  
+**Sex:** Female  
+**Admit Date:** 05/31/2024  
+**Attending:** Dr. V. Patel, Cardiology  
+**Location:** MICU, Rm 12B  
+
+---
+
+### **Admission H&P Summary**
+
+**Chief Complaint:**  
+Progressive shortness of breath, orthopnea, productive cough, lower extremity edema.
+
+**History of Present Illness:**  
+Ms. Han Spencer is a 51-year-old female with history of hypertension and dyslipidemia who presented to the ED with 1 week of worsening cough productive of yellow sputum, fevers, and progressive dyspnea. She developed chest tightness and palpitations over the past 48 hours. On arrival, she was tachycardic, hypotensive, with hypoxemia (O2 sat 86% RA). CXR showed bilateral infiltrates. Initial troponin mildly elevated; BNP elevated. She was admitted to the ICU for acute hypoxic respiratory failure and shock, requiring norepinephrine and subsequently developed evidence of cardiogenic shock with rising lactate and declining urine output.
+
+Bedside echocardiogram: LVEF 15%, global hypokinesis, moderate MR, no pericardial effusion.  
+Coronary angiogram: No obstructive CAD.
+
+Due to refractory hypotension and evidence of end-organ hypoperfusion, a **temporary percutaneous LV assist device (Impella CP)** was placed on hospital day 2.
+
+---
+
+**Past Medical History:**
+- Hypertension
+- Dyslipidemia
+- Acute bronchitis (current episode)
+- Occasional migraines
+
+**Past Surgical History:**
+- Cholecystectomy (2015)
+- Tonsillectomy (childhood)
+
+**Family History:**
+- Mother: MI at 62
+- Father: CHF
+
+**Social History:**
+- Former smoker (quit 2010)
+- No illicit drugs, rare EtOH
+- Lives with spouse
+
+**Allergies:**  
+NKDA
+
+**Home Medications:**
+- Acetaminophen 325 mg PRN
+- Amlodipine 10 mg daily
+- Atorvastatin 20 mg qHS
+
+---
+
+### **ICU Course Summary**
+
+**Day 1:**  
+Admitted for acute hypoxic respiratory failure, shock. Started on broad spectrum abx (ceftriaxone + azithro), norepinephrine, Lasix IV for volume overload. Echo: severe LV dysfunction.
+
+**Day 2:**  
+Progression to cardiogenic shock. Rising lactate, worsening renal function. Impella CP placed. Intubated for worsening hypoxemia. Started on milrinone.
+
+**Day 3-4:**  
+Slow improvement in end-organ perfusion; weaned off vasopressors. Bronchoscopy: copious purulent secretions, cultures pending. Mild transaminitis, AKI (Cr peaked 2.2 mg/dL). Developed mild delirium.
+
+**Day 5:**  
+Improved diuresis, extubated to HFNC. LVEF on repeat echo 25%. Impella weaned, removed on Day 6.
+
+**Day 6-7:**  
+Cardiac function improving, off pressors, transitioned to oral diuretics. Renal function improving. Mobilizing with PT.
+
+---
+
+### **Review of Systems (ICU Day 7)**
+
+- **General:** Alert, mild fatigue
+- **Cardiac:** No chest pain, palpitations resolved
+- **Respiratory:** Mild cough, no hemoptysis
+- **GI:** Appetite fair, no N/V, mild constipation
+- **GU:** Voiding, no dysuria
+- **Neuro:** No focal deficits, mild confusion resolved
+
+---
+
+## **Problem-Based Assessment and Plan**
+
+---
+
+### **1. Cardiogenic Shock due to Severe LV Dysfunction**
+- Likely secondary to acute myocarditis vs. stress-induced (Takotsubo) cardiomyopathy.
+- Managed with inotropes, vasopressors, and temporary LV assist device (Impella).
+- **Plan:**
+  - Continue guideline-directed medical therapy for HF (carvedilol started, titrate).
+  - Monitor for arrhythmias, wean inotropes.
+  - Daily echocardiogram for function.
+  - Cardiac MRI pending for myocarditis evaluation.
+
+---
+
+### **2. Acute Hypoxic Respiratory Failure / Acute Bronchitis**
+- Productive cough, bilateral infiltrates; likely viral or bacterial bronchitis with secondary HF exacerbation.
+- **Plan:**
+  - Continue ceftriaxone/azithromycin x 7 days.
+  - Pulmonary hygiene, incentive spirometry.
+  - Repeat CXR on Day 8.
+  - Monitor for secondary infection.
+
+---
+
+### **3. Acute Kidney Injury (AKI)**
+- Likely multifactorial: low cardiac output, nephrotoxic medications, volume overload.
+- **Plan:**
+  - Monitor urine output, daily Chem7.
+  - Avoid nephrotoxins.
+  - Nephrology consult if no improvement.
+
+---
+
+### **4. Volume Overload / Heart Failure**
+- Managed with IV Lasix, transitioned to oral.
+- **Plan:**
+  - Strict I/O, daily weights.
+  - Continue diuresis as tolerated.
+
+---
+
+### **5. Delirium (ICU)**
+- Fluctuating mental status, resolved.
+- **Plan:**
+  - Reorient, minimize sedation.
+  - Sleep hygiene.
+
+---
+
+### **6. Dyslipidemia / Hypertension**
+- Home meds held during acute illness, now re-initiated.
+- **Plan:**
+  - Resume amlodipine, atorvastatin.
+  - Monitor BP.
+
+---
+
+### **7. DVT Prophylaxis**
+- SCDs, subQ heparin.
+
+---
+
+### **8. Nutrition**
+- Enteral feeds while intubated, now PO diet as tolerated.
+
+---
+
+## **LABS**
+
+### **CBC & CHEMISTRY PANEL**
+
+| Date      | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plts (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|-----------|------------|------------|---------|-------------|-------------|------------|-------------|--------------|-------------|------------|-------------|
+| 5/31/24   | 4.0        | 16.1       | 44.8    | 344         | 138         | 3.8        | 104         | 21           | 18          | 1.0        | 102         |
+| 6/1/24    | 6.2        | 15.4       | 43.2    | 312         | 137         | 4.1        | 101         | 18           | 26          | 1.6        | 115         |
+| 6/2/24    | 11.6       | 14.7       | 41.8    | 289         | 136         | 4.4        | 98          | 15           | 38          | 2.2        | 126         |
+| 6/3/24    | 9.8        | 13.9       | 39.6    | 268         | 139         | 4.0        | 100         | 18           | 34          | 1.8        | 108         |
+| 6/4/24    | 8.4        | 14.2       | 40.1    | 277         | 140         | 3.7        | 103         | 20           | 25          | 1.4        | 96          |
+| 6/5/24    | 7.9        | 14.8       | 41.5    | 298         | 138         | 4.0        | 101         | 22           | --          | --         | 104         |
+| 6/6/24    | 7.1        | 15.2       | 43.0    | 312         | 137         | 4.2        | 99          | --           | 18          | 1.0        | 98          |
+| 6/7/24    | 6.7        | --         | --      | --          | 138         | 3.9        | 102         | 23           | 14          | 0.9        | 92          |
+
+---
+
+### **ADDITIONAL LABS**
+
+**Liver Function Tests**  
+| Date      | AST (U/L) | ALT (U/L) | AlkPhos (U/L) | T. Bili (mg/dL) |
+|-----------|-----------|-----------|---------------|-----------------|
+| 6/2/24    | 67        | 58        | 122           | 1.1             |
+| 6/4/24    | 35        | 31        | 88            | 0.7             |
+
+**Cardiac Markers**  
+| Date      | Troponin I (ng/mL) | BNP (pg/mL) |
+|-----------|--------------------|-------------|
+| 5/31/24   | 0.12               | 2120        |
+| 6/1/24    | 0.09               | 1780        |
+| 6/3/24    | 0.07               | 1370        |
+
+---
+
+### **Imaging**
+
+- **CXR 5/31/24:** Bilateral infiltrates, mild cardiomegaly.
+- **Echo 5/31/24:** LVEF 15%, global hypokinesis, moderate MR.
+- **Echo 6/5/24:** LVEF 25%, improved function.
+- **Coronary angio 6/1/24:** No obstructive lesions.
+
+---
+
+### **Medications (Current ICU Orders)**
+
+- Ceftriaxone 1g IV q24h
+- Azithromycin 500mg IV q24h x 3, then PO
+- Furosemide 40mg IV BID, transition to PO
+- Milrinone IV drip (weaning)
+- Carvedilol 3.125mg BID (initiate)
+- Amlodipine 10mg daily
+- Atorvastatin 20mg qHS
+- Acetaminophen 325mg PO PRN
+- SubQ Heparin 5000U q8h
+- Pantoprazole 40mg IV daily
+
+---
+
+### **Discharge Planning / Anticipated Needs**
+
+- Cardiac rehab referral
+- Close f/u with HF clinic
+- TTE in 2 weeks
+- Medication education
+- Social work consult for home support
+
+---
+
+**Physician:** V. Patel, MD  
+**Date/Time:** 06/07/2024 08:45
+
+---

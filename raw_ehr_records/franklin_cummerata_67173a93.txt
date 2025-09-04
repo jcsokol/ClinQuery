@@ -1,0 +1,173 @@
+**INPATIENT PROGRESS NOTE**  
+**Patient:** Franklin Cummerata  
+**MRN:** 00382749  
+**DOB:** 08/05/1988 (35 years)  
+**Sex:** Male  
+**Attending:** Dr. K. Riemann  
+**Date of Admission:** 2024-04-21  
+**Date of Service:** 2024-04-27  
+**Location:** MICU, Bed 3  
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+**Chief Complaint:**  
+Acute shortness of breath, chest pain, and altered mental status.  
+
+**History of Present Illness:**  
+Mr. Franklin Cummerata is a 35-year-old male with a history of diabetes, hypertriglyceridemia, and metabolic syndrome who presented to the ED with acute onset chest discomfort, dyspnea, and confusion. On arrival, he was tachycardic, hypotensive, and hypoxic. Initial labs notable for hyperglycemia, mild renal dysfunction, and metabolic acidosis. ECG showed ST depressions in V2-V4, troponin elevated, CXR with pulmonary edema. He rapidly deteriorated requiring transfer to the ICU for escalating vasopressor support and intubation.  
+On hospital day 1, he developed refractory cardiogenic shock. A left-sided temporary percutaneous LV assist device (Impella CP) was placed emergently for hemodynamic support. Over the subsequent days, he had gradual improvement and was weaned from vasopressors, extubated on day 4, and Impella removed on day 5.
+
+---
+
+## PAST MEDICAL HISTORY
+
+- Diabetes Mellitus, type 2, poorly controlled (HbA1c 8.2% on admission)
+- Hypertriglyceridemia
+- Metabolic syndrome
+- Hypertension (newly diagnosed during this admission)
+- No known CAD prior to this admission
+- No prior MI or revascularization
+
+## PAST SURGICAL HISTORY
+
+- None
+
+## SOCIAL HISTORY
+
+- Never smoker
+- Occasional alcohol use
+- No illicit drug use
+- Lives alone, works as a software engineer
+
+## FAMILY HISTORY
+
+- Father: MI at age 58
+- Mother: Type 2 DM
+
+## ALLERGIES
+
+- NKDA
+
+## HOME MEDICATIONS (prior to admission)
+
+- None documented
+
+---
+
+## ICU HOSPITAL COURSE - DAILY PROGRESS
+
+### Day 1 (Admission)
+
+- **Vitals:** BP 84/52 mmHg, HR 117, RR 28, SpO2 91% (on 6L NC)
+- **Exam:** Diaphoretic, cool extremities, JVD present, rales bilaterally
+- **Labs:** See table below. Troponin I 4.2 ng/mL, BNP 1800 pg/mL, ABG: pH 7.29, pCO2 54, HCO3 20
+- **Imaging:** CXR - Pulmonary edema, mild cardiomegaly.  
+- **ECG:** Sinus tachycardia, ST depressions V2-V4
+- **Echocardiogram:** LVEF 22%, severe global hypokinesis. No LV thrombus.
+- **Interventions:** Intubated for respiratory distress. Started on norepinephrine, dobutamine. Impella CP placed emergently.
+
+### Day 2
+
+- **Vitals:** BP 94/60 (on Impella + low dose norepinephrine), HR 102, SpO2 97% (ventilated)
+- **Exam:** Improved perfusion, urine output increasing
+- **Labs:** See table. Troponin trending down, lactate improving
+- **Events:** Weaned off dobutamine. Electrolytes replaced as needed.
+
+### Day 3
+
+- **Vitals:** BP 100/64, HR 96, SpO2 98% (on pressure support)
+- **Labs:** See table. Creatinine trending down.  
+- **Events:** Off vasopressors. Impella support continued.  
+- **Consults:** Endocrine, Cardiology
+
+### Day 4
+
+- **Vitals:** BP 110/68, HR 89, SpO2 98% (off vent)
+- **Labs:** See table.  
+- **Events:** Extubated. Impella flows decreased. Mobilized to chair.
+
+### Day 5
+
+- **Vitals:** BP 116/70, HR 82, SpO2 99% RA
+- **Labs:** See table.  
+- **Events:** Impella weaned and removed. Ambulating in room.
+
+---
+
+## LABS
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Ca (mg/dL) | Troponin (ng/mL) | BNP (pg/mL) |
+|------------|------------|------------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|------------|------------------|-------------|
+| Day 1      | 16.2       | 13.2       | 310        | 140         | 5.3        | 110         | 18           | 21          | 1.59       | 324         | 8.1        | 4.2              | 1800        |
+| Day 2      | 13.4       | 12.5       | 286        | 142         | 4.7        | 108         | 21           | 17          | 1.32       | 188         | 8.5        | 2.8              | 1350        |
+| Day 3      | 11.8       | 12.9       | 260        | 141         | 4.5        | 108         | 23           | 13          | 1.15       | 139         | 8.9        | 1.2              | 800         |
+| Day 4      | 10.2       | 13.7       | 238        | 142         | 4.2        | 107         | 25           | 10          | 1.04       | 112         | 9.3        | 0.4              | 410         |
+| Day 5      | 9.4        | 13.9       | 223        | 143         | 4.1        | 107         | 26           | 9           | 0.99       | 101         | 8.8        | –                | 170         |
+
+*Some rows have missing values for troponin as not repeated daily after improvement.*
+
+Other notable labs:
+- HbA1c (admission): 8.2%
+- ALT: 42 U/L (day 2), 36 U/L (day 4)
+- AST: 50 U/L (day 2), 32 U/L (day 4)
+- Albumin: 3.2 g/dL (day 2), 3.8 g/dL (day 5)
+- Lipid panel (day 3): Total cholesterol 214 mg/dL, TG 187 mg/dL, LDL 138 mg/dL, HDL 39 mg/dL
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. **Cardiogenic Shock, Acute Systolic Heart Failure**
+   - Severe LV dysfunction (EF 22%) likely due to silent MI in setting of metabolic syndrome.
+   - Required emergent placement of temporary LVAD (Impella CP).
+   - Now off vasopressors, Impella removed, improving end-organ function.
+   - **Plan:** Continue close monitoring, telemetry, start guideline-directed medical therapy for HFrEF, cardiac rehab consult, consider outpatient coronary angiography for definitive diagnosis.
+
+### 2. **Acute Hypoxic Respiratory Failure**
+   - Due to pulmonary edema from heart failure.
+   - Required intubation and mechanical ventilation, now extubated.
+   - **Plan:** Diuresis as tolerated, oxygen support PRN, monitor for recurrent respiratory distress.
+
+### 3. **Type 2 Diabetes Mellitus, Poorly Controlled**
+   - Admission HbA1c 8.2%, frequent hyperglycemia during ICU stay.
+   - **Plan:** Endocrine consult, initiate basal-bolus insulin, diabetes education, transition to subq insulin.
+
+### 4. **Metabolic Syndrome, Hypertriglyceridemia**
+   - Triglycerides elevated, LDL high, low HDL.
+   - **Plan:** Start high-intensity statin, consider fenofibrate, dietary consult.
+
+### 5. **Acute Kidney Injury (resolved)**
+   - Likely secondary to hypoperfusion; creatinine normalized.
+   - **Plan:** Renal function monitoring, avoid nephrotoxins.
+
+### 6. **Electrolyte Abnormalities**
+   - Hypokalemia and hypocalcemia episodes during diuresis.
+   - **Plan:** Electrolyte repletion as needed, daily labs.
+
+### 7. **Critical Illness**
+   - ICU-acquired weakness, risk for delirium.
+   - **Plan:** Early mobilization, PT/OT, minimize sedation.
+
+### 8. **Secondary Prevention**
+   - No prior CAD history, now high risk.
+   - **Plan:** Aspirin, statin, beta-blocker, ACEi/ARB, counseling on smoking/alcohol, outpatient follow-up.
+
+---
+
+## DISCHARGE PLANNING
+
+- Anticipate transfer to step-down unit in 1-2 days if stable.
+- Close follow-up with Cardiology, Endocrinology, and Primary Care.
+- Emphasis on medication compliance, lifestyle modification.
+- Outpatient echo and stress test in 4-6 weeks.
+
+---
+
+**Signed by:**  
+Dr. K. Riemann, MD  
+Cardiology/Critical Care  
+**Date/Time:** 2024-04-27 14:28  
+
+---

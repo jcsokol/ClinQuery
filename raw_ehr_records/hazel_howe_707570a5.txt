@@ -1,0 +1,133 @@
+**Patient:** Hazel Howe  
+**MRN:** 00274913  
+**DOB:** 10/08/1984 (Age 39)  
+**Sex:** Female  
+**Date of Admission:** 04/08/2024  
+**Attending:** Dr. Michael Sanderson  
+**Service:** Cardiac ICU  
+**Admit Dx:** Cardiogenic shock, acute decompensated heart failure  
+**Relevant PMHx:** Prediabetes, Anemia, Recurrent viral pharyngitis, Multiple pregnancies  
+**Allergies:** NKDA  
+**Code Status:** Full Code
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+Ms. Hazel Howe, a 39-year-old female with a PMHx of prediabetes, anemia, and multiple prior pregnancies, presented to the ED with acute onset of severe dyspnea, orthopnea, chest discomfort, and lower extremity edema. She was found to be hypotensive (SBP 78 mmHg), tachycardic (HR 122 bpm), and hypoxic (SpO2 86% on RA). Initial labs showed acute kidney injury and elevated cardiac biomarkers. EKG revealed sinus tachycardia with non-specific ST-T changes; CXR showed pulmonary edema. She was transferred to the cardiac ICU for management of acute decompensated heart failure and cardiogenic shock.
+
+She was initiated on inotropic support (dobutamine), diuresed aggressively, and after persistent shock with end-organ hypoperfusion, required placement of a percutaneous left ventricular assist device (Impella CP) on HD2. Over the following days, she demonstrated gradual improvement in hemodynamics, renal function, and oxygenation. The temporary heart pump was weaned and removed on HD6. Her course was complicated by transient anemia requiring transfusion, mild hepatic dysfunction, and transient atrial fibrillation.
+
+She was transitioned to oral heart failure regimen and is being evaluated for advanced heart failure therapies. She remains hemodynamically stable and is pending transfer to the telemetry floor.
+
+---
+
+## ASSESSMENT & PLAN
+
+### 1. **Cardiogenic Shock / Acute Decompensated Heart Failure**
+- **Etiology:** Likely non-ischemic, peripartum/postpartum cardiomyopathy vs. viral myocarditis (recent viral pharyngitis x2, no CAD risk factors).
+- **Course:** Required pressors/inotropes, then percutaneous LVAD (Impella) HD2–HD6.
+- **Echo (HD1):** LVEF 18%, global hypokinesis, no significant valvulopathy.
+- **Plan:**
+  - Continue GDMT (carvedilol, sacubitril-valsartan, spironolactone, lasix).
+  - Telemetry monitoring for arrhythmias.
+  - Cardiology/Advanced HF consult. 
+  - Outpatient follow-up for possible ICD consideration.
+
+### 2. **Temporary Mechanical Circulatory Support (Impella CP)**
+- **Indication:** Persistent shock refractory to inotropes.
+- **Course:** Placed HD2, removed HD6 after hemodynamic recovery.
+- **Complications:** None, no limb ischemia, no hemolysis.
+- **Plan:** Site care, monitor for access complications, daily vascular checks.
+
+### 3. **Acute Kidney Injury (AKI)**
+- **Likely secondary to low cardiac output, improved with MCS and diuresis.**
+- **Creatinine peaked at 2.1 mg/dL (HD2), now trending down (see labs).**
+- **Plan:** Continue to monitor renal function, avoid nephrotoxins, adjust meds for GFR.
+
+### 4. **Anemia**
+- **Baseline chronic anemia, worsened in ICU (Hgb nadir 7.8 g/dL HD3).**
+- **Received 1 unit PRBCs HD3.**
+- **Plan:** Monitor CBC, iron studies, GI workup if persistent.
+
+### 5. **Arrhythmia (Atrial Fibrillation)**
+- **New onset AF with RVR, HD4, rate-controlled with metoprolol.**
+- **No recurrence, no anticoagulation initiated (CHA2DS2-VASc 1, transient).**
+- **Plan:** Continue beta-blocker, telemetry.
+
+### 6. **Prediabetes**
+- **Glucose well controlled.**
+- **Plan:** Continue monitoring, dietician consult.
+
+### 7. **Medication Reconciliation**
+- **Held hormonal contraception during acute illness.**
+- **Plan:** Re-evaluate on discharge.
+
+### 8. **Dispo**
+- **Pending transfer to telemetry floor, then home with close cardiology follow-up.**
+
+---
+
+## ICU DAILY LABS
+
+| Date       | WBC   | Hgb  | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | Trop  | BNP    |
+|------------|-------|------|-------|-------|------|------|------|------|------|------|------|------|------|-------|--------|
+| 04/08/24   | 6.9   | 14.8 | 45.8  | 341   | 141  | 3.9  | 105  | 22   | 18   | 1.4  | 82   | 32   | 29   | 0.09  | 7800   |
+| 04/09/24   | 8.2   | 12.7 | 39.6  | 301   | 137  | 4.3  | 108  | 20   | 25   | 1.9  | 98   | 44   | 40   | 0.18  | 12000  |
+| 04/10/24   | 10.1  | 9.6  | 30.2  | 270   | 134  | 4.7  | 110  | 19   | 38   | 2.1  | 107  | 61   | 59   | 0.14  | 15800  |
+| 04/11/24   | 9.8   | 7.8  | 25.0  | 248   | 135  | 4.5  | 111  | 21   | 31   | 1.7  | 111  | 49   | 51   | 0.10  | 13900  |
+| 04/12/24   | 8.5   | 9.1  | 29.3  | 285   | 138  | 4.2  | 108  | 23   | 24   | 1.2  | 104  | 36   | 28   | <0.01 | 8100   |
+| 04/13/24   | 7.6   | 10.5 | 33.7  | 312   | 139  | 4.0  | 106  | 22   | 19   | 1.0  | 91   | —    | —    | —     | 4200   |
+| 04/14/24   | 6.7   | 11.8 | 36.5  | 320   | 140  | 3.8  | 104  | 24   | 16   | 0.9  | 86   | —    | —    | —     | —      |
+
+*Note: Some daily labs not drawn or resulted.*
+
+---
+
+## VITALS SUMMARY
+- **HD1:** SBP 78-92, HR 112-134, RR 22-28, SpO2 86-94% RA → 2L NC
+- **HD2 (post-Impella):** SBP 98-116, HR 98-118, RR 18-24, SpO2 96-98%
+- **HD3-6:** BP stable, HR 70-100, SpO2 >98%
+- **Afebrile except Tmax 38.1°C HD2**
+
+---
+
+## PROCEDURES
+- **4/09/2024:** Placement of Impella CP via right femoral artery, under fluoroscopy, no immediate complications.
+- **4/13/2024:** Removal of Impella, hemostasis achieved, no access site hematoma.
+
+---
+
+## CONSULTS
+- **Cardiology:** Management of advanced HF, MCS, and arrhythmias.
+- **Nephrology:** AKI management, volume assessment.
+- **Nutrition:** High-protein, low-sodium, diabetic diet.
+
+---
+
+## DISCHARGE MEDICATIONS (to be finalized)
+- Carvedilol 6.25 mg BID
+- Sacubitril-valsartan 24/26 mg BID
+- Spironolactone 25 mg daily
+- Furosemide 40 mg daily
+- Ferrous sulfate 325 mg daily
+- Multivitamin daily
+- Hold hormonal contraception for now
+
+---
+
+## EDUCATION & FOLLOW-UP
+- Strict daily weights, fluid restriction, HF education provided.
+- Follow up with Advanced Heart Failure Clinic in 1 week.
+- Outpatient echo in 3 weeks.
+- Home health nursing for daily wound checks.
+
+---
+
+**Signed**  
+Michael Sanderson, MD  
+Cardiac ICU  
+04/14/2024  
+---
+
+**[End of Note]**

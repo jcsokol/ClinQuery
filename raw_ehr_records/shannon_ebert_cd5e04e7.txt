@@ -1,0 +1,181 @@
+---
+**Patient Name:** Shannon Ebert  
+**MRN:** 0082499  
+**DOB:** 1990-01-08  
+**Sex:** Male  
+**Admitting Service:** Medical ICU  
+**Date of Admission:** 2024-05-29  
+**Attending:** Dr. L. Carlsen  
+**Consults:** Cardiology, Burn Surgery, Infectious Disease
+
+---
+
+### CHIEF COMPLAINT
+Progressive dyspnea, lower extremity edema, and hypotension after extensive burns.
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+
+Shannon Ebert is a 34-year-old male with a history of obesity (BMI 38), chronic sinusitis, and recent third-degree burns (20% TBSA, chest and upper extremities) sustained in a house fire 9 days ago. He was initially managed at an outside facility with wound debridement and empiric antibiotics (cefuroxime), but developed worsening shortness of breath, hypotension, and signs of low cardiac output. He was transferred to our ICU for escalating vasopressor requirements and hypoxemia.
+
+On admission, he was tachycardic (HR 122), hypotensive (MAP 59 mmHg despite norepinephrine), with cool extremities, JVD, and bibasilar crackles. Labs showed rising lactate, acute kidney injury, and elevated troponin. Echo revealed severe global LV dysfunction (EF 15%), RV mildly reduced, no tamponade. Swan-Ganz placed: CI 1.6, wedge 26 mmHg, SVR 1200. Cardiology recommended placement of a percutaneous LVAD (Impella CP) for cardiogenic shock. Device successfully placed on HD2.
+
+---
+
+### PAST MEDICAL HISTORY
+- Obesity (BMI 38)
+- Chronic sinusitis
+- Viral sinusitis, acute viral pharyngitis (remote, resolved)
+- No known CAD, DM, HTN
+
+### PAST SURGICAL HISTORY
+- None
+
+### ALLERGIES
+- NKDA
+
+### SOCIAL HISTORY
+- Smoker, 1 pack/day, quit 2 years ago
+- No alcohol or illicit drug use
+- Lives with partner, works as a machinist
+
+### FAMILY HISTORY
+- Father: MI at 58
+- Mother: Asthma
+
+---
+
+## MEDICATIONS ON ADMISSION
+
+| Medication                                  | Dose/Route              | Frequency        |
+|----------------------------------------------|-------------------------|------------------|
+| Cefuroxime                                  | 250 mg PO               | BID              |
+| Meperidine HCl                              | 50 mg PO                | Q6h PRN pain     |
+| Acetaminophen                               | 325 mg PO               | Q6h PRN fever    |
+| Norepinephrine                              | IV                      | Titrated         |
+| Furosemide                                  | 40 mg IV                | Q12h PRN         |
+| Aspirin                                     | 81 mg PO                | Daily            |
+| Heparin (for Impella)                       | IV infusion             | Per protocol     |
+
+---
+
+## VITAL SIGNS (select entries)
+
+| Date       | Temp (C) | HR   | BP          | RR  | SpO2 | Pain (0-10) |
+|------------|----------|------|-------------|-----|------|-------------|
+| Admit      | 37.2     | 122  | 82/54 (MAP 59)| 28  | 92%  | 6           |
+| HD1        | 37.4     | 115  | 90/60       | 24  | 94%  | 4           |
+| HD2 (post-Impella)| 37.0| 98   | 105/72      | 20  | 97%  | 2           |
+| HD4        | 36.8     | 88   | 115/78      | 18  | 98%  | 2           |
+
+---
+
+## LABS
+
+### CBC & CHEM7 (selected)
+
+| Date         | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2 | BUN  | Cr   | Glu  |
+|--------------|------|------|------|------|------|------|------|-----|------|------|------|
+| Admit        | 4.2  | 13.3 | 35.7 | 228  | 132  | 4.8  | 98   | 19  | 32   | 1.7  | 107  |
+| HD1          | 7.9  | 12.1 | 33.0 | 210  | 134  | 4.2  | 102  | 18  | 36   | 2.1  | 144  |
+| HD2 (Impella)| 9.5  | 11.8 | 32.6 | 201  | 136  | 4.5  | 101  | 20  | 28   | 2.0  | 138  |
+| HD3          | 7.0  | 12.2 | 34.1 | 198  | 138  | 4.1  | 100  | 22  | 23   | 1.4  | 132  |
+| HD4          | 6.1  | 13.0 | 36.0 | 222  | 140  | 4.0  | 104  | 21  | 19   | 1.0  | 122  |
+| HD5          |      |      |      |      | 141  | 4.2  | 106  | 24  |      | 0.9  | 119  |
+
+#### Other labs:
+- Troponin I: 0.87 → 1.02 → 0.49 ng/mL (peak HD2)
+- BNP: 2980 pg/mL (HD1)
+- Lactate: 3.8 → 2.2 → 1.1 mmol/L (improved post-Impella)
+- AST/ALT: 76/88 (HD1), trending down
+- INR: 1.4 (HD2)
+- Fibrinogen: 390 mg/dL (HD2)
+- CRP: 21 mg/L (HD2)
+
+---
+
+## IMAGING
+
+- **ECHO (HD1):** Severe LV systolic dysfunction (EF 15%), RV mild/mod reduced, no pericardial effusion, mild MR, LA/LV dilated.
+- **CXR (HD1):** Bilateral patchy opacities, pulmonary edema.
+- **CXR (HD3):** Interval improvement, Impella in satisfactory position.
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+- HD1: Admitted with cardiogenic shock, multi-organ hypoperfusion. Started on pressors and diuretics.
+- HD2: Rapid hemodynamic decompensation, Impella CP placed. Marked improvement in MAP and urine output. Weaned off norepinephrine.
+- HD3: Continued wound care, improvement in renal function, extubated.
+- HD4: Mobilized to chair, Impella wean protocol started.
+- HD5: Impella explanted. Transferred to step-down unit.
+
+---
+
+## PHYSICAL EXAM (HD4)
+
+- **Gen:** Obese male, pleasant, NAD.
+- **CV:** S1/S2, no murmur, tachycardic, Impella hum noted.
+- **Resp:** Lungs clear, on 2L NC.
+- **GI:** Soft, NT/ND, normal BS.
+- **Ext:** 3rd degree burns anterior chest/arms (clean, dry dressings), trace LE edema.
+- **Neuro:** AOx3, no focal deficit.
+
+---
+
+## ASSESSMENT & PLAN
+
+### 1. **Cardiogenic Shock secondary to Acute Heart Failure**
+   - Etiology: Burn stress, possible viral myocarditis, no clear CAD.
+   - Management: Impella CP for temporary LV support, diuresis, guideline-directed therapy (ACEi held for AKI), telemetry, daily echo.
+   - Plan: Continue hemodynamic monitoring, titrate diuretics, optimize volume status, consider cardiac MRI as outpatient.
+
+### 2. **Third Degree Burns (20% TBSA)**
+   - Debrided at OSH, ongoing wound care, daily dressing changes, monitor for infection.
+   - Burn surgery following; nutrition support, PT/OT.
+
+### 3. **Acute Kidney Injury (pre-renal, improved)**
+   - Likely secondary to low-output state, now resolving.
+   - Monitor UOP, avoid nephrotoxins, trending down Cr.
+
+### 4. **Obesity (BMI 38)**
+   - High risk for complications, pressure ulcer prevention, DVT prophylaxis.
+
+### 5. **Chronic Sinusitis**
+   - No acute symptoms, continue outpatient management.
+
+### 6. **Pain/Analgesia**
+   - Meperidine and acetaminophen PRN, pain controlled.
+
+### 7. **Infection risk**
+   - On cefuroxime, monitor for fever/bacteremia, daily blood cultures x2 negative.
+
+### 8. **Anticoagulation**
+   - Heparin infusion while Impella in place, transitioned to SQ heparin post-explant.
+
+---
+
+## DISPOSITION
+
+- Transferred to step-down telemetry on HD5, plan for inpatient rehab after wound stabilization.
+
+---
+
+## PROVIDERS
+
+- Attending: Dr. L. Carlsen
+- Resident: Dr. J. Patel
+- Nursing: ICU RN team
+
+---
+
+## ADDITIONAL NOTES
+
+- Social work, PT/OT, burn nutrition consults ongoing.
+- Family updated daily, good support system.
+- Will follow-up with HF clinic and burn surgery post-discharge.
+
+---
+
+[End of Record]

@@ -1,0 +1,190 @@
+---
+**Patient Name:** Anissa Goyette  
+**MRN:** 001239478  
+**DOB:** 12/20/1952  
+**Sex:** Female  
+**Admit Date:** 02/02/2024  
+**Attending:** Dr. L. Farris, Cardiology/ICU  
+**Admitting Service:** Cardiac ICU  
+**Primary Team:** Heart Failure/Advanced Therapies  
+**Consults:** Endocrinology, Hematology, Infectious Disease, PT/OT  
+**Code Status:** Full Code  
+**Allergies:** NKDA
+
+---
+
+### CHIEF COMPLAINT
+Shortness of breath, chest pain, and near-syncope at home.  
+
+### HISTORY OF PRESENT ILLNESS  
+69-year-old female with past medical history significant for obesity (BMI 30), prediabetes, chronic anemia, osteoporosis, and remote bullet wound, who presented with progressive exertional dyspnea, orthopnea, and lower extremity edema for 2 weeks, acutely worsening over 48 hours. She developed chest pressure and near-syncope, prompting EMS call. On arrival, found to be hypotensive (BP 82/50), tachycardic (HR 114), and hypoxic (O2 sat 89% RA).  
+
+Initial EKG showed sinus tachycardia; troponin elevated to 0.46 ng/mL. CXR demonstrated pulmonary edema. Echocardiogram revealed LVEF 15%, severe global hypokinesis, and moderate MR. She rapidly decompensated with worsening cardiogenic shock, requiring vasopressors and emergent placement of a percutaneous left ventricular assist device (Impella CP) for hemodynamic support.  
+
+Patient was transferred to the cardiac ICU for ongoing management.
+
+---
+
+### HOSPITAL COURSE (THROUGH HOSPITAL DAY 7)
+
+**ICU DAY 1-2:**  
+- Cardiogenic shock, requiring norepinephrine, dobutamine, and Impella support.  
+- Intubated for hypoxic respiratory failure.  
+- Central and arterial lines placed.  
+- Initiated diuresis with IV furosemide.  
+- Empiric antibiotics (ceftriaxone, vancomycin) for possible sepsis, later narrowed to penicillin for positive strep throat swab.
+
+**ICU DAY 3-4:**  
+- Weaned off vasopressors as hemodynamics improved.  
+- Impella flow reduced; echo showed LVEF improved to 22%.  
+- Extubated to high-flow nasal cannula.  
+- Developed anemia (Hgb nadir 7.2 g/dL); transfused 1 unit PRBC.  
+- Noted mild transaminitis, likely shock liver.  
+- Persistent hyperglycemia, started on sliding scale insulin.
+
+**ICU DAY 5-6:**  
+- Impella removed on day 5, transitioned to inotropic weaning.  
+- Diuresis continued, net negative 3.5L.  
+- Mobilization with PT/OT.  
+- Hemoglobin stabilized at 9.5 g/dL.  
+- Blood cultures negative after 5 days.  
+- Started oral alendronate for osteoporosis.
+
+**ICU DAY 7 (Stepdown):**  
+- Transferred to cardiac stepdown.  
+- Stable on oral heart failure regimen (carvedilol, sacubitril/valsartan, spironolactone, lasix).  
+- Ambulating with assistance.  
+- Plan for cardiac rehab.
+
+---
+
+### PAST MEDICAL HISTORY
+
+- Obesity (BMI 30+)
+- Prediabetes (HbA1c 5.9%)
+- Chronic anemia (multifactorial, likely iron deficiency, chronic disease)
+- Osteoporosis (DXA T-score -2.7)
+- Streptococcal pharyngitis (recent)
+- Viral sinusitis (remote)
+- Remote bullet wound (resolved)
+- Miscarriage (remote)
+- History of ankle sprain
+
+### SURGICAL HISTORY
+- None relevant
+
+### HOME MEDICATIONS
+- Penicillin V 500 mg PO BID (recent, for strep)
+- Ibuprofen 200 mg PO PRN
+- Alendronate 10 mg PO daily
+
+### FAMILY HISTORY
+- CAD (mother), DM2 (father), anemia (sister)
+
+### SOCIAL HISTORY
+- Former smoker (quit 30 yrs ago)
+- No alcohol, no illicit drug use
+- Lives with spouse, independent prior to admission
+
+---
+
+---
+
+## VITALS (SELECTED)
+| Date         | Temp (C) | HR   | BP         | RR   | O2 Sat | Weight (kg) | Pain Score |
+|--------------|----------|------|------------|------|--------|-------------|------------|
+| 2/2/2024     | 37.1     | 114  | 82/50      | 26   | 89%    | 81.3        | 6          |
+| 2/3/2024     | 37.8     | 99   | 98/62      | 18   | 94%    | 80.1        | 4          |
+| 2/4/2024     | 37.2     | 87   | 108/68     | 16   | 97%    | 79.5        | 2          |
+| 2/6/2024     | 36.8     | 82   | 112/66     | 14   | 98%    | 78.6        | 1          |
+
+---
+
+## LABS (CBC, CHEM7, OTHERS)
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN   | Cr    | Gluc  | AST  | ALT  | Troponin | BNP    |
+|------------|------|------|------|------|------|------|------|------|-------|-------|-------|------|------|----------|--------|
+| 2/2/2024   | 14.1 | 8.4  | 25   | 393  | 139  | 5.3  | 101  | 23   | 28    | 1.2   | 152   | 88   | 77   | 0.46     | 3842   |
+| 2/3/2024   | 12.9 | 7.2  | 22   | 370  | 141  | 4.8  | 98   | 19   | 24    | 1.0   | 134   | 99   | 89   | 0.31     | 3610   |
+| 2/4/2024   | 11.2 | 9.1  | 27   | 419  | 143  | 4.4  | 102  | 25   | 19    | 0.9   | 109   | 48   | 39   | 0.18     | 2800   |
+| 2/5/2024   | 9.9  | 9.5  | 28   | 441  | 142  | 4.2  | 104  | 28   | 14    | 0.8   | 101   | 36   | 25   | <0.01    | 1770   |
+| 2/6/2024   |      | 10.0 | 29   | 435  | 141  |      |      | 27   | 13    | 0.7   | 99    | 31   |      |          | 1200   |
+| 2/7/2024   | 8.8  | 10.2 |      | 422  |      | 4.0  | 102  | 26   | 12    | 0.7   | 98    |      |      |          | 950    |
+
+---
+
+### MICROBIOLOGY
+- Blood cultures: No growth x2 sets  
+- Urine cultures: No growth  
+- Strep rapid antigen: Positive  
+- Sputum: Not collected
+
+---
+
+### IMAGING
+- CXR: Pulmonary edema, enlarged cardiac silhouette  
+- Echo (2/2/2024): LVEF 15%, severe global hypokinesis, mod MR  
+- Echo (2/5/2024): LVEF 22%, mild MR  
+- CT Head: No acute findings (obtundation eval, ICU day 2)
+
+---
+
+# ASSESSMENT & PLAN
+
+1. **Cardiogenic Shock due to Decompensated HFrEF**  
+   - Admitted in shock, likely ischemic vs. idiopathic.  
+   - Managed with Impella, vasopressors, inotropes.  
+   - Now stable on goal-directed medical therapy.  
+   - **Plan:** Continue uptitration of GDMT, monitor for arrhythmia, f/u echo, cardiac rehab referral, consider advanced therapies if recurrent decompensation.
+
+2. **Acute on Chronic Anemia**  
+   - Multifactorial: chronic disease, iron deficiency, acute blood loss.  
+   - Transfused PRBCs, iron studies pending.  
+   - **Plan:** Monitor CBC, iron panel, consider GI eval if persistent.
+
+3. **Obesity (BMI 30+)**  
+   - Risk for HF, diabetes, OSA.  
+   - **Plan:** Nutrition consult, daily weights, low sodium/low fluid diet.
+
+4. **Prediabetes**  
+   - Stress hyperglycemia during critical illness.  
+   - **Plan:** Sliding scale insulin, monitor A1c, diabetes education.
+
+5. **Osteoporosis (DXA T-score -2.7)**  
+   - High risk for falls/fracture during hospitalization.  
+   - **Plan:** Continue alendronate, PT/OT, fall precautions.
+
+6. **Recent Streptococcal Pharyngitis**  
+   - Treated with penicillin.  
+   - **Plan:** Complete course, monitor for complications.
+
+7. **Remote Bullet Wound**  
+   - No active issues.  
+   - **Plan:** None.
+
+8. **ICU-related Delirium**  
+   - Mild, resolved.  
+   - **Plan:** Sleep hygiene, reorient, minimize sedatives.
+
+9. **Functional Decline**  
+   - ICU-acquired weakness.  
+   - **Plan:** PT/OT, mobility, cardiac rehab referral.
+
+10. **Transaminitis (Shock Liver)**  
+    - Improving with hemodynamic stability.  
+    - **Plan:** Monitor LFTs.
+
+---
+
+### DISCHARGE PLANNING  
+- Anticipate discharge to home with home health in 3-4 days  
+- Close f/u with HF, PCP, and cardiology  
+- Cardiac rehab, PT/OT, nutritionist referrals  
+- Medication reconciliation prior to discharge
+
+---
+
+**Physician:** L. Farris, MD  
+**Date/Time:** 2/7/2024, 09:23
+
+---

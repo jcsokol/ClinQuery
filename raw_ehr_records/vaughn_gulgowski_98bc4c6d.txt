@@ -1,0 +1,175 @@
+**Patient:** Vaughn Gulgowski  
+**MRN:** 00423829  
+**DOB:** 11/24/1990  
+**Sex:** Male  
+**Admit Date:** 03/13/2024  
+**Attending:** Dr. K. Maher  
+**Admitting Dx:** Cardiogenic shock, s/p acute viral myocarditis  
+**ICU Admission:** Yes (MICU)  
+**Temporary Heart Pump:** Impella CP placed 03/15/2024  
+**Allergies:** NKDA  
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+Mr. Vaughn Gulgowski is a 33-year-old male with a history of DM2, HTN, hypertriglyceridemia, and metabolic syndrome, who presented with 2 days of progressive dyspnea, orthopnea, pleuritic chest pain, and fevers. He was initially admitted for presumed viral pharyngitis but rapidly deteriorated on hospital day 1 with hypotension, hypoxemia, and evidence of cardiogenic shock. TTE revealed severely depressed LVEF (EF 18%). He was transferred to the ICU and ultimately required placement of a temporary left-sided heart pump (Impella CP) for circulatory support. 
+
+---
+
+### PAST MEDICAL HISTORY
+
+- Diabetes mellitus type 2 (last HbA1c 7.1%)
+- Hypertension
+- Hypertriglyceridemia
+- Metabolic syndrome
+- Recent acute viral pharyngitis
+
+### PAST SURGICAL HISTORY
+
+- None
+
+### SOCIAL HISTORY
+
+- Lives with partner, works as a sales manager
+- Denies tobacco, drinks ETOH socially (1-2/month), no illicit drug use
+
+### FAMILY HISTORY
+
+- Father: CAD, MI age 59
+- Mother: T2DM
+
+### HOME MEDICATIONS
+
+- Hydrochlorothiazide 25 mg daily
+- Metformin 1000 mg BID (home, not resumed inpatient due to AKI)
+- Atorvastatin 40 mg qHS (home)
+
+---
+
+## PHYSICAL EXAM (ICU DAY 2)
+
+- **General:** Intubated, sedated, appears ill
+- **HEENT:** Oropharynx clear, mild pharyngeal erythema
+- **CV:** Tachycardic, S3 present, no murmurs, Impella in place, MAP ~65 mmHg (on low-dose norepi)
+- **Lungs:** Scattered crackles bilat, mildly diminished breath sounds at bases
+- **Abd:** Soft, NT/ND, +BS
+- **Ext:** Cool extremities, trace pitting edema, pulses 2+ femoral, DP/PT weak
+- **Neuro:** Follows commands when sedation lifted, no focal deficits
+
+---
+
+## VITALS (SELECTED)
+
+| Date       | Temp | HR | BP         | RR | SpO2 | MAP | O2 |
+|------------|------|----|------------|----|------|-----|----|
+| 3/13 06:00 | 37.0 | 112| 98/62      | 22 | 94%  | 63  | 3L NC |
+| 3/14 04:00 | 38.4 | 122| 82/49      | 30 | 90%  | 56  | 6L NC |
+| 3/15 05:00 | 36.9 | 105| 108/66     | 18 | 97%  | 70  | Vent |
+| 3/16 08:00 | 36.7 | 98 | 110/72     | 16 | 98%  | 74  | Vent |
+
+---
+
+## LABS
+
+**CBC, CHEM-7, and Selected Additional Labs**
+
+| Date       | WBC  | Hgb  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Trop  | AST  | ALT  | LFTs |
+|------------|------|------|------|------|------|------|------|------|------|------|-------|------|------|------|
+| 3/13 06:30 | 6.8  | 16.4 | 341  | 143  | 4.4  | 106  | 22   | 12   | 1.3  | 109  | <0.01 | 31   | 29   | WNL  |
+| 3/14 04:15 | 12.4 | 14.1 | 298  | 145  | 5.2  | 109  | 19   | 24   | 1.8  | 134  | 1.27  | 215  | 178  | bili 2.1 |
+| 3/15 05:20 | 10.7 | 13.7 | 264  | 142  | 4.8  | 107  | 21   | 19   | 1.5  | 116  | 0.85  | 113  | 101  | bili 1.7 |
+| 3/16 08:05 | 8.2  | 14.8 | 236  | 140  | 4.0  |      | 23   | 15   | 1.2  |      | 0.03  | 45   | 34   | bili 0.7 |
+| 3/17 06:30 | 7.7  |      | 228  |      | 3.8  | 104  | 24   | 12   | 1.0  | 103  | <0.01 | 36   |      | bili 0.4 |
+
+- *Missing values indicate not collected or hemolyzed sample.*
+
+**Other Labs:**  
+- BNP: 2860 pg/mL (3/14)
+- CK-MB: 34 ng/mL (3/14)
+- Lactate: 4.8 mmol/L (3/14, shock), 1.9 (3/16)
+- HbA1c (on admission): 7.1%
+- Lipid panel: TC 222, TG 157, LDL 142, HDL 48
+
+---
+
+## IMAGING
+
+- **CXR (3/14):** Pulmonary vascular congestion, mild bilateral effusions, Impella catheter tip projects over LV
+- **TTE (3/14):** LVEF 18%, LV dilated, global hypokinesis, RV mild-moderate dysfunction, no valvular vegetations
+
+---
+
+## PROCEDURES
+
+- 3/14: Central line (R IJ), arterial line (R radial)
+- 3/15: Impella CP placement (L femoral, under fluoro), bedside echo confirmation
+- 3/15: Endotracheal intubation for acute hypoxemic resp failure
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock, secondary to fulminant viral myocarditis**  
+- Required vasoactive support (norepinephrine, weaned off by HD #4)
+- Impella CP placed for LV unloading and end-organ perfusion, weaned and removed HD #5
+- Serial TTEs for LV recovery (EF improved to 34% by HD #6)
+- Daily troponin trending, lactate clearance
+- Strict I/Os, daily weights
+- Monitor for hemolysis, vascular complications
+
+**2. Acute Hypoxemic Respiratory Failure**  
+- Intubated for respiratory distress, ARDSnet vent settings
+- Extubated HD #5, transitioned to 2L NC
+- CXR monitoring, daily ABGs
+
+**3. Acute Kidney Injury (pre-renal, multifactorial)**  
+- Likely due to low cardiac output and hypoperfusion
+- Held nephrotoxins, avoided contrast
+- Monitored UOP, Cr trended down with improved perfusion
+
+**4. Diabetes Mellitus Type 2**  
+- Insulin drip during critical illness, transitioned to basal/bolus on floor
+- Restarted metformin once AKI resolved
+- Endo consult for glycemic control
+
+**5. Hypertension, Hypertriglyceridemia, Metabolic Syndrome**  
+- Held HCTZ during AKI, reinitiated on discharge
+- Restarted statin post-AKI
+- Dietary consult for cardiac diet, low sodium, low fat
+
+**6. Acute viral pharyngitis**  
+- Supportive care, no antibiotics
+- Negative strep/EBV/CMV, positive Coxsackie B IgM
+
+**7. DVT Prophylaxis**  
+- SCDs, SQ heparin
+
+**8. Lines/Devices**  
+- Daily assessment and care
+- Central line removed HD #6, Impella removed HD #5
+
+**9. Psychosocial**  
+- SW, case management for discharge planning
+- Family support, daily updates
+
+---
+
+## DISCHARGE PLAN (anticipated HD #8)
+
+- Continue cardiac rehab, close cardiology follow-up
+- Strict glycemic and BP control
+- Outpatient echo in 2 weeks
+- Home meds: resume metformin, HCTZ, atorvastatin, add carvedilol
+- No driving for 1 month post-Impella
+- Education on heart failure symptoms and when to seek care
+
+---
+
+### PROVIDER:  
+Maher, Kevin MD  
+Signed: 03/17/2024 10:41
+
+---
+
+**END OF NOTE**

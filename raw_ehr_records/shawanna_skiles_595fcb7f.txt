@@ -1,0 +1,163 @@
+```
+-------------------------------------------------------------------------------
+Patient Name: Shawanna Skiles                MRN: 002947381
+DOB: 1940-11-13 (Age: 83)                    Sex: Female
+Admit Date: 2024-06-08                       Attending: Dr. R. Johnson, MD
+-------------------------------------------------------------------------------
+Admitting Diagnosis: Cardiogenic shock secondary to acute decompensated heart failure with rapid atrial fibrillation, background of ischemic cardiomyopathy, and CKD1. Required temporary LVAD (Impella CP) placement for hemodynamic support. 
+-------------------------------------------------------------------------------
+HPI:
+83F with hx of DM2, HTN, obesity, CKD1, longstanding AFib (on warfarin), HLD, OA, and Alzheimer's, presented from SNF with acute-onset dyspnea, orthopnea, and confusion. Family notes 2 days of worsening leg swelling, pink frothy sputum, and missed insulin doses. On arrival: HR 142 irregular, BP 82/49, O2 sat 89% RA, RR 32. Exam: rales, JVD, 2+ pedal edema, cool extremities. Rapid decompensation requiring BiPAP, then intubation for hypoxemic respiratory failure. Bedside echo: EF 15%, severe global hypokinesis, moderate MR. Troponin elevated. Cardiology consulted, emergently placed Impella CP for cardiogenic shock. Course complicated by AKI, mild transaminitis, and labile INR. Now day 5 of ICU care. Family meeting held regarding goals of care.
+
+-------------------------------------------------------------------------------
+Past Medical History:
+- Obesity (BMI ~29)
+- Hypertension
+- Diabetes mellitus type 2 (on insulin + metformin)
+- Hyperlipidemia
+- Hypertriglyceridemia
+- Metabolic syndrome
+- CKD1, diabetic nephropathy
+- Atrial fibrillation (chronic, rate-controlled, on anticoag)
+- Anemia, chronic
+- OA bilateral knees
+- Alzheimer's disease (mild-moderate)
+- Prior: miscarriage x1, viral URIs, rib fracture
+
+Past Surgical History: None documented
+
+Allergies: NKDA
+
+Home Medications: see below
+
+-------------------------------------------------------------------------------
+Hospital Course Summary:
+Day 0: Admission to ICU for cardiogenic shock, intubated, Impella CP placed, started on vasopressors (norepinephrine), IV diuresis, empiric antibiotics (ceftriaxone/azithro) for possible aspiration.
+Day 1: Hemodynamics improved, weaned off vasopressors, still oliguric, started CRRT for volume overload and AKI.
+Day 2: AFib with RVR, started on amiodarone drip, INR supratherapeutic (held warfarin). Impella flows stable.
+Day 3: Mild transaminitis, likely ischemic. Neurologically slow to wake, extubated to BiPAP. Family meeting.
+Day 4: Impella weaned, device explanted. Remains on diuretics, off pressors. Renal function improving. 
+Day 5: Transferred to stepdown, stable on nasal cannula, diuresis continues.
+
+-------------------------------------------------------------------------------
+Problem-Based Assessment & Plan
+
+1. **Cardiogenic shock/Acute decompensated HF (EF 15%)**
+   - Etiology: likely ischemic, longstanding DM/HTN/HLD.
+   - Management: Emergent Impella CP for hemodynamic support (removed day 4), aggressive IV diuresis, afterload reduction (hydralazine, nitrate), daily echo.
+   - Continue: guideline-directed HF therapy, monitor for complications (hemolysis, stroke, device thrombosis).
+   - Monitor: weights, I/Os, repeat TTE before discharge.
+
+2. **Atrial Fibrillation**
+   - Chronic, on warfarin. AFib with RVR during ICU stay, started amiodarone, now rate-controlled.
+   - Hold warfarin until INR <2, bridge with heparin if needed.
+   - Monitor: telemetry, electrolytes, QTc. Consider rhythm control if recurrent.
+
+3. **Acute Kidney Injury on CKD1**
+   - Oliguric, started on CRRT day 1-3, now improving.
+   - Likely multifactorial: low perfusion, nephrotoxic meds, contrast.
+   - Monitor: daily labs, strict I/O, avoid nephrotoxins, adjust meds for renal dosing.
+
+4. **Type 2 Diabetes Mellitus**
+   - Home: metformin, insulin. Held metformin for AKI.
+   - Continue sliding scale insulin, monitor glucose q6h, restart metformin post-recovery.
+
+5. **Hypertension**
+   - Home: Amlodipine/HCTZ/Olmesartan, verapamil.
+   - Hold ACE/ARB during AKI. Resume as tolerated.
+   - Continue amlodipine, monitor BP closely.
+
+6. **Chronic Anemia**
+   - Baseline Hgb ~11, dropped to 8.2 with device, likely multifactorial (hemodilution, device hemolysis).
+   - Monitor CBC, iron studies. Transfuse if Hgb <7 or symptomatic.
+
+7. **Alzheimer’s Disease**
+   - Baseline mild-moderate. Delirium during ICU stay, improving.
+   - Reorient frequently, avoid deliriogenic meds, restart galantamine.
+
+8. **Hyperlipidemia/Hypertriglyceridemia**
+   - Continue statin, monitor LFTs.
+
+9. **Osteoarthritis**
+   - Continue acetaminophen PRN, avoid NSAIDs due to renal function.
+
+10. **Other:**
+   - DVT prophylaxis: SCDs, heparin once bleeding risk low.
+   - Nutrition: tube feeds for 2 days, now PO.
+   - Goals of care: Family updated; full code, for aggressive management.
+
+-------------------------------------------------------------------------------
+Medication Administration Record (MAR) – Hospital Stay
+
+| Medication                        | Dose/Route                | Start Date | Stop Date | Notes                                   |
+|------------------------------------|---------------------------|------------|-----------|-----------------------------------------|
+| Norepinephrine                    | 0.05-0.12 mcg/kg/min IV   | 6/8/24     | 6/9/24    | For shock, weaned off Day 1             |
+| Furosemide                        | 80mg IV q8h               | 6/8/24     | ongoing   | Diuresis                                |
+| Amiodarone                        | 150mg bolus, then 1mg/min | 6/9/24     | 6/12/24   | For AFib w/ RVR                         |
+| Ceftriaxone/Azithromycin          | 1g IV/500mg IV q24h       | 6/8/24     | 6/10/24   | Aspiration PNA coverage                  |
+| Metformin                         | 500mg PO q12h             | held       | held      | Held for AKI                            |
+| Insulin sliding scale             | per protocol SC           | 6/8/24     | ongoing   | Glucose control                         |
+| Warfarin                          | 5mg PO qd                 | held       | held      | INR supratherapeutic                    |
+| Heparin drip                      | per protocol IV           | 6/10/24    | 6/12/24   | DVT prophylaxis, bridging               |
+| Acetaminophen                     | 650mg PO q6h PRN          | 6/8/24     | ongoing   | Pain                                    |
+| Galantamine                       | 4mg PO qd                 | 6/10/24    | ongoing   | Dementia                                |
+
+-------------------------------------------------------------------------------
+LABS
+
+CBC/Chemistries/Other Labs
+
+| Date       | Na  | K   | Cl  | CO2 | BUN | Cr  | Glu | WBC  | Hgb  | Hct  | Plt  | AST  | ALT  | Alk Phos | INR | Trop  | Comments                |
+|------------|-----|-----|-----|-----|-----|-----|-----|------|------|------|------|------|------|----------|-----|-------|-------------------------|
+| 6/8/24 AM  | 135 | 4.6 | 109 | 20  | 26  | 1.3 | 232 | 11.2 | 9.4  | 28.1 | 198  | 41   | 35   | 79       | 3.1 | 2.1   | On pressors, AKI        |
+| 6/8/24 PM  | 134 | 4.8 | 110 | 19  | 29  | 1.7 | 201 | 9.8  | 8.7  | 25.7 | 181  | 55   | 48   | 104      | 2.9 | 1.8   | After Impella           |
+| 6/9/24 AM  | 136 | 4.3 | 108 | 21  | 31  | 2.2 | 182 | 8.1  | 8.2  | 25.9 | 165  | 66   | 58   | 111      | 2.5 | 1.1   | On CRRT                 |
+| 6/9/24 PM  | 137 | 4.2 |     | 22  | 33  | 2.0 | 173 | 7.8  | 8.3  |      | 150  | 61   | 52   | 97       | 2.1 | 0.8   |                         |
+| 6/10/24    | 138 | 4.1 | 107 | 23  | 27  | 1.7 | 154 | 7.2  | 9.1  | 27.9 | 143  | 38   | 31   | 82       | 1.8 | 0.3   | Off CRRT, extubated     |
+| 6/11/24    | 137 | 4.0 | 108 | 24  | 22  | 1.4 | 139 | 6.9  | 10.2 | 31.3 | 154  | 31   | 25   | 72       | 1.6 | <0.01 | Device explanted        |
+| 6/12/24    |     | 4.2 | 109 |     | 19  | 1.2 | 126 |      | 10.9 | 33.2 | 162  | 28   | 22   | 71       | 1.5 | <0.01 | Transferred to SDU      |
+
+Additional labs (selected):
+- BNP: 2,442 pg/mL (admission), 1,100 pg/mL (6/11)
+- LDH: 369 U/L (peak on 6/9, hemolysis from device)
+- Haptoglobin: <10 mg/dL (on device)
+- LFTs: see above, peaked 6/9, trending down
+- D-dimer: 2.1 mg/L FEU (6/8)
+- CRP: 12.8 mg/dL (6/8)
+
+-------------------------------------------------------------------------------
+Vital Signs (selected):
+
+| Date/Time   | Temp | HR  | BP        | RR | SpO2 | O2 Device |
+|-------------|------|-----|-----------|----|------|-----------|
+| 6/8 08:22   | 37.4 | 142 | 82/49     | 32 | 89%  | RA        |
+| 6/8 14:10   | 38.1 | 128 | 95/56     | 28 | 93%  | BiPAP     |
+| 6/9 07:30   | 37.9 | 110 | 101/62    | 18 | 97%  | Vent      |
+| 6/10 10:05  | 37.2 | 92  | 110/64    | 16 | 98%  | BiPAP     |
+| 6/11 08:45  | 36.8 | 81  | 118/67    | 14 | 97%  | NC 2L     |
+| 6/12 09:00  | 36.7 | 78  | 122/72    | 14 | 97%  | NC 2L     |
+
+-------------------------------------------------------------------------------
+Imaging:
+- CXR (6/8): Bilateral alveolar infiltrates, pulmonary edema, mild cardiomegaly, left pleural effusion.
+- TTE (6/8): EF 15%, severe global hypokinesis, mod MR, dilated LA, mild RV dysfunction.
+- Renal US (6/9): No obstruction, normal size.
+- CT Head (6/9): No acute infarct or bleed.
+
+-------------------------------------------------------------------------------
+Consults:
+- Cardiology: For Impella management, device weaning protocol.
+- Nephrology: For CRRT, AKI management.
+- Neurology: Delirium evaluation.
+- Palliative Care: Family meeting, goals of care.
+
+-------------------------------------------------------------------------------
+Discharge Planning:
+- Anticipated transfer to skilled nursing facility
+- Outpatient follow-up: HF clinic, nephrology, neurology, PCP
+
+-------------------------------------------------------------------------------
+Physician: R. Johnson, MD
+Date/Time: 2024-06-12      Cosigned: Y
+-------------------------------------------------------------------------------
+```

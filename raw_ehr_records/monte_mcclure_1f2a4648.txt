@@ -1,0 +1,164 @@
+---
+**Patient Name:** Monte McClure  
+**MRN:** 00429182  
+**DOB:** 07/11/1975 (Age 48)  
+**Sex:** Male  
+**Admission Date:** 04/18/2024  
+**Attending:** Dr. S. Malhotra  
+**Admitting Diagnosis:** Acute decompensated heart failure, cardiogenic shock, acute kidney injury  
+**ICU Service:** Cardiology Critical Care  
+**History of Present Illness:**  
+48-year-old male with history of T2DM, CKD1, metabolic syndrome, chronic sinusitis, and hypertriglyceridemia, who presented with 3 days of worsening orthopnea, LE edema, and fatigue. On arrival, he was found to be hypotensive (SBP 74), tachycardic, and hypoxic on room air. CXR: pulmonary edema and mild cardiomegaly. Echo: severely reduced LVEF (15%), global hypokinesis, mild MR. Despite diuresis and inotropes, patient remained hypotensive with rising lactate and worsening renal function. Emergent left-sided Impella CP placed on HD2 for cardiogenic shock.  
+
+---
+
+## Problem List
+
+1. **Cardiogenic Shock / Acute Decompensated Heart Failure (New, Severe)**
+2. **Type 2 Diabetes Mellitus (chronic, poorly controlled)**
+3. **Chronic Kidney Disease Stage 1 (baseline), now with AKI**
+4. **Metabolic Syndrome / Hypertriglyceridemia**
+5. **Chronic Sinusitis / Recent Viral URI**
+6. **Hospital-acquired infection risk**
+7. **Volume overload / Pulmonary edema**
+8. **Anemia of chronic disease**
+9. **Electrolyte abnormalities**
+10. **Pain management**
+11. **Social issues: recent unemployment, lives alone**
+
+---
+
+## Assessment & Plan
+
+### 1. Cardiogenic Shock / Acute Decompensated HF (EF 15%)
+- Presentation: Hypotension, cold/clammy, lactic acidosis, end-organ hypoperfusion (oliguria, confusion).
+- Interventions:
+    - Impella CP placed HD2, ongoing support, flows 3.2 L/min, no hemolysis.
+    - Inotropes (milrinone, weaned by HD6); vasopressors (norepinephrine, weaned by HD5).
+    - IV diuresis (furosemide gtt → bolus), net negative 4.8L HD1-5.
+    - Daily echo: no tamponade, cannula position stable.
+    - Cardiology/CT surgery: not a candidate for durable LVAD or transplant at this time.
+    - Plan: Wean Impella if tolerated, monitor for arrhythmias, strict I/O, daily weights, telemetry.
+    - Goal-directed medical therapy (GDMT) for HF as tolerated.
+    - Serial lactate, pro-BNP, troponin trends.
+    - Cardiac rehab consult.
+
+### 2. Type 2 Diabetes Mellitus
+- Home regimen: 70/30 insulin, poorly controlled.
+- Admission: BGs 140-340, started insulin gtt in ICU, transitioned to basal/bolus by HD4.
+- A1c 9.1% on admission.
+- Plan: Endocrine consult, continue basal/bolus, sliding scale, monitor for hypoglycemia (esp. with AKI).
+
+### 3. CKD1, now with AKI
+- Admission Cr: 2.3 (baseline 1.1), BUN 36, GFR 38.
+- Oliguria on HD1-3, improved with diuresis and Impella support.
+- Renal US: no obstruction.
+- Plan: Renal consult, monitor daily lytes/Cr, avoid nephrotoxins, adjust meds for renal function.
+
+### 4. Metabolic Syndrome / Hypertriglyceridemia
+- Home: diet nonadherent, LDL 134, TG 166.
+- Plan: statin continued, fenofibrate held (AKI), dietician consult, recheck lipids prior to DC.
+
+### 5. Chronic Sinusitis / Viral URI
+- Symptoms: mild nasal congestion, improved with abx (Augmentin) and antihistamines. No fever.
+- Plan: Continue current course, ENT f/u after DC.
+
+### 6. Hospital-acquired Infection Risk
+- Central and arterial lines, Impella access, Foley HD1-5.
+- Plan: Remove lines ASAP, daily line checks, monitor for fever/leukocytosis, blood cx if febrile.
+
+### 7. Volume Overload / Pulmonary Edema
+- Managed with aggressive IV diuresis, net negative fluid balance.
+- Daily CXR to monitor pulmonary congestion.
+- Plan: Continue diuresis as tolerated, monitor electrolytes.
+
+### 8. Anemia of Chronic Disease
+- Hgb dropped from 14.1 to 10.9 HD3, likely dilutional + hemodilution from device.
+- No overt bleeding.
+- Plan: Monitor, transfuse if <8 or symptomatic.
+
+### 9. Electrolyte Abnormalities
+- Hypokalemia (K nadir 3.2 HD2), hypomagnesemia (Mg 1.3 HD2).
+- Repleted IV.
+- Plan: Daily BMP, replace as needed.
+
+### 10. Pain Management
+- Mild chest/shoulder pain post-Impella.
+- Plan: Tylenol prn, avoid NSAIDs (AKI), ice packs.
+
+### 11. Social Issues
+- Lives alone, recent job loss.
+- Plan: Social work consult, consider SNF for rehab.
+
+---
+
+## ICU Vitals Summary
+
+| Date        | Temp  | HR   | BP           | RR  | SpO2 | Pain |
+|-------------|-------|------|--------------|-----|------|------|
+| 4/18/24     | 36.9  | 124  | 74/42        | 26  | 91%  | 6    |
+| 4/19/24     | 37.2  | 115  | 84/58        | 22  | 95%  | 4    |
+| 4/20/24     | 36.8  | 108  | 92/64        | 18  | 98%  | 2    |
+| 4/21/24     | 36.7  | 101  | 104/72       | 16  | 98%  | 1    |
+| 4/22/24     | 36.8  | 96   | 112/74       | 14  | 99%  | 2    |
+
+---
+
+## Labs
+
+**CBC + Chem7 (selected days):**
+
+| Date    | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|---------|------|------|------|------|------|------|------|------|------|------|------|
+| 4/18    | 9.2  | 14.1 | 42.3 | 288  | 142  | 4.6  | 108  | 26   | 36   | 2.3  | 312  |
+| 4/19    | 10.8 | 12.7 | 38.2 | 238  | 140  | 3.2  | 109  | 25   | 44   | 3.1  | 244  |
+| 4/20    | 9.5  | 11.2 | 34.9 | 221  | 141  | 3.8  | 107  | 23   | 41   | 2.8  | 193  |
+| 4/21    | 8.7  | 10.9 | 33.7 | 199  | 143  | 4.1  | 108  | 27   | 30   | 1.9  | 162  |
+| 4/22    | 8.1  | 11.5 | 34.8 | 204  | 143  | 4.4  | 107  | 28   | 26   | 1.4  | 136  |
+| 4/23    |      | 11.8 |      | 211  |      |      | 109  | 29   | 23   | 1.1  | 129  |
+
+**Other relevant labs:**
+
+- Troponin I: 0.18 -> 0.22 -> 0.21 -> 0.17 (peak HD2)
+- BNP: 3,200 -> 2,850 -> 2,100
+- Lactate: 4.8 -> 2.3 -> 1.1
+- ALT/AST: 31/40 (HD2), trending down
+- Albumin: 3.1 (HD2), 3.2 (HD4)
+- A1c: 9.1% (HD1)
+- Lipids: LDL 134, TG 166, HDL 46 (prior to AKI)
+
+---
+
+## Hospital Course (Summary)
+
+- **HD1:** Admitted in shock, started on pressors/inotropes, urgent echo, CVC placed.  
+- **HD2:** Refractory shock, Impella CP placed via left femoral, rapid hemodynamic improvement.  
+- **HD3:** Diuresis, renal function stabilizing, weaned off pressors.  
+- **HD4:** Attempted wean off Impella, tolerated, device removed HD5.  
+- **HD5-6:** Mobilized to chair, transitioned to PO meds, off O2.  
+- **HD7:** Stable, transferred to stepdown unit.
+
+---
+
+## Discharge Planning
+
+- **Medications:** Resume GDMT as tolerated, adjust insulin, statin, hold fenofibrate.
+- **Follow-up:** Cardiology, nephrology, endocrinology, ENT, social work.
+- **Education:** HF self-care, low-sodium diet, daily weights, hypoglycemia precautions.
+
+---
+
+## Orders/Reminders
+
+- Serial labs daily x2 more days
+- Remove central line within 24h
+- PT/OT consult
+- Arrange SNF eval
+
+---
+
+**Physician:** S. Malhotra, MD  
+**Date/Time:** 4/24/2024 16:42  
+**Co-signed:** [pending]
+
+---

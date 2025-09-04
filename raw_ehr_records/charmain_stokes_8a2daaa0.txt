@@ -1,0 +1,137 @@
+**Inpatient Progress Note – ICU**  
+**Patient Name:** Charmain Stokes  
+**MRN:** 003948222  
+**DOB:** 01/29/1916  
+**Sex:** Female  
+**Date of Admission:** 04/11/2024  
+**Date of Note:** 04/17/2024  
+**Attending:** Dr. L. Hargrove, MD  
+**Consultants:** Cardiology, Endocrinology, Nephrology, Infectious Disease  
+**Service:** Medical ICU  
+
+---
+
+### Reason for Admission
+91-year-old female with chronic systolic heart failure (EF 37%), IDDM, HTN, CKD IV, anemia, hypothyroidism, and Hx colon polyp, presenting with acute on chronic decompensated heart failure, hypotension, and progressive hypoxemia. Admitted for management of cardiogenic shock requiring temporary mechanical circulatory support (Impella CP device placed day 2).
+
+---
+
+### HOSPITAL COURSE – ICU STAY
+
+**Day 1 (4/11):**  
+Charmain presented to ED with 3 days of progressive SOB, orthopnea, PND, low-grade fevers, and reduced oral intake. Exam notable for JVD, bibasilar rales, S3, pedal edema, and MAPs <60. Initial labs showed worsening anemia, AKI on CKD, elevated NT-proBNP, and troponin leak. CXR: pulmonary edema. Echo: EF 36%, severe global hypokinesis. Started on IV furosemide, dobutamine, and oxygen.  
+
+**Day 2:**  
+Developed worsening hypotension (SBP 70s), lactic acidosis, oliguria despite escalating inotropes/vasopressors. Emergent Impella CP placed for cardiogenic shock. Transferred to ICU.  
+
+**Day 3-6:**  
+Gradual hemodynamic stabilization on Impella, vasopressors weaned. Diuresed aggressively. Required PRBC transfusion for Hgb <7. Monitored for hemolysis, device-related complications. Developed transient delirium, managed with non-pharm measures. Renal function improved modestly, but remains at baseline CKD.  
+
+**Day 7:**  
+Impella weaned and explanted after successful device wean trial. Transitioned to oral HF regimen. Monitored for arrhythmias, bleeding, infection. Mobilized with PT/OT.  
+
+---
+
+## Problem-Based Assessment & Plan
+
+---
+
+### 1. **Cardiogenic Shock / Decompensated CHF (EF 37%)**
+- Acute on chronic HFrEF, severe global hypokinesis.  
+- Required temporary LVAD (Impella CP) for shock.  
+- Now off device, stable on oral therapy.  
+- **Plan:** Continue GDMT (metoprolol succinate, Lasix, HCTZ). Daily weights, strict I/O, telemetry. Cardiac rehab consult. Close monitoring for recurrent decompensation.
+
+### 2. **Chronic Kidney Disease (Stage IV) & AKI**
+- Baseline GFR ~15, peaked Cr 2.9 on admission, improved to 1.5.  
+- Ongoing risk of volume overload and electrolyte derangements.  
+- **Plan:** Renal dosing for meds. Avoid nephrotoxins. Monitor BMP, volume status. Nephrology f/u.
+
+### 3. **Anemia (Chronic, Exacerbated by Acute Illness)**
+- Hgb dropped from 10.2 → 6.8, required 2U PRBC.  
+- Etiology: chronic disease, dilutional, some hemolysis (Impella).  
+- **Plan:** Monitor CBC, iron studies. GI workup deferred (no overt bleeding). EPO considered if persistent.
+
+### 4. **Idiopathic Hypothyroidism**
+- On levothyroxine, TSH last outpatient 4.2.  
+- **Plan:** Continue home dose. Monitor TFTs.
+
+### 5. **Hypertension**
+- Difficult to manage during shock, now at baseline.  
+- **Plan:** Resume metoprolol, HCTZ, goal BP <140/90.
+
+### 6. **Prediabetes**
+- No insulin during critical illness; glucose controlled 110-160.  
+- **Plan:** Monitor fasting glucose, A1c. Endocrine f/u.
+
+### 7. **Colon Polyp (Hx)**
+- Last colonoscopy 2022. No active GI issues.  
+- **Plan:** Routine surveillance.
+
+### 8. **Risk of Delirium/Falls**
+- Developed delirium in ICU, now resolved.  
+- **Plan:** Re-orientation, PT/OT, minimize sedatives.
+
+### 9. **Chronic Sinusitis, Viral Pharyngitis (Resolved)**
+- Supportive care only, no antibiotics.
+
+---
+
+## ICU Vitals Summary
+
+| Date         | Temp (C) | HR  | BP            | RR | O2 Sat | Pain |
+|--------------|----------|-----|---------------|----|--------|------|
+| 4/11/2024    | 37.2     | 111 | 78/46         | 24 | 91%    | 0    |
+| 4/12/2024    | 36.9     | 98  | 85/50         | 22 | 94%    | 1    |
+| 4/13/2024    | 37.6     | 92  | 98/58         | 18 | 96%    | 0    |
+| 4/14/2024    | 37.1     | 84  | 105/62        | 16 | 98%    | 0    |
+| 4/15/2024    | 36.8     | 80  | 118/66        | 14 | 98%    | 0    |
+| 4/16/2024    | 37.0     | 78  | 124/70        | 16 | 99%    | 0    |
+
+---
+
+## **Laboratory Data (ICU Days 1-7)**
+
+| Date      | WBC   | Hgb  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Ca   | AST  | ALT  | AlkPhos | T bili | NT-proBNP | Trop  |
+|-----------|-------|------|-------|------|------|------|------|------|------|------|------|------|------|---------|--------|-----------|-------|
+| 4/11/24   | 5.2   | 10.2 | 288   | 141  | 4.7  | 109  | 26   | 33   | 2.1  | 117  | 8.7  | 22   | 18   | 127     | 0.3    | 11,780    | 0.09  |
+| 4/12/24   | 6.0   | 8.7  | 254   | 138  | 5.5  | 110  | 18   | 41   | 2.9  | 146  | 9.1  | 29   | 21   | 138     | 0.5    | 10,560    | 0.13  |
+| 4/13/24   | 7.9   | 6.8  | 201   | 140  | 4.9  | 107  | 21   | 38   | 2.5  | 133  | 8.4  | 31   | 25   | 120     | 0.4    | 8,570     | 0.07  |
+| 4/14/24   | 8.2   | 8.1  | 220   | 137  | 4.4  | 105  | 23   | 29   | 1.9  | 119  | 8.9  | 18   | 15   | 109     | 0.3    | 5,320     | 0.04  |
+| 4/15/24   | 7.1   | 9.3  | 237   | 139  | 4.2  | 106  | 27   | 19   | 1.5  | 98   | 8.7  | 17   | 13   | 112     | 0.2    | 3,640     | 0.03  |
+| 4/16/24   | 6.2   | 9.8  | 244   | 138  | 4.1  | 107  | 26   | 16   | 1.5  | 94   | 8.6  | 16   | 12   | 115     | 0.2    | 2,910     | 0.02  |
+| 4/17/24   | 5.7   | 10.1 | 255   | 140  | 4.3  | 108  | 25   | 15   | 1.4  |      | 8.5  |      |      | 108     | 0.2    |           | 0.01  |
+
+*Some labs not performed daily due to clinical stability.*
+
+---
+
+## **Medications (selected inpatient)**
+- Metoprolol succinate 100 mg PO qAM (hold for HR <55)
+- Furosemide 40 mg IV q12h (transitioned to PO)
+- HCTZ 25 mg PO daily
+- Levothyroxine 75 mcg PO daily
+- PRBC transfusions x2
+- Dobutamine IV (weaned off)
+- Vasopressin IV (weaned off)
+- Electrolyte replacement as needed
+
+---
+
+## **Discharge Planning**
+- Anticipate transfer to telemetry stepdown 4/18.
+- Cardiac rehab, home health PT/OT.
+- Close f/u with cardiology, nephrology, PCP.
+- Medication reconciliation and education ongoing.
+
+---
+
+**Physician:**  
+L. Hargrove, MD  
+**Date/Time:** 4/17/2024, 17:42
+
+---
+
+**Addendum:**  
+Pt tolerated device removal well, no evidence of vascular or infectious complications. Awaiting family meeting re: goals of care.  
+---

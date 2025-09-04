@@ -1,0 +1,169 @@
+**Patient:** Floy West  
+**MRN:** 00487621  
+**DOB:** 1/29/1983  
+**Sex:** Female  
+**Admit Date:** 5/12/2024  
+**Attending:** Dr. E. Madsen  
+**Service:** Cardiac ICU  
+
+---
+
+# HISTORY OF PRESENT ILLNESS
+
+Floy West is a 41-year-old female with a history of chronic hypertension and multiple prior pregnancies, presenting to the ED with 3 days of progressive dyspnea, orthopnea, and lower extremity edema. She reports a prior miscarriage but otherwise normal pregnancies. No previous cardiac history except for long-standing HTN, which has been managed with HCTZ. No prior MI or known structural heart disease. No history of substance use. She became acutely short of breath at home, unable to lie flat, and was brought in by her spouse.
+
+In the ED, she was tachycardic, hypertensive (BP 176/103), tachypneic, and hypoxic (SpO2 89% on RA). She was noted to have JVD, S3 gallop, and bilateral rales. CXR showed pulmonary edema. Troponin was elevated at 0.29 ng/mL. BNP 2130 pg/mL. EKG showed sinus tachycardia, no ST changes. She was started on IV furosemide and nitroglycerin.
+
+She developed hypotension (SBP 78 mmHg) and worsening hypoxia requiring BiPAP. Bedside echo revealed severely reduced LVEF (~15%), global hypokinesis, and moderate MR. She was transferred to the CICU for escalating shock and placed on norepinephrine and dobutamine. Due to persistent hypoperfusion and rising lactate (4.2 mmol/L), she underwent emergent placement of a percutaneous left ventricular assist device (Impella CP) for temporary mechanical circulatory support.
+
+---
+
+# PAST MEDICAL HISTORY
+- Hypertension (chronic, poorly controlled)
+- History of normal pregnancies x6, miscarriage x1
+- No known CAD, DM, CKD, or prior CVA
+- No prior cardiac interventions
+
+# SURGICAL HISTORY
+- None
+
+# SOCIAL HISTORY
+- Lives with spouse, 4 children
+- No tobacco, EtOH, or illicit drug use
+
+# FAMILY HISTORY
+- Mother: HTN, died age 61 sudden cardiac death
+- Father: alive, HTN, hyperlipidemia
+
+# MEDICATIONS ON ADMISSION
+- Hydrochlorothiazide 25 mg qd
+- Ortho Tri-Cyclen 28 Day Pack
+- Etonogestrel 68mg implant (removed 2021)
+- Yaz 28 Day Pack (discontinued)
+- Jolivette 28 Day Pack (discontinued)
+- Natazia 28 Day Pack (discontinued)
+
+# ALLERGIES
+- NKDA
+
+---
+
+## PHYSICAL EXAM (on ICU Admission)
+- **Gen:** Appears ill, diaphoretic, mild respiratory distress
+- **VS:** BP 88/46 (on norepi & dobutamine), HR 119, RR 26, T 36.7°C, SpO2 92% (on BiPAP)
+- **HEENT:** JVD 14 cm
+- **CV:** S3, tachycardic, no murmurs
+- **Lungs:** Bibasilar crackles, decreased air entry
+- **Abd:** Soft, NT, no HSM
+- **Ext:** 2+ pitting edema bilateral LE
+- **Neuro:** Nonfocal, alert
+
+---
+
+# HOSPITAL COURSE
+
+**5/12/2024 (Day 1):**  
+Admitted to CICU for acute decompensated heart failure with cardiogenic shock. Started on furosemide, nitroglycerin, norepinephrine, and dobutamine. Worsening hypoperfusion, rising lactate, placed on Impella CP. Intubated for worsening hypoxia. Foley and arterial line placed. Initial labs notable for AKI (Cr 1.9, baseline 0.9), elevated troponin, high BNP.  
+
+**5/13/2024 (Day 2):**  
+Continued on Impella support, weaned off norepinephrine. Improved urine output after diuresis. Lactate trending down. Persistent LVEF ~15% on repeat TTE. Started on low-dose beta blocker (metoprolol 12.5mg q12h) and spironolactone.  
+
+**5/14/2024 (Day 3):**  
+Impella flows stable, no hemolysis. Weaning sedation. Extubated to high-flow nasal cannula. Marked improvement in volume status. Creatinine improving.  
+
+**5/15/2024 (Day 4):**  
+Impella removed. Remained hemodynamically stable on oral meds. Mobilized to chair. No further arrhythmias. Initiated GDMT (carvedilol uptitrated, sacubitril/valsartan started).  
+
+**5/16/2024 (Day 5):**  
+Transferred to telemetry. Stable off pressors and MCS. Discharge planning initiated.
+
+---
+
+# LABORATORY DATA
+
+| Date        | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | Bicarb | BUN  | Cr   | Glu  | Troponin | BNP   | AST  | ALT  | Total bili |
+|-------------|------|------|------|------|------|------|------|--------|------|------|------|----------|-------|------|------|-----------|
+| 5/12/2024   | 7.1  | 12.4 | 35.5 | 254  | 137  | 4.7  | 99   | 21     | 32   | 1.9  | 117  | 0.29     | 2130  | 42   | 38   | 0.8       |
+| 5/13/2024   | 6.8  | 11.9 | 34.2 | 229  | 135  | 4.1  | 98   | 24     | 28   | 1.4  | 102  | 0.15     | 1620  | 33   | 29   | 0.7       |
+| 5/14/2024   |      | 12.2 | 34.9 |      | 136  | 4.3  | 100  | 25     | 22   | 1.1  | 101  | <0.01    | 890   | 28   | 23   |           |
+| 5/15/2024   | 7.4  | 12.8 |      | 246  | 139  | 4.2  |      | 26     | 17   | 0.9  | 98   | <0.01    | 330   | 22   |     | 0.6       |
+| 5/16/2024   | 6.9  |      | 36.8 | 258  | 140  | 4.0  | 102  | 24     | 13   | 0.8  |      |          | 120   | 20   | 18   | 0.5       |
+
+---
+
+# IMAGING & DIAGNOSTICS
+
+## EKG:
+- 5/12: Sinus tachycardia, non-specific ST-T changes, no acute ischemia
+
+## CXR:
+- 5/12: Pulmonary edema, mild cardiomegaly
+
+## TTE:
+- 5/12: LVEF 15%, global hypokinesis, mod MR, small pericardial effusion (no tamponade)
+- 5/14: LVEF 18%, improved volume status
+
+---
+
+# ASSESSMENT & PLAN
+
+**41F with chronic HTN, acute decompensated HF with cardiogenic shock, required temporary LVAD (Impella), now improving.**
+
+1. **Cardiogenic Shock, new severe LV systolic dysfunction**
+   - Etiology: Non-ischemic, likely peripartum or hypertensive heart disease
+   - Managed with inotropes (dobutamine), vasopressors (norepinephrine), then Impella CP
+   - Now stable, Impella removed
+   - Plan: Continue GDMT for HFrEF, monitor for arrhythmias, repeat TTE prior to discharge
+
+2. **Acute decompensated Heart Failure**
+   - IV diuresis, now euvolemic
+   - Monitor weights, I/O, daily labs
+
+3. **Acute Kidney Injury (pre-renal)**
+   - Multifactorial: cardiorenal, diuretics, hypoperfusion
+   - Improved with volume status, Cr trending to baseline
+
+4. **Hypertension**
+   - Now controlled, transition to oral antihypertensives (carvedilol, sacubitril/valsartan, spironolactone, HCTZ)
+   - Close outpatient follow up
+
+5. **History of normal pregnancies, prior miscarriage**
+   - No active OB issues
+
+6. **Contraception**
+   - No current contraception, OB consult for options with new HF diagnosis
+
+7. **DVT Prophylaxis**
+   - SCDs, subQ heparin
+
+8. **Other**
+   - PT/OT for rehab
+   - Social work for discharge planning
+
+---
+
+# DISCHARGE MEDICATIONS (anticipated)
+- Carvedilol 12.5mg BID
+- Sacubitril/valsartan 24/26mg BID
+- Spironolactone 25mg QD
+- Furosemide 40mg QD
+- Hydralazine/isosorbide if BP allows
+- HCTZ discontinued
+- Contraceptive: to be discussed
+
+---
+
+# FOLLOW UP
+- Cardiology clinic in 1 week
+- Labs in 3-5 days
+- Echo in 4 weeks
+
+---
+
+**Physician:** E. Madsen, MD  
+**Date/Time:** 5/16/2024 18:47  
+**Cosigned by:** T. Liu, MD (CICU Fellow)
+
+---
+
+**[END OF NOTE]**

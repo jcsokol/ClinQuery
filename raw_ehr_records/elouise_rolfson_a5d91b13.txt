@@ -1,0 +1,171 @@
+---
+**Patient:** Elouise Rolfson  
+**MRN:** 003925181  
+**DOB:** 11/01/1966  
+**Sex:** Female  
+**Admit Date:** 03/14/2024  
+**Attending:** Dr. C. Hargrove, Cardiology  
+**ICU Service:** Cardiac ICU  
+**Note Type:** ICU Progress Note  
+**Date/Time of Note:** 03/18/2024 09:13
+
+---
+
+### **Chief Complaint**
+Progressive shortness of breath, orthopnea, and lower extremity swelling. Found to be hypotensive and hypoxic at outside facility, transferred for advanced heart failure management.
+
+---
+
+### **History of Present Illness**
+Elouise Rolfson is a 57-year-old female with a history of prediabetes, remote appendectomy, and recent viral sinusitis, who presented to an outside hospital four days ago with acute-onset dyspnea, cough, and lower extremity edema. She was initially managed for presumed acute bronchitis but developed hypotension and worsening hypoxia. Echocardiogram revealed new severe left ventricular systolic dysfunction (EF 15%), global hypokinesis, and moderate mitral regurgitation. She was started on inotropes and transferred to our facility for consideration of advanced therapies.
+
+On arrival, she was found to be in cardiogenic shock (SBP 81/53, lactate 4.3). Right heart cath confirmed elevated filling pressures and low cardiac index. She was admitted to the CICU and a percutaneous LV assist device (Impella CP) was placed for hemodynamic support.
+
+Since admission, she has been weaned off vasopressors, but remains mildly volume overloaded. Her respiratory status has improved; she is currently on 2L O2 by nasal cannula. Renal function has fluctuated but is currently stable. No chest pain. Appetite poor.
+
+---
+
+### **Past Medical History**
+- Prediabetes (A1c 6.3%)
+- Viral sinusitis (recent)
+- Acute bronchitis (recent)
+- Remote appendectomy
+
+### **Past Surgical History**
+- Laparoscopic appendectomy (2008)
+
+### **Medications on Admission**
+- Hydrocortisone 10mg/mL topical cream PRN
+- Astemizole 10mg PO daily
+- EpiPen 0.3mg auto-injector PRN
+- Etonogestrel 68mg implant
+- Medroxyprogesterone acetate 150mg/mL IM q3mo
+- Acetaminophen 325mg PO PRN
+- Levora 0.15/30 PO
+- Kyleena IUD
+
+### **Allergies**
+- NKDA
+
+---
+
+### **Physical Exam (03/18/2024 08:30)**
+**Gen:** Appears fatigued, NAD  
+**CV:** S3 present, tachycardic, no murmurs/rubs/gallops  
+**Resp:** Lungs clear, mild bibasilar crackles  
+**Abd:** Soft, nontender, old RLQ scar  
+**Ext:** 1+ pitting edema BLE  
+**Skin:** Warm, well-perfused  
+**Neuro:** AOx3, no focal deficit
+
+---
+
+### **ICU Vitals**
+| Date       | Temp (C) | HR (bpm) | BP (mmHg) | RR | O2 Sat (%) | O2 Device      |
+|------------|----------|----------|-----------|----|------------|----------------|
+| 3/14 19:00 | 36.8     | 112      | 81/53     | 24 | 89         | 6L NC          |
+| 3/15 06:00 | 36.5     | 104      | 93/60     | 20 | 92         | 4L NC          |
+| 3/16 08:00 | 36.7     | 98       | 102/68    | 18 | 95         | 2L NC          |
+| 3/17 07:30 | 36.6     | 92       | 107/74    | 16 | 97         | RA             |
+| 3/18 08:00 | 36.7     | 89       | 112/76    | 16 | 97         | 2L NC          |
+
+---
+
+### **Laboratory Results**
+#### CBC, Chem7, and Selected Labs (see below for missing entries)
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Ca (mg/dL) | AST (U/L) | ALT (U/L) | Lactate (mmol/L) | BNP (pg/mL) |
+|------------|------------|------------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|------------|-----------|-----------|------------------|-------------|
+| 3/14 20:00 | 6.8        | 13.2       | 238        | 140         | 4.3        | 108         | 22           | 14          | 1.15       | 87          | 9.8        | 39        | 42        | 4.3              | 2,980       |
+| 3/15 06:00 | 7.0        | 12.6       | 221        | 137         | 4.7        | 109         | 19           | 19          | 1.34       | 102         | 10.0       | 42        | 48        | 2.7              | 3,500       |
+| 3/16 07:00 | 7.6        | 12.9       | 200        | 139         | 4.1        | 106         | 21           | 17          | 1.21       | 99          | 10.2       | 31        | 35        | 1.8              | 2,740       |
+| 3/17 07:45 | 7.5        | 13.0       | 197        | 141         | 4.0        | 108         | 23           | 14          | 1.10       | —           | —          | —         | —         | 1.2              | —           |
+| 3/18 05:30 | 7.0        | 13.1       | 211        | 142         | 4.2        | 106         | 25           | 12          | 0.93       | 95          | 10.1       | 29        | 31        | 1.0              | 2,210       |
+
+**Key:**  
+— = Not collected
+
+---
+
+### **Imaging**
+- **Echo (3/14):** LVEF 15%, global hypokinesis, moderate MR, mild RV dysfunction
+- **CXR (3/14):** Pulmonary vascular congestion, mild interstitial edema, no consolidation
+- **CXR (3/16):** Improved vascular congestion
+
+---
+
+### **Procedures**
+- **3/14:** Right heart cath: PCWP 27 mmHg, RAP 12 mmHg, CI 1.6 L/min/m2, SVR 920 dynes
+- **3/14:** Placement of Impella CP (left femoral), no complications
+- **3/15:** Foley catheter placed for strict I&O
+- **3/16:** PICC line placed for IV access
+
+---
+
+### **Consults**
+- Cardiac Surgery: No surgical indication at this time, will reassess if no recovery
+- Endocrinology: Prediabetes, A1c 6.3%, recommend f/u as outpatient
+
+---
+
+## **Assessment & Plan**
+**57F with new severe systolic HF, shock, Impella placement, and multiple comorbidities.**
+
+---
+
+### 1. **Cardiogenic Shock - s/p Impella CP placement**
+   - Etiology: Likely viral myocarditis vs. acute decompensated non-ischemic cardiomyopathy
+   - Device flows stable, no hemolysis. 
+   - Vasopressors weaned off. Continue low-dose milrinone for inotropy.
+   - Daily echo for LV recovery. 
+   - Plan for Impella wean if CI >2.2 x2 days.
+   - Monitor for device-related complications (bleeding, hemolysis, limb ischemia).
+
+### 2. **Acute Decompensated Heart Failure**
+   - Euvolemic, mild residual edema. 
+   - IV Lasix 40mg q12hr, titrate as needed.
+   - Strict I&O, daily weights.
+   - Salt/fluid restriction.
+
+### 3. **Renal Dysfunction, resolving**
+   - Likely pre-renal (hypoperfusion), improved with device support.
+   - Monitor daily BMP, avoid nephrotoxins.
+
+### 4. **Mild Transaminitis**
+   - Likely congestive hepatopathy vs. shock liver.
+   - LFTs trending down. Continue monitoring.
+
+### 5. **Prediabetes**
+   - A1c 6.3%
+   - Continue current regimen, no insulin needed. Monitor glucose.
+
+### 6. **History of Appendectomy**
+   - No acute issues.
+
+### 7. **Recent Viral Sinusitis/Bronchitis**
+   - Completed course of supportive care, no current symptoms.
+
+### 8. **Contraceptive Management**
+   - Etonogestrel implant and IUD in situ, no issues.
+
+### 9. **DVT Prophylaxis**
+   - SCDs in place, SQ heparin 5000u q8h
+
+### 10. **Other**
+   - Physical therapy eval for future mobility
+   - Social work consult for discharge planning
+
+---
+
+**Primary Team:** Cardiology ICU  
+**Attending:** Dr. C. Hargrove
+
+---
+
+**Signed:**  
+Dr. C. Hargrove, MD  
+03/18/2024 09:13
+
+---
+
+**[END OF NOTE]**

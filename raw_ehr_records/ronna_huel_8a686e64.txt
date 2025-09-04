@@ -1,0 +1,121 @@
+**Patient:** Ronna Huel  
+**MRN:** 009845612  
+**DOB:** 10/20/1985  
+**Sex:** Female  
+**Admit Date:** 04/14/2024  
+**Attending:** Dr. S. Patel  
+**ICU Service:** Cardiac ICU  
+**Allergies:** NKDA  
+**Code Status:** Full Code
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+**History of Present Illness:**  
+38-year-old female with a PMHx of recurrent cystitis, acute bronchitis, and normal pregnancy (remote), presented to ED with 4d of progressive SOB, orthopnea, chest tightness, and lower extremity edema. Associated with cough and mild hemoptysis. No fever, chills, or sick contacts. She was initially treated for presumed acute bronchitis and sent home from urgent care, but symptoms progressed. On arrival to ED, found to be tachycardic (HR 124), hypertensive (BP 156/92), and hypoxic (SpO2 91% RA); CXR with pulmonary edema, BNP 1,325, TnT 0.27. Echo in ED c/w severe LV systolic dysfunction (EF 15%), moderate MR, RV mild dysfunction. Started on BiPAP and IV diuresis. Deteriorated in ED—became hypotensive (SBP 80s), requiring pressors. Emergent transfer to Cardiac ICU.
+
+**Hospital Day 1:**  
+Progressive cardiogenic shock. Placed on norepinephrine, dobutamine. Swan-Ganz: CI 1.5, PCWP 29, SVR 1750. Unable to wean pressors/inotropes. Multidisciplinary discussion—decision for percutaneous LV assist device (Impella CP) placement. Device placed successfully under TEE guidance. Immediate hemodynamic improvement.
+
+**Hospital Day 2-4:**  
+Hemodynamics stabilized. Weaned off norepinephrine, down-titrated dobutamine. Significant diuresis (net -4.5L). Repeat echo: EF improved to 25%. Renal function transiently worsened (Cr peak 2.1 from 0.9 baseline) but improved with improved perfusion and diuresis. Monitored for hemolysis (LDH, haptoglobin), no evidence. Serial CBCs, chem7s. Developed mild transaminitis (AST 88, ALT 96, AlkPhos 142) thought secondary to hypoperfusion.
+
+**Hospital Day 5-7:**  
+Impella weaned and explanted bedside. Maintained on low-dose milrinone, transitioned to oral HF regimen (metoprolol, sacubitril/valsartan, spironolactone). Renal and liver function continued to recover. Mobilized with PT/OT. No evidence of neurologic sequelae. No infectious complications.
+
+**Hospital Day 8:**  
+Discharged to home, close f/u with advanced HF clinic. Plan for wearable defibrillator pending further recovery.
+
+---
+
+## ASSESSMENT & PLAN
+
+### 1. Cardiogenic Shock secondary to acute decompensated heart failure (newly diagnosed non-ischemic cardiomyopathy)
+- Impella CP placed HD1, explanted HD5 after hemodynamic recovery
+- Guideline-directed medical therapy (GDMT) initiated: metoprolol succinate, sacubitril/valsartan, spironolactone
+- Strict I/Os, daily weights
+- Monitor for arrhythmias, ischemia
+- Cardiac rehab referral
+- Outpatient advanced HF f/u
+
+### 2. Acute Kidney Injury (AKI), likely pre-renal from low cardiac output and diuresis
+- Monitored urine output, renal function
+- Improved with volume optimization and improved perfusion
+- Renal function trending to baseline
+
+### 3. Transaminitis, likely hypoperfusion ("shock liver")
+- Monitored LFTs, trended down with improved hemodynamics
+- No evidence viral or drug-induced hepatitis
+
+### 4. Hyperlipidemia
+- Continue statin on discharge
+- Outpatient lipid panel
+
+### 5. Recurrent cystitis, history of
+- No symptoms during this admission
+- No evidence UTI on UA/culture
+
+### 6. History of acute bronchitis/viral pharyngitis
+- No acute symptoms
+- Monitor for secondary infection given immunosuppression risk with advanced HF
+
+### 7. Contraception/OB history
+- Not currently pregnant, last pregnancy >5y ago
+- Liletta IUD in place
+
+### 8. VTE prophylaxis
+- SCDs while bedbound, transitioned to enoxaparin until ambulatory
+
+### 9. Nutrition
+- Cardiac diet, salt restriction
+
+---
+
+## ICU VITALS & LABS
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | BNP   | Troponin T |
+|------------|------|------|------|------|------|------|------|------|------|------|------|------|------|-------|------------|
+| 4/14/2024  | 11.2 | 13.1 | 39.4 | 392  | 134  | 4.2  | 103  | 21   | 41   | 1.8  | 148  | 88   | 96   | 1325  | 0.27       |
+| 4/15/2024  | 9.4  | 12.7 | 37.6 | 351  | 136  | 3.9  | 101  | 20   | 34   | 2.1  | 134  | 62   | 74   | 1150  | 0.17       |
+| 4/16/2024  | 8.7  | 11.9 | 35.2 | 298  | 137  | 4.1  | 104  | 24   | 28   | 1.5  | 128  | 44   | 51   |  980  | 0.07       |
+| 4/17/2024  |      | 11.5 | 34.1 | 281  | 138  |      | 102  | 22   | 22   | 1.1  |      | 33   | 34   |  715  | <0.01      |
+| 4/18/2024  | 7.2  | 11.4 | 33.6 |      | 139  | 4.0  |      | 23   | 18   | 0.9  | 110  |      |      |  564  | <0.01      |
+| 4/19/2024  | 6.7  |      | 33.4 | 265  | 140  | 4.2  | 101  |      | 14   | 0.9  | 101  | 28   | 23   |  423  | <0.01      |
+
+**Other labs:**  
+- LDH: Peak 388 U/L HD2, normalized by HD5  
+- Haptoglobin: WNL  
+- Coags: INR peak 1.6 HD2, normalized  
+- UA: Negative  
+- CXR: Pulmonary edema improving  
+- Echo HD4: EF 25%, mild MR, RV function improved
+
+---
+
+## HOSPITAL MEDICATIONS
+
+- Norepinephrine IV (HD1-2)
+- Dobutamine IV (HD1-5)
+- Furosemide IV
+- Metoprolol succinate PO
+- Sacubitril/valsartan PO
+- Spironolactone PO
+- Enoxaparin SQ
+- Atorvastatin PO
+- Acetaminophen PRN
+- Chlorpheniramine PRN
+
+---
+
+## DISCHARGE SUMMARY
+
+**Disposition:** Home, with advanced HF f/u, cardiac rehab  
+**Instructions:** Salt restriction, daily weights, medication adherence, return for worsening SOB/edema  
+**F/u:** Advanced HF clinic in 1w, labs in 3-5d, repeat echo in 2w  
+**Device:** No permanent LVAD. Wearable defibrillator pending.
+
+---
+
+**Attending:** S. Patel, MD  
+**Date/Time:** 4/19/2024 14:43

@@ -1,0 +1,137 @@
+**EPIC EHR - ADMISSION SUMMARY**
+
+**Patient Name:** Wilbert Cole  
+**MRN:** 00283749  
+**DOB:** 11/28/1951  
+**Sex:** Male  
+**Attending:** Dr. Romero, Cardiology  
+**Admit Date:** 04/09/2024  
+**Service:** Medicine/Cardiology ICU  
+**Admitting Dx:** Cardiogenic shock secondary to acute decompensated heart failure (HFrEF), s/p placement of temporary LVAD (Impella CP)  
+**Allergies:** NKDA  
+
+---
+
+### **HOSPITAL COURSE SUMMARY**
+
+**HPI:**  
+Mr. Wilbert Cole is a 72-year-old male with a complex medical history including known CAD, anemia, prediabetes, hyperlipidemia, severe COPD/emphysema, osteoporosis, and prior colon cancer (s/p resection, on adjuvant chemo), who presented to the ED with acute onset dyspnea, orthopnea, and chest pressure. Initial workup revealed hypotension (BP 84/50), tachycardia, and hypoxia. Troponin elevated, new LBBB on ECG. Echo: severely reduced LVEF (~20%), global hypokinesis. He rapidly deteriorated into cardiogenic shock refractory to pressors, requiring urgent placement of a temporary LVAD (Impella CP) in the CICU.
+
+Hospital course notable for multi-organ involvement:  
+- Oliguric AKI (improved with LVAD support/diuresis)  
+- Transient transaminitis  
+- Anemia worsened (likely multifactorial: GI losses, chronic disease, recent chemo)  
+- COPD exacerbation managed with steroids/inhalers  
+- Ongoing management for osteoporosis and hyperlipidemia  
+- Close monitoring for GI bleeding (history of polyps and CRC)  
+- Complicated by nosocomial UTI (day 6), treated with ceftriaxone  
+
+---
+
+### **LABS (SELECTED CBC, CHEM7, LIVER, CARDIAC MARKERS)**
+
+| Date        | WBC   | Hgb   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | AST  | ALT  | AlkPhos | Trop T | Lactate | Glu   |
+|-------------|-------|-------|-------|------|------|------|------|------|------|------|------|---------|--------|---------|-------|
+| 4/09 06:00  | 5.6   | 12.3  | 370   | 141  | 4.1  | 106  | 25   | 18   | 0.8  | 22   | 48   | 123     | 0.19   | 2.1     | 84    |
+| 4/09 20:00  | 4.9   | 11.6  | 355   | 139  | 4.0  | 105  | 23   | 21   | 1.1  | 34   | 56   | 130     | 0.24   | 3.9     | 110   |
+| 4/10 06:00  | 6.2   | 10.9  | 289   | 140  | 4.3  | 107  | 26   | 24   | 1.4  | 48   | 62   | 127     | 0.22   | 2.5     | 99    |
+| 4/11 06:00  | 7.8   | 10.7  | 295   | 138  | 4.5  | 104  | 27   | 20   | 1.2  | 25   | 39   | 119     | 0.13   | --      | 91    |
+| 4/12 06:00  | --    | 10.3  | 275   | 139  | 4.2  | 108  | 25   | 15   | 0.9  | 19   | 32   | --      | 0.09   | 1.5     | 83    |
+| 4/13 06:00  | 6.0   | 10.5  | --    | 140  | 4.1  | 107  | 26   | 16   | 0.8  | --   | --   | 118     | <0.01  | 1.2     | 88    |
+
+*Note: Additional labs (coags, BNP, Mg, Phos, Ca, GFR, cultures) in flow sheets.*
+
+---
+
+### **ICU VITALS (SELECTED)**
+
+- **Day 1:** BP 84/50 (MAP 62), HR 112, RR 22, SpO2 91% RA, T 36.7°C
+- **Day 2:** BP 98/62 (MAP 73), HR 96, RR 20, SpO2 96% 2L NC, T 37.1°C
+- **Day 3:** BP 102/68, HR 86, RR 18, SpO2 98%, T 37.0°C
+- **Day 4:** BP 110/70, HR 78, RR 16, SpO2 98% RA, T 36.8°C
+
+---
+
+### **PROBLEM-BASED ASSESSMENT & PLAN**
+
+#### 1. **Cardiogenic Shock, HFrEF, s/p Impella LVAD Placement**
+- Admitted in profound shock, requiring vasopressors and mechanical support.
+- Impella CP placed via R femoral approach; hemodynamics improved.
+- Gradual weaning off pressors on day 2.
+- Serial echo: LVEF improved to ~30% by day 5, LVAD flow reduced and explanted on day 6.
+- Plan: Continue GDMT (BB, ACEi), cardiac rehab, monitor for arrhythmia/recurrence.
+
+#### 2. **Anemia (Hx, worsened during admission)**
+- Downtrending Hgb, lowest 9.8, transfused 1U PRBC on day 3.
+- Etiology: chronic disease, GI losses, recent chemo.
+- Iron studies sent, on PO FeSO4 resumed.
+- Plan: Monitor, GI consult for occult blood, hold anticoag if Hgb drops.
+
+#### 3. **Acute Kidney Injury (AKI)**
+- Likely pre-renal (shock), Cr peaked at 1.4, improved with volume/LVAD.
+- Plan: Monitor UOP, avoid nephrotoxins, maintain MAP>65.
+
+#### 4. **COPD/Emphysema, Exacerbation**
+- Increased SOB, CXR: hyperinflation, no PNA.
+- Treated with IV steroids (methylpred), resumed LABA/ICS inhaler.
+- Weaned to room air by day 4.
+- Plan: Pulm follow-up, optimize inhalers, consider home O2 eval.
+
+#### 5. **Colon Cancer, s/p Resection, On Chemo**
+- Recent adjuvant oxaliplatin/leucovorin; last cycle 2 weeks prior.
+- No evidence of active GI bleed, but close monitoring due to anemia and polyp history.
+- Plan: Oncology to resume chemo post-discharge if stable.
+
+#### 6. **Osteoporosis**
+- On alendronate; no new fractures.
+- Continue current regimen, encourage PT/mobility.
+
+#### 7. **Hyperlipidemia, Prediabetes**
+- On simvastatin, A1c 6.3%.
+- Continue statin, monitor lipids; DM diet.
+
+#### 8. **Nosocomial UTI**
+- Fever, leukocytosis day 6; urine cx: E. coli.
+- Ceftriaxone x5d completed.
+
+#### 9. **Other**
+- DVT prophylaxis: SCDs, SQ heparin held on day 3 for Hgb drop.
+- VTE negative on Doppler.
+- Social: Lives alone, arranging PT/OT, case management for discharge planning.
+
+---
+
+### **MEDICATIONS (ACTIVE HOSPITAL)**
+
+- Ferrous sulfate 325 mg PO daily
+- Simvastatin 10 mg PO nightly
+- Fluticasone/Salmeterol DPI 1 puff BID
+- Alendronate 10 mg PO daily
+- Methylprednisolone IV (tapered)
+- Metoprolol succinate 25 mg PO daily (initiated)
+- Lisinopril 10 mg PO daily (initiated)
+- Furosemide IV/PO (as needed)
+- Ceftriaxone IV x5d (completed)
+- PRN: Acetaminophen, Senna, Heparin SQ (held day 3-4), O2 as needed
+
+---
+
+### **DISCHARGE PLANNING / FOLLOW-UP**
+
+- PT/OT eval: safe for home with home health.
+- Cardiology f/u 1 week, echo in 1 month.
+- Oncology for chemo resumption.
+- GI for polyp surveillance.
+- Pulm for COPD/asthma action plan.
+- Labs: CBC, chemistries, LFTs, BNP, troponin, Fe studies in 1 week.
+
+---
+
+**Physician:**  
+Dr. Romero, MD  
+Cardiology/ICU  
+04/14/2024 09:31
+
+---
+
+**(End of Note)**

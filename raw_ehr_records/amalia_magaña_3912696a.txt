@@ -1,0 +1,142 @@
+```
+--------------------------------------------------------------
+EpicCare Inpatient EHR
+Patient Name: Amalia Magaña           MRN: 00291824
+DOB: 02/23/2007   Sex: Female         Age: 17 years
+Admit Date: 04/21/2024                Attending: Dr. R. Sandhu
+Encounter: ICU Admission
+--------------------------------------------------------------
+
+Reason for Admission:
+Acute decompensated heart failure with cardiogenic shock requiring temporary left ventricular assist device (Impella CP) placement.
+
+HPI:
+Amalia Magaña is a 17-year-old female with a history of atopic dermatitis, childhood asthma, and recent viral sinusitis who presented to the ED with 2 days of worsening dyspnea, orthopnea, palpitations, and chest discomfort. She was previously well, but developed a viral URI 10 days prior. Symptoms progressed to severe fatigue, poor oral intake, and syncopal episode at home prompting EMS activation. In the ED, she was noted to be tachycardic, hypotensive, and hypoxic. Initial evaluation revealed evidence of low cardiac output and end-organ hypoperfusion. She was admitted to the PICU and quickly required escalation to inotropic support and subsequently temporary left-sided heart pump (Impella) placement for refractory cardiogenic shock.
+
+PMHx:
+- Atopic dermatitis
+- Childhood asthma
+- Recurrent otitis media
+- Viral sinusitis (recent)
+- No prior cardiac history
+- No known congenital heart disease
+
+PSHx:
+- None
+
+Allergies:
+- NKDA
+
+Home Medications:
+- Fexofenadine 30 mg PO daily
+- Fluticasone HFA 44 mcg 2 puffs BID
+- Albuterol HFA 90 mcg 2 puffs PRN
+- Epinephrine autoinjector (carries but never used)
+- Acetaminophen 160 mg PO PRN
+- Amoxicillin 250 mg PO TID (recent, completed for sinusitis)
+- Ibuprofen 100 mg PO PRN
+
+Family/Social History:
+- Lives with mother and younger brother. No tobacco/alcohol/drug use. No family history of cardiomyopathy or sudden cardiac death. Up to date on immunizations.
+
+Physical Exam (on admission):
+- Gen: Appears ill, pale, diaphoretic
+- VS: BP 78/42, HR 146, RR 28, SpO2 93% RA, T 37.2°C
+- HEENT: Mild periorbital edema, injected conjunctivae
+- CV: Tachycardic, S3 gallop, no murmurs, cool extremities, delayed cap refill
+- Resp: Tachypneic, mild intercostal retractions, scattered crackles
+- Abd: Soft, mildly distended, non-tender, hepatomegaly
+- Skin: Eczematous patches on flexural surfaces
+- Neuro: Lethargic but arousable, no focal deficits
+
+--------------------- PROGRESS NOTES --------------------------
+
+ICU Day 1-4:
+
+She was stabilized on BiPAP and milrinone, but remained hypotensive with rising lactate and worsening renal function. Echocardiogram: LVEF <15%, globally hypokinetic, mild MR, no pericardial effusion. Cardiac enzymes mildly elevated (see labs). Decision made for Impella CP placement via femoral approach for circulatory support. Post-procedure: improved perfusion, normalization of lactate, urine output improved.
+
+Developed transient hemolysis (LDH ↑, haptoglobin ↓), managed with pump speed adjustment, hydration. No significant arrhythmias. Extubated on ICU day 3. Weaned off inotropes and Impella explanted on ICU day 5.
+
+--------------------- LABS --------------------------
+
+| Date        | WBC   | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST | ALT | Trop I | BNP  | LDH  |
+|-------------|-------|------|------|-------|------|------|------|------|------|------|------|-----|-----|--------|------|------|
+| 4/21/2024   | 7.2   | 14.6 | 43   | 215   | 136  | 4.3  | 100  | 22   | 12   | 0.7  | 98   | 34  | 29  | 0.22   | 871  | 489  |
+| 4/22/2024   | 8.5   | 13.1 | 39   | 197   | 132  | 4.0  | 96   | 19   | 23   | 1.1  | 112  | 41  | 37  | 0.19   | 1620 | 822  |
+| 4/23/2024   | 9.1   | 11.7 | 35   | 181   | 134  | 4.7  | 98   | 20   | 31   | 1.5  | 124  | 39  | 33  | 0.12   | 2100 | 1560 |
+| 4/24/2024   | 7.9   | 12.2 | 37   | 203   | 138  | 4.1  | 102  | 24   | 20   | 1.0  | 105  | 25  | 44  | 0.08   | 1040 | 1340 |
+| 4/25/2024   | 6.5   | 12.9 |      | 241   | 140  | 4.3  | 104  | 26   | 14   |      | 98   |     | 22  | <0.03  | 530  | 720  |
+| 4/26/2024   | 5.8   |      | 38   | 226   | 139  |      | 102  | 23   | 13   | 0.9  | 91   | 18  |     | <0.03  | 320  | 415  |
+
+*Missing values indicate not collected or hemolyzed sample.
+
+--------------------- VITALS (selected) ----------------------
+
+| Date        | Temp | HR  | BP         | RR | SpO2 | Pain |
+|-------------|------|-----|------------|----|------|------|
+| 4/21/2024   | 37.2 | 146 | 78/42      | 28 | 93   | 4    |
+| 4/22/2024   | 37.0 | 128 | 84/54      | 24 | 97   | 2    |
+| 4/23/2024   | 36.8 | 110 | 92/56      | 20 | 98   | 1    |
+| 4/24/2024   | 37.1 | 98  | 108/62     | 18 | 99   | 0    |
+| 4/25/2024   | 36.9 | 84  | 112/68     | 16 | 100  | 0    |
+
+--------------------- ASSESSMENT & PLAN ----------------------
+
+1. **Cardiogenic Shock, likely viral myocarditis (fulminant)**
+   - Required temporary mechanical support (Impella CP) for refractory shock. Now off device and weaning inotropes.  
+   - Serial TTE: LVEF improved to 38% post-support. Continue cardiac monitoring.  
+   - Plan: Continue low-dose milrinone, monitor for arrhythmias, daily TTE, strict I/Os, cardiac rehab consult.  
+   - Cardiology and heart failure teams following.
+
+2. **Acute Kidney Injury (AKI), multifactorial (hypoperfusion, hemolysis)**
+   - Creatinine peaked at 1.5, now trending down. UOP improving.
+   - IVF resuscitation, avoid nephrotoxins, monitor lytes, renal panel q12h.
+
+3. **Hemolysis (device-associated, transient)**
+   - LDH/AST/ALT trended, haptoglobin low. No evidence of DIC.
+   - Managed with adequate hydration, device speed adjustment. Resolved after device explant.
+
+4. **Asthma (history)**
+   - No acute exacerbation this admission.
+   - Continue home inhaled steroids; albuterol PRN.
+
+5. **Atopic dermatitis**
+   - Eczematous patches, mild. Continue emollients, avoid triggers.
+
+6. **Pain management**
+   - Intermittent mild pain at femoral access site, managed with acetaminophen.
+
+7. **Infection prevention**
+   - No evidence of active infection. Blood/urine cultures negative.
+   - Cefazolin peri-procedurally, now discontinued.
+
+8. **Nutrition**
+   - Initially NPO, now tolerating oral diet. Nutrition consult.
+
+9. **Physical therapy**
+   - Initiate early mobilization, PT/OT evaluating.
+
+--------------------- PROCEDURES ----------------------
+
+- 4/21/24: Femoral arterial line, central line placement
+- 4/22/24: Impella CP insertion (L femoral approach)
+- 4/25/24: Impella explantation at bedside
+
+--------------------- MICROBIOLOGY -------------------
+
+- Blood cultures (2 sets): no growth at 48h
+- Urine culture: negative
+- Respiratory viral PCR: positive for Coxsackie B
+
+--------------------- IMAGING ------------------------
+
+- CXR (4/21): Mild cardiomegaly, pulmonary edema
+- TTE (4/22): LVEF <15%, global hypokinesis
+- TTE (4/24): LVEF 38%, mild MR, no pericardial effusion
+
+--------------------- DISPOSITION --------------------
+
+- Remains in ICU, anticipated transfer to step-down in 24-48h.
+
+--------------------------------------------------------------
+```

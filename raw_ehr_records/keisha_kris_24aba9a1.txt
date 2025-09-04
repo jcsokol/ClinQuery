@@ -1,0 +1,177 @@
+**INPATIENT PROGRESS NOTE – ICU**  
+**Patient:** Keisha Kris  
+**MRN:** 001239487  
+**DOB:** 11/19/1990 (33 years old)  
+**Sex:** Female  
+**Date of Admission:** 5/14/2024  
+**Attending:** Dr. R. Williams  
+**Consults:** Cardiology, Critical Care, OB-GYN  
+**Reason for Admission:** Acute decompensated heart failure with cardiogenic shock in the setting of recent antepartum eclampsia and possible peripartum cardiomyopathy.  
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+Keisha Kris is a 33-year-old female with a history of multiple pregnancies (including antepartum eclampsia and prior miscarriage), recently postpartum (G5P3), who presented to the ED with acute shortness of breath, orthopnea, and chest pressure 6 days postpartum. She was tachypneic, hypotensive, and hypoxic at presentation. Initial evaluation suggested acute decompensated heart failure, likely peripartum cardiomyopathy, complicated by cardiogenic shock and multiorgan dysfunction.
+
+She required emergent transfer to the ICU, intubation for respiratory distress, and placement of a temporary left ventricular assist device (Impella CP) for circulatory support on hospital day 1 due to refractory hypotension and rising lactate despite maximal medical therapy.
+
+Her course was further complicated by acute kidney injury, transaminitis, and mild DIC. She required vasopressors, inotropes, and aggressive diuresis once stabilized. The Impella was weaned and explanted on hospital day 6 as cardiac function improved. She is currently extubated, off pressors, and working with PT/OT.
+
+---
+
+## PAST MEDICAL HISTORY
+
+- **Obstetric:** G5P3, antepartum eclampsia, 1x miscarriage (1st trimester), recent normal pregnancy (delivered 5/8/24), fetus with unknown complication (2021)
+- **Other:** Viral sinusitis x3, laceration of foot (2022)
+- **Contraceptive history:** Mirena IUD, Trinessa OCP
+
+## PAST SURGICAL HISTORY
+
+- None
+
+## ALLERGIES
+
+- NKDA
+
+## HOME MEDICATIONS
+
+- Acetaminophen 325mg PO PRN
+- Amoxicillin/clavulanate 250mg/125mg PO (recent, for sinusitis)
+- Mirena IUD in situ
+- Trinessa OCP (recently stopped)
+
+---
+
+## PHYSICAL EXAM (ICU, HD#8)
+
+| Vital Sign | Value | Date/Time        |
+|------------|-------|-----------------|
+| Temp       | 37.4°C| 6/2/24, 07:00   |
+| HR         | 98    | 6/2/24, 07:00   |
+| BP         | 110/68| 6/2/24, 07:00   |
+| RR         | 16    | 6/2/24, 07:00   |
+| SpO2       | 97% RA| 6/2/24, 07:00   |
+| Pain Score | 1/10  | 6/2/24, 07:00   |
+
+**Gen:** Alert, tired but non-toxic  
+**HEENT:** PERRLA, MMM, no JVD now  
+**Chest:** Bibasilar crackles, decreased from prior  
+**CV:** S1S2, no murmur, +trace pedal edema  
+**Abd:** Soft, NT/ND, no HSM  
+**Ext:** No DVT, mild pedal edema  
+**Neuro:** AOx3, no focal deficits
+
+---
+
+## ICU LABS TABLE
+
+| Date      | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cr (mg/dL) | AST (U/L) | ALT (U/L) | BNP (pg/mL) | Troponin (ng/mL) |
+|-----------|------------|------------|------------|-------------|------------|------------|-----------|-----------|-------------|------------------|
+| 5/14/24 AM| 12.1       | 13.5       | 210        | 130         | 4.7        | 1.6        | 242       | 198       | 3200        | 0.10             |
+| 5/15/24   | 11.2       | 12.9       | 189        | 132         | 4.5        | 2.0        | 190       | 150       | 2780        | 0.09             |
+| 5/16/24   | 10.8       | 12.7       | 160        | 134         | 4.2        | 2.3        | 160       | 112       | 2400        | 0.08             |
+| 5/17/24   | 9.5        | 12.5       | 155        | 136         | 4.0        | 1.8        | 100       | 80        | 1800        | 0.06             |
+| 5/18/24   | 8.9        | 12.3       | 140        | 138         | 3.9        | 1.3        | 66        | 52        | -           | <0.05            |
+| 5/19/24   | 8.7        | 12.1       | 139        | 139         | 3.8        | 1.1        | 42        | 39        | 740         | <0.05            |
+| 5/20/24   | 8.4        | 12.2       | 145        | -           | -          | 1.1        | 35        | 31        | 580         | <0.05            |
+| 5/21/24   | -          | 12.4       | 152        | 140         | 4.0        | 0.9        | 32        | 28        | 390         | <0.05            |
+
+---
+
+## IMAGING
+
+- **CXR (5/14/24):** Pulmonary edema, cardiomegaly.
+- **TTE (5/14/24):** LVEF 18%, moderate global hypokinesis, mild MR, no LV thrombus.
+- **TTE (5/19/24):** LVEF improved to 35%, mild MR.
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. **Cardiogenic shock, likely peripartum cardiomyopathy**
+   - Admitted to ICU, required intubation, vasopressors, inotropes.
+   - Emergent Impella CP placed for refractory shock.
+   - Gradual improvement in cardiac function; Impella explanted on HD#6.
+   - Now off vasopressors, weaning diuretics, optimizing heart failure regimen (metoprolol, sacubitril/valsartan, spironolactone).
+   - Plan: Cardiac rehab, continue GDMT, f/u TTE in 2 weeks.
+
+### 2. **Acute kidney injury, multifactorial (pre-renal, cardiorenal)**
+   - Initial Cr up to 2.3, now improved to 0.9.
+   - Monitored UOP, avoided nephrotoxins, gentle diuresis, IVF as needed.
+   - Plan: Monitor labs, nephrology to follow.
+
+### 3. **Transaminitis/possible shock liver**
+   - AST/ALT peaked at 242/198, now trending down.
+   - No evidence of viral hepatitis or biliary obstruction.
+   - Plan: Continue to monitor, expect further improvement.
+
+### 4. **Peripartum state/postpartum care**
+   - G5P3, delivered 8 days ago.
+   - No heavy bleeding, uterus involuting, lochia normal.
+   - OB-GYN consulted, Mirena to remain in place.
+   - Plan: Lactation support, routine postpartum care.
+
+### 5. **Mild DIC (resolved)**
+   - Mild thrombocytopenia, low fibrinogen, no active bleeding.
+   - Corrected with supportive care, now resolved.
+
+### 6. **History of eclampsia**
+   - No current HTN or seizures.
+   - Plan: Monitor BP, magnesium not indicated.
+
+### 7. **Infection prophylaxis**
+   - No evidence of pneumonia, UTI, or line sepsis.
+   - Completed 5d amox-clav for sinusitis prior to this admission.
+
+### 8. **VTE prophylaxis**
+   - On LMWH since HD#2.
+
+### 9. **Other**
+   - Laceration of foot (2022): healed, no current issues.
+   - Social: Lives with partner and 3 children, planning for discharge needs.
+   - Dispo: Anticipate transfer to stepdown in 24-48h.
+
+---
+
+## ICU MEDICATIONS (current)
+
+- Metoprolol succinate 25mg PO daily
+- Sacubitril/valsartan 24/26mg PO BID
+- Spironolactone 25mg PO daily
+- Furosemide 20mg IV q12h (weaning)
+- Acetaminophen 325mg PO PRN
+- Enoxaparin 40mg SQ daily
+
+---
+
+## NURSING/THERAPY
+
+- Ambulating with PT/OT
+- Foley removed HD#7, voiding spontaneously
+- Diet: Cardiac, advancing as tolerated
+
+---
+
+## CONSULTS
+
+- Cardiology: ongoing
+- Nephrology: for AKI
+- OB-GYN: postpartum management
+
+---
+
+## DISPOSITION
+
+- Anticipated transfer to cardiac stepdown once stable on oral meds, anticipate discharge home with close f/u.
+
+---
+
+**Signed:**  
+Dr. R. Williams, MD  
+Attending Critical Care  
+6/2/2024 10:17 AM
+
+---
+
+**(Additional pages: Flowsheets, nursing notes, MAR, consult notes, progress notes, PT/OT notes, discharge planning, etc. available in chart.)**

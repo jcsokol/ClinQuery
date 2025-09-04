@@ -1,0 +1,191 @@
+**EPIC EHR – ICU Progress Note**  
+**Patient:** Kessler, Homer  
+**MRN:** 00422918  
+**DOB:** 11/22/1965  
+**Sex:** M  
+**Attending:** Dr. S. Patel  
+**Admit Date:** 5/19/2024  
+**ICU Day:** 8  
+**Consults:** Cardiology, CT Surgery, ID, Renal  
+**Code Status:** Full  
+**Allergies:** No known drug allergies  
+**Isolation:** None  
+**Diet:** NPO (on tube feeds)
+
+---
+
+**Chief Complaint:**  
+Worsening shortness of breath, chest pain, hypotension
+
+---
+
+**HPI:**  
+59-year-old male with PMHx significant for chronic sinusitis, prediabetes, anemia, hyperlipidemia, and prior ankle sprain, presenting after 2 weeks of progressive dyspnea, orthopnea, and lower extremity edema. Found to be hypotensive and tachycardic in ED, with acute hypoxic respiratory failure and evidence of cardiogenic shock. Echo revealed severe global hypokinesis, LVEF ~15%. Emergent temporary left-sided ventricular assist device (Impella CP) placed in ICU for hemodynamic support. Course complicated by AKI, anemia, and nosocomial pneumonia.
+
+---
+
+**Hospital Course:**  
+- **Day 0:** Presented with acute decompensated heart failure, hypotension, lactic acidosis. Rapidly deteriorated requiring intubation and pressors. Emergent placement of temporary LVAD (Impella CP) by CT surgery.
+- **Day 1-2:** Remained on Impella, weaned off norepi. Developed oliguric AKI, started on CVVH. 
+- **Day 3:** Developed new fevers, increased secretions. Sputum cx sent. CXR: new RLL infiltrate. Started on vanc/zosyn.
+- **Day 4-6:** Gradual improvement in hemodynamics, weaning of Impella support. Renal function improving, extubated Day 6.
+- **Day 7:** Impella explanted. Remains on telemetry. Diuresed, stable, transitioned to PO meds.
+
+---
+
+### **Assessment and Plan (Problem-Based)**
+
+---
+
+**1. Cardiogenic Shock, Acute Decompensated Heart Failure (EF 15%)**
+- **Assessment:** Likely ischemic vs. nonischemic etiology. Required temporary LVAD (Impella CP) for hemodynamic support with good response.
+- **Plan:**
+  - Continue close hemodynamic monitoring
+  - Daily TTEs for function
+  - GDMT as tolerated (beta blocker, ACEi, spironolactone)
+  - Cardiac MRI pending
+  - Optimize volume status, diurese as tolerated
+  - Consider transplant eval if poor recovery
+
+---
+
+**2. Acute Kidney Injury (Stage 3)**
+- **Assessment:** Multifactorial – pre-renal from low output, nephrotoxic exposure, possible pigment nephropathy.
+- **Plan:**
+  - Renal panel q12h
+  - CVVH, now off, monitor for recovery
+  - Strict I/O
+  - Avoid nephrotoxins
+
+---
+
+**3. Nosocomial Pneumonia**
+- **Assessment:** Developed on Day 3, treated empirically, improving.
+- **Plan:**
+  - Continue 7-day vanc/zosyn course
+  - Monitor WBC, CXR, cultures
+  - Pulm hygiene, incentive spirometry
+
+---
+
+**4. Anemia (Hgb nadir 7.3 g/dL, baseline 10-11)**
+- **Assessment:** Likely multifactorial (GI losses, hemodilution, critical illness).
+- **Plan:**
+  - Monitor CBC daily
+  - Transfuse for Hgb <7.0 or symptoms
+  - GI prophylaxis
+
+---
+
+**5. Hyperlipidemia, Prediabetes**
+- **Assessment:** Chronic, not contributing to acute decompensation.
+- **Plan:**
+  - Continue statin
+  - Monitor glucose, A1c
+  - Dietician consult
+
+---
+
+**6. Chronic Sinusitis, Remote Ankle Sprain, H/o Forearm Laceration**
+- **Assessment:** Stable, not contributing to current illness.
+- **Plan:**
+  - Supportive care
+
+---
+
+**7. Pain Management**
+- **Assessment:** Mild-moderate pain, likely due to invasive lines, recent surgery.
+- **Plan:**
+  - Scheduled acetaminophen
+  - Naproxen held (renal)
+  - PRN oxycodone
+
+---
+
+**8. DVT Prophylaxis**
+- **Plan:** SCDs, SQ heparin
+
+---
+
+**9. Nutrition**
+- **Plan:** Enteral feeds, goal calories 1800 kcal/day
+
+---
+
+**10. Disposition**
+- **Plan:** Stepdown transfer when stable, consider rehab
+
+---
+
+---
+
+**Medications:**
+- Simvastatin 10 mg PO qHS
+- Acetaminophen 650 mg PO q6h
+- Metoprolol succinate 12.5 mg PO qd (held for HR<60)
+- Lisinopril 2.5 mg PO qd
+- Spironolactone 25 mg PO qd
+- Furosemide 40 mg IV BID
+- Vanc/Zosyn IV (for pneumonia)
+- Pantoprazole 40 mg IV qd
+- DVT ppx: Heparin 5000u SQ q8h
+
+---
+
+---
+
+### **LABS**
+
+#### **Selected Labs: CBC, Chem7, Cardiac, LFTs**
+| Date        | WBC  | Hgb  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | AlkPhos | Troponin | BNP    |
+|-------------|------|------|------|------|------|------|------|------|------|------|------|------|---------|----------|--------|
+| 5/19/24 04:30 | 4.1  | 9.1  | 198  | 139  | 4.9  | 102  | 21   | 41   | 2.6  | 116  | 38   | 42   | 68      | 0.19     | 5690   |
+| 5/20/24 06:00 | 7.7  | 8.3  | 176  | 140  | 5.2  | 104  | 20   | 49   | 3.0  | 154  | 42   | 55   | 73      | 0.08     | 6015   |
+| 5/21/24 06:10 | 9.4  | 7.3  | 168  | 143  | 5.7  | 107  | 18   | 57   | 3.2  | 128  | 52   | 64   | 79      | 0.05     | 5581   |
+| 5/22/24 05:55 | 8.0  | 8.2  | 182  | 144  | 4.3  | 105  | 22   | 35   | 2.3  | 105  | 36   | 38   | 71      | <0.01    | 4902   |
+| 5/23/24 07:10 | 6.8  | 8.7  | 191  | 141  | 4.1  | 100  | 23   | 29   | 1.7  | 98   | 29   | 31   | 67      | <0.01    | 3107   |
+| 5/24/24 07:15 | 5.5  | 9.5  | 209  | 139  | 4.0  | 101  | 24   | 23   | 1.1  | 92   | 22   | 25   | 64      | <0.01    | 1802   |
+| 5/25/24 07:22 | --   | 10.0 | 218  | 138  | 4.6  | 99   | 26   | 18   | 1.0  | 89   | 20   | 21   | --      | --       | --     |
+| 5/26/24 06:48 | 5.3  | 10.4 | 224  | 140  | 4.2  | 102  | 25   | 16   | 0.9  | --   | 18   | 19   | 62      | <0.01    | --     |
+
+*Some values missing due to specimen hemolysis or not ordered.*
+
+---
+
+**Imaging:**  
+- **5/19/24:** CXR: Pulmonary edema, mild cardiomegaly  
+- **5/20/24:** TTE: LVEF ~15%, global hypokinesis  
+- **5/21/24:** CXR: New RLL infiltrate  
+- **5/24/24:** TTE: LVEF improved to 28%  
+- **5/26/24:** Cardiac MRI pending
+
+---
+
+**Procedures:**  
+- 5/19/24: Right IJ central line, arterial line, Impella CP placement  
+- 5/21/24: Bronchoalveolar lavage  
+- 5/23/24: Impella explant
+
+---
+
+**Microbiology:**  
+- Sputum: GPC in clusters, rare GNR; blood cultures negative x2  
+- BAL: pending  
+- Urine: negative
+
+---
+
+**Discharge Planning:**  
+- Anticipate stepdown transfer in 24-48h if stable  
+- PT/OT evaluation  
+- Social work for rehab placement
+
+---
+
+**Attestation:**  
+Note written and reviewed by Dr. S. Patel, ICU attending  
+**Date/Time:** 5/26/2024 10:54
+
+---
+
+**End of Note**

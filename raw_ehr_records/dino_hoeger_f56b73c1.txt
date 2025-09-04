@@ -1,0 +1,251 @@
+---
+**Patient Name:** Dino Hoeger  
+**MRN:** 00348721  
+**DOB:** 1960-02-15 (Age: 64)  
+**Sex:** Male  
+**Date of Admission:** 2024-05-21  
+**Date of Note:** 2024-05-28  
+**Attending:** Dr. S. Hwang  
+**Consultants:** Cardiology, Neurology, Pain Management, Infectious Disease  
+**Location:** MICU, Room 14B
+
+---
+
+**HOSPITAL COURSE SUMMARY:**
+
+Mr. Dino Hoeger is a 64-year-old male with a history of hypertension, chronic intractable migraine, chronic pain, multiple recent viral URIs, and prior drug overdose, who presented to the ED with acute-onset chest pain, dyspnea, and confusion. Patient was found to be hypotensive (SBP 74 mmHg), tachycardic (HR 128), and hypoxic (SpO₂ 88% RA). EKG showed diffuse ST depressions. Troponin I peaked at 12.7 ng/mL. Bedside TTE revealed severely reduced LVEF (~15%), global hypokinesis, and a dilated LV. Despite initial resuscitation, patient developed cardiogenic shock requiring vasopressor and inotrope support. Due to persistent instability, an emergent left-sided percutaneous LVAD (Impella CP) was placed at bedside. 
+
+Course was complicated by AKI, transient transaminitis, delirium, and difficult-to-control pain. Patient was stabilized over several days, weaned off vasopressors, and LVAD was explanted on day 5. He is now on telemetry, improving.
+
+---
+
+**PROBLEM-BASED ASSESSMENT & PLAN**
+
+**1. Cardiogenic Shock secondary to acute decompensated heart failure**
+- Hx: No prior heart failure. Presented with acute pulmonary edema, hypotension, elevated troponin, severely reduced EF.
+- Etiology: Likely ischemic vs. toxic/metabolic insult (history of drug overdose, chronic pain medications).
+- Hospital Course: Required Impella CP for 5 days, vasopressors (norepinephrine, dobutamine), diuresis.
+- Echo: LVEF up to 25% on day 7, mild MR, no LV thrombus.
+- Plan:
+  - Continue GDMT (beta blocker, ACEi as tolerated, spironolactone).
+  - Monitor for arrhythmia, volume status.
+  - Cardiac rehab consult.
+  - CTA chest/abdomen pending to r/o atheroembolism.
+  - Cardiology f/u post-discharge.
+
+**2. Acute Kidney Injury (KDIGO Stage 2, multifactorial)**
+- Baseline Cr 1.0, peak 2.3, now trending down.
+- Likely pre-renal (shock, diuretics) + nephrotoxic exposure (contrast).
+- Plan:
+  - Strict I/Os, daily weights.
+  - Hold nephrotoxins.
+  - Renal function q12h.
+  - Nephrology consult if not improving.
+
+**3. Chronic Pain / Opioid Use Disorder**
+- Longstanding pain syndrome, on chronic oxycodone and hydrocodone.
+- Hospital course complicated by withdrawal/agitation on admission.
+- Plan:
+  - Pain management consult.
+  - Transition to oral regimen as tolerated.
+  - Consider buprenorphine bridge.
+  - Monitor for sedation/respiratory depression.
+
+**4. Hypertension**
+- Home on atenolol/chlorthalidone.
+- BP labile throughout admission (hypotensive during shock, now hypertensive).
+- Plan:
+  - Restart home regimen as tolerated.
+  - Monitor for rebound hypertension/orthostasis.
+
+**5. Delirium/Encephalopathy**
+- Initially agitated, visual hallucinations, fluctuating consciousness.
+- Likely multifactorial: shock, infection, metabolic, withdrawal.
+- Improved with reorientation, sleep hygiene, and pain control.
+- Plan:
+  - Minimize sedatives.
+  - PT/OT consult for cognitive rehab.
+
+**6. Acute Viral Pharyngitis & Bronchitis (Resolved)**
+- Presented with cough, sore throat, URI sxs, positive viral PCR (rhinovirus).
+- No evidence of pneumonia.
+- Plan:
+  - Supportive care.
+  - Monitor for secondary bacterial infection.
+
+**7. Hyperlipidemia**
+- LDL 79, triglycerides 124, HDL 80.
+- Plan:
+  - Statin therapy (atorvastatin 40mg qHS).
+  - Outpatient lipid clinic referral.
+
+**8. Dental Issues / Impacted Molars**
+- Chronic issue, not addressed this admission.
+- Plan:
+  - Dental follow-up post-discharge.
+
+**9. Migraine (chronic, intractable)**
+- Home abortive and preventive therapies.
+- No acute episodes this admission.
+- Plan:
+  - Continue home meds.
+  - Neurology follow-up.
+
+**10. Social/Disposition**
+- Lives alone, limited support.
+- PT/OT: moderate deconditioning.
+- Plan:
+  - Discharge planning with case management.
+  - Consider SNF vs. home with VNA.
+
+---
+
+**LABS**
+
+**CBC + CHEM7 + SELECTED ADDITIONAL LABS**  
+*(Collected: Admission, Day 2, Day 5, Day 7)*
+
+| Date        | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plts (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO₂ (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Troponin I (ng/mL) | AST (U/L) | ALT (U/L) | Alb (g/dL) |
+|-------------|------------|------------|---------|-------------|-------------|------------|-------------|--------------|-------------|------------|-------------|---------------------|-----------|-----------|------------|
+| 5/21        | 4.0        | 13.9       | 41      | 236         | 131         | 5.3        | 100         | 18           | 32          | 2.3        | 142         | 12.7                | 143       | 87        | 2.8        |
+| 5/22        | 3.6        | 12.7       | 37      | 201         | 134         | 4.8        | 102         | 22           | 41          | 2.1        | 128         | 5.4                 | 98        | 55        | 2.6        |
+| 5/25        | 4.5        | 13.4       | 39      | 210         | 138         | 4.0        | 104         | 24           | 29          | 1.4        | 101         | 0.8                 | 39        | 28        | 3.2        |
+| 5/27        | 5.1        | 14.2       | 42      | 227         | 140         | 4.1        | 105         | 26           | 22          | 1.1        | 97          | <0.01               | 28        | n/a       | n/a        |
+
+*Some values missing due to sample hemolysis or lab error.*
+
+**VITALS (selected):**
+- Admission: T 37.9°C, HR 128, BP 74/48, RR 28, SpO₂ 88% RA
+- Day 2: T 38.2°C, HR 110, BP 92/58, RR 20, SpO₂ 92% 2L NC
+- Day 5: T 37.2°C, HR 89, BP 114/68, RR 16, SpO₂ 97% RA
+- Day 7: T 36.8°C, HR 79, BP 126/74, RR 15, SpO₂ 98% RA
+
+**OTHER STUDIES:**
+- EKG: Sinus tachycardia, Q waves inferiorly, low voltage.
+- CXR: Pulmonary edema, mild cardiomegaly, no focal infiltrate.
+- Echo (Day 1): LVEF 15%, global hypokinesis; (Day 7): LVEF 25%, mild MR.
+- Head CT: No acute process.
+
+**MEDICATIONS (in hospital):**
+- Norepinephrine, dobutamine (off)
+- Furosemide IV, then PO
+- Atorvastatin 40mg qHS
+- Oxycodone 5mg q6h PRN
+- Acetaminophen 650mg q6h PRN
+- Atenolol/chlorthalidone (restarted day 5)
+- Pantoprazole 40mg IV q24h
+- Heparin SQ for DVT ppx
+
+**ALLERGIES:** NKDA
+
+---
+
+**DISPOSITION:**
+- Anticipate transfer to step-down unit in 24h
+- PT/OT ongoing
+- Discharge planning in process
+
+---
+
+**PHYSICIAN ATTESTATION:**  
+I have reviewed this note and the patient's current clinical status.  
+- Dr. S. Hwang, MD
+
+---
+
+**PAGE 2**
+
+**ICU DAILY PROGRESS NOTES**
+
+**Date:** 5/22/2024  
+**Subjective:** Patient intermittently confused, oriented x2. Reports severe fatigue, mild chest discomfort. Denies angina, palpitations. Pain 4/10, improved with oxycodone.  
+**Objective:**  
+- Vitals: T 38.2°C, HR 110, BP 92/58, RR 20, SpO₂ 92% 2L NC
+- I/O: Net negative 800cc past 24h
+- Exam: JVD 8cm, bibasilar crackles, 2+ pitting edema, S3, cool extremities.
+- Devices: Impella in situ, right IJ triple lumen, Foley
+- Labs: WBC 3.6, Hgb 12.7, Cr 2.1, Troponin 5.4, AST 98, ALT 55
+- Imaging: CXR - improving vascular congestion
+
+**Assessment & Plan:**
+- Cardiogenic shock: Continue Impella, weaning vasopressors, monitor MAP >65.
+- AKI: Hold nephrotoxins, monitor UOP, renal panel q12h.
+- Pain: Continue scheduled oxycodone, pain team following.
+- Delirium: Non-pharm interventions, minimize sedation.
+- Infection: No evidence of sepsis, viral PCR positive (rhinovirus).
+- Dispo: Remain in ICU, plan for Impella reassessment in 48h.
+
+---
+
+**PAGE 3**
+
+**NURSING NOTES HIGHLIGHTS**
+
+**5/23/2024 03:47**  
+- Pt restless overnight, required 2mg IV lorazepam for agitation.  
+- Impella flows 3.2 L/min, MAP 68, UOP 0.5cc/kg/hr.  
+- Skin: No breakdown, sacral redness.  
+- Lines: All secure, site clean/dry.
+
+**5/24/2024 14:12**  
+- Pt more alert, following commands, participated in PT at bedside.  
+- Foley removed, voiding independently.  
+- Vitals stable, pain 2/10.
+
+**5/25/2024 09:30**  
+- Impella explanted by CV surgery, site hemostasis achieved, no bleeding.
+- Pt transferred to step-down for further monitoring.
+
+---
+
+**PAGE 4**
+
+**CONSULTATION NOTES**
+
+**Cardiology (5/22/2024):**  
+- Impression: Acute decompensated HF, likely ischemic, severe LV dysfunction.  
+- Plan: Continue mechanical support, uptitrate GDMT as tolerated, consider ischemic workup post-stabilization.
+
+**Neurology (5/23/2024):**  
+- Impression: No acute neuro findings; delirium likely multifactorial.
+- Plan: Supportive care, monitor for seizure, continue migraine prophylaxis.
+
+**Infectious Disease (5/22/2024):**  
+- Impression: No evidence of bacterial infection. Rhinovirus positive.
+- Plan: Supportive care, avoid unnecessary antibiotics.
+
+**Pain Management (5/23/2024):**  
+- Impression: Chronic opioid use, high tolerance.
+- Plan: Continue home regimen, titrate as needed, consider non-opioid adjuncts.
+
+---
+
+**PAGE 5**
+
+**DISCHARGE MEDICATIONS (anticipated):**
+- Atenolol/chlorthalidone 50/25mg PO qAM
+- Atorvastatin 40mg PO qHS
+- Oxycodone 5mg PO q6h PRN
+- Acetaminophen 650mg PO q6h PRN
+- Spironolactone 25mg PO qAM
+- Lisinopril 5mg PO qAM (if BP stable)
+- Pantoprazole 40mg PO qAM
+
+**FOLLOW-UP:**
+- Cardiology in 1 week
+- Nephrology in 2 weeks
+- Primary care within 7 days
+- Dental for molar extraction
+- Pain management clinic
+
+**EDUCATION:**
+- HF symptom monitoring, fluid restriction, daily weights
+- Medication adherence
+- Signs/symptoms of infection, bleeding
+
+**Attending:** Dr. S. Hwang, MD  
+**Date/Time:** 2024-05-28 10:42
+
+---
+
+**END OF NOTE**

@@ -1,0 +1,178 @@
+---
+**Patient Name:** VonRueden, Dusty  
+**MRN:** 00458219  
+**DOB:** 09/08/1972  
+**Sex:** Female  
+**Admit Date:** 05/14/2024  
+**Attending:** Dr. R. Singh  
+**Service:** Cardiology ICU  
+**Location:** 3ICU-Bed 12
+
+---
+
+**HISTORY OF PRESENT ILLNESS:**  
+Dusty VonRueden is a 51-year-old female with past medical history significant for hypertension, chronic migraines, chronic pain, and recent dental issues, who was admitted following an out-of-hospital cardiac arrest secondary to suspected drug overdose. Upon arrival, she was found to be in pulseless electrical activity and required 6 minutes of CPR with ROSC in the ED. Initial rhythm was PEA, and initial lactate was 9.8. She was intubated for airway protection and transferred to the ICU. Shortly after admission, she developed profound cardiogenic shock, refractory to vasopressors, and was placed on a percutaneous left ventricular assist device (Impella CP) for hemodynamic support. 
+
+Her course has been complicated by acute bronchitis, a right forearm laceration sustained during the fall at the time of arrest, and persistent pain requiring multimodal analgesia. She was extubated on hospital day 3 and is now awake, following commands, and weaning off pressors.
+
+---
+
+**ADMISSION VITALS:**  
+| Date        | Temp (C) | HR  | BP      | RR | SpO2 | Pain Score |
+|-------------|----------|-----|---------|----|------|------------|
+| 5/14/2024   | 37.4     | 112 | 81/43   | 22 | 91%  | 8          |
+| 5/15/2024   | 37.1     | 88  | 109/62  | 18 | 99%  | 5          |
+| 5/16/2024   | 37.6     | 78  | 119/71  | 16 | 97%  | 3          |
+| 5/17/2024   | 36.9     | 77  | 127/79  | 15 | 98%  | 4          |
+
+---
+
+**HOSPITAL COURSE SUMMARY:**  
+- **Day 0-1:** Admitted after OOH cardiac arrest. Intubated, started on norepinephrine, epinephrine drips. Echo: LVEF 18%, global hypokinesis. Impella CP placed for cardiogenic shock.
+- **Day 2:** Improved hemodynamics. Lactate downtrending. Weaned off epinephrine. Renal function declined, likely ATN.
+- **Day 3:** Extubated. Awake, mild confusion. Impella support ongoing. Laceration cleaned, no signs of infection.
+- **Day 4:** Stable. Impella weaning trial started. Pain controlled on acetaminophen & naproxen. Started on oral antihypertensives.  
+- **Day 5:** Impella explanted. Transferred to stepdown. 
+
+---
+
+**LABS SUMMARY**
+
+| Date       | WBC   | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | AST  | ALT  | Lactate |
+|------------|-------|------|------|-------|------|------|------|------|------|------|------|----------|------|------|---------|
+| 5/14/2024  | 8.2   | 14.7 | 46.9 | 170   | 136  | 4.2  | 104  | 21   | 19   | 1.7  | 132  | 2.1      | 44   | 38   | 9.8     |
+| 5/15/2024  | 10.1  | 13.9 | 45.2 | 148   | 138  | 4.0  | 108  | 19   | 25   | 2.2  | 126  | 1.8      | 51   | 45   | 4.3     |
+| 5/16/2024  | 9.4   | 13.2 | 41.1 | 132   | 139  | 3.8  | 105  | 23   | 32   | 2.3  | 119  | 0.8      | 40   | 36   | 2.2     |
+| 5/17/2024  | 7.7   | 12.4 | 39.9 | 163   | 137  | 4.1  | 106  | 22   | 24   | 1.5  |      | <0.01    |      |      |         |
+| 5/18/2024  |       | 12.7 |      | 172   | 140  |      |      | 25   | 17   | 1.1  | 103  | <0.01    | 35   | 27   |         |
+
+---
+
+**ALLERGIES:**  
+No known drug allergies
+
+---
+
+**MEDICATIONS ON ADMISSION:**  
+- Hydrochlorothiazide 25 mg PO QD  
+- Acetaminophen 325 mg PO PRN  
+- Naproxen sodium 220 mg PO PRN
+
+**IN-HOSPITAL MEDICATIONS:**  
+- Norepinephrine IV infusion (d/c'd HD3)  
+- Epinephrine IV infusion (d/c'd HD2)  
+- Furosemide 20 mg IV Q12h  
+- Lisinopril 10 mg PO QD  
+- Heparin infusion (while Impella in place)  
+- Acetaminophen 650 mg PO Q6h scheduled  
+- Oxycodone 5 mg PO Q4h PRN severe pain  
+- Docusate 100 mg PO BID  
+- Pantoprazole 40 mg IV QD
+
+---
+
+**ASSESSMENT & PLAN**
+
+**1. Cardiogenic Shock post-Cardiac Arrest, Impella CP**  
+- Initial arrest likely multifactorial: drug overdose (unclear which agent; tox screen pending), possible underlying ischemic CM.  
+- Impella CP placed for LV support, explanted HD5 after hemodynamic improvement.  
+- Echo: LVEF improved to 33% on HD5.  
+- Continue guideline-directed medical therapy for HF.  
+- Cardiac rehab consult. Serial EKGs. Outpatient cardiac MRI planned.
+
+**2. Acute Kidney Injury (ATN pattern)**  
+- Likely secondary to hypoperfusion during arrest and vasopressors.  
+- Monitored closely. Renal function improving.  
+- Hold nephrotoxins, monitor urine output.  
+- F/u Cr/BUN daily.
+
+**3. Acute Bronchitis**  
+- Productive cough, O2 requirement early, improved with supportive care.  
+- No evidence of pneumonia on CXR.  
+- Monitor for superimposed infection.
+
+**4. Laceration, right forearm**  
+- Debrided, closed in ED. No signs of infection.  
+- Daily dressing change, wound care nurse involved.
+
+**5. Chronic Pain, Chronic Migraines**  
+- Pain control with scheduled acetaminophen, PRN oxycodone.  
+- Neurology consulted for migraine management.  
+- Avoid NSAIDs due to AKI.
+
+**6. Hypertension**  
+- Restarted home hydrochlorothiazide, added lisinopril.  
+- Monitor for hypotension as renal function recovers.
+
+**7. Drug Overdose (unclear agent)**  
+- Urine tox positive for opiates and benzodiazepines.  
+- Psychiatry consult for substance use counseling.
+
+**8. Dental Issues (Impacted Molars)**  
+- No acute dental infection.  
+- Dental follow-up after discharge.
+
+**9. Acute Viral Pharyngitis**  
+- Supportive care.  
+- No antibiotics needed.
+
+---
+
+**DISPOSITION**  
+- Transfer to stepdown, then cardiac telemetry.  
+- Discharge planning with physical therapy, cardiac rehab, outpatient nephrology & cardiology.
+
+---
+
+**PROBLEM LIST (ACTIVE):**  
+1. Cardiogenic shock s/p cardiac arrest, Impella CP  
+2. Acute kidney injury  
+3. Acute bronchitis  
+4. Chronic pain  
+5. Chronic intractable migraine  
+6. Hypertension  
+7. Drug overdose, opiate/benzo  
+8. Laceration, right forearm  
+9. Dental: impacted molars  
+10. Acute viral pharyngitis
+
+---
+
+**Attending:** Dr. R. Singh  
+**Resident:** J. Morales, MD  
+**ICU RN:** A. Bailey, RN
+
+---
+
+**Signature:**  
+J. Morales, MD  
+05/18/2024 14:25
+
+---
+
+**Additional Labs (selected):**  
+- BNP: 1340 pg/mL (5/14)  
+- CK-MB: 38 ng/mL (5/14), 13 ng/mL (5/16)  
+- INR: 1.1 (5/15)  
+- aPTT: 39 sec (5/15)  
+- CXR: No infiltrate, mild pulmonary edema  
+- EKG: Sinus tachycardia, no STEMI
+
+---
+
+**Nursing Notes (excerpt):**  
+HD2: Pt alert, answers questions, mild confusion. Impella site clean/dry.  
+HD3: Pt extubated, O2 sat 97% on 2L NC, tolerating ice chips.  
+HD4: Pain 3/10, ambulating with assist.  
+HD5: Impella explanted, transferred off ICU.
+
+---
+
+**Consults:**  
+- Cardiology  
+- Nephrology  
+- Neurology  
+- Psychiatry  
+- PT/OT  
+- Wound Care  
+- Dental (pending)

@@ -1,0 +1,182 @@
+---
+**Patient:** Friesen, Tommy  
+**MRN:** 00419382  
+**DOB:** 10/13/1989  
+**Sex:** M  
+**Admit Date:** 4/20/2024  
+**Attending:** Dr. S. Patel  
+**Unit:** MICU (Bed 6)  
+**Consults:** Cardiology, Pulmonology, Infectious Disease
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+**Chief Complaint:**  
+Acute shortness of breath, cough, and chest pain.
+
+**History of Present Illness:**  
+Tommy Friesen is a 34-year-old male with a PMH of hypertension and recent acute bronchitis, who presented to the ED with 4 days of worsening dyspnea, productive cough, pleuritic chest pain, and orthopnea. In the ED, he was noted to be tachycardic and hypoxic (SpO2 87% RA), with bibasilar crackles and lower extremity edema. CXR showed bilateral pulmonary edema. Troponin mildly elevated. Echo revealed severe global LV dysfunction with EF 15%. He was transferred to the MICU for management of acute decompensated heart failure with concern for cardiogenic shock. Required norepinephrine and dobutamine infusions for persistent hypotension. Due to refractory shock, Impella CP device was placed on HD2 for temporary mechanical circulatory support.
+
+**Past Medical History:**  
+- Hypertension (on Atenolol/Chlorthalidone)
+- Acute bronchitis (recent; treated outpatient, incomplete response)
+- No known CAD
+- No diabetes, CKD, or prior strokes
+
+**Past Surgical History:**  
+- None
+
+**Family History:**  
+- Father: MI at 57
+- Mother: HTN
+
+**Social History:**  
+- No tobacco, rare alcohol, no illicit drugs  
+- Lives with wife, works as a software engineer
+
+**Allergies:**  
+- NKDA
+
+**Home Medications:**  
+- Atenolol 50mg/Chlorthalidone 25mg QAM  
+- OTC cough syrup (acetaminophen/dextromethorphan/doxylamine)
+
+---
+
+## ASSESSMENT & PLAN
+
+### 1. Cardiogenic Shock / Acute Decompensated Heart Failure
+- **Assessment:**  
+  Severe LV dysfunction (EF 15%) likely secondary to acute myocarditis vs. ischemic insult (no prior CAD, but risk factors present). Developed refractory hypotension despite vasopressors/inotropes. Required Impella CP placement for hemodynamic support. No evidence of tamponade or overt arrhythmia. Cardiogenic shock resolved by HD5, weaned off Impella on HD6.
+- **Plan:**  
+  - Continue guideline-directed HF therapy (ACEi held for hypotension, resume as tolerated)
+  - Wean inotropes as tolerated (now off)
+  - Daily TTE to monitor LV recovery
+  - Consult advanced HF for VAD/transplant eval if poor recovery
+  - Monitor for arrhythmias; telemetry
+  - Strict I/O, daily weights
+  - Furosemide IV for volume overload
+  - Goal MAP >65, SBP >90
+
+### 2. Acute Hypoxic Respiratory Failure / Pulmonary Edema
+- **Assessment:**  
+  Hypoxemic on presentation, requiring 4L NC, now weaned to RA. Pulmonary edema improved with diuresis and afterload reduction.
+- **Plan:**  
+  - Continue diuresis
+  - Monitor oxygenation, ABGs as needed
+  - Chest physiotherapy
+  - Incentive spirometry
+
+### 3. Recent Acute Bronchitis
+- **Assessment:**  
+  Cough productive, no consolidation on CXR, low-grade fevers, WBC normal. Likely viral, no evidence of superimposed bacterial infection.
+- **Plan:**  
+  - Supportive care (fluids, cough suppressant prn)
+  - Monitor for secondary infection
+
+### 4. Hypertension
+- **Assessment:**  
+  Chronic, on home meds. BP labile in setting of shock/vasopressors.  
+- **Plan:**  
+  - Hold antihypertensives for now, resume as tolerated
+  - Monitor BP q1h
+
+### 5. Pain/Anxiety
+- **Assessment:**  
+  Reports chest discomfort (pain score 4/10), anxious about prognosis.
+- **Plan:**  
+  - Acetaminophen for pain
+  - Consider low-dose lorazepam if anxiety worsens
+
+### 6. ICU Prophylaxis
+- **Plan:**  
+  - DVT prophylaxis with heparin SQ
+  - PPI for GI prophylaxis
+
+### 7. Labs/Monitoring
+- **Plan:**  
+  - Daily CBC, Chem7, Mg, Phos, LFTs, troponin, BNP
+  - Monitor lactate
+  - Daily CXR
+
+---
+
+## PROGRESS NOTES
+
+**HD1 (4/20/24):**  
+- Admitted with severe SOB, CXR: pulmonary edema  
+- BP 82/50, HR 118, SpO2 87% RA  
+- Echo: EF 15%  
+- Started on norepi/dobutamine  
+- Foley placed, strict I/O  
+- Labs: WBC 6.3, Hgb 17.2, Plt 341, Na 136, K 4.3, BUN 23, Cr 1.2
+
+**HD2 (4/21/24):**  
+- Persistent hypotension, Impella CP placed  
+- O2 requirements stable, urine output improved  
+- Labs: WBC 7.0, Hgb 15.9, Plt 312, Na 137, K 4.1, BUN 25, Cr 1.3, Troponin 0.12
+
+**HD3 (4/22/24):**  
+- Improved MAP, weaning vasopressors  
+- Echo: EF up to 25%  
+- Labs: WBC 7.2, Hgb 15.1, Plt 298, Na 138, K 3.9, BUN 24, Cr 1.1, BNP 2340
+
+**HD4 (4/23/24):**  
+- Impella support ongoing, diuresis continued  
+- Occasional PVCs  
+- Labs: WBC 6.8, Hgb 14.8, Plt 280, Na ---, K 3.7, BUN 22, Cr 1.0, LFTs WNL
+
+**HD5 (4/24/24):**  
+- Off vasopressors, Impella weaning  
+- No new complaints  
+- Labs: WBC 6.5, Hgb 14.3, Plt 272, Na 139, K 3.8, BUN 21, Cr 0.9
+
+**HD6 (4/25/24):**  
+- Impella removed, hemodynamically stable  
+- Mobilizing in bed  
+- Labs: WBC ---, Hgb 14.0, Plt 265, Na 140, K 4.0, BUN 20, Cr 0.8, Troponin 0.04
+
+---
+
+## MEDICATION ADMINISTRATION RECORD (MAR)
+| Date       | Medication                           | Dose/Route                | Frequency         | Comments              |
+|------------|--------------------------------------|---------------------------|-------------------|-----------------------|
+| 4/20/24    | Atenolol/Chlorthalidone              | 50/25 mg PO               | Held              | Hypotension           |
+| 4/20–4/24  | Norepinephrine                       | IV infusion               | Titrated          | Off by HD5            |
+| 4/20–4/23  | Dobutamine                           | IV infusion               | Titrated          | Weaned HD4            |
+| 4/21–4/25  | Furosemide                           | 40 mg IV                  | BID               |                       |
+| 4/20–4/25  | Heparin                              | 5000U SQ                  | q8h               | DVT prophylaxis       |
+| 4/20–4/25  | Pantoprazole                         | 40 mg IV                  | Daily             | GI prophylaxis        |
+| 4/20–4/25  | Acetaminophen                        | 650 mg PO                 | q6h prn           | Pain/fever            |
+
+---
+
+## ICU DAILY LABS
+
+| Date      | WBC   | Hgb   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Troponin | BNP   | AST  | ALT  |
+|-----------|-------|-------|-------|------|------|------|------|------|------|----------|-------|------|------|
+| 4/20/24   | 6.3   | 17.2  | 341   | 136  | 4.3  | 104  | 22   | 23   | 1.2  | 0.07     | ---   | ---  | ---  |
+| 4/21/24   | 7.0   | 15.9  | 312   | 137  | 4.1  | 102  | 21   | 25   | 1.3  | 0.12     | ---   | 24   | 30   |
+| 4/22/24   | 7.2   | 15.1  | 298   | 138  | 3.9  | 103  | 23   | 24   | 1.1  | 0.09     | 2340  | 22   | 29   |
+| 4/23/24   | 6.8   | 14.8  | 280   | ---  | 3.7  | 100  | 24   | 22   | 1.0  | ---      | ---   | 20   | 27   |
+| 4/24/24   | 6.5   | 14.3  | 272   | 139  | 3.8  | 101  | ---  | 21   | 0.9  | ---      | ---   | 19   | 26   |
+| 4/25/24   | ---   | 14.0  | 265   | 140  | 4.0  | 102  | 23   | 20   | 0.8  | 0.04     | ---   | 18   | 25   |
+
+*Some entries missing due to lab draw errors or sample hemolysis
+
+---
+
+**Discharge Planning:**  
+- Anticipate transfer to step-down on HD7  
+- Resume guideline-directed HF therapy as tolerated  
+- Close outpatient f/u with cardiology, repeat echo in 2w  
+- Discussed advanced therapies if EF remains depressed
+
+---
+
+**Attending:** S. Patel, MD  
+**Date:** 4/25/2024  
+**Time:** 17:45
+
+---

@@ -1,0 +1,192 @@
+---
+
+**Patient:** Ellis Anderson  
+**MRN:** 00938271  
+**DOB:** 1996-09-24 (Age: 27)  
+**Sex:** Female  
+**Admit Date:** 2024-05-27  
+**Attending:** Dr. Jameson, Cardiology  
+**Service:** ICU  
+**Visit Type:** Emergency Admission  
+**Reason for Admission:** Cardiogenic shock secondary to myocarditis, requiring temporary LVAD placement.
+
+---
+
+### Admission H&P
+
+**Chief Complaint:**  
+Severe shortness of breath, chest pain, and syncope.
+
+**HPI:**  
+27-year-old female with a history notable for recent viral pharyngitis and sinusitis, who presented to the ED with 3 days of progressive dyspnea, fatigue, and pleuritic chest pain. On day of admission, developed acute syncope at home. Bystanders report brief unresponsiveness, EMS found pt hypotensive (SBP 70s), tachycardic, cool extremities. On arrival, required oxygen and fluid resuscitation. Initial workup revealed elevated troponin, diffuse ST changes, and echo with severely reduced LVEF (~15%). Emergent temporary LVAD placed for cardiogenic shock.
+
+**Past Medical History:**  
+- First degree burn (remote, resolved)  
+- Acute viral pharyngitis (recent)  
+- Fracture of rib (remote, trauma)  
+- Closed fracture of hip (remote, trauma)  
+- Normal pregnancy (G1P1, 2022)  
+- Viral sinusitis (recent)
+
+**Medications on Admission:**  
+- Seasonique 91 Day Pack  
+- Acetaminophen 325 mg PO PRN  
+- Trinessa 28 Day Pack  
+- Camila 28 Day Pack  
+- Ibuprofen 200 mg PO PRN  
+- Naproxen sodium 220 mg PO PRN  
+- Yaz 28 Day Pack  
+- Amoxicillin/clavulanate 250/125 mg PO BID
+
+**Allergies:** NKDA
+
+**Social History:**  
+- Lives with partner and 2-year-old child  
+- Works as a school teacher  
+- Denies tobacco, EtOH, illicit drug use
+
+**Family History:**  
+- Mother: HTN, T2DM  
+- Father: MI at 62
+
+**Review of Systems:**  
+Unable to obtain on admission due to clinical status. Family reports no prior cardiac hx, no prior syncope.
+
+---
+
+### ICU Course Summary
+
+#### Hospital Day 1 (Admission):
+- Profound hypotension, lactic acidosis, hypoperfusion
+- Intubated for airway protection
+- Temporary LVAD (Impella CP) placed emergently
+- Started on vasopressors (norepi, dobutamine), broad-spectrum abx (vanc/cefepime)
+- Echo: LVEF 15%, moderate MR, no tamponade
+- Labs: Troponin I 9.2 ng/mL, BNP 1890 pg/mL, lactate 6.2 mmol/L
+- CVP 16 mmHg, MAP 58-65 despite support
+
+#### Hospital Day 2–3:
+- Gradual improvement in perfusion, LVAD weaning trials
+- Extubated on HD2, mentation improved
+- ID consulted: viral myocarditis suspected, respiratory PCR positive for coxsackie B
+- Cardiac MRI: diffuse myocardial edema, consistent with myocarditis
+- LFTs trended up with shock liver, improving
+
+#### Hospital Day 4–6:
+- LVAD support weaned off on HD5, device explanted without complication
+- Transition to oral HF regimen (metoprolol, sacubitril/valsartan, spironolactone)
+- Cardiac rehab initiated
+- Mobilization with PT/OT
+- Echo: LVEF improved to 35% by HD6
+
+#### Hospital Day 7–8 (Current):
+- Off vasopressors, hemodynamically stable
+- Discharge planning underway
+
+---
+
+### Problem-Based Assessment & Plan
+
+#### 1. **Cardiogenic Shock/Myocarditis (Resolved)**
+   - Temporary LVAD (Impella) placed, now explanted
+   - Transitioned to oral HF therapy
+   - Cardiac MRI: viral myocarditis (coxsackie B)
+   - Plan: Continue GDMT, monitor for arrhythmias, repeat echo in 1 month, avoid strenuous activity x3 months
+
+#### 2. **Acute Hypoxic Respiratory Failure (Resolved)**
+   - Intubated HD1, extubated HD2
+   - No pneumonia/ARDS
+   - Plan: Incentive spirometry, pulmonary rehab
+
+#### 3. **Shock Liver (Improving)**
+   - Transaminitis peaked on HD2, improving
+   - Plan: Monitor LFTs, supportive care
+
+#### 4. **Acute Kidney Injury (Resolved)**
+   - Pre-renal AKI, baseline Cr 0.8 → peak 1.7, now 1.0
+   - Plan: Monitor renal function, avoid nephrotoxins
+
+#### 5. **Pain Management**
+   - Rib/hip fracture pain, managed with Tylenol/PRN NSAIDs
+   - Plan: Continue PRN, monitor for side effects
+
+#### 6. **Contraceptive Management**
+   - Multiple OCPs on home meds, held during hospitalization
+   - Plan: Resume single OCP at discharge pending hypercoagulability risk
+
+#### 7. **Physical Deconditioning**
+   - Plan: PT/OT, cardiac rehab
+
+#### 8. **Psychosocial**
+   - Debriefed re: ICU stay, provided support resources
+
+---
+
+### Daily Progress Notes
+
+**HD 2:**  
+- Neuro: A&O x3, extubated, following commands  
+- CV: On Impella, MAP 65–70, HR 98, weaning norepi  
+- Resp: Extubated, 2L O2 NC, sats 97%  
+- Renal: UOP >0.5 cc/kg/hr, Cr 1.3  
+- ID: Respiratory PCR coxsackie B positive  
+- Labs: WBC 11.8, hgb 13.9, plt 322, Na 137, K 4.6, Cr 1.3, troponin 6.1  
+- Plan: Continue weaning, monitor end-organ function
+
+**HD 4:**  
+- Off pressors, LVAD flow downtrending, prepping for explant  
+- LFTs trending down  
+- Mobilizing with PT  
+- Labs: WBC 9.5, hgb 12.8, plt 298, Na 138, K 4.3, Cr 1.1, AST 78, ALT 66  
+- Plan: Explant LVAD tomorrow, continue supportive care
+
+**HD 6:**  
+- LVAD explanted, stable  
+- LVEF improved to 35%  
+- HF meds initiated  
+- Labs: WBC 7.9, hgb 13.1, plt 301, Na 140, K 4.1, Cr 1.0, AST 38, ALT 29  
+- Plan: Cardiac rehab, discharge planning
+
+---
+
+### Laboratory Results
+
+**CBC & CHEM7 Table**
+
+| Date       | WBC  | Hgb   | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Gluc | AST  | ALT  | Trop I | BNP   | Lactate |
+|------------|------|-------|------|------|------|------|------|------|------|------|------|------|--------|-------|---------|
+| 5/27 AM    | 12.1 | 14.7  | 341  | 135  | 5.1  | 105  | 18   | 22   | 1.7  | 146  | 246  | 197  | 9.2    | 1890  | 6.2     |
+| 5/27 PM    | 11.3 | 14.2  | 327  | 136  | 4.9  | 104  | 19   |      | 1.6  | 138  | 198  | 184  | 8.7    |       | 4.7     |
+| 5/28 AM    | 11.8 | 13.9  | 322  | 137  | 4.6  | 104  | 20   | 17   | 1.3  | 126  | 160  | 143  | 6.1    | 1112  | 3.9     |
+| 5/29 AM    | 10.2 | 13.4  | 309  | 137  | 4.5  | 104  | 22   | 14   | 1.2  | 122  | 114  |  98  | 4.5    |  780  | 2.1     |
+| 5/30 AM    | 9.5  | 12.8  | 298  | 138  | 4.3  | 103  | 23   | 13   | 1.1  |      |  78  |  66  | 2.2    |  420  | 1.0     |
+| 6/1 AM     | 7.9  | 13.1  | 301  | 140  | 4.1  | 104  | 24   | 12   | 1.0  | 115  |  38  |  29  | <0.04  |  230  |         |
+| 6/2 AM     | 8.2  | 13.3  | 293  | 140  | 4.0  | 103  |      | 10   | 1.0  | 110  |  32  |  24  |        |  115  |         |
+
+---
+
+### Imaging & Diagnostics
+
+- **ECG**: Sinus tachycardia, diffuse low voltage, nonspecific ST/T changes
+- **TTE (5/27):** LVEF 15%, global hypokinesis, moderate MR, no pericardial effusion
+- **TTE (6/1):** LVEF 35%, mild MR
+- **Cardiac MRI:** Diffuse edema, late gadolinium enhancement, no infarct
+- **CXR:** Mild pulmonary edema, no consolidation
+
+---
+
+### Discharge Planning
+
+- Anticipate discharge to home on HD8
+- Cardiac rehab, close cardiology f/u
+- Resume single OCP pending hypercoagulability evaluation
+- Return precautions, medication reconciliation, PCP f/u in 1 week
+
+---
+
+**Signed:**  
+Jameson, MD  
+Cardiology/ICU Attending  
+2024-06-03 09:25
+
+---

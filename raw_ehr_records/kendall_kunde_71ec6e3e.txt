@@ -1,0 +1,210 @@
+**Patient:** Kendall Kunde  
+**MRN:** 00392487  
+**DOB:** 07/26/1957  
+**Sex:** Female  
+**Admit Date:** 05/12/2024  
+**Service:** MICU  
+**Attending:** Dr. Gregory Lin  
+**Consults:** Cardiology, Endocrinology  
+
+---
+
+## CHIEF COMPLAINT
+Shortness of breath, chest discomfort, orthopnea, and lower extremity edema.
+
+---
+
+## HISTORY OF PRESENT ILLNESS
+Kendall Kunde is a 66-year-old female with a history of hypertension, obesity, chronic sinusitis, hypothyroidism, and recent acute bronchitis, who presented to the ED with a 2-week history of worsening shortness of breath, orthopnea, and lower extremity swelling. She also reported intermittent chest pressure, nausea, and paroxysmal nocturnal dyspnea. On arrival, she was tachypneic, hypertensive, and hypoxic on room air. Exam notable for JVD, rales, and 2+ pitting edema. CXR with pulmonary vascular congestion. Initial troponin mildly elevated; BNP 2680 pg/mL. Echo revealed LVEF 15%, global hypokinesis, moderate MR.
+
+She progressed to cardiogenic shock (SBP <85 mmHg, lactate 4.2 mmol/L, cool extremities) despite IV diuresis and vasodilators, requiring urgent placement of a left-sided Impella heart pump for hemodynamic support. She was admitted to the ICU for further management.
+
+---
+
+## PAST MEDICAL HISTORY
+- Hypertension
+- Obesity (BMI ~29-31)
+- Chronic sinusitis
+- Viral sinusitis (multiple episodes)
+- Hypothyroidism (idiopathic atrophic)
+- Acute bronchitis (recent)
+- Miscarriage, 1st trimester
+
+## PAST SURGICAL HISTORY
+- None reported
+
+## FAMILY HISTORY
+- Father: MI at 68, HTN
+- Mother: Hypothyroidism
+
+## SOCIAL HISTORY
+- Never smoker
+- No EtOH, no illicit drug use
+- Lives with husband
+
+## ALLERGIES
+- NKDA
+
+## HOME MEDICATIONS
+- Atenolol/Chlorthalidone 50/25 mg qd
+- Levothyroxine 75 mcg qd
+- Amox/Clav 250/125 mg tid (recent, for bronchitis)
+- Ferrous sulfate 325 mg qd
+- Acetaminophen/dextromethorphan/doxylamine syrup prn
+
+---
+
+# PHYSICAL EXAM (on ICU admission)
+- **Gen:** Obese, appears fatigued, mild respiratory distress
+- **HEENT:** Sinus tenderness, post-nasal drip
+- **CV:** JVD 12 cm, S3, tachycardic, no murmurs
+- **Lungs:** Bibasilar crackles, decreased BS at bases
+- **Abd:** Soft, nontender, no hepatosplenomegaly
+- **Ext:** 2+ pitting edema to knees bilaterally, cool extremities
+- **Neuro:** A&O x3
+
+# VITALS (ED and ICU course)
+| Date/Time        | Temp (°C) | HR (bpm) | BP (mmHg) | RR | SpO2 (%) | Weight (kg) |
+|------------------|-----------|----------|-----------|----|----------|-------------|
+| 5/12 15:10 (ED)  | 36.8      | 122      | 84/52     | 26 | 89 (RA)  | 83.2        |
+| 5/13 04:30 (ICU) | 37.1      | 98       | 102/65    | 22 | 95 (2L NC)| 81.7        |
+| 5/14 08:00       | 36.7      | 90       | 109/68    | 18 | 97 (RA)  | 80.3        |
+| 5/15 07:50       | 36.5      | 87       | 117/74    | 16 | 98 (RA)  | 79.7        |
+
+---
+
+# LABS
+
+## CBC and CHEM7
+| Date/Time       | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|-----------------|------|------|------|------|------|------|------|------|------|------|------|
+| 5/12 17:28      | 5.8  | 16.9 | 38.2 | 360  | 132  | 4.7  | 99   | 19   | 38   | 1.7  | 182  |
+| 5/13 04:17      | 6.5  | 15.7 | 36.0 | 328  | 134  | 4.1  | 101  | 21   | 41   | 2.0  | 169  |
+| 5/13 16:22      | 8.2  | 14.9 | 33.9 | 299  | 136  | 4.3  | 102  | 20   | 34   | 1.6  |      |
+| 5/14 08:30      | 9.1  | 13.8 | 30.2 | 306  | 139  | 4.0  |      | 23   | 28   | 1.3  | 142  |
+| 5/15 07:45      | 7.7  | 13.2 | 29.6 | 271  | 138  | 3.9  | 100  | 24   |      | 1.1  | 126  |
+
+## ADDITIONAL LABS
+| Date/Time     | Troponin I | BNP    | AST  | ALT  | Alk Phos | TSH   | Free T4 | Lactate |
+|---------------|------------|--------|------|------|----------|-------|---------|---------|
+| 5/12 18:02    | 0.19       | 2680   | 62   | 51   | 99       | 4.3   | 0.25    | 4.2     |
+| 5/13 07:00    | 0.13       | 2200   | 55   | 46   | 92       |       |         | 2.7     |
+| 5/14 09:18    | <0.01      | 1430   | 48   | 41   | 88       |       |         | 1.1     |
+
+---
+
+# HOSPITAL COURSE
+
+**Day 0-1 (ED/ICU admission):**
+- Cardiogenic shock secondary to new-onset severe decompensated heart failure.
+- Initiated on IV furosemide, dobutamine, nitroglycerin drip.
+- Worsening hypotension and hypoperfusion despite escalating inotropes.
+- Emergent placement of left-sided Impella CP for mechanical circulatory support.
+- Started on heparin drip for device.
+- Monitored for hemolysis, device position, vascular access complications.
+
+**Day 2:**
+- Gradual improvement in end-organ perfusion (lactate downtrending, urine output improved).
+- Weaned off dobutamine.
+- Ongoing diuresis, net negative 3L over 24h.
+- Monitored for arrhythmias (short runs of NSVT overnight, self-terminated).
+- Echocardiogram: LVEF improved to ~30% with Impella support.
+
+**Day 3-4:**
+- Further diuresis, off vasopressors.
+- Impella wean trial successful, device removed on 5/14.
+- No vascular complications.
+- Transitioned to oral heart failure regimen (metoprolol, sacubitril/valsartan, spironolactone).
+- Slow titration of oral meds.
+- Endocrinology consulted for hypothyroidism, levothyroxine dose increased.
+
+---
+
+# ASSESSMENT & PLAN
+
+**1. Cardiogenic shock, new HFrEF (EF 15% → 30%), s/p Impella CP**
+   - Etiology likely ischemic (elevated troponin, risk factors), but no prior cath; will schedule outpatient cath.
+   - Now hemodynamically stable, device removed.
+   - Continue guideline-directed medical therapy (GDMT): beta-blocker, ARNI, MRA.
+   - Strict I/O, daily weights, monitor for recurrent decompensation.
+   - Cardiac rehab referral pending.
+   - Outpatient follow-up with HF and interventional cardiology.
+
+**2. Hypertension**
+   - Previously on atenolol/chlorthalidone; now on metoprolol, sacubitril/valsartan.
+   - BP improved, monitor for hypotension as HF meds titrated.
+
+**3. Hypothyroidism**
+   - TSH elevated, free T4 low; increased levothyroxine to 100 mcg qd.
+   - Recheck levels in 6 weeks outpatient.
+
+**4. Obesity**
+   - BMI ~30, weight loss advised.
+   - Dietician consult placed.
+   - Monitor for volume overload.
+
+**5. Anemia of chronic disease / recent drop in Hgb**
+   - Hgb from 16.9 → 13.2 over hospitalization.
+   - Likely multifactorial: acute illness, hemodilution, mild hemolysis from device.
+   - Monitor, iron studies pending.
+
+**6. Chronic/viral sinusitis, acute bronchitis (recent)**
+   - Now improved.
+   - Continue supportive management, f/u with PCP if recurrent.
+
+**7. Vascular access, device-related complications**
+   - No evidence of infection or bleeding at access site.
+   - Monitor for late complications.
+
+**8. Electrolyte abnormalities**
+   - Mild hypokalemia, corrected with PO K.
+   - Monitor with ongoing diuresis.
+
+**9. Discharge planning**
+   - Anticipated transfer to telemetry, then home with close f/u.
+   - Education on HF, diet, daily weights, medication adherence.
+
+---
+
+# DISCHARGE MEDICATIONS (anticipated)
+- Metoprolol succinate 25 mg daily
+- Sacubitril/valsartan 24/26 mg bid
+- Spironolactone 25 mg daily
+- Levothyroxine 100 mcg daily
+- Ferrous sulfate 325 mg daily
+- Furosemide 40 mg daily
+- KCl 20 mEq daily
+- PRN acetaminophen
+
+# FOLLOW-UP
+- Heart Failure clinic (1 week)
+- Cardiology for cath (2-4 weeks)
+- Endocrinology (6 weeks for TSH)
+
+---
+
+# ORDERS (selected)
+- Telemetry
+- Strict I/O
+- Daily CBC, chem7, troponin
+- Cardiac monitoring
+- DVT prophylaxis (SCDs, heparin SQ)
+- Low sodium diet
+- Fluid restriction 1.5L/day
+
+---
+
+# ADDITIONAL NOTES
+- Patient/family counseled regarding new diagnosis of heart failure and device therapy.
+- No delirium, no falls.
+- Physical therapy evaluation: recommended cardiac rehab.
+
+---
+
+**Signed:**  
+Lin, Gregory MD  
+05/15/2024 10:12
+
+---
+
+**(End of Note)**

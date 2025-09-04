@@ -1,0 +1,213 @@
+**EPIC EHR: Inpatient Progress Note**
+
+---
+
+**Patient:** Lucretia McCullough  
+**MRN:** 002146781  
+**DOB:** 04/06/1941 (Age: 83)  
+**Sex:** Female  
+**Date of Admission:** 05/03/2024  
+**Attending:** Dr. Mark E. Sheehan, MD  
+**Primary Team:** Cardiology/ICU  
+**Consults:** Cardiac Surgery, Infectious Disease, Neurology
+
+---
+
+### CHIEF COMPLAINT
+
+Shortness of breath, progressive fatigue, orthopnea; found hypoxic at home by family.
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+
+Ms. Lucretia McCullough is an 83-year-old female with a complex medical history including hypertension, hyperlipidemia, chronic sinusitis, early-onset familial Alzheimer’s, and a remote history of tubal pregnancy and miscarriage. She presented with 3 days of worsening dyspnea, productive cough, and confusion per family. She was seen in the ED, found to be hypoxic (O2 sat 84% on RA), tachycardic, and hypotensive. Chest X-ray showed bilateral infiltrates. She was admitted for acute hypoxic respiratory failure secondary to pneumonia, complicated by acute decompensated heart failure and cardiogenic shock. She required ICU transfer and was placed on noninvasive ventilation, then intubated for refractory hypoxemia.
+
+On hospital day 2, she developed worsening hypotension despite escalating vasopressors. Echo revealed severely reduced LV function (EF ~15%), global hypokinesis, and elevated filling pressures. Given persistent shock and evidence of end-organ dysfunction, a temporary percutaneous left ventricular assist device (Impella CP) was placed at bedside for hemodynamic support.
+
+---
+
+### PAST MEDICAL HISTORY
+
+- **Cardiac:** Hypertension, hyperlipidemia, heart failure with reduced ejection fraction (new)
+- **Respiratory:** Chronic sinusitis, acute bronchitis, pneumonia
+- **Neurologic:** Early-onset familial Alzheimer’s disease (severe dementia)
+- **OB/GYN:** Remote tubal pregnancy, miscarriage (1st trimester)
+- **Other:** No known diabetes, CKD stage 3 (baseline Cr ~1.2)
+
+### PAST SURGICAL HISTORY
+
+- Bilateral tubal ligation (unknown year)
+- Cholecystectomy (remote)
+- Cataract extraction (right eye, 2019)
+
+### FAMILY HISTORY
+
+- Mother: Alzheimer’s, died age 62  
+- Father: MI age 70, hypertension
+
+### SOCIAL HISTORY
+
+- Retired school teacher, widowed, lives with daughter  
+- Never smoked. No alcohol or illicit drugs.  
+- Baseline: ambulatory with walker, severe cognitive impairment (MMSE 4/30)
+
+### HOME MEDICATIONS (on admission)
+
+- Atenolol/Chlorthalidone 50/25 mg PO QD
+- Simvastatin 10 mg PO QHS
+- Donepezil 10 mg PO QHS and 23 mg PO QAM
+- Acetaminophen/dextromethorphan/doxylamine PRN
+- Multivitamin
+
+---
+
+### ALLERGIES
+
+- No known drug allergies
+
+---
+
+### REVIEW OF SYSTEMS
+
+Unable to obtain reliable history due to dementia. Per daughter:  
+- No chest pain, but cough and SOB for several days  
+- No fevers/chills at home  
+- Appetite poor x 1 week  
+- No recent falls
+
+---
+
+### PHYSICAL EXAM (ICU, Day 3)
+
+**General:** Intubated, sedated, appears frail  
+**VS:** T 37.1°C, HR 98 (paced), BP 92/63 (on norepinephrine), RR 18 (vent), SpO2 96% (FiO2 40%)  
+**HEENT:** Oropharynx clear, ETT in place  
+**Lungs:** Coarse crackles b/l bases, decreased breath sounds LLL  
+**CV:** S1/S2, no murmur, JVP 10 cm, cool extremities, Impella in place (L groin)  
+**Abd:** Soft, NT, mild hepatomegaly  
+**Ext:** No edema, pulses weak  
+**Neuro:** Nonverbal, follows to pain, GCS 7T
+
+---
+
+### LABS
+
+#### CBC/Chemistry Summary (select values; see full table below)
+
+| Date         | WBC (K) | Hgb (g/dL) | Plt (K) | Na  | K   | Cl  | CO2 | BUN | Cr   | Glu | Ca  |
+|--------------|---------|------------|---------|-----|-----|-----|-----|-----|------|-----|-----|
+| 5/3/24 06:00 | 3.6     | 14.2       | 326     | 139 | 5.1 | 105 | 26  | 13  | 2.8  | 92  | 8.6 |
+| 5/4/24 05:30 | 5.8     | 13.8       | 298     | 136 | 4.4 | 101 | 24  | 21  | 3.7  | 108 | 8.3 |
+| 5/5/24 07:00 | 8.2     | 12.0       | 198     | 133 | 4.1 | 99  | 21  | 30  | 4.2  | 114 | 8.0 |
+| 5/6/24 06:45 | 11.9    | 11.3       | 112     | 131 | 3.6 | 97  | 22  | 43  | 4.8  | 120 | 7.7 |
+| 5/7/24 06:15 | 9.1     | 11.8       | 123     | 134 | 4.0 | 100 | 24  | 39  | 3.9  | 100 | 7.9 |
+
+*Some values not reported due to hemolysis or sample error.*
+
+#### Other Labs
+
+- **LFTs:** AST 29, ALT 43, Alk Phos 90, Total Bili 1.1 (5/3), mild rise to AST 46, ALT 62 on 5/6  
+- **Cardiac Markers:**  
+    - Troponin I: 0.09 (5/3), 0.11 (5/4), 0.09 (5/5)  
+    - BNP: 1850 (5/4)  
+- **Coags:** INR 1.2, PTT 31, Fibrinogen 322 (5/3)  
+- **ABG (5/4):** pH 7.29 / pCO2 48 / pO2 67 / HCO3 23  
+- **Lactate:** 3.1 (5/4), down to 2.2 (5/6)  
+- **Cultures:** Blood cx x2 negative; sputum cx: Gram-negative rods (pending speciation)
+
+---
+
+### IMAGING
+
+- **CXR (5/3):** Bilateral patchy infiltrates, cardiomegaly, small left pleural effusion  
+- **Echo (5/4):** LVEF 15%, global hypokinesis, mild MR, RV normal  
+- **Abd US (5/5):** Mild hepatomegaly, no biliary dilation
+
+---
+
+### HOSPITAL COURSE
+
+- Admitted with acute hypoxic respiratory failure → intubated, ICU
+- Developed cardiogenic shock, AKI, lactic acidosis → temporary LVAD (Impella CP) placed
+- Started on broad-spectrum antibiotics (cefepime, azithromycin), vasopressors
+- Gradual improvement in hemodynamics over 3 days, weaned off pressors day 5
+- Renal function improved after volume optimization, but remains above baseline
+- Developed mild thrombocytopenia (lowest plt 112 on 5/6), likely multifactorial (sepsis, device)
+- Persistent delirium, severe baseline dementia
+- Family meeting held on 5/7: Goals of care discussed; DNR/DNI confirmed, comfort measures to be considered if further deterioration
+
+---
+
+### ASSESSMENT & PLAN
+
+#### 1. **Cardiogenic Shock, New HFrEF**
+- Likely secondary to severe sepsis (pneumonia) and ischemic insult
+- Temporary Impella CP support placed, now weaning
+- Continue cardiac monitoring, daily TTEs, wean inotropes as tolerated
+- Statin, beta-blocker held for hypotension
+
+#### 2. **Acute Hypoxic Respiratory Failure, Pneumonia**
+- On day 5 of cefepime/azithromycin, sputum cx pending
+- Ventilator weaning protocol initiated
+- Continue pulmonary hygiene, chest PT
+
+#### 3. **Acute Kidney Injury (AKI), on CKD**
+- Likely pre-renal (shock), some ATN from sepsis
+- IVF as tolerated, monitor for overload
+- Avoid nephrotoxins, daily labs
+
+#### 4. **Severe Dementia (Alzheimer’s)**
+- Baseline severe, MMSE 4/30
+- Nonverbal, dependent for all ADLs
+- Family updated daily, POLST honored
+
+#### 5. **Thrombocytopenia**
+- Likely multifactorial (sepsis, device, dilutional)
+- Monitor CBC, no active bleeding
+- Consider heparin-induced thrombocytopenia if plts <100k
+
+#### 6. **Hypertension, Hyperlipidemia**
+- Home meds held for hypotension
+- Resume as tolerated after stabilization
+
+#### 7. **Chronic Sinusitis**
+- No active issues
+
+#### 8. **Other**
+- DVT prophylaxis with SCDs
+- PPI for GI prophylaxis
+- Nutrition: NGT feeds, goal calories 1500/day
+
+---
+
+### DISPOSITION
+
+- Continue ICU monitoring, likely prolonged course
+- Prognosis guarded, high risk for further complications
+- Anticipate palliative care involvement
+
+---
+
+**Signed:**  
+Mark E. Sheehan, MD  
+Cardiology/ICU  
+05/07/2024 09:15
+
+---
+
+#### LAB TABLE (FULL)
+
+| Date         | WBC | Hgb | Plt | Na  | K   | Cl  | CO2 | BUN | Cr  | Glu | Ca  | AST | ALT | BNP  |
+|--------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|------|
+| 5/3/24 06:00 | 3.6 | 14.2| 326 | 139 | 5.1 | 105 | 26  | 13  | 2.8 | 92  | 8.6 | 29  | 43  |      |
+| 5/4/24 05:30 | 5.8 | 13.8| 298 | 136 | 4.4 | 101 | 24  | 21  | 3.7 | 108 | 8.3 | 38  | 56  | 1850 |
+| 5/5/24 07:00 | 8.2 | 12.0| 198 | 133 | 4.1 | 99  | 21  | 30  | 4.2 | 114 | 8.0 |     |     |      |
+| 5/6/24 06:45 |11.9 | 11.3| 112 | 131 | 3.6 | 97  | 22  | 43  | 4.8 | 120 | 7.7 | 46  | 62  |      |
+| 5/7/24 06:15 | 9.1 | 11.8| 123 | 134 | 4.0 | 100 | 24  | 39  | 3.9 | 100 | 7.9 |     |     |      |
+
+*Some data not collected each day due to technical issues or hemolysis.*
+
+---
+
+**END OF NOTE**

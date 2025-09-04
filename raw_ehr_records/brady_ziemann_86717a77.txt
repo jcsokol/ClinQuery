@@ -1,0 +1,225 @@
+**Patient:** Ziemann, Brady  
+**MRN:** 0023456789  
+**DOB:** 07/29/1960  
+**Sex:** Male  
+**Date of Admission:** 04/18/2024  
+**Location:** MICU, 2nd Floor, Room 214B  
+**Attending:** Dr. S. Kumar  
+**Consults:** Cardiology, Endocrinology, Nephrology, Nutrition, PT/OT  
+**Code Status:** Full Code
+
+---
+
+### ADMISSION SUMMARY
+
+**Chief Complaint:**  
+Acute onset chest pain, progressive dyspnea, syncope at home.
+
+**History of Present Illness:**  
+59-year-old male with past medical history of hypertension, obesity, prediabetes, chronic migraines, chronic anemia, osteoarthritis of the hand, and recent acute bronchitis, presented to the ED with sudden onset substernal chest pain radiating to the left arm, associated with diaphoresis and shortness of breath. He collapsed at home, EMS found him hypotensive (SBP ~70s), tachycardic, and hypoxic. ROSC after brief asystole. In ED, ECG showed ST elevations anterolaterally. Troponin I elevated. Emergent cath revealed extensive LAD disease. IABP placed for cardiogenic shock, later upgraded to Impella CP for ongoing instability. Patient transferred to MICU for further management.
+
+**Pertinent PMHx:**  
+- Hypertension (on HCTZ)  
+- Obesity (BMI ~30)  
+- Prediabetes (HbA1c 6.3%)  
+- Chronic migraines (no recent episodes)  
+- Chronic anemia (baseline Hgb ~12.5)  
+- Osteoarthritis, hand  
+- Acute bronchitis (recent, resolved)
+
+**Social Hx:**  
+Former smoker (quit 6 yrs ago), no EtOH, lives with wife, retired mechanic.
+
+**Allergies:**  
+NKDA
+
+**Home Meds:**  
+- HCTZ 25mg qd  
+- Acetaminophen/dextromethorphan/doxylamine PRN  
+- Naproxen 220mg PRN
+
+---
+
+## ICU PROGRESS NOTE – HOSPITAL DAY #4 (4/21/2024)
+
+### Problem-Based Assessment and Plan
+
+---
+
+#### 1. **Cardiogenic Shock s/p STEMI (LAD) requiring temporary LVAD (Impella CP)**
+- **Course:**  
+Initially presented in profound shock, IABP placed in cath lab, rapidly escalated to Impella CP due to persistent hypotension and rising lactate. Echo: EF ~15%, severe global hypokinesis, no LV thrombus.
+- **Current:**  
+Impella CP in situ, flows 3.5–4.0 L/min. MAPs stable on minimal norepinephrine (0.03 mcg/kg/min). Cardiac index improved (2.2–2.5).  
+- **Plan:**  
+  - Continue Impella support, daily weaning trials as tolerated  
+  - Monitor for hemolysis (LDH, haptoglobin, urine color)  
+  - Serial Echos  
+  - Transition to oral heart failure regimen as able  
+  - Consideration for surgical LVAD vs. transplant eval if no recovery  
+  - Cardiology following
+
+---
+
+#### 2. **Acute Decompensated Heart Failure (new onset, HFrEF)**
+- **Course:**  
+Volume overloaded on arrival, pulmonary edema on CXR.  
+- **Current:**  
+Diuresed with IV furosemide, net negative 4L since admission. Now euvolemic, off BiPAP.  
+- **Plan:**  
+  - Continue gentle diuresis, monitor renal function  
+  - Initiate low-dose beta blocker (metoprolol) if hemodynamics allow  
+  - Start ACEi/ARB pending BP  
+  - Daily weights, strict I/Os
+
+---
+
+#### 3. **Multifactorial Anemia (baseline, worsened with acute event)**
+- **Labs:**  
+Admission Hgb 11.0, nadir 8.7, now 9.1.  
+- **Plan:**  
+  - Monitor CBC qd  
+  - Iron studies sent  
+  - Transfuse if Hgb <7.5 or hemodynamic instability  
+  - Evaluate for GI bleed (occult blood neg)
+
+---
+
+#### 4. **Hypertension (hx, now labile)**
+- **Course:**  
+On HCTZ at home, held due to hypotension.  
+- **Plan:**  
+  - Resume anti-HTNs as tolerated  
+  - Monitor BPs q2h  
+  - Titrate Impella/pressors as needed
+
+---
+
+#### 5. **Acute Kidney Injury (pre-renal, likely 2/2 shock)**
+- **Labs:**  
+Cr rose from 1.0 baseline to peak 1.7, now trending down (1.3).  
+- **Plan:**  
+  - Monitor Chem7 qAM  
+  - Hold nephrotoxins  
+  - Maintain MAP >65  
+  - Nephrology following
+
+---
+
+#### 6. **Obesity (BMI 30) / Prediabetes**
+- **Course:**  
+BMI 30.2, HbA1c 6.3%.  
+- **Plan:**  
+  - Calorie-controlled diet  
+  - Endocrinology consult  
+  - Monitor fingerstick glucoses q6h  
+  - Hold metformin (AKI), consider insulin if hyperglycemia
+
+---
+
+#### 7. **Chronic Migraine / Osteoarthritis**
+- **Course:**  
+No migraine symptoms during admission. Hand pain controlled with naproxen PRN.  
+- **Plan:**  
+  - Continue acetaminophen PRN  
+  - Avoid NSAIDs if renal function worsens  
+  - PT/OT eval for hand function
+
+---
+
+#### 8. **Acute Bronchitis (recent, resolved)**
+- **Course:**  
+No cough or wheeze now, lungs clear.  
+- **Plan:**  
+  - Monitor for secondary infection  
+  - Incentive spirometry
+
+---
+
+#### 9. **Delirium (new, likely multifactorial)**
+- **Course:**  
+Intermittent inattention, sleep-wake reversal.  
+- **Plan:**  
+  - Reorient frequently  
+  - Sleep hygiene  
+  - Avoid sedatives  
+  - Psychiatry consult PRN
+
+---
+
+#### 10. **ICU Care Issues**
+- DVT prophylaxis: SCDs, heparin SQ  
+- Stress ulcer prophylaxis: pantoprazole IV  
+- Nutrition: NPO x 24h, now on cardiac diet  
+- Lines: Right IJ TLC, left radial art line, Impella femoral  
+- Foley d/c’d HD#2
+
+---
+
+### LABS
+
+| Date         | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Gluc | Ca   | Troponin I | BNP   | LDH  | AST  | ALT  |
+|--------------|------|------|------|------|------|------|------|------|------|------|------|------|------------|-------|------|------|------|
+| 4/18/24 06:00| 12.3 | 11.0 | 33.1 | 380  | 139  | 4.2  | 105  | 21   | 19   | 1.0  | 142  | 9.1  | 22.3       | 2297  | 412  | 87   | 56   |
+| 4/18/24 18:00| 10.8 | 10.4 | 31.3 | 352  | 137  | 4.1  | 103  | 20   | 23   | 1.2  | 166  | 8.9  | 18.1       | 3030  | 588  | 111  | 74   |
+| 4/19/24 06:00| 9.5  | 9.6  | 29.2 | 330  | 136  | 3.8  | 101  | 19   | 28   | 1.6  | 134  | 8.7  | 9.7        | 4209  | 507  | 95   | 62   |
+| 4/19/24 18:00| 8.1  | 8.7  | 26.9 | 315  | 135  | 3.5  | 100  | 18   | 31   | 1.7  | 121  |      | 4.2        | 3395  | 493  |      | 59   |
+| 4/20/24 06:00| 7.4  | 8.9  | 27.4 | 298  | 134  | 3.7  | 98   | 22   | 27   | 1.5  | 99   | 8.9  | 1.1        | 2501  | 382  | 84   | 48   |
+| 4/20/24 18:00| 7.8  | 9.1  | 28.0 | 306  |      |      |      |      | 24   | 1.3  | 112  | 9.0  | <0.04      | 1992  |      |      |      |
+| 4/21/24 06:00| 7.2  | 9.1  | 27.9 | 301  | 135  | 3.9  | 101  | 23   | 20   | 1.3  | 98   | 8.9  | <0.04      | 1722  | 362  | 66   | 47   |
+
+---
+
+### VITALS (Selected)
+
+| Date/Time        | Temp  | HR  | BP           | RR | SpO2 | MAP  | Weight |
+|------------------|-------|-----|--------------|----|------|------|--------|
+| 4/18/24 06:30    | 36.8  | 112 | 72/42 (MAP 52)| 22 | 89%  | 52   | 89.8   |
+| 4/18/24 14:00    | 37.1  | 105 | 86/56 (MAP 66)| 18 | 96%  | 66   |        |
+| 4/19/24 07:00    | 36.9  | 99  | 94/62 (MAP 74)| 16 | 98%  | 74   | 88.5   |
+| 4/20/24 08:00    | 37.0  | 84  | 116/68 (MAP 84)| 15 | 98%  | 84   | 86.4   |
+| 4/21/24 07:00    | 36.6  | 82  | 118/70 (MAP 86)| 14 | 99%  | 86   | 85.2   |
+
+---
+
+### IMAGING
+
+- **CXR 4/18/24:** Pulmonary edema, mild cardiomegaly, no consolidation.
+- **Echo 4/18/24:** EF 15%, severe global hypokinesis, mildly dilated LV, no RV dysfunction.
+- **Echo 4/20/24:** EF improved to 22%, Impella well positioned.
+
+---
+
+### PROCEDURES
+
+- 4/18/24: Cardiac cath (LAD stent x 2, IABP inserted)
+- 4/18/24: Impella CP placement (left femoral)
+- 4/19/24: CVC (right IJ), arterial line (left radial)
+- Foley catheter (removed 4/20/24)
+
+---
+
+### CONSULTS
+
+- **Cardiology:** Ongoing, managing Impella and heart failure
+- **Nephrology:** AKI, follow renal function
+- **Endocrinology:** Prediabetes, glucose management
+- **PT/OT:** Hand OA, mobility, ADLs
+
+---
+
+### DISPOSITION / GOALS
+
+- Continue ICU management, attempt Impella wean as tolerated.
+- Heart failure optimization, monitor for recovery.
+- Multidisciplinary care; initiate LVAD/transplant workup if no improvement.
+
+---
+
+**Attending:** S. Kumar, MD  
+**Resident:** J. Lee, MD  
+**Date/Time:** 4/21/2024 09:45
+
+---
+
+**END OF NOTE**

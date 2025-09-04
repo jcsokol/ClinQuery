@@ -1,0 +1,192 @@
+**INPATIENT PROGRESS NOTE**  
+**Patient:** Caraballo, Gerardo  
+**MRN:** 1004729  
+**DOB:** 1971-01-22 (Age 53)  
+**Sex:** Male  
+**Date of Service:** 2024-05-30  
+**Admitting Service:** Cardiology ICU  
+**Attending:** Dr. Patel, MD  
+**Consults:** Cardiology, Cardiothoracic Surgery, Neurology, Pain Management  
+**Admitting Dx:** Cardiogenic shock secondary to acute decompensated heart failure (ADHF)  
+**Secondary Dx:** Chronic pain, chronic migraine, impacted molars, drug overdose (remote), viral sinusitis  
+
+---
+
+### CHIEF COMPLAINT  
+Progressive dyspnea, orthopnea, and chest pressure.
+
+---
+
+### HISTORY OF PRESENT ILLNESS  
+Mr. Gerardo Caraballo is a 53-year-old male with a history of chronic pain, migraines, and remote drug overdose, who presented to the ED with 3 days of worsening dyspnea, orthopnea, lower extremity edema, and chest tightness. He reported subjective fevers and increased fatigue. He denied recent illicit drug use but endorsed ongoing chronic pain and migraines.
+
+On arrival, he was found to be hypotensive (BP 85/54), tachycardic (HR 112), tachypneic (RR 24), and hypoxic (SpO2 91% on RA). Labs revealed elevated troponin and BNP, as well as acute kidney injury. Echo showed severely reduced LVEF (~15%), global hypokinesis, and dilated LV. He rapidly deteriorated with evidence of end-organ hypoperfusion and was transferred to the CICU for management of cardiogenic shock.
+
+Due to refractory hypotension despite inotropes/vasopressors, a decision was made to place a temporary percutaneous LVAD (Impella CP) for hemodynamic support. He subsequently stabilized, but his course was complicated by AKI, transient delirium, and persistent pain issues.
+
+---
+
+### HOSPITAL COURSE  
+**Day 1:** Admission to CICU; started norepinephrine, dobutamine; urgent echo.  
+**Day 2:** Hypotension worsened, Impella CP placed via right femoral artery.  
+**Day 3:** Gradual improvement in MAP, weaned off norepi. Mild hemolysis noted.  
+**Day 4:** Extubated, transitioned to low-dose dobutamine.  
+**Day 5:** Impella weaned, explanted. Renal function improving.  
+**Day 6:** Transferred to step-down unit. Persistent migraines, pain managed with neuropathic agents.  
+**Day 7:** Mobilizing in bed, working with PT/OT. Planning for discharge to home with close f/u.
+
+---
+
+### PAST MEDICAL HISTORY  
+- Chronic pain syndrome  
+- Chronic, intractable migraine w/o aura  
+- Impacted molars  
+- Remote drug overdose (2019, heroin)  
+- Viral sinusitis (hx x2 this year)  
+- Hyperlipidemia  
+- No known CAD prior to this admission
+
+### PAST SURGICAL HISTORY  
+- Appendectomy (age 23)  
+- Wisdom tooth extraction (scheduled, not yet performed)
+
+### ALLERGIES  
+No known drug allergies.
+
+### MEDICATIONS ON ADMISSION  
+- Amoxicillin-clavulanate 250/125 mg PO BID (for sinusitis)  
+- Ibuprofen PRN  
+- Sumatriptan PRN  
+- Gabapentin 300 mg TID  
+- Atorvastatin 20 mg QHS
+
+### FAMILY HISTORY  
+- Non-contributory (no premature CAD)
+
+### SOCIAL HISTORY  
+- Lives alone; works as mechanic.  
+- Former heroin use, last use 2019.  
+- Tobacco: 1/2 PPD, quit 2022.  
+- Alcohol: Rare.
+
+---
+
+### VITALS (ICU Admission, selected days)
+
+| Date       | Temp (°C) | HR (bpm) | BP (mmHg) | RR | SpO2 (%) | Pain (0-10) |
+|------------|-----------|----------|-----------|----|----------|-------------|
+| 5/24/24    | 37.2      | 112      | 85/54     | 24 | 91       | 7           |
+| 5/25/24    | 36.9      | 98       | 78/48     | 22 | 94       | 6           |
+| 5/26/24    | 37.0      | 102      | 93/61     | 18 | 96       | 4           |
+| 5/27/24    | 36.7      | 88       | 110/68    | 16 | 98       | 3           |
+| 5/28/24    | 36.5      | 82       | 120/74    | 14 | 98       | 2           |
+
+---
+
+### LABS
+
+**CBC / CHEM7 / Cardiac Markers (selected days)**
+
+| Date     | WBC  | Hgb | Plt  | Na   | K    | Cl   | CO2* | BUN  | Cr   | Glu  | Troponin I | BNP   |
+|----------|------|-----|------|------|------|------|------|------|------|------|------------|-------|
+| 5/24/24  | 16.2 | 13.7| 273  | 133  | 5.2  | 101  | 19   | 41   | 2.4  | 148  | 0.44       | 3940  |
+| 5/25/24  | 15.8 | 12.9| 250  | 135  | 4.9  | 100  | 21   | 39   | 2.1  | 142  | 0.39       | 3620  |
+| 5/26/24  | 10.7 | 13.1| 219  | 137  | 4.3  | 102  | 23   | 32   | 1.6  | 138  | 0.28       | 2810  |
+| 5/27/24  | 8.5  | 13.2| 189  | 139  | 4.1  | 104  | 24   | 22   | 1.2  | 127  | 0.11       | 1550  |
+| 5/28/24  | 7.9  | 13.9| 191  | 141  | 4.2  | 105  | 25   | 18   | 1.1  | 120  | <0.01      | 980   |
+| 5/29/24  |      |     |      | 142  | 4.0  |      |      | 15   | 1.0  |      |            | 710   |
+
+**Additional labs**  
+- AST/ALT: Peak AST 84, ALT 62 (mild ischemic hepatitis, resolved by 5/28)  
+- LDH: 420 (5/25/24), trended down to 181 (5/28/24)  
+- Haptoglobin: 32 (low, hemolysis w/Impella)  
+- Total bili: 1.7 (peak), normalized  
+- INR: 1.2  
+- CK-MB: 18 (peak), trended down  
+- Lactate: 4.1 (on admission), normalized <2.0 by 5/27
+
+---
+
+### IMAGING
+
+- **Echocardiogram (5/24/24):** LVEF 15%, global hypokinesis, mild MR, dilated LV, RV mildly reduced.
+- **CXR (5/24/24):** Pulmonary edema, mild cardiomegaly.
+- **Dental Panorex (ED):** Impacted lower 3rd molars, no abscess.
+
+---
+
+### PHYSICAL EXAM (5/28/24, post-ICU)
+- **Gen:** Alert, in no acute distress, conversant.
+- **CV:** S1/S2, no murmurs/rubs/gallops, normal JVP, trace pedal edema.
+- **Resp:** Lungs clear, no rales, O2 sat 98% on room air.
+- **Neuro:** Cranial nerves II-XII intact. Mild headache, photophobia.
+- **GI:** Soft, NT, ND, normal BS, no HSM.
+- **Ext:** No cyanosis/clubbing, trace edema.
+- **Dent:** Impacted molars, mild gum tenderness.
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock / ADHF (s/p temporary LVAD/Impella)**
+   - Shock secondary to new severe non-ischemic cardiomyopathy, likely viral or toxic (unclear etiology).
+   - Required Impella support for 3 days, now explanted.
+   - Hemodynamics improved, off inotropes/pressors, euvolemic.
+   - Continue GDMT for HF (start low-dose carvedilol, titrate).
+   - Repeat echo in 4-6 weeks.
+   - Cardiac MRI outpatient to assess etiology.
+   - Close f/u in HF clinic.
+
+**2. Acute Kidney Injury (resolved)**
+   - Likely multifactorial: hypoperfusion, possible nephrotoxins.
+   - Renal function normalized.
+   - Avoid NSAIDs, monitor renal labs.
+
+**3. Chronic Pain Syndrome**
+   - Continue neuropathic pain regimen (gabapentin).
+   - Avoid opioids if possible, given prior overdose history.
+   - Referral to pain management.
+
+**4. Chronic Intractable Migraine**
+   - Continue sumatriptan PRN, monitor frequency.
+   - Consider adding topiramate if migraines >4/month.
+   - Neurology f/u.
+
+**5. Impacted Molars**
+   - No acute infection; dental consult as outpatient for extraction.
+
+**6. Hyperlipidemia**
+   - Continue atorvastatin.
+   - Lipid panel recheck in 3 months.
+
+**7. Recent Viral Sinusitis**
+   - Completed abx; symptoms resolved.
+
+**8. Psychosocial/Drug Use History**
+   - Substance use counseling offered.
+   - Psychiatric support as needed.
+
+**9. DVT Prophylaxis**
+   - SCDs, transitioned from heparin SQ.
+
+**10. Physical Therapy/Discharge Planning**
+   - Mobilizing well, safe for discharge.
+   - Home health nursing for wound checks (femoral site).
+   - Close f/u with cardiology, PCP, dental, pain management.
+
+---
+
+### SIGNED  
+Dr. Priya Patel, MD  
+Cardiac ICU  
+2024-05-30 08:56
+
+---
+
+**Additional Documentation:**  
+- Nursing flowsheets, medication admin record, and daily progress notes available in chart.  
+- See attached PT/OT and dental consult notes.  
+
+---
+
+**END OF NOTE**

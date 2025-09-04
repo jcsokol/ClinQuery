@@ -1,0 +1,144 @@
+**EPIC EHR - Inpatient Chart**  
+**Patient Name:** Kathaleen Dicki  
+**MRN:** 00421698  
+**DOB:** 08/21/1955  
+**Sex:** F  
+**Admission Date:** 03/18/2024  
+**Attending:** Dr. Simon K.  
+**CC:** Weakness, dyspnea, chest pain  
+**Admitting Dx:** Cardiogenic shock, NSTEMI  
+**Transfer:** ED → CCU  
+**Allergies:** NKDA  
+**Code Status:** Full
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+**Kathaleen Dicki** is a 68-year-old female with a history of osteoarthritis (knee), hyperlipidemia, and remote colon polyp, who presented to the ED with acute onset chest pain, progressive dyspnea, and lower extremity edema. She was found to be in cardiogenic shock secondary to non-ST elevation myocardial infarction (NSTEMI) and acute decompensated heart failure (ADHF). She was admitted to the CCU and ultimately required placement of a percutaneous left ventricular assist device (Impella CP) for hemodynamic support. Her hospital course was complicated by acute kidney injury (AKI), transient hepatic dysfunction, delirium, and a right foot laceration sustained during a syncopal episode at home.
+
+---
+
+## ASSESSMENT & PLAN
+
+### 1. **Cardiogenic Shock/Acute Decompensated Heart Failure (HFrEF)**
+- **Background:** PMH notable for hyperlipidemia, no known prior CAD. Presented with acute dyspnea, orthopnea, hypotension, and chest pain. Initial troponin T 0.67 ng/mL (peak 1.38), BNP 4560 pg/mL. Echo: LVEF 15%, global hypokinesis, moderate MR, RV mildly reduced.
+- **Course:** Started on dobutamine and norepinephrine for BP support. Swan-Ganz: CI 1.6, wedge 28 mmHg. Worsened hypotension and hypoperfusion refractory to inotropes → Impella CP placed on HD2. Gradual improvement in end-organ perfusion. Device weaned and explanted HD7.
+- **Plan:**
+  - Continue GDMT for HFrEF as tolerated (ACEi held for AKI).
+  - Daily weights, strict I/Os, sodium restriction.
+  - Diuresis with IV furosemide, titrated.
+  - Cardiac rehab consult.
+  - Follow up with advanced heart failure clinic.
+
+### 2. **NSTEMI**
+- **Background:** EKG: new T-wave inversions V2-V6, troponin elevation. No prior CAD.
+- **Course:** Managed medically, cath deferred due to hemodynamic instability. Started on dual antiplatelet therapy (DAPT), statin, beta-blocker as tolerated.
+- **Plan:**
+  - Continue DAPT (aspirin + clopidogrel).
+  - High-intensity statin (atorvastatin 80 mg QHS).
+  - Metoprolol succinate, titrate as BP allows.
+  - Outpt stress test/cath post-discharge.
+
+### 3. **Impella (Temporary LVAD) Management**
+- **Course:** Inserted HD2 for refractory cardiogenic shock. No device-related complications. Monitored for hemolysis, limb ischemia, hematuria.
+- **Plan:**
+  - Serial LDH, haptoglobin, plasma free hemoglobin.
+  - Daily vascular checks.
+  - Device site care, Neuro checks q2h.
+  - Weaned and removed HD7.
+
+### 4. **Acute Kidney Injury**
+- **Background:** Baseline Cr 1.0, up to 3.6 on HD3 (pre-renal, low CO). Improved to 1.8 by HD9.
+- **Plan:**
+  - Renal dose adjustments for meds.
+  - Avoid nephrotoxins, contrast.
+  - Monitor lytes, daily BMP.
+  - Nephrology consulted.
+
+### 5. **Transient Hepatic Dysfunction**
+- **Course:** Mild transaminitis (AST 128, ALT 94, total bili 2.4) on HD3, resolved as perfusion improved.
+- **Plan:** Monitor LFTs.
+
+### 6. **Delirium**
+- **Course:** Hypoactive delirium, likely multifactorial (shock, metabolic, ICU).
+- **Plan:** Minimize sedation, reorient, sleep hygiene.
+
+### 7. **Right Foot Laceration**
+- **Course:** 4-cm laceration, cleaned and sutured on HD1. No infection.
+- **Plan:** Daily wound checks, remove sutures post-discharge.
+
+### 8. **Osteoarthritis (Knee)**
+- **Plan:** Resume naproxen only after renal recovery.
+
+### 9. **Colon Polyp (remote)**
+- **Plan:** Routine surveillance, not relevant to current admission.
+
+---
+
+## HOSPITAL LABS
+
+**CBC & Chemistry Panel**  
+| Date       | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|------------|------------|------------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|
+| 3/18/24    | 5.2        | 16.9       | 264        | 137         | 4.3        | 103         | 21           | 14          | 1.9        | 112         |
+| 3/19/24    | 6.1        | 16.2       | 249        | 135         | 4.8        | 106         | 19           | 21          | 2.8        | 134         |
+| 3/20/24    | 7.0        | 15.4       | 233        | 133         | 5.2        | 104         | 18           | 28          | 3.4        | 146         |
+| 3/21/24    | 7.8        | 14.2       | 221        | 135         | 5.0        | 107         | 17           | 32          | 3.6        | 139         |
+| 3/22/24    | 8.2        | 13.8       | 210        | 137         | 4.7        | 104         | 19           | 26          | 2.9        | 128         |
+| 3/23/24    | 7.1        | 13.9       | 206        | 138         | 4.3        | 103         | 21           | 18          | 2.1        |             |
+| 3/24/24    | 6.3        | 14.5       | 215        | 139         | 4.1        | 104         | 23           | 13          | 1.8        | 108         |
+
+**Additional Labs**  
+| Date       | Troponin T (ng/mL) | BNP (pg/mL) | AST (U/L) | ALT (U/L) | Total Bili (mg/dL) | LDH (U/L) | Haptoglobin (mg/dL) | PT/INR |
+|------------|--------------------|-------------|-----------|-----------|--------------------|-----------|---------------------|--------|
+| 3/18/24    | 0.67               | 4560        | 44        | 38        | 1.6                | 210       | 78                  | 1.2    |
+| 3/19/24    | 1.02               | 4120        | 128       | 94        | 2.4                | 350       | 65                  | 1.3    |
+| 3/20/24    | 1.38               | 3890        | 102       | 88        | 1.8                | 320       | 62                  |        |
+| 3/21/24    | 1.12               | 3700        | 76        | 62        | 1.5                | 290       |                     | 1.1    |
+| 3/23/24    | 0.58               | 2890        | 41        | 35        | 1.2                | 220       | 78                  |        |
+| 3/24/24    | 0.28               | 1880        | 35        | 29        | 1.1                | 180       |                     | 1.0    |
+
+---
+
+## VITALS SUMMARY (ICU course)
+| Date/Time     | Temp (°C) | HR  | BP         | RR  | SpO2 (%) | O2 Device   | Pain (0-10) |
+|---------------|-----------|-----|------------|-----|----------|-------------|-------------|
+| 3/18/24 06:00 | 36.8      | 110 | 78/48      | 25  | 92       | 4L NC       | 7           |
+| 3/18/24 16:00 | 37.2      | 102 | 84/54      | 22  | 95       | 4L NC       | 5           |
+| 3/19/24 09:00 | 37.5      | 97  | 92/59      | 20  | 97       | 2L NC       | 3           |
+| 3/20/24 08:00 | 36.9      | 91  | 104/65     | 18  | 98       | RA          | 2           |
+| 3/21/24 12:00 | 36.7      | 86  | 116/68     | 16  | 98       | RA          | 0           |
+
+---
+
+## HOSPITAL MEDICATIONS
+- Dobutamine IV (HD1-5)
+- Norepinephrine IV (prn HD1-3)
+- Furosemide IV 40-80mg BID
+- Aspirin 81mg PO daily
+- Clopidogrel 75mg PO daily
+- Atorvastatin 80mg PO QHS
+- Metoprolol succinate 25mg PO BID
+- Pantoprazole 40mg IV daily
+- Acetaminophen 650mg PO q6h prn
+- Simvastatin 10mg PO daily (home, switched to atorva)
+- Naproxen (held during AKI)
+- Heparin SQ 5000u q8h for VTE prophylaxis
+
+---
+
+## DISCHARGE PLAN
+- D/C’d to inpatient rehab on HD11
+- Close follow-up with Cardiology (Advanced HF), Nephrology, and Wound Care
+- Home meds per Med Rec
+- Strict fluid/salt restriction, daily weights
+- Outpatient echo 2 wks, f/u labs 3 days post-d/c
+
+---
+
+**Physician:** Simon K., MD  
+**Date/Time:** 03/28/2024 14:12  
+**Cosigned by:** Dr. A. Patel, Cardiology Fellow
+
+---

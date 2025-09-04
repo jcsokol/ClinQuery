@@ -1,0 +1,154 @@
+---
+**Patient Name**: Emely Torphy  
+**MRN**: 003984071  
+**DOB**: 1993-10-10 (Age: 30)  
+**Sex**: Female  
+**Admit Date**: 2024-05-19  
+**Attending**: Dr. J. Nguyen, Cardiology  
+**Consults**: Cardiac Surgery, Infectious Disease, Maternal-Fetal Medicine  
+**Allergies**: NKA  
+**Code Status**: Full
+
+---
+
+# ICU Progress Note  
+**Date**: 2024-05-24  
+**Note Type**: Problem-Based Assessment & Plan  
+---
+
+## HOSPITAL COURSE SUMMARY
+
+Emely Torphy is a 30-year-old G2P1 female with a history notable for viral sinusitis, viral pharyngitis, and recent normal pregnancy, who presented to the ED with acute onset chest pain, dyspnea, and palpitations. She was 36 weeks pregnant at the time of admission. Initial workup revealed acute decompensated heart failure in the setting of new-onset peripartum cardiomyopathy (EF 15%). She rapidly deteriorated with hypotension and evidence of end-organ hypoperfusion, requiring transfer to the ICU and placement of a temporary left ventricular assist device (Impella CP) for hemodynamic support. The patient subsequently underwent urgent C-section on hospital day 2 due to worsening maternal instability. Her course was complicated by acute renal insufficiency, mild transaminitis, and mild thrombocytopenia. She is currently weaning off inotropes and temporary mechanical support.
+
+---
+
+## ACTIVE PROBLEMS & PLAN
+
+**1. Cardiogenic Shock — Peripartum Cardiomyopathy**  
+- Presented with acute heart failure, LVEF 15% on echo  
+- Developed hypotension refractory to vasopressors; Impella CP placed bedside day 1  
+- On milrinone, weaning dobutamine  
+- Daily TTEs to monitor LV recovery; most recent EF 22%, mild RV dysfunction  
+- Plan: Continue Impella support, target MAP >65, maintain euvolemia, wean inotropes as tolerated  
+- Cardiac surgery following. LVAD explant considered if continued improvement
+
+**2. Acute Kidney Injury (AKI), likely cardiorenal**  
+- Oliguria on HD 1-3; Cr peaked at 2.1, now trending down (see labs)  
+- Volume status closely monitored; now mild improvement in UOP  
+- Plan: Avoid nephrotoxins, daily labs, maintain MAP, consider CRRT if worsening
+
+**3. Recent Cesarean Section (postpartum, day 4)**  
+- Uncomplicated C-section on HD2, delivered viable female infant (Apgar 8/9)  
+- Uterus contracted, incisional healing appropriate  
+- Plan: Continue VTE ppx, monitor for endometritis, OB following
+
+**4. Mild Transaminitis**  
+- AST/ALT peaked at 2x ULN, now trending down  
+- Likely ischemic hepatitis component  
+- Plan: Monitor LFTs, supportive care
+
+**5. Thrombocytopenia**  
+- Platelets nadir 93 (see labs), improving  
+- No evidence of HIT (negative PF4 antibody), no bleeding  
+- Plan: Continue to trend, avoid unnecessary sticks
+
+**6. Anxiety/Insomnia**  
+- Reports difficulty sleeping, anxiety re: infant in NICU  
+- Plan: PRN trazodone, psych consult
+
+**7. Allergic Sensitization**  
+- Elevated shrimp and Cladosporium IgE on prior outpatient panel  
+- No history of anaphylaxis  
+- Plan: Continue to avoid triggers, maintain EpiPen at bedside
+
+**8. Contraception**  
+- On ethinyl estradiol/norelgestromin patch (held during admission)  
+- Plan: Discuss long-term options prior to discharge
+
+---
+
+## VITALS SUMMARY (ICU Days 1–5)
+
+| Date       | Temp (C) | HR (bpm) | BP (mmHg) | RR | SpO2 | MAP  |
+|------------|----------|----------|-----------|----|------|------|
+| 5/19/24    | 37.6     | 115      | 82/48     | 22 | 98%  | 59   |
+| 5/20/24    | 37.4     | 107      | 96/55     | 20 | 98%  | 68   |
+| 5/21/24    | 37.3     | 103      | 106/60    | 18 | 99%  | 75   |
+| 5/22/24    | 37.2     | 98       | 112/62    | 16 | 99%  | 78   |
+| 5/23/24    | 37.0     | 92       | 118/66    | 16 | 99%  | 82   |
+
+---
+
+## LABS
+
+### CBC/CHEM7 (ICU Days 1–5)
+
+| Date     | WBC  | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|----------|------|------|------|-------|------|------|------|------|------|------|------|
+| 5/19/24  | 9.0  | 15.7 | 47   | 318   | 136  | 4.8  | 102  | 22   | 18   | 1.1  | 112  |
+| 5/20/24  | 10.5 | 13.2 | 39   | 156   | 134  | 5.2  | 100  | 21   | 26   | 1.7  | 147  |
+| 5/21/24  | 8.7  | 11.1 | 33   | 93    | 132  | 4.5  | 98   | 19   | 32   | 2.1  | 163  |
+| 5/22/24  | 7.9  | 10.8 | 32   | 109   | 135  | 4.2  | 101  | 22   | 27   | 1.7  | 132  |
+| 5/23/24  | 8.1  | 11.3 | 33   | 141   | 137  | 4.1  | 103  | 24   | 19   | 1.3  | 121  |
+
+### ADDITIONAL LABS
+
+| Date     | AST  | ALT  | AlkPhos | T. bili | Troponin | BNP   | PT   | INR  | Fibrinogen |
+|----------|------|------|---------|---------|----------|-------|------|------|------------|
+| 5/19/24  | 98   | 103  | 82      | 1.3     | 0.11     | 3211  | 16.2 | 1.4  | 312        |
+| 5/20/24  | 152  | 189  | 75      | 1.7     | 0.21     | 3972  | 17.5 | 1.7  | 275        |
+| 5/21/24  | 124  | 148  | 66      | 1.2     | 0.17     | 2888  | 15.8 | 1.3  | 301        |
+| 5/23/24  | 76   | 82   | —       | 1.0     | —        | 2204  | 14.2 | 1.1  | —          |
+
+---
+
+## MICROBIOLOGY
+
+- Blood cultures x2 negative
+- Sputum culture: normal respiratory flora
+- Urine culture: no growth
+
+---
+
+## IMAGING
+
+**5/19/24 TTE**: LVEF 15%, global hypokinesis, mild MR, RVSP 38 mmHg  
+**5/21/24 TTE**: LVEF 22%, mild RV dysfunction  
+**5/20/24 CXR**: Pulmonary edema, mild bilateral effusions  
+**5/22/24 Renal US**: Normal kidneys, no hydronephrosis
+
+---
+
+## PROCEDURES
+
+- **5/19/24**: Impella CP placement (left groin, fluoroscopic guidance)
+- **5/20/24**: Emergent C-section, healthy female delivered, maternal hemodynamics improved
+- **5/22/24**: Central line removal
+
+---
+
+## MEDICATIONS
+
+- Milrinone IV
+- Dobutamine IV (weaning)
+- Furosemide IV PRN
+- Lovenox 40 mg SQ daily
+- Acetaminophen PRN
+- Diphenhydramine PO PRN
+- EpiPen at bedside
+- Trazodone 25 mg PO qHS PRN
+
+---
+
+## DISPOSITION / FOLLOW-UP
+
+- Continue ICU monitoring, daily labs, cardiac surgery following for Impella wean/explant
+- Maternal-fetal medicine for postpartum care
+- Cardiac rehab consult prior to discharge
+- Outpatient cardiology, OB, and psych follow-up
+
+---
+
+# END OF NOTE
+
+---

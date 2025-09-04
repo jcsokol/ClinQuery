@@ -1,0 +1,139 @@
+**Patient Name:** Domingo Sawayn  
+**MRN:** 002984173  
+**DOB:** 08/06/1946  
+**Sex:** Male  
+**Admit Date:** 04/15/2024  
+**Attending:** Dr. L. Walters  
+**Consultants:** Cardiology, CV Surgery, Pulm/CCM  
+**Service:** MICU  
+
+---
+
+## **HOSPITAL COURSE SUMMARY**
+
+**Reason for Admission:**  
+83-year-old male with hx of obesity, chronic pain, chronic sinusitis, prior hip fracture, and recurrent URIs, presenting with acute hypoxic respiratory failure, progressive chest pain, and decompensated heart failure (HF). Initial workup notable for hypotension refractory to fluids, rising troponin, and severe global LV dysfunction on TTE. Patient developed cardiogenic shock requiring pressors and temporary mechanical circulatory support (Impella CP device).  
+
+---
+
+## **HISTORY OF PRESENT ILLNESS**
+
+Pt was brought in by family for 3 days of worsening dyspnea, orthopnea, cough, and chest discomfort. On arrival, he was tachypneic (RR 28), hypoxic (SpO2 87% on RA), and hypotensive (SBP 78 mmHg). CXR: pulmonary edema, mild bibasilar infiltrates. ECG: sinus tachycardia, nonspecific T-wave changes. Troponin T 0.43 (↑), BNP 3210 (↑), lactate 3.1. Bedside echo: LVEF ~20%, global hypokinesis, no tamponade.  
+
+Despite IV Lasix and BiPAP, pt continued to decline, requiring norepinephrine, then milrinone. Cardiogenic shock persisted, so Impella CP placed at bedside for LV unloading.  
+
+---
+
+## **PHYSICAL EXAM (ICU DAY 4)**
+
+**Gen:** Elderly M, NAD, intubated  
+**CV:** S1/S2, no M/R/G, Impella hum audible, cool extremities, cap refill 4s  
+**Pulm:** Decreased BS, mild rales b/l, on vent (FiO2 40%, PEEP 8)  
+**ABD:** Soft, nontender, NABS  
+**Ext:** No edema, no DVT, prior R hip surgical scar  
+**Neuro:** Sedated, pupils equal/reactive, moves all extremities to pain  
+**Lines:** R IJ TLC, L radial arterial line, Impella via R femoral  
+
+---
+
+## **VITALS (ICU DAY 4, 06:00)**
+
+| Time | Temp (C) | HR | BP | RR | SpO2 | Pain |
+|------|----------|----|----|----|------|------|
+| 06:00| 37.1     | 108| 96/51| 20 | 96%  | Intubated |
+
+---
+
+## **LABS**
+
+### **CBC+CHEM7 (SELECTED; see chart for gaps)**
+
+| Date       | WBC | Hgb | Plt | Na  | K   | Cl  | CO2 | BUN | Cr  | Glu |
+|------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 4/15/24 06:14 | 11.2| 14.8| 208 | 134 | 4.6 | 101 | 23  | 32  | 1.12| 154 |
+| 4/16/24 06:17 | 12.9| 13.7| 183 | 137 | 3.9 | 98  | 21  | 38  | 1.41| 142 |
+| 4/17/24 06:01 | 14.3| 11.2| 165 | 135 | 4.8 | 99  | 19  | 44  | 2.08| 118 |
+| 4/18/24 05:55 | 12.1| 10.3| 151 | 137 | -   | 99  | 22  | 39  | 1.89| 125 |
+| 4/19/24 06:03 | 9.7 | 11.4| 161 | -   | 4.2 | 101 | 24  | 31  | 1.01| 132 |
+
+### **Other Labs**
+- **Troponin T**: 0.43 → 0.52 → 0.58 → 0.22 (downtrending by ICU day 4)
+- **BNP**: 3210 → 2890 → 2480
+- **Lactate**: 3.1 → 2.2 → 1.5
+- **AST/ALT**: 56/41 → 48/38
+- **INR**: 1.6, **PTT**: 41 (on heparin for Impella)
+- **ABG** (4/16): 7.31/48/80/21 (FiO2 40%)
+
+---
+
+## **PROBLEM-BASED ASSESSMENT & PLAN**
+
+### 1. **Cardiogenic Shock / Acute Decompensated Heart Failure**
+- Hx: Obesity, prior viral illness, new severe LV dysfunction, likely viral myocarditis vs. ischemic insult.
+- Pressor-dependent, refractory shock → Impella CP placed for LV support.
+- **Plan**: Continue Impella at P6, titrate milrinone, wean pressors as tolerated. Daily TTE for LV recovery. Monitor for hemolysis, device thrombosis, limb ischemia.
+- **Cardiology & CV Surgery** following.
+- **Goal**: Bridge to recovery vs. advanced therapies if no improvement.
+
+### 2. **Acute Hypoxic Respiratory Failure**
+- Likely multifactorial: pulmonary edema, possible aspiration, underlying bronchitis.
+- Intubated, on ventilator (lung-protective settings).
+- **Plan**: Daily CXR, diuresis, wean sedation. Spontaneous breathing trial once hemodynamically stable.
+
+### 3. **AKI on CKD**
+- Rising creatinine, likely pre-renal (low CO, diuresis), baseline CKD3.
+- **Plan**: Monitor UOP, avoid nephrotoxins, adjust meds, consider CRRT if oliguric/anuric.
+
+### 4. **Chronic Pain / Hip Fracture Hx**
+- On acetaminophen, low-dose morphine prn (renal dosing).
+- **Plan**: Reassess pain q4h, minimize opioids, PT/OT consult for mobility as tolerated.
+
+### 5. **Obesity**
+- BMI ~28 (down from baseline 30+), risk for OSA, VTE.
+- **Plan**: DVT ppx (SCDs, heparin), early mobilization, dietician consult.
+
+### 6. **Infectious Concerns**
+- Recurrent pharyngitis, chronic sinusitis, recent bronchitis.
+- Blood cx neg, procalcitonin low.
+- **Plan**: No active abx, monitor for new infection (esp. line/device-related).
+
+### 7. **Miscellaneous / Prophylaxis**
+- Stress ulcer ppx (PPI), bowel regimen, glycemic control, eye care, oral care.
+- Code status: Full (discussed with family).
+
+---
+
+## **MICU EVENTS TIMELINE**
+
+- **4/15:** Admit, initial stabilization, started norepinephrine, BiPAP.  
+- **4/15 evening:** Intubated for hypoxia, Impella placed at bedside, started milrinone.
+- **4/16:** Pressor support, improving lactate, worsening renal function.  
+- **4/17:** Downtrend in troponin, some improvement in UOP.
+- **4/18:** Attempted vent wean, remains Impella-dependent.
+- **4/19:** Cardiac index improving, slow wean of support.
+
+---
+
+## **DISPOSITION/PROGNOSIS**
+
+- Prognosis guarded, dependent on myocardial recovery.
+- If no improvement, may require durable LVAD or transplant evaluation (age may limit options).
+- Family updated daily; goals-of-care discussed.
+
+---
+
+## **MEDICATIONS (Active ICU Orders)**
+
+- Milrinone IV, Norepinephrine IV (weaning), Heparin IV (Impella protocol), Furosemide IV, Acetaminophen prn, Morphine prn, Lansoprazole, Insulin sliding scale, SCDs.
+
+---
+
+## **SIGNATURE**
+
+**Dr. L. Walters, MD**  
+MICU Attending  
+04/19/2024 08:20
+
+---
+
+**[See flowsheet for additional labs, imaging, and nursing documentation.]**

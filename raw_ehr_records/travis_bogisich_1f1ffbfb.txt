@@ -1,0 +1,222 @@
+**EPIC EHR RECORD**
+
+---
+
+**Patient Name:** Travis Bogisich  
+**MRN:** 00838291  
+**DOB:** 11/05/1980  
+**Sex:** Male  
+**Admit Date:** 03/18/2024  
+**Attending:** Dr. Jennifer Alvarado, Cardiology  
+**Consultants:** Cardiac Surgery, Infectious Disease, Pulmonary  
+**Primary Team:** MICU  
+
+---
+
+### **HOSPITAL COURSE SUMMARY**
+
+**Admitting Diagnosis:**  
+- Cardiogenic shock s/p out-of-hospital cardiac arrest  
+- Acute decompensated heart failure  
+- Hx: Cardiac arrest (2018), s/p appendectomy (childhood), recurrent bronchitis, viral pharyngitis, viral sinusitis
+
+**Hospital Day 0-1:**  
+- Presented to ED after brief witnessed cardiac arrest at home, ROSC after 4 min CPR, initial rhythm VT.  
+- Intubated in field, transferred to ICU.  
+- Echo: Severe global LV dysfunction, EF 18%.  
+- Developed progressive hypotension, oliguric acute kidney injury, rising lactate.  
+- Initiated norepinephrine and dobutamine, but progressive shock.  
+- Emergent Impella CP placed at bedside for mechanical circulatory support.
+
+**Hospital Day 2-4:**  
+- Marked improvement in MAP and urine output after Impella.  
+- Remained intubated for 48h, then extubated to HFNC.  
+- Developed low-grade fever, CXR: mild bibasilar atelectasis, no overt pneumonia.  
+- Weaned vasopressors by day 3.  
+- Serial troponins peaked at 6.2 ng/mL, trending down.  
+- Creatinine peaked at 2.1, now down to 1.3.  
+- Impella weaned and explanted on day 4.  
+- Transient delirium, improved with reorientation.
+
+**Hospital Day 5-7:**  
+- Mobilizing with PT, on nasal cannula.  
+- Cardiac MRI: Diffuse hypokinesis, no myocarditis, no scar.  
+- Started on GDMT for HFrEF (metoprolol, sacubitril/valsartan, spironolactone).  
+- No recurrent arrhythmia.  
+- Discharged to acute rehab on day 8.
+
+---
+
+### **PROBLEM-BASED ASSESSMENT & PLAN**
+
+---
+
+#### 1. **Cardiogenic Shock s/p Cardiac Arrest**
+
+**Assessment:**  
+- Out-of-hospital cardiac arrest (probable VT), severe LV dysfunction, profound shock requiring temporary mechanical support (Impella CP).
+- Etiology: Ischemic workup negative, likely idiopathic DCM.  
+- Resolved with Impella, now stable on GDMT.
+
+**Plan:**  
+- Continue aggressive GDMT for HFrEF: metoprolol succinate 25 mg QD, sacubitril/valsartan 24/26 mg BID, spironolactone 25 mg QD.
+- Close volume monitoring, daily weights.
+- Telemetry monitoring for arrhythmia.
+- Cardiac rehab referral.
+- Outpatient follow-up with heart failure clinic in 1 week.
+
+---
+
+#### 2. **Acute Kidney Injury (Resolved)**
+
+**Assessment:**  
+- Likely multifactorial: hypoperfusion/shock, possible nephrotoxic insult (contrast).  
+- Improved with restoration of perfusion, now at baseline.
+
+**Plan:**  
+- Continue to avoid nephrotoxins.
+- Monitor renal function daily.
+- Strict I/O, foley d/c’d.
+
+---
+
+#### 3. **Respiratory Failure, s/p Intubation**
+
+**Assessment:**  
+- Intubated for airway protection post-arrest, extubated on day 2.
+- No evidence of pneumonia, now on room air.
+
+**Plan:**  
+- Incentive spirometry, chest PT.
+- Monitor for signs of infection.
+
+---
+
+#### 4. **Delirium (Resolved)**
+
+**Assessment:**  
+- ICU delirium, multifactorial, improved with reorientation and sleep-wake cycle restoration.
+
+**Plan:**  
+- Continue non-pharmacologic interventions.
+- Monitor mentation each shift.
+
+---
+
+#### 5. **Secondary Prevention / Risk Modification**
+
+**Plan:**  
+- Statin (atorvastatin 40 mg QHS).
+- Smoking cessation counseling.
+- Low-sodium, heart-healthy diet.
+- Daily physical therapy.
+
+---
+
+#### 6. **History of Appendectomy**
+
+- No acute issues.
+
+---
+
+#### 7. **Acute Bronchitis, Viral Pharyngitis, Sinusitis (Remote)**
+
+- No current symptoms, no antibiotics indicated.
+
+---
+
+#### 8. **Pain (Mild, post-procedural)**
+
+**Assessment:**  
+- Mild chest and groin discomfort post-Impella.
+
+**Plan:**  
+- Acetaminophen 650 mg PO Q6h PRN.
+
+---
+
+### **MEDICATION ADMINISTRATION RECORD (MAR)**
+
+| Medication                                             | Dose/Route          | Schedule           | Start Date | End Date   | Comments            |
+|--------------------------------------------------------|---------------------|--------------------|------------|------------|---------------------|
+| Metoprolol succinate                                   | 25 mg PO            | QD                 | 3/22/24    | ongoing    | For HFrEF           |
+| Sacubitril/valsartan                                   | 24/26 mg PO         | BID                | 3/22/24    | ongoing    | For HFrEF           |
+| Spironolactone                                         | 25 mg PO            | QD                 | 3/22/24    | ongoing    | For HFrEF           |
+| Atorvastatin                                           | 40 mg PO            | QHS                | 3/20/24    | ongoing    | Secondary prevention|
+| Acetaminophen                                          | 650 mg PO           | Q6h PRN            | 3/18/24    | ongoing    | Mild pain           |
+| Acetaminophen/dextromethorphan/doxylamine solution     | 10 mL PO            | QHS PRN            | 3/19/24    | 3/21/24    | For cough           |
+| Norepinephrine infusion                                | titrate IV          | PRN                | 3/18/24    | 3/20/24    | For shock           |
+| Dobutamine infusion                                    | titrate IV          | PRN                | 3/18/24    | 3/20/24    | For shock           |
+
+---
+
+### **VITAL SIGNS (SELECTED)**
+
+| Date       | Temp (°C) | HR (bpm) | BP (mmHg) | RR | O2 Sat (%) | Pain |
+|------------|-----------|----------|-----------|----|------------|------|
+| 3/18/24    | 37.6      | 118      | 78/52     | 24 | 91 (intub) | 0    |
+| 3/19/24    | 37.4      | 102      | 92/60     | 20 | 95 (HFNC)  | 0    |
+| 3/20/24    | 37.1      | 88       | 110/68    | 18 | 97 (NC)    | 1    |
+| 3/21/24    | 36.9      | 76       | 120/74    | 16 | 98         | 2    |
+| 3/22/24    | 37.0      | 72       | 118/72    | 16 | 98         | 2    |
+
+---
+
+### **LABS**
+
+#### **CBC + CHEM7 (Selected)**
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na   | K   | Cl   | CO2  | BUN  | Cr   | Glucose | Ca   |
+|------------|------|------|------|------|------|-----|------|------|------|------|---------|------|
+| 3/18/24    | 10.3 | 12.8 | 37.9 | 372  | 136  | 5.1 | 104  | 19   | 38   | 1.9  | 168     | 8.4  |
+| 3/19/24    | 12.1 | 12.1 | 35.4 | 358  | 134  | 4.9 | 102  | 17   | 42   | 2.1  | 142     | 8.1  |
+| 3/20/24    | 11.2 | 11.9 | 34.6 | 340  | 135  | 4.3 | 106  | 23   | 36   | 1.5  | 124     | 8.6  |
+| 3/21/24    | 9.8  | 12.8 | 38.1 | 367  | 137  | 4.2 | 105  | 22   | 28   | 1.3  | 108     | 8.7  |
+| 3/22/24    | 8.7  | 13.0 | 38.7 | 355  | 138  | 4.1 | 104  | 23   | 22   | 1.2  | 102     | 8.9  |
+| 3/23/24    |      |      |      |      | 139  |     | 103  |      | 19   | 1.1  | 98      | 9.1  |
+
+---
+
+#### **OTHER LABS**
+
+| Date       | Troponin I (ng/mL) | BNP (pg/mL) | AST (U/L) | ALT (U/L) | Alk Phos | TBili | INR  | Lactate (mmol/L) |
+|------------|--------------------|-------------|-----------|-----------|----------|-------|------|------------------|
+| 3/18/24    | 5.6                | 4800        | 62        | 48        | 92       | 1.2   | 1.3  | 4.5              |
+| 3/19/24    | 6.2                | 5100        | 72        | 54        | 101      | 1.7   | 1.6  | 3.2              |
+| 3/20/24    | 4.9                | 4200        | 54        | 41        | 87       | 1.0   | 1.3  | 2.1              |
+| 3/21/24    | 3.1                | 3800        | 38        | 29        | 72       | 0.8   | 1.1  | 1.0              |
+| 3/22/24    | 1.2                | 2100        | 32        | 21        | 68       | 0.7   | 1.0  | 0.8              |
+
+---
+
+### **IMAGING**
+
+- **CXR (3/18/24):** Mild pulmonary edema, no consolidation, ETT in place.
+- **Echo (3/18/24):** LVEF 18%, global hypokinesis, no LV thrombus.
+- **Cardiac MRI (3/21/24):** Severe biventricular dysfunction, no late gadolinium enhancement.
+
+---
+
+### **PROCEDURES**
+
+- **Impella CP placement (3/18/24):** Left femoral arterial approach, no immediate complications.
+- **Right heart cath (3/19/24):** PCWP 25 mmHg, CI 1.6, RAP 18 mmHg.
+- **Extubation (3/20/24):** Tolerated well.
+
+---
+
+### **DISCHARGE PLAN**
+
+- To acute rehab, f/u with HF clinic and cardiology.
+- Strict med adherence, low-salt diet, daily weights.
+- Cardiac rehab to start in 2 weeks.
+
+---
+
+**Signed electronically by:**  
+Dr. Jennifer Alvarado, MD  
+Date/Time: 3/23/24 17:09
+
+---
+
+**END OF NOTE**

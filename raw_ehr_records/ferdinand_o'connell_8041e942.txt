@@ -1,0 +1,148 @@
+---
+**EpicCare Inpatient – Patient Chart**  
+**Patient:** Ferdinand O'Connell  
+**MRN:** 00823911  
+**DOB:** 06/30/1924 (Age: 99)  
+**Sex:** Male  
+**Admit Date:** 2024-04-02  
+**Attending:** Dr. Stuart Feldman, Cardiology  
+**Consults:** Cardiac Surgery, Infectious Disease, Endocrine, PT/OT  
+**Allergies:** NKDA  
+**Code Status:** Full Code  
+**Admission Source:** ED  
+**Admitting Dx:** Acute decompensated heart failure, Cardiogenic shock  
+
+---
+
+# HOSPITAL COURSE SUMMARY
+
+Mr. Ferdinand O'Connell is a 99-year-old male with a history of coronary artery disease, chronic systolic heart failure (EF 38%), atrial fibrillation, obesity, chronic anemia, osteoporosis, prior hip and forearm fractures, and multiple other comorbidities. He presented to the ED with acutely worsening dyspnea, orthopnea, and confusion. Initial evaluation revealed hypotension, hypoxia, and signs of volume overload. Labs were notable for anemia and rising creatinine. He rapidly deteriorated, requiring transfer to the ICU for management of cardiogenic shock.
+
+Given refractory hypotension despite escalating vasopressors and inotropes, the decision was made to place a percutaneous left ventricular assist device (Impella CP) for temporary cardiac support. The patient stabilized hemodynamically but developed complications including AKI, delirium, and worsening anemia. The temporary heart pump was explanted on hospital day 6 after partial recovery of cardiac function.
+
+---
+
+## VITALS - ADMISSION (ED)
+| Date/Time       | Temp (C) | HR | BP         | RR | SpO2 | Pain |
+|-----------------|----------|----|------------|----|------|------|
+| 2024-04-02 07:14| 37.1     | 118| 82/52      | 28 | 88%  | 3    |
+| 2024-04-02 11:33| 37.2     | 102| 98/62      | 22 | 92%  | 2    |
+
+---
+
+## ICU COURSE (Days 1-10)
+
+- **Day 1:** Admitted to ICU with acute decompensated HF. Severe hypotension, MAP <60 despite norepinephrine, dobutamine. Urgent Impella CP placed at bedside without complication.  
+- **Day 2:** Gradual improvement in MAP (65-70), urine output improved. Still oliguric. CXR: pulmonary edema.  
+- **Day 3:** Weaned off norepinephrine. Impella flows 3.2-3.6 LPM. Hgb dropped to 7.5, received 1U PRBC.  
+- **Day 4:** Improving mentation, extubated to HFNC. AKI persists, mild hyperkalemia.  
+- **Day 5:** Impella support continued. NT-proBNP remains elevated.  
+- **Day 6:** Impella explanted. Cardiac output stable.  
+- **Day 7-10:** Ongoing diuresis. Renal function gradually improved. Mobilization with PT.  
+- **Complications:** Delirium (resolved), anemia (transfused 2U total), AKI (non-dialysis), minor groin hematoma (Impella site, resolved).
+
+---
+
+## LABS – HOSPITAL COURSE
+
+| Date        | WBC    | Hgb   | Hct   | Plt   | Na    | K    | Cl   | CO2   | BUN  | Cr   | Glu   | Ca    | AST  | ALT  | AlkPhos | NT-proBNP |
+|-------------|--------|-------|-------|-------|-------|------|------|-------|------|------|-------|-------|------|------|---------|-----------|
+| 4/2 AM      | 7.2    | 8.1   | 48    | 154   | 138   | 4.5  | 109  | 25    | 13.7 | 0.64 | 76    | 9.7   | 21   | 39   | 100     | 856       |
+| 4/3 AM      | 10.4   | 7.9   | 44    | 132   | 135   | 5.2  | 106  | 22    | 18.2 | 1.18 | 92    | 9.1   | 28   | 41   | 105     | 955       |
+| 4/4 AM      | 9.6    | 7.5   |       | 127   | 137   | 5.7  |      | 20    | 22.3 | 1.40 | 101   |       |      |      |         | 1043      |
+| 4/5 AM      | 8.8    | 8.2   | 39    | 140   | 139   | 4.9  | 110  | 23    | 19.8 | 1.20 | 88    | 9.5   |      |      | 112     | 1020      |
+| 4/6 AM      | 6.9    | 8.6   | 41    | 158   | 141   | 4.2  | 111  | 26    | 15.3 | 0.97 | 84    | 9.9   | 19   | 36   |         | 900       |
+| 4/7 AM      |        | 9.2   | 43    | 177   | 143   | 4.0  | 108  | 26    | 14.1 | 0.89 | 78    |       |      |      |         | 725       |
+| 4/8 AM      | 5.1    | 9.8   |       | 173   | 142   | 3.8  |      | 27    | 13.8 | 0.82 | 83    | 10.2  |      | 33   | 98      | 610       |
+| 4/10 AM     | 4.8    | 10.0  | 44    | 168   | 140   | 3.9  | 107  | 27    | 13.1 | 0.81 | 82    | 10.0  | 18   | 30   | 90      | 571       |
+
+*Some entries missing due to hemolysis, sample error, or not ordered.*
+
+---
+
+## IMAGING
+- **CXR (4/2):** Pulmonary edema, mild cardiomegaly, left pleural effusion.
+- **Echo (4/2):** LVEF 32%, severe global hypokinesis, moderate MR, RV mildly reduced.
+- **Echo (4/7):** LVEF improved to 38%, no LV thrombus.
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. Cardiogenic Shock s/p Impella Placement  
+**Assessment:** Acute decompensated HFrEF with cardiogenic shock, likely precipitated by AF with RVR and possible viral illness. Required Impella support for 5 days.  
+**Plan:**  
+- Continue GDMT for HFrEF (metoprolol, lasix, ACEi held for AKI, digoxin).  
+- Monitor for arrhythmias, volume status, and end-organ perfusion.  
+- Cardiac rehab consult.  
+- Follow-up echo in 1 week.
+
+### 2. Atrial Fibrillation  
+**Assessment:** Paroxysmal AF, previously on warfarin, rate-controlled with metoprolol, verapamil, digoxin.  
+**Plan:**  
+- Resume warfarin when stable.  
+- Monitor INR, avoid over-anticoagulation given anemia and recent Impella.  
+- Continue rate control.
+
+### 3. Acute Kidney Injury  
+**Assessment:** Likely multifactorial – low perfusion, diuretics, possible nephrotoxic meds.  
+**Plan:**  
+- Monitor daily labs, strict I/O.  
+- Hold ACEi/ARB.  
+- Nephrology consult.  
+- Avoid nephrotoxins, adjust meds for renal dosing.
+
+### 4. Anemia  
+**Assessment:** Chronic anemia with acute drop post-Impella (likely hemolysis, also GI blood loss not ruled out).  
+**Plan:**  
+- Transfused 2U PRBCs.  
+- Monitor CBC, retic, iron studies.  
+- Consider GI eval if persistent.
+
+### 5. Heart Failure (HFrEF, NYHA IV on admit)  
+**Assessment:** Chronic, with recent severe exacerbation.  
+**Plan:**  
+- Continue guideline-directed therapy (as above).  
+- Daily weights, low salt diet, fluid restriction.  
+- Titrate diuretics to euvolemia.
+
+### 6. Osteoarthritis, Osteoporosis, Prior Fractures  
+**Assessment:** Significant fall risk, chronic pain, history of hip and forearm fracture.  
+**Plan:**  
+- PT/OT for mobilization.  
+- Calcium/vitamin D, bisphosphonates as tolerated.  
+- Hold NSAIDs for AKI.
+
+### 7. Obesity  
+**Assessment:** BMI 28 (previously 30+).  
+**Plan:**  
+- Nutritional consult.  
+- Encourage gradual mobilization and caloric restriction.
+
+### 8. Delirium (Resolved)  
+**Assessment:** Likely multifactorial: ICU, shock, AKI, age.  
+**Plan:**  
+- Re-orientation, sleep hygiene, minimize sedatives.
+
+### 9. Chronic Sinusitis, Recent Viral Pharyngitis/Bronchitis  
+**Assessment:** No evidence of active infection on this admission.  
+**Plan:**  
+- Supportive care.
+
+---
+
+## DISCHARGE PLANNING
+
+- **Disposition:** SNF vs. home with 24hr care (pending PT/OT eval)
+- **Medications:** Resume home meds except NSAIDs, hold ACEi until renal recovery.
+- **Follow-up:** Cardiology, Nephrology, Primary Care, PT/OT
+- **Instructions:** Monitor for SOB, chest pain, bleeding, confusion.
+
+---
+
+**Attending: S. Feldman, MD**  
+**Date/Time:** 2024-04-10 15:27
+
+---
+
+**End of Note**

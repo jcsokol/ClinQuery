@@ -1,0 +1,183 @@
+**Patient:** Kshlerin, Hassan  
+**MRN:** 00389241  
+**DOB:** 11/24/1967  
+**Sex:** Male  
+**Admission Date:** 04/14/2024  
+**Attending:** Dr. Samuel Lin  
+**Location:** MICU, Bed 12  
+**Admitting Dx:** Acute decompensated heart failure with cardiogenic shock  
+**Code Status:** Full Code  
+**Allergies:** NKDA
+
+---
+
+## History of Present Illness
+
+Mr. Hassan Kshlerin is a 56-year-old male with a PMHx notable for obesity, prediabetes, anemia, and OA of both knees, who presented to the ED with progressive exertional dyspnea, orthopnea, and lower extremity edema over 1 week. He reported a 3-day history of worsening fatigue, lightheadedness, and mild chest discomfort. No fevers, cough, or GI symptoms. He has a remote history of appendectomy. Home meds include ferrous sulfate and naproxen.
+
+In the ED, he was tachypneic, hypotensive (BP 88/52), tachycardic (HR 116), and hypoxic (O2 sat 88% RA). CXR: pulmonary vascular congestion, mild bilateral pleural effusions. BNP 1440. Troponin I peaked at 0.21. Echo: severely reduced LVEF (15%), global hypokinesis, LV dilation. He developed worsening hypotension despite IV diuretics and dobutamine infusion, requiring transfer to the MICU. Due to persistent cardiogenic shock, a temporary percutaneous LVAD (Impella CP) was placed on HD2.
+
+---
+
+## Hospital Course (04/14/24 - 04/22/24)
+
+- **HD1:** Admitted to MICU for ADHF/shock. Started on dobutamine, IV furosemide. Vasopressors initiated for MAP <60. Labs showed worsening metabolic acidosis, AKI.
+- **HD2:** Cardiogenic shock refractory to pressors/inotropes. Emergent Impella CP placed. Improved hemodynamics post-placement. Extubated to BiPAP.
+- **HD3-4:** Mild hemolysis noted (LDH up, haptoglobin down), but no device malfunction. Volume status optimized. Anemia managed with transfusion x1.
+- **HD5:** Renal function improved. Weaned off vasopressors. Mobilized to chair. 
+- **HD6:** Impella weaned off and removed. Transitioned to oral HF regimen (metoprolol, sacubitril/valsartan, spironolactone).
+- **HD7:** Transferred to stepdown. Stable hemodynamics. Discharge planning initiated.
+
+---
+
+## Problem List & Assessment/Plan
+
+### 1. Acute Decompensated Heart Failure (ADHF) / Cardiogenic Shock (new)
+
+**Assessment:**  
+Severe LV systolic dysfunction (EF 15%) with shock, likely ischemic vs. idiopathic. Required temporary LVAD (Impella CP) for support. Improved post-device.
+
+**Plan:**  
+- Continue guideline-directed HF therapy (carvedilol, sacubitril/valsartan, spironolactone, furosemide PO).
+- Daily weights, strict I&O, low Na diet.
+- Cardiology f/u, cardiac rehab referral.
+- Outpt eval for potential advanced therapies (ICD, CRT).
+
+### 2. Anemia (chronic, likely multifactorial: CKD, chronic disease, iron deficiency)
+
+**Assessment:**  
+Baseline Hgb 11-12. Dropped to 8.2 on HD3 (hemolysis, blood loss, hemodilution). Received 1 unit PRBC. Improved to 9.7 by discharge.
+
+**Plan:**  
+- Continue iron supplementation.
+- Monitor H/H.
+- Outpt GI workup if persistent.
+
+### 3. Acute Kidney Injury (AKI) - prerenal, now resolved
+
+**Assessment:**  
+AKI on admission (Cr 2.1, baseline 1.1), likely cardiorenal. Improved with volume optimization and restoration of perfusion.
+
+**Plan:**  
+- Monitor lytes/renal fxn.
+- Avoid nephrotoxins.
+- Follow-up labs in 2 weeks.
+
+### 4. Obesity (BMI 30+)
+
+**Assessment:**  
+Risk factor for HF, OSA, OA.
+
+**Plan:**  
+- Dietician consult.
+- Encourage weight loss, exercise as tolerated.
+
+### 5. Prediabetes
+
+**Assessment:**  
+A1C 5.9%. No insulin requirement.
+
+**Plan:**  
+- Diabetic diet.
+- Monitor fasting glucose.
+
+### 6. Osteoarthritis - bilateral knees
+
+**Assessment:**  
+Chronic, pain managed with NSAIDs.
+
+**Plan:**  
+- Continue naproxen PRN (monitor renal fxn).
+- Physical therapy referral.
+
+### 7. S/P Appendectomy
+
+**Assessment:**  
+Remote, no issues.
+
+**Plan:**  
+- No acute needs.
+
+---
+
+## Medications (Current)
+
+| Medication               | Dose/Frequency           | Route   | Indication          |
+|--------------------------|-------------------------|---------|---------------------|
+| Ferrous sulfate          | 325 mg daily            | PO      | Anemia              |
+| Naproxen                 | 220 mg PRN              | PO      | OA pain             |
+| Furosemide               | 40 mg BID               | PO      | HF volume           |
+| Sacubitril/valsartan     | 24/26 mg BID            | PO      | HFrEF               |
+| Metoprolol succinate     | 25 mg daily             | PO      | HFrEF               |
+| Spironolactone           | 25 mg daily             | PO      | HFrEF               |
+| Omeprazole               | 20 mg daily             | PO      | GI protection       |
+
+---
+
+## ICU Labs
+
+### DAILY LABS TABLE
+
+| Date      | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Ca (mg/dL) | Troponin I (ng/mL) | BNP (pg/mL) |
+|-----------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|------------|--------------------|-------------|
+| 4/14/24   | 8.7        | 12.1       | 41.8    | 393        | 137         | 4.8        | 106         | 27           | 11.4        | 1.17       | 97          | 9.5        | 0.18               | 1440        |
+| 4/15/24   | 10.2       | 10.9       | 38.2    | 370        | 139         | 5.0        | 108         | 25           | 18.2        | 2.10       | 112         | 8.9        | 0.21               | 1532        |
+| 4/16/24   | 9.6        | 8.2        | 29.5    | 320        | 137         | 4.2        | 104         | 24           | 15.1        | 1.80       | 104         | 8.7        | 0.15               | 1290        |
+| 4/17/24   | 8.1        | 9.7        | 32.6    | 354        | 138         | 4.5        | 105         | 26           | 13.0        | 1.40       | 101         | 9.2        | 0.09               | 980         |
+| 4/18/24   | 7.9        | 10.4       | 35.8    | 368        | 140         | 4.3        | 107         | 27           | 11.9        | 1.20       | 99          | 9.4        | –                  | 800         |
+| 4/19/24   | –          | 11.3       | 38.5    | 389        | 139         | 4.1        | 105         | 28           | 10.7        | 1.16       | 95          | 9.6        | –                  | –           |
+| 4/20/24   | 8.3        | 11.9       | 40.1    | 400        | 137         | 4.2        | 106         | 28           | –           | 1.13       | 93          | 9.7        | –                  | –           |
+| 4/21/24   | 7.8        | 12.0       | 41.2    | 392        | 138         | 4.0        | 105         | 27           | 11.0        | 1.12       | 96          | 9.8        | –                  | –           |
+
+**Additional Labs:**
+- LDH: 562 U/L (peak HD3, likely hemolysis from Impella)
+- Haptoglobin: <10 mg/dL (HD3)
+- AST/ALT: WNL throughout
+- INR/PTT: WNL throughout
+
+---
+
+## Procedures
+
+- **4/15/24:** Right heart cath (pre-Impella): RA 12, RV 36/12, PA 38/21, PCWP 28, CI 1.7
+- **4/15/24:** Impella CP placement via R femoral artery (see procedure note)
+- **4/18/24:** Impella explantation at bedside
+
+---
+
+## Imaging
+
+- **CXR (4/14/24):** Pulmonary vascular congestion, mild interstitial edema, small bilateral pleural effusions.
+- **TTE (4/15/24):** LVEF 15%, global hypokinesis, LV dilation, no significant valvulopathy.
+- **Lower extremity US (4/17/24):** No DVT.
+
+---
+
+## Disposition
+
+- **Discharged to home with family.**
+- **Home health nursing arranged.**
+- **Cardiology and primary care f/u scheduled.**
+
+---
+
+## Discharge Vitals (4/22/24)
+
+- T: 36.9°C
+- BP: 112/68
+- HR: 78
+- RR: 16
+- SpO2: 97% RA
+- Weight: 88.7 kg
+
+---
+
+## Summary
+
+56M with ADHF/cardiogenic shock requiring temporary LVAD, improved with aggressive ICU care and device support, now stable for DC.  
+
+---
+
+**Signed:**  
+Samuel Lin, MD  
+Attending, Cardiology/Critical Care

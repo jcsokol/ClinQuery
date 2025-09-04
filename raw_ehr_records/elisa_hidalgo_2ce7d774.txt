@@ -1,0 +1,161 @@
+---
+**Patient:** Elisa Hidalgo  
+**MRN:** 0039847-ICU  
+**DOB:** 09/12/1971  
+**Sex:** Female  
+**Admitting Physician:** K. Patel, MD  
+**Hospital Admission Date:** 2024-04-03  
+**Admitting Diagnosis:** Acute decompensated heart failure, cardiogenic shock  
+**ICU Service:** Cardiac ICU  
+**Attending:** D. Ramirez, MD  
+**Consults:** Endocrinology, Cardiology, Nephrology, Infectious Disease
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+Ms. Elisa Hidalgo is a 52-year-old female with a history of metabolic syndrome, diabetes, hypertriglyceridemia, anemia, and prior obstetric history as detailed below. She presented to the ED with 3 days of progressive dyspnea, orthopnea, lower extremity edema, and confusion. She was found to be hypotensive (SBP 78 mmHg), tachycardic (HR 124), and hypoxic (SpO2 87% on RA). Initial labs were notable for elevated BNP and troponin, AKI, and lactic acidosis. CXR showed pulmonary edema. Echo showed severe global hypokinesis, LVEF ~15%, moderate MR, and RV dysfunction. She rapidly developed cardiogenic shock and was transferred to the CICU for escalating vasopressor/inotrope support.
+
+Given refractory shock, a decision was made to place a percutaneous left ventricular assist device (Impella CP) on hospital day 1, with subsequent hemodynamic improvement. She required 6 days of device support with gradual weaning. Her course was complicated by acute kidney injury (KDIGO Stage 2), anemia requiring transfusion, and transient atrial fibrillation. She was diuresed aggressively, transitioned to goal-directed HF therapy, and eventually weaned off pressors and the Impella device. She continues to have mild dyspnea on exertion but is ambulatory.
+
+---
+
+## ASSESSMENT & PLAN (04/10/2024)
+
+**Problem List:**
+
+1. **Cardiogenic shock, acute decompensated HFrEF**  
+   - Etiology: Ischemic vs. diabetic cardiomyopathy (no acute MI on cath, severe diffuse CAD).  
+   - Management: Impella CP placed on HD#1, removed HD#7.  
+   - Vasopressors: Norepinephrine, dobutamine (weaned off HD#5).  
+   - Diuresis: IV furosemide, transitioned to PO.  
+   - Guideline-directed medical therapy: Started low-dose carvedilol, sacubitril-valsartan, spironolactone.  
+   - Monitor: Daily weights, strict I&O, telemetry.  
+   - Echo: Repeat planned prior to discharge.
+
+2. **Acute kidney injury (KDIGO 2), multifactorial**  
+   - Likely pre-renal (low CO), possible nephrotoxic insult (contrast, pressors).  
+   - Monitored with daily chem7, urine output, nephrology consulted.  
+   - Improved with volume optimization, off pressors, Cr trended down to 1.4 from peak 2.2.  
+   - Avoid nephrotoxins, hold metformin until Cr <1.5.
+
+3. **Diabetes mellitus, type 2**  
+   - Previously on metformin XR 500mg daily.  
+   - Held during AKI, now restarted at discharge.  
+   - Glucose tightly controlled in ICU (goal 140-180), no DKA/HHS.  
+   - HgbA1c 6.1% (see labs).
+
+4. **Anemia (chronic), acute on chronic**  
+   - Baseline Hgb ~10-11, nadir 8.1 on HD#2 (likely multifactorial: dilutional, device-related hemolysis, chronic disease).  
+   - 1 unit PRBCs transfused.  
+   - No evidence overt bleeding, hemolysis labs unremarkable.  
+   - Plan: Monitor, iron studies outpatient.
+
+5. **Metabolic syndrome, hypertriglyceridemia**  
+   - On statin prior to admission, triglycerides 117 on admission.  
+   - Restart statin, encourage dietary counseling.
+
+6. **Atrial fibrillation (new-onset, transient)**  
+   - Occurred HD#3, RVR to 140s, spontaneously converted.  
+   - No further episodes.  
+   - No anticoagulation started (CHA2DS2-VASc = 2, bleeding risk, no further arrhythmia).
+
+7. **History of pregnancy complications**  
+   - Not directly relevant this admission; G5P3, hx miscarriage x2.
+
+8. **Infection risk**  
+   - On admission: negative blood/urine cultures.  
+   - No evidence of pneumonia, sepsis.  
+   - Prophylactic cefazolin per device protocol x2 days.
+
+9. **Medications/contraceptive management**  
+   - Home meds reviewed, hormonal contraceptives held during ICU stay, plan for outpatient follow-up.
+
+10. **Psychosocial/disposition**  
+    - Lives alone, daughter involved.  
+    - PT/OT: ambulatory, mild exertional fatigue.  
+    - Anticipate SNF vs. home with VNA.
+
+---
+
+## ICU DAILY NOTE (HOSPITAL DAYS 1–9)
+
+| Date       | WBC   | Hgb   | Hct   | Plt  | Na   | K    | Cl   | CO2   | BUN  | Cr   | Gluc | Ca   | BNP      | Troponin | ALT | AST | Lactate |
+|------------|-------|-------|-------|------|------|------|------|-------|------|------|------|------|----------|----------|-----|-----|---------|
+| 4/3/24     | 8.7   | 10.2  | 32.1  | 244  | 137  | 4.5  | 108  | 22    | 29   | 1.9  | 214  | 8.6  | 1920     | 0.18     | 24  | 32  | 3.2     |
+| 4/4/24     | 9.1   | 8.1   | 26.0  | 221  | 134  | 4.7  | 110  | 19    | 36   | 2.2  | 186  | 8.1  | 2545     | 0.22     | 30  | 45  | 2.7     |
+| 4/5/24     | 7.9   | 9.5   | 29.9  | 238  | 136  | 4.3  | 109  | 20    | 31   | 2.0  | 154  | 8.3  | 1876     | 0.14     | 19  | 28  | 1.6     |
+| 4/6/24     | 8.2   | 10.8  | 33.9  | 267  | 138  | 4.1  | 107  | 23    | 24   | 1.6  | 142  | 8.9  | 1200     | 0.08     | 18  | 27  | 1.2     |
+| 4/7/24     | 7.4   | 11.2  | 34.7  | 277  | 135  | 3.9  | 109  | 23    | 22   | 1.4  | 130  | 9.0  | 890      | 0.04     | 15  | 19  | 1.0     |
+| 4/8/24     | 7.6   | 11.0  | 33.8  | —    | 136  | 4.0  | 106  | 24    | 20   | 1.3  | 124  | 9.1  | 670      | —        | 14  | 21  | 0.9     |
+| 4/9/24     | —     | 10.9  | 33.4  | 268  | 137  | 4.2  | 108  | 25    | 19   | 1.2  | —    | 9.0  | 520      | 0.02     | 13  | 18  | —       |
+
+**Key:**
+- BNP = B-type natriuretic peptide (pg/mL)
+- Troponin = ng/mL
+- ALT/AST = U/L
+- Lactate = mmol/L
+- — = Not Collected
+
+---
+
+### VITALS (ICU course highlights)
+
+- HR: 92–124 bpm (sinus, brief Afib HD#3)
+- BP: 78/44 (admit, on pressors) → 110–120/60–75 (after HD#5)
+- SpO2: 87% (RA, admit) → 98% (2L NC)
+- Weight: 92.5 kg (admit) → 88.4 kg (HD#9)
+- I/O: Net negative 7.2L over ICU course
+
+---
+
+### HOME MEDICATIONS (held/adapted during admission)
+- Metformin XR 500mg daily (held, re-started HD#8)
+- Mirena IUD (in situ)
+- Etonogestrel implant (in situ)
+- Statin (atorvastatin 20mg qHS, restarted HD#7)
+- Contraceptives (held)
+- Acetaminophen PRN
+- No home loop diuretic prior to admission
+
+---
+
+### HOSPITAL MEDICATIONS (partial list)
+- IV furosemide (bolus + gtt)
+- Norepinephrine, dobutamine (HD#1–5)
+- Sacubitril-valsartan, spironolactone, carvedilol (initiated HD#8–9)
+- PRBC x1 (HD#2)
+- Cefazolin x2d (device prophylaxis)
+- Sliding scale insulin
+
+---
+
+### PROCEDURES
+- 4/3/24: Impella CP placement via R femoral artery (fluoroscopic guidance)
+- 4/7/24: Impella explant; manual compression, closure device
+- 4/4/24: Right heart cath (CI 1.6, PCWP 29 mmHg)
+- 4/5/24: TTE (LVEF 15%, severe global hypokinesis, moderate MR)
+- 4/8/24: Repeat TTE (LVEF 28%, improved function)
+
+---
+
+### DISPOSITION/PLAN
+
+- Continue uptitration of GDMT as tolerated
+- Close outpatient follow-up: Cardiology, Endocrinology, Nephrology
+- Dietary, smoking cessation counseling
+- SNF placement vs. home with VNA pending functional status
+- Patient and family education re: HF, device care
+
+---
+
+**Attending Physician:**  
+D. Ramirez, MD  
+Cardiac ICU
+
+**Physician Assistant:**  
+N. Lee, PA-C
+
+---
+
+**END OF NOTE**

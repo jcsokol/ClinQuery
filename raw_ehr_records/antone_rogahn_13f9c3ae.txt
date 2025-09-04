@@ -1,0 +1,188 @@
+---
+**Patient Name:** Antone Rogahn  
+**MRN:** 00215433  
+**DOB:** 03/12/1987  
+**Sex:** Male  
+**Admit Date:** 02/14/2024  
+**Attending:** Dr. S. Haldar  
+**Service:** Cardiac ICU  
+**Note Type:** ICU Progress Note  
+**Date/Time:** 02/17/2024 07:14
+
+---
+
+### **Chief Complaint**
+Acute decompensated heart failure, cardiogenic shock.  
+
+### **History of Present Illness**
+36-year-old male with history of chronic sinusitis, prior left distal radius fracture (2019, s/p ORIF, hardware removed), and recent viral illnesses (pharyngitis, recurrent bronchitis) who presented with 4 days of worsening dyspnea, orthopnea, and lower extremity edema. In ED, found to be hypotensive (SBP 81), tachycardic, hypoxic on 3L NC. Rapid escalation of O2, diuresis attempted, but developed progressive hypoperfusion (cool extremities, lactate 5.1). TTE: Severe global LV dysfunction (EF ~15%), mild RV dysfunction, no significant valvular disease. Cardiology and CT surgery consulted. Decision made for placement of percutaneous LV assist device (Impella CP) for cardiogenic shock.  
+
+Admitted to CICU for ongoing management.  
+
+---
+
+### **Hospital Course (Feb 14-17, 2024)**
+
+**Day 1 (Admission/ICU):**
+- Severe hypotension, started on norepinephrine (max 0.12 mcg/kg/min) and dobutamine.
+- Labs: Marked lactic acidosis, elevated troponin I (see below), rising creatinine.
+- Emergent placement of Impella CP via R femoral artery.
+- Started on IV heparin for device anticoagulation.
+- Intubated for hypoxic respiratory failure.
+- Infectious workup negative (COVID, influenza, RSV, blood cx x2).
+- Broad spectrum abx (cefepime, vanc) started empirically, stopped after 24h.
+
+**Day 2:**
+- Improved MAPs, weaned off norepi.
+- Still oliguric, rising creatinine (peak 2.4).
+- Lactate downtrending.
+- Serial troponins trended.
+- Echo: Improved LV unloading.
+- Remains intubated, FiO2 45%, PEEP 8.
+- Negative blood/urine cultures.
+- Mild transaminitis (AST/ALT up to 90/105).
+
+**Day 3:**
+- Successfully extubated to HFNC.
+- Impella flows decreased to P2.
+- Diuresis with IV furosemide, net negative 2.5L.
+- Creatinine improved (1.7).
+- Mild delirium, likely ICU-related.
+- Physical therapy started.
+
+**Day 4:**
+- Impella weaned off and explanted at bedside (02/17/24, 07:00).
+- Hemodynamics stable off vasoactives.
+- Awaiting repeat echo.
+- Renal function improved.
+- Transferred to stepdown unit.
+
+---
+
+## **Problem List & Assessment/Plan**
+
+### 1. **Cardiogenic Shock, Acute Systolic Heart Failure (EF 15%)**
+- **Assessment:** Likely viral myocarditis vs. new onset non-ischemic DCM. Required temporary MCS (Impella CP) for refractory shock.
+- **Plan:**
+  - Monitor for recurrent shock.
+  - Guideline-directed medical therapy as tolerated.
+  - Repeat TTE prior to discharge.
+  - Outpatient heart failure follow-up.
+  - Consider cardiac MRI as outpatient.
+
+### 2. **Acute Kidney Injury (KDIGO Stage 2)**
+- **Assessment:** Likely multifactorial: hypoperfusion, possible nephrotoxic meds.
+- **Plan:**
+  - Monitor urine output, daily BMP.
+  - Avoid nephrotoxic agents.
+  - Renal function improving post-shock.
+
+### 3. **Respiratory Failure, s/p Intubation**
+- **Assessment:** Hypoxic respiratory failure in setting of pulmonary edema.
+- **Plan:**
+  - Now extubated, weaning O2.
+  - Incentive spirometry, pulmonary toilet.
+
+### 4. **Impella LVAD, s/p Placement and Explant**
+- **Assessment:** No evidence of vascular or device-related complication.
+- **Plan:**
+  - Continue vascular checks at access site.
+  - Serial Hgb, monitor for bleeding.
+  - Heparin discontinued post-explant.
+
+### 5. **ICU Delirium**
+- **Assessment:** Mild, improving post-extubation.
+- **Plan:**
+  - Reorientation, minimize sedation.
+  - PT/OT mobilization.
+
+### 6. **Chronic Sinusitis, Recent Viral Illnesses**
+- **Assessment:** No acute infection at this time.
+- **Plan:**
+  - Supportive care.
+
+### 7. **Pain, s/p Forearm Fracture (remote)**
+- **Assessment:** No acute issues.
+- **Plan:**
+  - Continue PRN acetaminophen, avoid NSAIDs due to AKI.
+
+### 8. **Hyperlipidemia**
+- **Assessment:** Labs on admission: LDL 91, HDL 70, TG 129.
+- **Plan:**
+  - Discuss statin therapy prior to discharge.
+
+### 9. **VTE Prophylaxis**
+- **Plan:** SCDs while on Impella/bedrest, SQ heparin now post-device.
+
+---
+
+## **Medications (Active/Recent Inpatient)**
+
+| Medication                                        | Dose/Route          | Frequency      | Indication                |
+|---------------------------------------------------|---------------------|---------------|---------------------------|
+| Heparin                                           | IV infusion         | per protocol  | Impella anticoagulation   |
+| Norepinephrine                                    | IV                  | as needed     | Vasopressor support       |
+| Dobutamine                                        | IV                  | as needed     | Inotrope                  |
+| Furosemide                                        | 40 mg IV            | BID, titrate  | Diuresis                  |
+| Acetaminophen                                     | 650 mg PO           | q6h PRN       | Pain/fever                |
+| Oxycodone/Acetaminophen                           | 5/325 mg PO         | q6h PRN       | Pain                      |
+| Ibuprofen                                         | 200 mg PO           | PRN (held)    | Pain (held for AKI)       |
+| Cefepime                                          | 2g IV               | q8h (stopped) | Empiric                   |
+| Vancomycin                                        | 1g IV               | q12h (stopped)| Empiric                   |
+
+---
+
+## **LABS**
+
+### CBC & Chemistry Panels
+
+| Date        | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na | K  | Cl | CO2 | BUN | Cr  | Glu | AST | ALT | Troponin I | Lactate |
+|-------------|------------|------------|------------|----|----|----|-----|-----|-----|-----|-----|-----|------------|---------|
+| 2/14 05:30  | 8.7        | 12.2       | 394        | 136| 4.5| 102| 19  | 22  | 1.1 | 116 | 39  | 44  | 0.37       | 5.1     |
+| 2/14 17:20  | 10.6       | 11.8       | 354        | 135| 4.1| 101| 18  | 28  | 1.8 | 112 | 51  | 60  | 0.42       | 3.2     |
+| 2/15 06:00  | 9.5        | 11.3       | 333        | 137| 4.2| 103| 21  | 32  | 2.2 | 106 | 90  | 105 | 0.29       | 2.1     |
+| 2/15 18:00  | 8.2        | 10.9       | 315        | 138| 4.0| 104| 23  | 29  | 2.4 | 101 | 81  | 97  | 0.18       | 1.3     |
+| 2/16 07:30  | 7.7        | 10.8       | 307        | 139| 4.1| 106| 24  | 25  | 1.7 | 99  | 90  | 100 | 0.12       | 1.1     |
+| 2/17 06:45  | 8.1        | 10.6       | 312        | 138| 4.3| 105| 25  | 19  | 1.3 | 108 | 48  | 55  | 0.08       | —       |
+
+*Some labs not collected at each timepoint; reference ranges not shown for brevity.*
+
+#### **Other Labs:**
+- BNP (2/14): 1456 pg/mL (elevated)
+- INR/PTT (2/15): 1.1 / 34 sec
+- Blood cultures (2/14, 2/15): negative
+- COVID/RSV/Flu PCR: negative
+
+### **Imaging**
+- **TTE (2/14/24):** Severe global LV hypokinesis, EF 15%, mild RV dysfunction.
+- **CXR (2/14/24):** Pulmonary edema, bilateral effusions.
+- **Renal US (2/15/24):** Normal.
+- **Repeat TTE pending.**
+
+---
+
+## **Physical Exam (02/17/24)**
+
+- **Gen:** Awake, NAD, conversant.
+- **CV:** S1S2, no murmurs, regular, JVD 8cm, no peripheral edema.
+- **Resp:** Lungs clear, mild crackles at bases.
+- **GI:** Soft, NT/ND, no HSM.
+- **Neuro:** AOx3, following commands.
+- **Ext:** Pulses 2+ all extremities, no access site hematoma.
+
+---
+
+## **Discharge Planning**
+- Anticipate transfer to floor today.
+- Will need close heart failure follow-up.
+- Cardiac rehab referral.
+- Social work and PT/OT following.
+
+---
+
+**Signed:**  
+S. Haldar, MD  
+Cardiac ICU  
+02/17/2024 07:14
+
+---

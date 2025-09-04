@@ -1,0 +1,183 @@
+**Epic EHR - Progress Note**  
+**Patient:** Cassin, Felicidad  
+**MRN:** 02799122  
+**DOB:** 12/04/1949 (Age: 74)  
+**Sex:** Female  
+**Date of Admission:** 04/08/2024  
+**Date of Note:** 04/14/2024  
+**Attending:** L. Ramirez, MD  
+**Consultants:** Cardiology, Endocrinology, Infectious Disease  
+**Location:** MICU, Room 5A-241
+
+---
+
+### CHIEF COMPLAINT
+Progressive shortness of breath, orthopnea, and lower extremity edema.
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+
+Ms. Felicidad Cassin is a 74-year-old woman with PMHx of morbid obesity (BMI 44), osteoarthritis of the hands, chronic sinusitis, recurrent bronchitis, and iron-deficiency anemia (on ferrous sulfate), who presented to the ED with 2 weeks of worsening dyspnea, productive cough, and new onset paroxysmal nocturnal dyspnea. She reported a 7 lb weight gain over 1 week, decreased exercise tolerance, and difficulty sleeping flat. Family notes increased confusion and lethargy.
+
+In the ED, she was tachypneic, hypoxic (SpO2 88% RA), hypertensive (BP 181/94), tachycardic (HR 122), with JVD, rales at both lung bases, 2+ pitting edema up to knees. CXR showed pulmonary edema; BNP 2350, troponin I 0.06 (peak 0.13), EKG with NSR and LVH. Echo: LVEF 15%, global hypokinesis, moderate MR, dilated LV. She was admitted to MICU for acute decompensated heart failure (ADHF), likely ischemic, and possible cardiogenic shock.
+
+Despite diuresis and IV vasodilators, she developed worsening hypotension, oliguria, rising lactate, and evidence of end-organ dysfunction. Cardiology placed a percutaneous left ventricular assist device (Impella CP) on HD#2 for hemodynamic support. She was transferred to the ICU for ongoing management.
+
+---
+
+### PAST MEDICAL HISTORY
+
+- Morbid obesity (BMI 44)
+- Osteoarthritis, hands
+- Chronic sinusitis
+- Recurrent acute bronchitis
+- Iron-deficiency anemia
+- Hyperlipidemia (well-controlled)
+- No known CAD until this admission
+
+### PAST SURGICAL HISTORY
+
+- Laparoscopic cholecystectomy (2010)
+- Right TKA (2018)
+
+### MEDICATIONS (Home)
+
+- Ferrous sulfate 325mg PO daily
+- Naproxen sodium 220mg PO prn
+- Acetaminophen 325mg PO prn
+
+### ALLERGIES
+
+- NKDA
+
+### FAMILY HISTORY
+
+- Father: MI at 68, DM2
+- Mother: CHF, OA
+- Brother: Obesity, HTN
+
+### SOCIAL HISTORY
+
+- Lives with daughter
+- No tobacco, rare wine
+- Retired seamstress
+
+---
+
+## ICU HOSPITAL COURSE
+
+**HD#1 (Admission):**  
+- Severe dyspnea, hypoxia, pulmonary edema
+- Started on BiPAP, IV furosemide, NTG drip, morphine
+- Labs: WNL except mild troponin elevation, AKI (Cr 1.6, baseline 0.9), mild transaminitis, lactic acidosis (lactate 3.4)
+- CXR: Pulmonary edema, mild cardiomegaly
+
+**HD#2:**  
+- Worsening hypotension, MAP 55 mmHg despite pressors
+- Urine output <0.3 cc/kg/hr, lactate 5.1
+- Impella CP placed by interventional cardiology
+- Started on heparin drip, strict I/Os, volume resuscitation, uptitrated pressors (norepi, vasopressin)
+- Echo: LVEF 15%, severe LV dysfunction, moderate MR
+
+**HD#3-4:**  
+- Gradual improvement in hemodynamics
+- Weaned off vasopressin, norepi down titrated
+- Improved mentation, UOP 1.1 L/day
+- Monitored for hemolysis, Impella troubleshooting (one episode of suction alarm, resolved with volume)
+- Started low-dose metoprolol, ACEi (held for hypotension)
+- Diuresis continued, net negative 2.5L
+
+**HD#5-6:**  
+- Impella weaned and explanted on HD#6
+- No evidence of limb ischemia or device complications
+- Renal function improved (Cr 1.2), lactate normalized
+- Transitioned to high-flow O2, then nasal cannula
+
+**HD#7-Current:**  
+- Stable, transferred to step-down unit
+- Mobilizing with PT/OT
+- Ongoing diuresis, euvolemic
+- Discharge planning with CHF education
+
+---
+
+## VITALS (selected)
+
+| Date       | Temp (C) | HR   | BP         | RR  | SpO2 | Wt (kg) | BMI   | Pain |
+|------------|----------|------|------------|-----|------|---------|-------|------|
+| 04/08/24   | 37.6     | 122  | 181/94     | 26  | 88%  | 109.2   | 44.2  | 2    |
+| 04/09/24   | 37.2     | 110  | 104/62     | 24  | 90%  | 108.5   | 43.9  | 1    |
+| 04/10/24   | 36.9     | 92   | 108/66     | 18  | 92%  | 106.7   | 43.2  | 1    |
+| 04/12/24   | 37.1     | 84   | 115/72     | 16  | 95%  | 104.8   | 42.5  | 0    |
+
+---
+
+## LABS
+
+**CBC / Chem7 / Cardiac Markers**  
+| Date      | WBC  | Hgb  | Hct  | Plts | Na   | K    | Cl   | Bicarb | BUN  | Cr   | Gluc | Troponin I | BNP   | Lactate | AST | ALT |
+|-----------|------|------|------|------|------|------|------|--------|------|------|------|------------|-------|---------|-----|-----|
+| 04/08/24  | 7.1  | 14.2 | 49.0 | 282  | 134  | 4.8  | 100  | 19     | 33   | 1.6  | 114  | 0.06       | 2350  | 3.4     | 47  | 54  |
+| 04/09/24  | 8.4  | 13.7 | 46.2 | 278  | 131  | 5.2  | 102  | 17     | 38   | 2.1  | 132  | 0.13       | 2450  | 5.1     | 59  | 66  |
+| 04/10/24  | 8.0  | 13.4 | 45.1 | 275  | 135  | 4.2  | 99   | 21     | 34   | 1.4  | 117  | <0.01      | 1650  | 2.1     | 38  | 41  |
+| 04/11/24  |      | 13.8 |      | 264  | 136  | 4.1  | 101  | 22     | 28   | 1.2  | 109  | <0.01      | 1200  |         | 32  | 39  |
+| 04/13/24  | 7.2  | 13.9 | 44.7 | 260  | 137  | 4.0  | 104  | 23     | 20   | 1.1  | 101  | <0.01      | 890   | 1.1     |     |     |
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. Acute Decompensated Heart Failure with Cardiogenic Shock
+- Severe ADHF with reduced EF (new, presumed ischemic), cardiogenic shock, end-organ hypoperfusion
+- Required temporary mechanical circulatory support (Impella CP) HD#2-6
+- Plan: Continue GDMT, monitor volume status, slow diuresis, cardiac rehab consult, f/u TTE
+
+### 2. Morbid Obesity (BMI 44)
+- Complex contributor to HF, OSA likely (pending sleep study)
+- Plan: Nutrition, PT/OT, bariatric referral after acute stabilization
+
+### 3. Acute Kidney Injury, improved
+- Pre-renal, resolved with improved perfusion
+- Plan: Monitor renal function, avoid nephrotoxins, continue gentle diuresis
+
+### 4. Iron Deficiency Anemia
+- On ferrous sulfate
+- Plan: Recheck iron studies outpatient, GI referral for occult source
+
+### 5. Chronic Sinusitis / Recurrent Bronchitis
+- Treated with supportive care, no evidence of current infection
+- Plan: ENT follow-up, avoid unnecessary antibiotics
+
+### 6. Osteoarthritis, hands
+- Chronic, managed with acetaminophen/naproxen
+- Plan: Continue analgesia, hand therapy referral
+
+### 7. Hyperlipidemia
+- Well controlled
+- Plan: Continue statin therapy
+
+### 8. Discharge Planning
+- Home health referral, CHF education, close cardiology and PCP f/u, arrange for home scale and BP cuff
+
+---
+
+**Attestation:**  
+Electronically signed by L. Ramirez, MD (Cardiology, ICU)  
+Date: 04/14/2024, 08:13
+
+---
+
+**Orders:**  
+- Continue telemetry  
+- Daily weights, strict I/O  
+- Labs: CBC, Chem7, troponin, BNP q24h  
+- Metoprolol succinate PO, titrate  
+- Lasix IV, then PO  
+- DVT ppx  
+- PT/OT, nutrition, CHF teaching  
+- Home meds resumed except naproxen (hold for renal function)  
+
+---
+
+**See full chart for additional imaging, consults, and progress notes**

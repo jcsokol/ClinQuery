@@ -1,0 +1,202 @@
+---
+**Epic EHR - Inpatient Progress Note**  
+**Patient:** Christa Thiel  
+**MRN:** 00289431  
+**DOB:** 03/25/1964 (F, 60y)  
+**Attending:** Dr. R. Patel  
+**Date:** 06/10/2024  
+**Unit:** MICU (Medical Intensive Care Unit)  
+**Admit Date:** 06/04/2024  
+**CC:** SOB, orthopnea, chest pain  
+**Allergies:** NKDA  
+**Code Status:** Full Code
+
+---
+
+### HPI
+Christa Thiel is a 60-year-old female with a history of prediabetes, chronic anemia, remote antepartum eclampsia, multiple viral sinusitis episodes, and past miscarriage, presenting with acute-on-chronic SOB, orthopnea, and chest discomfort worsening over 1 week. She initially presented to the ED with tachypnea, hypoxemia, and elevated troponin. She rapidly developed hypotension refractory to fluids and pressors, requiring transfer to the MICU. Due to progressive cardiogenic shock (likely due to acute decompensated heart failure on background of possible acute viral myocarditis), she underwent emergent placement of a percutaneous left ventricular assist device (Impella CP) on hospital day 2.
+
+---
+
+### Problem List
+1. **Cardiogenic Shock, s/p Temporary LVAD (Impella) Placement**
+2. **Acute Decompensated Heart Failure (new diagnosis)**
+3. **Possible Acute Viral Myocarditis**
+4. **Chronic Anemia**
+5. **Prediabetes**
+6. **Remote OB History (antepartum eclampsia, miscarriage)**
+7. **Acute Kidney Injury (multifactorial)**
+8. **Mild Transaminitis**
+9. **Recurrent Sinusitis**
+10. **History of Laceration, Whiplash, Acute Bronchitis**
+11. **Pain, Mild**
+12. **Medication Reconciliation**
+
+---
+
+### Assessment & Plan
+
+#### 1. **Cardiogenic Shock, s/p LVAD (Impella CP) Placement**
+- **Course:** Presented with hypotension, elevated lactate, low cardiac index. Required norepinephrine, dobutamine. On HD2, escalating vasopressor and inotrope needs, persistent hypoperfusion, echo with LVEF 15%, global hypokinesis. Cardiology/CT surgery: Impella CP placed via R femoral artery. 
+- **Current:** On Impella support, MAPs 65–75, weaning off pressors.
+- **Plan:**  
+    - Continue Impella support, daily device checks.
+    - Serial TTEs to assess LV recovery.
+    - Plan for device wean/removal if LVEF >30%, stable hemodynamics.
+    - Anticoagulation per protocol (heparin drip; monitor aPTT).
+    - Daily vascular checks at access site.
+    - Monitor for hemolysis (LDH, haptoglobin, plasma-free Hgb).
+    - Cardiac MRI pending (once stable) for myocarditis eval.
+
+#### 2. **Acute Decompensated Heart Failure**
+- **New diagnosis.** No prior cardiac history. Elevated BNP, CXR with pulmonary edema.
+- **Plan:**  
+    - Diuresis (IV furosemide, goal net -1.5L/day).
+    - Strict I/O, daily weights.
+    - Low-salt diet, fluid restriction.
+    - Daily BNP, echo monitoring.
+
+#### 3. **Possible Acute Viral Myocarditis**
+- **Suspicion:** Recent URI symptoms, elevated troponin (peak 4.2 ng/mL), mild CK-MB leak, LVEF 15% on echo, global dysfunction.
+- **Plan:**  
+    - Viral PCR panel sent (pending).
+    - Cardiac MRI when stable.
+    - Supportive care, monitor for arrhythmias.
+
+#### 4. **Chronic Anemia**
+- **Baseline Hgb ~10–11,** now trending lower (see labs).
+- **Plan:**  
+    - Monitor CBC qAM.
+    - Iron studies, B12, folate sent.
+    - Transfuse if Hgb <7.5 or symptomatic.
+
+#### 5. **Prediabetes**
+- **A1c 6.3%.** Glucose stable, no DKA/HHS.
+- **Plan:**  
+    - Monitor FS glucose BID.
+    - Endo consult for DM2 prevention.
+
+#### 6. **Remote OB History**
+- **Eclampsia, miscarriage, normal pregnancy.**
+- No active issues. Documented for completeness.
+
+#### 7. **Acute Kidney Injury**
+- **Likely pre-renal (hypoperfusion, diuresis).** Baseline Cr 0.8, now 1.4 (see labs).
+- **Plan:**  
+    - Monitor chem7 daily.
+    - Avoid nephrotoxins.
+    - Renal consult if worsening.
+
+#### 8. **Mild Transaminitis**
+- **Mild elevation AST/ALT, likely congestive hepatopathy.**
+- **Plan:**  
+    - Monitor LFTs q48h.
+    - Trend with HF improvement.
+
+#### 9. **Recurrent Sinusitis**
+- **History only, not active.** No current antibiotics.
+
+#### 10. **History of Laceration, Whiplash, Bronchitis**
+- **No active issues.**
+
+#### 11. **Pain**
+- **Mild, 2–3/10.** S/p vascular access and device.
+- **Plan:**  
+    - PRN acetaminophen, avoid NSAIDs.
+
+#### 12. **Medications**
+- **Many OCPs listed (see home meds), all held inpatient.**
+- **Plan:**  
+    - Continue only essential inpatient meds.
+    - Avoid estrogen-containing meds due to device and VTE risk.
+
+---
+
+### Hospital Course (Summary)
+
+| Hospital Day | Events/Interventions |
+|--------------|---------------------|
+| HD1 | Presented to ED; tachycardic, hypotensive, hypoxic. CXR: pulmonary edema. Troponin 2.1. Started norepi, dobutamine. |
+| HD2 | Worsening shock; echo LVEF 15%. Impella CP placed. Intubated for hypoxemia. |
+| HD3 | Improved MAP, weaning vasopressors. Lactate normalizing. Creatinine up (1.4). Diuresis started. |
+| HD4 | Stable on Impella. Troponin trending down. LFTs improved. |
+| HD5 | Continued improvement. Plan for Impella wean. |
+| HD6 | Weaning Impella, off pressors. Spontaneous breathing trial. |
+| HD7 | Extubated. Impella removed. Monitoring for rebound HF. |
+
+---
+
+### Labs (selected, inpatient course)
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | AST (U/L) | ALT (U/L) | BNP (pg/mL) | Troponin (ng/mL) |
+|------------|------------|------------|------------|-------------|------------|-------------|------------|-----------|-----------|--------------|------------------|
+| 6/04/2024  | 9.2        | 10.8       | 385        | 137         | 4.1        | 18          | 0.8        | 38        | 44        | 2150         | 2.1              |
+| 6/05/2024  | 12.4       | 9.9        | 390        | 136         | 3.7        | 22          | 1.4        | 61        | 70        | 3120         | 4.2              |
+| 6/06/2024  | 10.7       | 9.5        | 401        | 138         | 3.5        | 26          | 1.3        | 48        | 52        | 2670         | 3.3              |
+| 6/07/2024  | 8.9        | 8.8        | 377        | 139         | 3.9        | 24          | 1.1        | 35        | 39        | 1540         | 1.1              |
+| 6/08/2024  | 7.1        | 9.1        | 359        | 140         | 4.2        | 20          | 1.0        | 29        | 33        | 890          | 0.5              |
+| 6/09/2024  | 8.4        | 9.9        | 405        | 138         | 4.0        | 18          | 0.9        | 24        | 29        | 420          | 0.2              |
+| 6/10/2024  | --         | 10.3       | --         | 137         | --         | 17          | 0.8        | --        | --        | 370          | <0.01            |
+
+**Notes:**  
+- Missing values indicate labs not drawn or pending.
+- Additional labs (INR, aPTT, LDH, haptoglobin, CK-MB) available on request.
+
+---
+
+### Vitals (selected)
+
+| Date         | Temp (°C) | HR (bpm) | BP (mmHg) | RR | SpO2 (%) | MAP |
+|--------------|----------|----------|-----------|----|----------|-----|
+| 6/04/2024 AM | 36.9     | 116      | 82/54     | 28 | 91       | 62  |
+| 6/04/2024 PM | 37.1     | 124      | 76/48     | 32 | 88       | 57  |
+| 6/05/2024 AM | 36.6     | 110      | 98/60     | 24 | 94       | 72  |
+| 6/06/2024 AM | 36.8     | 102      | 110/66    | 18 | 97       | 78  |
+| 6/07/2024 AM | 36.7     | 92       | 118/72    | 16 | 98       | 85  |
+| 6/08/2024 AM | 36.5     | 88       | 124/78    | 14 | 98       | 90  |
+
+---
+
+### Imaging
+
+**6/04/2024 CXR:**  
+- Pulmonary vascular congestion, patchy bibasilar opacities, mild cardiomegaly.
+
+**6/05/2024 TTE:**  
+- LVEF ~15%, global hypokinesis, no significant valvular disease.
+
+---
+
+### Procedures
+
+- **6/05/2024:** R femoral arterial Impella CP placement, performed at bedside by CT surgery. No immediate complications.
+- **6/06/2024:** Central line (R IJ), arterial line placed.
+- **6/07/2024:** Impella explant, R groin vascular closure device.
+
+---
+
+### Medications (Inpatient)
+
+- **Heparin gtt** (per Impella protocol)
+- **Furosemide IV**
+- **Norepinephrine, dobutamine** (weaned off HD4)
+- **Acetaminophen PRN**
+- **Home meds held:** All OCPs, amox/clav, naproxen
+
+---
+
+### Discharge Planning
+
+- Continue cardiac rehab, HF clinic follow-up
+- Cardiac MRI as outpatient
+- Strict fluid/salt restriction
+- Close monitoring for anemia, renal function
+- Endocrine follow-up for prediabetes
+
+---
+
+**Physician:** R. Patel, MD  
+**Contact:** 555-4492  
+**Date/Time:** 06/10/2024 14:22
+
+---

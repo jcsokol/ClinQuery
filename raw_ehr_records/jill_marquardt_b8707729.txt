@@ -1,0 +1,131 @@
+```
+Patient Name: Jill Marquardt
+MRN: 00498234-ICU
+DOB: 07/03/2006     Sex: F     Age: 17
+Admit Date: 03/17/2024
+Attending: Dr. L. Mendoza
+Admitting Dx: Acute Decompensated Heart Failure secondary to Fulminant Myocarditis
+
+───────────────────────────────────────────────────────────────────────────────
+HISTORY OF PRESENT ILLNESS
+Jill Marquardt is a 17-year-old female with a history notable for recurrent upper respiratory tract infections (acute and chronic sinusitis, viral pharyngitis). She presented to the ED with 4 days of progressive fatigue, dyspnea on exertion, orthopnea, and lower extremity swelling, following a week of viral URI symptoms (sore throat, rhinorrhea, low-grade fevers). She was found to be tachycardic, hypotensive, and hypoxic in the ED. Initial workup revealed elevated troponin, BNP, and CXR with pulmonary edema. She rapidly decompensated with evidence of cardiogenic shock and was admitted to the PICU.
+
+Given worsening hemodynamics despite inotropes (milrinone, low-dose epi), the decision was made to proceed with placement of a temporary left-sided heart pump (Impella CP) for circulatory support on hospital day 1. She was subsequently stabilized, diuresed, and weaned off pressors over the following days.
+
+───────────────────────────────────────────────────────────────────────────────
+PAST MEDICAL HISTORY
+- Acute viral pharyngitis (multiple episodes)
+- Acute & chronic sinusitis
+- No prior cardiac history
+- No known congenital heart disease
+
+PAST SURGICAL HISTORY
+- None
+
+FAMILY HISTORY
+- Non-contributory
+
+SOCIAL HISTORY
+- Lives with parents, attends high school
+- No tobacco, alcohol, or drug use
+
+───────────────────────────────────────────────────────────────────────────────
+ALLERGIES
+- NKDA
+
+───────────────────────────────────────────────────────────────────────────────
+MEDICATIONS (on admission)
+- None
+
+───────────────────────────────────────────────────────────────────────────────
+ICU COURSE SUMMARY
+HD 1: Intubated for hypoxic respiratory failure. Pressors (epi, norepi) started for shock. Echo: LVEF 18%, global hypokinesis. Impella CP placed via R femoral artery. 
+HD 2: Improved MAP, pressors weaned. Started on IV lasix, milrinone continued. Extubated to high-flow NC.
+HD 3: Marked diuresis, improved oxygenation. Impella flows decreased overnight.
+HD 4: Impella weaned, explanted at bedside. Echo: LVEF improved to 40%.
+HD 5: Transferred to step-down unit, started on PO carvedilol and lisinopril.
+
+───────────────────────────────────────────────────────────────────────────────
+VITALS (selected)
+| Date       | Temp (C) | HR | BP        | RR | SpO2 | Comments                    |
+|------------|----------|----|-----------|----|------|-----------------------------|
+| HD1 08:00  | 37.5     | 142| 84/52     | 28 | 89%  | On 100% NRB                 |
+| HD1 21:00  | 38.1     | 130| 90/60     | 24 | 95%  | Intubated, on epi/norepi    |
+| HD2 08:00  | 37.6     | 110| 98/65     | 18 | 99%  | Extubated, HFNC 40%         |
+| HD3 08:00  | 36.8     | 96 | 102/68    | 16 | 99%  | Off vasopressors            |
+| HD4 08:00  | 36.7     | 88 | 110/75    | 14 | 99%  | Impella off, stable         |
+| HD5 08:00  | 36.9     | 82 | 112/70    | 16 | 99%  | Step-down unit              |
+
+───────────────────────────────────────────────────────────────────────────────
+LABS
+CBC, CHEM7, LIVER, CARDIAC MARKERS
+
+| Date       | WBC    | Hgb   | Plt   | Na   | K    | Cr   | BUN  | AST  | ALT  | Trop I | BNP   |
+|------------|--------|-------|-------|------|------|------|------|------|------|--------|-------|
+| HD1 08:00  | 6.6    | 12.4  | 433   | 132  | 3.8  | 1.2  | 23   | 94   | 81   | 4.3    | 7800  |
+| HD1 21:00  | 8.8    | 11.9  | 397   | 130  | 4.2  | 1.5  | 32   | 102  | 95   | 3.6    | 7210  |
+| HD2 08:00  | 7.2    | 12.2  | 365   | 135  | 3.6  | 1.1  | 19   | 78   | 62   | 2.1    | 4200  |
+| HD3 08:00  | 6.1    | 12.8  | 350   | 138  | 3.7  | 0.9  | 15   | 55   | 44   | 0.9    | 1200  |
+| HD4 08:00  | 5.7    | 13.0  | 318   | 139  | 3.9  | 0.8  | 13   | 39   | 33   | <0.02  | 400   |
+| HD5 08:00  | 5.6    | 13.1  | 305   | 140  | 4.1  | 0.7  | 12   | 33   | 29   |        | 210   |
+| HD5 19:00  |        | 13.2  | 298   | 141  | 4.0  |      | 11   |      |      |        |       |
+
+───────────────────────────────────────────────────────────────────────────────
+IMAGING
+- CXR (HD1): Bilateral pulmonary edema, cardiomegaly
+- Echocardiogram (HD1): LVEF 18%, global hypokinesis, no pericardial effusion
+- Echo (HD4): LVEF 40%, mild LV dilation
+
+───────────────────────────────────────────────────────────────────────────────
+ASSESSMENT & PLAN
+
+17F with acute decompensated heart failure due to presumed viral myocarditis, requiring temporary mechanical circulatory support (Impella CP).
+
+1. **Cardiogenic shock / Fulminant myocarditis**
+   - Impella CP placed for 72hr, now explanted, hemodynamics improved.
+   - Monitor for recurrent arrhythmia, low threshold for repeat echo.
+   - Continue guideline-directed medical therapy (GDMT): carvedilol, lisinopril.
+   - Cardiology following.
+
+2. **Respiratory failure**
+   - Intubated HD1, extubated HD2. Now on room air.
+   - Chest PT, aggressive pulmonary toilet.
+   - Monitor for pulmonary edema.
+
+3. **Renal dysfunction**
+   - AKI (Cr peaked 1.5, now improved), likely pre-renal from low CO.
+   - IVF as needed for euvolemia, monitor UOP and daily labs.
+
+4. **Volume overload**
+   - On IV diuretics, now transitioned to PO.
+   - Daily weights, strict I/O.
+
+5. **Sinusitis, pharyngitis history**
+   - No acute infectious symptoms currently.
+   - ENT to follow for chronic sinusitis as outpatient.
+
+6. **Nutrition**
+   - Started on high-calorie diet.
+   - Monitoring for refeeding syndrome.
+
+7. **Lines/tubes**
+   - R femoral arterial access (removed HD4), R IJ triple lumen (d/c’d HD5).
+   - Foley d/c’d HD4.
+
+8. **DVT prophylaxis**
+   - SCDs, SQ heparin.
+
+9. **Psychosocial**
+   - Social work consult for coping, school re-integration.
+
+───────────────────────────────────────────────────────────────────────────────
+DISPOSITION
+- Plan for transfer to inpatient pediatric cardiology service, anticipate discharge home with close follow-up in 2-3 days.
+- Outpatient echo and labs in 1 week.
+
+───────────────────────────────────────────────────────────────────────────────
+PHYSICIAN ATTESTATION
+I have personally examined the patient and reviewed the data above.  
+/Dr. L. Mendoza, Attending Pediatric Intensivist
+```
+

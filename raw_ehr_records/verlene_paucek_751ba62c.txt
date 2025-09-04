@@ -1,0 +1,129 @@
+```
+EHR: Verlene Paucek, F, MRN: 00298374     DOB: 05/01/1994      Admit Date: 04/16/2024
+Attending: Dr. L. Garrison                  ICU Service: Cardiac Critical Care
+------------------------------------------------------------------------
+*** ICU Progress Note ***
+Date: 04/21/2024           Time: 08:05                 Author: PGY-2 Resident
+
+Chief Complaint:
+Progressive shortness of breath, orthopnea, and chest pain x 2 days.
+
+HPI:
+29-year-old female with PMH notable for ADHD, chronic/viral sinusitis, remote ankle sprain, G2P2 (uncomplicated), presents with acute-on-chronic dyspnea, chest tightness, and fatigue. She was in usual health until 48 hours prior to admission, when she developed severe SOB and palpitations. She collapsed at home, was found to be hypotensive and tachycardic by EMS, and was brought to ED. Initial workup showed elevated troponin, BNP, and severe LVEF reduction on echo. She was transferred to CICU for cardiogenic shock, requiring inotropes, vasopressors, and subsequently a percutaneous left ventricular assist device (Impella CP) was placed for hemodynamic support. No prior cardiac history.
+
+Hospital Course (Days 1-5):
+- Day 1: Hypotensive, requiring norepinephrine + dobutamine. Lactate 4.2. TTE: LVEF 15%, global hypokinesis, no valvular vegetations.
+- Day 2: Impella placed. Improved MAP, weaned norepinephrine. Developed mild hemolysis (LDH up), transient hematuria.
+- Day 3: Improved urine output. Downtrending troponin. Mild transaminitis.
+- Day 4: Mobilized to chair. Impella flows maintained. Ongoing low-grade fever, cultures sent.
+- Day 5: Stable, weaning inotropes, off pressors. Impella explant planned.
+
+PMH:
+- ADHD (childhood)
+- Chronic sinusitis
+- Viral sinusitis (multiple episodes)
+- Acute bronchitis (remote)
+- Sprain of ankle (remote)
+- 2 prior full-term pregnancies, both uncomplicated
+
+PSH: None
+Allergies: NKDA
+
+Meds on Admission:
+- Etonogestrel implant (Nexplanon), OCPs (Natazia, Trinessa, Yaz, Seasonique, Levora) – last dose unclear
+- Acetaminophen PRN
+- Naproxen PRN
+
+Social:
+- Lives with partner, 2 children. No tobacco, EtOH, or illicit drug use.
+
+Family History:
+- Mother: HTN, DM2
+- Father: MI age 51
+
+Physical Exam (04/21/2024, 08:00):
+Gen: Tired, NAD, on cardiac monitor, Impella in situ
+VS: T 37.6C, HR 98, BP 112/72 (MAP 85), RR 17, SpO2 97% RA
+CV: S1/S2, no murmurs, Impella hum, JVP 8cm, no edema
+Pulm: Clear, no rales/wheezes, good air entry
+Abd: Soft, NT, no HSM
+Ext: No DVT, pulses 2+, Impella site C/D/I
+Neuro: AAOx3
+
+LABS (selected CBC, Chem7, others):
+
+| Date/Time    | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | BNP    | AST  | ALT  | LDH  |
+|--------------|------|------|------|------|------|------|------|------|------|------|------|----------|--------|------|------|------|
+| 4/16 22:40   | 8.5  | 15.2 | 40.1 | 221  | 137  | 3.2  | 104  | 21   | 21   | 1.1  | 156  | 4.2      | 2850   | 33   | 29   | 455  |
+| 4/17 06:45   | 9.6  | 13.9 | 36.7 | 201  | 136  | 3.7  | 102  | 19   | 29   | 1.4  | 142  | 3.1      | 2700   | 54   | 61   | 820  |
+| 4/18 05:11   | 7.1  | 13.2 | 35.4 | 192  | 138  | 3.6  | 105  | 23   | 18   | 1.2  | 124  | 1.8      | 1700   | 77   | 68   | 610  |
+| 4/19 07:30   | 8.0  | 12.8 | 34.1 | 178  | 139  | 3.9  | 106  | 24   | 16   | 1.1  | 109  | 0.7      | 900    | 39   | 44   | 399  |
+| 4/20 06:57   |      | 12.4 |      | 172  | 140  | 4.0  |      | 25   | 15   | 1.0  |      | <0.04    | 600    | 31   | 33   |      |
+| 4/21 05:22   | 7.9  | 12.7 | 35.0 | 165  | 139  | 4.1  | 104  | 24   | 13   | 0.9  | 102  | <0.04    | 410    | 28   | 31   | 301  |
+
+Micro:
+- Blood cx x2 (4/17): No growth at 72h
+- Urine cx (4/17): No growth
+
+Imaging:
+- EKG: Sinus tachycardia, non-specific ST-T changes
+- Echo (4/16): LVEF ~15%, severe global hypokinesis, mild MR, no thrombus
+- CXR: Mild pulmonary edema, no consolidation
+
+Procedures:
+- 4/17: Impella CP placement via R femoral artery (see procedure note)
+- 4/18: Foley d/c, ambulated to chair
+
+Assessment & Plan:
+
+1. **Cardiogenic Shock, New Onset, likely Myocarditis vs. Peripartum CMP**
+   - Severe LV dysfunction (LVEF 15%), shock requiring Impella + inotropes
+   - Downtrending troponin & BNP, improving end-organ perfusion
+   - Plan: Continue supportive care, Impella explant when stable, monitor for arrhythmias, daily TTE for weaning
+
+2. **Hemolysis, mild (secondary to Impella)**
+   - LDH peaked at 820, downtrending, no schistocytes, haptoglobin low
+   - Plan: Monitor labs, maintain flows <4 L/min, transfuse if Hgb <8
+
+3. **Acute Kidney Injury, resolving**
+   - Cr up to 1.4, improved to 0.9, likely pre-renal
+   - Plan: IVF as tolerated, monitor UOP, avoid nephrotoxins
+
+4. **Transaminitis, mild**
+   - AST/ALT peaked at 77/68, now improving
+   - Plan: Monitor, likely ischemic, no further workup unless worsens
+
+5. **Fever, low grade, workup negative**
+   - Cultures negative, likely device-related inflammation
+   - Plan: Monitor, no abx at this time
+
+6. **Contraceptive Management**
+   - Multiple OCPs/implant, not related to acute presentation
+   - Plan: Hold OCPs inpatient due to VTE risk, counsel on contraception post-discharge
+
+7. **Chronic/viral sinusitis, ADHD, remote ankle sprain, prior pregnancies**
+   - No acute issues
+
+Disposition:
+- Remain in CICU. Anticipate Impella explant in next 24-48h if stable.
+- Cardiac MRI planned for etiology.
+- PT/OT to evaluate for deconditioning.
+
+Signout/To Do:
+- Wean inotropes as tolerated
+- Monitor for bleeding/hemolysis
+- Repeat labs q24h
+- Family meeting re: prognosis
+
+------------------------------------------------------------------------
+Additional Notes:
+
+04/18/2024 15:44 - Nursing Note: Pt alert, oriented, tolerating clear liquids, Impella site intact, minimal drainage
+
+04/19/2024 09:12 - Cardiology Consult: Etiology unclear, consider myocarditis vs. peripartum CMP, recommend MRI
+
+04/20/2024 17:33 - Social Work: Discussed support at home, has strong family network
+
+------------------------------------------------------------------------
+```
+*Please see attached procedure and imaging reports for further detail.

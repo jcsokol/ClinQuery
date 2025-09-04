@@ -1,0 +1,176 @@
+**Patient Name:** Upton, Cecille  
+**MRN:** 004392198  
+**Birthdate:** 1968-08-11  
+**Sex:** Female  
+**Date of Admission:** 2024-04-07  
+**Attending:** Dr. S. Mahoney  
+**Admitting Diagnosis:** Cardiogenic shock, acute decompensated heart failure  
+**Secondary Diagnoses:** Prediabetes, acute bronchitis, viral pharyngitis, history of miscarriage, obesity, laceration of foot (remote), viral sinusitis  
+**Allergies:** NKDA  
+**Code Status:** Full Code  
+**Isolation:** None  
+**Consults:** Cardiology, Endocrinology, Infectious Disease  
+
+---
+
+# ICU Daily Progress Note – 2024-04-11
+
+---
+
+## **Subjective**
+
+**History of Present Illness:**  
+Ms. Cecille Upton is a 55-year-old female with a history of prediabetes, multiple prior viral URIs, obesity (BMI 27.9), and remote miscarriage, who presented to the ED with 3 days of progressive orthopnea, paroxysmal nocturnal dyspnea, increasing lower extremity swelling, and a non-productive cough. She reported mild chest tightness and palpitations. On arrival, she was tachypneic, hypotensive (BP 82/54), tachycardic, and hypoxic (SpO2 88% on RA). She was admitted to the ICU for acute decompensated heart failure with evidence of cardiogenic shock.
+
+Shortly after arrival to the ICU, she developed worsening hypotension refractory to fluids and was started on norepinephrine and dobutamine. Cardiology was consulted and recommended placement of a temporary percutaneous left ventricular assist device (Impella CP) for hemodynamic support. She was intubated for worsening hypoxia and agitation during the procedure.
+
+Since then, her hemodynamics have improved, but she remains critically ill. Her cough has improved, but she remains weak and fatigued. She is intermittently responsive and able to answer simple questions.
+
+**Review of Systems:**  
+Unable to obtain full ROS due to intubation and sedation. No new abdominal pain or overt bleeding. Family denies new rash, joint pain, or urinary symptoms.
+
+---
+
+## **Objective**
+
+### **Physical Exam**
+
+| System          | Findings                                                                 |
+|-----------------|--------------------------------------------------------------------------|
+| Gen             | Intubated, sedated, appears older than stated age, moderate distress     |
+| HEENT           | Oropharynx clear, ETT in place, pupils 3mm, reactive                     |
+| CV              | Tachycardic, regular rhythm, S1/S2 + S3, no murmurs, Impella in situ     |
+| Pulm            | Decreased breath sounds bases, mild crackles, no wheeze, ETT present     |
+| Abd             | Soft, mild epigastric tenderness, no rebound/guarding, bowel sounds +    |
+| GU              | Foley in place, clear yellow urine                                       |
+| Ext/Peripheral  | 2+ pitting edema BLE, no cyanosis, pulses present, wound on right foot healed |
+| Skin            | No acute rashes, skin warm                                               |
+| Neuro           | Moves all extremities to pain, GCS 10 (E3V2M5), non-focal                |
+
+---
+
+### **Vital Signs**  
+| Date         | Temp (C) | HR  | BP        | RR | SpO2 | Pain |
+|--------------|----------|-----|-----------|----|------|------|
+| 4/07/24 20:00| 37.8     | 122 | 82/54 MAP 61 | 26 | 88%  | 7    |
+| 4/08/24 06:00| 37.3     | 110 | 94/62 MAP 73 | 20 | 94%  | sed  |
+| 4/09/24 00:00| 37.5     | 99  | 103/68 MAP 81| 18 | 96%  | sed  |
+| 4/10/24 12:00| 37.2     | 88  | 108/74 MAP 85| 16 | 97%  | sed  |
+
+---
+
+### **Intake/Output (last 24 hrs)**  
+- Intake: 2450 mL (IVF, meds, tube feeds)  
+- Output: 1875 mL (urine), 120 mL (NG)  
+- Net: +575 mL
+
+---
+
+### **Laboratory Data**
+
+#### CBC & CHEM7 (selected timepoints)
+
+| Date        | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|-------------|------|------|------|------|------|------|------|------|------|------|------|
+| 4/07/24 PM  | 7.1  | 13.9 | 35.6 | 431  | 142  | 3.9  | 104  | 27   | 12.9 | 0.92 | 96   |
+| 4/08/24 AM  | 6.6  | 13.2 | 34.1 | 403  | 140  | 4.2  | 108  | 25   | 17.2 | 1.10 | 104  |
+| 4/09/24 AM  | 11.3 | 12.1 | 32.2 | 388  | 137  | 4.1  | 109  | 23   | 19.5 | 1.32 | 112  |
+| 4/10/24 AM  | 9.8  | 11.6 | 31.0 | 345  | 138  | 4.5  |      | 22   | 21.1 | 1.40 |      |
+| 4/11/24 AM  | 8.2  | 11.9 | 32.1 | 354  |      | 4.4  | 110  | 24   | 18.4 | 1.10 | 99   |
+
+#### Other Labs
+- **Troponin I:** 0.14 → 0.10 → 0.09 ng/mL (downtrending)
+- **BNP:** 2120 pg/mL (admission), 1780 pg/mL (4/09/24)
+- **LFTs (4/09/24):** AST 41, ALT 38, Alk Phos 77, Tbili 0.6
+- **INR:** 1.1, aPTT 32
+- **Lactate:** 3.1 → 2.2 → 1.7 mmol/L
+- **ABG (4/08/24, 50% FiO2):** pH 7.32 / pCO2 38 / pO2 81 / HCO3 23
+
+---
+
+### **Imaging/Studies**
+- **CXR (4/07/24):** Pulmonary edema, mild cardiomegaly, Impella device in place (4/08/24)
+- **Echocardiogram (4/08/24):** LVEF 18%, severely reduced LV function, RV normal, no major valvular abnormality, no thrombus
+- **Foot XR (remote):** No acute abnormality
+
+---
+
+## **Assessment & Plan**
+
+**1. Cardiogenic Shock, Acute Decompensated Heart Failure (new-onset)**
+   - Likely ischemic vs viral etiology. Presented with hypotension, pulmonary edema, end-organ hypoperfusion.
+   - Required vasopressors/inotropes, then Impella CP placement for mechanical circulatory support.
+   - Now improving: off norepinephrine, weaning dobutamine. Impella flows stable, no evidence hemolysis.
+   - **Plan:**
+     - Continue Impella, daily device checks
+     - Wean inotropes as tolerated, daily echo
+     - Monitor for arrhythmia, hemolysis, device complications
+     - Strict I/O, daily weights
+     - Consider cardiac MRI for myocarditis if stable
+     - Cardiac cath pending for ischemic workup
+
+**2. Acute Respiratory Failure (requiring intubation)**
+   - Likely multifactorial: pulmonary edema, bronchitis
+   - Improving oxygenation, minimal secretions
+   - **Plan:**
+     - Continue lung-protective ventilation
+     - Daily CXR, wean sedation
+     - Assess for SBT in next 24-48h
+
+**3. Prediabetes**
+   - Hyperglycemia on admission, now stable.
+   - **Plan:**
+     - Accuchecks q6h, sliding scale insulin as needed
+     - Monitor A1c, endocrinology to follow
+
+**4. Acute Bronchitis / Viral URI**
+   - Recent cough, now improved, no new infiltrates.
+   - **Plan:**
+     - Supportive care, hold antibiotics unless fever/leukocytosis
+
+**5. Nutrition**
+   - NPO initially, now on tube feeds.
+   - **Plan:**
+     - Advance as tolerated, monitor electrolytes
+
+**6. DVT Prophylaxis**
+   - On heparin SQ, SCDs in place
+
+**7. GI prophylaxis**
+   - Pantoprazole IV
+
+**8. Psychosocial**
+   - Family updated daily, social work involved
+
+**9. Med Reconciliation**
+   - Home meds reviewed, most on hold except acetaminophen prn
+
+**10. Other Chronic Conditions (remote miscarriage, prior laceration, viral sinusitis)**
+   - No acute issues
+
+---
+
+## **To Do**
+- Cardiac MRI if stable
+- Cardiac cath when off vasopressors
+- Continue device checks
+- Endo/ID input as needed
+
+---
+
+**Attending:** Mahoney, S., MD  
+**Resident:** Patel, A., MD  
+**Date/Time:** 2024-04-11 08:35
+
+---
+
+### Additional Labs (Selected)
+| Date       | AST | ALT | AlkPhos | Tbili | INR | aPTT | Lactate | Troponin | BNP   |
+|------------|-----|-----|---------|-------|-----|------|---------|----------|-------|
+| 4/07/24    | 32  | 29  | 75      | 0.5   | 1.0 | 29   | 3.1     | 0.14     | 2120  |
+| 4/09/24    | 41  | 38  | 77      | 0.6   | 1.1 | 32   | 2.2     | 0.10     | 1780  |
+| 4/10/24    |     |     |         |       |     |      | 1.7     | 0.09     |       |
+
+---
+
+**End of Note — See subsequent daily notes for updates and further lab results**

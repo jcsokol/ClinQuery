@@ -1,0 +1,181 @@
+**EPIC EHR – Inpatient Progress Note**  
+**Patient:** Harry Emmerich  
+**MRN:** 0081193  
+**DOB:** 08/19/1938 (85 y/o)  
+**Sex:** Male  
+**Date of Admission:** 04/11/2024  
+**Attending:** Dr. S. McCarthy  
+**Location:** MICU, Bed 4B  
+
+---
+
+### CHIEF COMPLAINT  
+Worsening shortness of breath and lower extremity edema x 1 week.
+
+---
+
+### HISTORY OF PRESENT ILLNESS  
+Mr. Harry Emmerich is an 85-year-old male with a history of obesity, prediabetes, chronic sinusitis, anemia, and prior stroke who presented to the ED with progressive dyspnea, orthopnea, and increasing bilateral leg swelling over 7 days. He denied chest pain but did endorse mild cough and fatigue. He was recently treated for viral sinusitis with amoxicillin/clavulanate.
+
+On arrival to the ED, he was found to be tachypneic, hypoxic, and hypotensive. Initial labs revealed acute on chronic anemia, elevated BNP, and a rising creatinine. CXR demonstrated pulmonary vascular congestion and bilateral pleural effusions. ECG showed new LBBB. Echo showed severely reduced LVEF (15%) with global hypokinesis and LV dilation.
+
+Due to progressive cardiogenic shock (hypotension refractory to fluids, escalating vasopressor requirements, worsening renal function, rising lactate), he was emergently transferred to the MICU and a left-sided percutaneous ventricular assist device (Impella CP) was placed for circulatory support.
+
+---
+
+### PAST MEDICAL HISTORY  
+- Obesity (BMI ~30)  
+- Chronic sinusitis  
+- Prediabetes  
+- Anemia (chronic, multifactorial)  
+- Ischemic stroke (2012, residual mild right-sided weakness)  
+- Hypertension  
+- Hyperlipidemia  
+- Heart failure with reduced ejection fraction (newly diagnosed this admission)  
+
+### PAST SURGICAL HISTORY  
+- Cholecystectomy (1995)  
+- Cataract extraction (2010)  
+
+### FAMILY HISTORY  
+- Father: MI at age 72  
+- Mother: DM2, HTN  
+- Brother: Colon cancer
+
+### SOCIAL HISTORY  
+- Former smoker, quit 1988  
+- No alcohol, no illicit drugs  
+- Lives with wife, retired accountant  
+
+### ALLERGIES  
+- NKDA
+
+### MEDICATIONS (on admission)  
+- Amoxicillin/clavulanate 250/125 mg PO BID (for sinusitis)  
+- Atorvastatin 20 mg qHS  
+- Lisinopril 10 mg qAM  
+- ASA 81 mg qAM  
+- Multivitamin daily  
+
+---
+
+## PHYSICAL EXAM (Day 2, ICU)  
+**Gen:** Elderly male, mildly dyspneic, alert  
+**VS:** T 36.7°C, HR 104, BP 90/54 (on norepinephrine), RR 22, SpO₂ 96% (2L NC)  
+**HEENT:** Pale mucosa, mild sinus tenderness  
+**Neck:** No JVD, trachea midline  
+**CV:** S1, S2, no murmurs, distant heart sounds, Impella hum audible  
+**Lungs:** Bibasilar crackles, decreased BS at bases  
+**Abdomen:** Soft, non-tender, no HSM  
+**Extremities:** 2+ pitting edema to knees, mild right-sided weakness  
+**Neuro:** A&O x3, moves all extremities, mild R arm drift  
+**Skin:** Intact, no rash
+
+---
+
+## ICU HOSPITAL COURSE (abridged)  
+**Day 1:**  
+- Admitted to MICU for cardiogenic shock, placed on norepinephrine and dobutamine  
+- Impella CP placed via left femoral artery  
+- Foley catheter, central line, A-line placed  
+- Started on IV furosemide, empiric antibiotics continued  
+
+**Day 2:**  
+- Improved MAP, weaned off norepinephrine  
+- UOP improved, but creatinine remains elevated  
+- Echo: LVEF 15%, Impella flow 3.2 L/min  
+- Started on low-dose metoprolol  
+
+**Day 3:**  
+- Mild hemolysis (LDH up, haptoglobin low), platelets dropped to 90  
+- Required 2U PRBC for Hgb 7.2  
+- Weaning Impella support, trial off dobutamine  
+- Ongoing diuresis, improved oxygenation  
+
+**Day 4:**  
+- Impella removed, transitioned to IV milrinone  
+- Renal function trending up (Cr 2.0), UOP stable  
+- Mobilized to chair, physical therapy initiated  
+- Plan for transition to stepdown unit  
+
+---
+
+# **LABS**  
+
+**CBC, Chem7, and Selected Markers**  
+
+| Date         | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | BNP    | LDH   |
+|--------------|------|------|------|------|------|------|------|------|------|------|------|----------|--------|-------|
+| 4/11/24 08:12| 6.2  | 8.1  | 25.0 | 173  | 139  | 5.2  | 109  | 27   | 38   | 2.0  | 162  | 0.09     | 3900   | 820   |
+| 4/11/24 20:00| 7.0  | 7.2  | 22.8 | 150  | 137  | 5.3  | 110  | 25   | 42   | 2.3  | 144  | 0.11     | 4180   | 950   |
+| 4/12/24 07:50| 5.5  | 9.4  | 28.7 | 98   | 138  | 4.7  | 107  | 24   | 32   | 1.8  | 122  | 0.07     | 3620   | 710   |
+| 4/13/24 06:30| 4.8  | 10.3 | 31.5 | 90   | 141  | 4.2  | 105  | 26   | 28   | 1.6  | 117  | <0.04    | 2700   | 590   |
+| 4/14/24 06:40| 6.0  | 10.0 |      | 120  |      |      |      |      | 24   | 1.3  | 109  | <0.04    | 2100   | 430   |
+| 4/15/24 08:00| 5.9  | 10.2 | 32.0 | 135  | 140  | 4.3  | 104  | 25   | 22   | 1.1  | 101  | <0.04    | 1850   |       |
+
+*Missing labs noted where not drawn or hemolyzed.*
+
+**Other notable labs:**  
+- AST/ALT: Mildly elevated on 4/12/24 (AST 54, ALT 61), trending down  
+- D-dimer: 2.3 (4/11/24), negative for DVT/PE on duplex  
+- Haptoglobin: <10 (4/12/24)  
+- Coags: INR 1.3, PTT 38 (mild elevation, likely device-related)  
+
+---
+
+# **ASSESSMENT & PLAN**  
+
+**1. Cardiogenic shock, new HFrEF (EF 15%), s/p Impella CP**  
+- Likely secondary to acute decompensation on background of undiagnosed ischemic cardiomyopathy  
+- Impella CP placed for hemodynamic support, now removed after 72 hrs  
+- On milrinone, weaning off pressors  
+- Daily echo monitoring, continue aggressive diuresis  
+- Start guideline-directed medical therapy (GDMT) for HFrEF as tolerated  
+- Cardiology, CT surgery, and advanced HF teams following  
+
+**2. Acute kidney injury (pre-renal, cardiorenal)**  
+- Likely secondary to low cardiac output state  
+- UOP improving, Cr trending down  
+- Monitor lytes, strict I/Os, avoid nephrotoxins  
+
+**3. Anemia, multifactorial (chronic + device-related hemolysis)**  
+- Transfused 2U PRBCs for Hgb <8  
+- Monitor Hgb, retic, LDH, haptoglobin  
+- Hold anti-plt/anticoagulation while platelets <100  
+
+**4. Thrombocytopenia (device-related, dilutional)**  
+- Platelets nadir 90, trending up after device removal  
+- Monitor for bleeding, no transfusion at this time  
+
+**5. Obesity, prediabetes**  
+- Continue sliding scale insulin PRN  
+- Monitor glucose, A1c 6.2%  
+- Nutrition consult for calorie/protein goals  
+
+**6. Chronic sinusitis, recent viral exacerbation**  
+- Completed course of amox/clav  
+- ENT to follow if persistent symptoms  
+
+**7. Hx of stroke**  
+- On DVT prophylaxis (heparin SQ)  
+- Monitor for new neuro deficits  
+- PT/OT for mobility, fall precautions  
+
+**8. Hyperlipidemia, hypertension**  
+- Restart statin, ACEi as tolerated  
+- BP goal <130/80
+
+**9. Functional status, discharge planning**  
+- Mobilizing with PT, awaiting stepdown  
+- Social work consult for home supports  
+- Consider cardiac rehab if stable  
+
+---
+
+**Attending:** S. McCarthy, MD  
+**CC:** Cardiology, CT Surgery, Advanced Heart Failure, Nutrition, Social Work  
+**Next Steps:** Continue ICU monitoring, daily labs, titrate meds, reassess for transfer to stepdown unit
+
+---
+
+**End of Note**

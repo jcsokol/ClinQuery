@@ -1,0 +1,159 @@
+```
+Patient: Georgia Pollich              MRN: 00198345
+DOB: 04/06/1941   Sex: F              Attending: Dr. S. Hanley
+Admit Date: 2024-05-27                Service: Cardiac ICU
+Note Date: 2024-06-04                 Author: J. Rivera, MD
+
+--------------------------------------------------------------
+ADMISSION SUMMARY
+
+CHIEF COMPLAINT:
+Acute onset shortness of breath, orthopnea, confusion
+
+HPI:
+80 y/o F with h/o obesity, hyperlipidemia, CVA, chronic sinusitis, prior miscarriage & tubal pregnancies, presents with 2 days of worsening dyspnea, orthopnea, and confusion. Family reports decreased PO intake, increasing bilateral lower extremity edema, and new cough. PMH significant for ischemic stroke 2 years ago, on simvastatin and clopidogrel. No prior known heart failure.
+
+On arrival: hypoxic (O2 sat 86% RA), tachypneic, BP 92/60, HR 122, afebrile. CXR: pulmonary edema. EKG: sinus tachycardia, nonspecific ST-T changes. Troponin mildly elevated. Echo showed severe LV systolic dysfunction (EF 15%) with global hypokinesis, no significant valvular dz. Cardiogenic shock suspected. Required norepinephrine and dobutamine, but remained hypotensive. Emergent placement of percutaneous LVAD (Impella CP) on HD2 for ongoing shock.
+
+--------------------------------------------------------------
+PAST MEDICAL HISTORY
+- Stroke (ischemic, 2022)
+- Chronic sinusitis
+- Obesity (BMI >30)
+- Hyperlipidemia
+- Miscarriage, tubal pregnancies x2
+- Viral sinusitis, viral pharyngitis (remote)
+- No h/o CAD, DM, CKD prior to this admission
+
+PAST SURGICAL HISTORY
+- None documented
+
+SOCIAL HISTORY
+- Lives alone, retired teacher
+- No tobacco, EtOH rare, no illicits
+- 2 children, both alive
+
+FAMILY HISTORY
+- Mother: MI at 67, Father: CVA at 76
+
+ALLERGIES
+- NKDA
+
+--------------------------------------------------------------
+MEDICATIONS ON ADMISSION
+- Simvastatin 10mg QHS
+- Clopidogrel 75mg daily
+- No home antihypertensives
+- No anticoagulants
+
+--------------------------------------------------------------
+ICU HOSPITAL COURSE (Days 1-8)
+
+HD1: Admitted to ICU for acute decompensated heart failure, hypoxic respiratory failure, shock. Started on BiPAP, IV furosemide, dobutamine, norepinephrine. Intubated for worsening hypoxia.
+HD2: Hypotension refractory to pressors. Cardiology consulted. Impella CP placed via femoral approach for cardiogenic shock. Moderate bleeding at groin site, required 1U PRBC. Started on heparin drip.
+HD3-4: Some improvement in MAP, urine output. Still intubated, volume overload persists. Creatinine peaked at 3.1. Echo: persistent low EF.
+HD5: Extubated to HFNC. Impella wean trial begun.
+HD6: Impella removed, transitioned to milrinone. Diuresis improved. Creatinine downtrending.
+HD7: Transferred to stepdown. Mental status improved. Mobilizing with PT.
+HD8: Preparing for discharge to cardiac rehab.
+
+--------------------------------------------------------------
+PROBLEM-BASED ASSESSMENT & PLAN
+
+1. **Cardiogenic Shock s/p Temporary LVAD (Impella CP)**
+   - Refractory to pressors, severe LV dysfunction (EF 15%)
+   - Impella placed HD2, removed HD6
+   - Now stable on milrinone, off pressors
+   - Plan: Continue GDMT for HF, monitor for complications (bleeding, hemolysis)
+   - Follow up with advanced HF clinic
+
+2. **Acute Decompensated Heart Failure**
+   - Likely new diagnosis, possibly ischemic etiology (troponin 0.18 > 0.09 > 0.07)
+   - Continue diuresis, fluid restriction
+   - Start low-dose ACEi as tolerated
+
+3. **Acute Kidney Injury (likely cardiorenal)**
+   - Creatinine peaked 3.1, improved to 2.0
+   - Monitor electrolytes, avoid nephrotoxins
+
+4. **Respiratory Failure, status post extubation**
+   - Weaned to HFNC, now on 2L NC
+   - Incentive spirometry, pulmonary hygiene
+
+5. **Obesity**
+   - Dietician consult, low Na diet
+   - PT/OT for mobility
+
+6. **Hyperlipidemia**
+   - Continue simvastatin
+   - LDL 94 on admission
+
+7. **History of Stroke**
+   - On clopidogrel, no new deficits
+   - Swallow eval passed
+
+8. **Chronic Sinusitis**
+   - No acute infection
+   - ENT f/u outpatient
+
+9. **Bleeding risk (anticoagulation + device)**
+   - Monitor Hgb, groin site
+   - Heparin held after device removal
+
+10. **Social/Discharge**
+    - Needs rehab, home support
+    - SW/Case management involved
+
+--------------------------------------------------------------
+LABS (Selected; see flowsheet for full data)
+
+| Date       | WBC  | Hgb  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | AST | ALT | Alk Phos | Alb  |
+|------------|------|------|------|------|------|------|------|------|------|------|----------|-----|-----|----------|------|
+| 5/27       | 6.0  | 13.4 | 338  | 139  | 4.7  | 103  | 23   | 15   | 2.9  | 87   | 0.18     | 20  | 40  | 66       | 4.1  |
+| 5/28       | 7.2  | 12.2 | 295  | 137  | 5.1  | 101  | 22   | 24   | 3.1  | 102  | 0.09     | 28  | 41  | 71       | 3.6  |
+| 5/29       | 7.9  | 10.8 | 266  | 136  | 4.5  | 103  | 21   | 27   | 3.0  | 110  | 0.07     | 29  | 38  | 74       | 3.4  |
+| 5/30       | 6.7  | 10.2 | 250  | 135  | 4.2  | 100  | 24   | 21   | 2.7  |      |          | 22  |     | 68       |      |
+| 5/31       | 5.8  | 10.9 | 222  | 138  | 4.0  | 102  | 25   | 19   | 2.4  | 115  | <0.01    | 19  |     | 66       | 3.8  |
+| 6/1        | 6.5  | 11.6 | 199  | 140  | 4.4  | 105  | 26   | 17   | 2.1  | 106  | <0.01    |     |     | 70       | 3.9  |
+| 6/2        | 6.1  | 12.5 |      | 139  |      | 104  | 23   | 16   | 2.0  |      | <0.01    | 18  | 37  | 68       | 4.0  |
+| 6/3        |      | 12.9 | 210  | 138  | 4.3  | 103  | 23   | 15   | 2.0  | 98   | <0.01    | 19  | 39  | 66       | 4.1  |
+
+*Missing values indicate labs not collected or not available.*
+
+--------------------------------------------------------------
+VITALS (Selected)
+
+| Date       | Temp (C) | HR | BP       | RR | O2 Sat | Weight (kg) |
+|------------|----------|----|----------|----|--------|-------------|
+| 5/27       | 37.0     |122 | 92/60    | 28 | 86% RA | 71.4        |
+| 5/28       | 37.8     |110 | 98/64    | 24 | 97% BiPAP | 72.2    |
+| 5/29       | 37.5     |106 | 104/70   | 20 | 99% ETT | 73.0       |
+| 5/30       | 36.9     |101 | 110/76   | 18 | 98% ETT | 72.5       |
+| 5/31       | 36.7     | 96 | 114/78   | 16 | 97% NC  | 71.6       |
+| 6/3        | 36.8     | 88 | 120/80   | 16 | 98% NC  | 70.0       |
+
+--------------------------------------------------------------
+IMAGING
+
+- CXR 5/27: Bilateral pulmonary edema, mild cardiomegaly, no focal infiltrate
+- Echo 5/27: EF 15%, global hypokinesis, mild MR, no thrombus
+- Repeat Echo 6/2: EF improved to 25%, mild MR
+
+--------------------------------------------------------------
+MICROBIOLOGY
+
+- Blood Cx x2: No growth
+- Urine Cx: No growth
+
+--------------------------------------------------------------
+DISCHARGE PLANNING
+
+- Discharge to cardiac rehab on 6/5
+- Follow up: Cardiology, HF clinic, PCP
+- Meds: simvastatin, clopidogrel, enalapril (to start), furosemide, milrinone (weaning), sliding scale insulin PRN
+
+--------------------------------------------------------------
+SIGNATURE
+J. Rivera, MD (Cardiology, ICU)
+```
+[End of Note]

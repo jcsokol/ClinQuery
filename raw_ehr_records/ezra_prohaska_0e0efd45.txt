@@ -1,0 +1,192 @@
+**Patient Name:** Ezra Prohaska  
+**MRN:** 0083142-XX  
+**DOB:** 06/30/1924  
+**Sex:** Male  
+**Admission Date:** 05/12/2024  
+**Attending:** Dr. S. Korman  
+**Consultants:** Cardiology, Cardiothoracic Surgery, Infectious Disease  
+**Admitting Dx:** Acute decompensated heart failure (ADHF), Cardiogenic shock  
+**ICU Location:** CVCU, Bed 8  
+**Code Status:** Full code  
+
+---
+
+### Chief Complaint
+Worsening shortness of breath, orthopnea, and decreased urine output x 3 days.
+
+---
+
+### HPI
+Ezra Prohaska is a 99-year-old male with a history of chronic congestive heart failure (reduced EF, last known 39%), hypertension, daily tobacco use, and recent upper respiratory infections (strep pharyngitis, viral sinusitis, acute bronchitis). He presented to the ED with 3 days of progressive dyspnea, PND, orthopnea, lower extremity edema, and decreased urine output. He reports mild chest pressure, no fevers, but increased fatigue. On arrival he was tachypneic, hypoxic, and hypotensive.
+
+Initial labs and bedside echo revealed severe LV dysfunction, elevated NT-proBNP, and evidence of end-organ hypoperfusion. Despite aggressive diuresis and uptitration of guideline-directed medical therapy, he developed worsening hypotension and was transferred to the ICU for management of cardiogenic shock. An Impella CP device was placed for temporary hemodynamic support on hospital day 2.
+
+---
+
+### Hospital Course Summary
+
+**Day 1:**  
+Admitted for ADHF, started IV furosemide, supplemental O2. Initial CXR with pulmonary edema, bedside echo with EF 35%, moderate MR, RV mildly reduced. BP 88/50, MAP 58. NT-proBNP 28,000, troponin mildly elevated (0.12). Initial labs with AKI (Cr 1.3 from baseline 1.0), lactate 3.1.  
+
+**Day 2:**  
+Worsening hypotension despite pressors. Oliguria, rising creatinine. Impella CP placed at bedside by interventional cardiology, with immediate improvement in MAP to 70s. Started on low-dose dobutamine, weaned off norepinephrine.  
+
+**Day 3-5:**  
+Gradual improvement in end-organ perfusion. Weaned off dobutamine. Diuresis continued. Developed mild hemolysis (LDH up, haptoglobin low), managed conservatively. No device-related infection. Laceration on forearm from IV insertion site, cleaned and dressed.  
+
+**Day 6:**  
+Impella weaned and removed. Patient stable on oral HF regimen. Renal function improved.  
+
+**Day 7:**  
+Transferred to step-down unit.  
+
+---
+
+## Problem List
+
+1. **Cardiogenic Shock secondary to Acute-on-chronic Systolic Heart Failure**
+    - EF 35% (baseline 39%), severe hypoperfusion, hypotension
+    - Managed with temporary LV support (Impella CP), inotropes, pressors
+    - Now hemodynamically stable, Impella removed HD6
+
+2. **Chronic Congestive Heart Failure (HFrEF)**
+    - On metoprolol, furosemide, HCTZ
+    - Diuresed 6L net negative, now euvolemic
+    - Last NT-proBNP: 11,200 (down from 28,000)
+
+3. **Acute Kidney Injury (pre-renal, cardiorenal syndrome)**
+    - Peak Cr 2.1, baseline 1.0; now 1.1
+    - Improved with restoration of perfusion + diuresis
+
+4. **Hypertension**
+    - Difficult to manage during shock; now on PO meds
+
+5. **Tobacco Use**
+    - On nicotine patch, counseled
+
+6. **Recent URI (Strep pharyngitis, Viral sinusitis, Acute bronchitis)**
+    - Treated with penicillin, resolved
+
+7. **Forearm Laceration**
+    - Superficial, cleaned, no infection
+
+8. **Mild Transaminitis**
+    - ALT/AST up to 2x ULN, likely ischemic; trending down
+
+9. **Pain (forearm, chest pressure)**
+    - Controlled with acetaminophen
+
+10. **Hyperlipidemia**
+    - LDL 81, not on statin due to age/frailty
+
+---
+
+## Assessment & Plan
+
+**1. Cardiogenic Shock / Acute on Chronic HFrEF**
+- Cause: likely viral illness exacerbating baseline CHF
+- Management: Impella CP placed, IV inotropes/pressors, aggressive diuresis
+- Monitor for arrhythmias, hemolysis, device complications
+- Plan: Continue guideline-directed therapy, consider advanced therapies if recurrent
+
+**2. AKI/Cardiorenal Syndrome**
+- Improved with volume optimization and improved perfusion
+- Monitor renal function, avoid nephrotoxins
+
+**3. Hypertension**
+- Restart HCTZ, metoprolol, titrate as tolerated
+
+**4. Secondary Prevention**
+- Counsel re: smoking cessation, optimize meds, consider cardiac rehab
+
+**5. Laceration**
+- Local wound care, monitor for infection
+
+**6. Transaminitis**
+- Monitor LFTs, likely ischemic
+
+**7. Nutrition, Mobility, Social**
+- PT/OT eval, dietician consult, discuss goals of care with patient/family
+
+---
+
+## Vital Signs (selected)
+
+| Date       | Temp (C) | HR | BP        | RR | SpO2 | Weight (kg) | Pain (0-10) |
+|------------|----------|----|-----------|----|------|-------------|-------------|
+| 5/12/24    | 38.8     | 104| 88/50     | 22 | 90%  | 96.1        | 4           |
+| 5/13/24    | 37.9     | 98 | 92/56     | 18 | 94%  | 95.6        | 3           |
+| 5/14/24    | 37.4     | 90 | 102/62    | 16 | 96%  | 94.8        | 3           |
+| 5/15/24    | 37.1     | 88 | 110/65    | 16 | 98%  | 93.7        | 2           |
+| 5/16/24    | 36.9     | 80 | 112/68    | 14 | 98%  | 93.1        | 2           |
+| 5/17/24    | 36.8     | 78 | 118/70    | 14 | 99%  | 92.9        | 1           |
+
+---
+
+## Laboratory Data
+
+| Date     | WBC   | Hgb   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | Alk Phos | NT-proBNP | Troponin | LDH  | Haptoglobin | Albumin | Bilirubin |
+|----------|-------|-------|-------|------|------|------|------|------|------|------|------|------|----------|-----------|----------|------|-------------|---------|-----------|
+| 5/12/24  | 8.7   | 13.2  | 319   | 137  | 3.8  | 104  | 21   | 19   | 1.0  | 85   | 35   | 51   | 45       | 28,000    | 0.12     | 430  | <10         | 3.9     | 0.9       |
+| 5/13/24  | 9.2   | 12.7  | 312   | 135  | 4.1  | 102  | 19   | 26   | 1.3  | 92   | 49   | 62   | 47       | 24,500    | 0.09     | 590  | <10         | 3.7     | 1.1       |
+| 5/14/24  | 11.5  | 11.9  | 287   | 134  | 4.3  | 101  | 18   | 32   | 2.1  | 101  | 76   | 75   | 43       | 19,800    | 0.07     | 720  | <10         | 3.5     | 1.2       |
+| 5/15/24  | 10.1  | 12.4  | 265   | 136  | 4.0  | 104  | 22   | 28   | 1.5  | 98   | 54   | 60   |          | 15,200    | 0.05     | 480  |             | 3.8     | 1.0       |
+| 5/16/24  | 8.4   | 13.1  | 301   | 137  | 3.9  | 105  | 23   | 21   | 1.2  | 90   | 38   | 54   | 44       | 11,200    | 0.03     | 310  |             | 3.9     | 0.8       |
+| 5/17/24  | 7.9   | 13.5  | 312   | 138  | 4.0  | 106  | 24   | 18   | 1.1  | 87   | 34   | 39   | 46       | 7,900     | <0.01    |      |             | 4.1     | 0.7       |
+
+*Some labs missing or not drawn daily. All values conventional units.*
+
+---
+
+## Imaging
+
+- **CXR (5/12/24):** Pulmonary vascular congestion, bilateral effusions, cardiomegaly
+- **Echo (5/12/24):** LVEF 35%, moderate MR, mild RV dysfunction, no pericardial effusion
+- **Repeat Echo (5/16/24):** LVEF 39%, improved RV, Impella visualized in situ
+
+---
+
+## Procedures
+
+- **5/13/24:** Impella CP placement (left femoral approach).  
+- **5/16/24:** Impella removal, manual compression, no vascular complications.
+
+---
+
+## Medications (Current)
+
+- Metoprolol succinate 100mg daily
+- Furosemide 40mg IV BID (transitioning to PO)
+- HCTZ 12.5mg daily
+- Nicotine patch 24hr
+- Acetaminophen 325mg PO q6h PRN
+- Penicillin V 500mg PO BID (completed)
+- ASA 81mg daily
+- Sliding scale insulin (as needed)
+
+---
+
+## Disposition
+
+- Anticipate transfer to acute rehab
+- Discussed goals of care with family, patient desires full code, advanced therapies if needed
+- F/u: Cardiology, primary care, wound care for forearm
+
+---
+
+## Additional Notes
+
+- No arrhythmias during ICU stay
+- No evidence of device infection, bacteremia
+- Mild delirium on HD2, resolved with reorientation, sleep hygiene
+- Family at bedside daily, patient agreeable to SNF if unable to return home
+
+---
+
+**Signed:**  
+Dr. S. Korman, MD  
+05/18/2024 14:12
+
+---
+
+**(End of Note)**

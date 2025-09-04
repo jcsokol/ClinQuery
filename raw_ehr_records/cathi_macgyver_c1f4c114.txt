@@ -1,0 +1,169 @@
+**EPIC EHR - Progress Note**  
+**Patient Name:** Cathi MacGyver  
+**MRN:** 00291837  
+**DOB:** 08/21/1943  
+**Sex:** Female  
+**Date of Admission:** 05/22/2024  
+**Date of Note:** 05/27/2024  
+**Attending:** Dr. Raul Givens, MD  
+**Consults:** Cardiology, Neurology, Renal, Nutrition, PT/OT  
+**Location:** MICU, Room 412-B  
+**Code Status:** Full Code  
+---
+
+## **HPI:**
+79-year-old female with a history of hypertension, obesity (BMI 30+), hyperlipidemia, remote first-trimester miscarriage, chronic sinusitis, and prior ischemic stroke (2019) on clopidogrel, who presented to the ED with 2 days of progressive dyspnea, orthopnea, and confusion. On arrival, she was found to be hypotensive (SBP 82 mmHg), tachycardic (HR 118), hypoxic (SpO₂ 89% on RA), and had evidence of pulmonary edema on CXR. Initial labs revealed AKI (Cr 2.9), elevated troponin (0.87 ng/mL), and BNP >2000 pg/mL. She decompensated with worsening shock requiring vasopressors and was transferred to the ICU. Due to refractory cardiogenic shock, a percutaneous left ventricular assist device (Impella CP) was placed on hospital day 2. She has been gradually weaned off vasoactive support and is now on minimal inotropes. Renal function has improved but not normalized.  
+
+---
+
+## **Hospital Course:**
+- **Day 1:** Admitted for acute decompensated heart failure, hypotensive shock. Started on norepinephrine, IV furosemide, BiPAP.
+- **Day 2:** Worsening lactic acidosis, oliguria, persistent hypotension despite pressors → Impella CP placed at bedside under fluoroscopic guidance.  
+- **Day 3:** Hemodynamics improved. Extubated to high-flow nasal cannula.  
+- **Day 4:** Started on gentle diuresis, down-titrated pressors.  
+- **Day 5:** Impella weaned, removed after echo showed improved LV function (EF up from 15% → 30%).  
+- **Day 6:** Mobilizing with PT, off pressors, stable.  
+---
+
+## **PROBLEM-BASED ASSESSMENT & PLAN**
+
+### 1. **Cardiogenic Shock s/p Impella (LVAD) Support**
+- **Assessment:** Cardiogenic shock likely secondary to acute on chronic ischemic cardiomyopathy. Required Impella for 3 days, now weaned.  
+- **Plan:**  
+  - Continue daily TTE to monitor LV function  
+  - Telemetry, monitor for arrhythmias  
+  - Resume goal-directed medical therapy as tolerated (beta-blocker, ACEi/ARB, MRA)  
+  - Cardiology to follow  
+  - Impella site care, monitor for vascular complications
+
+### 2. **Acute Decompensated Heart Failure**
+- **Assessment:** HFpEF with acute volume overload, now euvolemic.  
+- **Plan:**  
+  - Daily weights, strict I&Os  
+  - IV furosemide, titrate as needed  
+  - Low salt diet, fluid restriction  
+  - Repeat BNP, echo  
+  - Monitor for flash pulmonary edema
+
+### 3. **Acute Kidney Injury (AKI) on CKD III**
+- **Assessment:** Likely prerenal from low cardiac output, now improving.  
+- **Plan:**  
+  - Renal panel qAM  
+  - Monitor urine output  
+  - Avoid nephrotoxins  
+  - Nephrology following
+
+### 4. **Hypertension/Hyperlipidemia**
+- **Assessment:** Chronic, not at goal prior to admission.  
+- **Plan:**  
+  - Resume home amlodipine/olmesartan/HCTZ, simvastatin  
+  - Continue clopidogrel for secondary stroke prevention  
+  - Monitor for statin myopathy
+
+### 5. **Remote Ischemic Stroke**
+- **Assessment:** No new focal deficits.  
+- **Plan:**  
+  - Continue secondary prevention  
+  - PT/OT for mobility, fall risk assessment
+
+### 6. **Obesity (BMI 30+)**
+- **Assessment:** Risk for OSA, OHS, metabolic syndrome  
+- **Plan:**  
+  - Nutrition consult  
+  - Encourage mobility, weight loss counseling
+
+### 7. **Chronic Sinusitis**
+- **Assessment:** No acute exacerbation  
+- **Plan:**  
+  - Supportive care, nasal saline as needed
+
+### 8. **Other**
+- DVT prophylaxis: SCDs, SQ heparin
+- Code status discussed, remains full
+- Family updated daily
+
+---
+
+## **MEDICATION ADMINISTRATION RECORD**
+
+| Medication                                      | Dose/Route                  | Frequency        | Start Date | Status    |
+|-------------------------------------------------|-----------------------------|------------------|------------|-----------|
+| Amlodipine/Olmesartan/HCTZ                      | 5/20/12.5 mg PO             | Daily            | 5/23/2024  | Active    |
+| Simvastatin                                     | 10 mg PO                    | Daily            | 5/23/2024  | Active    |
+| Clopidogrel                                     | 75 mg PO                    | Daily            | 5/23/2024  | Active    |
+| Furosemide                                      | 40 mg IV                    | BID              | 5/23/2024  | Active    |
+| Norepinephrine                                  | Titrate IV                  | Continuous       | 5/22/2024  | D/C 5/25  |
+| Milrinone                                       | 0.25 mcg/kg/min IV          | Continuous       | 5/23/2024  | Tapering  |
+| Alteplase (tPA)                                 | 100 mg IV                   | Once (stroke)    | 2019       | Completed |
+| Heparin (DVT ppx)                               | 5000 units SQ               | q8h              | 5/23/2024  | Active    |
+| Acetaminophen                                   | 650 mg PO                   | PRN              | 5/23/2024  | PRN       |
+
+---
+
+## **VITALS (Selected Entries)**
+
+| Date        | Temp (°C) | HR | BP           | RR | SpO2 | Weight (kg) | Pain (0-10) |
+|-------------|-----------|----|--------------|----|------|-------------|-------------|
+| 5/22/2024   | 36.7      | 118| 82/52        | 24 | 89%  | 78.2        | 0           |
+| 5/23/2024   | 37.1      | 102| 95/60        | 20 | 94%  | 77.6        | 0           |
+| 5/24/2024   | 36.9      | 98 | 104/68       | 18 | 97%  | 77.0        | 1           |
+| 5/25/2024   | 36.8      | 85 | 110/70       | 16 | 98%  | 76.8        | 0           |
+| 5/26/2024   | 36.5      | 80 | 118/76       | 16 | 98%  | 76.5        | 0           |
+
+---
+
+## **LABS**
+
+### **CBC + Chem7 (Selected)**
+| Date        | WBC (K) | Hgb (g/dL) | Hct (%) | Plt (K) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Gluc (mg/dL) |
+|-------------|---------|------------|---------|---------|-------------|------------|-------------|--------------|-------------|------------|--------------|
+| 5/22/2024   | 7.2     | 14.2       | 44      | 320     | 137         | 5.1        | 104         | 24           | 32          | 2.9        | 142          |
+| 5/23/2024   | 6.8     | 13.1       | 40      | 299     | 138         | 4.8        | 105         | 23           | 28          | 3.0        | 131          |
+| 5/24/2024   | 7.5     | 12.9       | 39      | 285     | 137         | 4.6        | 104         | 25           | 25          | 2.2        | 121          |
+| 5/25/2024   | 7.0     | 13.8       | 41      | 290     | 138         | 4.4        | 103         | 26           | 19          | 1.5        | 106          |
+| 5/26/2024   | 6.5     | 14.4       | 43      | 292     | 137         | 4.2        | 104         | 26           | 14          | 1.2        | 89           |
+| 5/27/2024   |         | 14.9       | 45      |         | 138         | 4.2        |             | 27           | 12          | 1.1        | 91           |
+
+---
+
+### **OTHER RELEVANT LABS**
+| Date        | Troponin (ng/mL) | BNP (pg/mL) | ALT (U/L) | AST (U/L) | ALK Phos (U/L) | Alb (g/dL) | Total Bili (mg/dL) | LDL (mg/dL) | HDL (mg/dL) | Trigs (mg/dL) |
+|-------------|------------------|-------------|-----------|-----------|----------------|------------|--------------------|-------------|-------------|---------------|
+| 5/22/2024   | 0.87             | 2890        | 28        | 36        | 64             | 4.5        | 0.7                | 118         | 38          | 186           |
+| 5/23/2024   | 0.49             | >2000       | 27        | 33        | 62             | 4.7        | 0.8                | 117         | 39          | 180           |
+| 5/24/2024   | 0.19             | 1700        | 24        | 30        | 60             | 4.9        | 0.6                | 115         | 41          | 172           |
+| 5/25/2024   | <0.01            | 900         | 23        | 29        | 59             | 5.2        | 0.5                | 113         | 41          | 162           |
+| 5/26/2024   | <0.01            | 340         | 22        | 28        | 60             | 5.3        | 0.5                | 112         | 42          | 156           |
+
+---
+
+## **IMAGING & STUDIES**
+- **CXR 5/22/2024:** Bilateral pulmonary edema, enlarged cardiac silhouette
+- **TTE 5/22/2024:** LVEF ~15%, global hypokinesis, moderate MR, dilated LA
+- **TTE 5/25/2024:** LVEF improved to 30%, mild MR, no thrombus
+- **Lower extremity doppler 5/24/2024:** Negative for DVT
+
+---
+
+## **PHYSICAL EXAM (Selected)**
+- **Gen:** Elderly female, NAD, alert, conversant
+- **CV:** S1/S2, regular, no murmur now
+- **Lungs:** Few bibasilar crackles, improved
+- **Abd:** Soft, NT/ND
+- **Ext:** No edema, pulses 2+ bilat
+- **Neuro:** AOx3, no focal deficit
+
+---
+
+## **DISPOSITION**
+- Remain in ICU for continued monitoring, anticipate transfer to stepdown when stable off inotropes.  
+- Family meeting scheduled for goals of care.
+
+---
+
+**Attending:** Raul Givens, MD  
+**CC:** Cardiology, Renal, PT/OT, Nutrition
+
+---
+
+**End of Note**

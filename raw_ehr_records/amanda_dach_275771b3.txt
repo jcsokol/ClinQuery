@@ -1,0 +1,146 @@
+---
+**Patient Name:** Amanda Dach  
+**MRN:** 003492711  
+**DOB:** 03/14/1991  
+**Sex:** Female  
+**Admit Date:** 04/19/2024  
+**Attending:** Dr. J. Kline  
+**Consults:** Cardiology, Critical Care, Pulmonology, OB/GYN
+
+---
+
+### **HOSPITAL COURSE SUMMARY**
+
+**Chief Complaint:**  
+Acute shortness of breath, chest pain, progressive fatigue.
+
+**History of Present Illness:**  
+30 y/o female with PMHx of obesity, HTN, chronic sinusitis, perennial allergic rhinitis, childhood asthma, multiple pregnancies with preeclampsia, and recent viral upper respiratory infection, who presented to the ED with 3 days of worsening dyspnea, orthopnea, and chest discomfort. Noted to have significant lower extremity edema and mild confusion. She was tachycardic, hypotensive, and hypoxic on admission. Initial workup revealed elevated BNP and troponin, pulmonary edema on CXR, and reduced LVEF on bedside echo. Admitted to ICU for acute decompensated heart failure with cardiogenic shock. Required temporary left-sided heart pump (Impella CP) on hospital day 2 due to persistent hypotension and end-organ hypoperfusion despite maximal medical therapy.
+
+---
+
+### **PROBLEM-BASED ASSESSMENT & PLAN**
+
+#### 1. **Cardiogenic Shock/Acute Decompensated Heart Failure**
+- **Assessment:**  
+Profound LV dysfunction likely secondary to peripartum cardiomyopathy (history of preeclampsia and recent pregnancy), with superimposed viral myocarditis not excluded. Presented in shock with multiorgan dysfunction.
+- **Interventions:**  
+  - Initiated dobutamine and norepinephrine drips on arrival.
+  - Impella CP placed on HD2 for persistent shock (SBP <80, rising lactate, worsening AKI).
+  - Serial ECHO: LVEF 18% → 22% after 48h support.
+  - Weaned off vasoactives by HD6, Impella explanted HD7.
+- **Plan:**  
+  - Continue HF guideline-directed medical therapy as tolerated.
+  - Daily ECHO, strict I/Os, diuresis as tolerated.
+  - Cardiology follow-up for possible ICD if persistent EF <35%.
+
+#### 2. **Acute Kidney Injury (AKI)**
+- **Assessment:**  
+Creatinine rose from 0.8 to 2.3 with oliguria, likely secondary to hypoperfusion/shock. Improved with restoration of cardiac output.
+- **Plan:**  
+  - Daily BMP, monitor urine output.
+  - Avoid nephrotoxins.
+  - Nephrology consulted; no dialysis needed.
+
+#### 3. **Pulmonary Edema/Hypoxemic Respiratory Failure**
+- **Assessment:**  
+CXR with bilateral opacities, ABG with moderate hypoxemia, required BiPAP initially.
+- **Plan:**  
+  - Wean off BiPAP as tolerated.
+  - Diurese to euvolemia.
+  - Monitor for secondary infection.
+
+#### 4. **History of Asthma/Allergic Rhinitis/Sinusitis**
+- **Assessment:**  
+No acute bronchospasm during admission. Mild nasal congestion.
+- **Plan:**  
+  - Continue home inhalers.
+  - ENT to follow for chronic sinusitis.
+
+#### 5. **Hypertension/Obesity**
+- **Assessment:**  
+BP labile during ICU course. Obesity complicates management.
+- **Plan:**  
+  - Resume home antihypertensives as tolerated.
+  - Nutrition consult for weight management.
+
+#### 6. **OB/GYN History (Recent Preeclampsia, Multiple Pregnancies, Miscarriage)**
+- **Assessment:**  
+No current pregnancy. Cardiac dysfunction likely related to peripartum state.
+- **Plan:**  
+  - OB/GYN to follow for reproductive counseling.
+  - Contraception discussed.
+
+#### 7. **Medication Reconciliation**
+- **Assessment:**  
+On multiple antihypertensives, inhalers, and contraceptives.
+- **Plan:**  
+  - Continue as tolerated, hold nephrotoxic agents.
+  - Allergy to penicillin noted.
+
+#### 8. **Other Issues**
+- **DVT prophylaxis:** SCDs, heparin SQ.
+- **GI prophylaxis:** Pantoprazole.
+- **Physical therapy:** To evaluate for deconditioning.
+- **Psychosocial:** Social work consult; significant family stressors.
+
+---
+
+### **ICU FLOW SHEET**
+
+**Vitals (Selected):**
+
+| Date        | Temp (°C) | HR (bpm) | BP (mmHg)     | RR  | SpO2 (%) | Notes                          |
+|-------------|-----------|----------|---------------|-----|----------|--------------------------------|
+| 4/19/24 AM  | 37.3      | 124      | 84/52         | 28  | 91       | On BiPAP, confused             |
+| 4/20/24 AM  | 37.1      | 110      | 90/60         | 24  | 95       | Impella placed                 |
+| 4/21/24 PM  | 36.9      | 98       | 106/67        | 20  | 98       | Improving, extubated           |
+| 4/23/24     | 36.8      | 88       | 116/74        | 18  | 99       | Transfer to step-down planned  |
+
+---
+
+### **LABS**
+
+**CBC / CHEM7 / Cardiac Markers**
+
+| Date       | WBC   | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | BNP    |
+|------------|-------|------|------|------|------|------|------|------|------|------|------|----------|--------|
+| 4/19/24 AM | 6.0   | 12.8 | 36   | 341  | 133  | 5.2  | 102  | 18   | 23   | 0.8  | 145  | 0.18     | 1890   |
+| 4/20/24 AM | 8.4   | 11.2 | 32   | 295  | 129  | 5.7  | 100  | 16   | 34   | 2.3  | 162  | 0.41     | 2120   |
+| 4/21/24    | 7.7   | 11.8 | 33   | 312  | 134  | 4.8  | 104  | 19   | 28   | 1.7  | 137  | 0.13     | 1780   |
+| 4/22/24    | 6.9   | 12.1 |      |      | 136  | 4.4  | 103  | 22   | 19   | 1.2  | 121  | <0.01    | 950    |
+| 4/23/24    |       | 12.7 | 36   | 354  | 138  |      | 105  | 23   | 14   | 1.0  | 109  | <0.01    | 600    |
+
+**Other labs:**
+- LFTs: AST peaked at 108 (4/20), ALT 95, normalizing by discharge.
+- ABG (4/19): pH 7.29 / PaCO2 37 / PaO2 61 / HCO3 17 (on BiPAP)
+- Lactate: 4.2 (4/19), trending down to 1.1 by 4/23.
+- INR/PTT: Stable, INR 1.2
+- UA: bland
+
+---
+
+### **PROCEDURES**
+
+- **Impella CP placement:** Left femoral artery, HD2, no immediate complications.
+- **Right heart cath:** RA 12, RV 41/10, PA 48/25, PCWP 29, CI 1.6 pre-Impella.
+
+---
+
+### **DISCHARGE PLAN**
+
+- **Disposition:** Home with home health
+- **Follow-up:** Cardiology, Nephrology, OB/GYN, Primary Care
+- **Medications:** GDMT for HF (carvedilol, sacubitril/valsartan, spironolactone), resume antihypertensives, continue inhalers, contraception
+- **Instructions:** Daily weights, strict fluid/salt restriction, monitor for symptoms
+
+---
+
+### **PHYSICIAN ATTESTATION**
+
+This is an accurate reflection of the patient’s hospital course and current status.
+
+**Attending:** Dr. J. Kline, MD  
+**Date/Time:** 4/23/24 17:12
+
+---

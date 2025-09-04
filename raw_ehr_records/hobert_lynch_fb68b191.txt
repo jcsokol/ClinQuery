@@ -1,0 +1,225 @@
+---
+**Patient Name:** Hobert Lynch  
+**MRN:** 003781245  
+**DOB:** 07/13/1983  
+**Sex:** Male  
+**Admit Date:** 04/21/2024  
+**Attending:** Dr. S. Patel  
+**Primary Team:** Cardiology/ICU  
+**Location:** CVICU, Bed 4  
+
+---
+
+**HISTORY OF PRESENT ILLNESS:**  
+40 y/o M with PMHx of DM2, HTN, CKD 1, anemia, hypertriglyceridemia, metabolic syndrome, diabetic neuropathy, OA of hands, and recurrent viral sinusitis, who presented with progressive SOB, orthopnea, lower extremity edema, and chest tightness for 4 days. Denied fevers/chills. He had been treated for acute bronchitis 1 week prior with albuterol and fluticasone, but respiratory status worsened. Presented to ED in acute distress, tachypneic, hypoxic, and borderline hypotensive.
+
+Initial workup notable for acute decompensated heart failure with evidence of cardiogenic shock (SBP 84/52, lactate 4.2, troponin T 0.19, BNP 1470). Echo: severely reduced LVEF (20%), global hypokinesis, no LV thrombus, RV mildly dilated. Cardiology consulted; emergent transfer to ICU for inotropic support. Due to persistent hypotension and worsening end-organ hypoperfusion despite high-dose dobutamine and norepinephrine, decision made to place temporary percutaneous LVAD (Impella CP) on hospital day 1.
+
+---
+
+**HOSPITAL COURSE (ICU Days 1-9):**  
+**Day 1:**  
+- Emergent Impella CP placed via right femoral artery, good flows confirmed.  
+- Started on heparin drip, broad-spectrum abx (cefepime, vanc) for possible sepsis.  
+- Intubated for impending respiratory failure.  
+- Initiated insulin drip for glucose control.  
+- Foley, central line, A-line placed.  
+
+**Day 2-3:**  
+- Remained on Impella, weaned off norepi by day 3.  
+- Diuresed with IV Lasix, net negative 2.5L.  
+- Renal function worsened (Cr up to 4.1), nephrology consulted.  
+- Mild transaminitis, likely ischemic hepatitis.  
+- Recurrent hypoglycemia, insulin adjusted.  
+- Blood cultures negative x2.  
+- WBC trended down, likely stress leukopenia.  
+- Started on low-dose aspirin and atorvastatin.  
+
+**Day 4-5:**  
+- Gradual improvement in mentation, extubated on day 5.  
+- Impella weaning trial successful, device removed on day 5.  
+- Transitioned to oral HF meds (metoprolol, sacubitril/valsartan, spironolactone).  
+- Developed mild hematuria, urology consulted.  
+- Hb dropped to 8.4, transfused 1U PRBC.  
+
+**Day 6-9:**  
+- Renal function slowly improved (Cr 2.7 by day 9).  
+- Continued diuresis, weight down 7kg from admission.  
+- Glucose stabilized on basal-bolus insulin.  
+- Persistent low-grade fevers, CXR with RLL infiltrate → started on levofloxacin for HAP.  
+- Mobilized with PT/OT, mild hand pain due to OA.  
+- Discharged to telemetry floor on day 9 for continued HF management.  
+
+---
+
+**PROBLEM LIST/ASSESSMENT & PLAN:**  
+
+**1. Cardiogenic Shock s/p Temporary LVAD (Impella) Placement**  
+- Etiology: likely viral myocarditis superimposed on chronic metabolic syndrome, DM2, HTN  
+- Status: now off LVAD, hemodynamically stable, LVEF improved to 25%  
+- Plan: continue guideline-directed medical therapy (GDMT), daily weights, strict I&O, monitor for recurrent arrhythmias, cardiac rehab referral  
+
+**2. Acute Decompensated Heart Failure**  
+- HFrEF, now euvolemic  
+- Plan: metoprolol succinate, sacubitril/valsartan, spironolactone, furosemide PRN, low Na diet, fluid restriction  
+
+**3. Diabetes Mellitus Type 2**  
+- Poor control on admission, now improved  
+- Plan: basal-bolus insulin, monitor for hypoglycemia, endocrinology f/u, A1c pending  
+
+**4. Acute Kidney Injury on CKD 1**  
+- Likely multifactorial: cardiorenal, pre-renal from diuresis, nephrotoxic agents  
+- Plan: monitor renal panel daily, avoid nephrotoxins, nephrology f/u, adjust meds for GFR  
+
+**5. Anemia**  
+- Baseline likely chronic, acute drop post-Impella (hemolysis, blood loss)  
+- Plan: monitor CBC, Fe studies, consider GI source if persistent, PRBC as needed  
+
+**6. Hospital-Acquired Pneumonia**  
+- New RLL infiltrate, low-grade fevers  
+- Plan: levofloxacin x7d, monitor cultures, incentive spirometry, pulmonary toilet  
+
+**7. Hypertension**  
+- Now controlled on current regimen  
+- Plan: continue home HCTZ, monitor BP, titrate as tolerated  
+
+**8. Hypertriglyceridemia & Metabolic Syndrome**  
+- Plan: atorvastatin, lifestyle counseling, DM/HTN optimization  
+
+**9. Diabetic Neuropathy**  
+- Plan: gabapentin at discharge, podiatry f/u  
+
+**10. Osteoarthritis of Hands**  
+- Plan: naproxen PRN, PT/OT, hand splinting  
+
+**11. Viral Sinusitis**  
+- Plan: supportive, fluticasone PRN, monitor for secondary bacterial infection  
+
+---
+
+**LABS (SELECTED):**  
+
+| Date       | WBC (10^3/uL) | Hgb (g/dL) | Plt (10^3/uL) | Na (mmol/L) | K (mmol/L) | Cr (mg/dL) | BUN (mg/dL) | Glu (mg/dL) | AST (U/L) | ALT (U/L) | Troponin (ng/mL) | BNP (pg/mL) |
+|------------|---------------|------------|--------------|-------------|------------|------------|-------------|-------------|-----------|-----------|------------------|-------------|
+| 4/21/24    | 12.1          | 13.2       | 407          | 147         | 5.1        | 3.9        | 24          | 305         | 88        | 44        | 0.19             | 1470        |
+| 4/22/24    | 7.7           | 11.6       | 389          | 143         | 4.7        | 4.1        | 29          | 180         | 67        | 38        | 0.12             | 1210        |
+| 4/23/24    | 5.9           | 10.2       | 366          | 141         | 4.5        | 3.7        | 28          | 140         | 49        | 29        | 0.07             | 950         |
+| 4/24/24    | 4.3           | 9.4        | 340          | 140         | 4.2        | 3.4        | 24          | 112         | 41        | 22        | –                | 710         |
+| 4/25/24    | 3.8           | 8.4        | 324          | 137         | 4.0        | 3.2        | 22          | 106         | 33        | 19        | –                | –           |
+| 4/26/24    | –             | 9.1        | 355          | 139         | 4.3        | 2.9        | 19          | 124         | 28        | 17        | –                | –           |
+| 4/28/24    | 4.7           | 10.7       | 371          | 141         | 4.1        | 2.7        | 17          | 128         | 25        | 14        | –                | –           |
+
+*Missing data reflects values not drawn or pending.*
+
+**Other Notable Labs:**  
+- Lactate (4/21): 4.2 mmol/L → normalized by 4/24  
+- INR: 1.1–1.3 throughout stay  
+- A1c: 8.7% (drawn 4/23)  
+- Urinalysis: +protein, +glucose, trace blood  
+- Microalbumin/Cr: 19 mg/g  
+
+---
+
+**DISCHARGE MEDICATIONS:**  
+- Metoprolol succinate 100mg PO daily  
+- Sacubitril/valsartan 49/51mg PO BID  
+- Spironolactone 25mg PO daily  
+- Furosemide 40mg PO BID  
+- Insulin glargine 38U qHS, insulin lispro sliding scale  
+- Atorvastatin 40mg PO daily  
+- HCTZ 12.5mg PO daily  
+- Aspirin 81mg PO daily  
+- Gabapentin 100mg PO TID  
+- Naproxen 220mg PO PRN  
+- Fluticasone 44mcg 2 puffs BID  
+- Albuterol 2 puffs q4h PRN  
+- Acetaminophen 325mg PO PRN  
+
+---
+
+**DISPOSITION:**  
+- To telemetry floor for continued HF optimization  
+- Cardiac rehab referral  
+- Endocrine, nephrology, and PT/OT f/u  
+
+---
+
+**PHYSICIAN SIGNATURE:**  
+S. Patel, MD  
+Cardiology/Critical Care
+
+---
+
+**DOCUMENTATION COMPLETED:** 04/29/2024 09:31  
+**Page 1/4**
+
+---
+
+**Additional Labs (Chem7, CBC, Cardiac Markers, LFTs) (selected):**  
+[Inconsistent formatting as seen in real-world charting]
+
+| Date    | Na | K | Cl | CO2 | BUN | Cr | Glu | WBC | Hgb | Plt | AST | ALT | Troponin | BNP |  
+|---------|----|----|----|-----|-----|----|-----|-----|-----|-----|-----|-----|----------|-----|  
+| 4/21    | 147 | 5.1 | 108 | 25 | 24 | 3.9 | 305 | 12.1 | 13.2 | 407 | 88 | 44 | 0.19 | 1470 |  
+| 4/22    | 143 | 4.7 | 105 | 23 | 29 | 4.1 | 180 | 7.7 | 11.6 | 389 | 67 | 38 | 0.12 | 1210 |  
+| 4/23    | 141 | 4.5 | 104 | 22 | 28 | 3.7 | 140 | 5.9 | 10.2 | 366 | 49 | 29 | 0.07 | 950 |  
+| 4/24    | 140 | 4.2 | 102 | 21 | 24 | 3.4 | 112 | 4.3 | 9.4 | 340 | 41 | 22 | – | 710 |  
+| 4/25    | 137 | 4.0 | 100 | 20 | 22 | 3.2 | 106 | 3.8 | 8.4 | 324 | 33 | 19 | – | – |  
+| 4/26    | 139 | 4.3 | 101 | 21 | 19 | 2.9 | 124 | – | 9.1 | 355 | 28 | 17 | – | – |  
+| 4/28    | 141 | 4.1 | 103 | 20 | 17 | 2.7 | 128 | 4.7 | 10.7 | 371 | 25 | 14 | – | – |  
+
+---
+
+**NURSING NOTE (4/24/24 09:45):**  
+Pt awake, alert, oriented x3, mild SOB with exertion, mild LE edema, O2 sat 96% RA, HR 84, BP 112/68, pain 2/10 in hands. Foley draining clear yellow urine. Impella site clean, dry, hemostatic. Foley removed 4/25, ambulating with assist.
+
+---
+
+**CARDIOLOGY CONSULT NOTE (4/22/24):**  
+Impression: Cardiogenic shock, likely viral myocarditis on background of DM2/metabolic syndrome.  
+Recommendations: Continue Impella, heparin, GDMT for HF, monitor for arrhythmia, daily TTE, extubate when feasible.
+
+---
+
+**PT/OT EVAL (4/27/24):**  
+Patient weak but improving, able to transfer bed to chair with moderate assistance. Endurance poor, but motivated. Recommend ongoing rehab, hand splint for OA.
+
+---
+
+**Page 2/4**
+
+---
+
+**PHYSICIAN ORDERS:**  
+- Daily CBC, Chem7, LFTs  
+- Telemetry monitoring  
+- Strict I&O  
+- Cardiac rehab referral  
+- Diet: 2g Na, ADA  
+- Foley removal when ambulating safely  
+- PT/OT daily  
+- CXR q48h  
+- Blood cultures x2 on admission  
+- Heparin drip titration  
+- DVT prophylaxis (SCDs, SQ heparin)
+
+---
+
+**DISCHARGE SUMMARY (abbreviated):**  
+Mr. Hobert Lynch, 40M with complex PMHx, was admitted with acute decompensated HFrEF and cardiogenic shock, requiring temporary LVAD (Impella) support. His course was complicated by AKI, anemia, and HAP, all of which improved with ICU-level care. He is now hemodynamically stable, euvolemic, and ready for step-down care.
+
+---
+
+**Page 3/4**
+
+---
+
+**SIGNATURE:**  
+S. Patel, MD  
+Cardiology/ICU  
+Date/Time: 04/29/2024 10:02
+
+---
+
+**END OF NOTE**  
+**Page 4/4**

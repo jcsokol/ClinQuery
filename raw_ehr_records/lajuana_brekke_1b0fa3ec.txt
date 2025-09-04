@@ -1,0 +1,150 @@
+```
+--------------------------------------------------------------------------------
+Patient Name: Lajuana Brekke                MRN: 00938275     FIN: 3482930
+DOB: 07/21/1954 (Age: 69)                   Sex: Female
+Admit Date: 03/15/2024                      Attending: Dr. R. Vasquez
+Admitting Dx: Cardiogenic shock s/p STEMI    Service: MICU
+--------------------------------------------------------------------------------
+
+HISTORY OF PRESENT ILLNESS:
+69F with PMHx of metastatic breast cancer (on abemaciclib, tamoxifen, doxorubicin), obesity, chronic pain, chronic migraines, recurrent UTI, and recent drug overdose (unclear intentionality), presents after acute onset chest pain and syncope at home. Found by family, EMS noted hypotension (SBP 60s), tachycardia (HR 120s), O2 sat 88% RA. EKG with anterior STEMI. She was emergently brought to the cath lab, found to have 99% proximal LAD occlusion. Underwent PCI x1 DES, but remained hypotensive and hypoxic despite revascularization and pressors. IABP placed, subsequently upgraded to Impella CP for ongoing cardiogenic shock. Admitted to MICU.
+
+--------------------------------------------------------------------------------
+HOSPITAL COURSE SUMMARY (MICU DAYS 1-7):
+
+Day 1: Admission to ICU s/p LAD PCI. Hypotensive, requiring norepinephrine, dobutamine. Impella CP placed for persistent cardiogenic shock. Started on broad-spectrum abx for possible aspiration. Intubated for hypoxic resp failure. SCr uptrending, urine output low. CXR: Pulm edema.
+
+Day 2: Stable on Impella, pressors weaned. Echo: LVEF 15%, akinetic anterior wall. Mild MR. UOP improved w/ diuresis. Lactate downtrending. Extubated to HFNC.
+
+Day 3: Pressors off. Renal function stabilizing. Developed fever, WBC 13K. Blood cx sent. Started on vanc/cefepime. Mild delirium. Pain controlled on PCA.
+
+Day 4: Impella flows decreased, weaning begun. TTE: LVEF 25%. Transient A-fib, self-limited. Platelets trending down (nadir 85K). No evidence hemolysis.
+
+Day 5: Impella removed. Remained hemodynamically stable. O2 weaned to NC. Diuresis ongoing. Mild transaminitis (AST/ALT 70/65). UTI sxs, UA +, started on ceftriaxone.
+
+Day 6: Mobilizing w/ PT. Appetite poor. Mood depressed, psych consulted. Pain reasonable.
+
+Day 7: Transferred to stepdown. Plan for continued cardiac rehab, oncology f/u, pain management.
+
+--------------------------------------------------------------------------------
+LABS (Selected CBC/Chem7 and additional relevant labs)
+
+| Date       | WBC   | Hgb   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | AST | ALT | Troponin | Lactate |
+|------------|-------|-------|-------|------|------|------|------|------|------|-----|-----|----------|---------|
+| 3/15/2024  | 9.7   | 15.1  | 160   | 138  | 4.5  | 102  | 23   | 22   | 1.1  | 31  | 28  | 10.2     | 4.1     |
+| 3/16/2024  | 11.2  | 14.2  | 142   | 136  | 4.2  | 99   | 21   | 31   | 1.8  | 38  | 34  | 8.4      | 2.7     |
+| 3/17/2024  | 13.1  | 13.5  | 125   | 137  | 3.9  | 100  | 20   | 26   | 1.4  | 42  | 40  | 3.1      | 1.5     |
+| 3/18/2024  | 12.3  | 12.8  | 100   | 139  | 4.1  | 101  | 22   | 19   | 1.2  | 55  | 52  | 0.7      | 1.1     |
+| 3/19/2024  | 10.8  | 12.5  | 85    | 140  | 4.0  | 100  |      | 18   | 1.0  | 70  | 65  | <0.04    | —       |
+| 3/20/2024  | 9.5   | 12.9  | 110   |      | 4.2  | 102  | 23   | 16   | 0.9  | 52  | 48  | <0.04    | 0.9     |
+| 3/21/2024  | 8.7   | 13.1  | 130   | 141  | 4.3  | 103  | 24   | 18   | 1.0  | 40  | 39  | <0.04    | 0.8     |
+
+Other notable labs:
+- BNP: 2280 pg/mL (3/15/2024)
+- UA: +LE, +nitrite, WBCs 25/hpf (3/19/2024)
+- Blood cx: No growth (all)
+- Coags: INR 1.2, PTT 34 (3/15/2024, stable)
+
+--------------------------------------------------------------------------------
+PHYSICAL EXAM (Day 5):
+GEN: Alert. Mild distress (pain 3/10). NAD.
+CV: S1, S2, S3. No murmur. JVP 8cm. No edema.
+RESP: Lungs clear, mild crackles bibasilar. O2 2L NC.
+ABD: Soft, NT, mild hepatomegaly.
+NEURO: AOx3, mild confusion.
+EXT: No cyanosis, no DVT.
+SKIN: Well-healing forearm lac.
+
+--------------------------------------------------------------------------------
+PROBLEM-BASED ASSESSMENT & PLAN
+
+1. **Cardiogenic Shock s/p STEMI, Impella CP**
+   - LAD PCI, Impella placed for persistent shock
+   - Weaned off Impella, now HD stable
+   - Continue guideline-directed medical therapy (GDMT): ASA, ticagrelor, statin, beta-blocker as tolerated
+   - Serial EKGs/telemetry, daily weights, strict I/Os
+   - Cardiac rehab consult
+
+2. **Heart Failure, LVEF 15% -> 25%**
+   - Diuresis w/ furosemide
+   - Monitor renal function, electrolytes
+   - Daily weights, sodium restriction
+   - Echo f/u in OP
+
+3. **Metastatic Breast Cancer**
+   - On abemaciclib, tamoxifen, doxorubicin
+   - Oncology f/u, resume chemo as tolerated
+   - Monitor for cytopenias, LFTs
+
+4. **Chronic Pain/Chronic Migraine**
+   - Continue home meds, avoid NSAIDs due to AKI risk
+   - PCA as needed, transition to PO soon
+   - Pain management consult
+
+5. **Obesity**
+   - Dietician consult
+   - Encourage mobility as tolerated
+
+6. **Delirium/Depression**
+   - Minimize sedatives, re-orient frequently
+   - Psych consult, consider SSRI
+
+7. **Recurrent UTI**
+   - Treated empirically w/ ceftriaxone
+   - Remove Foley ASAP
+
+8. **Acute Viral Pharyngitis**
+   - Supportive care, no abx
+
+9. **Forearm Laceration**
+   - Well-healed, no signs infection
+
+10. **Drug Overdose (remote)**
+   - None during this admission, monitor for withdrawal/intentionality
+
+--------------------------------------------------------------------------------
+DISCHARGE PLANS / FOLLOW-UP (pending):
+- Cardiac rehab, outpatient echo
+- Oncology clinic for chemo resumption
+- Outpatient pain management
+- Psych f/u
+- PCP in 1 week
+
+--------------------------------------------------------------------------------
+MEDICATIONS (During Admission)
+- ASA 81mg PO daily
+- Ticagrelor 90mg PO BID
+- Atorvastatin 80mg PO daily
+- Metoprolol succinate 25mg PO daily
+- Furosemide 40mg IV daily
+- Vancomycin IV (d/c’d)
+- Cefepime IV (d/c’d)
+- Ceftriaxone IV (UTI)
+- Hydrocortisone 10mg/mL topical
+- Diphenhydramine 25mg PO prn
+- Tamoxifen 10mg PO daily
+- Abemaciclib 100mg PO daily
+- PCA hydromorphone (tapered)
+
+--------------------------------------------------------------------------------
+MICU NURSING NOTE (Day 4 excerpt)
+Pt resting, Impella flows 3.2L/min, MAPs 65-70, UOP 1.1L/24hr. Labs drawn. Denies chest pain. Mild confusion, reoriented. Family at bedside.
+
+--------------------------------------------------------------------------------
+RADIOLOGY (selected)
+- CXR 3/15: Pulm edema, ETT in good position
+- TTE 3/16: LVEF 15%, severe hypokinesis anterior wall, mild MR
+- TTE 3/18: LVEF improved to 25%
+
+--------------------------------------------------------------------------------
+CONSULTS
+- Cardiology: STEMI/post-Impella management
+- Oncology: Chemo holding, f/u plan
+- Pain management: Resume home regimen, wean IV
+- Psychiatry: Depression, adjustment disorder
+
+--------------------------------------------------------------------------------
+ALLERGIES: NKDA
+
+--------------------------------------------------------------------------------
+```

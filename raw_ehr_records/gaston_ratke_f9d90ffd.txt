@@ -1,0 +1,156 @@
+---
+**Epic EHR - INPATIENT PROGRESS NOTE**  
+**Patient Name:** Gaston Ratke  
+**MRN:** 00294712  
+**DOB:** 05/02/1979 (Age 44)  
+**Sex:** Male  
+**Date of Admission:** 04/15/2024  
+**Attending:** Dr. Eliza H.  
+**Consultants:** Cardiology, Infectious Disease, Endocrinology  
+**Location:** MICU, Room 12
+
+---
+
+### CHIEF COMPLAINT
+Shortness of breath, chest pain, and cough for 4 days.
+
+---
+
+### HISTORY OF PRESENT ILLNESS  
+44-year-old male with past medical history of prediabetes, chronic anemia, and chronic sinusitis who presented with acute onset of dyspnea, orthopnea, and pleuritic chest pain, associated with non-productive cough and low-grade fevers. Patient initially self-treated at home for presumed viral sinusitis/bronchitis but developed progressive fatigue, leg swelling, and lightheadedness. On arrival to the ED, he was tachycardic, hypotensive, and hypoxic, requiring 4L O2 by nasal cannula. CXR revealed pulmonary edema. Troponin was elevated, echo showed severely reduced LVEF (15%) with global hypokinesis. He deteriorated rapidly with worsening shock and was transferred to the ICU. Cardiology consulted; decision made to place a temporary percutaneous left ventricular assist device (Impella CP) for cardiogenic shock.
+
+---
+
+### HOSPITAL COURSE SUMMARY  
+- **Days 1-2:** Progressive cardiogenic shock, requiring norepinephrine and dobutamine. Impella placed, diuresed aggressively.  
+- **Day 3:** Improved end-organ perfusion, renal function stabilized, weaned off vasopressors.  
+- **Day 4:** Developed low-grade fever, persistent cough. CXR and sputum cultures sent.  
+- **Day 5:** Sinus tachycardia, mild transaminitis, likely secondary to hypoperfusion.  
+- **Day 6:** Impella weaned and removed after TTE showed recovery of LVEF to 35%.  
+- **Day 7:** Stable off device, transitioned out of ICU to telemetry.
+
+---
+
+### PAST MEDICAL HISTORY  
+- Prediabetes  
+- Chronic anemia (likely iron deficiency, on PO iron)  
+- Chronic sinusitis  
+- Acute bronchitis (recent)  
+- Prior 1st degree burn (resolved)  
+
+### PAST SURGICAL HISTORY  
+- None
+
+### ALLERGIES  
+- NKDA
+
+### HOME MEDICATIONS  
+- Ferrous sulfate 325 mg PO daily  
+- Acetaminophen/dextromethorphan/doxylamine PRN  
+- Acetaminophen 325 mg PO PRN
+
+---
+
+### VITALS (select values, see flowsheet for full data)
+| Date/Time      | Temp (°C) | HR (bpm) | BP (mmHg) | RR | SpO2 (%) | Pain (0-10) |
+|----------------|-----------|----------|-----------|----|----------|-------------|
+| 4/15 18:00     | 37.1      | 116      | 88/50     | 22 | 91       | 3           |
+| 4/16 06:00     | 36.9      | 110      | 92/56     | 18 | 95       | 2           |
+| 4/18 07:00     | 37.5      | 102      | 106/64    | 16 | 97       | 2           |
+| 4/20 08:00     | 36.7      | 88       | 124/72    | 14 | 98       | 1           |
+
+---
+
+### LABS
+
+#### HOSPITAL COURSE CBC & CHEM7 (selected)
+
+| Date        | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|-------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|
+| 4/15 19:00  | 7.2        | 13.8       | 37      | 244        | 139         | 4.2        | 104         | 19           | 18          | 1.8        | 142         |
+| 4/16 06:00  | 6.9        | 13.2       | 35      | 237        | 138         | 4.1        | 106         | 18           | 20          | 2.0        | 128         |
+| 4/17 06:00  | 6.4        | 12.6       | 33      | 233        | 140         | 3.8        | 108         | 21           | 22          | 2.1        | 110         |
+| 4/18 07:00  | 7.1        | 12.9       | 34      | 250        | 140         | 4.0        | 107         | 22           | 15          | 1.5        | 98          |
+| 4/19 08:00  | 8.3        | 13.1       | 35      | 260        | 141         | 4.2        | 109         | 24           | 14          | 1.3        | 94          |
+| 4/20 08:00  | 7.0        | 13.4       | 36      | 265        | 140         | 4.0        | 107         | 23           | 13          | 1.2        | 90          |
+
+#### ADDITIONAL LABS
+
+| Date        | Troponin (ng/mL) | BNP (pg/mL) | AST (U/L) | ALT (U/L) | Lactate (mmol/L) | Ferritin (ng/mL) | Iron (ug/dL) | TIBC (ug/dL) |
+|-------------|------------------|-------------|-----------|-----------|------------------|------------------|--------------|--------------|
+| 4/15        | 0.36             | 4200        | 75        | 63        | 2.8              | 44               | 32           | 310          |
+| 4/16        | 0.18             | 3900        | 58        | 52        | 1.6              | --               | --           | --           |
+| 4/18        | 0.04             | 2100        | 38        | 35        | 1.1              | --               | --           | --           |
+
+---
+
+### MICROBIOLOGY
+- Blood cultures x2 negative
+- Sputum culture: normal respiratory flora
+- SARS-CoV-2 PCR: negative
+
+---
+
+### IMAGING
+- **CXR (4/15):** Pulmonary edema, mild cardiomegaly, no consolidation.
+- **Echocardiogram (4/15):** LVEF 15%, global hypokinesis, mild MR.
+- **Echocardiogram (4/19):** LVEF improved to 35%, trace MR.
+
+---
+
+### ASSESSMENT & PLAN
+**44M w/ prediabetes, chronic anemia, chronic sinusitis, admitted for acute decompensated heart failure/cardiogenic shock, required temporary LV support.**
+
+#### 1. Cardiogenic Shock / Acute Decompensated Heart Failure
+- Likely viral myocarditis vs. ischemic insult (troponin rise, global hypokinesis, no focal wall motion abnormalities)
+- Required Impella CP for 5 days, now weaned/removed
+- Guideline-directed medical therapy initiated (low-dose carvedilol, lisinopril, close monitoring)
+- Diuresed to euvolemia, off pressors
+- Monitor for arrhythmias, daily weights, strict I/O
+- Cardiac MRI pending outpatient for further etiology
+
+#### 2. Chronic Anemia (Iron Deficiency)
+- Hgb trended from 13.8 to 13.4; baseline mild anemia, likely iron-deficiency
+- Continue PO ferrous sulfate
+- Monitor CBC, iron studies
+- No evidence of acute blood loss
+
+#### 3. Prediabetes
+- Glucose stable, no inpatient hyperglycemia
+- A1c 6.3% on admission
+- Dietician consult, recommend lifestyle modification
+
+#### 4. Acute & Chronic Sinusitis / Recent Bronchitis
+- Persistent cough, low-grade fever resolved
+- No growth on sputum culture, likely viral
+- Supportive care, nasal saline, PRN acetaminophen
+- ENT to follow as outpatient
+
+#### 5. Transaminitis
+- Mild AST/ALT elevation with shock, now improving
+- Monitor LFTs
+
+#### 6. Electrolyte Abnormalities/Renal Injury
+- Mild AKI on admission (Cr 2.1), now improved (Cr 1.2)
+- Monitor renal function
+
+#### 7. Other
+- DVT prophylaxis (heparin SQ)
+- Physical therapy consult for deconditioning
+- Social work consult for discharge planning
+
+---
+
+### DISCHARGE PLANNING  
+- Anticipate transfer to step-down on 4/21
+- Outpatient follow-up: cardiology (1 week), PCP, ENT
+- Instructions on heart failure symptoms, medication adherence
+
+---
+
+**Provider:** Dr. Eliza H., MD  
+**Date/Time:** 4/20/2024 09:45
+
+---
+
+**End of Note**

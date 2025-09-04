@@ -1,0 +1,164 @@
+---
+**Patient Name:** Gerald Schneider  
+**MRN:** 00451298  
+**Sex:** Female  
+**DOB:** 1963-10-03  
+**Admit Date:** 2024-05-22  
+**Attending:** Dr. C. Williams  
+**Unit:** MICU  
+**CC:** Progressive dyspnea, orthopnea, confusion  
+**Consults:** Cardiology, Neurology, Endocrine
+
+---
+
+# ICU Progress Note (Hospital Day 9)
+
+## Subjective
+
+**History of Present Illness:**  
+60-year-old female with significant PMHx including prediabetes, anemia, hyperlipidemia, remote TBI, and recent URI, who presented with 3 days of worsening SOB, orthopnea, lower extremity edema, and confusion. On arrival: hypotensive (MAPs 55-60), tachycardic, O2 sat 85% RA. CXR: pulmonary edema. Echo: severe global LV dysfunction (EF ~12%), moderate MR, RV mild dysfunction. Troponin mildly elevated. Transferred to MICU for cardiogenic shock. Temporary LVAD (Impella CP) placed for hemodynamic support on HD2.
+
+**Overnight Events:**  
+- Remained on Impella support, weaning vasopressors.
+- No arrhythmias overnight.
+- Urine output improved after diuresis.
+- Mild delirium, likely multifactorial.
+
+**ROS:**  
+- No chest discomfort today.
+- No new fevers.
+- No bleeding.
+- Mild cough, no hemoptysis.
+
+---
+
+## Objective
+
+### Vitals (last 24hr):
+| Time   | Temp (C) | HR | BP (MAP) | RR | SpO2 | Pain |
+|--------|----------|----|----------|----|------|------|
+| 0700   | 37.8     | 92 | 110/58   | 19 | 97%  | 2    |
+| 1400   | 37.4     | 85 | 104/55   | 18 | 96%  | 3    |
+| 2300   | 37.7     | 88 | 108/62   | 17 | 97%  | 3    |
+
+### Physical Exam (abbreviated):
+- **GEN:** Drowsy, intermittently oriented, NAD
+- **CV:** Tachy, S1S2, soft holosystolic murmur, Impella audible
+- **RESP:** Bibasilar crackles, decreased at bases
+- **ABD:** Soft, NT, +BS
+- **EXT:** 1+ edema BLEs
+- **NEURO:** Follows commands, some confusion, no focality
+
+---
+
+### Labs
+
+#### CBC & Chemistries
+
+| Date      | WBC   | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2   | BUN   | Cr    | Glu   |
+|-----------|-------|------|------|-------|------|------|------|-------|-------|-------|-------|
+| 5/22 06:10| 7.9   | 15.2 | 47.3 | 182   | 141  | 3.9  | 105  | 23    | 19    | 0.91  | 88    |
+| 5/23 06:35| 8.5   | 14.3 | 45.2 | 171   | 143  | 4.1  | 106  | 22    | 22    | 1.08  | 94    |
+| 5/24 07:00| 9.8   | 12.9 | 41.0 | 155   | 142  | 4.5  | 104  | 21    | 28    | 1.21  | 101   |
+| 5/25 06:15| 10.1  | 12.1 | 38.5 | 148   | 140  | 4.2  | 102  | 20    | 31    | 1.35  | 108   |
+| 5/26 06:22| 9.0   |      |      | 135   | 139  | 4.0  |      | 22    | 29    | 1.28  |       |
+| 5/27 06:45| 7.4   | 11.7 | 36.2 | 132   |      | 3.8  | 104  | 23    | 23    | 1.19  | 97    |
+| 5/28 06:10| 8.2   | 12.3 | 37.4 | 142   | 140  | 4.2  | 106  | 24    | 21    | 1.10  | 93    |
+| 5/29 07:20| 8.1   | 12.5 | 38.1 | 150   | 141  | 4.1  | 105  | 23    | 20    | 0.98  | 91    |
+
+#### Other Labs
+| Date      | BNP   | Trop I | AST  | ALT  | AlkPhos | TBili | Alb   | PT/INR | A1c   | LDL   | HDL   |
+|-----------|-------|--------|------|------|---------|-------|-------|--------|-------|-------|-------|
+| 5/22      | 2980  | 0.07   | 17   | 38   | 120     | 0.4   | 5.3   | 13.2/1.1| 6.3   | 108   | 76    |
+| 5/23      | 2250  | 0.06   | 21   | 41   | 125     | 0.5   | 4.9   | 13.8/1.2|       |       |       |
+| 5/25      | 1330  | <0.01  | 19   | 39   | 119     | 0.4   | 4.7   | 13.5/1.1|       |       |       |
+
+---
+
+### Imaging
+
+- **CXR 5/22:** Pulmonary edema, mild cardiomegaly
+- **TTE 5/22:** Severe global LV hypokinesis, EF 12%, moderate MR, mildly reduced RV
+- **CT Brain 5/23:** Chronic changes, no acute bleed/infarct
+
+---
+
+### Devices/Lines
+- Impella CP, L femoral (HD2-present)
+- R IJ central line (HD1-present)
+- Foley (removed HD6)
+- Radial art line (HD1-HD4)
+
+---
+
+## Assessment & Plan
+
+**1. Cardiogenic Shock - Severe HFrEF, s/p Impella CP**
+   - Cardiogenic shock on presentation, likely acute decompensation of chronic, non-ischemic cardiomyopathy, possibly viral myocarditis vs. ischemic insult (no clear ACS).
+   - Responding to LVAD support, weaning off norepinephrine.
+   - Plan: Continue Impella, goal MAP >65, monitor for hemolysis, daily echo for LV function, consider wean/removal HD10 if stable.
+   - Anticoagulation: Heparin per protocol.
+   - Serial lactate, renal function.
+
+**2. Acute on Chronic Heart Failure**
+   - Volume overloaded, improved with IV furosemide.
+   - Strict I/O, daily weights, sodium-restricted diet.
+   - Continue GDMT as tolerated (hold BB/ACEi for MAP <65).
+
+**3. Anemia**
+   - Hgb trended down to 11.7, likely dilutional, no overt bleeding.
+   - Monitor, transfuse if <8 or symptomatic.
+
+**4. Prediabetes**
+   - Glucose controlled, A1c 6.3%.
+   - Monitor glucose q6h, sliding scale insulin prn.
+
+**5. Hyperlipidemia**
+   - On simvastatin.
+   - Continue, monitor LFTs.
+
+**6. Encephalopathy/Delirium**
+   - Multifactorial: possible hypoperfusion, metabolic, ICU delirium, h/o TBI.
+   - Re-orientation, minimize sedation, neurology following.
+
+**7. Acute Viral Pharyngitis/Sinusitis**
+   - Resolved, no current symptoms.
+
+**8. Remote TBI**
+   - No acute findings. Monitor for neuro changes.
+
+**9. DVT Prophylaxis**
+   - SCDs, heparin as above.
+
+**10. Miscellaneous**
+   - Pain: mild, managed with PRN acetaminophen.
+   - Nutrition: NPO until HD3, now on cardiac diet.
+
+---
+
+## Medications (current)
+
+- Simvastatin 10 mg PO QHS
+- Trinessa 28 Day Pack PO daily
+- Ibuprofen 200 mg PO PRN (avoid if AKI/bleeding)
+- Furosemide 40 mg IV BID
+- Heparin infusion (per Impella protocol)
+- Sliding scale insulin PRN
+- Acetaminophen 650 mg PO PRN
+
+---
+
+## Disposition
+- Remain in MICU, daily reassessment for Impella wean/removal.
+- Cardiology, Neurology, Endocrine following.
+- Family updated daily.
+
+---
+
+**Electronically signed by:**  
+C. Williams, MD  
+2024-05-30 09:04
+
+---
+
+**(Additional pages: nursing flowsheets, daily care plans, consult notes, full medication administration record, additional labs/imaging, etc. available in chart.)**

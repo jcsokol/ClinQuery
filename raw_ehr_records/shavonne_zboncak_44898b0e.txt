@@ -1,0 +1,138 @@
+---
+**Patient Name:** Shavonne Zboncak  
+**MRN:** 00853412  
+**DOB:** 12/07/2001  
+**Sex:** Female  
+**Admit Date:** 05/04/2024  
+**Service:** MICU  
+**Attending:** Dr. R. Han  
+**Consults:** Cardiology, Infectious Disease, CT Surgery  
+**Note Date:** 05/09/2024  
+---
+
+## ICU Progress Note
+
+### Reason for Admission:
+19F with no significant PMHx other than recurrent sinusitis, strep pharyngitis, and a remote thigh laceration, presented to the ED with 2-day history of worsening SOB, myalgias, cough, and fever. Found to be hypotensive, tachycardic, and hypoxic. Initial workup notable for leukocytosis, elevated troponin, and CXR with pulmonary edema. Admitted to MICU for acute decompensated heart failure, suspected myocarditis, and shock requiring temporary mechanical circulatory support.
+
+---
+
+### Hospital Course Summary:
+- **Day 0 (5/4):** ED presentation, rapidly decompensated with cardiogenic shock. Started on norepinephrine and dobutamine. Echo: EF ~10%, global hypokinesis, moderate MR. Emergent consult to CT surgery—Impella CP placed for hemodynamic support.
+- **Day 1-3:** Ongoing pressor/inotrope support, IV abx for possible sepsis (amox/clav, penicillin). Serial labs with worsening renal function, mild transaminitis, and persistent lactic acidosis. ID consult for persistent fever—broad infectious workup negative.
+- **Day 4:** Gradual improvement in end-organ perfusion. Weaned off pressors. Impella turned down, echo with EF up to ~25%. Still on low-dose dobutamine. Extubated.
+- **Day 5-6:** Further improvement, Impella explanted successfully. Continues to improve clinically. Transferred to stepdown.
+
+---
+
+### Current Medications:
+- Acetaminophen 650 mg PO q6h PRN fever/pain
+- Amoxicillin-clavulanate 875-125 mg PO BID (transitioned to PO after 3 days IV)
+- Penicillin V 250 mg PO QID (for strep coverage)
+- Trinessa 28 Day Pack PO daily
+- Furosemide 20 mg IV BID (now PO)
+- Metoprolol 12.5 mg PO BID (initiated day 5)
+- Aspirin 81 mg PO daily
+
+---
+
+### VITALS (Selected)
+| Date/Time         | Temp (C) | HR  | BP        | RR | SpO2 | Pain |
+|-------------------|----------|-----|-----------|----|------|------|
+| 05/04 18:20       | 39.1     | 134 | 76/42     | 27 | 91%  | 7    |
+| 05/05 02:00       | 38.4     | 122 | 85/55     | 23 | 95%  | 5    |
+| 05/06 06:00       | 37.2     | 104 | 102/60    | 18 | 98%  | 3    |
+| 05/07 10:00       | 36.8     | 83  | 116/70    | 16 | 99%  | 2    |
+| 05/09 08:30       | 36.7     | 70  | 120/75    | 14 | 99%  | 2    |
+
+---
+
+### LABS
+
+#### CBC & CHEMISTRIES
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na | K   | Cl | CO2 | BUN | Cr  | Glu | Ca | AST | ALT | T Bili | Troponin | BNP     |
+|------------|------------|------------|------------|----|-----|----|-----|-----|-----|-----|----|-----|-----|--------|----------|---------|
+| 05/04 19:05| 15.2       | 14.9       | 209        | 137| 5.2 | 101| 18  | 29  | 1.8 | 178 | 8.3| 88  | 102 | 1.2    | 4.8      | 3980    |
+| 05/05 06:15| 14.0       | 13.7       | 190        | 139| 4.7 | 99 | 16  | 36  | 2.3 | 151 | -  | 102 | 84  | 1.5    | 2.9      | 5210    |
+| 05/06 09:30| 12.1       | 12.6       | 158        | 140| 4.2 | 102| 21  | 25  | 1.2 | 119 | 8.6| 52  | 61  | 0.9    | 0.8      | 3100    |
+| 05/07 08:02| 9.7        | 11.9       | 170        | 141| 3.8 | 100| 23  | 18  | 0.9 | 106 | 8.7| 31  | 28  | 0.5    | -        | 1400    |
+| 05/08 15:50| 8.6        | 12.8       | 192        | 142| 4.1 | 102| 24  | 15  | 0.8 | 99  | 8.8| 21  | 20  | 0.3    | <0.01    | 480     |
+| 05/09 06:00| 7.7        | 13.2       | 212        | -  | -   | -  | -   | 14  | 0.7 | 92  | -  | -   | -   | -      | <0.01    | 300     |
+
+---
+
+### MICROBIOLOGY & OTHER LABS
+- Blood cx x2 (5/4, 5/5): No growth
+- Respiratory viral PCR: Negative (including influenza, COVID, RSV)
+- Group A strep rapid: Positive
+- Troponin I: See above (peak 4.8 ng/mL)
+- BNP: See above (peak 5210 pg/mL)
+- Urine tox: Negative
+- CXR: Bilateral pulmonary edema, no focal infiltrate
+- Echo (5/4): EF 10%, global hypokinesis, moderate MR, mild RV dysfunction
+- Echo (5/7): EF 25%, improved wall motion, mild MR
+- Lower extremity duplex: No DVT
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock secondary to Fulminant Myocarditis**
+   - Likely viral (recent URI), but infectious workup negative except strep pharyngitis.
+   - Required Impella CP for 4 days.
+   - Now off mechanical support, EF improving, weaning inotropes.
+   - Plan: Continue GDMT, monitor for arrhythmia, repeat echo prior to discharge, outpatient cardiology f/u.
+
+**2. Acute Decompensated Heart Failure (new)**
+   - LVEF improved from 10% to 25%, diuresed ~4L net negative.
+   - Now euvolemic, off O2.
+   - Plan: Initiate low-dose beta blocker, continue gentle diuresis, sodium restriction.
+
+**3. Sepsis (initial concern, now ruled out)**
+   - Persistent fever, leukocytosis, but no source except strep throat.
+   - Blood/urine/resp cultures negative.
+   - Plan: Narrow abx, discontinue after 7 days if afebrile.
+
+**4. Acute Kidney Injury (resolved)**
+   - Likely multifactorial (low flow, inotropes, diuretics).
+   - Creatinine peaked at 2.3, now 0.7.
+   - Plan: Monitor UOP, avoid nephrotoxins.
+
+**5. Transaminitis (resolved)**
+   - AST/ALT peaked at 102/84, likely shock liver.
+   - Trending down, now normal.
+   - Plan: No specific intervention.
+
+**6. Streptococcal Pharyngitis**
+   - Treated with penicillin/amox-clav.
+   - Plan: Complete 10-day course.
+
+**7. Contraception**
+   - Continue Trinessa.
+   - Discuss with GYN if any further issues.
+
+**8. Nutrition/Rehab**
+   - PO intake adequate.
+   - Early mobilization, PT/OT consult.
+
+**9. Psychosocial**
+   - Extensive discussions with family regarding prognosis, recovery.
+   - Social work, psychology involved.
+
+---
+
+### Disposition:
+- Anticipate stepdown transfer today.
+- Cardiology f/u in 1 week, repeat echo in 4 weeks.
+- Patient/family education re: myocarditis, heart failure, warning signs.
+
+---
+
+**Attending:** Dr. R. Han  
+**Resident:** J. Liu, MD  
+**Nurse:** S. Patel, RN  
+
+---
+
+**DOCUMENT ENDS**

@@ -1,0 +1,155 @@
+**EPIC EHR – Progress Note**
+
+**Patient Name:** Jennell Stamm  
+**MRN:** 0084912  
+**Date of Birth:** 08/24/1939 (Age 84)  
+**Sex:** Female  
+**Date of Admission:** 03/01/2024  
+**Date of Note:** 03/09/2024  
+**Attending:** Dr. S. Jensen  
+**Consultants:** Cardiology, Oncology, Nephrology, Infectious Disease
+
+---
+
+### Reason for Admission
+
+84F with h/o stage IV colon CA with hepatic mets, CKD, obesity, recent chemo (FOLFOX regimen), and recurrent GI infections, presenting with acute hypoxemic respiratory failure, hypotension, and evidence of cardiogenic shock. Required ICU admission and placement of a temporary left ventricular assist device (Impella CP) on hospital day 2 for acute decompensated heart failure with low output state. Course complicated by AKI, persistent lactic acidosis, and ongoing GI losses.
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+**Day 0-1:**  
+Presented to ED after 3 days of protracted diarrhea, rectal bleeding, and malaise. Hypotensive (MAP 50s), tachycardic, hypoxemic. Initial labs significant for AKI (Cr 3.2 from baseline 1.2), lactic acid 6.1, WBC 4.5, Hgb 14.7, Plts 428. CXR: pulmonary edema. Echo: EF 18%, global hypokinesis, moderate MR. Admitted to ICU for pressor support, broad spectrum abx, IVF.
+
+**Day 2:**  
+Worsening shock, rising lactate, persistent oliguria. Cardiology consulted. Bedside RHC: CI 1.7, wedge 25. Temporary LVAD (Impella CP) placed. Improved MAP, decreasing vasopressor needs. Started milrinone. Nephrology followed for worsening AKI.
+
+**Day 3-4:**  
+Gradual improvement in end-organ perfusion. Lactate downtrending. Still requiring low dose NE. GI: Continued diarrhea, mild rectal bleeding. Oncology: held chemo. ID: Viral pharyngitis/sinusitis suspected; started oseltamivir empirically, blood/resp cultures negative.
+
+**Day 5:**  
+Impella weaned, successfully removed. Echo: EF improved to 27%. Vasopressors off. Renal function slowly improving (Cr 2.2). Persistent mild transaminitis, likely ischemic hepatitis vs. drug-induced.
+
+**Day 6-8:**  
+Transferred out of ICU to telemetry. Diarrhea improving, oral intake better. Renal function stable. Discharge planning started.
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. Cardiogenic Shock / Acute Decompensated Heart Failure (EF 18%, now 27%)
+- Initial presentation with low output state, pulmonary edema, lactic acidosis.
+- Required temporary LVAD (Impella CP) for 4 days. Milrinone support.
+- Now hemodynamically stable, off pressors and inotropes.
+- Echo: EF improved, but still moderate dysfunction.
+- **Plan:** Continue GDMT (beta blocker held, restart ACEi/ARB as tolerated), daily weights, strict I/Os, monitor for arrhythmias, f/u Cardiology.
+
+### 2. Acute Kidney Injury on CKD
+- Oliguric AKI, likely multifactorial (pre-renal, cardiorenal, possible ischemic injury).
+- Required close volume management, nephrology consult.
+- Improved with hemodynamic stabilization, Cr now 2.1 from peak 3.2.
+- **Plan:** Avoid nephrotoxins, monitor labs, consider renal US if no improvement, f/u Nephrology.
+
+### 3. Advanced Colon Cancer with Hepatic Metastases
+- Undergoing FOLFOX + Leucovorin, last dose ~1 week prior.
+- Chemo held during ICU stay.
+- **Plan:** Resume chemo when stable, discuss goals of care, palliative care consult as appropriate.
+
+### 4. Protracted Diarrhea, Rectal Bleeding
+- Likely multifactorial: infection, chemo-induced mucositis/colitis, possible ischemic colitis.
+- Stool studies: neg C.diff, neg ova/parasites.
+- **Plan:** Continue loperamide as needed, monitor H/H, GI consult.
+
+### 5. Recurrent Viral Pharyngitis/Sinusitis
+- Ongoing URI sx, neutropenia post-chemo.
+- **Plan:** Continue supportive care, oseltamivir empirically, monitor for secondary bacterial infection.
+
+### 6. Obesity (BMI 30+)
+- Complicating HF, AKI.
+- **Plan:** Encourage dietician consult, monitor fluid status, weight loss counseling after acute issues resolve.
+
+### 7. Electrolyte Disturbances
+- K+ low-normal, Na+, Ca2+ stable.
+- **Plan:** Replete as needed, monitor daily.
+
+### 8. Anemia/Thrombocytopenia
+- Hgb dropped from 14.7 → 10.9 over course, Plts 428 → 236.
+- Likely dilutional, GI losses, chemo effect.
+- **Plan:** Monitor CBC, transfuse PRN, iron studies pending.
+
+### 9. Transaminitis
+- ALT/AST mildly elevated, ALP 120.
+- Likely ischemic vs. drug-induced.
+- **Plan:** Monitor, hold hepatotoxic meds.
+
+### 10. Secondary Prevention, VTE Prophylaxis
+- On SCDs, chemical ppx held due to GI bleeding.
+- **Plan:** Resume when safe.
+
+---
+
+## VITALS (Selected)
+
+| Date        | Temp (°C) | HR | BP (mmHg) | RR | SpO2 | Weight (kg) |
+|-------------|-----------|----|-----------|----|------|-------------|
+| 3/1         | 37.7      | 108| 87/51     | 21 | 92%  | 77.7        |
+| 3/2         | 38.2      | 116| 84/47     | 24 | 89%  | 77.1        |
+| 3/3         | 37.4      | 98 | 102/62    | 18 | 95%  | 76.6        |
+| 3/5         | 36.9      | 83 | 117/68    | 16 | 97%  | 76.0        |
+| 3/8         | 36.7      | 80 | 122/71    | 15 | 98%  | 75.5        |
+
+---
+
+## HOSPITAL LABS TABLE
+
+| Date    | WBC   | Hgb  | Hct  | Plts | Na   | K    | Cl   | CO2   | BUN   | Cr    | Glu  | Ca   | AST  | ALT  | ALP  | Alb  | TBili | Lactate |
+|---------|-------|------|------|------|------|------|------|-------|-------|-------|------|------|------|------|------|------|-------|---------|
+| 3/1     | 4.5   | 14.7 | 34.4 | 428  | 137  | 3.9  | 108  | 28.4  | 10    | 3.25  | 74   | 8.6  | 23   | 47   | 120  | 4.2  | 0.98  | 6.1     |
+| 3/2     | 3.2   | 12.5 | 29.1 | 362  | 135  | 3.6  | 105  | 25.9  | 22    | 3.05  | 79   | 8.2  | 32   | 52   | 128  | 3.7  | 1.12  | 5.7     |
+| 3/3     | 2.9   | 11.2 | 26.3 | 315  | 134  | 3.3  | 102  | 24.1  | 30    | 2.68  | 84   | 8.1  | 28   | 48   | 115  | 3.4  | 1.21  | 3.9     |
+| 3/4     | 3.1   | 10.9 | 25.0 | 287  | 136  | 3.7  | 104  | 23.7  | 28    | 2.45  | 86   | 8.4  | 29   | 46   | 110  | 3.6  | 1.09  | 2.8     |
+| 3/5     | 3.8   | 11.6 | 27.9 | 263  | 137  | 3.9  | 106  | 24.5  | 23    | 2.23  | 91   | 8.7  | 22   | 44   | 108  | 3.9  | 0.96  | 1.7     |
+| 3/7     | 4.1   | 12.2 | 29.2 | 236  | 138  | 4.0  | 108  | 25.1  | 17    | 2.11  | 94   | 8.8  | 21   | 41   | 102  | 4.0  | 0.88  | -       |
+| 3/8     | 4.3   | 12.8 | 31.5 | 238  | 139  | 4.1  | 109  | 25.7  | 15    | 2.04  | 98   | 8.9  | 20   | 39   | 99   | 4.1  | 0.82  | -       |
+
+*Missing labs on 3/6 due to phlebotomy access issues.*
+
+---
+
+## MEDICATION ADMINISTRATION RECORD (Selected)
+
+- Norepinephrine IV: 3/1-3/4 (max 0.13 mcg/kg/min)
+- Milrinone IV: 3/2-3/5
+- Furosemide IV: 3/3-3/6
+- Oseltamivir PO: 3/2-3/8
+- Cefepime IV: 3/1-3/5 (empiric, stopped when cultures negative)
+- Leucovorin, oxaliplatin: held during ICU stay
+- Loperamide PRN
+- Pantoprazole IV
+- DVT prophylaxis: SCDs, enoxaparin held due to GI bleed
+
+---
+
+## IMAGING
+
+- **CXR (3/1):** Pulmonary edema, small bilateral effusions.
+- **ECHO (3/2):** EF 18%, global hypokinesis, mod MR.
+- **ECHO (3/5):** EF 27%, improved wall motion; Impella device visualized in LV.
+
+---
+
+## DISPOSITION
+
+- Continue monitoring on telemetry, anticipate step-down to medicine floor, discharge to home with home health or SNF as appropriate.
+- Cardiology, Oncology, Nephrology, Palliative Care f/u arranged.
+
+---
+
+**Attending:** Dr. S. Jensen  
+**Resident:** Dr. L. Chou  
+**Nurse:** A. Patel, RN
+
+---
+
+**(End of Note)**

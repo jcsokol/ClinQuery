@@ -1,0 +1,163 @@
+**Patient: Stanton, Sterling**  
+**MRN:** 00123987  
+**DOB:** 01/01/2007 (Age: 17)  
+**Sex:** Male  
+**Attending:** Dr. Harper, PICU  
+**Date of Admission:** 2024-05-19  
+**Date of Note:** 2024-05-27  
+**Admitting Diagnosis:** Cardiogenic shock, acute decompensated heart failure, viral myocarditis  
+**Relevant PMHx:**  
+- Recent URI symptoms (per parents)  
+- Otitis media (resolved, 2022)  
+- Hx: Acute bronchitis, viral sinusitis, strep pharyngitis (remote)  
+- Fracture of forearm (2018)  
+- No known congenital heart disease  
+**Allergies:** NKDA  
+**Code Status:** Full  
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+**Sterling Stanton** is a previously healthy 17-year-old male, presenting with 4 days of progressive dyspnea, orthopnea, malaise, and fevers following a URI. He was found at home unresponsive and cyanotic by family, EMS noted hypotension and tachycardia. In the ED, he was found to be in profound cardiogenic shock and was intubated for airway protection. An echo revealed severe global hypokinesis, LVEF ~15%, moderate MR, and mild pericardial effusion. Labs notable for elevated troponin, BNP, and transaminitis. Transferred to PICU, started on inotropes (milrinone, epi), but continued to deteriorate—ultimately required placement of a temporary left-sided Impella device (5.5) for mechanical circulatory support on hospital day 2.  
+
+Course complicated by AKI (multifactorial), mild transaminitis, and persistent lactic acidosis. Over the subsequent days, gradual improvement in hemodynamics and end-organ function, able to wean inotropes and Impella explanted on HD#7. Extubated to high-flow nasal cannula on HD#8. Remains in PICU for ongoing monitoring and rehabilitation.
+
+---
+
+## VITALS (Select)
+
+| Date        | Temp (C) | HR   | BP    | RR   | SpO2 | Pain | Wt (kg) |
+|-------------|----------|------|-------|------|------|------|---------|
+| 5/19/2024   | 38.9     | 132  | 82/46 | 26   | 93%  | 8    | 39.7    |
+| 5/20/2024   | 37.7     | 120  | 88/52 | 22   | 97%  | Int  | 39.8    |
+| 5/22/2024   | 37.1     | 108  | 99/61 | 18   | 99%  | 2    | 39.7    |
+| 5/24/2024   | 36.9     | 98   | 106/68| 16   | 99%  | 1    | 39.6    |
+| 5/27/2024   | 36.8     | 88   | 113/72| 14   | 100% | 0    | 39.5    |
+
+---
+
+## LABS
+
+### CBC & CHEM 7
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na | K  | Cl | CO2 | BUN | Cr  | Glu | Ca | AST | ALT | Troponin | BNP   |
+|------------|------------|------------|------------|----|----|----|-----|-----|-----|-----|----|-----|-----|----------|-------|
+| 5/19/2024  | 7.7        | 12.0       | 424        | 134| 4.1| 101| 17  | 19  | 1.6 | 94  | 9.1| 322 | 287 | 2.11     | 8,900 |
+| 5/20/2024  | 10.1       | 11.2       | 389        | 136| 4.5| 103| 15  | 28  | 2.2 | 112 | 8.7| 401 | 318 | 1.85     | 7,800 |
+| 5/21/2024  | 9.2        | 10.7       | 362        | 138| 4.0| 102| 18  | 23  | 2.0 | 106 | 9.0| 375 | 210 | 1.21     | 6,110 |
+| 5/22/2024  |            | 10.9       | 344        | 139| 4.2| 104| 19  | 19  | 1.7 | 102 |    | 201 | 128 | 0.67     | 3,800 |
+| 5/24/2024  | 8.5        | 11.7       | 310        | 138| 3.7|    | 22  | 15  | 1.2 | 99  | 9.2| 68  | 44  | <0.04    | 1,200 |
+| 5/27/2024  | 7.1        | 12.4       | 289        |    | 4.0| 102| 23  | 12  | 0.8 | 91  | 9.3| 51  | 31  | <0.04    | 520   |
+
+*Other notable labs*:  
+- Lactic acid: 5.1 (HD#1), 3.7 (HD#2), 1.6 (HD#5)  
+- Ferritin: 512 (HD#1), 398 (HD#3)  
+- CRP: 11.4 (HD#1), 8.2 (HD#3), 2.9 (HD#5)  
+- D-dimer: 2.9 (HD#1)  
+- CXR: Cardiomegaly, pulmonary edema (HD#1); improved (HD#5)  
+- Echo (HD#1): LVEF 15%, global hypokinesis, mild pericardial effusion.  
+- Echo (HD#8): LVEF 36%, no effusion, mild MR.
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. **Cardiogenic Shock / Acute Decompensated Heart Failure**  
+- **Etiology:** Likely viral myocarditis (hx of URI, elevated troponin, echo findings)  
+- **Course:** Refractory shock requiring intubation, inotropes, then temporary left-sided Impella 5.5 placement for MCS.  
+- **Status:** Off inotropes x 2 days, Impella explanted HD#7, extubated HD#8, now on room air.  
+- **Plan:**  
+    - Continue telemetry, strict I/O  
+    - Daily weights, monitor for arrhythmia  
+    - Cardiology f/u, serial Echos  
+    - Consider cardiac MRI prior to discharge  
+    - Start low-dose carvedilol as tolerated  
+    - PT/OT for deconditioning  
+
+### 2. **Acute Kidney Injury**  
+- **Etiology:** Multifactorial (hypoperfusion, inotropes, nephrotoxic abx)  
+- **Course:** Peak Cr 2.2, now improving (0.8 today), UOP adequate  
+- **Plan:**  
+    - Monitor UOP, daily BMP  
+    - Avoid nephrotoxins  
+    - Renal consult prn  
+
+### 3. **Transaminitis / Mild Liver Dysfunction**  
+- **Etiology:** Likely ischemic hepatitis from low flow state  
+- **Course:** AST/ALT peaked at 401/318, now improving  
+- **Plan:**  
+    - Monitor LFTs  
+    - Supportive care  
+    - No hepatotoxins  
+
+### 4. **Recent Respiratory Infection**  
+- **Etiology:** Presumed viral; initial CXR with pulmonary edema, no consolidation  
+- **Plan:**  
+    - Viral PCR sent (pending)  
+    - Monitor for secondary infection  
+    - Supportive care  
+
+### 5. **Deconditioning / ICU-Acquired Weakness**  
+- **Plan:**  
+    - Early mobilization, PT/OT  
+    - Nutrition, high-protein diet  
+
+### 6. **Pain / Anxiety**  
+- **Plan:**  
+    - Acetaminophen/ibuprofen as needed  
+    - Psych consult for adjustment  
+
+### 7. **Other Chronic Pediatric Issues**  
+- Otitis media, strep pharyngitis, bronchitis, viral sinusitis—no current issues  
+- Fracture of forearm—healed, no functional limitations  
+
+---
+
+## MEDICATION ADMINISTRATION RECORD
+
+- **Milrinone** IV (HD#1-6, weaned off)
+- **Epinephrine** IV (HD#1-3)
+- **Furosemide** IV/PO (HD#2-8, prn)
+- **Acetaminophen** 325 mg PO q6h PRN
+- **Ibuprofen** 100 mg PO q6h PRN
+- **Lisinopril** 2.5 mg PO daily (started HD#9)
+- **Carvedilol** 3.125 mg PO BID (started HD#9)
+- **Amoxicillin** 250 mg PO BID (held after HD#2)
+- **Penicillin VK** 250 mg PO BID (held after HD#1)
+
+---
+
+## CONSULTS
+
+- **Pediatric Cardiology** (primary)
+- **Pediatric Nephrology** (AKI)
+- **Physical Medicine & Rehabilitation**
+- **Psychology** (adjustment, post-ICU syndrome)
+
+---
+
+## DISPOSITION
+
+- Remains in PICU, anticipated transfer to step-down in 48-72 hours if stable  
+- Anticipated need for cardiac MRI  
+- Will require close outpatient follow up with peds cardiology, nephrology, PT/OT
+
+---
+
+**Physician:**  
+Harper, MD  
+PICU Attending
+
+---
+
+**Additional Notes:**  
+Mother at bedside; social work following.  
+No issues with IV access.  
+Awaiting insurance approval for discharge medications.  
+No evidence of CNS complications; no focal neuro deficits.  
+Diet advanced as tolerated.
+
+---
+
+**END OF NOTE**

@@ -1,0 +1,190 @@
+---
+
+**Patient Name:** Annabell Pfannerstill  
+**MRN:** 00578412  
+**DOB:** 12/10/1941  
+**Sex:** Female  
+**Admit Date:** 3/18/2024  
+**Attending:** Dr. Emily Choi, MD  
+**Consultants:** Cardiology, Infectious Disease, Nephrology  
+**Service:** Medical ICU  
+**CC:** Worsening SOB, hypotension  
+**Allergies:** NKDA
+
+---
+
+# HOSPITAL COURSE
+
+Ms. Annabell Pfannerstill is a 82-year-old female with significant PMHx including obesity, prediabetes, osteoporosis with pathologic fracture, colon cancer s/p resection and chemotherapy, chronic kidney disease (GFR ~30), and recurrent UTI, who was admitted for acute hypoxemic respiratory failure and shock. She subsequently developed cardiogenic shock secondary to acute decompensated heart failure, requiring placement of a temporary left ventricular assist device (Impella CP).
+
+## HPI
+
+Pt presented to ED from home after 3 days of progressive dyspnea, orthopnea, and confusion. Family noted decreased oral intake, new swelling of legs. Denied chest pain, but did have cough and congestion. On arrival, found to be hypoxic (O2 sat 83% RA), hypotensive (SBP 74 mmHg), tachycardic (HR 122), with new S3 and rales. ABG with respiratory acidosis. CXR with bilateral infiltrates and mild cardiomegaly. Initial TTE: EF 18%, global hypokinesis, moderate MR, no pericardial effusion. Troponin T 0.44, BNP 1872.  
+
+Admitted to ICU, started on norepinephrine and dobutamine. Despite vasopressors and diuresis, pt remained oliguric and hypotensive, with rising lactate and worsening acidosis. Cardiology consulted; decision made to place temporary LVAD (Impella CP) at bedside for refractory cardiogenic shock.
+
+She stabilized over next 48h, weaned off pressors by day 5, Impella removed on day 6. Complicated by AKI (creatinine peaked at 2.3), transient delirium, and NSTEMI (troponin peaked 2.1). Also treated for UTI with IV ceftriaxone. Ultimately transitioned to nasal cannula, then room air.
+
+---
+
+## PAST MEDICAL HISTORY
+
+- Obesity (BMI ~30)
+- Prediabetes
+- Recurrent UTI
+- Osteoporosis, pathologic fracture
+- Colon cancer s/p resection, adjuvant chemo (oxaliplatin, leucovorin)
+- Recurrent rectal/colonic polyps
+- CKD stage 3b (baseline Cr 1.4-1.6)
+- Prior miscarriage, early adulthood
+- Hypertension (remote)
+- HLD
+- Remote fractures: clavicle, ankle sprain
+
+## PAST SURGICAL HISTORY
+
+- Partial colectomy (2019, for colon cancer)
+- Dental extraction (impacted molars)
+
+## SOCIAL HISTORY
+
+- Lives with daughter. Retired teacher.  
+- Never smoker. No EtOH. No illicit drug use.  
+- Ambulates with cane.
+
+## FAMILY HISTORY
+
+- Father: MI at 71
+- Mother: osteoporosis
+
+---
+
+# ICU ADMISSION PHYSICAL EXAM
+
+**Gen:** Elderly F, mildly confused, obese, NAD  
+**VS:** T 37.9°C, HR 118, BP 82/54 (MAP 63, on norepi), RR 22, SpO2 91% (NRB)  
+**HEENT:** Dry mucosa, oropharynx clear  
+**Neck:** JVP 12cm, no carotid bruits  
+**CV:** Tachycardic, S3, holosystolic murmur at apex  
+**Lungs:** Bibasilar rales, decreased air entry  
+**Abd:** Obese, mild suprapubic tenderness  
+**Ext:** 2+ pitting edema BLE, no DVT  
+**Neuro:** Delirium, oriented x1
+
+---
+
+# HOSPITAL COURSE - DAILY SUMMARIES
+
+| Date       | Events/Interventions                                                                            |
+|------------|-----------------------------------------------------------------------------------------------|
+| 3/18/2024  | Admit to ICU. Pressors, dobutamine, high flow O2. Initial labs. Bladder scan: 50cc.           |
+| 3/19/2024  | Cardiac arrest x1 (PEA, 3m ROSC). Intubated. TTE: EF 18%. Impella CP placed.                  |
+| 3/20/2024  | Improved MAP >70, decreased lactate. AKI worsens (Cr 2.1). UO improving.                      |
+| 3/21/2024  | Weaning pressors. Extubated. Delirium, mild. Ceftriaxone started for UTI (E. coli).           |
+| 3/22/2024  | Impella removed. No bleeding at site. Troponin downtrending.                                  |
+| 3/23/2024  | OOB to chair. Decreased confusion. UO stable. CXR improved.                                   |
+| 3/24/2024  | Stable. Off O2. Discharge planning.                                                           |
+
+---
+
+# LABS
+
+**Selected CBC, Chem7, Cardiac & Infection Markers**
+
+| Date       | WBC (K) | Hgb (g/dL) | Plt (K) | Na (mmol) | K (mmol) | Cl (mmol) | CO2 (mmol) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Troponin (ng/mL) | BNP (pg/mL) | Lactate (mmol/L) | UA/Other         |
+|------------|---------|------------|---------|-----------|----------|-----------|------------|-------------|------------|-------------|------------------|-------------|------------------|------------------|
+| 3/18/2024  | 14.2    | 12.8       | 296     | 139       | 4.2      | 107       | 25         | 28          | 1.7        | 188         | 0.44             | 1872        | 4.1              | UA: +LE, +nitrite|
+| 3/19/2024  | 17.1    | 11.1       | 233     | 138       | 4.8      | 108       | 22         | 34          | 2.1        | 153         | 2.1              | 1930        | 3.2              | Blood cx: neg    |
+| 3/20/2024  | 13.7    | 10.2       | 205     | 138       | 4.6      | 109       | 23         | 41          | 2.3        | 109         | 1.1              | 1320        | 1.7              | CXR: improved    |
+| 3/21/2024  | 9.8     | 10.9       | 267     | 140       | 4.0      | 106       | 25         | 29          | 1.6        | 102         | 0.54             | 1021        | 1.2              |                  |
+| 3/22/2024  | 8.1     | 11.7       | 264     | 139       | 4.1      | 107       | 26         | 26          | 1.4        | 120         | 0.12             | 710         | 0.9              |                  |
+| 3/23/2024  | 7.9     | 12.1       | 251     | 140       | 4.2      | 106       | 27         | 23          | 1.2        | 101         | -                | -           | -                |                  |
+| 3/24/2024  | 7.2     | 12.8       | 244     | 140       | 4.0      | 105       | 27         | 19          | 1.1        | 98          | -                | -           | -                |                  |
+
+**LFTs** (selected):  
+- 3/19/2024: AST 56, ALT 38, Alk Phos 102, T bili 0.8  
+- 3/21/2024: AST 34, ALT 24, Alk Phos 88, T bili 0.5  
+
+**Other**:  
+- UA (3/18): +leuk est, +nitrite, WBC >50, E. coli grown  
+- CXR: bilateral infiltrates → improving  
+- TTE: EF 18% (admit), 32% (3/23)  
+- ABG (3/18): pH 7.23, pCO2 61, pO2 53  
+- Blood Cx: negative
+
+---
+
+# PROBLEM-BASED ASSESSMENT & PLAN
+
+1. **Cardiogenic Shock, Acute Decompensated Heart Failure (EF 18%)**
+   - Refractory to vasopressors/inotropes, required Impella LVAD x 4d
+   - Etiology: likely ischemic + hypertensive cardiomyopathy, possible demand ischemia
+   - Improved with support; EF up to 32% on repeat TTE
+   - Plan: Continue guideline-directed HF therapy; close f/u Cardiology; outpatient device eval if recurrent
+   - D/c: low-dose carvedilol, furosemide, lisinopril (if BP tolerates)
+
+2. **Acute Kidney Injury on CKD**
+   - Likely multifactorial: hypoperfusion, nephrotoxic meds, infection
+   - Cr peaked 2.3, now improved to baseline
+   - Plan: Monitor UOP/Cr, avoid nephrotoxins, f/u Nephrology
+
+3. **NSTEMI**
+   - Troponin leak, no ST elevation, managed medically
+   - Plan: Continue DAPT, statin, monitor EKG/enzymes
+
+4. **Recurrent UTI**
+   - E. coli, sensitive to ceftriaxone
+   - Treated x7d, now asymptomatic
+   - Plan: Urology f/u
+
+5. **Delirium, resolved**
+   - Likely multifactorial (ICU, infection, shock)
+   - Plan: Monitor for recurrence, PT/OT, minimize sedatives
+
+6. **Colon Cancer s/p Resection, h/o Polyps**
+   - No evidence of recurrence
+   - Plan: Continue surveillance, last CEA WNL
+
+7. **Osteoporosis/Pathologic Fx**
+   - On alendronate, T-score -2.7
+   - Plan: Continue therapy, Ca/Vit D, avoid falls
+
+8. **Obesity, Prediabetes**
+   - Diet education, weight monitoring
+
+9. **Others:**
+   - HLD: On atorvastatin
+   - HTN: Monitor, adjust as needed
+   - Pain: PRN acetaminophen, avoid NSAIDs
+
+---
+
+# DISCHARGE MEDICATIONS
+
+- Carvedilol 3.125 mg BID
+- Furosemide 20 mg daily
+- Lisinopril 2.5 mg daily (hold if SBP <100)
+- Atorvastatin 20 mg nightly
+- Alendronate 10 mg daily
+- Acetaminophen 325 mg PRN
+- Calcium + Vitamin D
+- Docusate PRN
+
+---
+
+# FOLLOW-UP
+
+- Cardiology (2 weeks)
+- Nephrology (2 weeks)
+- PCP (1 week)
+- Urology (PRN if recurrent UTI)
+- Outpatient labs (BMP, CBC in 1 week)
+
+---
+
+# SIGNED  
+Emily Choi, MD  
+Medical ICU/CCM  
+3/24/2024 14:22
+
+---

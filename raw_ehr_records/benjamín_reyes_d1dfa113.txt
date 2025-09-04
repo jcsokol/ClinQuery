@@ -1,0 +1,173 @@
+**INPATIENT PROGRESS NOTE**  
+**Patient:** Benjamín Reyes  
+**MRN:** 00102381  
+**DOB:** 10/17/1912  
+**Sex:** Male  
+**Date of Admission:** 5/19/2024  
+**Admitting Team:** MICU  
+**Attending:** Dr. L. Castillo  
+**Note Date/Time:** 5/23/2024 08:13  
+
+---
+
+### CHIEF COMPLAINT  
+Progressive dyspnea, confusion, fever.
+
+---
+
+### HISTORY OF PRESENT ILLNESS  
+Benjamín Reyes is a 111-year-old man (DOB: 10/17/1912) with a past medical history of early-onset familial Alzheimer's disease, recurrent lower respiratory tract infections (including recent pneumonia and acute bronchitis), cystitis, and multiple recent viral upper respiratory tract infections, who presented from his nursing facility with 3 days of fever, productive cough, progressive dyspnea, and acute-on-chronic confusion. Per caregivers, baseline cognitive function is severely impaired (MMSE 3/30), non-ambulatory, minimal verbal output.
+
+On arrival to ED: Found to be hypoxic (O2 sat 83% RA), tachypneic (RR 31), febrile (T 38.2°C oral), BP 98/60, HR 112. CXR: right lower lobe consolidation. Labs notable for leukocytosis, elevated creatinine, mild transaminitis. Shortly after admission to MICU, the patient developed hypotension refractory to fluid resuscitation, requiring vasopressors and intubation. Echocardiogram: LVEF 24%, global hypokinesis. Given persistent cardiogenic shock, decision made to place Impella CP device for temporary left ventricular support on hospital day 2.
+
+---
+
+### HOSPITAL COURSE (MICU DAYS 1–5)
+- **Day 1:** Intubated for hypoxic respiratory failure. Started broad-spectrum abx (cefepime, azithro, vanc). Vasopressors titrated for MAP >65.
+- **Day 2:** Cardiac index 1.4, rising lactate (4.1), worsening renal function. Impella CP placed via right femoral access. Nitroglycerin and dobutamine added. Some improvement in perfusion.
+- **Day 3:** Weaned off norepi, still on Impella support. WBC downtrending, cultures pending. Minimal improvement in mental status, likely multifactorial (sepsis, dementia, metabolic).
+- **Day 4:** Developed hematuria, foley replaced. Nitrofurantoin continued for cystitis. LFTs stable. CXR with improving consolidation.
+- **Day 5:** Impella flows reduced, preparing for device wean. Transitioned to nasal cannula. Renal function improved. Persistent delirium.
+
+---
+
+### REVIEW OF SYSTEMS (unable to obtain, per chart and nursing documentation)
+
+---
+
+### PAST MEDICAL HISTORY  
+- Early-onset familial Alzheimer's disease  
+- Recurrent pneumonia  
+- Cystitis  
+- Viral sinusitis  
+- Acute bronchitis  
+- Acute viral pharyngitis  
+
+### PAST SURGICAL HISTORY  
+- None documented
+
+### ALLERGIES  
+- NKDA
+
+### HOME MEDICATIONS  
+- Acetaminophen 325mg PO PRN  
+- Nitrofurantoin 5mg/mL oral suspension  
+- Phenazopyridine 100mg PO
+
+---
+
+### PHYSICAL EXAM (ICU, post-Impella, Day 5)
+- **General:** Elderly male, frail, intubated, sedated
+- **HEENT:** Mucous membranes moist, no pharyngeal erythema
+- **Lungs:** Crackles RLL, diminished throughout, intubated
+- **CV:** S1 S2, no murmurs, Impella hum, MAP 75 on low-dose pressors
+- **Abd:** Soft, NT/ND, foley in place, no organomegaly
+- **Ext:** No edema, pulses 2+ all extremities
+- **Neuro:** Nonverbal, opens eyes to pain, localizes, baseline severe dementia
+- **Skin:** No rashes, sacral erythema
+
+---
+
+### VITALS (selected)
+| Date       | Temp (C) | HR  | BP        | RR | SpO2 | Pain | MAP  |
+|------------|----------|-----|-----------|----|------|------|------|
+| 5/19/2024  | 38.2     | 112 | 98/60     | 31 | 83%  | N/A  | 62   |
+| 5/20/2024  | 37.8     | 101 | 91/58     | 24 | 94%* | 1    | 66   |
+| 5/21/2024  | 37.5     | 89  | 108/65    | 18 | 99%  | 0    | 74   |
+| 5/22/2024  | 37.1     | 82  | 116/73    | 16 | 96%  | 0    | 78   |
+| 5/23/2024  | 36.9     | 78  | 122/70    | 16 | 95%  | 0    | 79   |
+\*On 100% FiO2 via ventilator
+
+---
+
+### LABS (MICU Admission Labs – CBC, CHEM7, select others)
+| Date       | WBC   | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Gluc | AST  | ALT  | Trop | Lactate |
+|------------|-------|------|------|-------|------|------|------|------|------|------|------|------|------|------|---------|
+| 5/19/2024  | 14.7  | 13.7 | 49   | 350   | 137  | 4.2  | 102  | 19   | 34   | 2.5  | 132  | 74   | 41   | 0.08 | 3.1     |
+| 5/20/2024  | 13.2  | 13.4 | 47   | 318   | 136  | 4.7  | 104  | 17   | 44   | 3.2  | 119  | 68   | 38   | 0.23 | 4.1     |
+| 5/21/2024  | 10.1  | 12.8 | 45   | 289   | 139  | 4.1  | 103  | 21   | 29   | 1.8  | 142  | 56   | 33   | 0.03 | 2.2     |
+| 5/22/2024  | 8.9   | 12.1 | 42   | 276   | 140  | 4.2  | 102  | 23   | 21   | 1.2  | 128  | 39   | 19   | <0.01| 1.3     |
+| 5/23/2024  | 7.6   | 11.9 |      | 241   | 139  | 4.0  |      | 25   | 17   | 1.0  | 119  |      |      |      |         |
+
+---
+
+### MICROBIOLOGY
+- Blood cultures: No growth to date  
+- Sputum: Moderate PMNs, rare GPC, no growth  
+- Urine: +LE, +nitrites, E. coli (>100,000 CFU/mL), sensitivities pending
+
+---
+
+### IMAGING
+- **CXR (5/19):** RLL consolidation, mild pulmonary edema  
+- **Echo (5/20):** LVEF 24%, global hypokinesis, no significant valvulopathy  
+- **CXR (5/22):** Improved RLL consolidation, Impella CP in place
+
+---
+
+---
+
+## ASSESSMENT & PLAN
+
+**111M with severe dementia, pneumonia, shock, now s/p temporary LV support (Impella CP)**
+
+### 1. Cardiogenic Shock (s/p Impella CP)
+- Likely multifactorial (sepsis, underlying cardiomyopathy)
+- Impella flows stable, MAP maintained
+- Plan: Wean Impella as tolerated, continue cardiac monitoring, daily TTE, trend lactate. Consider explant if stable off pressors >24h.
+
+### 2. Pneumonia (RLL, likely bacterial)
+- Receiving cefepime and azithro, de-escalate based on cultures
+- Daily CXR, continue pulmonary toilet, wean sedation as tolerated
+
+### 3. Dementia (familial early-onset Alzheimer's)
+- Baseline MMSE 3/30, severe impairment, nonverbal
+- Delirium likely multifactorial (infection, metabolic, ICU)
+- Plan: Avoid deliriogenic meds, frequent reorientation, family update
+
+### 4. Acute Kidney Injury (pre-renal vs cardiorenal)
+- Improved with hemodynamic support, daily labs
+- Foley in place for monitoring
+- Hold nephrotoxins
+
+### 5. Cystitis
+- Nitrofurantoin, phenazopyridine continued
+- Urine cx pending, will adjust abx as needed
+
+### 6. Acute Respiratory Failure (post-extubation)
+- Weaning to nasal cannula, monitor ABG, incentive spirometry
+
+### 7. Nutrition
+- NPO, tube feeds initiated on day 2, goal calories met
+
+### 8. DVT Prophylaxis
+- SCDs, heparin 5000U SQ BID
+
+### 9. Skin Integrity
+- Sacral erythema, barrier cream, frequent turns
+
+### 10. Code Status
+- Full code per health care proxy, palliative care consult placed
+
+---
+
+### ACTIVE ORDERS (selected)
+- Acetaminophen 325mg PO PRN
+- Nitrofurantoin 5mg/mL oral suspension
+- Phenazopyridine 100mg PO
+- Cefepime 2g IV q8h
+- Azithromycin 500mg IV q24h
+- Vasopressors per protocol
+- Tube feeds at goal
+
+---
+
+**Prepared by:**  
+Dr. C. Alvarez, MICU PGY-2  
+**Attestation:**  
+I have reviewed the above and agree with the assessment and plan.  
+Dr. L. Castillo, Attending
+
+---
+
+**END OF NOTE**

@@ -1,0 +1,200 @@
+---
+**Patient Name:** Cliff Considine  
+**MRN:** 00328491  
+**DOB:** 1914-03-31  
+**Sex:** Male  
+**Admit Date:** 2024-04-17  
+**Service:** Medical ICU  
+**Attending:** Dr. P. Eubanks  
+**Consults:** Cardiology, Nephrology, Endocrinology, Oncology, PT/OT  
+**Allergies:** NKDA  
+**Code Status:** Full Code  
+
+---
+
+### **H&P / ICU Course**
+
+**Chief Complaint:**  
+Progressive shortness of breath, lower extremity edema, and orthopnea x 1 week. Brought in by family after syncopal episode at home.
+
+**History of Present Illness:**  
+Cliff Considine is a 110-year-old male (remarkable longevity; likely a data error but proceeding per template) with a history of chronic congestive heart failure (CHF) with reduced ejection fraction (LVEF ~45%), diabetes mellitus, CKD stage 1, prostate cancer (s/p leuprolide, docetaxel), and osteoporosis, who presented with acute decompensated heart failure. The patient experienced a syncopal event at home, associated with worsening dyspnea, orthopnea, and 3+ pitting edema. He was found to be hypotensive and tachycardic in the ED, requiring ICU admission for escalating pressor support and eventual placement of a temporary left ventricular assist device (Impella CP) due to cardiogenic shock.
+
+**Past Medical History:**  
+- Hypertension  
+- Diabetes mellitus (on insulin)  
+- Prediabetes  
+- Hypertriglyceridemia  
+- Metabolic syndrome  
+- CKD stage 1  
+- Diabetic renal disease  
+- Prostate neoplasm (s/p leuprolide, docetaxel)  
+- Osteoporosis (on alendronate)  
+- CHF, chronic  
+- Recent ankle sprain  
+
+**Past Surgical History:**  
+- TURP (year unknown)  
+- Left hip ORIF (remote)  
+
+**Social History:**  
+- Lives with daughter  
+- Former smoker, quit 1970s  
+- No EtOH, no illicit drugs  
+- Ambulates with walker  
+
+**Family History:**  
+- Father: MI at 62  
+- Mother: T2DM, osteoporosis  
+
+**Home Medications:**  
+- Hydrochlorothiazide 12.5mg daily  
+- Metoprolol succinate 100mg daily  
+- Lasix 40mg daily  
+- Insulin (NPH/Regular)  
+- Acetaminophen 325mg prn  
+- Furosemide 10mg IV prn  
+- Alendronate 10mg daily  
+- Docetaxel IV q3wks  
+- Leuprolide 30mg q3mo  
+
+---
+
+### **ICU Hospital Course Summary**
+
+#### **Day 1 (Admit):**
+- Arrived hypotensive (SBP 76/42), HR 112, SpO2 93% on 4L NC.
+- Initial CXR: Pulmonary vascular congestion, mild effusions.
+- BNP: 1122 pg/mL. Troponin: 0.09 (elevated, not trending).
+- TTE: LVEF 44%, global hypokinesis, moderate MR, RV mildly dilated.
+- Started on norepinephrine, dobutamine; volume overload managed with IV furosemide.
+- Worsening lactic acidosis, rising creatinine (AKI on CKD), escalating vasopressor requirement.
+- Cardiology placed Impella CP for cardiogenic shock.  
+- Foley placed, strict I&O, daily weights.
+
+#### **Day 2-3:**
+- Hemodynamics improved with Impella; pressors weaned.
+- Diuresis continued, net negative 2L over 48h.
+- Developed transient a-fib with RVR, rate controlled with metoprolol.
+- Creatinine peaked at 2.3, urine output adequate.
+- Glucose lability; insulin regimen titrated.
+- Oncology consulted: prostate ca stable, continue current regimen.
+- Developed right lower lobe consolidation on CXR; empiric ceftriaxone/azithro started for HAP.
+- Physical therapy initiated for reconditioning; significant weakness.
+
+#### **Day 4-6:**
+- Impella weaned off, removed on day 6.
+- Hemodynamics stable off pressors, euvolemic.
+- Ongoing mild AKI, creatinine trending down.
+- Glucose control improved.
+- Mobilizing with PT; slow progress due to deconditioning, osteoporosis.
+
+#### **Day 7+:**
+- Transitioned to step-down unit.
+- Plan for aggressive rehab.
+- Discharge planning initiated, likely SNF.
+
+---
+
+### **Vitals (Selected for Days 1-7)**
+
+| Date       | Temp (°C) | HR   | BP         | RR  | SpO2 | Wt (kg) | Pain (0-10) |
+|------------|-----------|------|------------|-----|------|---------|-------------|
+| 4/17       | 36.8      | 112  | 76/42      | 22  | 93%  | 74      | 0           |
+| 4/18       | 37.1      | 98   | 86/54      | 20  | 95%  | 73      | 1           |
+| 4/19       | 36.7      | 88   | 102/62     | 18  | 97%  | 72      | 0           |
+| 4/20       | 36.5      | 82   | 109/64     | 18  | 97%  | 71      | 1           |
+| 4/21       | 36.9      | 84   | 112/70     | 16  | 98%  | 71      | 0           |
+| 4/22       | 36.6      | 80   | 117/72     | 16  | 98%  | 71      | 1           |
+| 4/23       | 36.7      | 76   | 120/74     | 16  | 98%  | 71      | 0           |
+
+---
+
+### **Lab Results**
+
+#### **CBC / Chem7 / Cardiac Markers (Selected Days)**
+
+| Date   | WBC   | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | BNP    |
+|--------|-------|-------|-------|-------|------|------|------|------|------|------|------|----------|--------|
+| 4/17   | 9.1   | 17.2  | 35.3  | 308   | 142  | 5.1  | 103  | 21   | 11   | 2.05 | 121  | 0.09     | 1122   |
+| 4/18   | 11.2  | 16.4  | 33.5  | 292   | 140  | 5.4  | 106  | 19   | 17   | 2.31 | 139  | 0.06     | 980    |
+| 4/19   | 10.5  | 15.1  | 31.9  | 276   | 139  | 4.7  | 104  | 22   | 19   | 2.29 | 114  | 0.05     | 800    |
+| 4/20   | 9.8   | 14.2  | 30.2  | 258   | 138  | 4.3  | 102  | 23   | 16   | 2.06 | 100  | <0.01    | 680    |
+| 4/21   | 8.9   | 14.0  | 29.7  | 244   | 139  | 4.1  | 102  | 24   | 14   | 1.89 | 97   | <0.01    | 540    |
+| 4/22   | 8.5   | 13.8  | 29.1  | 240   | 138  | 3.9  | 103  | 24   | 12   | 1.65 | 112  | -        | 430    |
+| 4/23   | 8.1   | 13.7  | 28.9  | 238   | 137  | 3.8  | 104  | 25   | 11   | 1.51 | 105  | -        | 330    |
+
+**Other Labs:**
+- ALT: 22 → 18 U/L
+- AST: 26 → 21 U/L
+- Alk Phos: 81 → 66 U/L
+- Bilirubin: 0.9 → 0.7 mg/dL
+- Albumin: 3.9 → 3.7 g/dL
+- INR: 1.2 (admit), not repeated
+- Lactate: 3.1 (admit), normalized by day 3
+- UA: proteinuria, no hematuria
+
+---
+
+### **Imaging**
+
+- CXR (admit): Pulmonary vascular congestion, small bilateral effusions, RLL opacity (day 3).
+- TTE: LVEF 44%, global hypokinesis, moderate MR, mild RV dilation.
+- Renal U/S: Mild increased echogenicity, no hydronephrosis.
+
+---
+
+### **Problem-Based Assessment and Plan**
+
+#### 1. **Acute Decompensated CHF w/ Cardiogenic Shock [Impella placed]**
+   - Impella CP placed day 1 for refractory shock, removed day 6 after hemodynamic recovery.
+   - IV Lasix, strict I&O, daily weights, slow diuresis.
+   - Continue GDMT (metoprolol, lasix).
+   - Monitor for arrhythmia, renal function, volume status.
+
+#### 2. **AKI on CKD**
+   - Likely multifactorial: cardiorenal, diuretic effect, possible contrast.
+   - Renal function improving, monitor BMP daily.
+   - Hold nephrotoxics, continue furosemide for volume.
+
+#### 3. **Type 2 Diabetes Mellitus / Glucose Lability**
+   - Insulin titrated per sliding scale.
+   - Monitor for hypoglycemia, especially with improved renal function.
+
+#### 4. **Hospital-Acquired Pneumonia**
+   - Empiric abx (ceftriaxone/azithro), de-escalate based on cultures.
+   - CXR and clinical monitoring.
+
+#### 5. **Chronic Prostate Cancer**
+   - Stable, oncology following.
+   - Continue leuprolide, docetaxel as tolerated.
+
+#### 6. **Osteoporosis**
+   - Continue alendronate.
+   - PT/OT for fall prevention, avoid excess sedation.
+
+#### 7. **Arrhythmia (A-fib, transient)**
+   - Rate controlled with metoprolol.
+   - No further episodes since day 3.
+
+#### 8. **Deconditioning**
+   - PT/OT daily.
+   - Plan for SNF placement.
+
+#### 9. **Secondary Prevention**
+   - Continue statin, anti-HTN, DM control.
+   - Education for CHF, diabetes.
+
+---
+
+### **Discharge Planning**
+- Discharge to SNF when medically stable.
+- Arrange outpatient follow-up: Cardiology, Nephrology, Oncology, Endocrinology, PT/OT.
+- Home meds to be reconciled prior to discharge.
+
+---
+
+**Attending:** Dr. P. Eubanks  
+**Date/Time:** 2024-04-23 09:12
+
+---

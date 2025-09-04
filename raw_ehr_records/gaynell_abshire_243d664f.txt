@@ -1,0 +1,177 @@
+**Patient Name:** Gaynell Abshire  
+**MRN:** 00493827  
+**Sex:** Female  
+**DOB:** 12/21/1981  
+**Admit Date:** 2024-05-30  
+**Attending:** Patel, Asha MD  
+**Location:** MICU, Rm 524-B
+
+---
+
+## HOSPITAL COURSE
+
+**Chief Complaint:**  
+Progressive shortness of breath, orthopnea, and chest tightness. On arrival, patient was hypoxemic and hypotensive.
+
+**History of Present Illness:**  
+42F with PMHx notable for recurrent viral sinusitis, multiple pregnancies, and no prior cardiac history, presented to the ED with a 10-day history of worsening dyspnea, cough, and malaise. She developed acute respiratory distress and was found to be in cardiogenic shock on arrival. Initial workup revealed severely reduced LVEF (~10% by bedside echo), lactic acidosis, and multi-organ dysfunction. She required emergent intubation and vasopressor support. Given refractory shock, a percutaneous left ventricular assist device (Impella CP) was placed on hospital day 1 in the MICU.  
+
+**Hospital Days 1-12:**  
+- HD1: Intubated for hypoxemic respiratory failure, started on norepinephrine, dobutamine.  
+- HD1: Impella CP placed for cardiogenic shock due to suspected viral myocarditis.  
+- HD2: Renal function declined, started on CVVH.  
+- HD3: Weaned off norepinephrine, still requiring Impella support.  
+- HD4: Developed fever, started empiric broad-spectrum antibiotics (vanc, cefepime).  
+- HD5: LFTs peaked, concern for ischemic hepatitis.  
+- HD6-8: Gradual improvement in cardiac function (LVEF up to 25%).  
+- HD9: Impella weaned off, device explanted.  
+- HD10: Extubated to BiPAP.  
+- HD11: Transitioned to nasal cannula, off pressors, renal function improving.  
+- HD12: Transferred to step-down unit.
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock secondary to acute viral myocarditis**  
+- Likely viral etiology (rhinovirus/enterovirus PCR positive).  
+- Required percutaneous LVAD (Impella CP) for 8 days.  
+- Now off device, echo shows recovering LVEF (now 35%).  
+- Plan: Continue guideline-directed medical therapy for HF (metoprolol, sacubitril/valsartan, spironolactone), monitor for arrhythmias, telemetry, serial echocardiograms, avoid volume overload.
+
+**2. Acute hypoxemic respiratory failure**  
+- Intubated HD1-10, now extubated and on nasal cannula.  
+- CXR: Bilateral infiltrates, likely pulmonary edema.  
+- Plan: Diuresis as tolerated, pulmonary toilet, incentive spirometry.
+
+**3. Acute kidney injury (AKI), stage 3**  
+- Oliguric on HD2, required CVVH x3 days, now off.  
+- Creatinine peaked 4.1, now trending down.  
+- Plan: Strict I/O, daily BMP, avoid nephrotoxins.
+
+**4. Transaminitis / Ischemic Hepatitis**  
+- AST/ALT peaked >2000/1500, now downtrending.  
+- Likely secondary to low flow state.  
+- Plan: Monitor LFTs, supportive care.
+
+**5. Hospital-acquired infection**  
+- Fever on HD4, blood cultures negative, urine culture grew E. coli.  
+- Treated with cefepime x7 days.  
+- Plan: Continue to monitor for infectious complications.
+
+**6. Anxiety / Delirium**  
+- ICU delirium, managed with reorientation, sleep hygiene, melatonin.
+
+**7. Contraception / Reproductive health**  
+- Multiple forms of contraception on med list (Yaz, etonogestrel implant, medroxyprogesterone).  
+- OB/GYN consulted, all current contraception deemed safe.
+
+**8. Dyslipidemia**  
+- LDL 97, on statin therapy.  
+- Plan: Continue atorvastatin 40mg qHS.
+
+**9. Pain, mild**  
+- Numeric rating ~3/10, managed with acetaminophen.
+
+---
+
+## LABORATORY DATA
+
+### CBC & CHEMISTRIES
+
+| Date        | WBC   | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|-------------|-------|------|------|------|------|------|------|------|------|------|------|
+| HD1 (05/30) | 9.4   | 16.3 | 47.1 | 303  | 137  | 3.1  | 104  | 18   | 28   | 1.2  | 154  |
+| HD2         | 12.8  | 14.2 | 41.5 | 259  | 132  | 4.7  | 101  | 15   | 44   | 2.8  | 178  |
+| HD3         | 13.2  | 13.6 | 39.2 | 241  | 135  | 5.2  | 99   | 17   | 56   | 4.1  | 164  |
+| HD4         | 11.0  | 13.8 | 40.1 | 220  | 134  | 4.9  | 98   | 20   | 49   | 4.0  | 159  |
+| HD5         | 10.1  | 13.9 | 40.4 | 180  | 137  | 4.3  | 100  | 21   | 38   | 3.2  |      |
+| HD6         | 8.7   |      |      | 201  | 139  | 4.1  | 103  | 25   | 32   | 2.5  | 142  |
+| HD7         | 7.9   | 13.0 | 38.1 | 210  | 141  |      | 105  | 24   | 29   | 1.8  | 135  |
+| HD8         | 8.3   | 13.5 |      | 230  | 140  | 4.2  |      | 26   |      | 1.4  |      |
+| HD9         | 6.7   | 12.8 | 36.7 | 239  | 142  | 4.0  | 107  | 28   | 23   | 1.1  | 128  |
+| HD10        |       |      |      |      | 143  | 4.1  | 108  | 28   | 18   | 1.0  | 122  |
+
+### LIVER FUNCTION / CARDIAC MARKERS
+
+| Date        | AST   | ALT   | Alk Phos | T. Bili | Troponin I | BNP    | Lactate |
+|-------------|-------|-------|----------|---------|------------|--------|---------|
+| HD1         | 1880  | 1512  | 120      | 1.9     | 0.49       | 32000  | 6.2     |
+| HD2         | 2100  | 1700  | 140      | 2.3     | 0.36       | 29800  | 5.0     |
+| HD3         | 1700  | 1400  | 110      | 2.1     | 0.28       | 27000  | 3.1     |
+| HD5         | 900   | 624   | 105      | 1.7     | 0.12       | 22000  | 2.3     |
+| HD7         | 320   | 201   | 98       | 1.2     | <0.01      | 9000   | 1.3     |
+| HD10        | 55    | 34    | 82       | 0.8     | <0.01      | 2200   | 0.8     |
+
+---
+
+## VITALS (Selected)
+
+| Date        | Temp  | HR   | BP        | RR | SpO2 | Pain |
+|-------------|-------|------|-----------|----|------|------|
+| HD1         | 37.5  | 128  | 81/52     | 28 | 89%  | 3    |
+| HD2         | 38.2  | 117  | 92/58     | 22 | 93%  | 2    |
+| HD3         | 37.7  | 101  | 98/62     | 19 | 96%  | 2    |
+| HD5         | 38.5  | 99   | 106/71    | 17 | 98%  | 2    |
+| HD7         | 36.9  | 88   | 112/78    | 16 | 97%  | 1    |
+| HD10        | 36.8  | 80   | 120/82    | 15 | 98%  | 1    |
+
+---
+
+## MICROBIOLOGY
+
+- Blood culture x2: No growth
+- Urine culture: E. coli (>100,000 CFU/mL) HD4
+- Viral PCR nasopharyngeal: Rhinovirus/enterovirus detected
+
+---
+
+## MEDICATIONS (Active):
+
+- Metoprolol succinate 25mg daily
+- Sacubitril/valsartan 24/26mg BID
+- Spironolactone 25mg daily
+- Atorvastatin 40mg daily
+- Cefepime IV (completed)
+- Acetaminophen PRN
+- Yaz 28 Day Pack
+- Etonogestrel implant (in situ)
+- Medroxyprogesterone acetate injection (last 4/2024)
+
+---
+
+## PROCEDURES
+
+- Right IJ central line placement (HD1)
+- Left femoral arterial line (HD1)
+- Impella CP placement (HD1), explanted HD9
+- Endotracheal intubation (HD1), extubated HD10
+- CVVH (HD2-5)
+
+---
+
+## CONSULTS
+
+- Cardiology: Daily
+- Infectious Disease: HD4-7
+- Nephrology: HD2-7
+- OB/GYN: HD6
+
+---
+
+## DISCHARGE PLANNING
+
+- Anticipate transfer to cardiac rehab
+- Continue HF meds
+- F/u with cardiology, nephrology, and PCP
+- Early outpatient echo in 2 weeks
+
+---
+
+**Physician:**  
+Patel, Asha MD  
+Electronically signed 2024-06-11 09:17
+
+---
+
+**[End of Note]**

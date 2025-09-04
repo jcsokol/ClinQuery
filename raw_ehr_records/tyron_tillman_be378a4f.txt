@@ -1,0 +1,233 @@
+**EPIC EHR - INPATIENT PROGRESS NOTE**  
+**Patient:** Tyron Tillman  
+**MRN:** 00238817  
+**Date of Birth:** 12/18/1932  
+**Sex:** Male  
+**Date of Admission:** 06/01/2024  
+**Attending:** Dr. John Franks  
+**Consults:** Cardiology, Nephrology, Endocrinology, Urology  
+**Location:** ICU 2B, Room 14
+
+---
+
+**CHIEF COMPLAINT:**  
+Altered mental status, chest pain, and shortness of breath.
+
+---
+
+**HISTORY OF PRESENT ILLNESS:**  
+Mr. Tyron Tillman is a 91-year-old male with an extensive past medical history including hypertension, diabetes mellitus type 2 with neuropathy and diabetic nephropathy (CKD stage 3b), coronary artery disease, prior MI, hypertriglyceridemia, metabolic syndrome, prostate neoplasm, and chronic alcohol and tobacco use. He presented to the ED from home after his wife found him confused and complaining of chest pain and dyspnea. He was tachypneic, hypotensive (BP 82/54), and hypoxic on arrival. Initial ECG showed ST elevations in the anterior leads and troponin was elevated. He was taken emergently to the cath lab where he was found to have a 100% proximal LAD occlusion and underwent percutaneous coronary intervention (PCI) with placement of a drug-eluting stent. Due to persistent hypotension and evidence of cardiogenic shock (cold extremities, rising creatinine, confusion), an Impella CP device (temporary LVAD) was placed for hemodynamic support. He was transferred to the ICU for further management.
+
+---
+
+**PAST MEDICAL HISTORY:**  
+- Hypertension  
+- Diabetes mellitus type 2 (with neuropathy, nephropathy)  
+- Chronic kidney disease (baseline Cr ~2.0, GFR 25-30)  
+- Coronary artery disease (prior MI)  
+- Hypertriglyceridemia  
+- Metabolic syndrome  
+- Osteoarthritis (hand)  
+- Alcoholism  
+- Tobacco use (1 ppd)  
+- Prostate neoplasm (on leuprolide, docetaxel)  
+- Colon polyp (removed 2022)  
+- Viral sinusitis (recent)  
+- Facial laceration (remote, healed)
+
+**PAST SURGICAL HISTORY:**  
+- Colonoscopy with polypectomy (2022)  
+- TURP (2019)  
+- PCI (06/01/2024, current admission)
+
+---
+
+**HOME MEDICATIONS:**  
+- Hydrochlorothiazide 25mg PO daily  
+- NPH/Regular insulin (Humulin 70/30)  
+- Nicotine patch 24hr  
+- Ibuprofen 200mg PO PRN  
+- Naproxen 220mg PO PRN  
+- Docetaxel 20mg/mL IV  
+- Leuprolide acetate 30mg/mL SC q4wks  
+- Simvastatin 20mg PO qHS  
+- Amlodipine 5mg PO daily  
+- Nitroglycerin 0.4mg spray PRN  
+- Clopidogrel 75mg PO daily  
+- Atorvastatin 80mg PO daily  
+- Captopril 25mg PO BID
+
+---
+
+**ALLERGIES:**  
+No known drug allergies.
+
+---
+
+**SOCIAL HISTORY:**  
+- Lives with wife  
+- Retired  
+- Smokes 1 pack/day, 60+ pack-years  
+- Drinks ~3-4 beers/day  
+- No illicit drug use
+
+---
+
+**FAMILY HISTORY:**  
+- Father: MI at 67  
+- Mother: DM2  
+- Brother: Colon cancer
+
+---
+
+---
+
+**PHYSICAL EXAM ON ICU DAY 2:**  
+- **Gen:** Elderly male, obtunded but arousable  
+- **VS:** Temp 36.5°C, HR 96, BP 92/58 (on norepinephrine), RR 22, SpO2 94% on 2L NC  
+- **HEENT:** Facial bruising, no active bleeding  
+- **CV:** S1 S2, no murmurs, Impella in place (left femoral), cool extremities, pulses 1+  
+- **Lungs:** Bibasilar crackles, decreased air entry  
+- **Abd:** Soft, NT, nondistended  
+- **GU:** Foley in place, grossly clear urine  
+- **Ext:** No edema, chronic hand deformity  
+- **Neuro:** Opens eyes to name, follows simple commands, oriented to self only  
+- **Skin:** Dry, no rashes, chronic excoriations
+
+---
+
+**ICU COURSE SUMMARY (ICU Days 1-5):**  
+- **Day 1:** Emergent PCI, Impella CP placed for refractory cardiogenic shock (EF 23%). Started on dual antiplatelet therapy, norepinephrine, furosemide IV.  
+- **Day 2:** Continued shock, but improved MAP on vasopressors. Creatinine rising. Oliguric. Started on low-dose dopamine for renal perfusion.  
+- **Day 3:** Mental status improving. Impella weaning protocol initiated. Pulmonary edema improved with diuresis.  
+- **Day 4:** Impella explanted. Vasopressors off. Renal function stabilizing, but remains above baseline.  
+- **Day 5:** Transferred out of ICU to telemetry. Stable, but with persistent moderate heart failure symptoms (NYHA III).
+
+---
+
+## LABORATORY DATA (Select values, see chart for details):
+
+| Date        | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Troponin I (ng/mL) | AST (U/L) | ALT (U/L) | Alb (g/dL) |
+|-------------|------------|------------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|---------------------|-----------|-----------|------------|
+| 6/1/24 20:00| 7.3        | 15.2       | 280        | 141         | 5.0        | 105         | 21           | 18          | 2.2        | 177         | 12.3                | 55        | 61        | 3.5        |
+| 6/2/24 06:00| 8.8        | 14.1       | 220        | 138         | 4.6        | 102         | 20           | 28          | 3.7        | 142         | 8.7                 | 69        | 75        | 3.2        |
+| 6/2/24 18:00| 11.1       | 13.6       | 198        | 137         | 5.9        | 100         | 17           | 32          | 4.4        | 121         | 5.3                 | 48        | 39        | 2.8        |
+| 6/3/24 06:00| 9.2        | 13.0       | 206        | 139         | 4.7        | 101         | 18           | 29          | 4.5        | 112         | 2.1                 | 32        | 31        | 2.6        |
+| 6/3/24 18:00| 7.8        | 12.7       | 188        | 140         | 4.2        | 104         | 19           | 23          | 3.9        | 108         | 1.2                 | 28        | 26        | 2.7        |
+| 6/4/24 06:00| 7.0        | 12.9       | 202        | 140         | 4.4        | 105         | 21           | 20          | 3.2        | 116         | 0.5                 | 26        | 28        | 2.9        |
+| 6/5/24 06:00| 6.9        | 13.3       | 211        | 141         | 4.1        | 106         | 23           | 18          | 2.8        | 119         | —                   | 22        | 24        | 3.1        |
+
+*Note: Some labs not drawn at every time point. Albumin, AST/ALT sent q24h, Troponin trended q8h x3 then daily.*
+
+**Other notable labs:**  
+- BNP: 3,400 pg/mL (admit), 2,200 (day 4)  
+- CK-MB: peaked 32 ng/mL (adm), trended down  
+- Lactate: 3.2 mmol/L (adm), 1.7 (day 2)  
+- Urinalysis: proteinuria, glucosuria  
+- Microalbumin/Cr ratio: 260 mg/g (baseline)  
+- Prostate-specific antigen: 5.8 ng/mL (stable)
+
+---
+
+## IMAGING:
+- **ECHO (ICU day 1):** LVEF 23%, severe hypokinesis anterior wall, mild MR, dilated LV, RV normal
+- **CXR (ICU day 1):** Pulmonary edema, cardiomegaly, Impella in place
+- **CT head (ED):** No acute infarct, chronic microvascular changes
+
+---
+
+# ASSESSMENT & PLAN
+
+**91M with CAD, DM2, CKD, s/p STEMI complicated by cardiogenic shock requiring temporary LVAD (Impella), now improving.**
+
+---
+
+**1. Cardiogenic Shock / Acute MI / Heart Failure**
+   - s/p PCI (LAD stent), Impella CP placed for shock, now explanted.
+   - Remains on dual antiplatelet (ASA, clopidogrel) and high-intensity statin.
+   - Continue GDMT for HF (ACEi, BB, diuretic as tolerated).
+   - Monitor for arrhythmia, recurrent ischemia.
+   - Cardiology following.
+
+**2. Chronic Kidney Disease / Acute Kidney Injury**
+   - Baseline CKD, now with AKI (Cr peaked at 4.5, trending down).
+   - Strict I/O, daily weights.
+   - Avoid nephrotoxins, renally dose meds.
+   - Nephrology following.
+
+**3. Diabetes Mellitus / Metabolic Syndrome**
+   - Continue insulin, monitor glucose q6h.
+   - Hold metformin, other nephrotoxic agents.
+   - Monitor for DKA/HHS.
+
+**4. Prostate Neoplasm**
+   - Continue leuprolide, docetaxel as outpatient.
+   - PSA stable.
+   - Urology to follow up.
+
+**5. Alcohol Use Disorder / Tobacco Use**
+   - CIWA protocol, thiamine, folate.
+   - Nicotine patch continued.
+   - Social work, addiction medicine consult.
+
+**6. Osteoarthritis / Neuropathy**
+   - Pain control: acetaminophen scheduled, avoid NSAIDs due to AKI.
+   - Gabapentin as needed for neuropathy.
+
+**7. Secondary Prevention**
+   - Statins, antiplatelet, ACEi, beta-blocker.
+   - Cardiac rehab referral at discharge.
+
+**8. Disposition**
+   - Transfer to telemetry, then consider SNF vs home with home health.
+
+---
+
+## ICU TO TELEMETRY TRANSITION SUMMARY
+
+- **Impella CP**: Successfully weaned and explanted on ICU Day 4.
+- **Vasopressors**: Off since ICU Day 4.
+- **Renal function**: Improving, not at baseline.
+- **Neuro status**: Improving, still mild delirium.
+- **Ambulation**: PT/OT to evaluate.
+
+---
+
+**Attending Physician:** Dr. John Franks  
+**Date/Time:** 06/05/2024 08:17
+
+---
+
+**Additional Labs (selected):**
+| Date        | Calcium | Mg | PO4 | LDH | INR | aPTT | TSH |
+|-------------|---------|----|-----|-----|-----|------|-----|
+| 6/2/24      | 8.6     | 2.1| 4.7 | 210 | 1.1 | 34   | 2.2 |
+| 6/4/24      | 9.0     | 1.8| —   | 180 | 1.0 | 32   | —   |
+
+---
+
+**NURSING NOTES (abridged):**  
+- Foley draining clear urine, 600cc/24h on day 2, 1500cc/24h on day 4.  
+- OOB to chair with PT, moderate assistance.  
+- Family at bedside, wife updated daily.  
+- No new wounds, hand arthritis limits ADLs.
+
+---
+
+**CONSULTS:**  
+- Cardiology (daily): recommends continue HF regimen, up-titrate BB/ACEi as tolerated  
+- Nephrology: supportive care, avoid nephrotoxins  
+- Endocrine: continue insulin, hold oral agents  
+- Urology: continue current regimen, outpatient follow-up
+
+---
+
+**DISCHARGE PLANNING:**  
+- Home with spouse, consider SNF if unable to ambulate independently  
+- Close follow-up with PCP, cardiology, nephrology, urology  
+- Cardiac rehab referral  
+- Education re: heart failure, medication adherence, smoking cessation
+
+---
+
+**END OF NOTE**

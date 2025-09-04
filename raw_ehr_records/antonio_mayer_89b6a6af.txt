@@ -1,0 +1,137 @@
+```
+Epic EHR - Inpatient Progress Note
+----------------------------------------------------------
+Patient Name: Antonio Mayer
+MRN: 008412957
+Date of Birth: 06/30/1924 (99 years)
+Sex: Male
+Attending: Dr. Rachel Lin, MD
+Admit Date: 2024-05-28
+Location: MICU, Rm 7B
+Date of Service: 2024-06-04
+Consults: Cardiology, Oncology, Endocrinology, Palliative Care
+
+Chief Complaint:
+Acute onset dyspnea, chest discomfort, and confusion.
+
+HPI:
+Mr. Mayer is a 99-year-old male with a complex past medical history including chronic sinusitis, BMI >30 (obesity), hyperlipidemia, osteoporosis with prior pathological fracture, prostate neoplasm (s/p leuprolide, docetaxel), non-small cell lung cancer (TNM stage I, ongoing cisplatin/paclitaxel), prior ischemic stroke (2022, left hemiparesis resolved), and history of recurrent pharyngitis. He presented from his skilled nursing facility after a witnessed syncopal episode with acute hypoxemia and hypotension. On arrival, he was tachycardic, hypoxic, and hypotensive. Initial labs and imaging revealed elevated troponin, worsening renal function, and new pulmonary edema. Echo showed severe LV dysfunction (EF 15%) with global hypokinesis. Due to persistent cardiogenic shock not responsive to pressors, a percutaneous left ventricular assist device (Impella CP) was placed on hospital day 2.
+
+Hospital Course, Day by Day Summary:
+Day 1: Admitted with acute decompensated heart failure and shock. Intubated for hypoxic respiratory failure. Started on dobutamine, norepinephrine. Broad-spectrum antibiotics begun (concern for aspiration pneumonia).
+Day 2: Persistent hypotension and rising lactate. Cardiology consulted; decision made for temporary LV support. Impella CP placed in cath lab. Hemodynamics improved post-placement. Renal function worsening, started on CVVH. CXR showed worsening bilateral infiltrates.
+Day 3: Remains intubated, FiO2 40%. Urine output improved on CVVH. Lactate normalized. Oncology consulted for input re: ongoing chemotherapy in setting of critical illness. Palliative care consulted.
+Day 4: Weaned off norepinephrine. Still on low-dose dobutamine. Slow improvement in oxygenation. Extubated to high-flow nasal cannula. Impella weaning protocol started.
+Day 5: Awake, oriented x2 (baseline mild dementia). Impella CP removed after successful weaning trial. Renal function slowly improving. CRP and procalcitonin trending down.
+Day 6: Transferred to step-down unit. Monitoring for arrhythmia, volume overload, and delirium.
+
+Review of Systems:
+Negative except as noted above (unable to obtain from patient, per nursing).
+
+Physical Exam:
+Gen: Elderly male, frail, NAD, on high-flow O2.
+HEENT: Pale mucosa, no JVD.
+CV: S1/S2, soft S3, no murmur, Impella hum noted. Tachycardic.
+Resp: Bibasilar crackles, decreased air entry.
+Abd: Soft, NT, mild distension, hypoactive BS.
+Ext: 1+ pitting edema bilateral LE.
+Neuro: Follows commands, mild confusion, no focal deficit.
+
+LABORATORY DATA (SELECTED)
+----------------------------------------------------------
+| Date        | WBC  | Hgb  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Ca   | Troponin | ALT  | AST  | ALK Phos | Albumin | Lactate |
+|-------------|------|------|------|------|------|------|------|------|------|------|------|----------|------|------|----------|---------|---------|
+| 5/28/2024   | 7.8  | 16.2 | 204  | 139  | 4.0  | 103  | 25   | 19   | 2.1  | 89   | 9.2  | 0.41     | 38   | 44   | 40       | 3.5     | 2.8     |
+| 5/29/2024   | 9.2  | 15.4 | 178  | 137  | 4.3  | 101  | 21   | 23   | 2.8  | 92   | 9.0  | 0.95     | 51   | 60   | 43       | 3.3     | 3.6     |
+| 5/30/2024   | 10.7 | 14.9 | 166  | 140  | 4.1  | 102  | 23   | 31   | 3.7  | 87   | 8.8  | 1.24     | 54   | 77   | 47       |        | 2.5     |
+| 5/31/2024   | 8.5  | 13.7 | 155  |      | 3.7  | 99   | 19   | 36   | 4.2  | 85   |      | 0.62     | 49   | 51   | 45       | 3.0     |         |
+| 6/01/2024   | 7.9  | 12.8 | 142  | 138  | 3.8  |      | 22   | 28   | 3.6  | 93   | 9.1  | 0.28     | 44   |      | 41       |         | 1.4     |
+| 6/02/2024   | 7.2  | 13.1 | 183  | 137  | 4.2  | 105  | 26   | 22   | 2.7  | 81   | 9.3  | <0.01    | 39   | 38   | 37       | 3.8     | 1.2     |
+| 6/03/2024   | 6.8  | 12.6 | 177  | 139  | 4.0  | 103  | 27   | 19   | 1.9  | 82   | 9.0  | <0.01    |      | 31   | 41       | 3.7     |         |
+
+*Some labs not drawn daily due to line access issues and clinical stability.
+
+VITALS (Selected)
+----------------------------------------------------------
+Date          HR  BP           RR   Temp   O2 Sat   O2 device
+5/28/2024     121 82/45        26   36.9   88%      NRB mask
+5/29/2024     109 90/53        20   37.4   93%      Intubated
+5/30/2024     97  98/67        18   37.0   98%      Intubated
+5/31/2024     88  102/54       18   36.8   95%      HFNC
+6/01/2024     84  108/60       16   37.2   97%      HFNC
+6/02/2024     82  110/62       16   36.8   98%      NC 4L
+6/03/2024     78  112/64       15   36.7   98%      Room air
+
+MEDICATION ADMINISTRATION RECORD (abbreviated)
+----------------------------------------------------------
+- Dobutamine IV (5/28-6/01)
+- Norepinephrine IV (5/28-5/31)
+- Furosemide IV
+- Piperacillin-Tazobactam IV (5/28-6/02)
+- Simvastatin 10mg PO QD
+- Sertraline 100mg PO QD
+- Clopidogrel 75mg PO QD (held during Impella)
+- Acetaminophen/ Hydrocodone PRN
+- Ongoing chemotherapy (held during ICU course)
+- CVVH (5/29-6/02)
+- PRBC x1 (5/31, Hgb drop)
+
+IMAGING/DIAGNOSTICS
+----------------------------------------------------------
+- CXR (5/28): Bilateral pulmonary edema, mild cardiomegaly
+- Echo (5/29): LVEF 15%, severe global hypokinesis, mild MR
+- ECG: Sinus tachycardia, nonspecific ST/T changes
+- CT brain (6/1): No acute infarct or hemorrhage
+- CXR (6/2): Improved pulmonary congestion
+
+ASSESSMENT & PLAN (Problem-Based)
+----------------------------------------------------------
+1. **Cardiogenic Shock, Acute Decompensated Heart Failure (new severe LV systolic dysfunction)**
+   - Likely multifactorial: possible demand ischemia, underlying CAD, chemo-induced cardiomyopathy.
+   - Management: Impella CP placed HD2, now successfully weaned and removed. Dobutamine weaned, off pressors. Diuresis ongoing. Daily echo for LV function. Continue close hemodynamic and volume monitoring.
+   - Plan: Continue aggressive diuresis, monitor for arrhythmia, consider GDMT initiation as tolerated.
+
+2. **Acute Kidney Injury on CKD, now improving**
+   - Likely secondary to low cardiac output and hypoperfusion.
+   - Management: Initiated CVVH, now off. Renal function improving but remains at baseline CKD 3b.
+   - Plan: Monitor electrolytes, renal function, avoid nephrotoxins, adjust meds.
+
+3. **Non-Small Cell Lung Cancer, Stage I**
+   - Undergoing cisplatin/paclitaxel, held during critical illness.
+   - Plan: Oncology to reassess for restarting chemotherapy pending functional recovery.
+
+4. **Prostate Cancer, s/p hormonal and chemoRx**
+   - Stable, on leuprolide. PSA stable last checked.
+   - Plan: Continue leuprolide, monitor for symptoms.
+
+5. **History of Ischemic Stroke**
+   - No new focal deficits. On clopidogrel (held during Impella).
+   - Plan: Resume antiplatelet once stable.
+
+6. **Osteoporosis, h/o pathologic fracture**
+   - Plan: Continue calcium/vitamin D, monitor for new fractures, avoid falls.
+
+7. **Obesity, Hyperlipidemia**
+   - Plan: Continue statin, dietician consult, optimize weight loss as tolerated.
+
+8. **Delirium, Mild (likely multifactorial: ICU, hypoxemia, age)**
+   - Plan: Reorient, minimize sedation, early mobilization.
+
+9. **Palliative Care Needs**
+   - Engaged for goals of care. Family meeting planned.
+
+10. **Other: Chronic Sinusitis, Remote pharyngitis**
+    - No acute issues.
+
+Discharge Planning:
+- Anticipate transfer to SNF for rehab once medically stable.
+- Family meeting for goals of care and code status review.
+- Close follow-up with cardiology, oncology, and palliative care.
+
+Signature:
+Dr. Rachel Lin, MD
+Attending, MICU
+Date/Time: 2024-06-04 10:27
+
+----------------------------------------------------------
+```

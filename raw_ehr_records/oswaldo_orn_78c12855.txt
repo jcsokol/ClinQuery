@@ -1,0 +1,158 @@
+---
+**Patient Name:** Oswaldo Orn  
+**MRN:** 00219837  
+**DOB:** 10/18/1993 (Age: 30)  
+**Sex:** M  
+**Admit Date:** 06/14/2024  
+**Attending:** Dr. M. Frazier  
+**Location:** MICU, Bed 12  
+**Consults:** Cardiology, Infectious Disease, ENT, CV Surgery  
+**Code Status:** Full  
+**Allergies:** NKDA  
+**Height:** 174.6 cm  
+**Weight:** 69.7 kg  
+**BMI:** 22.9
+
+---
+
+### ADMISSION SUMMARY
+
+**CC:** Altered mental status, hypotension, fever  
+**HPI:**  
+Oswaldo Orn is a 30-year-old male with a PMH significant only for recent streptococcal pharyngitis and otitis media (treated with penicillin and amoxicillin) who presented to the ED after 3 days of malaise, persistent fever (Tmax 39.1°C), myalgias, and progressive shortness of breath. Family reported confusion and new-onset palpitations. On arrival, he was febrile, tachycardic (HR 132), hypotensive (BP 82/49), and hypoxic (SpO2 91% RA). Exam notable for JVD, S3 gallop, bilateral rales, and cool extremities. CXR: pulmonary edema. ECG: sinus tachycardia, nonspecific ST-T changes. Troponin I mildly elevated. Echo: severely reduced LVEF (15%), global hypokinesis, moderate MR. Rapidly deteriorated requiring intubation and vasopressors.
+
+He was transferred to the MICU, where he developed worsening cardiogenic shock refractory to escalating pressors and inotropes. Emergent placement of a left-sided Impella CP device was performed at bedside by CV surgery. Infectious workup pending; empiric vanc/cefepime started. Course complicated by AKI, transaminitis, and thrombocytopenia.  
+
+---
+
+### HOSPITAL COURSE (Summary)
+
+- **Day 1:** Cardiac arrest x1, ROSC after 2 min CPR, intubated, started norepinephrine, dobutamine. Lactate 6.8. Echo: LVEF 15%. Impella CP placed.  
+- **Day 2:** Stable on Impella, pressors weaned. Renal function worsened, started CRRT.  
+- **Day 4:** Cultures negative. TTE: No vegetations.  
+- **Day 6:** Improved mentation, weaned off Impella, extubated day 7.  
+- **Day 8:** Transferred to stepdown, improved labs, residual mild heart failure.  
+- **Day 10:** Discharged home with close f/u, GDMT for HF initiated, outpatient cardiac MRI planned.
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. Cardiogenic Shock secondary to Fulminant Myocarditis
+- **Assessment:** Severe biventricular dysfunction, likely viral myocarditis (parainfluenza PCR +), acute decompensated HF, profound shock.
+- **Plan:**
+  - Impella CP placed day 1, removed day 6
+  - Milrinone transitioned to oral carvedilol, lisinopril (titrated as tolerated)
+  - Diuresis with IV furosemide
+  - Serial Echos
+  - Cardiac MRI outpatient
+  - Monitor for arrhythmia; metoprolol PRN
+
+### 2. Acute Kidney Injury (KDIGO Stage 3)
+- **Assessment:** Multifactorial: hypoperfusion, nephrotoxic abx, myoglobinuria suspected.
+- **Plan:**
+  - CRRT initiated day 2, discontinued day 7
+  - Daily BMP, strict I/O, nephrology consult
+  - Hold nephrotoxins, dose-adjust abx
+
+### 3. Sepsis, Source: unclear (likely viral)
+- **Assessment:** Fever, leukocytosis, hypotension, negative cultures, viral PCR positive
+- **Plan:**
+  - Broad-spectrum abx x72hr, discontinued after negative cultures
+  - Viral PCR panel sent, parainfluenza A positive
+  - Supportive care
+
+### 4. Acute Hypoxic Respiratory Failure
+- **Assessment:** Cardiogenic pulmonary edema, intubated days 1–6
+- **Plan:**
+  - Protective lung ventilation
+  - Diuresis, daily CXR
+  - Extubated successfully day 7
+
+### 5. Thrombocytopenia (Nadir Plt 38K)
+- **Assessment:** Likely multifactorial: sepsis, CRRT, Impella, meds
+- **Plan:**
+  - Monitor CBC daily
+  - Plt transfusion x1 (Plt < 20K)
+  - Hematology consult
+
+### 6. Streptococcal pharyngitis/otitis media (remote)
+- **Assessment:** Completed abx pre-admission, no active infection
+- **Plan:** No further intervention
+
+### 7. Pain, mild
+- **Assessment:** Reports 3/10 pain, managed with acetaminophen
+- **Plan:** PRN acetaminophen, avoid NSAIDs due to AKI
+
+---
+
+## ICU VITALS (selected)
+
+| Date       | Temp (°C) | HR  | BP (mmHg) | RR  | SpO2 | Pain |
+|------------|-----------|-----|-----------|-----|------|------|
+| 6/14/24    | 38.1      | 132 | 82/49     | 24  | 91%  | 4    |
+| 6/15/24    | 37.6      | 121 | 95/60     | 18  | 97%  | 0    |
+| 6/16/24    | 37.0      | 98  | 110/72    | 16  | 99%  | 2    |
+| 6/18/24    | 36.8      | 84  | 117/75    | 14  | 99%  | 1    |
+
+---
+
+## LABS
+
+**CBC, Chem7, Cardiac, LFTs, Coags**
+
+| Date       | WBC   | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | T.bili | Trop I | INR  |
+|------------|-------|-------|-------|-------|------|------|------|------|------|------|------|------|------|--------|--------|------|
+| 6/14/24    | 17.2  | 12.5  | 41.7  | 112   | 134  | 5.6  | 98   | 17   | 46   | 2.9  | 148  | 158  | 211  | 1.8    | 0.41   | 1.2  |
+| 6/15/24    | 14.9  | 11.9  | 39.8  | 88    | 137  | 4.8  | 101  | 19   | 38   | 2.4  | 134  | 121  | 160  | 1.2    | 0.23   | 1.1  |
+| 6/16/24    | 10.7  | 10.6  | 36.2  | 53    | 140  | 4.2  | 104  | 21   | 19   | 1.4  | 107  | 72   | 83   | 0.6    | 0.09   | 1.0  |
+| 6/17/24    | 8.1   | 10.1  | 34.9  | 38    | 142  | 3.8  | 106  | 23   | 13   | 1.0  | 99   | 42   | 51   | ---    | <0.01  | 0.9  |
+| 6/18/24    | 7.5   | 10.8  | 36.1  | 62    | 143  | 4.0  | 107  | 24   | 12   | 0.9  | 108  | 38   | ---  | 0.4    | <0.01  | ---  |
+
+---
+
+## MICROBIOLOGY
+
+- Blood cx x2: No growth
+- Sputum: No growth
+- Viral PCR: Parainfluenza A +
+- Strep rapid test: Negative (repeat)
+- Urine Ag: Legionella/Pneumo negative
+
+---
+
+## IMAGING
+
+- **CXR 6/14:** Bilateral pulmonary edema, prominent vascular markings
+- **Echo 6/14:** LVEF 15%, global hypokinesis, mild RV dysfunction, mod MR
+- **Echo 6/17:** LVEF 32%, improving function
+- **CT Head:** Normal
+
+---
+
+## PROCEDURES
+
+- Impella CP placement (left femoral, day 1)
+- Intubation (day 1)
+- Right IJ central line, left radial A-line
+- Foley, NGT, CRRT catheter
+
+---
+
+## DISCHARGE MEDS
+
+- Carvedilol 3.125 mg BID
+- Lisinopril 2.5 mg daily
+- Furosemide 20 mg daily
+- Acetaminophen 325 mg PO PRN
+- Outpatient: Cardiac MRI, HF clinic, Nephrology f/u
+
+---
+
+## PHYSICIAN ATTESTATION
+
+This note was written by Dr. M. Frazier, MICU, with input from Cardiology, CV Surgery, and Nephrology.
+
+---
+
+**[End of Note]**

@@ -1,0 +1,190 @@
+**Patient Name:** Marco Williamson  
+**MRN:** 003284719  
+**DOB:** 1988-07-13  
+**Sex:** Male  
+**Admit Date:** 2024-05-30  
+**Attending:** Dr. John K. Peterson  
+**Service:** Cardiac ICU  
+**Hospital Day:** 8  
+**Note Type:** Progress Note
+
+---
+
+### Chief Complaint
+
+Shortness of breath, orthopnea, and chest pain.
+
+---
+
+### History of Present Illness
+
+35-year-old male with a history of obesity (BMI 30), perennial allergic rhinitis, and remote concussion (no LOC), presented to the ED with acute onset chest pressure, increasing dyspnea, and palpitations over 24 hours. He was found to be tachycardic, hypotensive, and in acute distress. Initial workup demonstrated elevated cardiac enzymes, ECG with diffuse ST depressions, and chest x-ray with pulmonary edema. Despite IV diuresis and vasopressors, he developed worsening cardiogenic shock, requiring intubation and ultimately placement of a temporary left-sided Impella CP device for hemodynamic support on hospital day 2. No prior cardiac history. Family history notable for CAD in father, MI at age 54.
+
+---
+
+### Past Medical History
+
+- Perennial allergic rhinitis (with seasonal exacerbations)
+- Obesity (BMI 30+)
+- Concussion, no LOC (remote, 2016)
+- No known CAD, HTN, DM
+
+### Surgical History
+
+- None
+
+### Social History
+
+- Non-smoker
+- Occasional alcohol
+- No illicit drug use
+- Lives with partner, works as accountant
+
+### Family History
+
+- Father: MI at 54, alive
+- Mother: Asthma
+
+### Allergies
+
+- NKDA
+
+### Medications on Admission
+
+- Terfenadine 60mg PO BID
+- Epinephrine 0.3mg auto-injector PRN
+- Fluticasone 44mcg/actuation MDI, 2 puffs BID
+- Albuterol 90mcg/actuation MDI, 2 puffs PRN
+
+---
+
+## Physical Exam (Hospital Day 8, AM)
+
+| Vital Sign                | Value      |
+|---------------------------|------------|
+| Temp                      | 37.3 C     |
+| HR                        | 96 bpm     |
+| BP                        | 98/62 mmHg |
+| RR                        | 18         |
+| SpO2                      | 97% (2L NC)|
+| Weight                    | 82.1 kg    |
+| Height                    | 165 cm     |
+| Pain score                | 3/10       |
+
+- **General:** Intubated, sedated, on vent, appears overweight male, no acute distress
+- **HEENT:** PERRL, mucous membranes moist
+- **CV:** S1, S2, no murmur, Impella audible, JVP 12 cm, peripheral pulses 1+
+- **Pulm:** Crackles at both bases, decreased air entry bilaterally
+- **Abd:** Soft, non-tender, bowel sounds present
+- **Ext:** Trace pitting edema, no DVT
+- **Neuro:** Sedated, pupils equal, moves all extremities to painful stimulus
+
+---
+
+## Labs
+
+#### Table 1: CBC + Chem7 (selected days)
+
+| Date       | WBC   | Hgb  | Hct  | Plt | Na  | K   | Cl  | CO2  | BUN | Cr   | Glu | Troponin | BNP    |
+|------------|-------|------|------|-----|-----|-----|-----|------|-----|------|-----|----------|--------|
+| 5/30 06:30 | 4.9   | 14.2 | 42.9 | 307 | 137 | 3.7 | 102 | 23   | 18  | 1.01 | 106 | 0.47     | 1,320  |
+| 5/31 04:10 | 11.3  | 13.1 | 39.0 | 265 | 134 | 3.2 | 99  | 19   | 25  | 1.24 | 188 | 2.91     | 11,400 |
+| 6/1 06:15  | 12.7  | 11.6 | 35.2 | 221 | 136 | 4.0 | 104 | 21   | 31  | 1.34 | 142 | 0.87     | 9,700  |
+| 6/2 06:10  | 10.1  | 12.2 | 37.1 | 208 | 140 | 4.1 | 108 | 22   | 26  | 1.18 |     | 0.31     |        |
+| 6/4 05:50  | 8.6   | 11.8 | 35.7 | 201 | 142 | 3.9 | 106 | 24   | 19  | 1.02 | 117 | 0.11     | 1,200  |
+| 6/6 07:44  | 6.1   | 12.9 | 38.2 | 218 | 139 |     | 101 | 23   | 16  | 0.94 | 108 | <0.01    | 740    |
+
+**Other Labs:**
+- ALT/AST: Peak ALT 143, AST 159 (6/1), trending down by 6/4
+- INR: 1.7 (6/1), normalized by 6/6
+- Lactate: 4.2 (5/31), 2.0 (6/1), 1.2 (6/4)
+- CXR: Bilateral pulmonary edema, improving by 6/5
+- Echo (6/1): LVEF ~15%, global hypokinesis, Impella in place, no pericardial effusion
+
+---
+
+## Problem List & Assessment/Plan
+
+### 1. **Acute decompensated heart failure/cardiogenic shock**
+- Likely secondary to acute myocarditis vs. ischemic insult (no obstructive CAD on cath, but troponin elevated).
+- Required temporary Impella CP placement for hemodynamic support on HD2.
+- Now weaning vasopressors, Impella flows 2.2-2.4 L/min, MAPs stable >65.
+- Plan: Continue Impella support, daily echo, monitor for hemolysis, consider weaning trial HD9 if stable, strict I/O, daily weights, continue low-dose furosemide.
+
+### 2. **Acute kidney injury, improved**
+- Initial rise in Cr (peak 1.34), likely multifactorial (shock, diuretic use).
+- Trending down with improved perfusion.
+- Plan: Monitor renal function, avoid nephrotoxins, maintain euvolemia.
+
+### 3. **Respiratory failure, intubated**
+- Intubated for hypoxemia and work of breathing on HD2.
+- Now on low vent settings, CXR improved.
+- Plan: Daily SBT, consider extubation after Impella wean.
+
+### 4. **Obesity (BMI 30.1)**
+- Likely increased risk for OSA and difficult weaning.
+- Plan: Nutrition consult, caloric restriction, DVT prophylaxis.
+
+### 5. **Allergic rhinitis**
+- Home meds held, no current symptoms.
+- Plan: Resume fluticasone when extubated.
+
+### 6. **Sedation/Delirium prevention**
+- On fentanyl/propofol, daily sedation holidays.
+- Plan: Minimize sedation, early PT/OT after extubation.
+
+### 7. **GI prophylaxis**
+- On pantoprazole IV.
+
+### 8. **VTE prophylaxis**
+- On enoxaparin 40mg SQ q24h.
+
+### 9. **Concussion (remote)**
+- No acute neuro findings.
+
+---
+
+## Procedures
+
+- **Impella CP Placement:** 5/31, left femoral artery, no immediate complications
+- **R IJ central line** (for vasoactive support)
+- **A-line** (L radial)
+
+---
+
+## Hospital Course (Summary)
+
+- HD1: Admitted to ICU, worsening shock despite pressors, intubated
+- HD2: Impella CP placed, rapid hemodynamic improvement
+- HD3-5: Weaning vasopressors, diuresis, renal function improved
+- HD6: CXR improved, SBT attempted
+- HD7: Sedation holidays, considering Impella wean
+- HD8: Stable, prepping for Impella removal trial
+
+---
+
+## Disposition
+
+- Continue ICU monitoring, anticipate Impella removal in 24-48h if stable
+- Anticipate step-down transfer after extubation and device removal
+
+---
+
+**Physician:** John K. Peterson, MD  
+**Date/Time:** 2024-06-07 08:14
+
+---
+
+## Orders
+
+- Continue Impella at current settings
+- Monitor CBC, Chem7, lactate qAM
+- Daily echo
+- NPO except for meds
+- Foley to gravity
+- SCDs on lower extremities
+- Physical therapy consult when extubated
+
+---
+
+**End of Note**

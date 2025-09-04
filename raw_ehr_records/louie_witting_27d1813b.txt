@@ -1,0 +1,158 @@
+---
+
+**Patient Name**: Louie Witting  
+**MRN**: 00204781  
+**DOB**: 1992-02-23 (Age: 32)  
+**Sex**: Male  
+**Admit Date**: 2024-06-14  
+**Service**: Cardiac ICU  
+**Attending**: Dr. S. Patel  
+**Consults**: Cardiology, Infectious Disease, Allergy/Immunology  
+**Allergies**: NKDA  
+
+---
+
+### **HOSPITAL COURSE SUMMARY**
+
+**CC**: SOB, chest tightness, confusion  
+**HPI**:  
+32-year-old male with PMH notable for obesity (BMI 29.8), recent acute allergic reaction (anaphylaxis to unknown trigger), viral sinusitis, acute bronchitis, and no known prior cardiac disease, presented to ED with progressive dyspnea, orthopnea, and palpitations. Initial workup notable for hypotension, tachycardia, and hypoxia (O2 sat 88% on RA). Rapid escalation of oxygen requirements and evidence of shock (MAP <60) prompted transfer to the ICU.  
+
+In the ICU, patient developed worsening respiratory distress and hypotension refractory to fluids and vasopressors. Bedside echocardiogram demonstrated severely reduced LVEF (EF 15%), global hypokinesis, and moderate mitral regurgitation. Cardiac biomarkers elevated. Infectious workup negative except for positive viral PCR (rhinovirus). Given cardiogenic shock, patient underwent emergent placement of a percutaneous left ventricular assist device (Impella CP) for temporary support.  
+
+Hospital course complicated by AKI (peak Cr 2.2), transient transaminitis, and nosocomial pneumonia. Gradual improvement in cardiac function (repeat EF 35% by day 10). Temporary heart pump weaned and explanted on day 12. Discharged to cardiac rehab on day 16.  
+
+---
+
+## **PROBLEM-BASED ASSESSMENT & PLAN**
+
+---
+
+### 1. **Cardiogenic Shock secondary to Acute Severe Myocarditis (likely viral)**  
+- Initial presentation: profound shock, biventricular failure, elevated troponin/BNP, viral prodrome.  
+- Management:  
+    - Emergent Impella CP placement (day 1-12)  
+    - IV milrinone, low-dose norepinephrine, diuresis after hemodynamic stabilization  
+    - Serial bedside ECHO monitoring  
+    - Cardiac MRI (day 14): diffuse myocardial edema, LVEF improved to 35%  
+    - TTE (day 16): LVEF 38%, mild MR  
+    - Cardiac enzymes trending down  
+    - Plan: continue GDMT for HF, close outpatient follow-up, cardiac rehab
+
+### 2. **Acute Respiratory Failure (mixed etiology: pulmonary edema, pneumonia, bronchitis)**  
+- Hypoxemia requiring HFNC x 4 days, weaned to nasal cannula day 6  
+- CXR: bibasilar opacities, small pleural effusions  
+- Sputum cultures grew MSSA; started on cefazolin, completed 7-day course  
+- Plan: chest physiotherapy, incentive spirometry, monitor for recurrence
+
+### 3. **Acute Kidney Injury (multifactorial: pre-renal from shock, nephrotoxic meds)**  
+- Peak Cr 2.2 (baseline 0.9), improved to 1.1 by discharge  
+- Avoided nephrotoxic agents, adjusted diuretics, IV fluids as tolerated  
+- Plan: monitor renal function, outpatient nephrology f/u
+
+### 4. **Acute Allergic Reaction (prior to admission; anaphylaxis)**  
+- Remote history; no further episodes in hospital  
+- Maintained on loratadine, prednisone (tapered off)  
+- Epinephrine autoinjector prescribed at discharge  
+- Plan: allergy testing outpatient
+
+### 5. **Viral Sinusitis / Acute Bronchitis**  
+- Supportive care, acetaminophen PRN, completed amox/clav course  
+- Symptoms resolved by day 7
+
+### 6. **Obesity (BMI 29.8)**  
+- Dietary consult, weight loss counseling  
+- Plan: outpatient nutritionist, cardiac rehab
+
+### 7. **Transaminitis**  
+- AST/ALT peaked at 3x ULN, resolved with improved perfusion  
+- No evidence of chronic liver disease
+
+### 8. **Electrolyte Disturbances (hypokalemia, mild hyponatremia)**  
+- Repleted as needed, normalized prior to discharge
+
+---
+
+## **HOSPITAL MEDICATIONS**
+
+| Medication                                    | Dose/Route/Frequency           | Indication                         | Start/Stop            |
+|------------------------------------------------|-------------------------------|-------------------------------------|-----------------------|
+| Loratadine                                     | 5mg PO daily                  | Allergic symptoms                   | Home/continued        |
+| Epinephrine (auto-injector)                    | 0.3 mL IM PRN                 | Anaphylaxis                         | Home/continued        |
+| PredniSONE                                     | 5mg PO taper                  | Allergic reaction                   | Tapered off day 5     |
+| Amoxicillin/Clavulanate                        | 250/125mg PO TID              | Sinusitis/bronchitis                | Completed day 7       |
+| Acetaminophen                                  | 325mg PO PRN                  | Fever/pain                          | PRN                   |
+| Cefazolin                                      | 2g IV q8h                     | MSSA pneumonia                      | Day 3-10              |
+| Furosemide                                     | 40mg IV BID                   | Volume overload                     | Day 2-16              |
+| Milrinone                                      | 0.375 mcg/kg/min IV           | Cardiogenic shock                   | Day 1-13              |
+| Norepinephrine                                 | Titrated IV                   | Vasopressor support                 | Day 1-4               |
+| Metoprolol succinate                           | 25mg PO daily                 | HF guideline therapy                | Initiated day 12      |
+| Lisinopril                                     | 2.5mg PO daily                | HF guideline therapy                | Initiated day 12      |
+
+---
+
+## **LABORATORY DATA**
+
+#### *Lab Table 1: CBC, Chem7, Cardiac Enzymes, LFTs, Inflammatory Markers*
+
+| Date       | WBC   | Hgb   | Plt   | Na   | K    | Cl   | HCO3 | BUN  | Cr   | Glu  | Troponin I | BNP    | AST  | ALT  | ALK Phos | CRP   |
+|------------|-------|-------|-------|------|------|------|------|------|------|------|------------|--------|------|------|----------|-------|
+| 6/14/24    | 5.2   | 14.1  | 257   | 132  | 3.1  | 98   | 21   | 32   | 1.7  | 145  | 5.2        | 1850   | 98   | 102  | 150      | 12.2  |
+| 6/15/24    | 7.8   | 13.8  | 242   | 130  | 3.4  | 100  | 19   | 41   | 2.2  | 138  | 4.1        | 2090   | 122  | 111  | 138      | 18.4  |
+| 6/16/24    | 8.5   | 13.5  | 231   | 134  | 3.8  | 102  | 23   | 38   | 1.9  | 120  | 2.8        | 1700   | 87   | 98   | 133      | 13.7  |
+| 6/17/24    | 7.1   | 13.2  | 220   | 137  |      | 101  | 24   | 29   | 1.4  |      | 1.2        | 1100   | 65   | 67   | 119      | 7.0   |
+| 6/18/24    | 6.6   | 13.0  | 200   | 138  | 4.0  | 99   | 25   | 21   | 1.1  | 114  | 0.7        | 800    | 42   | 39   | 110      | 2.5   |
+| 6/20/24    | 5.1   | 13.2  | 204   |      | 4.2  | 103  | 26   | 18   | 1.0  | 108  | <0.04      | 620    | 38   | 33   | 105      | 1.3   |
+| 6/24/24    | 4.9   | 14.0  | 198   | 139  | 4.1  | 102  | 24   | 16   | 0.9  | 97   | <0.04      | 540    | 34   | 29   | 98       | 0.9   |
+
+*Some labs not drawn daily or pending.*
+
+---
+
+## **VITALS (Selected)**
+
+| Date/Time       | Temp (°C) | HR  | BP        | RR  | SpO2 | O2 Device    | Comments        |
+|-----------------|-----------|-----|-----------|-----|------|--------------|-----------------|
+| 6/14/2024 08:10 | 37.6      | 122 | 82/48     | 28  | 88   | NRB mask     | ICU admission   |
+| 6/14/2024 15:00 | 38.2      | 128 | 75/46     | 30  | 90   | HFNC 60%     | Hypotensive     |
+| 6/15/2024 04:00 | 37.9      | 116 | 92/54     | 24  | 94   | HFNC 50%     | Post-Impella    |
+| 6/16/2024 12:00 | 37.2      | 104 | 108/62    | 20  | 97   | NC 4L        | Improving       |
+| 6/17/2024 08:00 | 36.9      | 93  | 117/68    | 18  | 99   | RA           | Stable          |
+| 6/20/2024 18:00 | 36.5      | 88  | 124/70    | 16  | 99   | RA           | Ambulating      |
+
+---
+
+## **IMAGING**
+
+- **Admission CXR**: Bilateral perihilar opacities, mild pulmonary edema
+- **ECHO (6/14/24)**: LVEF 15%, global hypokinesis, moderate MR
+- **CT Chest (6/15/24)**: No PE, bibasilar infiltrates
+- **Repeat ECHO (6/18/24)**: LVEF 28%, mild MR
+- **Cardiac MRI (6/24/24)**: LVEF 35%, diffuse myocardial edema, no scar
+
+---
+
+## **PROCEDURES**
+
+- **Impella CP Placement**: 6/14/24, left femoral access, no immediate complications  
+- **Impella CP Removal**: 6/26/24, device weaned off, hemostasis achieved
+
+---
+
+## **DISCHARGE PLANS**
+
+- **Medications**: Continue GDMT for HF, allergy meds, epinephrine auto-injector
+- **Follow-Up**: Cardiology (1 wk), Allergy/Immunology, Nephrology, PCP
+- **Instructions**: Low sodium diet, fluid restriction, daily weights, cardiac rehab
+
+---
+
+## **PROVIDER SIGNATURE**
+
+S. Patel, MD  
+Cardiac Intensive Care Unit  
+Date: 2024-06-28
+
+---
+
+**END OF NOTE**

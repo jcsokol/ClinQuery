@@ -1,0 +1,161 @@
+---
+**Patient Name:** Schneider, Gwendolyn  
+**MRN:** 00352704  
+**DOB:** 12/20/1993  
+**Sex:** Female  
+**Admit Date:** 4/12/2024  
+**Attending Physician:** Dr. S. Patel  
+**Location:** ICU, 3rd Floor  
+**Admitting Dx:** Cardiogenic shock, suspected acute decompensated heart failure  
+**Visit Type:** Inpatient  
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+**Gwendolyn Schneider** is a 30-year-old female with a history of obesity (BMI 32.8), chronic sinusitis, and recent acute bacterial sinusitis, who presented to the emergency department with progressive dyspnea, orthopnea, and lower extremity swelling for one week. On arrival, she was hypotensive (BP 84/52 mmHg), tachycardic (HR 122), and hypoxic (O2 sat 89% RA). Initial workup revealed elevated BNP, troponin I, and evidence of pulmonary edema on chest X-ray. She developed worsening hemodynamic instability and was transferred to the ICU where she required vasopressor support. An echocardiogram showed a severely reduced LVEF (15%) with global hypokinesis. Given refractory cardiogenic shock, a femoral arterial Impella CP device was placed for temporary left ventricular support on hospital day 2.
+
+Her ICU stay was complicated by acute kidney injury, transient transaminitis, and episodes of atrial fibrillation with rapid ventricular response. She received IV diuresis, broad-spectrum antibiotics for suspected pneumonia, and guideline-directed medical therapy for heart failure as tolerated. The temporary heart pump was weaned and removed on hospital day 6 after hemodynamic improvement. She was transferred to the cardiac step-down unit on day 7 and gradually transitioned to oral medications. Discharge planning involved extensive education and follow-up with advanced heart failure clinic.
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. **Cardiogenic Shock / Acute Decompensated Heart Failure**
+- **Assessment:** Severe, new-onset nonischemic cardiomyopathy (EF 15%), likely secondary to viral myocarditis vs. idiopathic. Required temporary mechanical circulatory support (Impella CP) for refractory shock.
+- **Plan:**
+  - Continue guideline-directed medical therapy (GDMT): carvedilol, sacubitril-valsartan, spironolactone, dapagliflozin as tolerated
+  - Monitor volume status, daily weights, strict I/O
+  - Wean IV diuretics, transition to oral furosemide
+  - Cardiac rehab consult
+  - Advanced heart failure clinic follow-up
+
+### 2. **Temporary Heart Pump (Impella CP)**
+- **Assessment:** Device placed day 2 for severe LV dysfunction and shock, removed day 6 after clinical stabilization.
+- **Plan:**
+  - Monitor vascular access site for bleeding/infection
+  - Echo to reassess LV function post-device
+  - Serial Hgb/Hct, LDH, haptoglobin for hemolysis surveillance
+
+### 3. **Obesity (BMI 32.8)**
+- **Assessment:** Contributing to HF and increased risk of OSA, venous thromboembolism.
+- **Plan:**
+  - Nutrition consult, calorie restriction
+  - PT/OT for early mobilization
+  - Encourage weight loss post-discharge
+
+### 4. **Acute Kidney Injury (Stage 2, resolved)**
+- **Assessment:** Likely multifactorial (hypoperfusion, diuretics, contrast exposure).
+- **Plan:**
+  - Renal function monitoring, avoid nephrotoxins
+  - Renal dose adjustment for all medications
+
+### 5. **Atrial Fibrillation with RVR (paroxysmal)**
+- **Assessment:** New onset, likely secondary to severe HF and catecholamine surge.
+- **Plan:**
+  - Continue metoprolol
+  - Anticoagulation (apixaban)
+  - Rhythm monitoring
+
+### 6. **Chronic Sinusitis / Recent Acute Bacterial Sinusitis**
+- **Assessment:** Treated with amoxicillin-clavulanate prior to admission. No active symptoms.
+- **Plan:**
+  - Continue supportive care, saline rinses
+  - Outpatient ENT follow-up
+
+### 7. **Transaminitis (resolved)**
+- **Assessment:** Mild, likely secondary to hypoperfusion ("shock liver").  
+- **Plan:**
+  - Monitor LFTs
+  - No hepatotoxic drugs
+
+### 8. **Reproductive Health / Contraception**
+- **Assessment:** On progestin-only OCPs and recent medroxyprogesterone injection. No acute gynecologic issues.
+- **Plan:**
+  - Continue current contraceptive regimen
+  - Counsel on medication interactions with heart failure meds
+
+---
+
+## HOSPITAL COURSE BY DAY
+
+| Date        | Day | Events/Interventions                                      |
+|-------------|-----|----------------------------------------------------------|
+| 4/12/2024   | 0   | Admitted ICU, started norepinephrine, diuresis           |
+| 4/13/2024   | 1   | Echo: EF 15%; worsening shock; Impella CP placed         |
+| 4/14/2024   | 2   | Hemodynamic stabilization; AKI, started antibiotics      |
+| 4/15/2024   | 3   | Atrial fibrillation, started apixaban, improved UOP      |
+| 4/16/2024   | 4   | Weaned off vasopressors, extubated                       |
+| 4/17/2024   | 5   | Impella weaned/removed, transitioned to oral meds        |
+| 4/18/2024   | 6   | Step-down unit, ambulating, advanced HF education        |
+| 4/19/2024   | 7   | Discharge planning, outpatient follow-up scheduled       |
+
+---
+
+## VITALS (SELECTED)
+
+| Date       | Temp (C) | HR  | BP        | RR | O2 Sat | Weight (kg) |
+|------------|----------|-----|-----------|----|--------|-------------|
+| 4/12/2024  | 37.2     | 122 | 84/52     | 24 | 89%    | 83.5        |
+| 4/13/2024  | 37.5     | 110 | 90/60     | 22 | 94%    | 81.9        |
+| 4/15/2024  | 36.9     | 98  | 102/64    | 18 | 97%    | 80.2        |
+| 4/17/2024  | 36.7     | 85  | 116/70    | 16 | 98%    | 79.8        |
+
+---
+
+## LABS
+
+#### Table 1: CBC & CHEM7 (ICU Stay)
+
+| Date       | WBC   | Hgb   | Hct  | Plt  | Na  | K   | Cl  | CO2 | BUN | Cr  | Glucose |
+|------------|-------|-------|------|------|-----|-----|-----|-----|-----|-----|---------|
+| 4/12/2024  | 6.7   | 16.3  | 41.6 | 382  | 134 | 4.7 | 102 | 22  | 19  | 1.3 | 132     |
+| 4/13/2024  | 7.8   | 15.9  | 40.1 | 367  | 132 | 5.2 | 99  | 19  | 34  | 2.0 | 148     |
+| 4/14/2024  | 9.5   | 14.8  | 37.2 | 341  | 137 | 4.2 | 106 | 23  | 28  | 1.7 | 119     |
+| 4/15/2024  | 8.2   | 14.2  | 36.0 | 309  | 135 | 4.0 | 104 | 22  | 24  | 1.4 | 112     |
+| 4/16/2024  | 7.2   | 13.8  | 35.4 | 288  | 138 | 3.8 | 107 | 25  | --  | --  | 107     |
+| 4/17/2024  | 6.2   | 13.6  | 34.2 | 276  | 139 | 4.0 | 108 | 24  | 18  | 1.1 | --      |
+
+#### Table 2: Additional Labs
+
+| Date       | BNP     | Troponin I | ALT   | AST   | Alk Phos | LDH  | INR  | aPTT | D-dimer |
+|------------|---------|------------|-------|-------|----------|------|------|------|---------|
+| 4/12/2024  | 1980    | 0.34       | 122   | 145   | 88       | 452  | 1.2  | 34   | --      |
+| 4/13/2024  | 2150    | 0.29       | 107   | 120   | 79       | --   | 1.3  | --   | 1.2     |
+| 4/15/2024  | 1530    | 0.18       | 61    | 63    | 77       | 322  | 1.1  | 31   | 0.8     |
+| 4/17/2024  | 954     | 0.08       | 38    | 41    | --       | 201  | 1.0  | --   | --      |
+
+---
+
+### DISCHARGE MEDICATIONS
+
+- Carvedilol 3.125 mg BID
+- Sacubitril-valsartan 24/26 mg BID
+- Spironolactone 25 mg daily
+- Dapagliflozin 10 mg daily
+- Furosemide 40 mg daily
+- Apixaban 5 mg BID
+- Camila (norethindrone) 0.35 mg daily
+- Continue nasal saline rinses
+
+---
+
+### DISCHARGE INSTRUCTIONS
+
+- Strict daily weights, low sodium diet, fluid restriction 1.5L/day
+- Monitor for symptoms: SOB, orthopnea, swelling, palpitations
+- F/U Cardiology (Advanced HF) in 1 week, labs prior
+- ENT f/u as outpatient for sinusitis
+- Medication reconciliation completed
+
+---
+
+### PROVIDER SIGNATURE
+
+**S. Patel, MD**  
+Attending Cardiologist  
+4/19/2024 13:47
+
+---
+
+**End of Note**

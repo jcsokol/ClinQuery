@@ -1,0 +1,171 @@
+---
+**Patient Name:** Andrea Tello  
+**MRN:** 003592749  
+**DOB:** 1996-05-06 (Age: 27)  
+**Sex:** Female  
+**Admit Date:** 2024-04-18  
+**Attending:** Dr. M. Rios  
+**Service:** Cardiac ICU  
+**Location:** 7C ICU, Bed 12  
+
+---
+
+# ICU ADMISSION NOTE
+
+### Chief Complaint
+Acute onset chest pain, progressive dyspnea, and orthopnea.
+
+### HPI
+27F with PMHx of hypertension, chronic sinusitis, and recent pregnancy (G1P1, delivered 3 months ago), who presented to the ED with 2 days of worsening SOB, orthopnea, PND, and new LE edema. She reports a viral URI ~2 weeks ago, followed by increasing fatigue. Denies fevers now. In ED, she was tachycardic, tachypneic, hypoxic (O2 sat 87%RA), and hypotensive. BNP 3200, troponin mildly elevated (0.14). CXR: pulmonary edema. Echo: LVEF 18%, global hypokinesis, mild MR, no LV thrombus. She developed worsening shock and required vasopressors, subsequently transferred to ICU and Impella CP placed for hemodynamic support.  
+
+### Past Medical History
+- Hypertension (well-controlled on HCTZ/atenolol)
+- Chronic sinusitis
+- Recent acute bronchitis (resolved)
+- Normal pregnancy, vaginal delivery 3 months ago
+
+### Past Surgical History
+- None
+
+### Social History
+- Non-smoker, rare EtOH, no illicit drugs
+- Lives with partner and infant
+
+### Family History
+- No known cardiomyopathy or early CAD
+
+### Allergies
+- NKDA
+
+### Medications Prior to Admission
+- Fexofenadine 30mg PO qd PRN
+- Epinephrine auto-injector PRN
+- Acetaminophen 325mg PO PRN
+- Yaz 28 Day Pack (recently discontinued postpartum)
+- HCTZ 25mg PO qd
+- Atenolol/chlorthalidone 50/25mg PO qd
+- Seasonique 91 Day Pack (not currently taking)
+
+---
+
+## ICU HOSPITAL COURSE SUMMARY
+
+**Day 1-2:**  
+Admitted with acute decompensated heart failure (presumed peripartum cardiomyopathy vs viral myocarditis). Profound hypotension refractory to fluids, required norepinephrine and dobutamine. Rapid escalation to Impella CP for cardiogenic shock. Intubated for hypoxic respiratory failure.
+
+**Day 3-5:**  
+Gradual improvement in end-organ perfusion, weaned off norepi by day 4. Renal function improved (Cr peaked 1.9, baseline 0.8). Still intubated, requiring low FiO2. Repeat echo: LVEF 22%, Impella flows adequate.
+
+**Day 6-7:**  
+Diuresed aggressively. Extubated to HFNC. Weaned off dobutamine. Impella removed on Day 7 after hemodynamic stability. Started on low-dose carvedilol, sacubitril-valsartan.  
+
+**Day 8-10:**  
+Significant clinical improvement. Transferred to stepdown. Off oxygen, ambulating with PT. Discharge planning initiated.
+
+---
+
+## VITALS (Selected)
+
+| Date       | Temp (°C) | HR   | RR | BP        | SpO2    | Weight (kg) |
+|------------|-----------|------|----|-----------|---------|-------------|
+| Day 1      | 37.1      | 122  | 30 | 82/52     | 87% RA  | 61.6        |
+| Day 2      | 36.8      | 115  | 26 | 90/60     | 94% 2L  | 60.9        |
+| Day 4      | 36.6      | 98   | 20 | 110/68    | 98%     | 59.7        |
+| Day 7      | 36.5      | 80   | 16 | 122/74    | 98%     | 58.6        |
+
+---
+
+## LABS
+
+### CBC & Chem7 (Selected)
+
+| Date      | WBC   | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|-----------|-------|------|------|------|------|------|------|------|------|------|------|
+| Day 1     | 6.2   | 14.7 | 49.5 | 339  | 133  | 4.1  | 98   | 21   | 29   | 1.4  | 108  |
+| Day 2     | 8.8   | 13.2 | 45.2 | 265  | 131  | 4.7  | 100  | 19   | 38   | 1.9  | 120  |
+| Day 3     | 9.1   | 12.7 | 42.1 | 224  | 135  | 4.3  | 102  | 22   | 33   | 1.7  | 112  |
+| Day 5     | 7.7   | 12.9 | 40.6 | 195  | 137  | 4.0  | 99   | 25   | 24   | 1.2  | 97   |
+| Day 7     | 6.7   | 13.5 | 41.2 | 249  | 139  | 4.2  | 101  | 26   | 18   | 0.9  | 92   |
+| Day 9     |       | 13.9 |      | 310  | 140  | 4.1  | 103  | 23   | 14   | 0.8  |      |
+
+*Some labs missing due to specimen clotting or not ordered.*
+
+### Cardiac Labs
+
+| Date      | Troponin I (ng/mL) | BNP (pg/mL) | CK-MB (ng/mL) | AST (U/L) | ALT (U/L) | LDH (U/L) |
+|-----------|--------------------|-------------|---------------|-----------|-----------|-----------|
+| Day 1     | 0.14               | 3200        | 12            | 44        | 51        | 312       |
+| Day 2     | 0.09               | 2890        | 10            | 58        | 60        | 400       |
+| Day 4     | 0.06               | 2100        | 4             | 38        | 41        | 280       |
+| Day 7     | <0.03              | 900         | 2             | 31        | 38        | 200       |
+
+---
+
+## IMAGING
+
+- **CXR (Day 1):** Pulmonary edema, mild cardiomegaly
+- **TTE (Day 1):** LVEF 18%, global hypokinesis, mild MR, no thrombus
+- **TTE (Day 6):** LVEF 22%, mild MR, RV normal
+
+---
+
+## MICROBIOLOGY
+
+- **Blood cultures x2:** No growth
+- **Resp viral panel:** Negative
+- **Sputum culture:** Normal flora
+
+---
+
+# ASSESSMENT & PLAN
+
+**27F with peripartum cardiomyopathy (PPCM) and acute decompensated HF complicated by cardiogenic shock, requiring temporary mechanical circulatory support (Impella CP).**
+
+### 1. Cardiogenic Shock (Resolved)
+- Etiology: Likely PPCM vs. viral myocarditis
+- Required Impella CP for 6 days due to refractory shock
+- Now hemodynamically stable
+- Plan: Continue guideline-directed medical therapy (GDMT), monitor for arrhythmias, repeat TTE in 1 month
+
+### 2. Acute Heart Failure
+- Diuresed to euvolemia
+- Now off O2, ambulating
+- Plan: Carvedilol uptitration, transition sacubitril-valsartan, close f/u in HF clinic
+
+### 3. Renal Dysfunction (AKI, resolved)
+- Initially oliguric, Cr peaked at 1.9, now baseline
+- Plan: Monitor renal function, avoid nephrotoxins
+
+### 4. Hypoxic Respiratory Failure (resolved)
+- Intubated x4 days, extubated to HFNC, now on RA
+- Plan: Incentive spirometry, pulmonary rehab
+
+### 5. Hypertension
+- Restarted HCTZ/atenolol, monitoring BP closely
+- Plan: Adjust as tolerated given EF, consider ACEi/ARB
+
+### 6. Contraception / Postpartum Care
+- Seasonique/Yaz held postpartum due to HF
+- Plan: Non-hormonal contraception counseling
+
+### 7. Chronic Sinusitis
+- No current symptoms
+- Plan: Resume fexofenadine PRN
+
+### 8. Allergies / Atopy
+- Multiple low-level IgE allergies; no acute reactions during stay
+
+### 9. DVT Prophylaxis
+- SCDs, transitioned to enoxaparin s/p Impella removal
+
+### 10. Discharge Planning
+- PT/OT eval: safe for home
+- Social work: infant care support
+- Close follow-up in HF, OB, and primary care
+
+---
+
+**Physician:** M. Rios, MD  
+**Date/Time:** 2024-04-27 14:15  
+**Cosigned:** J. Patel, MD (Cardiology Fellow)  
+---

@@ -1,0 +1,142 @@
+**Benton Eichmann - ICU Hospital Admission Note**  
+**MRN:** 00429185  
+**DOB:** 10/06/1996  
+**Sex:** Male  
+**Date of Admission:** 2024-05-27  
+**Date of Note:** 2024-06-03  
+**Attending:** Dr. S. Manville, Cardiovascular ICU  
+
+---
+
+### Reason for Admission:
+26-year-old male with history of prediabetes, chronic anemia, and ADHD, presenting with acute decompensated heart failure secondary to presumed viral myocarditis, complicated by cardiogenic shock requiring temporary left ventricular assist device (Impella CP) placement.
+
+---
+
+## HPI
+
+Mr. Eichmann presented to the ED with 4 days of worsening dyspnea, orthopnea, and lower extremity edema. He reported intermittent fevers, myalgias, and cough two weeks prior, which partially improved with OTC medications. Over the last 48 hours, he developed profound fatigue, dizziness, and near-syncope. PMHx notable for anemia, prediabetes, ADHD (on atomoxetine), and recurrent viral URI/bronchitis. No prior cardiac history. No known drug allergies.
+
+On arrival, he was tachycardic, hypotensive, tachypneic, with cool extremities and elevated JVP. Initial CXR: pulmonary edema. TTE: severely depressed LVEF (~15%), global hypokinesis, moderate MR. Troponin elevated. Rapidly deteriorated with hypotension refractory to fluids and pressors; emergently transferred to CICU and Impella placed for cardiogenic shock.
+
+---
+
+## Hospital Course Summary
+
+- **Day 1:** Impella CP placed via right femoral artery. Started on dobutamine and norepinephrine. Diuresed with IV furosemide. Broad-spectrum antibiotics started pending cultures (later negative).  
+- **Day 2-3:** Modest improvement in end-organ perfusion. Lactate trended down. Extubated on Day 3.  
+- **Day 4:** Anemia worsened; transfused 1U PRBC.  
+- **Day 5:** Developed fever to 38.9°C, blood cultures drawn, vancomycin/cefepime added.  
+- **Day 6:** Afebrile, cultures negative.  
+- **Day 7:** Impella weaned and removed. Transitioned to oral heart failure regimen (carvedilol, lisinopril, spironolactone, dapagliflozin).  
+- **Day 8:** Stable on minimal O2, ambulating with PT.
+
+---
+
+## Problem-Based Assessment & Plan
+
+### 1. **Cardiogenic Shock / Acute Decompensated Heart Failure (s/p Impella)**
+   - Likely viral myocarditis (recent URI, elevated troponin, global hypokinesis).
+   - Impella CP placed for hemodynamic support, successfully weaned Day 7.
+   - Now on GDMT: carvedilol, lisinopril, spironolactone, dapagliflozin.
+   - Monitor for arrhythmias, recurrent HF symptoms.
+   - Echo to be repeated prior to discharge.
+
+### 2. **Anemia (multifactorial: chronic + acute blood loss)**
+   - Baseline anemia, worsened during ICU stay.
+   - Transfused 1U PRBC on Day 4.
+   - Iron studies: ferritin low, consistent with iron-deficiency.
+   - Plan: oral iron, GI follow up outpatient.
+
+### 3. **Prediabetes**
+   - A1c 6.0% on admission, no DKA/HHS.
+   - Continue lifestyle modification, monitor BGs qshift while inpatient.
+   - Endocrine consult placed.
+
+### 4. **Infectious Concerns (fever, negative cultures)**
+   - Febrile episode on Day 5, blood/urine/sputum cultures negative.
+   - Empiric abx discontinued after 48h afebrile.
+   - Monitor for new fevers, signs of infection (esp. at vascular access sites).
+
+### 5. **Vascular Access / Device-related Complications**
+   - R femoral Impella site: no bleeding, hematoma, or infection.
+   - Daily site checks.
+   - Vascular US at time of removal: no DVT.
+
+### 6. **Other Chronic Conditions**
+   - ADHD: hold atomoxetine during acute illness, resume prior to discharge.
+   - Prior viral pharyngitis, otitis media, bronchitis: no active infection.
+   - Ankle fracture: remote, no current issues.
+
+### 7. **Rehabilitation / Nutrition**
+   - PT/OT consulted for deconditioning.
+   - Nutrition: high-protein, iron-rich diet recommended.
+
+---
+
+## Labs
+
+#### CBC & CHEM7 Summary Table
+
+| Day    | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|--------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|
+| D1 AM  | 13.8       | 9.2        | 29.1    | 247        | 134         | 5.3        | 100         | 18           | 31          | 1.7        | 164         |
+| D2 AM  | 11.4       | 8.7        | 27.6    | 220        | 135         | 4.8        | 102         | 22           | 24          | 1.2        | 139         |
+| D3 AM  | 9.6        | 9.4        | 28.9    | 198        | 137         | 4.3        | 103         | 25           | 18          | 1.0        | 122         |
+| D4 AM  | 7.8        | 7.5        | 23.2    | 188        | 138         | 4.0        | 104         | 27           | 14          | 0.8        | 108         |
+| D5 AM  | 8.2        | 8.2        | 25.5    | 195        | 137         | 4.2        | 104         | 26           | 16          | 0.9        | 114         |
+| D6 AM  | 6.9        | 9.8        | 29.8    | 211        | 139         | 4.4        | 103         | 25           | —           | —          | 110         |
+| D7 AM  | 7.3        | 10.1       | 30.3    | 228        | 140         | —          | 102         | 27           | 12          | 0.7        | 102         |
+| D8 AM  | 7.0        | 10.4       | 31.2    | 244        | 139         | 4.1        | —           | —            | 13          | 0.7        | 98          |
+
+#### Additional Labs
+
+- **Troponin I:** 2.4 ng/mL (peak D1), trended down to 0.07 by D7
+- **BNP:** 3280 pg/mL (admission), 1440 pg/mL (D7)
+- **LFTs:** Mildly elevated AST/ALT on D1 (AST 74, ALT 62), normalized by D4
+- **Ferritin:** 22 ng/mL (low)
+- **TSAT:** 10% (low)
+- **CRP:** 5.2 mg/dL (elevated on admission), down to 1.1 by D7
+
+---
+
+## Vitals (Selected)
+
+| Date     | Temp (°C) | HR (bpm) | BP (mmHg) | RR (/min) | O2 Sat (%) |
+|----------|-----------|----------|-----------|-----------|------------|
+| D1 AM    | 37.8      | 114      | 84/52     | 28        | 92         |
+| D2 AM    | 37.1      | 100      | 95/60     | 22        | 96         |
+| D3 AM    | 36.9      | 92       | 108/66    | 18        | 98         |
+| D4 PM    | 38.9      | 116      | 90/54     | 25        | 93         |
+| D5 AM    | 37.0      | 98       | 112/70    | 18        | 98         |
+| D7 AM    | 36.7      | 84       | 120/78    | 16        | 99         |
+
+---
+
+## Medications (Current)
+
+- Carvedilol 6.25mg BID
+- Lisinopril 2.5mg daily
+- Spironolactone 25mg daily
+- Dapagliflozin 10mg daily
+- Ferrous sulfate 325mg daily
+- Acetaminophen PRN
+- Resume atomoxetine outpatient
+
+---
+
+## Disposition
+
+- Anticipate transfer to step-down unit later today if stable.
+- Cardiology, PT/OT, and Nutrition to follow.
+- Close monitoring for recurrent HF, arrhythmias, device complications.
+- F/u Echo, labs, and outpatient heart failure clinic in 1 week.
+
+---
+
+**Physician:**  
+S. Manville, MD  
+Cardiovascular ICU  
+06/03/2024 11:22 AM
+
+---

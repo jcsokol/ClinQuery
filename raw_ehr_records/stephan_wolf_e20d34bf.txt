@@ -1,0 +1,213 @@
+**[EPIC EHR - INPATIENT PROGRESS NOTE]**
+
+---
+**Patient Name:** Stephan Wolf  
+**MRN:** 00423877  
+**DOB:** 1963-01-07 (Age 61)  
+**Sex:** Male  
+**Attending MD:** Dr. J. McAllister  
+**Date of Admission:** 2024-04-15  
+**Date of Service:** 2024-04-21  
+**Location:** MICU, 4th Floor  
+**Service:** Cardiology/ICU  
+**Consults:** Cardiology, Nephrology, Pain Management, Oral Surgery
+
+---
+
+### CHIEF COMPLAINT
+Altered mental status, shortness of breath, and chest pain.
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+Stephan Wolf is a 61-year-old male with PMHx significant for chronic migraines, chronic pain, hyperlipidemia, CKD (not formally diagnosed, but baseline Cr >2 per outside records), and recent viral pharyngitis/sinusitis. He was brought to ED by EMS after being found minimally responsive at home by his wife. Per report, he had been complaining of worsening headache, cough, and congestion for 1 week, but acutely developed severe chest pain and dyspnea. On arrival, he was tachycardic, hypotensive, and hypoxic, requiring intubation and vasopressors. He subsequently developed cardiogenic shock and acute renal injury. Emergent echo showed severely depressed LVEF (~15%), with global hypokinesis, and no acute valvular pathology. Emergent left-sided Impella CP placement was performed for hemodynamic support.
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+- **Day 1:** Admitted to ICU, intubated, on norepinephrine, Impella CP placed for refractory cardiogenic shock.  
+- **Day 2:** Remained intubated, minimal improvement. Oliguric, Cr peaked at 4.1.  
+- **Day 3:** Weaned norepi, Impella flows 3.2-3.6 L/min. Cardiac markers trending down. Developed fever, started broad-spectrum abx.  
+- **Day 4:** Neuro status improved, extubated. Renal function improving with diuresis.  
+- **Day 5:** Impella weaned, explanted. Down to nasal cannula O2.  
+- **Day 6:** Stable, transferred to step-down.
+
+---
+
+### PAST MEDICAL HISTORY
+
+- Chronic intractable migraine without aura  
+- Chronic pain  
+- Hyperlipidemia  
+- CKD (presumed, not documented prior but Cr >2 baseline)  
+- History of drug overdose (2019, not related to current presentation)  
+- Impacted molars  
+- Viral sinusitis (recurrent)  
+- Acute viral pharyngitis (recurrent)
+
+---
+
+### PAST SURGICAL HISTORY
+
+- None relevant
+
+---
+
+### MEDICATIONS ON ADMISSION
+
+- Simvastatin 10mg qHS  
+- Ibuprofen PRN  
+- Sumatriptan PRN  
+- Oxycodone PRN (chronic pain, home med)  
+- No anticoagulation at home
+
+---
+
+### ALLERGIES
+
+- NKDA
+
+---
+
+### FAMILY HISTORY
+
+- Father: MI at age 64  
+- Mother: DM2
+
+---
+
+### SOCIAL HISTORY
+
+- Former smoker (quit 2011)  
+- Drinks 1-2 beers/week  
+- No illicit drug use since 2019 (per wife)
+
+---
+
+### VITALS ON ADMISSION
+
+| Date/Time        | Temp (C) | HR | BP      | RR | SpO2 | O2 Device         | Pain |
+|------------------|----------|----|---------|----|------|-------------------|------|
+| 4/15/24 13:22    | 37.2     | 112| 78/46   | 26 | 86%  | NRB mask          | NA   |
+| 4/16/24 06:30    | 38.1     | 99 | 92/54   | 18 | 93%  | Mech vent         | NA   |
+| 4/17/24 09:15    | 37.6     | 87 | 100/62  | 14 | 96%  | Mech vent         | NA   |
+| 4/18/24 11:45    | 36.7     | 81 | 110/68  | 18 | 98%  | Nasal cannula 2L  | 2    |
+| 4/19/24 10:12    | 36.9     | 75 | 116/74  | 16 | 98%  | Room air          | 1    |
+
+---
+
+### PHYSICAL EXAM (4/19/24)
+
+- **Gen:** Awake, NAD  
+- **HEENT:** Normocephalic, mild pharyngeal erythema  
+- **CV:** S1/S2, regular, soft S3, no murmurs  
+- **Resp:** Lungs clear, no rales/wheezes  
+- **Abd:** Soft, NT, ND  
+- **Ext:** No edema  
+- **Neuro:** AOx3, CN II-XII grossly intact  
+- **Skin:** No rashes
+
+---
+
+### LABS (SELECTED)
+
+**CBC & CHEMISTRY TABLE**
+
+| Date      | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Ca   |
+|-----------|------|------|------|------|------|------|------|------|------|------|------|------|
+| 4/15      | 4.0  | 16.5 | 47   | 339  | 140  | 4.6  | 101  | 24   | 19   | 3.3  | 100  | 10.0 |
+| 4/16      | 5.6  | 15.1 | 43   | 290  | 137  | 5.2  | 98   | 21   | 32   | 4.1  | 121  | 9.4  |
+| 4/17      | 8.2  | 13.9 | 39   | 255  | 135  | 4.1  | 99   | 23   | 29   | 3.2  | 110  | 8.8  |
+| 4/18      | 7.4  | 13.5 | 38   | 273  | 138  | 4.4  | 104  | 24   | 20   | 2.4  | 108  | 9.6  |
+| 4/19      | 6.1  | 13.7 | 39   | 268  | 140  | 4.5  | 102  | 23   | 17   | 2.1  | 102  | 9.8  |
+| 4/20      | NA   | 14.2 | 41   | 274  | 142  | NA   | 100  | 25   | 18   | 2.0  | 99   | 10.1 |
+
+**OTHER RELEVANT LABS**
+
+| Date   | Troponin I | CK-MB | BNP   | AST  | ALT  | AlkPhos | Tbili | Alb  | PT/INR |
+|--------|------------|-------|-------|------|------|---------|-------|------|--------|
+| 4/15   | 2.88      | 18    | 2340  | 19.6 | 24.3 | 127     | 0.4   | 3.9  | 1.2    |
+| 4/16   | 1.25      | 10    | 1800  | 22   | 27   | 130     | 0.5   | 3.7  | 1.1    |
+| 4/18   | 0.37      | <5    | 700   | 18   | 22   | 120     | 0.4   | 4.0  | 1.0    |
+| 4/20   | <0.01     | <5    | 220   | 17   | 19   | 118     | NA    | 4.1  | 1.0    |
+
+---
+
+### MICROBIOLOGY
+
+- Blood cultures x2: No growth (all days)
+- Respiratory viral panel: +Rhinovirus (admission), neg influenza/RSV/COVID
+- Sputum culture: No growth
+
+---
+
+### IMAGING
+
+- **CXR (4/15):** Mildly increased pulmonary vascularity, small bibasilar effusions, no focal infiltrate.
+- **ECHO (4/15):** LVEF 15%, global hypokinesis, no LV thrombus.
+- **ECHO (4/19):** LVEF improved to 38%, trace MR/TR.
+
+---
+
+### PROCEDURES
+
+- 4/15: Impella CP placement via femoral approach, performed in cath lab, no complications.
+- 4/15: Central line (R IJ)
+- 4/15: Arterial line (L radial)
+- 4/16: Extubation
+
+---
+
+## ASSESSMENT AND PLAN (PROBLEM-BASED)
+
+**1. Cardiogenic Shock secondary to acute myocarditis (suspected viral)**
+   - Impella CP placed for hemodynamic support, explanted day 5
+   - Serial echo, daily labs, telemetry
+   - Diuresis as tolerated, avoid volume overload
+   - Continue GDMT (hold beta-blocker until off inotropes)
+
+**2. Acute Kidney Injury (on CKD)**
+   - Likely multifactorial (low flow, nephrotoxins, sepsis)
+   - IV fluids (early), then diuresis as improved
+   - Renal dose dopamine not used
+   - Avoid nephrotoxins, renally dose all meds
+   - Nephrology following
+
+**3. Acute on chronic pain / migraine**
+   - Oxycodone PRN, scheduled acetaminophen
+   - Sumatriptan held during acute cardiac event
+   - Pain service consulted
+
+**4. Hyperlipidemia**
+   - Simvastatin continued
+
+**5. Acute viral pharyngitis/sinusitis**
+   - Supportive care, no antibiotics indicated (rhinovirus)
+   - ENT consulted for recurrent episodes
+
+**6. Drug Overdose History**
+   - No acute intoxication on tox screen
+   - Monitored for withdrawal
+
+**7. Impacted molars**
+   - No acute intervention needed, outpatient dental follow-up
+
+**8. Nutrition**
+   - Started tube feeds during intubation, transitioned to oral as tolerated
+
+**9. DVT prophylaxis**
+   - SCDs on, heparin SQ started day 3 post-Impella
+
+**10. Disposition**
+   - Step-down unit, anticipate transfer to floor in 2-3 days if stable
+
+---
+
+**Attending: J. McAllister, MD**  
+**Resident: K. Tran, MD**  
+**ICU RN:** S. Delaney, RN
+
+---
+
+**[END OF NOTE]**

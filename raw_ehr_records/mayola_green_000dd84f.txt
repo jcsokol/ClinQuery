@@ -1,0 +1,156 @@
+**Patient:** Green, Mayola  
+**MRN:** 00218456  
+**DOB:** 01/29/1942  
+**Sex:** Female  
+**Admit Date:** 05/14/2024  
+**Attending:** Dr. J. Berringer  
+**Consultants:** Cardiology, Endocrinology, Infectious Disease  
+**Service:** MICU  
+**Note Date:** 05/22/2024  
+**Note Type:** Progress Note  
+
+---
+
+## History of Present Illness
+
+**Ms. Mayola Green** is an 82-year-old female with extensive PMHx including HTN, obesity (BMI 33), prediabetes, osteoporosis, chronic anemia, and recent left wrist fracture (s/p subluxation), who presented to the ED 8 days ago with acute-onset SOB, orthopnea, and chest tightness. She was initially diagnosed with acute decompensated heart failure (HF) with preserved EF, presumed ischemic, along with pneumonia (likely bronchitis/sinusitis overlap). On hospital day 2, she developed cardiogenic shock with hypotension refractory to fluids and required transfer to the MICU, where an Impella CP device was placed for temporary LV support. She has remained in the ICU since, with a complicated course including AKI (now resolved), transfusion-requiring anemia, intermittent delirium, and ongoing management of her multiple comorbidities.
+
+---
+
+## Hospital Course Summary
+
+- **Day 1:** Presented to ED with SOB, hypoxia (O2 sat 83% RA), rales, LE edema. Labs: BNP 1480, troponin 0.21 → 0.19, CXR: pulmonary edema, EKG: NSR with PVCs, no STEMI. Admitted to telemetry for acute HF exacerbation.
+- **Day 2:** Developed hypotension (MAP 52 mmHg), tachycardia, rising lactate (3.3). Started on norepinephrine, transferred to MICU. Echo: LVEF 35%, global hypokinesis. Cardiology placed Impella CP for LV unloading. 
+- **Day 3–5:** Improved hemodynamics, weaned off pressors. Persistent low-grade fever (max 38.1°C); CXR with improving infiltrate. Treated with ceftriaxone + azithromycin. 
+- **Day 6:** Impella weaned and removed. Cardiac output stable. Developed mild delirium, likely multifactorial (ICU, anemia, infection). 
+- **Day 7–8:** Transfused 1U PRBC for Hb 7.3. Renal function improved post-diuresis. Wrist immobilizer in place, ortho eval—no surgery required. 
+- **Day 9:** Transferred to stepdown, continues to recover.
+
+---
+
+## Problem-Based Assessment & Plan
+
+### 1. **Acute Decompensated Heart Failure / Cardiogenic Shock**
+- **Assessment:** Acute HF with ischemic component, LVEF 35%. Progressed to shock, required Impella for 4 days. Now stable, euvolemic.
+- **Plan:**
+  - Continue guideline-directed medical therapy (GDMT): low-dose metoprolol, lisinopril (if tolerated), furosemide as needed
+  - Monitor for recurrent decompensation, strict I/Os, daily weights
+  - Continue telemetry, monitor for arrhythmia
+  - Cardiac rehab consult pending
+
+### 2. **AKI on CKD, Resolved**
+- **Assessment:** Likely pre-renal from hypoperfusion; Cr peaked at 2.1, now baseline 0.8
+- **Plan:**
+  - Monitor renal function, avoid nephrotoxins
+  - Adjust meds for renal dosing
+
+### 3. **Chronic Anemia, Transfusion-Requiring**
+- **Assessment:** Hgb dropped to 7.3 (baseline 9.2), likely multifactorial (chronic disease, dilutional, possible GI). No overt bleeding.
+- **Plan:**
+  - Transfused 1U PRBC day 7, now stable
+  - Iron, B12, folate sent
+  - GI consult if further drop
+
+### 4. **Obesity, Hypertension, Prediabetes**
+- **Assessment:** BMI 33, BP mostly controlled, A1c 6.1%
+- **Plan:**
+  - Continue HCTZ, home antihypertensives
+  - Encourage low-salt, low-carb diet
+  - Monitor glucose BID; endocrinology f/u
+
+### 5. **Osteoporosis, S/P Left Wrist Subluxation**
+- **Assessment:** T-score -2.6, wrist immobilized, ortho: no acute intervention
+- **Plan:**
+  - Continue alendronate, calcium/vitamin D
+  - PT/OT for mobility
+  - DEXA repeat in 2 yrs
+
+### 6. **Infectious Issues (Acute Bronchitis, Sinusitis, Otitis Media)**
+- **Assessment:** Fever, cough, CXR infiltrate, sinus tenderness. Treated empirically, improved.
+- **Plan:**
+  - Complete 10 days ceftriaxone/azithromycin
+  - Monitor WBC, procalcitonin
+  - ENT consult if not resolved
+
+### 7. **ICU Delirium**
+- **Assessment:** Fluctuating attention, agitation, likely multifactorial
+- **Plan:**
+  - Reorienting, minimize sedation, early mobility
+  - Melatonin at night
+
+---
+
+## Medications (current)
+
+- Metoprolol tartrate 12.5 mg BID
+- Lisinopril 5 mg daily
+- Furosemide 20 mg IV q12h (tapering)
+- Hydralazine 10 mg q8h PRN
+- HCTZ 25 mg daily
+- Acetaminophen 325 mg q6h PRN
+- Amoxicillin 500 mg BID (discontinued)
+- Ceftriaxone 1 g IV q24h (day 8/10)
+- Azithromycin 500 mg IV q24h (day 8/10)
+- Alendronate 10 mg daily
+- Cholecalciferol 2000 IU daily
+- PRN docusate, ondansetron
+
+---
+
+## Vitals (Selected)
+
+| Date       | Temp (°C) | HR   | BP         | RR | SpO2 | Weight (kg) |
+|------------|-----------|------|------------|----|------|-------------|
+| 5/14 AM    | 36.9      | 108  | 95/54      | 22 | 83%  | 91          |
+| 5/15       | 37.8      | 98   | 88/48      | 24 | 90%  | 90.6        |
+| 5/16       | 36.6      | 74   | 102/60     | 18 | 96%  | 90.1        |
+| 5/18       | 36.3      | 66   | 112/64     | 16 | 98%  | 89.7        |
+| 5/21       | 36.7      | 74   | 118/68     | 16 | 98%  | 89.5        |
+
+---
+
+## LABS
+
+### CBC & CHEM 7 (select values)
+
+| Date   | WBC  | Hgb  | Hct  | Plt | Na   | K    | Cl   | CO2  | BUN  | Cr   | Gluc | Ca   |
+|--------|------|------|------|-----|------|------|------|------|------|------|------|------|
+| 5/14   | 14.2 | 9.4  | 30.2 | 221 | 138  | 4.3  | 108  | 23   | 28   | 1.2  | 128  | 8.7  |
+| 5/15   | 13.6 | 8.7  | 28.4 | 210 | 137  | 4.7  | 110  | 20   | 33   | 1.8  | 135  |      |
+| 5/16   | 12.1 | 7.9  | 25.9 | 198 | 136  | 5.0  | 111  | 19   | 39   | 2.1  | 142  | 9.3  |
+| 5/17   | 10.9 | 7.3  | 24.2 | 182 |      |      |      |      |      |      |      |      |
+| 5/18   | 10.1 | 8.5  | 27.1 | 199 | 139  | 4.2  | 108  | 22   | 21   | 1.1  | 124  | 8.9  |
+| 5/19   | 9.7  | 9.0  | 29.7 | 215 | 140  | 4.1  | 109  | 24   | 17   | 0.9  | 116  |      |
+| 5/21   | 8.5  | 9.2  | 30.1 | 221 | 141  | 4.2  | 109  | 25   | 15   | 0.8  | 95   | 9.1  |
+
+### Other Labs
+
+- **BNP**: 1480 pg/mL (admit), 720 (5/17), 340 (5/21)
+- **Troponin I**: 0.21 → 0.19 → 0.07 (trended down)
+- **LFTs**: WNL
+- **Ferritin**: 88 ng/mL
+- **TSH**: 2.7
+- **A1c**: 6.1%
+- **INR**: 1.3
+
+---
+
+## Imaging
+
+- **CXR (5/14):** Pulmonary edema, left lower infiltrate
+- **Echo (5/15):** LVEF 35%, global hypokinesis, mild MR
+- **Wrist X-ray (5/14):** Left distal radius subluxation, no acute fracture
+
+---
+
+## Disposition
+
+- Continue monitoring in stepdown, anticipate transfer to rehab in 2–3 days if stable
+- Cardiology, ortho, PT/OT, and dietary f/u
+- Close outpatient follow-up for HF, anemia, osteoporosis, and ongoing infection monitoring
+
+---
+
+**Attestation:**  
+This note was prepared by Dr. J. Berringer, MICU attending, with input from multidisciplinary care team.  
+**Electronically signed:** 05/22/2024 10:13 AM

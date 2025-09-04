@@ -1,0 +1,181 @@
+**[EPIC EHR - Inpatient Record]**
+
+---
+
+**Patient Name:** Lynwood Trantow  
+**MRN:** 00211467  
+**DOB:** 1958-04-22 (66 y/o)  
+**Sex:** Male  
+**Admit Date:** 2024-05-14  
+**Attending:** Dr. J. R. Kessler  
+**Unit:** Cardiac ICU  
+**Code Status:** Full Code  
+
+---
+
+### **Admission HPI**
+
+66-year-old male with hx of hypertension, prediabetes, anemia, and multiple remote orthopedic injuries (clavicle fx, patellar tendon rupture, concussion) presented to ED with acute-onset chest pain, SOB, exertional dyspnea, and orthopnea x2 days. Home meds include Amlodipine/HCTZ/Olmesartan, occasional NSAIDs, and acetaminophen. Noted low-grade fever at home, no recent URI sx, no LE edema. On arrival, found to be hypotensive and tachycardic, with evidence of acute pulmonary edema on CXR and elevated troponin. Emergent echo: severe LV systolic dysfunction (EF ~15%), global hypokinesis, no significant valvular abnormality. Cardiology consulted; patient rapidly decompensated with worsening hypotension, rising lactate, and evidence of end-organ hypoperfusion. Decision made for emergent placement of percutaneous LVAD (Impella CP) for cardiogenic shock.
+
+---
+
+### **Hospital Course Summary (Day 1–Day 7)**
+
+**Day 1:**  
+- Admitted to CICU, intubated for hypoxic respiratory failure.  
+- Vasopressors (norepi, vasopressin) started.  
+- Labs: lactic acidosis, AKI (Cr up 0.9→1.6), mild transaminitis, anemia (Hgb 10.2).  
+- Emergent Impella CP placed via femoral approach.
+
+**Day 2–3:**  
+- Hemodynamics stabilized, weaned off vasopressors by day 3.  
+- Renal function improved with diuresis and CVP-guided fluids.  
+- Echo: LV function improved to EF 30%.  
+- Infectious w/u for fever negative (blood/urine cx, procalcitonin, resp viral panel).  
+- Hgb trending down to 8.2, no overt bleeding; transfused 1U PRBC.
+
+**Day 4–5:**  
+- Impella weaned and explanted on day 5.  
+- Extubated on day 5, transitioned to BiPAP overnight.  
+- Started on GDMT for HFrEF (metoprolol, spironolactone, uptitrated ACEi).
+
+**Day 6–7:**  
+- Mobilized to chair, started PT/OT.  
+- Cardiac rehab consult.  
+- Discharge planning for SNF vs home with VNA.  
+- No new neuro deficits, negative delirium screen.
+
+---
+
+### **Active Problems**
+
+1. **Cardiogenic Shock – Resolved**
+   - s/p Impella CP placement and explant, now hemodynamically stable
+2. **Decompensated HFrEF (EF 15%→30%)**
+   - Initiated on GDMT, fluid status optimized
+3. **Acute Kidney Injury – Improving**
+   - Cr peaked at 1.6, now 1.1
+4. **Anemia – Multifactorial**
+   - Stable, transfused x1, likely dilutional & procedural
+5. **Hypertension**
+   - On triple therapy, now ACEi switched to lisinopril
+6. **Prediabetes**
+   - No insulin requirements, A1c 6.0%
+7. **Remote Orthopedic Injuries**
+   - L clavicle fx, patellar tendon rupture, concussion – no acute issues
+8. **Fever – Ruled out infection**
+   - Negative workup, likely post-cardiogenic shock SIRS
+9. **Pain – Well controlled**
+   - No opioids since day 4, acetaminophen prn
+10. **Deconditioning**
+    - Early mobilization, PT/OT, cardiac rehab initiated
+
+---
+
+### **Assessment & Plan**
+
+#### **1. Cardiogenic Shock, s/p Impella CP**
+- Monitor for access site complications, hemolysis, limb ischemia
+- Serial cardiac enzymes, echo for recovery
+- Transition to oral heart failure regimen
+- Cardiology f/u – consider ICD if EF remains <35%
+
+#### **2. Acute Decompensated HFrEF**
+- GDMT: Continue metoprolol, spironolactone, lisinopril, furosemide
+- Monitor electrolytes, renal function, daily weights
+- Salt and fluid restriction
+
+#### **3. AKI**
+- Monitor UOP, renal panel qAM
+- Avoid nephrotoxins, optimize volume status
+
+#### **4. Anemia**
+- Monitor CBC, transfuse if Hgb <7.5 or sx
+- Iron studies pending
+
+#### **5. Hypertension**
+- Titrate antihypertensives as tolerated
+
+#### **6. Prediabetes**
+- Diet control, monitor glucoses
+
+#### **7. Orthopedic History**
+- Fall precautions, continue PT/OT
+
+#### **8. Fever**
+- Monitor for new infection; all cultures negative
+
+#### **9. Pain**
+- Acetaminophen prn, avoid NSAIDs due to AKI
+
+#### **10. Deconditioning**
+- Early mobilization, PT/OT
+
+---
+
+### **Vital Signs Table (Selected Days)**
+
+| Date      | Temp (C) | HR | BP        | RR | SpO2 | Pain | Weight (kg) |
+|-----------|----------|----|-----------|----|------|------|-------------|
+| 5/14      | 38.9     | 112| 82/53     | 26 | 93%  | 3    | 84.0        |
+| 5/15      | 37.7     | 98 | 99/65     | 20 | 97%  | 2    | 82.8        |
+| 5/17      | 36.9     | 76 | 112/70    | 16 | 98%  | 0    | 81.4        |
+| 5/19      | 36.7     | 70 | 116/74    | 16 | 98%  | 0    | 81.2        |
+
+---
+
+### **Lab Results Table**
+
+| Date      | WBC   | Hgb  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu   | Trop   | AST  | ALT  | BNP    |
+|-----------|-------|------|------|------|------|------|------|------|------|-------|--------|------|------|--------|
+| 5/14      | 4.6   | 10.2 | 421  | 141  | 4.0  | 103  | 23.6 | 32   | 1.6  | 153   | 3.98   | 42   | 55   | 2200   |
+| 5/15      | 5.2   | 9.6  | 384  | 139  | 4.2  | 106  | 25   | 28   | 1.4  | 128   | 2.11   | 38   | 46   | 1800   |
+| 5/16      | 5.1   | 8.2  | 390  | 138  | 4.1  | 106  | 25   | 23   | 1.2  | 113   | 1.09   | 29   | 41   |        |
+| 5/17      | 4.2   | 9.9  | 410  | 139  | 4.0  | 104  | 25   | 19   | 1.1  | 102   | 0.31   |      |      | 950    |
+| 5/18      | 4.0   | 10.6 | 398  | 140  | 4.1  | 102  | 24   | 17   | 1.1  | 98    |        | 24   | 38   | 530    |
+| 5/19      | 4.3   | 11.2 | 402  | 140  | 4.0  | 103  | 25   | 16   | 1.1  | 96    |        |      |      | 400    |
+
+---
+
+### **Imaging**
+
+- **CXR (5/14):** Pulmonary edema, mild cardiomegaly, no consolidation.
+- **Echo (5/14):** Severe global LV dysfunction, EF 15%, no LV thrombus, RV normal.
+- **Echo (5/17):** LV function improved, EF 30%, no pericardial effusion.
+
+---
+
+### **Consults**
+
+- **Cardiology:** Management of acute heart failure, Impella placement, GDMT initiation
+- **Nephrology:** AKI management, volume status
+- **Physical Therapy/Occupational Therapy:** Mobilization, safe discharge planning
+- **Cardiac Rehab:** Outpatient follow-up
+
+---
+
+### **Discharge Medications**
+
+- Lisinopril 10mg daily
+- Metoprolol succinate 50mg daily
+- Spironolactone 25mg daily
+- Furosemide 40mg BID
+- Amlodipine 5mg daily (continue)
+- Acetaminophen 650mg q6h prn pain
+
+---
+
+### **Discharge Disposition**
+
+- Home with VNA, cardiac rehab referral
+- F/u Cardiology in 1 week, labs in 2 days
+
+---
+
+**Attestation:**  
+Dr. J. R. Kessler, MD  
+Cardiology/Critical Care
+
+---
+
+**[End of Note]**

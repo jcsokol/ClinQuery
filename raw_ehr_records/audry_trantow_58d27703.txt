@@ -1,0 +1,188 @@
+---
+**EPIC EHR - PROGRESS NOTE**  
+**Patient:** Trantow, Audry  
+**MRN:** 00573281  
+**DOB:** 03/16/1964  
+**Sex:** Female  
+**Admit Date:** 03/23/2024  
+**Attending:** Dr. L. Choudhury  
+**Location:** MICU, Rm 4B-22  
+**Date/Time:** 03/27/2024 07:39 AM  
+**Author:** Dr. M. Edwards, MD (Critical Care)
+
+---
+
+### CHIEF COMPLAINT  
+Progressive dyspnea, orthopnea, and lower extremity edema x 2 weeks. Presented to ED with acute hypoxic respiratory failure.
+
+---
+
+### HISTORY OF PRESENT ILLNESS  
+59-year-old woman with PMH significant for hypertension, obesity (BMI ~30), prediabetes, hyperlipidemia, chronic anemia, and recent URI (viral pharyngitis and bacterial sinusitis) presents with 2 weeks of worsening shortness of breath, fatigue, and leg swelling. Initially attributed to viral infection but worsened despite antibiotics (amox/clav). On day of admission, she developed severe orthopnea, PND, and was found to be hypoxic at home. EMS brought her to the ED where she was tachypneic, hypoxic (O2 sat 84% RA), with BP 82/54 mmHg, HR 124. CXR showed pulmonary edema. Echo: severe global LV dysfunction (EF ~15%), moderate MR, RV mildly reduced. Troponin mildly elevated. NT-proBNP 18,000 pg/mL.
+
+She was admitted to MICU, started on BiPAP, then intubated for worsening hypoxemia and mental status. Developed cardiogenic shock refractory to pressors/inotropes. Emergent placement of percutaneous LV assist device (Impella CP) on HD2.
+
+---
+
+### PAST MEDICAL HISTORY  
+- Hypertension  
+- Obesity (BMI 30+)  
+- Prediabetes  
+- Hyperlipidemia  
+- Chronic anemia  
+- Recurrent sinusitis/pharyngitis  
+- No known CAD, but strong family history (father MI x2)  
+
+### PAST SURGICAL HISTORY  
+- Cholecystectomy (2011)  
+- Tubal ligation (1997)
+
+### ALLERGIES  
+- NKDA
+
+### HOME MEDICATIONS  
+- Atenolol/chlorthalidone 50/25 mg PO daily  
+- Simvastatin 10 mg PO qHS  
+- Amoxicillin/clavulanate 250/125 mg PO q8h (recent)  
+- Medroxyprogesterone acetate (IM, q3mo)  
+- Etonogestrel implant
+
+---
+
+### SOCIAL HISTORY  
+- Lives with husband, 1 dog.  
+- Nonsmoker, no EtOH, no illicit drugs.  
+- Retired school administrator.
+
+---
+
+### PHYSICAL EXAM (HD4, post-Impella)  
+- General: Intubated, sedated, moderately edematous  
+- Vitals: BP 92/61 (MAP 71), HR 89 (paced), RR 18 (vent), Temp 37.2°C, SpO2 96% (FiO2 50%)  
+- HEENT: Pale conjunctiva, oropharynx clear  
+- CV: Distant heart sounds, S3, Impella audible, JVD 12 cm  
+- Lungs: Bibasilar crackles, decreased at bases  
+- Abd: Soft, mild hepatomegaly, no rebound  
+- Ext: 2+ pitting edema to knees  
+- Skin: No rashes, pressure areas intact
+
+---
+
+### HOSPITAL COURSE SUMMARY  
+- HD1: Presentation with acute decompensated heart failure, hypoxemia, intubation  
+- HD2: Cardiogenic shock, started on norepi, dobutamine; Impella CP placed  
+- HD3: Improved hemodynamics, weaned off norepi, on low-dose dobutamine  
+- HD4: Trials of diuresis (IV furosemide), extubation attempt failed (reintubated), mild AKI  
+- HD5: Liver enzymes uptrending, but normalizing; hemoglobin stable; working up for possible transplant/LVAD  
+- HD6: Improved urine output, extubated, Impella weaning trial  
+- HD7: Impella removed, transitioned to IABP, plans for transfer to cardiac stepdown
+
+---
+
+## LABS
+
+#### CBC/CHEM7, LIVER, CARDIAC  
+| Date       | WBC (K) | Hgb (g/dL) | Plt (K) | Na (mmol/L) | K (mmol/L) | Creat (mg/dL) | BUN (mg/dL) | AST (U/L) | ALT (U/L) | Bili (mg/dL) | Troponin (ng/mL) |
+|------------|---------|------------|---------|-------------|------------|---------------|-------------|-----------|-----------|--------------|------------------|
+| 3/23/24    | 7.6     | 10.9       | 312     | 137         | 5.1        | 0.9           | 18          | 51        | 47        | 1.1          | 0.09             |
+| 3/24/24    | 8.2     | 10.2       | 298     | 134         | 4.9        | 1.2           | 29          | 62        | 58        | 2.3          | 0.11             |
+| 3/25/24    | 7.1     | 9.8        | 254     | 137         | 4.6        | 1.5           | 31          | 48        | 39        | 1.5          | 0.07             |
+| 3/26/24    | 6.4     | 10.1       | 227     | 138         | 4.4        | 1.3           | 22          | 42        | 32        | 0.8          | —                |
+| 3/27/24    | —       | 10.5       | 221     | 140         | —          | 1.0           | 19          | 33        | 28        | 0.7          | <0.01            |
+| 3/28/24    | 5.3     | 11.0       | 205     | 139         | 4.1        | 0.8           | 17          | 29        | —         | 0.6          | —                |
+
+*NT-proBNP: 18,000→11,500 pg/mL (trending down)*  
+*Lactate: peaked 3.1, now 1.2 mmol/L*  
+*INR: 1.3→1.1*
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock (Acute Decompensated Heart Failure, new severe LV dysfunction)**
+- Etiology likely nonischemic (viral myocarditis vs. stress-induced, ischemic workup pending)
+- Required Impella CP for hemodynamic support (HD2-7)
+- Now off vasopressors, weaning advanced support
+- *Plan*: Continue hemodynamic monitoring, daily TTE, transition to IABP, evaluate for durable LVAD/transplant
+
+**2. Acute Hypoxic Respiratory Failure**
+- Intubated (HD1-6), failed early extubation
+- Now extubated, on high-flow nasal cannula
+- *Plan*: Pulm hygiene, monitor for reintubation, SBT daily
+
+**3. Acute Kidney Injury (prerenal, multifactorial)**
+- Likely secondary to shock, diuresis, nephrotoxic exposure
+- Creat peaked 1.5, now improved
+- *Plan*: IV fluids as needed, monitor UOP, avoid nephrotoxins
+
+**4. Acute Liver Injury (shock liver)**
+- Transaminitis peaked HD3, now improving
+- *Plan*: Monitor LFTs, supportive care
+
+**5. Anemia, chronic**
+- Baseline Hgb ~11, nadir 9.8, stable, no transfusion needed
+- *Plan*: Monitor, iron studies pending
+
+**6. Hyperlipidemia, Obesity, Prediabetes**
+- On statin, dietary consult, glucose controlled
+- *Plan*: Continue home meds, dietician follow-up
+
+**7. Recent Sinusitis/Pharyngitis (resolving)**
+- Completed abx, afebrile, no further symptoms
+- *Plan*: Observe, no further antibiotics
+
+**8. DVT Prophylaxis**
+- SCDs, SQ heparin
+
+**9. Social/Disposition**
+- Psychosocial support, early transplant evaluation
+- *Plan*: SW consult, family meeting
+
+---
+
+## MEDICATION ADMINISTRATION RECORD (selected)
+
+- Norepinephrine IV gtt (HD1-3), off
+- Dobutamine IV (HD2-6), weaning
+- Furosemide IV 40 mg q8h
+- Simvastatin 10 mg HS
+- Atenolol/chlorthalidone held (hypotension)
+- Heparin SQ 5000 U q8h
+- Pantoprazole 40 mg IV q24h
+
+---
+
+## IMAGING/DIAGNOSTICS
+
+- CXR: Bilateral pulmonary edema, improving (HD6)
+- TTE: Severe global LV hypokinesis, EF 15%, mild RV dysfunction, mod MR
+- ECG: NSR, occasional PVCs, low voltage
+- Cardiac cath: No significant CAD (HD4)
+- Abdominal US: Mild hepatic congestion
+
+---
+
+## CONSULTS
+
+- Cardiology (LVAD/transplant eval, daily)
+- Nephrology (AKI, supportive care)
+- Nutrition (caloric/protein optimization)
+- Social Work (disposition planning)
+
+---
+
+## DISPOSITION
+
+- Continue advanced HF therapies
+- Anticipate transfer to cardiac stepdown pending stability
+- Outpatient follow-up: HF clinic, transplant center
+
+---
+
+**Signed:**  
+M. Edwards, MD  
+MICU – 03/27/2024 08:01 AM
+
+---
+
+**[End of Note]**

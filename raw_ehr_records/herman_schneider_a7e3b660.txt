@@ -1,0 +1,155 @@
+**[EPIC EHR - ADMISSION NOTE]**
+
+**Patient Name:** Herman Schneider  
+**MRN:** 00349177  
+**DOB:** 1990-07-28 (Age: 33)  
+**Sex:** Male  
+**Admit Date:** 2024-06-22  
+**Attending:** Dr. Valerie Lin, Cardiology  
+**Service:** Cardiac ICU  
+**Admitting Dx:** Cardiogenic shock, suspected viral myocarditis  
+**Code Status:** Full  
+**Allergies:** NKDA  
+**Height:** 188.5 cm  
+**Weight:** 69.8 kg  
+**BMI:** 19.7 kg/m²
+
+---
+
+### HPI
+
+33-year-old male with PMHx of prediabetes and recent viral sinusitis presenting with 3 days of progressive dyspnea, orthopnea, palpitations, and malaise. He was seen in urgent care 6 days ago for cough and sinus congestion, treated with amoxicillin-clavulanate. He developed rapid worsening of exertional dyspnea, lower extremity edema, and was found to be hypotensive (BP 80/50) and tachycardic (HR 126) in the ED. He required escalating vasopressor support and was transferred to the CICU for further management. TTE revealed severe global LV dysfunction (EF 15%), moderate RV dysfunction, no significant valvular disease. Troponin elevated, consistent with myocarditis. Cardiogenic shock persisted despite maximal medical therapy; Impella CP device placed on hospital day 1.
+
+---
+
+### Hospital Course
+
+- **HD 1:** Admitted to CICU, intubated for hypoxic respiratory failure. Started norepinephrine, dobutamine, and vasopressin. Impella CP placed via R femoral artery for mechanical circulatory support.  
+- **HD 2-3:** Remained on Impella support. Vasopressors weaned as hemodynamics improved. Developed transient AKI (Cr peak 1.8).  
+- **HD 4:** Extubated, Impella weaned and explanted. Cardiac function improved (EF up to 35%).  
+- **HD 5-6:** Mobilized to chair. Renal function normalized. Transitioned to oral HF therapy (metoprolol, lisinopril).  
+- **HD 7:** Stepped down to intermediate care.  
+
+---
+
+### Problem-Based Assessment and Plan
+
+#### 1. **Cardiogenic Shock secondary to Viral Myocarditis**
+- **Assessment:** Acute decompensated heart failure with severe LV dysfunction, likely viral myocarditis (recent URI, elevated troponin, global hypokinesis on echo). Required mechanical circulatory support (Impella CP).
+- **Plan:**  
+  - Continue guideline-directed medical therapy for HF (BB, ACEi)
+  - Monitor for arrhythmias
+  - Serial echocardiograms  
+  - Telemetry monitoring  
+  - Outpatient cardiac MRI post-discharge  
+
+#### 2. **Acute Kidney Injury (resolved)**
+- **Assessment:** Likely multifactorial—hypoperfusion + nephrotoxic meds (contrast, abx).
+- **Plan:**  
+  - Monitor renal function  
+  - Avoid nephrotoxins  
+  - Maintain euvolemia  
+
+#### 3. **Respiratory Failure (intubated, now extubated)**
+- **Assessment:** Due to pulmonary edema and shock.
+- **Plan:**  
+  - Pulmonary hygiene  
+  - Incentive spirometry  
+  - Monitor for reintubation criteria  
+
+#### 4. **Prediabetes**
+- **Assessment:** A1c 5.9%. No hyperglycemia during admission.
+- **Plan:**  
+  - Continue lifestyle modification  
+  - Outpatient follow-up  
+
+#### 5. **Viral Sinusitis**
+- **Assessment:** Treated prior to admission. No ongoing symptoms.
+- **Plan:**  
+  - No further antibiotics  
+  - Symptomatic care  
+
+#### 6. **ICU Delirium (resolved)**
+- **Assessment:** Brief episode of agitation post-extubation.
+- **Plan:**  
+  - Sleep-wake cycle normalization  
+  - Re-orientation  
+  - No antipsychotics needed  
+
+#### 7. **Nutrition**
+- **Assessment:** Mildly underweight (BMI 19.7).
+- **Plan:**  
+  - High-calorie diet  
+  - Nutritionist consult  
+
+---
+
+### Medications (Active)
+
+- Metoprolol succinate 25 mg PO daily
+- Lisinopril 5 mg PO daily
+- Furosemide 20 mg IV BID (transitioning to PO)
+- Amoxicillin-clavulanate 250/125 mg PO BID (completed)
+- Acetaminophen 650 mg PO q6h PRN pain/fever
+
+---
+
+### Vitals (Selected)
+
+| Date       | HR   | BP       | RR  | Temp    | SpO2  | Weight (kg) |
+|------------|------|----------|-----|---------|-------|-------------|
+| HD1        | 126  | 80/50    | 26  | 37.7°C  | 93%   | 69.8        |
+| HD2        | 110  | 95/62    | 20  | 37.2°C  | 98%   | 69.6        |
+| HD3        | 90   | 115/70   | 18  | 36.8°C  | 99%   | 69.7        |
+| HD5        | 76   | 122/78   | 16  | 36.7°C  | 99%   | 69.9        |
+
+---
+
+### Labs (CBC, Chem7, Cardiac Markers)
+
+| Date         | WBC    | Hgb   | Hct   | Plt   | Na    | K     | Cl   | CO2   | BUN   | Cr    | Glucose | Troponin | BNP    | AST | ALT |
+|--------------|--------|-------|-------|-------|-------|-------|------|-------|-------|-------|---------|----------|--------|-----|-----|
+| HD1 (adm)    | 3.9    | 14.0  | 43.4  | 291   | 139.8 | 4.9   | 108  | 25.8  | 15.6  | 1.09  | 66.9    | 2.01     | 3900   | 88  | 67  |
+| HD2          | 4.4    | 13.2  | 40.1  | 232   | 138.2 | 5.5   | 109  | 24.2  | 24.0  | 1.56  | 85.4    | 1.45     | 2100   | 102 | 88  |
+| HD3          | 5.0    | 12.8  | 38.9  | 241   | 140.2 | 4.3   | 111  | 26.0  | 19.8  | 1.38  | 96.2    | 0.98     | 1100   | 81  | 70  |
+| HD4          | 4.7    | 13.0  | 39.5  | 256   | 141.0 | 4.1   | 110  | 25.5  | 18.2  | 1.22  | 99.4    | 0.41     | 480    | 60  | —   |
+| HD5          | —      | 13.7  | 40.3  | —     | 140.7 | 4.0   | 108  | —     | 16.0  | 1.03  | 102.3   | —        | 230    | —   | —   |
+| HD6          | 4.3    | 13.9  | 41.0  | 265   | 139.6 | 3.7   | 107  | 26.2  | 15.2  | 0.98  | 94.2    | —        | —      | 41  | 36  |
+
+*— = not collected*
+
+---
+
+### Imaging
+
+- **TTE (HD1):** Severe global LV hypokinesis, LVEF 15%, moderate RV dysfunction, no significant valve lesions, small pericardial effusion
+- **CXR (HD1):** Pulmonary edema, bilateral pleural effusions, cardiomegaly
+- **TTE (HD4):** LVEF improved to 35%, RV function mildly decreased
+
+---
+
+### Procedures
+
+- **Impella CP device placement** (HD1, R femoral artery)
+- **Endotracheal intubation** (HD1)
+- **Impella removal** (HD4)
+- **Central line** (HD1)
+- **Arterial line** (HD1)
+
+---
+
+### Discharge Planning
+
+- **Disposition:** Home with family  
+- **Follow-up:** Cardiology in 1 week, PCP in 2 weeks  
+- **Instructions:** Fluid restriction, daily weights, medication adherence, signs/symptoms of HF  
+- **Outpatient labs:** BMP, BNP, echo in 2 weeks  
+
+---
+
+**Physician:** Valerie Lin, MD  
+**Date/Time:** 2024-06-28 09:41
+
+---
+
+**END OF NOTE**

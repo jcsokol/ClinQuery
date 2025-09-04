@@ -1,0 +1,207 @@
+**Epic EHR - Inpatient Chart Review**  
+**Patient Name:** Rusty Beer  
+**MRN:** 006283721  
+**DOB:** 1983-05-26 (Age: 40)  
+**Sex:** Male  
+**Admit Date:** 2024-05-01  
+**Attending:** Dr. S. Kahn  
+**Primary Team:** ICU Cardiac Critical Care  
+**Consults:** Cardiology, Infectious Disease, ENT  
+**Code Status:** Full  
+**Allergies:** NKDA  
+**Height:** 180 cm  
+**Weight:** 87.6 kg  
+**BMI:** 27.0 kg/m2  
+
+---
+
+## Admission H&P Summary
+
+**Chief Complaint:**  
+Acute onset dyspnea and chest pain, progressive orthopnea, and near-syncope at home.
+
+**History of Present Illness:**  
+Mr. Rusty Beer is a 40-year-old male with history of perennial allergic rhinitis and chronic sinusitis, who presented to the ED with 3 days of worsening shortness of breath, chest tightness, palpitations, and new lower extremity edema. Notably, he had a URI 2 weeks ago. In the ED, he was found to be tachycardic, hypotensive, and hypoxic (SpO2 89% RA). CXR revealed bilateral pulmonary edema. TTE in the ED showed severely reduced LVEF ~15%, global hypokinesis, and moderate MR. He was emergently transferred to the CCU for management of acute decompensated heart failure with cardiogenic shock. Temporary left ventricular assist device (Impella CP) was placed on HD#1 due to persistent hypotension and end-organ hypoperfusion.
+
+**Past Medical History:**  
+- Perennial allergic rhinitis  
+- Chronic sinusitis  
+- Viral sinusitis (frequent episodes)  
+- No known CAD, DM, HTN
+
+**Past Surgical History:**  
+- Septoplasty (childhood)
+
+**Medications on Admission:**  
+- diphenhydramine 25 mg PO PRN  
+- No chronic cardiac meds
+
+**Social History:**  
+- Non-smoker, rare ETOH, no recreational drugs  
+- Lives with partner, works as a plumber
+
+**Family History:**  
+- Father: MI at 54, alive  
+- Mother: Asthma  
+- No known genetic heart disease
+
+---
+
+## Physical Exam (Admission)
+
+**General:** Ill-appearing, in mild distress  
+**HEENT:** Sinus tenderness, clear oropharynx  
+**CV:** Tachycardic, S3, soft systolic murmur at apex, JVD 10 cm  
+**Resp:** Tachypnea, diffuse rales  
+**Abd:** Soft, mild hepatomegaly  
+**Ext:** 2+ pitting edema to knees bilat  
+**Neuro:** Alert, oriented x3
+
+---
+
+## ICU Course (Summarized)
+
+**HD#1:**  
+- Transferred to ICU, placed on norepinephrine and dobutamine for cardiogenic shock  
+- Impella CP placed via right femoral artery  
+- Swan-Ganz: CI 1.6, wedge 28, SVR 2100  
+- Intubated for hypoxemic respiratory failure
+
+**HD#2-3:**  
+- Stabilizing on Impella, weaned off norepinephrine  
+- Lactate normalized, urine output improved  
+- Persistent low-grade fever, blood cultures sent  
+- Started empiric vancomycin/cefepime  
+- TTE: LVEF 15%, no vegetations
+
+**HD#4-5:**  
+- Extubated, mentation improved  
+- Impella weaned and explanted HD#5  
+- Started on guideline-directed HF meds (carvedilol, sacubitril/valsartan)  
+- Diuresed with IV furosemide  
+- ENT consult for ongoing sinus symptoms, started on nasal steroids
+
+**HD#6-8:**  
+- Mobilizing with PT, transitioned to oral diuretics  
+- Repeat echo: LVEF 22%  
+- Discharged to home with close HF clinic follow-up
+
+---
+
+## Problem-Based Assessment & Plan
+
+### 1. Cardiogenic Shock (Resolved)
+- Etiology: Likely viral myocarditis (recent URI, no CAD)
+- Temporary LVAD (Impella CP) placed HD#1, explanted HD#5
+- Vasopressors/inotropes weaned off by HD#3
+- Serial ECHOs, hemodynamics monitored
+- Plan: Continue guideline-directed medical therapy (GDMT), close outpatient follow-up, consider cardiac MRI as outpatient
+
+### 2. Acute Decompensated Heart Failure, new HFrEF
+- Started on carvedilol, sacubitril/valsartan, spironolactone, furosemide
+- Strict I/O, daily weights, sodium restriction
+- Plan: Up-titrate GDMT, referral to advanced HF if no improvement
+
+### 3. Hypoxemic Respiratory Failure (resolved)
+- Required intubation for 48h, now extubated, on 2L NC
+- Plan: Pulmonary hygiene, incentive spirometry
+
+### 4. Sinusitis/Allergic Rhinitis
+- ENT consulted, nasal steroids and saline rinses started
+- Plan: F/U as outpatient, avoid triggers
+
+### 5. Acute Kidney Injury (resolved)
+- Likely pre-renal from low cardiac output, Cr 1.8→1.2
+- Plan: Monitor renal function, avoid nephrotoxins
+
+### 6. Possible Sepsis (ruled out)
+- Low-grade fever, blood/urine cultures negative, abx discontinued HD#4
+
+### 7. Nutrition/Rehabilitation
+- Diet advanced as tolerated, PT/OT daily
+- Plan: Outpatient cardiac rehab referral
+
+---
+
+## ICU Vitals & Lab Trends
+
+**Vitals Summary:**  
+| Date        | Temp (°C) | HR | BP        | RR | SpO2 | Comments                 |
+|-------------|-----------|----|-----------|----|------|--------------------------|
+| 2024-05-01  | 37.8      | 128| 84/52     | 28 | 89%  | On norepi, intubated     |
+| 2024-05-02  | 38.1      | 112| 93/62     | 20 | 97%  | On Impella, extubated    |
+| 2024-05-03  | 37.2      | 96 | 104/68    | 18 | 98%  | Weaning support          |
+| 2024-05-04  | 36.9      | 80 | 112/72    | 16 | 98%  | Off pressors             |
+| 2024-05-05  | 36.7      | 76 | 120/74    | 14 | 98%  | Mobilizing               |
+
+---
+
+### CBC & Chem7 Lab Table
+
+| Date        | WBC (x10^3/uL) | Hgb (g/dL) | Plt (x10^3/uL) | Na (mmol/L) | K (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glucose (mg/dL) |
+|-------------|----------------|------------|---------------|-------------|------------|-------------|------------|-----------------|
+| 2024-05-01  | 13.1           | 16.4       | 187           | 133         | 5.7        | 35          | 1.8        | 121             |
+| 2024-05-02  | 11.2           | 15.7       | 163           | 137         | 4.9        | 23          | 1.4        | 109             |
+| 2024-05-03  | 9.8            | 14.9       | 152           | 139         | 4.1        | 17          | 1.2        | 103             |
+| 2024-05-04  | 9.1            | 14.8       | 146           | 140         | 4.2        | 15          | 1.1        | 99              |
+| 2024-05-05  | 8.3            | 14.7       | --            | 140         | 4.3        | 14          | 1.0        | --              |
+
+---
+
+### Additional Labs
+
+| Date        | Troponin I (ng/mL) | BNP (pg/mL) | AST (U/L) | ALT (U/L) | Alk Phos (U/L) | Total Bili (mg/dL) |
+|-------------|--------------------|-------------|-----------|-----------|----------------|--------------------|
+| 2024-05-01  | 0.14               | 3420        | 64        | 52        | 110            | 1.8                |
+| 2024-05-02  | 0.08               | 2950        | 55        | 48        | 98             | 1.2                |
+| 2024-05-03  | 0.05               | 2210        | 44        | 37        | 88             | 0.9                |
+| 2024-05-04  | --                 | 1850        | 36        | 29        | --             | 0.7                |
+| 2024-05-05  | 0.03               | 1540        | --        | --        | --             | --                 |
+
+---
+
+### Cardiac Imaging
+
+- **TTE (ED, 2024-05-01):** LVEF ~15%, global hypokinesis, moderate MR, no thrombus  
+- **Repeat TTE (2024-05-04):** LVEF 22%, mild MR, mild RV dysfunction
+
+---
+
+### Procedures
+
+- **2024-05-01:** Impella CP placement, right femoral access  
+- **2024-05-01:** Right heart cath (Swan-Ganz): CI 1.6, wedge 28, SVR 2100  
+- **2024-05-01:** Intubation  
+- **2024-05-05:** Impella explant
+
+---
+
+### Discharge Medications
+
+- Carvedilol 3.125 mg PO BID  
+- Sacubitril/valsartan 24/26 mg PO BID  
+- Spironolactone 25 mg PO QD  
+- Furosemide 40 mg PO QD  
+- Diphenhydramine 25 mg PO PRN  
+- Fluticasone nasal spray QD
+
+---
+
+### Discharge Disposition
+
+- Home with partner  
+- Outpatient HF clinic in 1 week  
+- Cardiac MRI scheduled  
+- ENT follow up in 2 weeks  
+- PT/OT home exercise program
+
+---
+
+**Signed:**  
+Dr. S. Kahn, MD  
+Attending, ICU Cardiac Critical Care  
+2024-05-08 10:37
+
+---
+
+**[End of Note]**

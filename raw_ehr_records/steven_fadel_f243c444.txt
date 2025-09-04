@@ -1,0 +1,158 @@
+---
+**EPIC EHR: ICU PROGRESS NOTE**
+
+**Patient:** Fadel, Steven  
+**MRN:** 00329102  
+**DOB:** 10/22/1991 (Age: 32)  
+**Sex:** Male  
+**Admit Date:** 05/18/2024  
+**Attending:** Dr. Choi, Cardiology  
+**Consults:** Cardiac Surgery, ID, Nutrition, Pulm/Crit Care  
+**Location:** MICU, Bed 4  
+
+---
+
+# **HOSPITAL COURSE SUMMARY**
+
+Mr. Steven Fadel is a 32-year-old male with PMHx significant for obesity (BMI 30+), hypertension (on HCTZ), perennial and seasonal allergic rhinitis, and recurrent viral upper respiratory tract infections, who presented with acute-onset chest pain, dyspnea, and fatigue. On admission, he was found to be hypotensive and tachycardic. Initial workup revealed elevated cardiac markers and global hypokinesis on TTE, consistent with acute fulminant myocarditis (likely viral, given prodrome). He subsequently developed cardiogenic shock requiring escalating vasopressor and inotrope support. Due to persistent hemodynamic instability and end-organ hypoperfusion, he underwent urgent placement of a percutaneous left ventricular assist device (Impella CP) on HD2. 
+
+His ICU stay has been complicated by AKI, mild transaminitis, and volume overload. He is currently improving, weaning off vasopressors, and Impella wean is underway. No infectious source identified to date; viral panel positive for enterovirus. 
+
+---
+
+## **PROBLEM-BASED ASSESSMENT & PLAN**
+
+### 1. **Acute Fulminant Myocarditis w/ Cardiogenic Shock**
+- **Summary:** Viral prodrome, rapidly progressive HF, elevated troponin, global hypokinesis, shock requiring temporary MCS.
+- **Course:** Impella CP placed HD2; improved end-organ perfusion, weaning inotropes.
+- **Plan:**
+  - Continue Impella support, assess for explant in 24-48h if stable
+  - Serial TTEs and hemodynamics
+  - Titrate milrinone off as tolerated
+  - Strict I/Os, daily weights
+  - Monitor for arrhythmias (telemetry)
+  - Cardiac MRI pending for further tissue characterization
+  - ID consult: viral PCR positive for enterovirus—supportive care
+
+### 2. **Acute Kidney Injury (KDIGO Stage 1)**
+- **Summary:** Likely multifactorial (hypoperfusion, nephrotoxic meds); Cr peaked at 2.1, now 1.7.
+- **Plan:**
+  - Hold nephrotoxins, review all meds
+  - Monitor urine output q2h
+  - Daily chem7, lytes
+  - Nephrology following
+
+### 3. **Volume Overload**
+- **Summary:** 3+ kg weight gain since admission, CXR with mild pulmonary edema.
+- **Plan:**
+  - Loop diuretics IV, titrate to net negative balance
+  - Fluid restrict <1.2L/day
+  - Monitor for hypotension with diuresis
+
+### 4. **Obesity (BMI 30.6) / Hypertension**
+- **Summary:** Baseline HCTZ, BP labile during ICU course.
+- **Plan:**
+  - Hold HCTZ for now (AKI)
+  - Monitor BP q1h
+  - Cardiology to reassess long-term antihypertensive regimen
+
+### 5. **Allergic Rhinitis / Sinusitis**
+- **Summary:** Symptoms mild, on fexofenadine; no evidence of acute bacterial superinfection.
+- **Plan:**
+  - Continue fexofenadine
+  - ENT consult PRN for persistent symptoms
+  - Supportive care
+
+### 6. **Other:**
+- **Nutrition**: Enteral feeds started HD3, goal calories met. RD following.
+- **DVT Prophylaxis**: SCDs, heparin SQ unless contraindicated.
+- **PT/OT**: Eval for early mobilization as tolerated.
+- **Pain**: Mild, acetaminophen PRN.
+
+---
+
+## **LABS**
+
+**CBC & CHEMISTRY PANEL OVERVIEW**
+
+| Date        | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|-------------|------------|------------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|
+| 5/18/2024   | 10.2       | 14.5       | 382        | 136         | 4.2        | 103         | 23           | 19          | 1.1        | 102         |
+| 5/19/2024   | 13.1       | 13.2       | 358        | 133         | 4.7        | 101         | 20           | 32          | 2.0        | 110         |
+| 5/20/2024   | 12.2       | 11.8       | 342        | 132         | 5.6        | 99          | 18           | 41          | 2.1        | 126         |
+| 5/21/2024   | 11.7       | 12.1       | 355        | 134         | 4.9        | 101         | 22           | 36          | 1.7        | 118         |
+| 5/22/2024   | 10.9       | 12.9       |            | 135         |            | 100         | 24           | 28          | 1.4        | 101         |
+| 5/23/2024   |            | 13.7       | 362        | 137         | 4.3        | 102         |              | 21          | 1.2        | 97          |
+
+**ADDITIONAL LABS**
+
+| Date        | Troponin I (ng/mL) | BNP (pg/mL) | ALT (U/L) | AST (U/L) | Albumin (g/dL) | INR | Lactate (mmol/L) |
+|-------------|--------------------|-------------|-----------|-----------|----------------|-----|------------------|
+| 5/18/2024   | 0.32               | 2950        | 55        | 61        | 3.5            | 1.2 | 1.8              |
+| 5/19/2024   | 2.19               | 5220        | 72        | 80        | 3.2            | 1.3 | 3.2              |
+| 5/20/2024   | 1.98               | 4880        | 68        | 76        | 3.1            | 1.1 | 2.1              |
+| 5/21/2024   | 0.65               | 3200        | 51        | 59        | 3.3            | 1.0 | 1.3              |
+| 5/22/2024   | 0.18               | 2110        |           | 48        | 3.4            |     |                  |
+
+---
+
+## **VITALS (SELECTED)**
+
+- **Admission:** BP 82/56, HR 127, RR 26, SpO2 96% RA, Temp 37.3C
+- **Max HR:** 139 (HD2, prior to Impella)
+- **Lowest BP:** 74/48 (HD2)
+- **Current:** BP 101/64, HR 92, RR 18, SpO2 98% on 2L NC
+
+---
+
+## **MEDICATIONS**
+
+- Fexofenadine 30mg PO BID
+- Epinephrine auto-injector PRN
+- Hydralazine 10mg IV q6h PRN SBP >160
+- Milrinone IV gtt (tapering)
+- Furosemide 40mg IV q8h
+- Heparin 5000U SQ q8h
+- Acetaminophen 650mg PO q6h PRN
+- Pantoprazole 40mg IV daily
+
+---
+
+## **IMAGING**
+
+**TTE 5/18/24:** LVEF ~20%, global hypokinesis, no LV thrombus  
+**CXR 5/19/24:** Mild pulmonary edema, no consolidation  
+**Cardiac MRI:** Pending
+
+---
+
+## **PROCEDURES**
+
+- Right heart cath (5/18/24): CI 1.7, PCWP 23, SVR 980
+- Percutaneous LVAD (Impella CP) placement (5/19/24)
+
+---
+
+## **CONSULTS**
+
+- Cardiac Surgery: For Impella placement and management
+- Infectious Disease: Viral myocarditis, no evidence bacterial infection
+- Nephrology: AKI/volume status
+- Nutrition: Enteral support
+- PT/OT: Early mobilization
+
+---
+
+## **DISPOSITION**
+
+- Remains in MICU, anticipated transfer to stepdown in 48-72h if continues to improve.
+
+---
+
+## **ATTENDING PHYSICIAN:**  
+Dr. Hannah Choi, MD
+
+---
+
+**[End of Note]**  
+---

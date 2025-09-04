@@ -1,0 +1,166 @@
+```
+EpicCare Inpatient
+Patient: Denisha Champlin    MRN: 10593241    DOB: 11/29/1946    Sex: F
+Admit Date: 03/22/2024       Attending: Dr. K. Riverton, MD      Location: CVICU
+
+Admission Diagnosis:
+- Cardiogenic shock secondary to acute decompensated heart failure
+- History of coronary artery disease, prior MI
+- Recent NSTEMI
+- Chronic sinusitis
+
+Hospital Course Summary:
+Ms. Champlin is a 77-year-old female with a history significant for coronary artery disease, prior MI, multiple pregnancies, chronic sinusitis, and hypertension, who presented to the ED with acute-onset chest pain, dyspnea, and fatigue. She was found to have an NSTEMI on initial workup with evidence of pulmonary edema and hypotension. Despite IV diuresis and vasopressor support, she remained hypotensive and oliguric. Given refractory cardiogenic shock, she was transferred to the CVICU and underwent placement of a percutaneous left ventricular assist device (Impella CP) for hemodynamic support.
+
+She was managed with dual antiplatelet therapy, heparin drip, IV diuretics, and ventilatory support. Over the course of 7 days, her hemodynamics stabilized, and the device was weaned and removed on hospital day 6. She was transitioned to guideline-directed HF therapy and discharged in stable condition on day 12.
+
+Allergies: NKDA
+
+Code Status: Full
+
+Past Medical History:
+- Coronary heart disease
+- Myocardial infarction (2017)
+- History of miscarriage (x1), blighted ovum (x1), multiple full-term pregnancies
+- Chronic/recurrent sinusitis
+- Hyperlipidemia
+- Hypertension
+
+Past Surgical History:
+- None significant
+
+Social History:
+- Lives alone, former smoker (quit 1989), no EtOH, no illicit drug use
+- Supportive daughter nearby
+
+Family History:
+- Father: MI at 68, deceased
+- Mother: HTN, alive at 92
+
+Home Medications (on admission):
+- Captopril 25mg PO BID
+- Nitroglycerin 0.4mg PRN
+- Norinyl 1+50 (discontinued several years ago)
+- Amox/Clav (recent, for sinusitis)
+- Atorvastatin 20mg PO QHS (not listed above, but added for CAD)
+
+Physical Exam on Admission:
+Gen: Elderly female, NAD, mild respiratory distress
+VS: BP 82/52, HR 112, RR 24, T 36.5C, SpO2 91% RA
+HEENT: Sinus tenderness, no oropharyngeal lesions
+CV: S3 present, JVD elevated, cool extremities, peripheral pulses weak
+Resp: Bilateral crackles, mild accessory muscle use
+Abd: Soft, non-tender, no HSM
+Ext: Mild pitting edema, 1+
+Neuro: A&O x3, no focal deficit
+
+------------------------------
+Lab Results (select CBC/Chem7/other relevant labs)
+
+| Date       | WBC    | Hgb   | Hct   | Plt   | Na    | K     | Cl    | CO2   | BUN   | Cr    | Glu   | Troponin I | BNP   | AST   | ALT   |
+|------------|--------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|------------|-------|-------|-------|
+| 3/22/2024  | 17.2   | 13.1  | 38.9  | 211   | 136   | 4.8   | 101   | 23    | 42    | 2.1   | 186   | 2.1        | 3920  | 44    | 37    |
+| 3/23/2024  | 15.8   | 12.7  | 37.6  | 193   | 137   | 4.3   | 102   | 22    | 39    | 2.2   | 170   | 1.9        | 3887  | 37    | 32    |
+| 3/24/2024  | 13.4   | 12.3  | 36.2  | 172   | 138   | 4.1   | 103   | 21    | 35    | 1.9   | 156   | 1.1        | 2870  | 29    | 28    |
+| 3/25/2024  | 12.1   | 12.6  | 36.9  | 157   | 139   | 4.0   | 103   | 21    | 28    | 1.4   | 142   | 0.5        | 1640  | 27    | 25    |
+| 3/26/2024  | 10.4   | 12.9  | 37.7  | 168   | 140   | 4.1   | 104   | 22    | 21    | 1.1   | 128   | <0.04      | 900   | 22    | 19    |
+| 3/27/2024  | 9.2    | 13.2  | 38.4  | 175   | 139   | 4.0   | 104   | 23    | 17    | 1.0   | 120   | <0.04      | 540   | 20    | 17    |
+| 3/28/2024  | 8.6    | 13.2  | 38.6  | 168   | 139   | 4.2   | 103   | 24    | 15    | 0.9   | 112   | <0.04      | 390   | 18    | 14    |
+| 3/29/2024  | 8.1    | 13.3  | 39.0  | 163   | 138   | 4.3   | 102   | 25    | 13    | 0.8   | 108   | <0.04      | 270   | 16    | 12    |
+| 3/30/2024  |        |       |       |       | 138   |       | 102   | 25    | 12    | 0.8   | 104   |            |       |       |       |
+| 3/31/2024  | 7.2    | 13.4  | 39.2  | 158   | 137   | 4.4   | 101   | 25    | 12    | 0.8   | 102   | <0.04      | 210   | 16    | 11    |
+
+*Missing labs indicate not collected on those days
+
+Other notable labs:
+- LFTs: Mild transaminitis on admission, resolved
+- Cardiac markers: Troponin peaked at 2.1 ng/mL, trended down
+- BNP: Consistently elevated, improved with therapy
+
+Microbiology:
+- Blood cultures x2: No growth
+- Nasal swab: Positive for rhinovirus (consistent with viral sinusitis)
+
+Imaging:
+- CXR: Pulmonary edema, cardiomegaly
+- Echo (3/22): EF 18%, severe global hypokinesis, moderate MR, RV function mildly reduced
+- Repeat echo (3/27): EF 28%, mild MR, improved wall motion
+
+Procedures:
+- 3/23: Impella CP placement via R femoral artery
+- 3/27: Impella weaned and removed
+- 3/28: Right IJ central line removed
+
+Consults:
+- Cardiology: Performed device placement, ongoing management
+- Infectious Disease: Consulted for persistent leukocytosis, no evidence of bacterial infection
+
+------------------------------
+Assessment & Plan (by Problem):
+
+1. **Cardiogenic Shock / Acute Decompensated Heart Failure**
+   - S/P NSTEMI, severe LV dysfunction, persistent hypotension, end-organ hypoperfusion
+   - Impella CP placed for mechanical support, weaned off after clinical improvement
+   - IV furosemide, cautious fluid removal
+   - Titrated captopril, started low-dose carvedilol on day 8
+   - Daily weights, strict I/O, telemetry monitoring
+   - Plan: Continue uptitration of GDMT, outpatient HF follow-up, cardiac rehab referral
+
+2. **Coronary Artery Disease / MI**
+   - NSTEMI on 3/22, troponin peaked at 2.1
+   - Dual antiplatelet therapy (ASA + clopidogrel), atorvastatin uptitrated
+   - Cardiac cath deferred due to hemodynamic instability, to consider outpatient
+
+3. **Chronic Sinusitis / Viral Sinusitis**
+   - Recent URI symptoms, rhinovirus+ on NP swab, mild leukocytosis on admit
+   - Amox/clav started on admit, stopped after 5 days with clinical improvement
+   - Nasal saline, intranasal steroids resumed
+
+4. **Acute Kidney Injury, prerenal (resolved)**
+   - Initial creatinine 2.1, improved with hemodynamic support and diuresis
+   - Monitored urine output, no further intervention needed
+
+5. **Hyperlipidemia**
+   - Atorvastatin increased to 40mg daily
+
+6. **Hypertension**
+   - Titrated captopril, added carvedilol after stabilization
+
+7. **History of Multiple Pregnancies / OB History**
+   - No active OB issues, remote history of miscarriage x1, blighted ovum x1
+   - No impact on current hospitalization
+
+8. **Anemia of chronic disease**
+   - Mild, stable, no transfusion required
+
+9. **Venous Thromboembolism Prophylaxis**
+   - SCDs, SQ heparin
+
+10. **Discharge Planning**
+    - Home health nursing, HF education
+    - F/U with cardiology in 1 week, PCP in 3 days
+    - Daughter to assist with medications, dietary compliance
+
+------------------------------
+Discharge Medications:
+- Captopril 25mg PO BID
+- Carvedilol 3.125mg PO BID
+- Atorvastatin 40mg PO QHS
+- Clopidogrel 75mg PO daily x 12 months
+- ASA 81mg PO daily
+- Furosemide 20mg PO daily
+- Nitroglycerin 0.4mg SL PRN chest pain
+- Fluticasone nasal spray 1 spray BID
+
+------------------------------
+Significant Events:
+- Hypotension requiring vasopressors (Norepinephrine max 0.12 mcg/kg/min, weaned off day 5)
+- Brief episode of atrial fibrillation, self-limited
+- No infectious complications
+
+------------------------------
+Attending Physician: K. Riverton, MD
+Date/Time: 04/03/2024 16:45
+
+```
+*NOTE: This simulated EHR contains invented data for educational purposes only.

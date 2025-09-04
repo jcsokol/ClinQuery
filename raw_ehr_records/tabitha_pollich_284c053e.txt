@@ -1,0 +1,173 @@
+```
+==============================================================================
+EPIC EHR - INPATIENT PROGRESS NOTE
+==============================================================================
+
+Patient Name: Tabitha Pollich  
+MRN: 00839241  
+DOB: 1974-11-04 (Age 49)  
+Sex: Female  
+Admit Date: 2024-03-25  
+Attending: Dr. J. Patel  
+Unit: MICU  
+Room: 5-212  
+Date/Time of Note: 2024-03-30 08:45  
+
+==============================================================================
+CHIEF COMPLAINT
+------------------------------------------------------------------------------
+Progressive shortness of breath, orthopnea, and chest pressure x 3 days.
+
+==============================================================================
+HPI
+------------------------------------------------------------------------------
+Tabitha Pollich is a 49-year-old female with PMHx of obesity (BMI ~30), remote miscarriage, recurrent viral sinusitis/pharyngitis, and currently not pregnant, who presented to the ED with 3 days of worsening dyspnea, orthopnea, and intermittent chest tightness. She initially attributed her symptoms to a recent URI but developed progressive fatigue, near-syncope, and lower extremity swelling. Denies fever, cough, or hemoptysis. No recent travel or known COVID-19 exposure.
+
+On arrival, tachycardic, borderline hypotensive, and hypoxic (O2 sat 89% RA). CXR: pulmonary edema. TTE revealed severe global LV dysfunction (EF ~15%), moderate RV dysfunction. She was admitted to the MICU for acute decompensated heart failure (ADHF) and cardiogenic shock.  
+
+Despite high-dose IV diuretics, inotropes, and vasopressors, patient had persistent hypoperfusion and rising lactate. After multidisciplinary discussion, a percutaneous left ventricular assist device (Impella CP) was emergently placed for temporary circulatory support.
+
+==============================================================================
+PAST MEDICAL HISTORY
+------------------------------------------------------------------------------
+- Obesity (BMI 30.2)
+- Recurrent viral sinusitis/pharyngitis
+- History of miscarriage (1st trimester)
+- Prior normal pregnancies (x2)
+- "Fetus with unknown complication" (unclear, no prior records)
+- No known CAD, DM, or HTN
+
+PAST SURGICAL HISTORY
+------------------------------------------------------------------------------
+- Mirena IUD placement/removal x2
+
+SOCIAL HISTORY
+------------------------------------------------------------------------------
+Tobacco: Denies  
+Alcohol: Rare  
+Drugs: Denies  
+Married, lives with spouse, employed as office manager.  
+
+FAMILY HISTORY
+------------------------------------------------------------------------------
+Mother: HTN, T2DM  
+Father: MI at age 62  
+No known inherited cardiomyopathies
+
+ALLERGIES
+------------------------------------------------------------------------------
+No known drug allergies
+
+==============================================================================
+CURRENT MEDICATIONS (on admission)
+------------------------------------------------------------------------------
+- Vitamin B12 5 mg/mL IM soln (self-admin, monthly)
+- Medroxyprogesterone acetate 160 mg/mL IM q3mo
+- Amoxicillin/clavulanate 250/125 mg PO BID (recent, for sinusitis)
+- Mirena IUD (in place)
+- Errin 0.35 mg PO daily (started for AUB)
+- Jolivette 0.35 mg PO daily (previous, stopped 1 mo ago)
+
+==============================================================================
+VITAL SIGNS (selected)
+------------------------------------------------------------------------------
+| Date        | Temp (C) | HR  | BP        | RR  | SpO2 | Pain |
+|-------------|----------|-----|-----------|-----|------|------|
+| 3/25 19:30  | 37.3     | 121 | 88/54     | 24  | 89%  | 4    |
+| 3/26 06:00  | 37.1     | 116 | 92/60     | 22  | 93%  | 3    |
+| 3/27 04:45  | 36.9     | 110 | 99/67     | 18  | 97%  | 2    |
+| 3/28 07:50  | 37.2     | 103 | 104/70    | 16  | 99%  | 2    |
+| 3/29 06:15  | 36.8     | 98  | 111/73    | 16  | 99%  | 1    |
+
+==============================================================================
+PHYSICAL EXAM (3/30)
+------------------------------------------------------------------------------
+Gen: Obese female, awake, tired but interactive  
+CV: S3, tachycardic, no murmur, JVP 10 cm, mild LE edema  
+Pulm: Bibasilar crackles, mild tachypnea, O2 via NC  
+ABD: Soft, NT, no HSM  
+Ext: 1+ pitting edema bilateral ankles  
+Neuro: AOx3, no focal deficits
+
+==============================================================================
+LABS
+------------------------------------------------------------------------------
+| Date      | WBC  | Hgb  | Hct  | Plt  | Na  | K   | Cl  | CO2 | BUN | Cr  | Glu | Troponin | BNP   | AST | ALT | Alk Phos | Lactate |
+|-----------|------|------|------|------|-----|-----|-----|-----|-----|-----|-----|----------|-------|-----|-----|----------|---------|
+| 3/25 21:00| 8.2  | 14.3 | 47.7 | 334  | 133 | 3.9 | 101 | 22  | 23  | 1.0 | 117 | <0.01    | 5420  | 31  | 27  | 77       | 3.6     |
+| 3/26 06:00| 7.8  | 13.6 | 45.1 | 328  | 130 | 4.2 | 99  | 19  | 27  | 1.2 | 134 | 0.03     | 6880  | 38  | 33  | 85       | 4.2     |
+| 3/27 05:30| 9.2  | 12.9 | 41.8 | 309  | 136 | 3.7 | 102 | 23  | 21  | 1.1 | 124 | 0.01     | 4720  | 29  | 25  | 80       | 2.1     |
+| 3/28 07:00| 8.7  | 12.8 | 41.2 | 294  | 139 | 3.8 | 104 | 25  | 19  | 1.0 | 112 | <0.01    | 3880  |     |     |          |         |
+| 3/29 05:45| 7.9  | 12.5 |      | 277  |     | 3.9 | 99  | 24  | 17  | 0.9 | 109 | <0.01    | 2600  | 22  | 19  | 62       | 1.3     |
+| 3/30 07:30| 8.1  | 12.7 | 40.9 | 271  | 141 | 4.1 |     |     | 16  | 0.7 | 104 | <0.01    | 1950  | 20  | 18  |          | 1.0     |
+
+*Gaps indicate labs not collected or resulted.
+
+==============================================================================
+DIAGNOSTIC STUDIES
+------------------------------------------------------------------------------
+- CXR (3/25): Pulmonary vascular congestion, interstitial edema, no consolidation
+- ECG: Sinus tachycardia, low voltage QRS, no acute ST/T changes
+- TTE (3/25): LVEF 15%, global hypokinesis, moderate RV dysfunction, mild MR
+- RHC (3/26): CI 1.6, PCWP 28, MAP 62, SVR 2100, RAP 18
+- Repeat TTE (3/29): LVEF improved to 30% on temporary support
+
+==============================================================================
+PROBLEM-BASED ASSESSMENT & PLAN
+------------------------------------------------------------------------------
+
+**1. Cardiogenic Shock (Acute Decompensated HF, new severe LV dysfunction)**
+   - Likely viral myocarditis vs. idiopathic nonischemic cardiomyopathy.
+   - Required inotropes (dobutamine, milrinone), vasopressors (norepi).
+   - Impella CP placed 3/26 for hemodynamic support.
+   - Gradual improvement: off vasopressors by 3/28, Impella weaned 3/29, removed 3/30.
+   - Plan: Continue gentle diuresis, monitor for arrhythmia, daily TTE, consider advanced HF referral.
+
+**2. Volume Overload / Acute Pulmonary Edema**
+   - IV furosemide gtt, transitioned to PO as hemodynamics improved.
+   - Strict I/O, daily weights.
+   - Plan: Maintain euvolemia, sodium restriction, continue monitoring.
+
+**3. Obesity (BMI 30.2)**
+   - Contributes to HFpEF risk, OSA (screening pending).
+   - Plan: Nutrition consult, physical therapy as tolerated, weight loss counseling.
+
+**4. Anemia (Hgb trending down, likely dilutional)**
+   - Hgb dropped from 14.3 → 12.7 over 5 days; no overt bleeding.
+   - Plan: Monitor CBC, iron studies if continues to drop, transfuse if <8 or symptomatic.
+
+**5. Mild Transaminitis**
+   - Mild AST/ALT elevation, likely congestive hepatopathy.
+   - Plan: Monitor LFTs, expect improvement as congestion resolves.
+
+**6. Contraceptive Management**
+   - Mirena IUD remains in place; no evidence of infection.
+   - Medroxyprogesterone/Errin held during critical illness.
+   - Plan: Resume once stable.
+
+**7. Recurrent Viral URI/Sinusitis**
+   - Recent amox/clav for presumed bacterial sinusitis.
+   - No evidence of active infection; procalcitonin normal.
+   - Plan: Supportive care, avoid unnecessary antibiotics.
+
+**8. Psychosocial Needs**
+   - Expressed anxiety re: prognosis, impact on work.
+   - SW and psych consult placed; supportive counseling ongoing.
+
+==============================================================================
+DISPOSITION
+------------------------------------------------------------------------------
+- Remains in ICU; anticipate transfer to telemetry within 24-48h if stable.
+- Anticipate prolonged cardiac rehab, outpatient HF f/u, and possible advanced therapies evaluation.
+
+==============================================================================
+SIGNATURE
+------------------------------------------------------------------------------
+J. Patel, MD | MICU  
+Date/Time: 2024-03-30 08:45
+==============================================================================
+
+ADDENDUM (Nursing)
+------------------------------------------------------------------------------
+Pt resting, family at bedside. Impella site clean, dry, occlusive dressing. Foley d/c’d. Tolerating oral diet. No acute events overnight.
+```

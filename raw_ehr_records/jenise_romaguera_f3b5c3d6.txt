@@ -1,0 +1,169 @@
+**EPIC EHR: ICU Progress Note**  
+**Patient:** Jenise Romaguera  
+**MRN:** 0028457  
+**DOB:** 02/25/2006 (Age: 18)  
+**Sex:** Female  
+**Admit Date:** 04/12/2024  
+**Attending:** Dr. R. Faraday  
+**Consults:** Cardiology, Infectious Disease, ENT  
+**Location:** MICU, Room 14B  
+
+---
+
+### CHIEF COMPLAINT  
+Shortness of breath, chest pain, fatigue following 5 days of fever and upper respiratory symptoms.
+
+---
+
+### HISTORY OF PRESENT ILLNESS  
+18-year-old female with history of recurrent sinusitis, otitis media, and prior ankle fracture, presented with 5 days of progressive dyspnea, orthopnea, non-productive cough, subjective fevers, and myalgias. Initially evaluated for presumed viral URI; started on acetaminophen and ibuprofen at home. Worsening symptoms, including palpitations and mild confusion, prompted ED visit. In ED, found to be tachycardic (HR 128), hypotensive (BP 84/52), and hypoxic (SpO2 89% RA). CXR: mild pulmonary edema. Labs: elevated BNP, troponin mildly elevated. Echo: LVEF 18%. Admitted to ICU for acute decompensated heart failure, likely viral myocarditis.  
+
+Rapid hemodynamic decline on hospital day 1: required norepinephrine and dobutamine infusions. On hospital day 2, due to refractory cardiogenic shock, underwent placement of a temporary percutaneous left ventricular assist device (Impella CP) by interventional cardiology.  
+
+---
+
+### PAST MEDICAL HISTORY  
+- Recurrent viral & bacterial sinusitis  
+- Otitis media  
+- Acute viral pharyngitis  
+- Acute bronchitis  
+- No known congenital heart disease  
+- Fracture, left ankle (age 14)
+
+### SURGICAL HISTORY  
+- None
+
+### MEDICATIONS PRIOR TO ADMISSION  
+- Ibuprofen 100 mg PO PRN  
+- Acetaminophen 325 mg PO PRN  
+- Amoxicillin 250 mg PO (recent course for sinusitis)  
+- Amox/Clav 250/125 mg PO (recent course for sinusitis)
+
+### ALLERGIES  
+- NKDA
+
+---
+
+### HOSPITAL COURSE SUMMARY  
+**HD 1:** Admitted to MICU. Cardiogenic shock, started on inotropes/pressors.  
+**HD 2:** Worsening shock, Impella CP placed. Intubated for respiratory distress.  
+**HD 3–5:** Gradual improvement in perfusion, weaned off pressors. Persistent low LVEF.  
+**HD 6:** Echo: LVEF 28%. Impella weaning protocol initiated.  
+**HD 7:** Impella explanted. Extubated.  
+**HD 8–10:** Recovery, improved cardiac function, transitioned to oral HF meds, mobilizing with PT.
+
+---
+
+### VITAL SIGNS TREND (SELECTED)  
+| Date        | Temp (°C) | HR (bpm) | BP (mmHg) | RR | O2 Sat |  
+|-------------|-----------|----------|-----------|----|--------|  
+| 4/12/24     | 37.6      | 128      | 84/52     | 24 | 89%    |  
+| 4/13/24     | 38.2      | 120      | 92/60     | 22 | 93%    |  
+| 4/14/24     | 37.1      | 110      | 99/65     | 18 | 97%    |  
+| 4/15/24     | 36.8      | 98       | 104/70    | 16 | 98%    |  
+| 4/16/24     | 37.0      | 92       | 110/74    | 16 | 99%    |  
+
+---
+
+### LABS
+
+#### CBC/CHEM7/CARDIAC MARKERS  
+| Date      | WBC   | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin I | BNP     | AST  | ALT  |  
+|-----------|-------|------|------|-------|------|------|------|------|------|------|------|------------|---------|------|------|  
+| 4/12/24   | 9.0   | 13.9 | 49.8 | 378   | 139  | 4.2  | 102  | 24   | 14   | 0.7  | 110  | 0.21       | 3350    | 87   | 55   |  
+| 4/13/24   | 11.2  | 13.2 | 45.5 | 276   | 137  | 4.7  | 101  | 21   | 18   | 0.8  | 124  | 0.17       | 4100    | 103  | 72   |  
+| 4/14/24   | 10.5  | 12.7 | 43.2 | 198   | 136  | 4.5  | 100  | 22   | 16   | 0.9  | 132  | 0.11       | 2850    | —    | —    |  
+| 4/15/24   | 8.7   | 12.9 | 41.0 | 222   | 138  | 4.0  | 104  | 23   | 13   | 0.7  | —    | <0.02      | 1200    | 55   | 38   |  
+| 4/16/24   | —     | 13.7 | 43.8 | 265   | 140  | 3.8  | 103  | 24   | 11   | 0.6  | 98   | <0.01      | 650     | 47   | 29   |  
+
+---
+
+### MICROBIOLOGY  
+- Respiratory viral PCR: positive for Coxsackie B  
+- Blood cultures: negative  
+- Sputum cultures: no growth
+
+---
+
+### RADIOLOGY  
+- **CXR (4/12/24):** Pulmonary edema, mild cardiomegaly  
+- **Echo (4/12/24):** LVEF 18%, global hypokinesis  
+- **Echo (4/16/24):** LVEF 38%, improvement in function
+
+---
+
+### PHYSICAL EXAM (HD 5)  
+**General:** Awake, in no distress.  
+**CV:** Tachycardic, regular rhythm, S3 present, no murmurs.  
+**Resp:** Clear to auscultation, diminished at bases.  
+**Ext:** No edema.  
+**Neuro:** AOx3.  
+
+---
+
+### PROBLEM-BASED ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock, Acute Decompensated Heart Failure (EF 18%)**  
+- Likely due to acute viral myocarditis (Coxsackie B).  
+- Required temporary LVAD (Impella CP) for hemodynamic support (HD2–7).  
+- Slowly improving cardiac function; LVEF up to 38%.  
+- PLAN: Continue GDMT for HF (carvedilol, lisinopril, furosemide as needed), daily echo, wean O2, monitor for arrhythmias, restrict fluids, monitor renal/liver function.
+
+**2. Acute Viral Myocarditis**  
+- Confirmed Coxsackie B.  
+- No evidence of bacterial superinfection.  
+- PLAN: Supportive care, continue monitoring, no antivirals indicated.
+
+**3. Acute Hypoxic Respiratory Failure**  
+- Secondary to pulmonary edema and poor cardiac output.  
+- Intubated HD2–7, now extubated.  
+- PLAN: Pulmonary hygiene, monitor ABGs, incentive spirometry.
+
+**4. Acute Kidney Injury (resolved)**  
+- Likely secondary to low cardiac output, improved with hemodynamics.  
+- PLAN: Monitor labs, maintain euvolemia, avoid nephrotoxins.
+
+**5. Transaminitis (mild)**  
+- Likely ischemic hepatitis during shock. Trending down.  
+- PLAN: Monitor LFTs.
+
+**6. History of Recurrent Sinusitis/Otitis Media**  
+- Not contributing to current presentation.  
+- PLAN: Routine follow-up, no active infection.
+
+**7. Nutrition/Mobility**  
+- Initially NPO, now on cardiac diet.  
+- Mobilizing with PT/OT.  
+- PLAN: Advance diet as tolerated, continue PT.
+
+**8. Psychosocial**  
+- Young adult, significant stress, family at bedside.  
+- PLAN: Social work consult, consider psych support.
+
+---
+
+### HOSPITAL MEDICATIONS  
+- Carvedilol 3.125 mg BID  
+- Lisinopril 2.5 mg QD  
+- Furosemide 20 mg IV PRN  
+- Acetaminophen 650 mg PO Q6H PRN  
+- Heparin SQ for DVT prophylaxis  
+- Pantoprazole 40 mg IV QD  
+- Multivitamin PO QD
+
+---
+
+### DISPOSITION  
+- Continue ICU monitoring, anticipate transfer to step-down when stable >24h off inotropes/pressors.
+
+---
+
+### SIGNED  
+Dr. R. Faraday, MD  
+MICU/CCM  
+04/17/2024, 08:32
+
+---
+
+#### END OF NOTE  
+[Additional pages available in chart review: see ICU Events, Med Record, and PT/OT notes.]

@@ -1,0 +1,230 @@
+**EPIC EHR – ICU Progress Note**  
+**Patient:** Wunsch, Myles  
+**MRN:** 0048192  
+**DOB:** 04/08/1911 (Age: 112)  
+**Sex:** M  
+**Date of Admission:** 2024-05-22  
+**Date of Service:** 2024-05-27  
+**Attending:** Dr. S. Hwang  
+**Consultants:** Cardiology, Oncology, Nephrology, Infectious Disease, Nutrition
+
+---
+
+# Chief Complaint  
+Shortness of breath, weakness, and chest discomfort.
+
+---
+
+# History of Present Illness  
+Myles Wunsch is a 112-year-old male with a past medical history of hypertension, prediabetes, chronic anemia, and stage I non-small cell lung cancer (recently diagnosed, on cisplatin/paclitaxel), who presented to the ED with 3 days of worsening dyspnea, orthopnea, lower extremity edema, and intermittent chest pressure. On arrival, he was found to be hypotensive (MAP 58 mmHg), tachycardic (HR 112), hypoxic (SpO2 89% on 4L NC), and in moderate respiratory distress.
+
+He was admitted to the ICU for management of acute decompensated heart failure with cardiogenic shock, complicated by acute kidney injury and underlying anemia. Due to persistent hemodynamic instability and evidence of poor end-organ perfusion despite maximal medical therapy (dobutamine, norepinephrine), a decision was made to place a temporary left-sided ventricular assist device (Impella CP) on hospital day 2.
+
+---
+
+# Past Medical History  
+- Hypertension  
+- Prediabetes  
+- Anemia (likely multifactorial: chronic disease, chemo)  
+- Non-small cell lung cancer, TNM stage I (dx 1 mo ago, on cisplatin/paclitaxel)  
+- Recurrent viral sinusitis  
+- Streptococcal pharyngitis (remote)  
+- Suspected lung cancer (prior to bx confirmation)  
+
+# Surgical History  
+- None
+
+# Family History  
+- Non-contributory (records sparse, family unavailable)
+
+# Social History  
+- Retired engineer  
+- Never smoked  
+- Occasional wine  
+- Lives in assisted living facility
+
+# Allergies  
+- NKDA
+
+# Medications (on admission)  
+- Hydrochlorothiazide 25 mg PO QAM  
+- Acetaminophen/oxycodone 325/5 mg PO PRN  
+- Penicillin V 500 mg PO QID (recent, now discontinued)  
+- Cisplatin/paclitaxel per oncology protocol (last dose 2 wks ago)
+
+---
+
+# Physical Exam (ICU Day 5)  
+**Gen:** Elderly male, frail, alert, intermittent confusion  
+**VS:** BP 90/54 (MAP 62) on low-dose norepinephrine, HR 102 (paced), RR 22, SpO2 93% (6L NC), T 37.2°C  
+**HEENT:** Pale conjunctivae, oropharynx clear  
+**CV:** Distant heart sounds, S3, no murmurs, Impella in place (L groin), JVP elevated (11cmH2O), trace pedal edema  
+**Resp:** Bibasilar crackles, decreased air entry LLL  
+**Abd:** Soft, non-tender, mild hepatomegaly  
+**Ext:** 2+ pitting edema BLE, pulses 1+  
+**Neuro:** AOx2 (name, location), slow recall, no focal deficits  
+**Skin:** No rashes, mild ecchymoses at IV sites
+
+---
+
+# Problem-Based Assessment & Plan
+
+## 1. Cardiogenic Shock / Acute Decompensated Heart Failure  
+- **Assessment:** Severe LV dysfunction (EF 15% on bedside echo), likely due to ischemic insult (troponin mildly elevated, ECG non-specific ST-T changes). Refractory to inotropes/pressors.  
+- **Course:** Impella CP placed on HD2. Initial improvement in MAP and urine output, still requiring low-dose norepinephrine.  
+- **Plan:**  
+  - Continue Impella support, wean as tolerated  
+  - Daily TTE to monitor LV recovery  
+  - Strict I/O, daily weights  
+  - Diuresis with IV furosemide as tolerated  
+  - Cardiology to reassess for explant vs. transition to comfort care
+
+## 2. Non-Small Cell Lung Cancer, Stage I  
+- **Assessment:** Recent diagnosis, on chemo (cisplatin/paclitaxel). Recent cycles interrupted due to acute illness.  
+- **Plan:**  
+  - Oncology on board, chemo on hold  
+  - Monitor for complications (neutropenia, infection)  
+  - Supportive care
+
+## 3. Acute Kidney Injury on CKD  
+- **Assessment:** Oliguric renal failure (Cr peaked at 4.2, baseline ~2.1). Likely multifactorial: low perfusion, nephrotoxins (chemo), diuretics.  
+- **Plan:**  
+  - Nephrology following  
+  - Avoid nephrotoxins  
+  - Fluid balance, gentle diuresis  
+  - Monitor for need for RRT
+
+## 4. Anemia  
+- **Assessment:** Chronic, worsened acutely (Hgb nadir 7.3). Etiology: chronic disease, chemo-induced myelosuppression, possible hemolysis (haptoglobin WNL, retic mildly elevated).  
+- **Plan:**  
+  - Transfuse PRBCs for Hgb <8  
+  - Monitor retic, LDH, haptoglobin  
+  - Iron studies, B12, folate pending
+
+## 5. Infection Risk (Neutropenia, Immunosuppression)  
+- **Assessment:** Febrile episodes on HD3, negative blood/urine cultures, CXR with LLL consolidation (possible aspiration vs. PNA).  
+- **Plan:**  
+  - Broad spectrum abx (pip-tazo) x7d, de-escalate if cultures negative  
+  - Monitor WBC, fevers  
+  - Daily CXR
+
+## 6. Electrolyte Abnormalities  
+- **Assessment:** Hypokalemia (K 3.1), hypomagnesemia (Mg 1.3), hyponatremia (Na 130-133).  
+- **Plan:**  
+  - Replace K/Mg/Na as needed  
+  - Monitor daily
+
+## 7. Delirium  
+- **Assessment:** ICU delirium, probably multifactorial (age, metabolic derangements, infection, shock).  
+- **Plan:**  
+  - Non-pharm interventions (reorient, mobilize, minimize sedation)  
+  - PRN haldol if agitated
+
+## 8. Nutrition  
+- **Assessment:** Frail, low PO intake.  
+- **Plan:**  
+  - Nutrition consult  
+  - Enteral feeds if unable to take PO  
+  - Monitor prealbumin
+
+## 9. Pain  
+- **Assessment:** Moderate, controlled with scheduled acetaminophen, PRN oxycodone.  
+- **Plan:**  
+  - Reassess pain daily  
+  - Avoid oversedation
+
+## 10. DVT Prophylaxis  
+- **Plan:**  
+  - SCDs in place  
+  - Heparin SQ unless plt <50
+
+---
+
+# ICU Labs Table
+
+| Date           | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Ca (mg/dL) | AST (U/L) | ALT (U/L) | AlkPhos (U/L) | T Bili (mg/dL) | Troponin (ng/mL) |
+|----------------|------------|------------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|------------|-----------|-----------|---------------|----------------|-------------------|
+| 5/22 (ED)      | 6.3        | 11.2       | 295        | 134         | 3.1        | 102         | 27           | 31          | 2.5        | 118         | 8.9        | 37        | 42        | 110           | 0.6            | <0.04             |
+| 5/23 (ICU1)    | 5.7        | 9.8        | 220        | 132         | 3.5        | 99          | 29           | 41          | 3.9        | 146         | 8.1        | 41        | 55        | 125           | 0.8            | 0.08              |
+| 5/24 (ICU2)    | 2.6        | 8.7        | 105        | 130         | 3.0        | 98          | 23           | 49          | 4.2        | 121         | 7.2        | 38        | 57        | 113           | 1.1            | 0.21              |
+| 5/25 (ICU3)    | 3.2        | 7.3        | 98         | 133         | 3.4        | 104         | 28           | 42          | 3.6        | 110         | 8.3        | 36        | 45        | 117           | 0.7            | 0.09              |
+| 5/26 (ICU4)    | 4.0        | 8.1        | 135        | 136         | 3.7        | 106         | 26           | 39          | 2.8        | 99          | 8.7        | 35        | 33        | 112           | 0.5            | <0.04             |
+| 5/27 (ICU5)    | 4.9        | 9.2        | 149        | 139         | 4.8        | 108         | 29           | 29          | 2.1        | 101         | 9.0        | 35        | 36        | 109           | 0.6            | <0.04             |
+|                |            |            |            |             |            |             |              |             |            |             |            |           |           |               |                |                   |
+
+*Some values not obtained on all days due to lab draw issues.*
+
+---
+
+# Microbiology  
+- Blood cultures x2: No growth  
+- Urine culture: No growth  
+- Sputum culture: Mixed oral flora  
+- COVID/Flu/RSV PCR: Negative
+
+---
+
+# Imaging  
+- **Admission CXR:** LLL hazy opacity, possible effusion  
+- **CT chest (prior to admission):** 2.1cm LUL mass (NSCLC, bx proven), mild RML atelectasis  
+- **ECHO (ICU2):** LVEF 15%, severe global hypokinesis, mild MR, RV normal, Impella in situ
+
+---
+
+# Procedures  
+- Impella CP placement (ICU2, L femoral approach)  
+- Right IJ central line  
+- Foley catheter  
+- A-line (L radial)
+
+---
+
+# Medications (Current)  
+- Norepinephrine IV  
+- Dobutamine IV (hold for MAP >70)  
+- Furosemide IV  
+- KCl/MgSO4 IV PRN  
+- Pip-tazo IV  
+- Acetaminophen PO/PRN  
+- Oxycodone PO/PRN  
+- Heparin SQ  
+- PPI (pantoprazole IV)
+
+---
+
+# I/O (last 24h)  
+- Intake: 2450 mL (IVF, meds, tube feeds)  
+- Output: 1790 mL (urine 1220, drains 570)  
+- Net: +660 mL
+
+---
+
+# Disposition  
+- Remains in ICU, guarded prognosis.  
+- Goals of care discussed with surrogate, DNR/DNI in place.
+
+---
+
+**Physician:** S. Hwang, MD  
+**Date/Time:** 2024-05-27 16:43
+
+---
+
+# Additional Labs (Selected)  
+
+| Date     | Retic (%) | LDH (U/L) | Haptoglobin (mg/dL) | Ferritin (ng/mL) | B12 (pg/mL) | Folate (ng/mL) | INR | aPTT (s) | Albumin (g/dL) | Prealbumin (mg/dL) |
+|----------|-----------|-----------|---------------------|------------------|-------------|----------------|-----|---------|----------------|--------------------|
+| 5/24     | 2.6       | 232       | 41                  | 315              | 256         | 7.2            | 1.2 | 34      | 2.9            | 11                 |
+| 5/26     | 2.1       | 210       | 45                  | 298              |             |                | 1.1 | 31      | 3.1            | 13                 |
+
+---
+
+# Code Status  
+DNR/DNI (per family, discussed 5/25)
+
+---
+
+# Summary  
+Extremely high-risk elderly patient with decompensated heart failure and multi-organ involvement, requiring temporary mechanical circulatory support. Prognosis guarded, ongoing multi-disciplinary discussions re: goals of care. Remains in ICU on Impella, slow improvement in renal function and hemodynamics.  
+
+---

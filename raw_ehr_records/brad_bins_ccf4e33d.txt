@@ -1,0 +1,187 @@
+```
+Patient Chart – EPIC EHR
+
+PATIENT DEMOGRAPHICS
+--------------------
+Name: Brad Bins
+MRN: 00342198
+DOB: 04/08/2006 (Age: 18)
+Sex: Male
+
+ADMISSION INFORMATION
+---------------------
+Admit Date: 06/18/2024
+Admitting Service: Pediatric Cardiology - ICU
+Attending: Dr. Kyle Jensen, MD
+Reason for Admission: Acute decompensated heart failure, cardiogenic shock
+Hospital Day: 8
+
+ALLERGIES
+---------
+No known drug allergies
+
+CODE STATUS
+-----------
+Full code
+
+HISTORY OF PRESENT ILLNESS
+--------------------------
+Brad Bins is an 18-year-old male with a history of viral myocarditis (remote, s/p hospitalization at age 13), presenting with 4 days of worsening fatigue, exertional dyspnea, orthopnea, and lower extremity edema. PMH notable for low BMI, recurrent viral pharyngitis, and prior episode of acute viral myocarditis (2019). No prior cardiac interventions. No family history of cardiomyopathy.
+
+He presented to the ED with tachycardia, hypotension (BP 82/56), O2 sat 98% RA, and was found to be in acute distress. Initial labs and echo concerning for severe biventricular dysfunction (EF 15%), elevated troponin, and lactic acidosis. Transferred to PICU, started on milrinone, furosemide, and low-dose dopamine. Due to persistent shock and end-organ hypoperfusion, required placement of a temporary left ventricular assist device (Impella CP) on hospital day 2.
+
+COURSE IN HOSPITAL
+------------------
+HD1: Admitted to PICU, started on inotropes, diuresis, and supportive care. 
+HD2: Rapid deterioration, hypotension refractory to medical therapy. Emergent Impella CP (left-sided) placed at bedside. Hemodynamics stabilized.
+HD3-5: Gradual improvement, weaned off dopamine. Still on milrinone, Impella support. Monitored for hemolysis, renal function, infection.
+HD6: Impella weaned and explanted. Echo: EF improved to 30%. Renal and hepatic function improving. 
+HD7: Transitioned to oral heart failure regimen (enalapril, carvedilol, furosemide). Transferred to stepdown unit.
+HD8: Stable, ambulating, tolerating diet. Discharge planning underway.
+
+PAST MEDICAL HISTORY
+--------------------
+- Acute viral myocarditis (2019)
+- Recurrent acute viral pharyngitis
+- Undernutrition (BMI <5th percentile)
+- No prior cardiac surgeries
+
+PAST SURGICAL HISTORY
+---------------------
+- None
+
+SOCIAL HISTORY
+--------------
+- Lives with parents, attends high school
+- No tobacco, alcohol, or drug use
+
+FAMILY HISTORY
+--------------
+- No known cardiac disease
+
+IMMUNIZATIONS
+-------------
+- Up to date
+
+REVIEW OF SYSTEMS (on admission)
+--------------------------------
+- General: Fatigue, malaise
+- CV: Palpitations, dyspnea, orthopnea, edema
+- Pulm: No cough, no hemoptysis
+- GI: Mild nausea, no vomiting or diarrhea
+- GU: Slight decrease in urine output
+- Neuro: No headache, no focal deficits
+- MSK: No myalgias/arthralgias
+
+PHYSICAL EXAM (on admission)
+----------------------------
+- Vitals: T 37.9°C, HR 128, BP 82/56, RR 22, SpO2 98% RA
+- Gen: Thin, appears ill, in mild distress
+- HEENT: Oropharynx clear, no tonsillar exudate
+- CV: Tachycardic, S3 present, no murmurs, JVP 8cm
+- Lungs: Clear, mild bibasilar crackles
+- Abd: Soft, mild RUQ tenderness, no hepatosplenomegaly
+- Ext: 2+ pitting edema to mid-shins, cool extremities
+- Neuro: Alert, oriented x3
+
+LABS & STUDIES
+--------------
+
+CBC / CHEMISTRY TABLE (selected values)
+---------------------------------------
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | AST (U/L) | ALT (U/L) | Troponin I (ng/mL) | BNP (pg/mL) |
+|------------|------------|------------|---------|------------|-------------|------------|-------------|------------|-----------|-----------|--------------------|-------------|
+| 6/18/2024  | 8.7        | 13.5       | 47.6    | 258        | 132         | 4.8        | 31          | 1.2        | 89        | 67        | 2.3                | 4100        |
+| 6/19/2024  | 9.3        | 12.2       | 43.1    | 223        | 129         | 5.3        | 40          | 1.8        | 145       | 120       | 3.1                | 6050        |
+| 6/20/2024  | 10.1       | 11.9       | 41.2    | 190        | 131         | 4.6        | 37          | 1.5        | 112       | 98        | 2.7                | 5100        |
+| 6/22/2024  | 7.8        | 12.8       | 45.0    | 244        | 135         | 4.3        | 25          | 1.0        | 71        | 54        | 1.1                | 3200        |
+| 6/24/2024  | 8.2        | 13.0       | 46.2    | 260        | 137         | 4.1        | 19          | 0.8        | 39        | 35        | <0.1               | 1500        |
+
+(Note: Some intervening labs not drawn or not reported.)
+
+Other Labs:
+- Lactate (peak): 4.9 mmol/L (HD2), normalized to 1.2 mmol/L by HD5
+- Coagulation: INR 1.3 (HD2), 1.0 (HD6)
+- LDH: 610 U/L (HD3), 380 U/L (HD6) (monitored for hemolysis)
+- Haptoglobin: 24 mg/dL (low, HD3), 78 mg/dL (HD6)
+- Direct/Indirect bili: 2.1/1.0 mg/dL (HD3), normalized by HD7
+
+DIAGNOSTICS
+-----------
+- ECG: Sinus tachycardia, low voltages, no acute ischemia
+- Echo (HD1): EF 15%, severe global hypokinesis, mild MR, dilated LV
+- Echo (HD6): EF 30%, improved contractility, trace MR
+- CXR: Mild pulmonary edema, CTR increased
+
+PROCEDURES
+----------
+- Impella CP placement (Left-sided, percutaneous, HD2)
+- Central venous catheter (HD1)
+- Arterial line (HD1)
+- Impella explant (HD6)
+
+MEDICATION ADMINISTRATION RECORD
+-------------------------------
+- Milrinone IV (0.5 mcg/kg/min, HD1-7)
+- Dopamine IV (3-5 mcg/kg/min, HD1-4)
+- Furosemide IV/PO (varied dosing, HD1-8)
+- Enalapril PO (started HD7)
+- Carvedilol PO (started HD7)
+- Ceftriaxone IV (empiric, HD1-3, d/c after negative cultures)
+- Acetaminophen PRN
+
+PROBLEM-BASED ASSESSMENT & PLAN
+-------------------------------
+
+**1. Cardiogenic shock, acute decompensated HF, s/p Impella CP**
+   - Etiology: Likely viral myocarditis with acute decompensation
+   - Impella CP placed HD2 for refractory shock, removed HD6 after EF improved, and end-organ perfusion normalized
+   - Continue guideline-directed medical therapy (GDMT) for HF (enalapril, carvedilol, furosemide)
+   - Monitor for recurrence of low output, arrhythmias, and volume overload
+   - Daily weight, strict I/O, telemetry
+
+**2. Acute kidney injury, resolving**
+   - Multifactorial: low cardiac output, nephrotoxic exposure, hypoperfusion
+   - Cr peaked at 1.8, now 0.8, urine output improving
+   - Continue to monitor renal function, avoid nephrotoxins
+
+**3. Transaminitis, resolving**
+   - Likely ischemic hepatitis secondary to shock
+   - AST/ALT peaked at 145/120, now trending down
+   - Continue to trend LFTs
+
+**4. Hemolysis (device-related, resolved)**
+   - Monitored LDH, haptoglobin, bilirubin
+   - No evidence of ongoing hemolysis after Impella removal
+
+**5. Undernutrition/low BMI**
+   - BMI <1st percentile for age
+   - Nutrition consult, high-calorie diet, multivitamin
+
+**6. Acute viral pharyngitis (remote, not active)**
+   - No current pharyngeal symptoms
+   - Monitor for secondary infection
+
+**7. VTE prophylaxis**
+   - On sequential compression devices, not a candidate for pharmacologic prophylaxis during Impella support due to bleeding risk
+
+**8. Psychosocial support**
+   - Adolescent with new diagnosis of advanced HF
+   - Social work and psychology consults
+
+DISCHARGE PLANNING
+------------------
+- Anticipate discharge HD9-10 if remains stable
+- Outpatient pediatric cardiology follow-up within 1 week
+- Home med teaching for parents
+- Education on heart failure symptoms and when to seek care
+
+SIGNATURES
+----------
+Attending: Kyle Jensen, MD
+Resident: Priya Patel, MD
+Date/Time: 06/25/2024 09:12
+
+--- END OF NOTE ---
+```

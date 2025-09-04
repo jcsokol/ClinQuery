@@ -1,0 +1,155 @@
+```
+---------------------------------------------------------
+Patient Name: Faustino Baumbach         MRN: 00928347
+DOB: 1951-05-24 (Age: 72)               Sex: Male
+Admit Date: 2024-04-19                  Location: MICU
+Attending: Dr. P. Sethi                 Note Date: 2024-04-27
+---------------------------------------------------------
+
+**HISTORY OF PRESENT ILLNESS:**
+Mr. Faustino Baumbach is a 72-year-old male with a history of small cell carcinoma of the lung (recently completed 4 cycles of cisplatin/etoposide), CKD stage IV, anemia of chronic disease, prediabetes, and chronic/recurrent sinusitis, who presented to the ED with worsening dyspnea, orthopnea, PND, and profound fatigue for 1 week. He also endorsed mild chest discomfort, cough productive of scant sputum, and decreased urine output. On arrival, he was tachypneic (RR 29), hypoxic (SpO2 89% RA), and mildly hypotensive (BP 92/54 mmHg). Initial workup showed evidence of acute decompensated heart failure (BNP 1780, CXR with pulmonary edema), AKI on CKD, and evidence of cardiogenic shock. He was transferred to the MICU for management and ultimately required temporary left ventricular assist device (Impella CP) placement for hemodynamic support on hospital day 2. He has since been weaned off vasopressors and is being evaluated for further oncologic and cardiac intervention.
+
+**PAST MEDICAL HISTORY:**
+- Small cell lung carcinoma, stage I (diagnosed 2023), s/p chemotherapy
+- Anemia of chronic disease
+- CKD IV (baseline Cr 2.5-3.0)
+- Prediabetes (A1c 6.1%)
+- Chronic and recurrent sinusitis, hx viral and bacterial episodes
+- Remote fracture, left forearm (2011)
+- Suspected lung cancer (workup 2023)
+- Acute bronchitis (multiple, remote)
+- Acute viral pharyngitis (remote)
+
+**PAST SURGICAL HISTORY:**
+- Port-a-cath (2023)
+- ORIF, left forearm (2011)
+
+**ALLERGIES:**
+- NKDA
+
+**SOCIAL HISTORY:**
+- Tobacco: Former, 40 pack-years, quit 2019
+- Alcohol: Rare
+- Illicit drugs: Denies
+- Lives with spouse, retired engineer
+
+**FAMILY HISTORY:**
+- Father: MI at 61, deceased
+- Mother: Breast ca, hypertension
+
+**MEDICATIONS ON ADMISSION:**
+- Acetaminophen 325mg PO prn
+- Naproxen sodium 220mg PO prn
+- Cisplatin/Etoposide (per protocol, completed 4/2024)
+- Epoetin alfa (last dose 4/10/24)
+
+**VITALS (SELECTED):**
+| Date/Time      | Temp (C) | HR | BP         | RR | SpO2 | Pain |
+|----------------|----------|----|------------|----|------|------|
+| 4/19 06:20     | 37.8     | 112| 91/54      | 29 | 89%  | 4    |
+| 4/20 04:00     | 37.6     | 105| 98/61      | 23 | 93%  | 3    |
+| 4/22 12:00     | 37.9     | 92 | 111/60     | 19 | 96%  | 2    |
+| 4/25 07:40     | 37.4     | 84 | 118/65     | 16 | 97%  | 1    |
+
+**PHYSICAL EXAM:**
+- GEN: Cachectic, NAD, alert/oriented x3
+- HEENT: Pale conjunctiva, mild periorbital swelling, clear oropharynx
+- CV: S1/S2, +S3, JVD 10cm, no murmur/rub/gallop
+- Lungs: Bibasilar crackles, decreased breath sounds RLL
+- Abd: Soft, NT, mild hepatomegaly
+- Ext: 2+ pitting edema B/L, pulses 2+
+- Neuro: AOx3, no focal deficit
+
+---------------------------------------------------------
+LABS (CBC, CHEM7, CARDIAC, LIVER PANELS)
+---------------------------------------------------------
+| Date      | WBC   | Hgb  | Plt  | Na  | K   | Cl  | CO2 | BUN | Cr  | Glu | AST | ALT | Alk Phos | BNP   | Troponin | Alb  |
+|-----------|-------|------|------|-----|-----|-----|-----|-----|-----|-----|-----|-----|----------|-------|----------|------|
+| 4/19 07:00| 5.6   | 12.4 | 216  | 139 | 4.3 | 102 | 21  | 16  | 3.4 | 91  | 35  | 44  | 106      | 1780  | 0.08     | 3.7  |
+| 4/20 04:00| 3.5   | 11.1 | 188  | 137 | 4.7 | 100 | 18  | 24  | 4.1 | 85  | 29  | 39  | 94       | 1300  | 0.07     | 3.4  |
+| 4/21 06:30| 4.9   | 10.3 | 201  | 141 | 4.1 | 104 | 20  | 22  | 3.7 | 93  | 32  | 38  | 99       | 870   | 0.04     | 3.5  |
+| 4/22 12:00| 7.7   | 9.8  | 174  | 142 | 3.9 | 101 | 17  | 30  | 5.0 | 109 | -   | 47  | 103      | 670   | 0.03     | 3.3  |
+| 4/23 05:50| 6.1   | 9.2  | 163  | 138 | 4.5 | 98  | 22  | 20  | 3.2 | 99  | 28  | 36  | 95       | 309   | -        | 3.6  |
+| 4/25 08:15| 4.3   | 10.1 | 202  | 140 | 4.0 | 103 | 21  | 17  | 3.2 | 91  | 34  | 40  | 98       | 148   | 0.02     | 3.8  |
+| 4/26 10:15| -     | 10.5 | 210  | 139 | 4.2 | 102 | 22  | 18  | 3.1 | 94  | 31  | 42  | 97       | 106   | <0.01    | 3.9  |
+
+**URINALYSIS (4/19):**
+- Proteinuria (3+), SG 1.031, pH 6.5, ketones 8.3mg/dL, glucose 1.4mg/dL
+
+**IMAGING:**
+- CXR 4/19: Pulmonary edema, cardiomegaly, RLL infiltrate
+- Echo 4/19: LVEF 18%, global hypokinesis, RV mildly reduced, moderate MR/TR
+- RHC 4/20: CI 1.5, wedge 32mmHg, RAP 18mmHg, SVR 1680
+
+**CARDIOLOGY PROCEDURES:**
+- 4/20: Impella CP placed via right femoral artery for cardiogenic shock
+- 4/24: Impella weaned off, removed 4/25
+
+**MICU COURSE (SUMMARY):**
+- HD1: Admitted w/ ADHF, on O2 2L, IVF held, started on IV furosemide. Worsening hypotension, rising lactate, transferred to MICU.
+- HD2: Developed cardiogenic shock, started on norepi + dobutamine, Impella CP placed, diuresis continued, nephrology consulted.
+- HD3-5: Gradual improvement, weaned off pressors, urine output improved, AKI resolving. Oncology consulted re: SCLC, not candidate for further chemo due to EF.
+- HD6-7: Impella removed, transitioned to oral HF regimen (metoprolol, sacubitril-valsartan, spironolactone, furosemide), close monitoring.
+- HD8: Transferred to stepdown, stable, ambulating.
+
+---------------------------------------------------------
+ASSESSMENT & PLAN (Problem-Based)
+---------------------------------------------------------
+1. **Cardiogenic Shock / Acute Systolic HF (new, on SCLC background)**
+   - Likely multifactorial: chemo-induced CM, underlying CAD, volume overload.
+   - Required temporary LVAD (Impella CP) for 5 days, now off device, HD stable.
+   - Plan: Continue GDMT (metoprolol succinate 12.5mg qd, sacubitril-valsartan 24/26mg BID, spironolactone 12.5mg qd, furosemide 40mg BID), fluid restrict, daily weights, strict I/Os. Cardiac rehab consult. Planned outpatient cardiac MRI.
+
+2. **Small Cell Lung Carcinoma (SCLC)**
+   - Stage I, s/p 4 cycles cisplatin/etoposide, no further chemo planned due to EF.
+   - Oncology: Consider palliative RT, supportive care, palliative care consult.
+
+3. **AKI on CKD IV**
+   - Multifactorial: cardiorenal, hypoperfusion, nephrotoxic exposures (chemo).
+   - Improved with volume optimization, off pressors, Cr trending down.
+   - Plan: Avoid nephrotoxins, renally dose meds, monitor lytes, nephrology f/u.
+
+4. **Anemia of Chronic Disease**
+   - Baseline Hgb 10-12, nadir 9.2 (HD5), improved to 10.5 (HD8).
+   - Plan: Monitor, epoetin held (risk thrombosis), iron studies pending.
+
+5. **Prediabetes**
+   - A1c 6.1%, mild fasting hyperglycemia, no DKA/HHS.
+   - Plan: Monitor, diabetic diet, no insulin/PO agents indicated.
+
+6. **Chronic Sinusitis / Recurrent Infections**
+   - No acute infection this admission. Sinus CT not indicated.
+   - Plan: Supportive care, ENT f/u outpatient.
+
+7. **Remote Fracture (forearm)**
+   - No acute issues.
+
+8. **Pain**
+   - Mild, MSK, managed with acetaminophen prn.
+
+9. **Functional Status / Discharge Planning**
+   - Bedside PT/OT, ambulating with assistance. Social work engaged for home support, spouse present.
+
+10. **Code Status:**
+    - Full code, goals of care discussed, palliative care consult placed.
+
+---------------------------------------------------------
+ORDERS / MED ADMINISTRATION (selected)
+---------------------------------------------------------
+- Metoprolol succinate 12.5mg oral daily
+- Sacubitril-valsartan 24/26mg oral BID
+- Spironolactone 12.5mg oral daily
+- Furosemide 40mg oral BID
+- Acetaminophen 325mg prn
+- Naproxen sodium 220mg prn (hold for AKI)
+- DVT ppx: Enoxaparin 40mg SC daily
+- O2 as needed to keep SpO2 >92%
+- Cardiac monitoring
+- Daily labs (CBC, chem7, LFTs, BNP, troponin)
+
+---------------------------------------------------------
+SIGNATURE: 
+S. Patel, MD / Attending
+EPIC EHR - MICU
+---------------------------------------------------------
+```

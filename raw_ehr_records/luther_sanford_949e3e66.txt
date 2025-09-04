@@ -1,0 +1,166 @@
+**Patient Name:** Sanford, Luther  
+**MRN:** 00594120  
+**Birthdate:** 1968-05-24  
+**Sex:** Male  
+**Admit Date:** 2024-05-12  
+**Attending:** Dr. S. Kessler (Cardiology/ICU)  
+**Service:** Cardiac Intensive Care Unit  
+**Note Date:** 2024-05-16
+
+---
+
+# **ICU Progress Note**
+
+---
+
+## **Chief Complaint:**  
+Worsening dyspnea, orthopnea, and lower extremity edema.
+
+---
+
+## **History of Present Illness:**  
+Mr. Sanford is a 55-year-old male with a history of prediabetes, chronic anemia, allergic rhinitis, and remote right patellar tendon rupture (s/p repair 2019), who presented to the ED with 1 week of progressive SOB, paroxysmal nocturnal dyspnea, and increasing bilateral lower extremity edema. He also reported a dry cough, poor appetite, and fatigue. In the ED, he was found to be tachypneic, tachycardic, hypoxic (SaO2 87% on RA), and hypotensive (BP 88/54). Initial labs revealed acute on chronic anemia and elevated BNP. CXR showed pulmonary edema and cardiomegaly. Echo revealed LVEF 15% with global hypokinesis and moderate MR. He was admitted to the CICU for acute decompensated heart failure with cardiogenic shock.  
+
+On hospital day 2, Mr. Sanford developed worsening shock refractory to medical management (dobutamine, norepinephrine, IV diuresis), with rising lactate and evidence of end-organ hypoperfusion (AKI, rising LFTs). He underwent urgent placement of a percutaneous left ventricular assist device (Impella CP) for hemodynamic support.
+
+---
+
+## **Hospital Course (Summary):**  
+- **HD1:** Admitted CICU, started on dobutamine, IV Lasix, norepinephrine for MAP support.  
+- **HD2:** Worsening shock, rising lactate (5.5), oliguric AKI. Impella CP placed via R femoral artery. Improved hemodynamics.  
+- **HD3:** Gradual improvement in renal function, weaned vasopressors.  
+- **HD4:** Still requiring Impella for inotropic support. Developed fever, started empiric vanc/cefepime for possible line sepsis.  
+- **HD5:** Blood cultures negative, afebrile. Slowly weaning Impella support.  
+- **HD6:** Impella CP removed. Transitioned to oral HF regimen.  
+- **HD7:** Stable, transferred to stepdown.
+
+--- 
+
+## **Physical Exam (HD6):**  
+- **Gen:** Tired-appearing, NAD  
+- **CV:** S3, JVP 10cm, +1 pitting edema BLE, Impella dressing clean/dry  
+- **Resp:** Bibasilar crackles, O2 2L NC, RR 20  
+- **GI:** NT/ND, bowel sounds present  
+- **Neuro:** AOx3, no focal deficit  
+- **Skin:** No rashes, no bleeding
+
+---
+
+## **Laboratory Data:**  
+
+### Table 1. CBC, Chem7, Cardiac Markers, LFTs (selected days)
+
+| Date        | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | AlkPhos | BNP   | Trop  |
+|-------------|------|------|------|------|------|------|------|------|------|------|------|------|------|---------|-------|-------|
+| 5/12/24     | 8.2  | 7.6  | 28.5 | 245  | 140  | 4.2  | 105  | 23   | 18   | 1.23 | 79   | 34   | 29   | 102     | 3250  | 0.06  |
+| 5/13/24     | 9.1  | 7.2  | 27.1 | 233  | 142  | 4.7  | 106  | 21   | 29   | 1.78 | 87   | 77   | 68   | 298     | 5420  | 0.09  |
+| 5/14/24     | 8.7  | 8.0  | 29.4 | 222  | 141  | 4.5  | 104  | 25   | 22   | 1.47 | 93   | 43   | 41   | 158     | 4000  | 0.05  |
+| 5/15/24     | 8.0  | 8.3  | 30.0 | 228  |      | 4.1  |      | 24   | 17   | 1.22 | 88   | 36   | 29   | 111     | 2550  | 0.04  |
+| 5/16/24     | 7.9  | 8.2  | 30.8 | 221  | 140  | 4.0  | 105  | 25   | 15   | 1.08 | 91   | 31   |      | 97      | 1800  | 0.03  |
+
+*Missing values indicate not drawn or sample error.
+
+---
+
+## **Imaging:**  
+- **CXR (5/12):** Pulmonary edema, enlarged cardiac silhouette  
+- **Echo (5/12):** LVEF 15%, mod MR, RV function low-normal, no thrombus  
+- **Repeat Echo (5/15):** LVEF improved to 28% on Impella support
+
+---
+
+## **Procedures:**  
+- **5/13:** Placement of Impella CP via right femoral artery under fluoroscopic guidance  
+- **5/15:** Removal of Impella CP, hemostasis achieved with Angio-Seal  
+- **5/12:** R IJ central line, L radial arterial line
+
+---
+
+## **Current Medications:**  
+- **Dopamine, titrated off 5/15**  
+- **Furosemide IV 40mg q12hr**  
+- **Metoprolol succinate 12.5mg daily (initiated HD5)**  
+- **Lisinopril 2.5mg daily (initiated HD6)**  
+- **Ferrous sulfate 325mg PO BID**  
+- **Acetaminophen 650mg PO q6hr prn**  
+- **Diphenhydramine 25mg PO qhs**  
+- **Naproxen 220mg PO BID** (held during AKI)  
+- **Meperidine 50mg PO q6hr prn** (not given since HD1)
+
+---
+
+## **Assessment & Plan:**
+
+### 1. **Cardiogenic Shock (Acute decompensated HFrEF, likely ischemic)**
+   - s/p Impella CP placement, now explanted  
+   - Off vasopressors, improving organ perfusion  
+   - Continue gentle diuresis, monitor UOP  
+   - Initiate/uptitrate guideline-directed medical therapy (GDMT) as tolerated  
+   - Plan: Add SGLT2i if renal function stable
+
+### 2. **Acute Kidney Injury (pre-renal, now improved)**
+   - Resolved with improved perfusion post-Impella  
+   - Monitor daily labs, adjust meds for renal dosing
+
+### 3. **Chronic Anemia (multifactorial: anemia of CKD, chronic disease, iron deficiency)**
+   - Continue iron supplementation  
+   - Transfused 1 unit PRBC on 5/13  
+   - Monitor H/H, consider GI eval post-discharge
+
+### 4. **Infection Risk (post-Impella, central lines)**
+   - Afebrile, blood cultures negative  
+   - Continue line care, d/c abx after 48hr negative cultures
+
+### 5. **Prediabetes**
+   - Monitor glucose, HgbA1c 6.0%  
+   - Dietary consult, consider metformin if renal function stable
+
+### 6. **Chronic Allergic Rhinitis**
+   - Continue antihistamines as needed
+
+### 7. **Pain/Ortho**
+   - S/p patellar tendon rupture  
+   - No acute ortho issues
+
+### 8. **Acute Bronchitis/Viral Sinusitis**
+   - Cough improved, supportive care  
+   - Monitor for secondary infection
+
+### 9. **Discharge Planning**
+   - Anticipate transfer to telemetry, then home with home health  
+   - Cardiology f/u, cardiac rehab referral  
+   - Education on heart failure, med compliance
+
+---
+
+## **Other:**
+- **Diet:** Cardiac, 2g Na, fluid restrict 1.5L  
+- **Activity:** Out of bed with PT/OT  
+- **Code Status:** Full
+
+---
+
+## **Signatures:**
+- Kessler, S MD (Cardiology)
+- Resident: J. Lin, MD  
+- Nurse: S. Patel, RN  
+
+---
+
+**Additional Labs (selected):**
+
+| Date   | INR | PT  | aPTT | D-dimer | Lactate | Ferritin | TSH  |
+|--------|-----|-----|------|---------|---------|----------|------|
+| 5/12   | 1.1 | 13  | 28   | 1.2     | 3.2     | 98       | 2.1  |
+| 5/13   | 1.2 | 15  | 32   | 2.5     | 5.5     | 110      |      |
+| 5/14   |     |     |      | 1.6     | 2.4     | 95       | 2.4  |
+| 5/15   | 1.0 | 12  | 26   |         | 1.4     | 102      |      |
+
+---
+
+**Allergies:** NKDA  
+**Immunizations:** Up to date per chart
+
+---
+
+**End of Note**

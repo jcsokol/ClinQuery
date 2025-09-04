@@ -1,0 +1,201 @@
+---
+**INPATIENT PROGRESS NOTE**  
+**Patient:** Feil, Ivan  
+**MRN:** 01487213  
+**DOB:** 05/06/1957 (67 years)  
+**Sex:** Male  
+**Date of Service:** 2024-06-22  
+**Attending:** Dr. S. Martens  
+**Admitting Dx:** Cardiogenic shock secondary to acute decompensated heart failure.  
+**Current Location:** CVC-ICU, Bed 5
+
+---
+
+**CHIEF COMPLAINT:**  
+Shortness of breath and chest tightness x 3 days.
+
+---
+
+**HISTORY OF PRESENT ILLNESS:**  
+67-year-old male with history of obesity (BMI 30+), hyperlipidemia, and recent viral respiratory illness (acute bronchitis, viral sinusitis), presenting with progressive shortness of breath, orthopnea, and lower extremity edema. Symptoms worsened over 48 hours with acute chest tightness, diaphoresis, and near-syncope at home. Brought in by EMS, found to be hypotensive (SBP 76 mmHg), tachycardic (HR 122), and hypoxic (SpO2 89% on RA). ECG with new LBBB, troponin mildly elevated. Bedside echo: severely reduced LVEF (~15%), global hypokinesis, moderate MR. Admitted to ICU for management of cardiogenic shock. Rapid escalation of inotropes/vasopressors, IABP placed on day 1; subsequently transitioned to Impella CP on day 2 for ongoing hemodynamic compromise.
+
+---
+
+**PAST MEDICAL HISTORY:**  
+- Obesity (BMI 30+)  
+- Hyperlipidemia  
+- Hypertension  
+- Recent acute bronchitis and viral sinusitis (resolved)  
+- Remote tobacco use (quit 2002)  
+- No known CAD, DM, CKD
+
+**PAST SURGICAL HISTORY:**  
+- Cholecystectomy (2017)  
+- Appendectomy (childhood)  
+
+**ALLERGIES:**  
+No known drug allergies.
+
+**HOME MEDICATIONS:**  
+- Acetaminophen 325mg PO PRN  
+- Atorvastatin 20mg qHS (home, not given inpatient)  
+- Lisinopril 5mg daily (home, held inpatient)  
+
+---
+
+**SOCIAL HISTORY:**  
+Retired accountant. Lives with wife. No current tobacco, EtOH, or illicit drug use.
+
+---
+
+**FAMILY HISTORY:**  
+Father - MI age 72.  
+Mother - stroke age 80.  
+No known inherited cardiac disease.
+
+---
+
+**REVIEW OF SYSTEMS:**  
+Unable to obtain full ROS due to intubation and sedation.
+
+---
+
+**PHYSICAL EXAM:**  
+**Gen:** Sedated, intubated, Impella in place.  
+**VS:** T 36.9°C, HR 98, BP 92/55 (MAP 69), RR 18 (vent), SpO2 97% (FiO2 50%)  
+**HEENT:** Normocephalic, ETT secure  
+**CV:** S1/S2, no murmurs (Impella noise), cool extremities, +1 pitting edema BLE  
+**Lungs:** Decreased breath sounds bases, scattered crackles  
+**Abd:** Soft, nondistended, normoactive  
+**Neuro:** Sedated, moving all extremities to pain  
+**Skin:** Intact, no rashes
+
+---
+
+**HOSPITAL COURSE SUMMARY:**  
+- Day 1: Presentation w/ cardiogenic shock, started norepinephrine, dobutamine. IABP placed.  
+- Day 2: Ongoing shock, rising lactate, transitioned to Impella CP. Intubated for hypoxic respiratory failure.  
+- Day 3: Gradual improvement, weaned off norepinephrine, down-titrating dobutamine.  
+- Day 4: LFTs peaked (congestive hepatopathy), mild AKI.  
+- Day 5: Impella weaned, LVEF improved to 25%.  
+- Day 6: Extubated, transitioned to diuresis, started low-dose beta-blocker.
+
+---
+
+# Problem-Based Assessment & Plan
+
+**1. Cardiogenic Shock / Acute Decompensated Heart Failure**  
+- Etiology: Likely viral myocarditis vs. ischemic insult (troponin 0.33 → 0.25, no obstructive CAD on angio)  
+- Temp. mechanical support: IABP → Impella CP, now weaned off  
+- IV diuresis (furosemide), goal negative fluid balance  
+- TTE: LVEF 15% → 25%, global hypokinesis  
+- Monitoring: Telemetry, daily weights, strict I/O  
+- Plan: Continue GDMT up-titration, consider cardiac MRI as outpatient
+
+**2. Respiratory Failure**  
+- Intubated for hypoxemia day 2  
+- CXR: bibasilar atelectasis, mild pulmonary edema  
+- Extubated day 6, now on 2L O2 nasal cannula  
+- Plan: Pulmonary toilet, incentive spirometry, monitor for re-intubation
+
+**3. Obesity (BMI 30+)**  
+- Nutritional consult  
+- Calorie-restricted, cardiac diet  
+- Encourage early mobilization as tolerated
+
+**4. Acute Kidney Injury (Stage 1, multifactorial: low perfusion, diuretics)**  
+- Peak Cr 1.7 (baseline 1.0), trending down  
+- Monitored lytes, held ACEi  
+- Plan: Renal dosing of meds, avoid nephrotoxins
+
+**5. Transaminitis / Congestive Hepatopathy**  
+- AST/ALT peaked day 4, improved with hemodynamics  
+- Monitor LFTs, supportive care
+
+**6. Recent acute bronchitis and viral sinusitis**  
+- Resolved prior to admission  
+- No current evidence of infection
+
+**7. Pain management**  
+- Acetaminophen PRN  
+- Avoid NSAIDs due to cardiorenal risk
+
+**8. DVT Prophylaxis**  
+- SCDs, SQ heparin 5000u q8h
+
+**9. Hyperlipidemia**  
+- Hold statin for LFTs, restart once normalized
+
+**10. Disposition**  
+- Pending PT/OT eval  
+- Anticipate transfer to cardiac stepdown in 24-48h
+
+---
+
+# LABS
+
+**CBC & CHEMISTRY (Selected - Inconsistent Table Format)**
+
+| Date       | WBC   | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|-------|------|------|------|------|------|------|------|------|------|------|
+| 6/17/24 AM | 4.3   | 12.9 | 35.9 | 243  | 139  | 3.7  | 104  | 25   | 22   | 1.2  | 114  |
+| 6/18/24 AM | 5.1   | 12.1 | 34.7 | 218  | 138  | 3.5  | 101  | 21   | 29   | 1.5  | 143  |
+| 6/19/24 AM | 7.0   | 11.9 | 32.9 | 201  | 137  | 3.3  | 105  | 18   | 32   | 1.7  | 166  |
+| 6/20/24 AM | 6.4   | 12.6 | 35.2 | 210  | 139  | 3.8  | 103  | 23   | 21   | 1.3  | 124  |
+| 6/21/24 AM |       | 13.2 |      | 191  | 140  |      | 102  | 25   | 18   | 1.1  |      |
+| 6/22/24 AM | 5.9   | 12.8 | 34.2 | 233  | 138  | 4.0  | 101  | 26   | 17   | 1.0  | 104  |
+
+**Other Labs**  
+- Troponin I: 0.33 (admit), 0.29 (6/18), 0.25 (6/19), <0.01 (6/22)  
+- BNP: 2880 (admit), 2100 (6/20), 1200 (6/22)  
+- AST: 92 (peak), 47 (6/22)  
+- ALT: 88 (peak), 38 (6/22)  
+- Alk Phos: 130 (peak), 109 (6/22)  
+- TBili: 2.1 (peak), 1.0 (6/22)  
+- Lactate: 3.6 (admit), 1.9 (6/20), 1.2 (6/22)  
+
+---
+
+# VITALS (Selected)
+
+- Day 1: BP 76/50 → 92/55 (on pressors), HR 122 → 98, SpO2 89% → 97% (intubated)
+- Day 3: BP 98/62, HR 90, SpO2 97% (FiO2 40%)
+- Day 6: BP 112/71, HR 78, SpO2 98% (room air)
+
+---
+
+# IMAGING
+
+**Echocardiogram (6/17):**  
+- LVEF 15%, global hypokinesis, mod MR, dilated LV
+
+**Repeat Echo (6/21):**  
+- LVEF 25%, mod MR persists
+
+**CXR (6/17):**  
+- Pulmonary edema, bibasilar atelectasis
+
+---
+
+# CONSULTS
+
+- Cardiology (daily)  
+- Renal (AKI)  
+- Nutrition  
+- PT/OT
+
+---
+
+# DISCHARGE PLANNING
+
+- Anticipate transfer to stepdown in 24-48h  
+- Close outpatient f/u: Cardiology, Heart Failure Clinic  
+- Consider cardiac MRI as outpatient
+
+---
+
+# SIGNED  
+Dr. S. Martens, MD  
+CVC-ICU
+
+---

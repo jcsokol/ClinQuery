@@ -1,0 +1,133 @@
+```
+Patient Name: Phillis Dietrich
+MRN: 00459128
+DOB: 1939-04-03 (Age: 85)
+Sex: Female
+Admit Date: 2024-05-29
+Attending: Dr. S. Kapur
+Service: ICU/Cardiology
+
+----------------------------------------------------
+**HOSPITAL COURSE SUMMARY**
+Ms. Phillis Dietrich is an 85-year-old woman with a history of hypertension, T2DM (with end-organ complications), obesity, metabolic syndrome, and Alzheimer’s disease, who was admitted from home via ED for acute decompensated heart failure (ADHF) with cardiogenic shock requiring temporary left ventricular assist device (Impella CP) placement in the CICU.
+
+**Initial Presentation:**
+- 3 days of progressive SOB, orthopnea, and PND
+- Worsening bilateral LE edema; reduced oral intake
+- Home meds: Amlodipine/HCTZ/Olmesartan, Metformin ER, Naproxen, Galantamine, Acetaminophen
+- PMH: HTN, T2DM, obesity (BMI 30), diabetic retinopathy, neuropathy, OA knees, Alzheimer’s, hypertriglyceridemia, metabolic syndrome, colon polyp
+
+**ED/Admission Vitals:**
+- T: 37.4°C, HR: 115, BP: 82/52, RR: 24, O2: 86% RA (improved to 94% on 4L NC)
+- Wt: 72kg, Ht: 154cm (BMI 30)
+- Exam: Drowsy, rales, JVD, S3, cool extremities, 3+ edema
+
+**Initial Labs:**
+- WBC: 5.2, Hgb: 16.2, Plt: 410
+- Na: 137, K: 3.7, Cr: 1.1 (baseline 0.9), BUN: 27, Glucose: 212
+- AST: 65, ALT: 59, Alk Phos: 94, T bili: 1.2
+- BNP: 2810, Troponin I: 0.09 (uptrending)
+- Lactic acid: 4.1
+- ABG: pH 7.23 / pCO2 32 / pO2 69 / HCO3 15
+
+**Imaging/Echo:**
+- CXR: Bilat pulmonary edema, enlarged cardiac silhouette
+- TTE: LVEF 18%, severe global hypokinesis, dilated LV, moderate MR/TR, RAP 14
+- No LV thrombus
+
+**ICU Course:**
+- Intubated for hypoxia/AMS
+- Dobutamine + norepinephrine started
+- Diuresis with IV furosemide
+- Impella CP placed for persistent shock, low cardiac index (<1.8) despite pressors/inotropes
+- UOP <0.4cc/kg/hr x 12h, AKI developed
+- Weaned off pressors by day 4, Impella explanted day 5
+- Complicated by delirium, mild transaminitis, non-sustained VT
+- Gradual improvement, extubated day 6, transitioned to oral HF regimen
+- Transferred to step-down on day 8
+
+----------------------------------------------------
+**PROBLEM-BASED ASSESSMENT & PLAN**
+
+**1. Cardiogenic Shock / Acute Decompensated Heart Failure (EF 18%)**
+   - Etiology: Likely ischemic, severe LV dysfunction (no acute MI)
+   - Pressors/inotropes: Dobutamine, norepi (d/c’d day 4)
+   - Temporary LVAD (Impella CP) placed, explanted day 5 after hemodynamics stabilized
+   - Diuresis: IV furosemide, net -7L over 7d
+   - Echo: Severe LV dysfunction, mod MR/TR
+   - Plan: GDMT as tolerated (Entresto, MRA, BB uptitrated), fluid restriction, daily weights, cardiac rehab, close outpatient follow-up
+
+**2. AKI on CKD (baseline Cr 0.9, peak 2.1, improved to 1.2)**
+   - Likely multifactorial: hypoperfusion, diuretics
+   - Monitored UOP, renal panel daily
+   - Avoided nephrotoxins, held metformin while Cr >1.5
+   - Plan: Monitor renal function, restart metformin if Cr <1.5, nephrology f/u
+
+**3. T2DM with End-Organ Complications (retinopathy, neuropathy)**
+   - Hyperglycemia on admission (glucose up to 322)
+   - Insulin sliding scale in ICU, transitioned to metformin + basal insulin
+   - A1c on admission: 7.2%
+   - Ophthalmology f/u, foot care, neuropathy meds (gabapentin added)
+
+**4. Hypertension**
+   - Initially hypotensive, now stable (110-120/60-70)
+   - Restarted home antihypertensives (Amlodipine/HCTZ/Olmesartan) at lower dose
+   - Plan: Monitor BP, adjust meds as tolerated
+
+**5. Alzheimer’s Dementia**
+   - Baseline moderate, worsened by ICU delirium (resolved)
+   - Restarted galantamine
+   - Geriatrics consulted; recommend cognitive rehab, home safety eval
+
+**6. Obesity, Metabolic Syndrome, Hypertriglyceridemia**
+   - Dietician consult, cardiac diet
+   - TG on admission: 298, improved to 168
+   - Plan: Continue statin, consider fenofibrate if TG >200
+
+**7. Osteoarthritis (knee)**
+   - Pain controlled with acetaminophen, naproxen for breakthrough (limited due to AKI)
+   - PT/OT consult
+
+**8. Others**
+   - Colon polyp: routine surveillance
+   - No evidence of active infection (sinusitis/bronchitis resolved)
+   - DVT prophylaxis: SCDs, heparin while immobile
+
+----------------------------------------------------
+**LABS**
+
+| Date       | WBC  | Hgb   | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Ca   | AST  | ALT  | BNP  | Trop | Alb | Mg   |
+|------------|------|-------|------|------|------|------|------|------|------|------|------|------|------|------|------|-----|------|
+| 5/29 06:00 | 5.2  | 16.2  | 410  | 137  | 3.7  | 107  | 21   | 27   | 1.1  | 212  | 9.1  | 65   | 59   | 2810 | 0.09 | 2.8 | 1.7  |
+| 5/30 05:45 | 7.9  | 14.9  | 388  | 138  | 3.3  | 105  | 19   | 34   | 1.7  | 322  | 8.8  | 84   | 69   | 2680 | 0.11 | 2.6 | 1.5  |
+| 5/31 06:10 | 9.1  | 13.8  | 355  | 136  | 3.2  | 104  | 20   | 41   | 2.1  | 188  | 8.6  | 97   | 82   |      | 0.07 | 2.8 |      |
+| 6/1 07:00  |      | 13.5  | 332  | 137  | 3.5  |      | 21   | 33   | 1.5  | 144  | 9.0  | 71   | 61   | 1750 | 0.06 |     | 1.9  |
+| 6/2 06:30  | 8.0  | 13.1  | 340  | 139  | 3.8  | 106  | 22   | 24   | 1.2  | 109  | 9.2  | 55   | 43   | 980  |      | 3.1 | 2.0  |
+| 6/3 07:15  | 7.1  | 13.9  | 346  | 138  | 4.1  | 108  | 24   | 18   | 1.0  | 98   |      | 44   | 28   | 540  | 0.04 | 3.2 |      |
+| 6/4 06:40  | 6.4  | 14.1  | 350  | 139  | 4.0  |      | 25   | 17   | 0.9  | 95   | 9.2  |      |      | 360  |      |     | 2.1  |
+| 6/5 07:00  |      | 14.6  | 362  | 138  | 4.0  | 107  | 25   |      | 0.9  | 102  | 9.1  | 38   | 25   | 280  |      | 3.1 |      |
+
+----------------------------------------------------
+**MEDICATIONS**
+- Amlodipine/HCTZ/Olmesartan 5/12.5/20mg po qAM (dose reduced)
+- Furosemide IV 40-80mg q8h x 5d, now PO 40mg BID
+- Metformin ER 500mg qHS (held, then restarted)
+- Insulin glargine 10u qHS, SSI
+- Atorvastatin 40mg qHS
+- Galantamine 4mg BID
+- Acetaminophen 650mg q6h prn pain
+- Heparin 5000u SQ q8h (DVT ppx)
+- Gabapentin 100mg BID (neuropathy)
+- PRN: Naproxen, Sennosides, Ondansetron
+
+----------------------------------------------------
+**DISCHARGE PLAN**
+- Anticipate transfer to skilled nursing facility for rehab
+- Cardiology, nephrology, geriatrics, ophthalmology f/u
+- Strict I/O, daily weights, HF education, med reconciliation
+- Home health RN/PT/OT
+
+----------------------------------------------------
+**PHYSICIAN ATTESTATION**
+This note was prepared by Dr. S. Kapur, Cardiology Fellow, and reviewed with Dr. L. Fitzpatrick, Attending Cardiologist.
+```

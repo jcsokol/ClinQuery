@@ -1,0 +1,177 @@
+**EPIC EHR – ICU Progress Note**  
+**Patient Name:** Sean Glover  
+**MRN:** 004211223  
+**DOB:** 10/27/1921 (Age: 102)  
+**Sex:** M  
+**Date of Admission:** 2024-05-17  
+**Date of Service:** 2024-06-09  
+**Attending:** Dr. K. Patel  
+**Consultants:** Cardiology, Pulm, Hematology, Oncology, Nephrology, Infectious Disease  
+
+---
+
+### **Chief Complaint**
+Progressive dyspnea, syncope, and hypotension.  
+
+---
+
+### **History of Present Illness**
+Mr. Sean Glover is a 102-year-old male with a history of severe COPD/emphysema, paroxysmal atrial fibrillation (on warfarin, digoxin, verapamil), anemia of chronic disease, prostate carcinoma (on leuprolide, prior docetaxel), prediabetes, and remote traumatic brain injury, who presented to the ED from home with 2 days of worsening shortness of breath, orthopnea, and one syncopal episode. He also reported mild sore throat and productive cough. No chest pain. Home SpO2 82% on 2L O2 per wife.
+
+In the ED, he was found to be hypotensive (BP 81/51), tachycardic (HR 144, irregular), hypoxic (SpO2 76% on 4L), and altered. CXR: bilateral infiltrates, cardiomegaly. Troponin I mildly elevated. Echo: severely reduced LVEF (EF 15%), global hypokinesis, LAE, moderate MR, RV mild dysfunction. Admitted to ICU for acute hypoxemic and cardiogenic shock. 
+
+Despite diuresis and noninvasive ventilation, he developed worsening end-organ dysfunction and lactic acidosis. Temporary left ventricular assist device (Impella CP) placed on hospital day 2 for circulatory support. Subsequently extubated and weaned off pressors.  
+
+---
+
+### **Hospital Course (ICU)**
+
+- **Day 1:** Admitted for acute on chronic heart failure decompensation and respiratory failure. Started on BiPAP, IV furosemide, diltiazem drip, broad-spectrum abx (cefepime, azithro), and vasopressors (norepinephrine).  
+- **Day 2:** Deterioration (MAP <60, lactate 4.1 mmol/L, Cr 2.2 mg/dL, oliguria). Impella CP placed at bedside. Warfarin held, started bivalirudin for pump.  
+- **Day 3-5:** Gradual improvement in MAP and urine output. Weaned off norepinephrine. Echo: LV unloading. Developed hematuria, Hgb drop; transfused 1U PRBC.  
+- **Day 6:** Extubated to HFNC. Mental status improved. Pump flows stable.  
+- **Day 7:** Pump weaning trial; tolerated. Impella removed.  
+- **Day 8-10:** Mobilizing with PT. Persistent mild AKI and anemia. No further arrhythmias.  
+
+---
+
+### **Problem List/Assessment & Plan**
+
+#### 1. **Acute on Chronic Systolic Heart Failure with Cardiogenic Shock**
+- Severe LV dysfunction (EF 15%), likely ischemic vs. tachycardia-induced.
+- Required temporary LVAD (Impella) for 5 days, now explanted.
+- Plan: Continue gentle diuresis, up-titrate GDMT as tolerated, daily weights, strict I/Os. Cardio f/u. No further pressors needed.
+
+#### 2. **Atrial Fibrillation (paroxysmal, with RVR)**
+- Home on warfarin, digoxin, verapamil; rate control challenging on admission.
+- Now NSR, HR 82-90.
+- Plan: Restart warfarin when safe (bleeding risk), continue digoxin, hold verapamil for now (hypotension). Monitor for recurrence.
+
+#### 3. **COPD/Emphysema**
+- Severe obstruction (FEV1/FVC 29%). On home Fluticasone/Salmeterol.
+- Acute exacerbation, likely triggered by infection and CHF.
+- Plan: Continue inhalers, wean O2 as tolerated, chest PT, monitor for infection.
+
+#### 4. **Anemia (of chronic disease, acute on chronic)**
+- Hgb nadir 7.8, baseline ~12.6. Transfused 1U PRBC.
+- Plan: Monitor CBC, GI workup deferred (prostate ca hx, hematuria—likely anticoagulation-related), iron studies pending.
+
+#### 5. **Acute Kidney Injury**
+- Baseline Cr ~0.9, peaked at 2.2, now downtrending.
+- Likely multifactorial: low perfusion, diuretics, nephrotoxins.
+- Plan: Renal dose adjust all meds, monitor lytes, Nephro consult.
+
+#### 6. **Prostate Carcinoma (s/p leuprolide, docetaxel)**
+- PSA 7.4, no acute issues.
+- Plan: Continue leuprolide; oncology f/u as outpatient.
+
+#### 7. **Acute Viral Pharyngitis**
+- Mild, improved with supportive care.
+- No evidence of superimposed bacterial infection.
+- Plan: Supportive, no abx needed.
+
+#### 8. **Prediabetes**
+- HbA1c 6.2%. No insulin required.
+- Plan: Monitor glucose, diabetic diet.
+
+#### 9. **Traumatic Brain Injury (remote)**
+- No acute findings.
+- Plan: Neuro checks q4h, fall precautions.
+
+#### 10. **Hospital-Acquired Pneumonia (ruled out)**
+- Initial concern, cultures negative, CXR improved.
+- Plan: Abx stopped day 4.
+
+---
+
+### **Vital Signs (ICU, select days)**
+
+| Date       | Temp (C) | HR (bpm) | BP (mmHg) | RR | SpO2 (%) | O2 Device    |
+|------------|----------|----------|-----------|----|----------|--------------|
+| 5/17/24    | 37.5     | 144      | 81/51     | 28 | 76       | 4L NC        |
+| 5/18/24    | 37.2     | 131      | 89/60     | 25 | 92       | BiPAP        |
+| 5/20/24    | 36.8     | 88       | 112/68    | 20 | 96       | HFNC         |
+| 5/22/24    | 37.0     | 84       | 118/74    | 18 | 96       | RA           |
+
+---
+
+### **Lab Results (CBC, Chem7, Cardiac Markers, Select Others)**
+
+| Date      | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | HCO3 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Troponin I | AST (U/L) | ALT (U/L) | AlkPhos (U/L) | BNP (pg/mL) | PSA (ng/mL) |
+|-----------|------------|------------|------------|-------------|------------|-------------|---------------|-------------|------------|-------------|------------|-----------|-----------|---------------|-------------|-------------|
+| 5/17/24   | 4.2        | 12.7       | 436        | 140         | 4.9        | 106         | 25            | 10          | 0.9        | 84          | 0.14       | 32        | 41        | 117           | 4580        | 7.4         |
+| 5/18/24   | 6.9        | 10.2       | 389        | 141         | 5.2        | 110         | 22            | 23          | 1.7        | 98          | 0.22       | 44        | 46        | 123           | 5010        |             |
+| 5/19/24   | 8.1        | 7.8        | 368        | 139         | 5.7        | 108         | 18            | 32          | 2.2        | 104         | 0.18       | 51        | 61        | 130           | 6120        |             |
+| 5/20/24   | 7.2        | 9.4        | 384        | 138         | 4.2        | 104         | 24            | 19          | 1.4        | 106         | 0.09       | 38        | 34        | 121           | 4490        |             |
+| 5/21/24   | 5.9        | 10.6       | 359        | 137         |            | 105         | 26            | 15          | 1.1        | 101         |            | 29        | 30        | 115           | 3870        |             |
+| 5/22/24   | 5.3        | 11.1       | 341        | 139         | 4.5        | 103         | 28            | 14          | 1.0        | 95          | <0.01      | 25        | 28        | 113           | 3320        |             |
+
+*Missing values indicate not collected or hemolyzed sample.*
+
+---
+
+### **Medications (Active)**
+
+- Fluticasone/Salmeterol 250/50 mcg inhaler: 1 puff BID
+- Warfarin 5 mg PO daily (on hold, to restart)
+- Digoxin 0.125 mg PO daily
+- Verapamil 40 mg PO BID (on hold)
+- Leuprolide 30 mg SQ q3mo
+- PRN albuterol inhaler
+- Furosemide IV 20 mg BID (transitioning to PO)
+- Bivalirudin IV infusion (during Impella)
+- Cefepime, Azithromycin (days 1-4, d/c’d)
+- Acetaminophen PRN
+- Pantoprazole IV
+
+---
+
+### **Imaging**
+
+**CXR (5/17/24):** Bilateral patchy opacities, cardiomegaly, mild pulmonary edema  
+**Echo (5/17/24):** LVEF 15%, global hypokinesis, LAE, moderate MR, RV mild dysfunction  
+**Renal US (5/19/24):** No hydronephrosis  
+**Head CT (5/17/24):** Chronic post-traumatic changes, no acute bleed  
+
+---
+
+### **Procedures**
+
+- **Impella CP placement** (left femoral approach) – ICU day 2  
+- **Right IJ central line**  
+- **Arterial line**  
+- **Foley catheter** (removed day 7)
+
+---
+
+### **Consultations**
+
+- **Cardiology:** For shock, Impella management, arrhythmia
+- **Pulmonary:** For COPD, vent weaning
+- **Nephrology:** AKI post-shock
+- **Hematology/Oncology:** Anemia, prostate ca
+
+---
+
+### **Discharge Planning**
+
+- Anticipate transfer to step-down in 24-48h
+- SNF vs. home with 24h support (PT/OT recs pending)
+- Close outpatient follow-up: Cardiology, Oncology, PCP
+
+---
+
+### **Summary**
+
+102M with CHF, COPD, AFib, prostate ca, AKI, admitted for cardiogenic shock, required temporary LVAD (Impella), now improving, ready for step-down.
+
+---
+
+**Signed:**  
+K. Patel, MD  
+ICU/CCM  
+2024-06-09 10:41
+
+---
+
+**Additional Labs/Notes available in full chart**

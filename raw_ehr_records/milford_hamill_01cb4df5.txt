@@ -1,0 +1,193 @@
+---
+**Patient Name:** Milford Hamill  
+**MRN:** 005783412  
+**DOB:** 10/27/1921 (Age: 102)  
+**Sex:** Male  
+**Attending:** Dr. L. Kessler  
+**Admit Date:** 03/02/2024  
+**Service:** Cardiology ICU  
+**Location:** 6E-ICU, Room 12  
+**Reason for Admission:** Acute decompensated heart failure with cardiogenic shock
+
+---
+
+### Admission H&P
+
+**History of Present Illness:**  
+Mr. Milford Hamill is a 102-year-old male with a complex cardiovascular history including chronic systolic heart failure (EF ~38%), persistent atrial fibrillation, longstanding diabetes, and metabolic syndrome. He presented to the ED with 1 week of progressive dyspnea, orthopnea, increasing lower extremity edema, and confusion. On arrival, he was hypotensive (BP 82/54), tachycardic (HR 112, irregularly irregular), and had evidence of poor perfusion (cool extremities, altered mentation). Initial labs revealed worsening renal function and elevated NT-proBNP. He was admitted to the ICU for management of cardiogenic shock.
+
+**Past Medical History:**
+- CHF with reduced EF (last echo EF 37.9%)
+- Persistent atrial fibrillation (on warfarin)
+- Diabetes mellitus (on metformin)
+- Prediabetes, hyperglycemia, metabolic syndrome
+- Hypertriglyceridemia
+- Anemia of chronic disease
+- Recurrent colon polyps (last polypectomy 2022)
+- Prior concussion (no LOC)
+- Hx of GI bleed (remote)
+- CKD Stage 3
+
+**Past Surgical History:**
+- Colonoscopy with polypectomy (multiple)
+- Cataract extraction (2019)
+
+**Medications on Admission:**
+- Sertraline 100mg daily
+- Metformin ER 500mg qAM
+- Warfarin 5mg daily
+- Verapamil 40mg BID
+- Digoxin 0.125mg daily
+- Metoprolol succinate 100mg daily
+- Furosemide 40mg IV BID
+- Furosemide 10mg/ml prn IV
+
+**Allergies:** NKDA
+
+**Social History:**
+- Lives alone, son visits daily
+- Retired, previously worked in accounting
+- Denies tobacco, rare ETOH
+
+**Family History:**
+- Father: MI age 72
+- Mother: T2DM
+
+**Review of Systems:**  
+Unable to obtain full ROS due to acute confusion on presentation.
+
+---
+
+### Hospital Course (ICU Day 1–10)
+
+**Day 1–2:**  
+Admitted to ICU for acute decompensated CHF and cardiogenic shock. Started on IV furosemide, dobutamine drip, and vasopressors (norepinephrine). Persistent hypotension and oliguric renal failure. Echo showed severely reduced LV function, dilated LA, moderate MR, RV function preserved.
+
+**Day 3:**  
+Developed worsening lactic acidosis, MAP <60 despite max support. Cardiac index 1.5 L/min/m2. Decision made for placement of percutaneous left ventricular assist device (Impella CP) for mechanical circulatory support. Device placed without complication.
+
+**Day 4–7:**  
+Hemodynamics improved post-Impella. Weaned off vasopressors by day 5. Diuresis intensified. Mental status improved to baseline. Monitored for hemolysis, anticoagulation with heparin titrated. GI prophylaxis started.  
+
+**Day 8:**  
+Attempted wean of Impella support. MAP stable, CI 2.3, no recurrence of shock. Device removed on day 9.
+
+**Day 9–10:**  
+Patient remained hemodynamically stable. Transitioned to oral HF regimen. Renal function slowly improved, though still above baseline Cr. Transferred out of ICU to telemetry floor on day 10.
+
+---
+
+### Problem List & Assessment/Plan
+
+#### 1. Acute on Chronic Systolic Heart Failure (EF 37.9%) with Cardiogenic Shock
+- Required temporary LV assist device (Impella) for refractory low output state
+- Now off device, stable on oral therapy
+- Continue guideline-directed medical therapy (GDMT): beta-blocker, ACE-I (consider initiation), spironolactone (if K+ allows)
+- Daily weights, strict I/O, low sodium diet
+
+#### 2. Atrial Fibrillation
+- Rate control with metoprolol/low-dose digoxin
+- Anticoagulation with warfarin (INR goal 2–3)
+- Monitor for bleeding
+
+#### 3. Diabetes Mellitus/Metabolic Syndrome
+- Restart metformin once renal function improves (hold for now, eGFR <30)
+- Monitor glucose, sliding scale insulin as needed
+- Endocrine consult for glycemic management
+
+#### 4. Chronic Kidney Disease, Acute on Chronic Renal Failure
+- Renal function worsened with shock, slowly improving post-Impella
+- Avoid nephrotoxins, adjust meds for GFR
+- Monitor daily labs, consider nephrology if no improvement
+
+#### 5. Anemia of Chronic Disease
+- Hgb nadir 8.9, stable, likely multifactorial (CKD, CHF)
+- Monitor, transfuse if <8 or symptomatic
+
+#### 6. Hypertriglyceridemia/Dyslipidemia
+- On statin, continue
+- Monitor lipids on stabilization
+
+#### 7. Recurrent Colon Polyps
+- Not acutely relevant. Colonoscopy due 2025.
+
+#### 8. Delirium/Confusion
+- Improved with treatment of shock
+- Monitor for recurrence
+
+#### 9. Risk of Bleeding (GI, Anticoagulation)
+- On warfarin, monitor INR
+- GI prophylaxis in place
+
+---
+
+### ICU Events
+
+- **Impella CP placed Day 3 for cardiogenic shock**  
+- **Weaned off vasopressors Day 5**  
+- **No arrhythmias or device complications**  
+- **No major bleeding, one episode of mild epistaxis—resolved**  
+- **No evidence of hemolysis (LDH stable, plasma free Hgb WNL)**
+
+---
+
+### Labs
+
+| Date        | WBC   | Hgb  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Ca   | eGFR | AST  | ALT  | AlkPhos | T.Bili | NT-proBNP |
+|-------------|-------|------|-------|------|------|------|------|------|------|------|------|------|------|------|---------|--------|-----------|
+| 3/2/24      | 7.8   | 12.4 | 415   | 136  | 4.3  | 105  | 27   | 12   | 0.99 | 90   | 10.0 | 77   | 29.4 | 23.4 | 137     | 0.24   | 1885      |
+| 3/3/24      | 8.6   | 11.2 | 398   | 134  | 4.8  | 108  | 23   | 19   | 1.22 | 98   | 9.7  | 54   | 34.0 | 21.1 | 141     | 0.31   | 2200      |
+| 3/4/24      | 9.8   | 10.1 | 371   | 131  | 5.1  | 108  | 19   | 31   | 1.54 | 112  | 9.4  | 42   | 36.1 | 28.3 | 144     | 0.29   | 3140      |
+| 3/5/24      | 9.3   | 9.8  | 367   | 132  | 4.6  | 106  | 21   | 28   | 1.48 | 109  | 9.6  | 45   | 32.7 | 22.9 | 133     | 0.27   | 2800      |
+| 3/6/24      | 8.7   | 9.3  | 355   | 135  | 4.2  | 104  | 24   | 22   | 1.16 | 101  | 9.8  | 62   | 30.1 | 20.8 | 130     | 0.23   | 2100      |
+| 3/7/24      | 7.1   | 8.9  | 341   | 137  | 4.1  | 106  | 26   | 18   | 1.09 | 99   | 10.1 | 68   | 28.2 | 19.9 | 126     | 0.19   | 1600      |
+| 3/8/24      | 7.5   | 9.2  | 356   | 138  | 4.0  | 107  | 27   | 16   | 1.07 | 101  | 10.0 | 70   | —    | —    | —       | —      | 1400      |
+| 3/9/24      | —     | 9.5  | 362   | 139  | 4.4  | 108  | 28   | 15   | 1.02 | 99   | 10.3 | 75   | 27.8 | 18.7 | 129     | 0.18   | 1200      |
+| 3/10/24     | 6.9   | 10.1 | 372   | 140  | 4.5  | 107  | 28   | 13   | 1.01 | 97   | 10.1 | 76   | 29.1 | 20.2 | 133     | 0.16   | 1100      |
+
+*— = not collected*
+
+**Other labs:**  
+- INR: fluctuated 1.8–2.7 (goal 2–3)
+- LDH, haptoglobin: within normal limits throughout
+- Troponin I: <0.01 ng/mL x3 (no evidence of acute MI)
+- UA: bland, no casts
+
+---
+
+### Imaging
+
+- **ECHO 3/3/24:** LVEF 34%, severe global hypokinesis, dilated LA, mild MR, RV normal, IVC plethoric
+- **CXR 3/2/24:** Pulmonary vascular congestion, mild pleural effusions, enlarged cardiac silhouette
+- **Head CT 3/2/24:** No acute findings (baseline atrophy)
+
+---
+
+### Vitals (selected)
+
+| Date/Time         | BP    | HR   | RR  | Temp | SpO2 | Comments                   |
+|-------------------|-------|------|-----|------|------|----------------------------|
+| 3/2/24 07:00      | 82/54 | 112  | 22  | 36.5 | 91%  | Hypotensive, on O2         |
+| 3/3/24 12:00      | 88/60 | 109  | 20  | 36.7 | 93%  | On norepinephrine          |
+| 3/4/24 08:00      | 94/62 | 105  | 18  | 36.6 | 96%  | Impella placed             |
+| 3/6/24 20:00      | 108/68| 88   | 16  | 36.8 | 97%  | Weaning vasoactives        |
+| 3/8/24 10:00      | 122/74| 73   | 16  | 36.7 | 97%  | Off Impella, stable        |
+| 3/10/24 08:00     | 126/70| 68   | 15  | 36.6 | 98%  | On oral HF regimen         |
+
+---
+
+### Discharge Plan
+
+- Transitioned to telemetry floor, anticipate discharge to SNF for rehab
+- Cardiology, nephrology, and endocrinology follow-up
+- Continue GDMT, monitor for recurrent HF, monitor INR
+- Outpatient labs in 1 week
+
+---
+
+**Signed:**  
+Dr. L. Kessler, MD  
+Cardiology ICU  
+03/10/2024 13:17
+
+---

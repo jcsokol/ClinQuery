@@ -1,0 +1,157 @@
+---
+**EPIC EHR - Inpatient Encounter**
+
+**Patient Name:** Predovic, Gigi  
+**MRN:** 00283947  
+**DOB:** 04/03/1939 (85 years)  
+**Sex:** Female  
+**Admission Date:** 2024-05-18  
+**Attending:** Dr. Samuelson, Cardiology  
+**Location:** Cardiac ICU, Room 4B-22  
+**Code Status:** Full  
+**Allergies:** NKDA  
+
+---
+
+### **Chief Complaint**
+Worsening shortness of breath, orthopnea, and lower extremity edema.
+
+---
+
+### **HPI**
+Gigi Predovic is an 85-year-old female with a significant history of chronic congestive heart failure (CHF) with reduced ejection fraction (EF last 38.9%), prediabetes, hyperlipidemia, osteoporosis, anemia, and recent acute bronchitis. She presented to the ED with 4 days of progressively worsening dyspnea, orthopnea, and bilateral leg swelling. She reports decreased oral intake, mild cough, and some confusion per family. No chest pain or fevers. She was on baseline meds including lasix, metoprolol, simvastatin, and alendronate.
+
+On arrival, she was tachypneic, hypoxic (O2 sat 87% RA), and hypotensive (SBP 82 mmHg). Labs notable for acute kidney injury, rising NT-proBNP, and troponin leak. CXR: pulmonary edema. Echo: worsening biventricular function, new EF 28%. She was transferred to CICU and required escalating vasopressor and inotropic support. Due to refractory cardiogenic shock, a temporary percutaneous LVAD (Impella CP) was placed on hospital day 2. She subsequently developed transient AKI (Cr max 2.1), mild LFT elevation, and required close diuresis and hemodynamic monitoring.
+
+---
+
+### **Hospital Course**
+- **Day 1:** Admitted CICU. IV furosemide, dobutamine started. Hypotension requiring norepinephrine. Worsening lactate, rising creatinine.
+- **Day 2:** Impella CP placed for cardiogenic shock. Hemodynamics stabilized. Weaned off norepinephrine.
+- **Day 3-4:** Gradual improvement in urine output, decreasing NT-proBNP. Diuresis continued. AKI improved.
+- **Day 5-6:** Impella weaned and removed. Transitioned to oral HF regimen. Mild delirium, improved with reorientation and sleep hygiene.
+- **Day 7:** Steady improvement. Mobilizing with PT. Discharge planning initiated.
+
+---
+
+### **Current Medications**
+- Lasix 40 mg IV BID (now PO)
+- Metoprolol succinate 100 mg PO daily
+- Simvastatin 10 mg PO daily
+- Alendronic acid 10 mg PO daily
+- Vitamin B12 5 mg/mL IM monthly
+- Acetaminophen 325 mg PO PRN
+- Ibuprofen 200 mg PO PRN
+- Furosemide 10 mg/mL IV PRN (held)
+- Sliding scale insulin (for stress hyperglycemia)
+
+---
+
+### **Vital Signs (selected)**
+| Date         | Temp (°C) | HR   | BP          | RR  | O2 Sat | Wt (kg) | Pain |
+|--------------|-----------|------|-------------|-----|--------|---------|------|
+| 5/18 08:00   | 36.7      | 111  | 82/48       | 24  | 87% RA | 85.6    | 0    |
+| 5/19 06:00   | 37.1      | 98   | 98/59       | 21  | 92% 2L | 85.0    | 0    |
+| 5/20 07:00   | 36.9      | 90   | 108/61      | 18  | 95% RA | 83.3    | 1    |
+| 5/22 08:00   | 36.8      | 83   | 116/68      | 16  | 97% RA | 81.8    | 0    |
+
+---
+
+### **Laboratory Data**
+
+#### **CBC, CHEM7, and Selected Labs**
+
+| Date      | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Ca   | Alb  | AST  | ALT  | Alk Phos | NT-proBNP | Troponin |
+|-----------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|----------|-----------|----------|
+| 5/18 AM   | 6.4  | 12.5 | 40.3 | 341  | 138  | 3.9  | 105  | 21   | 18   | 0.76 | 90   | 9.1  | 4.9  | 23   | 26   | 52       | 1901      | 0.07     |
+| 5/19 AM   | 7.2  | 11.0 | 35.2 | 325  | 136  | 4.2  | 102  | 19   | 32   | 1.82 | 102  | 8.6  | 4.7  | 28   | 33   | 98       | 2450      | 0.21     |
+| 5/20 AM   | 6.8  | 11.8 | 37.1 | 311  | 137  | 4.0  | 103  | 22   | 25   | 1.41 | 97   | 8.9  | 4.8  | 25   | 29   | 67       | 1687      | 0.09     |
+| 5/21 AM   | 7.0  | 12.3 | 39.4 | 350  | 139  | 4.1  | 104  | 23   | 19   | 1.01 | 95   | 9.2  | 5.1  | 22   | 27   | 54       | 1230      | 0.03     |
+| 5/22 AM   | 6.1  | 12.7 | 41.2 | 362  | 140  | 4.0  | 106  | 24   | 17   | 0.89 | 91   | 9.4  | 5.3  | 21   | 25   | 51       | 980       | <0.01    |
+| 5/23 AM   |      | 12.9 |      | 355  |      |      | 105  | 25   | 15   | 0.82 |      |      | 5.2  |      | 24   | 50       | 800       | <0.01    |
+
+*Some entries missing due to lab draw timing/hemolysis.*
+
+---
+
+### **Imaging**
+- **CXR 5/18:** Diffuse pulmonary edema, mild cardiomegaly, small bilateral pleural effusions.
+- **Echo 5/18:** LVEF 28% (prior 39%), global hypokinesis, moderate MR, RV function mildly reduced.
+- **Renal US 5/19:** No obstruction. Increased echogenicity.
+- **Head CT 5/20:** No acute infarct or hemorrhage.
+
+---
+
+### **Procedures**
+- **Impella CP placement** (5/19): Left femoral access, no immediate complications.
+- **Right heart cath:** RA 14, RV 42/9, PA 45/24 (mean 30), PCWP 27, CI 1.7, SVR 2100.
+
+---
+
+### **Problem-based Assessment and Plan**
+
+#### 1. **Cardiogenic Shock secondary to acute decompensated heart failure**
+   - Required Impella CP for hemodynamic support (HD 2-6)
+   - Now off pressors/inotropes, hemodynamically stable
+   - Continue goal-directed medical therapy (GDMT): Lasix, BB, statin, ACEi (if tolerated)
+   - Daily weights, strict I/Os, monitor for recurrent low output
+   - Cardiac rehab consult
+
+#### 2. **Chronic Congestive Heart Failure with reduced EF**
+   - Up-titrate GDMT as tolerated
+   - Monitor for arrhythmias, electrolyte disturbances
+   - Serial NT-proBNP, echo pre-discharge
+
+#### 3. **Acute Kidney Injury (resolving)**
+   - Likely multifactorial: low flow, diuretics
+   - Cr peaked at 1.82, improving
+   - Renal dosing of meds, trend labs
+   - Avoid nephrotoxins
+
+#### 4. **Anemia (chronic, mild)**
+   - Hgb stable ~12 g/dL
+   - Monitor, no transfusion needed unless drop
+
+#### 5. **Hyperlipidemia**
+   - Continue simvastatin
+   - Review lipid panel pre-discharge
+
+#### 6. **Prediabetes**
+   - Stress hyperglycemia (glucose up to 102)
+   - Sliding scale insulin PRN
+   - Endocrine f/u outpatient
+
+#### 7. **Osteoporosis**
+   - Continue alendronic acid
+   - Fall precautions
+
+#### 8. **History of colon polyp**
+   - Last colonoscopy 2023, 3 mm polyp, benign
+   - Routine follow-up
+
+#### 9. **Acute bronchitis/sinusitis**
+   - Resolved, no antibiotics indicated
+   - Monitor for secondary infection
+
+#### 10. **Delirium (transient)**
+   - Improved, likely metabolic/ICU related
+   - Non-pharm measures
+
+#### 11. **Pain**
+   - Minimal, controlled with acetaminophen PRN
+
+---
+
+### **Discharge Planning**
+- Target discharge to SNF or home with services, pending PT/OT eval
+- Close f/u with heart failure clinic, primary care, cardiology, nephrology
+
+---
+
+### **Physician Attestation**
+Signed electronically by Samuelson, MD, Cardiology  
+Date/Time: 2024-05-23 16:14
+
+---
+
+**END OF NOTE**

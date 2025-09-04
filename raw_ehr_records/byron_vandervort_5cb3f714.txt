@@ -1,0 +1,186 @@
+---
+**Patient Name:** Byron Vandervort  
+**MRN:** 00678239  
+**DOB:** 1991-02-02 (Age: 33)  
+**Sex:** M  
+**Admit Date:** 2024-05-19  
+**Attending:** Dr. S. Patel  
+**Location:** MICU, Room 18  
+
+---
+
+# ICU ADMISSION NOTE
+
+**HPI:**  
+33-year-old male with prediabetes, history of anemia, chronic joint injuries, and recent viral illnesses, presenting to ED with acute onset of severe dyspnea, orthopnea, and chest pain. Symptoms began 2 hours after strenuous activity. Found hypoxic, tachycardic, and hypotensive in ED. EKG with diffuse ST changes, troponin 3.2 (ref <0.04), bedside echo with severely reduced LVEF (~10-15%), global hypokinesis. Rapid decompensation with cardiogenic shock, requiring intubation and vasopressors. Emergent left femoral arterial access for Impella CP placement for temporary LV support. Transferred to MICU for further management.
+
+**Past Medical History:**  
+- Prediabetes  
+- Chronic anemia  
+- MCL injury (L knee)  
+- Recurrent viral pharyngitis  
+- Hx of foot laceration, wrist sprain  
+- No known CAD, no prior MI
+
+**Past Surgical History:**  
+- None
+
+**Medications Prior to Admission:**  
+- Acetaminophen 325 mg PO PRN  
+- Naproxen sodium 220 mg PO PRN  
+- Meperidine 50 mg PO PRN
+
+**Allergies:**  
+- NKDA
+
+**Social History:**  
+- Never smoker  
+- Occasional alcohol  
+- No recreational drugs  
+- Works as software engineer
+
+**Family History:**  
+- Father with HTN, mother with T2DM
+
+---
+
+# ICU PROBLEM-BASED ASSESSMENT & PLAN
+
+## 1. Cardiogenic Shock s/p Acute Fulminant Myocarditis  
+- **Assessment:**  Acute decompensated heart failure, likely viral myocarditis (recent URI sxs, no CAD risk factors). Profoundly reduced LVEF, shock state, multi-organ dysfunction.  
+- **Plan:**  
+  - Impella CP in situ for LV support  
+  - Titrate norepinephrine, wean as tolerated  
+  - Daily bedside echo  
+  - Serial troponins, BNP  
+  - Limit fluids, monitor volume status  
+  - Strict I/O, daily weights  
+  - Cardiology, CT surgery consults  
+  - Consider IVIG/steroids if viral myocarditis confirmed  
+  - Anticoagulation per Impella protocol  
+  - Monitor for device complications (hemolysis, limb ischemia, infection)
+
+## 2. Acute Respiratory Failure, Intubated  
+- **Assessment:**  Hypoxemic respiratory failure secondary to pulmonary edema from LV failure.  
+- **Plan:**  
+  - Volume-controlled ventilation, ARDSnet protocol  
+  - Wean FiO2 as tolerated  
+  - Daily CXR  
+  - ABGs q12h  
+  - Sedation: propofol + fentanyl  
+  - Spontaneous awakening/breathing trials daily
+
+## 3. Acute Kidney Injury (AKI), likely cardiorenal  
+- **Assessment:**  Rising creatinine, oliguria; likely secondary to hypoperfusion.  
+- **Plan:**  
+  - Monitor UOP q1h  
+  - Renal panel daily  
+  - Nephro consult  
+  - Avoid nephrotoxins  
+  - Hold ACEi/NSAIDs  
+  - CRRT if refractory
+
+## 4. Anemia  
+- **Assessment:**  Chronic anemia, worsened acutely (Hgb dropped from 11 to 8.2 on day 2), likely hemodilution + hemolysis from Impella.  
+- **Plan:**  
+  - Transfuse PRBCs for Hgb <7.5  
+  - Monitor LDH, haptoglobin, retic  
+  - Iron studies, B12, folate  
+  - Daily CBC
+
+## 5. Prediabetes  
+- **Assessment:**  Mildly elevated A1c, stress hyperglycemia.  
+- **Plan:**  
+  - q6h FSBS  
+  - Insulin sliding scale  
+  - Discontinue metformin (AKI)
+
+## 6. Pain, Foot Laceration, Chronic Joint Pain  
+- **Assessment:**  On admission, left foot laceration, mild swelling. Chronic knee/wrist pain.  
+- **Plan:**  
+  - Local wound care, abx ointment  
+  - Ortho consult for L knee  
+  - Acetaminophen PRN  
+  - Avoid NSAIDs (AKI)  
+  - Physical therapy when stable
+
+## 7. Infection Risk / Viral Pharyngitis  
+- **Assessment:**  No current fever, but recent URI sxs. Immunosuppressed from shock.  
+- **Plan:**  
+  - Blood/resp cultures on admission  
+  - Empiric vanc/cefepime  
+  - De-escalate if cultures negative  
+  - Monitor procalcitonin
+
+## 8. DVT Prophylaxis  
+- **Plan:**  
+  - SCDs  
+  - Heparin SQ (unless contraindicated by Impella protocol)
+
+## 9. Nutrition  
+- **Plan:**  
+  - NPO, TPN if NPO >5d  
+  - Enteral feeds when extubated
+
+## 10. Disposition  
+- Remain in MICU  
+- Prognosis guarded, needs multi-disciplinary care
+
+---
+
+# ICU FLOW SHEET (SELECTED DATA)
+
+| Date       | Time   | Temp (°C) | HR  | BP         | RR | SpO2 | FiO2 | GCS | UOP (mL) | WBC   | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | BNP   |
+|------------|--------|-----------|-----|------------|----|------|------|-----|----------|-------|------|------|-------|------|------|------|------|------|------|------|----------|-------|
+| 5/19/24    | 17:20  | 37.9      | 132 | 86/56      | 34 | 91   | 100% | 3T  | 120      | 3.7   | 11.0 | 34.9 | 309   | 142  | 5.1  | 110  | 26   | 18   | 1.48 | 88   | 3.2      | 7600  |
+| 5/20/24    | 06:30  | 38.1      | 110 | 98/63      | 18 | 96   | 60%  | 7   | 900      | 5.9   | 8.2  | 25.2 | 203   | 145  | 5.8  | 112  | 23   | 33   | 2.12 | 156  | 2.5      | 8900  |
+| 5/20/24    | 18:00  | 37.3      | 102 | 104/68     | 16 | 98   | 40%  | 9   | 1100     | 6.1   | 8.8  | 27.4 | 221   | 143  | 5.4  | 108  | 25   | 27   | 1.80 | 137  | 1.8      | 8000  |
+| 5/21/24    | 08:00  | 36.9      | 98  | 110/72     | 15 | 99   | 35%  | 12  | 1900     | 4.2   | 9.5  | 29.8 | 241   | 140  | 4.9  | 107  | 26   | 22   | 1.36 | 124  | 1.2      | 6700  |
+| 5/22/24    | 08:00  | 37.1      | 88  | 118/77     | 18 | 100  | 30%  | 15  | 2100     | 3.8   | 10.2 | 32.1 | 263   | 138  | 4.5  | 106  | 27   | 16   | 1.12 | 112  | 0.7      | 5100  |
+| 5/23/24    | 08:00  | 36.7      | 78  | 124/82     | 16 | 100  | 21%  | 15  | 2300     | 3.4   | 10.8 | 33.8 | 274   | 137  | 4.3  | 104  | 28   | 14   | 1.00 | 106  | 0.3      | 4200  |
+| 5/24/24    | 08:00  | 36.6      | 74  | 128/84     | 14 | 100  | 21%  | 15  | 2500     | --    | 11.1 | 34.6 | 288   | 137  | --   | --   | 28   | 13   | 0.91 | 98   | --       | --    |
+
+*Note: Some labs missing/not collected on certain days due to clinical stability.*
+
+---
+
+# MICROBIOLOGY
+
+- Blood cultures x2: No growth (5/19, 5/20)
+- Respiratory viral PCR: Positive for Coxsackie B
+- Sputum Cx: No growth
+
+---
+
+# IMAGING
+
+**CXR (5/19):** Bilateral pulmonary edema, cardiomegaly  
+**CXR (5/21):** Improved vascular congestion  
+**Echo (5/19):** LVEF 12%, global hypokinesis, no significant valvular dz  
+**Echo (5/23):** LVEF improved to 34%, Impella in proper position
+
+---
+
+# HOSPITAL COURSE SUMMARY
+
+- Day 0: Admission, Impella placed, intubated, shock state
+- Day 1: AKI, worsening anemia, high pressor needs
+- Day 2: Some hemodynamic improvement, weaning vasopressors
+- Day 3-4: Renal function improving, extubated on 5/22
+- Day 5: Impella weaned successfully, LVEF improved, transitioned to step-down
+
+---
+
+# DISCHARGE PLANNING
+
+- Close f/u with HF, cardiology, nephrology, PT/OT
+- Continue cardiac rehab
+- Home with family support
+
+---
+
+# SIGNED  
+S. Patel, MD  
+MICU Attending
+
+---

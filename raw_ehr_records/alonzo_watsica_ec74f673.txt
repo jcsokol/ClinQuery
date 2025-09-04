@@ -1,0 +1,193 @@
+```
+----------------------------------------------------------------------
+Patient Name: Alonzo Watsica
+MRN: 00923841
+DOB: 1992-06-08
+Sex: Male
+Admit Date: 2024-04-18
+Attending: Dr. J. Kessler
+CC: Worsening dyspnea, chest pain, hypotension
+----------------------------------------------------------------------
+
+HOSPITAL COURSE SUMMARY:
+Mr. Watsica is a 31-year-old male with a history of hypertension, complicated antihypertensive regimen, and recent laceration of hand (s/p repair), who presented with 2 days of worsening dyspnea, orthopnea, and intermittent chest discomfort. He was found to be hypotensive (SBP 78 on arrival) and tachycardic, with evidence of hypoperfusion (cool extremities, altered mentation). Initial labs and imaging revealed acute decompensated heart failure with reduced ejection fraction (LVEF 18%), lactic acidosis, and acute kidney injury. He rapidly deteriorated with cardiogenic shock requiring admission to the CICU. He was started on inotropes and vasopressors, but remained refractory, ultimately requiring placement of a temporary left-sided ventricular assist device (Impella CP) for hemodynamic stabilization.
+
+Key hospital events included: 
+- Multiorgan dysfunction (renal, hepatic)
+- Persistent hypotension despite maximal medical therapy
+- Impella CP support for 6 days, followed by gradual weaning
+- Complicated by transient atrial fibrillation, managed with amiodarone
+- Secondary hospital-acquired pneumonia (treated with vancomycin/piperacillin-tazobactam)
+- Gradual recovery of cardiac, renal and liver function
+- Discharged home on day 16 with close HF follow-up
+
+----------------------------------------------------------------------
+
+PAST MEDICAL HISTORY:
+- Hypertension (poorly controlled)
+- Viral sinusitis (remote, resolved)
+- Recent laceration of hand (healed, s/p repair)
+- No known CAD, DM, or prior MI
+
+PAST SURGICAL HISTORY:
+- None
+
+ALLERGIES:
+- NKDA
+
+HOME MEDICATIONS:
+- Hydrochlorothiazide 25 mg qd
+- Atenolol 50 mg/chlorthalidone 25 mg qd
+- Amlodipine 5 mg/hydrochlorothiazide 12.5 mg/olmesartan medoxomil 20 mg qd
+- Ibuprofen 200 mg prn
+- Amoxicillin/clavulanate 250/125 mg bid (recent, for sinusitis)
+
+SOCIAL HISTORY:
+- Non-smoker, no EtOH, no recreational drugs
+- Lives alone, works as a project manager
+
+FAMILY HISTORY:
+- Father with HTN, mother with CHF
+
+----------------------------------------------------------------------
+
+ICU ADMISSION PHYSICAL EXAM (Day 1):
+Gen: Cachectic male, ill-appearing, diaphoretic
+VS: T 37.1°C, HR 128, BP 78/52, RR 28, SpO2 94% RA
+HEENT: PERRLA, MMM, no JVD
+CV: Tachycardic, S1/S2, no murmur, +S3, cool extremities, pulses weak
+Lungs: Bibasilar crackles, mild accessory muscle use
+Abd: Soft, mild RUQ tenderness, no rebound/guarding
+Ext: No edema, hand laceration clean, well-healed
+Neuro: Oriented x2, mild confusion
+
+----------------------------------------------------------------------
+
+LABS (abbreviated for brevity; see full table below):
+
+| Date         | WBC     | Hgb   | Plt   | Na    | K     | Cl    | CO2   | BUN   | Cr    | Glu   | AST   | ALT   | T. bili | BNP    | Trop T |
+|--------------|---------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|---------|--------|--------|
+| 4/18 07:30   | 4.7     | 14.0  | 412   | 133   | 4.1   | 98    | 17    | 28    | 1.7   | 142   | 102    | 86     | 1.2     | 4980   | 0.145  |
+| 4/19 05:15   | 6.9     | 13.2  | 377   | 130   | 4.8   | 96    | 15    | 31    | 2.4   | 131   | 128    | 154    | 2.8     | 6780   | 0.189  |
+| 4/20 06:02   | 10.1    | 11.7  | 311   | 135   | --    | 97    | 16    | 39    | 2.9   | 120   | 121    | 111    | 2.2     | 4120   | 0.107  |
+| 4/21 07:14   | 13.5    | 10.9  | 259   | 140   | 4.3   | 104   | 18    | 30    | 1.8   | 109   | 77     | 69     | 1.0     | 1800   | <0.01  |
+| 4/23 06:45   | 8.2     | 12.4  | 344   | 137   | 3.9   | 100   | 20    | 18    | 1.2   | 101   | 34     | 41     | 0.9     | 720    | <0.01  |
+| 4/27 07:00   | 6.0     | 13.8  | 398   | 138   | 4.0   | 102   | 23    | 15    | 1.0   | 104   | 22     | 36     | --      | 350    | --     |
+
+*Missing: Some K, T. bili, Trop T values not collected daily
+
+----------------------------------------------------------------------
+
+IMAGING:
+- CXR (4/18): Pulmonary edema, mild cardiomegaly
+- ECHO (4/18): LVEF 18%, global hypokinesis, mild MR/TR, RV normal, LA dilated
+- ECHO (4/25): LVEF improved to 36%
+- Hand X-ray (4/18): No acute fracture, soft tissue swelling
+
+----------------------------------------------------------------------
+
+PROBLEM-BASED ASSESSMENT & PLAN
+
+1. **Cardiogenic Shock, acute decompensated heart failure (new, non-ischemic)**
+   - Etiology: Likely idiopathic/viral myocarditis vs. hypertensive heart disease
+   - Initial management: ICU, monitoring, norepinephrine/epinephrine drips, milrinone, diuresis
+   - Temporary LVAD (Impella CP) placed 4/18, continued x6 days
+   - Serial ECHOs, hemodynamics, daily labs
+   - Weaned off Impella 4/24, improved cardiac output, stable off inotropes
+   - Initiated GDMT (carvedilol, sacubitril-valsartan, spironolactone) as tolerated
+   - Plan: Outpt HF f/u, cardiac MRI as outpatient
+
+2. **Acute kidney injury (pre-renal, multifactorial)**
+   - Likely due to low CO, nephrotoxic meds (NSAIDs), hypoperfusion
+   - Monitored I/Os, daily BMP, renal US (no obstruction)
+   - Improved with volume optimization, off NSAIDs
+   - Creatinine downtrended to baseline
+
+3. **Transaminitis, mild hyperbilirubinemia**
+   - Likely due to hepatic congestion, hypoperfusion
+   - Monitored LFTs, trended down with improved hemodynamics
+
+4. **Atrial fibrillation with RVR (hospital day 3)**
+   - Rate control with amiodarone, transitioned to metoprolol
+   - No recurrence
+
+5. **Hospital-acquired pneumonia**
+   - Fever, leukocytosis on day 6, CXR: new infiltrates
+   - Started on vanc/pip-tazo, improved, abx x7d
+
+6. **Hypertension (chronic)**
+   - Home meds held initially, restarted low-dose as tolerated
+   - Education on adherence, lifestyle modification
+
+7. **Laceration of hand (old)**
+   - Clean, well-healed, no infection
+
+8. **Pain (mild)**
+   - Managed with acetaminophen, off NSAIDs due to renal/liver issues
+
+9. **Viral sinusitis (resolved)**
+   - No active symptoms
+
+10. **Nutrition**
+    - Dietitian consult, high-protein, low-salt diet
+
+11. **VTE prophylaxis**
+    - SCDs, transitioned to enoxaparin when bleeding risk low
+
+----------------------------------------------------------------------
+
+DISCHARGE MEDICATIONS:
+- Carvedilol 3.125 mg bid
+- Sacubitril-valsartan 24/26 mg bid
+- Spironolactone 12.5 mg qd
+- Atorvastatin 20 mg qhs
+- Furosemide 20 mg qd
+- Amiodarone 200 mg qd x4wks, then stop
+- Home antihypertensives (resume at f/u)
+- Acetaminophen prn pain
+
+----------------------------------------------------------------------
+
+FOLLOW UP:
+- Cardiology (HF specialist) in 1 week
+- Labs: CBC, BMP, LFTs in 1 week
+- Cardiac MRI as outpatient to assess for myocarditis
+- Education: HF action plan, daily weights, medication adherence
+
+----------------------------------------------------------------------
+
+*Contact: Dr. J. Kessler, Cardiology, ext. 2941*
+
+----------------------------------------------------------------------
+
+TABLE: INPATIENT CBC + CHEM7 + LFTs + CARDIAC MARKERS
+
+| Date        | WBC | Hgb | Plt | Na | K  | Cl | CO2 | BUN | Cr  | Glu | AST | ALT | T. bili | BNP  | Trop T |
+|-------------|-----|-----|-----|----|----|----|-----|-----|-----|-----|-----|-----|---------|------|--------|
+| 4/18 07:30  | 4.7 | 14  | 412 |133 |4.1 |98  | 17  | 28  |1.7  |142  |102  | 86  | 1.2     |4980  | 0.145  |
+| 4/19 05:15  | 6.9 |13.2 | 377 |130 |4.8 |96  | 15  | 31  |2.4  |131  |128  |154  | 2.8     |6780  | 0.189  |
+| 4/20 06:02  |10.1 |11.7 | 311 |135 | -- |97  | 16  | 39  |2.9  |120  |121  |111  | 2.2     |4120  | 0.107  |
+| 4/21 07:14  |13.5 |10.9 | 259 |140 |4.3 |104 | 18  | 30  |1.8  |109  | 77  | 69  | 1.0     |1800  | <0.01  |
+| 4/23 06:45  | 8.2 |12.4 | 344 |137 |3.9 |100 | 20  | 18  |1.2  |101  | 34  | 41  | 0.9     | 720  | <0.01  |
+| 4/27 07:00  | 6.0 |13.8 | 398 |138 |4.0 |102 | 23  | 15  |1.0  |104  | 22  | 36  |  --     | 350  |   --   |
+
+----------------------------------------------------------------------
+
+NURSING NOTES (excerpt):
+- Day 2: Pt alert, oriented, on Impella, minimal sedation, I/O: 1800/600, urine clear
+- Day 5: Extubated, weaning pressors, ambulating with assistance
+- Day 10: Stable, tolerating PO, off all advanced supports
+- Day 15: Mood improved, eager for discharge
+
+----------------------------------------------------------------------
+
+CONSULTS:
+- Cardiology
+- Infectious Disease (for HAP)
+- Nephrology (for AKI)
+- Nutrition
+
+----------------------------------------------------------------------
+
+See attached full record for further details/documentation.
+```

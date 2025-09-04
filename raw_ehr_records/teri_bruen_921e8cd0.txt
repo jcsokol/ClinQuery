@@ -1,0 +1,182 @@
+---
+**Patient Name:** Teri Bruen  
+**MRN:** 00548291  
+**DOB:** 1996-02-14 (Age: 28)  
+**Sex:** Female  
+**Admit Date:** 2024-05-18  
+**Attending:** Dr. K. Whitman, MD  
+**ICU Location:** 3E Cardiac ICU  
+**Allergies:** NKDA  
+**Code Status:** Full Code  
+**Height:** 180 cm  
+**Weight:** 58.3 kg  
+**BMI:** 18  
+
+---
+
+# Admission H&P
+
+**Chief Complaint:**  
+Acute dyspnea, chest pain, and syncope.
+
+**History of Present Illness:**  
+28-year-old female with h/o viral sinusitis, prior clavicle fracture, recent acute bronchitis, and no known cardiac history, presented to ED with 2 days of progressive shortness of breath, pleuritic chest pain, orthopnea, and presyncope. On arrival: febrile (38.8°C), tachycardic, hypotensive, O2 sat 89% RA. CXR: pulmonary edema. Echo: LVEF 10%. Emergent transfer to CICU. Required intubation, pressors, subsequently deteriorated with cardiogenic shock. Temporary left-sided heart pump (Impella CP) placed for circulatory support.
+
+**Past Medical History:**  
+- Viral sinusitis x2  
+- Acute bronchitis  
+- Prior clavicle fracture  
+- Streptococcal pharyngitis  
+- 2 prior normal pregnancies
+
+**Past Surgical History:**  
+- None
+
+**Home Medications:**  
+- Trinessa, Natazia, Yaz, Seasonique (OCPs, alternating)  
+- Naproxen  
+- Hydrocodone/Acetaminophen  
+- Penicillin V (recent, now completed)  
+
+**Family History:**  
+- Non-contributory
+
+**Social History:**  
+- Lives alone, works as a teacher  
+- Non-smoker, no EtOH, no illicit drugs  
+- No recent travel
+
+---
+
+# ICU HOSPITAL COURSE SUMMARY
+
+**ICU Day 1-2:**  
+Presented in florid cardiogenic shock, requiring norepinephrine, dobutamine. Intubated for hypoxic respiratory failure. Cardiac markers elevated (troponin I 2.1 ng/mL, BNP 8900 pg/mL). Echo: global hypokinesis, severe LV systolic dysfunction (EF <15%). Infectious workup notable for positive parainfluenza PCR; negative for COVID, RSV, influenza. Started empiric antibiotics (ceftriaxone, doxycycline), discontinued after viral etiology confirmed.
+
+**ICU Day 2:**  
+Progressive hypotension, rising lactate (4.8 mmol/L), oliguria. Impella CP placed via femoral approach for mechanical circulatory support. Hemodynamics improved, weaned off norepinephrine by day 3.  
+
+**ICU Day 3-5:**  
+Gradual improvement. Extubated on day 4. Renal function normalized, urine output improved. Serial echo: slow improvement in EF to 25%. Impella weaned, removed day 5.
+
+**ICU Day 6-8:**  
+Transferred to step-down. Diuresed for persistent pulmonary congestion. Mobilized with PT.  
+
+**ICU Day 9:**  
+Discharged home with close cardiology follow-up.  
+
+---
+
+# VITAL SIGNS (SELECTED)
+
+| Date        | Temp (C) | HR (bpm) | BP (mmHg) | RR | SpO2 | Pain |
+|-------------|----------|----------|-----------|----|------|------|
+| 5/18/2024   | 38.8     | 128      | 82/48     | 27 | 89%  | 2    |
+| 5/19/2024   | 37.9     | 112      | 90/59     | 23 | 95%  | 0    |
+| 5/21/2024   | 37.2     | 96       | 104/68    | 19 | 98%  | 0    |
+| 5/23/2024   | 36.9     | 82       | 116/72    | 17 | 99%  | 0    |
+
+---
+
+# LABS
+
+## CBC & CHEMISTRY (Selected)
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|------|------|------|------|------|------|------|------|------|------|------|
+| 5/18/24    | 4.0  | 15.2 | 42.3 | 425  | 134  | 3.3  | 100  | 20   | 18   | 1.2  | 109  |
+| 5/19/24    | 3.5  | 14.6 | 41.0 | 398  | 136  | 3.7  | 102  | 18   | 25   | 1.8  | 112  |
+| 5/20/24    | 4.8  | 14.1 | 40.2 | 371  | 139  | 4.1  | 104  | 22   | 18   | 1.1  | 104  |
+| 5/21/24    | 5.0  | 13.8 | 39.3 | 342  | 140  | 4.0  | 103  | 24   | 13   | 0.9  | 98   |
+| 5/22/24    |      | 13.5 |      | 330  | 141  |      |      | 25   | 12   | 0.8  |      |
+| 5/23/24    | 4.6  | 13.8 | 39.9 | 312  | 142  | 4.2  | 102  | 23   | 11   | 0.7  | 95   |
+
+## OTHER LABS
+
+| Date     | Troponin I (ng/mL) | BNP (pg/mL) | Lactate (mmol/L) | AST (U/L) | ALT (U/L) |
+|----------|--------------------|-------------|------------------|-----------|-----------|
+| 5/18/24  | 2.1                | 8900        | 4.8              | 68        | 72        |
+| 5/19/24  | 1.8                | 7400        | 3.2              | 54        | 65        |
+| 5/20/24  | 1.2                | 4200        | 2.1              | 38        | 42        |
+| 5/21/24  | 0.6                | 2100        | 1.2              | 31        | 30        |
+
+---
+
+# MICROBIOLOGY
+
+- Respiratory viral PCR: Positive for parainfluenza
+- Blood cultures: No growth x2
+- Sputum culture: No significant growth
+
+---
+
+# IMAGING
+
+- **CXR (5/18/24):** Pulmonary edema, bilateral infiltrates, no consolidation
+- **ECHO (5/18/24):** LVEF 10%, global hypokinesis, no significant valvulopathy
+- **ECHO (5/21/24):** LVEF improved to 25%, mild MR
+
+---
+
+# ASSESSMENT & PLAN
+
+## 1. Cardiogenic Shock secondary to Fulminant Viral Myocarditis  
+- Required temporary mechanical support (Impella CP).  
+- Now off pressors, stable.  
+- Echo: improving EF.  
+- Plan: Continue guideline-directed medical therapy. Monitor for arrhythmia. Cardiac MRI as outpatient.
+
+## 2. Acute Hypoxic Respiratory Failure  
+- Intubated, now extubated.  
+- Pulmonary congestion improved with diuresis.  
+- Incentive spirometry, ambulation.
+
+## 3. Acute Kidney Injury (resolved)  
+- Likely pre-renal, multifactorial (low CO, diuretics).  
+- Renal function normalized. Monitor.
+
+## 4. Parainfluenza Viral Infection  
+- Supportive care only.  
+- Antibiotics discontinued after negative bacterial workup.
+
+## 5. History of Clavicle Fracture  
+- No current issues.
+
+## 6. Contraceptive Management  
+- OCPs held during acute illness due to thrombosis risk.  
+- Resume after discharge per Gyn.
+
+## 7. Pain  
+- Well controlled with PRN acetaminophen.
+
+## 8. Nutrition  
+- Mildly underweight.  
+- Dietician to follow as outpatient.
+
+## 9. DVT Prophylaxis  
+- SCDs, SQ heparin during hospitalization.
+
+## 10. Physical Therapy  
+- Mobilization, safe for home.
+
+---
+
+# DISCHARGE MEDICATIONS
+
+- Carvedilol 3.125 mg BID
+- Lisinopril 2.5 mg daily
+- Furosemide 20 mg daily
+- PRN acetaminophen
+
+---
+
+**Follow-up:**  
+- Cardiology in 1 week  
+- Repeat echo in 2 weeks  
+- PCP, Gyn per routine
+
+---
+
+**Physician:** K. Whitman, MD  
+**Date/Time:** 2024-05-23 14:21  
+---

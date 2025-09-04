@@ -1,0 +1,225 @@
+**EPIC EHR - ICU ADMISSION SUMMARY**
+
+---
+**Patient Name:** Melina Zieme  
+**MRN:** 00938491-ICU  
+**DOB:** 09/24/1968  
+**Sex:** Female  
+**Admit Date:** 2024-05-22  
+**Attending:** Dr. R. Carver  
+**Consults:** Cardiology, Critical Care, Infectious Disease, Endocrinology  
+**Location:** MICU, Bed 14  
+
+---
+
+### Hospital Course Summary
+
+**History of Present Illness:**  
+Melina Zieme, a 55-year-old female with a history notable for cardiac arrest, obesity, and recent upper respiratory tract infection, was found unresponsive at home by her daughter. EMS reported pulseless electrical activity (PEA) arrest; ROSC achieved after 12 minutes of ACLS. Brought to ED intubated, hypotensive, requiring norepinephrine. Initial EKG showed diffuse ST depressions. TTE revealed severely reduced LVEF (~20%), global hypokinesis. She was transferred to MICU for management of cardiogenic shock. Due to refractory hypotension and evidence of end-organ hypoperfusion despite escalating vasopressors/inotropes, decision made for percutaneous placement of a left-sided Impella CP device on hospital day 1.
+
+---
+
+### Problem List  
+1. **Cardiogenic Shock s/p Cardiac Arrest - Impella CP in place**  
+2. **Acute Hypoxic Respiratory Failure s/p Intubation**  
+3. **Obesity (BMI >30)**
+4. **Acute Kidney Injury**  
+5. **Transaminitis**  
+6. **Recurrent Sinusitis/Pharyngitis**  
+7. **History of First Trimester Miscarriage**  
+8. **Hand Laceration**  
+9. **Hospital-acquired Anemia**  
+10. **Contraceptive Management**  
+11. **Pain - Mild**  
+
+---
+
+## ICU Daily Progress Notes
+
+### ASSESSMENT & PLAN
+
+---
+
+#### 1. **Cardiogenic Shock s/p Cardiac Arrest; Impella CP in place**
+- **Assessment:**  
+Patient in profound shock post-PEA arrest, likely secondary to acute viral myocarditis vs. ischemic insult. TTE with LVEF 20%, troponin mildly elevated (peak 0.87), no acute coronary occlusion on cath. Continued lactic acidosis, MAP < 60 mmHg despite norepi, dobutamine. Impella CP placed via R femoral artery for mechanical circulatory support.  
+- **Plan:**  
+  - Maintain Impella at P6, monitor flows (currently 3.1 L/min)  
+  - Continue heparinized saline purge, monitor ACT q4h  
+  - Titrate vasopressors/inotropes as tolerated  
+  - Daily TTE to assess recovery/removal candidacy  
+  - Serial lactate, mixed venous O2 sats  
+  - Consider weaning Impella if LVEF >35% and off pressors  
+  - Cardiology to follow  
+  - Monitor for device-related complications (bleeding, hemolysis, limb ischemia)  
+
+---
+
+#### 2. **Acute Hypoxic Respiratory Failure**
+- **Assessment:**  
+Required intubation in field; CXR with mild pulmonary edema, no consolidation. Sedated on propofol/fentanyl.  
+- **Plan:**  
+  - Lung-protective ventilation (TV 6ml/kg IBW, PEEP 8)  
+  - Daily sedation vacations  
+  - Spontaneous breathing trial when stable  
+  - Monitor for VAP  
+  - Daily CXR  
+
+---
+
+#### 3. **Obesity (BMI 31.3 on admit)**
+- **Assessment:**  
+Obese, likely contributing to metabolic derangements and complicating ventilation.  
+- **Plan:**  
+  - DVT prophylaxis (SCDs, heparin 5000u BID)  
+  - Strict I/O  
+  - Nutrition consult  
+  - Encourage mobility when extubated  
+
+---
+
+#### 4. **Acute Kidney Injury (KDIGO Stage II)**
+- **Assessment:**  
+Creatinine rose from 1.1 baseline to 2.2 on day 2; likely multifactorial (shock, pressors, nephrotoxic meds). UOP 0.4 ml/kg/hr.  
+- **Plan:**  
+  - IVF as tolerated (balanced crystalloids)  
+  - Avoid nephrotoxins  
+  - Monitor K+, trend Cr/BUN  
+  - Nephrology consult  
+
+---
+
+#### 5. **Transaminitis**
+- **Assessment:**  
+AST/ALT peaked at 123/98, likely ischemic hepatitis. No evidence of biliary obstruction.  
+- **Plan:**  
+  - Supportive care  
+  - Monitor LFTs daily  
+  - Hepatitis panel pending  
+
+---
+
+#### 6. **Recurrent Sinusitis/Pharyngitis**
+- **Assessment:**  
+History of frequent viral URIs, currently on amox-clav for presumed bacterial superinfection. No fevers after day 2.  
+- **Plan:**  
+  - Complete 7-day course of abx  
+  - ENT consult if persistent  
+  - Symptomatic management  
+
+---
+
+#### 7. **History of First Trimester Miscarriage**
+- **Assessment:**  
+Remote, no current OB/GYN issues.  
+- **Plan:**  
+  - No interventions needed  
+
+---
+
+#### 8. **Hand Laceration**
+- **Assessment:**  
+2cm laceration dorsal right hand, sutured on admit, no signs of infection.  
+- **Plan:**  
+  - Daily wound checks  
+  - Remove sutures day 7  
+  - Bacitracin ointment  
+
+---
+
+#### 9. **Hospital-acquired Anemia**
+- **Assessment:**  
+Hgb dropped from 13.1 to 9.5 over 4 days, likely dilutional and phlebotomy-related. No overt bleeding.  
+- **Plan:**  
+  - Monitor H/H daily  
+  - Iron studies, retic count  
+  - Transfuse if Hgb <7 or symptomatic  
+
+---
+
+#### 10. **Contraceptive Management**
+- **Assessment:**  
+History of multiple contraceptive methods (implants, IUDs, OCPs). No acute gynecologic issues.  
+- **Plan:**  
+  - Hold hormonal agents during ICU stay  
+  - OBGYN to reassess prior to discharge  
+
+---
+
+#### 11. **Pain - Mild**
+- **Assessment:**  
+Reports mild pain (3/10) at hand wound and with movement.  
+- **Plan:**  
+  - PRN acetaminophen  
+  - Minimize opioids  
+  - Reassess daily  
+
+---
+
+---
+
+## ICU Flow Sheet & Labs
+
+#### VITALS (Selected, Initial 5 Days)
+
+| Date       | Temp (C) | HR  | BP        | RR | SpO2 | Pain |
+|------------|----------|-----|-----------|----|------|------|
+| 5/22/24    | 37.3     | 132 | 82/48     | 18 | 96%  | 3    |
+| 5/23/24    | 37.1     | 118 | 94/56     | 16 | 98%  | 2    |
+| 5/24/24    | 36.9     | 106 | 102/62    | 15 | 99%  | 1    |
+| 5/25/24    | 37.2     | 99  | 110/65    | 14 | 99%  | 0    |
+| 5/26/24    | 37.0     | 95  | 112/67    | 16 | 98%  | 0    |
+
+---
+
+#### LABS
+
+| Date       | WBC  | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | T Bili | Troponin | Lactate |
+|------------|------|------|------|-------|------|------|------|------|------|------|------|------|------|--------|----------|---------|
+| 5/22/24    | 6.2  | 13.1 | 37.1 | 304   | 138  | 4.2  | 102  | 23   | 21   | 1.1  | 112  | 54   | 43   | 0.8    | 0.87     | 5.2     |
+| 5/23/24    | 8.4  | 11.7 | 33.9 | 246   | 135  | 4.6  | 99   | 21   | 36   | 1.7  | 132  | 123  | 98   | 1.2    | 0.43     | 3.8     |
+| 5/24/24    | 7.1  | 10.9 | 31.2 | 198   | 134  | 4.1  | 100  | 20   | 41   | 2.2  | 126  | 92   | 70   | 1.1    | 0.18     | 2.3     |
+| 5/25/24    | 6.7  | 9.8  | 28.4 | 165   | 136  | 3.9  | 98   | 22   | 34   | 1.9  | 118  | 71   | 55   | 0.9    | <0.01    | 1.2     |
+| 5/26/24    | 5.9  | 9.5  | 27.5 | 178   | 137  |      |      | 23   | 30   | 1.6  |      | 66   | 48   |        | <0.01    | 0.8     |
+
+*Some entries missing due to lab draw errors or hemolyzed samples.
+
+---
+
+## Procedures
+
+- **5/22/24:** Impella CP placement via R femoral artery under fluoroscopic guidance. No immediate complications.
+- **5/22/24:** Central line (R IJ), arterial line (L radial), Foley cath.
+- **5/22/24:** Hand wound closure, 2-0 nylon, dorsal R hand.
+
+---
+
+## Medications (selected)
+
+- Norepinephrine infusion (off by day 3)
+- Dobutamine infusion (off by day 4)
+- Heparin saline purge (Impella)
+- Amoxicillin-Clavulanate 875-125mg PO BID (for sinusitis)
+- Acetaminophen 650mg PO q6h PRN
+- Propofol/fentanyl for sedation (weaned off by day 4)
+- Pantoprazole 40mg IV daily
+- SCDs, heparin 5000u BID (VTE prophylaxis)
+- IVF: LR/NS per protocol
+
+---
+
+## Discharge Planning
+
+- Anticipate Impella removal within 24-48h pending hemodynamic stability and echo
+- Early mobilization, PT/OT consults
+- OBGYN follow-up for contraceptive management
+- Cardiology follow-up
+- Wound care instructions for hand laceration
+
+---
+
+**Attending:** Dr. R. Carver  
+**Co-Sign:** Dr. S. Nallamothu (Cardiology)  
+**Date/Time:** 2024-05-26 10:14
+
+---

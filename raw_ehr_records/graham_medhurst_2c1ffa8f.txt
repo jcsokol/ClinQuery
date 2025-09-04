@@ -1,0 +1,178 @@
+---
+**EPIC EHR - Inpatient Progress Note**
+
+**Patient:** Medhurst, Graham  
+**MRN:** 10203948  
+**DOB:** 06/30/1936  
+**Sex:** M  
+**Admit Date:** 05/11/2024  
+**Service:** MICU  
+**Attending:** Dr. Reilly  
+**Consults:** Cardiology, Endocrinology, Orthopedics, Infectious Disease  
+
+---
+
+**Chief Complaint:**  
+Progressive shortness of breath, orthopnea, and new left lower extremity swelling.
+
+---
+
+**HPI:**  
+Graham Medhurst is an 87-year-old male with a history of prediabetes, osteoporosis with multiple pathological fractures (left ankle, right forearm), chronic anemia, and recent viral pharyngitis. He presented to the ED with 3 days of worsening dyspnea, bilateral leg swelling (L > R), and increasing fatigue. He denied chest pain but noted palpitations and was found to be hypotensive on arrival (BP 82/58 mmHg). He was admitted to the ICU for management of acute decompensated heart failure and cardiogenic shock. Notably, his hospital course was complicated by progressive hemodynamic instability requiring the placement of a percutaneous left ventricular assist device (Impella CP) on HD#2. He is currently intubated and sedated, on low-dose norepinephrine.
+
+---
+
+**Pertinent PMHx:**
+- Prediabetes (A1c 6.2%)
+- Chronic anemia of unclear etiology
+- Osteoporosis, h/o multiple pathologic fractures (L ankle, R forearm)
+- CAD s/p PCI (2017, per outside hospital records)
+- HTN (remote, not on therapy)
+- Acute viral pharyngitis (last week, resolved)
+- Hyperlipidemia
+
+**Allergies:**  
+No known drug allergies.
+
+---
+
+**Home Medications:**  
+- Alendronate 10mg PO daily  
+- Acetaminophen 325mg PO prn  
+- Oxycodone/Acetaminophen 5/325mg PO prn  
+- Ibuprofen 200mg PO prn  
+- Atorvastatin 20mg PO qHS (not on home med list, but started prior to admission)
+
+---
+
+**Physical Exam (05/13/24 07:30):**  
+- **Gen:** Sedated, intubated, on Impella support, CVC and A-line in place  
+- **VS:** T 36.9°C, HR 102, BP 99/58 (MAP 72), RR 18 (vent), SpO2 97% (FiO2 35%)  
+- **CV:** S1/S2, no murmurs, Impella hum noted, JVP 11cm, 2+ pitting edema LEs  
+- **Resp:** Decreased breath sounds bibasilar, no rales  
+- **Abd:** Soft, nontender, no rebound/guarding  
+- **Ext:** LLE splinted (old ankle fx), ecchymosis R forearm, mild tenderness  
+- **Neuro:** Sedated, nonfocal  
+- **Skin:** Intact, no rashes, pressure ulcer at sacrum (Stage 1)
+
+---
+
+### **Pertinent Labs**
+
+| Date/Time      | WBC (K) | Hgb (g/dL) | Plt (K) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Ca (mg/dL) | Troponin (ng/mL) | AST (U/L) | ALT (U/L) |
+|----------------|---------|------------|---------|-------------|------------|-------------|--------------|-------------|------------|-------------|------------|-------------------|-----------|-----------|
+| 5/11 14:30     | 4.2     | 11.2       | 260     | 138         | 4.9        | 110         | 24           | 18          | 1.1        | 112         | 8.6        | 0.08              | 43        | 37        |
+| 5/12 06:00     | 3.8     | 10.4       | 236     | 141         | 5.3        | 112         | 21           | 28          | 1.6        | 98          | 8.5        | 0.15              | 76        | 45        |
+| 5/12 18:00     | 3.1     | 9.7        | 221     | 142         | 5.1        | 114         | 20           | 33          | 1.9        | 112         | 8.2        | 0.24              | 92        | 51        |
+| 5/13 07:00     | 3.5     | 8.9        | 200     | 140         | 4.8        | 111         | 22           | 30          | 1.7        | 106         | 8.4        | 0.17              | 58        | 41        |
+| 5/14 06:45     |         | 8.7        |         | 138         | 4.5        | 109         | 24           | 22          | 1.3        | 98          | 8.6        | 0.07              | 41        | 36        |
+
+*Some labs missing due to hemolysis or insufficient sample.*
+
+---
+
+**Imaging:**
+- **CXR (5/11):** Mild pulmonary edema, enlarged cardiac silhouette.  
+- **Echo (5/11):** LVEF 22%, severe global hypokinesis, moderate MR, RV mildly reduced.  
+- **LE Doppler (5/11):** No DVT.  
+- **CT Head (5/12, after transient confusion):** No acute findings.
+
+---
+
+## Problem-Based Assessment & Plan
+
+### 1. **Cardiogenic Shock / Acute Decompensated Heart Failure**
+   - HFrEF (LVEF 22%) likely secondary to ischemic cardiomyopathy, acute on chronic.
+   - Required Impella CP placement on HD#2 for persistent hypotension and rising lactate despite inotropes.
+   - On norepinephrine (0.04 mcg/kg/min), Impella flows ~3.2 L/min.
+   - Daily echo for device positioning.
+   - Wean vasoactives as tolerated, consider trial off Impella if hemodynamics improve.
+   - Strict I/O, daily weights, diuresis as tolerated (IV furosemide).
+   - Monitor for complications: hemolysis, limb ischemia, arrhythmias.
+   - Cardiology following.
+
+### 2. **Acute Kidney Injury (Stage 2)**
+   - Likely multifactorial: low cardiac output, nephrotoxic insults (contrast, hypotension).
+   - Trending creatinine, daily BMPs.
+   - Renal dosing of all medications.
+   - Hold nephrotoxins, monitor urine output.
+   - Nephrology aware.
+
+### 3. **Chronic Anemia**
+   - Baseline Hgb ~11, now as low as 8.7.
+   - Likely multifactorial: chronic disease, possible GI losses (occult blood negative).
+   - Iron panel, retic count pending.
+   - Transfuse for Hgb <7.5 or symptomatic.
+   - GI consult if further drop.
+
+### 4. **Osteoporosis / Pathologic Fractures**
+   - Chronic, on alendronate.
+   - LLE splint in place for old ankle fracture.
+   - Minimize fall risk, PT/OT to evaluate when extubated.
+   - Calcium/Vit D replete.
+
+### 5. **Hyperglycemia / Prediabetes**
+   - Recent A1c 6.2%.
+   - Stress hyperglycemia noted (glucose up to 112).
+   - Sliding scale insulin as needed.
+   - Endocrinology to follow.
+
+### 6. **Transaminitis**
+   - Mild-moderate elevation in AST/ALT, likely ischemic hepatitis.
+   - Trend LFTs, supportive care.
+   - Avoid hepatotoxins.
+
+### 7. **Pain Control**
+   - Oxycodone/acetaminophen prn, but currently intubated.
+   - IV fentanyl for sedation/pain.
+   - Monitor for oversedation, constipation.
+
+### 8. **Acute viral pharyngitis**
+   - Resolved, no ongoing symptoms.
+
+### 9. **Pressure Ulcer (Stage 1, sacrum)**
+   - Wound care consult.
+   - Turn q2h, barrier cream.
+
+### 10. **Other**
+   - DVT prophylaxis: Heparin SQ
+   - Stress ulcer prophylaxis: Pantoprazole IV
+   - Vaccinations: Up to date per family
+
+---
+
+**Consultants:**  
+- Cardiology: Device management, HF optimization  
+- Nephrology: AKI  
+- Endocrine: Hyperglycemia, osteoporosis  
+- Infectious Disease: None at this time  
+- Ortho: Chronic fracture care  
+
+---
+
+**Plan for Today:**
+- Continue Impella, reassess Q4h
+- Maintain MAP >65
+- Daily labs, CXR
+- Monitor for bleeding, hemolysis, device complications
+- Family meeting re: prognosis and goals of care
+- Physical therapy to assess when able
+
+---
+
+**Signed:**  
+Dr. S. Reilly, MD  
+MICU, 05/14/2024, 09:21
+
+---
+
+**Additional Notes:**  
+- Foley in place, 24h urine output: 900mL  
+- No new fevers, cultures negative  
+- Code status: Full  
+- Next of kin: Daughter (Susan Medhurst, 555-123-4567)
+
+---
+
+**End of Note**  
+---

@@ -1,0 +1,151 @@
+---
+**Patient:** Blick, Chas  
+**MRN:** 0032874  
+**DOB:** 07/20/1951  
+**Sex:** Male  
+**Admit Date:** 2024-05-29  
+**Attending:** Dr. R. Jamison  
+**Service:** Cardiac ICU  
+**Location:** 4B-ICU, Room 4207  
+
+---
+
+### CHIEF COMPLAINT
+
+Worsening dyspnea on exertion, orthopnea, and lightheadedness
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+
+70 y.o. male with PMHx of chronic sinusitis, prediabetes, anemia, and hyperlipidemia on simvastatin, presented to the ED with 3 days of progressive SOB, PND, and bilateral LE swelling. He reports 2-pillow orthopnea, decreased exercise tolerance, and a syncopal episode at home. No chest pain or palpitations. No recent URI symptoms. 
+
+In ED, found to be tachycardic with hypotension (BP 82/54), hypoxic (O2 sat 89% on RA), and mild fever (100.3F). Exam notable for JVD, S3, bibasilar crackles, and 2+ pitting edema. Labs showed AKI, elevated lactate, and rising troponin. CXR: pulmonary edema. Echo: LVEF 15%, global hypokinesis, mild MR, RV function preserved. Cardiogenic shock diagnosed. Emergent temporary left-sided heart pump (Impella CP) placed for hemodynamic support.
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+- **Day 1:** Admitted to ICU, started on dobutamine and norepinephrine, Impella placed via femoral approach.  
+- **Day 2:** Improved hemodynamics, weaned norepi. Transfused 1U PRBCs for Hgb 8.3.  
+- **Day 3:** Developed fever, blood cx sent, empiric vanc/cefepime started.  
+- **Day 4:** AKI improved with diuresis. Echo: LVEF 18%.  
+- **Day 5:** Impella weaned, device removed.  
+- **Day 6:** HD stable, transferred to stepdown.  
+- **Day 7:** Ambulating with PT, off pressors, tolerating oral diet.
+
+---
+
+### VITALS & LABS
+
+| Date       | Temp (F) | HR | BP        | RR | SpO2 | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cr (mg/dL) | Glu (mg/dL) | Lactate (mmol/L) | Troponin (ng/mL) |
+|------------|----------|----|-----------|----|------|------------|------------|------------|-------------|------------|------------|-------------|------------------|------------------|
+| 5/29/24    | 100.3    | 116| 82/54     | 26 | 89%  | 10.1       | 9.1        | 401        | 137         | 5.3        | 3.2        | 74          | 4.1              | 0.91             |
+| 5/30/24    | 99.8     | 98 | 98/65     | 22 | 94%  | 9.8        | 8.3        | 387        | 139         | 4.6        | 2.1        | 92          | 2.3              | 0.45             |
+| 5/31/24    | 98.4     | 88 | 110/70    | 18 | 97%  | 8.2        | 10.7       | 378        | 140         | 4.4        | 1.6        | 108         | 1.3              | 0.19             |
+| 6/1/24     | 98.1     | 78 | 118/74    | 16 | 99%  | 7.7        | 11.9       | 376        | 141         | 4.2        | 1.2        | 101         | --               | --               |
+| 6/2/24     | --       | 80 | 120/80    | -- | --   | --         | --         | --         | 142         | 4.1        | 1.0        | --          | --               | --               |
+
+*Some labs omitted for brevity; see flowsheets for full data.*
+
+---
+
+### MICROBIOLOGY
+
+- Blood cultures (5/30): No growth at 48h  
+- UA: Negative  
+- COVID/Flu/RSV PCR: Negative
+
+---
+
+### IMAGING
+
+- **CXR (5/29):** Pulmonary edema, mild cardiomegaly  
+- **Echo (5/29):** LVEF 15%, severe global hypokinesis, mild MR  
+- **Echo (6/1):** LVEF up to 18%, improved filling pressures
+
+---
+
+### MEDICATION ADMINISTRATION RECORD
+
+- **Simvastatin 10mg PO qHS** (home med, continued)
+- **Dobutamine gtt** (day 1-3)
+- **Norepinephrine gtt** (day 1-2)
+- **Furosemide IV** (daily)
+- **Vancomycin/Cefepime** (day 3-4, d/c after negative cultures)
+- **Metoprolol tartrate 12.5mg PO BID** (started day 5)
+- **Aspirin 81mg PO daily**
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock, Severe Systolic HF (New Diagnosis)**
+   - Etiology likely ischemic, non-infarct pattern
+   - Required Impella CP for temporary LV support; now removed
+   - Continue aggressive diuresis, uptitrate GDMT as tolerated
+   - Cardiology f/u, consider coronary angiogram outpatient
+
+**2. Anemia (Chronic, Exacerbated by Hemodilution/Device)**
+   - Transfused 1U PRBCs for Hgb <8.5
+   - Monitor CBC daily, iron studies pending
+   - No active bleeding
+
+**3. Acute Kidney Injury (Resolved)**
+   - Likely secondary to low CO, now improved
+   - Renal dosing of all meds, avoid nephrotoxins
+
+**4. Volume Overload**
+   - Daily weights, strict I/O, continue IV furosemide, titrate to euvolemia
+
+**5. Fever, Possible Device-related Infection**
+   - Blood cultures negative, clinical improvement
+   - ABx discontinued after 48h, monitor for recurrence
+
+**6. Hyperlipidemia**
+   - Continue simvastatin
+   - Cardiac risk reduction
+
+**7. Prediabetes**
+   - Mildly elevated A1c, no insulin required
+   - Dietician consult, recommend lifestyle interventions
+
+**8. Chronic Sinusitis**
+   - No acute symptoms, no ABx at this time
+   - Continue nasal saline, PRN fluticasone
+
+**9. Physical Deconditioning**
+   - PT/OT eval, encourage mobilization
+
+**10. Disposition/Social**
+   - Discharge planning, needs SNF vs home with home health
+   - Discuss goals of care with patient/family
+
+---
+
+### ADDITIONAL LABS
+
+| Date     | AST (U/L) | ALT (U/L) | AlkPhos (U/L) | Bilirubin (mg/dL) | Albumin (g/dL) | BNP (pg/mL) |
+|----------|-----------|-----------|---------------|-------------------|---------------|-------------|
+| 5/29     | 44        | 38        | 122           | 0.2               | 3.1           | 2,150       |
+| 5/31     | 32        | 28        | 110           | 0.1               | 3.3           | 1,340       |
+| 6/2      | --        | --        | --            | --                | --            | 980         |
+
+---
+
+### DISCHARGE PLANNING
+
+- Continue home meds, add metoprolol
+- Arrange outpatient echo, cardiology f/u, SNF eval
+- PCP f/u within 1 week
+- Home health RN for weight/BP monitoring
+
+---
+
+**Attestation:**  
+Dr. R. Jamison, MD | Cardiology  
+Date/Time: 2024-06-05 13:41
+
+---
+
+**(End of Note)**

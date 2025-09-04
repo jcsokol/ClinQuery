@@ -1,0 +1,170 @@
+---
+**Patient Name:** Adam Shields  
+**MRN:** 1043821  
+**DOB:** 11/29/2001  
+**Sex:** Male  
+**Date of Admission:** 05/15/2024  
+**Admitting Physician:** Dr. J. Venkataraman  
+**Attending:** Dr. S. Patel  
+**Service:** ICU - Cardiology  
+**Note Type:** Progress Note (Day 12)  
+**Location:** Cardiac ICU, Room 8A  
+
+---
+
+## Chief Complaint  
+"Shortness of breath, chest pain, seizure-like activity at home"
+
+## History of Present Illness  
+20-year-old male with past medical history significant for epilepsy, obesity (BMI 30+), allergic rhinitis, ADHD, and recurrent sinusitis, presented to the ED after a witnessed generalized tonic-clonic seizure at home, followed by acute onset chest pain and severe dyspnea. Per family, he had been experiencing viral URI symptoms for the past week, including cough, congestion, and subjective fevers. In the ED, he was tachycardic, hypoxic, and hypotensive. Labs and imaging suggested acute decompensated heart failure with evidence of myopericarditis. He was admitted to the cardiac ICU for further management. On hospital day 2, he developed refractory cardiogenic shock requiring placement of a left-sided temporary ventricular assist device (Impella CP) for hemodynamic support.
+
+## Past Medical History  
+- Epilepsy (on carbamazepine, intermittent diazepam use)  
+- History of single seizure, recurrent  
+- Perennial allergic rhinitis  
+- Acute and viral sinusitis, recurrent  
+- Acute viral pharyngitis  
+- Obesity (BMI >30)  
+- ADHD  
+
+## Past Surgical History  
+- None
+
+## Family History  
+- Mother: Asthma, HTN  
+- Father: CAD, MI @ 52  
+- Siblings: Healthy
+
+## Social History  
+- College student, lives with parents  
+- No tobacco, drinks alcohol occasionally, denies illicit drug use  
+- No recent travel  
+- Up to date on vaccines
+
+## Allergies  
+- NKDA
+
+## Home Medications  
+- Fexofenadine 30mg PO daily  
+- Epinephrine auto-injector PRN  
+- Amox/clav 250mg/125mg PO BID (recent course for sinusitis)  
+- Prednisone 5mg PO daily (tapering)  
+- Carbamazepine 200mg PO BID  
+- Diazepam 5mg PO PRN seizures
+
+---
+
+## Hospital Course (Summary)
+
+- **Day 1:** Presented after seizure; found to be hypoxic, hypotensive, tachycardic; intubated for airway protection. CXR: pulmonary edema. Troponin elevated. Echo: severely reduced LVEF (15%), global hypokinesis, no LV thrombus. Started on dopamine, furosemide infusion, empiric antibiotics.  
+- **Day 2:** Worsening shock; lactic acidosis. Decision made for Impella CP placement. Device placed in cath lab without complication.  
+- **Day 3-7:** Gradual improvement in end-organ perfusion; extubated on day 5. Impella weaned on day 7. Persistent low-grade fevers, continued on broad-spectrum antibiotics.  
+- **Day 8-12:** Cardiac function improving (EF up to 30%). Seizure activity controlled. Transitioned to oral diuretics. Physical therapy initiated.  
+- **Day 13:** Preparing for transfer to step-down unit.  
+
+---
+
+## Physical Exam (05/27/2024, 07:15 AM)
+
+**Gen:** Alert, oriented x3, NAD  
+**VS:** Temp 37.8°C, HR 98, BP 112/64, RR 18, SpO2 97% RA  
+**HEENT:** Mucous membranes moist, nares clear  
+**CV:** S1/S2, tachycardic, no murmur, Impella hum present  
+**Lungs:** Scattered crackles, improving  
+**Abd:** Soft, NT/ND, +BS  
+**Ext:** No edema, good pulses  
+**Neuro:** AAOx3, cranial nerves grossly intact, no focal deficit  
+**Skin:** No rash, no breakdown  
+**Lines:** CVC R IJ, Foley, Impella femoral  
+
+---
+
+## Labs
+
+### CBC & CHEMISTRIES
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|------|------|------|------|------|------|------|------|------|------|------|
+| 5/15/2024  | 10.2 | 12.9 | 47.2 | 161  | 139  | 4.1  | 105  | 20   | 16   | 1.18 | 134  |
+| 5/16/2024  | 14.5 | 11.7 | 41.0 | 144  | 141  | 4.5  | 107  | 18   | 22   | 1.46 | 148  |
+| 5/17/2024  | 13.2 | 11.9 | 40.2 | 137  | 137  | 3.7  | 104  | 18   | 25   | 1.66 | 143  |
+| 5/18/2024  | 12.0 | 12.2 | 38.9 | 120  | 135  | 4.2  | 102  | 21   | 22   |      | 136  |
+| 5/19/2024  | 11.4 | 12.5 | 40.1 | 133  | 138  | 4.0  | 106  |      | 19   | 1.32 |      |
+| 5/20/2024  | 9.3  | 13.1 | 42.8 | 170  | 140  | 4.3  | 108  | 23   | 15   | 1.04 | 124  |
+| 5/21/2024  | 8.5  | 13.7 | 44.5 | 155  | 139  | 4.4  | 106  | 25   | 14   | 0.97 | 110  |
+| 5/22/2024  |      | 13.9 | 46.2 | 142  | 138  | 4.2  |      | 27   | 13   | 0.91 | 102  |
+| 5/23/2024  | 7.8  |      | 45.1 |      | 141  | 4.1  | 105  | 28   | 12   | 0.88 | 98   |
+| 5/24/2024  | 7.5  | 14.3 |      | 140  | 142  | 4.0  | 103  | 27   | 12   | 0.87 | 100  |
+| 5/25/2024  | 7.6  | 14.5 | 46.7 | 137  | 139  | 4.1  | 104  | 26   | 12   | 0.88 | 98   |
+| 5/26/2024  | 7.8  | 14.2 | 46.1 | 142  | 138  | 4.2  | 105  | 27   | 11   | 0.85 | 95   |
+
+#### Additional Labs
+- Troponin I: 4.21 ng/mL (admission, peak 7.8 ng/mL on day 2, trended down to 0.62)
+- BNP: 2,150 pg/mL (admission), 980 pg/mL (day 6)
+- LFTs: AST 122, ALT 103 (day 2, improved to WNL by day 9)
+- Lactate: 5.6 mmol/L (day 2, normalized by day 4)
+- CRP: 11.2 mg/dL (admission), trending down
+- Blood Cx: negative x2
+- UA: negative
+
+---
+
+## Imaging  
+- **CXR 5/15:** Diffuse pulmonary edema, mild cardiomegaly  
+- **Echo 5/15:** LVEF 15%, global hypokinesis, no LV thrombus  
+- **Echo 5/22:** LVEF 30%, improved wall motion  
+- **Head CT 5/15:** No acute bleed or infarct  
+
+---
+
+## Assessment & Plan
+
+### 1. **Acute Decompensated Heart Failure, Cardiogenic Shock (Myocarditis likely)**
+- Severe LV dysfunction, required temporary LVAD (Impella CP) for 5 days
+- Cardiac function improving (EF now ~30%)
+- Continue cardiac rehab, daily weights, low sodium diet
+- Continue carvedilol, initiate ACEi if BP allows
+- Plan for repeat echo pre-discharge
+
+### 2. **Epilepsy/Seizure Disorder**
+- No new seizure activity since admission
+- Resumed home carbamazepine, PRN diazepam
+- EEG monitoring off as of day 4
+- Neurology to follow
+
+### 3. **Obesity (BMI 30.4)**
+- Nutrition consult, calorie restriction
+- Encourage ambulation with PT/OT
+
+### 4. **Acute on Chronic Sinusitis, Allergic Rhinitis**
+- Completed 7 days Amox/Clav + prednisone
+- Fexofenadine continued
+- ENT consult: no surgical intervention needed
+
+### 5. **Possible Viral Myocarditis**
+- Viral panel: rhinovirus/enterovirus positive, others negative
+- Supportive care, ID following
+
+### 6. **Hospital Acquired Infection Risk**
+- Daily line checks, CVC and Foley removed as soon as possible
+- Broad-spectrum abx discontinued after negative cultures x48h
+
+### 7. **Other**
+- VTE prophylaxis: SCDs, enoxaparin
+- DVT US negative
+- Foley d/c’d day 10
+- Social work involved for discharge planning
+
+---
+
+## Disposition  
+- Anticipate transfer to step-down unit in 24-48h
+- Will need close outpatient cardiology and neurology follow-up
+- Education ongoing for seizure precautions and heart failure
+
+---
+
+**Attending:** Dr. S. Patel  
+**Date/Time:** 05/27/2024 09:03 AM
+
+---

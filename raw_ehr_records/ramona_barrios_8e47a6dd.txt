@@ -1,0 +1,195 @@
+**Epic EHR - Patient Chart**
+
+---
+
+**Patient Name:** Ramona Barrios  
+**MRN:** 00430982  
+**DOB:** 11/07/1981  
+**Sex:** Female  
+**Admitting Physician:** Dr. Samir Patel  
+**Admission Date:** 05/19/2024  
+**Attending:** Dr. Julia Tran  
+**Service:** Cardiac Intensive Care Unit  
+**Reason for Admission:** Acute decompensated heart failure with cardiogenic shock, requiring temporary LVAD (Impella CP) placement.
+
+---
+
+### Admission H&P
+
+**Chief Complaint:**  
+Progressive shortness of breath, orthopnea, and lower extremity edema x2 weeks. Presented to ED in extremis, hypotensive and tachycardic.
+
+**HPI:**  
+40 y.o. female with PMHx of obesity, hypertension, multiple prior pregnancies (with complications), and recent viral upper respiratory tract infection, presenting with two weeks of progressive dyspnea, worsening fatigue, and new LE edema. On day of admission, she developed acute chest tightness and confusion, with hypotension (SBP 70s), requiring EMS transport. In ED, she was found to be in cardiogenic shock, with elevated lactate and troponin. She rapidly decompensated and required pressors and mechanical circulatory support.
+
+**Past Medical History:**  
+- Hypertension  
+- Obesity (BMI 30)  
+- Multiple pregnancies, including blighted ovum, early miscarriage, and fetus with unknown complication  
+- Viral sinusitis x2  
+- No known CAD  
+- No DM
+
+**Past Surgical History:**  
+- Mirena IUD placement  
+- Etonogestrel implant
+
+**Current Medications:**  
+- Hydrochlorothiazide 12.5 mg PO daily  
+- Errin 28 day pack  
+- Mirena 52 mg IUS  
+- Jolivette 28 day pack  
+- Seasonique 91 day pack  
+- Etonogestrel 68 mg implant
+
+**Allergies:**  
+NKDA
+
+**Social History:**  
+- Tobacco: Never  
+- Alcohol: Rare  
+- Illicit Drugs: Denies  
+- Occupation: School teacher  
+- Lives with: Husband and two children
+
+**Family History:**  
+- Mother: Hypertension, alive  
+- Father: MI age 62  
+- Siblings: Healthy
+
+---
+
+### ICU COURSE SUMMARY
+
+**Day 0 (Admission):**  
+- Arrived in cardiogenic shock, MAP 52 mmHg, HR 137, RR 28, SpO2 90% RA.  
+- Intubated for hypoxemic respiratory failure.  
+- Initiated on norepinephrine and dobutamine.  
+- Echo: severe global hypokinesis, EF 18%, LV dilated, RV mod. impaired.  
+- Emergent LHC: no obstructive CAD, elevated LVEDP.  
+- Placed Impella CP (percutaneous LVAD) for hemodynamic support.  
+- Labs: Mixed lactic acidosis, acute kidney injury, transaminitis.  
+- Transferred to CICU.
+
+**Day 1:**  
+- On Impella support, pressors titrated down.  
+- Renal function worsening, started furosemide drip for diuresis.  
+- CXR: pulmonary edema improved.  
+- Troponin trended down.  
+- Developed mild thrombocytopenia.
+
+**Day 2:**  
+- MAPs stable >65, weaning off norepinephrine.  
+- Neuro exam: mild confusion, resolving.  
+- Impella flows 3.2 L/min.  
+- Started on low-dose beta blocker.  
+- Diuresis ongoing, urine output adequate.
+
+**Day 3:**  
+- Impella wean trial tolerated.  
+- Off all pressors.  
+- Extubated to high-flow nasal cannula.  
+- Labs: Creatinine improving, LFTs downtrending.  
+- Plan for Impella removal if stable overnight.
+
+**Day 4:**  
+- Impella removed, hemodynamics stable.  
+- Transitioned to oral heart failure regimen.  
+- Transferred to step-down telemetry unit.
+
+---
+
+### PROBLEM-BASED ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock due to Acute Decompensated Heart Failure (new-onset, nonischemic CMP)**
+- Impella CP placed on admission for hemodynamic support, successfully weaned.
+- Continue GDMT for heart failure: carvedilol, sacubitril/valsartan, spironolactone, furosemide.
+- Daily weights, strict I/Os, monitor for recurrent decompensation.
+- Cardiology f/u, consider genetic CMP panel.
+
+**2. Acute Kidney Injury (likely pre-renal, secondary to low perfusion)**
+- Improved with restoration of cardiac output.
+- Monitor BMP, urine output.
+- Avoid nephrotoxins, continue gentle diuresis.
+
+**3. Hepatic Congestion/Transaminitis**
+- Likely secondary to shock liver.
+- LFTs trending down; monitor q48h.
+
+**4. Obesity (BMI 30)**
+- Nutritional consult.
+- Encourage weight loss post-discharge.
+
+**5. Hypertension**
+- Resume antihypertensives as tolerated.
+- Home HCTZ on hold; will reassess on discharge.
+
+**6. Contraception Management**
+- Continue Mirena IUD and etonogestrel implant in situ.
+- No acute issues with current regimens.
+
+**7. Thrombocytopenia (mild)**
+- Likely multifactorial (device, hemodilution, sepsis).
+- Monitor platelets daily.
+
+**8. Psychosocial/Discharge Planning**
+- Social work consult for home support.
+- Education on CHF, device history, medication adherence.
+
+---
+
+### VITALS (ICU)
+
+| Date        | Temp (°C) | HR   | BP (mmHg) | RR  | SpO2 (%) | Pain |
+|-------------|-----------|------|-----------|-----|----------|------|
+| 5/19/24 06:00 | 37.2      | 137  | 76/42     | 28  | 90       | 7    |
+| 5/19/24 18:00 | 36.8      | 116  | 98/55     | 24  | 95       | 4    |
+| 5/20/24 06:00 | 37.0      | 102  | 110/62    | 18  | 97       | 2    |
+| 5/21/24 06:00 | 36.7      | 85   | 118/68    | 16  | 98       | 2    |
+| 5/22/24 06:00 | 36.9      | 78   | 122/72    | 15  | 98       | 1    |
+
+---
+
+### LABS (Selected)
+
+**CBC/CHEM7/Other**
+
+| Date        | WBC | Hgb | Hct | Plt | Na  | K   | Cl  | CO2 | BUN | Cr  | Glu | AST  | ALT  | Troponin I | BNP   |
+|-------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|------|------|------------|-------|
+| 5/19/24 06:00 | 10.3| 14.2| 39  | 256 | 134 | 4.6 | 98  | 17  | 38  | 2.15| 138 | 212  | 185  | 6.2        | 12,500|
+| 5/19/24 18:00 | 9.1 | 13.1| 37  | 222 | 136 | 4.2 | 99  | 19  | 34  | 2.09| 145 | 180  | 155  | 3.4        | 11,100|
+| 5/20/24 06:00 | 8.7 | 12.9| 36  | 199 | 137 | 4.0 | 100 | 21  | 28  | 1.56| 126 | 101  | 87   | 1.2        | 7,400 |
+| 5/21/24 06:00 | 7.6 | 12.7| 35  | 185 | 139 | 3.8 | 100 | 23  | 21  | 1.21| 118 | 54   | 47   | <0.04      | 3,200 |
+| 5/22/24 06:00 | 7.2 | 12.5| 34  | 175 | 140 | 3.9 | 101 | 24  | 18  | 1.09| 112 | 38   | 29   | <0.04      | 1,500 |
+| 5/22/24 18:00 |     |     |     |     |     |     |     |     |     |     |     |      |      |            |       |
+
+**Notes:**  
+- Initial lactic acidosis resolved by day 2.  
+- Troponin peaked on admission, normalized by day 3.  
+- LFTs improved as shock resolved.  
+- Mild persistent thrombocytopenia, monitored.
+
+---
+
+### CONSULTS
+
+- **Cardiology:** Daily management, device support, long-term HF planning.
+- **Nephrology:** AKI monitoring, no HD indicated.
+- **Nutrition:** Evaluated for obesity, protein-calorie needs.
+- **Social Work:** Home support needs, family education.
+
+---
+
+### DISCHARGE PLANNING
+
+- **Anticipated discharge:** 5/25/24 to home with close HF clinic follow-up.
+- **Discharge meds:** Will include heart failure regimen, resume HCTZ if BP tolerates.
+- **Education:** CHF, device history, medication adherence, symptom recognition.
+- **Follow-up:** Cardiology (1 week), PCP (2 weeks).
+
+---
+
+**Physician:** Julia Tran, MD  
+**Date/Time:** 5/22/24 15:24
+
+---

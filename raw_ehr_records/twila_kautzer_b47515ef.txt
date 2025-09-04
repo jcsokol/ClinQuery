@@ -1,0 +1,215 @@
+---
+**Patient Name:** Twila Kautzer  
+**MRN:** 00349715  
+**DOB:** 08/06/1982  
+**Sex:** Female  
+**Admission Date:** 04/10/2024  
+**Attending:** Dr. S. Halvorsen, MD  
+**Admitting Dx:** Acute decompensated heart failure, Cardiogenic shock  
+**Code Status:** Full  
+**Allergies:** NKDA  
+**BMI:** 30.5 (Obesity)  
+**Height:** 156 cm  
+**Weight:** 74.4 kg  
+
+---
+
+# ICU Admission Note
+
+## Chief Complaint
+Shortness of breath, orthopnea, and chest tightness for 3 days.
+
+## HPI
+39-year-old female with a history of obesity, recurrent acute bronchitis, prior miscarriage, and normal pregnancy, presented with progressive dyspnea, orthopnea, and lower extremity edema. She developed acute hypoxemic respiratory failure and hypotension in the ED. Initial ECG showed sinus tachycardia with low voltage; troponin mildly elevated. Echo revealed severe global LV systolic dysfunction (EF ~15%), mild RV dysfunction, and moderate MR. She was admitted to the MICU for management of presumed acute decompensated heart failure, later developed cardiogenic shock refractory to medical therapy, requiring placement of a temporary percutaneous left ventricular assist device (Impella CP) on hospital day 2.
+
+## Past Medical History
+- Obesity (BMI >30)
+- Recurrent acute bronchitis
+- Miscarriage, 1st trimester (2016)
+- Prior normal pregnancy (2012)
+- No known cardiac history prior to this admission
+
+## Past Surgical History
+- D&C (2016)
+- C-section (2012)
+
+## Medications on Admission
+- Acetaminophen 325mg PO PRN
+- Seasonique 91 Day Pack
+- NuvaRing
+- Medroxyprogesterone acetate 150mg/mL injection q3mo
+
+## Family History
+- Mother: HTN, DM2
+- Father: MI age 62
+- No known hereditary cardiac disease
+
+## Social History
+- Non-smoker, rarely drinks
+- Lives with partner, 2 children
+- Employed as a school administrator
+
+## Review of Systems
+- General: Fatigue, weight gain (~2kg in 1 week)
+- Cardiac: Palpitations, orthopnea, PND
+- Pulm: Dyspnea, mild cough
+- GI: Nausea, no vomiting
+- GU: Oliguria on day of admission
+- Neuro: No syncope, no focal deficits
+
+---
+
+# Physical Exam on Admission
+
+| System         | Findings                                                        |
+|----------------|-----------------------------------------------------------------|
+| Gen            | Obese, in moderate respiratory distress                         |
+| Vitals         | T 37.5°C, HR 121, BP 98/65 (MAP 74), RR 22, SpO2 92% on 4L NC   |
+| HEENT          | Oropharynx clear, no JVD                                        |
+| Chest/Lungs    | Bibasilar crackles, decreased breath sounds RLL                 |
+| CV             | Tachycardic, S3 present, 2/6 holosystolic murmur at apex        |
+| Abdomen        | Soft, NT, mild hepatomegaly                                     |
+| Extremities    | 2+ pitting edema BLE, cool peripheries                          |
+| Neuro          | A&O x3, no focal deficits                                       |
+| Skin           | Warm, no rashes                                                 |
+
+---
+
+# ICU Hospital Course Summary
+
+**Day 1:**  
+- Admitted with acute decompensated HF, escalating O2 requirements, started on IV loop diuretic, nitroglycerin drip, and low-dose norepinephrine for hypotension.  
+- Labs notable for elevated BNP, mild troponin elevation, AKI (Cr 1.7 from baseline 0.9), mild transaminitis.
+
+**Day 2:**  
+- Worsening shock (MAP <65 despite vasopressors), persistent hypoperfusion (lactate 4.7), oliguria.  
+- Cardiology consulted, decision made for percutaneous LVAD (Impella CP) placement at bedside.  
+- Hemodynamics improved post-procedure, weaned off norepinephrine within 18 hrs.
+
+**Day 3-5:**  
+- Gradual improvement in end-organ perfusion, diuresis achieved, renal function normalized.  
+- Developed self-limited episode of atrial fibrillation, managed with beta blockade.  
+- Impella weaned and explanted on day 5.  
+- Serial echos showed improvement in LVEF to 30%.  
+- Transferred to stepdown on day 7.
+
+---
+
+# Laboratory Data
+
+**CBC & Chem7 Table**
+
+| Date        | WBC (K/uL) | Hb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|-------------|------------|-----------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|
+| 4/10/2024   | 8.4        | 13.7      | 35.2    | 162        | 132         | 4.1        | 97          | 21           | 29          | 1.7        | 112         |
+| 4/11/2024   | 10.2       | 12.9      | 33.8    | 135        | 129         | 4.6        | 95          | 19           | 34          | 2.3        | 144         |
+| 4/12/2024   | 8.9        | 11.8      | 30.9    | 122        | 134         | 4.2        | 97          | 22           | 23          | 1.4        | 106         |
+| 4/13/2024   | 7.5        | 12.2      | 32.0    | 148        | 137         | 4.0        | 99          | 23           | 18          | 1.1        | 98          |
+| 4/14/2024   | 7.7        | 12.5      | 32.6    | 156        | 139         | 4.3        | 102         | 25           | 16          | 0.9        | 104         |
+| 4/15/2024   |            | 12.7      |         | 159        | 140         | 4.0        | 103         | 26           | 15          | 0.8        |             |
+| 4/16/2024   | 7.9        |           |         | 158        | 138         | 4.2        | 101         | 24           | 14          | 0.8        | 102         |
+
+**Other Labs**
+
+- BNP (4/10): 1890 pg/mL
+- Troponin I (4/10): 0.14 ng/mL (peak 0.21 ng/mL on 4/11, downtrending)
+- Lactate (4/11): 4.7 mmol/L (normalized by 4/13)
+- AST/ALT (4/11): 88/92 U/L (downtrending)
+- INR: 1.2
+- Total Cholesterol: 170 mg/dL
+- LDL: 73 mg/dL
+- HDL: 71 mg/dL
+- TG: 130 mg/dL
+
+---
+
+# Problem-Based Assessment and Plan
+
+**1. Cardiogenic Shock (Acute Decompensated Heart Failure)**
+   - *Assessment*: Severe LV dysfunction, rapid onset shock, likely non-ischemic.  
+   - *Plan*:  
+     - Temporary LVAD (Impella CP) for circulatory support (placed day 2, removed day 5).  
+     - Diuresis with IV furosemide; titrated as renal function improved.  
+     - Vasopressors weaned post-LVAD.  
+     - Serial TTEs to monitor recovery.  
+     - Cardiac MRI pending as outpatient for etiology (myocarditis vs. idiopathic DCM).  
+     - GDMT for HF to be initiated as tolerated.
+
+**2. Acute Kidney Injury (resolved)**
+   - *Assessment*: Likely secondary to hypoperfusion, prerenal.  
+   - *Plan*:  
+     - Monitored UOP, daily BMP.  
+     - Avoided nephrotoxins.  
+     - Renal function normalized by day 4.
+
+**3. Paroxysmal Atrial Fibrillation**
+   - *Assessment*: Occurred during ICU course, likely related to stress/catecholamines.  
+   - *Plan*:  
+     - Rate control with metoprolol.  
+     - Anticoagulation not indicated (CHA2DS2-VASc = 1).  
+     - Monitor for recurrence.
+
+**4. Obesity (BMI 30.5)**
+   - *Assessment*: Risk factor for HF, OSA.  
+   - *Plan*:  
+     - Dietician consult.  
+     - Daily weights, fluid restriction.  
+     - Counsel on weight loss post-discharge.
+
+**5. Contraception Management**
+   - *Assessment*: On multiple hormonal agents.  
+   - *Plan*:  
+     - OBGYN consult.  
+     - Discussed risks/benefits of estrogen-containing contraceptives in context of new HF.
+
+**6. History of Bronchitis**
+   - *Assessment*: No active infection on this admission; negative respiratory viral panel.  
+   - *Plan*:  
+     - Supportive care, incentive spirometry.
+
+**7. Psychosocial/Functional**
+   - *Assessment*: Anxiety re: new diagnosis, young children at home.  
+   - *Plan*:  
+     - Social work consult, family meeting.  
+     - PT/OT to assess for safe discharge.
+
+---
+
+# Discharge Summary (Anticipated)
+
+- **Disposition:** Home with family, close Cardiology follow-up.
+- **Medications:** GDMT for HF (carvedilol, sacubitril/valsartan, spironolactone), furosemide PRN, hold estrogen-based contraception pending further evaluation.
+- **Follow-up:** Cardiology (within 1 week), OBGYN, PCP.
+- **Instructions:** Fluid restriction, daily weights, medication compliance, return for worsening dyspnea, edema, chest pain.
+
+---
+
+# Orders
+
+- Daily labs (CBC, Chem7, LFTs, Troponin x3 days)
+- Strict I/Os
+- Telemetry monitoring
+- Low sodium diet
+- DVT prophylaxis (SCDs, enoxaparin 40mg SQ daily)
+- PT/OT eval
+
+---
+
+# ICU Progress Notes (Abbreviated)
+
+**Day 2:**  
+- MAP 60-65 on norepi 0.08 mcg/kg/min, UOP <0.3 ml/kg/hr.  
+- Impella inserted w/o complication. Immediate improvement in BP, lactate down from 4.7 to 2.1.
+
+**Day 4:**  
+- Diuresis ongoing, net negative 2.1L.  
+- Renal function improving.  
+- Patient alert, extubated, tolerating PO.
+
+**Day 6:**  
+- Impella explanted, no vascular complications.  
+- Plan for stepdown transfer.
+
+---
+
+**END OF NOTE**

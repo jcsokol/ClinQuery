@@ -1,0 +1,150 @@
+```
+----------------------------------------------------------
+EPIC EHR - INPATIENT MEDICAL RECORD
+----------------------------------------------------------
+
+PATIENT NAME: Burma Oberbrunner            MRN: 0419082
+DOB: 1968-08-31 (Age: 55)                  SEX: Female
+ADMIT DATE: 2024-05-04                     SERVICE: ICU
+ATTENDING: Dr. Sarah Gibbons, MD           CONSULTS: Cardiology, CT Surgery, Endocrinology
+
+REASON FOR ADMISSION:
+Acute decompensated heart failure with cardiogenic shock, requiring temporary left ventricular assist device (Impella CP) placement.
+
+HISTORY OF PRESENT ILLNESS:
+55-year-old female with PMHx of breast cancer (s/p left mastectomy, on tamoxifen), prediabetes, hyperlipidemia, and remote miscarriage, who presented to the ED with 24h of progressive dyspnea, orthopnea, and chest pressure. She was found to be hypotensive (SBP 82/55), tachycardic (HR 122), and hypoxic (SpO2 88% RA). Initial labs revealed elevated troponin, BNP, and lactate. Bedside TTE showed severely reduced LVEF (~15%) with global hypokinesis. She developed worsening hypoperfusion despite inotropes and pressors, so emergent Impella CP was placed at bedside for circulatory support.
+
+HOSPITAL COURSE (Days 1-7):
+
+- Day 1: Intubated for hypoxic respiratory failure, started on norepinephrine, dobutamine. Impella CP placed via R femoral access. CVP 14, MAP 63, UOP 0.3 mL/kg/hr. Cardiology, CT surgery consulted. Started empiric antibiotics for possible sepsis.
+- Day 2-3: Gradual improvement in perfusion. Weaned off norepinephrine. Creatinine peaked at 2.1, thought to be AKI from hypoperfusion. TTE with persistent LVEF 15-20%. Troponin trending down. Tamoxifen held, statin continued.
+- Day 4: Extubated, transitioned to HF nasal cannula. Mobilized to chair. Impella flows weaned. UOP improved. Echo: mild improvement in LVEF (now 25%).
+- Day 5: Impella weaned and explanted. Renal function improved. Down-titration of inotropes. Developed fever (38.2°C), WBC 14.2, blood cultures obtained (no growth).
+- Day 6-7: Transferred to step-down unit. Stable off inotropes. Started on low-dose carvedilol, restarted tamoxifen. Ambulating with PT. Discharge planning initiated.
+
+PAST MEDICAL HISTORY:
+- Breast cancer, malignant, left, diagnosed 2021, s/p mastectomy, on tamoxifen
+- Hyperlipidemia
+- Prediabetes, A1c 5.8%
+- Miscarriage, 1st trimester, 1993
+- Viral sinusitis, recurrent
+- Prior normal pregnancy (G2P1A1)
+- Fetus with unknown complication (resolved)
+
+PAST SURGICAL HISTORY:
+- Left mastectomy (2021)
+- Cesarean section (1997)
+
+MEDICATIONS ON ADMISSION:
+- Simvastatin 10 mg PO qhs
+- Tamoxifen 10 mg PO BID
+- Natazia 28 Day Pack, NuvaRing (recently d/c’d)
+- Amoxicillin/clavulanate 250/125 mg PO BID (recent, for sinusitis)
+
+ALLERGIES: NKDA
+
+SOCIAL HISTORY:
+- Non-smoker, rare EtOH, no illicit drugs
+- Lives with husband, 1 son (age 27)
+- Works as librarian
+
+FAMILY HISTORY:
+- Mother: CAD, DM2
+- Father: Colon cancer
+
+REVIEW OF SYSTEMS:
+Unable to obtain on admission (intubated). After extubation: reports mild fatigue, no chest pain, mild dyspnea on exertion.
+
+PHYSICAL EXAM (Day 4, post-extubation):
+GEN: Alert, NAD, sitting up
+HEENT: PERRLA, dry mucosa
+CV: Tachycardic, S1/S2, soft systolic murmur, no JVD, Impella hum present
+RESP: Lungs clear, mild crackles at bases
+ABD: Soft, NT/ND, normoactive BS
+EXT: No edema, pulses 2+ bilat
+NEURO: AOx3, no focal deficit
+
+VITALS (selected):
+| Date     | Temp (°C) | HR | BP        | RR | SpO2 | O2 Device    |
+|----------|-----------|----|-----------|----|------|-------------|
+| 5/4/24   | 36.8      | 122| 82/55     | 28 | 88%  | RA          |
+| 5/5/24   | 37.1      | 110| 96/60     | 24 | 94%  | NC 2L       |
+| 5/6/24   | 36.7      | 98 | 104/67    | 22 | 97%  | HFNC 30%    |
+| 5/7/24   | 37.0      | 92 | 112/70    | 18 | 98%  | RA          |
+| 5/8/24   | 38.2      | 103| 108/68    | 18 | 98%  | RA          |
+| 5/10/24  | 36.9      | 88 | 118/74    | 16 | 98%  | RA          |
+
+LABS (CBC, CHEM7, Cardiac, LFTs, others):
+
+| Date     | WBC   | Hgb  | Plts | Na   | K    | Cl   | CO2  | BUN  | Cr   | Gluc | Troponin | BNP   | AST  | ALT  | AlkPhos | Bilirubin | Lactate |
+|----------|-------|------|------|------|------|------|------|------|------|------|----------|-------|------|------|---------|-----------|---------|
+| 5/4/24   | 9.9   | 14.8 | 366  | 142  | 3.8  | 104  | 27   | 19   | 0.82 | 64   | 0.78     | 1820  | 18   | 33   | 77      | 1.2       | 4.1     |
+| 5/5/24   | 12.4  | 13.9 | 342  | 140  | 3.4  | 101  | 24   | 31   | 1.7  | 71   | 0.53     | 1740  | 22   | 29   | 63      | 0.9       | 2.8     |
+| 5/6/24   | 13.2  | 12.7 | 298  | 137  | 3.0  | 99   | 23   | 41   | 2.1  | 78   | 0.31     | 1580  | 25   | 31   | 79      | 1.3       | 1.7     |
+| 5/7/24   | 11.8  | 13.4 | 321  | 138  | 3.6  | 101  | 25   | 28   | 1.3  | 94   | 0.19     | 1120  | 19   | 28   | 70      | 1.1       | 1.1     |
+| 5/8/24   | 14.2  | 13.8 | 287  | 139  | 4.0  | 102  | 23   | 24   | 1.1  | 106  | 0.13     | 890   | 21   | 27   |        |           | 0.9     |
+| 5/9/24   | 9.8   | 14.2 | 301  |      | 3.7  |      | 26   | 21   | 0.97 | 99   |          | 622   | 18   |      | 67      |           |         |
+| 5/10/24  | 8.7   | 14.4 | 334  | 141  | 3.9  | 104  | 27   | 18   | 0.89 | 102  | <0.01    | 410   | 17   | 25   | 72      | 1.0       |         |
+
+*Some labs missing due to specimen clotting or hemolysis.
+
+MICROBIOLOGY:
+- Blood cultures x2 (5/5): No growth at 5 days
+- Urine culture: No growth
+
+IMAGING:
+- CXR (5/4): Pulmonary edema, enlarged cardiac silhouette
+- TTE (5/4): LVEF 15%, global hypokinesis, mild MR
+- TTE (5/7): LVEF 25%, mild improvement
+
+PROBLEM-BASED ASSESSMENT & PLAN
+
+1. **Acute Decompensated Heart Failure, Cardiogenic Shock (s/p Impella CP)**
+   - Initial presentation with profound LV dysfunction, hypotension, hypoperfusion.
+   - Supported with Impella CP, inotropes, pressors.
+   - Now off Impella, stable, improving LVEF.
+   - Plan: Continue guideline-directed therapy, slow uptitration of beta-blocker (carvedilol), monitor for recurrent decompensation, daily weights, strict I/Os, TTE prior to discharge.
+
+2. **Cardiorenal Syndrome / AKI**
+   - AKI likely secondary to hypoperfusion, improved with restoration of cardiac output.
+   - Plan: Monitor renal function, avoid nephrotoxins, maintain euvolemia.
+
+3. **History of Malignant Neoplasm of Breast (on Tamoxifen)**
+   - Tamoxifen held during ICU course for risk of thrombosis, now resumed.
+   - Oncology to follow outpatient.
+
+4. **Hyperlipidemia**
+   - Continue simvastatin. Recent LDL 132, TC 202.
+   - Plan: Discuss statin dose increase on outpatient basis.
+
+5. **Prediabetes**
+   - A1c 5.9% on admission, no insulin requirements during stay.
+   - Plan: Continue monitoring, recommend lifestyle modification.
+
+6. **Infection, possible (fever, leukocytosis)**
+   - Blood/urine cultures negative, improved clinically.
+   - Plan: D/c empiric abx, monitor for recurrence.
+
+7. **History of OBGYN complications (miscarriage, prior pregnancy, fetus with unknown complication)**
+   - No active GYN issues. Natazia/NuvaRing discontinued on admission.
+   - Plan: Routine GYN follow-up.
+
+8. **Physical deconditioning**
+   - Initiated PT/OT, ambulating with assistance.
+   - Plan: Continue inpatient rehab, arrange outpatient PT.
+
+9. **DVT prophylaxis**
+   - On SQ heparin during ICU stay.
+   - Plan: Continue until fully ambulatory.
+
+10. **Discharge planning**
+    - Anticipate transfer to cardiac rehab.
+    - Close follow-up with cardiology, oncology, PCP.
+
+SIGNATURE:  
+Sarah Gibbons, MD  
+ICU Attending Physician  
+Date/Time: 2024-05-10 15:23
+
+----------------------------------------------------------
+```

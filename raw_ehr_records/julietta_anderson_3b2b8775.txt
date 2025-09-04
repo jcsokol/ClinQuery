@@ -1,0 +1,190 @@
+**Patient Name:** Julietta Anderson  
+**MRN:** 002938475  
+**DOB:** 10/11/1998  
+**Sex:** Female  
+**Admit Date:** 02/03/2024  
+**Attending:** Dr. Michael R. Evans  
+**Location:** CVICU, Room 312B  
+**Allergies:** NKDA
+
+---
+
+## CHIEF COMPLAINT  
+Acute shortness of breath and chest pain, found unresponsive at home.
+
+---
+
+## HISTORY OF PRESENT ILLNESS  
+Julietta Anderson is a 25-year-old female with a known history of seizure disorder (single prior event, presumed provoked), perennial allergic rhinitis, viral sinusitis, and prior concussion (no LOC), who was brought in by EMS after being found unresponsive by her roommate. Per EMS, patient was cyanotic and required bag-mask ventilation en route. On arrival, BP 74/42, HR 127, RR 28, SpO2 88% on NRB. She was intubated for airway protection.
+
+Initial workup notable for markedly elevated troponin, global hypokinesis on bedside echo, and lactic acidosis. She developed worsening hypotension despite escalating vasopressors and was subsequently placed on a percutaneous temporary left ventricular assist device (Impella CP) for presumed acute fulminant myocarditis vs. cardiogenic shock, likely secondary to viral etiology (recent URI symptoms).
+
+---
+
+## PAST MEDICAL HISTORY  
+- Seizure disorder (single, provoked)  
+- Perennial allergic rhinitis  
+- Viral sinusitis (recent)  
+- Concussion (no LOC)  
+- Acute allergic reaction (remote)
+
+---
+
+## PAST SURGICAL HISTORY  
+- None
+
+---
+
+## FAMILY HISTORY  
+- Noncontributory
+
+---
+
+## SOCIAL HISTORY  
+- Lives with roommate, college student  
+- No tobacco, EtOH, or illicit drugs  
+- No recent travel  
+- No family history of sudden cardiac death
+
+---
+
+## HOME MEDICATIONS  
+- Fexofenadine 30 mg PO daily  
+- Epinephrine auto-injector (as needed)  
+- Natazia, Yaz, Trinessa (recently switched OCPs)  
+- Prednisone 5 mg PO (recent course for sinusitis flare)
+
+---
+
+## PHYSICAL EXAM (ICU, Day 2)  
+**Gen:** Young woman, intubated, sedated, appears critically ill  
+**VS:** T 36.9°C, HR 114, BP 96/62 (on norepi 0.09 mcg/kg/min), RR 16 (vent), SpO2 99% (FiO2 40%)  
+**CV:** S1/S2, tachycardic, no murmurs/gallops/rubs, Impella in situ, MAP ~65  
+**Lungs:** Clear b/l, ETT in place, good air entry  
+**Abd:** Soft, NT, ND, +BS  
+**Neuro:** Sedated, GCS 6T, pupils 3mm equal/reactive  
+**Skin:** No rashes, no peripheral edema  
+**Lines:** R IJ TLC, R radial a-line, Foley, Impella CP (L femoral)
+
+---
+
+# ICU HOSPITAL COURSE SUMMARY
+
+**Day 1:**  
+- Presented in cardiogenic shock, intubated for airway protection, profound lactic acidosis (lactate 8.7), troponin I 8.6 → 13.2 ng/mL, CXR unremarkable.  
+- Bedside TTE: LVEF <20%, global hypokinesis, normal RV.  
+- Vasopressors and inotropes initiated; Impella CP placed at bedside.  
+- Started on full anticoagulation (heparin drip).  
+- Empiric broad-spectrum antibiotics for possible myocarditis: ceftriaxone, doxycycline.  
+- Infectious and autoimmune workup sent.  
+- Neurology consulted due to seizure history; continuous EEG monitoring initiated.
+
+**Day 2-3:**  
+- Gradual improvement in hemodynamics, weaned off norepinephrine.  
+- Impella flows stable, urine output improved.  
+- Lactate normalized by Day 3.  
+- Serial TTE: Improved LVEF to 35-40%.  
+- EEG: No epileptiform activity.  
+- Sedation weaned, extubated Day 3.
+
+**Day 4-6:**  
+- Impella weaned and explanted on Day 5.  
+- Cardiac MRI: Findings consistent with resolving myocarditis.  
+- Ambulating in room, O2 sat stable on room air.  
+- Neurologically intact, no further seizures.  
+- Discharged to telemetry floor for continued monitoring.
+
+---
+
+## LABS
+
+### CBC & CHEMISTRY (SELECTED VALUES)
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|
+| 2/3/24 AM  | 13.2       | 14.1       | 41      | 217        | 132         | 4.9        | 99          | 17           | 38          | 1.9        | 149         |
+| 2/3/24 PM  | 12.5       | 12.9       | 38      | 202        | 133         | 5.2        | 98          | 16           | 36          | 2.1        | 172         |
+| 2/4/24 AM  | 11.1       | 13.2       | 39      | 192        | 135         | 4.2        | 101         | 21           | 28          | 1.4        | 123         |
+| 2/4/24 PM  | 10.8       | 13.7       | 40      | 187        | 137         | 3.9        | 102         | 22           | 24          | 1.1        | 111         |
+| 2/5/24 AM  | 8.9        | 13.9       | 41      | 181        | 138         | 3.8        | 103         | 24           | 18          | 0.9        | 98          |
+| 2/5/24 PM  | 7.4        | 13.6       | 40      | 170        | 140         | 4.1        | 104         | 25           | 17          | 0.8        | 102         |
+| 2/6/24 AM  | 6.8        | 13.8       | 41      | 168        | 141         | 4.0        | 105         | 26           | 15          | 0.7        | 94          |
+| 2/6/24 PM  |    -       | 13.7       |   -     | 163        | 142         | 4.2        |   -         | 25           | 14          | 0.7        | 91          |
+
+#### Additional Labs:
+- **Troponin I:** 8.6 → 13.2 (peak) → 7.3 → 2.0 ng/mL  
+- **BNP:** 1,800 pg/mL (admission), 780 (Day 4)  
+- **Lactate:** 8.7 → 4.2 → 1.1 mmol/L  
+- **AST/ALT:** 58/72 U/L (peak), normalized by Day 4  
+- **CRP:** 96 mg/L (admission), 18 (Day 4)  
+- **ESR:** 72 mm/hr  
+- **INR:** 1.3 (admission), 1.1 (Day 4)  
+- **COVID/Flu PCR:** Negative  
+- **EBV/CMV/Parvo titers:** Negative
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. **Cardiogenic Shock, Fulminant Myocarditis (resolved)**
+- Likely viral etiology, presenting as acute decompensated heart failure with shock.
+- Required temporary mechanical circulatory support (Impella CP) for 4 days.
+- Plan: Continue GDMT for HF, follow-up TTE in 1 week, avoid strenuous activity x3 months, outpatient cardiology.
+
+### 2. **Acute Respiratory Failure (intubated, now resolved)**
+- Intubated for airway protection, extubated successfully on Day 3.
+- Plan: Pulmonary hygiene, O2 as needed, incentive spirometry.
+
+### 3. **Seizure Disorder (remote, no recent events)**
+- EEG negative for epileptiform activity during ICU stay.
+- No AEDs required. No witnessed seizure activity.
+- Plan: Continue monitoring, outpatient neurology.
+
+### 4. **Perennial Allergic Rhinitis / Viral Sinusitis**
+- No acute exacerbation during this admission.
+- Plan: Continue fexofenadine, monitor for symptoms.
+
+### 5. **Concussion (no LOC, remote)**
+- No acute issues.
+- Plan: No restrictions.
+
+### 6. **Acute Kidney Injury (resolved)**
+- Likely pre-renal from shock; creatinine peak 2.1, now back to baseline.
+- Plan: Monitor renal function, avoid nephrotoxins.
+
+### 7. **Transaminitis (resolved)**
+- Mild AST/ALT elevation, likely secondary to shock liver.
+- Plan: Monitor LFTs.
+
+### 8. **Anticoagulation (post-Impella)**
+- Heparin infusion during device support, transitioned to prophylactic LMWH post-removal.
+- Plan: Continue DVT prophylaxis.
+
+### 9. **Infection Prophylaxis**
+- Broad-spectrum abx stopped after negative cultures.
+- Plan: No further antibiotics.
+
+### 10. **Nutrition**
+- Started on tube feeds while intubated, now tolerating regular diet.
+
+---
+
+## DISCHARGE MEDICATIONS (anticipated)  
+- Fexofenadine 30 mg PO daily  
+- LMWH for 7 days  
+- Multivitamin  
+- Acetaminophen PRN  
+- Outpatient prescriptions for OCPs to be clarified  
+- No new cardiac medications pending outpatient evaluation
+
+---
+
+## FOLLOW-UP  
+- Cardiology: 1 week  
+- Neurology: 2 weeks  
+- Primary Care: 1 week  
+- Repeat TTE: 1 week  
+
+---
+
+*This is a simulated EHR record for educational purposes only.*

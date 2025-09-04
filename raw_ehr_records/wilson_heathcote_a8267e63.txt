@@ -1,0 +1,160 @@
+**EPIC EHR - INPATIENT PROGRESS NOTE**  
+**Patient:** Wilson Heathcote  
+**MRN:** 00491287  
+**DOB:** 04/13/1956 (68 years)  
+**Sex:** Male  
+**Date of Service:** 06/13/2024  
+**Attending:** Dr. Michael T. Kessler, MD  
+**Admitting Diagnosis:** Cardiogenic shock secondary to acute decompensated heart failure; status post temporary LVAD placement  
+**Consults:** Cardiology, Critical Care, Pulmonology, GI, Infectious Disease
+
+---
+
+### 1. **Chief Complaint**
+Shortness of breath, chest tightness, and altered mental status.  
+
+---
+
+### 2. **History of Present Illness**
+Mr. Heathcote is a 68-year-old male with a past medical history notable for severe pulmonary emphysema, obesity (BMI 30), anemia, history of appendectomy, and colonic polyps, who was admitted from the ED after presenting with acute-onset dyspnea, severe orthopnea, and confusion. Family notes 3-day history of increased cough, malaise, and reduced oral intake, with recent viral URI symptoms. In the ED, he was hypoxic, tachycardic, hypotensive, and had elevated JVP. CXR: pulmonary edema. Bedside echo: severely reduced LVEF (~15%), moderate RV dysfunction. Lactate elevated. Troponin mildly elevated. He rapidly deteriorated to cardiogenic shock requiring norepinephrine and dobutamine. Temporary LVAD (Impella CP) placed in ICU for circulatory support on hospital day 1.  
+
+---
+
+### 3. **Hospital Course**
+- **ICU Day 1-2:** Persistent shock despite escalating pressors/inotropes. Temporary LVAD placed via femoral artery. Hemodynamics improved, vasopressors weaned over 24h. Developed AKI (creatinine peaked 2.1), mild transaminitis.  
+- **Day 3-5:** Gradual improvement in end-organ perfusion. Extubated on day 4. Ongoing oxygen requirement (2L NC). Persistent mild anemia, intermittent low-grade fevers (max 38.5°C).  
+- **Day 6-8:** LVAD weaning trial successful; device removed on day 7. Cardiac function improved (LVEF up to 32%). Transferred to step-down unit. Mild delirium resolved.  
+- **Day 9-11:** Mobilization and rehab. GI consult for history of colonic polyps and positive fecal occult blood (FOBT). No overt GI bleeding.  
+- **Day 12:** Discharge planned with close outpatient follow-up.  
+
+---
+
+### 4. **Physical Exam (06/13/2024, AM)**
+| Vital Sign                | Value                |
+|---------------------------|----------------------|
+| Temp                      | 37.1°C               |
+| HR                        | 92 bpm               |
+| BP                        | 112/68 mmHg          |
+| RR                        | 18/min               |
+| SpO2                      | 97% (2L NC)          |
+| Weight                    | 90.2 kg              |
+| Height                    | 172.7 cm             |
+| BMI                       | 30.3 kg/m²           |
+
+- **Gen:** Alert, NAD, mild fatigue  
+- **CV:** Irreg. rhythm, S3, no murmur, JVP 8 cm  
+- **Resp:** Bibasilar crackles, mild expiratory wheeze  
+- **Abd:** Healed RLQ scar, NT, ND  
+- **Ext:** Trace pedal edema, warm  
+- **Neuro:** AOx3, no focal deficit  
+- **Skin:** Intact, no rashes
+
+---
+
+### 5. **Laboratory Data**
+#### *Selected Labs* (Some missing values/NA)
+
+| Date         | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Gluc | AST  | ALT  | TnI   | BNP   |
+|--------------|------|------|------|------|------|------|------|------|------|------|------|------|------|-------|-------|
+| 6/1/2024     | 8.1  | 15.7 | 45.2 | 223  | 138  | 4.1  | 104  | 24   | 21   | 1.1  | 108  | 37   | 41   | 0.03  | 2200  |
+| 6/2/2024     | 11.2 | 13.2 | 37.9 | 201  | 136  | 5.2  | 101  | 20   | 32   | 1.8  | 117  | 63   | 72   | 0.07  | 3500  |
+| 6/3/2024     | 9.6  | 12.7 | 36.1 | 190  | 134  | 5.4  | 99   | 19   | 44   | 2.1  | 123  | 58   | 66   | 0.05  | 2900  |
+| 6/4/2024     | 8.7  | 12.6 | 35.9 | 195  | 135  | 4.3  | 101  | 23   | 29   | 1.7  | 116  | 41   | 55   | 0.04  | 2100  |
+| 6/5/2024     | 7.9  | 12.9 | 36.8 | 202  | 137  | 4.0  | 102  | 25   | 19   | 1.3  | 111  | NA   | 47   | NA    | 1800  |
+| 6/6/2024     | 7.4  | 13.1 | 37.2 | 209  | 138  | 3.7  | 104  | 27   | 15   | 1.1  | 104  | 35   | NA   | 0.01  | 1300  |
+| 6/7/2024     | 7.2  | 13.5 | 38.1 | 218  | 139  | 3.9  | 106  | 28   | 14   | 1.0  | 102  | 32   | 38   | <0.01 | 900   |
+| 6/9/2024     | 8.0  | 13.9 | 39.2 | 226  | 140  | 4.1  | 105  | 28   | 13   | 0.9  | 101  | 31   | 33   | <0.01 | 600   |
+| 6/12/2024    | 8.4  | 14.2 | 40.0 | 241  | 141  | 4.2  | 107  | 29   | 12   | 0.9  | 99   | 29   | 30   | <0.01 | 400   |
+
+**Additional labs:**  
+- **Lactate:** peaked at 3.8 mmol/L (day 1), normalized by day 4  
+- **INR:** peaked 1.5 (day 2), now 1.1  
+- **FOBT:** positive  
+- **ABG (day 1):** pH 7.23 / pCO2 58 / pO2 72 / HCO3 24  
+- **Cultures:** all negative
+
+---
+
+### 6. **Imaging/Procedures**
+- **CXR:** Pulmonary edema, mild cardiomegaly
+- **Echo (admission):** LVEF ~15%, moderate RV dysfunction
+- **Echo (day 7):** LVEF improved to 32%, mild MR, no thrombus
+- **Abd US (day 9):** No acute findings, prior appendectomy changes
+
+---
+
+### 7. **Assessment & Plan (Problem-Based)**
+
+#### 1. **Cardiogenic Shock, Acute Decompensated HF (EF 15%)**
+   - s/p temporary LVAD (Impella) placement, now explanted
+   - Improved hemodynamics, off pressors/inotropes
+   - Continue GDMT for HFrEF (ACEi, BB, MRA as tolerated)
+   - Monitor volume status, strict I/Os, daily weights
+   - Cardiology f/u, consider advanced therapies if recurrent decompensation
+
+#### 2. **Severe Pulmonary Emphysema/COPD**
+   - On scheduled fluticasone/salmeterol
+   - Wean oxygen as tolerated, currently 2L NC
+   - Pulm f/u, smoking cessation counseling
+   - Incentive spirometry, airway clearance
+
+#### 3. **Acute Kidney Injury (resolved)**
+   - Likely multifactorial: hypoperfusion, nephrotoxic meds, contrast
+   - Renal function improving, now Cr 0.9
+   - Avoid nephrotoxins, monitor labs
+
+#### 4. **Anemia**
+   - Persistent, multifactorial (chronic disease, GI blood loss)
+   - Hgb stable, no overt bleeding
+   - GI f/u for colonoscopy (polyp hx, +FOBT)
+   - Monitor H/H
+
+#### 5. **Obesity (BMI 30.3)**
+   - Nutrition consult, calorie restriction, daily weights
+   - Encourage mobilization/rehab
+
+#### 6. **History of Appendectomy, Colon Polyps**
+   - No acute GI symptoms
+   - Outpatient colonoscopy recommended
+
+#### 7. **Acute Viral Illness (sinusitis/pharyngitis)**
+   - Supportive care, symptoms improving
+
+#### 8. **Other**
+   - Pain: mild, acetaminophen PRN
+   - DVT prophylaxis: SCDs, LMWH
+   - Delirium: resolved
+   - PT/OT: ambulation, ADLs
+
+---
+
+### 8. **Medications**
+- Fluticasone/salmeterol inhaler 1 actuation BID  
+- Acetaminophen 325 mg PO q6h PRN  
+- Lisinopril 5 mg PO daily  
+- Metoprolol succinate 25 mg PO daily  
+- Spironolactone 25 mg PO daily  
+- Furosemide 20 mg IV daily (transition to PO)  
+- LMWH 40 mg SQ daily  
+- Docusate 100 mg PO BID  
+- Multivitamin daily  
+
+---
+
+### 9. **Discharge Planning**
+- Anticipate discharge 6/13/2024  
+- Home with family, home health RN  
+- Cardiology, GI, Pulm, PCP follow-up  
+- Outpatient labs in 1 week  
+- Education: Heart failure, COPD, medication adherence
+
+---
+
+### 10. **Provider Signature**
+Michael T. Kessler, MD  
+Critical Care Medicine  
+06/13/2024 09:45
+
+---
+
+**End of Note**

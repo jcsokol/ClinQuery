@@ -1,0 +1,187 @@
+```
+---------------------------------------------------------------------------
+EPIC EHR - Inpatient Chart Review
+---------------------------------------------------------------------------
+
+Patient Name: Barbara Delgado
+MRN: 3912458-AD
+DOB: 10/27/1972 (Age: 51)
+Sex: Female
+Admit Date: 03/20/2024
+Attending: Dr. Samuel R. Hodge, MD
+Unit: MICU
+Room: 4B-22
+
+---------------------------------------------------------------------------
+
+CHIEF COMPLAINT
+----------------
+"Shortness of breath and chest pain, found unresponsive at home."
+
+HISTORY OF PRESENT ILLNESS
+--------------------------
+Barbara Delgado is a 51-year-old woman with a history of hypertension, obesity (BMI 30.4), hyperlipidemia, and remote appendectomy who was brought to the ED after being found unresponsive by her daughter. EMS noted pulseless electrical activity (PEA) on arrival; CPR was initiated, and ROSC achieved after 8 minutes. On arrival to the ED, she was hypotensive, tachycardic, and hypoxic, requiring intubation. Initial ECG: sinus tachycardia, nonspecific ST-T changes. Troponin elevated. CXR: pulmonary edema. She was transferred to the ICU for management of cardiogenic shock.
+
+Notably, the patient had a recent history of viral sinusitis and bronchitis, but no prior known heart disease. She had increasing dyspnea, orthopnea, and lower extremity edema for 2 weeks prior to admission. No prior MI or heart failure diagnosis.
+
+Due to refractory hypotension and evidence of end-organ hypoperfusion (elevated creatinine, altered mentation), decision was made to place a percutaneous left ventricular assist device (Impella CP) on hospital day 1.
+
+---------------------------------------------------------------------------
+
+PAST MEDICAL HISTORY
+--------------------
+- Hypertension
+- Hyperlipidemia
+- Obesity (BMI >30)
+- History of cardiac arrest (this admission)
+- Acute and recurrent viral sinusitis/bronchitis
+- Appendicitis s/p appendectomy
+
+PAST SURGICAL HISTORY
+---------------------
+- Appendectomy (childhood)
+
+SOCIAL HISTORY
+--------------
+- Tobacco: Denies
+- Alcohol: Rare
+- Illicit drugs: Denies
+- Lives with daughter
+
+FAMILY HISTORY
+--------------
+- Mother: HTN, T2DM
+- Father: MI age 62
+
+---------------------------------------------------------------------------
+
+ALLERGIES
+---------
+NKDA
+
+---------------------------------------------------------------------------
+
+HOME MEDICATIONS (prior to admission)
+-------------------------------------
+- Atenolol/chlorthalidone 50/25 mg daily
+- Simvastatin 10 mg qhs
+- Multiple hormonal contraceptive agents (see med list)
+- Amoxicillin/clavulanate (recent, for sinusitis)
+- PRN acetaminophen/dextromethorphan/doxylamine
+
+---------------------------------------------------------------------------
+
+PHYSICAL EXAM (ICU, Day 2)
+--------------------------
+Gen: Intubated, sedated, appears obese
+HEENT: Normocephalic, atraumatic, ETT in place
+CV: Tachycardic, S1S2 present, no murmur, Impella hum audible
+Lungs: Diffuse crackles, decreased air entry bases
+Abd: Soft, nontender, surgical scar RLQ
+Ext: 1+ pitting edema BLE
+Neuro: Follows commands, moving all extremities, GCS 10T
+
+---------------------------------------------------------------------------
+
+ICU COURSE
+----------
+Day 1: Admitted after cardiac arrest, intubated, started on norepinephrine + dobutamine for cardiogenic shock. Worsening lactic acidosis, increasing vasopressor requirements. Impella CP placed via right femoral approach. Immediate improvement in MAP and urine output.
+
+Day 2-4: Weaning vasopressors, improved renal function, extubated on hospital day 3. Persistent mild pulmonary edema. Started on low-dose beta blocker and ACEi. Serial troponins trended down. Echo: LVEF 25%, global hypokinesis, no valvular abnormality, moderate LAE.
+
+Day 5: Impella weaned and removed. Transitioned to HF regimen. Mobilization started. Mild delirium noted, resolved with reorientation.
+
+---------------------------------------------------------------------------
+
+LABS
+----
+
+| Date        | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Troponin (ng/mL) | AST (U/L) | ALT (U/L) | Alb (g/dL) | Lactate (mmol/L) |
+|-------------|------------|------------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|------------------|-----------|-----------|------------|------------------|
+| 3/20/2024   | 7.1        | 13.2       | 277        | 140         | 5.1        | 110         | 19           | 36          | 2.9        | 98          | 3.2              | 44        | 28        | 3.6        | 6.1              |
+| 3/21/2024   | 8.3        | 12.7       | 254        | 142         | 4.8        | 108         | 22           | 30          | 2.4        | 90          | 2.1              | 38        | 22        | 3.9        | 2.8              |
+| 3/22/2024   | 6.4        | 12.9       | 231        | 143         | 4.3        | 109         | 23           | 26          | 1.8        | 102         | 0.7              | 26        | 18        | 4.1        | 1.5              |
+| 3/23/2024   | 6.8        | 12.5       | 210        | 142         | 4.1        | 107         | 24           | 24          | 1.6        | 110         | 0.2              | 19        | 16        | 4.2        | 1.1              |
+| 3/24/2024   | 7.0        | 12.6       | 215        | 141         | 3.9        | 109         | 25           | 22          | 1.4        | 98          | <0.01            | 17        | 15        | 4.3        | *                |
+
+*Note: Some labs not drawn daily or resulted (Alb, LFTs, lactate) – see flowsheets for details.
+
+---------------------------------------------------------------------------
+
+VITALS SUMMARY (selected)
+-------------------------
+- Admission: HR 127, BP 83/50 (MAP 61), RR 28, SpO2 87% on NRB, Temp 37.8C
+- ICU Day 2: HR 102, BP 100/62 (MAP 75), RR 18 (vent), SpO2 97% (FiO2 40%)
+- ICU Day 4: HR 92, BP 118/72, RR 15, SpO2 98% RA
+
+---------------------------------------------------------------------------
+
+PROBLEM-BASED ASSESSMENT & PLAN
+-------------------------------
+
+1. **Cardiogenic Shock after Cardiac Arrest**
+   - S/p out-of-hospital cardiac arrest (PEA) with presumed ischemic etiology; severe LV dysfunction, LVEF 25%
+   - Required temporary LVAD (Impella CP) for refractory shock.
+   - Plan: Continue guideline-directed medical therapy (GDMT), titrate beta blocker/ACEi, monitor for arrhythmia, cardiac rehab consult, outpatient cardiology f/u
+
+2. **Acute Kidney Injury (resolved)**
+   - Likely secondary to hypoperfusion; creatinine improved from 2.9 to 1.4 with Impella/volume resuscitation
+   - Plan: Monitor renal function, avoid nephrotoxins, optimize volume status
+
+3. **Acute Pulmonary Edema**
+   - Improved with diuresis and cardiac support
+   - Plan: Continue gentle diuresis as tolerated, monitor electrolytes
+
+4. **Hyperlipidemia**
+   - On statin, LDL at goal
+   - Plan: Continue statin
+
+5. **Hypertension**
+   - Off home BP meds initially due to shock; restarted low-dose beta blocker and ACEi on recovery
+   - Plan: Titrate as tolerated
+
+6. **Obesity (BMI 30.4)**
+   - Contributing to cardiac risk
+   - Plan: Nutrition consult, encourage mobilization
+
+7. **History of Recurrent Sinusitis/Bronchitis**
+   - Recent antibiotics; no current infection
+   - Plan: Monitor for secondary infection
+
+8. **Delirium, ICU**
+   - Brief episode, now resolved
+   - Plan: Reorientation, sleep hygiene
+
+9. **Contraception Management**
+   - Multiple methods in use; review necessity/risk with GYN
+
+10. **Advance Care Planning**
+    - Discussed with patient and daughter, full code
+
+---------------------------------------------------------------------------
+
+DISCHARGE PLANNING
+------------------
+- Anticipated discharge to acute rehab in 2-3 days
+- Close f/u with cardiology, PCP, cardiac rehab
+- Education on HF, medication adherence, lifestyle
+
+---------------------------------------------------------------------------
+
+ATTENDING PHYSICIAN: Samuel R. Hodge, MD     COSIGNATURE: ___________
+
+---------------------------------------------------------------------------
+
+Orders/Medications (Active)
+---------------------------
+- Metoprolol succinate 12.5 mg daily
+- Lisinopril 2.5 mg daily
+- Furosemide 20 mg IV q12h (tapering)
+- Simvastatin 10 mg daily
+- DVT prophylaxis: enoxaparin 40 mg SC daily
+- PRN: Acetaminophen, ondansetron
+
+---------------------------------------------------------------------------
+
+*** End of Note ***
+```

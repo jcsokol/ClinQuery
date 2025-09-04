@@ -1,0 +1,173 @@
+**Patient Name:** Haywood Rempel  
+**MRN:** 00243958  
+**DOB:** 1953-10-27 (Age 70)  
+**Sex:** Male  
+**Admit Date:** 2024-05-16  
+**Attending:** Dr. J. Wells  
+**Consultants:** Cardiology, Cardiothoracic Surgery, Infectious Disease  
+**Location:** CVICU  
+
+---
+
+# Admission H&P (2024-05-16)
+
+**Chief Complaint:**  
+"Chest pressure, shortness of breath"
+
+**History of Present Illness:**  
+Mr. Rempel is a 70-year-old male with a history of coronary artery disease, obesity, and recent viral sinusitis, who presented to the ED with 2 days of worsening exertional dyspnea, chest pressure, and orthopnea. He reports intermittent, non-radiating chest tightness unrelieved by nitroglycerin spray at home. He felt increasingly fatigued, with mild nausea and diaphoresis. Initial evaluation revealed hypotension, tachycardia, and mild hypoxemia. Troponin was elevated. He developed acute pulmonary edema, requiring transfer to the ICU.
+
+**Past Medical History:**  
+- Coronary Heart Disease (CAD, prior PCI 2018)  
+- Obesity (BMI 30+, baseline BMI 27-30)  
+- Hyperlipidemia  
+- Hypertension  
+- Viral sinusitis (recent, on supportive care)  
+
+**Past Surgical History:**  
+- PCI with DES x2 (2018)  
+- Cholecystectomy (2009)  
+
+**Medications on Admission:**  
+- Clopidogrel 75 mg PO daily  
+- Simvastatin 20 mg PO qHS  
+- Amlodipine 5 mg PO daily  
+- Nitroglycerin 0.4 mg spray PRN  
+
+**Allergies:**  
+No known drug allergies
+
+**Social History:**  
+- Former smoker, quit 2012 (20 pack-years)  
+- Rare EtOH, no illicit drugs  
+- Lives with spouse, independent ADLs  
+
+**Family History:**  
+- Father: MI age 63  
+- Mother: T2DM, HTN
+
+---
+
+# Physical Exam (ICU Day 1)
+
+**Gen:** Elderly male, mildly distressed  
+**VS:** BP 92/58, HR 112, RR 22, SpO2 91% RA (improved to 95% on 2L NC), Temp 37.1°C  
+**CV:** Tachycardic, regular, S3 present, JVD 10 cm, no murmurs  
+**Resp:** Crackles 2/3 up bilaterally, mild accessory muscle use  
+**Abd:** Soft, NT, no HSM  
+**Ext:** 1+ pitting edema ankles  
+**Neuro:** Alert, oriented, no focal deficits  
+
+---
+
+# ICU Course Summary
+
+**Hospital Day 1-2:**  
+- Acute decompensated heart failure with cardiogenic shock.  
+- Hypotension refractory to fluids, started on norepinephrine and dobutamine.  
+- TTE: LVEF 18%, global hypokinesis, mild MR, dilated LV.  
+- Emergent Impella CP placed for temporary LV support (hospital day 1, 17:30).  
+- Intubated for hypoxemic respiratory failure.  
+- Broad-spectrum antibiotics started for possible pneumonia (cefepime/azithro; later d/c’d).  
+- Diuresed with IV furosemide, net negative 2.4L over 36h.  
+- Serial troponins peaked at 1.7 ng/mL, then downtrended.
+
+**Hospital Day 3-6:**  
+- Gradual improvement in hemodynamics, weaned off vasopressors by day 4.  
+- Impella flows titrated, LV function monitored.  
+- Extubated day 5, transitioned to high-flow NC.  
+- Renal function stable, mild transaminitis resolved.  
+- Physical therapy started.
+
+**Hospital Day 7-10:**  
+- Impella explanted on day 8 after echo showed LVEF improved to 32%.  
+- Stepped down to telemetry; continued optimization of GDMT.  
+- No arrhythmias.  
+- Discharge planning initiated.
+
+---
+
+# Problem-Based Assessment & Plan
+
+**1. Cardiogenic Shock (s/p Impella, now resolved)**  
+- Impella CP for LV support, explanted HD8  
+- GDMT for HFrEF (continue BB, ACEi when stable)  
+- Monitor for recurrence; repeat TTE prior to discharge  
+- Cardiac rehab referral  
+
+**2. Acute Decompensated Heart Failure**  
+- IV diuresis, fluid restriction  
+- Monitor daily weights, I/O  
+- Up-titrate GDMT as tolerated  
+
+**3. CAD/ACS (NSTEMI, troponin leak)**  
+- Dual antiplatelet therapy (clopidogrel, ASA)  
+- Statin therapy  
+- Cardiology f/u, outpatient stress test in 2-4 weeks  
+
+**4. Obesity, Hyperlipidemia**  
+- Nutrition consult, cardiac diet  
+- Continue simvastatin, consider dose increase  
+- Outpatient lipid panel f/u  
+
+**5. Recent Viral Sinusitis**  
+- Monitor for secondary infection  
+- Supportive care only  
+
+**6. Acute Kidney Injury (resolved)**  
+- Avoid nephrotoxins  
+- Monitor BUN/Cr daily  
+- Renal function normalized by HD6  
+
+**7. Transaminitis (mild, resolved)**  
+- Monitor LFTs  
+- Resolved with improved perfusion  
+
+**8. Deconditioning/Functional Decline**  
+- PT/OT  
+- Early mobilization  
+- Discharge planning  
+
+**9. Medication Reconciliation**  
+- Resume home meds as able; titrate for HFrEF  
+- Hold nephrotoxins, NSAIDs
+
+---
+
+# Labs
+
+| Date        | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | AST (U/L) | ALT (U/L) | Troponin (ng/mL) |
+|-------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|--------------|-----------|-----------|------------------|
+| 5/16 06:00  | 5.9        | 15.7       | 48.6    | 156        | 134         | 4.9        | 102         | 22           | 24          | 1.2        | 108          | 56        | 41        | 1.2              |
+| 5/16 18:00  | 7.4        | 14.9       | 46.1    | 132        | 132         | 5.1        | 100         | 20           | 31          | 1.6        | 122          | 72        | 67        | 1.7              |
+| 5/17 06:00  | 6.1        | 13.8       | 43.8    | 129        | 135         | 4.4        | 101         | 24           | 27          | 1.4        | 110          | 48        | 39        | 1.5              |
+| 5/18 06:00  | 5.2        | 13.9       | 41.2    | 145        | 137         | 4.0        | 103         | 25           | 19          | 1.0        | 101          | 37        | 29        | 0.8              |
+| 5/19 06:00  | 5.8        | 14.2       | 42.8    | 150        | 139         | 4.3        | 104         | 26           | 18          | 0.9        | 96           | 32        | 22        | 0.5              |
+| 5/20 06:00  | 6.0        | 14.7       | 44.0    | 148        | 141         | 4.2        | 105         | 27           | 16          | 0.8        | 99           | 29        | 20        | 0.3              |
+| 5/21 06:00  | 5.5        | 14.9       | 45.1    | 142        | 140         | 4.0        | 104         | 27           | 15          | 0.8        | 97           |           |           | 0.2              |
+| 5/22 06:00  |            | 15.1       | 45.5    | 138        | 139         |            | 103         | 26           | 14          | 0.7        | 98           |           |           |                  |
+
+---
+
+# Discharge Medications (tentative)
+
+- Carvedilol 3.125 mg PO BID (start low, titrate)
+- Lisinopril 2.5 mg PO daily (if BP stable)
+- Clopidogrel 75 mg PO daily
+- Simvastatin 20 mg PO qHS
+- Furosemide 20 mg PO daily
+- Amlodipine 5 mg PO daily
+- Nitroglycerin 0.4 mg spray PRN
+
+---
+
+# Summary Statement
+
+70M with CAD, HFrEF, and obesity admitted with acute decompensated HF and cardiogenic shock, required temporary LV support with Impella CP. Improved with mechanical support, diuresis, and GDMT; ready for discharge to home with close cardiology follow-up.
+
+---
+
+**Physician:** Wells, J., MD  
+**Date/Time:** 2024-05-22 09:11
+
+---

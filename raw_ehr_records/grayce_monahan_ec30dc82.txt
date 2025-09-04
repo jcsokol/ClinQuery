@@ -1,0 +1,159 @@
+**Patient Name:** Grayce Monahan  
+**MRN:** 10439822  
+**DOB:** 07/10/2000  
+**Sex:** Female  
+**Admit Date:** 04/19/2024  
+**Attending:** Dr. F. Larkin  
+**Service:** ICU  
+**Admitting Dx:** Cardiogenic shock secondary to acute drug overdose with resultant severe LV dysfunction  
+**Principal Procedures:** Left femoral Impella CP placement (temporary LVAD), mechanical ventilation, central line, arterial line
+
+---
+
+## HOSPITAL COURSE
+
+Grayce Monahan is a 23-year-old female with a history of chronic pain, opioid use (on multiple narcotics), migraines, and recent rib fracture who presented to the ED after being found unresponsive at home. EMS administered naloxone with minimal response; on arrival, she was obtunded, hypotensive (BP 70/40), and hypoxic (SpO2 82% on NRB). Initial ABG revealed severe acidosis. She was intubated for airway protection.
+
+**Shortly after arrival, she developed pulseless electrical activity (PEA) arrest.** ROSC achieved after 3 minutes of ACLS. ECG: diffuse ST depression. Bedside echo: severely reduced LVEF (~15%), dilated LV, no tamponade. Troponin I 6.2 ng/mL. Lactate 8.9. Shock index >1.2. Started on norepinephrine, vasopressin, dobutamine. Cardiology emergently consulted.
+
+Given persistent hemodynamic instability and rising lactate, Impella CP placed at bedside via left femoral approach for temporary circulatory support. Transferred to ICU. Required mechanical ventilation and continuous sedation. Over 48 hours, gradual improvement in end-organ perfusion/lactate and weaned off pressors by hospital day 5. Impella removed on HD#6 after echo demonstrated LVEF improved to 35%. Extubated on HD#7. Psychiatry consulted for evaluation and substance use treatment recommendations.
+
+---
+
+## PAST MEDICAL HISTORY
+
+- Chronic pain (on chronic opioids, history of rib fracture)
+- Chronic intractable migraine w/o aura
+- Viral sinusitis (remote)
+- Acute bronchitis (remote)
+- Impacted molars (not relevant to current hospitalization)
+- Drug overdose (current admission)
+- BMI 28.7 (overweight)
+
+## PAST SURGICAL HISTORY
+
+- None significant
+
+## ALLERGIES
+
+- NKDA
+
+## HOME MEDICATIONS
+
+- Acetaminophen/oxycodone 325/5 mg tabs
+- Acetaminophen 325 mg
+- Oxycodone ER 15 mg
+- Hydrocodone/acetaminophen 5/300 mg tabs
+- Seasonique 91 day pack
+- Mirena IUD
+- Etonogestrel implant
+
+---
+
+## PHYSICAL EXAM (ICU DAY 2)
+
+- **Gen:** Sedated, intubated, on mechanical ventilation
+- **VS:** T 36.8C, HR 112, BP 86/54 (on norepinephrine), RR 16 (vent), SpO2 96% (FiO2 40%)
+- **HEENT:** Pupil 3 mm, sluggish
+- **CV:** S1, S2, tachy, S3 present, Impella hum audible
+- **Resp:** Vent, breath sounds decreased bases
+- **Abd:** Soft, non-tender, normoactive
+- **Ext:** No edema, pulses 1+ femoral, DP/PT
+- **Neuro:** No purposeful movement, GCS 6 (E1V1M4)
+
+---
+
+## ICU VITALS TREND
+
+| Date       | Temp | HR  | BP    | RR | SpO2 | Pressors |
+|------------|------|-----|-------|----|------|----------|
+| 4/19/2024  | 36.5 | 124 | 68/40 | 28 | 82%  | Norepi 8 mcg/min, Vasopressin 0.03u/min |
+| 4/20/2024  | 36.8 | 112 | 86/54 | 16 | 96%  | Norepi 3 mcg/min |
+| 4/21/2024  | 37.1 | 98  | 102/64| 14 | 98%  | Off |
+| 4/22/2024  | 36.9 | 90  | 112/70| 16 | 98%  | Off |
+
+---
+
+## ICU LABS
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | Lactate | AST  | ALT  | ALK Phos | Bili | INR  |
+|------------|------|------|------|------|------|------|------|------|------|------|------|----------|---------|------|------|----------|------|------|
+| 4/19/24 AM | 8.1  | 14.2 | 46.9 | 312  | 139  | 4.6  | 101  | 18   | 24   | 0.9  | 124  | 6.2      | 8.9     | 52   | 34   | 98       | 1.2  | 1.3  |
+| 4/19/24 PM | 7.4  | 13.7 | 45.2 | 298  | 137  | 4.2  | 99   | 16   | 26   | 1.1  | 110  | 5.7      | 7.1     | 56   | 37   | 102      | 1.4  |      |
+| 4/20/24 AM | 6.9  | 13.1 | 43.5 | 289  | 137  | 4.0  | 98   | 21   | 30   | 1.3  | 104  | 3.1      | 4.2     | 61   | 40   | 105      | 1.3  | 1.2  |
+| 4/21/24 AM | 7.2  | 13.9 | 44.7 | 315  | 138  | 3.8  | 100  | 24   | 20   | 1.0  | 108  | 1.0      | 2.1     | 42   | 28   | 94       | 1.0  | 1.1  |
+| 4/22/24 AM | 7.7  | 14.1 | 45.8 |      | 140  | 4.1  | 102  | 25   | 17   | 0.8  | 99   | <0.04    | 1.1     | 36   | 24   | 89       | 0.8  |      |
+
+Note: Some labs not available for all time points, especially after stabilization.
+
+---
+
+## CONSULTS
+
+- **Cardiology:** For management of cardiogenic shock, Impella placement, and guidance on weaning support.
+- **Psychiatry:** Substance use disorder assessment, post-overdose counseling.
+- **Pain Management:** Recommendations for opioid tapering and chronic pain alternatives.
+- **PT/OT:** Initiated after extubation for deconditioning.
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic shock secondary to acute drug overdose (likely opioid/acetaminophen):**  
+- Required Impella CP for temporary LV support; now off support, LVEF improving.
+- Continue aggressive cardiac monitoring.
+- Serial EKGs, telemetry.
+- Cardiology following.
+
+**2. Acute hypoxic respiratory failure, post-arrest:**  
+- Intubated, now extubated, improving clinically.
+- Monitor for aspiration pneumonia.
+- Chest physiotherapy, incentive spirometry.
+
+**3. Acute kidney injury (resolved):**  
+- Likely multifactorial: hypoperfusion, possible rhabdo.
+- Creatinine improved to baseline.
+- Monitor UOP, renal function.
+
+**4. Liver injury (transaminitis, resolved):**  
+- Suspected ischemic hepatitis from shock state, acetaminophen toxicity possible.
+- LFTs trending down.
+
+**5. Drug overdose (opioid/acetaminophen):**  
+- Psychiatry consult.
+- Social work for post-discharge planning.
+- Consider transition to buprenorphine for chronic pain/SUD.
+
+**6. Chronic pain (rib fracture, migraines):**  
+- Pain team involved.
+- Taper opioids; consider gabapentin, non-pharm methods.
+- Headache prophylaxis: consider topiramate or propranolol.
+
+**7. Deconditioning:**  
+- PT/OT to evaluate.
+- Early mobility protocol.
+
+**8. Contraceptive management:**  
+- Continue Mirena IUD, etonogestrel implant, Seasonique as per prior regimen.
+- Counseling provided.
+
+**9. Secondary issues:**  
+- VTE prophylaxis with heparin.
+- Stress ulcer prophylaxis.
+- Monitor for arrhythmia, infection.
+
+---
+
+## DISPOSITION
+
+Expected to transfer to step-down unit in next 24-48 hours. Will need close cardiac follow-up, outpatient substance use counseling, and pain management.
+
+---
+
+## SIGNED BY:  
+Dr. F. Larkin, MD  
+04/22/2024 15:45
+
+---
+
+**END OF NOTE**

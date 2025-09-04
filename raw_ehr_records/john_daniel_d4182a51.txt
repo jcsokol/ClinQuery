@@ -1,0 +1,188 @@
+**[EPIC EHR: PATIENT CHART]**
+
+---
+
+**Patient Name:** John Daniel  
+**MRN:** 00294582  
+**Sex:** Female  
+**DOB:** 08/09/2006 (Age: 17)  
+**Date of Admission:** 05/22/2024  
+**Admitting Physician:** Dr. Erika S. Lin  
+**Attending Service:** Pediatric Cardiology/ICU  
+**Consults:** Cardiology, Infectious Diseases, Ortho, Pulmonology  
+**Allergies:** NKDA
+
+---
+
+## **Chief Complaint**
+Shortness of breath, cough, fever, and recent syncopal episode at home.  
+
+---
+
+## **HPI**
+John Daniel is a 17-year-old female with a PMH notable for viral sinusitis, acute bronchitis, and recent right wrist subluxation. Patient presented to the ED with a 3-day history of worsening cough, fatigue, and low-grade fever. On day of admission, she developed acute dyspnea, chest tightness, and had a syncopal episode. EMS found her tachycardic, hypotensive, and hypoxic (O2 sat 87% RA). In the ED, she required non-rebreather oxygen and was found to be in acute decompensated heart failure with evidence of cardiogenic shock (BP 78/42, HR 134, cool extremities, altered mentation). Echo showed severely depressed LV systolic function (EF 15%). She was transferred to the PICU and underwent urgent placement of a temporary left-sided ventricular assist device (Impella CP) for hemodynamic stabilization.
+
+---
+
+## **Past Medical History**
+- Acute bronchitis (April 2024)
+- Viral sinusitis x2 (2023, 2024)
+- Fracture subluxation of right wrist (March 2024)
+- No prior cardiac history
+
+## **Past Surgical History**
+- None
+
+## **Family History**
+- Mother: HTN, hypothyroidism
+- Father: no known illnesses
+- Siblings: healthy
+
+## **Social History**
+- High school student, lives with parents
+- No EtOH/tobacco/illicit drug use
+- No recent travel
+
+## **Immunizations**
+- Up to date
+
+## **Home Medications**
+- Acetaminophen/Dextromethorphan/Doxylamine PRN cough/cold
+- Amoxicillin/Clavulanate (completed 2-week course for sinusitis)
+- Ibuprofen PRN pain
+
+---
+
+## **Physical Exam (Admission, 5/22/2024 21:30)**
+
+| Vital Sign                  | Value         |
+|-----------------------------|--------------|
+| Temp                        | 38.5°C       |
+| HR                          | 134 bpm      |
+| BP                          | 78/42 mmHg   |
+| RR                          | 32           |
+| O2 Sat                      | 87% (RA)     |
+| Weight                      | 52.9 kg      |
+| Height                      | 159.5 cm     |
+| BMI                         | 20.8 kg/m2   |
+
+- **Gen:** Ill-appearing, drowsy  
+- **CV:** Tachycardic, faint S1/S2, no murmur, delayed cap refill  
+- **Resp:** Tachypneic, diffuse crackles, mild retractions  
+- **Abd:** Soft, non-tender  
+- **Ext:** Cool, mild edema  
+- **Neuro:** Lethargic, follows simple commands
+
+---
+
+## **Hospital Course Summary**
+
+**Day 1 (5/22/24):**  
+Admitted to PICU in cardiogenic shock. Pressors (epi, milrinone) started. Intubated for respiratory distress. Emergent echo: severe global LV dysfunction (EF 15%), mild RV impairment, no pericardial effusion. Labs: lactic acidosis, acute kidney injury (Cr 1.8). Infectious workup sent. Temporary Impella CP inserted via femoral approach for LV support.
+
+**Day 2-3:**  
+Hemodynamics improved post-Impella. Vasopressors weaned. Renal function stabilized. Extubated on day 3. Serial echos: stable severe LV dysfunction. Infectious workup neg for bacterial/viral myocarditis. Cardiac MRI pending.
+
+**Day 4-5:**  
+Improvement in end-organ function. Mobilized to chair. Impella weaned and explanted on day 5. Transitioned to oral heart failure therapy (lisinopril, carvedilol). Ongoing cough, but no new fevers.
+
+**Day 6-7:**  
+Stable on oral meds. Off O2. Echo: persistent but improved LV function (EF 28%). Repeat labs: trending toward baseline. Discharge planning started.
+
+---
+
+## **Assessment and Plan**  
+### 1. **Acute Decompensated Heart Failure / Cardiogenic Shock**
+- Likely viral myocarditis vs. idiopathic
+- Required temporary LVAD (Impella CP) for stabilization
+- Now hemodynamically stable, off pressors, weaning support
+- Continue HF meds (lisinopril, carvedilol)
+- Daily weights, strict I/Os
+- Cardiology f/u, cardiac MRI pending
+
+### 2. **Acute Bronchitis / Viral Sinusitis**
+- Recent URI, likely precipitated cardiac event
+- Supportive care, continue cough/cold meds PRN
+- No evidence of bacterial superinfection
+
+### 3. **AKI secondary to shock (resolved)**
+- Renal function now baseline
+- Monitor BUN/Cr, maintain euvolemia
+
+### 4. **Right wrist subluxation h/o**
+- Healing well, no acute issues
+- Ortho f/u as OP
+
+### 5. **Pain/Agitation**
+- PRN acetaminophen/ibuprofen
+- Reassess pain q4h
+
+### 6. **Nutrition**
+- PO intake adequate
+- Diet liberalized
+
+### 7. **DVT Prophylaxis**
+- SCDs while bedbound
+- Consider LMWH if prolonged immobilization
+
+### 8. **Psychosocial**
+- Support for patient/family
+- SW consult
+
+---
+
+## **Lab Results**
+
+**Table: CBC, Chem7, Cardiac Markers, LFTs (Selected Labs)**
+
+| Date      | WBC    | Hgb   | Hct   | Plt   | Na    | K     | Cl    | CO2   | BUN   | Cr   | Troponin I | ALT   | AST   | BNP    |
+|-----------|--------|-------|-------|-------|-------|-------|-------|-------|-------|------|------------|-------|-------|--------|
+| 5/22 AM   | 5.5    | 17.0  | 42.6  | 174   | 134   | 4.8   | 104   | 18    | 36    | 1.8  | 0.22       | 41    | 72    | 3650   |
+| 5/22 PM   | 6.1    | 16.5  | 41.0  | 160   | 132   | 4.2   | 101   | 19    | 33    | 2.2  | 0.19       | 45    | 65    | 4020   |
+| 5/23 AM   | 6.8    | 14.8  | 39.2  | 153   | 135   | 4.5   | 100   | 21    | 29    | 1.7  | 0.13       | 38    | 54    | 2800   |
+| 5/24 AM   | 7.2    | 13.9  | 37.0  | 146   | 138   | 4.1   | 102   | 22    | 21    | 1.2  | 0.06       | 35    | 38    | 1250   |
+| 5/25 AM   |        | 13.4  | 36.1  | 138   | 138   | 4.0   | 105   | 23    | 17    | 1.0  | 0.03       | 28    | 32    | 900    |
+| 5/26 AM   | 5.9    | 13.7  | 36.5  |       | 139   | 4.2   | 106   | 25    | 15    | 0.9  | 0.02       | 29    | 31    |        |
+| 5/27 AM   | 5.4    | 13.9  | 36.8  | 140   | 140   | 4.3   | 108   | 26    | 13    | 0.8  | <0.01      | 22    | 29    | 620    |
+
+*Note: Some labs not drawn daily. Troponin I and BNP trended down. Liver enzymes transiently elevated, improved with perfusion.*
+
+---
+
+## **Imaging**
+
+- **Echo (5/22/24):** Severe global LV dysfunction (EF 15%), mild RV hypokinesis, no vegetations.
+- **Chest X-ray:** Pulmonary edema, mild cardiomegaly
+- **Cardiac MRI (pending):** Awaiting results
+
+---
+
+## **Procedures**
+- Endotracheal intubation (5/22/24)
+- Impella CP placement via L femoral artery (5/22/24)
+- Impella explantation (5/26/24)
+
+---
+
+## **Hospital Medications**
+- Lisinopril 2.5mg PO daily
+- Carvedilol 3.125mg PO BID
+- Furosemide 20mg IV PRN
+- Acetaminophen 650mg PO PRN
+- Ibuprofen 200mg PO PRN
+- Albuterol PRN
+- Dextromethorphan/Doxylamine PRN
+
+---
+
+## **Discharge Plan**
+- Anticipated discharge 5/28/24
+- Cardiology, Ortho, PCP follow-up
+- Home with parents, school note provided
+
+---
+
+**Signed:**  
+Erika S. Lin, MD  
+Pediatric Cardiology  
+[05/27/2024 18:14]

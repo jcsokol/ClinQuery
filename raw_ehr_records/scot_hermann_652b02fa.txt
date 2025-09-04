@@ -1,0 +1,154 @@
+**Patient:** Hermann, Scot  
+**MRN:** 00392847  
+**DOB:** 10/03/1975  
+**Sex:** Male  
+**Date of Admission:** 04/11/2024  
+**Attending:** Dr. Patel  
+**Admitting Service:** Cardiac ICU  
+**Note Type:** Progress Note  
+**Author:** Dr. Anna King, MD  
+**Date/Time:** 04/15/2024 09:17  
+
+---
+
+## Reason for Admission:
+56-year-old male with known prediabetes, chronic anemia, and recent viral sinusitis presenting with acute decompensated heart failure, progressive dyspnea, and hypotension refractory to initial medical therapy. Required escalation to temporary mechanical circulatory support (Impella CP) on hospital day 2 for cardiogenic shock.
+
+---
+
+## Hospital Course Summary:
+Mr. Hermann presented to the ED with 5 days of worsening SOB, orthopnea, and lower extremity edema. Exam notable for JVD, crackles, and S3. Initial workup showed elevated troponin, BNP, and CXR with pulmonary edema. Echo: EF 15%, severe global hypokinesis, moderate MR. Despite IV diuresis and dobutamine, patient developed worsening hypotension and lactic acidosis. Temporary LV assist device (Impella) placed emergently. Over the next 72h, gradual hemodynamic improvement, weaned off vasopressors. Developed transaminitis and AKI, both resolved. Ongoing anemia and persistent leukocytosis, likely multifactorial (chronic disease, acute stress, viral infection). Now stable on minimal support, Impella removed on HD5, transferred to CICU step-down.
+
+---
+
+## Problem List / Assessment and Plan
+
+### 1. Cardiogenic Shock, Acute on Chronic Systolic Heart Failure (EF 15%)
+- **Assessment:** Acute decompensation likely precipitated by viral myocarditis (recent URI) in setting of underlying cardiomyopathy. Required temporary LVAD (Impella CP) for hemodynamic stabilization.
+- **Plan:**
+  - Continue guideline-directed medical therapy (GDMT): carvedilol, sacubitril/valsartan, spironolactone (restarted after AKI resolved)
+  - Daily weights, strict I/Os, low Na diet
+  - Monitor for arrhythmias, optimize volume status
+  - Cardiology/heart failure team following
+  - Consider advanced therapies (LVAD, transplant) if recurrent decompensation
+
+### 2. Anemia (baseline, worsened acutely)
+- **Assessment:** Chronic normocytic anemia, now with acute drop likely from dilutional effect, hemodilution, and stress. No overt bleeding. Hgb nadir 7.9; transfused 1U PRBC on HD3.
+- **Plan:**
+  - Monitor CBC daily, iron studies, retic count
+  - Hold anticoagulation unless clear indication (bleeding risk)
+  - GI consult if persistent/worsening anemia
+
+### 3. Acute Kidney Injury, resolving
+- **Assessment:** Likely pre-renal (low output state, diuretic use). Peaked Cr 2.1, now trending down after volume optimization and improved cardiac output.
+- **Plan:**
+  - Monitor renal function, avoid nephrotoxins
+  - Adjust diuretics as needed
+  - Renal dosing for all meds
+
+### 4. Transaminitis
+- **Assessment:** Likely “shock liver” from hypoperfusion; ALT/AST peaked at 800/950, now downtrending.
+- **Plan:**
+  - Monitor LFTs q48h
+  - Supportive care
+
+### 5. Prediabetes
+- **Assessment:** Mildly elevated A1c, glucose fluctuations during hospitalization (stress, steroids, fluctuating renal function).
+- **Plan:**
+  - Monitor CBGs BID
+  - Endo consult pending
+
+### 6. Viral Sinusitis
+- **Assessment:** Recent URI, now improved. No current fever, clear lungs.
+- **Plan:**
+  - Supportive care, monitor for secondary bacterial infection
+
+### 7. Hyperlipidemia
+- **Assessment:** LDL 61, HDL 74, TG 137. On statin prior to admission.
+- **Plan:**
+  - Continue statin
+
+### 8. Pain (mild, sternal)
+- **Assessment:** 2/10, likely post-procedural.
+- **Plan:**
+  - PRN acetaminophen
+
+---
+
+## Medications (Current):
+
+- Carvedilol 6.25 mg BID
+- Sacubitril/Valsartan 24/26 mg BID
+- Spironolactone 25 mg daily (held on HD2-4, now resumed)
+- Furosemide IV 40 mg BID (IV, titrating to PO)
+- Atorvastatin 40 mg daily
+- Acetaminophen 650 mg q6h PRN
+- Sliding scale insulin as needed
+
+---
+
+## Vitals (Last 72h):
+
+| Date        | Temp (°C) | HR   | BP         | RR  | SpO2 | Weight (kg) |
+|-------------|-----------|------|------------|-----|------|-------------|
+| 4/11/2024   | 36.9      | 122  | 82/54      | 24  | 94%  | 78.9        |
+| 4/12/2024   | 37.1      | 110  | 99/66      | 20  | 96%  | 77.5        |
+| 4/13/2024   | 36.6      | 98   | 112/72     | 18  | 97%  | 76.8        |
+| 4/14/2024   | 36.8      | 90   | 116/74     | 17  | 98%  | 76.5        |
+| 4/15/2024   | 36.7      | 85   | 119/76     | 16  | 98%  | 76.3        |
+
+---
+
+## Laboratory Data
+
+### CBC & CHEM7 (Selected)
+
+| Date        | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|-------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|
+| 4/11/2024   | 14.2       | 9.8        | 29.7    | 312        | 141         | 3.4        | 102         | 21           | 32          | 1.8        | 132         |
+| 4/12/2024   | 13.1       | 8.7        | 26.1    | 289        | 142         | 3.7        | 104         | 18           | 38          | 2.1        | 167         |
+| 4/13/2024   | 12.7       | 7.9        | 23.6    | 274        | 143         | 3.9        | 103         | 20           | 25          | 1.7        | 115         |
+| 4/14/2024   | 11.1       | 8.8        | 26.3    | 297        | 144         | 4.1        | 105         | 23           | 16          | 1.2        | 102         |
+| 4/15/2024   | 10.8       | 9.4        | 28.9    | 325        | 143         | 4.0        | 104         | 24           | 14          | 1.0        | 98          |
+
+#### Additional Labs
+
+| Date        | Troponin I (ng/mL) | BNP (pg/mL) | ALT (U/L) | AST (U/L) | Alk Phos (U/L) | Total Bili (mg/dL) | INR  |
+|-------------|--------------------|-------------|-----------|-----------|----------------|--------------------|-------|
+| 4/11/2024   | 0.79               | 2340        | 345       | 558       | 123            | 1.1                | 1.2   |
+| 4/12/2024   | 0.91               | 2587        | 800       | 950       | 138            | 1.8                | 1.4   |
+| 4/13/2024   | 0.35               | 1980        | 420       | 412       | 119            | 1.0                | 1.3   |
+| 4/14/2024   | 0.14               | 1440        | 186       | 157       | 105            | 0.7                | 1.1   |
+| 4/15/2024   | 0.07               | 1022        | 78        | 63        | 99             | 0.5                | 1.0   |
+
+---
+
+## Imaging/Studies
+
+- **CXR (4/11/2024):** Pulmonary edema, mild cardiomegaly, no consolidation or effusion.
+- **Echo (4/11/2024):** LVEF 15%, severe global hypokinesis, moderate MR, dilated LV, mild RV dysfunction.
+- **Renal U/S (4/12/2024):** No hydronephrosis, normal size, increased echogenicity.
+
+---
+
+## Procedures
+
+- **Impella CP placement (4/12/2024):** Right femoral arterial access, successful LVAD placement, no immediate complications.
+- **Impella removal (4/15/2024):** No bleeding, distal pulses preserved.
+
+---
+
+## Disposition/Follow-up
+
+- Transfer to CICU step-down unit, anticipate discharge to home with close cardiology follow-up in 1 week.
+- Outpatient labs, echo in 2 weeks, advanced HF clinic referral.
+- Education provided regarding heart failure, medication adherence, sodium/fluid restriction.
+
+---
+
+**Signed:** Anna King, MD  
+**Date/Time:** 04/15/2024 09:17
+
+---
+
+**END OF NOTE**

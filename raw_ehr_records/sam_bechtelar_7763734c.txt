@@ -1,0 +1,154 @@
+```
+----------------------------------------------------------------------
+Epic EHR - Progress Note
+
+PATIENT NAME: Sam Bechtelar
+MRN: 00394125
+DOB: 09/02/1999  (Age: 24 years)
+SEX: Male
+DATE OF SERVICE: 06/15/2024
+ATTENDING: Dr. L. Riggins
+ADMITTING SERVICE: Cardiac ICU
+
+----------------------------------------------------------------------
+
+CHIEF COMPLAINT:
+Shortness of breath and chest pain.
+
+HISTORY OF PRESENT ILLNESS:
+24-year-old male with h/o hypertension, acute bronchitis, and viral sinusitis, who presented to the ED with acute onset SOB, orthopnea, and pleuritic chest pain. Patient reported a 3-day history of worsening cough, low-grade fevers, myalgias, and progressive dyspnea. On arrival, was found to be tachycardic (HR 124), hypotensive (BP 86/54), tachypneic (RR 28), and hypoxic (SpO2 88% RA). Rapid deterioration with altered mental status and evidence of poor perfusion. Bedside echo revealed severely reduced LVEF (~15%) with global hypokinesis. Given rapid progression to cardiogenic shock, patient was transferred to the CICU and a temporary left-sided heart pump (Impella CP) was emergently placed for circulatory support.
+
+PAST MEDICAL HISTORY:
+- Hypertension
+- Acute bronchitis (recent)
+- Viral sinusitis (recent)
+- No known CAD, DM, CKD
+
+PAST SURGICAL HISTORY:
+- None
+
+SOCIAL HISTORY:
+- Non-smoker
+- No alcohol or illicit drug use
+- Lives with parents, works as a barista
+
+FAMILY HISTORY:
+- Father with hypertension
+- Mother with hypothyroidism
+
+ALLERGIES:
+- NKDA
+
+MEDICATIONS ON ADMISSION:
+- Acetaminophen/Dextromethorphan/Doxylamine syrup (prn)
+- Hydrochlorothiazide 25 mg daily
+
+----------------------------------------------------------------------
+
+PHYSICAL EXAM (ICU Day 1):
+Gen: Appears acutely ill, intubated, sedated.
+HEENT: PERRL, no icterus, oropharynx clear.
+CV: Tachycardic, Impella in situ, soft S1/S2, no murmurs.
+Lungs: Crackles b/l bases, decreased air entry, on mechanical ventilation.
+Abd: Soft, non-tender, normal bowel sounds.
+Ext: Cool, mottled peripheries, 1+ pitting edema bilat.
+Neuro: Non-responsive (sedated, on propofol).
+
+----------------------------------------------------------------------
+
+VITALS (selected):
+| Date        | Temp (C) | HR | BP       | RR | SpO2 | Weight (kg) | Pain |
+|-------------|----------|----|----------|----|------|-------------|------|
+| 6/13/24 06:00 | 37.2     | 124| 86/54    | 28 | 88%  | 61.1        | 1    |
+| 6/13/24 12:00 | 37.8     | 112| 94/68    | 24 | 95%  | 60.7        | intub|
+| 6/14/24 06:00 | 38.1     | 98 | 102/72   | 18 | 99%  | 60.0        | intub|
+| 6/15/24 06:00 | 36.9     | 84 | 118/76   | 14 | 98%  | 59.8        | intub|
+
+----------------------------------------------------------------------
+
+LABS
+
+CBC/Chemistry Table:
+| Date         | WBC   | Hgb   | Hct   | Plts   | Na   | K   | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | AST  | ALT  |
+|--------------|-------|-------|-------|--------|------|-----|------|------|------|------|------|----------|------|------|
+| 6/13/24 06:00| 17.2  | 13.2  | 36.1  | 441    | 135  | 3.4 | 98   | 18   | 21   | 1.7  | 106  | 1.9      | 77   | 61   |
+| 6/13/24 18:00| 14.6  | 12.3  | 33.7  | 385    | 137  | 3.7 | 101  | 21   | 27   | 2.2  | 143  | 3.2      | 103  | 89   |
+| 6/14/24 06:00| 10.9  | 11.7  | 31.5  | 340    | 139  | 4.0 | 102  | 23   | 19   | 1.4  | 117  | 1.2      | 49   | 38   |
+| 6/14/24 18:00| 9.7   | 10.9  | 29.8  | 298    | 142  | 4.2 | 105  | 25   | 13   | 1.1  |      | 0.5      | 32   |      |
+| 6/15/24 06:00| 8.3   | 10.6  | 28.9  | 271    | 143  | 4.3 | 104  | 24   | 11   | 1.0  | 104  | <0.01    | 29   | 22   |
+
+Other labs:
+- BNP (6/13/24): 2330 pg/mL
+- Lactate (6/13/24): 5.2 mmol/L --> (6/14/24): 2.1 mmol/L
+- INR (6/13/24): 1.3
+- aPTT (6/13/24): 42 sec
+- Blood cultures (x2): No growth to date
+
+----------------------------------------------------------------------
+
+IMAGING:
+- CXR (6/13/24): Pulmonary edema, bilateral patchy opacities, small bilateral pleural effusions.
+- Echo (6/13/24): LVEF 15%, global hypokinesis, LV dilated, RV normal, no significant valvular disease.
+- Repeat Echo (6/15/24): LVEF improved to 38% with Impella support.
+
+----------------------------------------------------------------------
+
+ICU COURSE (Days 1-3):
+- Day 1: Cardiogenic shock, required norepinephrine, Impella CP placed, intubated for hypoxic respiratory failure.
+- Day 2: Pressors weaned as perfusion improved. Extubated to high-flow nasal cannula. Impella flows stable.
+- Day 3: Impella wean trial successful. LVEF improved. Transitioned to oral antihypertensives. 
+
+----------------------------------------------------------------------
+
+PROBLEM-BASED ASSESSMENT & PLAN
+
+1. **Cardiogenic shock, likely viral myocarditis**
+   - Emergent Impella CP placement for hemodynamic support
+   - Norepinephrine, weaned off by Day 2
+   - Serial cardiac markers, echo for recovery monitoring
+   - Infectious workup (viral PCR, blood cultures) pending
+   - Plan: Continue Impella wean, monitor for arrhythmias, start guideline-directed medical therapy for HF as tolerated
+
+2. **Acute hypoxic respiratory failure**
+   - Intubated, mechanical ventilation x 36 hrs
+   - Extubated to HFNC on Day 2
+   - Daily CXR, pulmonary toilet, incentive spirometry post-extubation
+
+3. **Hypertension**
+   - Home HCTZ held initially, restarted on Day 3
+   - IV antihypertensives transitioned to oral as tolerated
+
+4. **Volume overload / AKI**
+   - Initial worsening of renal function (Cr 2.2), improved with restoration of perfusion (Cr 1.0 by Day 3)
+   - Daily weights, I/Os, adjust diuresis as tolerated
+
+5. **Transaminitis**
+   - Likely shock liver, improving with perfusion restoration
+   - Serial LFTs, trending down
+
+6. **Acute bronchitis/viral sinusitis**
+   - Supportive care, no evidence of bacterial superinfection
+   - No antibiotics started
+
+7. **Pain/anxiety**
+   - Analgesia with fentanyl/propofol while intubated, transitioned to acetaminophen PO post-extubation
+
+8. **DVT prophylaxis**
+   - SCDs, enoxaparin started once bleeding risk low
+
+9. **Nutrition**
+   - NPO initially, NG tube feeds started Day 2, transitioned to oral on Day 3
+
+10. **Disposition**
+   - Anticipate transfer to step-down unit once Impella removed and stable off pressors
+
+----------------------------------------------------------------------
+
+ATTENDING PHYSICIAN: Dr. L. Riggins
+RESIDENT: S. Han, MD
+ICU RN: J. Morales, RN
+
+----------------------------------------------------------------------
+
+(Signature attestation: This is a simulated EHR record for educational purposes only.)
+```

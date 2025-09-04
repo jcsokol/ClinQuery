@@ -1,0 +1,211 @@
+---
+**Patient Name:** Cory Koss  
+**MRN:** 00548723  
+**DOB:** 07/06/2004  
+**Sex:** Male  
+**Admit Date:** 05/29/2024  
+**Service:** MICU  
+**Attending:** Dr. S. Patel  
+**Primary Team:** Cardiology/ICU  
+**Note Type:** Progress Note  
+**Date/Time:** 06/03/2024 07:12  
+
+---
+
+### CHIEF COMPLAINT
+Shortness of breath, chest heaviness, and fatigue.
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+
+Cory Koss is a 19-year-old male with a past medical history notable for whiplash injury to the neck, viral sinusitis, acute viral pharyngitis, and a remote wrist fracture/subluxation. He presented to the Emergency Department 5 days ago with a 3-day history of worsening dyspnea, orthopnea, and palpitations. He also reported intermittent chest discomfort, low-grade fevers, and malaise. On arrival, he was tachycardic and hypotensive, with evidence of low cardiac output and early end-organ hypoperfusion (cool extremities, mild confusion). 
+
+Initial workup was significant for elevated troponin, BNP, and transaminitis. CXR revealed pulmonary edema. Echocardiogram demonstrated severely reduced LV systolic function (EF 18%), global hypokinesis, and mild RV dysfunction. He was admitted to the MICU for acute decompensated heart failure, suspected myocarditis. Within 12 hours of admission, he developed worsening hypotension unresponsive to escalating doses of norepinephrine and dobutamine. Emergent placement of a percutaneous temporary LV assist device (Impella CP) was performed at bedside for cardiogenic shock.
+
+He has since been managed in the ICU with ongoing hemodynamic monitoring, diuresis, inotropes, and supportive care. His course has been complicated by transient AKI and mild transaminitis, but he is now beginning to improve.
+
+---
+
+### PAST MEDICAL HISTORY
+- Whiplash injury to neck (2022)
+- Viral sinusitis (2023)
+- Acute viral pharyngitis (2023)
+- Fracture/subluxation of wrist (2019)
+- No known congenital heart disease
+
+### PAST SURGICAL HISTORY
+- None
+
+### MEDICATIONS PRIOR TO ADMISSION
+- Acetaminophen 160 mg po prn
+- Ibuprofen 200 mg po prn
+
+### ALLERGIES
+- NKDA
+
+### FAMILY HISTORY
+- No known early cardiac disease, SCD, or genetic disorders
+
+### SOCIAL HISTORY
+- Non-smoker, no EtOH, no illicit drug use
+- College student, lives in dormitory
+
+---
+
+## PHYSICAL EXAM
+
+**General:** Appears tired but interactive.  
+**VS:**  
+- Temp: 37.6°C  
+- HR: 112 bpm (paced, irregular)  
+- BP: 98/61 mmHg (MAP 68)  
+- RR: 22/min  
+- SpO2: 98% RA
+
+**HEENT:** Oropharynx clear, no JVD  
+**CV:** S1, S2 normal, no murmur, Impella hum audible, peripheral pulses 2+  
+**Lungs:** Bibasilar crackles, decreased air entry at bases  
+**Abd:** Soft, NT/ND, mild RUQ tenderness  
+**Ext:** Trace pedal edema, no cyanosis  
+**Neuro:** Oriented x3, moves all extremities, no focal deficit
+
+---
+
+## ICU COURSE SUMMARY
+
+**Day 1-2:**  
+- Admitted for acute decompensated HF, rapidly progressing to cardiogenic shock (suspected viral myocarditis)  
+- Placed on norepinephrine, dobutamine  
+- Impella CP placed for hemodynamic support  
+- Intubated for respiratory distress (extubated on Day 3)  
+- Started on empiric antibiotics (ceftriaxone, doxycycline) pending viral panels
+
+**Day 3-4:**  
+- Gradual hemodynamic improvement, weaned off norepinephrine  
+- Extubated, remains on Impella  
+- Developed transient AKI (Cr peaked 1.9, now improving)  
+- Mildly elevated LFTs, likely congestion/shock liver  
+- Diuresis initiated with IV furosemide
+
+**Day 5:**  
+- Cardiac function improving (repeat echo: EF 30%)  
+- Impella flow decreased, device wean trial initiated  
+- Renal and hepatic function improving  
+- Negative respiratory viral PCR, positive parvovirus IgM
+
+**Day 6:**  
+- Impella successfully removed  
+- Off inotropes, on oral HF regimen (metoprolol, lisinopril started)  
+- Monitored for arrhythmias, none detected  
+- Mobilizing with PT/OT
+
+---
+
+## LABS
+
+#### Table 1: CBC & Basic Metabolic Panel
+
+| Date        | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|-------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|
+| 5/29/2024   | 7.1        | 14.7       | 38.1    | 368        | 139         | 4.2        | 104         | 22           | 10          | 0.9        | 98          |
+| 5/30/2024   | 6.8        | 13.9       | 36.2    | 351        | 137         | 4.0        | 102         | 19           | 18          | 1.4        | 112         |
+| 5/31/2024   | 7.5        | 13.6       | 35.1    | 329        | 135         | 3.7        | 100         | *missing*    | 26          | 1.9        | 127         |
+| 6/1/2024    | 6.9        | 13.9       | 36.0    | 344        | 138         | 4.1        | 104         | 22           | 20          | 1.3        | 108         |
+| 6/2/2024    | *missing*  | 14.1       | 36.7    | 362        | 140         | 4.5        | 105         | 23           | 14          | 1.0        | *missing*   |
+| 6/3/2024    | 7.2        | 14.4       | 37.0    | 376        | 139         | 4.3        | 104         | 23           | 12          | 0.8        | 99          |
+
+#### Table 2: Other Labs
+
+| Date      | AST (U/L) | ALT (U/L) | AlkPhos (U/L) | T.Bili (mg/dL) | Troponin I (ng/mL) | BNP (pg/mL) | Lactate (mmol/L) |
+|-----------|-----------|-----------|---------------|----------------|--------------------|-------------|------------------|
+| 5/29/2024 | 122       | 99        | 145           | 2.3            | 1.02               | 3670        | 2.7              |
+| 5/31/2024 | 89        | 77        | 118           | 1.5            | 0.61               | 1590        | 1.4              |
+| 6/2/2024  | 44        | 38        | 111           | 0.7            | 0.14               |  780        | 0.8              |
+
+---
+
+## DIAGNOSTICS
+
+- **Echocardiogram (5/29/24):** LV severely reduced systolic function (EF 18%), global hypokinesis, mild RV dysfunction, no significant valvular abnormality.
+- **Repeat Echo (6/2/24):** EF 30%, improving wall motion, mild MR.
+- **ECG:** Sinus tachycardia, occasional PVCs, no ST changes.
+- **CXR:** Pulmonary edema, improved by 6/2/24.
+- **Respiratory viral PCR:** Negative except parvovirus B19 IgM positive.
+- **Blood cultures x2:** Negative.
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. Cardiogenic Shock (Myocarditis, Parvovirus B19)
+- Required Impella CP for hemodynamic support (now removed)
+- Weaned off inotropes, improving LV function
+- Continue HF regimen (metoprolol, lisinopril, furosemide)
+- Monitor for arrhythmia, end-organ recovery
+- Cardiology f/u, consider cardiac MRI as outpatient
+
+### 2. Acute Kidney Injury (Improved)
+- Likely ischemic/low-flow, now resolving
+- Monitor renal function, maintain euvolemia
+- Avoid nephrotoxins
+
+### 3. Transaminitis/Shock Liver
+- Likely secondary to hypoperfusion/CHF
+- Trending down, monitor LFTs
+
+### 4. Volume Overload/Pulmonary Edema
+- Diuresis with IV furosemide, now euvolemic
+- Daily weights, strict I/Os
+
+### 5. Pain (Neck/Wrist)
+- PRN acetaminophen/ibuprofen, avoid NSAIDs if renal function worsens
+- PT/OT evaluating
+
+### 6. Nutrition/Functional Status
+- Diet advanced as tolerated
+- Early mobilization with PT/OT
+
+### 7. Infection
+- Empiric antibiotics d/c’d after negative cultures and viral PCRs
+- Monitor for secondary infection
+
+### 8. DVT Prophylaxis
+- SCDs in place, heparin SQ
+
+### 9. Disposition
+- Anticipate transfer to step-down in 24-48h if stable
+
+---
+
+## MEDICATIONS (Current)
+- Metoprolol succinate 25 mg po daily
+- Lisinopril 2.5 mg po daily
+- Furosemide 20 mg IV q12h
+- Acetaminophen 650 mg po q6h prn
+- Heparin 5000 units SQ q8h
+
+---
+
+## NURSING/OTHER ORDERS
+- Strict I/Os, daily weights
+- Telemetry
+- PT/OT daily
+- Bedrest with bathroom privileges
+- Vascular access: triple lumen CVC (R IJ), PIV x2
+
+---
+
+## ATTENDING ATTESTATION
+I have reviewed the above note, labs, imaging, and agree with the assessment and plan.
+
+---
+
+**Signed:**  
+S. Patel, MD  
+MICU/Cardiology  
+06/03/2024 07:12
+
+---
+
+**End of note.**

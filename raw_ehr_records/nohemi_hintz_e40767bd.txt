@@ -1,0 +1,192 @@
+```
+------------------------------------------------------------
+Patient Name: Nohemi Hintz           MRN: 00394821
+DOB: 02/09/1946 (Age: 78)            Sex: Female
+Date of Admission: 04/13/2024        Attending: Dr. R. Patel
+------------------------------------------------------------
+
+CHIEF COMPLAINT:
+Progressive shortness of breath, chest pain, and lower extremity edema.
+
+HISTORY OF PRESENT ILLNESS:
+Nohemi Hintz is a 78-year-old female with a history of obesity, hyperlipidemia, prediabetes, osteoarthritis, and remote colon polyp, who presented to the ED with 4 days of worsening dyspnea, orthopnea, and fatigue. She endorsed mild chest tightness, paroxysmal nocturnal dyspnea, and bilateral lower extremity swelling. No fevers, cough, or hemoptysis. Denies recent travel or sick contacts. No prior history of heart failure.
+
+In the ED, she was found to be tachycardic (HR 116), hypotensive (BP 85/54), hypoxic (O2 sat 89% RA), and with elevated JVP and bibasilar crackles. She acutely decompensated with hypotension refractory to fluids and required vasopressor support. TTE showed severe global LV systolic dysfunction (LVEF ~15%), moderate MR, RV moderately reduced. Emergent decision made for ICU admission and placement of a percutaneous LV assist device (Impella CP) for cardiogenic shock.
+
+PAST MEDICAL HISTORY:
+- Obesity (BMI ~31)
+- Hyperlipidemia
+- Prediabetes
+- Osteoarthritis, hand
+- Remote miscarriage (1st trimester)
+- Colon polyp (removed 2017)
+- Remote left clavicle fracture (2014)
+- Recurrent sinusitis, bronchitis
+
+PAST SURGICAL HISTORY:
+- Colonoscopy with polypectomy (2017)
+- ORIF left clavicle (2014)
+- Cholecystectomy (1995)
+- TAH-BSO (1992, fibroids)
+
+SOCIAL HISTORY:
+- Retired school teacher. Lives with husband.
+- Denies tobacco, EtOH, or illicit drug use.
+- No recent travel. No pets.
+
+FAMILY HISTORY:
+- Mother: MI age 78, DM2
+- Father: CVA age 70
+- No known inherited cardiac dz
+
+MEDICATIONS ON ADMISSION:
+- Fluticasone inhaler 44 mcg q12h PRN
+- Albuterol inhaler 90 mcg PRN
+- Simvastatin 10 mg qHS
+- Naproxen sodium 220 mg PRN
+- Acetaminophen 325 mg PRN
+- Hydrocodone/acetaminophen 7.5/325 mg PRN (rare use)
+
+ALLERGIES:
+- NKDA
+
+REVIEW OF SYSTEMS:
+- Cardiac: +DOE, +orthopnea, +PND, +edema, -palpitations
+- Respiratory: +dyspnea, -wheezing, -hemoptysis
+- GI: -N/V/D, -abdominal pain, -melena
+- Neuro: -syncope, -focal deficits
+- MSK: +chronic hand pain, -myalgias
+- GU: -dysuria, -hematuria
+
+PHYSICAL EXAM (on ICU admit):
+- GEN: Ill-appearing, mild distress
+- VITALS: T 36.8C; HR 116; BP 85/54; RR 26; O2 93% 2L NC
+- HEENT: Oropharynx clear, no JVD at 45 deg
+- CV: Tachycardic, S3, no murmur, elevated JVP
+- LUNGS: Bibasilar crackles, mild wheeze
+- ABD: Soft, NT, ND, no HSM
+- EXT: 2+ pitting edema to knees, pulses 2+, no cyanosis
+- NEURO: A&O x3, no focal deficit
+
+------------------------------------------------------------
+HOSPITAL COURSE SUMMARY (ICU Days 1-7):
+
+Day 1 (ICU Admit): 
+- Profound cardiogenic shock, hypotension, rising lactate (3.9 mmol/L)
+- Vasopressors started (norepi, then vasopressin)
+- Placement of Impella CP (femoral) for mechanical circulatory support
+- Intubated for hypoxic respiratory failure
+- Swan-Ganz: CI 1.6, wedge 28 mmHg, SVR 1400; mixed venous O2 51%
+- Started on IV diuresis, empiric antibiotics (ceftriaxone/azithro) for possible pneumonia
+
+Day 2-3:
+- Modest hemodynamic improvement, lactate downtrending
+- AKI (Cr peaked at 1.7), improved with diuresis/renal dose dopamine
+- Troponin T peaked at 0.47 ng/mL, BNP 1890 pg/mL
+- CXR: Pulmonary edema, cardiomegaly, small pleural effusions
+- Echo: LVEF 15%, no LV thrombus, RV mod reduced
+
+Day 4-5:
+- Weaned off vasopressors, extubated successfully
+- Impella flows gradually reduced, device removed on Day 5
+- Cardiology: Likely ischemic vs. non-ischemic DCM, cath deferred due to AKI
+- Mobilized with PT/OT
+- Improved urine output, Cr trending toward baseline
+
+Day 6-7:
+- Stable off pressors and MCS
+- Transitioned to oral diuretics, uptitrated GDMT (metoprolol succinate, sacubitril/valsartan started)
+- Discharged to telemetry floor on Day 7
+
+------------------------------------------------------------
+LABS (selected, see flowsheet for complete data):
+
+| Date       | WBC  | Hgb  | Hct  | Plts | Na   | K    | Cl   | HCO3 | BUN  | Cr   | Glu  | Ca   | AST  | ALT  | AlkPhos | Troponin | BNP    |
+|------------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|---------|----------|--------|
+| 4/13/24 AM | 6.9  | 12.2 | 37.0 | 258  | 139  | 4.2  | 102  | 23   | 18   | 1.0  | 148  | 8.8  | 38   | 41   | 29      | 0.21     | 1890   |
+| 4/13/24 PM | 8.2  | 11.8 | 36.0 | 245  | 137  | 4.0  | 100  | 19   | 22   | 1.3  | 182  | 8.6  | 41   | 50   | 37      | 0.36     |        |
+| 4/14/24 AM | 7.7  | 11.6 | 35.2 | 210  | 138  | 4.1  | 101  | 21   | 28   | 1.7  | 132  | 8.4  | 39   | 43   | 34      | 0.47     | 1760   |
+| 4/15/24 AM | 6.3  | 11.9 | 36.8 | 222  | 140  | 4.3  | 104  | 25   | 21   | 1.2  | 116  | 8.7  | 36   | 38   | 31      | 0.29     |        |
+| 4/16/24 AM | 6.1  | 12.0 | 37.1 | 234  | 142  | 4.2  | 105  | 24   | 18   | 1.0  | 102  | 8.9  | 34   | 37   | 27      | 0.18     | 1200   |
+| 4/17/24 AM | 5.8  | 12.2 | 37.5 | 245  | 140  | 4.1  | 102  | 23   | 17   | 0.9  | 98   | 8.8  | 32   | 35   | 25      | <0.01    | 740    |
+
+*Note: Lactate peaked at 3.9 mmol/L (4/13), improved to 1.2 by 4/16. LFTs modestly elevated, trended down. Albumin ~3.1 g/dL. INR/ptt normal.  
+*Some labs not collected every day due to line draws, hemolysis, etc.
+
+------------------------------------------------------------
+VITALS TRENDS (ICU Days 1-7):
+- HR: 116→84
+- BP: 85/54 (MAP 62, on norepi/vaso) → 112/69 (off pressors)
+- RR: 26→16
+- SpO2: 89% RA (intubated) → 97% 2L NC
+- Temp: 36.8-37.3C
+- UOP: Oliguric (ICU d2), improved with diuresis
+
+------------------------------------------------------------
+ASSESSMENT & PLAN
+
+1. **Cardiogenic Shock (new severe LV dysfunction, LVEF 15%)**
+    - Likely ischemic vs. non-ischemic (no prior hx, risk factors present)
+    - Required Impella CP for mechanical support (ICU d1-5)
+    - Pressors (norepi/vaso) as bridge to recovery
+    - Serial TTEs, hemodynamic monitoring (Swan)
+    - Now improved, weaning GDMT, close f/u with heart failure team
+    - Cardiac MRI/Coronary angio as outpatient (AKI resolved)
+
+2. **Acute Decompensated Heart Failure**
+    - IV Lasix, transitioned to oral torsemide
+    - Fluid/salt restriction, daily weights
+    - Initiated beta blocker (metoprolol succ), ARNI (sacubitril/valsartan)
+    - Strict I/Os
+    - Cardiac rehab consult
+
+3. **Acute Kidney Injury (pre-renal, multifactorial)**
+    - Monitored UOP, renal function
+    - Avoided nephrotoxins, adjusted meds
+    - Diuresis continued with close lyte monitoring
+    - Renal function improving
+
+4. **Volume Overload/Pulmonary Edema**
+    - Non-invasive ventilation early
+    - Intubated for 48hrs, now extubated
+    - CXR/PEEP titration
+
+5. **Hyperlipidemia/Prediabetes**
+    - Continue simvastatin
+    - Monitor lipids, A1c (last 6.2%)
+    - Diabetic diet
+
+6. **Obesity, Osteoarthritis**
+    - PT/OT consult for safe mobilization
+    - Pain control: acetaminophen, avoid NSAIDs due to AKI
+
+7. **Infectious Concerns**
+    - Empiric ceftriaxone/azithro for possible pneumonia (d/c'd after 48h, neg cultures)
+    - No evidence of endocarditis
+
+8. **Other**
+    - DVT ppx (SCDs, SQ heparin)
+    - GI ppx (PPI)
+    - Home meds reviewed, hold NSAIDs, resume inhalers on discharge
+
+DISPOSITION:
+- Discharged ICU Day 7 to telemetry floor, plan for cardiac rehab, close follow-up with advanced heart failure clinic.
+
+------------------------------------------------------------
+PROBLEM LIST (Active)
+- Cardiogenic shock, s/p Impella
+- Acute decompensated HF (HFrEF, new)
+- AKI, resolving
+- Obesity
+- Hyperlipidemia
+- Prediabetes
+- Osteoarthritis, hand
+- Remote colon polyp
+- S/P intubation, extubated
+- DVT ppx
+- Pneumonia r/o (resolved)
+
+------------------------------------------------------------
+SIGNATURE: R. Patel, MD | Date: 4/20/24 | Attending Cardiologist
+------------------------------------------------------------
+```

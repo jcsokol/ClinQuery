@@ -1,0 +1,162 @@
+---
+**Patient Name:** Glenn Gulgowski  
+**MRN:** 0032981-23  
+**DOB:** 1964-10-08 (Age 59)  
+**Sex:** Male  
+**Attending:** Dr. J. Dorsey  
+**Admit Date:** 2024-05-22  
+**ICU Service:** Cardiac ICU  
+**Note Type:** Progress Note  
+**Date/Time:** 2024-05-26 08:34  
+---
+
+### **Chief Complaint**
+Progressive shortness of breath, orthopnea, and chest heaviness for 4 days.
+
+---
+
+### **History of Present Illness**
+Mr. Glenn Gulgowski is a 59-year-old male with a history of hypertension, hyperlipidemia, and recent viral upper respiratory infection (sinusitis), presenting with rapidly worsening dyspnea, lower extremity swelling, and orthopnea. He was initially seen in the ED 4 days ago for a presumed viral syndrome, but returned due to new-onset chest heaviness and near-syncope. On arrival, he was found to be hypotensive, tachycardic, and hypoxic. Cardiac workup revealed elevated troponins and BNP. Echocardiogram demonstrated severe global LV systolic dysfunction (EF ~15%), and he soon required inotropic support for cardiogenic shock. He was transferred to the Cardiac ICU and subsequently required placement of a percutaneous LV assist device (Impella CP) for ongoing hemodynamic instability.
+
+---
+
+### **Past Medical History**
+- Hypertension
+- Hyperlipidemia
+- Acute viral bronchitis (recent)
+- Viral sinusitis (recent)
+- Remote right ankle sprain
+- No known CAD prior to this admission
+
+### **Past Surgical History**
+- None
+
+### **Family History**
+- Father: MI at 62
+- Mother: HTN, T2DM
+
+### **Social History**
+- Former smoker (quit 10 yrs ago, 12 pack-years)
+- Rare EtOH, denies illicit drugs
+- Lives with wife, retired warehouse manager
+
+### **Allergies**
+- NKDA
+
+### **Home Medications**
+- Acetaminophen 325 mg PO PRN
+- Ibuprofen 200 mg PO PRN
+
+---
+
+## **ICU Hospital Course Summary**
+- **HD 1 (5/22):** Admitted to ICU for cardiogenic shock. Started norepinephrine, dobutamine. Swan-Ganz placed.
+- **HD 2:** Hypotension refractory to pressors. Impella CP inserted via femoral approach. Significant improvement in MAP and urine output.
+- **HD 3:** Weaned off norepinephrine. Remained on dobutamine. Mild hemolysis noted.
+- **HD 4:** Diuresis initiated. Respiratory status stable on 2L NC.
+- **HD 5:** Weaned off Impella. Echo: EF 25%. Renal function improved. Transferred to step-down.
+
+---
+
+## **Physical Exam** (5/26/2024)
+- **Gen:** Alert, NAD, mild distress
+- **CV:** S1/S2, no murmur, tachycardic, no JVD, impella hum audible
+- **Resp:** Clear, mild rales at bases, RR 22
+- **Abd:** Soft, NT/ND
+- **Ext:** 2+ pitting edema BLE, pulses 2+
+- **Neuro:** AOx3, no focal deficits
+
+---
+
+## **Lab Results (Selected)**
+| Date        | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | BNP   | AST  | ALT  |
+|-------------|------|------|------|------|------|------|------|------|------|------|------|----------|-------|------|------|
+| 5/22 08:12  | 7.2  | 14.6 | 40   | 323  | 138  | 3.8  | 105  | 22   | 34   | 1.8  | 132  | 1.12     | 3200  | 44   | 31   |
+| 5/22 17:20  | 8.5  | 13.9 | 38   | 290  | 137  | 3.7  | 104  | 21   | 36   | 2.0  | 138  | 0.98     | 3400  | 48   | 34   |
+| 5/23 06:32  | 8.1  | 13.6 | 37   |      | 139  | 4.2  |      | 23   | 31   | 1.5  | 128  | 0.58     | 2100  | 39   | 28   |
+| 5/24 05:50  | 7.9  | 14.0 | 38   | 245  | 140  | 4.0  | 108  | 25   |      | 1.2  | 122  | 0.22     | 1100  |      |      |
+| 5/25 09:15  | 7.4  | 14.5 |      | 233  | 139  | 3.9  | 107  | 26   | 22   | 1.0  | 110  | <0.01    | 650   | 27   | 22   |
+| 5/26 06:10  | 6.9  | 14.8 | 41   | 228  | 137  | 4.1  | 106  | 25   | 19   | 0.9  | 105  | <0.01    | 340   | 22   | 18   |
+
+*Some data missing due to hemolysis or sample clotting.*
+
+---
+
+## **Imaging**
+- **5/22**: CXR: Mild pulmonary congestion, no focal infiltrate.
+- **5/22**: Echo: Severe global hypokinesis, EF 15%, no LV thrombus.
+- **5/25**: Repeat Echo: EF improved to 25%, mild MR, RV function preserved.
+
+---
+
+## **Assessment & Plan**
+**1. Cardiogenic Shock (presumed viral myocarditis)**
+   - Impella CP placed on HD2 for refractory shock. Now explanted.
+   - Transitioned off pressors, on low-dose dobutamine.
+   - Diuresed aggressively with IV furosemide.
+   - Echo: improving EF (now ~25%).
+   - Plan: Continue goal-directed therapy, monitor for arrhythmias, consider GDMT for HFrEF when stable.
+
+**2. Acute Kidney Injury (pre-renal, secondary to low output)**
+   - Initial Cr peaked at 2.0, now improved to 0.9.
+   - Off vasopressors, euvolemic.
+   - Monitor I/Os, daily BMP.
+
+**3. Viral Sinusitis/Bronchitis (recent)**
+   - Symptoms resolving, no ongoing cough or rhinorrhea.
+   - No antibiotics indicated.
+
+**4. Volume Overload**
+   - Lower extremity edema, mild pulmonary congestion.
+   - On loop diuretics, daily weights.
+
+**5. Hyperlipidemia/Hypertension**
+   - Not on home statin or antihypertensive.
+   - Hold statin until LFTs normalize.
+   - Resume antihypertensive therapy as tolerated.
+
+**6. Pain (mild, ankle sprain remote)**
+   - Rare PRN acetaminophen, no opioids needed.
+
+**7. DVT Prophylaxis**
+   - On SQ heparin, SCDs in place.
+
+**8. Social/Disposition**
+   - Needs PT/OT evaluation prior to discharge.
+   - Early discussion with wife regarding goals of care.
+
+---
+
+## **Medications (Hospital)**
+- Dobutamine IV (titrating)
+- Furosemide 40 mg IV BID
+- Acetaminophen 325 mg PO PRN
+- Ibuprofen 200 mg PO PRN (held for AKI)
+- Heparin SQ 5000U q8h
+- Pantoprazole 40 mg IV daily
+
+---
+
+## **To Do / Orders**
+- Daily labs: CBC, BMP, troponin, LFTs
+- Daily weights & strict I/O
+- Repeat TTE prior to transfer
+- PT/OT consult
+- Advance diet as tolerated
+
+---
+
+### **Significant Events**
+- 5/22: Cardiac arrest (PEA) x2 min, ROSC after CPR/epi
+- 5/23: Hemolysis, LDH 580 (Impella-related, resolved)
+- 5/24: Transient atrial fibrillation, self-resolved
+
+---
+
+**Attending:** Dr. J. Dorsey  
+**Resident:** A. Brown, MD  
+**CC:** Cardiology, Renal, PT/OT
+
+---
+
+**End of Note**

@@ -1,0 +1,143 @@
+```
+==================================================================
+EpicCare Inpatient - Darrin McGlynn [MRN: 002349821]
+==================================================================
+Admission Date: 2024-06-12       Note Date: 2024-06-16
+Attending: Dr. Karen H. Lee      Location: MICU, Rm 3102-B
+------------------------------------------------------------------
+
+Name: Darrin McGlynn                Sex: M
+DOB: 1990-05-28 (Age 34)            Height: 178.6 cm
+Weight: 75.3 kg                     BMI: 23.6
+
+Allergies: NKDA
+Code Status: Full Code
+
+==================================================================
+HOSPITAL COURSE SUMMARY
+==================================================================
+Mr. Darrin McGlynn is a 34-year-old male with a history notable only for viral sinusitis who presented to the ED with acute onset chest pain, dyspnea, and malaise. Initial workup revealed new severe LV systolic dysfunction, presumed viral myocarditis (likely coxsackie), with rapidly evolving cardiogenic shock. He was transferred to the MICU for escalating inotropes and vasopressors, and ultimately required emergent placement of a percutaneous LVAD (Impella CP) for hemodynamic support. His course was complicated by acute renal injury, transaminitis, and mild thrombocytopenia. After 4 days of support, LV function improved and device was removed. He continues to recover with ongoing management of heart failure, renal recovery, and supportive care.
+
+==================================================================
+PRINCIPAL PROBLEMS
+==================================================================
+1. **Acute decompensated heart failure, new severe LV systolic dysfunction (EF <20%), likely viral myocarditis**
+2. **Cardiogenic shock - requiring temporary LVAD (Impella CP)**
+3. **Acute kidney injury, multifactorial (low perfusion, nephrotoxic agents)**
+4. **Mild transaminitis, likely ischemic hepatitis**
+5. **Thrombocytopenia, likely device-related and multifactorial**
+6. **Viral sinusitis (resolved)**
+7. **Pain (s/p device insertion, chest tube)**
+8. **Anxiety/deconditioning**
+
+==================================================================
+MEDICATION ADMINISTRATION RECORD (MAR)
+==================================================================
+- Dobutamine drip (titrated off POD#3)
+- Norepinephrine (weaned off POD#2)
+- Furosemide IV Q12h
+- Lisinopril 2.5 mg PO QD (held for low BP x2 days)
+- Metoprolol tartrate 12.5 mg PO BID (initiated POD#3)
+- Ceftriaxone 1g IV Q24h (ED, d/c’d after negative cultures)
+- Acetaminophen 650 mg PO Q6h PRN
+- Oxycodone 5 mg PO Q4h PRN
+- Pantoprazole 40 mg IV Q24h
+
+==================================================================
+VITAL SIGNS (selected)
+==================================================================
+| Date      | HR  | BP         | RR | Temp  | SpO2 | Remarks         |
+|-----------|-----|------------|----|-------|------|-----------------|
+| 6/12 2230 | 132 | 81/52      | 23 | 38.1C | 94%  | ED, on 2L NC    |
+| 6/13 0500 | 117 | 95/60      | 21 | 37.8C | 97%  | ICU, Impella in |
+| 6/14 0730 | 101 | 102/67     | 18 | 37.2C | 98%  | Improving       |
+| 6/15 1100 | 88  | 112/74     | 15 | 36.9C | 99%  | Off pressors    |
+| 6/16 0600 | 83  | 118/78     | 13 | 36.7C | 99%  | Transfer ready  |
+
+==================================================================
+LABORATORY RESULTS
+==================================================================
+CBC & CHEMISTRY PANEL (selected)
+
+| Date      | WBC  | Hgb  | Hct   | Plt   | Na   | K   | Cl  | CO2 | BUN  | Cr   | Glu  | AST  | ALT  | TnT  |
+|-----------|------|------|-------|-------|------|-----|-----|-----|------|------|------|------|------|------|
+| 6/12 2200 | 4.2  | 16.4 | 41.8  | 433   | 137  | 4.9 | 104 | 21  | 34   | 1.8  | 112  | 156  | 182  | 0.35 |
+| 6/13 0500 | 5.8  | 14.1 | 38.2  | 307   | 134  | 3.7 | 101 | 17  | 41   | 2.6  | 103  | 339  | 291  | 0.42 |
+| 6/13 1900 | 6.3  | 13.6 | 36.7  | 275   | 136  | 4.1 | 103 | 18  | 38   | 2.3  |  98  | 215  | 163  | 0.29 |
+| 6/14 0700 | 6.8  | 12.8 | 34.2  | 201   | 139  | 3.8 | 106 | 20  | 30   | 1.7  | 105  | 102  |  84  | 0.12 |
+| 6/15 0645 | 5.9  | 13.4 | 36.3  | 188   | 141  | 4.3 | 108 | 22  | 22   | 1.3  |  99  |  67  |  59  | <0.01|
+| 6/16 0530 | 5.2  | 14.0 | 37.5  | 195   | 142  | 4.5 | 109 | 21  | 18   | 1.1  |  96  |  44  |  33  | <0.01|
+| 6/16 1200 |      |      |       |       |      |     |     |     |      |      |      |      |      |      |
+
+*Note: Some labs not drawn every timepoint. Troponin-T (TnT) peaked on 6/13, then trended down.
+
+Additional labs:  
+- INR 1.3 (6/13), 1.1 (6/15)  
+- aPTT 34s (6/13), 28s (6/15)  
+- Ferritin 398 ng/mL (6/12)  
+- CRP 12.7 mg/dL (6/13)  
+- Lactate 3.8 mmol/L (6/13), 1.3 (6/15)
+
+==================================================================
+IMAGING
+==================================================================
+- **TTE (6/13):** Severe global LV dysfunction, EF ~18%; RV mildly reduced; no significant valvular disease. Small pericardial effusion.
+- **CXR (6/13):** Pulmonary edema, vascular congestion, small left pleural effusion, Impella device in place.
+- **ECG (6/12):** Sinus tachycardia, low voltage QRS, no ST-elevation.
+
+==================================================================
+PROBLEM-BASED ASSESSMENT & PLAN
+==================================================================
+
+**1. Acute decompensated HF, severe LV dysfunction, likely viral myocarditis**
+- Initial presentation with viral prodrome, then acute heart failure and shock.
+- Echo confirmed severe LV dysfunction.
+- Supportive care, diuresis, inotropes, afterload reduction.
+- Will continue GDMT as tolerated, titrate up ACEi and BB as able.
+- Repeat echo planned in 2-4 weeks.
+
+**2. Cardiogenic shock - required temporary LVAD (Impella CP)**
+- Placed 6/13 due to escalating shock, MAP <60 despite pressors.
+- Hemodynamics stabilized, device weaned off and removed after 4 days.
+- Ongoing monitoring for device-related complications (hemolysis, limb ischemia, infection).
+- No evidence of device-related infection or access site bleeding.
+
+**3. Acute kidney injury (KDIGO II)**
+- Baseline Cr unknown, peaked at 2.6.
+- Likely multifactorial: hypoperfusion, diuretic use, possible contrast.
+- Renal function improving, now Cr 1.1.
+- Will monitor UOP, avoid nephrotoxins, adjust meds for renal dosing.
+
+**4. Mild transaminitis (AST/ALT peaked 339/291)**
+- Likely ischemic hepatitis from hypoperfusion/shock.
+- Trending down, no evidence of biliary obstruction.
+- Monitor LFTs, expect resolution.
+
+**5. Thrombocytopenia (nadir 188)**
+- Likely multifactorial: device, hemodilution, possible mild consumptive coagulopathy.
+- Platelets stable, no bleeding.
+- Trending up off device.
+
+**6. Viral sinusitis (resolved)**
+- No ongoing symptoms.
+- Supportive care only.
+
+**7. Pain (s/p device, chest tube)**
+- Well controlled on PRN acetaminophen.
+- Oxycodone PRN, weaning.
+
+**8. Anxiety, deconditioning**
+- Physical therapy started POD#4.
+- Psych support, sleep hygiene.
+
+**Disposition:**  
+- Continue cardiac and renal recovery, monitoring.
+- Anticipate transfer to stepdown tomorrow if stable.
+- Outpatient cardiology and cardiac rehab f/u on discharge.
+
+==================================================================
+Attending: Karen H. Lee, MD
+Note Author: John Doe, MD (ICU Fellow)
+Co-sign: [pending]
+==================================================================
+```

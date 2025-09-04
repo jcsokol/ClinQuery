@@ -1,0 +1,234 @@
+**Patient Name:** Matha Jones  
+**MRN:** 00394821  
+**DOB:** 1970-06-05 (Age 53)  
+**Sex:** Female  
+**Admit Date:** 2024-05-15  
+**Attending:** Dr. Robert Lin  
+**Service:** ICU, Cardiology Consult  
+**Allergies:** NKDA  
+**Code Status:** Full  
+
+---
+
+### CHIEF COMPLAINT
+Shortness of breath, chest pain, and fatigue.
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+Matha Jones is a 53-year-old female with a PMH notable for chronic hypertension, prediabetes, anemia, and a remote history of preeclampsia, who presented to the ED with 2 days of progressive dyspnea at rest, orthopnea, and intermittent chest pain. On arrival, she was noted to be tachycardic, hypertensive, and hypoxic. Initial troponin was elevated at 2.3 ng/mL. CXR showed pulmonary edema. Echo revealed severe global LV hypokinesis (EF 18%), and she rapidly decompensated into cardiogenic shock requiring vasopressors and intubation. Due to refractory shock, an Impella CP device was placed for temporary mechanical circulatory support.
+
+---
+
+### PAST MEDICAL HISTORY
+- Hypertension (dx ~2010)
+- Prediabetes (A1c 6.4%)
+- Anemia (intermittent, iron deficiency)
+- Chronic sinusitis
+- Preeclampsia (remote, during prior pregnancy)
+- Recurrent viral pharyngitis
+- Miscarriage (1st trimester, remote)
+- Gravida 4 Para 3 (all prior pregnancies otherwise uncomplicated)
+
+---
+
+### PAST SURGICAL HISTORY
+- C-section x2
+- IUD placement/removal
+
+---
+
+### SOCIAL HISTORY
+- Tobacco: Never
+- Alcohol: Occasional, <3 drinks/week
+- Illicits: Denies
+- Lives with husband
+- Works as administrative assistant
+
+---
+
+### FAMILY HISTORY
+- CAD (father, MI age 59)
+- T2DM (mother)
+- HTN (both parents)
+
+---
+
+### MEDICATIONS (Home)
+- Hydrochlorothiazide 25 mg PO QAM
+- Seasonique 91 Day Pack
+- Mirena IUD (removed prior to admission)
+- Medroxyprogesterone acetate 150 mg IM q3mo (last 2 months ago)
+- Levora 0.15/30 28 Day Pack (recently discontinued)
+- Yaz 28 Day Pack (recently discontinued)
+- NuvaRing (not currently in use)
+- Jolivette 28 Day Pack (recently discontinued)
+- Liletta IUS (not currently in use)
+
+**Inpatient/ICU Meds:**
+- Noradrenaline infusion (titrating)
+- Furosemide IV 40 mg BID
+- Aspirin 81 mg PO daily
+- Atorvastatin 40 mg PO qHS
+- IV Iron Sucrose 200 mg q2d (per iron studies)
+- Sliding scale insulin
+- Pantoprazole 40 mg IV daily
+- Heparin SQ 5000u q8h (VTE ppx)
+- Metoprolol 12.5 mg PO BID (held for SBP <100)
+
+---
+
+### ICU HOSPITAL COURSE (Summary)
+
+**Day 1 (5/15/24):**  
+- Presented with acute decompensated heart failure, possible ischemic etiology.
+- CXR: Pulmonary edema; BNP 3400 pg/mL; Troponin 2.3, repeat 2.7.
+- Echo: Severe global LV dysfunction, EF 18%.
+- Intubated for hypoxic respiratory failure.
+- Started on norepinephrine, dobutamine, and diuretics.
+- Emergent left heart cath: No significant CAD, but severe LV dysfunction.
+- Impella CP placed for hemodynamic support.
+
+**Day 2:**  
+- Remains intubated, Impella support ongoing.
+- Vasopressors weaned overnight.
+- Urine output improved, diuresis continues.
+- Serial labs: mild transaminitis, improved lactate.
+- Neuro status: sedated, opens eyes to voice.
+
+**Day 3:**  
+- Impella flows adequate, hemodynamics stable.
+- Vasopressors off. Weaning sedation.
+- Extubated to high-flow nasal cannula.
+- Echo: improved LV function (EF up to 28%).
+- Renal function stable, mild anemia persists.
+- Iron started.
+
+**Day 4:**  
+- Impella removed. Monitored for access site complications.
+- Ambulating with PT/OT.
+- Transitioned to oral diuretics, beta-blocker started.
+- Planning for step-down transfer.
+
+---
+
+### VITALS (Admission)
+- Height: 152.8 cm  
+- Weight: 68.2 kg  
+- BMI: 29.2 kg/m2  
+- Temp: 37.8°C (oral)  
+- HR: 126 bpm (admit), improved to 88 bpm  
+- BP: 172/99 mmHg (admit), improved to 121/74  
+- RR: 24 (admit), improved to 16  
+- SpO2: 89% on RA (admit), 97% on 2L NC
+
+---
+
+### LABS (Selected, see flowsheet for full)
+
+#### Table 1: CBC & Chem7 (selected days)
+| Date        | WBC (K) | Hgb (g/dL) | Plt (K) | Na | K  | Cl | CO2 | BUN | Cr  | Glu | Ca |  
+|-------------|---------|------------|---------|----|----|----|-----|-----|-----|-----|----|  
+| 5/15/24 AM  | 3.7     | 13.8       | 266     | 139| 5.1| 106| 25  | 32  | 1.16| 123 | 9.4|  
+| 5/16/24 AM  | 4.2     | 12.5       | 243     | 141| 4.7| 108| 23  | 26  | 1.21| 109 | 8.8|  
+| 5/17/24 AM  | 3.9     | 11.9       | 223     | 140| 4.5| 108| 27  | 21  | 1.05| 98  | -- |  
+| 5/18/24 AM  | 4.0     | 11.3       | 202     | 140| 4.1| 107| 28  | 19  | 1.01| --  | -- |  
+
+#### Additional Labs
+- **BNP:** 3400 pg/mL (admit)
+- **Troponin I:** 2.3 → 2.7 → 1.9 ng/mL (downtrending)
+- **ALT/AST:** 54/62 → 41/38 (mild, transient)
+- **Total bili:** 1.1 mg/dL (peak)
+- **Lactate:** 3.7 → 1.4 mmol/L (improved)
+- **Ferritin:** 34 ng/mL (low)
+- **TSAT:** 14% (low)
+- **A1c:** 6.4% (pre-admission)
+
+---
+
+### PROBLEM-BASED ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock (acute decompensated heart failure, non-ischemic)**  
+- Impella CP placed, now removed; close monitoring for access complications  
+- Vasopressors discontinued, hemodynamics stable  
+- Diuresis ongoing; fluid balance net negative  
+- Continue low-dose BB, titrate as tolerated  
+- Daily weights, strict I/Os  
+- Cardiology to follow
+
+**2. Hypoxic Respiratory Failure**  
+- Initially intubated, now extubated to high-flow NC  
+- Wean O2, monitor ABG  
+- Incentive spirometry, pulmonary hygiene
+
+**3. Hypertension (chronic, poorly controlled)**  
+- Restart home HCTZ when euvolemic  
+- Add ACE-I if renal function stable  
+- Monitor BP q4h
+
+**4. Anemia (chronic, iron deficiency)**  
+- Hgb trending down with diuresis  
+- IV iron started  
+- Monitor CBC qAM  
+- Consider transfusion if symptomatic or Hgb<8
+
+**5. Prediabetes**  
+- Monitor glucoses, sliding scale insulin as needed  
+- Plan: outpatient DM education, A1c recheck in 3 months
+
+**6. Transaminitis (mild, likely shock liver)**  
+- Trend LFTs  
+- No hepatotoxic meds
+
+**7. VTE Prophylaxis**  
+- Heparin SQ  
+- SCDs
+
+**8. Nutrition**  
+- Cardiac diet  
+- Monitor electrolytes, replete K/Mg as needed
+
+**9. Disposition/Functional Status**  
+- PT/OT for deconditioning  
+- Step-down transfer anticipated
+
+**10. Medications reconciliation & contraception**  
+- Review all prior OCPs/IUDs  
+- Discuss alternatives prior to discharge
+
+---
+
+### PROCEDURES
+- Left heart cath (5/15/24)
+- Impella CP insertion (5/15/24)
+- Arterial line placement (5/15/24)
+- Central line (R IJ, 5/15/24)
+- Foley catheter (removed 5/17/24)
+- Impella explant (5/18/24)
+
+---
+
+### DISCHARGE PLANNING
+- Anticipate step-down transfer within 48 hours
+- Outpatient follow-up with Cardiology, Primary Care
+- Echo in 4-6 weeks
+- Home health RN for medication management
+
+---
+
+**Physician:**  
+Robert Lin, MD  
+Cardiology/ICU  
+**Date/Time:** 2024-05-18 10:35
+
+---
+
+**Significant Events (Flowsheet):**
+- 5/15: Impella placed, intubated
+- 5/16: Extubated, improved UOP
+- 5/17: Impella support, stable
+- 5/18: Impella removed, step-down pending
+
+---
+
+**End of Note**

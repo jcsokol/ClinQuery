@@ -1,0 +1,180 @@
+**EPIC EHR - ADMISSION SUMMARY**
+
+---
+
+**Patient Name:** Jayson Macejkovic  
+**MRN:** 00329147  
+**DOB:** 2005-02-27 (Age: 19)  
+**Sex:** Male  
+**Date of Admission:** 2024-05-12  
+**Date of Discharge:** [pending]  
+**Attending:** Dr. S. Yoon  
+**Admitting Service:** Pediatric Cardiology/Critical Care  
+**Location:** CVICU, Bed 8  
+
+---
+
+**ADMISSION DIAGNOSIS:**  
+- Cardiogenic shock secondary to acute viral myocarditis  
+- Perennial allergic rhinitis, seasonal variation  
+- Acute viral pharyngitis  
+- Viral sinusitis  
+- S/P left wrist fracture with subluxation (remote, not active)  
+
+**HISTORY OF PRESENT ILLNESS:**  
+Jayson Macejkovic is a 19-year-old male with a history of allergic rhinitis and recent viral upper respiratory infection who presented to the ED with 3 days of progressive dyspnea, orthopnea, chest discomfort, and leg swelling. He had a preceding history of cough, low-grade fever, rhinorrhea, and sore throat. Initial evaluation revealed tachycardia, hypotension, elevated JVP, and bibasilar crackles. CXR showed pulmonary edema. Troponin was elevated, and echocardiogram revealed global hypokinesis with an LVEF of 17%. He rapidly deteriorated into cardiogenic shock requiring transfer to the CVICU. Given refractory hypotension despite inotropes and evidence of end-organ dysfunction, a percutaneous left ventricular assist device (Impella CP) was placed emergently.
+
+---
+
+**PAST MEDICAL HISTORY:**  
+- Perennial allergic rhinitis  
+- Remote left wrist fracture with subluxation (2019, healed)  
+- No known cardiac history prior to this admission  
+- No prior hospitalizations for cardiac issues  
+
+**PAST SURGICAL HISTORY:**  
+- None
+
+**FAMILY HISTORY:**  
+- Mother: Asthma, allergic rhinitis  
+- Father: Hypertension  
+- No known family history of cardiomyopathy or sudden cardiac death
+
+**SOCIAL HISTORY:**  
+- Non-smoker, no EtOH, denies illicit drug use  
+- Lives with parents, college student  
+- No recent travel or sick contacts
+
+**MEDICATIONS ON ADMISSION:**  
+- Cetirizine 5mg PO qd  
+- Epinephrine 0.3mL autoinjector PRN  
+- Acetaminophen 160mg PO PRN  
+
+**ALLERGIES:**  
+- NKDA
+
+---
+
+**PHYSICAL EXAM (On Admission):**  
+**Gen:** Thin, pale, in moderate respiratory distress  
+**VS:** T 37.2°C, HR 128, BP 82/51, RR 24, SpO2 93% RA  
+**HEENT:** Pharyngeal erythema, nasal congestion  
+**CV:** Tachycardic, S3 present, JVP 10cm, diminished peripheral pulses  
+**Resp:** Bibasilar crackles, mild retractions  
+**Abd:** Soft, nontender, mild hepatomegaly  
+**Ext:** Cool extremities, 1+ pedal edema  
+**Neuro:** Alert, oriented x3, no focal deficits  
+
+---
+
+**HOSPITAL COURSE (Day-by-Day Summary):**  
+
+**Day 1 (ED/CVICU):**  
+- Admitted in shock. Lactate 4.8. Started on dobutamine, milrinone.  
+- Worsening hypotension, oliguric.  
+- Emergent placement of Impella CP for LV support.  
+- Started on IV diuretics, broad spectrum abx (initially, later d/c'd).  
+- Serial labs, echo, and CXR.  
+
+**Day 2:**  
+- Hemodynamics improved with Impella.  
+- Weaned off vasopressors.  
+- LFTs improving, creatinine downtrending.  
+- Ongoing monitoring for arrhythmia, VTE prophylaxis.  
+- Developed fever (38.3°C), blood cultures sent (neg).  
+
+**Day 3:**  
+- Gradual improvement in urine output, mentation.  
+- Impella flows stable, minimal hemolysis.  
+- Cardiac MRI: findings consistent with viral myocarditis.  
+- Started on guideline-directed medical therapy for HFrEF.  
+- Nutrition consult, started on high-calorie diet.  
+
+**Day 4:**  
+- Impella weaning trial tolerated.  
+- LVEF improving on TTE (now 31%).  
+- Transaminitis resolved, renal function normalizing.  
+- Remains afebrile, WBC trending down.  
+- PT/OT consulted for deconditioning.  
+
+**Day 5:**  
+- Impella explanted at bedside.  
+- Low-dose inotropes continued x24h, then weaned.  
+- Transitioned to oral heart failure meds.  
+- Plan for step-down transfer.  
+
+---
+
+**LABS (Selected, see table below):**
+
+| Date        | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Troponin I (ng/mL) | ALT (U/L) | AST (U/L) |
+|-------------|------------|------------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|---------------------|-----------|-----------|
+| 5/12/24 06:15| 13.2       | 13.1       | 178        | 137         | 5.2        | 105         | 18           | 32          | 1.8        | 104         | 2.34                | 146       | 201       |
+| 5/12/24 18:30| 12.6       | 12.4       | 162        | 139         | 4.8        | 101         | 17           | 29          | 1.5        | 98          | 1.95                | 132       | 174       |
+| 5/13/24 07:12| 11.4       | 12.7       | 154        | 140         | 4.2        | 100         | 21           | 24          | 1.2        | 107         | 1.14                | 71        | 93        |
+| 5/14/24 06:50| 9.7        | 13.5       | 159        | 141         | 4.0        | 98          | 23           | 19          | 0.9        | 99          | 0.58                | 41        | 52        |
+| 5/15/24 08:00| 8.9        | 13.9       | 167        | 142         | 3.9        | 100         | 25           | 15          | 0.8        | 101         | 0.16                | 22        | 28        |
+| 5/16/24 07:30| 7.2        | 14.1       | 172        | 141         | 4.1        | 102         | 24           | 14          | 0.7        | 95          | —                   | —         | —         |
+
+*Note: Some labs not drawn daily; see chart for full details.*
+
+---
+
+**PROBLEM-BASED ASSESSMENT & PLAN**
+
+**1. Cardiogenic shock secondary to acute viral myocarditis**  
+- Required Impella CP for temporary LV support (placed 5/12, explanted 5/15)  
+- Serial TTEs, cardiac MRI confirmed myocarditis  
+- Now improving, off mechanical support  
+- Plan: Continue GDMT for HFrEF (low-dose carvedilol, lisinopril, spironolactone), monitor for arrhythmia, cardiac rehab referral  
+
+**2. Acute decompensated heart failure**  
+- Managed with IV diuretics, inotropes, Impella  
+- Diuresed ~3.5L net negative over first 72h  
+- Plan: Transition to oral diuretics, daily weights, strict I/Os, continue sodium/fluid restriction  
+
+**3. Acute kidney injury (pre-renal, now resolving)**  
+- Initial Cr 1.8, improved to 0.7  
+- Plan: Monitor renal function, avoid nephrotoxins, adjust meds as needed  
+
+**4. Transaminitis (shock liver, resolved)**  
+- ALT/AST peaked at 146/201, now normalized  
+- Plan: Monitor LFTs, no further intervention  
+
+**5. Perennial allergic rhinitis**  
+- Continue home cetirizine  
+- Monitor for allergic triggers in hospital  
+
+**6. Recent viral pharyngitis & sinusitis**  
+- Supportive care, improved  
+- No evidence of secondary bacterial infection  
+- Plan: Supportive, no abx  
+
+**7. Nutrition/Deconditioning**  
+- High-calorie diet, PT/OT involvement  
+- Plan: Early mobilization, nutrition follow-up  
+
+**8. VTE Prophylaxis**  
+- On enoxaparin SQ until ambulatory  
+- Plan: Continue until discharge
+
+**9. Psychosocial**  
+- Discussed diagnosis and prognosis with patient/family  
+- Social work and psychology consults placed
+
+---
+
+**DISCHARGE PLANNING**  
+- Anticipate step-down to telemetry in 24h  
+- Will need close outpatient cardiology follow-up  
+- Home meds to include: GDMT, cetirizine, PRN acetaminophen  
+- Education re: s/sx of heart failure, device site care, medication compliance  
+- Cardiac rehab referral  
+- Return precautions reviewed
+
+---
+
+**SIGNATURE:**  
+S. Yoon, MD  
+Pediatric Cardiology/Critical Care  
+[EPIC EHR - Signed 2024-05-16 10:31]

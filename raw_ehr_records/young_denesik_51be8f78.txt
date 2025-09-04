@@ -1,0 +1,177 @@
+---
+**Patient Name:** Young Denesik  
+**MRN:** 00845923  
+**DOB:** 11/04/1986 (37 years)  
+**Sex:** Male  
+**Attending:** Dr. R. Haskins  
+**Admit Date:** 2024-05-26  
+**Note Date:** 2024-06-01  
+**Service:** MICU  
+**Admitting Diagnosis:** Cardiogenic shock secondary to acute fulminant myocarditis  
+**Allergies:** NKDA  
+**Code Status:** Full code  
+**Isolation:** None  
+**Weight:** 82.8 kg  
+**Height:** 166.4 cm  
+**BMI:** 29.9
+
+---
+
+# ICU Progress Note
+
+**Subjective:**  
+Patient is a 37-year-old male with a history of recent viral sinusitis and streptococcal pharyngitis (completed penicillin) who presented to the ED with 2-day history of worsening dyspnea, chest tightness, orthopnea, and progressive fatigue. Family reports recent viral illness in household. Patient admitted to MICU for acute hypoxemic respiratory failure and hypotension. Intubated for airway protection on HD1. Required vasopressor support and was subsequently found to have severely reduced LVEF (EF 15%) on bedside echo. Emergent placement of a percutaneous left ventricular assist device (Impella CP) was performed on HD2 for refractory cardiogenic shock.
+
+**Pain:** 2/10, diffuse muscular soreness.  
+**Sleep:** Poor.  
+**Appetite:** NPO for first 48h, now tolerating clear liquids.
+
+**Overnight Events:**  
+- Remained on Impella support, weaned off norepinephrine.  
+- No arrhythmias overnight.  
+- Minimal urine output, diuresis attempted.  
+- No fever spikes.  
+- Family at bedside.
+
+---
+
+**Objective**
+
+**Vitals (last 24h):**  
+| Time     | T (°C) | HR  | BP (mmHg) | RR | SpO2 | FiO2 | MAP |
+|----------|--------|-----|-----------|----|------|------|-----|
+| 06:00    | 38.2   | 108 | 98/54     | 22 | 97%  | 40%  | 65  |
+| 12:00    | 37.6   | 101 | 104/61    | 18 | 98%  | 35%  | 71  |
+| 18:00    | 37.2   | 93  | 112/68    | 16 | 99%  | 30%  | 78  |
+| 00:00    | 37.0   | 85  | 109/64    | 16 | 98%  | 30%  | 75  |
+
+**Physical Exam:**  
+- **Gen:** Intubated, sedated, appears uncomfortable.
+- **CV:** S1, S2, no murmur. Impella audible. Cool extremities, 1+ pitting edema at ankles.
+- **Resp:** Intubated, coarse breath sounds bilaterally, mild crackles.
+- **Abd:** Soft, NT/ND, normal bowel sounds.
+- **Neuro:** Non-focal. Moves all extremities to pain.
+- **Skin:** No rashes, IVs in place, Impella femoral site clean/dry.
+- **Lines/Devices:** R IJ central line, L radial A-line, Foley, Impella CP L femoral.
+
+---
+
+**Laboratory Data:**  
+**CBC / Chemistries (selected):**
+
+| Date/Time  | WBC   | Hgb   | Plt   | Na    | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|-------|-------|-------|-------|------|------|------|------|------|------|
+| HD1 07:13  | 6.7   | 12.7  | 426   | 138   | 4.1  | 103  | 21   | 27   | 1.4  | 122  |
+| HD2 06:02  | 9.9   | 11.2  | 399   | 134   | 4.9  | 99   | 18   | 34   | 2.2  | 137  |
+| HD3 05:58  | 14.4  | 10.1  | 289   | 136   | 5.6  | 97   | 17   | 52   | 3.1  | 146  |
+| HD4 06:05  | 10.2  | 10.7  | 312   | 137   | 4.2  | 101  | 19   | 33   | 2.1  | 111  |
+| HD5 05:53  | 8.8   | 11.5  | 333   | 139   | 4.0  | 104  | 23   | 24   | 1.3  | 117  |
+| HD6 06:02  | —     | 12.1  | —     | 138   | 4.3  | 106  | 25   | 18   | 1.1  | —    |
+
+**Other Labs:**
+- **Troponin I:** 0.13 → 1.8 → 2.3 → 1.2 (peaked HD2)
+- **BNP:** 2470 pg/mL (HD2)
+- **LFTs:** AST/ALT 45/38 (HD2), Bili 1.2, Alk Phos 79
+- **INR:** 1.3 (HD3)
+- **CRP:** 92 mg/L (HD1)
+- **Lactate:** 4.7 (HD1), 2.8 (HD3), 1.1 (HD5)
+
+---
+
+**Imaging:**  
+- **CXR (HD1):** Bilateral patchy opacities, mild pulmonary edema.
+- **Echo (HD1):** LVEF 15%, global hypokinesis, no LV thrombus, mild MR.
+- **Repeat Echo (HD5):** LVEF improved to 32%.
+
+---
+
+# Assessment & Plan
+
+**1. Cardiogenic Shock secondary to Fulminant Myocarditis**  
+- Viral prodrome, rapid decompensation, severe biventricular dysfunction.
+- Impella CP placed HD2, currently providing partial LV support.
+- Weaned off vasopressors HD4.  
+- LVEF improving, will trial Impella wean HD7 if stable.
+- Continue telemetry, daily echo, strict I/Os, maintain MAP >65, monitor for hemolysis.
+
+**2. Acute Kidney Injury (presumed ATN, multifactorial: hypoperfusion, nephrotoxins)**  
+- Peak Cr 3.1, now trending down.
+- Monitor UOP, avoid nephrotoxins, adjust meds for renal dosing.
+- Foley in place, daily lytes.
+
+**3. Acute Hypoxemic Respiratory Failure**  
+- Intubated HD1, FiO2 weaning.
+- Diuresis ongoing, daily CXR.
+- SATS >97%, plan SBT HD7.
+
+**4. Impella-Related Management**  
+- Site clean, no bleeding.
+- Hgb stable, monitor for hemolysis (LDH, haptoglobin).
+- Anticoagulation: heparin gtt, goal aPTT 60–80.
+- Daily vascular checks.
+
+**5. Infection Prophylaxis/Antibiotics**  
+- No evidence of active infection, cultures negative.
+- Completed penicillin for strep pharyngitis.
+- VAP, CLABSI, CAUTI bundles.
+
+**6. Hyperglycemia**  
+- Glucose elevated (146), sliding scale insulin.
+- Monitor q6h, A1c pending.
+
+**7. Nutrition**  
+- NPO x48h, now on clear liquids, tube feeds PRN if unable to advance.
+
+**8. DVT Prophylaxis**  
+- SCDs, heparin gtt (for Impella), no additional LMWH.
+
+**9. Psychosocial/Disposition**  
+- Family updated daily, case management involved.
+- Awaiting improvement for stepdown transfer.
+
+---
+
+**Medications:**
+- Heparin infusion (for Impella)
+- Furosemide IV
+- Ceftriaxone (d/c’d HD2)
+- Penicillin V (completed prior to admission)
+- Sliding scale insulin
+- Atorvastatin (home med, resumed HD5)
+- Pantoprazole IV
+- Acetaminophen PRN
+
+---
+
+**To Do:**
+- Monitor for Impella wean/decannulation
+- Repeat echo HD7
+- Continue I/O, daily labs
+- SBT trial when stable
+- Family meeting for goals of care
+
+---
+
+**Signed:**  
+Dr. R. Haskins, MD  
+MICU
+
+---
+
+**Labs Table (abbreviated, some missing values):**
+
+| Date    | WBC | Hgb | Plt | Na  | K   | Cl  | CO2 | BUN | Cr  | Glu | Troponin | BNP  | AST | ALT | INR |
+|---------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|----------|------|-----|-----|-----|
+| HD1 AM  | 6.7 |12.7 | 426 |138  |4.1  |103  |21   |27   |1.4  |122  | 0.13     |      |     |     |     |
+| HD2 AM  | 9.9 |11.2 | 399 |134  |4.9  |99   |18   |34   |2.2  |137  | 1.8      |2470  |45   |38   |     |
+| HD3 AM  |14.4 |10.1 | 289 |136  |5.6  |97   |17   |52   |3.1  |146  | 2.3      |      |     |     |1.3  |
+| HD4 AM  |10.2 |10.7 | 312 |137  |4.2  |101  |19   |33   |2.1  |111  | 1.2      |      |     |     |     |
+| HD5 AM  |8.8  |11.5 | 333 |139  |4.0  |104  |23   |24   |1.3  |117  |          |      |     |     |     |
+| HD6 AM  |     |12.1 |     |138  |4.3  |106  |25   |18   |1.1  |     |          |      |     |     |     |
+
+---
+
+**Discharge planning:**  
+Patient remains in the ICU on Impella support, but is improving. Will continue daily reassessment for readiness for device removal and stepdown transfer.
+
+---

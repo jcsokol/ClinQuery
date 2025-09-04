@@ -1,0 +1,191 @@
+---
+**Patient:** Ernser, Kristofer  
+**MRN:** 00398211  
+**DOB:** 07/08/1963 (60 yo)  
+**Sex:** M  
+**Admitting Physician:** L. Berman, MD  
+**Date of Admission:** 2024-04-07  
+**Date of Note:** 2024-04-15  
+**Service:** Medical ICU  
+**Attending:** S. Patel, MD  
+**Consults:** Cardiology, Cardiothoracic Surgery, Endocrinology, Infectious Disease  
+**Admit Dx:** Cardiogenic shock 2/2 acute anterior STEMI  
+**Hospital Day:** 8  
+---
+
+### CHIEF COMPLAINT  
+“Crushing chest pain, shortness of breath.”
+
+---
+
+### HISTORY OF PRESENT ILLNESS  
+Kristofer Ernser is a 60-year-old male with prediabetes, chronic anemia, osteoarthritis (hip), and recent URI symptoms who presented to the ED with acute-onset substernal chest pain radiating to the left shoulder, associated with diaphoresis and severe SOB. EMS found him hypotensive, tachycardic, and in respiratory distress. Initial ECG showed anterior STEMI. He was emergently taken to the cath lab for PCI. He developed profound cardiogenic shock during PCI, requiring norepinephrine and subsequently was placed on a temporary left-sided Impella CP heart pump for hemodynamic support. He was transferred to the ICU for ongoing management.
+
+Hospital course has been complicated by persistent heart failure, AKI (now improving), anemia requiring transfusion, and superimposed bacterial sinusitis.
+
+---
+
+### PAST MEDICAL HISTORY  
+- Prediabetes  
+- Anemia  
+- Osteoarthritis (hip)  
+- Acute bacterial sinusitis  
+- Whiplash injury (remote)  
+- Acute viral pharyngitis (recent)
+
+### PAST SURGICAL HISTORY  
+- None
+
+### FAMILY HISTORY  
+- Father: MI at 62  
+- Mother: T2DM, OA
+
+### SOCIAL HISTORY  
+- Lives with wife  
+- Retired construction worker  
+- 10 pack-year former smoker (quit 2005)  
+- Rare EtOH, denies illicit drugs
+
+### ALLERGIES  
+- NKDA
+
+### HOME MEDICATIONS  
+- Naproxen sodium 220mg PO PRN  
+- Acetaminophen 325mg PO PRN
+
+---
+
+## PHYSICAL EXAM (ICU, HD #8)
+- **Gen:** Obese, appears fatigued, on nasal cannula 2L
+- **VS:** T 37.5°C, HR 92, BP 108/66 (on weaning pressors), RR 18, SpO2 96% (2L NC), Pain: 2/10
+- **CV:** S1/S2, no M/R/G, JVP 8cm, Impella in situ, no peripheral edema
+- **Pulm:** CTAB, mild bibasilar crackles, no increased WOB
+- **Abd:** Soft, NT/ND, normoactive BS
+- **Ext:** No DVT, mild hip tenderness (OA)
+- **Neuro:** A&O x3, no focal deficit
+
+---
+
+## PERTINENT LABS & DATA
+
+### CBC, CHEM7, CARDIAC, OTHER LABS (selected values; see full table below)
+
+| Date         | WBC    | Hgb  | Hct  | Plt  | Na   | K    | Cl   | HCO3 | BUN  | Cr   | Glu  | Troponin | BNP    | AST  | ALT  |
+|--------------|--------|------|------|------|------|------|------|------|------|------|------|----------|--------|------|------|
+| 4/7 08:00    | 8.4    | 12.2 | 38.9 | 402  | 137  | 4.9  | 108  | 24   | 21   | 1.9  | 242  | 34.2     | 2400   | 67   | 43   |
+| 4/8 06:00    | 10.1   | 10.1 | 31.2 | 388  | 139  | 4.7  | 110  | 23   | 29   | 2.4  | 166  | 17.8     | 2120   | 74   | 52   |
+| 4/9 06:00    | 9.4    | 10.5 | 32.4 | 390  | 137  | 4.2  | 109  | 25   | 24   | 2.1  | 128  | 6.5      | 1760   | 59   | 35   |
+| 4/10 07:30   | 8.6    | 11.3 | 34.7 | 395  | 138  | 4.5  | 107  | 26   | 17   | 1.7  | 102  | 1.2      | 900    | 38   | 20   |
+| 4/11 06:00   | 7.9    | 12.0 | 37.2 | 410  | 139  | 4.3  | 108  | 27   | 14   | 1.4  | 98   | 0.19     | 640    | 27   | 18   |
+| 4/12 06:00   | 7.4    | 12.7 | 39.8 | 426  | 138  | 4.1  | 106  | 25   | 13   | 1.2  | 97   | <0.01    | 480    | 23   | 16   |
+| 4/13 06:00   | 8.1    | 12.8 | 40.1 | 418  | 138  | 4.2  | 105  | 26   | 11   | 1.1  | 96   | <0.01    | 320    | 20   | 13   |
+| 4/14 07:00   | 8.7    | 12.6 | 39.9 | 420  | 138  | 4.3  | 107  | 25   | 12   | 1.2  | 95   | <0.01    | 255    | 18   | 13   |
+| 4/15 06:15   | 8.5    | 12.7 | 40.0 | 418  | 138  | 4.2  | 107  | 25   | 11   | 1.1  | 95   | <0.01    | 220    | 17   | 12   |
+
+*Some values missing as not all tests repeated daily.  
+*BNP = Brain natriuretic peptide; Troponin = Troponin I.
+
+---
+
+### IMAGING & PROCEDURES  
+- **4/7:** ECG: Anterior STEMI  
+- **4/7:** Coronary angio: 100% LAD occlusion, DES placed  
+- **4/7:** Echo: LVEF 15%, severe anterior wall hypokinesis  
+- **4/7:** Impella CP (left-sided) placed during PCI  
+- **4/10:** Echo: LVEF improved to 27%, Impella weaning  
+- **4/12:** Impella explanted  
+- **4/12:** CXR: Improving mild pulmonary edema  
+- **4/13:** CT sinuses: Opacification of maxillary sinuses, no abscess
+
+---
+
+## ASSESSMENT & PLAN
+
+1. **Cardiogenic shock s/p STEMI, Impella support**  
+   - Presented in profound shock, required Impella for 5 days, now off pressors, hemodynamics stable  
+   - Continue GDMT for HF (metoprolol, lisinopril started)  
+   - Echo today: LVEF 27%, improved  
+   - Monitor for arrhythmias  
+   - Cardiology following
+
+2. **Acute decompensated heart failure**  
+   - Strict I/O, daily weights  
+   - Continue gentle diuresis (IV furosemide)  
+   - Electrolyte monitoring  
+   - BNP trending down
+
+3. **Acute kidney injury (improving)**  
+   - Likely secondary to hypoperfusion  
+   - Renal function improving with hemodynamic recovery  
+   - Avoid nephrotoxins, monitor labs
+
+4. **Anemia**  
+   - Baseline chronic, worsened by acute illness/hemolysis  
+   - 1 unit PRBC transfused on 4/8  
+   - Hgb now stable >12  
+   - Monitor for GI loss
+
+5. **Acute bacterial sinusitis**  
+   - Ceftriaxone IV x5d, now PO Augmentin  
+   - Symptomatic improvement  
+   - No abscess on CT
+
+6. **Osteoarthritis (hip)**  
+   - Resume acetaminophen, naproxen as needed  
+   - PT consult, early mobilization
+
+7. **Prediabetes**  
+   - Fasting glucoses normal, A1c 6.2%  
+   - Endocrine to follow up as outpatient
+
+8. **Recent viral pharyngitis**  
+   - Resolved
+
+9. **DVT prophylaxis**  
+   - SCDs, subQ heparin
+
+10. **Other**  
+   - Nutrition: Cardiac diet  
+   - Social work: Discharge planning initiated  
+   - Family updated daily
+
+---
+
+## ACTIVE MEDICATIONS (inpatient)
+- Metoprolol tartrate 25mg PO BID  
+- Lisinopril 5mg PO QD  
+- Furosemide 20mg IV BID  
+- Ceftriaxone 1g IV Q24h (now stopped)  
+- Augmentin 875-125 PO BID  
+- Acetaminophen 325mg PO PRN  
+- Naproxen sodium 220mg PO PRN  
+- Heparin 5000U SQ BID  
+- Atorvastatin 40mg PO QHS
+
+---
+
+## VITALS (selected)
+| Date      | Temp (°C) | HR | BP      | RR | SpO2  | Pain |
+|-----------|-----------|----|---------|----|-------|------|
+| 4/7 08:00 | 37.7      | 116| 82/54   | 28 | 90% RA| 8    |
+| 4/8 07:00 | 37.5      | 104| 96/64   | 22 | 95% 2L| 5    |
+| 4/10 06:00| 37.2      | 92 | 112/70  | 18 | 97% 2L| 3    |
+| 4/12 06:00| 37.4      | 88 | 108/66  | 18 | 96% 2L| 2    |
+| 4/15 06:00| 37.5      | 92 | 108/66  | 18 | 96% 2L| 2    |
+
+---
+
+## DISPOSITION  
+- Remain in ICU for further monitoring, probable transfer to step-down in 24-48h if stable  
+- Cardiac rehab and close outpatient follow-up required
+
+---
+
+**Attestation:**  
+I have reviewed the above note and agree with the assessment and plan.  
+- S. Patel, MD  
+- L. Berman, MD (Resident)
+
+---
+
+**End of Note**

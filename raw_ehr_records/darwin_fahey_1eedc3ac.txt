@@ -1,0 +1,208 @@
+**[EPIC EHR - Inpatient Chart]**
+
+**Patient Name:** Darwin Fahey  
+**MRN:** 0283948-FA  
+**DOB:** 1990-05-08  
+**Sex:** Male  
+**Admit Date:** 2024-04-23  
+**Attending:** Dr. L. Hargrove  
+**Consults:** Cardiology, Infectious Disease, Endocrinology, Pulmonology  
+**Location:** MICU, Bed 17B
+
+---
+
+**CHIEF COMPLAINT**  
+Shortness of breath, chest tightness, fever
+
+---
+
+**HISTORY OF PRESENT ILLNESS**  
+29yo male with hx of HTN, prediabetes, and recent URI who presented with 4 days of progressive dyspnea, orthopnea, and fevers. Initially treated as outpatient for presumed viral pharyngitis and sinusitis, but symptoms worsened, developing lower extremity edema, PND, and non-productive cough. On arrival to ED, found to be tachycardic, hypotensive, hypoxic, and febrile (Tmax 39.1°C). CXR with pulmonary vascular congestion, no focal infiltrates. EKG: NSR, borderline low voltage. Troponin elevated. Echo: severe global LV dysfunction, LVEF ~15%, moderate RV dysfunction, no valvular vegetations. Rapid deterioration requiring intubation, vasopressors, and urgent placement of a percutaneous LVAD (Impella CP) for cardiogenic shock secondary to suspected fulminant myocarditis.
+
+---
+
+**PAST MEDICAL HISTORY**  
+- Hypertension  
+- Prediabetes  
+- Recent acute viral pharyngitis (resolved)  
+- Acute bacterial sinusitis (recent, completed abx)  
+- No prior cardiac history  
+- No known CAD, no tobacco
+
+**PAST SURGICAL HISTORY**  
+- None
+
+**FAMILY HISTORY**  
+- Father: HTN, MI at 68  
+- Mother: T2DM  
+- No known inherited cardiac dz
+
+**SOCIAL HISTORY**  
+- Lives alone, IT consultant  
+- No recent travel  
+- No ETOH, tobacco, or illicit drug use
+
+---
+
+**ALLERGIES**  
+- NKDA
+
+---
+
+**HOME MEDICATIONS**  
+- Amlodipine 5mg/HCTZ 12.5mg/Olmesartan 20mg PO daily
+
+---
+
+**HOSPITAL COURSE (Days 1–7)**
+
+**Day 1:**  
+Admitted to MICU for fulminant myocarditis with cardiogenic shock. Emergent intubation, norepinephrine started. Echo with LVEF 15%. Vasodilatory shock persisted, requiring Impella CP placement. Broad spectrum abx (cefepime, vanc) started. Cardiac markers trended.  
+
+**Day 2:**  
+Hemodynamics improved with LVAD support. Lactate normalized. Still intubated. Fever persists. Blood cultures pending.  
+
+**Day 3:**  
+Extubated to HFNC. Down-titration of vasopressors. Renal function stable. Echo with mild improvement (LVEF 22%).  
+
+**Day 4:**  
+No arrhythmias. Weaned to nasal cannula. Impella settings decreased.  
+
+**Day 5:**  
+Low-grade fever. CRP, ESR elevated. Myocarditis panel sent. Troponin trending down.  
+
+**Day 6:**  
+LVAD weaned off and explanted. Hemodynamics stable.  
+
+**Day 7:**  
+Transferred to step-down.  
+
+---
+
+**PHYSICAL EXAM (Day 4)**  
+**Gen:** Awake, alert, NAD  
+**VS:** T 37.7, HR 98, BP 104/62 (MAP 76), RR 18, SpO2 95% 3L NC  
+**HEENT:** Oropharynx clear, no tonsillar exudates  
+**Lungs:** Bibasilar crackles, improved from prior  
+**CV:** Tachycardic, S3 present. No murmurs  
+**Abd:** Soft, NT/ND  
+**Ext:** Trace pitting edema BLE  
+**Neuro:** AOx3, no focal deficits  
+
+---
+
+**VITALS TREND**  
+| Date       | Temp (C) | HR   | BP        | RR | SpO2  | Pain |
+|------------|----------|------|-----------|----|-------|------|
+| 4/23       | 39.1     | 122  | 78/54     | 24 | 89%RA | 2    |
+| 4/24       | 38.4     | 110  | 92/60     | 20 | 94%NC | 1    |
+| 4/25       | 37.7     | 98   | 104/62    | 18 | 95%NC | 0    |
+| 4/26       | 37.2     | 90   | 110/68    | 16 | 97%RA | 0    |
+| 4/27       | 36.8     | 80   | 118/72    | 16 | 98%RA | 0    |
+
+---
+
+**LABS**
+
+| Date   | WBC   | Hgb  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu   | Troponin I | BNP  | AST  | ALT  | CRP  | ESR  |
+|--------|-------|------|------|------|------|------|------|------|------|-------|------------|------|------|------|------|------|
+| 4/23   | 14.2  | 13.1 | 177  | 135  | 4.6  | 100  | 18   | 32   | 2.1  | 163   | 3.84       | 2900 | 88   | 74   | 52   | 88   |
+| 4/24   | 12.8  | 12.6 | 168  | 136  | 4.2  | 104  | 19   | 25   | 1.8  | 150   | 2.45       | 2100 | 72   | 66   | 46   | 82   |
+| 4/25   | 10.5  | 12.3 | 165  | 137  | 4.1  | 103  | 20   | 22   | 1.4  | 142   | 1.15       | 1700 | 61   | 58   | 33   | 70   |
+| 4/26   | 8.2   | 12.1 | 160  | 138  | 4.0  | 102  | 23   | 19   | 1.2  | 128   | 0.54       | 1200 | 53   | 51   | 18   | --   |
+| 4/27   | 7.1   | 12.4 | 158  | 139  | 3.9  | 101  | 25   | 16   | 1.0  | 120   | <0.04      | 900  | --   | --   | --   | --   |
+
+*-- indicates not collected*
+
+---
+
+**CARDIAC IMAGING**  
+**Echo (Day 1):**  
+- LVEF 15%, severe global hypokinesis  
+- Mildly dilated LV, moderate RV dysfunction  
+- No vegetations, no pericardial effusion  
+
+**Echo (Day 4):**  
+- LVEF improved to 22%  
+- Mild RV dysfunction
+
+---
+
+**MICU ASSESSMENT & PLAN (Day 4)**
+
+**1. Cardiogenic Shock secondary to Fulminant Myocarditis**  
+- Emergent Impella CP placed for LV support  
+- Pressors weaned, now off  
+- Daily TTE to monitor function  
+- Plan: Continue close hemodynamic monitoring, consider advanced therapies if recurrent shock, continue telemetry
+
+**2. Acute Hypoxic Respiratory Failure**  
+- Likely pulmonary edema from heart failure  
+- Extubated, now on NC  
+- Diuresis ongoing  
+- Plan: Monitor O2, chest PT, fluid balance
+
+**3. Acute Kidney Injury (resolved)**  
+- Likely secondary to hypoperfusion  
+- Creatinine improved from 2.1 to 1.0  
+- Plan: Monitor daily labs, avoid nephrotoxins
+
+**4. Recent Acute Bacterial Sinusitis & Viral Pharyngitis**  
+- Completed abx (amoxicillin-clavulanate)  
+- No residual symptoms  
+- Plan: No further intervention
+
+**5. Prediabetes**  
+- Recent A1c: 6.0%  
+- Hyperglycemia likely stress-related  
+- Plan: Monitor BG, endocrinology consult
+
+**6. Hypertension**  
+- Home meds held during shock  
+- Now restarted  
+- Plan: Titrate as tolerated
+
+**7. Fever, Inflammatory Markers Elevated**  
+- Blood, urine, sputum cultures negative  
+- Myocarditis panel pending  
+- Plan: Discontinue abx if cultures remain negative
+
+**8. Physical Deconditioning**  
+- Early PT/OT consult  
+- Plan: Mobilize as tolerated
+
+**9. Social/Disposition**  
+- Lives alone, requires support  
+- SW, case management involved  
+- Plan: Anticipate SNF vs. home with services
+
+---
+
+**DISCHARGE PLANNING**  
+- Anticipate transfer to floor, possible discharge in 3–5d  
+- Cardiac MRI as outpatient  
+- Close f/u with HF, cardiology  
+
+---
+
+**ORDERS**  
+- Daily CBC, Chem7, Mg/Phos  
+- Telemetry  
+- DVT prophylaxis  
+- PT/OT  
+- Cardiac diet  
+- Accuchecks q6h  
+- IV fluids as needed  
+- Strict I/O
+
+---
+
+**PHYSICIAN ATTESTATION:**  
+I personally reviewed this patient, labs, and imaging. The above is an accurate representation of current status and plan.  
+Dr. L. Hargrove, MD  
+MICU Attending  
+2024-04-27 08:21
+
+---
+
+**[END OF NOTE - PAGE 4]**

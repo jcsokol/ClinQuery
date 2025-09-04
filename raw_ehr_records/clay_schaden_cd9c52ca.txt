@@ -1,0 +1,176 @@
+**EPIC EHR – Inpatient Progress Note**  
+**Patient:** Clay Schaden  
+**MRN:** 00321948  
+**DOB:** 03/16/2003 (Age: 21)  
+**Sex:** Male  
+**Attending:** Dr. Karen Y. Lin  
+**Date of Admission:** 05/28/2024  
+**Date/Time of Note:** 06/03/2024 08:14  
+**Service:** Medical ICU  
+**Admitting Diagnosis:** Acute decompensated heart failure, Cardiogenic shock  
+**Relevant PMH:** Viral sinusitis (recent), previously healthy young male  
+**Allergies:** NKDA  
+**Code Status:** Full Code  
+
+---
+
+### HPI
+
+21-year-old male with no significant past medical history except for recent viral sinusitis, presented to the ED 5/28/2024 with 3-day history of worsening dyspnea, orthopnea, and lower extremity edema. Noted to have a viral prodrome (low-grade fevers, myalgias, sinus congestion) one week prior. On arrival, he was found to be tachycardic (HR 122), hypotensive (BP 80/40), tachypneic (RR 32), and hypoxic (O2 sat 88% RA). Exam notable for JVD, S3, rales, cool extremities. CXR: pulmonary edema. Echo: severe global LV dysfunction, LVEF ~10%.  
+Patient rapidly deteriorated, requiring vasopressors and intubation. Due to refractory cardiogenic shock, a temporary left-sided Impella CP device was placed on 5/29/2024. Transferred to ICU for further management.
+
+---
+
+### Problem-Based Assessment & Plan
+
+**1. Cardiogenic shock secondary to presumed viral myocarditis**  
+- Severe LV dysfunction, likely post-viral myocarditis (recent viral URI, echo findings)  
+- Required Impella CP for circulatory support (inserted 5/29/2024)  
+- Currently weaning off vasopressors (down to norepinephrine 2 mcg/min)  
+- Echo 6/2: LVEF improved to 25%  
+- Plan:  
+  - Continue Impella support, goal to wean as tolerated  
+  - Daily TTE to monitor recovery  
+  - Continue inotropes and vasopressors as needed  
+  - Monitor for device complications (hemolysis, limb ischemia)  
+  - ID consult for viral/autoimmune workup  
+  - Cardiology to follow for possible advanced therapies if no improvement  
+
+**2. Acute hypoxic respiratory failure, intubated**  
+- Intubated 5/28 for hypoxia and increased work of breathing  
+- Ventilator settings: PRVC, TV 6mL/kg, PEEP 8, FiO2 40%  
+- CXR 6/2: improving pulmonary edema  
+- Plan:  
+  - Daily SBTs, continue lung protective ventilation  
+  - Diuresis as tolerated  
+  - Monitor for VAP  
+
+**3. Acute kidney injury (AKI)**  
+- Baseline Cr ~0.7, peaked at 2.3 on 5/30, now trending down to 1.2  
+- Likely multifactorial: hypoperfusion, diuretics, contrast  
+- UOP improving with hemodynamic stabilization  
+- Plan:  
+  - Monitor UOP and daily labs  
+  - Avoid nephrotoxins  
+  - Renal dosing for all meds  
+
+**4. Transaminitis**  
+- AST/ALT peaked at 2,000/1,500 (5/29), now downtrending (AST 320, ALT 210)  
+- Likely ischemic hepatitis from shock  
+- Plan:  
+  - Monitor LFTs  
+  - No hepatotoxic meds  
+  - Supportive care  
+
+**5. Thrombocytopenia**  
+- Platelets dropped to 70K on 5/30, now 142K  
+- No evidence of bleeding  
+- Possibly device-related, or consumptive  
+- Plan:  
+  - Monitor CBC daily  
+  - No anticoagulation unless indicated  
+
+**6. Nutrition**  
+- NPO initially, now on NG tube feeds, goal 25 kcal/kg  
+- Plan:  
+  - Continue tube feeds  
+  - Monitor for refeeding, glucose  
+
+**7. DVT prophylaxis**  
+- Sequential compression devices  
+- No pharmacologic prophylaxis due to thrombocytopenia  
+
+**8. Social/Disposition**  
+- Lives with parents, college student  
+- Mother at bedside daily  
+- Plan:  
+  - SW/Case management to follow  
+  - Family meetings for updates  
+
+---
+
+### Hospital Course Summary (through 6/3/2024)
+
+- **Day 0 (5/28):** ED presentation, rapidly decompensated, intubated, started on pressors, transferred to ICU
+- **Day 1 (5/29):** Continued shock, Impella placed, started on inotropes, initial labs show multiorgan dysfunction
+- **Day 2-3 (5/30-31):** Gradual hemodynamic improvement, AKI/AST/ALT peaked, platelets nadired, started tube feeds
+- **Day 4-5 (6/1-2):** LVEF improvement, extubated to high-flow O2, Impella weaning, LFTs improving, UOP normalized
+- **Day 6 (6/3):** Stable on minimal pressors, Impella planned for removal 6/4 if stable
+
+---
+
+### Labs
+
+| Date      | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | AST (U/L) | ALT (U/L) |
+|-----------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-----------|-----------|
+| 5/28/24   | 9.2        | 17.2       | 36.5    | 229        | 139         | 4.1        | 107         | 23           | 18          | 0.8        | 45        | 29        |
+| 5/29/24   | 12.7       | 16.1       | 33.2    | 118        | 137         | 3.7        | 104         | 18           | 34          | 2.1        | 2000      | 1500      |
+| 5/30/24   | 15.3       | 13.8       | 29.1    | 70         | 136         | 3.3        | 100         | 14           | 58          | 2.3        | 1560      | 1200      |
+| 5/31/24   | 13.6       | 12.9       | 27.0    | 85         | 136         | 3.8        | 98          | 15           | 44          | 1.9        | 900       | 700       |
+| 6/1/24    | 11.8       | 13.6       | 28.5    | 102        | 137         | 4.1        | 102         | 19           | 32          | 1.4        | 510       | 398       |
+| 6/2/24    | 10.5       | 14.1       | 30.2    | 142        | 138         | 4.2        | 104         | 22           | 22          | 1.2        | 320       | 210       |
+| 6/3/24    | 9.7        | 14.8       | 32.0    | 177        | 139         | 4.0        | 108         | 24           | 18          | 1.1        | —         | —         |
+
+*Missing entries: AST/ALT not checked 6/3, some labs not drawn daily due to clinical improvement.*
+
+---
+
+### Vital Signs (selected)
+
+- **5/28/24:**  
+  - Temp: 37.9°C, HR: 122, BP: 80/40, RR: 32, SpO2: 88% RA  
+- **5/29/24:**  
+  - Temp: 37.2°C, HR: 118, BP: 86/50 (on norepi), RR: 26, SpO2: 98% (intubated)  
+- **6/2/24:**  
+  - Temp: 36.7°C, HR: 92, BP: 110/68, RR: 16, SpO2: 97% (high flow)  
+
+---
+
+### Medications (current/recent)
+
+- Norepinephrine IV (weaning)
+- Dobutamine IV (weaning)
+- Furosemide IV
+- Pantoprazole IV
+- Acetaminophen PRN
+- IVF: NS (now off)
+- Tube feeds via NG
+
+---
+
+### Procedures
+
+- **5/29/24:** Impella CP placement (left femoral), CXR confirmed position  
+- **5/28/24:** Endotracheal intubation  
+- **5/28/24:** Central line (right IJ), arterial line (left radial)
+
+---
+
+### Imaging
+
+- **5/28/24:** CXR – diffuse pulmonary edema, cardiomegaly  
+- **5/29/24:** TTE – severe global LV dysfunction, LVEF 10%  
+- **6/2/24:** TTE – improved LV function, LVEF 25%
+
+---
+
+### Consults
+
+- **Cardiology:** Daily, plan for advanced therapies if needed  
+- **Infectious Disease:** Viral myocarditis workup  
+- **Renal:** For AKI monitoring
+
+---
+
+### Disposition
+
+- Remain ICU for ongoing Impella support and close monitoring  
+- Anticipate transfer to stepdown once Impella removed and stable off pressors
+
+---
+
+**Physician:**  
+Karen Y. Lin, MD  
+Attending, Critical Care  
+**Cosigned by:** Michael R. Chao, MD (Cardiology Fellow)  
+**Electronic signature: 06/03/2024 08:14**

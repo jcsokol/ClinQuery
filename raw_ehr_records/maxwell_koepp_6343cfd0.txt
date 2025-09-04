@@ -1,0 +1,182 @@
+```
+---------------------------------------------------------------------
+EpicCare Inpatient
+Patient Name: Maxwell Koepp         MRN: 001244991
+DOB: 09/14/1957 (66 yo)             Sex: Male
+Admitting Physician: Dr. Julia Mendez
+Date of Service: 06/02/2024
+Encounter Type: ICU Admission
+---------------------------------------------------------------------
+
+Chief Complaint:
+Acute shortness of breath, chest pain, and progressive lower extremity edema.
+
+History of Present Illness:
+Mr. Maxwell Koepp is a 66-year-old male with a significant PMH of obesity, metabolic syndrome, hypertension, type 2 diabetes mellitus (with neuropathy and nonproliferative retinopathy), hypertriglyceridemia, and chronic anemia, who presented to the ED with acute onset SOB and orthopnea over the past 2 days. He reported a 10-lb weight gain over the past week, increased lower extremity swelling, and paroxysmal nocturnal dyspnea. He also endorsed mild chest discomfort but denied syncope, palpitations, or fever. 
+
+On arrival, he was tachypneic, hypertensive, and hypoxic. CXR revealed pulmonary edema. EKG showed new LBBB. Troponin was elevated and BNP markedly increased. Echo revealed severely reduced LVEF (15%) with global hypokinesis. He developed worsening cardiogenic shock requiring escalating doses of vasopressors and inotropes, and subsequently underwent placement of a percutaneous temporary LV assist device (Impella CP) for hemodynamic support.
+
+Past Medical History:
+- Obesity (BMI 30+)
+- Diabetes type 2 (with neuropathy, retinopathy, macular edema)
+- Hypertension
+- Hypertriglyceridemia
+- Metabolic syndrome
+- Anemia, chronic
+- Prediabetes (prior)
+- Whiplash injury to neck (remote)
+- Acute viral pharyngitis (resolved)
+
+Past Surgical History:
+- None reported
+
+Allergies:
+- NKDA
+
+Home Medications:
+- Amlodipine 5mg / Hydrochlorothiazide 12.5mg / Olmesartan 20mg PO qd
+- Naproxen sodium 220mg PO prn
+
+Social History:
+- Former smoker (quit 10 years ago, 20 pack-years)
+- No ETOH or illicit drugs
+- Lives with spouse, retired
+
+Family History:
+- Father: MI at 62, DM2
+- Mother: HTN, stroke
+
+Review of Systems:
+- General: +fatigue, +weight gain
+- Cardiac: +chest discomfort, +palpitations, +DOE
+- Pulm: +SOB, +orthopnea
+- GI: -N/V, -abdominal pain
+- GU: -dysuria
+- Neuro: +numbness in feet
+- Vision: +blurred vision
+
+Physical Exam:
+Vital Signs (Day 1, ICU admission):
+- T: 37.5°C  HR: 112  BP: 154/88  RR: 24  SpO2: 92% on 2L
+
+Gen: Obese male, mild distress
+HEENT: PERRLA, no JVD
+CV: S3 present, tachycardic, no murmurs, cool extremities, pitting edema to mid-shins
+Resp: Crackles at bases, tachypneic
+Abd: Soft, NT, no HSM
+Neuro: Alert, oriented x3, decreased sensation bilat feet
+Skin: No rashes
+
+---------------------------------------------------------------------
+LABS (Selected; full panel available in chart)
+
+| Date        | WBC    | Hgb   | Hct   | Plt   | Na    | K     | Cl   | CO2   | BUN  | Cr   | Gluc | Ca    | Troponin | BNP     | AST  | ALT  | ALK Phos | T. Bili | Alb  |
+|-------------|--------|-------|-------|-------|-------|-------|------|-------|------|------|------|-------|----------|---------|------|------|----------|---------|------|
+| 6/2/24 05:30| 5.2    | 12.7  | 36.2  | 222   | 139   | 4.6   | 104  | 27.4  | 18   | 1.1  | 218  | 9.5   | 0.13     | 2890    | 47   | 38   | 109      | 0.7     | 3.7  |
+| 6/2/24 17:00| 6.1    | 11.9  | 34.0  | 200   | 137   | 4.2   | 102  | 26    | 19   | 1.3  | 167  | 9.1   | 0.21     | 3750    | 53   | 49   | 122      | 0.9     | 3.4  |
+| 6/3/24 05:45| 7.5    | 11.2  | 32.7  | 185   | 136   | 4.4   | 101  | 25.1  | 23   | 1.6  | 154  | 8.8   | 0.08     | 3400    | 61   | 60   | 131      | 1.0     | 3.0  |
+| 6/3/24 19:00| -      | 10.8  | 32.1  | 170   | 137   | 4.7   | -    | 26.0  | 25   | 1.8  | 148  | 8.9   | -        | 2800    | 56   | 45   | 111      | -       | 2.9  |
+| 6/4/24 06:10| 7.9    | 10.2  | 30.2  | 158   | 138   | 4.1   | 100  | 23.5  | 28   | 2.2  | 132  | 8.6   | 0.05     | 2100    | 44   | 39   | 119      | 0.8     | 2.6  |
+| 6/4/24 20:10| 8.3    | -     | 29.0  | 149   | -     | 4.0   | 99   | 22.1  | 30   | 2.5  | -    | 8.5   | 0.03     | 1200    | 40   | 32   | 115      | 0.7     | 2.3  |
+| 6/5/24 07:00| 7.8    | 10.1  | 29.5  | 140   | 137   | 3.8   | 100  | 23.0  | 27   | 2.0  | 129  | 8.7   | <0.01    | 800     | 38   | 27   | 107      | 0.6     | 2.3  |
+
+Additional labs:
+- HbA1c: 7.0%
+- LDL: 129 mg/dL, HDL: 39 mg/dL, TG: 188 mg/dL
+- UA: 1+ protein, microalbumin/Cr: 16 mg/g
+
+Imaging:
+- CXR: Pulmonary edema, mild cardiomegaly
+- Echo: LVEF 15%, global hypokinesis, no LV thrombus, mild MR
+- EKG: New LBBB, Q waves V1-V3
+
+Cardiac Procedures:
+- 6/2/24: Placement of Impella CP device via right femoral artery for acute decompensated HF and cardiogenic shock
+
+---------------------------------------------------------------------
+ASSESSMENT & PLAN (by problems)
+
+1. **Cardiogenic Shock / Acute Decompensated Heart Failure (EF 15%)**
+   - Etiology: Likely ischemic (new LBBB, elevated troponin, Q waves, DM2)
+   - Required escalating inotropes/vasopressors → Impella CP placed 6/2
+   - Diuresis with IV furosemide, goal negative balance
+   - Strict I/O, daily weights
+   - Serial EKGs, cardiac enzymes, echo
+   - Titrate off pressors as tolerated, wean Impella when stable
+   - Cardiology, HF, and CT surgery consults
+   - Consideration for advanced therapies (LVAD, transplant) if not improving
+
+2. **Type 2 Diabetes Mellitus (with complications)**
+   - BG on admission 218, HbA1c 7.0%
+   - Insulin sliding scale, hold oral agents during acute illness
+   - Monitor for DKA/HHS
+   - Continue neuropathy/retinopathy monitoring
+   - Endocrine consult
+
+3. **Chronic Anemia**
+   - Hgb trending down (12.7 → 10.1), likely multifactorial (chronic disease, diuresis, device-related hemolysis)
+   - Monitor labs, transfuse if <8 or symptomatic
+   - Iron studies pending
+   - GI consult if persistent drop
+
+4. **Hypertension / Hypertriglyceridemia / Metabolic Syndrome**
+   - BP elevated on admission, improved with diuresis/ICU care
+   - Hold antihypertensives initially due to shock, resume as tolerated
+   - Statin initiated (atorvastatin 40mg qhs)
+   - Counsel on lifestyle, diet
+
+5. **Acute Kidney Injury (on CKD?)**
+   - Cr rising (1.1 → 2.5), likely pre-renal (diuresis, low CO)
+   - Monitor urine output, adjust diuretics
+   - Renal consult
+
+6. **Diabetic Neuropathy/Retinopathy**
+   - Continued foot care, glucose control
+   - Ophtho consult for retinopathy/macular edema
+
+7. **Obesity**
+   - Nutritional consult, low sodium/carb diet
+
+8. **History of Whiplash/Chronic Pain**
+   - Pain managed with Tylenol, avoid NSAIDs given AKI
+
+9. **Acute Viral Pharyngitis (resolved)**
+   - No further intervention
+
+10. **Prophylaxis/Other**
+   - DVT ppx with heparin SQ
+   - PPI for GI prophylaxis
+   - Foley d/c’d POD2
+   - Vaccinations updated
+
+---------------------------------------------------------------------
+PROGRESS NOTES
+
+06/03/24 – ICU Day 2
+- Remains on Impella CP, MAP 65-70, inotropes weaned overnight
+- Net negative 2L, mild improvement in respiratory status
+- Creatinine continues to rise, but urine output adequate
+- Hb stable, no new bleeding
+- Awaiting repeat echo
+
+06/04/24 – ICU Day 3
+- Pressors off, Impella flows down to P3
+- Weaned to nasal cannula, O2 sat >94%
+- Renal function plateaued, nephrology recommendations followed
+- Hgb dropped, retic count ordered
+
+06/05/24 – ICU Day 4
+- Impella weaned and removed, hemodynamics stable off support
+- Still mildly volume overloaded, continue gentle diuresis
+- Pain controlled, no new neuro changes
+
+---------------------------------------------------------------------
+DISCHARGE PLANNING
+
+- Anticipate transfer to stepdown unit tomorrow
+- Cardiac rehab, close cardiology f/u
+- Diabetes education, nutrition f/u
+- Home health for wound/device site care
+
+---------------------------------------------------------------------
+```

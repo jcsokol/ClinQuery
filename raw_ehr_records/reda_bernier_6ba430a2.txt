@@ -1,0 +1,145 @@
+---
+**Patient:** Reda Bernier  
+**MRN:** 00384927  
+**DOB:** 12/20/1989 (34 yo)  
+**Sex:** Female  
+**Date of Admission:** 5/21/2024  
+**Attending:** Dr. S. Patel  
+**Service:** MICU  
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+Reda Bernier is a 34-year-old female with a history of hypertension, prediabetes, chronic anemia, prior urinary tract infections, and complicated pregnancies who presented to the Emergency Department with 2 days of progressive dyspnea, orthopnea, and lower extremity swelling. She was found to be in acute decompensated heart failure with evidence of cardiogenic shock and acute kidney injury. She was admitted to the ICU for vasopressor support and subsequently required the placement of a temporary left ventricular assist device (Impella CP) due to refractory hypotension and low cardiac output.
+
+---
+
+### HOSPITAL COURSE
+
+- **Day 1:** Admitted to MICU. On arrival, patient tachypneic (RR 28), hypertensive (BP 163/102), tachycardic (HR 122), O2 sat 95% RA. Labs notable for elevated BNP, troponin mildly elevated, creatinine 1.3 (baseline 0.9), Hgb 9.8, WBC 12.3. CXR: pulmonary edema. Echo: LVEF 18%, global hypokinesis, no valvulopathy. Started on IV furosemide, nitroglycerin drip, BiPAP.
+- **Day 2:** Worsening shock, MAP <60 despite fluids and vasopressors. Oliguric. Escalated to norepinephrine, dobutamine. Multidisciplinary decision to place temporary LVAD (Impella CP) at bedside. Hemodynamics improved post-procedure.
+- **Day 3-4:** Gradual improvement in end-organ perfusion. Weaned off vasopressors. Renal function stabilized. Developed hemolysis (LDH ↑, haptoglobin ↓), managed supportively.
+- **Day 5:** Impella weaned and removed. Echo: improved LVEF 32%. Transitioned to oral HF regimen. Monitored for arrhythmias (none recorded).
+- **Day 6-8:** Stable. Mobilized out of bed. Diuresed to dry weight. UTI symptoms recurred, urine culture grew E. coli, started nitrofurantoin. Discharged home on optimized meds, close cardiology f/u.
+
+---
+
+## Problem-Based Assessment & Plan
+
+### 1. **Cardiogenic Shock / Acute Decompensated Heart Failure**
+   - **Assessment:** New-onset severe systolic dysfunction, likely non-ischemic (no prior MI, no focal wall motion on echo). Precipitated by poorly controlled HTN, possible viral myocarditis (viral panel negative), peripartum CM less likely.
+   - **Plan:**
+     - Temporary mechanical support (Impella) placed, now removed
+     - Goal-directed medical therapy: Beta blocker (carvedilol), ACEi started
+     - Daily weights, strict I/O, low sodium diet
+     - Repeat echo in 4-6 weeks, outpatient HF clinic f/u
+
+### 2. **Acute Kidney Injury**
+   - **Assessment:** Likely secondary to low cardiac output and hypoperfusion; baseline CKD not documented.
+   - **Plan:**
+     - Renal function monitoring (BUN/Cr q12h initially, now qd)
+     - Adjust diuretics per volume status
+     - Avoid nephrotoxins
+
+### 3. **Hemolysis (Device-Related)**
+   - **Assessment:** Transient, resolved after device removal
+   - **Plan:**
+     - Monitor LDH, haptoglobin, indirect bili
+     - No transfusion required
+
+### 4. **Hypertension**
+   - **Assessment:** Chronic, poorly controlled; contributed to HF
+   - **Plan:**
+     - Restarted outpatient triple therapy (amlodipine/HCTZ/olmesartan)
+     - BP monitoring
+
+### 5. **Anemia**
+   - **Assessment:** Chronic, multifactorial (anemia of chronic disease, device-related hemolysis)
+   - **Plan:**
+     - Monitor Hgb q48h
+     - Iron studies outpatient
+     - No transfusion needed
+
+### 6. **UTI (E. coli)**
+   - **Assessment:** Recurrent, complicated by recent Foley
+   - **Plan:**
+     - Nitrofurantoin x7d
+     - Remove Foley when ambulatory
+
+### 7. **Prediabetes**
+   - **Assessment:** Well-controlled, no DKA/HHS
+   - **Plan:**
+     - Continue monitoring A1c outpatient
+     - Diabetic diet education
+
+### 8. **Gynecologic History**
+   - **Assessment:** Not relevant to acute course but significant for PMHx
+   - **Plan:**
+     - Continue OCPs as outpatient, review at next Gyn visit
+
+### 9. **Acute Bronchitis**
+   - **Assessment:** Remote; not active issue
+   - **Plan:** None
+
+---
+
+## ICU Daily Labs
+
+| Date        | WBC (x10^3/uL) | Hgb (g/dL) | Plt (x10^3/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Ca (mg/dL) | LDH (U/L) | Haptoglobin (mg/dL) | Troponin (ng/mL) | BNP (pg/mL) |
+|-------------|----------------|------------|----------------|-------------|------------|-------------|--------------|-------------|------------|-------------|------------|-----------|---------------------|------------------|-------------|
+| 5/21/2024   | 12.3           | 9.8        | 255            | 137         | 4.8        | 103         | 19           | 32          | 1.3        | 110         | 9.1        | 690       | 12                  | 0.06             | 2400        |
+| 5/22/2024   | 11.8           | 9.2        | 210            | 136         | 4.4        | 104         | 18           | 38          | 1.5        | 92          | 8.8        | 1020      | <10                 | 0.04             | 2650        |
+| 5/23/2024   | 10.5           | 8.7        | 180            | 135         | 4.2        | 105         | 21           | 29          | 1.2        | 99          | 9.2        | 890       | 20                  | 0.03             | 1900        |
+| 5/24/2024   | 9.2            | 9.1        | 168            | 136         | 4.1        | 104         | 23           | 22          | 1.0        | 82          | 9.4        | 610       | 40                  | 0.02             | 1100        |
+| 5/25/2024   | 8.6            | 9.6        | 172            | 137         | 4.3        | 104         | 24           | 18          | 0.9        | 95          | 9.5        | -         | -                   | -                | 650         |
+| 5/26/2024   | 7.9            | 10.2       | 190            | 138         | 4.5        | 103         | 25           | 15          | 0.9        | 88          | 9.7        | -         | -                   | -                | 410         |
+| 5/27/2024   | 7.5            | 10.4       | 210            | 139         | 4.6        | 103         | 26           | 14          | 0.9        | 87          | 9.9        | -         | -                   | -                | 390         |
+
+---
+
+## Medications (as of discharge)
+
+- **Amlodipine 5mg / HCTZ 12.5mg / Olmesartan 20mg** – 1 tab PO qAM
+- **Carvedilol 6.25mg** PO BID
+- **Lisinopril 2.5mg** PO daily
+- **Furosemide 40mg** PO BID
+- **Nitrofurantoin 100mg** PO BID x7d (then stop)
+- **Ortho Tri-Cyclen 28 Day Pack** – continue
+- **Acetaminophen 325mg** PO PRN
+- **Yaz/Levora/Natazia** – hold, restart per Gyn
+
+---
+
+## Discharge Vitals (5/27/2024)
+
+- Temp: 36.7°C
+- BP: 127/74 mmHg
+- HR: 78 bpm
+- RR: 16
+- SpO2: 98% RA
+- Weight: 67.1 kg
+- Pain: 1/10
+
+---
+
+## Discharge Instructions
+
+- Strict daily weights, low-sodium diet
+- HF clinic f/u in 1 week, Cardiology in 2 weeks
+- Monitor for symptoms: SOB, edema, palpitations
+- Continue meds as listed
+- Call for fever, chest pain, or urinary symptoms
+
+---
+
+## Additional Notes
+
+- **Allergies:** NKDA
+- **Social Hx:** Lives with partner, no tobacco, rare EtOH, no illicit drugs
+- **Family Hx:** Father with DM2, mother with HTN
+- **Code Status:** Full
+
+---
+
+#### [End of Note]

@@ -1,0 +1,184 @@
+**EPIC EHR - Inpatient Note**  
+**Patient Name:** Carson Wolf  
+**MRN:** 00415839  
+**DOB:** 04/15/1947 (Age: 77)  
+**Sex:** Male  
+**Admission Date:** 04/18/2024  
+**Attending:** Dr. M. Jensen  
+**Consultants:** Cardiology, Infectious Disease, GI, Neurology  
+**Location:** MICU, Bed 3B  
+
+---
+
+## **HOSPITAL COURSE SUMMARY**
+
+Mr. Carson Wolf, a 77-year-old male with a complex medical history including hypertension, prediabetes, chronic anemia, epilepsy, and chronic sinusitis, was admitted to the ICU on 4/18/24 for acute decompensated heart failure with cardiogenic shock secondary to suspected viral myocarditis. His hospital course was complicated by multiorgan dysfunction, GI bleeding, and protracted diarrhea. During the course of his ICU stay, he required placement of a temporary left ventricular assist device (Impella CP) for hemodynamic support.
+
+---
+
+## **CHIEF COMPLAINT**
+Shortness of breath, chest pain, and protracted diarrhea.
+
+---
+
+## **HISTORY OF PRESENT ILLNESS**
+
+Mr. Wolf presented from home with 1 week of worsening dyspnea on exertion, orthopnea, and lower extremity edema, associated with low-grade fevers, non-productive cough, and persistent diarrhea (7-8 watery stools/day). He also endorsed intermittent chest discomfort, generalized weakness, and anorexia. He denied sick contacts, recent travel, or known COVID exposure. On arrival, he was hypotensive (BP 84/52), tachycardic (HR 115), tachypneic (RR 25), and hypoxic (O2 sat 89% on RA), with evidence of volume overload.
+
+---
+
+## **PAST MEDICAL HISTORY**
+
+- Hypertension (on Atenolol/Chlorthalidone)
+- Prediabetes
+- Chronic anemia (baseline Hgb ~11)
+- Chronic pain (osteoarthritis, wrist fracture s/p ORIF 2017)
+- Epilepsy (on carbamazepine, single seizure 2022)
+- Chronic sinusitis and recurrent viral URIs
+- Acute bronchitis (multiple episodes)
+- GI: Protracted diarrhea, hx of lower GI bleed, hemorrhoids
+
+---
+
+## **PAST SURGICAL HISTORY**
+- ORIF right wrist 2017
+- Laceration repair left forearm 2018
+
+---
+
+## **ALLERGIES**
+- NKDA
+
+---
+
+## **MEDICATIONS ON ADMISSION**
+- Atenolol 50mg/Chlorthalidone 25mg PO daily
+- Carbamazepine 200mg PO BID
+- Naproxen sodium 220mg PO PRN
+- Leucovorin 100mg IV (outpatient, unclear indication)
+- Oxaliplatin (outpatient, hx of colon polyp, ?chemoprevention)
+- Acetaminophen/dextromethorphan/doxylamine elixir PRN cough
+
+---
+
+## **PHYSICAL EXAM (ICU DAY 1)**
+
+**Gen:** Frail, cachectic male, NAD  
+**VS:** T 37.2°C, HR 115, BP 84/52, RR 25, SpO2 89% RA  
+**HEENT:** Pale conjunctiva, nasal congestion  
+**CV:** Tachycardia, S3, JVD 10cm, cool extremities, 1+ pitting edema  
+**Resp:** Crackles both bases, mild wheezing  
+**Abd:** Mild distension, hyperactive BS, no rebound  
+**Neuro:** AO x2 (time, place), slurred speech, no focal deficit  
+**Skin:** Multiple ecchymoses, healing forearm scar
+
+---
+
+## **ICU COURSE**
+
+- **ICU Day 1-2:** Required norepinephrine for MAP support. Started on broad-spectrum antibiotics (cefepime, doxycycline) for possible sepsis. Lactate 4.8. Echo: LVEF 20%, global hypokinesis. 
+- **ICU Day 3:** Worsening shock, oliguric AKI, rising troponin (0.45→1.1), NT-proBNP 15,000. After multidisciplinary discussion, Impella CP placed for LV support.  
+- **ICU Day 4-7:** Gradual improvement in perfusion, weaned off pressors. Developed melena and Hgb drop (see labs). GI consult: EGD negative, suspected ischemic colitis.  
+- **ICU Day 8-10:** Diarrhea improved, started on tube feeds. Impella explanted on day 10 after LVEF improved to 35%.  
+- **ICU Day 11+:** Ongoing rehab, complicated by delirium and mild aspiration event, but otherwise stable.
+
+---
+
+## **LABS**
+
+### CBC / CHEMISTRY TABLE (Selected)
+
+| Date        | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Ca (mg/dL) | AST (U/L) | ALT (U/L) | Troponin (ng/mL) |
+|-------------|------------|------------|---------|------------|-------------|------------|--------------|-------------|------------|-------------|------------|-----------|-----------|------------------|
+| 4/18 (ED)   | 11.2       | 10.1       | 31      | 188        | 134         | 4.8        | 19           | 29          | 1.34       | 154         | 7.6        | 49        | 32        | 0.45             |
+| 4/19        | 13.5       | 8.8        | 27      | 158        | 130         | 5.2        | 17           | 38          | 1.67       | 102         | 7.9        | 56        | 41        | 1.10             |
+| 4/20        | 9.8        | 9.3        | 29      | 201        | 136         | 4.6        | 21           | 32          | 1.12       | 98          | 8.2        | 38        | 24        | 0.83             |
+| 4/21        | 7.1        | 9.5        | 30      | 244        | 139         | 4.3        | 25           | 24          | 0.98       | 112         | 8.7        | 29        | 19        | 0.34             |
+| 4/22        | 8.3        | 9.1        | 28      | 190        | 138         | 4.1        | 21           | 22          | 0.88       | 94          | *          | 31        | 17        | *                |
+| 4/23        | 6.5        | 9.7        | 31      | 228        | 137         | *          | 23           | 19          | 0.90       | 101         | 8.9        | 27        | *         | 0.15             |
+| 4/24        | 6.0        | 10.2       | 33      | 244        | 139         | 4.2        | 24           | 16          | 0.81       | 88          | 9.1        | *         | 12        | <0.01            |
+| 4/26        | 5.4        | 10.0       | 32      | 222        | 141         | 4.1        | 25           | 14          | 0.73       | 92          | 9.0        | 21        | 10        | <0.01            |
+
+\* = not measured
+
+### Other notable labs:
+- **Lactate:** 4.8 (4/18), 2.1 (4/20)
+- **NT-proBNP:** 15,000 (4/19), 8,300 (4/24)
+- **INR:** 1.3 (4/19)
+- **PTT:** 42 (on heparin, 4/20)
+- **Stool C. diff PCR:** Negative
+- **Blood cultures:** No growth x2
+
+---
+
+## **IMAGING**
+
+- **CXR 4/18:** Bilateral pulmonary edema, mild cardiomegaly, no effusion
+- **Echo 4/18:** LVEF 20%, global hypokinesis, no LV thrombus, mild MR
+- **Echo 4/10:** LVEF 35%, improved wall motion
+- **Abd CT 4/20:** Mild colonic wall thickening, consistent with ischemic colitis
+
+---
+
+## **PROBLEM-BASED ASSESSMENT & PLAN**
+
+**1. Cardiogenic Shock / Acute Decompensated HF**
+   - Likely viral myocarditis, possible ischemic component
+   - Required Impella CP support (ICU day 3-10)
+   - Diuresed after stabilization, uptitrated GDMT
+   - Plan: Continue HF regimen, monitor for recurrent decompensation, follow up echo
+
+**2. GI Bleeding / Ischemic Colitis**
+   - Melena, Hgb drop, EGD negative, CT suggestive ischemic colitis
+   - Supportive care, transfused 2U PRBCs, held anticoagulation
+   - Plan: Resume DVT ppx once stable, GI follow-up
+
+**3. Protracted Diarrhea**
+   - Infectious w/u negative, likely ischemic-related
+   - Improved with bowel rest and supportive care
+   - Plan: Advance diet as tolerated, replete lytes
+
+**4. AKI, Multi-Organ Dysfunction**
+   - Pre-renal with component of ATN, resolved with improved perfusion
+   - Plan: Monitor renal function, avoid nephrotoxins
+
+**5. Chronic Anemia**
+   - Baseline Hgb ~11, down to 8.8 with GI bleed
+   - Plan: Close monitoring, iron studies outpatient
+
+**6. Seizure Disorder / Encephalopathy**
+   - On carbamazepine, no witnessed seizures this admission
+   - Delirium likely multifactorial (ICU, metabolic, infection)
+   - Plan: Maintain AEDs, minimize sedation, neuro consult if worsens
+
+**7. HTN, Prediabetes**
+   - Restarted home meds after stabilization
+   - Plan: Monitor BP/Glucose, outpatient follow-up
+
+**8. Chronic Sinusitis / Recurrent URIs**
+   - No acute intervention needed, continue outpatient f/u
+
+**9. Chronic Pain, Hx Wrist Fx**
+   - PRN acetaminophen, avoid NSAIDs due to GI and renal risk
+
+**10. Functional Decline / Rehab Needs**
+   - Deconditioned after prolonged ICU stay
+   - Plan: PT/OT, assess for SNF placement
+
+---
+
+## **DISCHARGE PLANNING**
+- Anticipated discharge to SNF for rehab
+- Cardiology, GI, Neurology follow-up
+- Medication reconciliation pending
+
+---
+
+**Signed:**  
+Dr. M. Jensen, MD  
+Attending, Cardiology/Critical Care  
+Date/Time: 04/28/2024 16:32
+
+---
+
+**(End of Note)**

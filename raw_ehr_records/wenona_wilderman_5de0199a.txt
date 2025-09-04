@@ -1,0 +1,215 @@
+**Patient:** Wenona Wilderman  
+**MRN:** 00412875  
+**DOB:** 12/01/1966  
+**Sex:** Female  
+**Admit Date:** 03/13/2024  
+**Service:** MICU  
+**Attending:** Dr. Rafael Berman  
+**Consults:** Cardiology, CT Surgery, Infectious Disease  
+**Allergies:** NKDA  
+**Code Status:** Full code
+
+---
+
+# Admission H&P
+
+**Chief Complaint:**  
+Progressive shortness of breath, orthopnea, and lower extremity edema x 2 weeks.
+
+**HPI:**  
+Wenona Wilderman is a 57-year-old female with obesity, osteoarthritis (knee), and recurrent viral upper respiratory infections, presenting with 2 weeks of progressive dyspnea, orthopnea, and bilateral leg swelling. She initially attributed symptoms to a "sinus infection," but over the last 48 hours developed worsening fatigue, inability to climb stairs, and mild chest tightness. She denied fever, cough, or recent sick contacts. She has no prior cardiac history. No known diabetes or hypertension.
+
+**PMH:**  
+- Obesity (BMI 30+)
+- Osteoarthritis—knee
+- Recurrent viral sinusitis/pharyngitis
+
+**PSH:**  
+- Left knee arthroscopy 2012
+
+**Meds on Admission:**  
+- Naproxen sodium 220 mg PO prn
+
+**Social Hx:**  
+- Non-smoker  
+- Rare EtOH  
+- No illicit drugs  
+- Lives with husband; works as librarian
+
+**FHx:**  
+- Mother: MI at 61  
+- Father: HTN, OA
+
+---
+
+# Physical Exam (on admission):
+
+| Vital Sign        | Value         |
+|-------------------|--------------|
+| Temp (oral)       | 37.2°C       |
+| HR                | 108 bpm      |
+| BP                | 84/54 mmHg   |
+| RR                | 22           |
+| SpO2              | 94% RA       |
+| Height            | 158 cm       |
+| Weight            | 76.8 kg      |
+| BMI               | 30.7         |
+| Pain (0-10)       | 3            |
+
+**Gen:** Obese female, moderate distress, using accessory muscles  
+**HEENT:** Clear oropharynx, mild sinus tenderness  
+**CV:** Tachycardic, S3 present, JVD 10cm, peripheral pulses 1+  
+**Lungs:** Bibasilar crackles  
+**Abd:** Soft, NT, mild hepatomegaly  
+**Ext:** 2+ pitting edema to knees  
+**Neuro:** A&O x3
+
+---
+
+# Hospital Course (Summary):
+
+**Day 0-1:**  
+On arrival, Wenona was hypotensive and hypoxic. CXR: mild pulmonary edema. BNP 1650, troponin I 0.09 → 0.13. Echo: LVEF 15%, global hypokinesis, LV dilated, RV mildly reduced function. Cardiology consulted: concern for new-onset non-ischemic cardiomyopathy (viral myocarditis vs. idiopathic). Started on IV furosemide, dobutamine, and low-dose norepinephrine.  
+
+**Day 2:**  
+Despite escalating inotropes and diuresis, progressive hypoperfusion (lactate 4.1), worsening renal function, and persistent hypotension. CT surgery consulted for mechanical circulatory support.  
+
+**Day 3:**  
+Placed on percutaneous left ventricular assist device (Impella CP) at bedside. Hemodynamics stabilized over next 24h (MAPs 65-75, improved urine output).  
+
+**Day 4-7:**  
+Slow improvement, weaned off vasopressors. Developed transient transaminitis (ALT/AST peaked ~180/210). No arrhythmias.  
+
+**Day 8:**  
+Impella weaned and removed after TTE showed LVEF improved to 30%.  
+
+**Day 9-12:**  
+Continued diuresis, transitioned to oral HF regimen (metoprolol, sacubitril/valsartan, spironolactone). Transferred to stepdown, ambulating with PT.
+
+---
+
+# Problem-Based Assessment & Plan
+
+**1. Cardiogenic Shock (New Onset Severe Systolic HF, likely viral myocarditis):**  
+- Impella CP placed for refractory shock  
+- IV dobutamine, norepinephrine → off by day 5  
+- Serial TTEs  
+- Cardiac enzymes trended  
+- HF guideline-directed medical therapy (GDMT) initiated  
+- Plan: Close f/u with HF and cardiology, consider endomyocardial biopsy if relapse
+
+**2. Acute Kidney Injury (pre-renal, cardiorenal):**  
+- Monitored daily chem7, urine output  
+- Improved with hemodynamic support  
+- Plan: Monitor, avoid nephrotoxins
+
+**3. Transaminitis (shock liver):**  
+- ALT/AST peaked at 180/210, normalized by day 8  
+- No biliary obstruction, negative hepatitis panel  
+- Plan: Monitor LFTs
+
+**4. Obesity (BMI 30+):**  
+- Counsel on diet, exercise  
+- PT/OT for safe mobilization
+
+**5. Viral URI/sinusitis hx:**  
+- No evidence of bacterial superinfection  
+- Supportive care only
+
+**6. Osteoarthritis—knee:**  
+- Naproxen prn pain, avoid NSAIDs if renal function worsens  
+- PT assessment
+
+**7. DVT prophylaxis:**  
+- SCDs, transitioned to heparin SQ
+
+**8. Stress ulcer prophylaxis:**  
+- Pantoprazole IV
+
+**9. Disposition:**  
+- Plan for cardiac rehab, close outpatient f/u
+
+---
+
+# Medications (Current)
+
+| Medication            | Dose/Route                     | Start Date | Indication               |
+|-----------------------|-------------------------------|------------|--------------------------|
+| Furosemide            | 40 mg IV BID                  | 3/13/24    | Volume overload          |
+| Metoprolol Succinate  | 25 mg PO daily                | 3/20/24    | HFrEF                    |
+| Sacubitril/Valsartan  | 24/26 mg PO BID               | 3/20/24    | HFrEF                    |
+| Spironolactone        | 25 mg PO daily                | 3/21/24    | HFrEF                    |
+| Pantoprazole          | 40 mg IV daily                | 3/14/24    | Stress ulcer prophylaxis |
+| Heparin               | 5000 units SQ q12h            | 3/15/24    | DVT prophylaxis          |
+| Naproxen              | 220 mg PO prn                 | pre-admit  | Knee pain                |
+
+---
+
+# Laboratory Data
+
+## CBC / CHEM7 / LFTs (Selected)
+
+| Date       | WBC  | Hgb  | Plt  | Na   | K    | Cl   | HCO3 | BUN  | Cr   | AST  | ALT  | Troponin I | BNP   |
+|------------|------|------|------|------|------|------|------|------|------|------|------|------------|-------|
+| 3/13/24    | 5.3  | 12.1 | 338  | 134  | 4.8  | 104  | 23   | 29   | 1.1  | 56   | 61   | 0.09       | 1650  |
+| 3/14/24    | 7.1  | 11.2 | 312  | 132  | 4.3  | 102  | 20   | 36   | 1.5  | 142  | 151  | 0.13       | >1800 |
+| 3/15/24    | 8.8  | 10.5 | 267  | 130  | 5.1  | 99   | 18   | 42   | 1.8  | 210  | 180  | 0.09       | -     |
+| 3/16/24    | 7.5  | 10.7 | 230  | 134  | 4.0  | 103  | 22   | 38   | 1.3  | 110  | 98   | 0.06       | 1200  |
+| 3/17/24    | 6.9  | 11.8 | 250  | 137  | 4.2  | 104  | 24   | 31   | 1.1  | 67   | 62   | <0.01      | 900   |
+| 3/18/24    | 5.8  | 12.0 | 241  | 138  | 4.1  | 106  | 26   | 23   | 0.9  | 37   | 39   | <0.01      | 500   |
+| 3/19/24    | -    | 12.2 | 228  | 140  | 4.0  | 108  | 25   | 19   | 0.8  | 29   | 33   | -          | 400   |
+
+---
+
+# Imaging
+
+- **CXR 3/13/24:** Pulmonary vascular congestion, mild effusions, enlarged cardiac silhouette  
+- **TTE 3/13/24:** EF 15%, globally reduced LV function, mild RV dysfunction  
+- **TTE 3/18/24:** EF 30%, improved LV/RV function, no thrombus  
+- **Abd U/S 3/15/24:** Mild hepatomegaly, patent hepatic and portal veins
+
+---
+
+# Procedures
+
+- **Impella CP placement** (percutaneous LVAD) via right femoral artery, 3/15/24  
+- **Central line** (right IJ), arterial line (L radial) on admit  
+- **Foley catheter** (removed day 5)
+
+---
+
+# Microbiology
+
+- Blood cultures x2: Negative  
+- Respiratory viral panel: Rhinovirus positive  
+- Hepatitis panel: Negative
+
+---
+
+# Discharge Plan
+
+- To cardiac rehab  
+- Close f/u with HF, CT surgery  
+- Continue HF meds  
+- Outpatient labs 1 week  
+- Education: HF, fluid restriction, low sodium diet
+
+---
+
+# Sign-out
+
+- Monitor for recurrent symptoms, volume status  
+- Early mobilization/rehab  
+- Outpatient echo in 1 month
+
+---
+
+# Attestation
+
+**Resident:** Peter Chao, MD  
+**Attending:** Rafael Berman, MD  
+**Date/Time:** 3/22/2024 17:38
+
+---
+
+**End of Note**

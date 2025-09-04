@@ -1,0 +1,183 @@
+```
+Patient Name: Milissa Veum MRN: 000192837  
+DOB: 1961-08-22 (Age 62)     Sex: Female  
+Date of Admission: 2024-04-10  
+Attending: Dr. Kevin B. Jones  
+Unit: MICU  
+
+**Chief Complaint:**  
+Acute-on-chronic dyspnea, chest pain, near syncope
+
+**HPI:**  
+62F with PMHx of HTN, obesity (BMI ~29), COPD (emphysema predominant), chronic anemia, and OA knees, presenting with 3 days of worsening SOB, orthopnea, PND, and intermittent chest pressure. Home meds: HCTZ, fluticasone/salmeterol, naproxen, acetaminophen, mirena, OCP, nitrofurantoin, phenazopyridine. No recent URI sx. On arrival: hypertensive, tachycardic, O2 sat 87% RA, requiring 6L NC. Troponin mildly elevated, CXR with pulmonary edema, EKG: NSR, LVH, no STEMI. Worsened to hypotension and tachyarrhythmia in ED, transferred to MICU. Required intubation, vasopressors, and eventually placement of a temporary LVAD (Impella CP) for acute decompensated heart failure with cardiogenic shock.
+
+**Hospital Course Summary:**  
+- Day 1: Intubated, on norepinephrine. Echo: severe global hypokinesis, EF 15%, moderate MR. Emergent Impella CP placed via R fem artery. 
+- Day 2-3: Improved MAPs, weaned pressors. Developed AKI (Cr up to 2.1), mild transaminitis, ongoing anemia. 
+- Day 4: Extubated, mentating, but still requiring LVAD support.  
+- Day 5: Gradual diuresis, weaned Impella, device explanted.  
+- Day 6-8: Steady improvement, transitioned to oral diuretics, off pressors, O2 via NC.  
+- Day 9: Transferred to stepdown.  
+
+---
+
+## Problem List & Assessment/Plan
+
+### 1. Cardiogenic Shock (Acute Decompensated Systolic HF, NYHA IV)
+- Severe ADHF with hypotension, end-organ hypoperfusion
+- Required Impella CP for hemodynamic support
+- Etiology: possible ischemic vs. non-ischemic (no STEMI, mildly elevated troponin)
+**Plan:**
+  - Maintain euvolemia, strict I/Os, daily weights
+  - Continue guideline-directed medical therapy (initiate as tolerated)
+  - Cardiology f/u, consider outpatient cath
+  - Telemetry
+  - TTE prior to discharge
+
+### 2. COPD (Emphysema)
+- History of moderate emphysema, FEV1/FVC 77%
+- Exacerbation likely multifactorial (fluid overload, intubation)
+**Plan:**
+  - Resume inhalers (fluticasone/salmeterol) post-extubation
+  - Pulm hygiene, IS, monitor for infection
+  - Wean O2 as tolerated
+
+### 3. Hypertension
+- Previously poorly controlled
+- Now labile, improved post-diuresis
+**Plan:**
+  - Hold HCTZ until euvolemic/renal function improves
+  - Reassess home regimen
+
+### 4. Obesity (BMI ~29)
+- Risk factor for HF, OSA
+**Plan:**
+  - Dietician consult
+  - Encourage mobility as tolerated
+
+### 5. Anemia (Chronic, mild)
+- Hgb nadir 8.2 during admission, baseline ~10
+- Multifactorial: chronic disease, dilutional, phlebotomy
+**Plan:**
+  - Monitor CBC
+  - Iron studies if ongoing
+  - No transfusion indicated
+
+### 6. Acute Kidney Injury (AKI, likely cardiorenal)
+- Cr peaked at 2.1, now trending down
+**Plan:**
+  - Renal dosing, avoid nephrotoxins
+  - Monitor UOP, lytes
+
+### 7. Transaminitis
+- Mild elevation AST/ALT, likely hypoperfusion
+**Plan:**
+  - Monitor LFTs
+  - Supportive
+
+### 8. OA knees
+- Home naproxen held due to AKI
+**Plan:**
+  - Acetaminophen PRN
+  - PT/OT consult
+
+### 9. Gynecologic Hx (Mirena, OCP, h/o miscarriage, blighted ovum)
+- No active gynecologic issues
+**Plan:**
+  - Continue Mirena, OCP held during hospitalization
+
+### 10. Hx of UTI/cystitis
+- No current sx
+**Plan:**
+  - Monitor for infection
+
+---
+
+## Labs
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | AST (U/L) | ALT (U/L) | Trop (ng/mL) |
+|------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|-----------|-----------|--------------|
+| 4/10/2024  | 4.2        | 10.2       | 31      | 270        | 137         | 4.3        | 102         | 22           | 28          | 1.5        | 124         | 42        | 38        | 0.09         |
+| 4/11/2024  | 4.0        | 9.1        | 29      | 255        | 135         | 4.8        | 100         | 19           | 35          | 2.1        | 146         | 63        | 54        | 0.13         |
+| 4/12/2024  | 3.6        | 8.2        | 25      | 220        | 134         | 5.2        | 98          | 17           | 40          | 2.0        | 102         | 49        | 45        | 0.08         |
+| 4/13/2024  | 4.5        | 9.5        | 30      | 260        | 136         | 4.1        | 101         | 21           | 29          | 1.7        | 110         | 32        | 29        | 0.04         |
+| 4/14/2024  | 5.0        | 10.8       | 33      | 277        | 138         | 4.2        | 103         | 24           | 22          | 1.3        | 96          | 28        | 31        | 0.02         |
+| 4/15/2024  | 4.8        | 10.4       | 32      | 265        | 140         | 4.0        | 104         | 25           | 18          | 1.1        | 104         | 26        | 29        | —            |
+| 4/16/2024  | —          | 10.2       | —       | 258        | 139         | 4.1        | —           | 23           | 16          | 1.0        | 109         | —         | —         | —            |
+
+*Missing labs are indicated by "—".
+
+---
+
+## Vitals (Selected)
+
+| Date       | Temp (°C) | HR (bpm) | BP (mmHg) | RR (/min) | O2 Sat (%) | Pain |
+|------------|-----------|----------|-----------|-----------|------------|------|
+| 4/10/2024  | 37.2      | 116      | 95/58     | 22        | 87         | —    |
+| 4/11/2024  | 36.8      | 102      | 102/62    | 18        | 92         | —    |
+| 4/12/2024  | 37.0      | 98       | 108/70    | 16        | 95         | 0    |
+| 4/13/2024  | 36.6      | 89       | 116/74    | 16        | 97         | 2    |
+| 4/14/2024  | 36.7      | 84       | 122/78    | 14        | 98         | 1    |
+| 4/15/2024  | 36.5      | 81       | 128/80    | 14        | 98         | 1    |
+| 4/16/2024  | 36.6      | 79       | 130/82    | 14        | 99         | 0    |
+
+---
+
+## Medications During Admission
+
+- Norepinephrine IV (Days 1-2)
+- Dobutamine IV (Day 1)
+- Furosemide IV → PO
+- Aspirin 81 mg PO
+- Atorvastatin 40 mg PO
+- Fluticasone/salmeterol (resumed post-extubation)
+- Acetaminophen PRN
+- Mirena (continued)
+- OCP (held)
+- HCTZ (held)
+
+---
+
+## Procedures
+
+- Endotracheal intubation (Day 1)
+- Right femoral Impella CP (LVAD) placement (Day 1)
+- Impella explant (Day 5)
+- Foley catheter (Days 1-4)
+- Arterial line (Days 1-6)
+- Central line (Days 1-5)
+
+---
+
+## Imaging
+
+- CXR (Day 1): Pulmonary edema, mild cardiomegaly, no consolidation
+- TTE (Day 1): Severe global LV dysfunction, EF 15%, mod MR
+- TTE (Day 7): EF improved to 30%, mild MR
+
+---
+
+## Disposition
+
+- Day 9: Transferred to stepdown, stable, off pressors and O2, tolerating oral meds, ambulating with PT.
+
+---
+
+## Problem-Based Summary
+
+| Problem            | Days in ICU | Status/Complications                |
+|--------------------|-------------|-------------------------------------|
+| Cardiogenic Shock  | 5           | Resolved, LVAD support required     |
+| AKI                | 5           | Improved, no dialysis needed        |
+| COPD Exacerbation  | 5           | Resolved, on inhalers               |
+| Anemia             | 8           | Improved, no transfusion            |
+| OA                 | 9           | Pain controlled, no acute issues    |
+| Hypertension       | 9           | Labile, improved                    |
+
+---
+
+**Physician: Kevin B. Jones, MD**  
+**Date/Time: 2024-04-18 11:32**  
+**Cosignatures:** None
+
+---

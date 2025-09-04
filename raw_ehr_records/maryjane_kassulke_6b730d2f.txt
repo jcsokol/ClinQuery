@@ -1,0 +1,152 @@
+```
+----------------------------------------------------------------------
+EPIC EHR SYSTEM - ADMISSION NOTE
+----------------------------------------------------------------------
+
+PATIENT NAME: Maryjane Kassulke      MRN: 00217398
+DOB: 01/11/1966   SEX: Female
+ADMISSION DATE: 04/13/2024   ATTENDING: Dr. J. Renzulli
+CONSULTANTS: Cardiology, Infectious Disease, Pulmonary
+
+----------------------------------------------------------------------
+REASON FOR ADMISSION:
+----------------------------------------------------------------------
+
+65-year-old female with h/o obesity, recent viral sinusitis, and strep pharyngitis, presenting with acute dyspnea, orthopnea, and chest discomfort. On arrival: febrile, tachycardic, hypoxic, hypotensive. Found to have severe decompensated heart failure with cardiogenic shock requiring ICU admission and eventual placement of a temporary left ventricular assist device (Impella CP).
+
+----------------------------------------------------------------------
+HOSPITAL COURSE SUMMARY:
+----------------------------------------------------------------------
+
+Pt admitted 4/13/24 after 2d of progressive SOB and fever. Initial labs notable for leukocytosis, elevated troponin, and evidence of end-organ hypoperfusion. Echo: EF 12%, global hypokinesis, no valvular vegetations. Rapid deterioration with hypotension refractory to pressors, requiring temporary LVAD placement on hospital day 2. Treated empirically for myocarditis (likely viral) and superimposed bacterial infection. Gradual improvement, weaned off LVAD on day 7, stepdown to telemetry.
+
+---------------------------------------------------------------------- 
+PAST MEDICAL HISTORY
+----------------------------------------------------------------------
+
+- Obesity (BMI ~30)
+- Recent viral sinusitis
+- Streptococcal pharyngitis (treated with Penicillin VK)
+- Hyperlipidemia (borderline)
+- No known CAD, DM, CKD
+- No prior cardiac procedures
+
+---------------------------------------------------------------------- 
+SOCIAL HISTORY
+----------------------------------------------------------------------
+
+- Lives alone, retired school teacher
+- Nonsmoker, rare EtOH, no illicit drug use
+- No recent travel, no sick contacts
+
+---------------------------------------------------------------------- 
+ALLERGIES
+----------------------------------------------------------------------
+
+- NKDA
+
+---------------------------------------------------------------------- 
+MEDICATIONS ON ADMISSION
+----------------------------------------------------------------------
+
+- Penicillin V Potassium 500 mg PO BID (for strep pharyngitis)
+- Multivitamin
+- PRN acetaminophen
+
+---------------------------------------------------------------------- 
+VITAL SIGNS (SELECTED)
+----------------------------------------------------------------------
+
+| Date/Time       | Temp (C) | HR | BP      | RR | SpO2 | Pain |
+|-----------------|----------|----|---------|----|------|------|
+| 4/13 07:45      | 38.1     | 112| 86/54   | 24 | 91%  | 3    |
+| 4/14 04:00      | 38.2     | 109| 80/49   | 28 | 88%  | 4    |
+| 4/15 08:00      | 37.6     | 96 | 102/66  | 18 | 95%  | 2    |
+| 4/17 06:30      | 37.3     | 84 | 118/75  | 16 | 97%  | 1    |
+
+---------------------------------------------------------------------- 
+LABS - CBC, CHEM7, OTHER RELEVANT LABS
+----------------------------------------------------------------------
+
+| Date        | WBC   | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | BNP    | AST | ALT | Alk Phos | Lactate | 
+|-------------|-------|------|------|------|------|------|------|------|------|------|------|----------|--------|-----|-----|----------|---------|
+| 4/13 08:00  | 14.2  | 15.3 | 49.8 | 340  | 132  | 4.7  | 98   | 19   | 34   | 2.1  | 156  | 0.54     | 9823   | 72  | 56  | 110      | 4.8     |
+| 4/14 04:30  | 13.1  | 13.9 | 44.2 | 264  | 130  | 5.1  | 98   | 16   | 38   | 2.7  | 134  | 0.43     | 11921  | 81  | 73  | 124      | 3.7     |
+| 4/15 07:50  | 11.2  | 12.8 | 40.1 | 218  | 135  | 4.2  | 101  | 22   | 29   | 1.3  | 110  | 0.16     | 6212   | 62  | 51  | 101      | 2.1     |
+| 4/16 09:00  | 9.4   | 12.4 | 39.2 | 201  | --   | 4.1  | --   | 24   | 20   | 0.9  | 98   | <0.01    | 2389   | 49  | 43  | 97       | --      |
+| 4/17 07:00  | 8.9   | 12.1 | 38.6 | 186  | 138  | 3.7  | 103  | 26   | --   | 0.8  | 92   | <0.01    | 1044   | 38  | 29  | 90       | 1.2     |
+
+( -- = Not Collected)
+
+---------------------------------------------------------------------- 
+IMAGING/DIAGNOSTICS
+----------------------------------------------------------------------
+
+- CXR: Pulmonary edema, mild cardiomegaly, no consolidation
+- EKG: Sinus tachycardia, nonspecific ST-T changes
+- TTE (4/13): EF 12%, global hypokinesis, mild MR, small pericardial effusion
+- Coronary angio: No obstructive CAD
+
+---------------------------------------------------------------------- 
+PROBLEM-BASED ASSESSMENT & PLAN
+----------------------------------------------------------------------
+
+**1. Cardiogenic Shock secondary to severe acute systolic heart failure (likely viral myocarditis):**
+   - Required temporary LVAD (Impella CP), placed 4/14 in CICU
+   - IV Dobutamine, Norepinephrine for initial support
+   - Serial echocardiograms to monitor recovery
+   - Weaned off LVAD on day 7, transitioned to oral HF meds (carvedilol, lisinopril, furosemide)
+   - Monitor for arrhythmia, renal dysfunction, and thromboembolism
+
+**2. Suspected Viral Myocarditis with superimposed strep pharyngitis:**
+   - Empiric IV methylprednisolone x3d, then taper
+   - IVIG not given (improved clinically)
+   - Continued Penicillin VK (completed 10d course)
+   - Infectious Disease consulted
+
+**3. Acute Kidney Injury (pre-renal, improved):**
+   - Likely secondary to hypoperfusion, some nephrotoxic meds held
+   - Monitored daily BMP, improved as cardiac output increased
+   - Avoid NSAIDs, adjust HF meds per renal function
+
+**4. Acute on chronic obesity (BMI 30+):**
+   - Dietitian consult for low sodium, calorie restricted diet
+   - Daily weights, fluid restriction
+
+**5. Hyperlipidemia:**
+   - Statin deferred during acute illness
+   - Plan to re-address at outpatient f/u
+
+**6. Transaminitis (mild, likely shock liver):**
+   - Trending down with improved perfusion
+   - Monitor LFTs, no evidence of biliary obstruction
+
+**7. Fever, leukocytosis:**
+   - Initial concern for sepsis vs. inflammatory response
+   - Broad spectrum abx started, narrowed after negative cultures
+   - Source control: treated strep pharyngitis, no abscesses
+
+**8. Deconditioning:**
+   - Early PT/OT involvement
+   - DVT ppx with enoxaparin
+
+**9. Psychosocial:**
+   - Social work consult: lives alone, needs assessment for SNF vs. home with VNA
+
+---------------------------------------------------------------------- 
+DISCHARGE PLANNING
+----------------------------------------------------------------------
+
+- Anticipated discharge to rehab facility
+- F/u with cardiology, primary care, and PT/OT
+- Education on HF symptoms, weight monitoring, med compliance
+
+---------------------------------------------------------------------- 
+PHYSICIAN ATTESTATION
+----------------------------------------------------------------------
+
+I have personally reviewed the above information and discussed the plan of care with the ICU team.
+- Dr. J. Renzulli, Attending, 4/17/24
+
+----------------------------------------------------------------------
+```

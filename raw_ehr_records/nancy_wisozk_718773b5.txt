@@ -1,0 +1,236 @@
+```
+*** EPIC EHR - ICU ADMISSION NOTE ***
+
+PATIENT NAME: Nancy Wisozk  
+MRN: 0453981  
+DOB: 08/14/2004 (Age: 19)  
+SEX: Female  
+Date of Admission: 2024-05-30  
+Date of Note: 2024-06-03  
+Attending: Dr. H. Figueroa  
+Consultants: Cardiology, Infectious Disease  
+Location: MICU, Room 18B  
+
+*** CHIEF COMPLAINT ***  
+Progressive shortness of breath, orthopnea, and fatigue.
+
+*** HISTORY OF PRESENT ILLNESS ***  
+Nancy Wisozk is a previously healthy 19-year-old female with a recent history of upper respiratory infection (initially viral, then complicated by acute bacterial sinusitis), presenting with 5 days of worsening dyspnea, palpitations, and fatigue. She was treated outpatient with naproxen and supportive care for sinusitis two weeks ago. Over the past week, she developed severe fatigue, lower extremity edema, and reduced urine output. On the day of admission, she became acutely tachypneic and hypotensive, prompting EMS activation.  
+
+On arrival, she was found to be hypotensive (BP 82/48 mmHg), tachycardic (HR 122 bpm), tachypneic (RR 28), and hypoxic (SpO2 91% on 4L NC). She was transferred to the ICU for acute decompensated heart failure and cardiogenic shock, requiring inotropic support. Echocardiogram revealed severely reduced LVEF (15%) with global hypokinesis. Given progressive shock, a temporary left ventricular assist device (Impella CP) was placed emergently at bedside.
+
+*** PAST MEDICAL HISTORY ***
+- Viral sinusitis (resolved)
+- Acute bacterial sinusitis (treated)
+- Sprain of wrist (remote, no sequelae)
+- No prior cardiac history
+
+*** PAST SURGICAL HISTORY ***
+- None
+
+*** ALLERGIES ***
+- NKDA
+
+*** MEDICATIONS ON ADMISSION ***
+- Naproxen sodium 220 mg PO PRN
+- IV fluids (NS)
+- Norepinephrine infusion (ICU)
+- Dobutamine infusion (ICU)
+- Prophylactic enoxaparin
+
+*** SOCIAL HISTORY ***
+- Non-smoker, no EtOH, no illicit drug use
+- Lives with parents, attends college
+
+*** FAMILY HISTORY ***
+- Non-contributory (no known cardiac disease)
+
+*** REVIEW OF SYSTEMS ***
+- General: Fatigue, malaise
+- HEENT: Sinus congestion, now improved
+- CV: Palpitations, chest heaviness, orthopnea, PND
+- Resp: Dyspnea, mild cough
+- GI: Nausea, no vomiting
+- GU: Decreased urine output
+- MSK: No joint pain (except old wrist sprain)
+- Neuro: No focal deficits
+
+*** PHYSICAL EXAM ***
+- General: Appears fatigued, in mild distress
+- Vitals: T 36.9°C, HR 122, BP 82/48 (on norepi), RR 28, SpO2 91% (4L NC)
+- HEENT: Sinus tenderness improved
+- CV: S3 present, tachycardic, no murmurs, JVP 9 cm
+- Resp: Crackles at bases, mild increased work of breathing
+- Abd: Soft, non-tender, mild hepatomegaly
+- Extremities: 2+ pitting edema bilat LE, cool peripheries
+- Neuro: Grossly intact
+
+*** ICU COURSE (Days 1-4) ***
+- Day 1: Admitted in cardiogenic shock, started on norepinephrine + dobutamine, urgent echo → LVEF 15%. Swan-Ganz: CI 1.6, wedge 28, SVR 900. Placed Impella CP LVAD for hemodynamic support.  
+- Day 2: Improved MAPs, weaned norepinephrine; remained oliguric.  
+- Day 3: Mild transaminitis, troponin peaked at 3.2 ng/mL.  
+- Day 4: Gradual improvement, Impella flows reduced, extubated to HFNC.
+
+*** LABS ***
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | Trop  | BNP    |
+|------------|------|------|------|------|------|------|------|------|------|------|------|------|------|--------|--------|
+| 5/30/2024  | 5.0  | 13.1 | 41   | 290  | 137  | 4.2  | 103  | 21   | 18   | 0.9  | 102  | 38   | 41   | 2.9    | 18,500 |
+| 5/31/2024  | 6.8  | 12.4 | 39   | 250  | 135  | 4.6  | 100  | 19   | 27   | 1.4  | 118  | 92   | 75   | 3.2    | 15,200 |
+| 6/01/2024  | 7.1  | 11.9 | 37   | 201  | 135  | 4.1  | 102  | 18   | 34   | 2.0  | 133  | 119  | 98   | 2.1    | 11,800 |
+| 6/02/2024  | 6.0  | 12.2 | 38   | 182  | 136  | 4.0  | 101  | 22   | 30   | 1.5  | 110  |      |      | 1.3    | 8,600  |
+| 6/03/2024  | 4.9  | 13.3 | 43   | 265  | 137  | 3.9  | 104  | 23   | 20   | 1.0  | 98   | 33   | 28   | <0.01  | 3,900  |
+
+*Note: Some values missing as not all tests resulted each day.*
+
+*** MICROBIOLOGY ***
+- Blood cultures x2: No growth (Day 1, Day 2)
+- Nasal PCR panel: Negative for viral pathogens
+
+*** IMAGING ***
+- CXR: Bilateral pulmonary edema, mild cardiomegaly
+- Echo (Day 1): LVEF 15%, global hypokinesis, mild MR, no pericardial effusion
+- Echo (Day 4): LVEF 28%, improved wall motion
+
+*** ASSESSMENT & PLAN ***
+
+**1. Cardiogenic Shock, likely viral myocarditis**  
+- Presentation, echo, and rapid decline suggestful of fulminant myocarditis (possibly post-viral).  
+- Required temporary LVAD (Impella CP) for hemodynamic support.  
+- Plan:  
+  - Continue Impella support, gradual wean as tolerated  
+  - Daily echo to assess function  
+  - Wean inotropes as tolerated  
+  - Monitor for arrhythmias, anticoagulate per protocol  
+  - Cardiology to follow
+
+**2. Acute Kidney Injury, likely pre-renal**  
+- Oliguria, Cr peaked at 2.0, improved with better MAPs  
+- Plan:  
+  - Strict I/Os, daily BMP  
+  - Avoid nephrotoxins  
+  - Renal consult if worsening
+
+**3. Acute Transaminitis**  
+- AST/ALT peaked on Day 3, improved since  
+- Likely ischemic hepatitis secondary to low flow  
+- Plan:  
+  - Monitor LFTs  
+  - Supportive care
+
+**4. Decompensated Heart Failure**  
+- Managed with inotropes, diuresis (once stable).  
+- Plan:  
+  - IV furosemide as tolerated  
+  - Sodium restriction
+
+**5. Recent Sinusitis (viral and bacterial)**  
+- No current signs of active infection  
+- Plan:  
+  - No antibiotics unless new infection suspected
+
+**6. VTE Prophylaxis**  
+- On enoxaparin
+
+**7. Nutrition**  
+- NPO initially, now advancing to cardiac diet as tolerated
+
+**8. Physical Therapy**  
+- Consulted for early mobilization as feasible
+
+**9. Psychosocial**  
+- Family updated daily, social work involved
+
+*** DISPOSITION ***
+- Remains in ICU, improving. Anticipate step-down to telemetry in 1-2 days if stable off Impella/inotropes.
+
+*** SIGNATURE ***
+Figueroa, H., MD  
+Cardiology/ICU  
+Date: 2024-06-03
+```
+*(End of Page 1/4 — see next pages for further details)*
+
+---
+
+**PAGE 2/4**  
+*** FLOW SHEET SUMMARY (Condensed) ***
+
+| Day | MAP (mmHg) | HR (bpm) | RR | SpO2 | Temp (°C) | UOP (mL/24h) | Impella Flow (L/min) | Norepi (mcg/kg/min) |
+|-----|------------|----------|----|------|-----------|--------------|---------------------|---------------------|
+| 1   | 58         | 122      | 28 | 91   | 36.9      | 210          | 3.0                 | 0.15                |
+| 2   | 64         | 110      | 22 | 95   | 37.2      | 620          | 3.0                 | 0.08                |
+| 3   | 76         | 98       | 18 | 97   | 37.0      | 1500         | 2.2                 | 0                   |
+| 4   | 83         | 88       | 16 | 98   | 36.8      | 2200         | 1.2                 | 0                   |
+
+*** ADVANCED CARDIAC MONITORING ***
+- Swan-Ganz Day 1: CI 1.6, wedge 28, SVR 900, mPAP 32
+- Day 2: CI 2.0, wedge 21, SVR 1100
+- Day 4: CI 2.5, wedge 15, SVR 1200
+
+*** INFUSIONS ***
+- Norepinephrine: Days 1-2, weaned off by Day 3
+- Dobutamine: Days 1-4, weaning
+
+*** DEVICES ***
+- Impella CP: Placed Day 1, flows reduced Day 3-4
+- Central line (IJ), arterial line (radial), Foley catheter (removed Day 3)
+
+---
+
+**PAGE 3/4**  
+*** CONSULT NOTES ***
+
+**Cardiology**  
+- “Fulminant myocarditis, likely viral etiology. Recommend continuing mechanical LV support, close hemodynamic monitoring. Consider cardiac MRI after stabilization.”
+
+**Infectious Disease**  
+- “No evidence of active infection. Blood cultures negative. No antibiotics indicated at this time.”
+
+**Renal**  
+- “AKI likely pre-renal. Monitor renal function. No dialysis currently indicated.”
+
+*** NURSING NOTES (EXCERPTS) ***
+- 5/31: “Pt alert, anxious, c/o chest heaviness, Impella site clean/dry, pedal pulses 2+.”
+- 6/1: “Improved mentation, less dyspnea, UOP increasing.”
+- 6/2: “Mobilized to chair, tolerates cardiac diet, mood improved.”
+
+*** PROCEDURES ***
+- 5/30: Impella CP LVAD placement, right femoral approach, no complications
+- 5/30: Right IJ triple lumen CVC, left radial A-line
+
+*** MEDICATION ADMINISTRATION RECORD (abridged) ***
+- Norepinephrine infusion: 5/30-6/1
+- Dobutamine infusion: 5/30-6/3
+- Enoxaparin 40 mg SC q24h
+- Furosemide 20 mg IV q12h (started 6/2)
+- Acetaminophen 650 mg PO PRN
+- Naproxen sodium 220 mg PO PRN (not given since admission)
+
+---
+
+**PAGE 4/4**  
+*** DISCHARGE PLANNING (Anticipated) ***
+- Anticipate transfer to step-down/telemetry within 48h if continues to improve
+- Cardiac MRI planned as outpatient
+- Close follow-up with heart failure clinic
+- Education on warning signs, Impella site care, medication management
+- Social work to assist with transportation/resources
+
+*** ADDITIONAL ORDERS/NOTES ***
+- Daily labs: CBC, BMP, LFTs, troponin, BNP
+- Echo q24h until stable
+- Foley out, encourage ambulation
+- PT/OT to continue
+
+*** SIGNOUT SUMMARY ***
+- 19F with fulminant myocarditis, cardiogenic shock, required temporary LVAD, now improving.  
+- Monitor for arrhythmia, infection, bleeding.  
+- Continue de-escalation of support.
+
+---  
+**END OF NOTE**  
+Figueroa, H., MD  
+MICU/Cardiology  
+Date: 2024-06-03
+```

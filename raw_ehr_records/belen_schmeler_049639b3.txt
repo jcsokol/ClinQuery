@@ -1,0 +1,168 @@
+---
+**Patient Name:** Belen Schmeler  
+**MRN:** 00329851  
+**DOB:** 1976-11-06  
+**Sex:** Female  
+**Attending:** Dr. R. Lee  
+**Admit Date:** 2024-05-29  
+**Location:** MICU Room 19-B  
+**Consultants:** Cardiology, Endocrinology, ID  
+**Code Status:** Full  
+**Allergies:** NKDA  
+**Height:** 159.5 cm  
+**Weight:** 71.4 kg  
+**BMI:** 28.0 kg/m²  
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+**Belen Schmeler** is a 47-year-old woman with a PMHx notable for prediabetes, anemia, and recent upper respiratory viral infection, who presented from home with acute onset dyspnea, orthopnea, and chest discomfort. She was initially seen in the ED for presumed viral sinusitis and pharyngitis, but developed hypotension and hypoxia, progressing to acute decompensated heart failure with evidence of cardiogenic shock. She required ICU admission and ultimately emergent placement of a temporary left-sided percutaneous ventricular assist device (Impella CP) for hemodynamic support.
+
+---
+
+## ASSESSMENT & PLAN (PROBLEM-BASED)
+
+**1. Cardiogenic Shock, Acute Decompensated Heart Failure (ADHF)**
+- **Summary:** Presented with severe SOB, orthopnea, hypotension (SBP 82), tachycardia (HR 120), hypoxia (SpO₂ 87% RA). Echo: LVEF 10-15%, globally reduced wall motion, no major valvulopathy. Troponin mildly elevated, BNP 1840 pg/mL. Required norepinephrine, dobutamine; refractory shock → Impella CP placed on HD2.
+- **Etiology:** Likely viral myocarditis on background of metabolic syndrome.
+- **Plan:**  
+    - Continue Impella support, wean as tolerated.  
+    - Daily TTE for LV recovery.  
+    - Strict I/O, diuresis with IV furosemide.  
+    - Monitor for hemolysis, limb ischemia, device complications.  
+    - Consider cardiac MRI after stabilization.  
+    - Cardiology f/u.  
+    - Daily labs: CBC, Chem7, hemolysis labs (LDH, haptoglobin).  
+    - Telemetry, serial troponins/BNP.
+
+**2. Anemia**
+- **Summary:** Chronic, baseline Hgb 10-11. Admission Hgb 9.4, dropped to 7.8 (HD3) with hemolysis post-Impella (LDH 600, haptoglobin <10).  
+- **Plan:**  
+    - Monitor daily CBC.  
+    - Transfused 1U PRBC on HD3.  
+    - Iron studies, B12, folate pending.  
+    - Hold anticoagulation if Hgb <8 unless otherwise indicated.
+
+**3. Prediabetes**
+- **Summary:** HbA1c 5.9%. Mild hyperglycemia during stress.  
+- **Plan:**  
+    - Monitor fasting glucose QAM.  
+    - No insulin needed, continue sliding scale PRN.  
+    - Endocrine consult for DM prevention counseling.
+
+**4. Viral Sinusitis/Pharyngitis/Myocarditis**
+- **Summary:** Initial URI symptoms; negative rapid strep, + rhinovirus/enterovirus PCR. Suspicion for viral myocarditis as precipitant of shock.  
+- **Plan:**  
+    - Supportive care, no antivirals.  
+    - Monitor for superimposed bacterial infection (procalcitonin, cultures as indicated).
+
+**5. Secondary Prevention/Risk Factor Modification**
+- **Plan:**  
+    - Statin therapy to be initiated at discharge.  
+    - Smoking cessation discussed (denies use).  
+    - Nutrition consult (low sodium, heart failure diet).
+
+**6. ICU Delirium Prevention**
+- **Plan:**  
+    - Daily reorientation, minimize sedation.  
+    - Early mobilization as tolerated.
+
+**7. VTE Prophylaxis**
+- **Plan:**  
+    - SCDs in place.  
+    - Heparin SQ on hold due to anemia/hemolysis; reassess daily.
+
+---
+
+## HOSPITAL COURSE BY DAY
+
+**HD1:**  
+- Admitted to ICU for shock. Norepi, dobutamine started. Profound dyspnea.  
+- Initial labs: Hgb 9.4, WBC 8.3, Cr 1.0.  
+- TTE: LVEF 10-15%.  
+- CXR: Pulmonary edema.
+
+**HD2:**  
+- Worsening hypotension, lactic acidosis.  
+- Impella CP placed via L femoral artery.  
+- Labs: Hgb 8.2, LDH 400, haptoglobin 22.  
+- BNP 1840, troponin 0.18.  
+- Intubated for hypoxic resp failure.
+
+**HD3:**  
+- Improved MAP, decreased pressors.  
+- Hgb dropped to 7.8, evidence of hemolysis.  
+- 1U PRBC transfused.  
+- Impella flows stable.  
+- Renal function stable.
+
+**HD4:**  
+- Weaning off Impella, echo: LVEF up to 25%.  
+- Extubated.  
+- Hgb 8.6.  
+- Mild delirium, reoriented.
+
+**HD5:**  
+- Impella removed.  
+- Transitioned to oral diuretics.  
+- Stable, transferred to stepdown.
+
+---
+
+## LABS
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | LDH (U/L) | Haptoglobin (mg/dL) | BNP (pg/mL) | Troponin (ng/mL) |
+|------------|------------|------------|---------|------------|-------------|------------|-------------|-------------|------------|-------------|-----------|---------------------|-------------|-------------------|
+| 5/29 (ED)  | 8.3        | 9.4        | 29      | 168        | 137         | 4.0        | 100         | 18          | 1.0        | 127         | 320       | 54                  | 1840        | 0.14              |
+| 5/30 (HD2) | 8.9        | 8.2        | 25      | 154        | 135         | 3.7        | 98          | 22          | 1.1        | 143         | 400       | 22                  | 2100        | 0.18              |
+| 5/31 (HD3) | 8.1        | 7.8        | 24      | 149        | 138         | 3.9        | 101         | 24          | 1.0        | 139         | 600       | <10                 | 1990        | 0.12              |
+| 6/1 (HD4)  | 7.7        | 8.6        | 27      | 153        | 137         | 4.1        | 99          | 20          | 0.9        | 135         | 410       | n/a                 | 1450        | <0.01             |
+| 6/2 (HD5)  | 7.1        | 9.2        | 29      | 158        | 139         | 4.0        | 100         | 18          | 0.9        | 121         | n/a       | n/a                 | 850         | <0.01             |
+
+---
+
+## VITALS (Selected)
+
+| Date/Time      | Temp (°C) | HR (bpm) | BP (mmHg) | RR | SpO₂ (%) | Pain (0-10) |
+|----------------|-----------|----------|-----------|----|----------|-------------|
+| 5/29 08:22     | 37.0      | 120      | 82/48     | 26 | 87       | 2           |
+| 5/30 04:15     | 37.1      | 105      | 95/60     | 22 | 92       | 0           |
+| 5/31 11:00     | 36.8      | 98       | 110/68    | 18 | 96       | 1           |
+| 6/1 09:00      | 36.7      | 92       | 117/70    | 16 | 98       | 0           |
+| 6/2 07:45      | 36.9      | 86       | 124/76    | 14 | 98       | 0           |
+
+---
+
+## IMAGING
+
+- **TTE (5/29):** LVEF 10-15%. Global hypokinesis. No valvular vegetations.
+- **TTE (6/1):** LVEF 25%. Mild improvement.
+- **CXR (5/29):** Pulmonary edema, small bilateral effusions.
+- **CXR (6/1):** Improved vascular congestion.
+
+---
+
+## MICROBIOLOGY
+
+- **Respiratory viral PCR:** Rhinovirus/Enterovirus detected.
+- **Blood cultures:** No growth x2.
+- **Procalcitonin:** 0.12 ng/mL.
+
+---
+
+## DISPOSITION/OUTPATIENT PLANS
+
+- Cardiology f/u in 1 week.
+- Repeat TTE as outpatient.
+- Begin cardiac rehab when cleared.
+- Close monitoring for HF recurrence.
+- Continue anemia workup outpatient.
+- Endocrine referral for prediabetes management.
+
+---
+
+**Physician:**  
+Dr. R. Lee, MD  
+MICU/CCU Attending  
+[Signed electronically 2024-06-03 15:24]

@@ -1,0 +1,191 @@
+EPIC EHR - Progress Note
+
+Patient Name: **Alene Lubowitz**  
+MRN: 00247391  
+DOB: 1978-03-12 (Age: 46)  
+Sex: Female  
+Date of Admission: 2024-05-18  
+Date of Service: 2024-05-20  
+Attending: Dr. Julie McNair  
+Consultants: Cardiology, Nephrology, Pain Management, Dentistry  
+Location: MICU  
+
+---
+
+**Chief Complaint:**  
+Acute decompensated heart failure requiring temporary mechanical circulatory support.
+
+---
+
+**HPI:**  
+Alene Lubowitz is a 46-year-old obese female with a complex medical history including chronic intractable migraine, chronic pain, anemia, obesity, hyperlipidemia, and recent drug overdose, who presented to the ED with 2 days of worsening dyspnea, orthopnea, and chest heaviness. She was found to be hypoxic (SpO2 87% RA), tachycardic, and hypotensive (BP 82/53). She had progressive confusion and anuria on arrival. Her exam was notable for JVD, rales, S3, and cool extremities. She was intubated for hypoxic respiratory failure. Initial labs revealed acute kidney injury, elevated troponin, and lactic acidosis. Echo showed severely reduced LV function (EF 18%), moderate RV dysfunction, and global hypokinesis. Cardiology recommended placement of a percutaneous left ventricular assist device (Impella CP). She was transferred to the ICU for advanced heart failure management.
+
+---
+
+**Significant Hospital Events:**
+
+- **Day 1:** Admitted to ICU, intubated, started on norepinephrine, dobutamine, lasix. Impella CP placed via right femoral artery.  
+- **Day 2:** Remained hemodynamically tenuous. Developed oliguric renal failure. Started on CVVH.  
+- **Day 3:** Gradual improvement in perfusion. Weaned norepinephrine.  
+- **Day 4:** Extubated, mentation improved. Impella weaned to P2.  
+- **Day 5:** Impella removed. Transitioned to oral diuretics, uptitrated GDMT.  
+- **Day 6:** Transferred to stepdown.  
+
+---
+
+**Past Medical History:**  
+- Chronic intractable migraine without aura  
+- Chronic pain syndrome  
+- Impaired dentition (impacted molars)  
+- Recurrent drug overdose  
+- Multiple pregnancies, 1 miscarriage, fetal complications  
+- Anemia  
+- Acute bronchitis, viral pharyngitis  
+- Obesity (BMI 30+)  
+- Hyperlipidemia  
+- Old wrist fracture/subluxation  
+
+**Past Surgical History:**  
+- C-section x2  
+- Dental extraction (pending)  
+
+**Allergies:**  
+- NKDA
+
+**Home Medications (on admission):**  
+- NuvaRing  
+- Levora  
+- Seasonique  
+- Yaz  
+- Natazia  
+- Acetaminophen  
+- Ibuprofen  
+- Simvastatin  
+
+---
+
+**Problem-Based Assessment & Plan**
+
+**1. Cardiogenic Shock secondary to acute decompensated heart failure**
+   - Etiology likely ischemic vs. toxic/metabolic (h/o overdose).
+   - Impella CP placed for temporary circulatory support.
+   - Vasopressors (norepinephrine), inotropes (dobutamine) used.
+   - Serial TTEs: LV function improved to EF 30% by day 5.
+   - Plan: Continue aggressive diuresis, start beta-blocker/ACEi as tolerated, monitor for arrhythmias, daily weights.
+
+**2. Acute Kidney Injury (KDIGO III)**
+   - Likely multifactorial: low perfusion, nephrotoxic insult (possible NSAID abuse).
+   - Oliguric, required CRRT x 48h; now improved, off CRRT.
+   - Plan: Renal dosing of all medications, nephrology f/u, daily BMP.
+
+**3. Chronic pain syndrome / migraines**
+   - Home regimen on hold; acetaminophen prn, avoid NSAIDs.
+   - Pain consult: started on gabapentin, non-pharm modalities.
+   - Plan: Resume migraine prophylaxis after stabilization.
+
+**4. Anemia**
+   - Baseline chronic anemia, Hgb dropped to 7.2 on day 2 (likely hemodilution, critical illness).
+   - 1 unit PRBC transfused on day 3.
+   - Monitor CBC daily, iron panel pending.
+
+**5. Hyperlipidemia**
+   - Simvastatin resumed after transaminases normalized.
+   - Plan: Outpatient lipid clinic referral.
+
+**6. Obesity (BMI 30)**
+   - Monitored for OSA, DVT prophylaxis with heparin.
+   - Dietician consult.
+
+**7. Impaired dentition / impacted molars**
+   - Not addressed during ICU stay; will defer to outpatient.
+
+**8. Drug overdose (remote)**
+   - No acute toxicity on admission tox screen.
+   - Social work, psych consult.
+
+**9. Recent pregnancy/miscarriage history**
+   - Not relevant to current admission.
+
+**10. Acute bronchitis/viral pharyngitis (h/o)**
+   - No evidence of active infection.
+
+---
+
+**Physical Exam (Day 5, post-extubation):**  
+- **Gen:** Awake, NAD  
+- **HEENT:** Poor dentition, oral mucosa moist  
+- **CV:** Irreg rhythm, S3, no murmurs post-Impella  
+- **Lungs:** Bibasilar crackles improved  
+- **Abd:** Soft, NT, no HSM  
+- **Ext:** 1+ pitting edema, no DVT  
+- **Neuro:** AAOx3, CN grossly intact  
+- **Skin:** No breakdown  
+
+---
+
+**LABS**  
+*(selected, see flowsheet for full)*
+
+| Date       | WBC   | Hgb  | Hct  | Plts | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | T bili | Troponin |
+|------------|-------|------|------|------|------|------|------|------|------|------|------|------|------|--------|----------|
+| 5/18 06:00 | 13.2  | 8.3  | 25   | 220  | 139  | 5.5  | 109  | 21   | 41   | 3.1  | 145  | 94   | 101  | 1.2    | 0.98     |
+| 5/19 06:00 | 9.5   | 7.2  | 21   | 215  | 137  | 5.7  | 108  | 19   | 50   | 4.6  | 132  | 65   | 78   | 0.9    | 0.62     |
+| 5/20 06:00 | 8.7   | 8.9  | 26   | 230  | 140  | 4.9  | 107  | 22   | 36   | 2.8  | 119  | 42   | 55   | 0.8    | <0.04    |
+| 5/21 06:00 | 7.6   | 9.8  | 29   | 245  | 142  | 4.4  | 106  | 25   | 23   | 1.7  | 110  | 33   | 30   | 0.7    | <0.04    |
+| 5/22 07:00 | 6.8   | 10.2 |      | 260  | 144  |      | 104  |      | 19   | 1.3  |      |      |      | 0.6    | <0.04    |
+| 5/23 06:30 | 5.2   |      | 32   | 275  | 143  | 4.1  |      | 27   |      | 1.1  | 100  | 28   | 21   |        |          |
+
+*Some values missing due to lab draw issues or hemolysis.*
+
+---
+
+**Imaging:**
+- **CXR (5/18):** Pulm edema, mild cardiomegaly, Impella in situ.
+- **TTE (5/18):** LVEF 18%, global hypokinesis, moderate MR, RV mild hypokinesis.
+- **TTE (5/21):** LVEF 30%, improved wall motion.
+
+---
+
+**Medications (ICU Stay):**
+- Norepinephrine IV
+- Dobutamine IV
+- Furosemide IV → oral
+- Simvastatin 10 mg PO QHS
+- Acetaminophen 650 mg PO/PR q6h prn
+- Gabapentin 100 mg PO TID
+- Heparin SQ
+- Omeprazole 40 mg PO QD
+- Multivitamin
+- Docusate
+
+---
+
+**Discharge Planning:**  
+- Close f/u with HF clinic, nephrology, pain management  
+- Outpatient dental referral  
+- Cardiac rehab  
+- Psych/SW for substance abuse relapse prevention  
+- Home meds resume as tolerated, avoid NSAIDs
+
+---
+
+**Signatures:**  
+Julie McNair, MD  
+ICU Attending  
+2024-05-20 13:22
+
+---
+
+**Additional Flowsheet Data (Select):**
+
+| Date       | Temp (C) | HR | BP      | RR | SpO2 | Pain |
+|------------|----------|----|---------|----|------|------|
+| 5/18 07:00 | 37.9     | 122| 82/53   | 28 | 87   | 8    |
+| 5/19 08:00 | 38.2     | 110| 94/61   | 22 | 92   | 5    |
+| 5/20 06:00 | 37.0     | 90 | 105/72  | 18 | 97   | 2    |
+| 5/21 09:00 | 36.8     | 80 | 112/74  | 16 | 99   | 0    |
+| 5/22 07:00 | 36.7     | 76 | 118/76  | 14 | 99   | 0    |
+
+---
+
+**All flowsheet data available in chart review.**

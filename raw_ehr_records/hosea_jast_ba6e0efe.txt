@@ -1,0 +1,146 @@
+```
+---------------------------------------------------------------------
+Epic EHR - ICU Progress Note
+Patient: Hosea Jast        MRN: 00918433      DOB: 06/30/1924
+Sex: Male                  Attending: Dr. L. Rahman
+Date of Admission: 2024-05-25
+Date/Time of Note: 2024-06-02 08:17
+---------------------------------------------------------------------
+
+ADMISSION SUMMARY:
+92-year-old male w/ hx of CAD, prior MI, HTN, HLD, obesity, s/p appendectomy, chronic sinusitis, prior hip fx, presents w/ acute-on-chronic decompensated heart failure and cardiogenic shock requiring ICU admission. Developed acute pulmonary edema and hypotension refractory to initial medical therapy, requiring temporary mechanical circulatory support (Impella CP) on hospital day 2.
+
+CHIEF COMPLAINT:
+Dyspnea, orthopnea, chest pain, and near-syncope
+
+HPI:
+Mr. Hosea Jast is a 92-year-old male with PMHx significant for CAD (prior MI x2, stents in 2016), HTN, HLD, obesity (BMI 30+), chronic sinusitis, prior appendectomy, and remote hip fracture. Presented to ED with 2 days of worsening SOB, PND, and substernal chest heaviness. He had increasing lower extremity edema and noted decreased PO intake. At home, he is on multiple antihypertensives, dual antiplatelet therapy, and high-intensity statin.
+
+In ED, found to be tachypneic, hypoxic (SpO2 88% RA), BP 82/44 mmHg, HR 108, JVD, rales, and cool extremities. CXR: pulmonary edema. Troponin I mildly elevated. EKG: NSR, Q waves in II/III/aVF. Echo: EF 20%, severe global hypokinesis, moderate MR. Emergent transfer to CCU.
+
+Hospital Day 1: Progressive hypotension, worsening lactic acidosis despite inotropes (dobutamine, norepi). Lactate peaked at 7.5. Decision made to place temporary left-sided heart pump (Impella CP) for cardiogenic shock. Hemodynamics improved post-placement.
+
+Hospital Day 2–5: Slow wean of inotropes, improved end-organ perfusion, but intermittent arrhythmias and AKI. Developed delirium. Volume status managed with IV diuresis, daily weights, and CVP monitoring.
+
+Hospital Day 6: Impella removed; cardiac output stable on minimal support. Transitioned to step-down on hospital day 8.
+
+---------------------------------------------------------------------
+MEDICATIONS (on admission and during ICU stay)
+- Amlodipine/HCTZ/Olmesartan 5/12.5/20 mg PO daily
+- Simvastatin 10 mg PO daily (home, held, then restarted)
+- Atorvastatin 80 mg PO daily (switched from simvastatin for ACS)
+- Clopidogrel 75 mg PO daily
+- Captopril 25 mg PO BID (held during hypotension)
+- Nitroglycerin spray PRN
+- Naproxen sodium 220 mg PO PRN (held)
+- Meperidine 50 mg PO PRN (pain, used x1 for hip pain)
+- Amox/Clav 250/125 mg PO BID (started for sinusitis, d/c after 3 days)
+- IV Furosemide, Metoprolol IV, Dobutamine IV, Norepinephrine IV, Heparin IV (ICU)
+- Electrolyte repletion PRN
+
+---------------------------------------------------------------------
+ALLERGIES: NKDA
+
+---------------------------------------------------------------------
+PAST MEDICAL HISTORY:
+- Coronary artery disease s/p MI x2, stent 2016
+- Hypertension
+- Hyperlipidemia
+- Obesity (BMI >30)
+- Chronic sinusitis
+- Appendectomy (remote)
+- Old whiplash injury, prior wrist sprain, remote hip fracture
+
+PAST SURGICAL HISTORY:
+- Appendectomy (remote)
+- Left hip ORIF (2018)
+
+SOCIAL HISTORY:
+- Lives alone, retired mechanic, ex-smoker (quit 1972), no EtOH, no illicit drugs
+
+FAMILY HISTORY:
+- Father: MI age 67, Mother: HTN, CHF
+
+---------------------------------------------------------------------
+ICU COURSE – DAILY PROGRESS
+Day 1: Admitted to CCU, rapidly worsening CHF/shock. Started on dobutamine, norepi. Foley, A-line, central line placed. CXR: pulmonary edema. Labs: worsening renal function, mild transaminitis.
+Day 2: Persistent shock. Impella CP placed via R femoral artery. O2 sat improved, lactate downtrending.
+Day 3–4: Gradual hemodynamic improvement. Weaned off norepi, then dobutamine. IV diuresis. AKI persists (Cr up to 2.9). Intermittent NSVT on telemetry, managed conservatively.
+Day 5: Impella wean trial. Tolerated. Delirium, managed with reorientation, minimization of sedatives.
+Day 6: Impella removed. Renal function slowly improving. Restarted ACEi.
+Day 7–8: Transferred out of ICU. Ambulating with PT. Weight down 5kg from admission.
+
+---------------------------------------------------------------------
+LABS (selected, ICU course)
+| Date         | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Troponin I (ng/mL) | AST (U/L) | ALT (U/L) | Alb (g/dL) | Lactate (mmol/L) |
+|--------------|------------|------------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|---------------------|-----------|-----------|------------|------------------|
+| 5/25 (ED)    | 11.2       | 13.9       | 255        | 138         | 4.7        | 104         | 23           | 22          | 1.4        | 132         | 0.12                | 28        | 34        | 3.8        | 2.1              |
+| 5/26 (ICU)   | 13.8       | 12.1       | 210        | 134         | 5.4        | 100         | 19           | 38          | 2.7        | 162         | 0.16                | 34        | 41        | 3.2        | 7.5              |
+| 5/27 (ICU)   | 10.7       | 11.7       | 198        | 133         | 5.7        | 98          | 17           | 44          | 2.9        | 148         | 0.13                | 39        | 38        | 2.9        | 5.2              |
+| 5/28 (ICU)   | 9.4        | 11.6       | 215        | 136         | 4.9        | 102         | 21           | 36          | 2.3        | 112         | —                   | 32        | 36        | 3.0        | 2.9              |
+| 5/29 (ICU)   | 8.9        | 12.2       | 228        | 138         | 4.5        | 104         | 24           | 22          | 1.7        | 104         | 0.08                | —         | 34        | 3.5        | 1.8              |
+| 5/30 (Step)  | 7.3        | 12.5       | 235        | 140         | 4.1        | 105         | 25           | 18          | 1.2        | 97          | 0.05                | 27        | —         | 3.9        | 1.2              |
+
+*Missing values indicated by "—".
+---------------------------------------------------------------------
+VITALS (ICU range):
+  - Temp: 36.7–38.0°C
+  - HR: 88–118 bpm
+  - BP: 82/44 (lowest) → 112/66 (post-Impella)
+  - RR: 18–30
+  - SpO2: 88% (on RA, ED) → 96% (4L NC, ICU)
+
+---------------------------------------------------------------------
+PROBLEM-BASED ASSESSMENT & PLAN
+
+1. **Cardiogenic Shock (s/p MI, severe LV dysfunction)**
+   - Required temporary LV assist (Impella CP) for acute decompensation.
+   - Inotropes (dobutamine), vasopressors (norepi), hemodynamic monitoring.
+   - Serial troponins, EKGs, daily TTEs.
+   - Plan: Continue cardiac rehab, up-titrate GDMT as tolerated, consider advanced therapies if recurrent shock.
+
+2. **Acute on Chronic Systolic Heart Failure**
+   - IV diuresis, daily weights, strict I/O.
+   - Transitioned to oral regimen as tolerated.
+   - Plan: Titrate ACEi/BB, close outpatient follow-up.
+
+3. **Acute Kidney Injury (pre-renal, multifactorial)**
+   - Related to low flow state, diuresis, nephrotoxic meds.
+   - Monitored UOP, renal dose dopamine NOT used.
+   - Plan: Monitor renal function, avoid nephrotoxins, nephrology consult PRN.
+
+4. **Arrhythmias (NSVT, PACs)**
+   - Telemetry monitoring, no sustained VT/VF.
+   - Electrolyte repletion.
+   - Plan: Continue monitoring, consider AICD if EF ≤35% at 90 days.
+
+5. **Delirium**
+   - Likely multifactorial: ICU, metabolic derangements, sleep deprivation.
+   - Reorientation, minimize sedatives, PT/OT.
+   - Plan: Monitor, avoid anticholinergics, family at bedside.
+
+6. **Hypertension, Hyperlipidemia, Obesity**
+   - Restarted antihypertensives as BP tolerated.
+   - Transitioned to high-intensity statin for secondary prevention.
+   - Plan: Dietary consult, cardiac rehab.
+
+7. **Chronic Sinusitis, Remote Ortho Injuries**
+   - Treated empirically with 3d Augmentin for acute sx, improved.
+   - No acute ortho complications.
+   - Plan: Outpt ENT follow-up.
+
+8. **Pain (hip, neck)**
+   - Managed with acetaminophen, rare opioid use.
+   - PT/OT for mobilization.
+   - Plan: Titrate pain regimen, avoid NSAIDs.
+
+---------------------------------------------------------------------
+DISPOSITION:
+- To acute rehab vs SNF after step-down.
+- Close cardiology and nephrology follow-up.
+- Advanced care planning discussed with patient/family; DNR/DNI status clarified.
+
+---------------------------------------------------------------------
+Attestation: Dr. L. Rahman (Cardiology, Critical Care)
+```
+[End of note – scroll for additional labs, imaging, and consults]

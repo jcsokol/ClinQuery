@@ -1,0 +1,162 @@
+---
+**Patient Name:** Agustín González  
+**MRN:** 00211739  
+**DOB:** 12/26/1969 (Age 54)  
+**Sex:** Male  
+**Admit Date:** 03/11/2024  
+**Attending:** Dr. J. Alvarez  
+**Service:** Cardiac ICU  
+**Room:** 3ICU-12  
+**Allergies:** NKDA  
+
+---
+
+### CHIEF COMPLAINT
+Progressive shortness of breath, orthopnea, and confusion over 3 days.
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+Mr. Agustín González is a 54-year-old male with a history of traumatic brain injury (TBI), hypertension, prediabetes, anemia, and recurrent viral upper respiratory infections. He presented to the ED with a 3-day history of worsening dyspnea, orthopnea, and intermittent chest discomfort. Family noted increasing confusion and reduced oral intake. No recent fevers. He has been on hydrochlorothiazide for BP control and recently completed a course of amoxicillin-clavulanate for presumed sinusitis.
+
+On arrival, he was tachypneic and mildly hypoxic (O2 sat 89% RA), BP 88/57 mmHg, HR 112. Exam notable for JVD, rales, S3 gallop, and bilateral LE edema. CXR: pulmonary edema. EKG: sinus tachycardia, no STEMI. Troponin mildly elevated. Echo: LVEF 18%, global hypokinesis. He rapidly developed worsening cardiogenic shock refractory to vasopressors, requiring urgent placement of a percutaneous LV assist device (Impella CP) for hemodynamic support. Transferred to CICU.
+
+---
+
+### PAST MEDICAL HISTORY
+- Traumatic brain damage (remote, non-ambulatory, baseline confusion)
+- Hypertension
+- Anemia (chronic, multifactorial)
+- Prediabetes
+- Recurrent viral upper respiratory infections (sinusitis, pharyngitis)
+
+### SURGICAL HISTORY
+- Craniotomy (remote, details unknown)
+
+### SOCIAL HISTORY
+- Lives with daughter, dependent for ADLs
+- No tobacco or alcohol use
+- No illicit drugs
+
+### FAMILY HISTORY
+- Father: MI age 62, DM2
+- Mother: HTN, stroke
+
+### HOME MEDICATIONS
+- Hydrochlorothiazide 25 mg daily
+- Amoxicillin/clavulanate 250/125 mg (completed 7d course 3 days prior)
+
+---
+
+### PHYSICAL EXAM (on CICU admission)
+- **Gen:** Obese male, drowsy, arousable
+- **VS:** T 37.7°C, HR 114, BP 79/50 (on norepinephrine), RR 26, SpO2 94% (2L NC)
+- **CV:** JVD, S3, holosystolic murmur apex, pitting edema to knees
+- **Pulm:** Crackles 2/3 up bilat, decreased BS bases
+- **Neuro:** Nonverbal, responds to pain, baseline per family
+- **Abd:** Soft, NT, mild hepatomegaly
+- **Ext:** Cool, mottled, 3+ pitting edema
+- **Skin:** No rashes, pressure ulcer sacrum stage 1
+
+---
+
+### HOSPITAL COURSE SUMMARY
+- Day 1: Admitted with acute decompensated heart failure and cardiogenic shock. Started norepinephrine, furosemide, O2, broad-spectrum abx (empirically for possible aspiration).  
+- Day 2: Worsening shock, lactic acidosis, anuria. Impella CP placed in cath lab. Improved MAP, reduced vasopressor needs.  
+- Day 3-4: Slow diuresis, extubated, mental status at baseline. Developed AKI (Cr peaked 2.6), improved with volume removal.  
+- Day 5: Impella weaned, explanted. Transitioned to milrinone. Transfused 1U PRBC for Hgb 7.4.  
+- Day 6-7: Stable, stepped down to telemetry.  
+
+---
+
+### LABS
+
+#### Table 1: Hematology & Chemistry Panel (selected days)
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glucose (mg/dL) |
+|------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-----------------|
+| 3/11/24    | 8.7        | 16.4       | 43.5    | 290        | 143         | 4.5        | 111         | 28.8         | 10.4        | 1.2        | 85              |
+| 3/12/24    | 13.2       | 12.8       | 36.2    | 240        | 146         | 4.0        | 109         | 25.0         | 18.0        | 2.4        | 142             |
+| 3/13/24    | 10.9       | 10.3       | 29.7    | 172        | 148         | 5.7        | 112         | 21.0         | 25.2        | 2.6        | 97              |
+| 3/14/24    | 9.4        | 7.4        | 22.0    | 154        | 140         | 4.1        | 106         | 27.4         | 18.6        | 1.8        | 82              |
+| 3/15/24    | 7.8        | 9.9        | 29.4    | 204        | 138         | 4.2        | 104         | 28.7         | 14.0        | 1.4        | -               |
+| 3/16/24    | 8.1        | 10.7       | 32.8    | 222        | 139         | 4.0        | -           | 27.5         | 12.8        | 1.2        | 91              |
+
+#### Table 2: Cardiac and other relevant labs
+
+| Date     | Troponin I (ng/mL) | BNP (pg/mL) | AST (U/L) | ALT (U/L) | Total Bili (mg/dL) | Lactate (mmol/L) |
+|----------|--------------------|-------------|-----------|-----------|--------------------|------------------|
+| 3/11/24  | 0.13               | 3280        | 34        | 22        | 1.1                | 3.8              |
+| 3/12/24  | 0.22               | 4910        | 65        | 43        | 1.8                | 6.2              |
+| 3/13/24  | 0.17               | 2830        | 49        | 35        | 1.2                | 2.1              |
+| 3/14/24  | 0.08               | 1780        | 28        | 19        | 0.9                | 1.3              |
+| 3/15/24  | -                  | 980         | -         | 16        | 0.8                | 1.0              |
+| 3/16/24  | 0.05               | 720         | 22        | 17        | 0.7                | 0.9              |
+
+---
+
+### IMAGING
+- **CXR (3/11/24):** Pulmonary edema, mild cardiomegaly.
+- **Echo (3/11/24):** LVEF 18%, global hypokinesis, mild MR.
+- **Head CT (3/12/24):** Chronic encephalomalacia, no acute findings.
+
+---
+
+### ASSESSMENT & PLAN
+
+#### 1. Cardiogenic Shock / Acute Decompensated Heart Failure  
+- HFrEF (LVEF 18%) likely ischemic vs mixed etiology; presented in cardiogenic shock.  
+- Required temporary LVAD (Impella CP) for hemodynamic support; weaned after 3 days.  
+- Now on milrinone, diuresed, off pressors, improving renal function.  
+- **Plan:** Continue milrinone, uptitrate GDMT as tolerated, salt/fluid restriction, f/u advanced HF. Repeat echo before d/c.
+
+#### 2. Anemia (multifactorial, acute on chronic)  
+- Baseline mild, worsened with acute illness/volume overload, nadir Hgb 7.4, transfused 1U PRBC.  
+- **Plan:** Monitor CBC, iron studies, avoid phlebotomy, f/u GI source if persistent.
+
+#### 3. Acute Kidney Injury  
+- Likely pre-renal (cardiogenic), improved with diuresis and improved perfusion.  
+- **Plan:** Monitor UOP, daily lytes, nephrology consult if not improving.
+
+#### 4. Traumatic Brain Injury (remote, with baseline cognitive impairment)  
+- No acute changes on imaging.  
+- **Plan:** Maintain cerebral perfusion, avoid hypotension/hypoxia. PT/OT consult.
+
+#### 5. Hypertension  
+- Off anti-HTN meds during shock; to restart as tolerated.  
+- **Plan:** Restart HCTZ when stable, close BP monitoring.
+
+#### 6. Prediabetes  
+- Mildly elevated glucose at baseline, stable during admission.  
+- **Plan:** Monitor, no acute intervention.
+
+#### 7. Recent Upper Respiratory Infection  
+- Completed abx for presumed sinusitis/pharyngitis; no current evidence of infection.  
+- **Plan:** Supportive, monitor for secondary infection.
+
+#### 8. Pressure Ulcer, Sacrum (stage 1)  
+- Developed during ICU stay.  
+- **Plan:** Pressure offloading, wound care, nutrition.
+
+#### 9. DVT Prophylaxis  
+- On heparin SQ.
+
+#### 10. Disposition  
+- Step-down to telemetry, consider advanced HF therapies, assess for rehab placement.
+
+---
+
+### TRENDS/NOTES
+- Hemodynamics stabilized post-Impella.
+- Creatinine peaked, now improving.
+- Mental status at baseline.
+- Will arrange family meeting re: long-term prognosis and goals of care.
+
+---
+
+**Signed:**  
+J. Alvarez, MD  
+Cardiology/Critical Care  
+03/16/2024 14:12
+
+---

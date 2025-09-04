@@ -1,0 +1,206 @@
+**EPIC EHR - INPATIENT PROGRESS NOTE**
+
+**Patient Name:** Tresa Mosciski  
+**MRN:** 00258451  
+**DOB:** 08/11/1927  
+**Sex:** Female  
+**Date of Admission:** 05/14/2024  
+**Attending Physician:** Dr. J. Samuels  
+**Location:** CVICU, Room 22B
+
+---
+
+### CHIEF COMPLAINT
+Unresponsive at home, found pulseless. Brought to ED by EMS. ROSC achieved after ACLS. Admitted for post-cardiac arrest care.
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+Ms. Tresa Mosciski is a 96-year-old woman with a history of chronic congestive heart failure (CHF), coronary artery disease (CAD), prior cardiac arrest, and multiple comorbidities (see PMHx below), who was found unresponsive at home by her daughter. EMS noted agonal respirations and pulselessness; CPR initiated, defibrillation x2 for ventricular fibrillation, and return of spontaneous circulation (ROSC) after ~12 minutes. She was intubated in the field and brought to the ED. Initial rhythm was VF, converted to sinus tachycardia post-shock. In ED, she remained hypotensive despite fluids and pressors; bedside echo showed severe global LV hypokinesis, LVEF ~15%. Decision made for temporary left-sided ventricular assist device (Impella CP) placement for cardiogenic shock. Transferred to CVICU for ongoing management.
+
+---
+
+### PAST MEDICAL HISTORY
+- Chronic CHF (EF ~45% baseline, now severely reduced)
+- Coronary artery disease, s/p PCI 2019
+- Cardiac arrest (prior episode 2021, no ICD due to age/frailty)
+- Prediabetes
+- Drug overdose (acetaminophen/dextromethorphan/doxylamine, accidental, 2022)
+- Viral sinusitis, acute bronchitis, viral pharyngitis (remote)
+- Polyp of colon, removed 2020 (benign)
+- Sprain of ankle, laceration of thigh (remote)
+
+---
+
+### PAST SURGICAL HISTORY
+- PCI x2 (2015, 2019)
+- Colon polypectomy (2020)
+
+---
+
+### SOCIAL HISTORY
+- Lives with daughter
+- Former smoker (quit 1978)
+- No EtOH, no illicit drug use
+
+---
+
+### FAMILY HISTORY
+- Father: MI at 74
+- Mother: CHF, DM2
+
+---
+
+### ALLERGIES
+- NKDA
+
+---
+
+### MEDICATIONS AT HOME
+- Naproxen sodium 220mg PO PRN
+- Acetaminophen/dextromethorphan/doxylamine syrup PRN
+- Acetaminophen 325mg PO PRN
+- Metoprolol succinate 100mg daily
+- Lasix 40mg daily
+- Clopidogrel 75mg daily
+- Simvastatin 20mg nightly
+- Amlodipine 5mg daily
+- Nitroglycerin spray PRN
+- Furosemide 10mg/mL IV (rare use)
+
+---
+
+### HOSPITAL COURSE (05/14/24 – 05/18/24)
+
+**05/14 (Admission):**
+- ROSC after out-of-hospital cardiac arrest (VF).
+- Intubated, sedated. Initial labs: lactate 7.2, troponin 0.24 → 0.37, BNP 1450.
+- CXR: bilateral pulmonary edema.
+- Echo: LVEF 15%, severe global hypokinesis.
+- Started on norepinephrine, dobutamine. Impella CP placed by interventional cardiology for cardiogenic shock, good flows achieved.
+- Empiric cefepime/vancomycin for possible aspiration pneumonia.
+
+**05/15:**
+- Remains intubated, minimal spontaneous movement. EEG: diffuse slowing, no seizures.
+- Renal function stable, mild transaminitis.
+- On Impella, MAPs 70-75, weaned off norepinephrine.
+- Lactate downtrending, urine output adequate.
+
+**05/16:**
+- Neurologically: localizes to pain, GCS 8T.
+- Impella support ongoing, LVEF improved to 25% on repeat echo.
+- Lasix IV for fluid overload, net negative 1.6L.
+- Extubation attempted but failed, reintubated for hypoxia.
+
+**05/17:**
+- Impella weaning trial started. LVEF up to 32%.
+- Sedation lightened, following simple commands.
+- Infectious workup negative, abx stopped.
+- Electrolytes repleted, mild hypoMg.
+
+**05/18:**
+- Impella explanted by cardiology after hemodynamic stability achieved.
+- Extubated successfully to HFNC.
+- Transferred to stepdown unit for cardiac rehab planning.
+
+---
+
+### PROBLEM-BASED ASSESSMENT & PLAN
+
+#### 1. **Cardiogenic Shock s/p Cardiac Arrest**
+- Out-of-hospital VF arrest, required Impella for hemodynamic support.
+- **Plan:** Continue close hemodynamic monitoring. Echo daily. Consider long-term advanced therapies (LVAD not candidate, age/frailty). Optimize GDMT for CHF.
+
+#### 2. **Acute on Chronic Systolic Heart Failure**
+- Baseline EF ~45%, now severely reduced post-arrest.
+- **Plan:** Continue IV Lasix, monitor weights/I&Os. Titrate beta-blocker, ACEi/ARB if tolerated. Daily BNP, echo.
+
+#### 3. **Acute Respiratory Failure**
+- Intubated for airway protection, failed extubation x1, successful extubation on 5/18.
+- **Plan:** Pulmonary hygiene, HFNC, incentive spirometry, monitor ABGs.
+
+#### 4. **Renal Dysfunction**
+- Mildly decreased GFR, stable creatinine.
+- **Plan:** Monitor daily labs, avoid nephrotoxins, adjust meds for renal dosing.
+
+#### 5. **Transaminitis**
+- Mild elevation in AST/ALT, likely ischemic hepatopathy.
+- **Plan:** Monitor LFTs q48h, trend down expected.
+
+#### 6. **Prediabetes**
+- Glucose well-controlled.
+- **Plan:** Monitor FS glucose, no insulin needed.
+
+#### 7. **Aspiration Pneumonia (suspected, not confirmed)**
+- Started on empiric abx, stopped after negative cultures.
+- **Plan:** Continue supportive care.
+
+#### 8. **Drug Overdose (remote, not related to current admission)**
+- No acute toxicity.
+
+#### 9. **Other Comorbidities:**
+- Colon polyp (benign, removed 2020)
+- Remote viral URIs, ankle sprain, thigh lac
+
+---
+
+### VITALS SUMMARY (ICU Days 1–5)
+
+| Date       | Temp (C) | HR | BP        | RR | SpO2 | MAP | Weight (kg) |
+|------------|----------|----|-----------|----|------|-----|-------------|
+| 05/14/24   | 37.8     | 104| 78/46     | 20 | 98%  | 59  | 75.1        |
+| 05/15/24   | 38.2     | 96 | 92/54     | 16 | 97%  | 67  | 74.7        |
+| 05/16/24   | 37.6     | 88 | 104/66    | 18 | 98%  | 74  | 73.9        |
+| 05/17/24   | 37.2     | 82 | 110/74    | 15 | 98%  | 80  | 72.8        |
+| 05/18/24   | 36.8     | 76 | 116/78    | 15 | 99%  | 86  | 72.1        |
+
+---
+
+### LABS
+
+**CBC / Chemistries / Cardiac Markers**
+
+| Date      | WBC  | Hgb  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | BNP    | AST  | ALT  | Alk Phos | Tbili | Alb   |
+|-----------|------|------|------|------|------|------|------|------|------|------|----------|--------|------|------|----------|-------|-------|
+| 5/14      | 6.1  | 17.2 | 241  | 139  | 4.4  | 108  | 21   | 8    | 0.51 | 99   | 0.24     | 1450   | 34   | 54   | 61       | 0.95  | 3.6   |
+| 5/15      | 7.3  | 16.8 | 210  | 137  | 4.1  | 105  | 19   | 10   | 0.62 | 108  | 0.37     | 1200   | 41   | 60   | 73       | 1.13  | 3.4   |
+| 5/16      | 8.2  | 15.9 | 189  | 135  | 3.7  | 102  | 18   | 12   | 0.76 | 115  | 0.22     | 980    | 49   | 58   | 88       | 1.04  | 3.2   |
+| 5/17      | 7.1  | 15.5 | 198  | 137  | 3.9  | 104  | 20   | 11   | 0.80 | 112  | 0.16     | 740    | 38   | 51   | 81       | 0.92  | 3.5   |
+| 5/18      | 6.8  | 15.2 |      | 138  | 4.0  | 106  |      | 9    | 0.72 | 98   | 0.09     |        | 35   | 44   |          |       | 3.7   |
+
+---
+
+### MICROBIOLOGY
+- Blood cultures x2: No growth (48h)
+- Sputum: No growth
+- Urine: Negative
+
+---
+
+### IMAGING
+- **CXR 5/14:** Bilateral pulmonary edema, small bilateral effusions.
+- **CXR 5/16:** Improved vascular congestion, mild atelectasis.
+- **Echo 5/14:** LVEF 15%, severe global hypokinesis.
+- **Echo 5/17:** LVEF 32%, moderate global dysfunction.
+
+---
+
+### PROCEDURES
+- Emergent intubation (field)
+- Temporary LVAD (Impella CP) placement (5/14)
+- Impella explant (5/18)
+
+---
+
+### DISPOSITION
+- Transferred stepdown unit for further cardiac rehab and optimization of medical therapy. Palliative care consult for goals of care due to advanced age and heart failure.
+
+---
+
+**Electronic Signature:**  
+Dr. J. Samuels, MD  
+CVICU – 05/18/2024 12:04 PM
+
+---
+
+**END OF NOTE**

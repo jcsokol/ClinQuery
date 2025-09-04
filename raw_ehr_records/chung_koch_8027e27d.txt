@@ -1,0 +1,173 @@
+---
+**Patient Name:** Chung Koch  
+**MRN:** 20439945  
+**DOB:** 1988-01-05  
+**Sex:** Female  
+**Admit Date:** 2024-05-14  
+**Attending:** Dr. J. Patel  
+**Service:** MICU/Cardiology  
+**Allergies:** NKDA  
+**Code Status:** Full Code
+
+---
+
+**Admitting Diagnosis:**  
+- Cardiogenic shock secondary to acute decompensated heart failure, likely ischemic, requiring temporary mechanical circulatory support (Impella CP).
+
+**Relevant Past Medical History:**  
+- Chronic intractable migraine without aura  
+- Chronic pain  
+- Rheumatoid arthritis  
+- Hypertension  
+- Drug overdose (remote)  
+- Recurrent acute bronchitis  
+- History of viral sinusitis  
+- Three prior normal pregnancies  
+- Impacted molars
+
+**Home Medications:**  
+- Hydrochlorothiazide 25 mg PO daily  
+- Seasonique 91 Day Pack  
+- Medroxyprogesterone acetate 150 mg/mL IM q3mo  
+- NuvaRing (used intermittently)  
+- Acetaminophen 325 mg PO PRN  
+- Naproxen 500 mg PO BID  
+- Methotrexate 10 mg PO weekly  
+- Levora 0.15/30 28 Day Pack
+
+---
+
+**Hospital Course (ICU Days 1–8):**
+
+**Day 0 (ED Presentation):**  
+39F presents with acute-onset chest pressure, orthopnea, and progressive dyspnea x 3 days. Initial BP 82/55, HR 122, RR 26, O2 sat 89% on RA, temp 37.4°C. Exam: JVD, diffuse crackles, cold/clammy extremities. EKG: sinus tachycardia, nonspecific ST/T changes. Troponin I 3.2 ng/mL (↑), BNP 1840 pg/mL (↑). CXR: pulmonary edema. Echo: severe global hypokinesis, LVEF 18%. 
+
+**Day 1:**  
+Transferred to MICU for management of cardiogenic shock. Given norepinephrine, dobutamine, IV Lasix, and noninvasive ventilation. Remained hypotensive, anuric, rising lactate. Cardiology consulted, decision made for temporary LV mechanical support. Impella CP inserted via femoral approach in cath lab. Hemodynamics improved. Started on heparin drip.
+
+**Day 2-5:**  
+- Ongoing mechanical support, slow improvement in end-organ perfusion.  
+- Developed mild hemolysis (plasma-free Hgb 56 mg/dL, LDH 950 U/L).  
+- Monitored for hemolysis/bleeding.  
+- Weaned off vasopressors by Day 4.  
+- Developed fever (Tmax 38.9°C) on Day 3, blood cultures drawn, empiric vancomycin/cefepime started.  
+- Impella weaned and explanted on Day 5 after echo showed LVEF 32% and stable hemodynamics.
+
+**Day 6-8:**  
+- Gradual transition to oral heart failure regimen (metoprolol, sacubitril-valsartan, spironolactone, furosemide).  
+- Renal function improved, urine output normalized.  
+- Infectious workup negative, abx d/c’d.  
+- Significant deconditioning noted; PT/OT consulted.
+
+**Discharge Planning:**  
+- Anticoagulation bridge to warfarin due to LV thrombus seen on Day 6 echo.  
+- Follow-up with heart failure, rheumatology, and dental.
+
+---
+
+# Assessment & Plan
+
+**1. Cardiogenic Shock, acute decompensated HF (new systolic dysfunction):**  
+- Etiology: likely ischemic, no prior cardiac history.  
+- Supported with Impella CP x 5 days; weaned successfully.  
+- Now on oral GDMT; continue uptitration as tolerated.  
+- Monitor volume status, tele, and daily weights.  
+- Anticoagulate for LV thrombus.
+
+**2. Acute Kidney Injury (prerenal, resolved):**  
+- Multifactorial: low flow, diuretics.  
+- Renal function improved post-Impella.  
+- Monitor creatinine and adjust diuretic dose.
+
+**3. Fever/possible sepsis (Day 3, now resolved):**  
+- Empiric abx given, cultures negative, no source found.  
+- No further fevers, WBC normalized.
+
+**4. Chronic pain/chronic migraine:**  
+- Continue home acetaminophen and naproxen PRN.  
+- Avoid NSAIDs if renal function worsens.  
+- Neurology to follow outpatient.
+
+**5. Rheumatoid Arthritis:**  
+- Hold methotrexate during acute illness; resume after discharge if LFTs stable.  
+- Rheum to f/u.
+
+**6. Hypertension:**  
+- On home HCTZ, now on BB/ACEi; monitor BP, may need to d/c HCTZ if hypotensive.
+
+**7. Gynecologic history (contraceptives):**  
+- Off hormonal contraception during acute illness; OB/GYN f/u for plan.
+
+**8. Dental:**  
+- Impacted molars noted on exam, no acute infection; refer to dental.
+
+**9. Deconditioning:**  
+- PT/OT to evaluate and treat.
+
+**10. DVT prophylaxis:**  
+- On heparin for LV thrombus, mechanical prophylaxis otherwise.
+
+**11. Psychosocial:**  
+- Social work consult; patient anxious about prognosis and unable to care for children during recovery.
+
+---
+
+## ICU Lab Summary
+
+| Date      | WBC (10^3/uL) | Hgb (g/dL) | Plt (10^3/uL) | Na (mmol/L) | K (mmol/L) | Cr (mg/dL) | BUN (mg/dL) | AST (U/L) | ALT (U/L) | Troponin I (ng/mL) | Lactate (mmol/L) |
+|-----------|:-------------:|:----------:|:-------------:|:-----------:|:----------:|:----------:|:-----------:|:---------:|:---------:|:------------------:|:----------------:|
+| 5/14      | 14.2          | 13.9       | 182           | 133         | 5.2        | 1.9        | 38          | 44        | 39        | 3.2                | 4.9              |
+| 5/15      | 12.8          | 13.6       | 166           | 135         | 4.7        | 1.5        | 29          | 51        | 41        | 2.1                | 3.2              |
+| 5/16      | 10.3          | 12.9       | 154           | 137         | 4.1        | 1.3        | 25          |           |           | 1.4                | 2.1              |
+| 5/17      | 7.9           | 12.6       | 149           | 138         | 3.9        | 1.1        | 19          | 38        | 37        | 0.5                | 1.2              |
+| 5/18      | 6.2           | 12.5       | 157           | 139         | 4.3        | 1.0        | 16          | 31        |           | <0.01              | 0.7              |
+| 5/19      | 5.2           | 12.9       | 176           | 140         | 4.2        | 0.9        | 15          |           |           | <0.01              | 0.7              |
+| 5/20      | 5.0           | 13.1       | 184           | 141         | 4.1        | 0.8        | 15          | 28        | 32        | -                  | 0.7              |
+
+*Some values not obtained on all dates. Additional labs: LDH peaked at 950 U/L (Day 3), plasma-free Hgb 56 mg/dL (Day 3), BNP 1840 pg/mL (Day 0), INR 1.2–2.1 (on anticoagulation).
+
+---
+
+## Procedures
+
+- **Impella CP placement** (5/14) via right femoral artery, uneventful.
+- **Impella explant** (5/19) at bedside, sterile technique.
+- **Central line, arterial line** placed for monitoring.
+- **TTE x 2**: Severe LV dysfunction (Day 0), improved to mod-severe (Day 5).
+
+---
+
+## Imaging
+
+- **CXR:** Initial: pulmonary edema. Post-Impella: improving infiltrates.
+- **Echo:** See above.
+
+---
+
+## Discharge Medications (anticipated):
+
+- Metoprolol succinate 25 mg PO daily  
+- Sacubitril-valsartan 24/26 mg PO BID  
+- Spironolactone 25 mg PO daily  
+- Furosemide 20 mg PO daily  
+- Warfarin (goal INR 2–3, bridge with heparin)  
+- Acetaminophen 325 mg PO PRN  
+- Naproxen 500 mg PO PRN (avoid if renal function worsens)  
+- Methotrexate 10 mg PO weekly (hold if LFTs ↑)  
+- Multivitamin
+
+---
+
+## Follow-up:
+
+- Heart Failure Clinic (1 week)  
+- Rheumatology (2 weeks)  
+- Dental (as outpatient)  
+- Social Work
+
+---
+
+**Physician:** J. Patel, MD  
+**Date/Time:** 2024-05-21 10:35
+
+---

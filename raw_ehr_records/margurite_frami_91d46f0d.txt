@@ -1,0 +1,204 @@
+---
+**Patient Name:** Margurite Frami  
+**MRN:** 0092354-FA  
+**DOB:** 07/28/1988  
+**Sex:** Female  
+**Admit Date:** 03/15/2024  
+**Attending:** Dr. L. Henry  
+**Location:** MICU, Room 14  
+**Consults:** Cardiology, Cardiac Surgery, Nephrology, OB/GYN (remote)  
+**Reason for Admission:** Acute decompensated heart failure with cardiogenic shock, s/p Impella CP placement
+
+---
+
+## Problem-Based Assessment & Plan
+
+---
+
+### 1. **Cardiogenic Shock / Acute Decompensated Heart Failure**
+**Assessment:**  
+38F with h/o hypertension, obesity, multiple prior pregnancies complicated by preeclampsia, presents with 1 week of progressive dyspnea, orthopnea, and lower extremity edema. On arrival, hypotensive (MAP 58), tachycardic (HR 122), hypoxic (SpO2 89% RA), rales bilaterally, JVD, pitting edema. CXR: pulmonary edema. TTE: LVEF ~15%, global hypokinesis, mild MR. BNP 1920, troponin mildly elevated (0.13→0.17). Lactate 3.9. Started on norepinephrine, dobutamine, furosemide drip. Worsening shock and end-organ hypoperfusion → Impella CP placed on HD2.  
+
+**Plan:**  
+- Maintain Impella support, monitor flows daily  
+- Wean vasopressors/inotropes as tolerated  
+- Daily TTE for LV recovery  
+- Strict I/O, daily weights, fluid restriction  
+- Continue IV Lasix, titrate to net negative  
+- Consider advanced therapies (LVAD eval), transplant if no improvement  
+- Serial troponin/BNP  
+- Cardiac rehab consult PRN  
+- DVT ppx: SCDs, heparin SQ  
+- Telemetry, monitor for arrhythmia  
+
+---
+
+### 2. **Hypertension / Volume Overload**
+**Assessment:**  
+Chronic poorly controlled HTN, likely contributed to cardiac dysfunction. Now complicated by acute volume overload, requiring aggressive diuresis.  
+
+**Plan:**  
+- Hold oral antihypertensives while on vasoactive support  
+- IV Lasix infusion, titrate to UOP >1cc/kg/hr  
+- Monitor electrolytes q8h  
+- Slow transition to oral agents as shock resolves  
+- Low sodium diet  
+
+---
+
+### 3. **Obesity (BMI 30+)**
+**Assessment:**  
+BMI 29-31 during stay. Increases risk for HF, complicates volume management.  
+
+**Plan:**  
+- Nutrition consult  
+- Calorie- and sodium-restricted diet  
+- Encourage mobility/PT as tolerated  
+- Monitor for wound/skin complications  
+
+---
+
+### 4. **Renal Dysfunction / AKI on CKD?**
+**Assessment:**  
+Rising creatinine (see labs), oliguria after admission. Likely multifactorial: cardiorenal syndrome, hypoperfusion, diuretics.  
+
+**Plan:**  
+- Nephrology following  
+- Strict I/O, daily weights  
+- Hold nephrotoxins  
+- Renal dose adjust all meds  
+- Monitor for need for RRT  
+
+---
+
+### 5. **Anemia of Chronic Disease**
+**Assessment:**  
+H/H trending down, likely multifactorial (hemodilution, CKD, acute illness). No overt bleeding.  
+
+**Plan:**  
+- Monitor CBC daily  
+- Transfuse PRN if Hgb <7 or symptomatic  
+- Iron studies, B12, folate  
+
+---
+
+### 6. **History of Recurrent Pregnancy Complications**
+**Assessment:**  
+Multiple prior pregnancies, several with preeclampsia, one blighted ovum, one first trimester miscarriage, now not currently pregnant (hCG neg). No acute OB concerns but high risk for future.  
+
+**Plan:**  
+- OB/GYN consult for long-term contraception, counseling  
+- Monitor for gynecologic issues  
+
+---
+
+### 7. **Recent/Chronic Infections (Pharyngitis, Sinusitis, Bronchitis)**
+**Assessment:**  
+Remote h/o viral/bacterial URIs, currently no signs of infection. No fevers, procalcitonin WNL.  
+
+**Plan:**  
+- Monitor for secondary infection  
+- Daily temp, WBC  
+- No abx unless new evidence of infection  
+
+---
+
+### 8. **Pain / Sedation / Delirium**
+**Assessment:**  
+Mild pain at Impella insertion site, otherwise comfortable. Occasional mild delirium (ICU).  
+
+**Plan:**  
+- Acetaminophen PRN  
+- Reorient, daily sedation vacation  
+- Minimize benzos  
+- Consult psych PRN for persistent delirium  
+
+---
+
+### 9. **DVT Prophylaxis**
+**Assessment:**  
+High risk due to immobility, obesity, HF.  
+
+**Plan:**  
+- SCDs  
+- Heparin 5000u SQ q8h  
+- Monitor platelets for HIT  
+
+---
+
+### 10. **Social / Discharge Planning**
+**Assessment:**  
+Lives alone, limited family support.  
+
+**Plan:**  
+- Early case management  
+- Explore SNF vs home health  
+- Social work consult  
+
+---
+
+---
+
+## Labs
+
+| Date       | WBC   | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu   | BNP    | Trop   | AST   | ALT   |
+|------------|-------|------|------|------|------|------|------|------|------|------|-------|--------|--------|-------|-------|
+| 3/15/24    | 9.1   | 14.7 | 43   | 310  | 136  | 4.4  | 101  | 22   | 28   | 1.2  | 118   | 1920   | 0.13   | 42    | 38    |
+| 3/16/24    | 10.2  | 13.2 | 39   | 295  | 134  | 4.1  | 98   | 19   | 36   | 1.8  | 134   | 1810   | 0.17   | 61    | 43    |
+| 3/17/24    | 8.8   | 12.5 | 37   | 273  | 133  | 4.7  | 96   | 20   | 41   | 2.3  | 110   | 1600   | 0.14   | 38    | 36    |
+| 3/18/24    | 7.6   |      |      | 250  | 132  | 4.0  |      | 18   | 44   | 2.7  | 105   |        |        |       |       |
+| 3/19/24    | 6.9   | 11.9 | 34   |      | 134  | 3.9  | 99   |      | 39   | 2.1  | 99    | 1380   | 0.08   | 35    | 33    |
+| 3/20/24    | 7.4   | 12.2 | 35   | 238  |      | 4.2  | 101  | 21   | 33   | 1.8  | 88    |        |        | 29    | 28    |
+| 3/21/24    | 8.5   | 12.6 |      | 229  | 136  | 3.8  | 98   | 20   |      | 1.6  | 92    |        | 0.05   | 22    | 21    |
+
+*BNP and troponin checked only on select days. Liver enzymes trended due to hypotension and congestion. Missing labs indicate sample not obtained or hemolyzed.*
+
+---
+
+## ICU Course Summary
+
+- **HD1:** Admitted for acute decompensated HF, severe dyspnea, hypotension. Started on high flow O2, norepinephrine, dobutamine, IV Lasix.  
+- **HD2:** Worsening shock, rising lactate/Cr. Impella CP placed via R femoral artery. Marked hemodynamic improvement; vasopressors weaned over next 24h.  
+- **HD3:** Improved UOP, still requiring high-dose diuresis. Ongoing mild AKI.  
+- **HD4-6:** Gradual improvement in end-organ function. LVEF 25% on TTE by HD6. Impella weaned, removed HD7.  
+- **HD7-8:** Transitioned to oral HF regimen (metoprolol, HCTZ resumed, lisinopril started), off pressors. Mobilized with PT/OT.  
+- **HD9:** Stable, transfer to stepdown pending.
+
+---
+
+## Medications (Current)
+
+- IV Furosemide 80mg q6h  
+- Norepinephrine (off as of HD4)  
+- Dobutamine (off as of HD5)  
+- Hydralazine 10mg IV q8h  
+- Metoprolol succinate 25mg PO qd  
+- Lisinopril 2.5mg PO qd  
+- Acetaminophen 650mg PO q6h PRN  
+- Heparin 5000u SQ q8h  
+- SCDs  
+- Jolivette, etonogestrel implant (contraception, per OB/GYN)  
+
+---
+
+## Vitals (Representative)
+
+- HD2: BP 83/54 (MAP 58), HR 122, RR 26, SpO2 89% RA, Temp 37.8  
+- HD4: BP 104/66 (MAP 78), HR 98, RR 18, SpO2 96% 2L NC  
+- HD7: BP 116/72, HR 84, RR 16, SpO2 98% RA, Temp 37.1  
+
+---
+
+## Discharge Planning
+
+- Anticipate transfer to stepdown, then home with home health  
+- Close f/u with HF clinic, nephrology  
+- Education re: sodium/fluid restriction, daily weights  
+- Advance directives discussed
+
+---
+
+**Attending:** Dr. L. Henry  
+**Date/Time:** 03/21/2024 08:12
+
+---

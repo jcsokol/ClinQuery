@@ -1,0 +1,155 @@
+---
+**Patient Name:** Jaskolski, Tasia  
+**MRN:** 0042395-12  
+**DOB:** 06/24/1964  
+**Sex:** Female  
+**Admit Date:** 2024-04-16  
+**Attending:** Dr. M. Patel (Cardiology)  
+**Location:** MICU, Bed 3  
+**Service:** Cardiology/ICU  
+**Allergies:** NKDA  
+**Code Status:** Full Code  
+**Isolation:** None
+
+---
+
+# ICU Progress Note (Day 8 of Admission)
+
+---
+
+## Reason for Admission
+64-year-old female with obesity, hyperlipidemia, and remote history of miscarriage, presenting with acute decompensated heart failure and cardiogenic shock secondary to NSTEMI. Required temporary left ventricular assist device (Impella CP) placement for hemodynamic support.
+
+---
+
+## Hospital Course Summary
+
+Ms. Jaskolski presented to the ED with 2 days of progressive dyspnea, orthopnea, and lower extremity edema. She was found to be tachypneic, tachycardic, and hypotensive, with elevated JVP and S3 on exam. ECG showed sinus tachycardia, T-wave inversions V2-V5. Troponin peaked at 4.2 ng/mL. Echo: LVEF 18%, global hypokinesis, moderate MR.
+
+She developed worsening cardiogenic shock (SBP 78/50 mmHg, lactate 4.1) despite escalating dobutamine and norepinephrine. Taken to cath lab: no culprit lesion, severe non-ischemic cardiomyopathy suspected. Impella CP placed for hemodynamic support on hospital day 2. Diuresed aggressively, started on goal-directed medical therapy. Complicated by AKI, mild transaminitis, and delirium.
+
+---
+
+## Problem-Based Assessment and Plan
+
+### 1. Cardiogenic Shock / Acute Systolic Heart Failure
+- HFrEF (EF 18%) with acute decompensation
+- Cardiogenic shock requiring temporary LVAD (Impella CP, placed HD2)
+- Weaning Impella: flows at P3, MAP stable 72-78 mmHg, CI 2.3-2.5
+- Plan: Continue hemodynamic monitoring, aim to wean off Impella over next 24-48hrs if stable. Continue GDMT (carvedilol, low-dose lisinopril, spironolactone). Daily TTE.
+
+### 2. Acute Kidney Injury (Stage 2)
+- Likely pre-renal (hypoperfusion, diuresis)
+- Creatinine peaked at 2.99, now trending down (see labs)
+- Strict I/O, hold ACEi while Cr >2.0, monitor lytes
+- Plan: Renal dose adjustment for all meds, nephrology following, avoid nephrotoxins
+
+### 3. Hyperlipidemia
+- On simvastatin 10mg, continue as tolerated
+- Lipids elevated on admission (see labs)
+- Plan: Reassess statin dose after stabilization
+
+### 4. Obesity (BMI 29-31)
+- No acute issues; dietary consult placed
+- Plan: Encourage mobility, DVT prophylaxis
+
+### 5. Delirium
+- Fluctuating attention, sleep-wake disturbance
+- No focal deficit, negative head CT
+- Likely multifactorial (ICU, AKI, meds)
+- Plan: Reorient, minimize sedation, sleep hygiene
+
+### 6. Transaminitis
+- ALT/AST mildly elevated, likely ischemic hepatitis vs. med effect
+- Downtrending, monitor
+
+### 7. Contraception / Gyn history
+- History notable for miscarriage, currently on contraceptives (see med list)
+- No acute GYN issues
+
+### 8. Laceration of foot (remote)
+- Well-healed, no signs of infection
+
+### 9. Acute viral pharyngitis (remote, resolved)
+- Not contributing to current presentation
+
+---
+
+## Vitals (Past 24h)
+| Time        | Temp (C) | HR | BP         | RR | SpO2 | Pain |
+|-------------|----------|----|------------|----|------|------|
+| 04:00       | 37.2     | 98 | 112/64     | 20 | 97%  | 0    |
+| 08:00       | 37.5     | 101| 108/62     | 19 | 96%  | 1    |
+| 12:00       | 37.4     | 104| 104/60     | 18 | 97%  | 2    |
+| 16:00       | 37.3     | 96 | 110/68     | 18 | 98%  | 1    |
+
+---
+
+## Medications (Active)
+- Simvastatin 10mg PO QHS
+- Carvedilol 6.25mg PO BID
+- Spironolactone 25mg PO QD
+- Furosemide 40mg IV Q8H
+- Lisinopril HOLD (AKI)
+- Norepinephrine IV (weaning; off as of HD7)
+- Dobutamine IV (weaning; off as of HD6)
+- Medroxyprogesterone acetate 160mg/1mL IM q3mo
+- Ibuprofen PRN (not used)
+- DVT prophylaxis (heparin 5,000u SQ q8h)
+- PPI for GI prophylaxis
+
+---
+
+## Laboratory Data
+
+### CBC and Chem7
+| Date      | WBC (K) | Hgb (g/dL) | Plt (K) | Na | K   | Cl  | CO2 | BUN | Cr   | Gluc | Ca   |
+|-----------|---------|------------|---------|----|-----|-----|-----|-----|------|------|------|
+| 4/16      | 8.3     | 13.4       | 303     | 137| 5.1 | 106 | 25  | 8   | 2.99 | 90   | 9.9  |
+| 4/17      | 8.9     | 12.9       | 285     | 135| 5.3 | 104 | 23  | 17  | 2.84 | 112  | 9.5  |
+| 4/18      | 9.5     | 12.1       | 277     | 134| 5.5 | 103 | 21  | 23  | 2.77 | 108  | 9.3  |
+| 4/19      | 8.7     | 12.3       | 294     |    | 4.7 | 102 | 22  | 21  | 2.36 | 102  |      |
+| 4/20      | 7.8     | 12.7       | 290     | 137| 4.2 | 104 | 24  | 16  | 1.99 | 98   | 9.6  |
+| 4/21      | 7.2     | 13.0       | 301     | 138|     | 105 | 24  | 13  | 1.65 | 96   | 9.7  |
+| 4/22      | 7.4     | 13.1       | 305     |    |     |     |     |     |      |      |      |
+
+### Additional Labs
+- Troponin I: 0.22 → 4.2 (peak, 4/16), trending down
+- BNP: 2,350 pg/mL (admission)
+- LFTs: AST 26 → 51 (peak 4/17), ALT 25 → 47 (peak 4/17), ALP stable ~89, bili 0.9–1.2
+- Albumin: 5.0 → 4.2 (4/20)
+- Lipid panel: TC 194, LDL 102, HDL 32, TG 177
+
+---
+
+## Imaging
+
+- **Echo (4/16):** EF 18%, global hypokinesis, mod MR, mild TR, RVSP 38
+- **CXR (4/16):** Pulmonary edema, mild cardiomegaly, Impella in place
+- **CT Head (4/19):** No acute findings
+
+---
+
+## Procedures
+
+- **Impella CP placement (4/16):** R femoral access, no complications
+- **Right heart cath (4/16):** PCWP 28, CI 1.7, RAP 16, SVR 2,300
+- Foley catheter placed (removed HD5)
+- Central line (IJ) placed on admission, d/c’d HD6
+
+---
+
+## Disposition
+
+- Continue in MICU, anticipate transfer to stepdown pending Impella wean and renal recovery. SW/Case management following for advanced HF therapy options.
+
+---
+
+## Attestation
+
+Entered by: Dr. M. Patel, Cardiology  
+Date/Time: 2024-04-23 10:12
+
+---
+
+**End of Note**

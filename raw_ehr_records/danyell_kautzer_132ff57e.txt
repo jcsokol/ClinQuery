@@ -1,0 +1,184 @@
+---
+**Patient Name:** Danyell Kautzer  
+**MRN:** 1028945  
+**DOB:** 2003-02-08 (Age: 21)  
+**Sex:** Female  
+**Admit Date:** 2024-05-29  
+**Attending:** Dr. L. Branson  
+**Unit:** MICU  
+**FIN:** 88432017  
+**Primary Team:** Critical Care  
+
+---
+
+## ICU Progress Note  
+**Date:** 2024-06-01  
+**Time:** 09:15  
+
+---
+
+### **Chief Complaint:**  
+Shortness of breath, chest pain, hypotension
+
+---
+
+### **HPI:**  
+21-year-old female with a history of viral sinusitis, otitis media, acute viral pharyngitis, acute bronchitis, and recent normal pregnancy, presents to the ER with 3 days of worsening dyspnea, orthopnea, and intermittent chest tightness. She was initially evaluated for upper respiratory infection but rapidly decompensated with hypotension and hypoxia. On arrival, she was tachycardic, hypotensive (MAP < 60), and hypoxic (SpO2 88% RA). She developed acute pulmonary edema and was transferred to the MICU. TTE showed severe global hypokinesis and LVEF 15%. She was started on inotropes and subsequently required placement of a temporary percutaneous LVAD (Impella CP) for cardiogenic shock.
+
+---
+
+### **Hospital Course Summary:**  
+- **Day 0:** Admitted to MICU, started on norepinephrine and dobutamine for hypotension. Emergent TTE: EF 15%.  
+- **Day 1:** Worsening shock, anuric, lactate uptrending. Impella CP placed at bedside.  
+- **Day 2:** Hemodynamics improved, weaning off norepinephrine. Renal function worsening, started on CRRT.  
+- **Day 3:** Echo: EF improved to 28%. Impella flows stable.  
+- **Day 4:** Weaned off inotropes, extubated. Impella removed.  
+- **Day 5:** Stable, transferred to stepdown.
+
+---
+
+## **Physical Exam (ICU, Day 3):**  
+- **Gen:** Young female, awake, fatigued, on O2.
+- **VS:** T 37.1°C, HR 106, BP 94/52 (MAP 66), RR 22, SpO2 95% 2L NC
+- **CV:** S1/S2, tachycardic, no murmur, Impella in situ.
+- **Resp:** Bibasilar crackles, decreased air entry RLL
+- **Abd:** Soft, NT/ND, +BS
+- **Ext:** No edema, pulses 2+, cap refill <2s
+- **Neuro:** AOx3, moves all extremities
+
+---
+
+## **Assessment & Plan**
+
+### 1. **Cardiogenic Shock – Likely Viral Myocarditis**  
+- Status post Impella CP placement, now hemodynamically improved.
+- Etiology: Suspect viral myocarditis given prodrome, age, preceding URI, and new systolic dysfunction.
+- **Plan:**
+  - Continue hemodynamic monitoring (A-line, CVP)
+  - Serial ECHO: next in 48h
+  - Continue low-dose dobutamine, wean as tolerated
+  - Daily troponin, BNP, lactate
+  - Supportive care: O2, VTE prophylaxis
+  - Infectious workup: respiratory viral panel, blood cultures (pending)
+  - Consult: Cardiology, ID
+
+### 2. **Acute Kidney Injury (AKI) – Likely Ischemic**  
+- Oliguric, Cr uptrending, on CRRT
+- **Plan:**
+  - Continue CRRT, monitor lytes/volume
+  - Renal US to r/o obstruction
+  - Adjust all meds for renal dosing
+
+### 3. **Respiratory Failure**  
+- Initially intubated for hypoxia, now extubated, on O2
+- **Plan:**
+  - Wean O2, pulmonary toilet
+  - CXR daily
+  - Incentive spirometry
+
+### 4. **Recent Normal Pregnancy**  
+- G1P1, delivered 8 weeks ago (no complications)
+- **Plan:**
+  - Monitor for peripartum cardiomyopathy (PP-CMP) as possible etiology
+  - OB consult
+
+### 5. **Infection/Sepsis**  
+- Febrile on admission, WBC uptrending, procalcitonin pending
+- **Plan:**
+  - Broad-spectrum abx (pip/tazo, vanc), de-escalate PRN
+  - Source: likely viral, r/o bacterial superinfection
+
+### 6. **History of Fracture/Sinusitis/Otitis/Pharyngitis/Bronchitis**  
+- No acute symptoms
+- **Plan:** No intervention
+
+### 7. **Pain**  
+- Mild, managed with acetaminophen/ibuprofen PRN  
+- **Plan:** Continue PRN
+
+---
+
+## **Medication Administration Record (MAR) – ICU Stay**
+
+| Date       | Medication              | Dose/Route             | Frequency        | Comments            |
+|------------|-------------------------|------------------------|------------------|---------------------|
+| 5/29/2024  | Norepinephrine          | 0.08 mcg/kg/min IV     | Continuous       | For shock           |
+| 5/29/2024  | Dobutamine              | 5 mcg/kg/min IV        | Continuous       | For inotropy        |
+| 5/29/2024  | Amoxicillin-clavulanate | 875mg/125mg PO         | BID              | Sinusitis hx        |
+| 5/30/2024  | Acetaminophen           | 650mg PO               | q6h PRN          | Mild pain           |
+| 5/31/2024  | Ibuprofen               | 400mg PO               | q8h PRN          | Mild pain           |
+| 5/31/2024  | Natazia                 | 1 tab PO               | Daily            | Contraception       |
+| 5/31/2024  | Vanc/Pip-Tazo           | IV                     | q12h/q8h         | Empiric abx         |
+| ...        | ...                     | ...                    | ...              | ...                 |
+
+---
+
+## **Laboratory Data**
+
+#### CBC & Chem7 (Key labs shown; “—” = not collected)
+
+| Date       | WBC  | Hgb   | Hct   | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|------|-------|-------|------|------|------|------|------|------|------|------|
+| 5/29/2024  | 4.3  | 12.1  | 37.9  | 310  | 138  | 4.2  | 104  | 23   | 16   | 1.1  | 102  |
+| 5/30/2024  | 8.9  | 10.8  | 33.2  | 275  | 134  | 5.1  | 101  | 19   | 30   | 2.2  | 117  |
+| 5/31/2024  | 12.7 | 9.6   | 29.1  | 210  | 130  | 5.8  | 98   | 17   | 48   | 3.7  | 144  |
+| 6/01/2024  | 9.1  | 11.3  | 34.5  | 244  | 136  | 4.6  | 102  | 22   | 25   | 1.6  | 110  |
+| 6/02/2024  | —    | 12.2  | 36.7  | 255  | 139  | 4.1  | —    | —    | 18   | 1.3  | 94   |
+
+#### Additional Labs
+
+| Date       | Troponin | BNP    | Lactate | AST   | ALT   | Procalcitonin |
+|------------|----------|--------|---------|-------|-------|---------------|
+| 5/29/2024  | 0.17     | 2,093  | 4.1     | 38    | 41    | 0.21          |
+| 5/30/2024  | 0.23     | 6,112  | 6.7     | 81    | 90    | 0.18          |
+| 5/31/2024  | 0.14     | 3,900  | 2.8     | 56    | 61    | 0.12          |
+| 6/01/2024  | 0.08     | 1,850  | 1.7     | —     | —     | —             |
+
+---
+
+## **Imaging**
+
+- **5/29/2024 – CXR:** Bilateral pulmonary edema, small right pleural effusion
+- **5/29/2024 – TTE:** LVEF 15%, global hypokinesis, no LV thrombus
+- **5/31/2024 – TTE:** LVEF improved to 28%, Impella in place
+
+---
+
+## **Consults**
+
+- **Cardiology:** Ongoing, agrees with viral myocarditis dx, recommends supportive care, Impella
+- **Nephrology:** For CRRT management
+- **Infectious Disease:** For viral vs. bacterial myocarditis
+- **OB:** Peripartum cardiomyopathy r/o
+
+---
+
+## **Procedures**
+
+- **5/30/2024:** Impella CP placement (L femoral approach)
+- **5/30/2024:** Right IJ central line
+- **5/30/2024:** A-line placement
+
+---
+
+## **Disposition**
+
+- **ICU, Day 5:** Hemodynamically stable, Impella removed, CRRT discontinued, transferred to stepdown unit for ongoing monitoring.
+
+---
+
+## **Summary of Key Events**
+- Rapid decompensation with presumed viral myocarditis → cardiogenic shock.
+- Temporary LVAD (Impella) placed, successful recovery.
+- Complicated by AKI requiring CRRT, now improving.
+- No evidence of ongoing infection; high suspicion for viral etiology.
+- Multidisciplinary management.
+
+---
+
+**Signed:**  
+L. Branson, MD  
+Critical Care  
+2024-06-01 09:15
+
+---

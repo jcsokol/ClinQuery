@@ -1,0 +1,156 @@
+EPIC EHR – Inpatient Chart  
+Patient: Gretta Hermiston  
+MRN: 00122983  
+DOB: 07/28/1999 (Age: 24)  
+Sex: Female  
+Admission Date: 03/12/2024  
+Attending: Dr. Anna R. Patel  
+Location: MICU, Bed 4A
+
+---
+
+**ADMISSION DIAGNOSES:**  
+1. Acute decompensated heart failure with cardiogenic shock  
+2. Hypertension  
+3. Acute bronchitis  
+4. Acute viral pharyngitis  
+5. Streptococcal pharyngitis  
+6. Viral sinusitis  
+7. Acute kidney injury  
+8. Supraventricular tachycardia (hospital-acquired)  
+9. Hypotension, post-cardiac support  
+10. Mild transaminitis  
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+**HPI:**  
+24-year-old female with a history of hypertension (on multiple antihypertensives) and recent upper respiratory tract infections, presented with 3 days of progressive dyspnea, orthopnea, non-productive cough, and malaise. She reported pleuritic chest discomfort, palpitations, and presyncopal episodes at home. On arrival, she was hypotensive (BP 82/49 mmHg), tachycardic (HR 126), with cool extremities and JVD. CXR showed pulmonary edema; bedside echo: severely reduced LVEF (~20%), global hypokinesis, mild LV dilatation. Labs notable for elevated BNP, troponin I, mild AKI.
+
+Patient developed worsening hemodynamic instability within hours of presentation. She was transferred to the MICU and started on dobutamine and norepinephrine. Due to refractory shock, emergently underwent placement of a percutaneous left ventricular assist device (Impella CP) for temporary mechanical circulatory support. She gradually stabilized over the next 6 days, device weaned and removed on day 7. Complicated by transient AKI and mild transaminitis. Weaned off pressors by day 8. Serial ECHO showed partial recovery of LVEF to 35%. Discharge planning ongoing.
+
+---
+
+## VITALS (Selected)
+
+| Date       | Temp (°C) | HR (bpm) | BP (mmHg) | RR | SpO2 | Pain  |
+|------------|-----------|----------|-----------|----|------|-------|
+| 3/12/24 08:14 | 37.2      | 126      | 82/49     | 26 | 92%  | 2/10  |
+| 3/13/24 05:10 | 37.4      | 122      | 88/56     | 22 | 94%  | 3/10  |
+| 3/14/24 09:38 | 37.1      | 110      | 96/60     | 18 | 97%  | 1/10  |
+| 3/15/24 11:22 | 36.9      | 102      | 110/68    | 16 | 98%  | 0     |
+| 3/16/24 07:51 | 36.8      | 96       | 112/72    | 14 | 99%  | 0     |
+| 3/17/24 10:04 | 36.7      | 88       | 116/74    | 14 | 98%  | 0     |
+
+---
+
+## LABS
+
+### CBC and CHEM7 (Selected)
+
+| Date/Time     | WBC (K) | Hgb (g/dL) | Hct (%) | Plt (K) | Na  | K   | Cl  | CO2 | BUN | Cr  | Glu |
+|---------------|---------|------------|---------|---------|-----|-----|-----|-----|-----|-----|-----|
+| 3/12/24 09:00 | 8.3     | 15.9       | 43.8    | 394     | 133 | 4.2 | 100 | 22  | 18  | 1.2 | 98  |
+| 3/13/24 05:00 | 9.0     | 14.7       | 40.1    | 372     | 131 | 4.5 | 99  | 19  | 29  | 2.1 | 105 |
+| 3/14/24 09:00 | 10.1    | 13.8       | 37.8    | 345     | 135 | 4.0 | 98  | 21  | 38  | 2.9 | 112 |
+| 3/15/24 09:30 | 9.4     | 14.4       | 39.2    | 362     | 136 | 4.2 | 99  | 22  | 28  | 2.0 | 108 |
+| 3/16/24 07:45 | 8.7     | 14.9       | 41.0    | 370     | 137 | 4.1 | 101 | 23  | 21  | 1.6 | 101 |
+| 3/17/24 08:00 | 7.8     | 15.2       | 42.2    | 388     | 138 | 4.0 | 103 |     | 16  | 1.2 | 98  |
+
+#### Additional Labs:
+- **BNP:** 3,488 pg/mL (admission)
+- **Troponin I:** 0.19 → 0.22 → 0.17 ng/mL (peaked 3/12/24)
+- **AST:** 99 U/L (peak), 45 U/L (3/17)
+- **ALT:** 76 U/L (peak), 32 U/L (3/17)
+- **Total bili:** 1.6 mg/dL (peak), 0.8 mg/dL (3/17)
+- **INR:** 1.1
+- **Albumin:** 3.7 g/dL
+- **Lactate:** 3.2 mmol/L (admission), normalized by 3/14
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. Acute Decompensated Heart Failure with Cardiogenic Shock
+- **Assessment:** 24F with known HTN, presenting with new severe LV dysfunction (likely viral myocarditis vs. idiopathic). Required Impella CP for refractory shock; improved with support, now off device.
+- **Plan:**
+  - Continue aggressive diuresis (IV furosemide)
+  - Cardiology to follow; consider cardiac MRI after stabilization
+  - Monitor for arrhythmias, low threshold for repeat ECHO
+  - Titrate down inotropes as tolerated (off as of 3/16)
+  - Daily weights, I/Os, fluid restriction
+
+### 2. Hypertension
+- **Assessment:** Pre-existing, complicated by recent decompensation. Off oral antihypertensives during shock phase.
+- **Plan:**
+  - Resume home antihypertensives as tolerated (amlodipine, HCTZ, olmesartan)
+  - Monitor BP closely
+  - Avoid hypotension
+
+### 3. Acute Bronchitis / Viral Pharyngitis / Streptococcal Pharyngitis / Sinusitis
+- **Assessment:** Recent viral URI, treated with Pen VK; symptoms improving.
+- **Plan:**
+  - Supportive care (acetaminophen prn, hydration)
+  - Continue antibiotics to completion
+  - Monitor for secondary bacterial infection
+
+### 4. Acute Kidney Injury
+- **Assessment:** Likely multifactorial (low output, pressors, nephrotoxic meds).
+- **Plan:**
+  - Renal dosing of all meds
+  - Avoid nephrotoxins
+  - Monitor daily labs, trend Cr/BUN
+  - Nephrology consulted; improvement noted
+
+### 5. Supraventricular Tachycardia
+- **Assessment:** Occasional runs on telemetry, no sustained arrhythmia.
+- **Plan:**
+  - Continue telemetry
+  - No intervention unless symptomatic
+
+### 6. Hypotension, post-cardiac support
+- **Assessment:** Improved after Impella wean, now stable.
+- **Plan:**
+  - Monitor MAP >65
+  - IV fluids prn
+  - Hold antihypertensives if hypotensive
+
+### 7. Mild Transaminitis
+- **Assessment:** Likely from shock liver, now resolving.
+- **Plan:**
+  - Trend LFTs
+  - Avoid hepatotoxins
+
+### 8. Contraceptive Management
+- **Assessment:** Home OCPs, held during acute illness.
+- **Plan:**
+  - Hold until discharge, counsel re: VTE risk during recovery
+
+---
+
+## ACTIVE MEDICATIONS (Inpatient)
+- Furosemide 40 mg IV q12h
+- Acetaminophen 650 mg PO q6h prn
+- Penicillin V Potassium 250 mg PO q6h (1 more day)
+- Amlodipine 5 mg PO daily (resumed 3/16)
+- Olmesartan/HCTZ 20/12.5 mg PO daily (resumed 3/17)
+- Pantoprazole 40 mg IV daily
+- DVT prophylaxis: Enoxaparin 40 mg SQ daily (started after device removal)
+- PRN: O2 via NC, Ondansetron
+
+---
+
+## DISPOSITION
+- Anticipate transfer to step-down unit in 24-48 hours if stable
+- Cardiac MRI as outpatient
+- Close follow-up with cardiology, nephrology, primary care
+
+---
+
+**Signed:** Dr. Anna R. Patel, MD  
+**Date/Time:** 3/17/2024 12:44 PM
+
+---
+
+**(Additional pages with nursing notes, flow sheets, imaging reports, medication administration record, and consults available in chart.)**

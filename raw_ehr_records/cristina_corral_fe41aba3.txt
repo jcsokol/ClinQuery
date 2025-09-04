@@ -1,0 +1,141 @@
+**Cristina Corral, F, DOB: 1967-04-07**  
+**MRN:** 0034829482  
+**Admit Date:** 2024-04-19  
+**Attending:** Dr. S. Patel  
+**Consultants:** Cardiology, Pulmonary, Infectious Disease  
+**Admitting Dx:** Acute decompensated heart failure, Cardiogenic shock, Pulmonary edema  
+**Allergies:** NKDA  
+**Code Status:** Full Code  
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+Cristina Corral is a 57-year-old female with a PMHx significant for pulmonary emphysema, chronic/viral sinusitis, prediabetes, hyperlipidemia, otitis media, and acute bronchitis, who presented to the ED with progressive dyspnea, orthopnea, and lower extremity edema. She was found to be in acute hypoxemic respiratory failure with hypotension and was subsequently admitted to the MICU. During her hospitalization, she developed cardiogenic shock requiring the placement of a temporary left-sided heart pump (Impella CP) for hemodynamic support. Her ICU course was complicated by acute kidney injury, volume overload, and nosocomial pneumonia.
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. Cardiogenic Shock / Acute Decompensated Heart Failure (HF)
+- **Presentation:** Hypotension, tachycardia, pulmonary edema on CXR, troponin mildly elevated, echo with LVEF 18%, global hypokinesis.
+- **Course:** Required norepinephrine, dobutamine. Impella CP placed on HD2 for persistent shock. Rapid improvement in perfusion, weaned to minimal inotropes by HD5.
+- **Plan:**
+  - Continue Impella support, daily LVAD rounds.
+  - Serial echocardiograms.
+  - Wean off pressors as tolerated.
+  - Strict I/Os, daily weights.
+  - Diuresis with IV furosemide.
+  - Monitor for hemolysis, limb ischemia.
+  - Cardiology to follow for advanced HF therapies.
+
+### 2. Acute Kidney Injury (AKI) on CKD
+- **Etiology:** Likely multifactorial—cardiorenal syndrome, hypotension, contrast load, baseline CKD.
+- **Labs:** Cr peaked at 3.6 from baseline ~1.2, BUN 46, down-trending with improved perfusion.
+- **Plan:**
+  - Avoid nephrotoxins.
+  - Monitor UOP, daily BMP.
+  - Adjust all renally-cleared meds.
+  - Nephrology consult—no indication for RRT currently.
+
+### 3. Pulmonary Edema / Respiratory Failure
+- **Presentation:** Severe dyspnea, hypoxemia (O2 sat 86% RA), diffuse rales, CXR with bilateral infiltrates.
+- **Course:** Intubated on HD1, extubated HD4.
+- **Plan:**
+  - Maintain O2 >92%.
+  - Diuresis, fluid restriction.
+  - Monitor ABGs, CXR.
+  - Pulmonary hygiene, incentive spirometry.
+
+### 4. Emphysema / COPD Exacerbation
+- **Background:** FEV1/FVC 68%, history of bronchitis, on inhaled steroids/LABA.
+- **Plan:**
+  - Continue inhalers (Fluticasone/salmeterol).
+  - Albuterol PRN.
+  - Monitor for bronchospasm.
+
+### 5. Hospital-acquired Pneumonia
+- **Presentation:** Fever on HD3, new infiltrate, leukocytosis.
+- **Plan:**
+  - Cefepime + Azithro x7 days.
+  - Sputum cultures sent.
+  - Monitor for sepsis.
+
+### 6. Hyperlipidemia, Prediabetes, Other Chronic Conditions
+- **Plan:**
+  - Resume statin, B12.
+  - Monitor glucose, A1c.
+  - Endocrine and lipid clinic f/u after discharge.
+
+### 7. Miscellaneous
+- **DVT Prophylaxis:** SCDs, heparin SQ.
+- **GI Prophylaxis:** PPI.
+- **Pain:** Naproxen, acetaminophen PRN.
+- **Contraception:** Continue current regimen.
+
+---
+
+## ICU FLOW SHEET
+
+**Daily Vitals, Key Events:**
+
+| Date       | Temp (°C) | HR   | BP        | RR  | SpO2 (%) | O2 Support   | Events                |
+|------------|-----------|------|-----------|-----|----------|--------------|-----------------------|
+| 4/19/2024  | 36.8      | 106  | 84/56     | 24  | 86       | 6L NC        | Intubated, pressors   |
+| 4/20/2024  | 37.1      | 98   | 92/60     | 20  | 93       | Ventilator   | Impella placed        |
+| 4/21/2024  | 37.8      | 92   | 104/68    | 18  | 96       | Ventilator   |                       |
+| 4/22/2024  | 38.2      | 88   | 112/74    | 16  | 98       | HFNC         | Fever, abx started    |
+| 4/23/2024  | 37.3      | 78   | 116/76    | 16  | 97       | RA           | Extubated             |
+
+---
+
+## LABS
+
+**Selected Labs (CBC, Chem7, Cardiac, Liver, Others):**
+
+| Date     | WBC   | Hgb  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | BNP    | AST  | ALT  | Alk Phos | Alb   |
+|----------|-------|------|------|------|------|------|------|------|------|------|----------|--------|------|------|----------|-------|
+| 4/19/24  | 6.8   | 15.1 | 185  | 139  | 5.1  | 103  | 22   | 33   | 2.9  | 98   | 0.08     | 2620   | 30   | 48   | 101      | 4.8   |
+| 4/20/24  | 9.2   | 13.8 | 174  | 137  | 4.8  | 99   | 20   | 38   | 3.2  | 109  | 0.12     | 3540   | 29   | 53   | 110      | 4.2   |
+| 4/21/24  | 12.4  | 12.7 | 166  | 135  | 4.6  | 96   | 18   | 41   | 3.6  | 120  | 0.09     | 2780   | 27   | 51   | 117      | 3.9   |
+| 4/22/24  | 14.2  | 11.6 | 156  | 136  | 4.5  | 98   | 19   | 39   | 3.1  | 108  | 0.07     | 1810   | 25   | 49   | 108      | 4.1   |
+| 4/23/24  | 11.0  | 12.4 | 172  | 138  | 4.4  | 101  | 21   | 33   | 2.4  | 103  | 0.06     | 940    | 23   | 41   | 103      | 4.6   |
+
+*Note: Some labs are missing on certain days due to hemolysis or specimen not collected.*
+
+---
+
+## PROCEDURES
+
+- **4/20/24:** Impella CP placement via left femoral artery under fluoroscopic guidance. No immediate complications.
+- **4/19/24:** Endotracheal intubation.
+- **4/22/24:** Extubation.
+
+---
+
+## MICROBIOLOGY
+
+- **Blood Cx:** No growth x2.
+- **Sputum Cx:** Moderate GNR, pending speciation.
+
+---
+
+## DISCHARGE PLANNING
+
+- **Disposition:** Awaiting transfer to step-down unit.
+- **Follow-up:** Cardiology, Nephrology, Pulmonary, PCP.
+- **Education:** Heart failure management, medication reconciliation, smoking cessation.
+
+---
+
+## SIGNED  
+Dr. S. Patel, MD  
+Date/Time: 2024-04-23 12:42 PM
+
+---
+
+**Addendum:**  
+Pt remains on Impella support, hemodynamics stable. Will reassess for explant in 24-48h.  
+Please see nursing/RT/consult notes for further details.  
+
+---

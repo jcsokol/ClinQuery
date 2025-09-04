@@ -1,0 +1,172 @@
+---
+**Epic EHR Documentation**
+
+**Patient Name:** Bernardo Arellano  
+**MRN:** 1004982  
+**DOB:** 09/16/2007 (16 y/o)  
+**Sex:** Male  
+**Date of Admission:** 03/02/2024  
+**Attending:** Dr. R. Stetson  
+**Admitting Dx:** Cardiogenic shock, acute decompensated heart failure  
+**ICU:** Pediatric ICU  
+**Consults:** Cardiology, Neurology, Infectious Disease, Cardiothoracic Surgery
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+Bernardo Arellano, a 16-year-old male with a history of seizure disorder (on carbamazepine and clonazepam), chronic sinusitis, and recent acute bronchitis, was admitted to the Pediatric ICU with sudden onset of severe dyspnea, altered mental status, and hypotension. Initial evaluation revealed evidence of acute decompensated heart failure with low cardiac output and signs of end-organ hypoperfusion (elevated lactate, AKI). He required urgent inotropic support and subsequently was placed on a temporary left-sided heart pump (Impella CP) by the cardiothoracic surgery team for refractory cardiogenic shock. Course complicated by AKI, non-sustained ventricular tachycardia, transaminitis, and nosocomial infection. Transitioned off temporary heart pump on hospital day 7 after myocardial recovery.
+
+---
+
+## ASSESSMENT & PLAN (Problem-Based)
+
+### 1. **Acute Decompensated Heart Failure / Cardiogenic Shock**
+- **Assessment:** Presented with hypotension, tachycardia, cool extremities, oliguria. Echo: LVEF 18%, severe global hypokinesis. Cardiac markers elevated. Required norepinephrine, milrinone, and urgent Impella placement.
+- **Hospital Course:** Weaned off inotropes by day 6. Impella explanted on day 7 after LVEF improved (now 44%). Serial ECHOs monitored.
+- **Plan:**
+  - Continue GDMT for heart failure (ACEi, low-dose beta-blocker if tolerated)
+  - Repeat ECHO prior to discharge
+  - Monitor for arrhythmia (telemetry)
+  - Cardiology f/u in 1 week post-discharge
+
+### 2. **Seizure Disorder (hx of single seizure, on AEDs)**
+- **Assessment:** No witnessed seizure activity during admission. Carbamazepine levels therapeutic.
+- **Plan:**
+  - Continue home clonazepam and carbamazepine
+  - Monitor for drug interactions, especially with new cardiac meds
+  - Neurology consult completed, no changes recommended
+
+### 3. **Acute Kidney Injury (AKI)**
+- **Assessment:** Creatinine peaked at 2.1 mg/dL (baseline 0.7), likely multifactorial: hypoperfusion, nephrotoxic meds (ACEi, diuretics), and contrast. Improved with volume management and improved hemodynamics.
+- **Plan:**
+  - Daily BMP, monitor urine output
+  - Avoid nephrotoxins
+  - Renal dosing for all medications
+
+### 4. **Arrhythmia (Non-sustained VT)**
+- **Assessment:** Brief NSVT on hospital day 2, likely due to acute ischemia and inotropes. No further events after stabilization.
+- **Plan:**
+  - Continue telemetry
+  - Electrolyte repletion (Mg >2, K >4)
+  - No antiarrhythmic started
+
+### 5. **Nosocomial Infection (Pneumonia)**
+- **Assessment:** Fever, cough, CXR with new infiltrate, blood cultures negative. Started on cefepime and vancomycin, improved.
+- **Plan:**
+  - Continue abx for total 7 days
+  - Monitor WBC, CRP, procalcitonin
+
+### 6. **Chronic Sinusitis, Acute Bronchitis, Otitis Media**
+- **Assessment:** No acute symptoms during this admission. On cefuroxime for prophylaxis.
+- **Plan:**
+  - Complete current course
+  - ENT f/u outpatient
+
+### 7. **Laceration of Forearm (remote)**
+- **Assessment:** Well-healed, no infection.
+- **Plan:**
+  - No intervention needed
+
+### 8. **Pain, Nutrition, Prophylaxis, Miscellaneous**
+- **Pain:** Mild, controlled with acetaminophen prn  
+- **DVT prophylaxis:** SCDs, no heparin due to low platelets initially  
+- **GI prophylaxis:** Pantoprazole  
+- **Nutrition:** Enteral feeds, transitioned to PO on day 5
+
+---
+
+## MEDICATION ADMINISTRATION RECORD
+
+- **Clonazepam 0.5 mg BID PO** (home, continued)
+- **Carbamazepine 200 mg BID PO** (home, continued)
+- **Furosemide 20 mg IV q12h** (days 1–6)
+- **Milrinone 0.3 mcg/kg/min IV** (days 1–5)
+- **Norepinephrine titration IV** (days 1–3)
+- **Cefepime 1g q8h IV** (days 4–10)
+- **Vancomycin 1g q12h IV** (days 4–7)
+- **Cefuroxime 250 mg BID PO** (days 1–7)
+- **Lisinopril 5 mg PO daily** (started day 8)
+- **Acetaminophen 325 mg PO q6h PRN**
+- **Ibuprofen 100 mg PO PRN (held during AKI)**
+- **Pantoprazole 40 mg IV daily**
+
+---
+
+## VITALS SUMMARY (Selected)
+
+| Date        | Temp (°C) | HR (bpm) | BP (mmHg) | RR (/min) | SpO2 (%) | Pain (0-10) |
+|-------------|-----------|----------|-----------|-----------|----------|-------------|
+| 3/2/24      | 37.6      | 122      | 82/49     | 22        | 92       | 3           |
+| 3/3/24      | 38.1      | 110      | 98/60     | 19        | 96       | 2           |
+| 3/4/24      | 37.3      | 88       | 106/65    | 17        | 98       | 1           |
+| 3/6/24      | 36.8      | 76       | 112/70    | 16        | 99       | 0           |
+| 3/8/24      | 37.0      | 70       | 118/74    | 15        | 99       | 0           |
+
+---
+
+## LABORATORY DATA
+
+### CBC & CHEM7 (Selected values, some missing)
+
+| Date      | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|-----------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|
+| 3/2/24    | 4.2        | 16.9       | 46      | 219        | 134         | 4.8        | 101         | 20           | 14          | 1.2        | 88          |
+| 3/3/24    | 6.1        | 15.2       | 41      | 175        | 133         | 5.2        | 99          | 17           | 25          | 1.8        | 102         |
+| 3/4/24    | 9.7        | 14.8       | 40      | 113        | 137         | 4.3        | 104         | 24           | 39          | 2.1        | 97          |
+| 3/5/24    | 8.0        | 13.2       | 37      | 89         | 139         | 4.0        | 105         | 28           | 33          | 1.7        | 110         |
+| 3/6/24    | 7.1        | 12.9       | 36      | 132        | 140         | 4.2        | 102         | 26           | 24          | 1.1        | 98          |
+| 3/7/24    | 6.8        | 13.6       | 39      | 154        | 141         | 4.3        | 100         | 25           | 18          | 0.9        | --          |
+| 3/8/24    | --         | 14.2       | 41      | 166        | 141         | 4.5        | --          | 24           | 16          | 0.8        | 91          |
+
+#### Other Labs:
+- **Troponin I:** 0.39 (3/2), 0.21 (3/3), <0.01 (3/7)
+- **BNP:** 3770 pg/mL (3/2), 1440 (3/7)
+- **Lactate:** 4.7 (3/2), 2.1 (3/3), 1.1 (3/6)
+- **AST/ALT:** 89/72 (3/3), 41/30 (3/7)
+- **CRP:** 12.3 (3/4), 3.2 (3/7)
+- **Carbamazepine level:** 7.9 mcg/mL (3/3)
+
+---
+
+## PROCEDURES
+
+- **Impella CP placement** (left femoral artery, 3/2/24)
+    - Indication: Refractory cardiogenic shock
+    - No immediate complications
+    - Daily vascular checks, no limb ischemia
+    - Explanted 3/7/24 after myocardial recovery
+
+- **Central venous line** (right IJ, 3/2/24)
+- **Arterial line** (left radial, 3/2/24)
+
+---
+
+## IMAGING
+
+- **ECHO (3/2/24):** LVEF 18%, global hypokinesis, mild MR, no thrombus
+- **ECHO (3/7/24):** LVEF 44%, mild MR, improved wall motion
+- **CXR (3/2/24):** Pulmonary edema, enlarged cardiac silhouette
+- **CXR (3/4/24):** New RLL infiltrate, consistent w/ pneumonia
+- **CXR (3/8/24):** Improved, no edema
+
+---
+
+## DISCHARGE PLAN
+
+- **To home with parents**
+- **Cardiology, neurology, and ENT f/u**
+- **Continue heart failure meds, seizure meds**
+- **Monitor for signs of HF or arrhythmia**
+- **No driving or strenuous activity for 3 months**
+
+---
+
+**Attestation:**  
+Dr. R. Stetson, MD  
+Pediatric Cardiology  
+03/09/2024
+
+---
+
+**End of Note**

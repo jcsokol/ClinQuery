@@ -1,0 +1,164 @@
+**MARLENE CARROLL**  
+MRN: 00348219  
+DOB: 06/08/1946 (77 y/o F)  
+Date of Admission: 2024-05-27  
+Attending: Dr. Patel  
+Service: Cardiac ICU  
+Note Type: ICU Progress Note  
+Date/Time: 2024-06-04 08:14  
+
+---
+
+### CHIEF COMPLAINT  
+Progressive shortness of breath, orthopnea, and lower extremity edema.
+
+---
+
+### HISTORY OF PRESENT ILLNESS  
+Marlene Carroll is a 77-year-old female with a history of gout (on colchicine and allopurinol), osteoporosis (on alendronic acid), and remote miscarriage, who presented to the ED with 5 days of progressive dyspnea, PND, and bilateral leg swelling. She denied chest pain but did endorse mild cough and fatigue. Notable for acute viral pharyngitis 2 weeks ago, resolved.
+
+On arrival, she was tachypneic, hypotensive (BP 82/55), and hypoxic (SaO2 89% RA). She rapidly deteriorated and required ICU admission for cardiogenic shock. Emergent bedside echo revealed severe global LV dysfunction (EF ~15%), moderate MR, and dilated LV. She was started on dobutamine and norepinephrine. Due to persistent shock (cold/clammy, worsening lactate, declining urine output), she underwent placement of a percutaneous left ventricular assist device (Impella CP) on hospital day 1.
+
+---
+
+### HOSPITAL COURSE SUMMARY  
+- Day 1: Admitted to CICU, intubated for hypoxic respiratory failure, Impella CP placed for cardiogenic shock.  
+- Day 2-3: Persistent low cardiac output, slow improvement in renal function, weaned off norepinephrine.  
+- Day 4: Echo with improved LV function (EF ~25%). Trials of Impella wean initiated.  
+- Day 5: Extubated, transitioned to milrinone and low-dose diuresis.  
+- Day 6-7: Impella removed, transitioned to high-flow nasal cannula, aggressive diuresis, downtrending BNP.  
+- Day 8: Transferred to step-down unit, stable off inotropes, ambulating with PT.
+
+---
+
+### PAST MEDICAL HISTORY  
+- Gout  
+- Osteoporosis (T-score -3.6)  
+- Remote miscarriage  
+- Acute viral pharyngitis (resolved)  
+- Hyperlipidemia (well-controlled)
+
+### PAST SURGICAL HISTORY  
+- None
+
+### SOCIAL HISTORY  
+- Lives alone, retired schoolteacher.  
+- No tobacco/alcohol/drug use.
+
+### FAMILY HISTORY  
+- CAD (father), osteoporosis (mother)
+
+### ALLERGIES  
+- NKDA
+
+### HOME MEDICATIONS  
+- Colchicine 0.6 mg daily  
+- Allopurinol 100 mg BID  
+- Naproxen 500 mg BID PRN  
+- Alendronic acid 10 mg daily
+
+---
+
+## VITALS (ICU Course)
+| Date        | Temp (C) | HR  | BP        | RR | SpO2 | Wt (kg) | Pain |
+|-------------|----------|-----|-----------|----|------|---------|------|
+| 5/27 04:00  | 36.9     | 112 | 82/55     | 28 | 89%  | 61.3    | 2    |
+| 5/28 06:00  | 37.4     | 98  | 94/61     | 22 | 91%  | 60.8    | 3    |
+| 5/29 06:00  | 37.1     | 88  | 103/68    | 18 | 96%  | 60.1    | 1    |
+| 5/30 07:00  | 36.8     | 81  | 112/70    | 16 | 97%  | 59.7    | 1    |
+| 5/31 07:30  | 36.6     | 74  | 120/75    | 16 | 98%  | 59.1    | 1    |
+
+---
+
+## LABS
+
+**CBC & CHEM7 (selected days)**
+| Date     | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|----------|------|------|------|------|------|------|------|------|------|------|------|
+| 5/27     | 5.3  | 15.1 | 48.8 | 199  | 134  | 4.8  | 102  | 18   | 38   | 2.1  | 129  |
+| 5/28     | 4.7  | 14.6 | 46.7 | 178  | 137  | 4.0  | 100  | 20   | 35   | 1.8  | 108  |
+| 5/29     | 8.0  | 13.2 | 41.0 | 205  | 140  | 3.7  | 101  | 21   | 30   | 1.3  | 98   |
+| 5/30     | 7.5  | 12.8 | 39.9 | 191  | 138  | 4.2  | 104  | 22   | 27   | 1.1  | 101  |
+| 5/31     |      | 12.4 |      |      | 137  | 4.1  |      | 23   | 22   | 1.0  |      |
+| 6/01     | 6.2  | 12.2 | 38.0 | 210  |      |      | 102  | 24   | 19   | 0.9  | 104  |
+
+**OTHER LABS**
+- BNP: 2,315 → 1,098 → 532 (downtrending)
+- Troponin I: 0.09 → 0.04 → <0.01 ng/mL
+- AST/ALT: 38/27 (peak 5/27), normalized by 5/30
+- LDH: 410 → 270 U/L
+- Lactate: 4.1 (5/27), 2.6 (5/28), 1.2 (5/30)
+
+---
+
+## MICROBIOLOGY
+- Blood cultures x2 (5/27): No growth
+- Respiratory viral panel: Negative
+
+---
+
+## IMAGING
+- CXR (5/27): Pulmonary edema, mild cardiomegaly
+- Echo (5/27): EF 15%, global hypokinesis, moderate MR
+- Echo (5/30): EF 25%, improvement, mild MR
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock s/p Impella CP**  
+- Severe new-onset systolic heart failure, likely viral myocarditis vs. ischemic.  
+- Impella CP placed for hemodynamic support, now weaned and removed.  
+- Continue guideline-directed medical therapy (GDMT): low-dose metoprolol, lisinopril initiated.  
+- Monitor for arrhythmia, volume status, daily weights, strict I/Os.  
+- Cardiac rehab consult.  
+- Plan outpatient cardiac MRI.
+
+**2. Acute Decompensated Heart Failure**  
+- Diuresed with IV furosemide, transitioned to oral.  
+- Fluid balance negative ~5L since admission.  
+- Continue electrolyte monitoring, adjust diuretics as needed.
+
+**3. Acute Kidney Injury (resolved)**  
+- Pre-renal etiology, improved with cardiac output restoration.  
+- Renal function now stable.
+
+**4. Gout**  
+- Continue allopurinol and colchicine.  
+- Monitor for flares with diuresis.
+
+**5. Osteoporosis**  
+- Continue alendronic acid.  
+- Fall precautions, PT/OT.
+
+**6. Hyperlipidemia**  
+- Continue statin therapy.
+
+**7. Deconditioning**  
+- Early mobilization, PT/OT daily.
+
+**8. Psychosocial/Discharge Planning**  
+- SW and case management involved; will likely need SNF placement post-discharge.
+
+---
+
+## MEDICATIONS (current)
+- Metoprolol succinate 12.5 mg daily
+- Lisinopril 2.5 mg daily
+- Furosemide 40 mg BID
+- Colchicine 0.6 mg daily
+- Allopurinol 100 mg BID
+- Alendronic acid 10 mg daily
+- Atorvastatin 20 mg nightly
+- PRN acetaminophen
+
+---
+
+## SIGNED  
+Dr. Priya Patel, MD  
+Attending, Cardiac ICU  
+Date/Time: 2024-06-04 08:14
+
+---
+
+**End of Note**

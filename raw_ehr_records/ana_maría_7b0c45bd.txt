@@ -1,0 +1,172 @@
+```
+----------------------------------------------------------------------
+EpicCare Inpatient - Patient Chart
+
+Patient Name: Ana María Balderas
+MRN: 003284591
+DOB: 1998-04-24 (Age: 25)
+Sex: Female
+Date of Admission: 2024-06-12
+Date of Note: 2024-06-17
+Attending: Dr. Jonathan M. Garcia, MD
+Location: ICU, 4th Floor, Room 420-B
+
+----------------------------------------------------------------------
+
+Chief Complaint:
+Shortness of breath, chest pain, hypotension
+
+History of Present Illness:
+Ana María Balderas is a 25-year-old female with a history notable for recurrent upper respiratory tract infections (acute viral pharyngitis, otitis media, streptococcal sore throat, viral sinusitis) who presented to the ED with acute onset of severe dyspnea, orthopnea, and chest tightness over 24 hours. She had a recent viral illness 2 weeks prior, treated with amoxicillin and ibuprofen. She described progressive fatigue, lightheadedness, and one episode of syncope at home. On arrival, she was noted to be hypotensive (BP 78/45), tachycardic (HR 127), and hypoxic (O2 sat 88% on RA). She rapidly decompensated and was transferred to the ICU.
+
+Hospital Course Summary:
+- Admitted to ICU for acute hypoxic respiratory failure and cardiogenic shock.
+- Initial workup revealed elevated troponin, BNP, diffuse ST changes on EKG, and a severely reduced LVEF on bedside echo (~15%). Concern for fulminant myocarditis, likely post-viral.
+- Required intubation and mechanical ventilation for hypoxia.
+- Vasopressor support initiated (norepinephrine, then vasopressin).
+- Due to persistent shock and evidence of end-organ hypoperfusion (lactate 5.2, rising creatinine), a temporary percutaneous left ventricular assist device (Impella CP) was placed on hospital day 1.
+- Empiric antibiotics initiated, later discontinued when infectious workup negative.
+- Gradual improvement in hemodynamics; Impella weaned and explanted on HD4.
+- Complicated by transient acute kidney injury, now resolved.
+- Currently extubated, off vasopressors, diuresed, and stable.
+
+Past Medical History:
+- Recurrent upper respiratory tract infections (see above)
+- No prior cardiac history
+- No DM, HTN, or CKD
+
+Past Surgical History:
+- Tonsillectomy, age 12
+
+Medications on Admission:
+- Amoxicillin 500 mg PO TID (recently completed)
+- Ibuprofen 200 mg PO PRN
+- Penicillin V Potassium 250 mg PO (previous, not current)
+- Yaz 28 Day Pack
+
+Allergies:
+- NKDA
+
+Family History:
+- Non-contributory
+
+Social History:
+- Non-smoker, no alcohol, no illicit drugs
+- Lives with parents, college student
+
+Review of Systems:
+Unable to obtain full ROS due to intubation and sedation initially. Post-extubation, endorses mild fatigue, denies chest pain, palpitations, fevers, cough.
+
+Physical Exam (HD5, AM rounds):
+VS: T 37.2C, HR 88, BP 112/65, RR 16, SpO2 97% RA
+Gen: Alert, NAD
+HEENT: Oropharynx clear, no tonsillar exudate
+CV: S1, S2 normal, no murmurs/rubs/gallops, JVP not elevated
+Resp: Clear to auscultation bilaterally
+Abd: Soft, NT, ND
+Ext: No edema, pulses 2+ throughout
+Neuro: AOx3, no focal deficits
+Skin: No rashes, no petechiae
+
+----------------------------------------------------------------------
+
+Laboratory Results
+
+CBC + CHEM7 Summary Table
+
+| Date/Time   | WBC   | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|-------------|-------|-------|-------|-------|------|------|------|------|------|------|------|
+| 6/12 02:20  | 5.9   | 14.2  | 41.1  | 421   | 138  | 4.2  | 102  | 21   | 18   | 1.1  | 98   |
+| 6/12 13:09  | 8.2   | 13.8  | 40.0  | 395   | 136  | 4.6  | 100  | 18   | 28   | 1.5  | 110  |
+| 6/13 05:41  | 10.5  | 12.9  | 37.9  | 350   | 134  | 5.1  | 97   | 19   | 35   | 2.2  | 142  |
+| 6/13 17:11  | 9.3   | 13.1  | 38.2  | 360   | 135  | 4.4  | 98   | 21   | 24   | 1.7  | 105  |
+| 6/14 08:00  | 7.7   | 13.6  | 39.4  | 372   | 137  | 4.1  | 101  | 23   | 19   | 1.3  | 99   |
+| 6/15 09:15  | 6.3   | 14.1  | 40.3  | 388   | 139  | 4.0  | 103  | 22   | 16   | 1.0  | 93   |
+| 6/16 10:30  | 6.1   | 14.3  | 41.0  | 400   | 140  | 3.9  | 104  | 24   | 15   | 0.9  | 89   |
+| 6/17 06:45  | 5.8   | 14.5  | 41.2  | 410   | 141  | 4.2  | 105  | 25   | 15   | 0.9  | 88   |
+
+Other Labs
+
+| Date      | Troponin I | BNP    | Lactate | AST  | ALT  | Total Bili | INR  | CRP   |
+|-----------|------------|--------|---------|------|------|------------|------|-------|
+| 6/12      | 0.45       | 3200   | 5.2     | 88   | 72   | 1.3        | 1.2  | 11.2  |
+| 6/13      | 0.39       | 2850   | 3.1     | 61   | 55   | 1.1        | 1.1  | 8.7   |
+| 6/14      | 0.22       | 2100   | 2.2     | 48   | 38   | 0.8        | 1.0  | 4.3   |
+| 6/16      | 0.08       | 900    | 1.1     | 32   | 29   | 0.6        | 1.0  | 2.2   |
+
+----------------------------------------------------------------------
+
+Imaging/Echo:
+- CXR (6/12): Pulmonary edema, mild cardiomegaly
+- TTE (6/12): LVEF ~15%, global hypokinesis, mild MR, no pericardial effusion
+- Repeat TTE (6/15): LVEF improved to ~38%, mild MR
+- ECG (6/12): Sinus tachycardia, low voltage, diffuse ST elevation
+
+----------------------------------------------------------------------
+
+Assessment & Plan
+
+1. **Cardiogenic Shock secondary to Fulminant Myocarditis (likely viral)**
+   - Required temporary LVAD (Impella CP) for hemodynamic support. Device placed HD1, explanted HD4.
+   - Now weaned from pressors, MAP stable, UOP adequate.
+   - Continue telemetry, daily EKGs, monitor for arrhythmia.
+   - Serial TTE to reassess LVEF.
+   - Consult advanced heart failure for close follow-up.
+   - Consider endomyocardial biopsy if recurrent decline.
+
+2. **Acute Hypoxic Respiratory Failure**
+   - Intubated for 48 hours, now successfully extubated.
+   - Weaning O2, currently on room air.
+   - Incentive spirometry, PT/OT for mobilization.
+
+3. **Acute Kidney Injury, resolved**
+   - Likely multifactorial: hypoperfusion, pressors, nephrotoxic exposure.
+   - Creatinine returned to baseline, maintain euvolemia, avoid nephrotoxins.
+
+4. **Transaminitis**
+   - Mild, likely ischemic hepatitis during shock state.
+   - Trending down, monitor LFTs.
+
+5. **History of Recurrent URTI (pharyngitis, otitis, sinusitis)**
+   - No active infection.
+   - Antibiotics discontinued after negative infectious workup.
+
+6. **Contraceptive Management**
+   - Yaz held during acute illness due to VTE risk.
+   - Consider resuming at discharge.
+
+7. **Pain**
+   - Minimal, managed with PRN acetaminophen.
+
+8. **Nutrition**
+   - NGT feeds during intubation, now on PO diet, tolerating well.
+
+9. **DVT Prophylaxis**
+   - SCDs, SQ heparin 5000U q8h
+
+10. **Dispo**
+    - Anticipate transfer to stepdown in 24-48h if stable.
+
+----------------------------------------------------------------------
+
+Orders/Medications:
+- Norepinephrine (weaned off HD3)
+- Vasopressin (weaned off HD3)
+- Impella CP management per protocol
+- Heparin SQ 5000U q8h
+- Acetaminophen 650mg PO q6h PRN
+- IVF: D5 1/2NS @ 75ml/hr (now off)
+- Yaz: held
+- All antibiotics: discontinued
+
+----------------------------------------------------------------------
+
+Sign-off:
+Dr. Jonathan M. Garcia, MD
+Cardiology/Critical Care
+Date/Time: 2024-06-17 09:12
+
+----------------------------------------------------------------------
+
+[Additional pages: Nursing Flowsheet, Med Administration Record, Ventilator Settings, Device Log, Social Work Notes, PT/OT Notes, Consults, Discharge Planning, Progress Notes, Telemetry Strips, Echo Reports, etc.]
+```

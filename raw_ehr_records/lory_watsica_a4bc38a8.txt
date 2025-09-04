@@ -1,0 +1,209 @@
+---
+**Patient:** Lory Watsica  
+**MRN:** 00293843  
+**DOB:** 1947-04-15 (Age: 77)  
+**Sex:** Female  
+**Admit Date:** 2024-06-19  
+**Attending:** Dr. K. Hersch  
+**Unit:** MICU  
+**Consults:** Cardiology, Pulmonology, Endocrinology, Pain Management
+
+---
+
+### ICU ADMISSION NOTE
+
+#### CHIEF COMPLAINT
+Acute-on-chronic hypoxemic respiratory failure, hypotension, chest pain.
+
+#### HISTORY OF PRESENT ILLNESS
+77F with h/o prediabetes, chronic pain, chronic sinusitis, colon polyps, and remote clavicle fracture, presented with 2 days of worsening SOB, orthopnea, and substernal chest pain radiating to the left arm. No prior hx of CAD. On arrival, hypotensive (SBP 78 mmHg), tachycardic (HR 114), tachypneic (RR 28), and hypoxic (SpO2 87% on RA). CXR: pulmonary edema. Troponin mildly elevated. Echo: EF 20% with severe global hypokinesis, LV dilation. Emergent placement of Impella CP for cardiogenic shock after brief stabilization on dobutamine/vasopressors. Intubated for airway protection.
+
+#### HOSPITAL COURSE OVERVIEW
+- **Day 1:** Admitted to MICU, required norepinephrine and dobutamine, escalating O2 needs, Impella placed for refractory shock. 
+- **Day 2:** Weaned off norepinephrine, Impella flows stable, mild improvement in urine output. Persistent lactic acidosis.
+- **Day 3:** Echo: EF improved to 28%, Impella flows maintained. Attempted spontaneous breathing trial; failed. 
+- **Day 4:** Developed fever, new infiltrate on CXR—concern for VAP. Started on vancomycin and cefepime.
+- **Day 5:** Lactic acid normalized, extubated to BiPAP, Impella removed after hemodynamic stability.
+- **Day 6:** Gradual improvement, transitioned to stepdown.
+
+---
+
+### PAST MEDICAL HISTORY
+- Chronic sinusitis
+- Prediabetes (HbA1c 6.3%)
+- Chronic pain (multifactorial, s/p clavicle fx, ongoing colon polyp surveillance)
+- Polyp of colon (last colonoscopy 2022: 4 mm polyp, benign)
+- Fracture of clavicle (2011, healed)
+
+### PAST SURGICAL HISTORY
+- Colon polypectomy (2022)
+- Remote ORIF clavicle
+
+### FAMILY HISTORY
+- Father: MI age 62
+- Mother: stroke age 74
+
+### SOCIAL HISTORY
+- Retired teacher, lives alone
+- Former smoker (quit 1983)
+- Occasional alcohol, no drug use
+
+### HOME MEDICATIONS
+- Oxycodone ER 15mg BID
+- Meperidine 50mg q6h PRN
+- Ibuprofen 200mg BID
+
+---
+
+### REVIEW OF SYSTEMS (unable to obtain on admission, intubated)
+
+---
+
+### PHYSICAL EXAM (Day 2, post-Impella)
+**Gen:** Intubated, sedated, moderate distress  
+**VS:** T 37.8°C, HR 104, BP 92/51 (MAP 65), RR 18 (vent), SpO2 96% (FiO2 40%)  
+**HEENT:** Nasal congestion  
+**CV:** Tachycardic, S3, no murmurs; Impella in situ, pulses 2+  
+**Resp:** Decreased breath sounds bibasilar, rales  
+**GI:** Soft, NT/ND, bowel sounds present  
+**GU:** Foley in place, urine output 0.6 mL/kg/hr  
+**Ext:** No edema, healing clavicle scar  
+**Neuro:** Sedated, withdraws to pain  
+
+---
+
+### LABS
+
+**Table 1: CBC + Chemistry Panel**
+
+| Date       | WBC    | Hgb   | Hct   | Plt   | Na    | K     | Cl    | CO2   | BUN   | Cr    | Glu   |
+|------------|--------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| 6/19/24 AM | 14.2   | 13.1  | 37.2  | 189   | 139   | 4.6   | 104   | 18    | 27    | 1.45  | 155   |
+| 6/19/24 PM | 13.8   | 12.8  | 36.6  | 174   | 138   | 4.2   | 103   | 17    | 26    | 1.42  | 140   |
+| 6/20/24 AM | 12.4   | 12.2  | 35.1  | 171   | 140   | 4.0   | 106   | 18    | 24    | 1.31  | 138   |
+| 6/21/24 AM | 10.1   | 11.8  | 34.4  | 168   | 141   | 3.9   | 102   | 19    | 19    | 1.14  | 125   |
+| 6/22/24 AM | 8.7    | 12.5  | 36.2  | 201   | 140   | 4.1   | 105   | 21    | 18    | 1.08  | 112   |
+| 6/23/24 AM | 7.5    | 13.2  | 37.8  | 210   | 139   | 4.2   | 102   | 22    | 17    | 0.98  | 98    |
+| 6/24/24 AM | 7.9    | 13.8  | 39.4  | 225   | 140   | 4.3   | 104   | 22    | 15    | 0.93  | 92    |
+
+**Table 2: Additional Labs**
+
+| Date       | Troponin I | BNP   | Lactic Acid | AST   | ALT   | Alk Phos | Total Bili | INR   | A1c   |
+|------------|------------|-------|-------------|-------|-------|----------|------------|-------|-------|
+| 6/19/24    | 0.11       | 1880  | 4.3         | 49    | 32    | 101      | 0.8        | 1.2   | 6.3   |
+| 6/20/24    | 0.09       | 1560  | 3.1         | 53    | 28    | 97       | 0.7        | 1.1   |       |
+| 6/21/24    | 0.08       | 1100  | 2.0         | 47    | 27    | 95       | 0.8        | 1.1   |       |
+| 6/22/24    | 0.06       | 800   | 1.1         | 39    | 25    | 90       | 0.6        | 1.0   |       |
+| 6/23/24    | <0.03      | 500   | 0.8         | 36    | 23    | 88       | 0.5        | 1.0   |       |
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. Cardiogenic Shock s/p Impella CP placement (Resolved)
+- **Assessment:** Cardiogenic shock likely secondary to new, severe ischemic cardiomyopathy. Required temporary mechanical circulatory support. Responded to Impella, now hemodynamically stable.
+- **Plan:**  
+  - Monitor for recurrent shock, arrhythmias  
+  - Daily ECHO  
+  - Continue telemetry  
+  - Cardiology f/u, optimize GDMT as tolerated  
+  - Outpatient workup for CAD/ischemia
+
+### 2. Acute-on-chronic Heart Failure (newly reduced EF)
+- **Assessment:** Severe LV dysfunction, initially EF 20%, improved to 28% with support.
+- **Plan:**  
+  - Maintain euvolemia  
+  - Lasix IV PRN, monitor UOP/weights  
+  - Restrict fluids, sodium <2g/d  
+  - Initiate low-dose beta-blocker once stable  
+  - Consider ACEi/ARB after renal recovery
+
+### 3. Respiratory Failure, s/p intubation, now extubated
+- **Assessment:** Required intubation for hypoxemia. Extubated to BiPAP.  
+- **Plan:**  
+  - Wean to HFNC, monitor ABGs  
+  - Incentive spirometry  
+  - Pulmonary hygiene
+
+### 4. Hospital-acquired pneumonia (VAP)
+- **Assessment:** New fever, infiltrate, leukocytosis.  
+- **Plan:**  
+  - Continue vancomycin + cefepime x7d  
+  - Sputum Cx, blood Cx  
+  - Daily CXR
+
+### 5. Chronic Pain
+- **Assessment:** Home oxycodone, meperidine, ibuprofen. Pain well-controlled in ICU.
+- **Plan:**  
+  - Resume home regimen, minimize opioids as tolerated  
+  - PT/OT for mobility  
+  - Pain consult
+
+### 6. Prediabetes
+- **Assessment:** HbA1c 6.3%, glucose mildly elevated during illness.
+- **Plan:**  
+  - Monitor BG q6h  
+  - Sliding scale insulin PRN  
+  - Endo consult for optimization
+
+### 7. Chronic sinusitis
+- **Assessment:** Stable, no acute intervention needed.
+- **Plan:**  
+  - Saline rinses  
+  - Resume home meds
+
+### 8. Colon polyp, s/p recent polypectomy
+- **Assessment:** Benign polyp, no evidence of GI bleeding.
+- **Plan:**  
+  - Resume colonoscopy surveillance per GI  
+  - Monitor for GI symptoms
+
+### 9. Electrolyte and Renal Abnormalities
+- **Assessment:** Initial AKI likely pre-renal, resolved.
+- **Plan:**  
+  - Monitor chem7 daily  
+  - Maintain MAP >65  
+  - Avoid nephrotoxins
+
+### 10. DVT Prophylaxis
+- **Plan:**  
+  - Enoxaparin 40mg SQ daily  
+  - SCDs while bedbound
+
+### 11. Nutrition
+- **Plan:**  
+  - NPO while intubated, advance to cardiac diet  
+  - Monitor prealbumin
+
+### 12. Discharge Planning
+- **Plan:**  
+  - Anticipate stepdown in 24-48h  
+  - Arrange cardiology, PT, home health f/u
+
+---
+
+**Signature:**  
+Dr. K. Hersch, MD  
+MICU Attending  
+Date: 2024-06-24
+
+---
+
+**Additional Notes:**  
+- Occasional mild delirium, resolved with reorientation  
+- Constipation, resolved with bowel regimen  
+- Mild transaminitis, improved with hemodynamic recovery
+
+---
+
+**Orders:**  
+- Telemetry  
+- Daily CBC, BMP, LFTs  
+- CXR qAM  
+- Strict I/O  
+- Foley to be d/c when ambulatory  
+- Physical Therapy consult  
+
+---
+
+**END OF NOTE**

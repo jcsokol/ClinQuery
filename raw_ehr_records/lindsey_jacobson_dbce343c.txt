@@ -1,0 +1,217 @@
+---
+**Patient Name:** Jacobson, Lindsey  
+**MRN:** 009238401  
+**DOB:** 1967-03-01  
+**Sex:** Male  
+**Admit Date:** 2024-04-13  
+**Attending:** Dr. Patel, Cardiology  
+**Location:** MICU  
+**Consults:** Cardiology, Nephrology, Infectious Disease  
+
+---
+
+# ICU Admission Note
+
+**Chief Complaint:**  
+"Shortness of breath, chest heaviness, and confusion"
+
+**History of Present Illness:**  
+56-year-old male with hx of hyperlipidemia, gout, prediabetes, anemia, and recent URI symptoms (viral sinusitis, bronchitis, pharyngitis) presented to ED with progressive dyspnea, orthopnea, and new confusion. Family reports 3 days of worsening lower extremity edema, PND, and 24 hours of decreased urine output. On arrival, found to be hypotensive (MAP 58) with tachycardia (HR 118), hypoxic (SpO₂ 87% RA), and altered (GCS 13). Labs significant for acute kidney injury and elevated cardiac markers. CXR: Pulmonary edema, cardiomegaly. Echo: Severe LV dysfunction (EF 15%), global hypokinesis. Emergent temporary LVAD (Impella CP) placed for cardiogenic shock after initial medical management (dobutamine, norepinephrine) failed to restore adequate perfusion.  
+
+**Past Medical History:**  
+- Hyperlipidemia  
+- Gout  
+- Prediabetes  
+- Anemia (chronic, multifactorial)  
+- Recent viral URI (sinusitis, pharyngitis, bronchitis)  
+
+**Past Surgical History:**  
+- None
+
+**Medications on Admission:**  
+- Sertraline 100mg PO QD  
+- Simvastatin 10mg PO QHS  
+- Allopurinol 100mg PO QD  
+- Colchicine 0.6mg PO BID  
+- Naproxen 500mg PO BID  
+- Acetaminophen/Hydrocodone PRN  
+- Acetaminophen 325mg PO PRN  
+
+**Allergies:**  
+- No known drug allergies
+
+**Social History:**  
+- Lives with spouse, 2 adult children.  
+- Works as accountant.  
+- No tobacco. Rare ETOH. No illicit drug use.
+
+**Family History:**  
+- Father: MI age 62  
+- Mother: HTN, DM2
+
+---
+
+# PHYSICAL EXAM
+
+**Gen:** Obese, in mild distress  
+**VS:** T 37.9°C, HR 118, BP 82/49 (MAP 58), RR 22, SpO₂ 92% 2L NC  
+**HEENT:** Oropharynx erythematous, no exudate  
+**CV:** S1, S2, tachy, no murmur, JVD 12cm, +S3  
+**Lungs:** Bibasilar crackles, decreased at bases  
+**Abd:** Soft, NT, mild hepatomegaly  
+**Ext:** 2+ pitting edema BLE  
+**Neuro:** Alert, oriented x2, follows commands, mild confusion  
+
+---
+
+# ICU HOSPITAL COURSE (Days 1–6)
+
+**Day 1 (Admission):**  
+- Profound cardiogenic shock, pulmonary edema  
+- Intubated for hypoxic respiratory failure  
+- Norepinephrine, dobutamine started  
+- Emergent Impella CP (left-sided temporary LVAD) placed  
+- Nephrology consulted for oliguria, rising creatinine  
+- Started on empiric cefepime, vancomycin for possible sepsis  
+
+**Day 2:**  
+- On Impella support, MAPs improved  
+- Weaned norepinephrine, low-dose dobutamine continued  
+- Urine output minimal, CRRT initiated  
+- Lactate improved from 5.2 to 2.9  
+- Troponin I peaked at 3.7 ng/mL, trended down  
+- WBC 13.2, procalcitonin 0.19  
+- Mild transaminitis, likely ischemic  
+
+**Day 3:**  
+- Extubated to HFNC  
+- Ongoing AKI, mild improvement in UOP  
+- Impella flows stable, no hemolysis  
+- Anemia worsened (Hgb 8.3), transfused 1U PRBC  
+- Repeat echo: EF 18%, no tamponade  
+- Fevers to 38.5°C, blood cx negative  
+
+**Day 4:**  
+- Impella weaning trial, tolerated  
+- Dobutamine weaned off  
+- Ongoing mild delirium  
+- UOP improved, CRRT stopped  
+- LFTs improving  
+- Gout flare (L great toe), started prednisone taper  
+
+**Day 5:**  
+- Impella removed, hemodynamics stable  
+- Renal function improved (Cr 1.9 from peak 3.3)  
+- Mobilized to chair  
+- Off vasopressors  
+- Mild cough, CXR: improving edema  
+- Hgb stable at 9.2  
+
+**Day 6:**  
+- Ambulating with assistance  
+- Discharge planning initiated  
+- Simvastatin resumed  
+- Allopurinol, colchicine continued  
+- Plan for outpatient cardiology f/u, home health nursing  
+
+---
+
+# LABS (Selected, Inpatient Course)
+
+| Date      | WBC (10³/uL) | Hgb (g/dL) | Plts (10³/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO₂ (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | AST (U/L) | ALT (U/L) | AlkPhos (U/L) | Troponin I (ng/mL) |
+|-----------|--------------|------------|---------------|-------------|------------|-------------|--------------|-------------|------------|-------------|-----------|-----------|---------------|---------------------|
+| Day 1     | 13.2         | 9.7        | 238           | 135         | 5.5        | 101         | 19           | 41          | 3.3        | 121         | 38        | 42        | 69            | 3.7                 |
+| Day 2     | 12.8         | 8.9        | 210           | 137         | 4.9        | 103         | 21           | 39          | 3.2        | 112         | 41        | 36        | 72            | 2.8                 |
+| Day 3     | 11.4         | 8.3        | 189           | 139         | 4.1        | 102         | 23           | 28          | 2.7        | 98          | 35        | 29        | 54            | 1.1                 |
+| Day 4     | 9.0          | 9.1        | 220           | 140         | 4.2        | 104         | 24           | 22          | 2.2        | 101         | 28        | 23        | 39            | 0.7                 |
+| Day 5     | 8.7          | 9.2        | 247           | 139         | 4.0        | 102         | 25           | 18          | 1.9        | 99          | 22        | 21        | 36            | 0.03                |
+| Day 6     | 7.2          | 10.0       | 255           | 141         | 4.3        | 105         | 25           | 16          | 1.4        | 97          | 19        | 17        | 33            | -                   |
+
+*Some missing/uncaptured labs on certain days due to technical issues or not ordered.*
+
+---
+
+# PROBLEM-BASED ASSESSMENT & PLAN
+
+## 1. Cardiogenic Shock, Severe LV Dysfunction (EF 15%)
+- Etiology: Likely viral myocarditis (recent URI), possible ischemic insult
+- Course: Required temporary LVAD (Impella CP) for 5 days
+- Plan:  
+  - Continue GDMT for HFrEF (ACEi/ARB, BB when stable, spironolactone)
+  - Cardiac MRI outpatient to assess for myocarditis
+  - Evaluate for ICD at follow-up
+  - Strict I/Os, daily weights
+
+## 2. Acute Kidney Injury (KDIGO III), Oliguric → Improving
+- Multifactorial: Low perfusion, possible nephrotoxins, NSAIDs
+- CRRT x 2 days, now off, improving
+- Plan:  
+  - Avoid nephrotoxins (no NSAIDs)
+  - Monitor renal function daily
+  - Nephrology to follow
+
+## 3. Anemia (Multifactorial; chronic + acute on chronic)
+- Hgb nadir 8.3, transfused 1U PRBC
+- Plan:  
+  - Monitor CBC
+  - Iron studies, B12/folate pending
+  - GI evaluation outpatient if ongoing
+
+## 4. Gout Flare (L great toe)
+- Precipitated by illness/AKI
+- Plan:  
+  - Prednisone taper started
+  - Hold NSAIDs due to AKI
+  - Continue allopurinol, colchicine
+
+## 5. Hyperlipidemia
+- Off statin during AKI, now resumed
+- Plan:  
+  - Simvastatin 10mg QHS
+  - Dietician consult
+
+## 6. Delirium (ICU, multifactorial)
+- Improving with reduction of sedatives, improved perfusion
+- Plan:  
+  - Reorient, minimize restraints
+  - PT/OT, early mobilization
+
+## 7. Recent Viral URI (now resolving)
+- Monitor for secondary infection
+- Plan:  
+  - Supportive care
+
+## 8. Prediabetes
+- Glucose stable, A1c 5.8%
+- Plan:  
+  - Monitor, dietician to see
+
+## 9. Pain Control
+- Gout flare, post-procedure
+- Plan:  
+  - Acetaminophen scheduled
+  - Hydrocodone/acetaminophen PRN
+
+## 10. Infectious Concerns
+- No growth on cultures
+- Procalcitonin negative
+- Plan:  
+  - Discontinue antibiotics if afebrile x48h
+
+---
+
+# DISCHARGE PLANNING
+
+- Education on heart failure, medication adherence
+- Outpatient cardiology, nephrology, and primary care follow-up
+- Home health for medication management, wound care (Impella site)
+- No driving until cleared by cardiology
+- 24/7 contact for symptoms: SOB, chest pain, syncope
+
+---
+
+**Signed:**  
+Dr. Asha Patel, MD  
+Cardiology/Critical Care  
+Date: 2024-04-19  
+---

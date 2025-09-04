@@ -1,0 +1,159 @@
+**Patient:** Daniella Mertz  
+**MRN:** 00928415  
+**DOB:** 11/17/1957  
+**Sex:** Female  
+**Attending:** Dr. Samuelson  
+**Admitting Dx:** Cardiogenic shock, acute on chronic systolic heart failure  
+**Admission Date:** 06/06/2024  
+**Note Date:** 06/13/2024  
+**Location:** MICU - Bed 4  
+
+---
+
+# HOSPITAL COURSE SUMMARY
+
+**CC:** "Shortness of breath, chest pressure, dizziness, and confusion."
+
+**HPI:**  
+Daniella Mertz is a 66-year-old female with PMH significant for obesity, chronic sinusitis, hyperlipidemia, CKD stage III, remote colon polypectomy, and recurrent UTIs, who presented to the ED with 3 days of worsening dyspnea on exertion, orthopnea, and 1 day of new confusion. She was found to be hypotensive to the 70s/40s, tachycardic, and hypoxic. Initial labs revealed an acute kidney injury on CKD, elevated BNP, and troponin. CXR showed pulmonary edema. Echo revealed a severely depressed EF (15%) with global hypokinesis. She developed progressive shock refractory to high-dose vasopressors and inotropes, requiring intubation for hypoxic respiratory failure. A temporary left-sided Impella CP device was placed for mechanical circulatory support on HD#2. She was managed in the MICU with gradual improvement, weaned off vasopressors by HD#5, and Impella explanted on HD#6. Renal function partially recovered, but the patient required diuresis for ongoing volume overload. Hospital course complicated by UTI, delirium, and persistent hyperlipidemia.
+
+---
+
+# ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock (Acute on Chronic HFrEF):**
+- Admitted in decompensated heart failure, likely ischemic etiology (elevated troponin, global hypokinesis).
+- Required temporary MCS (Impella) for refractory shock.
+- Weaned off pressors, transitioned to gentle diuresis.
+- Continue GDMT (hold ACEi for now due to AKI), resume beta-blocker when stable.
+- Cardiology to follow, consider coronary angiography after recovery.
+- Daily weights, strict I/Os, monitor for recurrence of shock.
+
+**2. Acute Kidney Injury on CKD III:**
+- Likely multifactorial: low perfusion, contrast exposure, baseline CKD.
+- Creat peaked at 4.2, now improved to 2.6, still above baseline (~1.8).
+- Foley in place for accurate I/Os.
+- Renal consult obtained, recommend avoidance of nephrotoxins, careful volume management.
+- Monitor electrolytes, adjust meds for renal function.
+
+**3. Respiratory Failure (Pulmonary Edema):**
+- Intubated for hypoxic resp failure on HD#1, extubated HD#4.
+- CXR improved, O2 sat stable on 2L NC.
+- Diuresis ongoing.
+- Incentive spirometry, pulmonary toilet.
+
+**4. UTI (E. coli):**
+- Positive urine cx on HD#2, started on IV ceftriaxone, then transitioned to oral nitrofurantoin after sensitivities.
+- Completed 5-day course; f/u cultures negative.
+- Foley care, monitor for recurrence.
+
+**5. Obesity (BMI ~30):**
+- Nutrition consult.
+- Low sodium, low cholesterol diet.
+- Encourage mobility as tolerated.
+
+**6. Hyperlipidemia:**
+- Home simvastatin resumed.
+- Lipid panel repeated, no acute changes.
+- Outpatient lipid clinic referral.
+
+**7. Delirium:**
+- Fluctuating attention, likely multifactorial (ICU, infection, metabolic).
+- Reoriented frequently, sleep hygiene, minimize sedatives.
+- Psychiatry consulted for support.
+
+**8. Chronic Sinusitis, Hx Colon Polyps, Hx 1st Trimester Miscarriage:**
+- No acute issues during admission.
+- Routine follow-up as outpatient.
+
+---
+
+# PERTINENT LABS
+
+### CBC & CHEMISTRY (select values; blanks = not drawn)
+
+| Date        | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Gluc | Ca   |
+|-------------|------|------|------|------|------|------|------|------|------|------|------|------|
+| 6/6/24 AM   | 8.1  | 14.2 | 35.8 | 298  | 139  | 3.8  | 110  | 23.8 | 15.4 | 3.0  | 71   | 8.7  |
+| 6/6/24 PM   | 9.4  | 13.8 | 34.9 | 276  | 137  | 4.2  | 105  | 22.1 | 28.7 | 3.8  | 96   |      |
+| 6/7/24 AM   | 10.7 | 12.9 | 33.1 | 241  | 138  | 4.7  | 108  | 26.0 | 34.2 | 4.2  | 110  | 8.3  |
+| 6/8/24 AM   | 8.9  | 12.5 | 32.0 | 220  | 136  | 4.1  | 106  | 25.9 | 29.6 | 3.6  |      | 8.5  |
+| 6/9/24 AM   | 7.6  | 11.8 | 30.1 | 210  | 138  | 3.7  | 109  | 27.0 | 23.2 | 2.9  | 85   | 8.8  |
+| 6/10/24 AM  |      | 12.3 | 31.2 | 224  | 140  | 4.0  | 111  | 27.2 | 18.5 | 2.6  | 94   |      |
+| 6/12/24 AM  | 7.9  | 12.7 | 32.3 | 217  | 138  | 3.9  | 108  | 26.8 | 17.1 | 2.4  | 102  | 8.9  |
+
+### ADDITIONAL LABS
+
+- **Troponin I:** 0.13 → 0.28 → 0.21 ng/mL (peak HD#1)
+- **BNP:** 1872 pg/mL (admission)
+- **Liver panel:** 
+    - AST 19, ALT 23, Alk Phos 131, T. bili 0.5 (all stable)
+- **Lipid panel (repeat 6/12):**
+    - Total chol 298, LDL 193, HDL 22, TG 356
+
+---
+
+# PROCEDURES
+
+- **6/6/24:** Right heart cath (CI 1.6, wedge 25 mmHg, RA 13)
+- **6/7/24:** Impella CP placement (left femoral artery, no complications)
+- **6/10/24:** Impella explant at bedside
+
+---
+
+# MICROBIOLOGY
+
+- **Urine culture (6/7):** E. coli >100,000 CFU/mL, sensitive to nitrofurantoin, ceftriaxone
+- **Blood cultures:** No growth
+
+---
+
+# VITALS (select)
+
+| Date/Time     | Temp | HR  | BP     | RR | SpO2 | Pain |
+|---------------|------|-----|--------|----|------|------|
+| 6/6 08:00     | 36.8 | 115 | 73/41  | 28 | 90%  | 4    |
+| 6/6 16:00     | 37.2 | 108 | 88/54  | 25 | 94%  | 3    |
+| 6/7 07:00     | 36.5 | 102 | 91/58  | 20 | 95%  | 2    |
+| 6/8 09:00     | 36.6 | 96  | 104/63 | 18 | 97%  | 1    |
+| 6/10 10:00    | 36.7 | 84  | 116/67 | 16 | 98%  | 0    |
+
+---
+
+# HOSPITAL MEDICATIONS
+
+- IV furosemide, titrated
+- Metoprolol (held HD#1-5, restarted HD#6)
+- Simvastatin 10mg QHS
+- Ceftriaxone IV, then nitrofurantoin PO
+- Phenazopyridine PRN
+- DVT prophylaxis: Enoxaparin SC
+- Pantoprazole IV
+- Acetaminophen PRN
+
+---
+
+# DISCHARGE PLANNING
+
+- Anticipate transfer to cardiac stepdown 6/14
+- Home with daughter, close follow-up with cardiology, nephrology, primary care
+- Outpatient echo, lipid clinic, colonoscopy overdue (routine f/u)
+- Home meds: resume statin, beta-blocker, nitrofurantoin x2d, furosemide
+- Instructions on daily weight, low sodium diet, s/sx of decompensation
+
+---
+
+# ADDENDUMS
+
+- Dr. Shah (Renal): "Stable, continue supportive care."
+- Dr. Lee (Psych): "Delirium likely multifactorial, no antipsychotics recommended."
+- Case management: "Home health PT/OT arranged."
+
+---
+
+**Signed:**  
+Erin McNamara, MD  
+MICU Team  
+06/13/2024 15:21
+
+---

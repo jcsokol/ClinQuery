@@ -1,0 +1,201 @@
+**INPATIENT PROGRESS NOTE (ICU) – EPIC**
+
+**Patient:** Verónica Villanueva  
+**MRN:** 0082991-22  
+**DOB:** 06/20/1927  
+**Sex:** F  
+**Admit Date:** 02/01/2024  
+**Attending:** Dr. J. Garza  
+**Location:** MICU, Bed 5  
+**Code Status:** Full  
+**Allergies:** NKDA  
+**Language:** Spanish  
+**Interpreter Needed:** Yes  
+
+---
+
+### CHIEF COMPLAINT
+Altered mental status, shortness of breath, and hypotension.
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+
+Ms. Verónica Villanueva is a 96-year-old female with a history of Alzheimer’s dementia, prediabetes, chronic anemia, hyperlipidemia, and remote miscarriage, who presented to the ED from her nursing facility for acute-onset confusion, productive cough, and dyspnea. She was hypoxic and hypotensive on arrival (BP 78/54, SpO2 84% RA), requiring oxygen escalation and fluid resuscitation. Chest X-ray showed right lower lobe consolidation, and blood cultures were obtained.
+
+Over the next 12 hours, she developed progressive hypotension and signs of shock refractory to fluids and vasopressors. Echocardiogram revealed severe LV systolic dysfunction (EF 15%), global hypokinesis, and elevated filling pressures. Cardiology was consulted and recommended placement of a percutaneous left ventricular assist device (Impella CP) for cardiogenic shock, likely secondary to sepsis-induced myocardial dysfunction with underlying ischemic cardiomyopathy.
+
+She was transferred to the MICU, where the Impella was placed uneventfully via femoral approach. She remains on mechanical circulatory support with Impella, low-dose norepinephrine, and broad-spectrum antibiotics for pneumonia.
+
+---
+
+### PAST MEDICAL HISTORY
+- Alzheimer’s dementia (severe)
+- Hyperlipidemia
+- Chronic anemia
+- Prediabetes
+- Remote miscarriage x1
+- Otitis media (remote)
+- Pneumonia (multiple prior episodes)
+
+### PAST SURGICAL HISTORY
+- None reported
+
+### SOCIAL HISTORY
+- Lives in SNF, full care
+- No tobacco, no EtOH, no illicit drugs
+- Widowed, 2 children
+
+### MEDICATIONS (on admission)
+- Simvastatin 10 mg PO QHS
+- Galantamine 4 mg PO QAM
+- Memantine oral solution 2 mg/mL, 5 mL BID
+- Amoxicillin 500 mg PO TID (recent, for otitis media)
+- Acetaminophen 325 mg PO PRN
+
+---
+
+### PHYSICAL EXAM (ICU, Day 3)
+
+**Gen:** Elderly F, frail, minimally responsive  
+**VS:**  
+- Temp: 36.8°C  
+- HR: 103  
+- BP: 91/55 (MAP 65 on norepi 0.07 mcg/kg/min)  
+- RR: 22  
+- SpO2: 96% (2L nasal cannula)  
+- Weight: 68.6 kg  
+**HEENT:** Pupils equal/reactive, dry mucous membranes  
+**CV:** S1/S2, no murmur, Impella audible, peripheral pulses weak  
+**Resp:** Rales at RLL, tachypneic  
+**GI:** Soft, non-tender  
+**GU:** Foley, clear yellow urine  
+**Neuro:** Nonverbal, follows some simple commands; MMSE not feasible  
+**Skin:** Cool, mild mottling legs, sacral stage 1 ulcer  
+**Lines:** R femoral Impella, R IJ triple lumen, L radial A-line, Foley  
+
+---
+
+## LABS
+
+#### Table 1. CBC & Chem 7 (Selected)
+
+| Date       | WBC   | Hgb   | Hct   | Plt   | Na    | K     | Cl    | CO2   | BUN   | Cr    | Glu   |
+|------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| 2/1 AM     | 9.0   | 10.2  | 30.6  | 299   | 137   | 4.8   | 108   | 27    | 14    | 0.42  | 68    |
+| 2/1 PM     | 11.8  | 9.7   | 29.1  | 262   | 139   | 5.1   | 110   | 25    | 18    | 0.55  | 144   |
+| 2/2 AM     | 14.9  | 9.1   | 27.2  | 243   | 141   | 4.6   | 111   | 23    | 22    | 0.69  | 132   |
+| 2/2 PM     | 13.5  | 8.5   | 25.8  | 217   | 142   | 4.3   | 111   | 22    | 26    | 0.81  |       |
+| 2/3 AM     | 12.1  | 8.3   | 24.7  | 199   | 144   |       | 112   | 22    | 29    | 1.05  | 97    |
+| 2/3 PM     | 10.9  | 8.1   | 24.3  | 187   | 145   | 4.1   |       | 21    | 33    | 1.12  | 77    |
+
+**Other Labs:**
+- Troponin I: 0.12 → 0.21 → 0.15 ng/mL (mildly elevated, peaked 2/1 PM)
+- BNP: 1890 pg/mL (2/1 PM)
+- Lactate: 4.1 → 2.5 → 1.8 mmol/L (trending down)
+- LFTs: AST 22, ALT 21, Alk Phos 104, Tbili 0.7 (stable)
+- Albumin: 3.5 g/dL  
+- PT/INR: 18.1/1.4 (2/2 AM)  
+- ABG (2/1 PM): 7.31/37/61/17, FiO2 0.28
+
+---
+
+### IMAGING
+
+- **CXR (2/1):** RLL consolidation, small bilateral effusions, mild cardiomegaly
+- **Echo (2/1):** EF 15%, global hypokinesis, dilated LV, moderate MR, mild TR, RV function mildly reduced
+- **Head CT (2/2):** No acute infarct or bleed; severe atrophy
+
+---
+
+### MICROBIOLOGY
+
+- Blood cultures: Pending
+- Sputum: Gram-negative rods, culture pending
+
+---
+
+## ASSESSMENT & PLAN
+
+1. **Cardiogenic Shock (presumed sepsis-induced + ischemic cardiomyopathy)**
+   - Impella CP placed (2/1) for hemodynamic support; MAP >65 with norepi
+   - Monitor device flows, wean as tolerated
+   - Daily TTE to assess LV recovery
+   - Serial lactate, end-organ markers
+   - Consider IABP/ECMO if no improvement
+   - Cardiology to follow
+
+2. **Sepsis, likely secondary to healthcare-associated pneumonia**
+   - Cefepime + azithromycin started (2/1)
+   - Blood, urine, sputum cultures pending
+   - Monitor for de-escalation once sensitivities available
+
+3. **Acute on Chronic Anemia**
+   - Baseline hgb 10-11; now 8.1, likely dilutional + GI loss (occult blood +)
+   - 1 unit PRBCs transfused 2/2 AM
+   - Monitor for further drops, trend retic, iron studies
+
+4. **Hypoxemic Respiratory Failure**
+   - On 2L NC, improving oxygenation
+   - Incentive spirometry, pulmonary hygiene
+   - Monitor for escalation
+
+5. **Alzheimer’s Dementia (severe)**
+   - MMSE not feasible; baseline nonverbal
+   - Continue cholinesterase inhibitors; monitor for delirium
+
+6. **Hyperlipidemia**
+   - Continue simvastatin
+
+7. **Prediabetes**
+   - Glucose mostly <150, no insulin required
+
+8. **Electrolyte Abnormalities**
+   - Mild hyponatremia, K trending down (replete if <4)
+   - Monitor Mg, Phos (last: Mg 1.8, Phos 2.1)
+
+9. **AKI (prerenal, likely from shock)**
+   - Creatinine uptrending (0.4 → 1.1)
+   - Monitor UOP, avoid nephrotoxins
+
+10. **Pressure Injury, Sacrum (stage 1)**
+    - Wound care, frequent turns
+
+11. **Pain/Comfort**
+    - Acetaminophen prn, goal comfort
+
+12. **Advanced Care Planning**
+    - Discussed goals of care with family; remains full code
+
+---
+
+**Consults:**  
+- Cardiology (Impella)  
+- Infectious Disease (pending)  
+- Nutrition (high-calorie, high-protein diet)
+
+---
+
+**To Do:**
+- Daily labs (CBC, lytes, lactate, trop)
+- Monitor Impella site for bleeding/infection
+- Family update daily
+- Continue supportive care
+
+---
+
+**Attestation:**  
+Dr. J. Garza, MD  
+MICU  
+02/03/2024 17:25
+
+---
+
+**NEXT STEPS:**  
+- Wean Impella if hemodynamics allow  
+- Continue antibiotics, monitor for source control  
+- Reassess for extubation/transfer out of ICU when stable
+
+---
+
+**END OF NOTE – SEE FLOW SHEETS FOR ADDITIONAL DATA**

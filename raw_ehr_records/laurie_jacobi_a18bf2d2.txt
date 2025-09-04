@@ -1,0 +1,219 @@
+**[EPIC EHR VIEW – ICU ADMISSION NOTE]**
+
+---
+
+**Patient Name:** Laurie Jacobi  
+**MRN:** 003829492  
+**DOB:** 1960-06-19 (63 years)  
+**Sex:** Female  
+**Date of Admission:** 2024-03-19  
+**Attending:** Dr. Natalie K. Sullivan, MD  
+**Admitting Dx:** Acute decompensated heart failure, cardiogenic shock  
+**ICU Admission:** Yes  
+**History of Present Illness:**  
+Laurie Jacobi is a 63-year-old female with a past medical history notable for chronic sinusitis, obesity (BMI ~29-30), anemia, colon polyps (hx of overlapping malignant neoplasm), and recurrent rectal polyp, who presented to the ED with 2 days of progressive dyspnea, orthopnea, and lower extremity edema. She developed acute hypoxic respiratory failure and hypotension refractory to initial diuretics and vasopressors, prompting ICU transfer. On hospital day 2, she developed worsening cardiogenic shock and required placement of a temporary left-sided heart pump (Impella CP) for hemodynamic support.
+
+**Past Medical History:**
+- Chronic/recurrent sinusitis
+- Obesity (BMI 29-31)
+- Anemia
+- Colon polyps (benign and malignant, s/p multiple polypectomies)
+- Hx of miscarriage, 1st trimester & tubal pregnancy
+- Overlapping malignant neoplasm of colon (s/p resection 2018, NED)
+- Recurrent rectal polyp
+- Laceration of forearm (remote, resolved)
+
+**Past Surgical History:**
+- Colon polypectomy x3 (2017, 2018, 2021)
+- Laparoscopic salpingectomy (2012)
+- Cholecystectomy (remote)
+
+**Family History:**  
+Non-contributory for CAD. Mother with breast ca, father with DM2.
+
+**Social History:**  
+Retired teacher. Non-smoker. Rare EtOH. Lives with husband. No illicit drug use.
+
+**Allergies:**  
+NKDA
+
+**Home Medications:**  
+- Etonogestrel (Nexplanon) implant  
+- Acetaminophen 325 mg PRN  
+- Multivitamin OTC
+
+---
+
+### ICU Hospital Course
+
+**Day 0-1:**  
+Admitted for acute decompensated HF. BNP 2340. Troponin mildly elevated (0.11 → 0.16 ng/mL). Started on IV furosemide, BiPAP, and low-dose norepinephrine for MAP<60. CXR: pulmonary edema. Echo: EF 22%, global hypokinesis, moderate MR, mild RV dysfunction.
+
+**Day 2:**  
+Worsening shock despite inotropes. Lactate 4.1. Escalation to dobutamine and vasopressin. Developed oliguria, rising Cr to 2.3. Multidisciplinary decision for temporary mechanical circulatory support. Impella CP placed via femoral approach. Immediate hemodynamic improvement.
+
+**Day 3-5:**  
+Gradual improvement in perfusion. Diuresis continued. Impella weaned off on day 5. Extubated to high-flow NC. Creatinine improved to 1.6. Monitored for hemolysis—haptoglobin stable, no significant elevation in LDH. Colonoscopy deferred due to instability.
+
+**Day 6-7:**  
+Stable hemodynamics. Mobilized to chair. TTE: EF improved to 31%. Monitoring for arrhythmias (none noted). Workup for underlying etiology ongoing (ischemic vs non-ischemic cardiomyopathy).
+
+---
+
+### Problem List
+
+1. **Acute Decompensated Heart Failure (HFrEF, EF 22%)**
+   - Admission for acute on chronic HF, likely ischemic or tachycardia-induced.
+   - Required temporary Impella support for cardiogenic shock.
+   - Now off Impella, stable on low-dose dobutamine.
+   - Plan: Continue aggressive diuresis, monitor fluid status, transition to guideline-directed medical therapy (GDMT) as tolerated.
+
+2. **Cardiogenic Shock**
+   - Required norepinephrine, dobutamine, and temporary mechanical support.
+   - Lactate normalized, urine output improved.
+   - Plan: Titrate off inotropes, monitor for recurrence. Consider cardiac MRI for etiology.
+
+3. **Anemia (Hx, Now Stable)**
+   - Baseline Hgb ~10-12; admission Hgb 9.8, transfused 1 unit PRBC on day 2.
+   - Plan: Monitor CBC, iron studies pending. GI workup deferred until stable.
+
+4. **Obesity (BMI 29-30)**
+   - Contributes to HF and OSA risk.
+   - Plan: Nutrition consult, low-salt, fluid-restricted diet.
+
+5. **Chronic Sinusitis**
+   - No acute exacerbation during admission.
+   - Plan: Continue home meds, ENT f/u as outpatient.
+
+6. **Polyp of Colon/Overlapping Malignant Neoplasm**
+   - Hx of colon ca, s/p resection, NED.
+   - Recurrent polyps, surveillance delayed due to instability.
+   - Plan: Colonoscopy outpatient.
+
+7. **AKI on CKD (Stage 2)**
+   - Cr peaked at 2.3, now 1.6.
+   - Plan: Monitor renal function, avoid nephrotoxins.
+
+8. **Other:**
+   - Electrolyte disturbances: mild hypokalemia (K 3.2), repleted.
+   - Mild transaminitis (AST 67/ALT 42) during shock, now resolving.
+   - No evidence of infection/sepsis.
+
+---
+
+### Assessment & Plan
+
+**1. Acute Decompensated HFrEF, Cardiogenic Shock**  
+- Impella placed day 2, weaned day 5.  
+- Now off inotropes, euvolemic.  
+- Continue diuresis, initiate low-dose ACEi, beta-blocker titration as tolerated.  
+- Cardiology f/u, consider advanced therapies evaluation if recurrent.
+
+**2. AKI, Improved**  
+- Monitor daily labs, strict I/Os, renal dosing for all meds.
+
+**3. Anemia**  
+- Transfused for Hgb <10, now stable.  
+- Resume oral iron if GI tract stable.
+
+**4. Nutrition/Obesity**  
+- Nutritionist to see, calorie restriction discussed.  
+- Weight trending down.
+
+**5. Colon Polyps/Cancer history**  
+- Awaiting outpatient GI f/u.
+
+**6. Chronic Sinusitis**  
+- No acute issues.
+
+**7. Secondary Prevention**  
+- DAPT not indicated.  
+- Statin started for CAD risk reduction.
+
+**Dispo:**  
+- Anticipate stepdown transfer within 24-48h if stable.  
+- Outpatient f/u: Cardiology, GI, ENT, PCP.
+
+---
+
+### ICU Labs
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | AST (U/L) | ALT (U/L) | Troponin (ng/mL) | BNP (pg/mL) |
+|------------|------------|------------|---------|---------|-------------|------------|-------------|--------------|-------------|------------|-------------|-----------|-----------|------------------|-------------|
+| 3/19 06:00 | 10.2       | 9.8        | 29.7    | 178     | 139         | 3.4        | 107         | 22           | 34          | 1.8        | 146         | 35        | 39        | 0.11             | 2340        |
+| 3/20 05:45 | 11.3       | 8.9        | 27.4    | 154     | 137         | 3.2        | 104         | 20           | 41          | 2.3        | 128         | 67        | 42        | 0.16             | 2240        |
+| 3/21 06:20 | 9.8        | 10.3       | 31.0    | 163     | 138         | 3.8        | 108         | 24           | 32          | 2.0        | 138         | 48        | 41        | 0.10             | 2100        |
+| 3/22 06:05 | 8.2        | 11.2       | 33.7    | 189     | 140         | 3.9        | 109         | 23           | 28          | 1.6        | 144         | 38        | 36        | --               | 1980        |
+| 3/23 07:00 | 7.6        | 12.0       | 35.8    | 201     | 139         | 4.0        | --          | 25           | 24          | 1.6        | 132         | 27        | 33        | --               | --          |
+| 3/24 07:30 | 7.8        | --         | --      | 212     | 141         | 4.1        | 108         | 26           | 22          | 1.4        | 124         | --        | --        | --               | 1710        |
+
+---
+
+**Other Relevant Labs:**
+- Haptoglobin: 112 mg/dL (3/20)
+- LDH: 188 U/L (3/20)
+- Ferritin: 376 ng/mL (3/21)
+- Iron: 42 mcg/dL (3/21)
+- TIBC: 210 mcg/dL (3/21)
+- NT-proBNP: 14,700 pg/mL (3/19)
+- PT/INR: 1.1 (3/20)
+- aPTT: 27 sec (3/20)
+- Type & Screen: O+, negative antibody screen (3/19)
+
+---
+
+**Vitals (selected):**
+
+| Date       | Temp (°F) | HR | BP (mmHg) | RR | SpO2 (%) | Weight (kg) |
+|------------|-----------|----|-----------|----|----------|-------------|
+| 3/19 06:00 | 98.4      | 112| 87/58     | 22 | 92%      | 66.1        |
+| 3/20 06:00 | 99.1      | 108| 92/61     | 20 | 95%      | 65.2        |
+| 3/21 06:00 | 98.7      | 97 | 101/69    | 18 | 96%      | 64.8        |
+| 3/22 06:00 | 98.3      | 88 | 108/74    | 16 | 97%      | 64.5        |
+| 3/23 07:00 | 98.0      | 82 | 112/78    | 16 | 97%      | 64.0        |
+
+---
+
+**Medications (Inpatient):**
+- Furosemide IV 40 mg q8h (then PO)
+- Dobutamine IV (tapered off)
+- Norepinephrine IV (d/c’d)
+- Vasopressin IV (d/c’d)
+- Potassium chloride PO/IV
+- Multivitamin PO
+- Acetaminophen PRN
+- Atorvastatin 40 mg PO QHS
+- Lisinopril 2.5 mg PO daily (initiated day 6)
+- Metoprolol succinate 12.5 mg PO daily (initiated day 7)
+
+---
+
+**Procedures:**
+- Right IJ central line (3/19)
+- Arterial line (3/19)
+- Impella CP placement (3/20)
+- Extubation (3/22)
+
+---
+
+**Consults:**
+- Cardiology
+- Nephrology (AKI)
+- Nutrition
+
+---
+
+**Discharge Planning:**
+- Anticipate transfer to stepdown, possible discharge to home with home health for daily weights, BP monitoring.
+- Outpatient f/u: Cardiology (1 wk), GI (1 mo), ENT (prn), PCP (2 wks).
+- Education: HF self-management, low-salt diet, medication adherence.
+
+---
+
+**Physician Attestation:**  
+I have personally examined the patient and reviewed the above data.  
+Natalie K. Sullivan, MD  
+ICU Attending  
+03/24/2024 09:21
+
+---

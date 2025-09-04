@@ -1,0 +1,165 @@
+**Patient Name:** Jeffrey Jacobson  
+**MRN:** 00548723  
+**DOB:** 10/14/1988 (35 yo)  
+**Sex:** Male  
+**Admission Date:** 05/28/2024  
+**Attending:** Dr. S. Patel  
+**Location:** MICU, 4E  
+**Note Type:** ICU Progress Note  
+**Date/Time:** 06/04/2024 08:17  
+
+---
+
+### CHIEF COMPLAINT  
+Shortness of breath, chest tightness, and lower extremity swelling x 1 week.
+
+---
+
+### HISTORY OF PRESENT ILLNESS  
+35-year-old male with hx of severe obesity (BMI 44), hypertension, and recent acute bronchitis, presenting with progressive SOB, orthopnea, and paroxysmal nocturnal dyspnea. Noted to have lower extremity edema, cough, and intermittent chest discomfort. PMH notable for viral sinusitis 2 weeks ago; also reports left shoulder pain s/p rotator cuff injury and a remote laceration to the left foot (now healed). No prior cardiac history. On arrival, found to be hypoxic and tachycardic, with bibasilar crackles and elevated JVP.
+
+Initial workup notable for elevated BNP, troponin, and CXR with pulmonary edema. Echo demonstrated severe global LV dysfunction (EF 15%), moderate RV dysfunction, and moderate MR. Admitted to MICU for management of acute decompensated heart failure with cardiogenic shock. Required escalating vasopressors and inotropes. On HD2, due to worsening end-organ dysfunction and persistent hypotension, pt underwent percutaneous placement of a temporary LVAD (Impella CP).
+
+---
+
+### HOSPITAL COURSE  
+- **HD1:** Initial stabilization, started on IV Lasix, dobutamine, and norepinephrine.  
+- **HD2:** Worsening shock, placed Impella CP via femoral approach.  
+- **HD3-4:** Improved hemodynamics, weaned pressors, on Impella support. Monitored for hemolysis.  
+- **HD5:** Weaning Impella, started low-dose carvedilol and sacubitril/valsartan.  
+- **HD6:** Impella removed, continued diuresis, stable on low-dose inotropes.  
+- **HD7:** Transferred to stepdown for ongoing HF optimization; pending cardiac MRI.
+
+---
+
+### PAST MEDICAL HISTORY  
+- Obesity (BMI 44)  
+- Hypertension  
+- Acute bronchitis (recent)  
+- Viral sinusitis  
+- Rotator cuff injury (left)  
+- Laceration of left foot (resolved)  
+
+### PAST SURGICAL HISTORY  
+- None
+
+### ALLERGIES  
+- NKDA
+
+### HOME MEDICATIONS  
+- Hydrochlorothiazide 12.5 mg qAM  
+- Acetaminophen 325 mg PRN  
+- Ibuprofen 200 mg PRN
+
+---
+
+### VITALS (Selected)  
+
+| Date       | Temp (C) | HR | BP         | RR | SpO2 | Wt (kg) | Pain |  
+|------------|----------|----|------------|----|------|---------|------|  
+| 5/28/24 AM | 37.3     | 122| 88/54      | 28 | 92%  | 114.5   | 3    |  
+| 5/29/24 AM | 37.1     | 108| 96/60      | 22 | 94%  | 112.8   | 2    |  
+| 5/30/24 PM | 36.9     | 98 | 112/64     | 18 | 96%  | 111.3   | 2    |  
+| 6/1/24 AM  | 37.0     | 87 | 118/72     | 16 | 97%  | 109.6   | 1    |  
+
+---
+
+### LABS
+
+**CBC & CHEMISTRIES (Selected)**
+
+| Date/Time  | WBC (K) | Hgb (g/dL) | Plt (K) | Na | K  | Cl | CO2 | BUN | Cr | Glu | Ca |  
+|------------|---------|------------|---------|----|----|----|-----|-----|----|-----|----|  
+| 5/28/24 06:30 | 7.7   | 12.4       | 381     | 134| 4.9| 102| 19  | 32  | 1.7| 142 | 8.8|  
+| 5/29/24 04:50 | 8.2   | 11.9       | 376     | 136| 4.6| 104| 21  | 38  | 2.0| 156 |    |  
+| 5/30/24 05:15 | 9.0   | 11.2       | 352     | 139| 4.2| 103| 24  | 29  | 1.2| 128 | 8.9|  
+| 6/1/24 06:10  | 7.2   | 11.6       | 321     | 138| 4.1| 105| 20  | 19  | 1.0|     | 9.1|  
+| 6/3/24 07:20  | 6.8   | 12.1       | 310     | 140| 4.3|    | 23  |     | 0.9| 110 |    |  
+
+**OTHER RELEVANT LABS**
+
+- BNP: 2350 pg/mL (5/28/24)
+- Troponin I: 0.31 ng/mL (5/28/24), 0.22 (5/29/24)
+- AST: 71 U/L (5/29/24)
+- ALT: 54 U/L (5/29/24)
+- Total bili: 1.5 mg/dL (5/29/24)
+- INR: 1.3 (5/28/24)
+- LDH: 380 U/L (5/30/24)
+- Haptoglobin: 22 mg/dL (5/30/24)
+- UA: 1+ protein, no blood
+
+---
+
+### IMAGING/DIAGNOSTICS  
+- **CXR (5/28/24):** Pulmonary edema, mild cardiomegaly  
+- **Echo (5/28/24):** LVEF 15%, global hypokinesis, mod MR, mod RV dysfunction  
+- **ECG (5/28/24):** Sinus tach, low voltage, nonspecific ST-T changes  
+- **Cardiac MRI (pending)**
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock / Decompensated Heart Failure**
+   - Severe LV dysfunction (EF 15%), likely viral myocarditis vs. idiopathic DCM
+   - Temporary mechanical circulatory support (Impella CP) placed HD2, removed HD6
+   - Weaning inotropes, optimizing GDMT (carvedilol, sacubitril/valsartan, spironolactone)
+   - Diuresis ongoing, euvolemic
+   - Cardiology, HF, and CV surgery following
+
+**2. Obesity (BMI 44)**
+   - Nutritional consult, strict I/O, daily weights
+   - Encourage mobility as tolerated
+
+**3. Hypertension**
+   - Off home HCTZ, now on IV antihypertensives as needed
+   - Will titrate oral agents as able
+
+**4. Acute Renal Injury (resolved)**
+   - Likely pre-renal from low output state, improved with MCS
+   - Monitor renal function, avoid nephrotoxins
+
+**5. Liver Injury (transaminitis)**
+   - Likely congestive hepatopathy, trending down, monitor LFTs
+
+**6. Acute Viral Bronchitis / Sinusitis**
+   - Supportive care, no antibiotics
+   - Monitor for secondary infection
+
+**7. Left Rotator Cuff Tear**
+   - Pain controlled, ortho to evaluate as outpatient
+
+**8. Foot Laceration (resolved)**
+   - No current concerns
+
+**9. Pain**
+   - Acetaminophen PRN, avoid NSAIDs due to renal/liver injury
+
+**10. DVT Prophylaxis**
+   - SCDs, lovenox 40 mg daily
+
+**11. Disposition**
+   - Stepdown pending stable off inotropes
+   - Consideration for advanced therapies (LVAD eval, transplant) if no recovery
+
+---
+
+### ORDERS / TASKS  
+- Continue current cardiac meds, titrate as tolerated  
+- Daily labs: CBC, chem7, LFTs, troponin q48h  
+- Strict I/O  
+- Physical therapy eval  
+- Cardiac MRI  
+- Cardiology/HF team to follow  
+- Monitor for arrhythmia, hemolysis  
+- Advance diet as tolerated  
+
+---
+
+**Signed:** S. Patel, MD  
+**Co-signed:** N. Williams, MD (Cardiology)  
+**Date/Time:** 06/04/2024 08:17
+
+---
+
+**[End of note]**

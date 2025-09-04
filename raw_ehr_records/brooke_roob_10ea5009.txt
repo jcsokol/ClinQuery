@@ -1,0 +1,157 @@
+**INPATIENT PROGRESS NOTE**  
+**Patient:** Brooke Roob  
+**MRN:** 002948238  
+**DOB:** 03/07/1960 (64 y/o)  
+**Sex:** Female  
+**Date of Admission:** 05/22/2024  
+**Date of Note:** 05/25/2024  
+**Attending:** Dr. Daniel H. Kremens  
+**Consultants:** Cardiology, Cardiothoracic Surgery, Endocrinology, Nutrition, Social Work
+
+---
+
+### ADMISSION SUMMARY
+
+**Chief Complaint:**  
+Progressive shortness of breath, orthopnea, and lower extremity edema
+
+**History of Present Illness:**  
+Ms. Brooke Roob is a 64-year-old female with a history of obesity, hyperlipidemia (on chronic simvastatin), CKD III (baseline Cr ~1.7), and remote miscarriage, who presented with 1 week of worsening dyspnea, fatigue, and 2-pillow orthopnea. She reports decreased appetite, mild intermittent chest pressure, and swelling of both legs up to her knees. No fevers or recent travel, no cough, no prior MI. She takes simvastatin and naproxen intermittently for aches. Denies tobacco, rare EtOH, no illicit drugs.
+
+On arrival to ED: BP 92/54, HR 114, RR 26, O2 sat 91% on RA, afebrile. Exam with JVD 12cm, S3 present, bibasilar crackles, 2+ pitting edema. CXR: pulmonary edema, mild cardiomegaly. ECG: sinus tachycardia, nonspecific T wave changes. Troponin mildly elevated (0.09 → 0.12). BNP 1280. Echo: LVEF 12%, global hypokinesis, moderate MR.  
+Admitted to CICU for acute decompensated heart failure (new-onset), likely ischemic.  
+
+---
+
+### HOSPITAL COURSE
+
+**Day 1-2:**  
+Started on IV furosemide, nitroglycerin drip, and oxygen. Required escalating O2, developed hypotension, started on low-dose norepinephrine. Cardiology consulted: urgent left heart cath (no culprit lesion, diffuse CAD, no stent placed). Worsening shock (cardiogenic), rising lactate (max 4.2), AKI (Cr 2.7 → 3.5), LFTs up, UOP < 0.2cc/kg/hr.
+
+**Day 2:**  
+Multidisciplinary discussion: decision for temporary LVAD (Impella CP) bedside by CT surgery due to refractory cardiogenic shock.  
+Device placed without immediate complication. Hemodynamics improved, norepinephrine weaned off over 12h, O2 improved.  
+
+**Day 3-5:**  
+Gradual diuresis (net -3.2L), echo with LVEF up to 20%. Renal function slowly recovered (Cr 2.3). No arrhythmias. Started low-dose carvedilol, lisinopril. Mobilized to chair with PT. Ongoing wound care for L forearm laceration (superficial, healing).  
+
+**Day 5:**  
+LVAD weaned and explanted at bedside. Continued improvement. Plan for advanced HF therapy evaluation as outpatient.
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. **Cardiogenic Shock s/p Temporary LVAD (Impella CP) Placement**
+- Likely ischemic cardiomyopathy (no acute MI, but severe diffuse CAD)
+- Device placed for refractory shock, now explanted
+- **Plan:**  
+  - Continue guideline-directed medical therapy (GDMT) for HFrEF (carvedilol, lisinopril, spironolactone if K+ allows)
+  - Strict I/Os, daily weights, furosemide PRN
+  - Cardiac rehab consult
+  - Advanced HF/transplant eval outpatient
+  - Serial TTEs
+
+### 2. **Acute on Chronic Kidney Injury**
+- Likely multifactorial (cardiorenal, hypoperfusion, contrast)
+- Improved with volume status optimization
+- **Plan:**  
+  - Monitor BMP daily
+  - Avoid nephrotoxins
+  - Adjust meds for GFR
+  - Goal UOP >0.5cc/kg/hr
+
+### 3. **Hyperlipidemia**
+- On simvastatin
+- LDL goal <70 given CAD
+- **Plan:**  
+  - Continue statin, consider up-titration
+  - Lipid panel q6mo
+
+### 4. **Obesity (BMI 28–30)**
+- Counseling provided
+- **Plan:**  
+  - Nutritionist consult
+  - Encourage weight loss for HF
+
+### 5. **Laceration, L Forearm (superficial)**
+- Healing, no infection
+- **Plan:**  
+  - Continue daily dressing changes
+  - Monitor for signs of infection
+
+### 6. **Contraception / Reproductive Health**
+- Remote miscarriage, on OCPs (Estrostep)
+- **Plan:**  
+  - Assess risks/benefits with current cardiac status
+
+### 7. **Pain (Mild, VRS 3-4/10)**
+- Likely musculoskeletal, chronic
+- **Plan:**  
+  - Naproxen PRN, avoid NSAIDs if renal function worsens
+  - Consider Tylenol
+
+### 8. **Psychosocial**
+- Coping, support at home, social work involved
+
+---
+
+## LABS
+
+#### CBC & CHEMISTRY (abridged for length; see flowsheets for full data)
+
+| Date        | WBC  | Hgb   | Plt   | Na    | K    | Cl   | CO2   | BUN  | Cr   | Gluc | Ca   | AST  | ALT  | AlkPhos | T. Bili | Troponin | BNP   |
+|-------------|------|-------|-------|-------|------|------|-------|------|------|------|------|------|------|---------|---------|----------|-------|
+| 5/22/24 05:00| 6.2  | 14.6  | 374   | 136   | 3.7  | 108  | 26    | 7.4  | 2.9  | 73   | 9.3  | 12.2 | 40.7 | 45.8    | 1.0     | 0.09     | 1280  |
+| 5/23/24 04:30| 7.0  | 14.2  | 355   | 133   | 3.5  | 106  | 23    | 12.2 | 3.5  | 102  | 8.8  | 24.9 | 51.3 | 51.1    | 1.2     | 0.12     | 1150  |
+| 5/24/24 06:00| 8.4  | 13.7  | 312   | 134   | 3.9  | 108  | 25    | 16.7 | 3.2  | 110  | 9.1  | 28.2 | 53.0 | 54.2    | 1.1     | 0.08     | 970   |
+| 5/25/24 05:15| 7.8  | 13.9  | 299   | 137   | 4.1  | 109  | 27    | 10.2 | 2.3  | 98   | 9.0  | --   | 41.2 | --      | 0.8     | <0.01    | 780   |
+
+*Note: Some labs (AST, AlkPhos) not resulted on 5/25/24 due to specimen clot.*
+
+---
+
+## VITALS (selected)
+
+- Admission: BP 92/54, HR 114, T 36.8, RR 26, O2 91% RA, Wt 72.6 kg, BMI 27.9
+- Day 2 (shock): BP 74/40 (on norepi), HR 128, O2 97% (NRB)
+- Post-LVAD: BP 110/62, HR 96, O2 95% (2L NC)
+- Day 5: BP 112/68, HR 78, O2 96% (RA), Wt 70.2 kg
+
+---
+
+## IMAGING
+
+- **CXR (5/22):** Pulmonary edema, mild cardiomegaly
+- **Echo (5/22):** LVEF 12%, global hypokinesis, mod MR, dilated LV
+- **Echo (5/24):** LVEF 20%, improved filling pressures
+
+---
+
+## MEDICATIONS (Active)
+
+- Simvastatin 10mg PO qHS
+- Carvedilol 3.125mg PO BID (new)
+- Lisinopril 2.5mg PO daily (new)
+- Furosemide 40mg IV q12h
+- Spironolactone 25mg PO daily (held if K+ >5.0)
+- Estrostep Fe OCP
+- Naproxen 220mg PO PRN pain (hold if AKI)
+- PRN acetaminophen
+
+---
+
+## DISPOSITION
+
+- Anticipate transfer to telemetry, then home with close HF follow-up  
+- Outpatient advanced HF/transplant evaluation  
+- Home health nursing for wound care
+
+---
+
+**Signed:** Daniel H. Kremens, MD  
+**Date/Time:** 05/25/2024 13:42
+
+---
+
+**END OF NOTE**

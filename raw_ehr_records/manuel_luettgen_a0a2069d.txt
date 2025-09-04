@@ -1,0 +1,165 @@
+```
+----------------------------------------------------------------
+Inpatient Progress Note – ICU
+Author: A. Resident, MD           Date: 2024-06-13 08:41
+Patient: Manuel Luettgen          MRN: 0024842
+DOB: 2005-08-08 (Age: 18)         Sex: Male
+Admit Date: 2024-06-05            Service: Cardiac ICU
+----------------------------------------------------------------
+
+**Chief Complaint:**  
+Shortness of breath, chest pain, and fatigue.
+
+**History of Present Illness:**  
+Mr. Luettgen is an 18-year-old male with a PMH notable for recurrent viral upper respiratory tract infections (acute viral pharyngitis x3, viral sinusitis), who presented to the ED 8 days ago with 5 days of worsening dyspnea, orthopnea, and malaise. He described progressive fatigue, palpitations, and a non-productive cough. He denied prior cardiac history, drug use, or recent travel. On initial evaluation, he was tachycardic and hypotensive with evidence of low cardiac output and pulmonary edema on exam and CXR. Labs revealed leukopenia and elevated troponins. Echocardiogram demonstrated a severely reduced LVEF (~15%) with global hypokinesis.
+
+He was admitted to the ICU for acute decompensated heart failure, likely secondary to viral myocarditis. He developed worsening cardiogenic shock despite escalating inotropes and vasopressors, requiring the placement of a temporary left ventricular assist device (Impella CP) on hospital day 2 for hemodynamic support. Over the subsequent days, he required intensive diuresis, broad-spectrum antibiotics for possible superimposed infection, and close monitoring. The Impella was successfully weaned and removed on HD6, with gradual improvement in end-organ function and respiratory status.
+
+**Past Medical History:**  
+- Acute viral pharyngitis (multiple episodes)
+- Viral sinusitis
+
+**Past Surgical History:**  
+- None
+
+**Medications (on admission):**  
+- None
+
+**Allergies:**  
+- NKDA
+
+**Family History:**  
+- Noncontributory
+
+**Social History:**  
+- Lives with parents; high school student.
+- Denies tobacco, alcohol, or illicit drug use.
+
+**Review of Systems:**  
+- Constitutional: Fatigue, low-grade fevers
+- HEENT: Sore throat, nasal congestion (improved)
+- Cardiac: Chest pain, palpitations, orthopnea
+- Respiratory: Dyspnea, non-productive cough
+- GI: Decreased appetite, mild nausea
+- GU: No dysuria or hematuria
+- Neuro: No syncope, no focal deficits
+
+**Physical Exam (HD8):**  
+- Gen: Alert, mildly fatigued, NAD
+- Vitals: T 37.9°C, HR 94, BP 112/72, RR 18, SpO2 97% RA
+- HEENT: Oropharynx clear, no tonsillar exudate
+- CV: S1/S2 normal, no murmur, regular rhythm, no JVD
+- Lungs: Clear to auscultation, no rales
+- Abd: Soft, NT, no HSM
+- Ext: No edema, pulses 2+
+- Neuro: AOx3, no deficits
+
+---
+
+**Laboratory Results:**
+
+| Date       | WBC    | Hgb   | Hct   | Plt    | Na    | K     | Cl    | CO2   | BUN   | Cr     | Troponin | BNP    | AST   | ALT   |
+|------------|--------|-------|-------|--------|-------|-------|-------|-------|-------|--------|----------|--------|-------|-------|
+| 6/05/2024  | 4.7    | 12.9  | 47.2  | 395    | 137   | 4.2   | 103   | 23    | 18    | 1.31   | 1.2      | 2240   | 65    | 71    |
+| 6/06/2024  | 3.2    | 12.2  | 44.0  | 312    | 134   | 4.8   | 101   | 19    | 32    | 1.95   | 2.8      | 5880   | 92    | 104   |
+| 6/07/2024  | 3.8    | 11.5  | 41.5  | 239    | 138   | 4.1   | 105   | 25    | 24    | 1.42   | 1.6      | 4210   | 75    | 82    |
+| 6/08/2024  | 5.1    | 12.8  | 45.1  | 270    | 140   | 4.3   | 103   | 27    | 18    | 1.13   | 0.7      | 1270   | 54    | 68    |
+| 6/09/2024  | 6.3    | 13.1  | 46.3  | 303    | 141   | 4.0   | 104   | 26    | 16    | 1.02   | 0.3      | 590    | 38    | 54    |
+| 6/10/2024  |        | 13.4  | 47.5  |        | 139   | 3.9   | 103   | 24    | 13    | 0.89   | <0.01    | 242    | 32    |      |
+
+*Note: Some labs not collected daily or resulted late. Troponin = ng/mL, BNP = pg/mL, AST/ALT = U/L.*
+
+---
+
+**Hospital Course Summary:**
+
+- **HD1:** Admitted to ICU with acute heart failure/shock. Started on dobutamine, norepinephrine.
+- **HD2:** Progressive shock, oliguric, rising lactate and troponin. Placed Impella CP for mechanical support. Started empiric cefepime + vanc for fever and leukopenia. Intubated for hypoxemia.
+- **HD3-4:** Gradual improvement in MAP and urine output. Extubated HD4. Diuresed with furosemide drip.
+- **HD5-6:** Cardiac indices improved. Impella weaned and removed on HD6. Transitioned to oral heart failure therapy (carvedilol, lisinopril, spironolactone).
+- **HD7-8:** Further clinical improvement. Labs normalized. Ambulating in room. Preparing for transfer out of ICU.
+
+---
+
+**Imaging:**
+- CXR (HD1): Pulmonary edema, mild cardiomegaly.
+- Echo (HD1): LVEF 15%, global hypokinesis, no valve vegetations.
+- Echo (HD7): LVEF improved to 41%, mild LV dilation, no thrombus.
+
+---
+
+**Problem-Based Assessment & Plan:**
+
+1. **Acute Decompensated Heart Failure/Cardiogenic Shock (presumed viral myocarditis)**
+   - Required temporary Impella LV support (HD2-6).
+   - Now off pressors/inotropes, on oral HF regimen.
+   - Serial Echos, monitor for arrhythmia.
+   - Cardiology f/u. Consider cardiac MRI as outpatient.
+
+2. **Multiorgan Dysfunction (AKI, transaminitis)**
+   - AKI: Peak Cr 1.95, now improved to 0.89. Monitored UOP, avoided nephrotoxins.
+   - LFTs peaked, now downtrending.
+   - Monitor labs, maintain euvolemia.
+
+3. **Possible Superimposed Infection**
+   - Empiric abx started for fevers/leukopenia.
+   - All cultures negative, WBC improved.
+   - Abx discontinued on HD6.
+
+4. **Volume Overload/Pulmonary Edema**
+   - Managed with IV diuresis, now euvolemic.
+   - Strict I/Os, daily weights.
+
+5. **Viral URTI History**
+   - No evidence of current active infection.
+   - Consider ID and immunology eval if recurrent myocarditis.
+
+6. **Nutrition/Functional Status**
+   - Mildly malnourished on admission, improved PO intake.
+   - PT/OT consulted.
+
+7. **VTE Prophylaxis**
+   - LMWH started once bleeding risk decreased.
+
+8. **Disposition**
+   - Ready for transfer to stepdown.
+   - Plan for cardiac rehab, outpatient f/u.
+
+---
+
+**Medications (Current):**
+- Carvedilol 3.125 mg BID
+- Lisinopril 2.5 mg daily
+- Spironolactone 25 mg daily
+- Furosemide 20 mg BID
+- Multivitamin, PRN acetaminophen
+
+**Consults:**
+- Cardiology (Primary)
+- Infectious Disease (for persistent fever)
+- Physical Therapy
+
+**Attending:** Dr. E. Cardio
+
+----------------------------------------------------------------
+
+**Daily Flowsheet (Selected Vitals/Labs):**
+
+| Date       | Temp (C) | HR   | BP        | SpO2  | UOP (mL/24h) | Notes                    |
+|------------|----------|------|-----------|-------|--------------|--------------------------|
+| 6/05/2024  | 37.9     | 122  | 84/56     | 94%   | 550          | Intubated HD2            |
+| 6/06/2024  | 38.2     | 110  | 71/49     | 90%   | 380          | Impella placed, AKI      |
+| 6/07/2024  | 37.5     | 95   | 94/60     | 97%   | 1100         | Extubated                |
+| 6/08/2024  | 37.3     | 88   | 108/70    | 98%   | 2200         | Off pressors             |
+| 6/09/2024  | 37.0     | 94   | 112/72    | 97%   | 2100         | Ambulating in room       |
+
+----------------------------------------------------------------
+
+**Discharge Planning:**  
+- Anticipate transfer to floor tomorrow.  
+- Close outpatient f/u: Cardiology (within 1 week), PCP, nutritionist.  
+- Education provided on heart failure, medication compliance, s/s decompensation.
+
+----------------------------------------------------------------
+**Signed:** A. Resident, MD
+```

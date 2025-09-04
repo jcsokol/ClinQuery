@@ -1,0 +1,191 @@
+**Patient Name:** Yolanda Casillas  
+**MRN:** 1037247-2  
+**Date of Birth:** 1967-04-29  
+**Sex:** Female  
+**Admit Date:** 2024-05-21  
+**Attending:** Dr. Patel  
+**Service:** Cardiology ICU  
+**Note Type:** Progress Note  
+**Date/Time:** 2024-06-07 07:15  
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+**Chief Complaint:**  
+Progressive dyspnea, orthopnea, and chest pain 2 days prior to admission.
+
+**History of Present Illness:**  
+56-year-old obese female with past medical history significant for osteoarthritis (R knee), concussion (remote), obesity (BMI 30), and recent right knee MCL injury, who presented to the ED with 2 days of worsening shortness of breath, orthopnea, and chest heaviness. She denied prior cardiac history. No known CAD. Medications include chronic NSAIDs, multiple contraceptives, and recent meperidine for knee pain. On arrival, found hypoxic, tachycardic, and hypotensive. CXR: pulmonary edema. Troponin I mildly elevated. Echo: LVEF 15%, global hypokinesis. Cardiogenic shock diagnosed. She required urgent admission to the cardiac ICU and, after failed medical optimization, had a temporary percutaneous left ventricular assist device (Impella CP) placed on HD#2 for hemodynamic support.
+
+---
+
+## ICU COURSE
+
+- **HD#1:** Presented with hypotension, tachypnea, O2 sat 87% RA. Worsening lactic acidosis. Started on low-dose norepinephrine and high-flow nasal cannula.  
+- **HD#2:** Escalation to vasopressors (norepinephrine, dobutamine). Cardiology consulted. Echo: new severe global LV dysfunction. Right heart cath: CI 1.6, PCWP 32 mmHg, SVR 1600. Impella CP placed via femoral approach.  
+- **HD#3-5:** Gradual improvement in hemodynamics. Weaned off norepinephrine. Impella flows 3.2-3.8 L/min.  
+- **HD#6:** Developed fever, mild leukocytosis. Blood cx drawn. Vanc/cefepime started empirically (later negative).  
+- **HD#7:** Mobilization with PT/OT. Weaning diuretics.  
+- **HD#8:** Impella weaned and explanted.  
+- **HD#9:** Transferred to step-down telemetry.  
+- **HD#10-14:** Continued diuresis, up-titration of GDMT for HF. No recurrent arrhythmia or cardiogenic shock.
+
+---
+
+## PAST MEDICAL HISTORY
+
+- Osteoarthritis, R knee
+- Obesity (BMI 30)
+- R knee MCL injury (recent)
+- Remote concussion (2016)
+- No known CAD, DM, CKD, or prior heart failure
+
+## PAST SURGICAL HISTORY
+
+- None
+
+## SOCIAL HISTORY
+
+- Lives alone. No tobacco, EtOH rare, no illicit drugs.
+- No recent travel. No sick contacts.
+
+## FAMILY HISTORY
+
+- Mother: HTN, T2DM
+- Father: MI age 60
+
+## ALLERGIES
+
+- NKDA
+
+## HOME MEDICATIONS
+
+- Naproxen sodium 220mg PO PRN
+- Multiple contraceptives (see Med List)
+- Acetaminophen 325mg PO PRN
+- Meperidine 50mg PO PRN
+
+---
+
+## PHYSICAL EXAM (HD#3)
+
+| Vitals          | Value         |
+|-----------------|--------------|
+| T               | 37.8°C       |
+| HR              | 98           |
+| BP              | 102/56       |
+| RR              | 22           |
+| SpO2            | 95% (2L NC)  |
+| Weight          | 81.4 kg      |
+
+**General:** Obese female, mild distress  
+**CV:** S1, S2, no M/R/G, Impella hum audible, JVP 10cm  
+**Lungs:** Bibasilar crackles  
+**Ext:** Trace pitting edema, no DVT  
+**Neuro:** Nonfocal  
+**MSK:** R knee tender, limited ROM  
+
+---
+
+## LABS
+
+### CBC & CHEMISTRY TABLE
+
+| Date      | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Ca   |
+|-----------|------|------|------|------|------|------|------|------|------|------|------|------|
+| HD#1      | 6.9  | 14.1 | 41.2 | 447  | 138  | 4.0  | 104  | 23   | 19   | 1.2  | 108  | 8.7  |
+| HD#2      | 7.5  | 13.2 | 39.0 | 432  | 137  | 4.2  | 103  | 21   | 25   | 1.4  | 116  | 8.4  |
+| HD#3      | 8.8  | 12.9 | 38.2 | 428  | 135  | 4.0  | 101  | 20   | 27   | 1.5  | 112  |      |
+| HD#4      | 8.2  | 13.1 |      | 410  | 134  |      | 100  | 18   | 25   | 1.3  | 104  | 8.6  |
+| HD#5      |      | 13.5 | 40.2 | 400  | 136  | 4.2  |      | 22   | 21   | 1.1  |      | 8.8  |
+| HD#6      | 10.2 | 12.7 | 37.5 | 385  | 137  | 4.1  | 102  | 19   | 24   | 1.2  | 109  | 8.9  |
+| HD#7      | 9.4  | 12.8 |      | 378  | 138  | 4.0  | 103  | 20   | 22   |      | 108  |      |
+| HD#8      | 8.6  | 13.5 | 39.8 |      | 139  | 4.1  | 105  | 22   | 19   | 1.0  | 102  | 8.7  |
+| HD#9      | 7.8  | 13.7 | 40.1 | 382  | 140  | 4.1  | 106  |      | 17   | 0.9  | 99   | 8.8  |
+| HD#12     | 7.1  | 13.9 | 41.0 | 390  | 139  | 4.2  | 104  | 23   | 15   | 0.8  | 98   | 8.7  |
+
+**Additional Labs:**  
+- Troponin I: 0.11 → 0.17 → 0.13 (HD#1-3)  
+- BNP: 1892 pg/mL (HD#1)  
+- LFTs: Mildly elevated AST/ALT (max AST 54, ALT 61, HD#2-4), normalized by HD#7  
+- Lactate: 3.7 (HD#1), 2.6 (HD#2), 1.2 (HD#5)  
+- Blood cultures: no growth (HD#6)  
+
+---
+
+## IMAGING
+
+- **CXR (HD#1):** Pulmonary vascular congestion, mild bilateral effusions.
+- **Echo (HD#2):** LVEF 15%, severe global hypokinesis, mild MR, no pericardial effusion.
+- **RHC (HD#2):** CI 1.6, PCWP 32, mPAP 28, SVR 1600.
+- **CT Head (HD#6, fever):** No acute findings.
+
+---
+
+## PROCEDURES
+
+- Impella CP placement (HD#2), removed HD#8
+
+---
+
+## ASSESSMENT & PLAN
+
+**56F with new-onset severe non-ischemic cardiomyopathy, acute decompensated heart failure, and cardiogenic shock requiring temporary LVAD (Impella CP).**
+
+### 1. Cardiogenic Shock / Acute HF
+- Likely new non-ischemic CM (no prior hx, no CAD risk factors)
+- Required Impella for 6 days; now explanted
+- Continue uptitration of guideline-directed medical therapy (GDMT): start low-dose carvedilol, continue sacubitril/valsartan, spironolactone as tolerated
+- Daily weights, strict I/O, monitor for recurrent volume overload
+
+### 2. Volume Overload / Acute Renal Injury
+- Initial prerenal AKI, now resolved
+- Continue furosemide IV to oral transition
+- Monitor lytes, renal function
+
+### 3. Arrhythmia Risk
+- No sustained VT/VF during admission
+- Telemetry monitoring, maintain K >4.0, Mg >2.0
+- Consider LifeVest at discharge
+
+### 4. Infection
+- Fever/leukocytosis HD#6, negative cultures
+- D/C abx, monitor for new infectious signs
+
+### 5. Obesity, Osteoarthritis, R knee MCL injury
+- Resume PT/OT as tolerated
+- Pain control: limit NSAIDs (renal perfusion), use acetaminophen
+- Outpatient ortho follow-up
+
+### 6. Contraception/Estrogen Exposure
+- Consider risk of estrogen in new HF/cardiomyopathy
+- Gyn consult for alternative contraception
+
+### 7. DVT Prophylaxis
+- SCDs, heparin SQ
+
+### 8. Disposition
+- Anticipate discharge to home with close HF follow-up, outpatient cardiac MRI scheduled
+
+---
+
+## MEDICATIONS (INPATIENT)
+
+- Furosemide 40mg IV BID → PO
+- Sacubitril/valsartan 24/26mg PO BID
+- Carvedilol 3.125mg PO BID
+- Spironolactone 12.5mg PO QD
+- Aspirin 81mg PO QD
+- Heparin 5000U SQ q8h
+- Acetaminophen 650mg PO q6h PRN pain
+
+---
+
+## SIGNED  
+Dr. Priya Patel, MD  
+Cardiology ICU Attending
+
+---
+
+**End of Epic Progress Note**

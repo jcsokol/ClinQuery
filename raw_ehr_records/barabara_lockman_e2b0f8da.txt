@@ -1,0 +1,173 @@
+[**EPIC EHR - INPATIENT PROGRESS NOTE**]  
+**Patient:** Barabara Lockman  
+**MRN:** 004193829  
+**DOB:** 07/04/1921 (Age: 102)  
+**Sex:** Female  
+**Admit Date:** 05/22/2024  
+**Attending:** Dr. Karen Hsu  
+**Consults:** Cardiology, Endocrinology, Nephrology  
+**Location:** MICU, Bed 4  
+**Code Status:** Full  
+
+---
+
+**Chief Complaint:**  
+Progressive dyspnea, orthopnea, lower extremity edema.
+
+---
+
+**HPI:**  
+Ms. Lockman is a 102-year-old female with a history of chronic systolic heart failure (EF 38%), hypertension, diabetes mellitus type 2, obesity, metabolic syndrome, and CKD stage 4 who presented to the ED with 3 days of worsening shortness of breath, paroxysmal nocturnal dyspnea, and abdominal discomfort. She reports a 3-kg weight gain over the past week, increased lower extremity swelling, decreased urine output, and mild confusion per her daughter.
+
+She was admitted for acute on chronic decompensated heart failure with evidence of cardiogenic shock (SBP 82/54 mmHg, cool extremities, altered mentation). Initial labs notable for acute kidney injury on CKD, lactic acidosis, and elevated NT-proBNP. She was started on IV furosemide and dobutamine, but remained hypotensive and oliguric. A temporary left ventricular assist device (Impella CP) was placed on hospital day 2 for refractory cardiogenic shock.  
+
+---
+
+**Hospital Course Summary:**  
+- Hospital Day 1: Admitted to ICU. Started on IV diuretics, inotropes. Worsening end-organ perfusion.
+- Hospital Day 2: Required temporary LVAD (Impella) placement due to persistent cardiogenic shock.  
+- Hospital Days 3-7: Gradual improvement in perfusion, weaned off inotropes. Renal function slowly improved, but still requiring intermittent hemodialysis.  
+- Hospital Day 8: Impella removed. Transitioned to oral heart failure regimen, slow uptitration of diuretics.  
+- Hospital Days 9-11: Continued diuresis, mental status improved. Persistent mild hyperglycemia, ongoing management of hypertension, diabetes, and CKD.  
+
+---
+
+**Pertinent Labs:**  
+(Labs shown at select timepoints. Some missing due to hemolysis, sample issues, or not collected.)
+
+| Date        | WBC   | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Gluc | Ca   | AST  | ALT  | AlkPhos | NT-proBNP | Troponin I |
+|-------------|-------|-------|-------|-------|------|------|------|------|------|------|------|------|------|------|---------|-----------|------------|
+| 5/22/24 AM  | 7.0   | 14.3  | 43.7  | 340   | 141  | 3.7  | 101  | 20   | 13   | 3.3  | 65   | 9.5  | 13.9 | 36.4 | 81      | 1412      | <0.01      |
+| 5/23/24 AM  | 6.8   | 13.9  | 42.2  | 322   | 138  | 3.4  | 98   | 18   | 18   | 4.2  | 72   | 9.2  | 14.2 | 41.2 | 77      | 2100      | 0.03       |
+| 5/24/24 PM  | 7.4   | 13.7  | 41.8  | 301   | 136  | 3.1  | 99   | 19   | 22   | 4.8  | 94   | 8.7  | 16.9 | 55.8 | 88      | 1990      | 0.02       |
+| 5/25/24 AM  | 8.1   | 12.7  | 38.4  | 287   | 134  | 3.0  | 97   | 15   | 28   | 5.2  | 117  | 8.4  | 18.4 | 61.7 | 91      | 1700      | 0.01       |
+| 5/26/24 AM  | 7.6   | 12.9  | 39.2  | 298   | 136  | 3.2  | 98   | 18   | 25   | 4.7  | 102  | 8.9  | 17.6 | 59.3 | 86      | 1200      | --         |
+| 5/28/24 AM  | 6.1   | 13.5  | 41.1  | 315   | 137  | 3.5  | 99   | 19   | 19   | 3.9  | 97   | 9.1  | 16.1 | 53.2 | 75      | 840       | <0.01      |
+| 5/30/24 AM  | 5.4   | 14.1  | 42.7  | 333   | 139  | 3.7  | 100  | 21   | 15   | 2.8  | 91   | 9.3  | --   | 44.6 | 72      | 550       | --         |
+
+---
+
+**Vital Signs:**  
+- Temp: 37.7-38.1°C  
+- BP: 82/54 (lowest) → 112/68 (discharge)  
+- HR: 92-112 bpm  
+- RR: 18-28/min  
+- SpO2: 92-97% (on 2L NC)  
+- Weight: 77.6 kg (admission) → 74.1 kg (discharge)  
+- Pain: 0-2/10  
+
+---
+
+**Imaging:**  
+- CXR: Bilateral pleural effusions, cardiomegaly, mild pulmonary edema  
+- TTE: EF 38%, moderate LV dilation, mild MR, RVSP 41mmHg  
+- Renal US: No hydronephrosis, increased echogenicity  
+- Lower extremity duplex: Negative for DVT  
+
+---
+
+**Assessment and Plan:**  
+
+**1. Cardiogenic Shock, Acute on Chronic Systolic Heart Failure (EF 38%)**  
+- Required temporary LVAD (Impella) placement for refractory shock  
+- Weaned off inotropes, Impella removed HD 8  
+- Continue guideline-directed medical therapy: metoprolol succinate, ACE-I/ARB, spironolactone, uptitrate as tolerated  
+- Monitor for arrhythmias, daily weights, strict I/O  
+- Cardiology to follow  
+
+**2. Acute Kidney Injury on CKD 4**  
+- Likely secondary to low cardiac output, hypotension  
+- Intermittent hemodialysis x3, now improving off RRT  
+- Monitor renal function, avoid nephrotoxins  
+- Nephrology to follow  
+
+**3. Hyperglycemia/Diabetes Mellitus Type 2**  
+- Persistent fasting BG 102-117, A1c 5.5%  
+- Restart metformin, monitor for lactic acidosis  
+- Endocrine to assist with glycemic control  
+
+**4. Hypertension**  
+- Initially labile, now improved after diuresis  
+- Continue home regimen: amlodipine/hctz/olmesartan, monitor BP  
+- Hold ACEi if renal function worsens  
+
+**5. Obesity/Metabolic Syndrome**  
+- Counsel on low-salt, low-carb diet  
+- PT/OT to assist with mobility, encourage weight loss  
+
+**6. Chronic Sinusitis, Viral URI**  
+- Supportive care, saline nasal spray, acetaminophen PRN  
+- No evidence of superimposed bacterial infection  
+
+**7. Pain (chronic back, ankle sprain)**  
+- Acetaminophen PRN, minimize opioids  
+- Re-evaluate pain regimen prior to discharge  
+
+**8. Disposition/Social**  
+- Daughter at bedside, lives at home with family  
+- Discharge planning with care coordinator, probable SNF placement  
+
+---
+
+**Medications:**  
+- Metoprolol succinate 100mg daily  
+- Furosemide 40mg IV, now transitioning to oral  
+- Metformin XR 500mg daily  
+- Amlodipine/hctz/olmesartan daily  
+- Acetaminophen 325mg PRN  
+- Hydrocodone/acetaminophen PRN severe pain  
+- Insulin sliding scale (held if BG <120)  
+- Heparin SQ for DVT prophylaxis  
+
+---
+
+**To Do:**  
+- Cardiology: LVAD wean protocol, GDMT optimization  
+- Nephrology: Renal function monitoring  
+- Endo: Diabetes regimen adjustment  
+- PT/OT: Mobility, ADL assessment  
+- SNF placement evaluation  
+- Family meeting for goals of care  
+
+---
+
+**Physician:** Karen Hsu, MD  
+**Date/Time:** 06/01/2024 06:45  
+**Co-sign:** John Lee, MD (Cardiology)  
+
+---
+
+**Additional Labs (selected):**  
+- Albumin: 4.0 g/dL (downtrending to 3.2)  
+- ALT/AST: Mildly elevated, normalize by HD 10  
+- Troponin I: Peaks at 0.03, then <0.01  
+- NT-proBNP: Downtrending from 2100 to 550 pg/mL  
+- UA: 2+ protein, trace blood, no casts  
+- CXR: Bilateral effusions, improved after diuresis  
+
+---
+
+**Allergies:**  
+- NKDA  
+
+---
+
+**Review of Systems:**  
+- General: Fatigue, weight gain (now improving)  
+- Cardiac: Orthopnea, PND, edema  
+- Respiratory: Mild cough, no hemoptysis  
+- GI: Mild nausea, no vomiting  
+- GU: Oliguria improving  
+- Neuro: Mild confusion (resolved), no focal deficits  
+- MSK: Ankle pain, no acute injury  
+- Skin: No rashes, pressure ulcers  
+
+---
+
+**Signature:**  
+Karen Hsu, MD  
+MICU Attending
+
+---
+
+[End of Note]

@@ -1,0 +1,161 @@
+**LENORE LARSON**  
+MRN: 00382914  
+DOB: 08/20/1976 (47 yo F)  
+Admit Date: 05/14/2024  
+Attending: Dr. R. Sidhu  
+Service: MICU  
+Note Type: ICU Progress Note  
+Date of Note: 05/19/2024  
+Author: Dr. J. Martin
+
+---
+
+## SUBJECTIVE
+
+47F with h/o HTN, prediabetes, anemia, prior miscarriage, and recent acute bronchitis, presenting after 3 days of progressive dyspnea, orthopnea, and chest tightness. Developed acute hypoxemic respiratory failure and was transferred from OSH. Now s/p placement of temporary LVAD (Impella CP) for cardiogenic shock secondary to acute decompensated heart failure.  
+
+She reports mild incisional pain (3/10), some anxiety. Denies new chest pain, palpitations, or fevers. Still feels weak. Appetite poor.
+
+---
+
+## OBJECTIVE
+
+### VITALS (selected from ICU flowsheet):
+
+| Date        | Temp (°C) | HR (bpm) | BP (mmHg) | RR | SpO2 | Pain |
+|-------------|-----------|----------|-----------|----|------|------|
+| 5/14 08:15  | 36.9      | 118      | 83/54     | 27 | 91%  | 6    |
+| 5/15 07:40  | 37.1      | 102      | 95/62     | 20 | 97%  | 4    |
+| 5/16 09:10  | 36.7      | 88       | 108/70    | 18 | 98%  | 2    |
+| 5/17 07:20  | 36.6      | 82       | 110/74    | 16 | 98%  | 2    |
+| 5/18 06:55  | 36.8      | 78       | 116/80    | 15 | 99%  | 1    |
+
+Weight: 61.2 kg (up from baseline 60.8 kg)  
+BMI: 26.7 kg/m²
+
+### PHYSICAL EXAM (abbreviated)
+
+- **General:** Appears tired, alert, no acute distress.
+- **CV:** S1/S2, no murmurs, Impella hum noted, JVP 9 cm, mild pedal edema.
+- **Resp:** Bibasilar crackles, mild tachypnea, O2 via NC 3L.
+- **Abd:** Soft, NT/ND, no hepatosplenomegaly.
+- **Ext:** 1+ pitting edema B/L, Impella access site clean/dry.
+- **Neuro:** A&O x3, no focal deficit.
+
+---
+
+## LABS
+
+#### CBC & CHEMISTRY
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN   | Cr    | Glu  | Ca   |
+|------------|------|------|------|------|------|------|------|------|-------|-------|------|------|
+| 5/14 05:55 | 7.4  | 11.2 | 36.1 | 142  | 135  | 4.7  | 105  | 19   | 24    | 1.21  | 142  | 8.6  |
+| 5/15 06:10 | 9.1  | 10.9 | 34.9 | 159  | 137  | 4.2  | 103  | 21   | 20    | 1.02  | 113  | 8.9  |
+| 5/16 07:05 | 8.2  | 11.8 | 37.7 | 166  | 138  | 4.0  | 104  | 22   | 17    | 0.97  | 106  | 9.2  |
+| 5/17 06:45 | 7.8  | 12.9 | 40.2 | 174  | 137  | 4.1  | 103  | 23   | 15    | 0.89  | 94   | 9.7  |
+| 5/18 07:00 |      | 12.7 | 39.8 | 171  | 139  | 4.3  | 105  | 22   | 14    | 0.91  |      | 9.8  |
+
+#### OTHER LABS
+
+- **Troponin I:**  
+    - 5/14: 0.08 → 0.09 ng/mL (peak, non-dx for MI)
+- **BNP:**  
+    - 5/14: 1680 pg/mL (elevated)
+- **AST/ALT:**  
+    - 5/14: 38/41 U/L (mildly ↑, improved by 5/17)
+- **INR:**  
+    - 5/15: 1.2
+- **Lactate:**  
+    - 5/14: 4.3 mmol/L (improved to 1.8 by 5/16)
+
+#### MICROBIOLOGY
+
+- Blood cultures x2 (5/14): negative
+- Sputum: no growth
+
+---
+
+## IMAGING
+
+- **CXR 5/14:** Pulmonary edema, mild cardiomegaly, vascular congestion.
+- **Echo (5/14):** LVEF 18%, global hypokinesis, mild MR, RV mild dysfunction. No LV thrombus.  
+- **Echo (5/17):** Impella in place, LVEF 23%, improved filling pressures.
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+- Admitted for acute decompensated HF with shock (likely ischemic, h/o HTN, DM risk).
+- Rapidly progressive cardiogenic shock, hypotension refractory to inotropes/pressors.
+- Temporary LVAD (Impella CP) placed in cath lab on 5/14.
+- Gradual improvement in perfusion, end-organ function, weaned off vasopressors 5/16.
+- Ongoing diuresis for volume overload, transitioned from IV to PO diuretics.
+- No arrhythmias or device complications.
+- Anemia managed conservatively, no transfusion required.
+- No infectious complications.
+- Physical therapy initiated 5/17.
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic shock, s/p Impella CP placement (5/14):**  
+  - Etiology: Likely ischemic/HTN-induced cardiomyopathy; no acute coronary occlusion.
+  - Monitoring: Daily device assessment, hemodynamics, echo.
+  - Plan: Continue Impella support, daily weaning eval. Plan for device removal if stable off pressors for >48h.
+  - Anticoagulation: Continue heparin per device protocol.
+  - Cardiology, CT surgery following.
+
+**2. Acute decompensated HF, reduced EF:**  
+  - IV diuresis transitioned to PO furosemide.
+  - Monitor weight, I/Os, renal fxn.
+  - Goal: euvolemia, optimize guideline-directed medical therapy as tolerated.
+
+**3. Anemia (chronic, mild):**  
+  - Hgb stable, likely multifactorial (chronic dz, dilutional).
+  - Iron studies pending; folate, B12 wnl.
+  - No transfusion needed.
+
+**4. Prediabetes:**  
+  - Glucose controlled, no insulin needed.
+  - Monitor A1c, dietary education.
+
+**5. Hypertension:**  
+  - Hold anti-HTN agents while on Impella/pressors; resume as tolerated.
+  - BP now stable, resume amlodipine/olmesartan combo today.
+
+**6. VTE prophylaxis:**  
+  - On heparin for device.
+
+**7. Infection prevention:**  
+  - Daily line care, monitor WBC/temp.
+  - No signs infection.
+
+**8. Physical deconditioning:**  
+  - PT/OT.
+
+**9. Contraceptive management:**  
+  - Mirena IUD in place, no acute gyn issues.
+  - Continue home regimen, no changes.
+
+**10. Psychosocial:**  
+  - Anxiety, supportive care, social work consult.
+
+---
+
+## DISPOSITION
+
+- Remain in ICU for ongoing Impella support.
+- Anticipate transfer to step-down if device removed and stable for 24-48h.
+- Cardiology, CT surgery, PT/OT, social work following.
+
+---
+
+## SIGNED  
+Dr. J. Martin, MD  
+05/19/2024 10:37
+
+---
+
+**[Additional Flowsheets, Labs, and Orders available in EHR]**

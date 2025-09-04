@@ -1,0 +1,196 @@
+---
+**Patient:** Laurine Kuhn  
+**MRN:** 00329842  
+**DOB:** 11/23/1997  
+**Sex:** Female  
+**Admission Date:** 03/10/2024  
+**Attending:** Dr. Patel  
+**Unit:** Cardiovascular ICU  
+**Admitting Dx:** Acute Decompensated Heart Failure (ADHF) with Cardiogenic Shock  
+**Relevant PMHx:** Anemia, Normal pregnancy (remote), Multiple URIs, No known CAD, No DM, No CKD  
+**Allergies:** NKDA  
+**Code Status:** Full
+
+---
+
+# ICU Admission Note
+
+## Chief Complaint
+Shortness of breath, chest tightness, and presyncope.
+
+## HPI
+26-year-old female with history of chronic anemia and recurrent viral respiratory illnesses who presented to the ED with 2 days of progressive dyspnea, orthopnea, and chest heaviness. She described a viral prodrome (cough, rhinorrhea, low-grade fever) one week prior, followed by abrupt worsening of fatigue and dizziness. She was found to be tachycardic and hypotensive in the ED, requiring norepinephrine for blood pressure support. ECG showed sinus tachycardia, CXR with pulmonary edema, and echo revealed severely reduced LVEF (~15%) with global hypokinesis. Troponin mildly elevated. She rapidly deteriorated, requiring intubation and was admitted to the ICU for management of cardiogenic shock. Decision made to place a percutaneous LVAD (Impella CP) for hemodynamic support.
+
+## Past Medical History
+- Chronic anemia, not transfusion dependent
+- Recurrent viral sinusitis and bronchitis
+- Two prior uncomplicated pregnancies, last >2 years ago
+
+## Past Surgical History
+- None
+
+## Social History
+- Non-smoker, rare EtOH, no illicit drugs
+- Lives with partner, works as a teacher
+
+## Family History
+- No early CAD, no sudden cardiac death, no known genetic disease
+
+## Medications on Admission
+- Acetaminophen 325 mg PRN
+- Yaz 28 day pack (OCP)
+- Amoxicillin/clavulanate (recent, for sinusitis)
+
+---
+
+## Hospital Course (ICU Day 1–8)
+
+**Day 1:**  
+Admitted to CVICU, intubated, started on norepinephrine and dobutamine. Swan-Ganz: CI 1.6, SVR elevated, wedge 22. Lactate 3.2. Bedside echo: LVEF 15%, global hypokinesis. Troponin T 0.13. Developed worsening end-organ hypoperfusion (AKI, rising LFTs, confusion). Impella CP placed via R femoral artery at bedside with improvement in MAP and urine output.
+
+**Day 2–4:**  
+Hemodynamics improved on Impella support (CI up to 2.8). Weaned off norepinephrine. Extubated on day 3. Diuresed with IV furosemide. Monitored for hemolysis and device complications—no evidence. Persistent anemia, likely multifactorial (chronic, dilutional, GI losses). Started on iron and folate. Serial CBC, chem7, LFTs, troponin, and BNP monitored.  
+
+**Day 5–7:**  
+Gradual improvement. LV function on TTE up to 30%. Impella weaned on day 7 and removed without complication. Renal and hepatic function normalized. Patient ambulating in room with PT/OT.  
+
+**Day 8:**  
+Transferred to step-down unit. Planning for cardiac MRI to evaluate for myocarditis. Discharge planning initiated.
+
+---
+
+## Review of Systems (Pertinent Positives)
+- General: Fatigue, malaise
+- CV: Orthopnea, PND, exertional dyspnea, chest heaviness
+- Pulm: Mild cough, no hemoptysis
+- GI: Nausea, no vomiting, no hematemesis/melena
+- GU: Oliguria on admission, improved with support
+- Neuro: Lightheadedness, no focal deficits
+
+---
+
+## Physical Exam (ICU Day 2)
+**Gen:** Appears tired, on cardiac monitor  
+**VS:** T 37.2°C HR 102 BP 104/68 (on low-dose dobutamine) RR 18 SpO2 98%  
+**HEENT:** Anemic conjunctiva, no JVD  
+**CV:** S3, no murmurs, tachycardic, no rubs  
+**Lungs:** Bibasilar crackles, decreased at bases  
+**Abd:** Soft, non-tender, no HSM  
+**Ext:** Trace pedal edema, no DVT  
+**Neuro:** A&O x3, no focal deficits
+
+---
+
+## Problem-Based Assessment and Plan
+
+### 1. Cardiogenic Shock secondary to Acute Systolic Heart Failure
+- Impella CP placed for temporary LV support d/t refractory shock
+- Serial TTE to monitor recovery
+- Weaned off vasopressors, Impella removed on day 7
+- Plan: Continue GDMT as tolerated (beta blocker, ACEi), cardiac MRI pending
+
+### 2. Acute on Chronic Anemia
+- Hgb nadir 7.6 on day 2, iron studies pending
+- Iron, folate supplementation
+- Transfusion threshold: Hgb <7 unless symptomatic
+
+### 3. Acute Kidney Injury (resolved)
+- Likely ischemic, improved with volume/CO restoration
+- Monitor renal function, avoid nephrotoxins
+
+### 4. Transaminitis (resolved)
+- Ischemic hepatitis pattern, LFTs normalized
+- Monitor
+
+### 5. Volume Overload/Pulmonary Edema
+- Diuresed with IV furosemide
+- Net negative 2.5L over 4 days
+- Monitor lytes
+
+### 6. History of Viral Illness/Myocarditis
+- Workup for viral myocarditis: viral panels, cardiac MRI pending
+
+### 7. VTE Prophylaxis
+- SCDs, SQ heparin
+
+### 8. Nutrition
+- High protein, iron-rich diet
+
+### 9. Discharge Planning
+- Cardiac rehab referral
+- Outpt follow-up: cardiology, primary care
+
+---
+
+## Labs
+
+**Table 1: CBC and Chem7 Summary**
+
+| Date        | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|-------------|------------|------------|------------|-------------|------------|-------------|------------|-------------|
+| 3/10/24 AM  | 7.9        | 8.2        | 210        | 136         | 4.2        | 28          | 1.3        | 112         |
+| 3/10/24 PM  | 8.0        | 7.6        | 198        | 137         | 4.5        | 31          | 1.6        | 98          |
+| 3/11/24     | 8.2        | 7.8        | 202        | 138         | 4.1        | 25          | 1.2        | 107         |
+| 3/12/24     | 7.1        | 8.6        | 196        | 137         | 3.9        | 19          | 1.0        | 101         |
+| 3/13/24     |            | 9.1        | 210        | 139         | 4.0        | 16          | 0.9        |             |
+| 3/14/24     | 6.6        | 9.8        | 230        |             | 4.2        | 14          | 0.8        | 99          |
+| 3/15/24     | 7.0        | 10.1       | 224        | 140         |            | 12          | 0.8        | 97          |
+
+**Other Relevant Labs:**
+- Troponin T: 0.13 → 0.09 → 0.05 (trending down)
+- BNP: 2300 → 1200 → 650
+- AST: 134 → 56 → 33
+- ALT: 88 → 31 → 23
+- LDH: 396 → 220
+- Ferritin: 36 ng/mL (low)
+- Iron: 32 mcg/dL (low)
+- TIBC: 412 mcg/dL (high)
+
+---
+
+## Procedures
+- Right heart cath (Swan-Ganz): CI 1.6, SVR 1420, wedge 22
+- Impella CP placement (R femoral artery)
+- Central line (IJ), arterial line (radial)
+
+---
+
+## Medications (ICU Course)
+- Dobutamine infusion (weaned off day 4)
+- Norepinephrine (off by day 3)
+- IV furosemide
+- Iron sucrose IV
+- Folic acid
+- Acetaminophen PRN
+- Prophylactic SQ heparin
+
+---
+
+## Imaging
+- CXR: Pulmonary edema, improving by day 4
+- TTE: LVEF 15% → 30% by day 7
+- Cardiac MRI (pending)
+
+---
+
+## Discharge Medications (anticipated)
+- Metoprolol succinate 12.5 mg qd
+- Lisinopril 2.5 mg qd
+- Ferrous sulfate 325 mg qd
+- Folic acid 1 mg qd
+- Acetaminophen PRN
+
+---
+
+## Follow-Up
+- Cardiology (1 week)
+- PCP (2 weeks)
+- Cardiac MRI results
+
+---
+
+**Physician:** Dr. Patel, MD  
+**Date/Time:** 3/15/2024 19:22  
+---
+
+**END OF NOTE**

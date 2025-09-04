@@ -1,0 +1,160 @@
+**Epic EHR – Progress Note**
+---
+**Patient Name:** Carley Paucek  
+**MRN:** 002987164  
+**DOB:** 03/31/1961 (Age: 63)  
+**Sex:** Female  
+**Admit Date:** 04/09/2024  
+**Attending:** Dr. M. Blevins  
+**Consults:** Cardiology, ICU, Endocrinology  
+**Primary Team:** MICU  
+**Code Status:** Full Code
+
+---
+
+## History of Present Illness
+
+Carley Paucek is a 63-year-old female with a history notable for obesity (BMI ~29), prediabetes, chronic anemia, history of 1st trimester miscarriage, prior normal pregnancy, remote viral sinusitis, and right rotator cuff tendon injury. She presented to the ED after 2 days of progressive dyspnea, orthopnea, and chest heaviness. She denied fever, cough, or sick contacts. She reported mild bilateral lower extremity swelling. Home medications: Mirena IUD. She was found to be hypotensive (SBP 82 mmHg), tachycardic (HR 116), and hypoxic (SpO2 91% on RA). Initial ECG showed sinus tachycardia, low voltage. Troponin mildly elevated; BNP elevated. CXR: pulmonary vascular congestion. Echo: LVEF 18%, global hypokinesis, moderate MR, RV mildly reduced.
+
+She developed worsening cardiogenic shock (cold extremities, oliguria, lactate 4.6), requiring vasopressor support and urgent placement of a left-sided Impella CP device for temporary mechanical circulatory support. She was transferred to the ICU for further management.
+
+---
+
+## Hospital Course Summary
+
+**ICU Day 1–2:**  
+- Hemodynamic instability (MAP <60) despite norepinephrine, dobutamine.  
+- Impella CP placed via R femoral artery without immediate complication.  
+- UOP improved, lactate trending down.  
+- Persistent pulmonary edema requiring BiPAP.  
+- Cardiac cath: non-obstructive CAD, severe global LV dysfunction (likely non-ischemic).  
+- Infectious workup negative.
+
+**ICU Day 3–5:**  
+- Gradual weaning of vasopressors. Impella flows maintained.  
+- Diuresis with IV furosemide.  
+- Monitored for hemolysis (LDH, haptoglobin), minor drop in Hgb noted.  
+- Endo consult for prediabetes: insulin sliding scale started due to stress hyperglycemia.  
+- Nutrition consult: enteral feeds initiated.
+
+**ICU Day 6–7:**  
+- Impella weaned and explanted on ICU day 7.  
+- Transitioned to low-dose dobutamine, then off all pressors.  
+- Marked clinical improvement.  
+- Transferred to telemetry floor for ongoing monitoring.
+
+---
+
+## Problem-Based Assessment & Plan
+
+### 1. Cardiogenic Shock / Acute Systolic Heart Failure (EF 18%)  
+- Etiology: likely non-ischemic (myocarditis vs. idiopathic).  
+- Management:  
+  - Temporary LV support (Impella CP, now explanted).  
+  - IV vasopressors/inotropes as needed.  
+  - Diuresis with IV furosemide.  
+  - Strict I/O, daily weights.  
+  - Serial TTEs to monitor LV recovery.  
+  - Plan: optimize GDMT, close f/u with Heart Failure clinic.
+
+### 2. Anemia  
+- Baseline Hgb ~12, dropped to 9.2 post-Impella (likely hemolysis).  
+- Monitored LDH, haptoglobin, retic.  
+- No overt bleeding.  
+- Plan: Monitor, iron studies, consider EPO if persistent.
+
+### 3. Obesity / Prediabetes  
+- BMI ~29, A1c 6.3%.  
+- Stress hyperglycemia during admission, managed with insulin sliding scale.  
+- Plan: Endo F/U, nutrition counseling, consider Metformin if persistent hyperglycemia.
+
+### 4. Oliguria/AKI (resolved)  
+- Creatinine peaked at 1.7, now improved to baseline (0.9).  
+- Plan: Renal function monitoring, avoid nephrotoxins.
+
+### 5. Mechanical Circulatory Support (Impella)  
+- Placed day 1, explanted day 7.  
+- Monitored for device complications (bleeding, hemolysis, limb ischemia).  
+- No major complications.
+
+### 6. Rotator Cuff Injury  
+- Chronic, no acute management required this admission.
+
+### 7. Other  
+- Mirena IUD in place, no GYN issues.  
+- DVT prophylaxis: SCDs, SQ heparin.  
+- Vaccinations up to date.
+
+---
+
+## ICU Vitals & Events
+
+| Date      | Temp (C) | HR   | BP         | RR | SpO2 | Pain (0-10) | Notes                      |
+|-----------|----------|------|------------|----|------|-------------|----------------------------|
+| 4/09/24   | 36.7     | 116  | 82/53      | 20 | 91%  | 3           | On norepi/dobutamine       |
+| 4/10/24   | 37.1     | 105  | 95/69      | 18 | 95%  | 2           | Impella placed             |
+| 4/12/24   | 36.8     | 98   | 102/71     | 16 | 97%  | 2           | Weaning inotropes          |
+| 4/14/24   | 36.5     | 88   | 110/70     | 14 | 98%  | 1           | Off pressors, stable       |
+
+---
+
+## Laboratory Data
+
+**CBC & Chemistries**
+
+| Date      | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|-----------|------------|------------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|
+| 4/09/24   | 7.5        | 12.8       | 390        | 138         | 4.8        | 107         | 23           | 13          | 1.3        | 142         |
+| 4/10/24   | 8.2        | 11.5       | 410        | 135         | 4.5        | 110         | 21           | 18          | 1.7        | 176         |
+| 4/11/24   | 7.1        | 10.2       | 420        | 137         | 4.2        | 108         | 22           | 15          | 1.4        | 154         |
+| 4/12/24   | 6.9        | 9.8        | 388        | 136         | 4.7        | 109         | 24           | 12          | 1.1        | 131         |
+| 4/13/24   | 7.2        | 9.2        | 398        | 137         | 4.3        | 108         | 23           | 11          | 0.9        | 122         |
+| 4/14/24   | 7.0        | 9.7        | 406        | 138         | 4.5        | 110         | 24           | 12          | 0.9        | 108         |
+| 4/15/24   | 7.3        | 10.5       | 418        | 139         | 4.7        | 111         | 25           | 10          | 0.9        | 101         |
+
+*Some entries missing due to lab not drawn/hemolyzed sample.
+
+**Other Labs**  
+- Troponin I: 0.18 → 0.10 → <0.01 (downtrending)  
+- BNP: 1850 pg/mL (on admission)  
+- LDH: 360 → 420 → 400 (mild hemolysis)  
+- Haptoglobin: 38 mg/dL (low)  
+- Retic: 2.2%  
+- LFTs: WNL  
+- Coags: INR 1.1, PT 12.7, PTT 31.2
+
+---
+
+## Procedures
+
+- **Impella CP Placement:** 4/10/24, R femoral artery, no immediate complications  
+- **Right heart cath:** 4/10/24, RA 9, RV 34/10, PA 32/18, PCWP 25, CI 1.6  
+- **Echo:** Severe global LV dysfunction (LVEF 18%), mild RV dysfunction
+
+---
+
+## Imaging
+
+- **CXR (4/09/24):** Pulmonary edema, enlarged cardiac silhouette  
+- **Echo (4/10/24):** Severe global LV hypokinesis, mod MR/TR, no pericardial effusion  
+- **CXR (4/11/24):** Improving edema
+
+---
+
+## Discharge Planning
+
+- Anticipate discharge to home with VNA, close f/u in HF clinic  
+- Continue GDMT, monitor for recurrent symptoms  
+- LifeVest ordered pending further recovery  
+- Education: HF, low Na diet, daily weights
+
+---
+
+**Signed:**  
+Dr. M. Blevins, MD  
+Attending, MICU  
+04/15/2024 10:14
+
+---
+
+**(End of Note)**

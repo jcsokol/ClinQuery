@@ -1,0 +1,148 @@
+---
+**Patient Name:** Bridgette Bahringer  
+**MRN:** 004822-BAHR  
+**DOB:** 06/01/1970 (Age: 53)  
+**Sex:** Female  
+**Attending:** Dr. Lisa Patel  
+**Admit Date:** 03/07/2024  
+**Admitting Dx:** Cardiogenic shock, suspected acute decompensated heart failure  
+**Service:** MICU  
+**Location:** 8E ICU, Bed 12
+
+---
+
+# HOSPITAL COURSE – ICU ADMISSION
+
+Bridgette Bahringer is a 53-year-old female with notable past medical history including preeclampsia, antepartum eclampsia, multiple pregnancies (including miscarriage, blighted ovum), prediabetes, hyperlipidemia, and recurrent viral sinusitis. She presented to the ED with acute onset severe dyspnea, orthopnea, and confusion. She was found to be hypotensive (SBP 78 mmHg), tachycardic (HR 128), hypoxic (SpO2 85% RA), and had cold extremities.
+
+Initial workup was notable for elevated BNP, troponin I, and metabolic acidosis. Bedside echo showed severely reduced LVEF (~15%), global hypokinesis, and moderate MR. She rapidly deteriorated requiring intubation and vasopressor support. Due to refractory cardiogenic shock (likely ischemic vs. peripartum cardiomyopathy, see below), a left-sided temporary heart pump (Impella CP) was placed on hospital day 1, with subsequent improvement in end-organ perfusion.
+
+She required ICU-level care for 8 days, with gradual weaning of pressors and inotropes. The heart pump was explanted on day 6 after recovery of LVEF to 35-40%. Her course was complicated by transient acute kidney injury, mild transaminitis, and delirium. She is currently stable on telemetry, extubated, and transitioning to the floor.
+
+---
+
+# ASSESSMENT & PLAN
+
+## 1. **Cardiogenic Shock / Acute Decompensated Heart Failure**
+- **Likely etiology:** Ischemic (no prior CAD, but risk factors: prediabetes, hyperlipidemia, possible peripartum component); consider stress-induced (Takotsubo) or viral myocarditis, but less likely.
+- **Course:** Required inotropes (milrinone, dobutamine), vasopressors (norepi), and Impella CP placement for hemodynamic support.
+- **Current:** Off pressors/inotropes, euvolemic, LVEF improved (repeat TTE 35-40%).
+- **Plan:** Continue guideline-directed medical therapy (GDMT) for HFrEF (carvedilol, sacubitril/valsartan, spironolactone), daily weights, strict I/Os, low-salt diet, cardiac rehab referral. Await outpatient coronary CTA.
+- **Follow-up:** Cardiology, HF clinic.
+
+## 2. **Temporary Mechanical Circulatory Support (Impella CP)**
+- **Indication:** Refractory cardiogenic shock, persistent hypoperfusion.
+- **Course:** Placed HD 1, explanted HD 6. No major device-related complications (minor groin hematoma, no hemolysis).
+- **Plan:** Continue groin site monitoring, serial Hgb/Hct, vascular surgery PRN.
+
+## 3. **Acute Kidney Injury (Resolved)**
+- **Etiology:** Likely pre-renal from shock state, mild ATN.
+- **Course:** Creatinine peaked at 2.1 mg/dL (from baseline 0.9), now improved to 1.0 mg/dL.
+- **Plan:** Monitor renal function, avoid nephrotoxins, adjust meds as needed.
+
+## 4. **Delirium (Improved)**
+- **Etiology:** Multifactorial—critical illness, intubation, metabolic derangements.
+- **Plan:** Continue reorientation, minimize sedatives, PT/OT, sleep hygiene.
+
+## 5. **Prediabetes / Hyperlipidemia**
+- **Plan:** Continue statin, monitor A1c, start low-dose metformin if hyperglycemia persists.
+
+## 6. **Gynecologic History (Preeclampsia, Eclampsia, Recurrent Pregnancy Loss)**
+- **No acute issues.** On progestin-only contraception per GYN. No abnormal bleeding during stay.
+
+## 7. **Medications on Admission**
+- Fluticasone inhaler
+- Albuterol inhaler
+- Chlorpheniramine
+- Oral contraceptives (multiple, see med list)
+- **Home meds held:** OCPs, antihistamines (d/c’d during ICU course)
+
+## 8. **Other Issues**
+- **Pain:** Mild, managed with acetaminophen, no opioid requirement.
+- **Nutrition:** Regular diet, salt restriction, diabetic education.
+- **Disposition:** Anticipate transfer to telemetry, then home with home health/PT.
+
+---
+
+# ICU VITALS & MONITORING (Selected)
+
+| Date       | Temp (°C) | HR (bpm) | BP (mmHg) | RR | SpO2 (%) | Pain |
+|------------|-----------|----------|-----------|----|----------|------|
+| 3/7/2024   | 36.7      | 128      | 78/45     | 28 | 85       | 4    |
+| 3/8/2024   | 36.6      | 112      | 102/56    | 20 | 98       | 3    |
+| 3/10/2024  | 37.1      | 92       | 110/68    | 16 | 99       | 2    |
+| 3/12/2024  | 36.8      | 88       | 115/70    | 15 | 98       | 1    |
+
+---
+
+# LAB RESULTS (CBC, CHEM7, SELECTED OTHERS)
+
+| Date       | WBC (x10^3/uL) | Hgb (g/dL) | Hct (%) | Plt (x10^3/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Troponin I (ng/mL) | BNP (pg/mL) | AST (U/L) | ALT (U/L) |
+|------------|----------------|------------|---------|----------------|-------------|------------|-------------|--------------|-------------|------------|-------------|--------------------|-------------|-----------|-----------|
+| 3/7 AM     | 13.2           | 12.8       | 38      | 280            | 139         | 5.4        | 101         | 18           | 33          | 2.1        | 220         | 3.1                | 5200        | 98        | 81        |
+| 3/8 AM     | 10.4           | 11.9       | 35      | 257            | 140         | 4.9        | 103         | 21           | 28          | 1.8        | 160         | 2.2                | 4100        | 68        | 59        |
+| 3/9 AM     | 8.7            | 12.2       | 36      | 240            | 139         | 4.2        | 104         | 23           | 20          | 1.3        | 122         | 1.1                | 2500        | 43        | 37        |
+| 3/10 AM    | 7.4            | 12.7       | 38      | 231            | 141         | 4.1        | 101         | 25           | 18          | 1.1        | 108         | 0.3                | 1200        | 32        | 29        |
+| 3/11 AM    | 6.9            | 12.6       | 37      | 225            | 142         | 4.0        | 102         | 26           | 17          | 1.0        | 100         | <0.01              | 640         | 26        | 22        |
+| 3/12 AM    | 6.5            | 12.6       | 41      | 204            | 141         | 4.3        | 102         | 25           | 16          | 1.0        | 91          | <0.01              | 440         | 22        | 20        |
+| 3/13 AM    | 6.3            | 12.8       | 42      | 201            | 142         | 4.4        | 101         | 25           | 15          | 0.9        | 88          | -                  | -           | 19        | 17        |
+
+*Note: Not all labs collected each day. Troponin/BNP trended down. Mild transaminitis (AST/ALT) resolved. AKI resolved.*
+
+---
+
+# PROCEDURES
+
+- **3/7/2024:** Placement of Impella CP (left femoral artery, fluoroscopic guidance)
+    - No acute complications, minor groin hematoma, no active bleeding.
+- **3/7/2024:** Endotracheal intubation for hypoxic respiratory failure.
+- **3/10/2024:** Extubation to high-flow nasal cannula.
+- **3/12/2024:** Removal of Impella CP.
+
+---
+
+# IMAGING
+
+- **3/7/2024:** Bedside echo – LVEF 15%, global hypokinesis, moderate MR, no tamponade.
+- **3/11/2024:** TTE – LVEF 35-40%, mild MR, no thrombus.
+- **3/9/2024:** CXR – Mild pulmonary edema, no focal consolidation.
+
+---
+
+# DISCHARGE MEDICATIONS (anticipated)
+
+- Carvedilol 3.125 mg BID
+- Sacubitril/valsartan 24/26 mg BID
+- Spironolactone 12.5 mg daily
+- Atorvastatin 40 mg qHS
+- Aspirin 81 mg daily
+- Metformin 500 mg daily (if fasting BG >130)
+- Furosemide 20 mg daily PRN
+- Docusate, acetaminophen PRN
+
+*OCPs and antihistamines on hold pending further evaluation.*
+
+---
+
+# EDUCATION
+
+- HF self-management, sodium restriction, daily weights.
+- Medication reconciliation.
+- Close follow-up with cardiology/HF clinic, PCP, and GYN.
+
+---
+
+# SIGNATURE  
+**Lisa Patel, MD**  
+MICU/Heart Failure Attending  
+Date/Time: 3/13/2024 15:42
+
+---
+
+# ADDITIONAL NOTES
+
+- Social work consulted for home support.
+- PT/OT to assess for safe d/c planning.
+- Family updated daily; patient oriented x3, participating in care.
+
+---

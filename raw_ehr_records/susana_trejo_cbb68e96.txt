@@ -1,0 +1,158 @@
+**Patient Name:** Susana Trejo  
+**MRN:** 00298452  
+**DOB:** 03/02/1940  
+**Sex:** Female  
+**Admit Date:** 05/17/2024  
+**Attending:** Dr. J. Martinez  
+**Consultants:** Cardiology, Neurology, Oncology, Pain Management  
+**Location:** MICU, Room 4B
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+Ms. Susana Trejo is a 84-year-old female with a past medical history of ischemic stroke, obesity, chronic intractable migraines, colon cancer status post partial colectomy, chronic pain, and recent drug overdose, who presented to the ED with acute-onset chest pain and dyspnea. She rapidly developed hypotension and signs of cardiogenic shock. Her course was complicated by acute decompensated heart failure and she required placement of a temporary left ventricular assist device (Impella CP) for hemodynamic support on hospital day 2. She was transferred to the ICU for ongoing management.
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock, Acute Decompensated Heart Failure (s/p Impella, Day 10):**  
+- Likely secondary to acute myocardial infarction (troponin peaked at 7.3 ng/mL on HD1, new anterior wall hypokinesis on TTE).  
+- Started on norepinephrine, dobutamine for inotropic support; weaned after Impella placement.  
+- Serial echocardiograms: improvement in EF from 25% to 38%.  
+- Plan: Continue Impella wean, monitor hemodynamics, transition to oral HF regimen (carvedilol, spironolactone). Cardiology to reevaluate for device removal.
+
+**2. Ischemic Stroke (remote, with mild left hemiparesis):**  
+- No acute findings on CT/MRI this admission.  
+- Neurology consulted.  
+- PT/OT involved for mobility, fall risk precautions in place.
+
+**3. Colon Cancer (s/p partial colectomy, hx polyps):**  
+- Oncology following. No evidence of acute GI bleeding, but guaiac positive stool x1.  
+- Recent CEA pending; colonoscopy 3 months ago showed no recurrence.  
+- Plan: Monitor H/H, continue DVT prophylaxis, resume home aspirin when safe.
+
+**4. Obesity (BMI 30+):**  
+- Dietician consulted.  
+- Calorie-restricted diabetic diet.  
+- Encourage mobility as tolerated.
+
+**5. Chronic Intractable Migraines:**  
+- Home ibuprofen continued as needed.  
+- Avoided triptans due to stroke/CAD history.  
+- Pain management to readdress regimen at discharge.
+
+**6. Chronic Pain (multifactorial, hx impacted molars, ankle sprain):**  
+- On scheduled acetaminophen, PRN oxycodone for severe pain (rare).  
+- Dental consult for impacted molars deferred until stable.
+
+**7. Drug Overdose (hx, not related to this admission):**  
+- No recurrence during hospitalization.  
+- Psychiatry to assess prior to discharge.
+
+**8. Acute Streptococcal Pharyngitis & Viral Sinusitis (recent):**  
+- Completed course of Penicillin V pre-admission.  
+- No current infection signs.
+
+**9. Other Active Issues:**  
+- Electrolyte disturbances during ICU stay (see labs).  
+- Mild transaminitis, likely ischemic hepatitis vs. medication effect.  
+- Foley catheter removed HD5, now voiding independently.
+
+---
+
+## VITALS & PERTINENT PHYSICAL EXAM
+
+| Date        | Temp (C) | HR | BP         | RR | SpO2 | Pain | Wt (kg) |
+|-------------|----------|----|------------|----|------|------|---------|
+| 5/17/24     | 39.1     | 110| 82/50      | 22 | 93%  | 8    | 72.1    |
+| 5/18/24     | 38.6     | 98 | 102/68     | 18 | 97%  | 6    | 71.8    |
+| 5/19/24     | 37.8     | 92 | 116/74     | 16 | 98%  | 4    | 71.6    |
+| 5/22/24     | 37.1     | 84 | 120/78     | 14 | 98%  | 3    | 71.4    |
+| 5/25/24     | 36.8     | 78 | 124/82     | 14 | 99%  | 2    | 71.2    |
+
+**Physical Exam (ICU day 10):**  
+- *General*: Alert, responds to questions, NAD  
+- *Cardiac*: S1, S2, no murmurs, Impella audible  
+- *Lungs*: CTAB, no rales  
+- *Neuro*: Oriented x3, mild left-sided weakness, no aphasia  
+- *GI*: Abdomen soft, nontender, surgical scar well-healed  
+- *Extremities*: Trace edema, pulses 2+  
+- *Skin*: No rashes or breakdown
+
+---
+
+## LABS
+
+**CBC & CHEMISTRY TABLE**  
+*(Selected values, missing entries where not drawn)*
+
+| Date     | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | HCO3 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|----------|------------|------------|---------|------------|-------------|------------|-------------|---------------|-------------|------------|-------------|
+| 5/17/24  | 5.5        | 14.2       | 38.2    | 297        | 131         | 4.8        | 99          | 18            | 23          | 1.1        | 108         |
+| 5/18/24  | 13.9       | 12.1       | 33.5    | 212        | 128         | 5.7        | 104         | 16            | 38          | 1.8        | 142         |
+| 5/19/24  | 12.2       | 11.6       | 31.9    | 176        | 133         |            | 102         | 21            | 34          | 1.4        | 130         |
+| 5/20/24  | 9.7        | 12.4       |         | 198        | 136         | 4.2        | 104         | 25            | 27          |            | 111         |
+| 5/22/24  | 7.8        | 13.1       | 36.2    | 244        | 139         | 3.6        | 102         |               | 24          | 1.0        | 99          |
+| 5/25/24  | 6.2        | 13.6       | 37.4    | 256        | 140         | 4.0        | 100         | 27            |             | 0.9        | 97          |
+
+**OTHER LABS & RELEVANT STUDIES**
+- **Troponin I:** 7.3 → 2.1 → 0.7 ng/mL (peaked 5/17/24)
+- **BNP:** 1580 pg/mL (on admit), 672 pg/mL (5/24/24)
+- **ALT/AST:** 142/176 U/L (peak, 5/18/24), improved to 48/39 U/L by 5/25
+- **Total bili:** 1.7 mg/dL (peak), now 0.9 mg/dL
+- **Lactate:** 4.2 mmol/L → 1.1 mmol/L
+- **PT/INR:** 15.2 sec / 1.3
+- **CEA:** pending
+- **Guaiac stool:** + on 5/19/24, negative thereafter
+
+---
+
+## PROCEDURES
+
+- **Impella CP placement** (L femoral, 5/18/24): For cardiogenic shock; no intra-procedural complications.  
+- **Central line (R IJ), arterial line (L radial).**  
+- **Echocardiograms:** Baseline and serial post-Impella.
+
+---
+
+## MEDICATION ADMINISTRATION RECORD (MAR)
+
+- Penicillin V potassium 500mg PO BID (completed)
+- Ibuprofen 200mg PO PRN
+- Norepinephrine gtt (HD1-3)
+- Dobutamine gtt (HD1-5)
+- Furosemide IV, transitioned to PO
+- Carvedilol, spironolactone started HD6
+- Acetaminophen scheduled
+- Oxycodone PRN severe pain
+- Heparin SQ for DVT prophylaxis
+
+---
+
+## DISPOSITION
+
+Patient remains in the ICU on HD10, with improving cardiac function and end-organ perfusion. Impella wean in progress. Anticipate stepdown transfer within 48-72 hours pending further cardiac stability.
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN (SUMMARY TABLE)
+
+| Problem                        | Assessment/Status                       | Plan/Interventions                      |
+|---------------------------------|-----------------------------------------|-----------------------------------------|
+| Cardiogenic shock, new HF       | Improved with Impella, diuresis         | Wean Impella, optimize HF meds          |
+| Stroke (remote)                 | Stable, no new deficits                 | PT/OT, DVT ppx, neuro monitoring        |
+| Colon cancer (s/p resection)    | No active bleeding/recurrence           | Monitor, resume aspirin, oncology f/u   |
+| Obesity                        | Mild, diet addressed                    | Nutrition, mobility                     |
+| Chronic pain/migraine           | Stable, controlled                      | Pain mgmt, avoid triptans               |
+| Drug overdose (hx)              | None this admit                         | Psych eval prior to d/c                 |
+| Recent infection                | Completed abx, no recurrence            | Monitor                                 |
+
+---
+
+**Electronically signed by:**  
+Dr. J. Martinez, MD  
+05/27/2024, 15:14  
+
+---

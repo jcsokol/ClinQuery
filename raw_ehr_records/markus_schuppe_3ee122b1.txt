@@ -1,0 +1,154 @@
+---
+**Inpatient Progress Note - ICU**
+**Patient:** Markus Schuppe  
+**MRN:** 00928374  
+**DOB:** 10/02/1961  
+**Sex:** Male  
+**Date of Admission:** 2024-05-16  
+**Attending:** Dr. M. Kessler  
+**Consults:** Cardiology, Endocrinology, Pulmonology, Nutrition
+
+---
+
+**Chief Complaint:**  
+Progressive shortness of breath, orthopnea, and lower extremity swelling.
+
+---
+
+**HPI:**  
+60-year-old male with PMHx of obesity, prediabetes, chronic anemia, OA knee, hyperlipidemia, and recent viral pharyngitis, presenting with 1 week of worsening dyspnea, PND, and LE edema. Two days PTA, he developed acute cough and fevers (Tmax 38.1°C), initially treated as bronchitis by PCP. Progressive hypoxemia and hypotension led to ED visit. In the ED, he was tachycardic, hypotensive, hypoxic, and developed acute pulmonary edema. Transferred to ICU for escalating respiratory and circulatory support. Echo showed severe global LV dysfunction (EF 15%), consistent with new-onset decompensated heart failure (likely viral myocarditis on background of metabolic syndrome). Due to refractory cardiogenic shock, required placement of a temporary percutaneous LVAD (Impella CP) on HD#2. Complicated by AKI and ongoing anemia.
+
+---
+
+**Hospital Course Summary (through HD#7):**  
+- HD#1: Admitted to ICU. Non-invasive ventilation, IV diuresis, started on inotropes.
+- HD#2: Worsening shock. Emergent Impella CP placed by cardiology. Vasopressors weaned over next 24hr.
+- HD#3: Stabilized hemodynamics. AKI (Cr up to 2.3), urine output improved after volume optimization.
+- HD#4: Developed low-grade fever, blood cultures taken. No growth. Anemia worsened (Hgb nadir 8.1). Transfused 1 PRBC.
+- HD#5: Gradual improvement in end-organ perfusion. Weaned off inotropes. LV function slowly recovering (EF up to 25%).
+- HD#6: Impella weaned/removed. Transitioned to high-dose oral diuretics. Started low-dose beta-blocker and ACEi.
+- HD#7: Transferred out of ICU to stepdown. Stable, ambulating short distances.
+
+---
+
+**Allergies:**  
+No known drug allergies.
+
+---
+
+**Medications (Active):**  
+- Ferrous sulfate 325mg PO daily  
+- Naproxen sodium 220mg PO PRN  
+- Acetaminophen 325mg PO PRN  
+- Simvastatin 10mg PO QHS  
+- Furosemide 40mg IV BID (now PO)  
+- Carvedilol 3.125mg PO BID  
+- Lisinopril 2.5mg PO daily  
+- Pantoprazole 40mg PO daily  
+- DVT prophylaxis: Enoxaparin 40mg SC daily
+
+---
+
+**Vital Signs (ICU Days 1-7):**
+
+| Date       | Temp (°C) | HR (bpm) | BP (mmHg) | RR | SpO2 | Weight (kg) | Pain (0-10) |
+|------------|-----------|----------|-----------|----|------|-------------|-------------|
+| 5/16/2024  | 37.9      | 112      | 88/56     | 26 | 92%  | 83.1        | 3           |
+| 5/17/2024  | 38.2      | 108      | 82/50     | 28 | 89%  | 82.8        | 3           |
+| 5/18/2024  | 37.6      | 98       | 96/64     | 22 | 97%  | 82.0        | 2           |
+| 5/19/2024  | 37.4      | 92       | 110/72    | 18 | 98%  | 81.7        | 1           |
+| 5/20/2024  | 37.2      | 78       | 114/74    | 16 | 98%  | 81.2        | 1           |
+| 5/21/2024  | 37.1      | 74       | 120/80    | 15 | 98%  | 80.9        | 1           |
+| 5/22/2024  | 36.9      | 70       | 122/82    | 14 | 99%  | 80.8        | 1           |
+
+---
+
+**LAB RESULTS (CBC, CHEM7, Cardiac Markers, LFTs, Lipids)**
+
+| Date       | WBC (K) | Hgb (g/dL) | Plt (K) | Na (mEq/L) | K (mEq/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | AST (U/L) | ALT (U/L) | T.Bili (mg/dL) | Troponin (ng/mL) | BNP (pg/mL) | LDL (mg/dL) | Albumin (g/dL) |
+|------------|---------|------------|---------|------------|-----------|-------------|------------|-------------|-----------|-----------|----------------|------------------|-------------|-------------|---------------|
+| 5/16/2024  | 10.1    | 10.5       | 231     | 140        | 4.2       | 18          | 1.4        | 116         | 32        | 18        | 0.8            | 0.11             | 3550        | 151         | 3.8           |
+| 5/17/2024  | 9.8     | 9.0        | 212     | 138        | 4.7       | 28          | 2.3        | 129         | 41        | 22        | 1.2            | 0.15             | 4916        |             |               |
+| 5/18/2024  | 8.9     | 8.1        | 207     | 139        | 4.5       | 25          | 2.0        | 101         | 29        | 14        | 1.0            | 0.09             | 3900        |             | 3.7           |
+| 5/19/2024  | 9.3     | 9.6        | 220     | 140        | 4.1       | 21          | 1.7        | 97          | 21        | 12        | 0.8            | 0.07             | 2100        | 140         | 4.1           |
+| 5/20/2024  | 8.7     | 10.2       | 238     | 142        | 4.0       | 16          | 1.3        | 95          | 19        | 10        | 0.6            | <0.01            | 890         | 135         | 4.3           |
+| 5/21/2024  | 9.2     | 10.3       | 245     | 143        | 4.1       | 15          | 1.1        | 92          |           |           | 0.6            | <0.01            | 650         |             |               |
+| 5/22/2024  | 9.4     | 10.8       | 252     | 141        | 4.0       | 13          | 1.0        | 90          |           |           | 0.5            | <0.01            | 370         |             | 4.5           |
+
+*Note: Some labs uncollected due to improving clinical status.*
+
+---
+
+**Imaging/Procedures:**
+- **CXR (5/16):** Bilateral pulmonary edema, mild cardiomegaly.
+- **Echo (5/16):** Severe global LV dysfunction, EF 15%, mild RV hypokinesis, no significant valvulopathy.
+- **Echo (5/20):** LVEF improved to 25%, mild MR.
+- **Impella CP insertion (5/17):** No complications.
+
+---
+
+**Physical Exam (HD#7):**  
+- **Gen:** Awake, alert, NAD.  
+- **CV:** S1/S2, soft III/VI holosystolic murmur, no JVD, trace pedal edema.  
+- **Resp:** Clear to ausc, no rales/wheezes.  
+- **Abd:** Soft, NT, ND.  
+- **Ext:** Trace edema, good pulses.  
+- **Neuro:** Grossly intact.
+
+---
+
+**Assessment & Plan:**
+
+**1. Cardiogenic Shock (resolved) / Decompensated Heart Failure (EF 15% → 25%)**  
+- Likely secondary to viral myocarditis on background of metabolic syndrome.  
+- Required temporary LVAD (Impella) for circulatory support.  
+- Weaned, now on oral HF regimen (BB, ACEi, diuretics).  
+- Plan: Cardiology f/u, uptitrate HF meds, fluid balance, daily weights, strict I/O.
+
+**2. Acute Kidney Injury (resolved)**  
+- Likely multifactorial: low perfusion, diuretics, pre-existing metabolic risk.  
+- Improved with hemodynamic recovery and volume optimization.  
+- Plan: Monitor renal function, hold nephrotoxins, adjust meds as needed.
+
+**3. Anemia (chronic, acutely worsened)**  
+- Baseline anemia (likely iron deficiency); worsened in ICU, transfused 1U PRBC.  
+- Plan: Continue iron supplementation, monitor Hgb, GI workup as outpatient.
+
+**4. Obesity, Prediabetes, Hyperlipidemia**  
+- Contributing to cardiac risk.  
+- Plan: Nutrition, diabetic diet, continue statin, monitor for glycemic excursions.
+
+**5. Acute Viral Bronchitis/Pharyngitis**  
+- Likely precipitated decompensation.  
+- Plan: Supportive care, monitor for secondary infection.
+
+**6. Osteoarthritis (knee)**  
+- Limited mobility in ICU, now ambulating.  
+- Plan: PT/OT, pain management, avoid NSAIDs due to recent AKI.
+
+**7. DVT Prophylaxis**  
+- On enoxaparin while inpatient, reassess mobility for transition to SCDs.
+
+**8. Discharge Planning**  
+- Anticipate transfer to floor, then home with close cardiology follow-up.  
+- Arrange outpatient echo, labs, and HF nurse visit.
+
+---
+
+**To Do:**
+- Repeat echo in 2 weeks  
+- Monitor labs  
+- Titrate HF meds  
+- Arrange dietician consult  
+- PT/OT to see daily
+
+---
+
+**Signed:**  
+M. Kessler, MD  
+Cardiology/ICU  
+5/22/2024 11:07
+
+---
+
+**End of Note**

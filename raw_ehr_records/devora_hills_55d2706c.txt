@@ -1,0 +1,136 @@
+```
+---------------------------------------------------------------------------
+EpicCare Inpatient - Progress Note
+Patient: Devora Hills      MRN: 0094721
+DOB: 05/12/1972            Age: 51
+Sex: Female                Attending: Dr. R. Zadeh
+Date: 03/24/2024           Author: Dr. John Siegel, MD
+Location: CVICU Rm 12      Admission Date: 03/18/2024
+
+CHIEF COMPLAINT:
+Progressive shortness of breath, orthopnea, and LE edema.
+
+HISTORY OF PRESENT ILLNESS:
+51-year-old obese prediabetic female with h/o anemia, hyperlipidemia, and multiple recent viral URIs, presented to the ED with acute onset dyspnea, chest heaviness, and palpitations. She reported 2 weeks of worsening exercise tolerance, sleeping upright, and 3-pillow orthopnea. On arrival, she was tachycardic, hypoxic, and mildly hypotensive. CXR showed pulmonary congestion. Troponin I was elevated. Echo revealed severe global LV dysfunction (EF ~15%), moderate MR, and moderate RV dysfunction. She rapidly decompensated in the ED, requiring BiPAP and escalating vasopressors. Cardiogenic shock was diagnosed. The patient was transferred to the CVICU, where a temporary percutaneous LV assist device (Impella CP) was placed for hemodynamic support.
+
+HOSPITAL COURSE (ICU DAYS 1-7):
+- Day 1: Admitted to CVICU, on norepinephrine + dobutamine. Impella placed via R femoral artery. Initial improvement in MAP and urine output.
+- Day 2: Weaned off norepinephrine, remained on low-dose dobutamine. Lactate normalized. Serial CBC/Chem7 monitored.
+- Day 3: Developed fever (38.6°C), started empiric vancomycin/cefepime; blood cx negative.
+- Day 4: Mild GI bleeding (melena), Hgb dropped from 11.7 to 9.2. GI consulted; EGD showed mild gastritis, no active bleed.
+- Day 5: Impella settings reduced, LV function reassessed by TTE (EF up to 25%). Renal function improved.
+- Day 6: Impella weaned and removed at bedside. No vascular complications.
+- Day 7: Transitioned to oral HF regimen (metoprolol, sacubitril/valsartan, spironolactone), ambulating in room, transferred to stepdown.
+
+PAST MEDICAL HISTORY:
+- Obesity (BMI 30+)
+- Prediabetes (A1c 6.4%)
+- Anemia (baseline Hgb ~12)
+- Hyperlipidemia
+- Recurrent viral URIs
+- 1st trimester miscarriage (remote)
+- No prior CAD, no DM, no HTN
+
+PAST SURGICAL HISTORY:
+- Mirena IUD insertion/removal x2
+- None otherwise
+
+SOCIAL HISTORY:
+- Lives alone, retired teacher
+- No tobacco, rare ETOH, no illicits
+- No recent travel or sick contacts
+
+FAMILY HISTORY:
+- Mother: MI age 67
+- Father: CHF, obesity
+- No inherited arrhythmias
+
+ALLERGIES:
+- NKDA
+
+CURRENT MEDICATIONS (on admission):
+- Jolivette 28d, Mirena IUD, medroxyprogesterone inj, Camila 28d, Simvastatin 10mg, NuvaRing
+
+PHYSICAL EXAM (ICU Day 2):
+- Gen: Obese F, NAD, alert
+- VS: T 38.1, HR 92, BP 108/58 (MAP 74), RR 21, SpO2 96% (2L NC)
+- CV: S3, holosystolic murmur at apex, JVP 9cm, pitting edema 2+ LE
+- Pulm: Bibasilar crackles, no wheeze
+- Abd: Soft, mild epigastric tenderness
+- Neuro: AOx3, no focal deficits
+- Skin: No bruising/bleeding
+- Lines: R femoral Impella, L radial A-line, triple lumen R IJ
+
+LABS: (Selected)
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin I | AST  | ALT  | Alk Phos | Lactate |
+|------------|------|------|------|------|------|------|------|------|------|------|------|------------|------|------|----------|---------|
+| 3/18/24 AM | 7.8  | 12.7 | 38.4 | 249  | 140  | 4.3  | 104  | 21.8 | 9.9  | 2.74 | 85   | 0.39       | 18   | 53   | 113      | 3.1     |
+| 3/18/24 PM | 8.1  | 11.7 | 34.9 | 232  | 141  | 4.7  | 102  | 19.9 | 17.2 | 3.19 | 93   | 0.56       | 26   | 65   | 117      | 2.2     |
+| 3/19/24    | 9.5  | 10.3 | 31.1 | 198  | 143  | 4.1  | 105  | 22.3 | 22.1 | 2.88 | 104  | 0.27       | 21   | 50   | 98       | 1.7     |
+| 3/20/24    | 7.2  | 9.2  | 28.0 | 163  | 139  | 4.0  | 108  | 20.1 | 18.7 | 2.21 | 101  | 0.18       | 17   | 42   | 89       | 1.1     |
+| 3/21/24    | 6.7  | 9.8  | 29.4 | 179  | 138  | 3.8  | 106  | 22.8 | 13.2 | 1.69 | 97   | 0.08       | 14   | 39   | 94       | 1.0     |
+| 3/22/24    | 7.1  | 10.1 |      | 188  |      | 4.2  |      | 23.0 | 11.1 | 1.33 |      | 0.04       |      |      |          | 0.9     |
+| 3/23/24    | 6.3  | 10.7 | 32.2 | 201  | 137  | 4.0  | 103  | 24.2 | 10.0 | 1.12 | 89   | <0.01      | 13   | 28   | 79       |         |
+| 3/24/24    | 6.0  | 11.0 | 33.0 | 217  | 135  | 4.0  | 100  | 23.7 | 9.1  | 1.05 | 85   | <0.01      |     |      |          |         |
+
+OTHER RELEVANT STUDIES:
+- Echo (3/18): EF 15%, severe global hypokinesis, mod MR, RV mild/mod hypokinesis, IVC dilated, no thrombus.
+- Echo (3/22): EF 25%, improved LV function, mod MR persists.
+- CXR: Pulm edema, small bilateral pleural effusions, no consolidation.
+- ECG: Sinus tach, low voltage, no ST-elevation.
+- Cardiac cath: No obstructive CAD.
+
+PROBLEM-BASED ASSESSMENT & PLAN:
+
+1. **Cardiogenic Shock, New Onset Severe Non-ischemic Cardiomyopathy**
+   - Impella CP inserted for temporary LV support, now explanted
+   - Etiology: likely viral myocarditis vs. idiopathic
+   - Guideline-directed HF therapy initiated (BB, ARNI, MRA)
+   - Cardiac MRI pending outpatient
+   - Cardiology f/u, consider ICD if EF <35% in 90 days
+
+2. **Acute Kidney Injury (pre-renal, multifactorial)**
+   - Initial Cr 2.7, improved to 1.05 with volume/pressors/Impella
+   - Monitor daily BMP
+   - Avoid nephrotoxins
+
+3. **Anemia (multifactorial)**
+   - Baseline Hgb ~12, dropped to nadir 9.2 (GI loss vs. dilutional)
+   - GI consulted, EGD: mild gastritis, no active bleed
+   - Iron studies pending, monitor CBC
+
+4. **Obesity, BMI 30+**
+   - Dietician consult
+   - Encourage ambulation, low sodium diet
+
+5. **Prediabetes (A1c 6.4%)**
+   - Monitor BG, no insulin needed
+   - F/u with PCP, DM prevention counseling
+
+6. **Hyperlipidemia**
+   - Continue simvastatin
+   - Lipid panel rechecked on discharge
+
+7. **Recent viral URIs, possible myocarditis trigger**
+   - No further signs of infection, afebrile x3 days
+   - Blood cultures negative
+
+8. **Contraceptive Management**
+   - Mirena IUD in place, no changes
+   - Discontinue oral progestins if not indicated
+
+9. **DVT Prophylaxis**
+   - SCDs, SQ heparin
+
+10. **Other**
+    - Multivitamin, FeSO4, PPI (for GI protection)
+    - PT/OT evaluation for discharge planning
+
+DISCHARGE PLANNING:
+- Anticipate transfer to telemetry/stepdown today, then home with home health
+- Close f/u with HF clinic, PCP, and Cardiology
+- Echo in 4 weeks, cardiac MRI outpatient
+
+---------------------------------------------------------------------------
+```
+**End of Progress Note**

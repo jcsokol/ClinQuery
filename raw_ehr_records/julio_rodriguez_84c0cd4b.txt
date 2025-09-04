@@ -1,0 +1,160 @@
+---
+**Patient Name:** Julio Rodriguez  
+**MRN:** 003584920  
+**DOB:** 12/29/1982  
+**Sex:** Female  
+**Date of Admission:** 2024-06-18  
+**Attending:** Dr. Lee, Cardiology  
+**Consult Services:** Cardiology, Neurology, Orthopedics  
+**Location:** CVICU, Room 14 
+
+---
+
+## CHIEF COMPLAINT
+Acute shortness of breath, altered mental status
+
+---
+
+## HISTORY OF PRESENT ILLNESS
+41-year-old female with a history significant for seizure disorder (on carbamazepine, clonazepam, diazepam), prior single seizure, recent closed hip fracture (s/p ORIF 2 weeks ago), and viral sinusitis presents with 2 days of progressive dyspnea, orthopnea, and confusion. Family reports a witnessed syncopal episode at home. She was brought to the ED, found to be hypotensive (SBP 74), tachycardic, and hypoxic. On arrival, she was in acute respiratory distress with evidence of pulmonary edema on exam and CXR. Given persistent hypotension and shock despite fluids and vasopressors, she was admitted to the ICU and ultimately required placement of a percutaneous left ventricular assist device (Impella CP) for cardiogenic shock, presumed secondary to acute decompensated heart failure.
+
+---
+
+## HOSPITAL COURSE
+- **Day 1-2:** Admitted to ICU. Intubated for hypoxic respiratory failure. Started on norepinephrine. Labs notable for elevated troponin, BNP, transaminitis, and lactate. Echo showed LVEF 15%, global hypokinesis, mild RV dysfunction. Impella CP device placed via femoral approach.
+- **Day 3-5:** Gradual improvement in end-organ perfusion. Extubated on Day 4. Vasopressors weaned. Developed new fever, elevated WBC—concern for device-related infection, empiric vancomycin/cefepime started. Blood cultures negative.
+- **Day 6-8:** Impella weaned and explanted. Mental status improved. Physical therapy started for deconditioning and prior hip fracture. Carbamazepine levels monitored. No recurrent seizures. Mildly elevated LFTs improved off vasopressors.
+- **Day 9:** Transferred to stepdown. Ongoing workup for underlying cardiomyopathy (suspected viral or arrhythmia-related). Discharge planning for acute rehab.
+
+---
+
+## PAST MEDICAL HISTORY
+- Seizure disorder (on AEDs)
+- History of single seizure
+- Closed left hip fracture (ORIF 2 weeks ago)
+- Recent viral sinusitis
+
+---
+
+## PAST SURGICAL HISTORY
+- ORIF left hip (2024)
+- Tonsillectomy (childhood)
+
+---
+
+## ALLERGIES
+- NKDA
+
+---
+
+## MEDICATIONS (Home)
+- Acetaminophen 160 mg PO prn
+- Clonazepam [Klonopin] 0.5 mg BID
+- Carbamazepine [Tegretol] 200 mg BID
+- Diazepam [Valium] 2 mg PRN
+
+## VITALS (selected)
+| Date         | Temp   | HR  | BP         | RR  | SpO2 | Weight (kg) |
+|--------------|--------|-----|------------|-----|------|-------------|
+| 2024-06-18   | 36.8°C | 122 | 74/44      | 28  | 91%  | 43.8        |
+| 2024-06-19   | 37.2°C | 98  | 92/54      | 24  | 97%  | 44.1        |
+| 2024-06-21   | 36.9°C | 82  | 102/60     | 18  | 98%  | 44.3        |
+| 2024-06-23   | 37.5°C | 88  | 110/62     | 16  | 98%  | 44.4        |
+
+---
+
+## LABS
+
+### CBC / CHEM7 / CARDIAC / LIVER
+
+| Date        | WBC   | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu   | Troponin | BNP     | AST   | ALT   | Alk Phos | T Bili |
+|-------------|-------|-------|-------|-------|------|------|------|------|------|------|-------|----------|---------|-------|-------|----------|--------|
+| 6/18        | 9.4   | 14.2  | 45.3  | 427   | 133  | 5.6  | 98   | 18   | 34   | 2.3  | 162   | 2.17     | 3950    | 98    | 112   | 222      | 2.1    |
+| 6/19        | 12.7  | 12.8  | 41.1  | 378   | 136  | 4.8  | 102  | 22   | 29   | 1.9  | 134   | 1.33     | 2820    | 88    | 91    | 168      | 1.5    |
+| 6/20        | 10.2  | 13.1  | 40.9  | 355   | 139  | 4.2  | 104  | 24   | 17   | 1.1  | 101   | 0.48     | 1190    | 41    | 60    | 112      | 0.8    |
+| 6/22        | 7.8   | 13.9  | 43.2  | 298   | 138  | 3.9  | 101  | 26   | 12   | 0.8  | 98    | <0.02    | 650     | 35    | 38    | 87       | 0.4    |
+| 6/23        | 9.1   | 14.0  | 44.0  | 312   | 140  | 4.1  | 103  | 25   | 10   | 0.7  | 89    | <0.02    | 350     | 30    | 31    | 73       | 0.2    |
+
+*Some entries missing (e.g., 6/21 not collected)  
+
+---
+
+## MICROBIOLOGY
+- Blood cultures x2 (6/19): No growth at 5 days
+- Respiratory viral panel: negative
+- COVID-19 PCR: negative
+
+---
+
+## IMAGING
+- **CXR (6/18):** Bilateral pulmonary edema, mild cardiac enlargement.
+- **Echo (6/18):** LVEF 15%, global hypokinesis, mild RV dysfunction.
+- **Pelvis X-ray (6/20):** Stable post-ORIF changes, no acute findings.
+
+---
+
+## CONSULTS
+- **Cardiology:** For cardiogenic shock and device management
+- **Neurology:** For anti-epileptic management, AMS
+- **Orthopedics:** For hip fracture rehab recommendations
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock, New Onset Severe Systolic Heart Failure**
+   - Likely viral or arrhythmic etiology (workup ongoing)
+   - Required Impella CP for temporary circulatory support; successfully weaned and explanted
+   - Continue GDMT as tolerated, monitor for arrhythmias
+   - Cardiac MRI and genetic testing pending
+
+**2. Acute Respiratory Failure, s/p Intubation**
+   - Hypoxemia resolved, extubated Day 4
+   - Pulmonary edema improved with diuresis and device support
+   - Oxygen via nasal cannula PRN
+
+**3. Seizure Disorder**
+   - No events this admission; carbamazepine and clonazepam continued, levels monitored
+   - Neurology to follow for AED titration
+
+**4. Closed Left Hip Fracture, s/p ORIF**
+   - Stable post-op course; started PT/OT
+   - DVT prophylaxis with enoxaparin
+
+**5. Transaminitis**
+   - Likely ischemic, improved off vasopressors
+   - Monitor LFTs
+
+**6. Infection Risk, Device-Associated**
+   - Empiric antibiotics initiated for fever/leukocytosis; cultures negative
+   - Antibiotics discontinued after 72h
+
+**7. Deconditioning**
+   - Physical therapy initiated, progressing well
+   - Discharge planning for acute rehab
+
+**8. Electrolyte Abnormalities**
+   - Mild hyperkalemia on admission, resolved with supportive care
+   - Continue to monitor electrolytes
+
+**9. Pain**
+   - Minimal; acetaminophen PRN
+
+**10. Psychosocial**
+   - Family at bedside, case management involved for disposition
+
+---
+
+## DISCHARGE PLANNING
+- Anticipate transfer to acute rehab in 1-2 days
+- Close follow up with cardiology, neurology, orthopedics
+- Home meds to be reconciled at discharge
+
+---
+
+**Physician:**  
+Dr. Lee, MD  
+Cardiology  
+**Date/Time:** 2024-06-23 16:01
+
+---

@@ -1,0 +1,186 @@
+**Patient Name:** Deon Ankunding  
+**MRN:** 001928373  
+**DOB:** 1911-04-08 (Age: 113)  
+**Sex:** Male  
+**Admit Date:** 2024-05-27  
+**Attending:** Dr. Robertson  
+**Consultants:** Cardiology, Cardiac Surgery, Neurology, Infectious Disease  
+**Allergies:** NKDA  
+**Code Status:** Full Code  
+**Admitting Dx:** Cardiogenic shock s/p acute decompensated heart failure, Atrial fibrillation with RVR, Hx stroke, Hx colon polyps  
+**Hospital Day:** 8  
+**ICU Day:** 7  
+**Disposition:** Still in ICU  
+**Insurance:** Medicare  
+**Isolation:** None  
+**Precautions:** Fall, Bleeding  
+**Advanced Directives:** Discussed, patient wishes full interventions
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+**Chief Complaint:**  
+Progressive dyspnea, orthopnea, fatigue, and palpitations for 1 week prior to admission.
+
+**HPI:**  
+Deon Ankunding, a 113-year-old male with a history of hypertension, chronic sinusitis, atrial fibrillation (on warfarin), prior ischemic stroke (non-disabling), and remote colon polyps, presented with acute shortness of breath, orthopnea, and chest heaviness. On arrival, he was found to be in rapid atrial fibrillation (HR 152), hypotensive (BP 74/41), and hypoxic (SpO2 87% RA). Initial exam revealed evidence of pulmonary edema and cool extremities. He was admitted to the ICU with a diagnosis of acute decompensated heart failure and cardiogenic shock.
+
+Due to persistent shock refractory to vasoactive agents and inotropes, he underwent urgent placement of a percutaneous left ventricular assist device (Impella CP) on hospital day 2 for hemodynamic support. He required intubation for respiratory failure on day 2, was extubated successfully on day 6, and the Impella device was removed on day 7 after stabilization. His course was complicated by acute kidney injury, supratherapeutic INR, and nosocomial pneumonia.
+
+---
+
+## ASSESSMENT & PLAN
+
+**Active Problems:**
+1. **Cardiogenic Shock s/p Impella LVAD (Temporary) placement**
+   - Day 2: Required Impella CP for refractory shock.
+   - Weaned off vasoactives on day 5, Impella explanted day 7.
+   - **Plan:** Continue hemodynamic monitoring, daily TTE, optimize volume status, serial lactate.
+
+2. **Decompensated Heart Failure (EF 18%)**
+   - Hx longstanding HTN, now with severe LV dysfunction.
+   - **Plan:** Resume GDMT as tolerated, monitor BNP, fluid balance, diuresis with IV furosemide.
+
+3. **Atrial Fibrillation (on warfarin)**
+   - RVR on admission, now rate controlled.
+   - Supratherapeutic INR (max 4.7), held warfarin x2 days, now bridged with heparin.
+   - **Plan:** Monitor INR, restart warfarin at reduced dose, maintain HR < 90.
+
+4. **Acute Kidney Injury (Stage II)**
+   - Creatinine peaked at 2.3 (baseline 1.0), likely multifactorial (hypoperfusion, diuretics).
+   - **Plan:** Renal dosing for all meds, monitor daily BMP, nephrology consult.
+
+5. **Hospital-acquired pneumonia**
+   - Fever (38.2C), new infiltrate on CXR, sputum cultures pending.
+   - **Plan:** Continue cefepime + azithro, monitor WBC, procalcitonin.
+
+6. **History of Stroke**
+   - No new deficits, on DVT ppx during warfarin hold.
+   - **Plan:** Neuro checks q4h, PT/OT.
+
+7. **Colon polyps (remote)**
+   - No active GI symptoms.
+   - **Plan:** Resume colonoscopy screening when stable.
+
+8. **Chronic sinusitis**
+   - No acute symptoms.
+   - **Plan:** Continue home meds.
+
+**Prophylaxis:** PPI for GI, heparin for DVT (during INR <2), SCDs  
+**Lines/Tubes:** Right IJ TLC, left radial A-line, Foley (removed day 6), Impella (removed day 7)  
+**Nutrition:** NPO until extubation, now on cardiac diet  
+**Disposition:** Remains ICU, plan transfer to telemetry when stable
+
+---
+
+## ICU DAILY PROGRESS NOTE
+
+**Subjective:**  
+Patient now alert, oriented, able to answer questions. Mild fatigue, denies CP, SOB at rest. No focal neuro deficits.
+
+**Objective:**  
+
+**Vitals (past 24h):**  
+- T: 36.8–38.2°C  
+- HR: 72–106 bpm (controlled)  
+- BP: 94/52 – 128/68 mmHg  
+- RR: 16–22  
+- SpO2: 94–98% (2L NC)  
+- I/O: Net -350 mL last 24h
+
+**Physical Exam:**  
+- Gen: Elderly, frail, NAD  
+- CV: S1 S2, no murmur, JVP 9cm, no peripheral edema  
+- Pulm: Clear, mild bibasilar crackles  
+- Neuro: AAOx3, no new deficits  
+- GI: Soft, NT, NABS  
+- GU: Foley d/c, voiding well  
+- Skin: No rashes, lines clean/dry
+
+---
+
+## LABS
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | HCO3 | BUN  | Cr   | Glu  | INR | Troponin | BNP   |
+|------------|------|------|------|------|------|------|------|------|------|------|------|-----|----------|-------|
+| 5/27/24 AM | 13.2 | 12.4 | 37.1 | 165  | 134  | 4.1  | 99   | 22   | 44   | 1.8  | 162  | 3.8 | 0.08     | 3983  |
+| 5/28/24 AM | 15.6 | 11.9 | 35.3 | 148  | 132  | 4.6  | 96   | 19   | 56   | 2.3  | 178  | 4.7 | 0.11     | 4172  |
+| 5/29/24 AM | 14.8 | 10.7 | 32.9 | 116  | 138  | 4.2  | 101  | 25   | 58   | 2.1  | 144  | 3.5 | 0.07     | 3621  |
+| 5/30/24 AM | 11.2 | 10.9 | 33.2 | 138  | 140  | 4.0  | 104  | 27   | 39   | 1.6  | 128  | 2.4 | 0.04     | 2872  |
+| 5/31/24 AM | 9.8  | 11.2 | 34.1 | 144  | 138  | 3.8  | 100  |      | 33   | 1.3  |      | 2.1 |          | 2107  |
+| 6/1/24 AM  | 8.7  | 11.8 | 35.7 | 156  | 137  |      | 101  | 29   | 27   | 1.2  | 116  | 2.0 | <0.01    | 1512  |
+| 6/2/24 AM  | 7.9  |      |      | 153  |      | 4.0  | 98   | 24   | 22   | 1.0  | 104  | 2.4 | <0.01    | 961   |
+
+**Other Labs:**
+- Procalcitonin (5/29/24): 0.32 ng/mL (Nl <0.10)
+- AST/ALT (5/28/24): 64/73 U/L (mildly elevated, likely congestion)
+- Total bili (5/28/24): 1.5 mg/dL
+- Lactate (5/27/24): 3.7 mmol/L (downtrended to 1.1 by 5/31/24)
+- ABG (5/28/24): 7.28/49/64/19 (on vent, mild resp acidosis)
+- CXR: Bilateral vascular congestion, improving
+
+---
+
+## MEDICATION ADMINISTRATION RECORD
+
+- Furosemide IV 40mg BID (since 5/27/24)
+- Metoprolol IV q6h (5/27–5/29), then PO
+- Warfarin held 5/28–5/30, restarted 5/31 at 2.5mg
+- Heparin gtt (5/28–5/31)
+- Digoxin 0.125mg PO qd
+- Verapamil 40mg PO BID
+- Cefepime 2g IV q12h, Azithro 500mg IV qd (5/29–present)
+- Acetaminophen PRN
+- Pantoprazole 40mg IV qd
+- DVT ppx: SCDs, heparin 5000u SQ q12h (during warfarin hold)
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN (Expanded)
+
+### 1. Cardiogenic Shock s/p Temporary Impella LVAD Placement
+- **Summary:** Refractory shock from severe LV dysfunction; Impella placed for 5 days, now removed.
+- **Plan:** Monitor for device-related complications (hemolysis, limb ischemia), serial echocardiograms, optimize afterload and preload, continue inotropes as needed, transition to oral therapy.
+
+### 2. Acute Decompensated Heart Failure
+- **Summary:** Severe LV systolic dysfunction (EF 18%), likely ischemic and hypertensive.
+- **Plan:** Gentle diuresis, goal euvolemia, uptitrate GDMT, strict I/O, daily weights, monitor electrolytes, low-salt diet.
+
+### 3. Atrial Fibrillation
+- **Summary:** Paroxysmal, rate-controlled, anticoagulation complicated by supratherapeutic INR.
+- **Plan:** Monitor rhythm, continue warfarin with INR goal 2–3, consider amiodarone if recurrent RVR.
+
+### 4. AKI on CKD
+- **Summary:** Likely multifactorial: hypoperfusion, nephrotoxic drugs, and underlying CKD.
+- **Plan:** Renal dosing, avoid nephrotoxins, monitor volume status, nephrology follow-up.
+
+### 5. Hospital-acquired Pneumonia
+- **Summary:** Developed on day 4 of ICU stay, responding to antibiotics.
+- **Plan:** Continue empiric antibiotics for 7 days, de-escalate if cultures negative, pulmonary toilet.
+
+### 6. History of Stroke
+- **Summary:** No new events, on anticoagulation.
+- **Plan:** Continue DVT/PE ppx, neuro checks.
+
+### 7. Colon Polyps, Chronic Sinusitis
+- **Summary:** No acute issues.
+- **Plan:** Outpatient follow-up.
+
+---
+
+## DISCHARGE PLANNING
+
+- **Anticipated Discharge Needs:** Cardiac rehab, home PT/OT, close cardiology follow-up, warfarin monitoring
+- **Family Meeting:** Planned for 6/3/24 to discuss prognosis and goals of care
+
+---
+
+## SIGNATURE  
+Robertson, MD  
+ICU Attending  
+Date/Time: 2024-06-02 10:42
+
+---
+
+**[End of Note]**

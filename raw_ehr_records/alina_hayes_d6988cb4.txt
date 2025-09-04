@@ -1,0 +1,195 @@
+---
+**EPIC EHR: INPATIENT NOTE**
+
+**Patient:** Hayes, Alina  
+**MRN:** 00983422  
+**DOB:** 11/24/1964 (Age: 59)  
+**Sex:** Female  
+**Attending:** Dr. Samuel Kline, MD  
+**Date of Admission:** 2024-05-30  
+**Date/Time of Note:** 2024-06-03 09:44  
+**Location:** Cardiac ICU, 6E
+
+---
+
+### Chief Complaint
+Shortness of breath and acute-on-chronic lower extremity edema.
+
+---
+
+### HPI
+Alina Hayes is a 59-year-old female with a history of obesity, hypothyroidism, osteoarthritis, and recurrent urinary tract infections who presented to the ED with 3 days of worsening dyspnea, orthopnea, and new-onset confusion. She reported a dry cough and malaise for 1 week prior, and was recently treated for a UTI with nitrofurantoin. She denied chest pain. In the ED, she was found to be hypotensive (SBP 82 mmHg), tachycardic (HR 112), and hypoxic (SpO2 88% on RA). Initial labs revealed elevated troponin, metabolic acidosis, and acute kidney injury. Bedside echo showed severely reduced LVEF (EF 15%), and she was admitted to the ICU for management of presumed cardiogenic shock. Due to persistent shock despite inotropes, a left-sided Impella CP device was placed on hospital day 1.
+
+---
+
+### Past Medical History
+- Obesity (BMI 30+ historically, currently BMI 27)
+- Osteoarthritis, bilateral knees
+- Idiopathic atrophic hypothyroidism (on levothyroxine)
+- Recurrent UTIs (most recently E. coli, on nitrofurantoin)
+- Acute viral pharyngitis (remote)
+- Acute bronchitis (remote)
+- Cystitis
+- Left wrist sprain (remote)
+
+### Surgical History
+- None
+
+### Family History
+- Noncontributory
+
+### Social History
+- Lives alone, retired librarian
+- No tobacco, alcohol, or illicit drug use
+
+### Allergies
+- NKDA
+
+### Home Medications
+- Levothyroxine 75 mcg PO daily
+- Naproxen 220 mg PO prn
+- Acetaminophen/dextromethorphan/doxylamine solution prn
+- Acetaminophen 325 mg PO prn
+- Nitrofurantoin 5 mg/mL suspension BID
+- Phenazopyridine 100 mg PO prn
+
+---
+
+### Physical Exam (ICU Day 4)
+
+| Vital Sign            | Value              |
+|-----------------------|--------------------|
+| Temp (oral)           | 37.9°C             |
+| BP                    | 94/58 mmHg (MAP 67)|
+| HR                    | 95 bpm             |
+| RR                    | 16                 |
+| O2 Sat                | 97% (2L NC)        |
+| Weight                | 83 kg              |
+| Height                | 174 cm             |
+| BMI                   | 27.3               |
+| Pain Score            | 2/10               |
+
+**HEENT:** No JVD, oropharynx clear.  
+**Lungs:** Bibasilar crackles, decreased breath sounds at bases.  
+**Cardiac:** Tachycardic, S3 present, no murmurs/rubs/gallops.  
+**Abdomen:** Soft, nontender, no HSM.  
+**Extremities:** 2+ pitting edema bilateral lower extremities.  
+**Neuro:** Awake, oriented × 2, slow to respond.  
+**Skin:** No rashes, no ulcerations.
+
+---
+
+### Hospital Course Summary
+
+- **ICU Day 1:** Admitted in cardiogenic shock. Started on dobutamine and norepinephrine. Emergent placement of left-sided Impella CP for hemodynamic support. Broad-spectrum antibiotics initiated for possible sepsis.
+- **ICU Day 2:** Improved perfusion, lactate downtrending. Developed oliguria, creatinine peaked at 2.1. Troponin I peaked at 4.2. Echo: Severe global hypokinesis, EF 15%.
+- **ICU Day 3:** Extubated, mental status improving. Weaning of pressors. Impella flows at 3.7 L/min. Diuresis initiated with IV furosemide.
+- **ICU Day 4:** Stable on minimal inotropes, Impella weaning trial initiated. Renal function improving. Cultures negative. Awaiting repeat echo.
+
+---
+
+### Labs
+
+**Table 1: CBC and Chem7 (Selected Days)**
+| Date       | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|
+| 5/30/24    | 14.5       | 15.2       | 46      | 238        | 132         | 4.7        | 100         | 18           | 32          | 1.8        | 148         |
+| 5/31/24    | 12.0       | 14.8       | 44      | 221        | 135         | 4.4        | 102         | 20           | 38          | 2.1        | 130         |
+| 6/1/24     | 10.2       | 13.7       | 41      | 188        | 138         | 4.2        | 104         | 22           | 31          | 1.7        | 117         |
+| 6/2/24     | 8.9        | 12.9       | 39      | 196        | 139         | 4.0        | 104         | 23           | 27          | 1.4        | 106         |
+| 6/3/24     | 7.8        | 12.8       | 38      | 204        | 140         | 3.9        | 104         | 24           | 23          | 1.1        | 102         |
+| 6/4/24     | —          | 12.6       | 37      | 212        | 140         | —          | 103         | 23           | 22          | 1.0        | —           |
+
+**Other Labs**
+
+| Date     | Troponin I (ng/mL) | BNP (pg/mL) | AST (U/L) | ALT (U/L) | TSH (uIU/mL) | Free T4 (ng/dL) | Lactate (mmol/L) |
+|----------|--------------------|-------------|-----------|-----------|--------------|-----------------|------------------|
+| 5/30/24  | 3.9                | 3,845       | 58        | 48        | 3.8          | 0.16            | 3.2              |
+| 5/31/24  | 4.2                | —           | 61        | 53        | —            | —               | 2.7              |
+| 6/1/24   | 2.7                | 2,102       | 49        | 41        | —            | —               | 1.8              |
+| 6/3/24   | 0.8                | 1,420       | 41        | 33        | 3.7          | 0.18            | 1.2              |
+
+---
+
+### Imaging
+
+- **Echo (5/30/24):** Severe global hypokinesis, LVEF 15%, moderate MR, RV function mildly reduced.
+- **CXR (5/30/24):** Bilateral pulmonary edema, mild cardiomegaly, Impella device in place.
+
+---
+
+### Assessment and Plan (Problem-Based)
+
+**1. Cardiogenic Shock (Acute Systolic Heart Failure, likely ischemic)**
+   - Impella CP placed for hemodynamic support.
+   - Weaning inotropes (dobutamine, norepinephrine).
+   - Diuresis ongoing.
+   - Repeat echo pending for recovery assessment.
+   - Monitor for arrhythmias, hemolysis, device-related complications.
+
+**2. Acute Kidney Injury (likely multifactorial)**
+   - Likely secondary to hypoperfusion, possible nephrotoxicity from antibiotics.
+   - Renal function improving with improved hemodynamics.
+   - Monitor daily chemistries, avoid nephrotoxins.
+
+**3. Sepsis Rule-out**
+   - Initial concern due to shock and leukocytosis.
+   - Blood/urine cultures negative to date.
+   - Broad-spectrum antibiotics de-escalated.
+
+**4. Hypothyroidism**
+   - Continue home levothyroxine; TSH mildly elevated, free T4 low-normal.
+   - Monitor as stress can alter thyroid labs.
+
+**5. Obesity**
+   - Address during rehab phase; monitor caloric intake, consider nutrition consult.
+
+**6. Recurrent UTIs**
+   - On nitrofurantoin prophylaxis.
+   - Urine culture negative during admission.
+
+**7. Osteoarthritis, Knees**
+   - Naproxen held due to AKI.
+   - Acetaminophen for pain.
+
+**8. Delirium/Encephalopathy**
+   - Improving with hemodynamics.
+   - Reorient frequently, minimize sedation.
+
+**9. Volume Overload**
+   - Ongoing IV diuresis.
+   - Daily weights, strict I/O monitoring.
+
+**10. DVT Prophylaxis**
+    - SCDs in place; consider heparin if bleeding risk acceptable.
+
+---
+
+### Dispo/Follow-Up
+
+- Remain in ICU for continued monitoring and Impella wean
+- Cardiology and nephrology following
+- Plan for stepdown when hemodynamically stable off device
+- PT/OT to evaluate for functional baseline prior to discharge
+
+---
+
+**Physician:**  
+Samuel Kline, MD  
+Attending, Cardiology/ICU
+
+**Cosigned by:**  
+Andrea Valdez, MD  
+ICU Fellow
+
+---
+
+**Additional Orders/Reminders:**
+- Daily CBC, chem7, and lactate
+- Monitor urine output q2h
+- Repeat echo tomorrow
+- Nutrition consult
+
+---
+
+**End of Note**

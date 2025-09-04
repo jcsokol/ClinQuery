@@ -1,0 +1,192 @@
+---
+**Patient Name**: Danuta Franecki  
+**MRN**: 20204939  
+**Birthdate**: 1992-07-27 (Age: 31)  
+**Sex**: Female  
+**Attending**: Dr. Samuel L. Ng, MD  
+**Admit Date**: 2024-03-24  
+**Hospital Day**: 8  
+**Location**: MICU, Bed 7  
+**Code Status**: Full  
+**Allergies**: NKDA  
+
+---
+
+## H&P / ICU Progress Note
+
+### Chief Complaint:
+Shortness of breath, chest pain, and progressive fatigue.
+
+### History of Present Illness:
+31-year-old female with PMHx of anemia, prediabetes, acute bronchitis, viral sinusitis, and h/o appendectomy presented to the ED 8 days ago with 3 days of worsening dyspnea, orthopnea, and pleuritic chest pain. On arrival, found to be tachypneic, tachycardic, and hypotensive. Initial CXR showed mild pulmonary edema. EKG with sinus tach, troponin 0.29 → 0.65. TTE: severely reduced LVEF (20%). Required escalating vasopressors, transferred to ICU. On HD2, developed cardiogenic shock (SBP 70s despite pressors, lactate 5.2) → emergent placement of temporary left-sided Impella CP for hemodynamic support.  
+
+Course complicated by AKI, mild transaminitis, and episodes of paroxysmal AF.  
+
+No prior cardiac history. No known drug allergies.  
+
+### Hospital Course (Brief Summary)
+- HD1: Admitted to ICU, on norepinephrine and dobutamine for shock.
+- HD2: Impella CP placed via left femoral approach. Significant improvement in hemodynamics.
+- HD3-4: Diuresed, extubated, weaned off pressors.
+- HD5: Brief episode of AF with RVR, rate-controlled on metoprolol.
+- HD6: Renal function improving, Impella weaning protocol started.
+- HD7: Impella explanted, stable on minimal O2.
+- HD8: Ambulating, tolerating diet, prepping for step-down.
+
+---
+
+## Review of Systems
+- **General**: Fatigue, no fevers/chills.
+- **HEENT**: No current sinus congestion.
+- **Respiratory**: Dyspnea improved, no cough.
+- **Cardiac**: No CP currently, palpitations resolved.
+- **GI**: Tolerating diet, no n/v, no abdominal pain.
+- **GU**: Voiding well.
+- **Neuro**: No deficits.
+- **Extremities**: No edema.
+
+---
+
+## Physical Exam
+
+| Exam        | Findings                           |
+|-------------|------------------------------------|
+| General     | Alert, NAD                         |
+| Vitals      | T 36.8°C, HR 88, BP 116/73, RR 16, SpO2 97% RA |
+| HEENT       | PERRL, MMM, no JVD                 |
+| Lungs       | Clear, no rales or wheeze          |
+| Heart       | RRR, S1S2, no m/r/g, Impella hum noted (until HD7) |
+| Abdomen     | Soft, nontender, healed RLQ scar   |
+| Extremities | No edema, pulses 2+                |
+| Neuro       | AOx3, CN II-XII grossly intact     |
+| Skin        | No rashes, no breakdown            |
+
+---
+
+## Labs
+
+### CBC / Chem7 / Cardiac Markers / LFTs
+
+| Date       | WBC   | Hgb   | Plt   | Na    | K     | Cl    | CO2   | BUN   | Cr    | Gluc  | AST   | ALT   | Trop  | BNP    |
+|------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|
+| Admit (HD1)| 7.4   | 11.4  | 293   | 138.7 | 4.9   | 105.6 | 26.3  | 18.4  | 0.99  | 92.8  | 52    | 61    | 0.29  | 1460   |
+| HD2        | 10.2  | 10.2  | 255   | 137   | 5.2   | 108   | 24    | 22.1  | 1.23  | 98    | 88    | 112   | 0.65  | 1620   |
+| HD3        | 8.7   | 10.1  | 248   | 138   | 4.7   | 106   | 25    | 19.8  | 1.11  | 106   | 61    | 85    | 0.21  | 980    |
+| HD4        | 7.8   | 10.6  | 221   | 139   | 4.2   | 104   | 27    | 16.5  | 1.02  | 93    | 48    | 59    | 0.09  | 690    |
+| HD5        | 6.6   | 11.0  | 233   | 140   | 4.0   | 105   | 26    | 14.3  | 0.92  | 89    | 42    | 53    | <0.01 | 580    |
+| HD6        | 5.8   | 11.8  | 210   | 138   | 4.1   | 107   | 25    | 13.6  | 0.88  | 97    | 38    | 41    | <0.01 | 430    |
+| HD7        | 6.0   | 12.2  | 198   | 139   | 4.0   | 105   | 26    | 13.0  | 0.84  | 102   | 37    | 39    | <0.01 | 320    |
+| HD8        | 5.2   | 12.3  | 190   | 140   | 3.9   | 106   | 25    | 12.2  | 0.81  | 104   | 33    | 38    | —     | 190    |
+
+*Note: Not all labs collected daily; missing data indicated by "—".*
+
+---
+
+## Imaging / Procedures
+- **CXR (HD1, HD3, HD6)**: Initial mild vascular congestion, no infiltrate. Improved on HD6.
+- **TTE (HD1)**: LVEF 20%, global hypokinesis, no valvular vegetations.
+- **Impella CP Placement (HD2)**: Left femoral, no vascular complications.
+- **ECG (multiple)**: Sinus tach, then NSR, one episode AF RVR (HD5).
+
+---
+
+## Problem-Based Assessment & Plan
+
+### 1. Cardiogenic Shock (now resolved; Impella CP support)
+- HFrEF, likely viral myocarditis vs. idiopathic.
+- Required Impella CP for 5 days, now explanted.
+- **Plan**: Continue GDMT for HF, close monitoring. Cardiology f/u.
+
+### 2. Acute Decompensated Heart Failure
+- Initial LVEF 20%. Now euvolemic, off pressors, stable.
+- **Plan**: Continue gentle diuresis as needed. Start low-dose beta-blocker. ACE-I held for now (BP borderline).
+
+### 3. Paroxysmal Atrial Fibrillation (HD5)
+- Rate-controlled w/ metoprolol, no recurrence.
+- **Plan**: Continue metoprolol. No anticoagulation (CHA2DS2-VASc=1).
+
+### 4. Acute Kidney Injury (resolved)
+- Pre-renal, peak Cr 1.23, now 0.81.
+- **Plan**: Monitor, avoid nephrotoxins, encourage PO intake.
+
+### 5. Anemia (chronic, stable)
+- Hgb nadir 10.1, now 12.3. No transfusion needed.
+- **Plan**: Monitor, iron studies outpatient.
+
+### 6. Prediabetes
+- A1c 5.9% on admission.
+- **Plan**: Counsel on diet, outpatient f/u.
+
+### 7. History of Appendectomy
+- Well-healed RLQ scar, no issues.
+
+### 8. Acute Bronchitis/Viral Sinusitis
+- Remote, resolved.
+
+### 9. Reproductive Health
+- On OCPs, no complications. Not pregnant.
+
+---
+
+## Medications (Current)
+
+- Metoprolol tartrate 25 mg BID PO
+- Furosemide 20 mg PO QD
+- Atorvastatin 20 mg PO QHS
+- Acetaminophen 650 mg PO PRN
+- Levora 0.15/30 OCP, daily
+- Multivitamin daily
+- SCDs, PPI for GI prophylaxis
+
+---
+
+## Disposition/Planning
+- Step-down pending.
+- Cardiology, HF clinic, PCP follow-up.
+- PT/OT eval for safe DC.
+- Education on HF, medication, and lifestyle provided.
+
+---
+
+**Signed:**  
+Dr. Samuel L. Ng, MD  
+Date/Time: 2024-04-01 09:22
+
+---
+
+**Additional Labs / Results**
+
+#### Microbiology
+- Blood cultures x2 (HD1): No growth
+- Respiratory viral panel: Positive for coxsackie B
+
+#### Coags
+- INR: 1.1 (HD2)
+- aPTT: 28 sec (HD2)
+
+#### Other
+- Magnesium: 2.0 mg/dL (HD2)
+- Phosphorus: 3.5 mg/dL (HD2)
+- Ferritin: 46 ng/mL (HD3)
+
+---
+
+**Nursing Narrative (excerpt, HD4):**  
+Pt awake, alert, requesting water, ambulating with assistance. Impella site clean, dry. Voiding clear yellow urine. No chest pain, no SOB. Family at bedside.
+
+---
+
+**Consults**
+- Cardiology (primary)
+- Nephrology (HD2-4)
+- PT/OT (HD7)
+
+---
+
+**Patient Education:**  
+HF self-care, sodium restriction, medication adherence, s/s of decompensation.  
+Teach-back performed, family involved.
+
+---
+
+**End of Note**

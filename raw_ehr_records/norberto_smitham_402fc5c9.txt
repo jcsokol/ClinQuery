@@ -1,0 +1,221 @@
+**EHR Note: Norberto Smitham**  
+**MRN:** 1002945832  
+**DOB:** 10/31/1964  
+**Sex:** Male  
+**Admit Date:** 04/17/2024  
+**Attending:** Dr. S. Chan  
+**Service:** Cardiac ICU  
+**Location:** 3E-ICU, Bed 14  
+
+---
+
+# Admission H&P
+
+**Chief Complaint:**  
+Acute shortness of breath, chest pain, and confusion
+
+**HPI:**  
+59 y/o M w/ h/o HTN, obesity, alcoholism, MDD, and recent bullet wound to right chest (s/p GSW 2w ago, non-op), presenting w/ 1d progressive SOB, pleuritic CP, orthopnea, and confusion. Found hypoxic and hypotensive by EMS at home, intubated en route. In ED: BP 78/44, O2 sat 88% RA, HR 129, RR 30. CXR: bibasilar opacities, enlarged cardiac silhouette, right pleural effusion. Troponin I 24.2 ng/mL. Echo: severe global hypokinesis, LVEF 15%, moderate MR, LVEDP 28mmHg. Developed cardiogenic shock refractory to pressors → Impella CP placed emergently.  
+
+**PMH:**  
+- HTN  
+- Major depression disorder  
+- BMI 30+ (Obesity)  
+- Alcoholism (active, 6-8 drinks daily)  
+- Acute bronchitis (recent, cough persists)  
+- Bullet wound (GSW R chest, 2w ago, non-op, no retained FB)  
+
+**PSH:**  
+- None
+
+**FH:**  
+- Father: MI at 67  
+- Mother: T2DM, obesity
+
+**SH:**  
+- Former smoker (30 pack-years, quit 2019)  
+- Alcohol: 6-8 drinks/day  
+- No illicit drugs  
+- Lives alone
+
+**Allergies:**  
+- NKDA
+
+**Meds on Admission:**  
+- Amlodipine/HCTZ/Olmesartan  
+- Fluoxetine 25mg  
+- Acetaminophen/Dextromethorphan/Doxylamine syrup
+
+---
+
+# ICU Course Summary (Days 1–9)
+
+- **Day 1:** Admitted in cardiogenic shock; Impella CP placed, started on norepinephrine, dobutamine, lasix drip.  
+- **Day 2:** Remains intubated, improved MAP, lactic acid trending down. CXR: pulmonary edema, right pleural effusion increased.  
+- **Day 3:** Developed fever, WBC up, started vanc/cefepime for HAP.  
+- **Day 4:** Extubated, remains on Impella. Echo: LVEF improved to 22%.  
+- **Day 5:** Weaned off norepinephrine, still on dobutamine, Impella support ongoing.  
+- **Day 6:** Developed mild delirium, CIWA protocol for ETOH withdrawal.  
+- **Day 7:** Impella weaned, removed after echo shows LVEF 32%.  
+- **Day 8:** O2 sat 94% on 2L NC, transitioned to oral meds, started on metoprolol, spironolactone, SGLT2i.  
+- **Day 9:** Transferred to stepdown.
+
+---
+
+# Problem-Based Assessment & Plan
+
+## 1. Cardiogenic Shock secondary to Acute Systolic HF (likely post-ischemic)
+- **Assessment:** Severe LV dysfunction (LVEF 15%) w/ global hypokinesis, cardiogenic shock refractory to pressors; required Impella CP for 7 days. Troponin highly elevated, likely demand ischemia vs. small MI.
+- **Plan:**  
+  - Continue HF guideline-directed medical therapy (GDMT): metoprolol, spironolactone, SGLT2i, ACEI (hold if hypotensive)  
+  - Monitor volume status, daily weights, strict I/O  
+  - Repeat TTE in 2w  
+  - Cardiac rehab referral  
+  - Outpt f/u: HF, EP (for ICD consideration if LVEF <35% at 3mo)
+
+## 2. Acute Respiratory Failure s/p Intubation
+- **Assessment:** Hypoxemic and hypercarbic resp failure, multifactorial (pulmonary edema, bronchitis, effusion, prior GSW).  
+- **Plan:**  
+  - Pulmonary hygiene, incentive spirometry  
+  - O2 as needed  
+  - Monitor for reintubation criteria  
+  - Chest PT
+
+## 3. Sepsis, Nosocomial Pneumonia
+- **Assessment:** Fever, leukocytosis, CXR c/w HAP, improved w/ abx.  
+- **Plan:**  
+  - Continue cefepime/vanc x2 more days, then reassess  
+  - Blood/sputum cx pending  
+  - Daily CBC
+
+## 4. Acute Kidney Injury (pre-renal)
+- **Assessment:** Creatinine peaked at 2.1, now 1.6, likely from low perfusion + diuresis.  
+- **Plan:**  
+  - Monitor lytes, renal fxn  
+  - Adjust meds for renal dosing  
+  - Avoid nephrotoxins
+
+## 5. Alcohol Use Disorder, Withdrawal
+- **Assessment:** Hx heavy ETOH, CIWA protocol, mild withdrawal sxs.  
+- **Plan:**  
+  - CIWA protocol  
+  - Thiamine, folate, MVI  
+  - Social work consult
+
+## 6. Major Depression Disorder
+- **Assessment:** On fluoxetine, no SI during stay.  
+- **Plan:**  
+  - Continue home SSRI  
+  - Psych consult prior to discharge
+
+## 7. Obesity, Hypertension
+- **Assessment:** BMI 30+, BP now 120s-130s on meds  
+- **Plan:**  
+  - Continue antihypertensives  
+  - Low Na diet  
+  - Weight loss counseling
+
+## 8. s/p Bullet Wound, R Chest
+- **Assessment:** No acute findings, wound healing well, no empyema/abscess  
+- **Plan:**  
+  - Wound care  
+  - Monitor for infection
+
+## 9. Acute Bronchitis
+- **Assessment:** Resolving cough, no new infiltrates  
+- **Plan:**  
+  - Supportive care
+
+---
+
+# Medications (Current)
+
+- Metoprolol succinate 25mg daily
+- Spironolactone 25mg daily
+- Empagliflozin 10mg daily
+- Amlodipine/HCTZ/Olmesartan
+- Fluoxetine 25mg daily
+- Acetaminophen prn
+- Cefepime 2g IV q8h (x 2d)
+- Vancomycin 1g IV q12h (x 2d)
+- Thiamine 100mg IV daily
+- Folate 1mg PO daily
+- Multivitamin daily
+
+---
+
+# Vitals (Selected)
+
+| Date         | Temp (°C) | HR   | BP         | RR  | SpO2   | Weight (kg) |
+|--------------|-----------|------|------------|-----|--------|-------------|
+| 4/17/2024    | 37.1      | 129  | 78/44      | 30  | 88% RA | 93.2        |
+| 4/18/2024    | 38.3      | 112  | 94/58      | 24  | 92% FM | 92.7        |
+| 4/20/2024    | 37.8      | 97   | 112/61     | 19  | 96% NC | 91.6        |
+| 4/23/2024    | 36.9      | 83   | 124/68     | 17  | 94% NC | 90.4        |
+
+---
+
+# Labs
+
+## CBC, Chem7, Cardiac, and Other Labs (selected)
+
+| Date       | WBC   | Hgb  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Trop I | AST  | ALT  | BNP    |
+|------------|-------|------|-------|------|------|------|------|------|------|------|--------|------|------|--------|
+| 4/17/24    | 5.2   | 15.8 | 155   | 136  | 3.8  | 102  | 18   | 33   | 1.9  | 148  | 24.2   | 84   | 61   | 2448   |
+| 4/18/24    | 11.9  | 14.9 | 127   | 134  | 4.2  | 101  | 16   | 41   | 2.1  | 142  | 17.8   | 75   | 59   | 2200   |
+| 4/19/24    | 10.1  | 14.4 | 136   | 137  | 4.1  | 102  | 19   | 38   | 1.8  | 128  | 7.9    | 62   | 53   | 1870   |
+| 4/20/24    | 8.3   | 13.8 | 144   | 139  | 4.5  | 103  | 22   | 29   | 1.6  | 124  | 3.2    | 56   | 48   | 1540   |
+| 4/21/24    | 7.6   | 13.9 | 150   | 140  | 4.0  | 104  | 23   | 27   | 1.5  | 122  | —      | —    | —    | 1280   |
+| 4/22/24    | 6.8   | 13.7 | 139   | 142  | 4.1  | 104  | 24   | 25   | 1.4  | 118  | <0.01  | 41   | 38   | 970    |
+| 4/23/24    | —     | 13.9 | 145   | 141  | 4.0  | 103  | 23   | 24   | 1.3  | 116  | —      | 39   | 33   | 792    |
+
+---
+
+# Imaging
+
+- **CXR (4/17):** Bilateral pulmonary edema, enlarged cardiac silhouette, right pleural effusion, no FB.
+- **Echo (4/17):** LVEF 15%, severe global hypokinesis, mod MR, LVEDP 28mmHg.
+- **Echo (4/21):** LVEF improved to 32%, Impella in situ.
+
+---
+
+# Procedures
+
+- **Impella CP placement (4/17):** R femoral approach, no complications.
+- **Central line (IJ), arterial line (radial), Foley catheter.**
+- **Extubation (4/20).**
+
+---
+
+# Discharge Planning
+
+- Anticipated discharge to SNF for rehab
+- Cardiology, psych, SW, PT/OT consults
+- Close outpatient HF follow-up
+
+---
+
+# Problem List
+
+1. Cardiogenic shock, s/p Impella CP
+2. Acute decompensated heart failure (EF 15→32%)
+3. Acute respiratory failure
+4. Hospital-acquired pneumonia
+5. AKI, resolving
+6. Alcohol use disorder, withdrawal
+7. Major depressive disorder
+8. HTN, obesity
+9. s/p bullet wound, right chest
+10. Acute bronchitis
+
+---
+
+# Signature
+
+**S. Chan, MD**  
+Cardiology/Critical Care  
+04/23/2024, 18:43
+
+---
+
+**End of Note**

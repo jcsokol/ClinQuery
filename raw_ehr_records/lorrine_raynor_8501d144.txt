@@ -1,0 +1,171 @@
+**Patient:** Lorrine Raynor  
+**MRN:** 002984732  
+**DOB:** 2000-02-07  
+**Sex:** Female  
+**Date of Service:** 2024-06-11  
+**Attending:** Dr. S. Patel  
+**Admitting Diagnosis:** Cardiogenic shock secondary to fulminant myocarditis  
+**ICU Day:** 8  
+**Location:** MICU  
+
+---
+
+### Chief Complaint
+Shortness of breath, chest pain, and progressive fatigue.  
+
+### History of Present Illness
+20F with PMHx notable for recurrent upper respiratory tract infections (sinusitis, pharyngitis), on oral contraceptives (Yaz, Natazia) and Kyleena IUD, presented to ED with 3 days of worsening dyspnea, orthopnea, chest discomfort, and malaise following a week of viral URI symptoms. Developed hypotension and evidence of hypoperfusion, requiring rapid escalation of care. Initial workup revealed elevated troponin, CXR with pulmonary edema, and echo with severe global hypokinesis (EF ~10%).  
+
+Despite inotropic support (dobutamine, milrinone), patient developed worsening shock and acute kidney injury. Emergent placement of a left-sided Impella CP device was performed for circulatory support. Since then, gradual improvement in hemodynamics, though remains critically ill.  
+
+---
+
+## Problem List, Assessment & Plan
+
+### 1. **Cardiogenic Shock / Fulminant Myocarditis (Primary Problem)**
+- **Assessment:**  
+  Fulminant myocarditis presumed post-viral (recent URI, no evidence of ischemia, negative blood cultures), complicated by severe LV dysfunction and cardiogenic shock. Required Impella support (day 2), currently weaning off inotropes.  
+- **Plan:**  
+  - Continue Impella support, daily weaning assessment  
+  - TTE daily to monitor LV function  
+  - Low-dose dobutamine, titrate as tolerated  
+  - Cardiac MRI pending for etiology  
+  - Monitor for arrhythmias, maintain K+ >4, Mg++ >2  
+  - Strict I/Os, daily weights  
+  - Discuss advanced heart failure therapies if no recovery  
+  - Consult: Cardiology, CT surgery, Heart Failure team  
+
+### 2. **Acute Kidney Injury (AKI) - likely cardiorenal**
+- **Assessment:**  
+  Oliguria on arrival, Cr peaked at 2.3, likely multifactorial: hypoperfusion, diuretics, possible ATN. Now improving (Cr 1.5).  
+- **Plan:**  
+  - Monitor renal function, strict fluid balance  
+  - Avoid nephrotoxins  
+  - Adjust meds for renal dosing  
+  - Daily BMP, urine output q2h  
+  - Renal US: no obstruction  
+  - Consider CRRT if worsening  
+
+### 3. **Volume Overload/Pulmonary Edema**
+- **Assessment:**  
+  CXR with bilateral infiltrates, O2 sat low on arrival, requiring 6L NC, now weaned to 2L.  
+- **Plan:**  
+  - Gentle diuresis (IV furosemide) as tolerated  
+  - Monitor electrolytes  
+  - Daily CXR  
+  - Respiratory therapy: incentive spirometry, monitor for hypoxemia  
+
+### 4. **Recurrent Sinusitis/Pharyngitis**
+- **Assessment:**  
+  Hx of frequent URIs, on recent Penicillin V for strep pharyngitis. Infectious workup negative for active bacterial infection.  
+- **Plan:**  
+  - Continue current antibiotics for 5 more days  
+  - ENT consult if symptoms persist  
+  - Nasal saline, supportive care  
+  - Monitor for fever, WBC trends  
+
+### 5. **Contraceptive Management**
+- **Assessment:**  
+  On Yaz, Natazia, Kyleena. No acute contraceptive complications, but risk of VTE with OCPs in critical illness.  
+- **Plan:**  
+  - Hold oral contraceptives during acute illness  
+  - Continue Kyleena  
+  - DVT prophylaxis: SCDs, LMWH if no contraindication  
+
+### 6. **Nutrition**
+- **Assessment:**  
+  NPO x 24h post-procedure, now on cardiac diet, tolerating PO  
+- **Plan:**  
+  - Continue cardiac/renal diet  
+  - Monitor electrolytes  
+  - Daily weights, nutrition consult  
+
+### 7. **Pain/Anxiety Management**
+- **Assessment:**  
+  Mild pain (2-3/10), anxiety related to ICU stay  
+- **Plan:**  
+  - PRN acetaminophen  
+  - Supportive care, reassurance  
+  - Psych consult prn  
+
+---
+
+## ICU Course Summary
+
+- **Day 1:** Admitted with shock, placed on inotropes/vasopressors, intubated for hypoxemic respiratory failure.  
+- **Day 2:** Impella CP placed for LV support.  
+- **Day 3-5:** Gradual improvement in MAP, weaned off vasopressors, started IV diuretics.  
+- **Day 6:** Extubated, now on 2L NC.  
+- **Day 7:** Impella weaning trial, tolerated.  
+- **Day 8:** Stable, off pressors, Impella still in place.  
+
+---
+
+## Vital Signs (Selected)
+
+| Date       | Temp (C) | HR (bpm) | BP (mmHg) | RR | SpO2 (%) | Weight (kg) | Pain (0-10) |
+|------------|----------|----------|-----------|----|----------|-------------|-------------|
+| Admit      | 37.5     | 128      | 82/48     | 28 | 89       | 60.7        | 4           |
+| ICU D2     | 37.4     | 110      | 96/56     | 22 | 94       | 61.2        | 3           |
+| ICU D5     | 37.2     | 93       | 108/64    | 16 | 96       | 60.1        | 2           |
+| ICU D8     | 36.9     | 78       | 115/70    | 14 | 98       | 59.8        | 2           |
+
+---
+
+## Laboratory Data
+
+**CBC / Chem7 / Cardiac Markers**
+
+| Date       | WBC   | Hgb   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | BNP    | AST  | ALT  | AlkPhos | TBili |
+|------------|-------|-------|-------|------|------|------|------|------|------|------|----------|--------|------|------|---------|-------|
+| Admit      | 3.8   | 15.2  | 191   | 134  | 5.1  | 102  | 18   | 34   | 2.1  | 126  | 5.2      | 18,000 | 86   | 55   | 112     | 0.7   |
+| ICU D2     | 4.1   | 14.7  | 178   | 137  | 4.4  | 100  | 21   | 31   | 2.3  | 118  | 4.2      | 16,900 | 92   | 60   | 108     | 0.8   |
+| ICU D4     |       | 13.9  |       | 139  | 4.0  | 101  | 23   | 24   | 1.7  | 106  | 2.1      |        |      |      |         |       |
+| ICU D6     | 5.2   | 13.5  | 166   | 140  | 3.7  | 99   | 25   | 19   | 1.5  | 101  | 0.9      | 6,700  | 60   | 38   | 91      | 0.5   |
+| ICU D8     | 5.5   | 14.1  | 175   | 142  | 4.1  | 104  | 26   | 17   | 1.5  | 99   | 0.4      | 1,800  | 44   | 28   | 77      | 0.3   |
+
+---
+
+## Imaging
+
+- **CXR (Admission):** Bilateral perihilar infiltrates, pulmonary edema, mild cardiomegaly  
+- **TTE (Day 1):** EF 10%, severe global LV hypokinesis, mild RV dysfunction  
+- **TTE (Day 6):** EF improved to 22%, Impella in place, no LV thrombus  
+- **Renal US (Day 2):** No hydronephrosis, normal size kidneys  
+
+---
+
+## Medications
+
+- Penicillin V Potassium 250 mg PO q6h x 10d (for strep pharyngitis)
+- Furosemide IV 40 mg q12h (adjusted per fluid status)
+- Dobutamine IV (titrated)
+- Milrinone IV (weaned off day 5)
+- Heparin drip (for Impella)
+- Acetaminophen 650 mg PO q6h PRN pain/fever
+- Yaz/Natazia: held during ICU stay
+- Kyleena: in situ
+
+---
+
+## Lines/Devices
+
+- L radial arterial line (removed day 5)
+- R IJ TLC (in place)
+- Impella CP (in situ, L femoral)
+- Foley catheter (removed day 7)
+
+---
+
+## Disposition
+
+- Remain in ICU, continue Impella support, daily reassessment for device wean and transition to stepdown once stable.
+
+---
+
+**Physician:** S. Patel, MD  
+**Date/Time:** 2024-06-11 10:22 AM
+
+---
+
+**End of Note**

@@ -1,0 +1,154 @@
+```
+[EPIC EHR: ADMISSION NOTE]
+
+PATIENT NAME: Louvenia McClure  
+MRN: 0092384  
+DOB: 1988-07-20  
+Sex: Female  
+Date of Admission: 2024-05-28  
+Attending: Dr. L. Chen  
+Admitting Diagnosis: Cardiogenic Shock s/p Cardiac Arrest, Ruptured Appendix (remote), Acute Viral Pharyngitis
+
+ALLERGIES: NKDA
+
+HISTORY OF PRESENT ILLNESS:  
+35-year-old female with a PMH significant for cardiac arrest (2022), history of appendectomy for ruptured appendicitis, recurrent viral pharyngitis, prior miscarriage, tubal pregnancy, and remote laceration of foot. Presented to ED after acute onset substernal chest pain and progressive dyspnea. On arrival, patient was hypotensive (SBP 60s), tachycardic, and hypoxic. Initial EKG: sinus tach, no acute ST changes. Troponin mildly elevated, bedside echo: severe global hypokinesis, LVEF ~15%. She had a witnessed cardiac arrest (PEA), ROSC after 3 min CPR, but remained in profound shock. Initiated on norepinephrine, then Impella CP placed emergently for circulatory support. Broad-spectrum antibiotics started due to leukocytosis and fever. Admitted to ICU.
+
+PAST MEDICAL HISTORY:  
+- Cardiac arrest, s/p resuscitation (2022)  
+- Appendicitis, s/p appendectomy  
+- Acute viral pharyngitis, recurrent  
+- Tubal pregnancy, s/p salpingectomy  
+- Miscarriage, 1st trimester  
+- Multiple normal pregnancies  
+- Laceration of foot (remote)
+
+PAST SURGICAL HISTORY:  
+- Appendectomy  
+- Left salpingectomy
+
+MEDICATIONS ON ADMISSION:  
+- Jolivette 28 Day Pack  
+- Trinessa 28 Day Pack  
+- Medroxyprogesterone acetate 160 mg/ml, 0.65 ml IM q3mo  
+- Levora 0.15/30 28 Day Pack  
+- Epinephrine 1 mg/ml (PRN cardiac arrest)  
+- Amiodarone 50 mg/ml (PRN arrhythmia)  
+- Atropine 1 mg/ml (PRN bradycardia)  
+- Acetaminophen 325 mg PO PRN
+
+SOCIAL HISTORY:  
+- Non-smoker. No alcohol. No illicit drugs. Lives with partner and 2 children.
+
+FAMILY HISTORY:  
+- Mother: HTN, DM2  
+- Father: MI at 58  
+- Sister: Healthy
+
+REVIEW OF SYSTEMS:  
+- Constitutional: fever, malaise  
+- Cardiac: chest pain, palpitations, syncopal event  
+- Pulmonary: dyspnea  
+- GI: no N/V, remote appendectomy  
+- GU: no dysuria, LMP 2 weeks ago  
+- Neuro: no focal deficits post-arrest
+
+PHYSICAL EXAM (ICU Day 1):  
+GEN: Intubated, sedated, on Impella CP, CVC in R IJ  
+VS: T 37.7°C, HR 112, BP 68/41 (MAP 52), RR 18 (vent), SpO2 97%  
+CV: Distant heart sounds, tachycardic, no murmur  
+RESP: Decreased breath sounds bilat bases  
+ABD: Soft, nontender, healed RLQ scar  
+EXT: No edema, pulses 1+  
+NEURO: Nonfocal, sedated
+
+LABS
+
+| Date        | WBC   | Hgb   | Hct   | Plt   | Na    | K     | Cl    | CO2   | BUN   | Cr    | Glu   | AST   | ALT   | Troponin | BNP    |
+|-------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|----------|--------|
+| 5/28/2024   | 16.4  | 13.9  | 40.1  | 142   | 134   | 3.2   | 101   | 22    | 33    | 1.6   | 212   | 89    | 62    | 0.09     | 2420   |
+| 5/29/2024   | 13.1  | 12.7  | 36.5  | 123   | 137   | 3.8   | 104   | 24    | 26    | 1.1   | 148   | 54    | 46    | 0.07     | 1510   |
+| 5/30/2024   | 9.4   | 11.5  | 33.2  | 98    | 139   | 4.0   | 108   | 25    | 18    | 0.9   | 116   | 37    | 29    | 0.04     | 800    |
+| 5/31/2024   | 8.8   | 11.2  | 32.0  | 110   | 140   | 4.1   | 110   | 25    | 14    | 0.7   | 104   | 32    | 23    | 0.03     | 540    |
+| 6/1/2024    | 7.9   | 11.1  | 31.7  | 105   | 141   | 4.2   | 110   | 25    | 13    | 0.6   | 99    |       |       |          | 320    |
+| 6/2/2024    | 7.2   | 10.9  | 30.8  | 112   | 140   | 4.3   | 109   | 25    | 12    | 0.6   | 97    |       |       |          |        |
+
+Additional Labs:  
+- Lactate: 5.2 (admission), 2.1 (6/1/24)  
+- INR: 1.3 (admission), 1.1 (6/1/24)  
+- Blood cultures: Negative  
+- CXR: mild pulmonary edema  
+- Echo: LVEF 15% on admission, improved to 38% by 6/2/24
+
+ICU COURSE (Summary):  
+Day 0: Admission s/p cardiac arrest, Impella CP placed, started on norepinephrine, IV antibiotics (pip/tazo, vanc), mechanical ventilation.  
+Day 1: Weaned norepinephrine, improved MAP, decreasing lactate.  
+Day 2: Extubated, neuro intact, Impella CP flows reduced.  
+Day 3: Impella removed, transitioned to diuresis, weaned O2.  
+Day 4-5: Mobilizing in bed, off pressors, tolerating oral intake, transitioned to oral abx.
+
+PROBLEM-BASED ASSESSMENT & PLAN
+
+1. **Cardiogenic Shock s/p Cardiac Arrest**
+   - Initial profound shock, LVEF 15%, Impella CP for LV support
+   - Plan:  
+     - Continue cardiac monitoring  
+     - Daily echo, trend BNP/troponin  
+     - Wean inotropes as tolerated  
+     - Cardiology to follow, consider ICD evaluation
+2. **Acute Decompensated Heart Failure**
+   - Plan:  
+     - Diuresis (IV Lasix), monitor I/Os  
+     - Daily weights, strict fluid restriction  
+     - Monitor renal function, adjust diuretic dosing
+3. **Sepsis (presumed, source unclear)**
+   - Initial leukocytosis, fever, hypotension  
+   - Plan:  
+     - Continue IV abx x 7d, de-escalate if cultures negative  
+     - Monitor for new infectious foci  
+     - Daily CBC, lactate, cultures PRN
+4. **History of Appendectomy (remote)**
+   - No acute abdominal findings  
+   - Plan:  
+     - Continue routine wound care, monitor for infection
+5. **Recurrent Viral Pharyngitis**
+   - No current symptoms  
+   - Plan:  
+     - Supportive care PRN, monitor for new URI sx
+6. **Gynecologic History (miscarriage, tubal pregnancy)**
+   - Not currently pregnant; LMP 2 weeks ago  
+   - Plan:  
+     - Routine GYN follow-up outpatient
+7. **Remote Laceration, Foot**
+   - Well-healed, no signs infection  
+   - Plan:  
+     - No intervention needed
+
+DISPOSITION:  
+- Anticipate transfer to stepdown on 6/3/24 if stable  
+- Cardiology, GYN, and Infectious Disease to follow  
+- Anticoagulation to be considered on discharge
+
+---
+
+PROGRESS NOTE (ICU Day 4)
+
+S: Patient alert, asking questions, denies chest pain, tolerating oral diet.  
+O: Vitals stable, off pressors, UOP >0.5 mL/kg/hr. Labs stable.  
+A/P: As above. Continue weaning support, anticipate transfer to stepdown.
+
+---
+
+Orders:  
+- Furosemide 40 mg IV q12h  
+- Metoprolol 25 mg PO BID  
+- Continue abx for total 7 days  
+- DVT prophylaxis (enoxaparin 40 mg SQ qd)  
+- Cardiac rehab consult  
+- Daily labs (CBC, Chem7, troponin, BNP)
+
+---
+
+**CLINICAL SUMMARY:**  
+Louvenia McClure, 35F, admitted for cardiogenic shock s/p cardiac arrest, required temporary LV support (Impella CP). Improved with supportive care, diuresis, and antibiotics. Plan for stepdown transfer and multidisciplinary follow-up.
+```

@@ -1,0 +1,151 @@
+```
+Patient Name: Tabitha Lang
+MRN: 99837214
+DOB: 11/12/2002      Sex: Female     Age: 21
+Attending: Dr. Susan Fairchild
+Admit Date: 4/23/2024
+Service: Cardiac ICU
+Room: CVICU-12
+
+——————————————————————————————————————————————————————————
+*** ADMISSION HISTORY & PHYSICAL ***
+——————————————————————————————————————————————————————————
+
+Chief Complaint:
+Shortness of breath, chest pain, and palpitations x 2 days
+
+HPI:
+Tabitha Lang is a 21-year-old female with PMHx notable for recent acute viral pharyngitis and right ankle sprain (last week, now ambulatory), who presented with sudden onset of severe SOB, palpitations, and substernal chest pain. She was initially seen in the ED, found to be hypotensive (SBP 85 mmHg), tachycardic (HR 120s), with cold extremities and altered mentation. Initial ECG showed sinus tachycardia, low-voltage QRS, and diffuse T-wave inversions. Troponin I was elevated. Echo in the ED showed severely reduced LVEF (~15%) with global hypokinesis; LVEDD 5.7cm, moderate MR. She was admitted directly to the ICU.
+
+PMHx:
+- Acute viral pharyngitis (last week)
+- Sprain of ankle (resolved, no current symptoms)
+- No prior cardiac history
+
+PSHx:
+- None
+
+FHx:
+- Father with CAD, MI at 56
+- Mother healthy
+
+Soc Hx:
+- College student, nonsmoker, rare EtOH, denies drug use
+- Lives in dormitory
+
+Allergies:
+- NKDA
+
+Home Medications:
+- Medroxyprogesterone acetate 150 mg/mL IM q3mo
+- Levora 0.15/30 OCP
+- Acetaminophen 325 mg PRN
+
+——————————————————————————————————————————————————————————
+*** HOSPITAL COURSE ***
+——————————————————————————————————————————————————————————
+
+Day 1: Presented with fulminant myocarditis, likely post-viral. Became progressively hypotensive despite fluids. Started on norepinephrine and dobutamine. Developed worsening lactic acidosis and cardiogenic shock. Intubated for hypoxemic respiratory failure.
+
+Day 2: No improvement in hemodynamics despite maximal medical therapy. Bedside echo with worsening biventricular function. Lactate up to 8.2. Cardiology and CT surgery consulted. Decision made to place percutaneous LVAD (Impella CP) for temporary mechanical circulatory support. Device placed without complication. Subsequent improvement in MAP, decrease in vasopressor requirements.
+
+Day 3–5: Clinical stabilization. Weaned off norepinephrine by Day 4. Persistent mild troponin elevation. Monitored for hemolysis, limb ischemia, infection. Serial echos showed gradual improvement in LV function (EF up to 30% by Day 5). Renal function transiently worsened but improved with diuresis.
+
+Day 6: Impella weaned and removed at bedside. No complications. Continued slow improvement. Extubated on Day 7.
+
+Day 8–12: Progressive improvement. Transitioned to oral heart failure therapy (metoprolol, lisinopril). Mobilized with PT/OT. Echo on Day 11 with LVEF 45%. Labs normalized. Transferred to telemetry floor on Day 12.
+
+——————————————————————————————————————————————————————————
+*** VITALS (SELECTED) ***
+——————————————————————————————————————————————————————————
+
+| Date        | Temp (C) | HR  | BP         | RR | SpO2 | Pain | Wt (kg) |
+|-------------|----------|-----|------------|----|------|------|---------|
+| 4/23/2024   | 37.4     | 121 | 85/54      | 28 | 93%  | 5    | 51.7    |
+| 4/24/2024   | 37.8     | 110 | 92/60      | 22 | 96%  | 3    | 52.1    |
+| 4/26/2024   | 37.1     | 95  | 110/70     | 18 | 98%  | 2    | 51.9    |
+| 4/29/2024   | 36.7     | 78  | 116/74     | 16 | 99%  | 1    | 51.5    |
+
+——————————————————————————————————————————————————————————
+*** LABS ***
+——————————————————————————————————————————————————————————
+
+CBC / Chemistry Panels
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|------|------|------|------|------|------|------|------|------|------|------|
+| 4/23/2024  | 6.3  | 16.5 | 43.6 | 207  | 133  | 4.9  | 101  | 17   | 18   | 1.0  | 112  |
+| 4/24/2024  | 11.2 | 15.9 | 41.2 | 192  | 131  | 5.7  | 98   | 13   | 34   | 1.6  | 138  |
+| 4/25/2024  | 9.1  | 15.1 | 39.9 | 170  | 135  | 4.2  | 102  | 19   | 22   | 1.2  | 102  |
+| 4/26/2024  | 7.8  | 14.7 | 38.8 | 154  | 137  | 3.8  | 104  | 22   | 19   | 1.0  |      |
+| 4/27/2024  | 8.5  | 13.9 | 36.5 | 149  |      | 4.1  | 103  | 25   | 16   | 0.9  | 99   |
+| 4/29/2024  | 6.9  | 14.8 | 40.2 | 180  | 138  | 4.3  | 106  | 24   | 14   | 0.8  | 88   |
+| 5/1/2024   | 5.7  | 15.0 | 41.5 | 196  | 140  | 4.1  | 107  | 25   | 13   | 0.7  | 92   |
+
+Other labs:
+- Troponin I: 2.9 -> 1.7 -> 0.8 (downtrending, normal <0.04)
+- BNP: 1560 pg/mL (admission), 420 (day 7)
+- AST/ALT: 78/55 (peak, day 2), normalized by day 10
+- LDH: 382 U/L (day 2)
+- PT/INR: 14.2 sec / 1.2 (peak, day 2), normalized day 6
+- Lactate: 8.2 (peak, day 2), 2.1 (day 6)
+- D-dimer: 1.3 mg/L FEU
+
+——————————————————————————————————————————————————————————
+*** IMAGING ***
+——————————————————————————————————————————————————————————
+
+- CXR (4/23): Mild pulmonary edema, cardiomegaly, no focal consolidation.
+- TTE (4/23): LVEF 15%, global hypokinesis, moderate MR.
+- TTE (4/27): LVEF 30%, mild MR.
+- TTE (5/1): LVEF 45%, trace MR.
+
+——————————————————————————————————————————————————————————
+*** ASSESSMENT & PLAN ***
+——————————————————————————————————————————————————————————
+
+1. **Fulminant Myocarditis → Cardiogenic Shock**
+   - Presentation consistent with post-viral myocarditis, rapid clinical decline.
+   - Required vasopressors, inotropes, mechanical ventilation, and percutaneous LVAD (Impella CP).
+   - Plan: Continue HF guideline-directed medical therapy, monitor for arrhythmias, repeat echo prior to discharge, follow-up in HF clinic. Consider wearable defibrillator if EF <35% on repeat.
+
+2. **Acute Kidney Injury (resolved)**
+   - Likely multifactorial: hypoperfusion, vasopressors, possible hemolysis from Impella.
+   - Improved with hemodynamic support, normalization of labs.
+   - Plan: Monitor renal function, avoid nephrotoxins.
+
+3. **Transaminitis (resolved)**
+   - Likely ischemic hepatitis from shock.
+   - Plan: Monitor LFTs, expect normalization.
+
+4. **Respiratory Failure (resolved)**
+   - Secondary to cardiac dysfunction, improved post-LVAD, extubated.
+   - Plan: Incentive spirometry, pulmonary rehab as tolerated.
+
+5. **Contraception/Medications**
+   - On IM medroxyprogesterone and OCP for contraception.
+   - Plan: Discuss risks of estrogen-containing OCPs in context of heart failure, consider switch to progestin-only or non-hormonal.
+
+6. **Physical Therapy/Mobility**
+   - Ankle sprain resolved. Mobilizing with PT/OT post-ICU.
+   - Plan: Continue PT, assess for deconditioning.
+
+7. **Other:**
+   - VTE prophylaxis (enoxaparin during ICU, now SCDs)
+   - Social work consult for post-discharge support.
+
+——————————————————————————————————————————————————————————
+*** DISCHARGE PLANNING ***
+——————————————————————————————————————————————————————————
+
+- Anticipate discharge home in next 2–3 days if stable.
+- F/u: Cardiology (HF), PCP, PT/OT.
+- Discharge meds: Metoprolol succinate, Lisinopril, Furosemide PRN.
+- Education: Heart failure symptoms, fluid restriction, medication adherence.
+
+——————————————————————————————————————————————————————————
+*** SIGNED ***
+Dr. Susan Fairchild, MD
+Cardiac Critical Care
+5/2/2024 09:12
+```

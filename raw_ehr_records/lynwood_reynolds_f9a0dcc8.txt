@@ -1,0 +1,168 @@
+---
+**Patient:** Reynolds, Lynwood  
+**MRN:** 1139227  
+**DOB:** 10/25/1967  
+**Sex:** Male  
+**Admit Date:** 05/23/2024  
+**Attending:** Dr. K. Malik  
+**Location:** MICU, Bed 5  
+**Note Type:** ICU Progress Note  
+**Date/Time:** 05/27/2024 06:53
+
+---
+
+# Problem-Based Assessment & Plan
+
+### 1. Cardiogenic Shock s/p Temporary LVAD (Impella CP)
+- **Admission Course:**  
+  56M with history of obesity, chronic sinusitis, and recent viral pharyngitis, presented to ED 4 days ago with acute-onset dyspnea, orthopnea, and chest pain. Found to be hypotensive (SBP 72 mmHg), tachycardic, hypoxic. Initial high-sensitivity troponin T 1,254 ng/L, BNP 4,870 pg/mL. Echo: severe global hypokinesis, LVEF ~15%. Emergent RHC: PCWP 22, CI 1.4, SVR 1,900. Worsening lactic acidosis and end-organ hypoperfusion.  
+  - **ICU course:** Required vasopressors (norepinephrine up to 0.18 mcg/kg/min), dobutamine drip. Multidisciplinary shock team consulted; decision for temporary LVAD (Impella CP) placement on HD1. Hemodynamics improved, pressors weaned off within 36 hours.  
+  - **Current:** Impella CP in place, flows 3.5-4.0 L/min, MAP stable ~75-80. No device alarms. Extubated HD2.  
+  - **Plan:**  
+    - Continue Impella support, daily wean assessment  
+    - Anticoagulation: heparin drip, goal aPTT 60-80  
+    - Daily device checks  
+    - Cardiology rounds, consider LV recovery and explant vs. escalation (ECMO, transplant eval if no improvement)  
+    - Monitor for hemolysis, limb ischemia, device-related infection
+
+### 2. Acute Decompensated Heart Failure (new dx, likely viral myocarditis)
+- **Background:** No prior CHF hx. Recent viral URI symptoms.  
+- **Echo:** Severe LV systolic dysfunction, global.  
+- **Plan:**  
+    - Guideline-directed medical therapy (GDMT) as tolerated after LV support wean  
+    - Strict I/O, daily weights  
+    - Sodium restriction <2g/d, fluid restriction <2L/d  
+    - Monitor for arrhythmias
+
+### 3. Acute Kidney Injury (KDIGO Stage 2, likely cardiorenal)
+- **Admission Cr:** 1.9 mg/dL (baseline ~1.0), BUN 38. Oliguric on presentation, improved after Impella.  
+- **Current:** UOP >0.5 mL/kg/hr; Cr trending down.  
+- **Plan:**  
+    - Avoid nephrotoxins  
+    - Monitor lytes, daily BMP  
+    - Renal dose adjust all meds  
+    - Nephrology consult if worsening
+
+### 4. Obesity (BMI 28-31)
+- **Plan:**  
+    - DVT prophylaxis (heparin sq BID)  
+    - Pressure ulcer prevention  
+    - Endocrine: monitor for stress hyperglycemia
+
+### 5. Chronic Sinusitis
+- **Plan:**  
+    - ENT to follow if worsening symptoms  
+    - Continue home nasal steroids  
+    - Monitor for secondary infection
+
+### 6. Recent Viral Pharyngitis
+- **Plan:**  
+    - Supportive care  
+    - Monitor for superimposed bacterial infection
+
+### 7. ICU Delirium Prevention
+- **Plan:**  
+    - Daily sedation vacation  
+    - Early mobilization (PT/OT)  
+    - Sleep-wake cycle optimization
+
+### 8. Stress Ulcer Prophylaxis
+- **Plan:**  
+    - PPI (pantoprazole 40mg IV daily)
+
+### 9. Early Nutrition
+- **Plan:**  
+    - Enteral feeds started HD2, advancing as tolerated
+
+### 10. Code Status: Full  
+Discussed with patient and family.
+
+---
+
+## HPI (by Dr. Malik 05/23/2024 09:33)
+56M with PMHx as above presented with 2 days of progressive SOB, orthopnea, cough, and subjective fevers. Initially thought to be viral pharyngitis but developed chest pain and confusion. Wife noted he was pale and diaphoretic at home. EMS found him hypotensive and tachycardic; fluids given without improvement. In ED, EKG: sinus tach, no STEMI. CXR: mild pulmonary edema. Labs: lactic acid 6.1, troponin T 1,254. Rapid decline in BP; transferred to ICU for pressors and advanced cardiac support.
+
+---
+
+## Physical Exam (05/27/2024)
+- **Gen:** Awake, NAD, mild lethargy
+- **VS:** T 37.4C, HR 92, BP 102/68 (MAP 79), RR 18, SpO2 98% RA
+- **CV:** S1,S2, no murmur. Impella hum. JVP 12 cm. No peripheral edema.
+- **Resp:** Clear to bases, no rales.
+- **Abd:** Soft, NT/ND, +BS.
+- **Neuro:** AOx3, no focal deficits.
+- **Skin:** No rashes, no breakdown.
+
+---
+
+## ICU Course (abridged)
+- **HD0 (5/23):**  
+  - Arrival: SBP 72, HR 124, SpO2 90% 2L NC.  
+  - Pressors started, CVC placed.  
+  - Initial labs: WBC 15.6, Hgb 14.2, Plt 170, Na 137, K 4.9, BUN 38, Cr 1.9, Glu 181.
+  - Echo: severe global LV hypokinesis, LVEF 15%.
+  - RHC: PCWP 22, CI 1.4, SVR 1,900.
+  - Impella CP placed in cath lab.
+- **HD1-2:**  
+  - Improved hemodynamics, weaned off norepi/dobutamine by HD2.
+  - Extubated to HFNC, then RA.
+  - UOP improved.
+  - Enteral feeds started.
+- **HD3-4:**  
+  - Stable. Impella flows 3.5-4.0 L/min.  
+  - Downtrending lactate, Cr.
+  - No arrhythmias.  
+  - Early PT/OT.
+
+---
+
+## Labs
+
+### CBC / Chem Panels (select values; see below for full panels)
+
+| Date        | WBC  | Hgb | Plt | Na  | K   | Cl  | CO2 | BUN | Cr   | Glu | Ca   | Mg   |
+|-------------|------|-----|-----|-----|-----|-----|-----|-----|------|-----|------|------|
+| 5/23 05:15  | 15.6 | 14.2| 170 | 137 | 4.9 | 104 | 20  | 38  | 1.9  | 181 | 8.6  | 2.0  |
+| 5/24 04:50  | 10.8 | 13.9| 158 | 136 | 4.3 | 102 | 22  | 32  | 1.4  | 143 | 8.9  | 2.1  |
+| 5/25 05:01  | 8.9  | 13.7| 149 | 138 | 4.1 | 103 | 23  | 29  | 1.2  | 112 | 9.0  |      |
+| 5/26 05:10  | 7.2  | 13.6| 143 | 139 | 4.0 | 100 | 24  |     | 1.1  | 101 |      | 2.2  |
+| 5/27 04:55  | 7.5  | 13.4| 142 | 140 | 3.9 |     | 25  | 24  | 1.0  | 99  | 8.8  | 2.0  |
+
+- **Liver panel (HD0):** AST 88, ALT 72, AlkPhos 137, Tbili 1.2
+- **Cardiac markers:** Troponin T 1,254 (HD0), 1,042 (HD1), 392 (HD2)
+- **BNP:** 4870 (HD0), 2,200 (HD2)
+- **Lactate:** 6.1 (HD0), 3.4 (HD1), 1.8 (HD2)
+- **Coags:** PT 13.7, INR 1.2, aPTT 42 (HD0), aPTT 68-74 on heparin
+
+---
+
+## Medications (current ICU)
+- **Heparin drip** (anticoag for Impella)
+- **Pantoprazole 40mg IV q24h**
+- **Hydrocortisone topical** (home, prn)
+- **Diphenhydramine 25mg PO q6h PRN**
+- **Epinephrine autoinjector** (home)
+- **Atorvastatin 40mg PO qHS** (started HD1)
+- **Metoprolol succinate 12.5mg PO q24h** (held for HR<60)
+- **Lasix 20mg IV q12h** (initiated HD1, titrated)
+
+---
+
+## Imaging/Studies
+- **Echo (HD0):** LVEF 15%, severe global hypokinesis, LV dilated, mild MR.
+- **CXR (HD0):** Pulmonary edema, mild cardiomegaly, no consolidation.
+- **RHC (HD0):** PCWP 22, CI 1.4, SVR 1,900.
+
+---
+
+## Dispo
+- Remain in ICU, closely monitored. Prognosis guarded, will reassess for Impella wean vs. further escalation (ECMO, OHT eval) over next 48-72h.
+
+---
+
+**Signed:**  
+Kareem Malik, MD  
+Critical Care/Cardiology  
+05/27/2024 07:12
+
+---

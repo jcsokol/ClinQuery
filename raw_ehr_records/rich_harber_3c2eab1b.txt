@@ -1,0 +1,194 @@
+---
+**Patient:** Rich Harber  
+**MRN:** 00933712  
+**DOB:** 08/26/1967  
+**Sex:** Male  
+**Admit Date:** 02/15/2024  
+**Attending:** Dr. A. Patel  
+**Service:** MICU  
+**Location:** 3C-ICU, Bed 8  
+**Allergies:** NKDA  
+**Code Status:** Full
+
+---
+
+### **Admission H&P (02/15/2024 03:41 AM)**
+
+**CC:**  
+Progressive SOB, orthopnea, chest tightness x 4 days
+
+**HPI:**  
+56 y/o M with PMHx of prediabetes, anemia, OA of hip, perennial allergic rhinitis, and chronic neck pain, presenting with 4 days of worsening SOB, DOE, orthopnea (now sleeping upright), and 1 day of chest tightness, mild cough, and subjective fevers. On arrival, found to be tachypneic, borderline hypotensive, and hypoxic to 89% on RA. Rapidly developed hypotension refractory to fluids, requiring norepinephrine. CXR: pulmonary edema. TTE: severely reduced LVEF (~15%), global hypokinesis, moderate MR. No prior cardiac hx. Troponin elevated (see below). Emergent LHC: non-obstructive CAD, findings consistent with acute myocarditis vs. stress cardiomyopathy.
+
+Due to persistent cardiogenic shock despite pressors and inotropes, Impella CP placed for temporary mechanical circulatory support. Now in ICU.
+
+**Home Meds:**  
+- Diphenhydramine 25mg PRN  
+- Fluticasone 0.044mg/actuation 2 puffs BID  
+- Albuterol 0.09mg/actuation PRN  
+- Naproxen sodium 220mg BID PRN
+
+**Social Hx:**  
+Non-smoker, rare EtOH, no illicit drug use. Lives with spouse. Walks 1-2mi daily until this week.
+
+**Fam Hx:**  
+Father: MI at 67, T2DM. Mother: OA.
+
+---
+
+## **Hospital Course Summary**
+
+02/15/24: Admitted with acute decompensated heart failure and cardiogenic shock.  
+02/16/24: Impella CP placed, started on heparin. Required escalating norepinephrine, milrinone. Oliguric.  
+02/17/24: Stabilized hemodynamics, weaning of pressors. Diuresis initiated.  
+02/18/24: Impella weaned, removed. Echo: LVEF improved to 30%.  
+02/19/24: Off all pressors/inotropes. Mobilizing with PT.  
+02/20/24: Transitioned to telemetry. Discharge planning underway.
+
+---
+
+### **Physical Exam (02/18/24 08:12 AM)**
+
+- **Gen:** Awake, NAD
+- **CV:** Tachycardic, S3, no murmurs, JVD 8cm, peripheral pulses 2+
+- **Resp:** Bibasilar crackles, O2 sat 96% on 2L NC
+- **Abd:** Soft, NT, no HSM
+- **Ext:** Trace b/l pedal edema, warm
+- **Neuro:** AOx3, normal strength, no focal deficits
+
+---
+
+## **Vitals (Selected)**
+
+| Date/Time         | Temp (C) | HR (bpm) | BP (mmHg) | RR | SpO2 (%) | Pain (0-10) |
+|-------------------|----------|----------|-----------|----|----------|-------------|
+| 02/15/24 04:00    | 37.9     | 122      | 82/48     | 28 | 89       | 6           |
+| 02/16/24 08:00    | 37.3     | 110      | 99/62     | 22 | 93       | 5           |
+| 02/17/24 06:00    | 36.8     | 98       | 108/66    | 18 | 95       | 3           |
+| 02/18/24 08:00    | 36.6     | 90       | 117/72    | 16 | 96       | 2           |
+| 02/19/24 09:00    | 36.7     | 82       | 124/76    | 14 | 97       | 2           |
+
+---
+
+## **Laboratory Data**
+
+**CBC, CHEM7, Cardiac, and Other Labs**  
+(Some values missing as not all collected every day/time)
+
+| Date/Time    | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Troponin (ng/mL) | AST (U/L) | ALT (U/L) | BNP (pg/mL) |
+|--------------|------------|------------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|------------------|-----------|-----------|-------------|
+| 02/15/24 04:30 | 5.7        | 12.2       | 185        | 135         | 4.8        | 108         | 28           | 19          | 1.6        | 102         | 2.17             | 91        | 83        | 5100        |
+| 02/16/24 06:00 | 6.8        | 11.3       | 171        | 132         | 4.2        | 110         | 25           | 28          | 2.1        | 118         | 1.84             | 77        | 65        | 4400        |
+| 02/17/24 07:00 | 6.1        | 10.7       | 163        | 134         | 4.5        | 107         | 26           | 23          | 1.9        | 93          | 0.69             | 58        | 52        | 2200        |
+| 02/18/24 08:00 | 5.4        | 11.9       | 182        | 136         | 4.8        | 108         | 27           | 16          | 1.5        | 90          | 0.18             | 39        | 38        | 980         |
+| 02/19/24 09:00 | 5.2        | 12.6       | 186        | 137         | 4.3        | 109         | 28           | 14          | 1.2        | 89          | <0.01            | 28        | 33        | 640         |
+| 02/20/24 07:00 | 4.9        | 12.9       |            | 139         |            | 111         | 28           | 12          | 1.1        |             |                  |           |           |             |
+
+---
+
+## **Imaging**
+
+- **02/15/24 CXR:** Diffuse interstitial edema, prominent pulmonary vasculature, small left pleural effusion
+- **02/15/24 TTE:** LVEF 15%, global hypokinesis, moderate MR, mild RV dysfunction
+- **02/18/24 TTE:** LVEF 30%, improved wall motion, MR mild
+
+---
+
+## **Assessment & Plan (02/19/24)**
+
+**1. Cardiogenic Shock secondary to acute non-ischemic cardiomyopathy (myocarditis vs. stress):**  
+- Required Impella CP for circulatory support (02/16–02/18)  
+- Pressors/inotropes weaned off  
+- Now off support, hemodynamically stable  
+- Continue ACEi/BB as tolerated, monitor for arrhythmia  
+- Serial TTEs, daily labs  
+- Telemetry monitoring
+
+**2. Acute Decompensated Heart Failure:**  
+- Diuresed with IV furosemide  
+- Monitor I/Os, daily weights  
+- Low Na diet  
+- Echo improvement noted
+
+**3. Anemia, chronic (baseline Hgb ~12):**  
+- Multifactorial (chronic disease, possible dilutional)  
+- Monitor, no transfusion needed  
+- Iron panel pending
+
+**4. Acute Kidney Injury (resolved):**  
+- Prerenal from hypoperfusion, now improved  
+- Renal function normalizing  
+- Avoid nephrotoxins
+
+**5. Prediabetes:**  
+- Glucose controlled, A1c 6.3%  
+- Monitor, ADA diet
+
+**6. Perennial Allergic Rhinitis:**  
+- Continue fluticasone, PRN diphenhydramine
+
+**7. OA hip, chronic pain:**  
+- Continue naproxen PRN  
+- PT consult for mobility
+
+**8. Viral upper respiratory infection (resolved):**  
+- Supportive care, now improved
+
+**9. DVT prophylaxis:**  
+- SQ heparin (held while Impella in place, now resumed)
+
+**10. Disposition:**  
+- Transfer to step-down once stable  
+- Anticipate discharge home with close f/u in heart failure clinic
+
+---
+
+## **Medication Administration Record (MAR)**
+- Norepinephrine IV gtt (02/15–02/17)
+- Milrinone IV (02/15–02/18)
+- Furosemide IV 40mg BID (02/17–02/19)
+- Lisinopril 5mg PO QD (started 02/18)
+- Metoprolol succinate 25mg PO QD (started 02/18)
+- Heparin IV (while Impella in place, then SQ 5000U TID)
+- Home meds as above
+
+---
+
+## **Procedures**
+
+- 02/16/24: **Impella CP placement** (left femoral access) for refractory cardiogenic shock. No immediate complications.  
+- 02/18/24: **Impella removal** at bedside, hemostasis achieved.
+
+---
+
+## **Consults**
+
+- Cardiology: ongoing
+- PT/OT: eval for mobility post-ICU
+- Nutrition: ADA, low Na
+
+---
+
+## **Progress Notes**
+
+**02/18/24:**  
+Patient awake, extubated, on 2L NC, hemodynamics stable, Impella removed, mobilizing with PT. Labs improved.  
+**02/19/24:**  
+No acute events overnight, tolerating diet, off all IV meds. Planning for transfer out of ICU.
+
+---
+
+## **Discharge Planning**
+
+- F/u: Heart Failure Clinic 7d, PCP 2w, Cardiology 2w
+- Rx: ACEi, BB, furosemide PRN, continue home meds
+- Education: HF symptoms, daily weights, med compliance
+
+---
+
+**Signed:**  
+Dr. A. Patel, MD  
+MICU/CCM  
+02/20/2024 09:14
+
+---

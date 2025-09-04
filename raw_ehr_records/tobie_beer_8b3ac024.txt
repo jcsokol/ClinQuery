@@ -1,0 +1,172 @@
+---
+**Epic EHR - Progress Note**  
+**Patient Name:** Tobie Beer  
+**MRN:** 00294832-ICU  
+**DOB:** 06/25/1975  
+**Sex:** Female  
+**Date of Admission:** 04/15/2024  
+**Attending:** Dr. S. Markowitz  
+**Consults:** Cardiology, CT Surgery, Infectious Disease  
+**Location:** ICU, Bed 4C
+
+---
+
+# **History of Present Illness**
+
+Tobie Beer is a 48-year-old female with a history of obesity (BMI 30+), multiple recent viral URIs, and otherwise no significant cardiovascular history, who presented to the ED 7 days ago with acute onset of severe dyspnea, orthopnea, and chest discomfort. She reported a preceding 2-week history of cough, fatigue, and low-grade fever, initially attributed to "bronchitis" and "sinusitis" treated outpatient with amoxicillin/clavulanate. On arrival, she was tachycardic, hypotensive, and hypoxic (O2 sat 87% on RA), with bibasilar crackles and JVD. CXR revealed pulmonary edema. Troponin mildly elevated. Echo demonstrated severe global hypokinesis, EF 15%. Transferred to ICU for acute decompensated heart failure (HF), suspected viral myocarditis. 
+
+Despite high-dose IV diuresis and inotropes, her hemodynamics deteriorated and she developed cardiogenic shock (MAP < 60 mmHg), requiring emergent placement of a percutaneous LVAD (Impella CP) on hospital day 2. Since then, she has been managed in the ICU with gradual improvement. The temporary LVAD was weaned and explanted on day 6. She remains on telemetry with close monitoring.
+
+---
+
+# **Problem List**
+
+1. **Cardiogenic Shock secondary to suspected Viral Myocarditis**  
+2. **Acute decompensated Heart Failure (EF 15%)**  
+3. **Temporary LVAD (Impella CP) - placed day 2, explanted day 6**  
+4. **Obesity (BMI 30+)**  
+5. **History of recurrent viral URIs**  
+6. **Anemia (Hb trend down to 8.9 g/dL, likely multifactorial)**  
+7. **Mild transaminitis**  
+8. **Acute kidney injury (AKI) - resolving**  
+9. **Electrolyte disturbances (hypokalemia, hypomagnesemia)**  
+10. **Menorrhagia (history, on hormonal therapy)**  
+11. **Pain, mild, managed with acetaminophen**  
+12. **Venous thromboembolism (VTE) prophylaxis**  
+13. **ICU delirium, mild, resolved**  
+14. **Nutritional support**  
+
+---
+
+# **Assessment and Plan**
+
+## 1. **Cardiogenic Shock / Heart Failure**
+- Etiology: Suspect viral myocarditis (recent viral prodrome, no CAD risk factors, global LV dysfunction).
+- Course: Refractory shock on pressors/inotropes → Impella CP placed day 2. Gradual improvement. Off pressors day 5. Impella explanted day 6. Now stable on low-dose furosemide, off inotropes.  
+- Monitoring: Serial echocardiograms, telemetry, daily labs.
+- Plan:
+  - Continue aggressive HF management (diuresis, fluid balance).
+  - Start low-dose beta-blocker (metoprolol) if hemodynamics stable.
+  - Follow up with outpatient heart failure and possible cardiac MRI.
+  - Discuss need for long-term anticoagulation post-LVAD.
+
+## 2. **Obesity**
+- BMI 30+ on admission. No acute issues but increases HF risk.
+- Plan: Nutritional counseling, PT/OT for mobility. Consider weight loss program after recovery.
+
+## 3. **Anemia**
+- Hb dropped to 8.9 g/dL post-Impella, likely procedural blood loss + dilutional + possible menorrhagia.
+- Plan: Monitor. Transfuse PRBC if Hb < 7.5 or symptomatic. Iron studies sent.
+
+## 4. **AKI**
+- Creatinine peaked at 2.1 mg/dL, now 1.3 mg/dL (baseline 0.9). Likely multifactorial (hypoperfusion, diuretics, contrast).
+- Plan: Maintain euvolemia, adjust diuretics, nephrology consult if worsens.
+
+## 5. **Electrolyte Disturbances**
+- Hypokalemia (K 3.2), hypomagnesemia (Mg 1.3) during diuresis.
+- Plan: Replete as needed, monitor daily.
+
+## 6. **Transaminitis**
+- Mild AST/ALT elevation (AST 88, ALT 97), likely shock liver.
+- Plan: Trending down. Monitor.
+
+## 7. **Pain**
+- Mild, controlled with acetaminophen. Avoid NSAIDs.
+
+## 8. **Delirium**
+- Hyperactive ICU delirium days 2-4, resolved now.
+- Plan: Sleep hygiene, minimize sedatives.
+
+## 9. **VTE Prophylaxis**
+- On heparin SQ.
+
+## 10. **History of viral URIs / Sinusitis / Bronchitis**
+- No current symptoms. Completed abx.
+
+## 11. **Menorrhagia / Hormonal therapy**
+- Remains on etonogestrel implant for now. Gyn to follow.
+
+---
+
+# **Hospital Course (Day by Day Summary)**
+
+| Day | Events/Interventions | Vitals | Key Labs |
+|-----|---------------------|--------|----------|
+| 0   | ED: acute dyspnea, CXR edema, admitted to ICU | BP 91/56, HR 121, RR 27, O2 87% | WBC 13.2, Hgb 12.1, Plt 188, Cr 1.1, Na 137, K 3.6, Troponin 0.13 |
+| 1   | On inotropes/pressors, echo EF 15% | BP 84/49, HR 118 | WBC 11.9, Hgb 11.2, Plt 175, Cr 1.6, Na 135, K 3.2, AST 88, ALT 97, BNP 2100 |
+| 2   | Impella CP placed, MAPs improve | BP 96/62, HR 110 | WBC 10.8, Hgb 10.5, Plt 172, Cr 2.1, Na 133, K 3.1, Mg 1.3, LFTs up |
+| 3   | On Impella, diuresis, AKI | BP 102/68, HR 98 | WBC 9.7, Hgb 9.8, Plt 169, Cr 1.8, Na 137, K 3.4, Mg 1.8, AST 65, ALT 71 |
+| 4   | Weaning pressors, delirium | BP 109/71, HR 92 | WBC 8.9, Hgb 9.2, Plt 155, Cr 1.5, Na 139, K 3.6, AST 42, ALT 53 |
+| 5   | Off pressors, Impella flows low | BP 116/74, HR 88 | WBC 8.2, Hgb 8.9, Plt 148, Cr 1.3, Na 140, K 3.8, AST 29, ALT 38 |
+| 6   | Impella explanted, stable | BP 120/77, HR 81 | WBC 7.7, Hgb 9.0, Plt 146, Cr 1.1, Na 140, K 4.0, AST 22, ALT 27 |
+| 7   | Stepdown to telemetry | BP 123/78, HR 75 | WBC 7.9, Hgb 9.2, Plt 150, Cr 1.0, Na 139, K 4.2 |
+
+---
+
+# **Laboratory Results**
+
+**CBC, Chem7, and Additional Labs (select days)**
+
+| Date       | WBC   | Hgb  | Plt  | Na   | K    | Cl   | HCO3 | BUN  | Cr   | AST  | ALT  | BNP   | Troponin | Mg   |
+|------------|-------|------|------|------|------|------|------|------|------|------|------|-------|----------|------|
+| 4/15/2024  | 13.2  | 12.1 | 188  | 137  | 3.6  | 104  | 24   | 21   | 1.1  | 41   | 37   | 1950  | 0.13     | 1.7  |
+| 4/16/2024  | 11.9  | 11.2 | 175  | 135  | 3.2  | 101  | 23   | 29   | 1.6  | 88   | 97   | 2100  | 0.08     | 1.3  |
+| 4/17/2024  | 10.8  | 10.5 | 172  | 133  | 3.1  | 102  | 21   | 34   | 2.1  | 102  | 101  | 1987  | 0.06     |      |
+| 4/18/2024  | 9.7   | 9.8  |      | 137  | 3.4  | 104  | 25   | 29   | 1.8  | 65   | 71   | 1560  |          | 1.8  |
+| 4/19/2024  | 8.9   | 9.2  | 155  | 139  | 3.6  |      | 27   | 22   | 1.5  | 42   | 53   | 1200  | 0.03     | 2.1  |
+| 4/20/2024  | 8.2   | 8.9  | 148  | 140  | 3.8  | 102  | 28   | 18   | 1.3  | 29   | 38   | 900   | <0.01    |      |
+| 4/21/2024  | 7.7   | 9.0  | 146  | 140  | 4.0  | 103  | 27   | 16   | 1.1  | 22   | 27   | 720   | <0.01    | 1.9  |
+| 4/22/2024  | 7.9   | 9.2  | 150  | 139  | 4.2  |      | 26   | 15   | 1.0  |      |      | 520   |          |      |
+
+---
+
+# **Current Medications**
+
+- Furosemide 40 mg IV q12h
+- Metoprolol 12.5 mg PO BID (starting)
+- Acetaminophen 650 mg PO q6h PRN
+- Heparin 5000u SQ q8h
+- Potassium chloride 40 mEq PO BID
+- Magnesium sulfate 2g IV daily
+- Etonogestrel implant (pre-existing)
+- Multivitamin PO daily
+
+---
+
+# **Imaging**
+
+**4/15/2024: CXR**  
+Pulmonary edema, cardiomegaly, mild pleural effusions.
+
+**4/15/2024: TTE**  
+Severe global LV hypokinesis, EF ~15%, mild RV dysfunction, no significant valvular disease.
+
+**4/20/2024: TTE**  
+EF improved to 28%, less LV dilation.
+
+---
+
+# **Consults**  
+- Cardiology: For myocarditis, LVAD management, HF optimization.
+- CT Surgery: Impella placement and removal.
+- Infectious Disease: Viral myocarditis workup (pending PCRs; no clear etiology found).
+- Nephrology: AKI (monitor only).
+- Gynecology: Menorrhagia, hormonal therapy.
+
+---
+
+# **Discharge Planning**
+
+- Anticipate transfer to stepdown, then floor, then home with HF follow-up.
+- Cardiac MRI as outpatient.
+- Close follow-up with cardiology, primary care, and gyn.
+- Home meds to be reconciled prior to discharge.
+- Patient and family education ongoing.
+
+---
+
+# **Signout**
+
+Tobie Beer is a 48F with new severe HF (likely viral myocarditis), required Impella for cardiogenic shock, now improving. Continue to monitor for arrhythmias, volume status, and end-organ recovery. Labs qAM.
+
+---

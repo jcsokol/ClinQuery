@@ -1,0 +1,206 @@
+**Patient Name:** Clarence Abernathy  
+**MRN:** 00618482  
+**DOB:** 1992-03-23 (Age: 32)  
+**Sex:** Male  
+**Admit Date:** 2024-05-28  
+**Attending:** Dr. Samuel R. Hinton  
+**ICU Service:** Cardiac ICU  
+**Note Date:** 2024-06-03  
+**Note Type:** ICU Progress Note  
+**Author:** Dr. S. R. Hinton, MD
+
+---
+
+## CHIEF COMPLAINT
+Shortness of breath, chest pain, and syncope.
+
+---
+
+## HISTORY OF PRESENT ILLNESS
+Clarence Abernathy is a 32-year-old male with a history of perennial allergic rhinitis, hypertension, and multiple recent viral upper respiratory infections, who presented to the ED with two days of worsening dyspnea, orthopnea, and pleuritic chest pain. He reported a syncopal episode at home. On arrival, he was tachycardic, hypotensive, and hypoxic. Initial workup revealed evidence of cardiogenic shock (BP 78/52, HR 132, O2 sat 89% on RA), elevated troponin, and chest X-ray with pulmonary edema. He was emergently admitted to the CICU.
+
+Given progressive hemodynamic instability despite vasopressors and inotropes, he underwent placement of a percutaneous left ventricular assist device (Impella CP) for temporary mechanical circulatory support on HD2.  
+
+---
+
+## PAST MEDICAL HISTORY
+- Perennial allergic rhinitis
+- Hypertension
+- Recurrent acute viral pharyngitis
+- Recent acute bronchitis (resolved)
+- No known congenital cardiac disease
+
+---
+
+## PAST SURGICAL HISTORY
+- None
+
+---
+
+## MEDICATIONS ON ADMISSION
+- Fexofenadine 30 mg PO BID
+- Epinephrine 0.3 mL auto-injector (PRN)
+- Hydrochlorothiazide 25 mg PO QD
+- Acetaminophen 325 mg PO PRN
+
+---
+
+## ALLERGIES
+No known drug allergies.
+
+---
+
+## FAMILY HISTORY
+- Father: HTN, alive, age 61
+- Mother: Asthma, alive, age 61
+- No family history of early CAD or sudden cardiac death
+
+---
+
+## SOCIAL HISTORY
+- Non-smoker, no alcohol, no illicit drugs
+- Lives alone, employed as an accountant
+
+---
+
+## REVIEW OF SYSTEMS
+- **General:** No fevers, night sweats. Fatigue, mild weight loss.
+- **Cardiac:** Chest pain, palpitations, orthopnea, PND
+- **Pulmonary:** Dyspnea, mild cough, no hemoptysis
+- **GI:** No N/V/D, no abdominal pain
+- **GU:** No dysuria, no hematuria
+- **Neuro:** No new focal deficits, no confusion
+
+---
+
+## PHYSICAL EXAM
+**Vitals (most recent):**
+- BP: 92/61 mmHg (on low-dose dobutamine)
+- HR: 105 bpm, irregularly irregular
+- Temp: 37.1°C
+- RR: 22 bpm
+- O2 sat: 94% (2L NC)
+- Weight: 68 kg
+
+**General:** Appears tired, mild distress  
+**HEENT:** Oropharynx clear, nasal mucosa boggy  
+**Neck:** JVD 6 cm  
+**Cardiac:** Irregular rhythm, S3 gallop, no murmurs  
+**Lungs:** Bibasilar crackles  
+**Abdomen:** Soft, NT/ND, no HSM  
+**Extremities:** Trace pedal edema  
+**Neuro:** AOx3, no focal deficits
+
+---
+
+## ICU COURSE SUMMARY
+- HD0: Admission for acute decompensated heart failure and cardiogenic shock. Started on dopamine, then transitioned to dobutamine and norepinephrine.
+- HD1: Persistent hypotension, rising lactate. Echo: LVEF ~10%, global hypokinesis.
+- HD2: Impella CP placed via right femoral artery. Marked improvement in MAP and urine output.
+- HD3-5: Gradual weaning of vasopressors. Extubated on HD4.
+- HD6: Impella removed. Remains stable on low-dose dobutamine.
+- HD7: Transferred out of ICU to stepdown unit.
+
+---
+
+## LABS
+
+**CBC & Chemistry (Selected)**
+
+| Date      | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|-----------|------------|------------|---------|------------|-------------|------------|-------------|-------------|------------|-------------|
+| HD0 AM    | 3.9        | 13.8       | 36      | 169        | 133         | 3.7        | 102         | 29          | 1.8        | 106         |
+| HD1 AM    | 4.5        | 13.2       | 34      | 158        | 130         | 3.4        | 99          | 34          | 2.1        | 112         |
+| HD2 AM    | 5.1        | 12.9       | 33      | 151        | 131         | 3.8        | 97          | 38          | 2.5        | 108         |
+| HD3 AM    | 4.7        | 12.5       | 32      | 145        | 134         | 4.1        | 98          | 32          | 2.3        | 105         |
+| HD4 AM    | 4.2        | 12.2       | 31      | 138        | 135         | 3.9        | 101         | 27          | 1.9        | 99          |
+| HD5 AM    | 4.0        | 12.4       | 32      | 136        | 137         | 4.0        | 102         | 24          | 1.6        | 97          |
+| HD6 AM    | 4.3        | 12.7       | 33      | 139        | 138         | 4.2        | 103         | 22          | 1.4        | 101         |
+| HD7 AM    | 4.1        | 12.8       | —       | 134        | —           | 4.4        | 104         | 21          | 1.2        | 98          |
+
+**Other Labs**
+
+- **Liver panel:** ALT 28, AST 32, Alk Phos 97, T. bili 1.1 (HD2)
+- **Troponin I:** 2.1 ng/mL (HD0), trended down to 0.4 (HD4)
+- **BNP:** 2300 pg/mL (HD0)
+- **Lactate:** 4.2 mmol/L (HD0), 1.8 (HD3)
+- **INR:** 1.1, **PT:** 13.2, **aPTT:** 32 (HD1)
+- **Mg:** 1.7 (HD2), 2.0 (HD4)
+
+---
+
+## IMPRESSION
+
+32M with no prior cardiac history, presenting with new onset severe systolic heart failure and cardiogenic shock following viral URI. Required temporary mechanical circulatory support (Impella CP) for refractory shock. Course complicated by AKI, mild transaminitis, and persistent low cardiac output.
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+1. **Cardiogenic Shock / Acute Decompensated Heart Failure**
+   - Likely secondary to viral myocarditis (pending cardiac MRI)
+   - Required Impella CP HD2-6; weaned off successfully
+   - Continue inotropic support (dobutamine, titrate as tolerated)
+   - Daily weights, strict I/Os, monitor for recurrent low output
+   - Consider advanced HF therapies if recovery plateaus
+
+2. **Acute Kidney Injury (AKI)**
+   - Likely pre-renal from hypoperfusion; improving with hemodynamics
+   - Monitor daily BMP, fluid status
+   - Avoid nephrotoxins
+
+3. **Arrhythmia**
+   - Paroxysmal AF noted, no sustained VT/VF
+   - On telemetry, started low-dose metoprolol after Impella removal
+   - Monitor for brady/tachyarrhythmias
+
+4. **Hypertension**
+   - Held HCTZ during shock, will resume as tolerated
+   - BP goal <130/80
+
+5. **Allergic Rhinitis**
+   - Continue fexofenadine
+   - No steroids given due to concern for myocarditis
+
+6. **Infection**
+   - Negative blood cultures, procalcitonin low
+   - No antibiotics
+
+7. **Nutrition**
+   - Started on cardiac diet
+   - Enteral feeds during intubation, advancing to regular as tolerated
+
+8. **Discharge Planning**
+   - Anticipate transfer to stepdown HD7-8
+   - Arrange for HF follow-up, cardiac rehab
+   - Social work consult for home support
+
+---
+
+## PROCEDURES
+
+- **Impella CP insertion (HD2):** Right femoral artery approach, no immediate complications.
+- **Impella removal (HD6):** Bedside, manual pressure, hemostasis achieved.
+
+---
+
+## IMAGING
+
+- **Echo (HD1):** LVEF 10%, global hypokinesis, no thrombus, mild MR, dilated LV
+- **CXR (HD0, HD3):** Pulmonary edema, improved after diuresis
+- **Cardiac MRI:** Pending
+
+---
+
+## DISPOSITION
+Remain in CICU with plan to transfer to stepdown when stable.
+
+---
+
+## SIGNED  
+Dr. Samuel R. Hinton, MD  
+Cardiac ICU  
+
+---
+
+**[End of Note]**

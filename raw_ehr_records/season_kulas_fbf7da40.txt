@@ -1,0 +1,161 @@
+---
+
+**INPATIENT PROGRESS NOTE**
+
+**Patient Name:** Season Kulas  
+**MRN:** 00298341  
+**Date of Birth:** 1961-04-06  
+**Sex:** Female  
+**Date of Admission:** 2024-05-27  
+**Attending:** Dr. J. Martinez  
+**Primary Team:** Cardiology/ICU  
+**Consults:** Endocrinology, GI, Infectious Disease, Cardiac Surgery  
+
+---
+
+**Reason for Admission:**  
+Acute decompensated heart failure with cardiogenic shock in the setting of ischemic cardiomyopathy, requiring temporary left ventricular assist device (LVAD) placement (Impella CP, day 2 of admission).
+
+---
+
+**HOSPITAL COURSE SUMMARY:**
+
+Mrs. Season Kulas is a 63-year-old woman with a significant history of metabolic syndrome, longstanding poorly controlled type 2 diabetes, hyperlipidemia, prior eclampsia, recurrent colon polyps (including history of overlapping malignant neoplasm of colon s/p partial colectomy 2022), and anemia, who presented to the ED with 3 days of progressive dyspnea, orthopnea, and lower extremity edema. On arrival, she was tachypneic and hypotensive, requiring urgent transfer to the ICU.
+
+Initial workup revealed troponin I 0.14 → 0.67 ng/mL, NT-proBNP >9000 pg/mL, EKG with new anterior Q waves, and bedside echo with LVEF 18%, severe global hypokinesis, moderate MR, and small pericardial effusion. 
+
+She developed worsening shock refractory to high-dose IV furosemide and dobutamine, requiring Impella CP placement on hospital day 2. Cardiogenic shock improved, Impella weaned off and explanted on day 7. Complicated by AKI (resolved), mild transaminitis, and recurrent anemia requiring 2U PRBC on day 4.  
+
+She is currently hemodynamically stable, extubated on day 3, on low-dose inotropes, and being evaluated for advanced heart failure therapies.
+
+---
+
+**LABS:**
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | AST (U/L) | ALT (U/L) | Alk Phos (U/L) | Troponin (ng/mL) | BNP (pg/mL) |
+|------------|------------|------------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|-----------|-----------|----------------|------------------|-------------|
+| 5/27 06:30 | 9.0        | 11.7       | 392        | 139         | 5.1        | 101         | 29           | 16          | 1.2        | 242         | 28        | 39        | 95             | 0.14             | 9,200       |
+| 5/28 05:15 | 8.2        | 10.9       | 401        | 142         | 5.3        | 102         | 27           | 23          | 1.5        | 218         | 35        | 43        | 98             | 0.67             | 9,700       |
+| 5/29 07:00 | 8.7        | 10.2       | 389        | 141         | 4.7        | 100         | 26           | 30          | 1.7        | 201         | 44        | 51        | 102            | 0.32             | >9000       |
+| 5/30 06:45 | 9.6        | 8.9        | 395        | 140         | 4.2        | 99          | 28           | 18          | 1.2        | 189         | 33        | 30        | 101            | 0.12             | 7,800       |
+| 5/31 06:50 | 7.4        | 10.5       | 388        | 140         | 4.6        | 103         | 29           | 13          | 1.1        | 175         | 24        | 22        | 93             | <0.01            | 5,200       |
+| 6/1 07:22  | 8.1        | 10.6       | 392        | 142         | 4.7        | 102         | 28           | 14          | 1.0        | 160         | 22        | 24        | 90             | <0.01            | 3,900       |
+| 6/2 06:50  | 7.8        | 10.8       | 395        | 143         | 4.9        | 104         | 30           | 14          | 1.0        | 153         | --        | --        | 88             | --               | --          |
+
+Other relevant labs:
+- HbA1c on admission: 7.1%
+- LDL: 129 mg/dL, HDL: 51 mg/dL, Trig: 201 mg/dL
+- LFTs peaked on day 3 (ALT 51, AST 44), then improved
+- Coags: INR peaked at 1.4, now 1.1.  
+- Microalbumin: 13 mg/g (baseline)
+- Stool hemoccult: positive x1, negative x2
+
+---
+
+**VITALS (selected):**
+
+| Date/Time  | Temp (C) | HR (bpm) | BP (mmHg) | RR (/min) | SpO2 (%) | O2 Device | Pain 0-10 |
+|------------|----------|----------|-----------|-----------|----------|-----------|-----------|
+| 5/27 06:30 | 37.3     | 112      | 88/54     | 26        | 97       | RA        | 0         |
+| 5/27 18:00 | 37.5     | 105      | 92/60     | 22        | 98       | 2L NC     | 2         |
+| 5/28 07:00 | 37.1     | 102      | 94/66     | 18        | 98       | 2L NC     | 1         |
+| 5/29 16:00 | 37.0     | 92       | 106/70    | 15        | 98       | RA        | 0         |
+| 5/30 07:30 | 36.9     | 86       | 114/72    | 16        | 99       | RA        | 0         |
+| 6/1 08:00  | 36.8     | 84       | 118/78    | 15        | 99       | RA        | 0         |
+
+---
+
+**MEDICATIONS (active inpatient):**
+- Furosemide 40mg IV q8h
+- Dobutamine 2.5mcg/kg/min IV (weaning)
+- Aspirin 81mg PO daily
+- Simvastatin 10mg PO daily
+- Insulin glargine 18u SQ qHS, lispro per sliding scale
+- Pantoprazole 40mg IV daily
+- PRN: Acetaminophen, Oxycodone 5mg, Ondansetron
+- Amoxicillin/clavulanate 875/125mg PO BID (completed, day 3, for presumed aspiration pneumonia)
+- IV iron sucrose x3 doses (for anemia)
+- Heparin SQ 5000u q8h (VTE ppx)
+
+---
+
+**IMAGING/SUMMARIES:**
+- EKG: Sinus tachycardia, Q waves anteriorly, low voltage
+- Echo (5/27): LVEF 18%, severe global hypokinesis, moderate MR, mild pericardial effusion
+- CXR: Pulmonary edema, small left pleural effusion
+- CT Abd/Pelvis (5/29): No acute findings, surgical changes from prior colectomy, stable colonic anastomosis
+
+---
+
+**PROBLEM-BASED ASSESSMENT & PLAN**
+
+**1. Cardiogenic Shock, Ischemic Cardiomyopathy, s/p Impella CP placement (day 2, explanted day 7)**
+   - Monitor hemodynamics, daily weights, strict I/O
+   - Echo to reassess LVEF prior to transfer
+   - Wean inotropes as tolerated, continue low-dose dobutamine
+   - Evaluate for advanced therapies (LVAD/transplant candidacy)
+   - Serial lactate, troponin, BNP
+   - Cardiac rehab consult
+   - Telemetry, maintain MAP >65
+
+**2. Acute Kidney Injury (resolved)**
+   - Likely multifactorial: low perfusion, diuretics, pre-existent CKD
+   - Renal function improved (Cr now 1.0, baseline ~1.1)
+   - Monitor lytes, avoid nephrotoxins
+
+**3. Recurrent Anemia (Hgb nadir 8.9, transfused 2U PRBC on day 4)**
+   - Etiology: chronic disease, recent GI blood loss, anemia of CKD
+   - Iron sucrose x3, monitor retic, ferritin, TIBC, folate/B12
+   - Hold anticoagulation if active bleeding
+   - GI to follow up outpatient
+
+**4. Diabetes Mellitus, poorly controlled**
+   - Insulin regimen adjusted for stress hyperglycemia
+   - Endo consulted; target BG 140-180
+   - Monitor for hypoglycemia
+
+**5. Hyperlipidemia/Hypertriglyceridemia**
+   - Continue simvastatin
+   - Recheck lipid panel prior to discharge
+
+**6. Colon Cancer s/p Partial Colectomy, Recurrent Polyps**
+   - Oncology following
+   - No recurrence on recent CT
+   - Hemoccult positive x1, no overt bleed
+
+**7. Neuropathy due to DM**
+   - Gabapentin resumed outpatient
+   - No acute changes
+
+**8. History of Antepartum Eclampsia, Miscarriage**
+   - Not contributing to current illness
+
+**9. Metabolic Syndrome**
+   - Aggressive risk factor modification
+   - Dietician consult
+
+**10. Infectious Issues**
+   - Treated for aspiration pneumonia (amox/clav x3 days)
+   - Blood and sputum cultures negative
+
+**11. Pain**
+   - Well controlled, minimal opioid use
+
+**12. Miscellaneous**
+   - Constipation: docusate, PRN senna
+   - Skin: Stage 1 sacral ulcer, wound care involved, barrier cream
+   - VTE ppx: heparin SQ
+
+---
+
+**DISPOSITION:**  
+Continue ICU monitoring. Consider stepdown when off inotropes and stable. Cardiac surgery and transplant teams following for advanced heart failure therapy evaluation. Outpatient GI and hematology follow-up arranged.
+
+---
+
+**Signed:**  
+Dr. J. Martinez, MD  
+Attending, Cardiology ICU  
+6/2/2024 10:23
+
+---

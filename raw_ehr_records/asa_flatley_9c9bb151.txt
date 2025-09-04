@@ -1,0 +1,156 @@
+```
+Patient Name: Asa Flatley  
+MRN: 0082341  
+DOB: 1978-02-03 (46 years)  
+Sex: Male  
+Date of Admission: 2024-05-28  
+Date of Note: 2024-06-04  
+Attending: Dr. J. Nguyen  
+Consults: Cardiology, CV Surgery, Endocrinology  
+Allergies: NKDA  
+Code Status: Full  
+Admission Source: ED  
+Admission Diagnosis: Cardiogenic shock, acute decompensated heart failure  
+History of Present Illness:  
+46-year-old male with past medical history significant for obesity (BMI 30.4), hyperlipidemia, and recent left ankle sprain, presented to the ED with worsening exertional dyspnea, orthopnea, and lower extremity edema over 3 weeks. Noted to have a syncopal episode at home. In ED, found to be hypotensive (SBP 78 mmHg), tachycardic, with signs of poor perfusion and pulmonary edema. Rapidly decompensated, requiring intubation and vasopressor support. Emergent TTE showed severe global LV dysfunction (EF 15%), moderate MR, and no LV thrombus. Cardiology consulted and patient transferred to CICU. Due to escalating vasopressor requirements and rising lactate, decision was made to place a percutaneous Impella CP device for temporary mechanical circulatory support on hospital day 1.
+
+Past Medical History:  
+- Obesity (BMI 30+)  
+- Hyperlipidemia  
+- Remote left ankle sprain (no sequelae)  
+- No known CAD, DM, or prior heart failure documented
+
+Past Surgical History:  
+- None
+
+Social History:  
+- Former smoker (10 pack-years, quit 2015)  
+- Occasional alcohol use  
+- No illicit drug use  
+- Lives with wife, employed as a schoolteacher
+
+Family History:  
+- Father: MI at 62  
+- Mother: Hypertension, alive
+
+Home Medications:  
+- Ibuprofen 200mg PRN (for ankle pain)  
+- No home antihypertensives, statins, or DM meds
+
+Physical Exam (ICU day 2):  
+- Gen: Intubated, sedated, on mechanical ventilation  
+- VS:  BP 97/56 (MAP 67, on norepinephrine 0.09 mcg/kg/min), HR 108, RR 18 (vent), T 37.1°C, SpO2 98% (FiO2 40%)  
+- CV: S1/S2, tachycardic, no murmur, JVP 12 cm, Impella in place, pedal pulses 1+  
+- Resp: Decreased breath sounds bibasilar, fine crackles  
+- Abd: Soft, non-tender, no organomegaly  
+- Ext: 2+ pitting edema BLE, left ankle with mild swelling, no erythema  
+- Skin: Warm, well-perfused
+
+**ICU Course Summary:**  
+HD 1: Admitted in cardiogenic shock, intubated, on dopamine/norepinephrine. Impella CP placed via RFA.  
+HD 2: Weaned dopamine, norepinephrine down. Lactate improved. Diuresis started.  
+HD 3: Developed transient AKI (Cr 2.1 from 1.0 baseline), oliguria.  
+HD 4: Improved UOP, LV function by TTE (EF up to 25%), Impella flows 3.8 L/min.  
+HD 5: Weaning Impella support, started low-dose dobutamine.  
+HD 6: Impella explanted, hemodynamics stable, extubated.  
+HD 7: Off pressors, diuresed 6L net negative, transitioned to oral HF regimen.  
+HD 8: Stable, ambulating with PT, discharge planning.
+
+---
+
+**Problem List/Assessment and Plan**
+
+1. **Cardiogenic Shock, New-onset Severe HFrEF (EF 15%)**  
+   - Etiology unclear, likely ischemic vs. idiopathic (no clear MI, cath pending)  
+   - Required intubation, vasopressors, rapid escalation to Impella CP (HD 1)  
+   - Now improved; Impella explanted (HD 6), off pressors, transitioned to GDMT (carvedilol, sacubitril/valsartan, furosemide, spironolactone)  
+   - Plan: Continue uptitration of GDMT, cardiac MRI pending, close monitoring for arrhythmias, ICD evaluation if EF <35% at 90 days
+
+2. **Acute Kidney Injury (Stage 2, resolving)**  
+   - Likely multifactorial (low output, diuretics, contrast load)  
+   - Peak Cr 2.1 (HD 3), now improved to 1.3 (HD 7), UOP normalized  
+   - Plan: Renal dose adjustment of meds, monitor daily labs, avoid nephrotoxins
+
+3. **Obesity (BMI 30.4)**  
+   - Contributing to HF, OSA risk  
+   - Plan: Nutrition consult, daily weights, low Na/CHF diet, outpatient weight management referral
+
+4. **Hyperlipidemia**  
+   - Off statin at baseline, started atorvastatin 40mg daily (HD 4)  
+   - Plan: Continue, monitor LFTs
+
+5. **Remote Ankle Sprain**  
+   - LLE swelling attributed to HF/venous congestion, no signs DVT/cellulitis  
+   - Plan: Compression stockings, PT for mobility, monitor for skin breakdown
+
+6. **Deconditioning**  
+   - ICU stay, at risk for critical illness myopathy  
+   - Plan: Early PT/OT, DVT prophylaxis with SCDs and enoxaparin
+
+7. **Pain**  
+   - Minimal, ibuprofen held due to AKI  
+   - Plan: Acetaminophen PRN, non-pharm methods
+
+8. **Secondary prevention/monitoring**  
+   - Telemetry, daily labs, serial TTEs  
+   - Cardiac cath scheduled prior to discharge  
+   - Vaccinations updated
+
+---
+
+**Lab Results – Hospital Course**
+| Date       | WBC   | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin I | BNP   | AST  | ALT  |
+|------------|-------|-------|-------|-------|------|------|------|------|------|------|------|------------|-------|------|------|
+| 5/28 (ED)  | 9.7   | 16.6  | 44    | 175   | 138  | 4.1  | 104  | 25   | 19   | 1.0  | 122  | 0.08       | 3500  | 38   | 41   |
+| 5/29       | 14.2  | 15.2  | 41    | 138   | 136  | 4.6  | 102  | 22   | 28   | 1.7  | 146  | 0.13       | 7500  | 62   | 55   |
+| 5/30       | 12.8  | 13.9  | 39    | 122   | 135  | 5.2  | 100  | 19   | 38   | 2.1  | 162  | 0.09       | 6900  | 54   | 49   |
+| 5/31       | 10.3  | 14.8  | 42    | 146   | 137  | 4.9  | 103  | 23   | 24   | 1.6  | 133  | 0.06       | 5100  | --   | --   |
+| 6/1        | 8.2   | 15.1  | 43    | 161   | 139  | 4.0  | 107  | 26   | 21   | 1.3  | 110  | --         | 2900  | 41   | 38   |
+| 6/2        | 7.6   | 16.1  | 45    | 170   | 140  | 3.9  | 108  | 28   | 18   | 1.2  | 101  | --         | 1800  | 36   | 33   |
+| 6/3        | --    | 15.8  | 44    | 172   | --   | 4.2  | 105  | 25   | 17   | 1.1  | 98   | --         | 1200  | --   | 32   |
+| 6/4        | 8.9   | 15.6  | 43    | 170   | 139  | 4.1  | 107  | 27   | 16   | 1.0  | 96   | <0.01      | 900   | 34   | 30   |
+
+**Trends:**  
+- Leukocytosis and anemia improved with stabilization  
+- Peak troponin I 0.13 (likely supply-demand, no STEMI)  
+- BNP peaked at 7500, now trending down  
+- Transient AKI, now resolved
+
+**Imaging:**  
+- TTE (HD 1): Severe global LV hypokinesis, EF 15%, mod MR, RV mild hypokinesis  
+- TTE (HD 5): EF 25%, improved LV/RV function  
+- CXR: Pulmonary edema, improved on HD 6  
+- Cardiac MRI: Pending
+
+**Procedures:**  
+- Impella CP insertion (RFA, HD 1), explanted HD 6  
+- Right heart cath: pending
+
+**Medications (Current):**  
+- Furosemide 60mg IV BID → PO 80mg daily  
+- Carvedilol 3.125mg BID, titrating  
+- Sacubitril/valsartan 24/26mg BID  
+- Spironolactone 25mg daily  
+- Atorvastatin 40mg daily  
+- Acetaminophen 650mg PRN  
+- Enoxaparin 40mg SQ daily (DVT ppx)
+
+**Discharge Planning:**  
+- Anticipate discharge HD 9-10, home with VNA  
+- Close follow-up with HF clinic, cardiology  
+- ICD evaluation at 90 days  
+- Outpatient PT/OT, nutritionist referral
+
+---
+
+**Review of Systems:**  
+Unable to obtain (intubated, sedated for majority of stay). Wife denies fevers, cough, chest pain, palpitations, recent travel or sick contacts.
+
+---
+
+**Attending's Signature:**  
+J. Nguyen, MD  
+CICU  
+Date/Time: 2024-06-04 09:11
+
+---

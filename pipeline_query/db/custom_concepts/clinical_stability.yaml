@@ -1,0 +1,50 @@
+############### NOTES ###############
+# Defines clinical instability; users may tune thresholds.
+# Cardiac markers omitted intentionally (most of cohort has HF as presenting symptom).
+#####################################
+
+aliases:
+  positive:
+    - { term: "clinical stability" }
+    - { term: "clinically stable" }
+    - { term: "stable" }
+    - { term: "clinical instability", modifier: "no evidence"}
+  negative:
+    - { term: "clinical instability" }
+    - { term: "clinically unstable" }
+    - { term: "watcher status" }
+    - { term: "watcher patient" }
+    - { term: "watcher" }
+
+definition_polarity: negative
+
+definition: 
+  any_of: # only 'any_of'/'all_of'/'not' are currently supported
+
+    # Hemodynamics / perfusion NOT normal
+    - any_of:
+        - { feature: "mean arterial pressure", op: "<", value: 65 }
+        - { feature: "systolic blood pressure", op: "<", value: 95 } 
+        - { feature: "vasopressor", modifier: "present" }
+        - { feature: "lactate", op: ">", value: 2.0 }
+        - { feature: "lactate dehydrogenase", op: ">", value: 1000 }
+
+    # Respiratory NOT normal
+    - any_of:
+        - { feature: "spo2", op: "<", value: 90, unit: "%" }
+        - { feature: "respiratory rate", op: ">", value: 30 }
+        - { feature: "respiratory rate", op: "<", value: 10 }
+        - { feature: "respiratory distress", modifier: "present" }
+
+    # Infectious / inflammatory
+    - any_of:
+        - { feature: "white blood cell count", op: ">", value: 17 }
+        - { feature: "temperature", op: ">", value: 39.0, unit: "c" } # unit is important here because it could also be in fahrenheit
+        - { feature: "fever", modifier: "present" }
+        - { feature: "c reactive protein", op: ">", value: 40 }
+        - { feature: "procalcitonin", op: ">", value: 0.8 }
+
+    # Neurologic NOT normal
+    - any_of:
+        - { feature: "delirium", modifier: "present" }
+        - { feature: "glasgow coma score", op: "<", value: 10 }

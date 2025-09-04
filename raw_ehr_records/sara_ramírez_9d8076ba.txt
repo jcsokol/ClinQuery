@@ -1,0 +1,158 @@
+---
+**Epic EHR - Inpatient Chart**  
+**Patient:** Sara Ramírez  
+**MRN:** 00293485  
+**DOB:** 05/28/1952 (71 years)  
+**Sex:** Female  
+**Admit Date:** 2024-05-11  
+**Attending:** Dr. J. Patel  
+**Consults:** Cardiology, ICU, Oncology, Nephrology, Pulmonary  
+**Admission Source:** ED  
+**Admitting Dx:** Cardiogenic shock, acute on chronic heart failure  
+**Secondary Dx:** NSCLC, CKD4, HTN, h/o CVA, obesity
+
+---
+
+### **HOSPITAL COURSE SUMMARY**
+
+Ms. Sara Ramírez is a 71-year-old female with a history of hypertension, obesity, CKD4, remote CVA, and non-small cell lung cancer (NSCLC, stage 1) on chemotherapy, who presented to the ED with progressive dyspnea, orthopnea, and lower extremity swelling. She was found to be hypotensive and tachycardic, with evidence of pulmonary edema and acute kidney injury. On hospital day 2, she developed worsening hypoxia and hypotension refractory to vasopressors, requiring ICU transfer and urgent placement of a temporary left-sided percutaneous ventricular assist device (Impella CP) for acute decompensated heart failure and cardiogenic shock. She underwent aggressive diuresis, inotropic support, and close hemodynamic monitoring.
+
+Her course was complicated by acute kidney injury requiring CRRT, mild transaminitis, and episodes of delirium. She experienced transient improvement after Impella placement, but was ultimately weaned off mechanical circulatory support by hospital day 9. She remains on telemetry with slow improvement in volume status and renal function.
+
+---
+
+### **PROBLEM-BASED ASSESSMENT & PLAN**
+
+**1. Cardiogenic Shock / Decompensated Heart Failure (HFrEF)**
+- **Assessment:** Acute decompensation likely precipitated by volume overload (possibly related to chemotherapy and infection), underlying ischemic cardiomyopathy not previously diagnosed.
+- **Course:** Required vasopressors and inotropes (dobutamine, norepi), then Impella CP for 7 days.
+- **Echo:** EF ~20%, global hypokinesis, no LV thrombus, RV normal.
+- **Plan:**
+    - Continue GDMT as tolerated (hold ACE/ARB due to AKI)
+    - Continue gentle diuresis (IV furosemide, metolazone)
+    - Wean inotropes, monitor for arrhythmias
+    - Daily weights, strict I/O, tele monitoring
+    - Cardiology f/u for advanced HF therapies
+
+**2. Acute Kidney Injury on CKD4**
+- **Assessment:** Likely multifactorial—cardiorenal syndrome, hypotension, nephrotoxins (chemo, contrast), sepsis.
+- **Course:** Required CRRT x 5 days, now off. Creatinine peaked at 4.2, now trending down.
+- **Plan:**
+    - Hold nephrotoxins
+    - Renal dose adjust all meds
+    - Strict I/O, daily labs, nephrology consult
+    - Monitor for recovery, anticipate need for outpatient dialysis planning
+
+**3. Non-Small Cell Lung Cancer, Stage 1, on Chemo (cisplatin + paclitaxel)**
+- **Assessment:** Recently completed 4th cycle, complicated by neutropenia and volume overload.
+- **Plan:**
+    - Hold further chemo until stable
+    - Oncology f/u inpatient
+    - Monitor for infections, tumor lysis
+
+**4. Hypertension**
+- **Assessment:** Poorly controlled, now hypotensive due to shock.
+- **Plan:**
+    - Hold all antihypertensives for now
+    - Resume HCTZ, other agents as tolerated post-shock
+
+**5. Stroke (remote)**
+- **Assessment:** No new deficits, baseline mild right-sided weakness.
+- **Plan:**
+    - Continue DVT ppx (heparin sq, SCDs)
+    - PT/OT as tolerated
+
+**6. Obesity (BMI ~30)**
+- **Assessment:** Contributing to HF, OSA suspected (not confirmed)
+- **Plan:**
+    - Nutrition consult
+    - Calorie/protein goals, salt restriction
+
+**7. Viral Sinusitis (recent)**
+- **Assessment:** Mild URI sxs, now resolved.
+- **Plan:** No further intervention
+
+**8. Delirium**
+- **Assessment:** ICU course complicated by hypoactive delirium, likely multifactorial (infection, metabolic, ICU).
+- **Plan:**
+    - Sleep-wake cycle, minimize restraints, re-orient, avoid benzos
+
+**9. Electrolyte abnormalities**
+- **Assessment:** Mild hyperkalemia, hypocalcemia, hyperchloremia during AKI.
+- **Plan:**
+    - Monitor, replace as needed
+
+**10. Anemia/Thrombocytosis**
+- **Assessment:** Mild anemia, likely chronic disease; platelets elevated transiently post-CRRT.
+- **Plan:**
+    - Monitor, no transfusion needed
+
+---
+
+### **LABS**
+
+#### Table 1: CBC & Chem7 (Selected Days, values missing where not measured)
+| Date       | WBC   | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|-------|-------|-------|-------|------|------|------|------|------|------|------|
+| 5/11/2024  | 10.3  | 12.2  | 49.2  | 336   | 141  | 5.0  | 110  | 28   | 11   | 2.75 | 95   |
+| 5/12/2024  | 8.9   | 11.8  | 44.9  | 315   | 139  | 5.4  | 113  | 26   | 18   | 3.11 | 108  |
+| 5/13/2024  | 7.4   | 10.7  | 41.2  | 298   | 142  | 5.7  | 116  | 24   | 23   | 3.98 | 126  |
+| 5/14/2024  | 5.8   | 9.9   | 38.0  | 265   | 144  |      | 118  | 22   | 28   | 4.21 | 134  |
+| 5/15/2024  | 6.7   | 10.2  | 39.7  | 254   | 145  | 5.2  | 115  |      | 26   | 3.99 | 121  |
+| 5/16/2024  | 7.1   | 10.9  | 41.1  |       | 143  | 4.8  | 112  | 25   | 21   | 3.45 | 112  |
+| 5/17/2024  | 8.2   | 11.5  | 43.5  | 278   | 140  | 4.6  | 110  | 27   | 18   | 2.97 | 104  |
+| 5/18/2024  | 9.8   | 12.4  | 45.2  | 312   |      | 4.5  | 108  | 28   | 17   | 2.61 | 98   |
+| 5/19/2024  | 11.1  | 13.1  | 47.0  | 355   | 139  | 4.2  | 107  | 29   | 15   | 2.22 | 92   |
+
+#### Table 2: Other relevant labs
+| Date       | AST  | ALT  | AlkPhos | Total Bili | Albumin | Troponin | BNP   |
+|------------|------|------|---------|------------|---------|----------|-------|
+| 5/11/2024  | 27   | 59   | 100     | 0.67       | 3.9     | <0.01    | 1220  |
+| 5/13/2024  | 36   | 72   | 128     | 1.12       | 3.2     | 0.12     | 2150  |
+| 5/16/2024  | 41   | 61   | 115     | 0.92       | 3.5     | 0.04     | 1800  |
+| 5/19/2024  | 22   | 44   | 97      | 0.59       | 3.7     | <0.01    | 1060  |
+
+---
+
+### **VITALS OVERVIEW (selected)**
+- Height: 181.8 cm  | Weight: 99.7 kg (down from 103.2 kg on admit) | BMI: 30.1  
+- BP (lowest during shock): 74/42 mmHg, MAP 53  
+- HR: 118-135 bpm (sinus tach, occasional PACs)  
+- RR: 18-26  
+- SpO2: 93-98% (2-4L NC)  
+- Tmax: 37.4°C  
+- Pain: 1-3/10 (mild, mostly at Impella site initially)  
+
+---
+
+### **HOSPITAL MEDICATIONS**
+- Furosemide IV drip, metolazone, spironolactone (held with hyperK)
+- Dobutamine, norepinephrine (weaned off by day 8)
+- Heparin sq, SCDs for DVT ppx
+- Mirena IUD (in place)
+- Amox/clav (completed for sinusitis prior to admit)
+- Chemotherapy (cisplatin/paclitaxel) — held
+- Statin, PPI, acetaminophen prn, sliding scale insulin (BG up to 156 mg/dL)
+
+---
+
+### **IMAGING**
+- CXR: Diffuse pulmonary edema, mild cardiomegaly, RUL nodule stable
+- TTE: LVEF 20%, global hypokinesis, no valvular vegetations
+- Head CT: Chronic infarcts, no acute findings
+
+---
+
+### **DISPOSITION/PROGNOSIS**
+- Remains in stepdown ICU, weaned off Impella, ongoing cardiac/renal monitoring.
+- Prognosis guarded given advanced HF, lung ca, CKD.
+- Family meeting held, patient DNR but full treatment otherwise.
+- Anticipate transfer to floor, possible rehab or SNF.
+
+---
+
+**Physician:** J. Patel, MD  
+**Date:** 2024-05-19  
+**Time:** 08:47
+
+---

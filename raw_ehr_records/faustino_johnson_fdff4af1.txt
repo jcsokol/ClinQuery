@@ -1,0 +1,220 @@
+---
+
+**INPATIENT NOTE**  
+**Attending:** Dr. L. McCready  
+**Resident:** Dr. J. Kim  
+**Date of Service:** 2024-06-09  
+**Patient Name:** Faustino Johnson  
+**MRN:** 002874390  
+**DOB:** 1946-03-29  
+**Sex:** Male  
+**Admit Date:** 2024-06-01  
+**Location:** MICU, 4C-312  
+
+---
+
+### CHIEF COMPLAINT
+Worsening shortness of breath and chest tightness for 2 days.
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+
+76-year-old male with past medical history significant for chronic sinusitis, obesity, hyperlipidemia, COPD, and recent viral upper respiratory infection, presenting to the ED with 2-day history of progressive dyspnea, orthopnea, and mild chest discomfort. Noted to have increased work of breathing and hypoxemia on arrival. Initial troponin elevated and EKG concerning for new LBBB. TTE in ED showed severe LV dysfunction (EF 20%) with global hypokinesis. He rapidly deteriorated, requiring transfer to MICU for escalating O2 requirements and hypotension despite fluids. Cardiogenic shock diagnosed (SBP ~70s). Temporary percutaneous LVAD (Impella CP) placed on hospital day 2 for hemodynamic support.  
+
+---
+
+### PAST MEDICAL HISTORY
+
+- Chronic sinusitis, viral and non-viral  
+- Obesity (BMI 30+)  
+- Hyperlipidemia  
+- COPD (chronic bronchitis phenotype, severe, FEV1/FVC 28%)  
+- Laceration of hand (remote, healed)  
+- Recent viral pharyngitis  
+
+---
+
+### PAST SURGICAL HISTORY
+
+- None
+
+---
+
+### HOME MEDICATIONS
+
+- Simvastatin 10mg daily  
+- Fluticasone/salmeterol inhaler 1 puff BID  
+- Acetaminophen 325mg PRN  
+- (Patient reports inconsistent use of inhalers)
+
+---
+
+### ALLERGIES
+
+- NKDA
+
+---
+
+### SOCIAL HISTORY
+
+- Lives with wife, independent ADLs  
+- Former smoker (quit 2011, 42 pack-years)  
+- No alcohol or illicit drug use
+
+---
+
+### FAMILY HISTORY
+
+- Father: MI age 62  
+- Mother: COPD, DM2  
+
+---
+
+### REVIEW OF SYSTEMS
+
+- General: Fatigue, mild fever  
+- HEENT: Sinus congestion persists  
+- Cardiac: Chest tightness, PND  
+- Respiratory: SOB, cough, no hemoptysis  
+- GI: Anorexia, no N/V  
+- GU: No dysuria  
+- Neuro: No focal deficits  
+- MSK: Myalgias  
+- Skin: No rashes
+
+---
+
+### PHYSICAL EXAM
+
+| Vitals | 2024-06-01 | 2024-06-02 | 2024-06-03 | 2024-06-04 | 2024-06-05 |
+|---|---|---|---|---|---|
+| T (°C) | 37.1 | 38.3 | 37.8 | 37.2 | 36.9 |
+| HR | 104 | 112 | 98 | 86 | 80 |
+| BP | 92/54 | 78/48 | 88/60 | 104/69 | 112/72 |
+| RR | 26 | 28 | 20 | 16 | 16 |
+| O2 sat | 88% RA | 93% 6L NC | 98% vent | 97% vent | 97% 2L NC |
+
+- **General:** Ill-appearing, mild respiratory distress  
+- **HEENT:** Sinus tenderness, oropharynx clear  
+- **Cardiac:** Tachycardic, S3 present, no murmurs  
+- **Resp:** Decreased breath sounds, scattered wheezes, bibasilar crackles  
+- **Abd:** Soft, NT, mild hepatomegaly  
+- **Ext:** 2+ pitting edema BLE  
+- **Neuro:** AOx3, no focal deficits
+
+---
+
+### HOSPITAL COURSE & EVENTS
+
+- **HD1:** Admitted with acute decompensated heart failure, rapidly progressing to cardiogenic shock.  
+- **HD2:** Impella CP placed via femoral approach. Vasopressors weaned post-LVAD.  
+- **HD3:** Gradual improvement in hemodynamics. Weaned down on ventilator settings.  
+- **HD4:** Impella weaned. Renal function improved but still AKI.  
+- **HD5:** Extubated, transitioned to high flow O2, diuresis continued.  
+- **HD6-7:** Stable, mild delirium, started on PT/OT.
+
+---
+
+### LABS
+
+#### CBC / CHEMISTRY
+
+| Date       | WBC  | Hgb | Hct | Plt | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|------|-----|-----|-----|------|------|------|------|------|------|------|
+| 6/1/2024   | 3.5  | 14.0| 46.7| 301 | 139  | 4.2  | 107  | 20   | 17   | 2.7  | 80   |
+| 6/2/2024   | 4.1  | 13.1| 43.0| 279 | 137  | 4.0  | 105  | 19   | 26   | 3.5  | 112  |
+| 6/3/2024   | 6.9  | 11.5| 39.0| 232 | 141  | 4.7  | 108  | 18   | 32   | 4.9  | 123  |
+| 6/4/2024   | 5.8  | 12.4| 40.2|     | 138  | 3.9  | 106  | 22   | 24   | 2.1  | 97   |
+| 6/5/2024   |      | 12.9| 41.1| 259 | 138  |      | 109  | 23   | 18   | 1.6  | 85   |
+| 6/6/2024   | 7.5  | 13.2|     | 265 | 135  | 4.3  |      | 23   | 14   | 1.4  |      |
+
+#### ADDITIONAL LABS
+
+- Troponin I: 0.33 (6/1), 0.41 (6/2), 0.12 (6/3)
+- BNP: 1780 (6/1), 2200 (6/2), 1430 (6/4)
+- AST: 19 (6/1), 28 (6/2), 41 (6/3), 35 (6/4)
+- ALT: 41 (6/1), 36 (6/2), 48 (6/3), 52 (6/4)
+- Alk Phos: 123 (6/1), 115 (6/3)
+- Total bili: 0.5 (6/1), 0.7 (6/3)
+- Albumin: 4.7 (6/1), 3.9 (6/3)
+
+---
+
+### IMAGING
+
+- **CXR (6/1):** Pulmonary edema, mild cardiomegaly  
+- **Echo (6/1):** LVEF 20%, global hypokinesis, moderate MR  
+- **Lower extremity dopplers (6/4):** Negative for DVT
+
+---
+
+### ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock, severe LV dysfunction**  
+- Etiology likely ischemic vs. viral myocarditis.  
+- Improved with Impella support and inotropes, now off vasopressors.  
+- Continue aggressive diuresis, monitor for arrhythmias, daily TTE for LV recovery.  
+- Consider guideline-directed medical therapy (GDMT) for HFrEF as tolerated.  
+- Cardiology following.
+
+**2. Acute on chronic kidney injury**  
+- Likely multifactorial: hypoperfusion, diuretic use, underlying CKD.  
+- Renal function improving. Monitor I/Os, avoid nephrotoxins, adjust meds for GFR.
+
+**3. COPD, severe (GOLD IV)**  
+- On inhaled steroids/LABA, O2 to keep sats >92%.  
+- Monitor for bronchospasm, daily chest PT.  
+- Pulm consult.
+
+**4. Hyperlipidemia**  
+- Continue statin, recheck lipids when stable.
+
+**5. Obesity**  
+- Dietician consult, calorie restriction.
+
+**6. Sinusitis/pharyngitis**  
+- Supportive care, saline rinses, monitor for bacterial superinfection.
+
+**7. Delirium**  
+- Likely multifactorial (ICU, metabolic derangements).  
+- Reorient frequently, minimize sedation, PT/OT.
+
+**8. Laceration of hand (remote)**  
+- Healed, no intervention needed.
+
+---
+
+### DISPOSITION
+
+- Anticipate transfer to step-down unit in 48-72h if stable.
+- Cardiac rehab referral pending.
+- Close follow-up with cardiology, nephrology, and pulmonary after discharge.
+
+---
+
+**Signed:**  
+J. Kim, MD (PGY-2)  
+**Co-signed:**  
+L. McCready, MD
+
+---
+
+**ORDERS:**  
+- Daily CBC, Chem7  
+- Telemetry  
+- Strict I/O  
+- Furosemide IV  
+- Continue simvastatin  
+- Fluticasone/salmeterol inhaler  
+- PT/OT  
+- DVT prophylaxis
+
+---
+
+**Additional Notes:**  
+- Patient/family updated daily.  
+- Code status: Full.  
+- No acute events overnight.  
+
+---

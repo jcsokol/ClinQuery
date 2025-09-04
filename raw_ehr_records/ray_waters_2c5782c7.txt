@@ -1,0 +1,201 @@
+**Patient:** Waters, Ray  
+**MRN:** 2039847  
+**DOB:** 10/23/1982  
+**Sex:** Male  
+**Admit Date:** 05/12/2024  
+**Attending:** Dr. S. Hargrove  
+**Location:** Cardiac ICU, 6B  
+
+---
+
+### ADMISSION SUMMARY
+
+**Chief Complaint:**  
+Witnessed cardiac arrest at home, EMS arrived, ROSC after 8 minutes of ACLS. Intubated in field. Initial rhythm: VFib.
+
+**HPI:**  
+39-year-old male with past cardiac arrest (unknown etiology), obesity, recent strep throat (on penicillin x3 days), and remote whiplash injury, presented after sudden collapse at home. Per wife, had complained of palpitations and mild chest discomfort the day prior. No known cardiac history, non-smoker, drinks rarely. EMS found patient pulseless, started CPR, shocked x2, ROSC achieved, transferred to ED. On arrival: obtunded, hypotensive, intubated, transferred to ICU. Developed worsening cardiogenic shock on day 2, requiring placement of temporary LVAD (Impella CP) for hemodynamic support.
+
+---
+
+### ASSESSMENT & PLAN
+
+**1. Cardiac Arrest, Out-of-Hospital (s/p VFib, ROSC, Cardiogenic Shock)**
+- Initial stabilization per ACLS protocol.  
+- EKG: diffuse ST depression, troponin peaked at 6.2 ng/mL.  
+- Cardiac cath: mild non-obstructive LAD disease, EF 15%, global hypokinesis.  
+- Severe LV dysfunction, persistent shock, rising lactate.  
+- Impella CP placed on hospital day 2 for circulatory support.  
+- Echo Day 4: EF 22%, mild improvement, weaning Impella flows.  
+- Plan: Continue Impella, daily TTE, wean pressors, monitor for recovery.  
+- Cardiomyopathy work-up pending: viral studies, autoimmunity panel.
+
+**2. Obesity (BMI 30)**
+- Increased risk for OSA, difficult airway during intubation.  
+- Dietician consulted.  
+- Strict I/O, fluid restriction.  
+- Encourage weight loss counseling on recovery.
+
+**3. Streptococcal Pharyngitis (recent)**
+- On penicillin V x3 days pre-arrest.  
+- No evidence of rheumatic involvement, but ASO titer pending.  
+- Continue penicillin to complete 10-day course.  
+- Throat culture negative for other pathogens.
+
+**4. Rhabdomyolysis (secondary to arrest/compressions)**
+- CK peaked at 3,400 U/L, now trending down.  
+- Renal function: Cr max 1.5, now 1.1.  
+- Aggressive IV fluids, monitor UOP, electrolytes.
+
+**5. Acute Kidney Injury (multifactorial)**
+- Likely secondary to shock, rhabdo, hypotension.  
+- Improving with volume resuscitation, off pressors.  
+- Monitor daily renal panel.
+
+**6. Sedation/Delirium (ICU course)**
+- Initially on propofol, now transitioned to dexmedetomidine.  
+- CAM-ICU negative last 2 days.  
+- Extubation planned as soon as hemodynamics allow.
+
+**7. Pain (Mild, neck/back)**
+- Naproxen PRN, Tylenol scheduled.  
+- Avoid NSAIDs if renal function worsens.
+
+**8. Whiplash Injury (remote, not contributing)**
+- No acute findings on cervical spine CT.  
+- Continue supportive care.
+
+**9. DVT Prophylaxis**
+- SCDs in place, heparin SQ started once bleeding risk acceptable.
+
+**10. Family/Counseling**
+- Spoke with wife and daughter, provided updates.  
+- Social work involved.
+
+---
+
+## HOSPITAL COURSE (by day)
+
+**Day 1:**  
+- Cardiac arrest, intubated, started on norepinephrine, transferred to ICU.  
+- EKG: diffuse ST changes, echo: EF 15%.  
+- Labs: CBC, chem7, troponin, CK, LFTs, ABG.  
+- Started empiric vancomycin/cefepime pending blood cultures (negative x2).
+
+**Day 2:**  
+- Worsening shock, lactate 5.4, oliguric.  
+- Impella CP placed, cardiac output improved, pressors weaned.  
+- Continued penicillin.  
+- Renal function monitored, CK rising.
+
+**Day 3:**  
+- Stable on Impella, echo: EF 20%.  
+- Weaned norepinephrine.  
+- Sedation lightened, spontaneous breathing trial attempted.  
+- CK declining, Cr improving.
+
+**Day 4:**  
+- Further improvement in cardiac function, EF 22%.  
+- Tolerating lower Impella flows.  
+- Plan for Impella removal if stable next 24h.  
+- Extubated, awake, following commands.
+
+**Day 5:**  
+- Off pressors, Impella removed.  
+- Transitioned to telemetry.  
+- Family meeting, discussed need for long-term cardiac follow-up.  
+- Discharge planning initiated.
+
+---
+
+## VITALS (selected)
+
+| Date       | Temp (°C) | HR | BP        | RR | SpO2 | Pain |
+|------------|-----------|----|-----------|----|------|------|
+| 5/12/2024  | 39.2      | 124| 85/48     | 24 | 92%  | Intub |
+| 5/13/2024  | 38.5      | 110| 93/52     | 18 | 95%  | 2     |
+| 5/14/2024  | 37.8      | 98 | 105/65    | 16 | 98%  | 3     |
+| 5/15/2024  | 37.0      | 90 | 110/70    | 15 | 98%  | 1     |
+| 5/16/2024  | 36.8      | 82 | 118/74    | 14 | 99%  | 0     |
+
+---
+
+## LABS
+
+**CBC**
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) |
+|------------|------------|------------|---------|------------|
+| 5/12/2024  | 6.3        | 12.1       | 42.8    | 178        |
+| 5/13/2024  | 7.9        | 11.7       | 40.2    | 171        |
+| 5/14/2024  | 8.5        | 10.9       | 37.8    | 154        |
+| 5/15/2024  | 7.8        | 11.2       | 38.7    | 162        |
+| 5/16/2024  | 8.0        | 11.5       | 39.5    | 166        |
+
+**CHEM 7**
+
+| Date       | Na  | K   | Cl  | CO2 | BUN | Cr   | Glu |
+|------------|-----|-----|-----|-----|-----|------|-----|
+| 5/12/24    | 138 | 4.5 | 102 | 21  | 18  | 1.4  | 108 |
+| 5/13/24    | 136 | 4.8 | 103 | 19  | 22  | 1.5  | 122 |
+| 5/14/24    | 137 | 4.2 | 104 | 23  | 17  | 1.3  | 109 |
+| 5/15/24    | 139 | 4.0 | 102 | 25  | 14  | 1.1  | 102 |
+| 5/16/24    | 140 | 3.9 | 100 | 24  | 13  | 1.0  | 98  |
+
+**CARDIAC MARKERS**
+
+| Date      | Troponin (ng/mL) | CK (U/L) | BNP (pg/mL) |
+|-----------|------------------|----------|-------------|
+| 5/12/24   | 5.8              | 3200     | 2100        |
+| 5/13/24   | 6.2              | 3400     | 2200        |
+| 5/14/24   | 4.0              | 2200     | 1700        |
+| 5/15/24   | 2.3              | 1100     | 1200        |
+| 5/16/24   | 0.9              | 560      | 800         |
+
+**LIVER PANEL** (Not all days drawn)
+
+| Date      | AST  | ALT  | Alk Phos | TBili |
+|-----------|------|------|----------|-------|
+| 5/12/24   | 42   | 51   | 88       | 0.7   |
+| 5/14/24   | 36   | 49   | 82       | 0.6   |
+| 5/16/24   | 31   | 41   | 77       | 0.5   |
+
+---
+
+## IMAGING/PROCEDURES
+
+- **CT Head (5/12):** No acute infarct/hemorrhage.
+- **Echo (5/12):** EF 15%, global hypokinesis.
+- **Echo (5/14):** EF 20%, mild improvement.
+- **Cath (5/12):** Mild non-obstructive CAD, no culprit lesion.
+- **CXR (Daily):** Mild pulmonary edema, improving.
+
+---
+
+## MEDICATION ADMINISTRATION RECORD (selected)
+
+| Medication                      | Dose         | Route   | Start Date | End Date   |
+|----------------------------------|-------------|---------|------------|------------|
+| Penicillin V Potassium           | 500 mg QID  | PO      | 5/10/24    | 5/20/24    |
+| Naproxen sodium                  | 220 mg PRN  | PO      | 5/13/24    | ongoing    |
+| Norepinephrine                   | titrated    | IV      | 5/12/24    | 5/14/24    |
+| Propofol                         | titrated    | IV      | 5/12/24    | 5/14/24    |
+| Dexmedetomidine                  | titrated    | IV      | 5/14/24    | 5/16/24    |
+| Heparin                          | 5000u Q8H   | SQ      | 5/14/24    | ongoing    |
+
+---
+
+## DISCHARGE CONSIDERATIONS
+
+- Close cardiac follow-up, consider ICD vs. advanced heart failure therapies.
+- Cardiac rehab referral.
+- Education on SCD, CPR for family.
+- Weight loss/obesity counseling.
+- Continue penicillin to complete course.
+- Outpatient labs in 1 week.
+
+---
+
+**Signed:**  
+Dr. S. Hargrove, MD  
+05/16/2024 17:33

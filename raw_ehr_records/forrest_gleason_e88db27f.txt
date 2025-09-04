@@ -1,0 +1,255 @@
+---
+**Inpatient Progress Note**  
+**Patient Name:** Forrest Gleason  
+**MRN:** 0012456789  
+**DOB:** 2004-01-25 (Age 20)  
+**Sex:** Male  
+**Date of Service:** 2024-06-02  
+**Admitting Service:** Cardiac ICU  
+**Attending:** Dr. R. Johnson  
+**Consults:** Cardiology, Infectious Disease, ENT, Neurology  
+
+---
+
+### CHIEF COMPLAINT
+Progressive dyspnea, orthopnea, and syncope.
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+
+Forrest Gleason is a 20-year-old male with a history of chronic sinusitis, recurrent otitis media, and a remote concussion, who presented to the ED with 3 days of progressive shortness of breath, fatigue, and two episodes of syncope. He was initially seen by his PCP for presumed viral sinusitis and started on amoxicillin and acetaminophen. In the ED, he was tachycardic, hypotensive, and hypoxic. Cardiac exam revealed an S3, JVD, and bibasilar crackles. CXR showed pulmonary edema. EKG: sinus tachycardia with nonspecific ST-T changes. Troponin elevated. Echo: severely reduced LVEF (~15%), dilated LV, global hypokinesis. He was admitted to the CICU for acute decompensated heart failure (ADHF) and cardiogenic shock.
+
+Due to refractory hypotension and hypoperfusion despite maximal medical therapy (dobutamine, norepi, diuresis), Forrest required placement of a temporary left-sided ventricular assist device (Impella CP) on hospital day 1 for circulatory support. He has since stabilized on support, with gradual improvement in end-organ function.
+
+---
+
+### PAST MEDICAL HISTORY
+- Chronic sinusitis
+- Otitis media (recurrent)
+- Remote concussion (with LOC, no residual deficits)
+- Viral sinusitis
+- Acute viral pharyngitis
+
+### PAST SURGICAL HISTORY
+- None
+
+### FAMILY HISTORY
+- Mother: Asthma
+- Father: Hypertension
+- No known family history of cardiomyopathy or sudden cardiac death
+
+### SOCIAL HISTORY
+- Lives with parents
+- Full-time college student
+- Denies tobacco, alcohol, or recreational drug use
+
+### MEDICATIONS ON ADMISSION
+- Amoxicillin 250 mg PO BID
+- Acetaminophen 160 mg PO PRN
+
+### ALLERGIES
+- NKDA
+
+---
+
+### VITALS (on admission)
+- Temp: 37.8°C (oral)
+- HR: 122 bpm
+- BP: 82/48 mmHg
+- RR: 26/min
+- SpO2: 91% on 6L NC
+- Weight: 42.3 kg
+- Height: 167 cm
+- BMI: 15.1 kg/m2
+
+---
+
+### PHYSICAL EXAM (Day 1)
+- **Gen:** Cachectic, ill-appearing young male, oriented x3
+- **HEENT:** Pale mucosa, mild sinus tenderness
+- **Neck:** JVD to angle of jaw at 45°
+- **CV:** Tachycardic, S3, no murmurs, cool extremities, weak pulses
+- **Resp:** Tachypneic, bibasilar crackles, mild use of accessory muscles
+- **Abd:** Soft, NT, mild hepatomegaly
+- **Ext:** 2+ pitting edema, cold peripheries
+- **Neuro:** GCS 15, no focal deficit
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+**Day 1:**  
+Admitted to CICU for ADHF with cardiogenic shock. Started on dobutamine, norepinephrine, IV Lasix. Labs notable for AKI and elevated transaminases. Impella CP placed via femoral approach for hemodynamic support.
+
+**Day 2:**  
+Hemodynamics improved. Weaned norepi. Lactate normalizing. Renal function improving. Remains on Impella.
+
+**Day 3:**  
+Continued improvement. Echo: LVEF up to 22%. Impella flows 3.5 L/min. Diuresis ongoing. Developed fever; blood cultures sent, started empiric vancomycin/cefepime.
+
+**Day 4:**  
+Afebrile. Cultures negative. Liver labs improved. Impella weaning trial successful; device removed in cath lab.
+
+**Day 5:**  
+Stable on minimal inotropes. Transitioned to oral heart failure regimen. Mobilizing with PT.
+
+---
+
+### LABS
+
+#### CBC & CHEMISTRY PANEL
+
+| Date       | WBC   | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|-------|-------|-------|-------|------|------|------|------|------|------|------|
+| 6/1/2024   | 7.4   | 13.7  | 49.7  | 385   | 132  | 3.5  | 99   | 21   | 36   | 2.4  | 104  |
+| 6/2/2024   | 8.8   | 12.9  | 46.8  | 371   | 134  | 4.1  | 97   | 23   | 30   | 1.8  | 110  |
+| 6/3/2024   | 10.2  | 12.5  | 44.9  | 350   | 137  | 4.3  | 99   | 23   | 24   | 1.4  | 112  |
+| 6/4/2024   | 9.6   | 12.8  | 45.1  | 343   | 138  | 4.5  | 101  | 25   | 19   | 1.1  | 108  |
+| 6/5/2024   | 8.2   | 13.0  | --    | 340   | 139  | --   | 101  | 25   | 15   | 1.0  | 106  |
+
+#### LIVER FUNCTION TESTS
+
+| Date      | AST  | ALT  | Alk Phos | Bili Total | Albumin |
+|-----------|------|------|----------|------------|---------|
+| 6/1/2024  | 88   | 109  | 115      | 2.1        | 2.8     |
+| 6/2/2024  | 70   | 92   | 112      | 1.7        | 3.0     |
+| 6/3/2024  | 50   | 65   | 108      | 1.1        | 3.3     |
+| 6/4/2024  | 39   | 40   | 102      | 0.8        | 3.6     |
+
+#### CARDIAC MARKERS
+
+| Date      | Troponin I | BNP    | CK-MB |
+|-----------|------------|--------|-------|
+| 6/1/2024  | 1.2        | 9120   | 42    |
+| 6/2/2024  | 0.9        | 7620   | 38    |
+| 6/3/2024  | 0.3        | 5400   | --    |
+| 6/4/2024  | 0.1        | 3210   | 24    |
+
+---
+
+### IMAGING
+
+- **CXR (6/1/2024):** Pulmonary edema, cardiomegaly.
+- **Echocardiogram (6/1/2024):** LVEF 15%, global hypokinesis, moderate MR, dilated LV.
+- **Echo (6/3/2024):** LVEF 22%, improved filling pressures.
+
+---
+
+### ASSESSMENT & PLAN
+
+#### 1. **Cardiogenic shock, new-onset severe non-ischemic cardiomyopathy**
+- Required Impella CP for hemodynamic support, now weaned off
+- Continue guideline-directed medical therapy (GDMT): carvedilol, sacubitril/valsartan, spironolactone, SGLT2i
+- Monitor for arrhythmias, volume status, renal function
+- Cardiac MRI pending for etiology (myocarditis vs. idiopathic)
+- Family meeting for advanced HF planning
+
+#### 2. **Acute kidney injury (pre-renal, secondary to hypoperfusion)**
+- Improved with restoration of cardiac output
+- Monitor daily labs, strict I/Os, avoid nephrotoxins
+
+#### 3. **Transaminitis, likely congestive hepatopathy**
+- Improving with volume management
+- Monitor LFTs, trend down
+
+#### 4. **Recurrent sinusitis, otitis media**
+- Continue ENT follow-up
+- Amoxicillin course to complete
+
+#### 5. **Infection risk (ICU, invasive devices)**
+- Blood cultures negative
+- D/C empiric abx after 72h afebrile, negative cultures
+
+#### 6. **Nutritional risk, cachexia**
+- High-calorie, high-protein diet; consult nutrition
+- Daily weight, monitor for refeeding
+
+#### 7. **History of concussion**
+- No new neuro deficits
+- Monitor mentation
+
+#### 8. **Dispo planning**
+- Anticipate transfer to stepdown, then home with HF follow-up, PT/OT
+
+---
+
+### MEDICATIONS (Current)
+
+- Carvedilol 3.125 mg PO BID
+- Sacubitril/valsartan 24/26 mg PO BID
+- Spironolactone 25 mg PO daily
+- Dapagliflozin 10 mg PO daily
+- Furosemide 40 mg IV BID (transitioning to PO)
+- Amoxicillin 250 mg PO BID (ENT indication)
+- Acetaminophen 160 mg PO PRN
+
+---
+
+### SIGNED  
+Dr. R. Johnson, MD  
+Cardiac ICU  
+2024-06-05 09:15
+
+---
+
+**Page 2**
+
+#### NURSING FLOWSHEET (abbreviated)
+
+| Date      | MAP   | HR   | SpO2 | Temp  | Urine Output (ml/hr) | Remarks                  |
+|-----------|-------|------|------|-------|----------------------|--------------------------|
+| 6/1/2024  | 54    | 122  | 91   | 37.8  | 12                   | Impella placed           |
+| 6/2/2024  | 68    | 110  | 97   | 37.1  | 36                   | Weaning norepi           |
+| 6/3/2024  | 72    | 98   | 98   | 36.8  | 42                   | Diuresis continues       |
+| 6/4/2024  | 77    | 92   | 99   | 36.7  | 55                   | Impella removed          |
+| 6/5/2024  | 81    | 87   | 99   | 36.6  | 61                   | Mobilizing with PT       |
+
+---
+
+**Page 3**
+
+#### MICROBIOLOGY
+
+- **Blood cultures x2 (6/3/2024):** No growth at 72h
+- **UA (6/2/2024):** Negative
+- **COVID-19 PCR (6/1/2024):** Negative
+- **Throat swab (6/1/2024):** Positive for rhinovirus
+
+---
+
+#### CONSULT NOTES
+
+**Cardiology**:  
+Impression: Fulminant myocarditis vs. idiopathic DCM. Recommending cardiac MRI, genetic testing, GDMT, serial echoes.
+
+**ENT**:  
+Chronic sinus disease, no acute intervention required. Continue antibiotics.
+
+**Neurology**:  
+No new findings; concussion history not contributing to current presentation.
+
+---
+
+**Page 4**
+
+#### ICU DEVICE LOG
+
+| Device        | Date Placed | Date Removed | Complications        |
+|---------------|-------------|--------------|----------------------|
+| Impella CP    | 6/1/2024    | 6/4/2024     | None                 |
+| Central line  | 6/1/2024    | 6/5/2024     | None                 |
+| Foley cath    | 6/1/2024    | 6/3/2024     | None                 |
+
+---
+
+#### DISCHARGE PLANNING
+
+- Anticipate transfer to telemetry floor 6/6/2024
+- Family education on heart failure, device care
+- Arrange outpatient cardiology, ENT, and nutrition follow-up
+- Physical therapy for deconditioning
+
+---
+
+**End of Note**

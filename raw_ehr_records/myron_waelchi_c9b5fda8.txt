@@ -1,0 +1,180 @@
+---
+**Patient:** Myron Waelchi  
+**MRN:** 00648922  
+**DOB:** 2004-05-08 (Age: 19)  
+**Sex:** Male  
+**Admitting Physician:** Dr. L. Thorsen  
+**Date of Admission:** 2024-05-24  
+**Service:** Medical ICU  
+**Attending:** Dr. K. Heller  
+**Location:** ICU, Room 12  
+**Code Status:** Full  
+**Allergies:** NKDA
+
+---
+
+## **HOSPITAL COURSE SUMMARY**
+
+### **Chief Complaint**
+Shortness of breath, chest pain, and syncope.
+
+### **History of Present Illness**
+19-year-old male with a history of recurrent otitis media and recent streptococcal pharyngitis (on amoxicillin and penicillin VK) presented to the ED with acute onset chest pain, palpitations, and progressive dyspnea. Family reports a syncopal episode at home. On arrival, he was tachycardic, hypotensive (BP 84/45), and hypoxic (SpO2 89% RA). Initial labs noted elevated troponin and BNP. ECG showed wide-complex tachycardia, and bedside echo demonstrated severe global LV dysfunction (EF ~20%). He was transferred to the ICU for cardiogenic shock and required stabilization with inotropes and mechanical ventilation. Due to refractory shock, a temporary percutaneous LVAD (Impella CP) was placed on HD2.
+
+---
+
+## **PROBLEM-BASED ASSESSMENT & PLAN**
+
+### 1. **Cardiogenic Shock / Acute Decompensated Heart Failure**
+- **Assessment:**  
+  Likely viral myocarditis (possibly secondary to recent strep infection or post-viral complication), presenting with acute severe LV dysfunction. Cardiogenic shock refractory to medical management (dobutamine, norepinephrine) necessitated mechanical circulatory support.
+- **Plan:**
+  - Continue temporary LVAD (Impella CP), daily wean trials.
+  - Monitor hemodynamics (Swan-Ganz catheter in place).
+  - Titrate inotropes/pressors as needed.
+  - Daily TTE to assess LV recovery.
+  - Consult advanced heart failure/transplant service.
+
+### 2. **Acute Hypoxic Respiratory Failure**
+- **Assessment:**  
+  Multifactorial: pulmonary edema (secondary to LV failure), possible aspiration. Intubated for airway protection and O2 support.
+- **Plan:**
+  - Continue mechanical ventilation, lung-protective strategy.
+  - Daily CXR, monitor for VAP.
+  - Diuresis with IV furosemide as tolerated.
+  - Daily ABGs.
+
+### 3. **Arrhythmias**
+- **Assessment:**  
+  Initial wide-complex tachycardia, now sinus rhythm with frequent PVCs.
+- **Plan:**
+  - Continuous telemetry.
+  - Monitor QTc (on amiodarone drip, started HD1).
+  - Correct electrolytes aggressively (esp. K, Mg).
+
+### 4. **Infection / Recent Streptococcal Pharyngitis**
+- **Assessment:**  
+  Recent strep throat, now on broad-spectrum antibiotics (cefepime, vancomycin) pending cultures. Low suspicion for endocarditis (TEE negative).
+- **Plan:**
+  - Continue IV antibiotics x 7d, de-escalate as able.
+  - Daily blood cultures x2.
+  - Monitor WBC, procalcitonin.
+
+### 5. **Renal Dysfunction**
+- **Assessment:**  
+  Rising creatinine (AKI likely secondary to low cardiac output, nephrotoxic meds).
+- **Plan:**
+  - Strict I/Os, daily weights.
+  - Hold nephrotoxins, adjust antibiotics per renal function.
+  - Renal consult if worsening.
+
+### 6. **Transaminitis / Liver Congestion**
+- **Assessment:**  
+  Mild elevation in AST/ALT, likely congestive hepatopathy.
+- **Plan:**
+  - Monitor daily LFTs.
+  - Supportive care, optimize volume status.
+
+### 7. **Pain / Sedation**
+- **Assessment:**  
+  Moderate pain (NRS 4/10), well-controlled with scheduled acetaminophen and PRN fentanyl.
+- **Plan:**
+  - Continue current regimen.
+  - Daily sedation vacation.
+
+### 8. **DVT Prophylaxis**
+- **Plan:**
+  - SCDs, subQ heparin 5000u q8h.
+
+### 9. **Nutrition**
+- **Plan:**
+  - NPO, initiate tube feeds when stable.
+  - Monitor electrolytes.
+
+### 10. **Disposition**
+- **Plan:**
+  - Continue ICU monitoring.
+  - Reassess for transfer to CCU or stepdown when stable.
+
+---
+
+## **HOSPITAL COURSE EVENTS**
+
+**HD1:** Admitted to ICU with decompensated HF, intubated, started on dobutamine/norepi, amiodarone for VT.  
+**HD2:** Remained hypotensive, Impella CP placed.  
+**HD3-4:** Slow improvement in hemodynamics. Creatinine uptrending, mild transaminitis.  
+**HD5:** Extubated, weaning off inotropes.  
+**HD6:** Impella weaning initiated.  
+**HD7:** Impella removed, stable on minimal support.  
+**HD8:** Transferred to CICU.
+
+---
+
+## **LABS**
+
+| Date        | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | Alk Phos | TnT   | BNP    |
+|-------------|------|------|------|------|------|------|------|------|------|------|------|------|------|----------|-------|--------|
+| 5/24/24 AM  | 3.7  | 15.5 | 45.6 | 346  | 134  | 5.0  | 101  | 18   | 24   | 1.3  | 108  | 61   | 52   | 90       | 1.13  | 11200  |
+| 5/25/24 AM  | 7.2  | 14.1 | 42.4 | 310  | 137  | 4.2  | 104  | 21   | 29   | 1.7  | 143  | 82   | 68   | 104      | 0.98  | 9800   |
+| 5/26/24 PM  | 8.9  | 13.9 | 41.7 | 278  | 139  | 4.7  | 107  | 20   | 34   | 2.4  | 116  | 110  | 73   | 170      | 0.54  | 6400   |
+| 5/27/24 AM  |      | 14.2 | 42.0 | 298  | 138  | 4.1  | 106  | 23   | 28   | 1.8  | 99   | 77   |      | 122      | 0.32  | 3900   |
+| 5/28/24 AM  | 6.6  |      |      | 287  | 138  | 4.3  |      | 25   | 25   | 1.2  | 102  | 52   | 48   | 98       | <0.01 | 1400   |
+
+*Some labs not collected every day. Troponin T (TnT) and BNP reflect acute cardiac injury and failure. LFTs uptrending HD2-3, improved HD5.*
+
+---
+
+## **VITALS (selected)**
+
+- **HD1:** T 38.2°C, HR 124, BP 84/45, SpO2 89% RA
+- **HD2:** T 37.6°C, HR 110, BP 96/58, SpO2 95% (intubated)
+- **HD3:** T 37.1°C, HR 102, BP 104/60, SpO2 98%
+- **HD5:** T 36.8°C, HR 98, BP 115/70, SpO2 98% (extubated)
+
+---
+
+## **MEDICATION ADMINISTRATION RECORD**
+
+| Medication                   | Dose/Route             | Start Date | Stop Date  | Indication                          |
+|------------------------------|------------------------|------------|------------|-------------------------------------|
+| Amoxicillin                  | 250 mg PO q8h          | 5/20/24    | 5/27/24    | Strep pharyngitis                   |
+| Penicillin VK                | 250 mg PO q6h          | 5/20/24    | 5/26/24    | Strep pharyngitis                   |
+| Acetaminophen                | 650 mg PO q6h PRN      | 5/24/24    | ongoing    | Fever/pain                          |
+| Dobutamine                   | 5 mcg/kg/min IV        | 5/24/24    | 5/28/24    | Cardiogenic shock                   |
+| Norepinephrine               | 0.1 mcg/kg/min IV      | 5/24/24    | 5/27/24    | Vasopressor support                 |
+| Furosemide                   | 20 mg IV q12h          | 5/25/24    | ongoing    | Volume overload                     |
+| Amiodarone                   | 150 mg IV bolus, then 1 mg/min IV | 5/24/24 | 5/27/24 | Ventricular arrhythmia              |
+| Cefepime                     | 2 g IV q8h             | 5/24/24    | 5/29/24    | Empiric for sepsis                  |
+| Vancomycin                   | 1 g IV q12h            | 5/24/24    | 5/27/24    | Empiric for sepsis                  |
+| Fentanyl                     | 25 mcg IV q1h PRN      | 5/24/24    | ongoing    | Pain/sedation                       |
+
+---
+
+## **IMAGING**
+
+- **CXR (5/24/24):** Pulmonary edema, bilateral infiltrates, no consolidation.
+- **Echo (5/24/24):** LVEF ~20%, severe global hypokinesis.
+- **TEE (5/25/24):** No vegetations, severe LV dysfunction.
+- **CXR (5/26/24):** Stable, Impella in place, improving edema.
+
+---
+
+## **CONSULTS**
+- Cardiology/Advanced Heart Failure
+- Infectious Disease
+- Nephrology (prn)
+- Nutrition
+
+---
+
+## **DISCHARGE PLAN (pending)**
+- Continue cardiac rehab, close follow-up with HF/transplant team.
+- Outpatient echo in 1 week.
+- Taper diuretics, complete oral antibiotics at home.
+
+---
+
+**Physician:** Dr. K. Heller, MD  
+**Date/Time:** 2024-06-01 09:36
+
+---

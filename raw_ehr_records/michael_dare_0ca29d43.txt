@@ -1,0 +1,163 @@
+---
+**Patient Name:** Michael Dare  
+**MRN:** 00834723  
+**DOB:** 1964-02-29 (60 yo)  
+**Sex:** Male  
+**Date of Admission:** 2024-05-15  
+**Attending:** Dr. S. Patel  
+**Consults:** Cardiology, Infectious Disease, Neurology
+
+---
+
+## ADMISSION SUMMARY
+
+**Chief Complaint:**  
+Acute shortness of breath, chest discomfort, confusion
+
+**HPI:**  
+Mr. Dare is a 60-year-old male with PMHx of HTN, prediabetes, anemia, chronic sinusitis, and epilepsy (on carbamazepine and clonazepam), presenting with acute onset dyspnea, orthopnea, and confusion. Family reports a 2-day history of progressive fatigue, cough, and lower extremity edema. He had a witnessed seizure at home 1 week prior, no clear acute triggers.
+
+On arrival, he was tachypneic, hypertensive, and mildly hypoxic on room air. Exam notable for JVD, S3, crackles, bilateral pitting edema. Initial ECG: sinus tachycardia, no acute ischemia. Troponin mildly elevated. CXR: pulmonary vascular congestion, mild cardiomegaly.
+
+He rapidly decompensated with worsening hypoxia, hypotension, and altered mental status, requiring ICU transfer. Bedside echo: severe global LV dysfunction (EF ~20%), no tamponade, mild MR, RV preserved. Cardiology recommended temporary left-sided mechanical circulatory support (Impella CP) due to cardiogenic shock refractory to vasopressors/inotropes.
+
+---
+
+## ICU COURSE SUMMARY
+
+- **Day 1-2:** Admitted to MICU. Required BiPAP, transitioned to intubation for worsening hypoxemia. Started norepinephrine and dobutamine, placed right heart cath. Decision made for Impella CP placement. Labs: worsening renal function, lactic acidosis, mild transaminitis, anemia.
+- **Day 3-4:** Impella placed without complications. Hemodynamics stabilized, weaned off vasopressors. Renal function improved. Monitored for hemolysis, infection, arrhythmia.
+- **Day 5-7:** Gradual improvement in mental status, extubated on day 6. Impella weaned and removed on day 7. Diuresis continued. Neurology consulted for seizure management. Carbamazepine adjusted for renal dosing. No further seizures.
+- **Day 8-10:** Transferred to stepdown. Stable. Transitioned to oral HF meds. Discharged home on day 10 with close f/u.
+
+---
+
+# PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. Cardiogenic Shock s/p Temporary LVAD (Impella CP)
+- **Assessment:** Cardiogenic shock secondary to acute decompensated heart failure, likely viral myocarditis (given viral prodrome, recent URI, mild troponin bump, global hypokinesis).
+- **Plan:**
+  - Temporary mechanical circulatory support (Impella CP) for 4 days.
+  - Guideline-directed medical therapy for HF (carvedilol, low-dose ACE-I started after stabilization).
+  - Serial echocardiograms (EF improved to 35% by discharge).
+  - Monitor for device complications (hemolysis, infection, limb ischemia).
+  - Cardiology f/u in 1 week.
+
+### 2. Acute Hypoxic Respiratory Failure
+- **Assessment:** Secondary to pulmonary edema (cardiogenic), improved with diuresis and afterload reduction.
+- **Plan:**
+  - Intubation, then extubation after stabilization.
+  - IV diuresis (furosemide).
+  - Daily CXR, monitor ABG.
+  - O2 via NC as needed.
+
+### 3. Seizure Disorder / Epilepsy
+- **Assessment:** Known epilepsy, recent breakthrough seizure (likely secondary to metabolic derangements/med nonadherence).
+- **Plan:**
+  - Restarted carbamazepine, adjusted for renal function.
+  - Clonazepam PRN.
+  - No further seizures during stay.
+  - Neurology f/u post-discharge.
+
+### 4. Hypertension
+- **Assessment:** Longstanding, poorly controlled.
+- **Plan:**
+  - Resume home HCTZ after stabilization.
+  - Add low-dose ACE-I.
+  - BP monitoring.
+
+### 5. Anemia
+- **Assessment:** Baseline mild anemia, worsened acutely (hgb nadir 8.7, likely multifactorial: dilutional, blood loss, hemolysis from Impella).
+- **Plan:**
+  - Daily CBC.
+  - Iron studies pending.
+  - Transfused 1U PRBCs on day 3.
+  - Monitor haptoglobin, LDH.
+
+### 6. Prediabetes
+- **Assessment:** A1c 5.9%, no DKA.
+- **Plan:**
+  - Monitor glucose q6h.
+  - Continue lifestyle counseling.
+
+### 7. Chronic Sinusitis/Viral URI
+- **Assessment:** History of chronic sinusitis, recent viral symptoms (pharyngitis, sinus pressure).
+- **Plan:**
+  - Supportive care.
+  - ENT f/u as outpatient.
+
+### 8. Acute Kidney Injury (resolved)
+- **Assessment:** Pre-renal AKI during shock, improved with volume/pressure support.
+- **Plan:**
+  - Monitor BUN/Cr.
+  - Avoid nephrotoxins.
+
+---
+
+# ICU LABORATORY DATA
+
+**Key:**  
+— = not collected
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Ca (mg/dL) | AST (U/L) | ALT (U/L) | Trop (ng/mL) | BNP (pg/mL) |
+|------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|------------|-----------|-----------|--------------|-------------|
+| 5/15 08:00 | 6.3        | 10.2       | 31.1    | 198        | 140         | 4.2        | 108         | 23           | 32          | 1.6        | 144         | 8.8        | 41        | 55        | 0.09         | 3800        |
+| 5/16 06:00 | 8.7        | 8.7        | 27.0    | 175        | 138         | 4.8        | 110         | 19           | 44          | 2.0        | 156         | 8.5        | 65        | 70        | 0.11         | —           |
+| 5/17 09:00 | 7.9        | 9.6        | 29.2    | 184        | 139         | 4.4        | 109         | 22           | 28          | 1.4        | 135         | 9.1        | 35        | 40        | 0.07         | 2100        |
+| 5/18 07:30 | 7.1        | 10.4       | 32.8    | 210        | 141         | 4.0        | 107         | 24           | 22          | 1.1        | 110         | 9.4        | 27        | 35        | 0.05         | 900         |
+| 5/19 07:00 | —          | 11.2       | 34.5    | 225        | 140         | —          | 108         | 25           | 18          | 1.0        | 104         | 9.7        | —         | 29        | <0.01        | 420         |
+| 5/20 09:00 | 6.5        | 12.1       | 36.7    | 232        | 139         | 4.3        | 109         | 26           | 15          | 0.9        | 98          | —          | 22        | —         | <0.01        | 185         |
+
+---
+
+# ICU VITALS (selected)
+
+- BP: ranged 80/50 (shock) to 155/92 mmHg (post-Impella removal)
+- HR: 68–132 bpm (sinus tachycardia, then NSR)
+- RR: 14–32
+- SpO2: 89% (RA, on admission) → 98% (post-extubation)
+- Temp: 36.8–38.1°C
+
+---
+
+# HOSPITAL MEDICATIONS
+
+- Furosemide IV (then PO)
+- Carvedilol, Enalapril (started after stabilization)
+- Hydralazine PRN
+- Carbamazepine (adjusted for Cr)
+- Clonazepam PRN
+- HCTZ restarted after day 6
+- Enoxaparin DVT prophylaxis
+- Pantoprazole IV
+
+---
+
+# HOSPITAL COURSE & EVENTS
+
+- **Day 1:** Cardiogenic shock, intubation, AKI, placed on inotropes/vasopressors
+- **Day 2:** Impella CP placed, stabilization
+- **Day 3:** Transfused for anemia, labs monitored for hemolysis
+- **Day 4-6:** Gradual improvement, extubated, Impella weaned
+- **Day 7:** Impella removed, transferred to stepdown
+- **Day 8-10:** Stable, transitioned to oral meds, discharge planning
+
+---
+
+# DISCHARGE SUMMARY
+
+**Discharged:** 2024-05-25  
+**Disposition:** Home with family, close Cardiology and Neurology follow-up
+
+**Instructions:**  
+- Daily weights, low-salt diet, strict fluid restriction
+- Seizure precautions, med compliance
+- Outpatient echo in 2 weeks
+- F/u labs in 3 days
+- Emergency return for SOB, chest pain, syncope, seizure
+
+---
+
+**Attestation:**  
+This note was created by Dr. S. Patel, Cardiology/ICU, on 2024-05-25.  
+---

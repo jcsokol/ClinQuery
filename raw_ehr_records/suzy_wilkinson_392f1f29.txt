@@ -1,0 +1,161 @@
+---
+**Patient:** Wilkinson, Suzy  
+**MRN:** 0103947  
+**DOB:** 06/24/1995  
+**Sex:** Female  
+**Admit Date:** 03/12/2024  
+**Attending:** Dr. S. Patel  
+**Service:** Cardiac ICU  
+**Location:** 5C-ICU, Room 521-B  
+**Note Type:** Progress Note  
+**Author:** Dr. J. Morris, PGY-2  
+**Date/Time:** 03/17/2024 07:21  
+
+---
+
+### **History of Present Illness**
+
+Suzy Wilkinson is a 28-year-old female with a PMH of hypertension, several remote upper respiratory infections, two prior normal pregnancies, and no known cardiac disease prior to this admission. She presented to the ED with a 2-day history of progressive dyspnea, orthopnea, and lower extremity edema, initially attributed to a viral URI. Her symptoms rapidly progressed to acute hypoxic respiratory failure and hypotension requiring intubation and vasopressors. Initial workup revealed cardiogenic shock with severely reduced LVEF (~15%) on bedside echo. Cardiology was consulted, and the patient was emergently transferred to the cardiac ICU. She subsequently required placement of a temporary left-sided heart pump (Impella CP) for hemodynamic support.
+
+---
+
+### **Hospital Course**
+
+#### **Day 1 (03/12/24):**
+- ED presentation with acute SOB, tachypnea, hypoxia (O2 sat 85% RA), tachycardia (HR 122), BP 88/52.
+- Intubated for hypoxic respiratory failure.
+- Labs notable for elevated troponin (0.42 → 1.08), BNP 3192, lactate 4.2, Cr 1.3 (baseline <1), LFTs mildly elevated.
+- CXR: Pulmonary edema, bilateral infiltrates.
+- Bedside Echo: LVEF 15%, global hypokinesis, LV dilation, RV mildly reduced.
+- Started on norepinephrine, dobutamine.
+- Admitted to CICU.
+
+#### **Day 2:**
+- Continued hemodynamic instability despite vasopressors/inotropes.
+- Repeat echo: No improvement.
+- Decision made for temporary mechanical circulatory support.
+- Impella CP placed via femoral approach without complication.
+- Rapid improvement in MAP, weaned off norepi.
+- Foley, A-line, central line placed.
+- Infectious w/u: Negative blood/urine cultures; viral panel positive for parainfluenza.
+
+#### **Day 3-4:**
+- Gradual diuresis with IV furosemide; 3L net negative.
+- Extubated on day 4.
+- Impella flows stable, no hemolysis.
+- Renal function improved (Cr 1.0).
+- LVEF on echo improved to 28% by day 4.
+- Started on low-dose carvedilol, lisinopril for LV recovery.
+- Monitored closely for arrhythmias (none noted).
+
+#### **Day 5:**
+- Weaned off inotropes; Impella CP removed at bedside.
+- Echo: LVEF 35%, mild LV dilation.
+- Mobilized to chair, started on cardiac rehab.
+- Plan for GDMT titration.
+
+#### **Day 6-7:**
+- Stable on oral meds.
+- Labs trending toward baseline.
+- Discharge planning initiated.
+
+---
+
+### **Problem List & Assessment/Plan**
+
+| Problem # | Problem/Diagnosis | Assessment & Plan |
+|-----------|------------------|------------------|
+| 1 | Acute decompensated heart failure with cardiogenic shock | Likely viral myocarditis (parainfluenza). Required temp MCS (Impella). Improving. Continue GDMT, monitor for arrhythmias, daily weights, fluid status. Cardiac rehab. |
+| 2 | Hypoxic respiratory failure | Intubated, now extubated. O2 sat stable on RA. Pulm hygiene, incentive spirometry. |
+| 3 | Acute kidney injury | Likely pre-renal from low CO, now resolved. Monitor Cr, avoid nephrotoxins. |
+| 4 | Hypertension | Restarted antihypertensives (carvedilol, lisinopril). Monitor BP. |
+| 5 | Electrolyte disturbances (K, Mg) | Repleted as needed, monitor daily. |
+| 6 | Volume overload | Diuresed, now euvolemic. Monitor I/Os, daily weights. |
+| 7 | Anemia | Hgb stable, no transfusions needed. Monitor CBC. |
+| 8 | Anxiety | Patient/family education, reassurance. Social work consult. |
+| 9 | Femoral access site | No hematoma/bleeding. Monitor site. |
+| 10 | Contraception | On Seasonique. No issues. GYN aware. |
+
+---
+
+### **Vital Signs & Monitoring**
+
+| Date       | Temp  | HR   | BP         | RR  | SpO2   | Pain |
+|------------|-------|------|------------|-----|--------|------|
+| 3/12/24 AM | 37.6  | 122  | 88/52      | 32  | 85% RA | 7    |
+| 3/13/24 AM | 37.2  | 98   | 102/68     | 18  | 98% MV | 2    |
+| 3/14/24 PM | 37.4  | 84   | 110/70     | 14  | 99% NC | 1    |
+| 3/15/24 AM | 37.0  | 78   | 118/76     | 16  | 98% RA | 1    |
+| 3/17/24 AM | 36.8  | 72   | 126/80     | 16  | 99% RA | 0    |
+
+---
+
+### **Lab Results (CBC, Chem7, Other Relevant Labs)**
+
+#### *CBC/Chem7 Table*
+
+| Date      | WBC  | Hgb  | Hct  | Plt   | Na   | K   | Cl   | CO2  | BUN   | Cr    | Glu   |
+|-----------|------|------|------|-------|------|-----|------|------|-------|-------|-------|
+| 3/12/24   | 9.2  | 15.8 | 38   | 447   | 136  | 3.2 | 101  | 21   | 22    | 1.3   | 112   |
+| 3/13/24   | 10.1 | 14.3 | 36   | 420   | 134  | 3.7 | 99   | 24   | 18    | 1.1   | 108   |
+| 3/14/24   | 8.5  | 13.7 | 34   | 390   | 138  | 4.0 | 102  | 23   | 15    | 1.0   | ---   |
+| 3/15/24   | 7.8  | 13.5 | 33   | 371   | 139  | 4.2 | 100  | 25   | 14    | 1.0   | 104   |
+| 3/16/24   | ---  | 13.8 | ---  | 364   | 140  | --- | 98   | 24   | 13    | 0.9   | 99    |
+
+#### *Other Labs*
+
+| Date      | Troponin | BNP     | Lactate | AST  | ALT  | ALK Phos | INR | aPTT | PT  |
+|-----------|----------|---------|---------|------|------|----------|-----|------|-----|
+| 3/12/24   | 1.08     | 3192    | 4.2     | 62   | 70   | 88       | 1.2 | 34   | 14  |
+| 3/13/24   | 0.92     | 2420    | 2.6     | 55   | 61   | 80       | 1.1 | 30   | 13  |
+| 3/14/24   | 0.41     | 1475    | 1.5     | 43   | 52   | 79       | --- | ---  | 12  |
+| 3/15/24   | <0.04    | 800     | 1.1     | 38   | 43   | 70       | 1.0 | 28   | --- |
+
+---
+
+### **Medications (Current)**
+
+- Carvedilol 3.125 mg BID
+- Lisinopril 2.5 mg daily
+- Furosemide 20 mg IV q12h (discontinued 3/15)
+- Acetaminophen 325 mg PRN
+- Seasonique 91 Day Pack (continued)
+- Magnesium sulfate IV PRN
+- Potassium chloride PO/IV PRN
+
+---
+
+### **Imaging**
+
+- **CXR (3/12/24):** Bilateral pulmonary edema, mild cardiomegaly.
+- **Echo (3/12/24):** LVEF 15%, global hypokinesis, mild RV dysfunction.
+- **Echo (3/15/24):** LVEF 35%, mild LV dilation, no thrombus.
+
+---
+
+### **Consults**
+
+- Cardiology (primary)
+- ICU
+- Nephrology (AKI)
+- Social Work
+
+---
+
+### **Discharge Planning**
+
+- Anticipated discharge 3/18/24 to home with close cardiology follow-up.
+- Continue GDMT, home BP monitoring, daily weights.
+- Outpatient echo in 1 month.
+- Education provided regarding heart failure, medication adherence, symptoms to monitor.
+
+---
+
+### **Attestation**
+
+I have examined the patient, reviewed the above data, and discussed the plan with the ICU and Cardiology teams.
+
+**Dr. J. Morris, PGY-2**  
+**Electronically signed: 03/17/2024 07:21**
+
+---

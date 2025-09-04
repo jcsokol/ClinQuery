@@ -1,0 +1,191 @@
+---
+**Inpatient Progress Note**
+**Patient:** Jesús Segovia  
+**MRN:** 10839452  
+**DOB:** 10/17/1912 (Age: 111)  
+**Sex:** Male  
+**Admit Date:** 03/03/2024  
+**Service:** Cardiac ICU  
+**Attending:** Dr. M. Patel  
+**Note Date:** 03/10/2024  
+**Author:** J. Nguyen, MD
+
+---
+
+### CHIEF COMPLAINT
+Acute dyspnea, chest pain, and confusion
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+Mr. Segovia is a 111-year-old male with extensive PMHx including obesity, HTN, pre-DM, chronic anemia, COPD, HLD, prior CVA, advanced Alzheimer’s, osteoporosis with prior pathologic fractures, and recent pneumonia, who presented from SNF with progressive dyspnea, confusion, and hypoxia.
+
+On arrival, he was found to be hypoxic (O2 sat 84% RA), tachypneic, and hypertensive (BP 172/94). Initial CXR showed bibasilar infiltrates, concern for CHF exacerbation vs. pneumonia. Troponin I was 0.14 (mildly elevated), BNP 1620, EKG: NSR with poor R wave progression. Echo: LVEF 18%, global hypokinesis, moderate MR.
+
+He developed acute cardiogenic shock on HD2 (MAP <60, lactic acid 5.3, cool extremities, worsening AKI). Required dobutamine and norepinephrine, but remained hypotensive. Temporary left-sided Impella CP device placed for hemodynamic support. Gradual improvement over 72 hrs, weaned off pressors, device removed HD5.
+
+Hospital course complicated by delirium, persistent anemia, and worsening kidney function. Treated for hospital-acquired pneumonia (cefepime/vanc), received 2u PRBC for Hgb 7.4. Orthopedic consult for left clavicle pain—old, non-displaced pathologic fx, no acute intervention.
+
+Currently, mentation improved from baseline, off pressors, on 2L NC O2, ambulating with PT. Awaiting SNF placement.
+
+---
+
+### PAST MEDICAL HISTORY
+
+- Obesity (BMI 30+)
+- Hypertension
+- Prediabetes
+- Anemia, chronic
+- COPD (chronic bronchitis)
+- Hyperlipidemia
+- Stroke (remote, left-sided weakness)
+- Alzheimer’s dementia (severe)
+- Osteoporosis (hx pathologic fx: L clavicle, L forearm)
+- Recent pneumonia
+- Laceration of forearm (resolved)
+- Viral sinusitis (resolved)
+
+### SURGICAL HISTORY
+- None reported
+
+### FAMILY HISTORY
+- Noncontributory (records unavailable)
+
+### SOCIAL HISTORY
+- SNF resident, widowed, retired teacher
+- Never smoked, no EtOH, no illicit drug use
+
+### ALLERGIES
+- NKDA
+
+---
+
+## MEDICATIONS ON ADMISSION
+
+- Hydrochlorothiazide 25 mg qAM
+- Fluticasone/salmeterol (Advair) 1 puff BID
+- Simvastatin 10 mg qHS
+- Naproxen 220 mg PRN pain
+- Ibuprofen 200 mg PRN pain
+- Alteplase 100 mg IV (prior stroke protocol, not given this admission)
+
+---
+
+## VITAL SIGNS (selected, admission and ICU course)
+
+| Date       | Temp (°C) | HR (bpm) | BP (mmHg) | RR  | SpO2 (%) | O2 Device   |
+|------------|-----------|----------|-----------|-----|----------|-------------|
+| 03/03/24   | 36.6      | 105      | 172/94    | 24  | 84       | RA          |
+| 03/04/24   | 37.1      | 115      | 98/55     | 28  | 96       | 2L NC       |
+| 03/05/24   | 36.8      | 92       | 106/62    | 20  | 98       | 2L NC       |
+| 03/07/24   | 36.9      | 88       | 118/68    | 18  | 97       | RA          |
+| 03/10/24   | 36.7      | 84       | 124/66    | 16  | 97       | RA          |
+
+---
+
+## LABS
+
+#### CBC/Chemistries/Selected
+
+| Date       | WBC  | Hgb  | Hct   | Plts | Na   | K    | Cl   | CO2  | BUN  | Cr   | Gluc | Ca   | AST  | ALT  | T. Bili | Alb  | Troponin I |
+|------------|------|------|-------|------|------|------|------|------|------|------|------|------|------|------|---------|------|------------|
+| 03/03/24   | 3.6  | 12.7 | 41.8  | 177  | 142  | 4.5  | 106  | 25   | 9.3  | 0.73 | 75   | 10.1 | 12.7 | 31.4 | 0.93    | 4.3  | 0.14       |
+| 03/04/24   | 4.1  | 10.8 | 36.2  | 153  | 138  | 4.2  | 104  | 23   | 21.2 | 1.27 | 89   | 9.8  | 24.2 | 38.1 | 1.42    | 3.8  | 0.07       |
+| 03/05/24   | 6.8  | 8.0  | 27.1  | 127  | 144  | 4.7  | 108  | 22   | 38.7 | 2.10 | 102  | 8.9  | 33.9 | 41.6 | 2.11    | 3.1  | 0.03       |
+| 03/07/24   | 5.2  | 9.3  | 30.8  | 139  | 140  | 4.1  | 106  | 23   | 29.8 | 1.54 | 94   | 9.2  | 17.1 | 34.0 | 1.11    | 3.5  | 0.02       |
+| 03/10/24   |      | 10.6 |       | 156  | 138  | 4.0  | 104  |      | 19.7 | 1.08 | 87   | 9.7  |      |      |         | 3.9  |            |
+
+*Missing values denote tests not collected at that time point. See flowsheet for full details.*
+
+#### Other Labs:
+- BNP: 1620 pg/mL (3/03)
+- Lactate: 5.3 → 2.1 (HD2–HD4)
+- CK-MB: 3.1 ng/mL (HD1)
+- PT/INR: 13.6s/1.1 (HD2)
+- NT-proBNP: 17,900 pg/mL (HD2)
+- Urinalysis (HD3): Protein 1+, otherwise normal
+
+---
+
+## IMAGING
+
+- **CXR (3/03):** Bibasilar infiltrates, mild pulmonary edema
+- **Echo (3/03):** LVEF 18%, global hypokinesis, moderate MR, elevated RVSP
+- **CT Head (3/04):** Chronic infarcts, no acute change
+- **L clavicle X-ray (3/08):** Old, non-displaced pathologic fracture
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. Cardiogenic Shock/Acute on Chronic Systolic Heart Failure
+- Decompensated HFrEF (EF 18%), acute shock requiring temporary mechanical circulatory support (Impella CP)
+- Etiology: Likely ischemic + hypertensive heart disease, prior CVA
+- **Plan:**  
+  - Continue GDMT as tolerated (HCTZ held, beta-blocker not initiated due to hypotension)
+  - Monitor for arrhythmias, volume status
+  - Daily weights, strict I/Os
+  - Cardiology to follow
+  - Impella removed HD5, maintain hemodynamics, consider advanced therapies only if further decompensation
+
+### 2. Acute Hypoxic Respiratory Failure, multifactorial
+- CHF exacerbation, hospital-acquired pneumonia, underlying COPD
+- **Plan:**  
+  - O2 via NC (goal >92%), wean as tolerated
+  - Continue Advair
+  - Cefepime/vanc x7d (started HD2)
+  - Chest PT, incentive spirometry
+
+### 3. Anemia, chronic with acute drop
+- Baseline Hgb ~12, nadir 7.4 (HD4), transfused 2u PRBC
+- Likely multifactorial: CKD, chronic disease, possible GI loss (occult blood neg)
+- **Plan:**  
+  - Monitor CBC daily
+  - Iron studies, B12/folate pending
+  - Transfuse for Hgb <8.0
+
+### 4. Acute Kidney Injury on CKD
+- Cr up to 2.10, improved to 1.08 prior to d/c from ICU
+- Likely pre-renal from low output, improved with support
+- **Plan:**  
+  - Monitor renal function, adjust meds
+  - Avoid nephrotoxins, IV fluids as needed
+
+### 5. Delirium/Advanced Dementia
+- Severe Alzheimer’s, worsened by acute illness, now improved
+- **Plan:**  
+  - Reorient, minimize restraints, avoid sedatives
+  - PT/OT consult
+
+### 6. Osteoporosis/Old Pathologic Fractures
+- Old fx L clavicle, L forearm; T-score -3.1
+- **Plan:**  
+  - Maintain Ca/Vit D, fall precautions
+  - No acute ortho intervention
+
+### 7. Hypertension, Hyperlipidemia, Prediabetes
+- **Plan:**  
+  - Resume statin, HCTZ when stable
+  - Monitor BP, lipids, glucose
+
+### 8. Pain (chronic, mild)
+- **Plan:**  
+  - Tylenol PRN, avoid NSAIDs due to AKI
+
+---
+
+## DISPOSITION
+
+- **Transitioning to SNF**
+- Goals of care: DNR, comfort-focused with re-eval for future cardiac interventions if acute decompensation
+
+---
+
+## SIGNED:  
+J. Nguyen, MD, Cardiology  
+03/10/2024 10:15 AM
+
+---
+
+**Flowsheet/Lab details available in chart.**

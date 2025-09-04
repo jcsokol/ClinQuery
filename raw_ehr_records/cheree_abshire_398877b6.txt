@@ -1,0 +1,181 @@
+```
+Patient Name: Cheree Abshire
+MRN: 0071948
+DOB: 08/22/2006 (17 yo)
+Sex: Female
+Date of Admission: 02/21/2024
+Attending: Dr. S. Kahan
+Service: Pediatric ICU
+
+---------------------------------------------------------------
+**ADMISSION NOTE**
+
+**Chief Complaint:**  
+Acute respiratory distress, fever, and chest pain.
+
+**HPI:**  
+Cheree Abshire is a 17-year-old female with a hx of recurrent respiratory tract infections (acute/chronic sinusitis, otitis media, viral pharyngitis), and remote right wrist fracture/subluxation, who presented to the ED with 3 days of worsening cough, fever to 39°C, pleuritic chest pain, and progressive dyspnea. She reported orthopnea and fatigue. No recent travel, sick contacts, or known COVID exposures. Initial evaluation in the ED revealed tachycardia, hypoxemia, and mild hypotension. She was admitted to the PICU for escalating respiratory distress and hemodynamic compromise. 
+
+During the first 24h, she developed acute hypoxemic respiratory failure and evidence of cardiogenic shock. She required intubation and was started on vasopressors. TTE revealed severely depressed LV function (EF ~18%), globally hypokinetic, no pericardial effusion. She was started on milrinone, but remained hypotensive with poor end-organ perfusion, necessitating placement of a temporary left-sided heart pump (Impella CP) on hospital day 2 for hemodynamic support.
+
+**PMH:**  
+- Acute & chronic sinusitis  
+- Otitis media  
+- Acute viral pharyngitis  
+- Acute bronchitis (multiple episodes)  
+- Fracture/subluxation of right wrist (remote)
+
+**PSH:** None
+
+**Allergies:** NKDA
+
+**Medications on Admission:**  
+- Acetaminophen 325 mg PO  
+- Acetaminophen 160 mg PO  
+- Amoxicillin 250 mg PO  
+- Penicillin V 250 mg PO  
+- Ibuprofen 100 mg PO  
+
+**Social History:**  
+Lives with parents. No tobacco, alcohol, or drug use. Attends high school. No pets at home.
+
+**Family History:**  
+Mother with asthma. No known cardiac disease, sudden cardiac death, or autoimmune disease in the family.
+
+**Review of Systems:**  
+Fever, cough, chest pain, SOB, orthopnea, malaise. Otherwise negative.
+
+**Physical Exam (on admission):**  
+Gen: Ill-appearing, moderate respiratory distress  
+HEENT: Moderate nasal congestion, pharyngeal erythema, no exudates  
+Lungs: Tachypneic, diffuse crackles, mild wheezing  
+CV: Tachycardic, S3 gallop, cool extremities, delayed cap refill  
+Abd: Soft, mild hepatomegaly  
+Neuro: Awake, oriented, no focal deficits  
+Skin: No rash, mild mottling
+
+**Vital Signs (on admission):**  
+T: 38.8°C    HR: 132   BP: 89/52   RR: 32   SpO2: 91% (2L NC)   Wt: 51.4 kg   Ht: 148.7 cm   BMI: 23.2 (90th %ile)
+
+---------------------------------------------------------------
+**HOSPITAL COURSE (ICU Days 1-8):**
+
+Day 1:  
+- Acute respiratory failure, intubated for hypoxemia  
+- Vasopressors started for shock (epi, then norepi)  
+- TTE: Severe global LV dysfunction, EF 18%  
+- Labs: Elevated troponin, BNP; lactic acidosis  
+- Started empiric ceftriaxone + azithromycin  
+- Blood, sputum, viral PCR sent
+
+Day 2:  
+- Persistent shock, worsening lactate, rising creatinine  
+- Multidisciplinary conference: concern for fulminant myocarditis (viral vs. post-infectious)  
+- Impella CP (5.0) placed via femoral artery  
+- Improved MAP, lactate trended down  
+- Repeat TTE: Impella in place, LV unloading  
+- Transaminitis noted, likely hypoperfusion
+
+Day 3-5:  
+- Gradual improvement in hemodynamics  
+- Weaned off norepi (day 4), milrinone continued  
+- Negative blood cultures, viral PCR positive for enterovirus  
+- LFTs improved, creatinine normalized  
+- Extubated on day 5  
+- Impella wean protocol initiated
+
+Day 6:  
+- Impella removed, transitioned to low-dose milrinone  
+- Mobilized to step-down unit  
+- Echo: EF improved to 38%, mild global hypokinesis  
+- Mild transaminitis persists
+
+Day 7-8:  
+- Stable on room air, off vasoactive meds  
+- Ambulating, tolerating diet  
+- Discharge planning, outpatient cardiology f/u arranged
+
+---------------------------------------------------------------
+**LABS**
+| Date  | WBC      | Hgb   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | AST  | ALT  | BNP   | Troponin I |
+|-------|----------|-------|-------|------|------|------|------|------|------|------|------|-------|------------|
+| D1 AM | 14.2     | 13.7  | 192   | 135  | 3.6  | 100  | 15   | 18   | 1.3  | 89   | 112  | 1840  | 1.24       |
+| D2 AM | 12.1     | 12.9  | 176   | 133  | 3.2  | 99   | 14   | 26   | 1.7  | 211  | 178  | 2370  | 1.32       |
+| D3 AM |  9.9     | 11.7  | 155   | 138  | 3.7  | 102  | 18   | 19   | 1.1  | 167  | 132  | 1324  | 0.58       |
+| D4 AM |  8.3     | 12.2  | 141   | 140  | 4.0  | 103  | 21   | 14   | 0.9  | 99   | 98   |  820  | 0.23       |
+| D5 AM |  7.8     | 12.8  | 168   | 139  | 3.9  | 101  | 23   | 12   | 0.8  | 66   | 61   |  482  | 0.09       |
+| D6 AM |  7.2     | 13.1  | 175   | 138  | 4.1  | 102  | 25   | 10   | 0.7  | 55   | 49   |  316  | <0.01      |
+| D7 AM |    —     | 13.8  | 182   | 140  | 4.0  | 104  | 25   |  9   | 0.6  | 42   | 38   |   81  | <0.01      |
+| D8 AM |  8.0     | 14.2  | 192   | 140  | 4.2  | 104  | 26   |  8   | 0.6  | 31   | 26   |   44  | <0.01      |
+
+*Note: Some entries missing due to hemolysis or not drawn.
+
+Other labs:  
+- CRP (D1): 12.2 mg/dL (nl <1.0)  
+- ESR (D1): 75 mm/hr (nl <20)  
+- Lactate (D1): 6.8 mmol/L → (D2): 4.1 → (D3): 2.2  
+- CK-MB (D1): 32 ng/mL (high)
+
+---------------------------------------------------------------
+**PROBLEM-BASED ASSESSMENT & PLAN**
+
+**1. Cardiogenic shock, acute fulminant myocarditis (likely viral, enterovirus+)**
+  - PICU care, invasive monitoring
+  - Vasopressors (epi, norepi), inotropes (milrinone)
+  - Temporary LV assist device (Impella CP) placed day 2, weaned/removed day 6
+  - Serial TTEs, labs (BNP, troponin, LFTs, renal)
+  - Supportive care; monitor for arrhythmia, end-organ dysfunction
+  - Cardiology, heart failure, and infectious disease consults
+
+**2. Acute respiratory failure, intubation**
+  - Intubated D1-D5, extubated to HFNC, then RA
+  - Chest physiotherapy, incentive spirometry
+  - Daily CXR, RT involvement
+
+**3. Acute kidney injury (prerenal, resolved)**
+  - Oliguria, AKI D1-3, resolved with improved perfusion
+  - Monitored I/O, daily lytes/renal function
+
+**4. Transaminitis (shock liver)**
+  - Marked elevation AST/ALT D2-3, trended down with improved hemodynamics
+  - Hepatitis panel neg, no chronic liver disease
+
+**5. Infectious risk/Empiric antibiotics**
+  - Empiric ceftriaxone/azithro started, D/c’d after negative cultures
+  - Enterovirus PCR positive, other viral panels neg
+
+**6. Chronic respiratory issues (sinusitis, bronchitis, pharyngitis)**
+  - ID and allergy/immunology to follow outpatient
+  - Intranasal steroids resumed, ENT f/u arranged
+
+**7. Nutrition**
+  - NPO while intubated, then clear liquids, advanced as tolerated
+  - Dietician involved
+
+**8. Fracture/subluxation of wrist (remote)**
+  - No acute issues, ROM preserved
+
+**9. Pain/Fever**
+  - Scheduled acetaminophen, PRN ibuprofen
+  - Pain well controlled (NRS 0-2), afebrile last 72h
+
+**10. DVT prophylaxis**
+  - SCDs, early mobilization, no pharmacologic anticoagulation due to Impella
+
+**11. Discharge planning**
+  - Cardiology, HF, and ID f/u
+  - Education: myocarditis, device care, warning signs
+  - School accommodations
+
+---------------------------------------------------------------
+**DISCHARGE SUMMARY (pending):**  
+- Hospital course notable for fulminant viral myocarditis requiring temporary LVAD support, complicated by shock liver and AKI (both resolved).  
+- Marked clinical improvement, now stable, planned for close outpatient follow-up.
+
+---------------------------------------------------------------
+**Physician:** S. Kahan, MD  
+**Date/Time:** 02/28/2024 09:41
+
+(Pages: 1/5)
+```
+*(Document continues with further daily progress notes, additional labs, and consults as needed.)*

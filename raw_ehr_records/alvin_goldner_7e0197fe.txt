@@ -1,0 +1,191 @@
+---
+**Patient Name:** Alvin Goldner  
+**MRN:** 0021345  
+**DOB:** 1980-05-25 (Age: 43)  
+**Sex:** Male  
+**Attending:** Carol Simmons, MD  
+**Admit Date:** 06/18/2024  
+**Service:** Cardiac ICU  
+**Location:** 5E-ICU, Bed 3  
+**Consults:** Cardiology, Cardiothoracic Surgery, Infectious Disease
+
+---
+
+## CHIEF COMPLAINT  
+Worsening dyspnea and orthopnea x3 days.  
+
+---
+
+## HISTORY OF PRESENT ILLNESS  
+43-year-old male with no significant past medical history presents with 3 days of progressive shortness of breath, orthopnea, and lower extremity edema. He was previously healthy, active, and working full time as an accountant. He notes sharp, intermittent chest discomfort, mild cough, and 1 episode of near-syncope at home. No recent travel, sick contacts, or illicit drug use. No prior cardiac history.  
+
+On arrival, the patient was tachycardic (HR 121), hypotensive (BP 88/54), tachypneic (RR 27), and hypoxic (SpO2 90% on RA). Exam notable for JVD, S3 gallop, bibasilar crackles, and 2+ pitting edema to knees.  
+
+Initial labs notable for elevated troponin, BNP, lactate, and transaminitis. ECG: sinus tachycardia, low voltage, nonspecific ST/T changes. CXR: pulmonary edema, enlarged cardiac silhouette.  
+
+Echo: LVEF 10-15%, global hypokinesis, dilated LV, moderate MR, RV mild dysfunction.  
+Coronary angio: non-obstructive CAD.  
+
+Patient developed worsening cardiogenic shock despite escalating medical therapy (dobutamine, norepinephrine, diuretics). Temporary left-sided percutaneous ventricular assist device (Impella CP) placed at bedside.  
+
+---
+
+## HOSPITAL COURSE  
+- Day 1: Admitted to CICU. Started on IV dobutamine and norepinephrine. Diuresis initiated.  
+- Day 2: Progressive hypotension, rising lactate. Bedside echo: no tamponade, but severe low output. Impella CP placed via left femoral artery.  
+- Day 3: Hemodynamics improved post-Impella. Weaned norepinephrine. Renal function worsened, CRRT initiated.  
+- Day 4: Developed fever, leukocytosis. Blood cultures obtained, started vancomycin/cefepime.  
+- Day 5-7: Gradual improvement. Echo: LVEF up to 25%. Impella weaned, then explanted Day 7.  
+- Day 8: Transferred to step-down, off vasoactives, diuresis continued.  
+
+---
+
+## PAST MEDICAL HISTORY  
+- Hypertension (diagnosed during admission)  
+- Hyperlipidemia (diagnosed during admission)  
+- No prior cardiac disease documented  
+- No diabetes, CKD, or COPD  
+
+## PAST SURGICAL HISTORY  
+- None  
+
+## FAMILY HISTORY  
+- Father: MI age 54  
+- Mother: HTN  
+- Brother: healthy  
+
+## SOCIAL HISTORY  
+- Smokes: Never  
+- Alcohol: Rare  
+- Illicit drugs: Denies  
+- Lives with wife, 2 children  
+- Accountant, full time  
+
+## ALLERGIES  
+- NKDA  
+
+---
+
+## MEDICATIONS ON ADMISSION  
+- None  
+
+## HOSPITAL MEDICATIONS  
+- Dobutamine IV  
+- Norepinephrine IV  
+- Furosemide IV  
+- Aspirin 81mg PO  
+- Atorvastatin 40mg PO  
+- Metoprolol tartrate 12.5mg BID PO  
+- Vancomycin IV  
+- Cefepime IV  
+- Pantoprazole IV  
+- Heparin SQ (DVT ppx)  
+
+---
+
+## PHYSICAL EXAM (Day 5, on Impella)  
+**General:** Alert, mild distress  
+**HEENT:** No JVD  
+**CV:** S3, tachycardic, no murmurs, Impella hum  
+**Lungs:** Crackles at bases, mild distress  
+**Abd:** Soft, NT/ND  
+**Ext:** 1+ edema, pulses 2+  
+**Neuro:** AOx3, normal  
+
+---
+
+## ICU VITALS (Selected)  
+
+| Date       | Temp (°C) | HR  | BP     | RR | SpO2 | Pain (0-10) |
+|------------|-----------|-----|--------|----|------|-------------|
+| 6/18/2024  | 36.7      | 121 | 88/54  | 27 | 90%  | 2           |
+| 6/19/2024  | 37.1      | 110 | 96/60  | 25 | 94%  | 1           |
+| 6/20/2024  | 38.2      | 108 | 92/58  | 24 | 95%  | 3           |
+| 6/21/2024  | 37.4      | 104 | 112/62 | 22 | 97%  | 1           |
+| 6/22/2024  | 36.8      | 98  | 124/70 | 18 | 98%  | 0           |
+
+---
+
+## LABS  
+**CBC, Chemistry, Cardiac, Other Labs**
+
+| Date       | WBC   | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | BNP    | AST  | ALT  | Lactate |
+|------------|-------|------|------|-------|------|------|------|------|------|------|------|----------|--------|------|------|---------|
+| 6/18/2024  | 9.6   | 14.7 | 43.1 | 342   | 134  | 4.2  | 103  | 21   | 34   | 2.1  | 116  | 3.2      | 18900  | 122  | 109  | 4.6     |
+| 6/19/2024  | 10.3  | 13.6 | 40.2 | 298   | 131  | 4.8  | 107  | 19   | 46   | 3.4  | 143  | 2.8      | 14200  | 98   | 97   | 3.9     |
+| 6/20/2024  | 13.9  | 12.9 | 38.8 | 210   | 135  | 5.1  | 110  | 18   | 55   | 4.6  | 178  | 1.6      | 9500   | 65   | 72   | 2.7     |
+| 6/21/2024  | 11.2  | 11.8 | 35.6 | 187   | 137  | 4.3  | 109  | 20   | 38   | 2.7  | 101  | 0.5      | 4300   | 42   | 51   | 1.4     |
+| 6/22/2024  | 8.2   | 12.2 | 36.3 |       | 139  | 4.0  | 105  |      | 29   | 1.9  |      | <0.01    | 2100   | 31   | 29   |         |
+
+*Some labs missing, as not all were collected daily.*
+
+---
+
+## DIAGNOSTICS  
+- **EKG:** Sinus tach, low voltage, NS ST/T wave abn  
+- **Echo (6/18):** LVEF 10-15%, dilated LV, global hypokinesis, mod MR  
+- **Echo (6/22):** LVEF 25%, improved LV size, mild MR  
+- **Cath:** No obstructive CAD  
+- **CXR:** Pulmonary edema, enlarged cardiac silhouette  
+- **Blood cultures:** No growth x2  
+- **UA:** Negative  
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock d/t Acute Severe Non-Ischemic Cardiomyopathy**  
+- Likely viral or idiopathic.  
+- Required temporary mechanical circulatory support (Impella CP).  
+- Now improving, LVEF up to 25%, weaned off Impella.  
+- Plan: Continue GDMT for HF (ACEi/ARB, BB, MRA as tolerated), monitor for arrhythmia, repeat echo in 1 week.
+
+**2. Acute Kidney Injury (Cardiorenal Syndrome)**  
+- Worsened on day 2–4, required CRRT.  
+- Improving off pressors, trending Cr and UOP.  
+- Plan: Continue to monitor, avoid nephrotoxins, transition off CRRT as tolerated.
+
+**3. Volume Overload / Heart Failure Exacerbation**  
+- Managed with IV diuresis, daily weights, strict I/Os.  
+- Plan: Continue diuretic titration, low sodium diet.
+
+**4. Presumed Viral Myocarditis**  
+- Negative coronary angio, no prior cardiac hx, recent URI sx.  
+- Plan: Supportive care, viral PCR pending, consider endomyocardial biopsy if no recovery.
+
+**5. Hospital-Acquired Infection**  
+- Fever, leukocytosis on day 4; empiric vanc/cefepime started.  
+- Blood cultures negative.  
+- Plan: De-escalate antibiotics if no source identified, continue to monitor.
+
+**6. Hypertension, newly diagnosed**  
+- On low-dose beta blocker, will uptitrate as tolerated.
+
+**7. Hyperlipidemia**  
+- Started on atorvastatin.
+
+**8. DVT Prophylaxis**  
+- On SQ heparin, compression devices.
+
+**9. GI Prophylaxis**  
+- Pantoprazole IV.
+
+**10. Psychosocial**  
+- Patient and family updated daily, significant distress re prognosis.  
+- SW and palliative care consults pending.
+
+---
+
+## DISPOSITION  
+- **Current:** Step-down unit, off mechanical support, off vasopressors, stable on oral meds.  
+- **Plan:** Advance to cardiac rehab, outpatient HF clinic, close follow-up with cardiology.
+
+---
+
+## PROVIDER  
+Carol Simmons, MD  
+Cardiology/Critical Care
+
+---
+
+**[END OF NOTE]**

@@ -1,0 +1,149 @@
+**INPATIENT PROGRESS NOTE – ICU**  
+**Patient:** Kemmer, Klara  
+**MRN:** 00917435  
+**DOB:** 08/05/1967 (56 yo)  
+**Sex:** Female  
+**Attending:** Dr. K. Matsuda  
+**Date of Admission:** 4/15/2024  
+**Date of Note:** 4/22/2024  
+**Service:** Cardiology ICU  
+**Reason for Admission:**  
+Acute decompensated heart failure with cardiogenic shock, requiring temporary left ventricular assist device (Impella CP) placement.
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+Ms. Klara Kemmer is a 56-year-old female with a complex medical history including poorly controlled type 2 diabetes mellitus (with associated retinopathy, neuropathy, and diabetic renal disease), chronic kidney disease (stage 1), metabolic syndrome, hypertriglyceridemia, and history of multiple pregnancies and miscarriages. She presented to the ED with progressive dyspnea, orthopnea, and lower extremity edema over 1 week, as well as confusion and near-syncope at home.
+
+On arrival, she was hypotensive (SBP 82 mmHg), tachycardic, tachypneic, and hypoxic on room air. Initial workup revealed acute decompensated heart failure with evidence of cardiogenic shock (cold, clammy extremities, elevated lactate, low urine output), superimposed on chronic metabolic syndrome. She was transferred to the cardiac ICU for management.
+
+Despite initial treatment with IV diuretics, vasopressors (norepinephrine, dobutamine), and noninvasive ventilation, her shock worsened with escalating lactic acidosis and end-organ dysfunction. Bedside echocardiogram showed LVEF ~20%, severe global hypokinesis, and moderate mitral regurgitation. She was intubated for hypoxic respiratory failure. Given refractory shock, an Impella CP (percutaneous LVAD) was placed on hospital day 2. Hemodynamics and perfusion improved gradually.
+
+Her ICU course was complicated by acute kidney injury (worsening CKD), mild transaminitis, and hyperglycemia requiring insulin drip. She developed a right femoral hematoma post-Impella placement, managed conservatively. Her respiratory status improved, and she was extubated on HD 4. By HD 6, Impella was weaned and removed. She was transitioned to inotropes, then oral HF meds.
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. **Cardiogenic Shock / Acute Decompensated Heart Failure**
+- **Summary:** Severe HFrEF (EF 20%) with cardiogenic shock, responded to temporary mechanical support (Impella).
+- **Hospital Course:** Required Impella support x 4 days. On dobutamine, then weaned to oral guideline-directed medical therapy (GDMT).
+- **Plan:**
+  - Continue uptitration of beta blocker (carvedilol), ACEi (lisinopril), spironolactone as tolerated.
+  - Monitor volume status, daily weights, strict I/Os.
+  - Cardiac rehab consult.
+  - Consider implantable defibrillator (ICD) for primary prevention.
+- **Recent TTE:** LVEF 22%, moderate MR, RV function preserved.
+
+### 2. **Type 2 Diabetes Mellitus (with Retinopathy, Neuropathy, Renal Disease)**
+- **Summary:** Poorly controlled, multiple complications. Severe hyperglycemia during ICU course.
+- **Plan:**
+  - Endocrinology consult.
+  - Restart metformin when renal function improves; continue basal/bolus insulin.
+  - Eye exam outpatient, continue neuropathy meds (gabapentin PRN).
+  - Monitor for foot ulcers.
+  - Educate re: diet, glucose monitoring.
+
+### 3. **Chronic Kidney Disease, Stage 1 → AKI on CKD**
+- **Course:** Baseline Cr ~1.1; peaked at 2.3 during shock, now trending down.
+- **Plan:**
+  - Nephrology following.
+  - Avoid nephrotoxins, adjust meds for renal dosing.
+  - Monitor electrolytes, urine output.
+  - Renal US pending.
+
+### 4. **Hypertriglyceridemia, Metabolic Syndrome**
+- **Plan:**
+  - Continue statin (atorvastatin 40 mg qHS).
+  - Fibrate deferred due to AKI.
+  - Dietician consult; low-fat, low-carb diet.
+  - Repeat lipids prior to discharge.
+
+### 5. **Reproductive History / Contraceptive Management**
+- **History:** Multiple pregnancies, miscarriages, Mirena IUD in place, on Jolivette, Yaz, Levora, and recent depo injection.
+- **Plan:**
+  - Gyn consult for contraceptive rationalization.
+  - Remove excess hormonal therapies.
+  - Assess for DVT prophylaxis (increased risk due to estrogen use, immobility).
+
+### 6. **Other Active Problems**
+- **Acute bronchitis:** Resolved, completed 5 days doxycycline.
+- **Chronic sinusitis:** Nasal saline, fluticasone spray.
+- **Recent concussion, sprained ankle:** No ongoing neuro or ortho deficits.
+- **Pain:** None reported (NRS 0/10).
+
+### 7. **Secondary Prevention / General Care**
+- DVT prophylaxis: SCDs, transitioned to enoxaparin post-bleed resolution.
+- Pneumococcal, influenza vaccines updated.
+- Physical therapy for deconditioning.
+
+---
+
+## ICU VITALS & LABS
+
+**Selected Labs (CBC & Chem7, Others)**
+
+| Date       | WBC    | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Ca   | AST  | ALT  | Lactate | BNP    | Troponin |
+|------------|--------|-------|-------|-------|------|------|------|------|------|------|------|------|------|------|---------|--------|----------|
+| 4/15 05:00 | 9.8    | 12.9  | 37.2  | 388   | 140  | 4.7  | 104  | 21   | 12   | 1.3  | 274  | 8.9  | 54   | 67   | 4.5     | 4575   | 0.04     |
+| 4/16 06:00 | 11.2   | 12.2  | 35.0  | 354   | 143  | 5.2  | 107  | 18   | 22   | 2.3  | 318  | 8.6  | 98   | 102  | 5.8     | 5190   | 0.09     |
+| 4/17 06:30 | 10.1   | 11.6  | 32.7  | 301   | 141  | 5.0  | 106  | 19   | 19   | 2.0  | 221  | 8.7  | 67   | 84   | 3.1     | 4420   | 0.07     |
+| 4/18 07:00 | 8.7    | 12.0  | 34.1  | 289   | 137  | 4.4  | 102  | 22   | 17   | 1.5  | 168  | 9.1  | –    | –    | 1.9     | 2730   | 0.03     |
+| 4/19 06:45 | 7.5    | 12.8  | 37.0  | 314   | 139  | 4.3  | 105  | 23   | 14   | 1.2  | 143  | 9.2  | 44   | 39   | –       | 1590   | <0.01    |
+| 4/20 07:15 | 8.2    | 13.1  | 37.8  | 332   | 140  | 4.6  | 103  | 24   | 13   | 1.1  | 131  | 9.4  | 36   | 32   | –       | 810    | <0.01    |
+| 4/21 06:50 | –      | 12.6  | 36.1  | 315   | 139  | 4.5  | 104  | 25   | 12   | 1.0  | 117  | –    | –    | –    | –       | 440    | <0.01    |
+
+**Key:**
+- Labs notable for initial leukocytosis, drop in Hgb/Hct with mild improvement, AKI (Cr peaked at 2.3), hyperglycemia, lactic acidosis with improvement post-Impella.
+- Cardiac markers (BNP, troponin) elevated, then trended down.
+- Transaminitis transient, likely ischemic hepatitis during shock.
+
+---
+
+## VITALS (ICU Trend Summary)
+
+- **Temp:** 36.8–38.2°C (max 38.2 on HD 1)
+- **HR:** 85–128 bpm (required rate control)
+- **BP:** SBP 82–132 mmHg (on pressors HD 1–3)
+- **RR:** 12–30 (intubated HD 2–4)
+- **SpO2:** 89–97% (O2 via NRB, then intubated, now RA)
+
+---
+
+**Medications (selected, during admission):**
+- Metformin (held, then resumed)
+- Insulin drip → basal/bolus insulin
+- Carvedilol, lisinopril, spironolactone (titrated)
+- Atorvastatin
+- Enoxaparin (after bleeding risk reduced)
+- Acetaminophen, PRN
+- Fluticasone, nasal saline
+- Mirena IUD, Jolivette, Yaz, Levora (contraceptive review in progress)
+
+---
+
+## DISPOSITION / FOLLOW-UP
+
+- Transfer to telemetry for continued HF management, titration of GDMT.
+- Outpatient: Cardiology, nephrology, endocrinology, gynecology, PT, ophthalmology.
+- Education: HF self-care, diabetes, medication adherence, contraceptive counseling.
+
+---
+
+**Attending Physician:**  
+Dr. K. Matsuda, MD  
+**Co-signed by:**  
+Dr. S. Patel, MD (ICU Fellow)  
+**Date/Time Signed:** 4/22/2024 10:45
+
+---
+
+**Addendum:**  
+Patient/family updated daily; DNR/DNI not discussed, patient full code.  
+No acute events overnight. Awaiting renal US, dietician, cardiac rehab, and outpatient ophtho appointments.  
+Please see scanned nursing flowsheets for complete intake/output and vital trends.
+
+---
+
+**END OF NOTE**

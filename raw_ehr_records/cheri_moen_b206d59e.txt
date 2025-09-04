@@ -1,0 +1,204 @@
+**Patient:** Cheri Moen  
+**MRN:** 00392714  
+**DOB:** 1959-01-18  
+**Sex:** Female  
+**Admit Date:** 2024-05-20  
+**Service:** Cardiac ICU  
+**Attending:** Dr. J. Wu  
+**Consults:** Cardiology, Endocrinology, Infectious Disease  
+**Allergies:** NKDA  
+
+---
+
+**Chief Complaint:**  
+Progressive dyspnea, chest pain, and orthopnea.
+
+**History of Present Illness:**  
+Ms. Cheri Moen is a 65-year-old female with a history notable for hypertension, type 2 diabetes (transitioned from prediabetes), hypertriglyceridemia, metabolic syndrome, and diabetic retinopathy who presented to the ED with 4 days of worsening shortness of breath, chest heaviness, and lower extremity edema. She also reported a recent viral upper respiratory infection with sore throat and sinus congestion 2 weeks prior to admission. She denied current fever but noted increased fatigue and mild confusion. On arrival, she was tachypneic, hypoxic, and hypotensive. Initial workup revealed evidence of cardiogenic shock. She was admitted directly to the cardiac ICU for further management.
+
+On hospital day 2, following persistent hypotension despite vasopressors, she underwent urgent placement of a percutaneous left ventricular assist device (Impella CP) for hemodynamic stabilization. She remained in the ICU for 9 days, during which she required diuresis, glycemic control, and management of multiple complications.
+
+---
+
+**Past Medical History:**  
+- Hypertension  
+- Type 2 Diabetes Mellitus (previously prediabetes)  
+- Hypertriglyceridemia  
+- Metabolic syndrome  
+- Diabetic retinopathy  
+- Recurrent viral pharyngitis and sinusitis  
+- Whiplash injury to neck (remote)  
+
+**Past Surgical History:**  
+- None reported
+
+**Family History:**  
+- Father: MI at 62, DM2  
+- Mother: HTN, stroke  
+- No known inherited cardiac conditions
+
+**Social History:**  
+- Former smoker, quit 2008 (10 pack-years)  
+- Rare ETOH, denies illicit drug use  
+- Lives with spouse, independent ADLs  
+- Retired librarian
+
+**Home Medications:**  
+- Atenolol 50mg/chlorthalidone 25mg PO qAM  
+- Acetaminophen 325mg PO prn  
+- Metformin 1000mg PO BID (added 6 months ago)  
+- Fenofibrate 145mg PO qAM  
+- Insulin glargine 10u qHS (added after ICU admission)  
+
+**Immunizations:**  
+- Up to date
+
+---
+
+**Physical Exam (Hospital Day 3):**  
+- VS: T 37.1°C, HR 96, BP 87/55 (on low-dose norepi), RR 22, SpO2 97% (2L NC)  
+- General: Ill-appearing, mild distress  
+- HEENT: Mucous membranes moist, no pharyngeal erythema  
+- Neck: No JVD, no carotid bruits  
+- CV: S1 S2, S3 gallop, soft systolic murmur, Impella audible  
+- Lungs: Bibasilar crackles, no wheeze  
+- Abd: Soft, mild epigastric tenderness, no rebound/guarding  
+- Ext: 2+ pitting edema BLE  
+- Neuro: A&O x3, mild inattention  
+- Skin: Intact, no rashes
+
+---
+
+**Hospital Course:**  
+**Day 1:**  
+- Admitted to ICU for cardiogenic shock, started on dobutamine + norepinephrine  
+- CXR: Pulmonary edema  
+- TTE: LVEF 18%, global hypokinesis, no valve vegetations  
+- Cardiac enzymes: Trop 0.34 → 0.49 → 0.51 (mildly rising)  
+- Infectious w/u: Negative blood cultures, NP swab positive for rhinovirus  
+- Started empiric antibiotics (ceftriaxone, azithro) d/c’d after 48h
+
+**Day 2:**  
+- Persistent hypotension  
+- Impella CP placed via femoral artery, immediate hemodynamic improvement  
+- Foley, A-line, central line placed  
+- Glycemic control with insulin drip  
+- Diuresis initiated (IV furosemide)  
+- LFTs uptrending (congestion), baseline Cr 0.7
+
+**Day 3-6:**  
+- Gradual improvement in MAPs  
+- Weaned off norepi by Day 5  
+- Impella flows stable  
+- Developed mild transaminitis (AST 88, ALT 102), improved with volume offload  
+- Monitored for hemolysis (LDH peaked at 490, haptoglobin low)  
+- Glucose control with basal/bolus insulin, metformin held for 3 days
+
+**Day 7-9:**  
+- Impella weaned and explanted on HD8  
+- TTE: LVEF improved to 30%  
+- Transferred to step-down on HD10  
+- Bridged to oral HF regimen (carvedilol, sacubitril/valsartan, dapagliflozin)  
+- Glycemic regimen optimized  
+- Discharge planning initiated
+
+---
+
+**Laboratory Data:**  
+*(Selected, see full table below)*
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | Trop  | BNP   |
+|------------|------|------|------|------|------|------|------|------|------|------|------|------|------|-------|-------|
+| 5/20/24 AM | 4.2  | 14.0 | 36.2 | 270  | 139  | 5.0  | 106  | 22   | 16   | 0.66 | 119  | 45   | 37   | 0.34  | 3200  |
+| 5/21/24 AM | 5.1  | 13.2 | 35.1 | 258  | 137  | 4.8  | 104  | 19   | 23   | 0.80 | 142  | 63   | 54   | 0.49  | 4580  |
+| 5/22/24 AM | 6.2  | 12.9 | 34.2 | 250  | 136  | 4.5  | 102  | 22   | 25   | 0.92 | 181  | 88   | 102  | 0.51  | 5500  |
+| 5/23/24 AM | 6.0  | 12.8 | 33.8 | 239  | 138  | 4.2  | 108  | 24   | 21   | 0.83 | 158  | 72   | 95   | 0.44  | 4300  |
+| 5/24/24 AM | 5.4  | 13.1 | 33.4 | 222  | 140  | 4.1  | 109  | 25   | 18   | 0.78 | 139  | 51   | 49   | 0.32  | 3100  |
+| 5/25/24 AM | 4.7  | 13.0 | 33.0 | 210  | 139  | —    | 108  | 23   | 17   | 0.74 | 124  | 40   | 42   | —     | —     |
+| 5/26/24 AM | —    | 12.7 | 32.5 | 202  | 138  | 4.3  | 110  | 25   | 15   | 0.72 | 111  | 35   | 39   | —     | —     |
+| 5/27/24 AM | 4.6  | 13.3 | 34.1 | 229  | 139  | 4.7  | 107  | 23   | 16   | 0.75 | 117  | 32   | 36   | —     | 1500  |
+| 5/28/24 AM | 4.3  | 13.7 | 35.5 | 243  | 140  | 4.8  | 106  | 24   | 15   | 0.70 | 108  | 28   | 33   | —     | 1100  |
+| 5/29/24 AM | —    | 14.0 | 36.1 | 265  | 141  | 4.9  | 106  | 23   | 15   | 0.70 | 104  | —    | —    | —     | 800   |
+
+*Additional labs (selected):*  
+- LDH peaked 490 → normalized  
+- Haptoglobin low (28 mg/dL)  
+- CK-MB not elevated  
+- INR/PT/PTT normal  
+- LFTs: AST/ALT peaked and trended down  
+- A1c on admission: 6.6%  
+- UA: +protein, microalbumin/Cr 14.7 mg/g  
+
+---
+
+**Imaging:**  
+- **CXR:** Pulmonary edema, small bilateral pleural effusions  
+- **Echo (admission):** LVEF 18%, global hypokinesis, mild MR, no thrombus  
+- **Echo (HD9):** LVEF 30%, improved wall motion
+
+---
+
+**Assessment/Plan:**  
+1. **Cardiogenic Shock (Resolved):**  
+   - Likely precipitated by viral myocarditis in the setting of underlying metabolic syndrome/DM2  
+   - Required Impella support (HD2-8), now explanted  
+   - Continue GDMT for HF (carvedilol, sacubitril/valsartan, dapagliflozin, furosemide PRN)  
+   - Monitor for recurrent decompensation, close outpatient follow-up
+
+2. **Heart Failure with Reduced Ejection Fraction (HFrEF):**  
+   - Etiology: possible viral myocarditis, DM, HTN, hyperlipidemia  
+   - On optimal medical therapy; up-titrate as tolerated  
+   - Daily weights, strict I/O, sodium restriction  
+   - Cardiac rehab referral
+
+3. **Type 2 Diabetes Mellitus:**  
+   - Glucose control suboptimal during acute illness  
+   - Restart metformin, continue basal/bolus insulin for now  
+   - Endocrinology to assist with transition to PO agents as tolerated  
+   - Eye exam scheduled for retinopathy monitoring
+
+4. **Hypertension:**  
+   - On dual therapy at baseline; now on carvedilol  
+   - Goal BP <130/80, monitor for hypotension as meds up-titrated
+
+5. **Hypertriglyceridemia/Metabolic Syndrome:**  
+   - Fenofibrate resumed  
+   - Statin to be initiated after LFTs normalize  
+   - Dietary counseling
+
+6. **Transaminitis (Resolved):**  
+   - Likely due to hepatic congestion/ischemia  
+   - Trend LFTs, no evidence of ongoing injury
+
+7. **Acute Kidney Injury (resolved):**  
+   - Pre-renal, related to low output state  
+   - Renal function now at baseline
+
+8. **Diabetic Retinopathy:**  
+   - Ophtho f/u as outpatient  
+   - A1c goal <7%
+
+9. **Recent Viral URI:**  
+   - No evidence of active infection  
+   - Supportive care only
+
+10. **Other:**  
+    - DVT prophylaxis (enoxaparin, SCDs)  
+    - PT/OT to assess for deconditioning  
+    - Social work for discharge planning
+
+---
+
+**Discharge Plan (anticipated HD12):**  
+- Home with spouse, arrange visiting nurse for 2 weeks  
+- Cardiology, Endocrinology, Ophthalmology follow-up  
+- Cardiac rehab enrollment  
+- Medication reconciliation and education  
+- Daily weights, low-sodium diet, BG monitoring  
+
+---
+
+**Physician:**  
+J. Wu, MD  
+Cardiac ICU  
+*Electronic signature*

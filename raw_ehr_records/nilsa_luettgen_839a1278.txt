@@ -1,0 +1,143 @@
+```
+Patient Name: Nilsa Luettgen
+MRN: 00324197
+DOB: 01/31/1988 (36 yo F)
+Admit Date: 05/29/2024
+Attending: R. Patel, MD
+Service: Cardiology ICU
+Location: 6E-ICU, Room 624
+Allergies: NKDA
+
+===============================================================================
+ADMISSION NOTE & ICU COURSE
+===============================================================================
+
+CHIEF COMPLAINT:
+Shortness of breath, chest tightness, lower extremity swelling (x 4 days)
+
+HISTORY OF PRESENT ILLNESS:
+36-year-old female with history of chronic sinusitis, hypertension, and a recent normal pregnancy complicated by antepartum eclampsia, who presented to the ED with progressive dyspnea, orthopnea, and lower extremity edema. Symptoms worsened over the preceding week. She endorsed PND and mild chest pain but denied fevers or recent URI symptoms. She delivered 3 months ago; BP control has been suboptimal. In ED, found to be hypertensive (BP 186/102), tachycardic (HR 110), and hypoxic (SpO2 89% RA). Labs notable for elevated BNP and troponin. Echo revealed severe LV dysfunction (EF 15%), global hypokinesis, mild RV dysfunction, no significant valvular disease. She developed acute pulmonary edema requiring intubation, vasopressors, and was admitted to the ICU.
+
+Due to persistent cardiogenic shock refractory to medical management, a percutaneous left ventricular assist device (Impella CP) was placed on HD#2.
+
+PAST MEDICAL HISTORY:
+- Chronic sinusitis
+- Hypertension
+- Antepartum eclampsia (resolved)
+- Recent normal pregnancy (3 months ago)
+- Viral sinusitis (remote)
+
+PAST SURGICAL HISTORY:
+- Cesarean delivery (3 months ago)
+
+SOCIAL HISTORY:
+- Non-smoker, no EtOH, denies illicit drug use
+- Lives with partner and infant daughter
+
+FAMILY HISTORY:
+- Mother: HTN, DM2
+- Father: MI at 54
+
+MEDICATIONS ON ADMISSION:
+- Atenolol/Chlorthalidone 50/25 mg PO daily
+- Trinessa 28 Day Pack
+- Ethinyl estradiol/norelgestromin patch
+- Amoxicillin-clavulanate 250/125 mg PO BID (recent, for sinusitis)
+
+===============================================================================
+PHYSICAL EXAM (on ICU day #1):
+Gen: Intubated, sedated, moderate distress
+VS: T 36.7°C, HR 112, BP 92/54 (on norepinephrine), RR 22 (vent), SpO2 96% (FiO2 60%)
+HEENT: Pupils 3mm, reactive. Sinuses nontender.
+Neck: JVD 10 cm H2O, no thyromegaly
+CV: Tachycardic, S3, no murmurs
+Lungs: Bibasilar crackles, decreased breath sounds
+Abd: Soft, NT/ND, no HSM
+Ext: 2+ pitting edema to knees bilaterally, cool peripheries
+Skin: No rashes, no ulcers
+
+===============================================================================
+LABS (SELECTED CBC, CHEM7, CARDIAC, AND LIVER PANELS)
+
+| Date       | WBC | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin I | BNP    | AST  | ALT  | TBili | ALB  |
+|------------|-----|------|------|------|------|------|------|------|------|------|------|------------|--------|------|------|-------|------|
+| 05/29/24   | 10.2| 14.9 | 45.5 | 250  | 137  | 4.8  | 103  | 21   | 29   | 1.2  | 134  | 0.45       | 2560   | 38   | 41   | 0.8   | 3.6  |
+| 05/30/24   | 11.8| 12.8 | 39.2 | 186  | 135  | 5.2  | 101  | 18   | 36   | 1.7  | 152  | 0.82       | 3890   | 51   | 65   | 1.1   | 2.8  |
+| 05/31/24   | 9.1 | 13.2 | 41.3 | 212  | 138  | 4.5  | 105  | 22   | 27   | 1.0  | 119  | 0.19       | 1660   | 33   | 39   | 0.7   |      |
+| 06/01/24   | 8.7 | 13.7 | 42.8 |      | 139  | 4.2  | 107  | 23   | 24   | 0.9  | 101  | 0.11       | 950    | 29   | 32   |       | 3.9  |
+| 06/02/24   |     | 13.5 |      | 225  | 140  | 4.1  |      | 20   | 19   | 0.8  | 98   | <0.01      | 522    |      | 30   | 0.6   | 4.2  |
+
+===============================================================================
+IMAGING/DIAGNOSTICS
+- CXR (05/29): Pulmonary edema, bilateral effusions, cardiomegaly
+- TTE (05/29): LVEF 15%, global hypokinesis, mild RV dysfunction
+- ECG: Sinus tachycardia, low voltage, non-specific ST-T changes
+
+===============================================================================
+ICU COURSE SUMMARY (05/29 – 06/04)
+
+HD#1 (05/29): Admitted with acute decompensated heart failure in cardiogenic shock. Required intubation and vasopressors. Initiated diuresis. Cardiology consulted. Echo: severe LV dysfunction.
+HD#2 (05/30): Worsening shock, rising lactate, escalating pressors. Decision for temporary mechanical circulatory support. Impella CP placed via R femoral artery. Transient hypotension post-procedure, improved after volume resuscitation. Started on heparin drip.
+HD#3 (05/31): Marked hemodynamic improvement. Pressors weaned. Extubated. Diuresis continued. Mentation improved.
+HD#4 (06/01): Stable on Impella, low-dose inotropes. Renal function recovering. Mild transaminitis, likely ischemic hepatitis. Mobilized to chair.
+HD#5 (06/02): Further improvement, Impella weaned and explanted. Continued diuresis. Cardiac markers downtrending. 
+HD#6 (06/03): Ambulating with PT. Transitioned to oral heart failure therapy. Discharge planning initiated.
+
+===============================================================================
+PROBLEM-BASED ASSESSMENT & PLAN
+
+1. **Cardiogenic Shock / Acute Decompensated Heart Failure**
+   - Severe LV systolic dysfunction (EF 15%) post-partum, likely peripartum cardiomyopathy vs. myocarditis.
+   - Required intubation, vasopressors, and Impella CP for hemodynamic support.
+   - Now improved, off pressors, Impella explanted.
+   - Plan: Continue goal-directed medical therapy (GDMT: carvedilol, sacubitril/valsartan, spironolactone), restrict fluids, monitor for recurrent decompensation, serial ECHOs.
+
+2. **Hypertension**
+   - History of poorly controlled BP, likely contributory.
+   - Now on IV antihypertensives transitioned to oral agents (carvedilol, losartan).
+   - Monitor for hypotension as HF therapy titrated.
+
+3. **Acute Kidney Injury (resolved)**
+   - Likely pre-renal from low output state, improved with hemodynamic stabilization and diuresis.
+   - Monitor renal function, avoid nephrotoxins.
+
+4. **Transaminitis (Ischemic Hepatitis)**
+   - Mild elevation in AST/ALT, downtrending.
+   - Serial LFTs, expect normalization.
+
+5. **History of Antepartum Eclampsia**
+   - No current evidence of pre-eclampsia/HELLP.
+   - Monitor for delayed postpartum complications.
+
+6. **Chronic Sinusitis / Recent Viral Sinusitis**
+   - No current symptoms. Completed recent antibiotics.
+   - No further intervention.
+
+7. **Contraceptive use**
+   - OCP and patch discontinued during admission due to HF/embolism risk.
+   - OB-Gyn to advise on future contraception.
+
+8. **Pain**
+   - Mild, controlled with acetaminophen.
+
+9. **DVT Prophylaxis**
+   - On heparin during Impella, transitioned to SCDs and LMWH post-device removal.
+
+10. **Psychosocial**
+    - Counseling re: new HF diagnosis, postpartum implications.
+    - Social work and psych consults placed.
+
+===============================================================================
+DISCHARGE PLANNING
+- Anticipate transfer out of ICU in 24h
+- Outpatient cardiology and OB follow-up
+- Home health referral for PT/OT
+
+===============================================================================
+PHYSICIAN ATTESTATION
+I have personally evaluated the patient and reviewed the above data. Patient is stable for stepdown.
+
+R. Patel, MD – Cardiology ICU
+
+===============================================================================
+```

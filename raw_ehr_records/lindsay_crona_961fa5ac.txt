@@ -1,0 +1,156 @@
+**EPIC EHR - Inpatient Progress Note**  
+**Patient**: Lindsay Crona  
+**MRN**: 00824511  
+**DOB**: 1992-02-27 (Age: 32)  
+**Sex**: Male  
+**Admit Date**: 2024-06-05  
+**Attending**: Dr. S. Patel (Cardiology/Critical Care)  
+**Note Date**: 2024-06-09
+
+---
+
+### Reason for Admission
+
+32M with PMHx of hypertension, recent viral URI, and new-onset acute decompensated heart failure presenting with severe SOB, orthopnea, and hypotension. Required ICU admission for hemodynamic instability and developed cardiogenic shock requiring temporary LVAD (Impella CP) placement.
+
+---
+
+### Hospital Course Summary
+
+Pt presented to ED c/o 4 days of worsening dyspnea, PND, productive cough, fevers, and chest tightness. Initial VS notable for HR 122, BP 82/54, T 38.0°C, SpO2 91% RA. Exam: JVD, S3, rales, mild LE edema. Labs: lactic acidosis, elevated troponin, BNP >2000. Echo: LVEF 15%, global hypokinesis, no valvular vegetations.  
+
+Despite IV diuresis and inotropes, pt progressed to cardiogenic shock with MAP <60 and evidence of end-organ hypoperfusion. Emergent placement of Impella CP performed at bedside. Pt stabilized on mechanical support, pressors tapered, and extubated POD2. Infectious w/u for myocarditis: +parainfluenza PCR, negative blood cx, negative strep/EBV/CMV.  
+
+Complicated by AKI (peak Cr 2.3), transaminitis, and mild thrombocytopenia. Anticoagulated on heparin per Impella protocol. Gradual improvement over 4 days; Impella weaned and explanted on HD5. Currently on low-dose dobutamine, diuresis, and slow transition to oral HF regimen. Awaiting repeat TTE and evaluation for advanced therapies if needed.
+
+---
+
+## Problem-Based Assessment and Plan
+
+---
+
+**1. Cardiogenic Shock / Acute Decompensated Heart Failure**  
+- Etiology: Suspected viral myocarditis (parainfluenza) on background of HTN  
+- Required temporary LVAD (Impella CP) for hemodynamic support  
+- On guideline-directed medical therapy (GDMT) as tolerated: carvedilol, sacubitril/valsartan, spironolactone  
+- Continue gentle diuresis (furosemide IV)  
+- Wean dobutamine as tolerated  
+- Monitor for arrhythmias (telemetry)  
+- Daily weights, strict I/Os  
+- Await repeat TTE (scheduled 6/10)  
+- Cardiac transplant/VAD team aware
+
+**2. Acute Kidney Injury (KDIGO Stage 2)**  
+- Likely multifactorial: low cardiac output, diuretics, nephrotoxic exposure  
+- Peak Cr 2.3 (baseline 0.9), trending down (1.5 today)  
+- Monitor UOP, hold nephrotoxins  
+- Renal dose dopamine discontinued  
+- Nephrology following
+
+**3. Hypertension**  
+- Home HCTZ held (AKI)  
+- Restart low-dose amlodipine if BP tolerates  
+- Monitor for hypotension as cardiac function recovers
+
+**4. Arrhythmia Risk**  
+- No sustained VT/VF noted  
+- Occasional PVCs  
+- Telemetry monitoring  
+- Electrolyte repletion: K >4.0, Mg >2.0
+
+**5. Viral Infection / Myocarditis**  
+- Parainfluenza PCR positive  
+- Supportive care only; antibiotics discontinued after negative cultures  
+- Monitor for secondary bacterial infection
+
+**6. Thrombocytopenia**  
+- Likely secondary to device and heparin  
+- Platelet nadir 56k/uL, now improving  
+- Monitor for bleeding, HIT panel negative  
+- Consider switch to bivalirudin if worsening
+
+**7. Volume Overload**  
+- Diuresis ongoing  
+- Fluid balance: net -2.7L since admission
+
+**8. Transaminitis**  
+- AST/ALT peaked at 132/145, now trending down  
+- Likely ischemic hepatitis from shock  
+- Continue to trend
+
+**9. Pain/Fever**  
+- Intermittent myalgias, sore throat, mild chest discomfort  
+- Acetaminophen PRN  
+- Monitor for new infectious sources
+
+**10. Nutrition/General Care**  
+- PO intake improving  
+- High-calorie, low-sodium diet  
+- Physical therapy to begin when stable  
+- VTE prophylaxis: SCDs, heparin
+
+---
+
+## ICU Vitals/Monitoring
+
+| Date/Time      | Temp (°C) | HR  | BP         | RR | SpO2 | Pain | Weight (kg) |
+|----------------|-----------|-----|------------|----|------|------|-------------|
+| 6/5 17:00      | 38.0      | 122 | 82/54      | 26 | 91   | 4    | 78.5        |
+| 6/6 08:00      | 37.4      | 115 | 96/62      | 20 | 95   | 3    | 77.9        |
+| 6/7 07:00      | 37.0      | 106 | 108/66     | 18 | 97   | 2    | 77.1        |
+| 6/8 06:30      | 36.9      | 98  | 115/72     | 16 | 98   | 1    | 76.7        |
+| 6/9 06:30      | 36.8      | 88  | 118/74     | 16 | 98   | 1    | 76.4        |
+
+---
+
+## Labs
+
+**Selected Labs (CBC, Chem7, Cardiac, Liver)**
+| Date         | WBC   | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2   | BUN  | Cr   | Glu  | AST  | ALT  | Trop I | BNP   |
+|--------------|-------|-------|-------|-------|------|------|------|-------|------|------|------|------|------|--------|-------|
+| 6/5 18:00    | 5.0   | 12.2  | 39    | 165   | 133  | 3.5  | 101  | 19    | 28   | 2.1  | 116  | 128  | 145  | 1.22   | >2000 |
+| 6/6 06:00    | 4.3   | 11.6  | 36    | 92    | 136  | 3.3  | 99   | 18    | 33   | 2.3  | 111  | 132  | 139  | 0.84   | 1850  |
+| 6/7 06:00    | 4.8   | 10.9  | 34    | 56    | 137  | 3.9  | 103  | 21    | 27   | 2.0  | 108  | 102  | 110  | 0.31   | 1200  |
+| 6/8 07:00    | 6.2   | 11.4  | 35    | 76    | 138  | 4.2  | 104  | 23    | 19   | 1.7  | 106  | 68   | 91   | <0.01  | 600   |
+| 6/9 06:00    | 7.0   | 12.0  | 37    | 110   | 139  | 4.0  | 105  | 24    | 15   | 1.5  | 108  | 51   | 58   | <0.01  | 440   |
+| 6/10 06:00   |       | 12.4  | 39    | 134   | 140  |      | 106  | 25    |      | 1.3  |      |      |      |        |       |
+
+---
+
+## Imaging
+
+- **TTE (6/5):** LVEF 15%, global hypokinesis, mild MR, no thrombus, normal RV  
+- **CXR (6/5):** Pulmonary edema, mild cardiomegaly  
+- **Repeat TTE (pending 6/10)**
+
+---
+
+## Medications (Current)
+
+- Dobutamine IV 2.5 mcg/kg/min
+- Furosemide 20mg IV BID
+- Carvedilol 3.125mg PO BID (started 6/8)
+- Sacubitril/valsartan 24/26mg PO BID (to start 6/10)
+- Spironolactone 12.5mg PO daily
+- Heparin drip (per Impella protocol)
+- Acetaminophen 650mg PO q6h PRN
+- Amlodipine 2.5mg PO daily (hold if SBP <100)
+- Penicillin discontinued 6/6
+- HCTZ held
+
+---
+
+## Disposition
+
+- Remains in ICU, stable on inotropes, off mechanical circulatory support  
+- Anticipate transfer to step-down if continued improvement  
+- Advanced HF team following
+
+---
+
+**Physician**: S. Patel, MD  
+**Co-sign**: B. Lin, MD (Critical Care Fellow)
+
+---
+
+**End of Note**

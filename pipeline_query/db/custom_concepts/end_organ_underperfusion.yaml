@@ -1,0 +1,58 @@
+############### NOTES ###############
+# Detects end-organ hypoperfusion while on pump (e.g., speed/flow too low)
+#####################################
+
+aliases:
+  positive:
+    - { term: "end organ perfusion" }
+    - { term: "end organ perfusion", modifier: "normal" }
+    - { term: "end organ perfusion", modifier: "adequate" }
+    - { term: "end organ perfusion", modifier: "good" }
+    - { term: "end organ underperfusion", modifier: "no evidence" }
+    - { term: "end organ nonperfusion", modifier: "no evidence" }
+    - { term: "end organ hypoperfusion", modifier: "no evidence" }
+  negative:
+    - { term: "end organ hypoperfusion" }
+    - { term: "end organ nonperfusion" }
+    - { term: "end organ underperfusion" }
+    - { term: "end organ perfusion", modifier: "low" }
+    - { term: "end organ perfusion", modifier: "inadequate" }
+    - { term: "end organ perfusion", modifier: "reduced" }
+    - { term: "end organ perfusion", modifier: "poor" }
+    - { term: "end organ perfusion", modifier: "bad" }
+
+definition_polarity: negative
+
+definition:
+  any_of:
+
+    # Hemodynamic floor / global flow is low
+    - any_of:
+        - { feature: "mean arterial pressure", op: "<", value: 65 }
+        - { feature: "systolic blood pressure", op: "<", value: 95 }
+        - { feature: "cyanosis", modifier: "present" }
+
+    # Metabolic / global hypoperfusion
+    - any_of:
+        - { feature: "lactate", op: ">", value: 2.5 }
+        - { feature: "bicarbonate", op: "<", value: 18 }
+        - { feature: "potassium", op: ">", value: 5.5 }
+
+    # Renal hypoperfusion
+    - any_of:
+        - { feature: "creatinine", op: ">", value: 2.0 }
+
+    # Hepatic hypoperfusion (“shock liver” / ischemic hepatitis)
+    - any_of:
+        - { feature: "alanine aminotransferase", op: ">", value: 1000 }
+        - { feature: "aspartate aminotransferase", op: ">", value: 1000 }
+        - { feature: "total bilirubin", op: ">", value: 3.0 }
+        - { feature: "international normalized ratio", op: ">", value: 1.5 }
+
+    # Neurologic hypoperfusion
+    - any_of:
+        - { feature: "delirium", modifier: "present" }
+        - { feature: "glasgow coma score", op: "<", value: 13 }
+
+
+

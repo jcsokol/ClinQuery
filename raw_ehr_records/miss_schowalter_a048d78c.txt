@@ -1,0 +1,189 @@
+**[EPIC EHR - ICU Progress Note]**
+
+**Patient Name:** Miss Schowalter  
+**MRN:** 10129827  
+**DOB:** 1980-06-25 (43 y/o)  
+**Sex:** Female  
+**Admit Date:** 2024-05-30  
+**Service:** MICU  
+**Attending:** Dr. H. Lin, MD  
+**Consults:** Cardiology, CV Surgery, Infectious Disease, OB/GYN (remote)
+
+---
+
+### CHIEF COMPLAINT
+Acute shortness of breath, orthopnea, and chest heaviness.
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+43-year-old female with PMHx significant for chronic sinusitis, multiple normal pregnancies (remote), and prior episodes of viral and streptococcal pharyngitis, presented to the ED with 3 days of progressive dyspnea, fatigue, and lower extremity edema. She reported orthopnea, paroxysmal nocturnal dyspnea, and chest tightness. No recent travel, sick contacts, or known COVID exposures. She denied fevers/chills until the morning of admission, when she noted a Tmax of 38.6°C at home. No cough, hemoptysis, or palpitations. She has a remote history of ankle sprain. No hx of illicit drug use. 
+
+On arrival, she was tachypneic, tachycardic, and hypoxic on room air (O2 sat 87%). Initial labs notable for leukopenia, mild anemia, elevated BNP, and rising troponin. CXR: mild cardiomegaly, pulmonary vascular congestion, no clear infiltrate. Bedside TTE: LVEF 15%, severe global hypokinesis, mild MR, no pericardial effusion. She rapidly decompensated on the floor, requiring transfer to the MICU for worsening hypoxia and hypotension. Vasopressors started. Given refractory cardiogenic shock, she underwent percutaneous placement of a left femoral Impella CP device for temporary mechanical circulatory support.
+
+---
+
+### PAST MEDICAL HISTORY
+- Chronic sinusitis
+- Viral sinusitis (remote)
+- Streptococcal pharyngitis (remote)
+- 3 normal pregnancies (G3P3, no complications)
+- Remote ankle sprain
+
+### PAST SURGICAL HISTORY
+- None
+
+### OB/GYN HISTORY
+- G3P3, all term, NSVD
+- Liletta IUD in situ
+
+### MEDICATIONS ON ADMISSION
+- Yaz 28 Day Pack
+- Seasonique 91 Day Pack (not currently active)
+- Naproxen sodium 220 mg PRN
+- Medroxyprogesterone acetate injection (last 3 months ago)
+- Penicillin V potassium (completed >1 yr ago)
+- Liletta IUD
+
+### ALLERGIES
+- NKDA
+
+---
+
+### SOCIAL HISTORY
+- Lives with partner, 3 children
+- No tobacco/ETOH
+- No illicit drug use
+
+---
+
+### FAMILY HISTORY
+- Mother: HTN, T2DM
+- Father: MI at 59, deceased
+
+---
+
+### VITALS (Selected from ICU Days 1–6)
+
+| Date      | Temp (°C) | HR (bpm) | BP (mmHg) | RR | O2 Sat (%) | Pain (0-10) |
+|-----------|-----------|----------|-----------|----|------------|-------------|
+| 5/30      | 38.6      | 112      | 89/54     | 28 | 87         | 4           |
+| 5/31      | 37.9      | 98       | 100/64    | 24 | 93         | 3           |
+| 6/1       | 37.2      | 86       | 110/70    | 20 | 96         | 2           |
+| 6/2       | 36.8      | 80       | 118/72    | 18 | 97         | 2           |
+| 6/3       | 36.7      | 76       | 122/74    | 16 | 98         | 1           |
+| 6/4       | 36.5      | 70       | 124/76    | 16 | 98         | 1           |
+
+---
+
+### ICU COURSE SUMMARY
+
+- **Day 1:** Admitted in cardiogenic shock, rapidly decompensated, intubated for hypoxic respiratory failure. Started on norepinephrine, dobutamine. Impella CP placed via L femoral artery, immediate hemodynamic improvement.  
+- **Day 2:** Remained on mechanical support, weaned off norepinephrine. Extubated.  
+- **Day 3:** Gradual improvement in urine output and mentation. Started on low-dose diuresis.  
+- **Day 4:** Weaned Impella support; echo showed LVEF improved to 30%.  
+- **Day 5:** Impella removed at bedside, no vascular complications.  
+- **Day 6:** Transferred to stepdown unit, ambulating with PT.
+
+---
+
+### LABS
+
+#### CBC / CHEMISTRIES (ICU Days 1–6)
+
+| Date   | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|--------|------|------|------|------|------|------|------|------|------|------|------|
+| 5/30   | 3.2  | 13.1 | 41.2 | 389  | 137  | 3.8  | 104  | 21   | 22   | 1.1  | 112  |
+| 5/31   | 2.9  | 12.7 | 39.5 | 371  | 138  | 4.2  | 107  | 20   | 25   | 1.2  | 135  |
+| 6/1    | 3.8  | 13.4 | 41.8 | 405  | 140  | 4.4  | 108  | 23   | 20   | 1.0  | 128  |
+| 6/2    | 4.1  | 13.9 | 44.1 | 412  | 141  | 3.9  | 106  | 25   | 18   | 0.9  | 116  |
+| 6/3    |      | 13.7 | 43.6 |      | 139  | 4.1  |      | 24   | 17   | 0.9  | 109  |
+| 6/4    | 4.5  |      |      | 401  | 140  | 4.0  | 107  | 23   |      | 1.0  | 98   |
+
+#### ADDITIONAL LABS
+
+| Date   | Troponin I | BNP   | AST  | ALT  | Alk Phos | T. Bili | INR  | PTT  |
+|--------|------------|-------|------|------|----------|---------|------|------|
+| 5/30   | 0.88      | 1120  | 48   | 36   | 110      | 0.9     | 1.2  | 34   |
+| 5/31   | 0.42      | 980   | 37   | 29   | 98       | 0.7     |      |      |
+| 6/1    | 0.10      | 420   | 31   | 24   | 79       | 0.6     | 1.1  | 32   |
+| 6/2    | <0.01     | 202   | 29   | 22   | 67       | 0.5     |      |      |
+
+---
+
+### MICROBIOLOGY  
+- Blood cultures x2 negative  
+- NP swab viral PCR: negative  
+- Urine culture: negative
+
+---
+
+### IMAGING
+
+- **CXR (5/30):** Mild cardiomegaly, interstitial edema, no focal infiltrate.
+- **TTE (5/30):** LVEF 15%, severe global hypokinesis, mild MR.
+- **TTE (6/3):** LVEF 30%, improved wall motion.
+
+---
+
+### ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock, new onset severe LV dysfunction (likely viral myocarditis vs idiopathic)**
+   - Required Impella CP for hemodynamic stabilization, now weaned and explanted.
+   - Monitored for arrhythmias, none noted.
+   - Diuresed gently as tolerated; initiated guideline-directed medical therapy (GDMT) for HFrEF (low-dose carvedilol, lisinopril).
+   - Echo monitoring, daily weights, strict I/Os.
+
+**2. Acute Hypoxic Respiratory Failure**
+   - Intubated and extubated successfully.
+   - No evidence of pneumonia or ARDS.
+   - Pulmonary toilet, incentive spirometry.
+
+**3. Leukopenia (likely viral-induced)**
+   - Monitored CBC; trending up.
+   - No evidence of secondary bacterial infection.
+
+**4. Mild Transaminitis**
+   - Likely ischemic hepatitis from shock.
+   - Trending down, no intervention.
+
+**5. Contraceptive Management**
+   - Liletta IUD in place, no evidence of infection.
+   - OCPs on hold during ICU stay.
+
+**6. Chronic Sinusitis**
+   - No acute symptoms.
+   - ENT consult deferred.
+
+**7. Pain Management**
+   - Mild, managed with PRN acetaminophen.
+   - No opioid requirement.
+
+**8. Vascular Access / Device Care**
+   - Left femoral Impella site monitored, no bleeding or hematoma.
+   - Peripheral IVs, no CLABSI.
+
+**9. VTE Prophylaxis**
+   - SCDs, subQ heparin.
+
+**10. Nutrition**
+   - Enteral, advancing diet as tolerated.
+
+**11. Physical Therapy**
+   - Early mobilization post-Impella, ambulating with assistance.
+
+**12. Disposition**
+   - Transition to stepdown unit, anticipate transfer to floor in 48h.
+   - Cardiology f/u, heart failure clinic.
+
+---
+
+### SIGNED:
+
+**Dr. H. Lin, MD**  
+MICU Attending  
+**Date/Time:** 2024-06-04 09:16
+
+---
+
+**(Additional pages: see full flowsheets, nursing notes, and consult documentation in chart review.)**

@@ -1,0 +1,143 @@
+**EPIC EHR - ADMISSION NOTE**
+
+---
+
+**Patient**: Hoeger, Rosanne  
+**MRN**: 10293847  
+**Date of Birth**: 10/01/1992  
+**Sex**: Female  
+**Date of Admission**: 05/17/2024  
+**Admitting Service**: Cardiac ICU  
+**Attending**: Dr. P. Kline  
+**Primary Team**: Cardiology/Intensivist  
+**Consultations**: Cardiac Surgery, Infectious Disease, ENT, Endocrinology
+
+---
+
+### **Reason for Admission**
+
+32-year-old female with history significant for HTN, obesity (BMI ~32), chronic sinusitis, recurrent otitis media, and recent acute bronchitis, presenting with acute onset chest pain, dyspnea, and orthopnea. Found to have rapidly progressive heart failure with reduced ejection fraction—ultimately requiring temporary LVAD (Impella CP) placement for cardiogenic shock.
+
+---
+
+### **HOSPITAL COURSE SUMMARY**
+
+**Day 1 (05/17/2024):**  
+Pt presented to ED with severe SOB, orthopnea, and chest tightness. Initial VS notable for BP 94/56, HR 121, sat 92% RA, T 36.9°C. Exam: JVD, +rales, S3, mild pedal edema. Labs: BNP 2345, troponin 0.17 (peaked 0.34), CXR: pulmonary edema. Echo: LVEF ~15%, global hypokinesis. Admitted to ICU, started on dobutamine and furosemide drips.  
+
+**Day 2:**  
+Pt deteriorated overnight—MAP <60 even with pressors, rising lactate to 5.8, escalating O2 needs. Cardiac surgery consulted. Decision for temporary mechanical circulatory support—Impella CP placed at bedside under TEE guidance. Improved hemodynamics, MAP 75-80, lactate downtrending.  
+
+**Day 3-4:**  
+Stabilized on Impella, weaned off vasopressors. Diuresis continued. Developed epistaxis (likely related to anticoagulation); ENT consulted. Anticoagulation adjusted. Monitored for LV recovery. Low-grade fever (38.1°C), blood cultures drawn, empiric vancomycin/cefepime started.  
+
+**Day 5:**  
+Echo: LVEF improved to 28%. Impella weaned and removed w/o complication. Blood cultures negative. Transitioned to oral diuresis and low-dose beta blocker.  
+
+**Day 6-9:**  
+Progressive mobilization, off pressors/oxygen. Monitored for arrhythmia, no VT/VF. ENT follow-up for sinusitis and epistaxis. Discharge planning initiated.
+
+---
+
+### **LABS (Selected CBC, CHEM7, Cardiac Markers, Liver Panel)**
+
+| Date        | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | BNP   | AST  | ALT  | Alk Phos | T Bili |
+|-------------|------|------|------|------|------|------|------|------|------|------|------|----------|-------|------|------|----------|--------|
+| 05/17/24 AM | 14.2 | 12.1 | 41.4 | 325  | 132  | 5.2  | 98   | 19   | 22   | 1.1  | 143  | 0.17     | 2345  | 21   | 32   | 116      | 0.8    |
+| 05/18/24 AM | 13.5 | 11.8 | 39.7 | 288  | 134  | 4.8  | 100  | 20   | 25   | 1.2  | 148  | 0.34     | 2220  | 25   | 36   | 121      | 0.9    |
+| 05/19/24 AM | 12.0 | 10.7 | 36.2 | 251  | 137  | 4.3  | 101  | 23   | 20   | 1.0  | 127  | <0.01    | 1685  | 29   | 41   | 109      | 0.7    |
+| 05/20/24 AM | 10.5 | 10.4 | 34.9 | *    | 139  | 4.0  | 102  | 26   | 17   | 0.9  | 108  | <0.01    | 1120  | 27   | 39   | *        | *      |
+| 05/21/24 AM | 9.4  | 11.2 | 36.8 | 282  | 138  | 4.2  | *    | 25   | 16   | *    | 102  | <0.01    | 700   | *    | *    | 97       | 0.6    |
+
+* = not collected
+
+---
+
+### **VITALS (Selected)**
+
+- **Day 1:** BP 94/56, HR 121, RR 24, T 36.9°C, SpO2 92% (RA)  
+- **Day 2:** BP 88/54 (on norepi), HR 135, RR 26, T 37.3°C, SpO2 94% (2L NC)  
+- **Day 3:** BP 105/68, HR 98, RR 18, T 38.1°C, SpO2 97%  
+- **Day 4-5:** BP 112/70, HR 85, RR 16, T 37.0°C, SpO2 98%  
+- **Day 6-9:** Stable, afebrile, BP 118/76, HR 76
+
+---
+
+### **PROBLEM-BASED ASSESSMENT & PLAN**
+
+---
+
+#### 1. **Cardiogenic Shock, New Onset Severe Systolic Heart Failure**
+- **Assessment**: Acute decompensated HF with severe LV dysfunction (EF 15%), likely viral myocarditis vs idiopathic. Required temporary MCS (Impella CP) for refractory shock.
+- **Plan**:
+  - MCS weaned and removed after improvement
+  - Continue guideline-directed HF therapy (BB, ACEi, spironolactone as tolerated)
+  - Strict I/O, daily weights, salt/fluid restriction
+  - Cardiac MRI outpatient for etiology
+  - Follow-up with HF clinic
+
+#### 2. **Volume Overload/Pulmonary Edema**
+- **Assessment**: Diuresed aggressively, now euvolemic.
+- **Plan**:  
+  - Continue oral furosemide  
+  - Monitor lytes, renal function
+
+#### 3. **Hypertension**
+- **Assessment**: Previously suboptimally controlled; now low-normal BP post-shock.
+- **Plan**:
+  - Hold antihypertensives unless BP rises
+  - Reassess at f/u
+
+#### 4. **Obesity (BMI 32)**
+- **Plan**:
+  - Nutrition consult
+  - Consider weight loss counseling post-discharge
+
+#### 5. **Epistaxis on Anticoagulation**
+- **Assessment**: On heparin for Impella, developed nasal bleeding, resolved with pressure and adjustment.
+- **Plan**:
+  - ENT f/u for chronic sinusitis and nasal mucosa care
+  - Avoid NSAIDs
+
+#### 6. **Chronic Sinusitis/Otitis Media**
+- **Plan**:
+  - ENT f/u outpatient
+  - Continue saline nasal rinses
+
+#### 7. **History of Normal Pregnancy (x3)**
+- **Plan**:
+  - No acute OB issues, contraception discussed (continues medroxyprogesterone implant)
+
+#### 8. **Medications**
+- **Plan**:
+  - Review all home meds for interactions/contraindications in advanced HF
+  - Avoid NSAIDs, consider d/c naproxen, ibuprofen
+
+#### 9. **Other Issues**
+- **Whiplash Injury:** No acute findings, pain well-controlled
+- **Psychosocial:** Social work consult for discharge planning, home supports
+- **Vaccinations:** Up to date, consider flu/COVID booster at f/u
+
+---
+
+### **DISCHARGE PLANNING**
+- Anticipated d/c home on 5/23/24
+- Outpatient cardiology, HF, ENT, and primary care f/u scheduled
+- Education on heart failure self-care, daily weights, medication adherence
+
+---
+
+**Signed:**  
+Dr. P. Kline, MD  
+Cardiac ICU  
+05/21/2024 18:02
+
+---
+
+**Addendum:**  
+Pt tolerated removal of Impella without complication. No evidence of limb ischemia or hemolysis. Family updated daily.  
+**Next steps:** Await final viral/myocarditis workup, continue to optimize HF therapy.
+
+---
+
+**END OF NOTE**

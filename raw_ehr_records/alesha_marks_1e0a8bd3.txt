@@ -1,0 +1,157 @@
+---
+**Patient Name:** Alesha Marks  
+**MRN:** 00728456  
+**DOB:** 11/04/1965 (58 yo F)  
+**Date of Admission:** 03/12/2024  
+**Date of Note:** 03/18/2024  
+**Attending:** Dr. Samuel T. Harrow  
+**Location:** MICU, 5th Floor  
+**Reason for Admission:** Cardiogenic shock secondary to acute decompensated heart failure; required temporary left ventricular assist device (Impella CP) placement.
+
+---
+
+### **HOSPITAL COURSE SUMMARY**
+
+Ms. Alesha Marks, a 58-year-old female with a PMHx notable for hypertension, seasonal allergic rhinitis, and recent viral upper respiratory tract infection, presented to the ED with progressive dyspnea, orthopnea, and lower extremity edema. Over the preceding week, she had been recovering from viral sinusitis and pharyngitis, but developed acute chest tightness and worsening shortness of breath. She was found in the ED to be hypotensive (BP 82/54), tachycardic (HR 116), and hypoxic (O2 sat 88% on RA).
+
+Initial labs and TTE were notable for a new severe global hypokinesis, LVEF ~15%, and rising troponin. She rapidly progressed to cardiogenic shock with multi-organ hypoperfusion. She was emergently transferred to the MICU, where she received dobutamine and norepinephrine drips, and subsequently required placement of an Impella CP for hemodynamic support.
+
+Her course was complicated by AKI (now resolving), mild transaminitis, and transient thrombocytopenia. She was successfully weaned off vasopressors and the Impella was removed on HD #5. She is currently on low-dose diuretics, guideline-directed medical therapy for HFrEF, and is being evaluated for potential ischemic vs. viral myocarditis as the etiology of her acute heart failure.
+
+---
+
+### **PROBLEM-BASED ASSESSMENT & PLAN**
+
+**1. Cardiogenic shock secondary to new severe systolic heart failure**
+- Impella CP placed on HD #1, removed HD #5 after hemodynamic stabilization
+- Continue carvedilol (titrate as tolerated), lisinopril started HD #6
+- Furosemide 20mg IV q12h for volume status, slow transition to oral
+- Daily weights, strict I/O, monitor for recurrent congestion
+- Cardiology following; ischemic workup pending (coronary angio scheduled)
+- Plan cardiac MRI after stabilization to evaluate for myocarditis
+
+**2. Acute kidney injury (KDIGO Stage 2, likely cardiorenal)**
+- Peak Cr 2.1 mg/dL (baseline 0.9), improved to 1.2 mg/dL
+- Renal consult; no dialysis required, now making adequate urine
+- Avoid nephrotoxic agents, continue IV fluids as tolerated
+
+**3. Mild transaminitis**
+- ALT/AST peaked at 122/134, likely ischemic hepatitis
+- Trending down, no evidence of chronic liver disease
+- Monitor LFTs q48h
+
+**4. Hypertension**
+- Held home HCTZ on admission due to AKI
+- Restart after renal recovery, monitor electrolytes
+
+**5. Recent viral pharyngitis/sinusitis**
+- No evidence of ongoing infection
+- Negative blood cultures, afebrile
+- Supportive care, continue inhalers for rhinitis and asthma symptoms
+
+**6. Thrombocytopenia, resolved**
+- Nadir platelets 72K, now 148K
+- Likely multifactorial (device, sepsis, meds); monitor CBC
+
+**7. Deconditioning, nutritional risk**
+- PT/OT consulted, patient able to ambulate with assistance
+- Nutrition: high-protein, low-salt diet
+
+**8. Medication reconciliation**
+- Continue: carvedilol, lisinopril, fluticasone, albuterol prn, chlorpheniramine prn
+- Hold HCTZ until renal function stable
+
+**9. Social/discharge planning**
+- Lives alone; daughter nearby
+- Awaiting improvement for stepdown to telemetry, anticipate prolonged rehab
+
+---
+
+### **VITALS (selected, MICU course)**
+
+| Date/Time      | Temp (C) | HR   | BP         | RR | SpO2 (%) | Weight (kg) |
+|----------------|----------|------|------------|----|----------|-------------|
+| 3/12/24 06:13  | 37.1     | 116  | 82/54      | 27 | 88       | 66.0        |
+| 3/13/24 04:22  | 36.9     | 104  | 88/62      | 22 | 94       | 65.5        |
+| 3/14/24 05:10  | 37.2     | 98   | 96/65      | 20 | 96       | 65.0        |
+| 3/15/24 07:30  | 36.8     | 92   | 108/70     | 18 | 97       | 64.7        |
+| 3/17/24 06:55  | 37.0     | 84   | 112/72     | 16 | 98       | 64.4        |
+| 3/18/24 08:00  | 36.7     | 78   | 116/70     | 16 | 98       | 64.2        |
+
+---
+
+### **LABS**
+
+#### *CBC + CHEM7 (selected results, daily draws)*
+
+| Date        | WBC   | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|-------------|-------|------|------|-------|------|------|------|------|------|------|------|
+| 3/12/24     | 5.1   | 13.7 | 41.2 | 122   | 137  | 4.2  | 98   | 23   | 38   | 1.9  | 148  |
+| 3/13/24     | 4.2   | 12.9 | 39.0 | 98    | 135  | 4.6  | 100  | 21   | 42   | 2.1  | 154  |
+| 3/14/24     | 3.9   | 12.1 | 36.8 | 72    | 134  | 4.4  | 99   | 22   | 38   | 1.8  | 142  |
+| 3/15/24     | 4.8   | 12.7 | 38.2 | 110   | 136  | 4.1  | 97   | 24   | 26   | 1.3  | 138  |
+| 3/16/24     | 5.6   | 13.4 | 41.0 | 148   | 139  | 3.8  | 99   | 25   | 18   | 1.2  | 124  |
+| 3/17/24     | 6.0   | 13.9 | 43.1 | 155   | 140  | 4.0  | 100  | 26   | 16   | 1.2  |      |
+| 3/18/24     | 5.3   | 13.8 | 42.8 |       | 140  | 3.9  |      | 25   | 15   | 1.2  | 110  |
+
+#### *LIVER PANEL*
+
+| Date        | AST  | ALT  | Alk Phos | Bili T | Alb  |
+|-------------|------|------|----------|--------|------|
+| 3/12/24     | 134  | 122  | 98       | 0.8    | 3.2  |
+| 3/14/24     | 76   | 68   | 102      | 0.7    |      |
+| 3/16/24     | 42   | 39   | 93       |        | 3.6  |
+| 3/18/24     | 31   | 28   | 89       | 0.6    | 3.8  |
+
+#### *CARDIAC MARKERS*
+
+| Date        | Troponin I | BNP    | CK-MB |
+|-------------|------------|--------|-------|
+| 3/12/24     | 0.18       | 6,280  | 46    |
+| 3/13/24     | 0.21       | 7,110  | 52    |
+| 3/15/24     | 0.11       | 4,320  | 30    |
+| 3/18/24     | 0.07       | 2,540  | 18    |
+
+---
+
+### **PROCEDURES**
+
+- **3/12/24:** Impella CP placement (left femoral artery), performed in MICU under moderate sedation. No immediate vascular complications.
+- **3/15/24:** Removal of Impella following hemodynamic stability.
+- **3/13/24:** Right heart cath: RAP 12 mmHg, PCWP 28 mmHg, CI 1.7 L/min/m² (pre-Impella); improved after device placement.
+
+---
+
+### **IMAGING**
+
+- **3/12/24:** TTE: LVEF ~15%, severe global hypokinesis, mild MR/TR, RV normal size/function.
+- **3/16/24:** Repeat TTE: LVEF improved to 26%, reduced LV dilation, no pericardial effusion.
+- **CXR:** Mild pulmonary edema, small bilateral pleural effusions (improved by 3/16).
+
+---
+
+### **MICU DAILY PROGRESS NOTES (abbreviated)**
+
+**HD #1:** Admitted in shock, Impella placed, started on pressors/inotropes.  
+**HD #2-3:** Labs trending up, diuresis started, extubated HD #2.  
+**HD #4:** Off pressors, Impella weaning.  
+**HD #5:** Impella removed, stable on oral meds.  
+**HD #6:** Ambulating with PT, tolerating oral intake, labs normalized.
+
+---
+
+### **DISCHARGE PLANNING**
+
+- Anticipate transfer to telemetry in 1-2 days.
+- Cardiac rehab referral pending.
+- Close cardiology follow-up; outpatient cardiac MRI scheduled.
+- Education: HF self-management, medication compliance, daily weights, sodium restriction.
+
+---
+
+**Signed:**  
+Samuel T. Harrow, MD  
+Attending, Cardiology/Critical Care  
+03/18/2024 10:04 AM
+
+---

@@ -1,0 +1,177 @@
+---
+**Patient Name:** Irma Crona  
+**MRN:** 00432897  
+**DOB:** 1979-03-01  
+**Sex:** Female  
+**Admit Date:** 2024-04-18  
+**Attending:** Dr. R. Singh  
+**Location:** ICU, 3rd Floor, Room 312-B  
+**Primary Team:** Cardiology/CCU  
+**Consults:** CV Surgery, ID, Nephrology
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+
+Irma Crona is a 45-year-old female with a history of hypertension (on HCTZ), remote first trimester miscarriage, and recent viral URIs, who presented with 1 week of progressive dyspnea, orthopnea, and lower extremity edema. She reported a viral illness with cough and sinus congestion 2 weeks prior, followed by increasing fatigue and mild chest discomfort. On the day of admission, the patient developed acute onset shortness of breath and near-syncope while climbing stairs. She was brought in by EMS, found to be hypotensive (BP 78/52), tachycardic (HR 124), and hypoxic (SpO2 88% RA), with signs of pulmonary edema.
+
+Initial workup revealed elevated cardiac biomarkers, acute kidney injury, elevated lactate, and CXR with pulmonary vascular congestion. Bedside echo demonstrated severely reduced LVEF (~15%), global hypokinesis, and no significant valvulopathy. She was admitted to the ICU for cardiogenic shock, started on inotropes and mechanical ventilation. Due to persistent shock refractory to medical management, a percutaneous left ventricular assist device (Impella CP) was placed on hospital day 1. 
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+**ICU Day 1-2:**  
+- Intubated for hypoxic respiratory failure; started norepinephrine and dobutamine drips.  
+- Impella CP placed via right femoral approach.  
+- CVP 16, MAP 62 on moderate pressors, urine output 0.3 mL/kg/hr.  
+- Started empiric broad spectrum abx (cefepime/vancomycin) for possible sepsis.  
+- Echo confirmed severe global LV dysfunction, RV mildly reduced.  
+- Consults: Cardiology, CV Surgery, Nephro (for AKI/oliguria).  
+- Initial labs: WBC 12.3, Cr 2.1 (baseline 0.9), lactate 4.8.
+
+**ICU Day 3-5:**  
+- Gradual improvement in perfusion with Impella support, weaned norepinephrine.  
+- Extubated on day 4 to HFNC.  
+- Diuresed with IV furosemide, net negative 5L over 48h.  
+- Renal function slowly improving.  
+- Blood cultures negative, abx discontinued.  
+- Repeat echo: LVEF improved to 25%, Impella flows stable.  
+- Transient LFT elevation (AST/ALT 3x ULN) thought secondary to hypoperfusion.  
+- Developed mild thrombocytopenia (nadir 89K) on day 5.
+
+**ICU Day 6-10:**  
+- Impella weaned and explanted on day 7.  
+- Gradual transition to oral afterload reduction, uptitrated beta-blocker.  
+- Mobilization with PT/OT, O2 weaned to nasal cannula.  
+- Renal and liver function normalized.  
+- Discharge planning with heart failure education.
+
+---
+
+## PAST MEDICAL HISTORY
+
+- Hypertension (on HCTZ 12.5 mg qd)
+- Viral sinusitis/pharyngitis (remote, non-contributory)
+- Miscarriage, first trimester (G2P1)
+- No known diabetes, CAD, or CKD prior to admission
+
+## PAST SURGICAL HISTORY
+
+- None
+
+## FAMILY HISTORY
+
+- Mother: HTN, MI at 61
+- Father: T2DM, alive
+- No family history of SCD or cardiomyopathy
+
+## SOCIAL HISTORY
+
+- Non-smoker, no EtOH/illicit drug use
+- Lives with partner, works as a school admin
+- No recent travel
+
+## ALLERGIES
+
+- NKDA
+
+## HOME MEDICATIONS
+
+- Hydrochlorothiazide 12.5mg PO QD
+
+---
+
+## PHYSICAL EXAM (ICU Day 5)
+
+**Gen:** Awake, alert, NAD  
+**VS:** T 37.2°C, HR 92, BP 106/68, RR 18, SpO2 96% on 2L  
+**HEENT:** PERRL, MMM, no JVD  
+**Chest:** Bibasilar crackles, improving  
+**CV:** S1S2, soft S3, no murmur, Impella hum noted  
+**Abd:** Soft, NT, NABS, no HSM  
+**Ext:** 1+ pitting LE edema, improving  
+**Neuro:** AOx3, no focal deficit
+
+---
+
+## HOSPITAL LABS
+
+| Date        | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | AST (U/L) | ALT (U/L) | Troponin (ng/mL) | Lactate (mmol/L) |
+|-------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|--------------|-----------|-----------|------------------|------------------|
+| 4/18/2024   | 12.3       | 16.8       | 48      | 204        | 134         | 4.9        | 100         | 18           | 29          | 2.1        | 108          | 82        | 75        | 1.12             | 4.8              |
+| 4/19/2024   | 10.6       | 15.4       | 44      | 163        | 136         | 4.2        | 98          | 23           | 34          | 2.4        | 114          | 155       | 110       | 0.72             | 3.3              |
+| 4/20/2024   | 8.8        | 13.9       | 41      | 135        | 139         | 3.8        | 104         | 27           | 22          | 1.6        | 102          | 96        | 81        | 0.19             | 1.1              |
+| 4/21/2024   | 9.4        | 13.7       | 40      | 101        | 140         | 4.1        | 101         | 25           | 19          | 1.2        | 106          | 42        | 36        | <0.01            | 0.8              |
+| 4/22/2024   | 7.2        | 13.1       | 39      | 89         | 142         | 4.3        | 102         | 24           | 16          | 1.1        | 98           | 27        | 30        | <0.01            | 0.7              |
+| 4/23/2024   | 6.9        | 12.7       | 37      | NA         | 141         | 4.4        | 98          | 25           | 15          | 1.0        | NA           | NA        | NA        | NA               | NA               |
+| 4/24/2024   | 7.6        | 12.9       | 38      | 141        | 140         | 4.1        | 99          | 27           | 13          | 0.9        | 90           | 24        | 28        | <0.01            | NA               |
+
+*NA = Not Available
+
+---
+
+## IMAGING
+
+- **4/18/2024, CXR:** Diffuse pulmonary edema, mild cardiomegaly, no consolidation/effusion.
+- **4/18/2024, TTE:** LVEF 15%, global hypokinesis, mild MR, RV mildly reduced.
+- **4/21/2024, TTE:** LVEF 25%, LV dilation, no thrombus, Impella in place, mild MR.
+- **4/24/2024, CXR:** Improving vascular congestion, Impella removed, no pneumothorax.
+
+---
+
+## ASSESSMENT/PLAN
+
+**1. Cardiogenic shock secondary to acute severe decompensated heart failure (likely viral myocarditis):**  
+- Required Impella CP for mechanical circulatory support, now explanted.
+- Weaning inotropes/pressors, transitioning to GDMT (BB, ACEi).
+- Serial echos to monitor recovery.
+- Monitor for arrhythmia, renal/liver dysfunction.
+- Cardiac MRI planned outpatient for etiology.
+
+**2. Acute kidney injury (pre-renal, multifactorial):**  
+- Initial oliguric AKI, likely from low perfusion.
+- Improving with volume removal and improved CO.
+- Monitor UOP, daily BMP.
+- Avoid nephrotoxins.
+
+**3. Transient hepatic injury:**  
+- LFTs peaked on day 2-3, now trending down.
+- Supportive care.
+
+**4. Thrombocytopenia:**  
+- Down-trending platelets, nadir 89K, likely multifactorial (Impella, sepsis, dilution).
+- Monitoring daily, no active bleeding.
+- Heme to follow if worsening.
+
+**5. Hypertension (chronic):**  
+- Off home HCTZ, will resume when stable.
+- Titrate oral antihypertensives prior to discharge.
+
+**6. Deconditioning:**  
+- Early PT/OT, nutrition consult.
+- Discharge planning with cardiac rehab.
+
+**7. Viral URTI (remote):**  
+- No evidence of ongoing infection, abx stopped.
+
+**8. Miscellaneous:**  
+- VTE prophylaxis (heparin SQ).
+- Stress ulcer prophylaxis (pantoprazole).
+- Glycemic control, DVT screening negative.
+- Family/caregiver support, SW involved.
+
+---
+
+### Disposition:  
+- Anticipate stepdown to telemetry in 24-48h.
+- Follow up with HF clinic, cardiac MRI, repeat echo in 4-6 weeks.
+
+---
+
+**Signed:**  
+Dr. R. Singh, MD  
+Date: 2024-04-24  
+**Time:** 16:53
+
+---

@@ -1,0 +1,173 @@
+---
+**Patient Name:** Truman Durgan  
+**MRN:** 00231456  
+**DOB:** 03/24/1965  
+**Sex:** Male  
+**Attending:** Dr. R. Hendersen  
+**Date of Admission:** 05/16/2024  
+**Date of Note:** 05/23/2024  
+**Service:** Cardiology ICU  
+**Admitting Diagnosis:** Cardiogenic Shock secondary to acute decompensated heart failure  
+**Code Status:** Full Code
+
+---
+
+### CHIEF COMPLAINT  
+Shortness of breath, orthopnea, chest tightness
+
+---
+
+### HISTORY OF PRESENT ILLNESS  
+59-year-old male with history of prediabetes, anemia, recurrent upper respiratory infections, and recent diagnosis of heart failure with reduced ejection fraction (HFrEF, EF ~22% on echo 1 week prior to admission) who presented to ED with worsening dyspnea, increasing orthopnea, and lower extremity edema for 5 days. Patient reported a recent viral illness (sore throat, cough, fever) treated outpatient with amoxicillin and acetaminophen. On day of admission, he developed confusion, diaphoresis, and hypotension. On arrival to ED: BP 78/54, HR 112, O2 sat 89% on RA, RR 28. Exam notable for cool extremities, JVD to angle of jaw, and bibasilar crackles. Initial labs: lactate 4.2, troponin mildly elevated. CXR: pulmonary edema. EKG: NSR with occasional PVCs.
+
+Despite diuresis and inotropes, patient’s perfusion worsened, requiring vasopressors and urgent placement of a percutaneous left ventricular assist device (Impella CP) in the CCU. Hemodynamics improved and device was explanted on hospital day 4. Remained in ICU for ongoing management of multi-organ dysfunction, anemia, and volume overload.
+
+---
+
+### PAST MEDICAL HISTORY
+- Prediabetes
+- Anemia (chronic, microcytic, baseline Hgb 11-13)
+- HFrEF (EF 22%)
+- Acute bronchitis/pharyngitis (multiple episodes)
+- Otitis media, viral sinusitis (remote)
+- Wrist sprain (remote)
+
+### PAST SURGICAL HISTORY
+- None
+
+### ALLERGIES
+- NKDA
+
+### HOME MEDICATIONS
+- Amoxicillin 500 mg PO BID (recent, completed)
+- Acetaminophen 325 mg PO Q6H PRN
+- OTC cough/cold syrup (acetaminophen/dextromethorphan/doxylamine)
+
+### SOCIAL HISTORY
+- Lives with spouse
+- Former tobacco (quit 2010), no EtOH, no illicit drugs
+- Retired bus driver
+
+---
+
+### PHYSICAL EXAM (ICU Day 7)
+- **Gen:** Alert, NAD, mild confusion (improving)
+- **VS:** T 37.1°C, HR 88, BP 110/64 (MAP 79), RR 18, SpO2 95% on 2L NC
+- **HEENT:** Oropharynx clear, mild mucosal pallor
+- **Neck:** JVD 8 cm
+- **CV:** S1, S2, S3, no murmur, Impella site clean/dry
+- **Lungs:** Bibasilar crackles, mild wheeze
+- **Abd:** Soft, NT, mild hepatomegaly
+- **Ext:** 2+ pitting edema BLE, pulses 2+
+- **Neuro:** AOx2, slow to respond but improving
+
+---
+
+### ICU COURSE OVERVIEW
+
+**HD1**: Admission to ICU with cardiogenic shock; started on norepinephrine, dobutamine.  
+**HD2**: Impella CP placed via R femoral approach. Initial improvement in MAP and urine output.  
+**HD3**: Monitored for hemolysis, hemoglobin dropped, required 2 units PRBC.  
+**HD4**: Impella explanted. Vasopressors weaned.  
+**HD5–7**: Diuresis, transitioned to oral HF regimen. Mild delirium, anemia managed.  
+**HD8**: Transferred to stepdown unit.
+
+---
+
+## LABORATORY DATA
+
+**Table 1: CBC & Chemistry Panel (Selected Days)**
+| Date        | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|-------------|------------|------------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|
+| HD1 (05/16) | 15.2       | 11.1       | 146        | 139         | 4.7        | 108         | 19           | 29          | 1.52       | 134         |
+| HD2         | 13.8       | 9.2        | 132        | 141         | 4.3        | 111         | 18           | 33          | 1.68       | 118         |
+| HD3         | 12.7       | 8.6        | 121        | 142         | 4.1        | 109         | 17           | 35          | 1.73       | 114         |
+| HD4         | 11.5       | 9.8        | 128        | 140         | 4.0        | 110         | 20           | 28          | 1.32       | 132         |
+| HD5         | 10.1       | 10.7       | 137        | 141         | 4.2        | 109         | 22           | 22          | 1.16       | 140         |
+| HD6         | 9.4        | 11.2       | 145        | 140         | 4.0        | 110         | 23           | 19          | 1.08       | 136         |
+| HD7         | 8.2        | 11.9       | 152        | 142         | 4.2        | 109         | 21           | 15          | 1.04       | 126         |
+| HD8         | 7.8        | 12.4       | 157        | 142         | 4.3        | 108         | 22           | 14          | 1.01       | 121         |
+
+**Table 2: Cardiac / Other Labs**
+| Date        | Troponin I (ng/mL) | BNP (pg/mL) | Lactate (mmol/L) | AST (U/L) | ALT (U/L) | Total bili (mg/dL) |
+|-------------|--------------------|-------------|------------------|-----------|-----------|--------------------|
+| HD1         | 0.18               | 4456        | 4.2              | 78        | 66        | 1.3                |
+| HD2         | 0.15               | 3976        | 2.8              | 61        | 58        | 1.0                |
+| HD3         | 0.10               | 3120        | 2.1              | 54        | 49        | 0.7                |
+| HD4         | 0.08               | 1985        | 1.2              | 35        | 32        | 0.6                |
+| HD5         | -                  | 1521        | 0.9              | 28        | 24        | 0.5                |
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic shock, HFrEF (EF 22%), s/p Impella CP (HD2–4):**  
+- Initial decompensation likely precipitated by viral illness (possible myocarditis vs. ischemia).  
+- Managed with vasopressors/inotropes, then temporary LV support (Impella CP), now explanted.  
+- Daily monitoring of hemodynamics, weaned off vasoactives, now stable on oral HF regimen (carvedilol, lisinopril, furosemide).  
+- Plan: Continue HF guideline therapy, strict I/Os, daily weights, monitor for arrhythmia, consider CRT if persistent low EF.
+
+**2. Anemia (Hgb nadir 8.6, chronic microcytic):**  
+- Likely multifactorial: acute blood loss (Impella, phlebotomy), chronic disease.  
+- Transfused 2U PRBC HD3.  
+- Plan: Iron studies pending, continue to monitor CBC, minimize phlebotomy, GI workup as outpatient.
+
+**3. Acute kidney injury (Cr peaked 1.73, now improving):**  
+- Likely pre-renal from hypoperfusion, improved with hemodynamic recovery.  
+- Plan: Monitor renal function, avoid nephrotoxins, optimize volume status.
+
+**4. Delirium, ICU-related:**  
+- Multifactorial: shock, sedation, metabolic derangements.  
+- Plan: Reorient, minimize sedation, PT/OT, sleep hygiene.
+
+**5. Prediabetes (A1c 6.2%):**  
+- No current hyperglycemia; maintain euglycemia.  
+- Plan: Monitor FS glucose, diabetes education prior to discharge.
+
+**6. Infection risk:**  
+- Recent URI, on amoxicillin. No current evidence of pneumonia or active infection.  
+- Plan: Monitor for secondary infection, daily CXR, procalcitonin if fever.
+
+**7. Volume overload:**  
+- Diuresed with IV furosemide, now on oral regimen.  
+- Plan: Continue diuresis to euvolemia, monitor electrolytes.
+
+**8. Secondary prevention:**  
+- Statin started, aspirin if not contraindicated.  
+- Plan: Aggressive risk factor modification, smoking cessation counseling, cardiac rehab referral.
+
+**9. Social/Disposition:**  
+- Spouse supportive, lives at home, needs PT/OT evaluation for safe discharge.  
+- Plan: Anticipate transfer to stepdown, then home with VNA.
+
+---
+
+### MEDICATIONS (INPATIENT)
+- Carvedilol 12.5 mg PO BID
+- Lisinopril 5 mg PO daily
+- Furosemide 40 mg IV BID → PO
+- Atorvastatin 40 mg PO daily
+- Ferrous sulfate 325 mg PO BID
+- Acetaminophen 325 mg PO Q6H PRN
+- Docusate sodium 100 mg PO BID PRN
+- Sliding scale insulin PRN
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+- Admitted with decompensated HF and cardiogenic shock, required temporary LVAD (Impella CP) for 48 hours.
+- Course complicated by AKI, anemia requiring transfusion, and ICU delirium.
+- Gradual improvement, weaned off pressors, transitioned to oral HF medications, and diuresed to near euvolemia.
+- Anticipate stepdown transfer, ongoing PT/OT, close outpatient follow-up with HF clinic.
+
+---
+
+### SIGNED:  
+Dr. R. Hendersen, MD  
+Cardiology ICU  
+05/23/2024 17:24
+
+---
+
+**[End of Note]**

@@ -1,0 +1,137 @@
+```
+Patient Name: Breana Rogahn             MRN: 002983746
+DOB: 10/17/1987           Sex: Female         FIN: 10293847
+Attending: Dr. Jameson, Cardiology         Consultant: Dr. Patel, Neurology
+Admit Date: 5/22/2024     Location: MICU, Room 23
+Date/Time of Note: 5/26/2024 09:12 AM       Author: Dr. L. Smith
+
+---------------------------------------------------------------------
+ADMISSION SUMMARY
+---------------------------------------------------------------------
+Breana Rogahn is a 36-year-old female with PMHx significant for seizure disorder (single provoked seizure 2019, on no maintenance AED), multiple normal pregnancies, and recurrent viral sinusitis, presenting to the ED with acute onset chest pain, dyspnea, and progressive orthopnea. On arrival, she was noted to be tachycardic, hypotensive, and hypoxic, requiring emergent transfer to the ICU. Initial workup was notable for elevated cardiac biomarkers, diffuse ST depressions on ECG, and echo revealing severely reduced LVEF (20%). She developed cardiogenic shock requiring initiation of inotropes and, subsequently, placement of a temporary left ventricular assist device (Impella CP) for hemodynamic support.
+
+---------------------------------------------------------------------
+HOSPITAL COURSE
+---------------------------------------------------------------------
+Day 0: Presents to ED with chest pain, SOB. Hypotensive (BP 75/45), tachycardic (HR 122), O2 sat 90% RA. BNP 1680, troponin T 0.84. ECG: diffuse ST depressions. Echo: LVEF 20%, global hypokinesis. Started norepinephrine, dobutamine. Admitted to MICU. 
+Day 1: Worsening shock, evidence of end-organ hypoperfusion (AKI, elevated LFTs, rising lactate). Decision made for temporary LV support. Impella CP placed, with improvement in MAP and urine output. 
+Day 2: Weaning of vasopressors. Renal function improving, lactate downtrending. Neurology consulted for mild confusion; EEG negative for epileptiform activity.
+Day 3: Cardiac function stable on Impella. Weaning O2. Diuresis initiated. 
+Day 4: TTE shows modest recovery (LVEF 30%). Impella weaned, explanted without complication. 
+Day 5: Transferred to step-down unit. Mobilizing, tolerating PO, no further chest pain or seizures.
+
+---------------------------------------------------------------------
+ALLERGIES
+---------------------------------------------------------------------
+No known drug allergies.
+
+---------------------------------------------------------------------
+CURRENT MEDICATIONS
+---------------------------------------------------------------------
+- Amoxicillin/clavulanate 875/125 mg PO BID (completed, for sinusitis)
+- Metoprolol succinate 25 mg PO daily
+- Furosemide 40 mg IV BID (MICU days 2-4)
+- Aspirin 81 mg PO daily
+- Atorvastatin 40 mg PO nightly
+- Jolivette 28 Day Pack (discontinued on admission)
+- Mirena IUD (in place)
+- Levothyroxine 50 mcg PO daily (home med)
+- Pantoprazole 40 mg IV daily
+
+---------------------------------------------------------------------
+VITALS (MICU)
+---------------------------------------------------------------------
+| Date       | Temp (°C) | HR   | BP        | RR   | O2 Sat (%) | Pain |
+|------------|-----------|------|-----------|------|------------|------|
+| 5/22/2024  | 36.8      | 122  | 75/45     | 24   | 90         | 7    |
+| 5/23/2024  | 37.0      | 110  | 90/60     | 18   | 96         | 5    |
+| 5/24/2024  | 36.7      | 96   | 104/68    | 16   | 98         | 3    |
+| 5/25/2024  | 36.6      | 88   | 112/70    | 14   | 98         | 2    |
+| 5/26/2024  | 36.7      | 80   | 118/74    | 14   | 99         | 1    |
+
+---------------------------------------------------------------------
+LABS
+---------------------------------------------------------------------
+CBC / CHEMISTRY
+
+| Date       | WBC   | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|-------|------|------|-------|------|------|------|------|------|------|------|
+| 5/22/24    | 5.2   | 14.7 | 44.8 | 382   | 134  | 4.1  | 102  | 23   | 22   | 1.1  | 108  |
+| 5/23/24    | 4.9   | 13.9 | 41.7 | 346   | 132  | 4.5  | 101  | 21   | 32   | 1.7  | 122  |
+| 5/24/24    | 5.6   | 13.2 | 39.9 | 322   | 136  | 4.0  | 104  | 24   | 25   | 1.3  | 116  |
+| 5/25/24    | 6.1   | 13.8 | 42.1 | 298   | 138  | 4.2  | 105  | 26   | 19   | 1.0  | 102  |
+| 5/26/24    | 5.8   | 14.4 | 44.3 | 305   | 139  | 3.9  | 106  | 25   | 14   | 0.9  | 98   |
+
+OTHER LABS
+
+| Date       | Troponin T | BNP   | AST  | ALT  | Alk Phos | T. Bili | Lactate |
+|------------|------------|-------|------|------|----------|---------|---------|
+| 5/22/24    | 0.84       | 1680  | 98   | 112  | 180      | 2.1     | 4.8     |
+| 5/23/24    | 0.62       | 1400  | 76   | 80   | 154      | 1.7     | 3.2     |
+| 5/24/24    | 0.38       | 1200  | 53   | 61   | 124      | 1.1     | 2.1     |
+| 5/25/24    | 0.12       | 890   | 40   | 42   | 111      | 0.8     | 1.1     |
+| 5/26/24    | <0.01      | 610   | 33   | 36   | 102      | 0.7     | 0.8     |
+
+---------------------------------------------------------------------
+IMAGING
+---------------------------------------------------------------------
+- EKG (5/22): Sinus tachycardia, diffuse ST depressions, no Q waves.
+- CXR (5/22): Pulmonary edema, cardiomegaly.
+- TTE (5/22): LVEF 20%, global hypokinesis, mild MR.
+- TTE (5/25): LVEF 30%, improved wall motion.
+
+---------------------------------------------------------------------
+PROBLEM-BASED ASSESSMENT & PLAN
+---------------------------------------------------------------------
+1. **Cardiogenic shock, new onset, likely myocarditis vs. peripartum/post-viral**
+   - Required Impella CP placement for hemodynamic support (5/23-5/25)
+   - Now off device, stable, MAP > 65, off inotropes
+   - Echo shows improved LVEF (30%)
+   - Plan: Continue GDMT for HF, monitor volume status, daily weights, repeat echo in 2 weeks, restrict fluids, sodium <2g/day, slow diuresis
+
+2. **Acute kidney injury (AKI) secondary to hypoperfusion**
+   - BUN/Cr peaked at 32/1.7, improved with end-organ perfusion
+   - UOP now >1mL/kg/hr, Cr trending down
+   - Plan: Continue to monitor, avoid nephrotoxins, adjust meds for renal function
+
+3. **Transaminitis, likely ischemic hepatitis**
+   - AST/ALT peaked 98/112, now improving
+   - Plan: Monitor LFTs, no hepatotoxic meds
+
+4. **Seizure disorder (remote, no AEDs)**
+   - No witnessed seizure activity during admission
+   - Mild confusion on day 2, EEG negative
+   - Plan: Neuro f/u as outpatient, continue seizure precautions in hospital
+
+5. **Recurrent viral sinusitis**
+   - On amox/clav, completed course
+   - Plan: Supportive care, monitor for superimposed infection
+
+6. **Contraception management**
+   - Mirena IUD in place, OCPs held during acute illness
+   - Plan: Resume OCPs upon discharge if desired, discuss with OB/GYN
+
+7. **Pain (mild, 0-3/10 past 48h)**
+   - Plan: PRN acetaminophen, avoid NSAIDs due to renal recovery
+
+8. **Hyperlipidemia**
+   - LDL 90, on atorvastatin
+   - Plan: Continue statin, dietary counseling
+
+9. **Social/Other**
+   - Lives with partner, 2 children. Works as teacher.
+   - No tobacco, rare EtOH, no illicit drugs.
+
+---------------------------------------------------------------------
+DISPOSITION
+---------------------------------------------------------------------
+- Step-down unit, anticipate discharge home in 2-3 days
+- Close cardiology and neurology f/u; outpatient echo scheduled
+- Home health RN for BP/weight checks, medication management
+
+---------------------------------------------------------------------
+AUTHENTICATION
+---------------------------------------------------------------------
+Electronically signed by Dr. L. Smith, MD, Cardiology
+Date/Time: 5/26/2024 09:12 AM
+```

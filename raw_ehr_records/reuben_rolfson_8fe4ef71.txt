@@ -1,0 +1,164 @@
+---
+**Patient:** Reuben Rolfson  
+**MRN:** 00451928  
+**DOB:** 1976-06-28 (47 years old)  
+**Sex:** Male  
+**Admission Date:** 2024-04-23  
+**Attending:** Dr. A. Kessler  
+**Unit:** CVICU  
+**Admitting Diagnosis:** Cardiogenic shock secondary to acute MI  
+**Secondary Diagnoses:** Obesity, CAD, s/p MI, Hypertension, Hyperlipidemia, Viral sinusitis, Laceration of forearm (resolved)
+
+---
+
+# History of Present Illness
+
+47-year-old male with PMH significant for obesity (BMI 30+), CAD, prior MI (2019), hypertension, hyperlipidemia, and recent viral sinusitis, presenting to ED with acute-onset substernal chest pain radiating to left arm, diaphoresis, and dyspnea. Initial ECG showed ST elevations in anterior leads. Emergent cath revealed 100% proximal LAD occlusion; PCI performed with DES placement. Hospital course complicated by hypotension refractory to fluids and vasopressors, requiring temporary LVAD (Impella CP) placement for cardiogenic shock. Transferred to CVICU.
+
+---
+
+# Hospital Course Summary
+
+- **Day 1:** Presented with STEMI, underwent emergent PCI to LAD. Developed hypotension, lactate 6.2, echo with EF 18%. Started on norepinephrine, dobutamine. Impella CP placed for mechanical circulatory support. Intubated for hypoxic respiratory failure.
+- **Day 2:** Weaned off norepinephrine. Improving lactate. Remains on Impella, EF 22%. Mild transaminitis.  
+- **Day 3:** Extubated. Impella flows weaned overnight. Started on low-dose captopril, uptitrated statin.  
+- **Day 4:** Impella removed. Echo EF 30%. Transferred to step-down unit.  
+- **Day 5:** Ambulating with PT. Discharged to home on GDMT.
+
+---
+
+# Problem List & Assessment/Plan
+
+## 1. Cardiogenic Shock s/p STEMI (LAD)
+- **Assessment:** Acute anterior STEMI with profound LV dysfunction and cardiogenic shock, required Impella CP for 72 hours. Hemodynamics stabilized, EF improved to 30%.  
+- **Plan:**  
+  - Monitor for arrhythmias, volume status.
+  - Continue GDMT (captopril, beta-blocker, statin, DAPT).
+  - Follow-up with outpatient HF clinic in 1 week.
+  - Consider ICD if EF remains <35% at 90 days.
+
+## 2. Coronary Artery Disease / s/p PCI
+- **Assessment:** CAD with prior MI, multiple risk factors. DES placed to proximal LAD.  
+- **Plan:**  
+  - Continue DAPT (clopidogrel, ASA), statin, ACEi, BB.
+  - Lifestyle counseling for weight loss, exercise.
+  - Cardiac rehab referral.
+
+## 3. Obesity (BMI 30+)
+- **Assessment:** BMI 30.1 at admission. Obesity is a major CV risk factor.
+- **Plan:**  
+  - Nutrition consult.
+  - Weight reduction goals.
+  - Monitor for OSA symptoms.
+
+## 4. Hypertension
+- **Assessment:** Long-standing, suboptimally controlled.
+- **Plan:**  
+  - Resume amlodipine, titrate as tolerated.
+  - Monitor BP, adjust meds as needed.
+
+## 5. Hyperlipidemia
+- **Assessment:** On statins, LDL at goal.
+- **Plan:**  
+  - Continue atorvastatin 80 mg.
+  - Lipid panel in 6 weeks.
+
+## 6. Recent Viral Sinusitis
+- **Assessment:** Symptoms resolved, no evidence of ongoing infection.
+- **Plan:**  
+  - Supportive care. Monitor for recurrence.
+
+## 7. Laceration of Forearm (resolved)
+- **Assessment:** Sutured in ED, no signs of infection.
+- **Plan:**  
+  - Remove sutures in 7 days. Monitor wound.
+
+## 8. Pain
+- **Assessment:** Mild-moderate post-procedural pain, NRS 3-4/10.
+- **Plan:**  
+  - PRN acetaminophen.
+  - Avoid NSAIDs.
+
+---
+
+# ICU Events
+
+- Temporary heart pump (Impella CP) placed for 72 hours, no device complications.
+- Extubated post-Impella wean.
+- No arrhythmias, no significant bleeding.
+- Mild transaminitis (peak ALT 98, AST 72).
+- Mobilized by PT on day 4.
+
+---
+
+# Discharge Medications
+
+- Aspirin 81 mg PO daily
+- Clopidogrel 75 mg PO daily
+- Atorvastatin 80 mg PO qHS
+- Captopril 25 mg PO BID
+- Amlodipine 5 mg PO daily
+- Acetaminophen 325 mg PO q6h PRN
+- Nitroglycerin 0.4 mg/spray PRN
+- Docusate 100 mg PO BID PRN
+
+---
+
+# Laboratory Data
+
+**Table 1. CBC and CHEM7 Labs**
+
+| Date       | WBC (K) | Hgb (g/dL) | Plt (K) | Na | K   | Cl  | CO2 | BUN | Cr  | Glu | Ca  |
+|------------|---------|------------|---------|----|-----|-----|-----|-----|-----|-----|-----|
+| 4/23 06:00 | 10.2    | 15.6       | 223     | 137| 3.8 | 101 | 21  | 18  | 1.0 | 128 | 8.9 |
+| 4/23 18:00 | 12.1    | 14.9       | 203     | 135| 4.2 | 98  | 19  | 23  | 1.1 | 169 |     |
+| 4/24 06:00 | 11.5    | 13.2       | 188     | 134| 4.0 |     | 22  | 27  | 1.4 | 144 | 8.6 |
+| 4/25 07:00 | 9.9     | 12.8       | 176     |    | 3.9 | 102 | 24  | 20  | 1.2 | 115 | 8.4 |
+| 4/26 06:00 | 8.7     | 13.0       | 191     | 138| 4.1 | 99  | 25  | 17  |     | 102 | 8.8 |
+
+**Additional Labs**
+
+| Date       | Troponin I | CK-MB | BNP   | ALT | AST | ALP | TBili | Lactate |
+|------------|------------|-------|-------|-----|-----|-----|-------|---------|
+| 4/23 07:00 | 23.5       | 28.1  | 1820  | 65  | 54  | 88  | 0.9   | 6.2     |
+| 4/24 06:00 | 12.8       | 14.7  | 1440  | 98  | 72  | 90  | 1.1   | 2.8     |
+| 4/25 08:00 | 2.9        | 4.2   | 1110  | 53  | 36  |     |       | <2.0    |
+| 4/26 06:00 | 0.7        |       | 900   | 38  | 22  | 77  | 0.7   | 1.1     |
+
+---
+
+# Imaging
+
+- **4/23:** CXR: mild pulmonary edema, normal mediastinum.
+- **4/23:** Echo: EF 18%, severe anterior hypokinesis, no LV thrombus.
+- **4/25:** Echo: EF 30%, improved wall motion, no pericardial effusion.
+
+---
+
+# Vitals (selected)
+
+| Date/Time   | Temp (°C) | HR  | BP         | RR  | SpO2 | Pain |
+|-------------|-----------|-----|------------|-----|------|------|
+| 4/23 06:00  | 36.8      | 111 | 86/54 MAP 65| 24  | 92%  | 6    |
+| 4/24 06:00  | 36.7      | 90  | 102/60     | 18  | 97%  | 2    |
+| 4/25 07:00  | 37.1      | 78  | 120/74     | 16  | 98%  | 1    |
+| 4/26 08:00  | 36.9      | 76  | 128/78     | 14  | 98%  | 2    |
+
+---
+
+# Disposition
+
+- Discharged home, stable, with close outpatient follow-up.
+- Outpatient echo in 4 weeks, HF clinic in 1 week, cardiology in 2 weeks.
+
+---
+
+# Physician Attestation
+
+I have reviewed the above and discussed the hospital course and discharge plan with the patient and family.
+
+**Dr. A. Kessler, MD**  
+CVICU Attending  
+04/26/2024 11:12
+
+---

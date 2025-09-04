@@ -1,0 +1,155 @@
+**Patient:** Omar Orn  
+**MRN:** 002348971  
+**DOB:** 07/29/1960  
+**Sex:** Male  
+**Admit Date:** 04/18/2024  
+**Attending:** Dr. J. Sanchez  
+**Service:** MICU  
+**Note Type:** Progress Note  
+**Date/Time:** 04/24/2024 06:01
+
+---
+
+# **History of Present Illness**
+63 yo M w/ hx of acute bronchitis, prior GSW (bullet wound, L chest, remote, 2016), HTN, and hyperlipidemia, p/w 2d dyspnea, orthopnea, productive cough, and low-grade fevers. Found to be tachypneic and hypoxic in ED. Rapid clinical decline with acute decompensated heart failure and cardiogenic shock requiring ICU admission. Echo with severe global hypokinesis, LVEF ~15%. Emergent placement of temporary LVAD (Impella CP) on HD #2 for refractory shock. Bronchitis complicated by superimposed pneumonia.  
+
+**Home meds:** Acetaminophen 325mg PO PRN, simvastatin (noncompliant), no antiplatelets/anticoagulation.
+
+**Allergies:** NKDA
+
+---
+
+# **Hospital Course**
+- **ED:** 
+  - Hypotensive (BP 82/44), tachycardic (HR 119), SpO2 88% RA, Temp 37.9°C.
+  - Initial labs: WBC 18K, troponin 0.28→0.45 ng/mL, lactate 4.3 mmol/L, Cr 1.8 mg/dL.
+  - CXR: Bilateral infiltrates, mild cardiomegaly, no retained bullet/FB.
+  - Started on O2, empiric ceftriaxone + azithro, IV furosemide, and norepinephrine.
+
+- **ICU Days 1-2:**  
+  - Progressed to frank cardiogenic shock, MAP <55 despite pressors/inotropes.
+  - Bedside TTE: LVEF 15%. 
+  - Emergent Impella CP placed via R femoral a.  
+  - Continued volume overload, required intermittent HD x2 for AKI.
+  - Extubated on HD#4 after 48h of BiPAP.
+
+- **Complications:** 
+  - Transient hemolysis post-Impella (↑LDH, ↓haptoglobin, mild hematuria).
+  - AKI (Cr peak 2.6, improved to 1.5).
+  - Mild transaminitis (AST/ALT peak 89/76).
+  - No overt bleeding. 
+  - No arrhythmias.
+
+- **Current:**  
+  - Now day 6 post-admit. Impella removed HD#5.
+  - Diuresis ongoing, euvolemic, off pressors.
+  - Ambulating in room, tolerating oral diet.
+
+---
+
+# **Physical Exam**
+**Gen:** Appears fatigued, conversant.  
+**VS:** T 36.8, HR 78, BP 108/62, RR 18, SpO2 95% 2L NC  
+**HEENT:** No JVD, oropharynx clear  
+**CV:** S1S2, no MRG, distal pulses 2+, no edema  
+**Resp:** Bibasilar crackles, no increased WOB  
+**GI:** Soft, NT, ND, no HSM  
+**GU:** Foley d/c’d, voiding clear  
+**Neuro:** AOx3, no focal deficit  
+**Skin:** Femoral sites clean/dry/INT, bullet scar L chest
+
+---
+
+# **Labs**
+
+| Date        | WBC  | Hgb  | Hct  | Plt  | Na  | K   | Cl  | CO2 | BUN | Cr  | Glu | AST | ALT | Trop  | LDH  |
+|-------------|------|------|------|------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-------|------|
+| 4/18 06:00  | 18.0 | 16.5 | 44.2 | 172  | 134 | 5.1 | 98  | 21  | 33  | 1.8 | 142 | 65  | 52  | 0.28  | 420  |
+| 4/19 05:20  | 15.2 | 15.2 | 41.0 | 149  | 132 | 4.7 | 100 | 19  | 38  | 2.2 | 136 | 89  | 76  | 0.45  | 660  |
+| 4/20 06:10  | 12.6 | 14.1 | 38.2 | 130  | 137 | 4.3 | 102 | 23  | 42  | 2.6 | 128 | 81  |     | 0.31  | 590  |
+| 4/21 04:55  | 10.9 | 13.5 | 36.8 | 142  | 139 | 3.9 | 100 | 25  | 29  | 2.0 |     | 72  | 61  | 0.16  | 350  |
+| 4/22 06:00  | 8.4  | 13.2 | 36.2 | 156  | 140 | 4.1 | 101 | 26  | 23  | 1.6 | 114 | 69  | 60  | <0.01 | 270  |
+| 4/23 07:10  | 6.2  | 12.9 | 35.6 | 163  | 141 | 4.3 | 103 | 25  | 18  | 1.5 | 109 |     |     | <0.01 | 210  |
+| 4/24 05:33  | 5.1  | 12.7 | 34.9 | 158  | 140 | 4.0 |     | 24  | 16  | 1.5 |     |     |     | <0.01 |      |
+
+*Other labs*:  
+- Haptoglobin: 21 (low, 4/19), 74 (4/22)
+- D-dimer: 1.3 (4/18)
+- INR: 1.2 (4/18), 1.3 (4/21)
+- BNP: 1,580 (4/18), 1,210 (4/21)
+- CXR: Improving bibasilar opacities 4/23
+
+---
+
+# **Assessment & Plan**
+
+**1. Cardiogenic shock, likely ischemic (new)**  
+   - Severe global LV dysfunction, LVEF 15%  
+   - Emergent Impella CP placed HD#2, removed HD#5  
+   - No further ischemic symptoms, troponin downtrending  
+   - Plan: Continue GDMT, cardiac rehab, serial EKGs, TTE prior to d/c  
+   - Outpatient: Refer to advanced HF clinic, consider device therapy if persistent low EF
+
+**2. Acute decompensated heart failure**  
+   - Etiology: likely ischemic + acute on chronic, ?contribution from bronchitis  
+   - Ongoing gentle diuresis, monitor volume status  
+   - Daily weights, adjust diuretics as needed
+
+**3. Acute bronchitis/pneumonia**  
+   - Sputum cx: no growth, blood cx neg  
+   - 5d ceftriaxone/azithro completed  
+   - Monitor for recurrence, encourage pulm hygiene
+
+**4. AKI (pre-renal, improved)**  
+   - Peak Cr 2.6, now 1.5, off HD  
+   - Monitor renal fx, avoid nephrotoxins
+
+**5. History of GSW, L chest**  
+   - Scar, no retained bullet, no infection  
+   - No acute issues
+
+**6. Hyperlipidemia, poorly controlled**  
+   - Resume statin  
+   - Cardiac diet, lipid panel f/u
+
+**7. Pain (chest, mild, stable)**  
+   - Acetaminophen PRN  
+   - No opioids required
+
+**8. Fall risk, deconditioning**  
+   - PT/OT eval, early mobility  
+
+**9. Secondary prevention**  
+   - Smoking cessation counseling  
+   - Vaccinations up to date
+
+**Dispo:**  
+- Anticipate transfer to stepdown in 24-48h, possible discharge home in 3-5d depending on progress.
+
+---
+
+# **Medications**
+- Acetaminophen 325mg PO PRN
+- Simvastatin 20mg PO qHS
+- Furosemide 40mg IV q12h (tapering)
+- Lisinopril 2.5mg PO daily (initiated HD#5)
+- Metoprolol succinate 12.5mg PO daily (initiated HD#5)
+- Multivitamin daily
+
+---
+
+# **Orders**
+- TTE prior to d/c
+- Daily labs (CBC, Chem7, LFTs)
+- Cardiac telemetry
+- PT/OT
+- Cardiology f/u
+
+---
+
+# **Sign-off:**  
+Dr. J. Sanchez, MD  
+MICU Attending  
+04/24/2024 06:01
+
+---

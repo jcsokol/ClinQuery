@@ -1,0 +1,169 @@
+**Patient:** Abernathy, Luther  
+**MRN:** 00237851  
+**DOB:** 10/02/1978  
+**Sex:** Male  
+**Admit Date:** 2024-04-27  
+**Attending:** Dr. G. Malhotra  
+**Service:** Cardiology ICU  
+**Note Type:** Progress Note  
+**Note Date:** 2024-05-03  
+**Author:** K. Sullivan, MD  
+
+---
+
+### CHIEF COMPLAINT  
+Progressive shortness of breath, orthopnea, and lower extremity edema.
+
+---
+
+### HISTORY OF PRESENT ILLNESS  
+Luther Abernathy is a 45-year-old male with a history of severe obesity (BMI 41), prediabetes, anemia, and recurrent upper respiratory infections (sinusitis/bronchitis) who presented with 5 days of worsening dyspnea, cough productive of white sputum, and increasing bilateral lower extremity swelling. He denied chest pain but noted significant orthopnea requiring 4 pillows and paroxysmal nocturnal dyspnea. He was initially admitted to the floor, but on hospital day 2 developed hypotension (SBP 78 mmHg), tachycardia, and worsening hypoxia. Cardiology was consulted and bedside echo revealed severe global LV dysfunction (EF 13%), dilated LV, and moderate MR. Patient transferred to CICU for management of acute decompensated heart failure/cardiogenic shock.
+
+Despite diuresis and inotropes, he developed worsening renal function and persistent hypotension. On hospital day 3, decision made to place a percutaneous left ventricular assist device (Impella CP) for temporary circulatory support. Patient stabilized hemodynamically after device placement. Course complicated by transient AKI, anemia, and mild transaminitis.
+
+---
+
+### HOSPITAL COURSE SUMMARY  
+- Admitted 4/27/2024 for acute decompensated HF/cardiogenic shock
+- Intubated for respiratory distress (extubated HD #5)
+- Impella CP placed HD #3, removed HD #7 after hemodynamic stabilization
+- Required vasopressors/inotropes x 4 days
+- Diuresed ~12L net negative
+- AKI resolved with improved perfusion/diuresis
+- Developed anemia (Hgb nadir 8.9g/dL), transfused 1U PRBC
+- Persistent obesity, prediabetes, anemia
+- Treated for superimposed bronchitis with Augmentin, acetaminophen for fever
+
+---
+
+### PAST MEDICAL HISTORY  
+- Obesity (BMI >40)
+- Prediabetes
+- Anemia (chronic, multifactorial)
+- Recurrent viral sinusitis
+- Acute bronchitis (recent)
+- No hx of CAD, DM, CKD, or prior heart failure documented
+
+### PAST SURGICAL HISTORY  
+- None
+
+### SOCIAL HISTORY  
+- Tobacco: Never  
+- Alcohol: Rare  
+- Illicit drugs: Denied  
+- Lives with spouse, works in IT
+
+### FAMILY HISTORY  
+- Father: MI age 58  
+- Mother: HTN, type 2 DM
+
+---
+
+### MEDICATIONS ON ADMISSION  
+- Amoxicillin/clavulanate 250/125 mg PO BID  
+- Acetaminophen 325 mg PO q6h PRN  
+- Furosemide IV (started on admission)  
+- Dopamine, milrinone (ICU)  
+- Pantoprazole IV (stress ulcer prophylaxis)  
+- Heparin SQ (VTE prophylaxis)
+
+---
+
+### ALLERGIES  
+- No known drug allergies
+
+---
+
+### VITALS (Selected)  
+| Date       | Temp (°C) | HR   | BP         | RR | SpO2 (%) | Weight (kg) |
+|------------|-----------|------|------------|----|----------|-------------|
+| 4/27/2024  | 37.5      | 112  | 97/62      | 22 | 94       | 108         |
+| 4/28/2024  | 37.8      | 128  | 85/50      | 28 | 90       | 106         |
+| 4/29/2024  | 36.9      | 122  | 78/48      | 30 | 89 (NRB) | 103         |
+| 4/30/2024  | 37.2      | 98   | 110/68     | 20 | 96       | 100         |
+| 5/1/2024   | 36.7      | 87   | 122/74     | 18 | 98       | 99          |
+
+---
+
+### LABS - CBC, CHEM7, OTHERS
+
+#### (Abnormal values **bolded**)
+
+| Date       | WBC      | Hgb     | Hct    | Plts    | Na   | K    | Cl   | CO2  | BUN  | Cr    | Gluc | AST   | ALT   | Troponin |
+|------------|----------|---------|--------|---------|------|------|------|------|------|-------|------|-------|-------|----------|
+| 4/27/2024  | 5.4      | 12.3    | 42.7   | 284     | 143  | 4.9  | 104  | 22.8 | 19.9 | 1.59  | 83   | 21    | 28    | <0.01    |
+| 4/28/2024  | 7.8      | 10.6    | 35.6   | 248     | 142  | 5.3  | 102  | 21.2 | 32.1 | 2.12  | 110  | 37    | 41    | <0.01    |
+| 4/29/2024  | 9.2      | 9.8     | 32.2   | 210     | 140  | 5.1  | 101  | 19.6 | 41.5 | 2.36  | 124  | 49    | 58    | <0.01    |
+| 4/30/2024  | 8.4      | **8.9** | 29.9   | 183     | 138  | 4.7  | 99   | 23.1 | 29.8 | 1.78  | 102  | 31    | 36    | <0.01    |
+| 5/1/2024   | 6.8      | 10.2    | 33.5   | 225     | 141  | 4.6  | 100  | 25.2 | 22.5 | 1.29  | 97   | 26    | 33    | <0.01    |
+| 5/2/2024   | 5.9      | 11.7    | 37.8   | 256     | 143  | 4.5  | 103  | 27.1 | 19.0 | 1.09  | 89   | --    | --    | --       |
+| 5/3/2024   | --       | 12.5    | --     | 279     | --   | --   | --   | --   | 16.3 | 0.98  | --   | --    | --    | --       |
+
+---
+
+### IMAGING  
+- **CXR (4/27/24):** Bilateral pulmonary edema, enlarged cardiac silhouette, small right pleural effusion  
+- **Echo (4/28/24):** Severe global LV systolic dysfunction, EF ~13%, moderate MR, RV systolic function mildly reduced  
+- **CT Sinuses (prior):** Mucosal thickening, compatible with chronic sinusitis
+
+---
+
+### ASSESSMENT & PLAN  
+
+**1. Cardiogenic Shock secondary to acute decompensated heart failure (new diagnosis):**  
+- Required vasopressors/inotropes, Impella CP placed for hemodynamic support  
+- Weaned off inotropes/pressors, Impella removed HD #7  
+- Continue GDMT for HF (initiate beta-blocker/ACEi as tolerated)  
+- Cardiac rehab consult, low Na diet, daily weights  
+- Serial ECHOs to monitor function  
+- Cardiac MRI pending for etiology
+
+**2. Volume Overload/Acute Pulmonary Edema:**  
+- IV furosemide, net negative ~12L  
+- Monitor electrolytes/renal function  
+- Fluid restrict, strict I/O
+
+**3. Acute Kidney Injury (resolved):**  
+- Likely pre-renal from hypoperfusion  
+- Improved with device support, avoid nephrotoxins  
+- Monitor for recurrence
+
+**4. Anemia (multifactorial):**  
+- Likely dilutional + chronic disease  
+- Transfused 1U PRBC for Hgb <9  
+- Monitor, iron studies pending
+
+**5. Severe Obesity (BMI 41):**  
+- Nutrition consult, low calorie/carb diet  
+- Encourage early mobilization as tolerated
+
+**6. Prediabetes:**  
+- Monitor BG, A1c 5.9%  
+- Diabetic diet, f/u with endocrinology
+
+**7. Recurrent Upper Respiratory Infections (sinusitis, bronchitis):**  
+- Treated with Augmentin for acute bronchitis  
+- Symptomatic therapy for sinusitis  
+- ENT referral for chronic symptoms
+
+**8. DVT Prophylaxis:**  
+- Heparin SQ
+
+**9. Stress Ulcer Prophylaxis:**  
+- Pantoprazole IV
+
+**10. Disposition:**  
+- Remains in CICU, extubated, hemodynamically stable  
+- Plan transfer to step-down when stable off all pressors/support  
+- Multidisciplinary discharge planning
+
+---
+
+### SIGNED:  
+K. Sullivan, MD  
+Cardiology/Critical Care  
+2024-05-03 14:11
+
+---
+
+**(Further pages include detailed medication administration records, nursing flowsheets, I/O, additional labs, and consult notes.)**

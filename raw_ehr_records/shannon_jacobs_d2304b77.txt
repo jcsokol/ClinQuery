@@ -1,0 +1,203 @@
+**Epic EHR - Inpatient Progress Note**
+
+**Patient:** Shannon Jacobs  
+**MRN:** 00439281  
+**DOB:** 11/05/1965 (58 y/o)  
+**Sex:** Female  
+**Date of Admission:** 05/21/2024  
+**Attending:** Dr. J. Patel  
+**Consultants:** Cardiology, Neurology, Infectious Disease  
+**Primary Team:** MICU  
+
+---
+
+### CHIEF COMPLAINT
+"Found unresponsive at home. Possible seizure. History of cardiac arrest."
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+Ms. Jacobs was brought to the ED by EMS after being found unresponsive by her spouse. Initial rhythm in the field was PEA; ROSC achieved after 4 minutes of ACLS. Brief post-arrest seizure activity noted. She was intubated in the field. On arrival, she was hypotensive, requiring norepinephrine and subsequently placed on vasopressin. Despite fluids and pressors, persistent cardiogenic shock was noted. Bedside echo demonstrated severely reduced LVEF (~15%), global hypokinesis, and moderate MR. Emergent decision made for temporary left ventricular assist device (Impella CP) placement in the cardiac cath lab.
+
+Following stabilization, she was admitted to the MICU. Over the next week, she was weaned off vasopressors, Impella was explanted on HD#7, and she was extubated on HD#9. Complicated by AKI (multifactorial, resolved), aspiration pneumonia, and delirium. EEG negative for ongoing epileptiform activity. Colonoscopy for anemia revealed a 5mm benign-appearing polyp, removed without complication.
+
+---
+
+### PAST MEDICAL HISTORY
+
+- Seizure disorder (single episode, unclear etiology, on no AEDs)
+- Obesity (BMI 30.5)
+- Chronic sinusitis, viral exacerbations
+- History of cardiac arrest (2021, s/p defibrillation, no ICD)
+- Polyp of colon (previously 4mm, now 5mm, removed this admission)
+
+### PAST SURGICAL HISTORY
+
+- Colon polypectomy (2022)
+- Tonsillectomy (childhood)
+
+### FAMILY HISTORY
+
+- Father: MI age 62, T2DM
+- Mother: Breast ca, alive
+- No known hereditary arrhythmias
+
+### SOCIAL HISTORY
+
+- Non-smoker, no EtOH, no illicit drugs
+- Retired librarian
+- Lives with spouse
+
+---
+
+### ALLERGIES
+
+- NKDA
+
+---
+
+### HOME MEDICATIONS
+
+- None documented
+
+---
+
+### PHYSICAL EXAM (HD#13)
+
+**Gen:** Appears fatigued, conversant, NAD  
+**HEENT:** Sinus tenderness, pale mucosa  
+**CV:** S1, S2, soft systolic murmur, no JVD  
+**Resp:** Lungs clear, no rales  
+**Abd:** Soft, NT, NABS, no HSM  
+**Neuro:** AOx3, CN II-XII grossly intact, no focality  
+**Ext:** No edema  
+**Skin:** No rashes, pressure ulcers
+
+---
+
+### VITALS (Selected)
+
+| Date        | Temp (°C) | HR   | BP         | RR | SpO2 | O2 |
+|-------------|-----------|------|------------|----|------|----|
+| 5/21/24     | 36.6      | 112  | 78/54      | 26 | 93%  | NRB |
+| 5/22/24     | 37.2      | 98   | 90/60      | 18 | 97%  | 2L  |
+| 5/24/24     | 36.9      | 86   | 110/68     | 14 | 98%  | RA  |
+| 5/28/24     | 36.5      | 74   | 122/72     | 12 | 98%  | RA  |
+
+---
+
+## LABS
+
+#### CBC + CHEMISTRY
+
+| Date       | WBC    | Hgb   | Hct   | Plts  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|--------|-------|-------|-------|------|------|------|------|------|------|------|
+| 5/21/2024  | 9.1    | 13.2  | 39.1  | 240   | 132  | 5.0  | 102  | 18   | 38   | 2.1  | 142  |
+| 5/22/2024  | 11.2   | 12.7  | 37.8  | 228   | 135  | 4.6  | 103  | 16   | 44   | 2.7  | 138  |
+| 5/23/2024  | 13.0   | 12.9  | 38.2  | 207   | 137  | 4.4  | 105  | 18   | 40   | 2.2  | 144  |
+| 5/25/2024  | —      | 13.5  | —     | 221   | 139  | 3.8  | 106  | 21   | 32   | 1.6  | 132  |
+| 5/28/2024  | 10.2   | 14.5  | 42.2  | 255   | 141  | 4.2  | 107  | 24   | 18   | 1.1  | 118  |
+
+#### CARDIAC/BIOCHEMISTRY
+
+| Date      | Troponin-I | BNP   | Lactate | AST  | ALT  | AlkPhos | TBili | Albumin |
+|-----------|------------|-------|---------|------|------|---------|-------|---------|
+| 5/21/24   | 0.12       | 1280  | 5.1     | 68   | 42   | 110     | 1.1   | 3.3     |
+| 5/22/24   | 0.09       | 1165  | 3.7     | 54   | 38   | 95      | 0.9   | 3.1     |
+| 5/23/24   | <0.01      | 730   | 2.2     | 39   | 29   | 86      | 0.8   | 3.2     |
+
+#### COAGULATION
+
+| Date      | INR  | PT   | aPTT |
+|-----------|------|------|------|
+| 5/21/24   | 1.3  | 15.2 | 32   |
+| 5/22/24   | 1.2  | 14.5 | 31   |
+| 5/23/24   | 1.1  | 13.7 | 28   |
+
+---
+
+### MICROBIOLOGY
+
+- Sputum cx (5/22): Mixed oral flora
+- Blood cx x2 (5/21): No growth at 5 days
+- Urine cx: No growth
+
+---
+
+## IMAGING
+
+- **CT Head (5/21):** No acute ICH/ischemia. Mild chronic microvascular changes.
+- **CXR (5/21):** Mild bibasilar opacities, consistent with aspiration.
+- **Echo (5/21):** LVEF 15%, global hypokinesis, mod MR, no thrombus.
+- **Repeat Echo (5/28):** LVEF improved to 35%, mild MR.
+
+---
+
+## PROCEDURES
+
+- Impella CP placement (5/21), explanted (5/28)
+- Colonoscopy with polypectomy (5/27)
+- ETT placement (5/21), extubated (5/29)
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+---
+
+### 1. **Cardiogenic Shock, Cardiac Arrest (s/p temporary LVAD/Impella)**
+   - Likely due to acute decompensated heart failure on background of prior cardiac arrest, possible ischemia.
+   - Impella CP placed for hemodynamic support, explanted HD#7 after LVEF improved on echo.
+   - On GDMT (metoprolol, low-dose ACEi started HD#9).
+   - Plan: Continue GDMT, monitor for arrhythmia, consider long-term device (ICD) vs. advanced HF referral.
+
+### 2. **Aspiration Pneumonia**
+   - Treated with 7d ceftriaxone/metronidazole, clinical and radiologic improvement.
+   - Plan: Pulmonary toilet, early mobilization, swallow eval.
+
+### 3. **Acute Kidney Injury (pre-renal/multifactorial, resolved)**
+   - Oliguric on HD#2-3, improved with volume optimization, off pressors.
+   - Plan: Monitor renal function, avoid nephrotoxins.
+
+### 4. **Seizure Disorder, Post-Arrest Seizure**
+   - No ongoing seizures on EEG. No AEDs prior to admission.
+   - Plan: No AEDs at this time; neuro follow-up outpatient.
+
+### 5. **Obesity (BMI 30.5)**
+   - Weight stable during stay.
+   - Plan: Nutrition consult, weight loss counseling.
+
+### 6. **Chronic Sinusitis**
+   - No acute exacerbation. Sinus tenderness on exam.
+   - Plan: Continue saline rinses, ENT f/u as outpatient.
+
+### 7. **Colon Polyp**
+   - 5mm benign polyp removed during this admission.
+   - Plan: Routine colonoscopy in 5 years.
+
+### 8. **Delirium (ICU)**
+   - Multifactorial, now resolved.
+   - Plan: Sleep hygiene, early mobility.
+
+### 9. **Anemia (mild, chronic)**
+   - Stable, likely multifactorial (chronic disease, blood loss).
+   - Plan: Monitor, iron studies outpatient.
+
+---
+
+## DISCHARGE PLANNING
+
+- Target DC: 6/2/2024
+- Needs: Cardiac rehab, home health, close f/u with Cardiology, Neurology, PCP.
+
+---
+
+**Signed:**  
+Dr. J. Patel, MD  
+MICU Attending  
+05/31/2024 09:24
+
+---
+
+**End of Note**

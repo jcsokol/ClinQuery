@@ -1,0 +1,130 @@
+**Patient:** Jeffery Dicki  
+**MRN:** 0041157  
+**DOB:** 1971-04-07 (M, 53y)  
+**Date of Admission:** 2024-05-21  
+**Attending:** Dr. N. Kline  
+**Service:** Cardiac ICU  
+**Note Type:** Multidisciplinary Progress Note  
+**Date/Time:** 2024-05-26 06:32  
+---
+
+---
+
+### 1. **Reason for Admission / HPI**
+
+53-year-old male with h/o obesity (BMI 30+), recurrent sinusitis (viral + bacterial), and prior wrist fracture, presented to the ED with 2-day hx of progressive SOB, orthopnea, and chest tightness. Noted to have viral prodrome (sinus congestion, low-grade fevers) ~1 week prior. On arrival: tachycardic, hypotensive (BP 82/50), and hypoxic (SpO2 87% RA). CXR: pulmonary edema. Echo: severe global LV dysfunction (EF 15%), RV mildly dilated, no valvular vegetations. Troponin elevated.  
+
+Rapidly deteriorated with cardiogenic shock → transferred to CICU. Required temporary LVAD (Impella CP) placement for hemodynamic support on HD#1 due to persistent hypotension despite maximal medical therapy (dobutamine, norepi, lasix).  
+
+Currently day 5 post-Impella.  
+
+---
+
+### 2. **Hospital Course Summary**
+
+- **HD#1**: Admission, acute decompensated HF/cardiogenic shock, urgent Impella CP (left-sided) insertion. Intubated for hypoxemic resp failure. Started on broad-spectrum abx (vanc/cefepime) pending blood cx.
+- **HD#2-3**: Improved hemodynamics. Vasopressors weaned, extubated on HD#3. Fevers resolved. Cultures neg.
+- **HD#4**: Initiated diuresis, transitioned to PO HF regimen. Impella wean trial.
+- **HD#5**: Impella explanted. Transferred to stepdown unit.
+---
+
+### 3. **Active Problems / Assessment & Plan**
+
+#### 1. **Acute Decompensated Heart Failure, Cardiogenic Shock (new, likely viral myocarditis)**
+- Presentation consistent with acute viral myocarditis → severe LV dysfunction and shock.
+- Temporary LVAD (Impella CP) placed, weaned off over 4 days.
+- Now off pressors, euvolemic, EF improved to 28% (echo HD#5).
+- **Plan:** Continue guideline-directed medical therapy (GDMT): carvedilol, lisinopril, spironolactone, lasix. Monitor for recurrent arrhythmias. Cardiac MRI scheduled for outpatient f/u.
+
+#### 2. **Obesity (BMI 30-32)**
+- Contributes to HF risk.
+- **Plan:** Nutrition consult. Encourage daily ambulation, weight management.
+
+#### 3. **Viral Sinusitis / Acute Bacterial Sinusitis - Resolved**
+- Treated with abx on admission; cultures negative.
+- **Plan:** Symptom monitoring. D/C abx after 5 days.
+
+#### 4. **Acute Kidney Injury (resolved)**
+- Initial creatinine 2.0 (baseline 1.1), likely secondary to cardiorenal syndrome. Improved with diuresis and improved perfusion.
+- **Plan:** Monitor daily BMP, maintain euvolemia.
+
+#### 5. **History of Wrist Fracture/Subluxation**
+- Not contributing to current admission.
+- **Plan:** No acute intervention.
+
+#### 6. **Pain (mild, 2-3/10)**
+- Related to vascular access sites and general myalgias.
+- **Plan:** PRN meperidine, naproxen. Monitor for sedation/renal effects.
+
+#### 7. **Hyperlipidemia**
+- Total chol 185, LDL 94, HDL 68, TG 113 on admission.
+- **Plan:** Resume atorvastatin 40 mg QHS.
+
+---
+
+### 4. **Medications**
+
+| Medication                     | Dose/Route                | Indication                 |
+|------------------------------- |-------------------------- |----------------------------|
+| Carvedilol                     | 6.25 mg PO BID            | HF, post-shock             |
+| Lisinopril                     | 10 mg PO daily            | HF, HTN                    |
+| Spironolactone                 | 25 mg PO daily            | HF                         |
+| Furosemide                     | 40 mg PO BID              | Diuresis                    |
+| Meperidine                     | 50 mg PO PRN              | Pain                       |
+| Naproxen sodium                | 220 mg PO PRN             | Pain                       |
+| Atorvastatin                   | 40 mg PO QHS              | Hyperlipidemia             |
+| Vanc/Cefepime (HD#1-3)         | IV                        | Empiric infection          |
+
+---
+
+### 5. **Vital Signs (Selected)**
+
+| Date/Time        | Temp (C) | HR   | BP           | RR   | SpO2 | Pain |
+|------------------|---------|------|--------------|------|------|------|
+| 5/21 18:00 (ED)  | 37.7    | 121  | 82/50        | 28   | 87%  | 3    |
+| 5/22 06:00       | 36.9    | 99   | 98/60        | 20   | 98%  | 2    |
+| 5/23 06:00       | 36.8    | 92   | 110/68       | 18   | 99%  | 2    |
+| 5/24 06:00       | 36.7    | 86   | 112/74       | 16   | 98%  | 1    |
+| 5/25 06:00       | 36.6    | 80   | 118/76       | 14   | 99%  | 1    |
+
+---
+
+### 6. **Laboratory Results (CBC, Chem7, Cardiac, Liver; some missing entries)**
+
+| Date      | WBC   | Hgb   | Plts | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | AST  | ALT  | BNP   |
+|-----------|-------|-------|------|------|------|------|------|------|------|------|----------|------|------|-------|
+| 5/21 ED   | 8.1   | 17.2  | 285  | 132  | 3.8  | 99   | 19   | 32   | 2.0  | 142  | 3.2      | 44   | 65   | 9200  |
+| 5/22      | 7.9   | 16.5  | 260  | 135  | 4.1  | 101  | 22   | 28   | 1.7  | 134  | 2.9      | 38   | 58   | 8300  |
+| 5/23      | 6.7   | 15.9  | 242  | 138  | 4.0  | 99   | 25   | 20   | 1.4  | 128  | 1.1      | 29   | 51   | 7200  |
+| 5/24      | 7.2   | 15.1  | 210  | 140  | 4.2  | 103  | 27   | 15   | 1.2  | 115  | <0.04    | 21   | 40   | 5900  |
+| 5/25      | 6.9   | 14.8  | 198  |      | 4.1  | 102  | 28   | 13   | 1.1  |      | <0.04    |      |      | 5100  |
+
+---
+
+### 7. **Imaging / Procedures**
+
+- **Echo (5/21):** Severe global LV hypokinesis, EF 15%, mild RV dilation.
+- **Echo (5/25):** EF improved to 28%, mild MR, no thrombus.
+- **CXR (5/21):** Pulmonary edema, vascular congestion.
+- **Impella Placement (5/21):** L femoral access, no complications.
+- **Cardiac MRI (pending):** To r/o infiltrative/autoimmune myocarditis.
+
+---
+
+### 8. **Discharge Planning / Disposition**
+
+- Anticipate transfer to cardiac rehab within 48h.
+- Close f/u with HF clinic, repeat echo in 2 weeks.
+- Education on HF sx, diuretic adherence, daily weights.
+
+---
+
+### 9. **Provider Signoff**
+
+Dr. N. Kline, MD  
+Cardiology/CICU  
+Pager 1147
+
+---
+
+**[End of Note]**

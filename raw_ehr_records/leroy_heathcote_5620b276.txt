@@ -1,0 +1,181 @@
+**Patient Name:** Leroy Heathcote  
+**MRN:** 0012398745  
+**DOB:** 1991-11-22 (32 years)  
+**Sex:** Male  
+**Admission Date:** 2024-05-08  
+**Attending:** Dr. S. Patel, Cardiology  
+**Service:** ICU  
+**Location:** 7E CVICU, Bed 4  
+
+---
+
+# ICU Daily Progress Note
+
+**DATE:** 2024-05-13  
+**TIME:** 07:15
+
+---
+
+## Chief Complaint
+Progressive dyspnea, orthopnea, and lower extremity edema x 2 weeks; acute worsening 3 days PTA with syncope.
+
+---
+
+## HPI
+32-year-old male w/ PMHx notable for obesity (BMI 30+), ADHD (on methylphenidate), remote left ankle sprain, and recent acute bronchitis (treated outpatient), presenting with acute decompensated heart failure. Initially admitted for hypoxic respiratory failure and cardiogenic shock, requiring intubation, vasopressors, and subsequent placement of a temporary left ventricular assist device (Impella CP) for refractory shock. No prior cardiac history. Denies illicit drug use. Social: works as a mechanic, lives with partner, 1 child.
+
+---
+
+## Hospital Course Summary
+- Day 1: Admitted for rapidly progressive SOB, hypoxia, hypotension. CXR: pulmonary edema. Echo: EF 15%, global hypokinesis. Troponin mildly elevated, BNP 3200. Started on norepinephrine, furosemide, transferred to ICU.
+- Day 2: Worsening shock, lactate 4.2. Cardiology consulted; Impella CP placed at bedside. 
+- Day 3-5: Gradual improvement in perfusion, weaning off pressors. Extubated on Day 4.
+- Day 6: Impella removed. Transitioned to aggressive diuresis, uptitration of guideline-directed medical therapy (GDMT).
+- Day 7: Transferred to step-down for ongoing management.
+
+---
+
+## Problem List / Assessment & Plan
+
+### 1. Cardiogenic Shock / Acute Decompensated Heart Failure
+- **Assessment:** New diagnosis, likely nonischemic etiology (no evidence acute MI; mild troponin leak likely supply-demand). Rapid decline, refractory to medical therapy, requiring temporary mechanical circulatory support (Impella CP).
+- **Plan:**
+  - Continue aggressive IV diuresis (furosemide gtt, monitor lytes)
+  - Optimize GDMT: start low-dose carvedilol, continue ACEi (lisinopril)
+  - Daily weights, strict I/Os
+  - Serial ECHOs
+  - Cardiac MRI pending to eval etiology
+  - Follow-up w/ HF team for transplant eval
+
+### 2. Obesity (BMI 30+)
+- **Assessment:** Contributing to HF exacerbation, OSA suspected but not confirmed.
+- **Plan:**
+  - Nutrition consult
+  - Calorie-restricted, heart healthy diet
+  - Encourage mobility as tolerated
+
+### 3. ADHD
+- **Assessment:** On methylphenidate, held during ICU stay due to concern for sympathomimetic effects.
+- **Plan:**
+  - Discuss resumption w/ psychiatry after hemodynamic stability
+  - Non-pharm coping strategies
+
+### 4. Acute Kidney Injury (AKI) on CKD 1
+- **Assessment:** Likely pre-renal from hypoperfusion; improved with volume/pressure support.
+- **Plan:**
+  - Monitor creatinine, lytes daily
+  - Adjust diuretics per renal function
+
+### 5. Hypervolemia / Volume Overload
+- **Assessment:** Anasarca, pulmonary edema, improved w/ diuresis and Impella.
+- **Plan:**
+  - Continue diuresis
+  - Monitor weights, UOP
+
+### 6. Acute bronchitis (recent)
+- **Assessment:** Resolved, no signs of active infection.
+- **Plan:**
+  - Monitor for secondary pneumonia
+  - Supportive care
+
+### 7. Pain (mild, left ankle)
+- **Assessment:** Remote sprain, mild pain on ambulation.
+- **Plan:**
+  - PRN acetaminophen
+  - Physical therapy consult
+
+### 8. VTE Prophylaxis
+- **Plan:** SCDs, lovenox unless contraindicated
+
+### 9. Psychosocial
+- **Assessment:** High stress, new diagnosis of severe HF.
+- **Plan:**
+  - SW and psych consults
+  - Family meeting scheduled
+
+---
+
+## Medications (Current)
+- Furosemide IV gtt
+- Carvedilol 3.125 mg PO BID
+- Lisinopril 2.5 mg PO daily
+- Methylphenidate (HOLD)
+- Acetaminophen 325 mg PO PRN
+- Naproxen sodium (HOLD)
+- Lovenox 40 mg SQ daily
+
+---
+
+# Laboratory Data
+
+### CBC / Chemistries
+
+| Date       | WBC   | Hgb  | Hct  | Plts | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|-------|------|------|------|------|------|------|------|------|------|------|
+| 5/8/24 AM  | 9.7   | 15.1 | 47.9 | 216  | 136  | 4.2  | 102  | 22   | 24   | 1.21 | 112  |
+| 5/9/24 AM  | 13.5  | 14.2 | 45.3 | 183  | 133  | 4.6  | 100  | 19   | 37   | 2.18 | 135  |
+| 5/10/24 AM | 11.2  | 13.6 |      | 155  | 132  | 5.1  | 99   | 20   | 32   | 1.89 | 98   |
+| 5/11/24 AM | 8.8   | 12.9 | 41.2 | 164  | 135  | 4.3  | 102  | 23   | 22   | 1.33 |      |
+| 5/12/24 AM | 9.2   |      |      | 190  | 137  | 4.1  |      | 24   | 19   | 1.19 | 106  |
+
+#### Other labs:
+- **Troponin I:** 0.18 → 0.09 → <0.01 (peak on admission, trended down)
+- **BNP:** 3200 pg/mL (on admission)
+- **Lactate:** 4.2 → 2.1 → 1.1 mmol/L
+- **AST/ALT:** 54/41 U/L (5/9), normalized by 5/12
+- **INR:** 1.3 (on admission), trended normal
+
+---
+
+## Vitals (selected)
+
+| Date/Time   | Temp  | HR   | BP        | RR   | O2 Sat | Weight (kg) |
+|-------------|-------|------|-----------|------|--------|-------------|
+| 5/8 07:00   | 36.8  | 112  | 84/56     | 22   | 91% RA | 85.1        |
+| 5/9 02:00   | 38.1  | 124  | 75/48     | 28   | 89% NRB| 86.0        |
+| 5/10 04:00  | 37.5  | 96   | 98/64     | 16   | 95% NC | 83.2        |
+| 5/11 08:00  | 36.9  | 88   | 112/72    | 14   | 97% RA | 81.6        |
+
+---
+
+## Imaging
+- **CXR (5/8):** Pulmonary edema, mild cardiomegaly
+- **Echo (5/8):** LV EF 15%, global hypokinesis, no thrombus, mild MR/TR
+- **Echo (5/12):** LV EF 25%, improved
+
+---
+
+## Procedures
+- **Impella CP placement (5/9)**
+- **Right heart cath:** RA 11, RV 38/8, PA 44/18 (mean 28), PCWP 25, CI 1.7
+
+---
+
+## Lines/Access
+- R IJ TLC, left radial A-line, Foley (removed 5/11)
+
+---
+
+## Disposition
+- Remains in ICU, planned transfer to step-down in 24-48h
+- Awaiting cardiac MRI, outpatient HF/transplant eval
+
+---
+
+**Physician:**  
+S. Patel, MD  
+Cardiology/Critical Care  
+Co-signed by: J. Williams, MD (Fellow)
+
+---
+
+# Additional Documentation
+
+**Diet:** Cardiac, 1800 kcal ADA  
+**Activity:** Up ad lib, PT/OT consult  
+**Allergies:** NKDA  
+**Code Status:** Full
+
+---
+
+**End of Note**

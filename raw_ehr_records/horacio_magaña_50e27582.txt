@@ -1,0 +1,265 @@
+---
+**Patient Name:** Horacio Magaña  
+**MRN:** 00328471  
+**DOB:** 10/04/1962  
+**Sex:** Male  
+**Admit Date:** 03/18/2024  
+**Attending:** Dr. J. L. Sandoval  
+**Service:** MICU  
+**Note Author:** S. Patel, MD  
+**Note Type:** ICU Progress Note  
+**Date/Time:** 03/23/2024 07:31
+
+---
+
+# CHIEF COMPLAINT  
+Shortness of breath, chest pain, progressive lower extremity edema.
+
+# HISTORY OF PRESENT ILLNESS  
+Horacio Magaña is a 61-year-old male with PMH including prediabetes, anemia, chronic tobacco use, and recent acute bronchitis who was admitted 5 days ago for acute hypoxemic respiratory failure and decompensated heart failure. He presented with 1 week of progressive dyspnea, orthopnea, PND, and 2 days of pleuritic chest pain. On arrival, he was tachypneic, hypoxic, and hypotensive with evidence of volume overload and new-onset atrial fibrillation with RVR.
+
+Despite initial medical management (IV diuresis, BiPAP, rate control, and empiric antibiotics for possible pneumonia), he developed worsening hypotension, rising lactate, and evidence of cardiogenic shock with acute kidney injury. He was transferred to the MICU and required vasopressor support (norepinephrine, dobutamine). Echo showed severely reduced LVEF (~15%), global hypokinesis, and moderate MR. Given persistent shock, a percutaneous left ventricular assist device (Impella CP) was placed on hospital day #2 for temporary mechanical circulatory support.
+
+Since device placement, he has shown gradual improvement. Vasopressors were weaned off by HD #4, and urine output improved. He remains on IV diuresis and low-dose milrinone. Oxygen requirements have decreased; he is now on 3L NC. Renal function is trending up. He has had intermittent fevers, likely related to device but cultures remain negative. He continues to experience mild chest discomfort, but no new symptoms. 
+
+---
+
+# PAST MEDICAL HISTORY  
+- Prediabetes  
+- Chronic anemia  
+- Acute bronchitis (recent)  
+- Facial laceration (remote, resolved)  
+- MCL injury, L knee (remote)  
+- Chronic tobacco use (1ppd x 40y)  
+- Acute allergic reaction (remote, non-anaphylactic)
+
+# PAST SURGICAL HISTORY  
+- None
+
+# MEDICATIONS ON ADMISSION  
+- Ferrous sulfate 325 mg PO daily  
+- Acetaminophen 325 mg PO PRN  
+- Naproxen sodium 220 mg PO PRN  
+- 24hr nicotine patch  
+- Hydrocodone/acetaminophen 7.5/325 mg PO PRN  
+- Prednisone 5 mg PO daily  
+- Acetaminophen/dextromethorphan/doxylamine PRN
+
+# ALLERGIES  
+- NKDA
+
+# SOCIAL HISTORY  
+- Lives with wife, retired construction worker  
+- Smokes 1ppd, no ETOH, no illicit drug use  
+- No recent travel or sick contacts
+
+# FAMILY HISTORY  
+- Father: MI at 59, DM2  
+- Mother: HTN, breast cancer
+
+# REVIEW OF SYSTEMS  
+Unable to obtain complete ROS due to intubation on admission; per wife:  
+- +DOE, +orthopnea, +PND, +chest pain  
+- -cough, -hemoptysis, -recent trauma, -syncope
+
+---
+
+# PHYSICAL EXAM (HD #5, AM)
+
+| Vital Sign         | Value         |
+|--------------------|--------------|
+| Temp               | 37.5°C       |
+| HR                 | 92 bpm       |
+| BP                 | 104/58 mmHg  |
+| RR                 | 18           |
+| SpO2               | 96% on 3L NC |
+| Pain               | 2/10         |
+| Weight             | 94.1 kg      |
+| Height             | 176.6 cm     |
+| BMI                | 30.2         |
+
+**Gen:** Alert, tired-appearing, NAD  
+**CV:** Irreg irreg rhythm, S3, no murmurs, JVP 10cm, trace bibasilar crackles  
+**Resp:** Mildly tachypneic, no distress  
+**Abd:** Soft, NT, mild fluid wave  
+**Ext:** 1+ pitting edema BLE  
+**Neuro:** AOx3, no focal deficits  
+**Skin:** No breakdown, left groin dressing clean/dry
+
+---
+
+# LABS
+
+**Table 1. CBC & CHEM7 (Selected values, HD#1-5, * = missing value)**
+
+| Date      | WBC  | Hgb   | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|-----------|------|-------|------|------|------|------|------|------|------|------|
+| HD#1 03/18 | 17.4 | 10.2  | 320  | 137  | 4.8  | 103  | 24   | 26   | 1.6  | 126  |
+| HD#2 03/19 | 12.8 | 9.4   | 284  | 139  | 4.2  | 101  | 23   | 34   | 2.1  | 112  |
+| HD#3 03/20 | 10.1 | 9.7   | 276  | 141  | 4.6  | 105  | 26   | 28   | 1.9  | *    |
+| HD#4 03/21 | 8.9  | 10.0  | *    | 140  | 4.4  | 102  | 25   | 20   | 1.4  | 104  |
+| HD#5 03/22 | 8.2  | 10.7  | 265  | 141  | 4.2  | 103  | 28   | 17   | 1.1  | 92   |
+
+**Other Labs:**  
+- BNP: 2550 pg/mL (HD#1)  
+- Troponin I: 0.13 → 0.11 → 0.09 ng/mL (HD#1-3, downtrending)  
+- LFTs: Mildly elevated AST/ALT (HD#2: AST 75, ALT 61)  
+- INR: 1.3 (HD#2)  
+- Lactate: 4.9 (HD#1), 2.2 (HD#3)  
+- UA: bland  
+- Cultures: Blood, urine negative x2
+
+**Imaging:**  
+- CXR (HD#1): Pulmonary edema, mild cardiomegaly  
+- Echo (HD#2): LVEF 15%, mod MR, global hypokinesis  
+- LE Dopplers: negative for DVT
+
+---
+
+# ICU ASSESSMENT & PLAN
+
+## 1. Cardiogenic Shock, New HFrEF (LVEF 15%), s/p Impella CP (HD#2)
+- **Assessment:** Shock thought secondary to new severe systolic dysfunction, likely ischemic. Responded to temporary MCS.  
+- **Plan:**  
+    - Continue Impella CP, daily flows and position checks  
+    - Wean vasopressors (off as of HD#4)  
+    - Transition from milrinone to oral HF regimen as tolerated  
+    - Daily TTE for LV recovery  
+    - Consider RHC for hemodynamics if no improvement  
+    - Cardiology/CT surgery following  
+    - Anticoagulation per device protocol  
+    - Strict I/O, daily weights
+
+## 2. Acute Kidney Injury (AKI), likely cardiorenal
+- **Assessment:** AKI on admission, improved with hemodynamic support and diuresis.  
+- **Plan:**  
+    - Monitor UOP, daily labs  
+    - Avoid nephrotoxins  
+    - Renal dosing of all meds  
+    - Nephrology consult PRN
+
+## 3. Volume Overload
+- **Assessment:** Improved with diuresis, still mild edema  
+- **Plan:**  
+    - Continue IV furosemide, titrate to net negative  
+    - Salt/fluid restriction  
+    - Monitor for electrolyte disturbances
+
+## 4. New-onset Atrial Fibrillation w/ RVR
+- **Assessment:** Controlled with amiodarone drip, transitioned to PO  
+- **Plan:**  
+    - Continue amiodarone, monitor QTc  
+    - Anticoagulation (heparin gtt) for device and AF  
+    - Telemetry
+
+## 5. Anemia
+- **Assessment:** Chronic, worsened by AKI/hemodilution  
+- **Plan:**  
+    - Continue iron supplementation  
+    - Monitor Hgb, transfuse if <7.5  
+    - GI workup deferred until stable
+
+## 6. Prediabetes
+- **Assessment:** Controlled, no DKA/HHS  
+- **Plan:**  
+    - Monitor glucose, sliding scale insulin PRN  
+    - Resume PO agents when stable
+
+## 7. Tobacco Use
+- **Assessment:** High risk for poor cardiac outcomes  
+- **Plan:**  
+    - Continue nicotine patch  
+    - Counseling, cessation support
+
+## 8. Infection Prophylaxis/Sepsis
+- **Assessment:** No clear source of infection, fevers likely device/inflammatory.  
+- **Plan:**  
+    - Continue empiric ceftriaxone x48h, d/c if cultures negative  
+    - Daily wound/device site checks  
+    - Infectious Disease consult PRN
+
+## 9. Pain Control
+- **Assessment:** Mild, well-controlled  
+- **Plan:**  
+    - PRN acetaminophen, avoid NSAIDs (AKI)  
+    - Hydrocodone PRN for severe pain
+
+## 10. DVT Prophylaxis
+- **Assessment:** On heparin for device  
+- **Plan:**  
+    - SCDs, daily vascular checks
+
+## 11. Nutrition
+- **Assessment:** Mildly catabolic, adequate PO intake  
+- **Plan:**  
+    - High-protein, low-salt diet  
+    - Nutrition consult
+
+## 12. Disposition
+- **Assessment:** Not yet stable for transfer; anticipate prolonged ICU stay.  
+- **Plan:**  
+    - Continue ICU monitoring  
+    - Weekly family meetings
+
+---
+
+# ORDERS  
+- Continue Impella CP per protocol  
+- Daily CBC, chem7, Mg, PO4  
+- Furosemide 80mg IV BID  
+- Milrinone 0.25 mcg/kg/min  
+- Amiodarone 400mg PO BID  
+- Heparin gtt, titrate to aPTT 60-80  
+- Strict I/O, daily weight  
+- Cardiac diet  
+- SCDs  
+- Nicotine patch 21mg daily  
+- Iron as above  
+- PRN pain meds
+
+---
+
+# SIGNED  
+S. Patel, MD  
+03/23/2024 07:31
+
+---
+
+**Additional Labs (selected):**  
+| Date      | AST  | ALT  | AlkPhos | T. Bili | INR  | PT   | aPTT | Mg    |
+|-----------|------|------|---------|---------|------|------|------|-------|
+| HD#2      | 75   | 61   | 98      | 1.2     | 1.3  | 14.8 | 34.1 | 1.6   |
+| HD#5      | 41   | 38   | 82      | 0.7     | 1.1  | 13.6 | 32.0 | 1.9   |
+
+---
+
+**Flow Sheet (selected):**  
+| HD# | Output (mL) | Input (mL) | Net (mL) |
+|-----|-------------|------------|----------|
+| 1   | 1200        | 3400       | +2200    |
+| 2   | 1600        | 3000       | +1400    |
+| 3   | 2500        | 2200       | -300     |
+| 4   | 3200        | 2100       | -1100    |
+| 5   | 3100        | 2000       | -1100    |
+
+---
+
+**Nursing Notes:**  
+- Impella site: no bleeding, no hematoma  
+- Foley: clear, amber urine  
+- Skin: Intact, repositioned q2hr  
+- Family at bedside
+
+---
+
+**Consults:**  
+- Cardiology: agree with MCS, recommend eval for advanced therapies  
+- CT Surgery: candidate for LVAD if recovery not adequate  
+- Nephrology: monitor, no HD at this time
+
+---
+
+**Summary:**  
+Mr. Magaña is a 61yo male with new severe HFrEF and cardiogenic shock, requiring temporary LV support. He is improving but remains critically ill, with ongoing device support, AKI, and multiple comorbidities. Plan for slow wean, close monitoring, and multidisciplinary input.
+
+---

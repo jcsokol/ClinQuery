@@ -1,0 +1,207 @@
+---
+**Patient Name:** Christeen Durgan  
+**MRN:** 00382947  
+**DOB:** 03/08/1972  
+**Sex:** Female  
+**Admit Date:** 04/12/2024  
+**Attending:** Dr. Sara Lin, MD  
+**Service:** Cardiac ICU  
+**Note Type:** ICU Progress Note  
+**Date/Time:** 04/16/2024 09:11  
+
+---
+
+### CHIEF COMPLAINT
+Acute shortness of breath, chest heaviness, hypotension.
+
+### HISTORY OF PRESENT ILLNESS
+50 y.o. female with PMHx notable for HTN, anemia, prediabetes, and chronic sinusitis presented via ED with acute-onset dyspnea, orthopnea, and near-syncope. She had been experiencing worsening fatigue and mild pedal edema for 2 weeks. On arrival, found to be tachypneic, hypotensive (BP 82/54), and hypoxic (O2 sat 88% RA). CXR revealed mild pulmonary edema; ECG showed sinus tachycardia with nonspecific ST-T changes. Troponin I was mildly elevated at 0.11 ng/mL. TTE revealed severe global hypokinesis, LVEF ~15%, moderate MR. Patient progressed to cardiogenic shock requiring norepinephrine and subsequently was intubated for worsening hypoxia. Emergent left-sided Impella CP device was placed for hemodynamic support. No prior cardiac history. Denies CP prior to this event. No recent viral illness, no known drug use.
+
+---
+
+### PAST MEDICAL HISTORY
+- Hypertension
+- Anemia (chronic, iron-deficiency)
+- Prediabetes
+- Chronic & recurrent viral sinusitis
+- 1st trimester miscarriage (remote)
+- Obesity (BMI 30)
+- History of ankle sprain
+- Normal pregnancy (G2P1A1)
+
+### SURGICAL HISTORY
+- None
+
+---
+
+### ALLERGIES
+- NKDA
+
+---
+
+### HOME MEDICATIONS
+- HCTZ 25 mg daily
+- Naproxen 220 mg prn
+- Mirena IUD
+- Amoxicillin/clavulanate (recent, for sinusitis)
+- NuvaRing, Jolivette, Camila, Errin, Seasonique (documented, not all currently used)
+
+---
+
+### FAMILY HISTORY
+- Mother: HTN, T2DM, alive
+- Father: MI age 62, deceased
+- Siblings: healthy
+
+---
+
+### SOCIAL HISTORY
+- Tobacco: Never
+- Alcohol: Rare
+- Illicit drugs: Denied
+- Lives with husband, works as admin assistant.
+
+---
+
+## REVIEW OF SYSTEMS (abbreviated due to intubation/ICU status)
+Unable to obtain full ROS. Per chart and collateral:
+- General: Fatigue, malaise
+- CV: Orthopnea, PND, DOE, LE swelling
+- Resp: SOB, no cough
+- GI: No N/V/D
+- GU: No dysuria, oliguria since admission
+
+---
+
+## PHYSICAL EXAM (post-Impella, ICU day 4)
+
+| Vitals         | Value                       |
+|----------------|----------------------------|
+| Temp           | 37.4°C                     |
+| HR             | 109 bpm (paced)            |
+| BP             | 98/56 mmHg (on milrinone)  |
+| RR             | 20 (mechanical ventilation)|
+| SpO2           | 96% (FiO2 40%)             |
+| Weight         | 72 kg                      |
+
+**General:** Intubated, sedated, appears ill.  
+**CV:** S1S2, tachycardic, no new murmurs, Impella in place, JVP 9cm, cool extremities.  
+**Lungs:** Bibasilar crackles  
+**Abd:** Soft, NT/ND, no organomegaly  
+**Ext:** 1+ pitting edema, no DVT  
+**Neuro:** Follows commands when sedation lightened
+
+---
+
+## LABORATORY DATA
+
+#### CBC/Chemistries
+
+| Date        | WBC    | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|-------------|--------|-------|-------|-------|------|------|------|------|------|------|------|
+| 4/12 06:30  | 7.2    | 12.9  | 42.4  | 166   | 143  | 4.7  | 102  | 21   | 15   | 1.0  | 88   |
+| 4/12 18:00  | 9.1    | 11.7  | 39.1  | 151   | 142  | 4.1  | 100  | 19   | 21   | 1.3  | 112  |
+| 4/13 06:00  | 12.2   | 10.9  | 35.7  | 139   | 140  | 3.8  | 98   | 16   | 28   | 1.7  | 127  |
+| 4/13 18:00  | 11.4   | 10.2  | 34.1  | 144   | 139  | 4.2  | 101  | 18   | 26   | 1.6  | 106  |
+| 4/14 07:10  | 13.9   | 9.7   | 31.7  | 130   | 144  | 4.4  | 103  | 22   | 24   | 1.3  | 94   |
+| 4/14 18:00  | 12.5   | 9.3   | 29.2  | 128   | 143  | 4.3  | 101  | 19   | 23   | 1.2  | 89   |
+| 4/15 07:00  | 10.7   | 9.1   | 28.4  | 124   | 141  | 4.6  | 99   | 20   | 20   | 1.0  | 95   |
+| 4/15 19:00  | 9.4    | 9.0   | 28.1  | 120   | 140  |      |      |      |      |      |      |
+| 4/16 07:00  | 8.8    | 8.8   | 27.6  | 119   |      | 4.2  | 97   | 18   | 18   | 0.9  | 92   |
+
+#### Additional Labs
+
+- **Troponin I:** 0.11 → 0.14 → 0.13 ng/mL (peak 4/13)
+- **BNP:** 2245 pg/mL (4/12)
+- **ALT/AST:** 56/73 U/L (mildly elevated, likely ischemic)
+- **Total bili:** 1.2 mg/dL
+- **Lactate:** 3.1 (admit), 2.2 (current)
+- **PT/INR:** 14.3s / 1.2
+- **aPTT:** 38s
+- **CK:** 246 U/L
+
+---
+
+### IMAGING & STUDIES
+- **CXR (4/12):** Pulm edema, mild cardiomegaly.
+- **ECG (4/12):** Sinus tach, non-specific ST-T changes.
+- **TTE (4/12):** Severe global hypokinesis, LVEF ~15%, mod MR, no thrombus.
+- **Right heart cath (4/12):** RA 12, PA 38/22, wedge 27, CI 1.7.
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+- **Day 1:** Admitted in cardiogenic shock, started on norepi, rapidly intubated. Impella CP placed via femoral approach for refractory shock.
+- **Day 2-3:** Gradual improvement in end-organ perfusion. Lactate trended down. Milrinone added for inotropy. Weaned norepi by day 3. Anemia worsened (likely dilutional/hemolysis from Impella). Mild transaminitis, likely ischemic.
+- **Day 4:** Sedation weaned; following commands. Impella flows stable (3.2 L/min). Mild hemolysis (dark urine, LDH 392, haptoglobin low).
+- **Day 5:** Extubated to HFNC. Renal function improved. Cardiology, CT surgery, and heart failure teams following.
+- **Day 6:** Impella weaning trial planned. Hemodynamics stable.
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock, severe new-onset HFrEF (EF 15%), s/p Impella CP placement**  
+- Likely idiopathic or viral myocarditis (workup pending).  
+- Impella support ongoing, plan for weaning soon.  
+- Continue inotropic support (milrinone).  
+- Serial TTEs to assess recovery.  
+- Monitor for device-related complications (hemolysis, limb ischemia, infection).  
+- Cardiac MRI pending for myocarditis vs. other causes.
+
+**2. Acute decompensated heart failure**  
+- Diuresed with IV furosemide, daily weights, strict I/Os.  
+- Electrolyte monitoring and repletion.  
+- BNP trending.
+
+**3. Acute kidney injury (resolved)**  
+- Likely pre-renal, improved with restoration of perfusion.  
+- Monitor renal function, avoid nephrotoxins.
+
+**4. Anemia (worsening, likely multifactorial: dilutional, hemolysis from pump, chronic)**  
+- Monitor Hgb daily.  
+- Consider transfusion if Hgb <7.5 or symptomatic.  
+- Iron studies sent.
+
+**5. Mild transaminitis**  
+- Likely ischemic hepatitis.  
+- Monitor LFTs, trend down.
+
+**6. Hypertension (history, not currently hypertensive)**  
+- Hold antihypertensives while on inotropes/Impella.
+
+**7. Prediabetes**  
+- Monitor glucose, no insulin required.
+
+**8. Chronic sinusitis**  
+- No acute symptoms; continue observation.
+
+**9. OCP/IUD management**  
+- Mirena IUD in situ, no acute issues; OCPs held in ICU.
+
+**10. DVT prophylaxis**  
+- SCDs in place, heparin SQ unless contraindicated.
+
+**11. Nutrition, mobility, and disposition planning**  
+- Enteral feeds on vent, now tolerating oral.  
+- PT/OT consult for future rehab needs.
+
+---
+
+## TO DO / FOLLOW-UP
+
+- Serial labs (CBC, chem, LFTs, hemolysis markers)
+- Repeat TTE in 48h
+- Monitor for infection/bleeding at Impella site
+- Cardiac MRI when stable
+- Social work for disposition planning
+
+---
+
+**Prepared by:**  
+Dr. Emily S. Patel, PGY-2  
+Cardiac ICU  
+04/16/2024 09:11
+
+---

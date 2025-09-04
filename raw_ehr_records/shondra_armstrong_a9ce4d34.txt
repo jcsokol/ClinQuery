@@ -1,0 +1,122 @@
+```
+-----------------------------------------------
+Epic Hyperspace [Inpatient]   [ICU]   [MRN: 009234512]
+Patient: Shondra Armstrong           DOB: 05/02/1999  Sex: F   Age: 24y
+Admit Date: 2024-06-16    Attending: Dr. J. Shah
+Consults: Cardiology, CT Surgery, Infectious Disease, PT/OT, Social Work
+
+-----------------------------------------------
+HOSPITAL COURSE SUMMARY
+
+24F with PMH of HTN, ADHD, prior wrist and ankle fractures, remote concussion, OCP use, presents with 2d of progressive SOB, pleuritic CP, orthopnea, and lower extremity swelling. In ED, found to be tachycardic, hypotensive (SBP 82), hypoxemic, with CXR c/w pulmonary edema. TTE: LVEF 15%, global hypokinesis, moderate MR. Labs: troponin 1.3 -> 3.9, BNP 3200. Transferred to ICU for acute decompensated heart failure (ADHF) with cardiogenic shock. Required norepinephrine, dobutamine. Emergent placement of Impella CP for hemodynamic support on HD2 after further hypotension and rising lactate. Over next 4d, gradual improvement in end-organ perfusion, weaned off pressors, Impella weaned and explanted HD7. Complicated by AKI (peak Cr 2.0), mild transaminitis, transient thrombocytopenia. Now euvolemic, off vasoactives, extubated, ambulating with PT.
+
+-----------------------------------------------
+PROBLEM-BASED ASSESSMENT & PLAN
+
+1. **Acute Decompensated HFrEF, Cardiogenic Shock (LVEF 15%)**
+   - Initial: Hypotension, elevated lactate, shock liver, AKI.
+   - Management: Norepinephrine, dobutamine, diuresis. Impella CP placed HD2 for persistent shock.
+   - Now: Off pressors, Impella explanted HD7. LVEF 25% on repeat TTE. Stable hemodynamics.
+   - Plan: Continue GDMT (start low-dose carvedilol, sacubitril/valsartan as tolerated), monitor volume status, cardiac rehab consult, outpatient AICD eval.
+
+2. **Acute Kidney Injury (multifactorial: hypoperfusion, diuretics, contrast)**
+   - Peak Cr 2.0 (BL 0.8), improved to 1.2.
+   - Plan: Renal dosing for meds, daily BMP, avoid nephrotoxins, monitor UOP.
+
+3. **Volume Overload / Pulmonary Edema**
+   - Diuresed 6L net negative over 5d.
+   - Plan: Transition to oral furosemide, daily weights, salt restriction.
+
+4. **Shock Liver / Transaminitis**
+   - AST/ALT peaked at 410/503, now trending down.
+   - Plan: Monitor LFTs, supportive care.
+
+5. **Thrombocytopenia (nadir 72k, likely device-related)**
+   - Platelets nadir HD5, now 140k.
+   - Plan: Monitor CBC, DVT ppx with SCDs.
+
+6. **Hypertension**
+   - Chronic, poorly controlled. Now on low-dose carvedilol, sacubitril/valsartan, HCTZ held.
+   - Plan: Titrate as tolerated.
+
+7. **History of ADHD**
+   - Off stimulants during admission, psych consult placed.
+   - Plan: Reassess outpatient.
+
+8. **Remote Ortho Injuries (wrist/ankle fx, concussion)**
+   - No acute sequelae. Mild deconditioning.
+   - Plan: PT/OT, DVT ppx.
+
+9. **OCP Use**
+   - Yaz, Levora, etonogestrel implant.
+   - Plan: Discontinue OCPs given new LV dysfunction, VTE risk.
+
+10. **Pain**
+    - Mild, 2-3/10, managed with acetaminophen prn.
+    - Plan: Avoid NSAIDs, minimize opioids.
+
+11. **Psychosocial**
+    - Young pt, lives alone, college student, no substance use.
+    - Plan: Social work involved, family meeting re: prognosis.
+
+-----------------------------------------------
+VITALS
+
+| Date        | T (C) | HR  | BP        | RR | SpO2 | Pain |
+|-------------|-------|-----|-----------|----|------|------|
+| 6/16/24 22:00 | 38.0  | 122 | 82/54     | 26 | 91%  | 6    |
+| 6/17/24 06:00 | 37.9  | 110 | 94/68     | 22 | 95%  | 3    |
+| 6/18/24 06:00 | 37.5  | 96  | 108/73    | 18 | 97%  | 2    |
+| 6/19/24 06:00 | 37.0  | 88  | 116/78    | 16 | 98%  | 1    |
+| 6/20/24 06:00 | 36.9  | 84  | 122/80    | 16 | 98%  | 1    |
+| 6/21/24 06:00 | 36.8  | 80  | 119/76    | 14 | 99%  | 1    |
+
+-----------------------------------------------
+LABS
+
+CBC / CHEM7 / CARDIAC
+
+| Date  | WBC   | Hgb  | Plt   | Na  | K   | Cl  | CO2 | BUN | Cr   | Glu | Troponin | BNP  | AST | ALT | Alb | 
+|-------|-------|------|-------|-----|-----|-----|-----|-----|------|-----|----------|------|-----|-----|-----|
+| 6/16  | 10.4  | 15.4 | 332   | 133 | 4.9 | 99  | 19  | 34  | 1.7  | 110 | 1.3      | 3200 | 410 | 503 | 2.8 |
+| 6/17  | 12.2  | 14.7 | 220   | 137 | 5.0 | 101 | 17  | 42  | 2.0  | 126 | 3.9      | 2800 | 321 | 410 | 2.6 |
+| 6/18  | 9.8   | 13.7 | 130   | 138 | 4.1 | 102 | 21  | 38  | 1.5  | 98  | 2.2      | 1800 | 160 | 201 | --  |
+| 6/19  | 7.2   | 12.9 | 72    | 140 | 3.8 | 104 | 24  | 22  | 1.3  | 90  | 1.0      | 900  | 55  | 60  | 3.2 |
+| 6/20  | --    | 13.2 | 102   | 141 | 3.9 | 105 | 26  | 19  | 1.2  | 92  | <0.02    | 440  | 40  | 33  | 3.5 |
+| 6/21  | 8.0   | 13.5 | 140   | 140 | 4.1 | 104 | 25  | 17  | 1.2  | 90  | <0.02    | 320  | --  | --  | 3.8 |
+
+Other labs: INR peak 1.8 (HD3), down to 1.1 (HD7). Lactate peaked 3.9 (HD2), normalized HD5. Mg 1.6 -> 2.0 (repleted). LFTs trended down. UA: bland.
+
+-----------------------------------------------
+KEY IMAGING/PROCEDURES
+
+- TTE 6/16: LVEF 15%, global hypokinesis, mod MR, LV dilated, RV normal.
+- TTE 6/20: LVEF 25%, improved filling, MR mild-moderate.
+- CXR: Pulmonary edema, improved by HD4.
+- Impella CP placed HD2, explanted HD7. No device complications.
+
+-----------------------------------------------
+MEDICATIONS (ACTIVE/HOLD)
+
+- Acetaminophen 325 mg PO PRN
+- Furosemide 40 mg IV q12h -> PO 40 mg BID
+- Carvedilol 3.125 mg PO BID (initiate)
+- Sacubitril/valsartan 24/26 mg PO BID (initiate)
+- HCTZ, amlodipine/olmesartan, OCPs: HELD
+- DVT ppx: Enoxaparin 40 mg SQ daily (after Plt >100k)
+- MgSO4 as needed
+- Norepinephrine, dobutamine: OFF
+
+-----------------------------------------------
+DISPOSITION / FOLLOW-UP
+
+- Plan for transfer to stepdown when stable x24h.
+- Cardiac rehab, AICD eval, close outpatient f/u.
+- Strict HF education, dietary counseling.
+- Social work to assist with support at home.
+
+-----------------------------------------------
+ATTENDING: Dr. J. Shah, MD
+ICU Progress Note – 6/21/2024
+-----------------------------------------------
+```

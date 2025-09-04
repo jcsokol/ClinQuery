@@ -1,0 +1,175 @@
+______________________________________________________________________________________
+**EpicCare Inpatient – Progress Note**
+______________________________________________________________________________________
+
+**Patient:** Glennie Batz  
+**MRN:** 00278592  
+**DOB:** 09/01/1970 (53 y/o)  
+**Sex:** Female  
+**Date of Admission:** 05/22/2024  
+**Date of Service:** 05/29/2024  
+**Attending:** Dr. R. Hensley, MD  
+**Consultants:** Cardiology, Infectious Disease, Endocrinology  
+**Allergies:** NKDA
+
+---
+**Chief Complaint:**  
+Progressive shortness of breath, orthopnea, lower extremity edema, and chest tightness.
+
+---
+**History of Present Illness:**  
+53-year-old female with h/o prediabetes, chronic sinusitis, anemia, and remote concussion, presenting with 1 week of worsening exertional dyspnea, orthopnea, and bilateral leg swelling. She developed acute chest discomfort and was brought to the ED. Initial workup revealed elevated BNP and troponin, low ejection fraction (EF 18%), and cardiogenic shock with hypotension refractory to inotropes. She was intubated for hypoxic respiratory failure and transferred to the MICU, where a temporary percutaneous left ventricular assist device (Impella CP) was placed for hemodynamic support. She has been treated for possible viral myocarditis; infectious w/u pending.
+
+---
+**Past Medical History:**  
+- Anemia (chronic, iron-deficiency, on ferrous sulfate)  
+- Prediabetes (A1c 6.3%)  
+- Chronic sinusitis, recurrent viral flares  
+- Remote concussion (2018, no LOC)  
+- Prior first-trimester miscarriage
+
+**Past Surgical History:**  
+- None
+
+**Medications on Admission:**  
+- Ferrous sulfate 325 mg PO daily  
+- Amox/Clav 250/125 mg PO BID (recent, for sinusitis)
+
+**Social History:**  
+- Lives with husband  
+- No tobacco, no alcohol, no illicit drugs  
+- Employed as a bookkeeper
+
+**Family History:**  
+- Mother with CHF, DM2  
+- Father deceased, MI at 62
+
+**Review of Systems:**  
+Unable to obtain (intubated, sedated)
+
+---
+**Physical Exam (05/29/2024, Day 7):**  
+**Gen:** Intubated, sedated, appears stated age  
+**VS:** T 37.3°C, HR 92, BP 91/56 (on norepinephrine), RR 18 (vent), SpO2 98% (FiO2 40%)  
+**HEENT:** ETT in place, no oropharyngeal lesions  
+**CV:** S1S2, distant, Impella hum audible, no murmurs  
+**Lungs:** Bibasilar crackles, diminished throughout  
+**Abd:** Soft, non-distended, mild RUQ tenderness  
+**Ext:** 2+ pitting edema knees to ankles  
+**Neuro:** Sedated, non-focal, pupils 2mm, brisk
+
+---
+**Hospital Course Summary:**  
+- Day 1: Admitted with acute hypoxic respiratory failure, cardiogenic shock. Started on dobutamine, norepi, intubated.  
+- Day 2: Echo: EF 18%, severe global hypokinesis. Impella CP placed via right femoral artery.  
+- Day 3: Hemodynamics improved, weaned off dobutamine.  
+- Day 4-6: Complicated by AKI (Cr max 1.7), transaminitis, anemia worsened (Hb nadir 7.6), required 2U PRBC.  
+- Day 7: Renal function improved, Impella wean trial underway. Remains intubated for airway protection.
+
+---
+**LABS – Hospital Course**  
+**(Some entries missing due to hemolysis/technical issues)**
+
+| Date      | WBC    | Hgb   | Hct   | Plt   | Na    | K     | Cl    | CO2   | BUN   | Cr    | Glu   | AST   | ALT   | BNP     | Trop I   |
+|-----------|--------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|---------|----------|
+| 5/22      | 5.2    | 10.2  | 31.7  | 211   | 137   | 4.8   | 102   | 22    | 19    | 0.8   | 134   | 33    | 41    | 3,280   | 0.18     |
+| 5/23      | 4.6    | 9.6   | 29.8  | 198   | 136   | 5.2   | 105   | 20    | 23    | 1.2   | 117   | 47    | 61    | 4,120   | 0.22     |
+| 5/24      | 3.9    | 8.8   | 27.5  |       | 134   |       | 104   | 19    | 32    | 1.7   | 121   | 128   | 99    |         | 0.15     |
+| 5/25      | 4.8    | 7.6   | 22.9  | 154   |       | 4.6   | 105   | 17    | 29    | 1.6   | 105   | 75    | 53    |         | 0.11     |
+| 5/26      | 5.1    | 9.1   | 27.1  | 183   | 138   | 4.3   | 102   | 24    | 18    | 1.0   | 102   | 41    |       | 2,200   | 0.09     |
+| 5/27      |        | 10.4  | 31.8  | 189   | 139   | 4.1   | 100   | 25    | 17    | 0.9   | 110   | 39    | 45    | 1,980   |          |
+| 5/28      | 4.7    | 10.7  |       | 174   | 137   | 4.0   | 103   | 25    | 18    | 0.8   | 99    | 34    | 41    |         | 0.07     |
+| 5/29      | 5.3    | 11.2  | 33.3  | 201   | 137   | 4.2   | 101   | 25    | 19    | 0.8   | 97    | 31    | 38    | 1,450   | 0.04     |
+
+---
+**Relevant Imaging/Tests:**  
+- Echo (5/22): EF 18%, severe global hypokinesis, mild MR, normal RV  
+- CXR (5/22): Bilateral interstitial edema, small pleural effusions  
+- ECG: NSR, low voltage QRS, TWI anterolateral leads  
+- Viral PCR: pending  
+- Blood cultures: negative x2  
+- LFTs: Transient transaminitis, peaked 5/24 (AST 128, ALT 99)
+
+---
+**Medications (Current):**  
+- Ferrous sulfate 325 mg PO daily  
+- Amox/Clav 250/125 mg PO BID (d/c 5/25)  
+- Norepinephrine IV gtt (titrating)  
+- Furosemide 40 mg IV BID  
+- Pantoprazole 40 mg IV QD  
+- Heparin SQ 5,000 U TID (DVT ppx)  
+- PRBC transfusions (5/25, 2 units)  
+- Acetaminophen 650 mg PRN  
+- Sedation: Propofol IV
+
+---
+**Assessment & Plan (Problem-Based):**  
+
+**1. Cardiogenic Shock, severe LV dysfunction (EF 18%), possible viral myocarditis**  
+- Impella CP placed for hemodynamic support, currently weaning  
+- Norepinephrine support, wean as tolerated  
+- Monitor for arrhythmias, Impella-related complications  
+- Repeat echo planned 5/30  
+- Await viral panel, cardiac MRI pending  
+- Cardiology following
+
+**2. Acute Hypoxic Respiratory Failure, intubated**  
+- Ventilator support, wean FiO2 as tolerated  
+- Daily CXR, suction ETT prn  
+- Monitor for VAP, SBT trial if mental status improves
+
+**3. Acute Kidney Injury (resolved)**  
+- Initially oliguric, Cr peaked 1.7, now improved  
+- Monitor UOP, avoid nephrotoxins  
+- Renal dosing of medications
+
+**4. Anemia, transfusion-dependent**  
+- Hb nadir 7.6, transfused 2U PRBC  
+- Iron studies pending, continue ferrous sulfate  
+- Monitor for GI blood loss
+
+**5. Transaminitis, likely ischemic hepatitis**  
+- LFTs peaked 5/24, now trending down  
+- Monitor daily, trend with hemodynamics
+
+**6. Prediabetes**  
+- Glucose controlled, continue monitoring  
+- Endocrinology consulted
+
+**7. Chronic/recurrent sinusitis**  
+- Completed amox/clav for recent flare  
+- Monitor for secondary infection
+
+**8. DVT prophylaxis**  
+- Heparin SQ
+
+**9. Pain/agitation/sedation**  
+- Propofol for sedation, pain score goal <4  
+- Monitor for delirium as sedation weaned
+
+**10. Nutrition**  
+- NPO, TPN not indicated  
+- Enteral nutrition via OG tube initiated 5/26
+
+**11. Family/Goals of Care**  
+- Family updated daily, full code  
+- Social work involved for support
+
+---
+
+**To Do:**  
+- Repeat echo 5/30  
+- Continue Impella wean, reassess for explant  
+- Monitor labs, adjust meds  
+- SBT trial when appropriate  
+- Await viral panel, cardiac MRI  
+- Daily multidisciplinary rounds
+
+---
+
+**Signed:**  
+Dr. R. Hensley, MD | 05/29/2024 09:54
+
+______________________________________________________________________________________
+**End of Note**
+______________________________________________________________________________________

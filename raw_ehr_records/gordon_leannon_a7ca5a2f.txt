@@ -1,0 +1,162 @@
+**EPIC EHR - Inpatient Chart Review**
+
+---
+
+**Patient Name:** Gordon Leannon  
+**MRN:** 00418321  
+**DOB:** 03/31/1914 (Age: 110)  
+**Sex:** Male  
+**Admit Date:** 05/02/2024  
+**Attending:** Dr. S. Linton  
+**Consults:** Cardiology, Endocrinology, Physical Therapy, Infectious Disease  
+**Code Status:** Full  
+**Allergies:** NKDA  
+**Height:** 173 cm  
+**Weight:** 84 kg  
+**BMI:** 28.1 kg/m²  
+**Admitting Dx:** Cardiogenic shock s/p acute MI, temporary LVAD placement
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+Mr. Leannon, a 110-year-old male with PMHx of HTN, obesity, OA knees, chronic sinusitis, stroke, hypothyroidism, CAD, and prior ankle fracture, presented to the ED with acute-onset chest pain and dyspnea. He was found to have a large anterior STEMI with subsequent cardiogenic shock. Emergent cardiac cath revealed multivessel CAD with occlusion of the proximal LAD, and PCI was performed with DES placement. Due to persistent hypotension and evidence of end-organ hypoperfusion, a temporary percutaneous LVAD (Impella CP) was placed in the CCU. Patient stabilized on mechanical support and was subsequently weaned off after 5 days. Complicated course included AKI, delirium, and volume overload. 
+
+---
+
+### VITALS & I/O (selected)
+
+| Date       | HR   | BP         | RR   | Temp   | SpO2 | Pain |
+|------------|------|------------|------|--------|------|------|
+| 05/02/24   | 112  | 84/52      | 22   | 36.8   | 91%  | 8    |
+| 05/03/24   | 98   | 99/59      | 18   | 37.1   | 95%  | 4    |
+| 05/05/24   | 85   | 113/61     | 16   | 36.9   | 97%  | 2    |
+| 05/08/24   | 76   | 128/70     | 14   | 36.7   | 98%  | 1    |
+
+---
+
+### LABS (CBC/Chem7/Cardiac Markers/LFTs - selected, see full labs for details)
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin I | AST  | ALT  | BNP   |
+|------------|------|------|------|------|------|------|------|------|------|------|------|------------|------|------|-------|
+| 05/02/24   | 13.2 | 14.3 | 41   | 289  | 138  | 4.8  | 104  | 19   | 33   | 2.1  | 188  | 38.7       | 67   | 52   | 4080  |
+| 05/03/24   | 12.1 | 13.1 | 38   | 263  | 136  | 5.3  | 102  | 21   | 41   | 2.8  | 172  | 23.4       | 59   | 48   | 3170  |
+| 05/04/24   | 10.6 | 12.7 | 36   | 241  | 137  | 4.5  | 101  | 23   | 37   | 2.4  | 146  | 8.4        | 41   | 33   | 2320  |
+| 05/05/24   | 9.7  | 12.9 | 37   | 265  | 139  | 4.1  | 103  | 24   | 29   | 1.7  | 124  | <0.01      | 28   | 19   | 1220  |
+| 05/07/24   | 8.9  | 13.6 | 38   | 278  | 141  | 4.2  | 105  | 24   | 21   | 1.3  | 117  | <0.01      | 22   | 17   | 840   |
+| 05/08/24   | 9.2  | 14.1 | 40   | 297  | 142  | 4.4  | 108  |      | 18   | 1.1  |      |            |      |      |       |
+
+*Some labs missing due to hemolysis or sample error.*
+
+---
+
+### PROBLEM-BASED ASSESSMENT & PLAN
+
+#### 1. **Cardiogenic Shock s/p STEMI, Temporary LVAD (Impella CP)**
+- **Assessment:** Presented in profound shock post-anterior MI. Hypoperfusion, lactic acidosis, rising Cr. Required inotropes and mechanical LV support. Weaned off Impella on HD6 after improved LV function and MAP sustained >65 mmHg on minimal pressors.
+- **Plan:**  
+  - Continue guideline-directed medical therapy (GDMT) for HF: beta blocker, ACEi, spironolactone (as tolerated, monitor K).
+  - Strict I/O, daily weights.
+  - TTE q48h while in ICU, then routine.
+  - Monitor for signs of LVAD-related complications (hemolysis, limb ischemia, infection).
+  - Cardiac rehab consult.
+  - DAPT for DES, continue statin.
+
+#### 2. **Acute Kidney Injury (Stage 2, resolving)**
+- **Assessment:** Likely multifactorial: low perfusion, nephrotoxic exposures (contrast, diuretics), baseline CKD 2.  
+- **Plan:**  
+  - Renal dosing of all meds.
+  - Avoid further nephrotoxins.
+  - Monitor UOP, daily BMP.
+  - Nephrology consult.
+
+#### 3. **Volume Overload/Heart Failure**
+- **Assessment:** Oliguria, elevated BNP, CXR with pulmonary edema, improved with diuresis post-LVAD support.
+- **Plan:**  
+  - IV furosemide; transition to oral once stable.
+  - Daily CXR PRN.
+  - Monitor lytes, replace K/Mg.
+
+#### 4. **Atrial Fibrillation (new, paroxysmal)**
+- **Assessment:** Brief runs on telemetry, rate-controlled, no instability.
+- **Plan:**  
+  - Continue beta blocker.
+  - Anticoagulation with apixaban.
+  - Monitor for recurrence.
+
+#### 5. **Hypothyroidism**
+- **Assessment:** Long-standing, on levothyroxine.
+- **Plan:**  
+  - Continue home dose.
+  - TSH recheck prior to discharge.
+
+#### 6. **Hypertension**
+- **Assessment:** Well-controlled pre-admission, fluctuating in ICU.
+- **Plan:**  
+  - Hold anti-HTN agents if SBP <110.
+  - Resume amlodipine and HCTZ as tolerated.
+
+#### 7. **Obesity**
+- **Assessment:** BMI 28, risk factor for CAD, OSA possible.
+- **Plan:**  
+  - Encourage weight loss, dietary consult.
+  - Sleep study outpatient.
+
+#### 8. **Osteoarthritis (knees)**
+- **Assessment:** Baseline, pain 1/10, limited ambulation.
+- **Plan:**  
+  - Tylenol PRN, avoid NSAIDs (renal).
+  - PT/OT for mobility.
+
+#### 9. **History of CVA**
+- **Assessment:** No new deficits, on DAPT and statin.
+- **Plan:**  
+  - Continue secondary prevention.
+  - Neuro checks qshift.
+
+#### 10. **Chronic Sinusitis**
+- **Assessment:** Stable, no acute symptoms.
+- **Plan:**  
+  - Continue saline rinses.
+  - ENT f/u outpatient.
+
+#### 11. **Other Issues**
+- **GI prophylaxis:** PPI due to DAPT, stress ulcer risk.
+- **DVT prophylaxis:** SCDs + pharmacologic when safe.
+- **Delirium:** Improved after stopping sedatives, re-orientation, sleep hygiene.
+- **Vaccinations:** Update prior to d/c.
+
+---
+
+### MEDICATION ADMINISTRATION RECORD (selected)
+
+- Aspirin 81 mg PO daily
+- Clopidogrel 75 mg PO daily
+- Metoprolol succinate 25 mg PO daily (started 05/03)
+- Lisinopril 2.5 mg PO daily (started 05/06)
+- Spironolactone 12.5 mg PO daily (started 05/07)
+- Levothyroxine 75 mcg PO daily
+- Atorvastatin 40 mg PO nightly (switched from simvastatin)
+- Furosemide 40 mg IV BID (tapered to PO)
+- Apixaban 2.5 mg PO BID (started 05/05)
+- Nitroglycerin spray PRN
+- Omeprazole 20 mg PO daily
+
+---
+
+### DISCHARGE PLANNING
+
+- Anticipated discharge to SNF after PT/OT evaluation.
+- Arrange home health, cardiology, nephrology, and primary care follow-up.
+- Advance care planning discussed with patient/family.
+
+---
+
+### SIGNED:  
+**S. Linton, MD**  
+**Date:** 05/09/2024  
+**Time:** 10:24
+
+---
+
+**(For full labs, imaging, and flowsheets, see respective EPIC tabs.)**

@@ -1,0 +1,152 @@
+```
+---------------------------------------------------------------------------
+EpicCare Inpatient EHR System
+Patient Name: Sage Wyman
+MRN: 00428754
+DOB: 11/23/1963        Sex: Female
+Admit Date: 04/13/2024
+Attending: Dr. Angela L. Kumar, MD
+Consultants: Cardiology, Cardiac Surgery, Nephrology, PT/OT, Nutrition
+
+----------------------------------------------------------------------------
+
+ADMISSION SUMMARY
+
+Chief Complaint:
+Progressive shortness of breath, orthopnea, and lower extremity edema.
+
+History of Present Illness:
+Sage Wyman is a 60-year-old female with a history of hypertension, obesity, hyperlipidemia, chronic kidney disease (baseline Cr ~1.6), and osteoarthritis, who presented to the ED with worsening dyspnea, increased lower extremity swelling, and decreased exercise tolerance over 2 weeks. She reports paroxysmal nocturnal dyspnea and mild chest discomfort. She denies fevers, cough, or recent travel. No known COVID exposures.
+
+On arrival, she was found to be tachycardic, mildly hypotensive, with O2 sat 90% on RA. Initial labs notable for acute kidney injury (Cr 2.5), elevated BNP, and troponin 0.04 (borderline). CXR showed pulmonary edema and cardiomegaly. Echo demonstrated severely reduced LVEF (20%), global hypokinesis, and moderate MR. She was admitted to the ICU for management of acute decompensated heart failure with cardiogenic shock. Required inotropes and, due to persistent hemodynamic instability, underwent emergent placement of a percutaneous left ventricular assist device (Impella CP) on hospital day 2.
+
+Hospital Course:
+- Vasopressors and inotropes weaned over 48 hrs post-Impella.
+- Diuresis achieved with IV furosemide; net negative 5L by day 4.
+- Kidney function improved to baseline by day 5.
+- Developed transient atrial fibrillation, rate-controlled with amiodarone.
+- Impella explanted on HD 6 after hemodynamic stability achieved.
+- Mobilized with PT/OT, transitioned to oral heart failure regimen.
+- Discharged to home with close HF follow-up.
+
+----------------------------------------------------------------------------
+
+ALLERGIES: NKDA
+
+----------------------------------------------------------------------------
+
+MEDICATIONS (Inpatient)
+- Lasix 40mg IV q8h (now switched to PO)
+- Metoprolol succinate 25mg PO daily
+- Lisinopril 10mg PO daily
+- Spironolactone 25mg PO daily
+- Simvastatin 10mg PO nightly
+- Hydralazine 25mg PO TID
+- Aspirin 81mg PO daily
+- Amiodarone 200mg PO daily (for 5 days, then stopped)
+- Etonogestrel implant (home med, not relevant to admission)
+- Naproxen sodium 220mg PO prn (held during admission)
+- HydrOCHLOROthiazide 12.5mg PO daily (home med, on hold during AKI)
+- Natazia (oral contraceptive, home med, held during admission)
+
+----------------------------------------------------------------------------
+
+PROBLEM-BASED ASSESSMENT & PLAN
+
+1. **Cardiogenic Shock secondary to acute decompensated heart failure (HFrEF, new diagnosis)**
+   - Required inotropes and temporary mechanical circulatory support (Impella CP).
+   - Hemodynamics stabilized; Impella explanted HD 6.
+   - Started on guideline-directed medical therapy (GDMT) for HFrEF (BB, ACEi, MRA).
+   - Echo: LVEF 20%, global hypokinesis, moderate MR.
+   - Plan: Titrate GDMT, outpatient follow-up with HF clinic, consider ICD if EF <35% at 3 months.
+
+2. **Acute Kidney Injury (on CKD)**
+   - Admission Cr 2.5 (baseline 1.6), likely pre-renal from low output/diuresis.
+   - Improved with restoration of perfusion and careful diuresis.
+   - Off nephrotoxic agents; monitor renal function.
+   - Plan: Continue to monitor, avoid NSAIDs.
+
+3. **Atrial Fibrillation with RVR (transient)**
+   - Developed on HD 3, rate-controlled with amiodarone.
+   - NSR restored, no further episodes.
+   - No anticoagulation initiated (CHA2DS2-VASc = 2, but high bleeding risk during Impella).
+   - Plan: Monitor for recurrence, consider long-term anticoagulation if persistent.
+
+4. **Volume Overload / Pulmonary Edema**
+   - Managed with IV diuretics, net negative 5L by HD 4.
+   - Oxygen weaned off by HD 5.
+   - Plan: Continue oral diuretics, daily weights, sodium restriction.
+
+5. **Hypertension, Hyperlipidemia, Obesity**
+   - BP controlled on current regimen.
+   - Continue simvastatin, reinforce lifestyle changes.
+   - Nutrition consult for weight management.
+
+6. **Osteoarthritis, Chronic Pain**
+   - Naproxen held due to AKI and HF; acetaminophen for pain control.
+   - PT/OT for mobility.
+
+7. **Contraceptive Management**
+   - Etonogestrel implant in place, no issues during admission.
+
+8. **Psychosocial, Discharge Planning**
+   - Lives alone, daughter visits daily.
+   - Education on HF, medication adherence, and diet.
+   - Home health nursing arranged for first week post-discharge.
+
+----------------------------------------------------------------------------
+
+LABS (selected, ICU days 1-7)
+
+| Date        | WBC   | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Gluc | Ca    | BNP     | Trop   | AST  | ALT  | AlkPhos | Alb  |
+|-------------|-------|-------|-------|-------|------|------|------|------|------|------|------|-------|---------|--------|------|------|---------|------|
+| 4/13/24 05:00 | 7.1   | 12.7  | 41.2  | 292   | 142  | 3.9  | 101  | 27   | 17   | 2.5  | 98   | 8.8   | 1380    | 0.04   | 40   | 31   | 24      | 4.1  |
+| 4/14/24 06:20 | 6.8   | 12.4  | 40.6  | 278   | 140  | 4.3  | 104  | 26   | 23   | 2.7  | 106  | 8.5   | 1250    | 0.03   | 38   | 34   | 27      | 4.0  |
+| 4/15/24 05:50 | 7.3   | 11.8  | 38.9  | 254   | 139  | 4.1  | 103  | 25   | 25   | 2.9  | 112  | 8.1   | 980     | <0.01  | 35   | 32   | 23      | 3.8  |
+| 4/16/24 06:10 | 7.0   | 11.6  | 38.1  | 232   | 138  | 4.2  | 102  | 25   | 22   | 2.0  | 110  | 8.3   | 710     | <0.01  | 29   | 28   | 25      |     |
+| 4/17/24 07:00 | 6.6   | 11.8  | 38.5  | 220   | 139  | 4.4  | 104  | 28   | 19   | 1.7  |      | 8.6   | 590     | <0.01  |      |      |         | 3.9  |
+| 4/18/24 07:30 | 6.2   | 12.2  | 39.6  | 213   | 141  | 4.1  | 103  | 27   | 18   | 1.6  | 107  | 8.9   | 400     | <0.01  | 27   | 25   | 22      | 4.0  |
+| 4/19/24 08:00 | 6.0   | 12.4  | 40.0  | 205   | 142  | 4.3  | 104  | 28   | 17   | 1.6  |      | 9.1   |         |        |      |      |         |      |
+
+*Missing values reflect labs not collected or not resulted at the respective time.*
+
+----------------------------------------------------------------------------
+
+IMAGING
+
+- CXR (4/13): Cardiomegaly, pulmonary edema, bilateral effusions.
+- TTE (4/13): LVEF 20%, global hypokinesis, moderate MR, RV function mildy reduced.
+- Renal US (4/14): No obstruction, increased echogenicity consistent with CKD.
+
+----------------------------------------------------------------------------
+
+PROCEDURES
+
+- 4/14: Right heart cath (CO 2.1, CI 1.6, PCWP 28, SVR 2100)
+- 4/14: Placement of Impella CP (left femoral approach), no complications
+- 4/20: Impella explant at bedside, hemostasis achieved
+
+----------------------------------------------------------------------------
+
+DISCHARGE CONDITION: 
+Ambulating with mild exertional dyspnea, stable vitals, euvolemic, creatinine at baseline, no chest pain or arrhythmia.
+
+DISCHARGE INSTRUCTIONS:
+- Follow-up with heart failure clinic in 1 week
+- Daily weights, low sodium diet
+- Strict fluid restriction 1.5L/day
+- Medication adherence
+- Call for chest pain, palpitations, worsening SOB, weight gain >2kg in 3 days
+
+----------------------------------------------------------------------------
+
+PHYSICIAN ATTESTATION:
+I have personally reviewed the chart and examined the patient.
+
+Angela L. Kumar, MD  
+Cardiology/ICU
+
+Date/Time: 4/20/2024 16:30
+
+----------------------------------------------------------------------------
+```

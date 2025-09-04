@@ -1,0 +1,224 @@
+---
+**Patient Name:** Jospeh Dietrich  
+**MRN:** 00328475  
+**DOB:** 10/04/1975 (Age: 48)  
+**Sex:** Male  
+**Date of Admission:** 2024-05-16  
+**Attending:** Dr. K. Sharma  
+**Admitting Service:** MICU  
+**Admit Dx:** Cardiogenic shock, acute decompensated heart failure  
+**Consults:** Cardiology, CT Surgery  
+**Allergies:** NKDA  
+
+---
+
+# ICU Progress Note
+
+**Date:** 2024-05-19  
+**Time:** 06:48  
+**Author:** Dr. K. Sharma, MD
+
+---
+
+## Chief Complaint:
+Shortness of breath, chest tightness, confusion
+
+---
+
+## History of Present Illness:
+Jospeh Dietrich is a 48-year-old male with a history of hypertension, recent acute viral pharyngitis, and laceration of the right hand (sutured in ED 5 days ago), presenting with 2 days of progressive dyspnea, orthopnea, and confusion. He was noted by family to be increasingly somnolent and diaphoretic at home. Upon arrival to the ED, he was hypotensive (SBP 78 mmHg), tachycardic (HR 122), hypoxic (SpO2 89% RA).  
+
+Initial workup revealed elevated troponin, BNP, and evidence of pulmonary edema on CXR. Echo demonstrated severely reduced LV systolic function (EF ~15%), global hypokinesis, and mild RV dysfunction. He rapidly decompensated, requiring intubation and vasopressor support. Despite maximal medical therapy (dobutamine, norepinephrine), he remained in cardiogenic shock. Cardiology and CT surgery were consulted, and a percutaneous left ventricular assist device (Impella CP) was placed emergently at bedside on hospital day 1 with good hemodynamic response.
+
+---
+
+## Past Medical History:
+- Hypertension (well-controlled)
+- Recent viral pharyngitis (last week, improved)
+- Viral sinusitis (self-limited, last month)
+- Laceration of right hand (sutured, uncomplicated, no infection)
+
+## Surgical History:
+- None
+
+## Social History:
+- Lives with spouse, no tobacco, rare EtOH, no illicit drug use
+- Employed as accountant
+
+## Family History:
+- Father: MI age 62
+- Mother: HTN, T2DM
+
+## Medications on Admission:
+- Atenolol 50 mg / Chlorthalidone 25 mg daily
+- Ibuprofen 200 mg PRN
+
+## ICU Medications:
+- Norepinephrine (weaning)
+- Dobutamine (weaning)
+- Furosemide IV
+- Aspirin 81 mg
+- Atorvastatin 40 mg
+- PPI for GI prophylaxis
+- Heparin drip (Impella anticoagulation)
+- Acetaminophen PRN
+
+## Review of Systems:  
+Unable to obtain complete ROS due to intubation and sedation.
+
+---
+
+## Physical Exam (HD3, AM):
+
+| Vitals             | Value         |
+|--------------------|--------------|
+| Temp (Oral)        | 36.8°C       |
+| HR                 | 98 bpm       |
+| BP                 | 108/62 mmHg  |
+| RR                 | 16 (vent)    |
+| SpO2               | 96% (FiO2 0.4)|
+| Pain (0-10)        | 2 (gestures) |
+
+- **Gen:** Intubated, sedated, no acute distress.
+- **HEENT:** Oropharynx clear, ETT secure.  
+- **CV:** S1S2, soft S3. No murmur. Impella hum noted. No JVD.  
+- **Resp:** Breath sounds diminished bases, scattered crackles.  
+- **Abd:** Soft, NT, ND, normal BS.  
+- **Ext:** No edema, hand wound clean, dry, no erythema.  
+- **Neuro:** Follows commands, moving all extremities.
+
+---
+
+## Labs
+
+#### Table 1: CBC, Chem7, and Cardiac Markers
+
+| Date        | WBC  | Hgb  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin I | BNP    |
+|-------------|------|------|-------|------|------|------|------|------|------|------|------------|--------|
+| 5/16/24 06h | 11.2 | 13.1 | 327   | 136  | 4.8  | 102  | 19   | 38   | 1.9  | 144  | 1.28       | 4820   |
+| 5/17/24 05h | 9.3  | 11.7 | 282   | 134  | 4.2  | 101  | 18   | 29   | 1.4  | 128  | 0.92       | 3790   |
+| 5/18/24 06h | 7.5  | 12.0 | 265   | 137  | 4.1  | —    | 21   | 25   | 1.2  | 122  | 0.38       | 2100   |
+| 5/19/24 05h | —    | 12.2 | 258   | —    | 4.4  | 98   | 22   | 18   | 1.0  | 119  | 0.04       | 840    |
+
+#### Table 2: LFTs, Coags
+
+| Date        | AST  | ALT  | Alk Phos | Tbili | INR  | aPTT | Fibrinogen |
+|-------------|------|------|----------|-------|------|------|------------|
+| 5/16/24     | 71   | 66   | 112      | 1.3   | 1.5  | 36   | 340        |
+| 5/17/24     | 55   | 49   | 105      | 1.1   | 1.3  | 34   | —          |
+| 5/18/24     | 36   | 31   | —        | 0.9   | 1.1  | 31   | 320        |
+
+---
+
+## Imaging  
+- **CXR (5/16):** Pulmonary edema, mild cardiomegaly, no focal consolidation.
+- **Echo (5/16):** LVEF 15%, global hypokinesis, mild RV dysfunction, no thrombus.
+- **Hand XR (5/16):** No foreign body, bone intact.
+
+---
+
+## Assessment and Plan
+
+### 1. Cardiogenic Shock / Acute Decompensated Heart Failure (new, non-ischemic)
+- Placed on Impella CP (HD1), hemodynamics stable, weaning vasopressors/inotropes.
+- Likely viral myocarditis (recent viral URI, no CAD risk factors, global dysfunction).
+- Echo: severely reduced EF, mild RV dysfunction.
+- Plan:  
+  - Continue Impella, daily wean assessment  
+  - Wean pressors/inotropes as tolerated  
+  - Serial BMP, CBC, lactate, troponin, BNP  
+  - Strict I/Os, daily weights  
+  - Cardiology f/u  
+  - Transition off device when able
+
+### 2. AKI (likely cardiorenal)
+- Initial Cr 1.9, improved to 1.0 with diuresis and improved perfusion.
+- Plan:  
+  - Monitor renal function  
+  - Avoid nephrotoxins  
+  - Maintain MAP >65  
+  - Adjust diuretics as tolerated
+
+### 3. Respiratory Failure (pulmonary edema, intubated)
+- Intubated on HD1, FiO2 weaning.
+- Plan:  
+  - Continue vent support, daily SBT  
+  - Diuresis, monitor CXR  
+  - Pulm/Critical Care f/u
+
+### 4. Hypertension
+- On hold due to shock, now restarting low-dose beta-blocker
+- Plan:  
+  - Re-initiate atenolol/chlorthalidone as tolerated  
+  - BP monitoring
+
+### 5. Laceration of Hand (recent, healing)
+- No signs of infection.
+- Plan:  
+  - Continue wound care  
+  - Remove sutures per protocol  
+  - Monitor for infection
+
+### 6. Recent viral pharyngitis/sinusitis (resolved)
+- No active symptoms.
+- Plan:  
+  - Supportive care only
+
+### 7. GI prophylaxis
+- On PPI
+- Plan: Continue
+
+### 8. VTE prophylaxis
+- On heparin drip for Impella
+- Plan: Continue, monitor aPTT
+
+### 9. Nutrition
+- NPO, on tube feeds
+- Plan: Advance as tolerated
+
+### 10. Disposition
+- Remains in MICU, daily reassessment for step-down
+
+---
+
+## To Do:
+- Daily labs (CBC, BMP, troponin, BNP, LFTs, coags)
+- Wean Impella/pressors
+- SBT, extubation when ready
+- Hand wound care
+- Cardiology/cardiothoracic surgery f/u
+
+---
+
+## Attending Attestation:
+I have personally examined the patient and reviewed the case with the ICU team. Agree with above assessment/plan.
+
+---
+
+**[End of Note]**
+
+---
+
+**Additional Labs/Notes:**
+- Magnesium: 1.7 → 2.2 (supplemented)
+- Lactate: 3.2 (admit) → 1.1 (HD3)
+- CRP: 14.2 (admit), trending down
+- Cultures: Blood/urine negative
+
+---
+
+**Flowsheet Excerpt (selected):**
+
+| Date/Time    | MAP  | CVP | UOP (mL/hr) | I/O (24h) | FiO2 | GCS | Comments                |
+|--------------|------|-----|-------------|-----------|------|-----|-------------------------|
+| 5/16 12:00   | 62   | 14  | 18          | +120      | 0.6  | 7   | Intubated, Impella in   |
+| 5/17 06:00   | 71   | 10  | 32          | -250      | 0.5  | 10  | Vasopressors weaning    |
+| 5/18 05:00   | 83   | 8   | 48          | -700      | 0.4  | 13  | SBT attempted, awake    |
+| 5/19 06:00   | 85   | 7   | 52          | -1200     | 0.4  | 15  | SBT passed, Impella wean|
+
+---
+
+**Code Status:** Full  
+**Advance Directive:** None on file
+
+---

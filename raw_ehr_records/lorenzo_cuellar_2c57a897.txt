@@ -1,0 +1,157 @@
+```
+======================================================================
+EPIC EHR – Inpatient ICU Progress Note
+======================================================================
+Patient Name: Lorenzo Cuellar                   MRN: 00384721
+DOB: 08/12/1940                                Sex: Male
+Date of Service: 04/12/2024                    Attending: Dr. A. Patel
+Admitting Dx: Cardiogenic shock secondary to acute on chronic systolic heart failure, NSTEMI, CKD, DM2, NSCLC, anemia
+
+======================================================================
+History of Present Illness
+======================================================================
+Mr. Lorenzo Cuellar is a 83-year-old male with extensive PMHx: DM2 (on insulin, metformin), obesity (BMI ~46), CKD Stage 3 progressing, CAD with prior MI, NSCLC (Stage I, s/p multiple rounds chemo), anemia (on Epogen), and dyslipidemia. He presented from home with 2 days of progressive SOB, orthopnea, PND, and acute confusion. Family noted decreased PO intake and 2 episodes of emesis at home. No chest pain reported. Prior to this, functional status was ECOG 2.
+
+In ED: tachycardic, hypotensive (MAPs 58-63), hypoxic (O2 sat 88% RA), bibasilar rales, JVD. Labs: elevated troponin, lactate 4.2, Cr up from baseline 2.1 to 3.7, BNP 2880. CXR: pulmonary edema. ECG: new LBBB, no STEMI. Echo: LVEF 18%, global hypokinesis, severe MR.
+
+Admitted to ICU for acute decompensated HF with cardiogenic shock. Required norepi, dobutamine. Given rapid clinical decline and ongoing end-organ hypoperfusion, decision made for percutaneous LVAD (Impella CP) placement at bedside on HD2. Complicated by AKI, anemia, persistent hyperglycemia, and intermittent hypotension.
+
+======================================================================
+Hospital Course Summary
+======================================================================
+- HD1: Vasopressors, intubated for hypoxic resp failure, central line placed. Started broad-spectrum abx for possible aspiration.
+- HD2: Impella CP placed, hemodynamics improved, weaned off norepi.
+- HD3-4: Persistent oliguria, started CRRT. Anemia worsened, transfused 1U PRBC. Glucose lability, insulin gtt.
+- HD5-7: Gradual improvement. Vasopressors off, extubated to BiPAP. Weaning Impella support.
+- HD8: Impella explanted. Stable on low-dose dobutamine, CRRT discontinued, transitioned to intermittent HD.
+- HD9-10: Transferred out of ICU to cardiac stepdown.
+
+======================================================================
+Problem List & Assessment/Plan
+======================================================================
+
+1. **Cardiogenic Shock/Decompensated Heart Failure**
+   - Assessment: Life-threatening acute on chronic systolic HF with low output, likely precipitated by demand ischemia (NSTEMI) on background of CAD/DM2/CKD. Severe LV dysfunction. Required temporary LVAD (Impella CP) for circulatory support.
+   - Plan:
+     - Continue GDMT (beta-blocker, ACEi—on hold due to AKI, resume when stable)
+     - Monitor for arrhythmia
+     - Daily echo for LV recovery
+     - Diuresis as tolerated
+     - Wean inotropes, Impella explanted HD8
+     - Cardiology/CT surgery following
+
+2. **Acute Kidney Injury on CKD/CRRT**
+   - Assessment: AKI (Cr up to 4.2, baseline 2.1) with oliguria, likely multifactorial (cardiorenal, hypoperfusion, nephrotoxic drugs). Required CRRT HD3-8, now on intermittent HD.
+   - Plan:
+     - Monitor daily chem7, urine output
+     - Avoid nephrotoxins
+     - Nephrology involved
+     - Volume management with diuretics
+     - Epoetin for anemia
+
+3. **NSTEMI/Myocardial Ischemia**
+   - Assessment: Troponin I peaked at 6.2, no ST elevation. Ischemia likely supply/demand vs. Type 1 event.
+   - Plan:
+     - Continue DAPT (aspirin, clopidogrel)
+     - Statin, beta-blocker
+     - Cardiology f/u, no PCI during this admission (not candidate per heart team)
+
+4. **Anemia (chronic, worsened in ICU)**
+   - Assessment: Baseline Hgb ~9, down to 7.2 during ICU stay, multifactorial (CKD, chemo, blood loss via Impella).
+   - Plan:
+     - Transfuse PRBCs as needed (goal >8.0)
+     - Continue Epogen
+     - Monitor iron, B12, folate
+
+5. **Type 2 Diabetes Mellitus/Hyperglycemia**
+   - Assessment: Poorly controlled, insulin resistance, on insulin gtt during ICU, now back to subQ regimen.
+   - Plan:
+     - Endo consult
+     - Monitor q6h BG, target <180
+     - Resume metformin if renal function improves
+
+6. **NSCLC, s/p chemo**
+   - Assessment: History of Stage I NSCLC, last chemo 2 months ago, no acute issues during this admission.
+   - Plan:
+     - Oncology f/u
+     - Continue surveillance
+     - No evidence of acute progression
+
+7. **Obesity/Metabolic syndrome/Dyslipidemia**
+   - Assessment: BMI 46, metabolic syndrome, hypertriglyceridemia, at high CV risk.
+   - Plan:
+     - Nutrition consult
+     - Simvastatin, continue
+     - Encourage weight loss after discharge
+
+8. **Other active issues**
+   - Viral upper resp sx at baseline, resolved
+   - No evidence of DVT/PE. On DVT ppx
+   - No acute infection/culture negative
+
+======================================================================
+Medication Administration Record (MAR) [selected]
+======================================================================
+- Metformin 500mg ER PO QD (held during AKI, resumed HD9)
+- Insulin Lispro sliding scale + gtt in ICU
+- Clopidogrel 75mg PO QD
+- Simvastatin 20mg PO QHS
+- Amlodipine 5mg PO QD
+- Nitroglycerin 0.4mg SL PRN
+- Amox/Clav 875/125mg PO BID x 5d (completed)
+- Epogen 4000U SQ QW
+- PRBCs 1U on HD4, HD7
+- Furosemide IV as tolerated
+- Norepinephrine/dobutamine per ICU protocol
+
+======================================================================
+LABS (Selected)
+======================================================================
+
+| Date       | WBC   | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Ca   | Trop I | BNP   |
+|------------|-------|------|------|------|------|------|------|------|------|------|------|------|--------|-------|
+| 4/12/24    | 14.2  | 8.1  | 26.2 | 368  | 135  | 5.4  | 102  | 21   | 48   | 3.7  | 189  | 8.4  | 6.2    | 2880  |
+| 4/13/24    | 13.5  | 7.2  | 23.9 | 355  | 137  | 5.7  | 104  | 19   | 61   | 4.1  | 212  | 8.2  | 5.1    | 2710  |
+| 4/14/24    | 11.6  | 8.7  | 27.8 | 389  | 136  | 5.1  | 103  | 20   | 54   | 3.6  | 174  | 8.7  | 3.4    | 2300  |
+| 4/15/24    | 10.9  | 9.0  | 28.1 | 400  | 138  | 4.8  | 106  | 22   | 42   | 2.8  | 166  | NA   | 2.2    | 1900  |
+| 4/16/24    | 9.8   | 8.9  | 27.5 | 378  | 137  | 4.6  | 104  | 24   | 36   | 2.4  | 146  | 9.1  | 1.6    | NA    |
+| 4/17/24    | 8.8   | 8.8  | 27.0 | 369  | 139  | 4.4  | 105  | 26   | 31   | 2.2  | NA   | 9.3  | 0.7    | 1100  |
+| 4/18/24    | 8.0   | 9.1  | 28.4 | 362  | 141  | 4.1  | 106  | 28   | 29   | 2.0  | 133  | 9.6  | <0.04  | 900   |
+| 4/19/24    | 7.5   | 9.4  | 29.2 | 350  | 140  | 3.8  | 104  | 27   | 28   | 1.9  | 130  | 9.5  | <0.04  | NA    |
+| 4/20/24    | 7.2   | 9.8  | 30.1 | 346  | 140  | 3.7  | 103  | 29   | 27   | 1.8  | 127  | NA   | <0.04  | 850   |
+
+Additional labs:
+- LFTs: ALT peaked at 88 (HD2), trended down to 34 (HD8); AST peaked 110 (HD2), now 29.
+- Coags: INR 1.3, aPTT normal
+- Lactate: 4.2 (HD1), normalized by HD4
+- Urinalysis: proteinuria, granular casts, no infection
+
+======================================================================
+Vital Signs (Selected)
+======================================================================
+- Initial: BP 82/54 (MAP 63), HR 116, RR 28, O2 88% RA, Temp 37.3C
+- ICU course: MAPs >65 maintained on pressors, afebrile, weaned to room air by HD7
+
+======================================================================
+Imaging/Procedures
+======================================================================
+- CXR: pulmonary edema, improved by HD6
+- Echo (HD1): LVEF 18%, global hypokinesis, severe MR
+- Echo (HD8): LVEF 26%, mild improvement
+- Impella CP placed HD2, explanted HD8
+
+======================================================================
+Consults
+======================================================================
+- Cardiology, CT surgery, Nephrology, Endocrinology, Nutrition, Oncology
+
+======================================================================
+Discharge Readiness/Plan
+======================================================================
+- Transferred to cardiac stepdown HD10, pending rehab placement
+- Continue GDMT for HF, HD 3x/week, close f/u with Cardiology, Nephrology, Oncology
+
+======================================================================
+Attestation: Dr. A. Patel, MD
+======================================================================
+```

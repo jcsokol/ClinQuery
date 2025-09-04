@@ -1,0 +1,188 @@
+**Patient:** Metz, Mel  
+**MRN:** 003948202  
+**DOB:** 10/27/1921  
+**Sex:** Male  
+**Admit Date:** 04/13/2024  
+**Attending:** Dr. K. Faber  
+**Service:** MICU  
+**Allergies:** NKDA  
+**Code Status:** Full
+
+---
+**HISTORY OF PRESENT ILLNESS**
+
+Mr. Mel Metz is a 102-year-old male with past medical history notable for DM2 (insulin + metformin), CKD stage 2, CHF with reduced EF (last 38%), prior CVA, metabolic syndrome, and proliferative diabetic retinopathy, who presented to the ED with progressive dyspnea, orthopnea, and lower extremity edema over the past week. He was found to be hypoxic (O2 sat 84% RA), hypertensive (BP 172/88), tachycardic (HR 113), and in moderate distress. Initial labs revealed hyperglycemia, acute on chronic anemia, and worsening renal function. EKG showed NSR, old inferior Q waves. CXR: pulmonary edema. Echo: EF 34%, moderate MR, dilated LV.
+
+He acutely decompensated on hospital day 2 with hypotension unresponsive to diuresis and escalating O2 needs; started on dobutamine and transferred to ICU. Cardiogenic shock diagnosed. Emergent placement of a percutaneous left ventricular assist device (Impella CP) was performed with transient hemodynamic improvement. Complicated course with AKI, fluid overload, and infection.
+
+---
+**PAST MEDICAL HISTORY**
+- Diabetes mellitus type 2, poorly controlled
+- Anemia (multifactorial)
+- Hypertriglyceridemia, metabolic syndrome
+- Proliferative and nonproliferative diabetic retinopathy
+- Chronic kidney disease, stage 2 (baseline Cr 1.8-2.2)
+- Chronic CHF (EF 34-38%), prior hospitalizations for ADHF
+- Microalbuminuria, diabetic renal disease
+- Prior CVA (2021), residual right-sided weakness
+- Chronic sinusitis, prior viral pharyngitis
+- Bullet wound (remote, L thigh)
+- History of macular edema
+- Hyperglycemia, prediabetes
+
+---
+**PAST SURGICAL HISTORY**
+- None significant except for wound debridement (bullet wound, 1962)
+
+---
+**SOCIAL HISTORY**
+- Lives with daughter. Widowed.
+- No tobacco, rare EtOH, no illicit drugs.
+- Retired teacher.
+
+---
+**FAMILY HISTORY**
+- CAD (father), DM2 (mother), CVA (brother)
+
+---
+**HOME MEDICATIONS**
+- Metformin ER 500mg qAM
+- Insulin NPH/Regular 70/30, sliding scale
+- Metoprolol succinate 100mg qd
+- Lasix 40mg qAM
+- Clopidogrel 75mg qd
+- Acetaminophen 325mg prn
+- Meperidine 50mg prn (rare)
+- Furosemide IV (home nurse prn)
+- Alteplase (prior stroke only, not current)
+
+---
+**REVIEW OF SYSTEMS** (on admission)
+- General: weak, lethargic. No fever.
+- Cardiac: orthopnea, PND, palpitations
+- Pulm: dyspnea, cough (productive)
+- GI: No N/V/D, poor PO intake
+- GU: No dysuria, oliguria
+- Neuro: Baseline confusion, right-sided weakness
+- Skin: Edema, no new wounds
+
+---
+**PHYSICAL EXAM**
+- Gen: Elderly, cachectic, in mild distress
+- VS: T 37.3C, HR 107, BP 98/54 (on pressors), RR 19, SpO2 94% 2L NC
+- HEENT: Pale, mild oropharyngeal erythema
+- Neck: JVD 8cm
+- CV: S1S2, S3, holosystolic murmur at apex, no rubs
+- Pulm: Bibasilar crackles
+- Abd: Soft, NT/ND, no HSM
+- Ext: 2+ pitting edema to knees, old L thigh scar
+- Neuro: Alert, follows commands, mild right hemiparesis
+
+---
+
+**ICU HOSPITAL COURSE (abridged):**
+
+| Date       | WBC | Hgb | Plt | Na  | K   | Cl  | CO2 | BUN | Cr  | Glu | Ca  | AST | ALT | Alk Phos | Bili | Alb  | NT-proBNP |
+|------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|----------|------|------|-----------|
+| 4/13/24    | 9.1 | 8.9 | 396 | 142 | 4.3 | 105 | 26  | 30  | 2.9 | 322 | 8.8 | 19  | 27  | 130      | 0.9  | 3.7  | 24,800    |
+| 4/14/24    | 11.2| 8.1 | 388 | 141 | 5.2 | 108 | 24  | 39  | 3.8 | 289 | 8.4 | 31  | 33  | 148      | 1.1  | 3.2  | 31,000    |
+| 4/15/24    | 8.8 | 7.6 | 370 | 138 | 4.7 | 110 | 22  | 44  | 4.3 | 203 | 8.9 | 28  | 31  | 132      | 1.0  | 3.3  | 29,700    |
+| 4/16/24    | 8.5 | 7.3 | 361 | 139 | 4.0 | 106 | 27  | 37  | 3.7 | 148 | 9.1 | 22  | 27  | 124      | 0.8  |      |           |
+| 4/17/24    | 7.7 | 7.1 | 357 | 140 | 3.9 | 107 |     | 35  | 3.5 | 119 | 9.5 |     |     | 119      | 0.7  | 3.5  | 25,900    |
+
+*Some labs not collected on all days. Hgb trended down, transfused 2U PRBCs 4/15; Cr peaked at 4.3, now improving. NT-proBNP markedly elevated on admission, improved with diuresis and LV support.*
+
+---
+**PROBLEM-BASED ASSESSMENT & PLAN**
+
+**1. Cardiogenic Shock / Acute on Chronic HFrEF**
+   - Decompensated CHF with hypotension, AKI, and pulmonary edema.
+   - Required inotropes (dobutamine), then percutaneous LV assist device (Impella CP) on HD#2.
+   - Diuresis with IV Lasix, daily weights, I/O monitoring.
+   - Titrated beta-blocker, held during shock.
+   - Afterload reduction: cautious ACE-I (held for AKI).
+   - Plan: Wean Impella as tolerated, transition to oral meds. Cardiology following. Consider palliative goals if further decline.
+
+**2. Acute Kidney Injury on CKD2**
+   - Baseline Cr ~2.0, peaked at 4.3, now 3.5.
+   - Likely multifactorial (cardiorenal, diuretic, hypoperfusion).
+   - Strict I/Os, nephrology consult.
+   - Avoid nephrotoxins, adjust renally cleared meds.
+   - Monitor for indication for RRT.
+
+**3. Diabetes Mellitus, poorly controlled**
+   - Hyperglycemia on admission, required insulin drip in ICU.
+   - Resume sliding scale insulin, monitor A1c (last 10.1%), hold metformin for AKI.
+   - Endocrinology consult for glycemic management.
+
+**4. Anemia**
+   - Chronic, worsened by AKI (EPO deficiency), possible dilutional component.
+   - Hgb nadir 7.1, transfused PRBCs x2.
+   - Monitor for GI loss, iron studies pending.
+
+**5. Chronic Sinusitis / Recent Viral URI**
+   - Mild congestion, afebrile, no acute bacterial infection.
+   - Supportive care.
+
+**6. Proliferative Diabetic Retinopathy / Macular Edema**
+   - No acute vision changes. Ophtho consulted.
+   - Continue home eye drops.
+
+**7. Chronic Antiplatelet/Anticoagulation**
+   - Clopidogrel continued due to prior CVA, risk/benefit discussed.
+
+**8. Metabolic Syndrome / Hypertriglyceridemia**
+   - Triglycerides mildly elevated.
+   - Statin held due to LFT elevation, re-evaluate as LFTs normalize.
+
+**9. History of Stroke (2021)**
+   - No new deficits. Continue DVT prophylaxis.
+
+**10. Pain Management**
+   - Rare meperidine use, mostly acetaminophen.
+   - Avoid NSAIDs (AKI).
+
+**11. Nutrition**
+   - Poor PO intake, diabetic renal diet.
+   - Consider nutritionist consult.
+
+**12. Disposition/Social**
+   - Daughter involved in care, full code.
+   - Anticipate prolonged rehab needs.
+
+---
+
+**PROGRESS NOTES (abridged):**
+
+**4/13/24:** Admitted with ADHF, worsening renal function, hypoxia.  
+**4/14/24:** Rapid decompensation, Impella placed.  
+**4/15/24:** Weaning vasopressors, improved urine output.  
+**4/16/24:** Stable, Impella flows reduced.  
+**4/17/24:** Plan for device removal, transfer to stepdown.
+
+---
+
+**Orders/Medications (Active):**
+- Dobutamine IV (titrated, d/c 4/16)
+- Furosemide IV 40mg q12h
+- Insulin regular IV drip → sliding scale SQ
+- Metoprolol PO (held days 2-3)
+- Clopidogrel 75mg PO qd
+- Acetaminophen 325mg PO q6h prn
+- PRBC x2 4/15
+
+---
+
+**IMAGING/DIAGNOSTICS**
+- CXR: Pulm edema, improved
+- Echo: EF now ~38% post Impella
+- EKG: NSR, old infarct
+- UA: Proteinuria, microalbuminuria
+
+---
+
+**SIGNATURE:**  
+K. Faber, MD  
+MICU Attending
+
+---

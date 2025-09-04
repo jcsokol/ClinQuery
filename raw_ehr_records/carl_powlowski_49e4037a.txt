@@ -1,0 +1,134 @@
+---
+**Epic EHR - Inpatient Progress Note**
+**Patient:** Carl Powlowski  
+**MRN:** 04523817  
+**DOB:** 02/16/1980 (Age: 44)  
+**Sex:** Male  
+**Admit Date:** 2024-05-21  
+**Attending:** Dr. Jessica H. Linton, Cardiology  
+**Location:** MICU, 4C-ICU Bed 17  
+
+---
+
+### Chief Complaint
+Acute chest pain, SOB, and syncope.
+
+---
+
+### HPI
+44-year-old male with PMHx of prediabetes, chronic and recurrent sinusitis, anemia, and recent URI symptoms, presenting with sudden onset substernal chest pain, dyspnea, and near-syncope while walking to the bathroom at home. Found diaphoretic and hypotensive by EMS, who initiated O2 and brought him to ED. In ED, developed hypotension refractory to fluids, progressive hypoxia, and evidence of acute decompensated heart failure, requiring urgent transfer to ICU and placement of a temporary left ventricular assist device (Impella CP) for cardiogenic shock.  
+
+Denies prior CAD or heart failure. No recent surgery. No tobacco use, rare alcohol, no illicit drug use.
+
+---
+
+### Hospital Course (Summary)
+- **Day 1:** Hypotensive on arrival (BP 78/55), HR 122, O2 sat 88% RA. CXR: pulmonary edema. Troponin mildly elevated, echo: severe global LV dysfunction (EF 18%). Started on norepinephrine, then dobutamine, remained hypotensive.
+- **Day 1 (late):** Impella placed at bedside for worsening cardiogenic shock. O2 improved, BP stabilized.  
+- **Day 2:** Weaned off norepinephrine. Renal function worsened, mild transaminitis.  
+- **Day 3:** LV function improved on echo (EF 29%). Impella flows decreased; started diuresis.  
+- **Day 4:** Impella removed. Transitioned to oral HF meds, diuresis ongoing.  
+- **Day 5:** Stable clinically. Plan for stepdown transfer.  
+
+---
+
+### Problem List & Assessment/Plan
+
+1. **Acute Decompensated Heart Failure / Cardiogenic Shock, new onset**
+   - Likely viral myocarditis vs. ischemic. Severe global LV dysfunction, EF 18% on admit.
+   - Required Impella CP for 72h for hemodynamic support.
+   - Plan: Continue GDMT (carvedilol, lisinopril, furosemide), titrate as tolerated. Repeat echo prior to discharge. Cardiac MRI pending.
+   - Monitor for arrhythmias, volume status, renal function.
+
+2. **Anemia (chronic, baseline)**
+   - Hgb on admit: 10.9, nadir 9.5, now improving (last: 12.1).
+   - Likely chronic disease + dilutional component.
+   - Plan: Iron studies, monitor CBC QD, no transfusion unless Hgb <7.0 or symptomatic.
+
+3. **Acute Kidney Injury, multifactorial**
+   - Creatinine rose from 1.3 to 2.1, now downtrending.
+   - Likely pre-renal (shock) + diuretics.
+   - Plan: Monitor UOP, renal function daily, avoid nephrotoxins, maintain MAP >65.
+
+4. **Prediabetes**
+   - Recent A1c 6.4%. Glucose ranged 77-210 during stay.
+   - No insulin required.  
+   - Plan: Diet, hold metformin until renal function recovers, education.
+
+5. **Sinusitis & URI (chronic/recurrent)**
+   - Recent viral prodrome, now improved.
+   - No evidence of bacterial superinfection.
+   - Plan: Supportive, saline rinses, follow-up with ENT outpatient.
+
+6. **Pain, mild (chest, post-procedural)**
+   - 2-4/10, managed with acetaminophen.
+   - Plan: PRN acetaminophen, monitor for signs of infection or Impella site issues.
+
+7. **Dyslipidemia**
+   - Cholesterol: 163, LDL 72, HDL 69, TG 109.
+   - Plan: Continue statin on discharge.
+
+---
+
+### Medications (Inpatient)
+- Carvedilol 3.125mg BID (initiate, titrate as tolerated)
+- Lisinopril 2.5mg daily
+- Furosemide 40mg IV BID → PO as tolerated
+- Atorvastatin 40mg nightly
+- Acetaminophen 650mg PO Q6h PRN pain
+- Pantoprazole 40mg IV daily
+- Heparin SQ BID (DVT prophylaxis)
+- [Discontinued: norepinephrine, dobutamine]
+
+---
+
+### Vitals (Select)
+| Date/Time        | Temp (C) | HR | BP        | RR | SpO2  | Wt (kg) |
+|------------------|----------|----|-----------|----|-------|---------|
+| 5/21 07:00       | 37.6     | 122| 78/55     | 28 | 88%RA | 94.2    |
+| 5/22 08:00       | 37.2     | 106| 98/66     | 22 | 95%NC | 95.0    |
+| 5/23 09:00       | 37.0     | 92 | 110/72    | 18 | 97%RA | 93.0    |
+| 5/24 08:00       | 36.9     | 81 | 120/78    | 16 | 98%RA | 91.5    |
+| 5/25 07:30       | 36.8     | 78 | 126/80    | 15 | 98%RA | 90.8    |
+
+---
+
+### Labs
+
+**Key: -- = not collected**
+
+| Date      | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2 | BUN  | Cr   | Glu | AST | ALT | TnT | BNP   |
+|-----------|------|------|------|------|------|------|------|-----|------|------|-----|-----|-----|-----|-------|
+| 5/21 06:30| 10.1 | 10.9 | 34.8 | 205  | 143  | 5.0  | 102  | 26  | 18   | 1.3  | 77  | 78  | 64  | 0.11| 3,420 |
+| 5/22 05:50| 9.7  | 10.2 | 32.9 | 190  | 142  | 5.2  | --   | 25  | 24   | 1.8  | 126 | 112 | 88  | 0.09| 2,980 |
+| 5/23 06:40| 8.6  | 9.5  | 30.7 | 175  | 141  | 4.6  | 100  | 23  | 27   | 2.1  | 110 | 98  | 77  | --  | --    |
+| 5/24 07:10| 7.9  | 11.2 | 36.5 | 210  | 140  | 4.4  | 101  | 27  | 22   | 1.6  | 102 | 45  | 33  | --  | 1,200 |
+| 5/25 06:55| 8.0  | 12.1 | 38.8 | 212  | 139  | 4.2  | 100  | 28  | 19   | 1.4  | 99  | 39  | 28  | 0.03| 580   |
+
+*Other labs: TSH 1.6, Iron 56, Ferritin 89, TIBC 310 (5/21); CRP 14.8 (5/21); Blood cultures x2 negative.*
+
+---
+
+### Imaging/Procedures
+- **Echocardiogram (5/21):** Severe global LV hypokinesis, EF 18%, mild MR/TR, RV mild dysfunction.
+- **Echo (5/24):** EF 29%, improved wall motion, no thrombus.
+- **CXR:** Pulmonary edema, improved by 5/24.
+- **Cardiac MRI:** Pending.
+- **Impella CP Placement (5/21):** Left femoral arterial access, no complications.
+- **Impella CP Removal (5/24):** No bleeding, site clean.
+
+---
+
+### Disposition
+- Stable for transfer to stepdown unit.  
+- Will require close cardiology f/u, outpatient MRI, and repeat echo in 2 weeks.  
+- Education: HF, diet, medication adherence, s/s to watch for.
+
+---
+
+### Attending: Jessica H. Linton, MD  
+**Date/Time:** 2024-05-25 09:12
+
+---
+
+**(End of Note)**

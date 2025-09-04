@@ -1,0 +1,191 @@
+---
+
+**Epic EHR - Progress Note**  
+**Patient:** Osinski, Dusti  
+**MRN:** 008193274  
+**DOB:** 01/15/1997  
+**Sex:** Female  
+**Date of Admission:** 04/12/2024  
+**Attending:** Smith, John MD  
+**Admitting Dx:** Cardiogenic shock, acute viral myocarditis, acute respiratory failure  
+**Location:** MICU, Bed 6  
+
+---
+
+### CHIEF COMPLAINT  
+Shortness of breath, chest pain, progressive fatigue
+
+---
+
+### HPI  
+25-year-old female with PMH notable for viral sinusitis, acute bronchitis, on chronic hormonal contraception, who presented from home with 5 days of worsening dyspnea, low-grade fevers, myalgias, and cough. On day of admission, she developed chest discomfort and was found at urgent care to be tachycardic and hypoxic. Transferred to ED. Rapid decompensation with hypotension and hypoxia requiring intubation and vasopressors. Cardiac biomarkers elevated, echo with LVEF 15%. Transferred to MICU for management of suspected myocarditis with cardiogenic shock. Required placement of a temporary left ventricular assist device (Impella CP) on hospital day 2 for refractory shock.
+
+---
+
+### HOSPITAL COURSE SUMMARY  
+- **Day 1:** Admitted to ICU; intubated for hypoxic respiratory failure. Started on norepinephrine and dobutamine.  
+- **Day 2:** LVEF 15% by TTE; worsening lactic acidosis; Impella CP placed at bedside.  
+- **Day 3-5:** Gradual hemodynamic improvement, weaned off norepinephrine. Remained intubated, diuresed for mild pulmonary edema.  
+- **Day 6:** Extubated successfully. Impella weaned and explanted.  
+- **Day 7:** Transferred to step-down unit, tolerating oral nutrition, rehab initiated.
+
+---
+
+### PAST MEDICAL HISTORY  
+- Viral sinusitis  
+- Acute bronchitis  
+- No known congenital heart disease  
+- No prior hospitalizations for cardiac issues
+
+### PAST SURGICAL HISTORY  
+- None
+
+### MEDICATIONS ON ADMISSION  
+- Amoxicillin/clavulanate 250/125 mg PO BID  
+- Mirena IUD (placed 2022)  
+- Seasonique 91 Day Pack  
+- Natazia 28 Day Pack (recently started)  
+- Acetaminophen 325 mg PO PRN
+
+### ALLERGIES  
+- NKDA
+
+### FAMILY HISTORY  
+- Mother: HTN  
+- Father: Healthy  
+- No family hx of cardiomyopathy/sudden death
+
+### SOCIAL HISTORY  
+- Lives with partner  
+- No tobacco, rare EtOH, no illicit drug use  
+- Works as a graphic designer
+
+---
+
+## VITALS (Selected)
+
+| Date        | Temp (°C) | HR (bpm) | BP (mmHg)  | RR  | O2 Sat (%) | Weight (kg) |
+|-------------|-----------|----------|------------|-----|------------|-------------|
+| 4/12/24 06:00 | 37.1      | 122      | 88/54      | 28  | 89         | 57.1        |
+| 4/13/24 04:00 | 38.2      | 110      | 92/60      | 22  | 95         | 56.9        |
+| 4/14/24 06:00 | 37.6      | 102      | 110/72     | 18  | 98         | 56.9        |
+| 4/16/24 07:00 | 36.8      | 86       | 118/70     | 16  | 99         | 57.0        |
+
+---
+
+## LABS
+
+#### CBC/Chemistry - ICU Course
+
+| Date/Time   | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|-------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|
+| 4/12 07:00  | 3.6        | 16.1       | 39.7    | 239        | 140         | 4.1        | 104         | 23           | 12          | 0.8        | 98          |
+| 4/12 20:00  | 2.9        | 15.2       | 37.6    | 191        | 138         | 3.7        | 103         | 19           | 18          | 1.1        | 112         |
+| 4/13 06:00  | 3.2        | 14.9       | 36.9    | 178        | 137         | 3.2        | 101         | 17           | 22          | 1.4        | 158         |
+| 4/14 08:00  | 4.0        | 13.2       | 33.5    | 163        | 139         | 4.5        | 102         | 25           | 16          | 0.9        | 105         |
+| 4/15 06:00  | 4.5        | 13.8       | 35.1    | 153        | 141         | 4.2        | 105         | 24           | 13          | 0.7        | 94          |
+| 4/16 07:00  | 4.7        | 14.5       | 36.8    | 159        | 140         | 4.0        | 104         | 22           | 12          | 0.8        | 88          |
+| 4/17 08:00  | --         | 14.9       | --      | 168        | --          | --         | 106         | --           | 10          | 0.7        | 92          |
+
+#### Additional Labs
+
+| Date/Time   | Troponin I (ng/mL) | NT-proBNP (pg/mL) | AST (U/L) | ALT (U/L) | Lactate (mmol/L) | INR  |
+|-------------|--------------------|-------------------|-----------|-----------|------------------|-------|
+| 4/12 10:00  | 2.1                | 15,800            | 202       | 110       | 5.8              | 1.3   |
+| 4/12 22:00  | 3.0                | 18,900            | 216       | 132       | 7.2              | 1.5   |
+| 4/13 06:00  | 2.7                | --                | 180       | 119       | 4.2              | 1.2   |
+| 4/14 08:00  | 1.2                | 9,700             | 61        | 34        | 1.1              | 1.0   |
+| 4/16 09:00  | <0.04              | 2,800             | 36        | 29        | 0.9              | 1.0   |
+
+---
+
+## IMAGING
+
+- **TTE (4/12/24):** LVEF 15%, global hypokinesis, no LV thrombus, mild MR/TR.
+- **Chest X-ray (4/12/24):** Bilateral patchy opacities, pulmonary edema.
+- **CXR (4/14/24):** Improved pulmonary edema.
+
+---
+
+## PROCEDURES
+
+- **Endotracheal Intubation** (4/12/24)
+- **Placement of Impella CP** (percutaneous LVAD, 4/13/24)
+- **Right heart cath** (4/13/24): RA 9, RV 38/6, PA 38/20, PCWP 25, CO 2.7 L/min
+
+---
+
+## MICROBIOLOGY
+
+- **Blood cultures:** No growth x 5 days  
+- **Resp viral PCR:** Positive for Coxsackie B
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. Cardiogenic Shock due to Fulminant Myocarditis  
+- Impella CP placed for hemodynamic support, now explanted  
+- Guideline-directed medical therapy initiated (metoprolol, low dose lisinopril)  
+- Serial echo to monitor recovery  
+- Monitor electrolytes, renal function  
+- Plan: Titrate GDMT, follow-up in HF clinic
+
+### 2. Acute Respiratory Failure  
+- Intubated, now extubated; on 2L NC  
+- Diuresis completed, euvolemic  
+- CXR improving  
+- Pulmonary rehab to continue
+
+### 3. Acute Kidney Injury (resolved)  
+- Likely pre-renal, improved with hemodynamic recovery  
+- Renal function normalized  
+- Continue to monitor
+
+### 4. Transaminitis  
+- Likely ischemic hepatitis; trending down  
+- No evidence of biliary obstruction  
+- Monitor LFTs
+
+### 5. Anemia  
+- Mild, likely dilutional and iatrogenic  
+- No transfusion needed  
+- Continue to trend CBC
+
+### 6. Viral Sinusitis / Bronchitis  
+- Supportive care  
+- Completed antibiotics  
+- Monitor for secondary infection
+
+### 7. Contraceptive Management  
+- Mirena IUD in situ; OCPs held during hospitalization  
+- Counseling on potential prothrombotic risk in context of critical illness
+
+### 8. Pain/Comfort  
+- Acetaminophen PRN  
+- Pain well controlled
+
+### 9. VTE Prophylaxis  
+- SCDs, SQ heparin
+
+### 10. Nutrition  
+- Oral diet advanced as tolerated
+
+---
+
+## DISPOSITION  
+- Step-down unit, anticipate discharge to home within 2-3 days  
+- Close follow-up with cardiology and PCP
+
+---
+
+## PROVIDER ATTESTATION  
+I have personally examined the patient, reviewed the labs and imaging, and supervised this note.
+
+---
+
+**John Smith, MD**  
+**MICU Team**  
+**Date/Time Signed: 04/17/2024 09:34**
+
+---

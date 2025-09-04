@@ -1,0 +1,193 @@
+[EPIC EHR - INPATIENT NOTE]  
+**Patient:** Mohr, Deane  
+**MRN:** 0381721  
+**DOB:** 09/01/1978 (45 yo F)  
+**Date of Admission:** 04/03/2024  
+**Attending:** Dr. R. Kluger  
+**Location:** MICU, Bed 7  
+
+---
+
+## ADMISSION SUMMARY
+
+**Chief Complaint:**  
+Progressive shortness of breath, orthopnea, lower extremity edema.
+
+**History of Present Illness:**  
+Deane Mohr is a 45-year-old female with a history of class II obesity (BMI ~30), prior miscarriage, recurrent UTIs (most recently E. coli), and prior ankle sprain, presenting with 1 week of progressive dyspnea on exertion, orthopnea, and increasing bilateral leg swelling. She initially presented to the ED with hypoxia (SpO2 88% RA), tachycardia (HR 122), and hypotension (BP 88/54). She was found to have an elevated BNP, troponin, and chest X-ray concerning for pulmonary edema and cardiomegaly. She rapidly decompensated requiring ICU transfer for escalating inotropes and vasopressors. Given persistent shock, she underwent placement of a temporary left-sided percutaneous ventricular assist device (Impella CP) on hospital day 2.
+
+**Past Medical History:**  
+- Obesity (BMI ~30)  
+- Normal pregnancy (G2P1A1)  
+- 1st trimester miscarriage  
+- Recurrent UTIs (last: E. coli, 2023)  
+- Ankle sprain (remote)  
+- Fetus w/ unknown complication (remote, unclear details)  
+- Viral pharyngitis (multiple episodes)
+
+**Medications on Admission:**  
+- Medroxyprogesterone acetate 150mg/mL IM q3mo  
+- Nitrofurantoin 5mg/mL PO (prn for UTI)  
+- Phenazopyridine 100mg PO (prn)  
+- Ethinyl estradiol/norelgestromin patch  
+- Acetaminophen 325mg PO prn  
+- Camila, Errin, Jolivette (all norethindrone 0.35mg OCPs, previously used)
+
+**Allergies:**  
+NKDA
+
+**Social History:**  
+Lives with partner. No tobacco/alcohol/illicit drugs. Employed as a teacher.
+
+**Family History:**  
+Mother - HTN, DM2. Father - MI at 62.
+
+---
+
+## HOSPITAL COURSE
+
+### ICU Day 1 (4/3/24):
+- Admitted with acute hypoxic respiratory failure, hypotension.  
+- Initial labs: leukocytosis, mild anemia, elevated creatinine, BNP 3220, troponin 0.18, lactate 2.9.  
+- Started on oxygen, IV furosemide, dobutamine drip, and norepinephrine.  
+- Echo: LVEF 15%, global hypokinesis, moderate MR, dilated LV.  
+- CXR: Pulmonary edema, cardiomegaly.  
+- Foley placed, strict I/Os.  
+- Infectious work-up negative (COVID, influenza, blood/urine cx).
+
+### ICU Day 2:
+- Worsening shock, escalating vasopressors.  
+- Multidisciplinary HF and cardiology consult.  
+- Temporary LVAD (Impella CP) placed via right femoral artery.  
+- Hemodynamics improved post-procedure.  
+- Started on heparin drip for device.
+
+### ICU Days 3-6:
+- Gradual improvement in perfusion, weaning of vasopressors.  
+- Diuresis continued, net negative 4L by day 5.  
+- Renal function improved.  
+- Some hemolysis noted (haptoglobin 18, LDH 680), no overt device malfunction.  
+- Serial troponins trended down.  
+- Device weaned and explanted on day 6.  
+- Transitioned to oral HF meds (carvedilol, sacubitril/valsartan, spironolactone).
+
+### Floor Days 7-10:
+- Stable, ambulating with PT/OT.  
+- No further arrhythmias.  
+- Discharge planning with close HF follow-up.
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. Cardiogenic Shock (Acute Decompensated HFrEF)
+**Assessment:**  
+Severe new-onset HFrEF (EF 15%) likely non-ischemic, presenting with cardiogenic shock requiring temporary LVAD (Impella CP). Etiology unclear; no prior cardiac hx.  
+**Plan:**  
+- Continue guideline-directed HF therapy (carvedilol, sacubitril/valsartan, spironolactone)  
+- Monitor for volume overload, renal function  
+- Echo prior to discharge  
+- Cardiac MRI as outpatient to evaluate etiology  
+- Close HF/Cardiology f/u
+
+### 2. Temporary Left-Sided Heart Pump (Impella CP)
+**Assessment:**  
+Placed for refractory shock, removed after 4 days. Some hemolysis observed, no device-related complications.  
+**Plan:**  
+- Monitor Hb/Hct  
+- Daily LDH/haptoglobin until stable  
+- DVT ppx post-device
+
+### 3. Acute Kidney Injury (pre-renal, resolved)
+**Assessment:**  
+AKI on admission (Cr 1.8, baseline 0.9) due to hypoperfusion, improved with volume/CO restoration.  
+**Plan:**  
+- Monitor daily BMP  
+- Avoid nephrotoxins
+
+### 4. Obesity (BMI 30+)
+**Assessment:**  
+Obesity, risk factor for HF.  
+**Plan:**  
+- Nutrition consult  
+- Encourage weight loss, activity as tolerated
+
+### 5. Gynecologic Hx (G2P1A1, prior miscarriage, contraception)
+**Assessment:**  
+No acute gynecologic issues, continues hormonal contraception for menorrhagia.  
+**Plan:**  
+- Continue current regimen  
+- Gyn f/u as outpatient
+
+### 6. Recurrent UTIs (remote)
+**Assessment:**  
+No current symptoms.  
+**Plan:**  
+- Monitor for signs of infection  
+- Foley removed as soon as possible
+
+### 7. Anemia (mild, multifactorial)
+**Assessment:**  
+Likely due to hemodilution, possible hemolysis from device.  
+**Plan:**  
+- Monitor CBC  
+- Iron studies as outpatient
+
+---
+
+## VITALS DURING ADMISSION
+
+| Date       | Temp (°C) | HR  | SBP/DBP | RR  | SpO2 | Pain | Wt (kg) |
+|------------|-----------|-----|---------|-----|------|------|---------|
+| 4/3/24     | 37.0      | 122 | 88/54   | 26  | 88%  | 2    | 80.2    |
+| 4/4/24     | 36.8      | 110 | 95/62   | 22  | 95%  | 3    | 79.7    |
+| 4/5/24     | 36.7      | 98  | 104/70  | 18  | 97%  | 1    | 78.9    |
+| 4/6/24     | 36.8      | 88  | 110/74  | 16  | 98%  | 1    | 77.6    |
+| 4/7/24     | 36.9      | 82  | 112/76  | 14  | 98%  | 0    | 77.2    |
+
+---
+
+## LABS
+
+#### CBC, Metabolic Panel, Cardiac Markers
+
+| Date   | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | BNP   | LDH  | Haptoglobin |
+|--------|------|------|------|------|------|------|------|------|------|------|------|----------|-------|------|-------------|
+| 4/3/24 | 13.2 | 10.9 | 33.2 | 312  | 136  | 4.7  | 102  | 19   | 34   | 1.8  | 122  | 0.18     | 3220  | 342  | <30         |
+| 4/4/24 | 12.1 | 10.4 | 31.8 | 288  | 138  | 4.1  | 104  | 21   | 25   | 1.3  | 112  | 0.12     | 2900  | 488  | 18          |
+| 4/5/24 | 10.8 | 10.7 | 32.9 | 276  | 139  | 4.0  | 103  | 23   | 19   | 1.0  | 110  | 0.06     | 1800  | 680  | 22          |
+| 4/6/24 | 9.7  | 10.9 | 33.4 | 268  | 140  | 4.2  | 104  | 25   | 17   | 0.9  | 98   | <0.01    | 1100  | 355  | 38          |
+| 4/7/24 | 8.8  | 11.2 | 34.1 | 256  | 141  | 4.3  | 105  | 26   | 15   | 0.9  | 90   | <0.01    | 900   | --   | --          |
+
+*Some labs not drawn on all days due to line issues or lab refusal.*
+
+---
+
+## MEDICATION ADMINISTRATION RECORD (MAR) [abbreviated]
+
+- Dobutamine IV: 4/3 - 4/5
+- Norepinephrine IV: 4/3 - 4/4
+- Furosemide IV: 4/3 - 4/6
+- Heparin IV (for device): 4/4 - 4/6
+- Carvedilol PO: 4/6 onward
+- Sacubitril/valsartan PO: 4/6 onward
+- Spironolactone PO: 4/6 onward
+- Medroxyprogesterone IM: per outpatient schedule
+- Nitrofurantoin, phenazopyridine: prn
+
+---
+
+## DISPOSITION
+- Discharged to home, able to ambulate independently
+- Outpt Cardiology/HF, Gyn, and PCP follow-up arranged
+
+---
+
+## SIGNED:  
+Dr. R. Kluger, MD  
+Attending, Cardiology  
+Date: 04/10/2024
+
+---
+
+**[End of Document]**

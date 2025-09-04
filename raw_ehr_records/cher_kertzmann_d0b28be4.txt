@@ -1,0 +1,198 @@
+---
+**Patient:** Cher Kertzmann  
+**MRN:** 0032948-CK  
+**DOB:** 10/03/1991  
+**Sex:** Female  
+**Admitting Physician:** Dr. J. Patel  
+**Date of Admission:** 05/22/2024  
+**Date of Note:** 05/29/2024  
+**Location:** MICU, Bed 7B  
+**Attending:** Dr. S. Valdez  
+**Reason for Admission:** Cardiogenic shock secondary to acute decompensated heart failure, requiring temporary left-sided ventricular assist device (Impella CP) placement.
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+Cher Kertzmann is a 32-year-old female with a PMHx significant for hypertension, prediabetes, chronic anemia, and recent viral pharyngitis, who presented with acute-onset chest pain, SOB, and progressive orthopnea. She was found to be in cardiogenic shock of unclear etiology, later thought to be viral myocarditis. She required ICU admission and temporary LV assist device (Impella) for hemodynamic support. The following note details her ICU hospital course, relevant labs, and ongoing issues.
+
+---
+
+## PAST MEDICAL HISTORY
+
+- **Hypertension** (dx 2018, on HCTZ)
+- **Prediabetes** (A1c 6.2% last month)
+- **Chronic Anemia** (baseline Hgb ~11.5, iron deficiency vs. menorrhagia)
+- **Sprain of ankle** (2019, resolved)
+- **Acute viral pharyngitis** (diagnosed 2 weeks prior, resolved)
+- **No prior cardiac history, no known CAD, no DVT/PE**
+
+## PAST SURGICAL HISTORY
+
+- None
+
+## ALLERGIES
+
+- NKDA
+
+## HOME MEDICATIONS
+
+- Hydrochlorothiazide 25mg daily
+- Estrostep Fe 28 Day Pack
+- Levora 0.15/30 28 Day Pack (not currently taking due to med confusion)
+- Etonogestrel 68mg implant (placed 2022)
+- Natazia 28 Day Pack (not currently taking)
+- Ibuprofen 200mg PRN
+- Ferrous sulfate 325mg daily (nonadherent)
+
+## SOCIAL HISTORY
+
+- Smokes: Never
+- EtOH: Occasional, last use 2 months ago
+- Illicit drugs: Denies
+- Lives with partner, works as a dental hygienist
+
+## FAMILY HISTORY
+
+- Mother: HTN, DM2
+- Father: MI at 59
+- Siblings: healthy
+
+---
+
+## ICU ADMISSION VITALS (on arrival, 05/22/2024 23:04)
+
+| Temp (C) | HR (bpm) | BP (mmHg) | RR | SpO2 | Weight (kg) | Height (cm) |
+|----------|----------|-----------|----|------|-------------|-------------|
+| 37.0     | 126      | 74/42     | 28 | 92%  | 68.0        | 168.6       |
+
+- Appeared distressed, cool extremities, JVD 8cm, crackles at bases, S3 gallop.
+
+---
+
+# LABS
+
+### CBC/Chemistry Table
+
+| Date/Time         | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Gluc | Ca   |
+|-------------------|------|------|------|------|------|------|------|------|------|------|------|------|
+| 05/22 23:30       | 9.7  | 11.7 | 37.4 | 163  | 141  | 4.1  | 105  | 28.6 | 11.9 | 1.04 | 86.8 | 9.7  |
+| 05/23 05:00       | 12.3 | 10.9 | 34.2 | 149  | 136  | 4.8  | 101  | 25.2 | 18.3 | 1.28 | 94.2 | 9.2  |
+| 05/23 14:10       | 14.6 | 9.7  | 32.1 | 137  | 134  | 5.2  | 99   | 23.8 | 22.4 | 1.41 | 106  | 8.8  |
+| 05/24 03:45       | 11.2 | 10.2 | 33.5 | 155  | 137  | 4.2  | 103  | 27.5 | 15.7 | 1.21 |      | 9.5  |
+| 05/25 09:00       | 8.1  | 11.3 | 36.1 | 162  | 139  | 4.0  | 104  | 29.1 | 13.9 | 1.04 | 90.3 | 9.8  |
+| 05/26 06:32       |      | 10.6 | 35.2 | 158  | 140  | 4.3  |      | 27.1 | 12.2 | 0.98 | 88.1 |      |
+| 05/27 05:42       | 7.7  | 11.2 | 37.0 | 166  | 142  | 4.1  | 106  | 28.4 | 11.1 | 0.94 | 84.7 | 9.9  |
+| 05/28 13:24       | 7.9  | 11.8 |      | 163  | 141  |      | 105  | 27.8 | 10.7 | 0.93 | 86.1 | 9.6  |
+| 05/29 07:12       | 8.0  | 12.1 | 38.0 | 167  | 143  | 4.2  | 107  | 29.0 | 11.0 | 0.89 | 87.2 | 9.7  |
+
+**Other labs:**
+- Troponin I: 0.34 → 0.29 → 0.16 (peaked on 05/23)
+- BNP: 1232 pg/mL (05/22), 890 (05/25)
+- AST/ALT: 44/51 (mildly elevated, 05/23), trend down to 32/28 by 05/28
+- Lactate: 4.6 (admission), 2.1 (after 24h support)
+- Mg: 1.8–2.1 mg/dL (supplemented)
+- PT/INR: 13.1s/1.1 (stable)
+- Ferritin: 48 ng/mL, TIBC 420, Fe 34 (consistent with iron-deficiency anemia)
+
+---
+
+# ASSESSMENT & PLAN
+
+1. **Cardiogenic Shock, likely viral myocarditis**
+   - Initial presentation with hypotension, tachycardia, elevated JVD, severe LV dysfunction on TTE (EF 18%).
+   - Required norepinephrine, vasopressin, and dobutamine.  
+   - Temporary LVAD (Impella CP) placed 05/23, improved hemodynamics, weaned off pressors by 05/25.
+   - Serial TTE: LV function improved to EF 38% by 05/28.
+   - Plan: Continue Impella at P2, monitor for recovery, consider explant if stable >24h. Cardiology f/u.  
+   - Daily echo, wean support as tolerated, maintain MAP >65.
+
+2. **Acute on Chronic Anemia**
+   - Hgb nadir 9.7, likely from dilutional effects and baseline IDA.
+   - Ferritin low, iron low, MCV nl.
+   - 1u PRBC transfused 05/23; iron sucrose IV x2.
+   - Plan: Monitor CBC, resume PO iron when stable, GI consult if no improvement.
+
+3. **Hypertension**
+   - Home HCTZ held initially due to AKI risk, now restarted at 12.5mg.
+   - BP labile, target MAP >65.
+   - No other antihypertensives needed at this time.
+
+4. **Prediabetes**
+   - A1c 6.2%. Glucose mildly elevated during stress, no insulin required.
+   - Plan: Monitor FS glucose, diabetic diet, resume metformin as outpatient.
+
+5. **Menorrhagia/Contraceptive Management**
+   - Complex contraceptive history; currently has etonogestrel implant.
+   - OCPs held during acute illness; resume after discharge as needed.
+   - Gyn consulted for anemia/contraceptive overlap.
+
+6. **Volume Overload/AKI**
+   - Initial Cr up to 1.41, improved with diuresis and hemodynamic support.
+   - Strict I/Os, daily weights, furosemide IV as needed.
+   - Cr now at baseline (0.89).
+
+7. **Electrolyte Disturbances**
+   - Mild hypomagnesemia, K+ fluctuations during diuresis.
+   - Mg and K+ repleted as needed.
+
+8. **Secondary Bacterial Infection**
+   - Fever to 38.6C on 05/23, CXR with RLL infiltrate.
+   - Started on ceftriaxone/azithromycin, clinically improved, BCx neg x2.
+   - Plan: Complete 5d abx.
+
+9. **DVT Prophylaxis**
+   - SCDs, SQ heparin.
+
+10. **Physical Therapy**
+    - Bedrest initially, now up to chair with assist.
+    - Ankle sprain not an issue during this admission.
+
+11. **Nutrition**
+    - NPO x24h post-Impella, now on cardiac diet, tolerating well.
+
+12. **Disposition**
+    - Plan for stepdown transfer once Impella explanted and stable x24h.
+    - Anticipate discharge to home with cardiology and PCP f/u.
+
+---
+
+# DAILY PHYSICIAN SIGNOUT (abbreviated)
+
+- **Neuro:** Awake, A&O x3, no focal deficits
+- **CV:** Sinus tach, Impella P2, MAPs 70–85, no new murmurs
+- **Resp:** Weaned to 2L NC, O2 sat 97–99%
+- **GI:** Bowel sounds present, tolerating diet
+- **GU:** Foley d/c’d, voiding spontaneously
+- **ID:** Afebrile, abx d5/5 today
+- **Lines:** R IJ CVC, L radial A-line, Impella L groin
+- **Access:** 2x PIVs
+- **Skin:** Intact, no breakdown
+- **MSK:** Up to chair, PT/OT daily
+
+---
+
+# ADDITIONAL LABS (selected)
+
+- **CK-MB:** 21 → 12 (downtrending)
+- **TSH:** 2.1
+- **NT-proBNP:** 2100 → 1232 → 890
+- **LDH:** 270 (borderline elevated)
+- **D-dimer:** 0.63
+
+---
+
+# CONSULTS
+
+- Cardiology: Daily, for LVAD management
+- Gyn: Anemia/contraceptive management
+- Infectious Disease: r/o myocarditis vs. sepsis
+- Nutrition: Diet optimization
+
+---
+
+# SIGNED:  
+Dr. J. Patel, MD  
+05/29/2024 09:16 AM
+
+---

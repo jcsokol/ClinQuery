@@ -1,0 +1,197 @@
+**Patient:** Elba Kessler  
+**MRN:** 002389174  
+**DOB:** 1997-01-07 (Age: 27)  
+**Sex:** Female  
+**Admit Date:** 2024-05-23  
+**Attending:** Dr. R. Mendez  
+**Service:** Medical ICU  
+**Allergies:** NKDA  
+**Code Status:** Full Code
+
+---
+
+# HISTORY OF PRESENT ILLNESS
+
+27-year-old obese female with a history of hypertension, recurrent sinusitis, and recent acute bronchitis, admitted with acute onset dyspnea, orthopnea, and chest pressure. She was 3 weeks postpartum after an uncomplicated term pregnancy. She presented to the ED with rapidly worsening respiratory distress, requiring noninvasive ventilation. CXR showed pulmonary edema. Troponin mildly elevated; BNP 2350. Echo revealed LVEF 10%, global hypokinesis, moderate MR. She was admitted to the ICU for management of acute decompensated heart failure (likely peripartum cardiomyopathy). Despite diuresis and inotropes, she developed cardiogenic shock and required temporary mechanical circulatory support with a percutaneous left ventricular assist device (Impella CP).
+
+---
+
+# HOSPITAL COURSE
+
+- **Day 1:** Admitted to ICU, started on BiPAP, IV furosemide, dobutamine. Invasive monitoring (A-line, CVC) placed.  
+- **Day 2:** Worsening hypotension and hypoxia. Lactate 4.2. Bedside echo: no improvement. Impella CP inserted via femoral approach.  
+- **Day 3:** Improved perfusion. Weaned off vasopressors.  
+- **Day 4-5:** Gradual diuresis, renal function stabilized.  
+- **Day 6:** Respiratory status improved, transitioned to nasal cannula.  
+- **Day 7:** Impella weaned and explanted at bedside.  
+- **Day 8:** Transferred to step-down for ongoing HF management.
+
+---
+
+# PAST MEDICAL HISTORY
+
+- Hypertension  
+- Obesity (BMI 30+)  
+- Recurrent acute bacterial sinusitis  
+- Acute bronchitis (resolved)  
+- Four normal pregnancies (last pregnancy ended 3 weeks prior to admission)
+
+# PAST SURGICAL HISTORY
+- Cesarean section x2
+
+# SOCIAL HISTORY
+- Lives with partner, 4 children  
+- No tobacco, rare ETOH, no illicit drug use
+
+# FAMILY HISTORY
+- Mother: HTN, DM2  
+- Father: CAD
+
+# HOME MEDICATIONS
+- Hydorchlorothiazide 25mg daily  
+- Yaz 28 Day Pack  
+- Natazia 28 Day Pack  
+- Amoxicillin-clavulanate (recent, for sinusitis)  
+- Camila 28 Day Pack  
+- OTC cold/cough syrup
+
+---
+
+# REVIEW OF SYSTEMS
+
+- **Constitutional:** Fatigue, mild fever (resolved)  
+- **Cardiac:** Chest pressure, palpitations  
+- **Resp:** Orthopnea, PND, cough (productive, resolved)  
+- **GI:** Nausea, no vomiting  
+- **GU:** Normal  
+- **Neuro:** No focal deficits  
+- **Extremities:** Mild pedal edema  
+- **OB/GYN:** 3 weeks postpartum, lochia resolved
+
+---
+
+# PHYSICAL EXAM
+
+| Vitals | Value |
+|---|---|
+| Temp | 36.9°C |
+| HR | 102 bpm |
+| BP | 88/54 mmHg (on day 2, pre-Impella) |
+| RR | 22 |
+| SpO2 | 97% (on 4L NC) |
+| Weight | 78.2 kg |
+| Height | 161 cm |
+| BMI | 30.1 kg/m2 |
+
+**General:** Mild resp distress, alert  
+**HEENT:** Sinus tenderness  
+**CV:** S3, soft systolic murmur, tachycardic  
+**Lungs:** Bibasilar crackles  
+**Abd:** Soft, NT  
+**Ext:** 1+ pitting edema  
+**Neuro:** AOx3
+
+---
+
+# LABS
+
+## CBC & CHEMISTRY
+
+| Date | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na | K | Cl | CO2 | BUN | Cr | Glu | 
+|------|------------|------------|---------|------------|----|---|----|-----|-----|----|-----|
+| 5/23 | 5.2        | 15.8       | 43.8    | 353        | 137| 4.2| 100| 21  | 18  | 1.0| 102 |
+| 5/24 | 6.4        | 14.2       | 40.6    | 299        | 134| 4.9| 99 | 17  | 24  | 1.3| 109 |
+| 5/25 | 7.1        | 13.7       | 39.1    | 248        | 133| 5.3| 98 | 15  | 36  | 2.1| 115 |
+| 5/26 | 6.2        | 13.9       | 40.0    | 271        | 135| 4.0| 101| 22  | 22  | 1.1| 101 |
+| 5/27 | 5.8        |            |         | 289        | 136| 4.4|    | 24  | 19  | 1.0|     |
+| 5/28 | 5.1        | 14.1       | 40.3    | 302        | 138| 4.1| 101| 25  | 16  | 0.9| 97  |
+
+## ADDITIONAL LABS
+
+- BNP: 2350 pg/mL (on admission)
+- Troponin I: 0.14 → 0.11 → 0.07 ng/mL (downtrending)
+- Lactate: 4.2 (pre-Impella), normalized after support
+- AST/ALT: 54/48 (mildly elevated during shock)
+- Total bili: 1.3 mg/dL (peak), normalized by day 4
+
+---
+
+# ASSESSMENT & PLAN
+
+**27F with PMHx of HTN, obesity, remote sinusitis/bronchitis, 3 weeks postpartum, presenting with new-onset severe heart failure and shock, requiring temporary LVAD.**
+
+---
+
+## 1. **Cardiogenic Shock, Likely Peripartum Cardiomyopathy**
+- Admitted with acute HF, rapidly deteriorated to shock (cold, hypotensive, high lactate, low UOP)
+- Required Impella CP for 5 days, now explanted
+- Plan:
+    - Continue aggressive diuresis, daily weights, strict I&Os
+    - GDMT for HF: initiate low-dose carvedilol, sacubitril/valsartan, spironolactone
+    - Serial echo to monitor recovery
+    - Cardiology f/u, consider wearable defibrillator
+    - Restrict fluids/sodium
+
+## 2. **Hypertension**
+- Controlled pre-admission, now low BP post-shock
+- Hold HCTZ for now, titrate antihypertensives as tolerated
+
+## 3. **Obesity (BMI 30.1)**
+- Nutrition consult for weight loss counseling
+- Daily calorie/protein targets
+
+## 4. **Recent Pregnancy**
+- 3 weeks postpartum, no complications
+- OB consulted, no active issues
+
+## 5. **Acute Bacterial Sinusitis/Bronchitis (recent)**
+- Completed antibiotics
+- No current evidence of infection
+- Monitor WBC, temp
+
+## 6. **Anemia/Thrombocytopenia (mild, transient during shock)**
+- Monitoring CBC daily
+- No transfusion needed
+
+## 7. **Renal Dysfunction (AKI on CKD?)**
+- Creatinine peaked at 2.1, now improved
+- Monitor renal function, adjust meds
+
+## 8. **Social/Disposition**
+- Social work: arrange home health, support for 4 children
+- Psych: screen for postpartum depression
+
+---
+
+# ICU DAILY PROGRESS NOTES
+
+**Day 2:**  
+- Vitals: BP 82/48, HR 109, SpO2 95% (NRB)
+- Exam: Cool, mottled extremities, weak pulses
+- Events: Impella placed, improved MAP, UOP increased
+
+**Day 5:**  
+- Vitals: BP 102/60, HR 88, SpO2 98% (2L NC)
+- Exam: Improved perfusion, clear lungs, no JVD
+- Events: Impella removed
+
+**Day 8:**  
+- Vitals: BP 110/70, HR 72, SpO2 98% (RA)
+- Ambulating with PT, tolerating oral diet
+
+---
+
+# DISCHARGE PLANNING
+
+- Home with close cardiology f/u
+- Daily weights, BP logs
+- Strict low-salt diet
+- Medication reconciliation (see above)
+- Return precautions: SOB, chest pain, palpitations, syncope
+
+---
+
+# SIGNED  
+**Dr. R. Mendez, MD**  
+Medical ICU  
+2024-06-01

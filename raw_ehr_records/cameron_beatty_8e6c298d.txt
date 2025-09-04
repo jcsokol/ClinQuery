@@ -1,0 +1,162 @@
+**INPATIENT NOTE – CAMERON BEATTY**  
+**MRN:** [Redacted]  
+**DOB:** 1953-08-22  
+**SEX:** Male  
+**Date of Admission:** 2024-06-09  
+**Date of Note:** 2024-06-13  
+**Attending:** Dr. J. McCarthy  
+**Consultants:** Cardiology, Pulmonology, Endocrinology  
+**Location:** MICU, Bed 8
+
+---
+
+## ADMISSION SUMMARY
+
+**Reason for Admission:**  
+70-year-old male with severe pulmonary emphysema, prediabetes, and chronic sinusitis, presenting with acute-on-chronic hypoxemic respiratory failure, progressive exertional dyspnea, and lower extremity edema. Developed acute decompensated heart failure with cardiogenic shock requiring temporary mechanical circulatory support (Impella CP placement) in the ICU.
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+- **Day 1–2:** Admitted from ED for worsening SOB, hypoxia (SpO2 84% RA), and new LE edema. Initial CXR: hyperinflation, mild pulmonary vascular congestion. BNP 2230, troponin mildly elevated at 0.21. Echo: LVEF 20%, severe global hypokinesis.  
+- **Day 2:** Progressive hypotension (MAP <60), tachycardia, oliguria. Swan-Ganz catheter: CI 1.7, wedge 28. Started norepinephrine and milrinone.  
+- **Day 2–3:** Persistent shock despite pressors/inotropes. Cardiology: Impella CP placed at bedside. Rapid stabilization, improved urine output, MAP >65.  
+- **Day 3–5:** Weaned off norepinephrine. Slow improvement in end-organ function. Serial echocardiogram: LVEF 25%.  
+- **Day 6:** Impella weaned and removed. Transitioned to oral diuretics.  
+- **Day 7:** Stable, transferred out of ICU.  
+
+---
+
+## PAST MEDICAL HISTORY
+
+- Severe pulmonary emphysema (FEV1/FVC 58%)
+- Prediabetes (A1c 6.2)
+- Chronic sinusitis
+- Remote left ankle sprain
+- Rotator cuff injury, right shoulder
+
+## PAST SURGICAL HISTORY
+
+- None relevant
+
+## SOCIAL HISTORY
+
+- Former smoker (50 pack-years, quit 2017)
+- Lives alone; retired construction worker
+- No alcohol, illicit drug use
+
+## FAMILY HISTORY
+
+- Father: MI at 61, deceased  
+- Mother: T2DM, alive, 92
+
+---
+
+## ALLERGIES
+- No known drug allergies
+
+---
+
+## HOME MEDICATIONS
+
+- Fluticasone/salmeterol DPI 250/50 mcg BID
+- Acetaminophen 325 mg PRN
+
+---
+
+## PHYSICAL EXAM (ICU Day 1)
+
+- **Gen:** Elderly, cachectic male, mild distress
+- **VS:** BP 88/54 (MAP 61), HR 116, RR 24, T 36.8°C, SpO2 88% (2L NC)
+- **HEENT:** Nasal congestion, mild sinus tenderness
+- **CV:** JVP 12cm, S3, no murmurs
+- **Lungs:** Diminished breath sounds, bibasilar crackles
+- **Abd:** Soft, NT
+- **Extremities:** 2+ pitting edema to mid-calf
+- **Neuro:** AOx3
+
+---
+
+## LABS
+
+### CBC/Chemistry Table (selected values, ICU days 1–6)
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na  | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Ca   |
+|------------|------|------|------|------|-----|------|------|------|------|------|------|------|
+| 6/9 06:00  | 6.1  | 12.8 | 42   | 426  | 143 | 4.3  | 103  | 27.6 | 15.7 | 1.05 | 77   | 9.7  |
+| 6/10 04:00 | 8.9  | 11.5 | 37   | 410  | 141 | 4.9  | 104  | 25.1 | 25.2 | 1.38 | 116  | 9.3  |
+| 6/11 04:00 | 11.2 | 10.9 | 34   | 389  | 136 | 5.7  | 101  | 23.0 | 34.6 | 1.98 | 148  | 8.7  |
+| 6/12 05:00 | 9.8  | 11.1 | 35   | 370  | 139 | 4.2  | 103  | 26.8 | 22.8 | 1.29 | 104  | 9.5  |
+| 6/13 06:00 | 7.2  | 12.2 | 38   | 398  | 140 | 4.7  | 102  | 28.2 | 18.9 | 1.14 | 92   |      |
+
+**Other Labs:**
+- **BNP:** 2230 pg/mL (admission)
+- **Troponin I:** 0.21 → 0.18 → 0.10 ng/mL (downtrending)
+- **ALT/AST:** ALT 19, AST 22 (admission)
+- **Magnesium:** 2.0 mg/dL (admission), 2.2 (ICU day 3)
+- **INR:** 1.2
+
+---
+
+## IMAGING
+
+- **CXR (6/9):** Hyperinflated lungs, mild pulmonary vascular congestion, no focal infiltrate
+- **Echo (6/9):** LVEF 20%, severe global hypokinesis, mild MR, RV mildly reduced
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock (acute on chronic HFrEF)**
+   - Etiology: Likely ischemic vs. non-ischemic (hx of emphysema, no prior MI, but significant risk factors)
+   - Required Impella CP placement for refractory shock; removed on day 6 after hemodynamic stability
+   - Continue guideline-directed medical therapy for HFrEF (start low-dose carvedilol, titrate as tolerated)
+   - Monitor for arrhythmias, volume status, end-organ perfusion
+   - Cardiology f/u for advanced HF therapies consideration
+
+**2. Pulmonary Emphysema/Chronic Hypoxemia**
+   - Home fluticasone/salmeterol resumed
+   - O2 weaned to 2L NC, titrate to SpO2 > 90%
+   - Pulm f/u; consider pulmonary rehab post-discharge
+
+**3. AKI (pre-renal, multifactorial: hypoperfusion, diuretics, pressors)**
+   - Improved with restoration of perfusion, off pressors, now Cr 1.14 (baseline ~1)
+   - Monitor urine output, avoid nephrotoxins
+
+**4. Volume Overload/Edema**
+   - IV furosemide transitioned to oral; monitor weights, electrolytes
+
+**5. Prediabetes**
+   - A1c 6.2 on admission; continue lifestyle modification
+   - Monitor glucose while inpatient
+
+**6. Chronic Sinusitis**
+   - Symptomatic management; no evidence of acute infection
+   - ENT f/u as outpatient
+
+**7. Rotator Cuff Injury, Ankle Sprain**
+   - On acetaminophen PRN for pain
+   - Continue PT/OT evaluation as tolerated
+
+**8. Nutrition, Functional Status**
+   - Dietician consult: high-protein, low-sodium diet
+   - PT/OT daily; encourage mobility as tolerated
+
+---
+
+## DISCHARGE PLANNING
+
+- Target discharge to home with home health
+- Cardiology, pulmonology, ENT, and PCP f/u scheduled
+- Education re: heart failure, medication adherence, symptom monitoring
+
+---
+
+**PROVIDER:**  
+Dr. J. McCarthy, MD  
+MICU – Cardiology
+
+---
+
+**[END OF NOTE]**

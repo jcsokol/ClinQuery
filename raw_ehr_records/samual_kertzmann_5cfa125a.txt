@@ -1,0 +1,146 @@
+**Epic EHR: Progress Note**  
+**Patient:** Samual Kertzmann  
+**MRN:** 00219348  
+**DOB:** 11/15/1978  
+**Sex:** Male  
+**Date of Admission:** 4/19/2024  
+**Attending:** Dr. Angela Chui  
+**Primary Team:** Cardiology Critical Care  
+**Consults:** Burn Surgery, Infectious Disease, Endocrinology
+
+---
+
+## Chief Complaint  
+Dyspnea, chest pain, hypotension, and worsening lower extremity edema.
+
+---
+
+## HPI  
+Samual Kertzmann is a 45-year-old male with a history of HTN, prediabetes, anemia, and recent third-degree burn to the right hand who presented to the ED with worsening SOB, chest pressure, and confusion. He was found to be hypotensive (SBP 70s), tachycardic, and hypoxemic on arrival. Given evidence of end-organ hypoperfusion (AKI, elevated lactate), he was transferred to the ICU for management of presumed acute decompensated heart failure/cardiogenic shock. Cardiology was consulted and, due to persistent cardiogenic shock despite maximal medical therapy, a temporary left-sided Impella CP device was placed on hospital day #1.
+
+---
+
+## Hospital Course Summary  
+- **Days 1-2:** Required norepinephrine and dobutamine for MAP support. Impella CP placed for refractory shock. Transient AKI, improving with volume management and improved cardiac output.  
+- **Day 3:** Weaned off vasopressors. Impella flows stable. Some hemolysis noted (↑LDH, ↓haptoglobin).  
+- **Day 4:** Developed fever, positive blood cultures for MSSA, likely secondary to burn wound.  
+- **Day 5:** Impella weaned and explanted. Cardiac function improved (EF ~35% from initial 20%).  
+- **Days 6-7:** Focus on wound care, antibiotics for bacteremia, and rehab.
+
+---
+
+## Vitals (see flowsheet for complete data)
+
+| Date       | Temp (°C) | HR (bpm) | BP (mmHg) | RR | SpO2 | Pain (0-10) |
+|------------|-----------|----------|-----------|----|------|-------------|
+| 4/19/24    | 36.8      | 122      | 78/46     | 27 | 89%  | 6           |
+| 4/20/24    | 37.2      | 105      | 100/64    | 20 | 94%  | 4           |
+| 4/21/24    | 37.5      | 98       | 108/70    | 18 | 97%  | 2           |
+| 4/22/24    | 37.9      | 101      | 112/74    | 17 | 98%  | 3           |
+| 4/23/24    | 36.7      | 89       | 118/76    | 16 | 99%  | 2           |
+
+---
+
+## Labs
+
+**CBC/Chemistries**
+
+| Date     | WBC   | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|----------|-------|------|------|-------|------|------|------|------|------|------|------|
+| 4/19/24  | 5.5   | 13.9 | 38   | 192   | 139  | 4.7  | 104  | 26   | 24   | 1.8  | 178  |
+| 4/20/24  | 7.1   | 10.7 | 31   | 166   | 141  | 4.2  | 107  | 23   | 32   | 2.2  | 142  |
+| 4/21/24  | 9.2   | 9.8  | 29   | 143   | 140  | 4.0  | 106  | 24   | 25   | 1.5  | —    |
+| 4/22/24  | 10.3  | 11.3 | 33   | 209   | —    | 4.1  | 105  | 27   | 20   | 1.2  | 108  |
+| 4/23/24  | 8.7   | 12.9 | 36   | 223   | 138  | 4.4  | 104  | —    | 18   | 1.1  | 94   |
+
+**Other Labs**
+
+| Date     | Lactate | Troponin I | BNP   | LDH  | Haptoglobin | AST  | ALT  | Alk Phos | Bilirubin | INR  | A1c   |
+|----------|---------|------------|-------|------|-------------|------|------|----------|-----------|------|-------|
+| 4/19/24  | 4.2     | 0.18       | 1840  | 410  | 42          | 68   | 60   | 102      | 1.3       | 1.1  | 6.3   |
+| 4/20/24  | 2.8     | 0.11       | 1580  | 585  | 17          | 72   | 75   | —        | 1.4       | 1.2  | —     |
+| 4/22/24  | 1.3     | 0.07       | 730   | 288  | 72          | 52   | 48   | 99       | 0.9       | 1.1  | —     |
+| 4/23/24  | —       | 0.05       | 420   | 210  | 94          | 36   | 45   | 88       | 0.7       | 1.0  | —     |
+
+---
+
+## Imaging/Procedures
+
+- **Echocardiogram (4/19/24):** EF 20%, global hypokinesis, moderate MR, mild RV dysfunction.
+- **Chest X-ray (4/19/24):** Pulmonary vascular congestion, mild pleural effusions, no consolidation.
+- **Right heart cath (4/19/24):** RA 13, RV 38/12, PA 44/22 (mean 30), PCWP 28, CI 1.7.
+- **Impella CP placement (4/19/24):** Successful, no immediate complications.
+- **Echocardiogram (4/23/24):** EF 35%, improved wall motion.
+
+---
+
+## Problem-Based Assessment and Plan
+
+### 1. **Cardiogenic Shock / Acute Decompensated Heart Failure**  
+- Refractory to initial vasopressors/inotropes; required temporary mechanical support with Impella CP.  
+- Cardiac function improved (EF up to 35%); Impella explanted on day 5.  
+- Continue guideline-directed medical therapy (GDMT): beta-blocker (carvedilol), ACEi (lisinopril), diuresis as needed.  
+- Monitor for recurrence. Cardiac rehab consult placed.
+
+### 2. **Burn Wound, Right Hand (3rd Degree)**  
+- Debrided on admission, currently with daily wound care and silver sulfadiazine.  
+- Developed MSSA bacteremia; on IV cefazolin (pending sensitivities).  
+- Plastics/Burn surgery following.  
+- Monitor for progression, compartment syndrome, or nec fasc.
+
+### 3. **Anemia (Multifactorial: Hemolysis, Blood Loss, Chronic Disease)**  
+- Hgb dropped to 9.8 on day 3, likely from hemolysis (mechanical, Impella) and phlebotomy loss.  
+- No overt bleeding. Transfused 1 unit PRBC on 4/21.  
+- Hgb stable post-Impella removal.
+
+### 4. **Acute Kidney Injury (Pre-renal, resolved)**  
+- Cr peaked at 2.2, now improved to 1.1, likely due to low output state and nephrotoxic meds.  
+- Avoid NSAIDs, monitor renal function.
+
+### 5. **Hypertension / Prediabetes**  
+- Off antihypertensives during shock; will resume HCTZ and start low-dose ACEi as tolerated.  
+- Monitor glucose, target <140 fasting.  
+- Endocrine consult for diabetes prevention.
+
+### 6. **Pain Control**  
+- Initially on IV opioids for wound and device pain, now transitioned to PO acetaminophen and low-dose meperidine PRN.  
+- Pain scores improved.
+
+### 7. **Infection / Bacteremia**  
+- Blood cultures positive for MSSA, likely from burn site.  
+- On IV cefazolin.  
+- Monitor for endocarditis (TEE pending), septic emboli.
+
+### 8. **Other**  
+- DVT prophylaxis with heparin SQ.  
+- Physical therapy for deconditioning.
+
+---
+
+## Discharge Planning  
+- Anticipated discharge to acute rehab pending wound healing.  
+- Close cardiology, burn, and PCP follow-up.  
+- Home health for wound care.
+
+---
+
+## Medications on Discharge (anticipated)  
+- Lisinopril 5mg PO daily  
+- Carvedilol 3.125mg PO BID  
+- HCTZ 25mg PO daily  
+- Cefazolin IV (to complete course)  
+- Acetaminophen 650mg PO q6h PRN  
+- ASA 81mg PO daily  
+- Sliding scale insulin PRN
+
+---
+
+**Signed:** Dr. Angela Chui, MD  
+**Date/Time:** 4/23/2024 16:11
+
+---
+
+**Additional Notes:**  
+- Family updated daily.  
+- Social work involved for discharge planning.  
+- Awaiting TEE and repeat echo for further cardiac evaluation.

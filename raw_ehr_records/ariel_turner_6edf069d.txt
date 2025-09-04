@@ -1,0 +1,177 @@
+---
+**Patient:** Turner, Ariel  
+**MRN:** 03824529  
+**DOB:** 11/29/1952  
+**Sex:** M  
+**Admit Date:** 3/30/2024  
+**Attending:** Dr. R. Chen (Cardiology)  
+**Consults:** Cardiology, Infectious Disease, Pulmonology  
+**Admit Dx:** Acute Decompensated Heart Failure, Cardiogenic Shock  
+**Hospital Day:** 12  
+**Documented by:** James Lee, MD (ICU Fellow)  
+**Note Type:** Progress Note  
+**Date/Time:** 4/10/2024 09:35
+
+---
+
+### Chief Complaint
+Shortness of breath, chest tightness, increasing lower extremity edema.
+
+---
+
+### HPI
+69-year-old male with hx of hypertension, obesity (BMI 33), hyperlipidemia, chronic sinusitis, and recent viral upper respiratory infection, presenting with progressive dyspnea, orthopnea, and PND over 1 week. On arrival to ED, hypoxic (O2 sat 86% RA), tachypneic, hypotensive (MAP 56), with JVD and bilateral crackles. CXR: pulmonary edema. BNP 1840, troponin T 0.19 (peaked at 0.27). Echo: LVEF 15%, global hypokinesis, moderate MR. Developed worsening shock despite pressors and diuresis, requiring temporary LVAD (Impella CP) on HD2. Complicated by AKI, volume overload, and paroxysmal atrial fibrillation with RVR.
+
+---
+
+### Hospital Course Summary (to date)
+- HD1: ICU admit, started on dobutamine, norepi, furosemide gtt.  
+- HD2: Cardiogenic shock; Impella CP placed.  
+- HD3-5: Improved hemodynamics, extubation on HD5.  
+- HD6-7: Ongoing diuresis, renal function slow to recover.  
+- HD8: Developed fever, leukocytosis; empiric cefepime started.  
+- HD9: Blood cultures negative; stopped abx HD11.  
+- HD10: Brief run of afib/flutter, rate-controlled with amiodarone.  
+- HD11: Impella weaned, explanted.  
+- HD12: Improving; ambulating with PT, diuresis ongoing.
+
+---
+
+## Problem-Based Assessment & Plan
+
+### 1. Cardiogenic Shock / Acute on Chronic Systolic HF (EF 15%)
+- s/p temporary LVAD (Impella CP) HD2-11; now explanted, stable off device.
+- Etiology likely ischemic + viral myocarditis (recent URI, elevated troponin, global hypokinesis).
+- On goal-directed medical therapy: carvedilol held for hypotension, restarted low-dose; sacubitril/valsartan started HD11; spironolactone added.
+- Plan: Continue uptitration as tolerated, monitor for recurrent shock, repeat echo HD13.
+
+### 2. Acute Kidney Injury (on CKD3b)
+- Baseline Cr ~1.4, peaked at 3.2, now trending down (see Labs).
+- Likely multifactorial: low perfusion, diuretics, contrast.
+- UOP now >1 mL/kg/hr; off pressors, off nephrotoxins.
+- Plan: Monitor lytes, trend Cr, nephrology following.
+
+### 3. Volume Overload
+- Significant anasarca, bilateral pleural effusions.
+- Aggressive IV diuresis; net -7.2L since HD2.
+- Plan: Transition to oral furosemide, daily weights, strict I/O.
+
+### 4. Paroxysmal Atrial Fibrillation/flutter
+- On amiodarone gtt, now PO.
+- Rate controlled; no further arrhythmias.
+- Plan: Continue amio, consider anticoagulation pending bleeding risk.
+
+### 5. Obesity, Hyperlipidemia, HTN
+- Resume simvastatin, HCTZ as able.
+- HTN labile; goal SBP 100-110.
+- PT/OT for mobility, dietary consult.
+
+### 6. Fever/Leukocytosis (HD8-10)
+- Suspected line infection; all cultures negative.
+- Now afebrile, WBC trending down.
+- Plan: Monitor, abx stopped.
+
+### 7. Chronic Sinusitis, Recent Viral URI/Bronchitis
+- Supportive care, ENT aware.
+- No current symptoms.
+
+### 8. DVT Prophylaxis
+- SCDs, heparin SQ.
+
+### 9. Others
+- Social: Lives alone, daughter visits daily.
+- Dispo: Anticipate step-down transfer HD13-14.
+
+---
+
+## ICU Medications (current)
+- Furosemide 60mg IV BID (transitioning to PO)
+- Carvedilol 3.125mg PO BID (low dose)
+- Sacubitril/valsartan 24/26mg PO BID
+- Spironolactone 25mg PO qday
+- Amiodarone 200mg PO qday
+- Simvastatin 10mg PO qhs
+- HCTZ 25mg PO qam (hold for SBP <100)
+- Heparin 5000U SQ q8h
+
+---
+
+## Labs
+
+#### Table 1: CBC & Chem7 (selected HDs)
+
+| Date     | HD | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|----------|----|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|
+| 3/30/24  | 1  | 6.1        | 14.2       | 45.8    | 432        | 143         | 4.9        | 107         | 24           | 14          | 1.8        | 112         |
+| 3/31/24  | 2  | 7.9        | 13.6       | 43.7    | 410        | 142         | 5.4        | 108         | 23           | 20          | 2.6        | 106         |
+| 4/1/24   | 3  | 8.4        | 13.0       | 41.9    | 383        | 140         | 5.8        | 104         | 21           | 26          | 3.2        | 97          |
+| 4/2/24   | 4  | 10.2       | 12.4       | 39.6    | 370        | 139         | 6.0        | 102         | 19           | 28          | 3.1        | 101         |
+| 4/3/24   | 5  | 9.7        | 12.7       | 40.2    | 355        | 138         | 5.1        | 101         | 20           | 25          | 2.7        | 98          |
+| 4/5/24   | 7  | 8.3        | 13.0       | 41.3    | 329        | 140         | 4.3        | 103         | 22           | 22          | 2.3        | 92          |
+| 4/8/24   | 10 | 7.1        | 12.8       | 40.8    | 321        | 141         | 4.0        | 102         | 23           | 20          | 2.0        | 95          |
+| 4/10/24  | 12 | 6.2        | 13.5       | 42.1    | 316        | 142         | 4.4        | 105         | 24           | 18          | 1.7        | 99          |
+
+#### Table 2: Cardiac, Liver, and Misc Labs
+
+| Date     | BNP (pg/mL) | Troponin T (ng/mL) | AST (U/L) | ALT (U/L) | Alk Phos (U/L) | Albumin (g/dL) | Total Bili (mg/dL) | INR  |
+|----------|-------------|--------------------|-----------|-----------|----------------|----------------|--------------------|------|
+| 3/30/24  | 1840        | 0.19               | 38        | 21        | 52             | 3.9            | 0.3                | 1.2  |
+| 3/31/24  | 1760        | 0.27               | 36        | 19        | 54             | 3.7            | 0.4                | 1.3  |
+| 4/2/24   | 1500        | 0.18               | 34        | 18        | 57             | 3.6            | 0.5                |      |
+| 4/5/24   | 1100        | 0.11               | 31        | 16        | 51             | 3.7            | 0.3                | 1.1  |
+| 4/10/24  | 890         | 0.08               | 29        | 15        | 49             | 3.8            | 0.2                | 1.1  |
+
+---
+
+## Vitals (selected)
+
+| Date     | Temp (C) | HR | BP (mmHg) | RR | SpO2 | Weight (kg) | Pain |
+|----------|----------|----|-----------|----|------|-------------|------|
+| 3/30/24  | 37.9     | 108| 88/55     | 28 | 86%  | 122         | 2    |
+| 4/2/24   | 38.2     | 101| 94/58     | 22 | 93%  | 121         | 1    |
+| 4/5/24   | 37.1     | 85 | 106/62    | 18 | 97%  | 119         | 0    |
+| 4/8/24   | 36.8     | 79 | 110/66    | 16 | 98%  | 118         | 1    |
+| 4/10/24  | 36.9     | 77 | 108/65    | 16 | 98%  | 117         | 1    |
+
+---
+
+## Procedures  
+- Impella CP LVAD placement (HD2, 3/31/24)  
+- Right IJ central line (HD1)  
+- Foley (removed HD7)  
+- TTE (HD1, HD11)  
+- Extubation (HD5)
+
+---
+
+## Imaging  
+- CXR (HD1): Pulmonary edema, mild cardiomegaly, small bilateral effusions  
+- CXR (HD6): Improved edema  
+- TTE (HD1): LVEF 15%, global hypokinesis  
+- TTE (HD11): LVEF 22%, mild improvement
+
+---
+
+## Consults  
+- Cardiology: Device management, advanced HF  
+- Nephrology: AKI  
+- Pulmonology: Vent management  
+- ID: Fever/abx
+
+---
+
+## Discharge Planning  
+- Anticipate step-down transfer in 1-2 days  
+- Will need close f/u: HF clinic, nephrology, PT/OT  
+- Daughter to assist with home needs
+
+---
+
+## Signature  
+James Lee, MD  
+ICU Fellow, Cardiology  
+04/10/2024 09:35
+
+---
+
+**End of Note**

@@ -1,0 +1,159 @@
+---
+
+**Patient Name:** Youlanda Hudson  
+**MRN:** 00211938  
+**DOB:** 1962-02-17 (62 y/o)  
+**Sex:** Female  
+**Admit Date:** 2024-05-12  
+**Attending:** Dr. J. Patel  
+**Service:** ICU - Cardiology  
+**Allergies:** NKDA  
+**Code Status:** Full Code  
+**Height:** 160.2 cm  
+**Weight:** 77.7 kg (BMI 30.3)  
+**Language:** English  
+**Primary Care Physician:** Dr. R. Singh  
+
+---
+
+## ADMISSION HISTORY & PHYSICAL
+
+**Chief Complaint:**  
+Acute shortness of breath, chest pain, and new onset confusion.
+
+**History of Present Illness:**  
+Ms. Hudson is a 62-year-old female with a history of HTN, obesity, prior CVA, chronic pain, anemia, and prediabetes, who presented to the ED with 2 days of worsening dyspnea, orthopnea, and substernal chest heaviness. She also developed acute confusion and expressive aphasia this morning per family. She has baseline limited mobility and chronic right shoulder pain s/p rotator cuff injury. No recent trauma or sick contacts.
+
+On arrival to ED:  
+- BP 82/54, HR 122, RR 28, O2 sat 91% on 4L NC, Temp 36.6°C  
+- Appeared pale, diaphoretic, with rales at bases, cool extremities, JVD  
+- EKG: ST depressions V2-V6  
+- TTE: LVEF 18%, severe global hypokinesis, moderate MR  
+- Labs: Elevated troponin, lactate 4.8, Cr 1.7 (baseline 0.8), BNP 2456  
+- CXR: Pulmonary edema  
+- Admitted to ICU for cardiogenic shock; started on norepinephrine, dobutamine, and furosemide infusion.
+
+Due to persistent hypotension, worsening metabolic acidosis, and evidence of end-organ hypoperfusion, decision made for placement of temporary left-sided percutaneous VAD (Impella CP) by interventional cardiology on HD#1.
+
+---
+
+## HOSPITAL COURSE (ICU DAYS 1-7)
+
+- **Cardiogenic Shock:** Required temporary LV mechanical support (Impella CP) HD#1-5, weaned off as hemodynamics improved.  
+- **Acute Decompensated Heart Failure:** Managed with IV diuresis, inotropes, vasopressors, uptitrated GDMT as tolerated.  
+- **Acute Kidney Injury:** Oliguric, Cr peaked at 2.2, improved with diuresis and improved perfusion.  
+- **Acute Ischemic Stroke:** MRI on HD#2 confirmed small left MCA infarct; no tPA given due to hemodynamic instability.  
+- **Anemia:** Multifactorial (chronic disease, acute blood loss post-Impella insertion), nadir Hgb 7.8, transfused 2u PRBCs on HD#3.  
+- **Obesity/HTN/Prediabetes:** Continued home meds as tolerated; insulin sliding scale for hyperglycemia.  
+- **Chronic Pain:** Oxycodone ER continued, added acetaminophen, physical therapy consulted.  
+- **Polyp of Colon:** No acute GI bleed, outpatient follow up recommended.
+
+---
+
+## ICU VITALS SUMMARY
+
+| Date       | BP         | HR  | RR | Temp | SpO2 | Notes                          |
+|------------|------------|-----|----|------|------|--------------------------------|
+| 5/12/2024  | 82/54      | 122 | 28 | 36.6 | 91%  | On norepi, dobutamine          |
+| 5/13/2024  | 94/60      | 108 | 22 | 37.0 | 96%  | Impella placed, improved perf. |
+| 5/14/2024  | 106/65     | 98  | 18 | 36.8 | 99%  | Weaning pressors               |
+| 5/15/2024  | 115/68     | 88  | 16 | 36.7 | 99%  | Off pressors, on diuresis      |
+| 5/16/2024  | 112/66     | 84  | 17 | 36.9 | 98%  | Impella removed                |
+| 5/17/2024  | 118/70     | 80  | 18 | 37.1 | 98%  | Ambulating w/ PT               |
+| 5/18/2024  | 122/74     | 78  | 16 | 36.7 | 98%  | Stable, transfer to floor      |
+
+---
+
+## LABS
+
+| Date       | WBC   | Hgb  | Plt   | Na   | K    | Cl   | HCO3 | BUN  | Cr   | Glu  | Ca   | Troponin | BNP   | ALT  | AST  | Lactate |
+|------------|-------|------|-------|------|------|------|------|------|------|------|------|----------|-------|------|------|---------|
+| 5/12/2024  | 7.5   | 13.2 | 264   | 138  | 3.8  | 110  | 28   | 34   | 1.7  | 248  | 9.7  | 3.15     | 2456  | 33   | 36   | 4.8     |
+| 5/13/2024  | 9.1   | 10.8 | 229   | 135  | 4.2  | 108  | 26   | 44   | 2.2  | 186  | 9.5  | 2.87     | 2100  | 49   | 53   | 2.1     |
+| 5/14/2024  | 8.4   | 8.5  | 217   | 137  | 3.7  | 112  | 29   | 39   | 1.9  | 165  | 9.6  | 1.21     | 1540  | 35   | 38   | 1.1     |
+| 5/15/2024  | 7.2   | 7.8  | 202   | 139  | 3.9  | 110  | 31   | 28   | 1.3  | 128  | 9.3  | 0.09     | 950   |      |      |         |
+| 5/16/2024  | 6.8   | 10.2 | 210   | 140  | 4.1  | 109  | 30   | 20   | 1.0  | 102  |      | <0.01    | 512   | 28   | 32   |         |
+| 5/17/2024  | 6.4   | 11.5 | 244   | 141  | 4.0  | 107  | 29   | 17   | 0.9  | 94   |      | <0.01    | 311   |      |      |         |
+| 5/18/2024  | 5.7   | 11.9 | 254   |      |      |      | 28   |      | 0.8  | 89   | 9.7  | <0.01    | 255   |      |      |         |
+
+---
+
+## IMAGING
+
+**CXR 5/12/2024:**  
+Pulmonary edema, mild cardiomegaly, small bilateral pleural effusions.
+
+**TTE 5/12/2024:**  
+LVEF 18%, severe global hypokinesis, moderate MR, mild TR, RV mildly reduced.
+
+**MRI Brain 5/13/2024:**  
+Acute left MCA territory infarct, no hemorrhage.
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock s/p temporary LVAD (Impella CP) placement**  
+- Likely secondary to acute decompensated heart failure on background of ischemic cardiomyopathy  
+- Weaned off inotropes and Impella after 5 days, improved perfusion  
+- Continue GDMT, monitor for recurrent decompensation  
+- Serial ECHO to assess recovery  
+- Cardiology f/u, consider advanced therapies if EF <30% at 3 months
+
+**2. Acute Decompensated Systolic HF (EF 18%)**  
+- IV furosemide, fluid balance monitoring  
+- Restart ACEi/ARB and BB as tolerated  
+- Daily weights, strict I/O  
+- Sodium restriction  
+
+**3. Acute Ischemic Stroke (left MCA)**  
+- Supportive care, no tPA due to shock  
+- Swallow evaluation, aspiration precautions  
+- Continue clopidogrel  
+- Neuro follow-up
+
+**4. AKI (pre-renal, resolved)**  
+- Monitor renal function  
+- Avoid nephrotoxins  
+- Adjust meds for renal dosing
+
+**5. Anemia (chronic, acute blood loss)**  
+- Monitor CBC  
+- Transfused PRBCs HD#3  
+- GI prophylaxis, iron studies pending
+
+**6. Obesity, HTN, Prediabetes**  
+- Continue home medications  
+- Insulin PRN for hyperglycemia  
+- Nutrition consult
+
+**7. Chronic Pain s/p rotator cuff injury**  
+- Continue Oxycodone ER, acetaminophen  
+- PT/OT for mobility  
+- Monitor for opioid side effects
+
+**8. Colon polyp (hx, no acute GI bleed)**  
+- Outpatient GI referral  
+- F/u colonoscopy
+
+**9. Secondary prevention**  
+- Statin, antiplatelet, BP control  
+- Smoking cessation counseling (not a smoker)
+
+---
+
+## DISCHARGE PLANNING
+
+- Anticipate transfer to telemetry floor on HD#8  
+- Home with family, SNF if unable to ambulate  
+- Arrange for outpatient cardiology, neurology, GI f/u  
+- Home health/PT/OT referral  
+- Medication reconciliation prior to discharge
+
+---
+
+**Provider:** J. Patel, MD  
+**Date:** 2024-05-18  
+**Time:** 09:44
+
+---

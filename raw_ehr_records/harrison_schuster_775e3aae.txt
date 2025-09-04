@@ -1,0 +1,229 @@
+---
+**Patient Name:** Harrison Schuster  
+**MRN:** 0092387-ICU  
+**DOB:** 04/08/1911  
+**Sex:** Male  
+**Date of Admission:** 04/02/2024  
+**Attending:** Dr. K. Timmons  
+**Unit:** MICU  
+**Primary Team:** Cardiology/Oncology Consults  
+**Code Status:** Full  
+---
+
+# ICU Progress Note (04/09/2024)
+
+---
+
+## SUBJECTIVE
+
+**CC:** "I was found down at home, woke up in the hospital."
+
+**History of Present Illness:**  
+90 y/o M with PMH of diabetes, CKD1, NSCLC (stage 1, s/p multiple cycles cisplatin/paclitaxel), prior cardiac arrest (2019, ROSC after 10 min CPR, no ICD), chronic alcohol use, and metabolic syndrome, presented after family found him unresponsive at home. EMS noted pulseless electrical activity (PEA) on arrival. ROSC after 8 min CPR. Initial rhythm: asystole. Intubated in field. On arrival, hypotensive, tachycardic, hypoxic. Admitted to MICU for post-arrest care and evaluation of shock.  
+Within first 24h, he developed worsening cardiogenic shock refractory to vasopressors. Emergent left femoral Impella CP placed at bedside. Now day #7 ICU, weaning off vasoactive support, extubated to HFNC. Renal function trending up, mild hepatic congestion, ongoing chemotherapy for NSCLC on hold.
+
+**24h Events:**  
+- Remains off vasopressors x 16h  
+- Impella CP at P4, flows 3.2-3.5 L/min  
+- Weaned to 6L HFNC  
+- Mild delirium (CAM-ICU+ overnight)  
+- Intermittent hyperglycemia, insulin sliding scale  
+- Mild epistaxis, resolved  
+- Family at bedside, goals of care discussed (remain full code)
+
+---
+
+## OBJECTIVE
+
+### VITALS (last 24h)
+| Time | Temp (C) | HR | BP | RR | SpO2 | O2 Device | Pain |
+|------|----------|----|----|----|------|-----------|------|
+| 08:00 | 36.8 | 92 | 104/62 | 18 | 95% | 6L HFNC | 2/10 |
+| 16:00 | 37.1 | 88 | 108/64 | 17 | 96% | 6L HFNC | 3/10 |
+| 00:00 | 36.6 | 85 | 100/59 | 16 | 94% | 6L HFNC | 2/10 |
+
+---
+
+### PHYSICAL EXAM
+
+- **General:** Awake, alert, NAD, mild confusion
+- **HEENT:** Mild scleral icterus, no JVD, mucous membranes dry, no oral lesions
+- **CV:** S1/S2, regular, no murmur, faint S3, Impella hum audible, no rubs
+- **Lungs:** Diminished bibasilar, scattered rales, no wheeze
+- **Abdomen:** Soft, NT, mild hepatomegaly, no rebound
+- **Extremities:** Trace edema, pulses 2+, cap refill <3s
+- **Neuro:** Follows commands, mild confusion, no focal deficit, CAM-ICU+
+
+---
+
+### LABS
+
+#### CBC, CHEM7, SELECTED LABS
+
+| Date/Time        | WBC   | Hgb  | Plt  | Na  | K   | Cl  | CO2 | BUN  | Cr   | Glu  | Ca   | AST  | ALT  | T. Bili | Trop I | BNP   |
+|------------------|-------|------|------|-----|-----|-----|-----|------|------|------|------|------|------|---------|--------|-------|
+| 04/02 18:00 (ER) | 7.3   | 13.2 | 210  | 140 | 4.8 | 99  | 24  | 19   | 2.1  | 166  | 8.9  | 48   | 55   | 2.1     | 0.19   | 2870  |
+| 04/03 04:00      | 8.1   | 12.7 | 199  | 138 | 5.1 | 98  | 23  | 21   | 2.4  | 202  | 8.7  | 67   | 71   | 2.5     | 0.32   | 3400  |
+| 04/03 18:00      | 8.5   | 12.4 | 170  | 139 | 4.7 | 99  | 25  | 26   | 3.7  | 185  | 8.8  | 72   | 81   | 2.8     | 0.27   | 3620  |
+| 04/04 06:00      | 7.6   | 11.8 | 158  | 140 | 4.2 | 98  | 23  | 29   | 4.0  | 144  | 8.9  | 64   | 74   | 2.6     | 0.13   | 2990  |
+| 04/04 18:00      | 6.9   | 11.5 | 151  | 141 | 4.3 | 101 | 26  | 32   | 4.2  | 111  | 9.2  | 59   | 69   | 2.4     | 0.08   | 2100  |
+| 04/05 06:00      | 7.2   | 11.1 | 146  | 142 | 4.5 | 102 | 25  | 34   | 4.5  | 98   | 9.1  | 53   | 65   | 2.2     | 0.05   | 1860  |
+| 04/06 06:30      | 7.6   | 10.9 | 138  | 140 | 4.4 | 103 | 25  | 32   | 4.4  | 112  | 9.0  | 50   | 63   | 2.0     | 0.04   | 1700  |
+| 04/07 06:00      | 7.4   | 10.7 | 134  | 140 | 4.2 | 101 | 24  | 31   | 4.3  | 108  | 8.9  | 48   | 61   | 1.9     | 0.03   | 1580  |
+| 04/08 06:00      | 7.1   | 10.5 | 130  | 141 | 4.3 | 101 | 25  | 30   | 4.2  | 95   | 9.2  | 45   | 59   | 1.8     | 0.02   | 1420  |
+| 04/09 06:00      | 6.8   | 10.2 | 127  | 139 | 4.2 | 99  | 24  | 29   | 4.1  | 93   | 9.1  | 42   | 55   | 1.6     | 0.01   | 1310  |
+
+_Missing labs: 04/05 18:00, 04/06 18:00, 04/08 18:00 (no draws)_
+
+#### Other labs:
+- HbA1c: 7.9% (on admission)
+- LDH: 410 (peak 04/03)
+- INR: 1.5 (max on 04/03)
+- PT: 17.1s
+- PTT: 34s
+- Albumin: 2.9
+- Alk Phos: 180
+- Microalbumin/Cr: 244 mg/g (baseline elevated)
+- PSA: 3.8 ng/mL
+
+---
+
+### IMAGING & PROCEDURES
+
+- **CXR 04/03:** Bilateral lower lobe opacities, mild pulmonary edema, Impella catheter tip in LV cavity.
+- **Echo 04/03:** LVEF 18%, global hypokinesis, mild MR, RV function mildly reduced.
+- **CT Chest (prior, 03/2024):** LUL NSCLC, no new lesions.
+- **Impella CP Placement (04/03):** Left femoral access, no complications, flows 3.2-3.5 L/min.
+
+---
+
+## ASSESSMENT & PLAN
+
+### 1. Cardiogenic Shock, Status Post Cardiac Arrest, Impella CP Day #6
+- Likely multifactorial: underlying ischemic cardiomyopathy, chemo-cardiotoxicity, metabolic syndrome.
+- Now off vasopressors, Impella providing partial LV support.
+- Plan: Wean Impella as tolerated, daily TTE, trend lactate, strict I/O, continue DVT ppx.
+- Cardiology to follow for consideration of long-term MCS vs OMT.
+
+### 2. Acute Kidney Injury, CKD1
+- Likely ATN from shock + nephrotoxic drugs (cisplatin).
+- Creatinine peaked at 4.5, now downtrending, urine output > 0.5 cc/kg/hr.
+- Hold nephrotoxins, adjust renally-dosed meds, monitor lytes q8h.
+- Nephrology following.
+
+### 3. Type 2 Diabetes Mellitus, Labile Glycemia
+- Frequent hyperglycemia, on insulin sliding scale, metformin held due to AKI.
+- Resume metformin when Cr <1.5.
+- BG target 140-180.
+- Endocrinology consult placed.
+
+### 4. Non-Small Cell Lung Cancer, Stage I, LUL
+- S/p 4 cycles cisplatin/paclitaxel, chemo on hold for critical illness.
+- Oncology recommends resume when stable, monitor for cytopenias.
+- Palliative care consult for goals of care.
+
+### 5. Anemia (likely chronic, some dilutional)
+- Hgb stable ~10-11, no active bleeding.
+- Monitor, transfuse if <7 or symptomatic.
+
+### 6. Chronic Alcohol Use
+- CIWA q4h, lorazepam prn (last dose 04/04).
+- Thiamine, folate, MVI daily.
+
+### 7. Delirium
+- CAM-ICU+, reorient, minimize nighttime disturbances, avoid benzos.
+
+### 8. Osteoarthritis, Hip
+- Naproxen prn, avoid NSAIDs if renal function worsens.
+
+### 9. Hypertriglyceridemia, Metabolic Syndrome
+- Triglycerides 142 on admission, dietary modifications as tolerated.
+
+### 10. Hepatic Congestion
+- Mild, likely secondary to RHF/volume overload.
+- Monitor LFTs, diuresis as tolerated.
+
+### 11. DVT Prophylaxis
+- Heparin sq.
+
+---
+
+## MEDICATIONS (active)
+- Insulin sliding scale
+- Metformin 500mg ER (held)
+- Naproxen 220mg prn (caution)
+- Thiamine, folate, MVI daily
+- Heparin sq
+- Chemotherapy (cisplatin/paclitaxel, ON HOLD)
+- Atorvastatin 20mg qhs
+- PRN lorazepam
+
+---
+
+## DISPOSITION
+- Remain in MICU
+- Family meeting planned for 04/10
+- Awaiting improvement for possible stepdown to telemetry
+
+---
+
+# SIGNED:  
+K. Timmons, MD (Cardiology/Critical Care)  
+04/09/2024 08:31
+
+---
+
+**_Page 2_**
+
+## ICU Daily Flow Sheet (selected)
+
+| Date      | UOP (mL/24h) | Net Fluid Balance | O2 Delivery | Sedation | Vasoactive |
+|-----------|--------------|------------------|-------------|----------|------------|
+| 04/03     | 700          | +1100            | Intubated   | Propofol | Norepi, Dopa |
+| 04/04     | 1200         | +650             | HFNC        | Dexmed   | Norepi (off 12h) |
+| 04/05     | 1600         | +300             | HFNC        | None     | None       |
+| 04/06     | 1800         | -200             | HFNC        | None     | None       |
+| 04/07     | 2100         | -400             | HFNC        | None     | None       |
+| 04/08     | 2400         | -600             | HFNC        | None     | None       |
+
+---
+
+**_Page 3_**
+
+## PROCEDURE NOTE: IMPELLA CP INSERTION
+
+**Indication:** Cardiogenic shock, post-arrest, refractory to vasopressors  
+**Date:** 04/03/2024  
+**Operator:** Dr. L. Bhat, Cardiology  
+**Consent:** Obtained from son, risks/benefits explained  
+**Procedure:**  
+- Prepped and draped in sterile fashion, left femoral artery accessed under US guidance
+- 14F sheath placed, Impella CP advanced into LV under fluoro/echo
+- Position confirmed, flows initiated at 3.2 L/min, P4 setting
+- No immediate complications
+- Hemostasis achieved with Perclose  
+**Post-procedure:**  
+- No hematoma, distal pulses intact
+- Serial Hgb, vascular checks q2h x 24h
+
+---
+
+**_Page 4_**
+
+## CONSULTS
+
+### Cardiology  
+- Recommends slow Impella wean, goal medical therapy for HF, consider advanced therapies if recovery plateaus
+
+### Nephrology  
+- Follow AKI, optimize volume, avoid nephrotoxins
+
+### Oncology  
+- Chemo on hold, monitor counts, no acute oncologic intervention
+
+### Palliative Care  
+- Discussed goals of care, comfort measures if no meaningful recovery
+
+---
+
+_**END OF NOTE**_

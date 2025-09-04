@@ -1,0 +1,190 @@
+**EPIC EHR - Inpatient Progress Note**  
+**Patient:** Lorenzo Ankunding  
+**MRN:** 00374281  
+**DOB:** 11/25/1983 (Age: 40)  
+**Sex:** Male  
+**Attending:** Dr. R. Jensen  
+**Date of Admission:** 5/15/2024  
+**Current Date:** 5/23/2024  
+**Location:** MICU, Room 6B  
+**Primary Team:** Cardiology/ICU  
+**Consults:** Neurology, Infectious Disease, Endocrinology
+
+---
+
+### **Chief Complaint**
+Altered mental status, acute decompensated heart failure, respiratory distress
+
+---
+
+### **History of Present Illness**
+Mr. Lorenzo Ankunding is a 40-year-old male with PMHx significant for epilepsy, HTN, obesity (BMI 30.1), and remote viral sinusitis, who presented to the ED with 3 days of progressive dyspnea, orthopnea, and confusion. Family reports an episode of witnessed seizure at home (generalized tonic-clonic, 2-3 minutes, post-ictal ~15 min). In ED, he was hypoxic (SpO2 87% RA), hypertensive (BP 176/102), and tachycardic (HR 122). CXR showed pulmonary edema. Troponin I mildly elevated, BNP 3680. TTE: LVEF 15%, severe global hypokinesis. He rapidly deteriorated, requiring intubation and was transferred to MICU for acute decompensated heart failure and cardiogenic shock. Temporary left-sided heart pump (Impella CP) was placed for hemodynamic support on hospital day 2. 
+
+---
+
+### **Past Medical History**
+- Epilepsy (onset age 28, 3 prior seizures, last 2019)
+- Hypertension (dx 2012)
+- Obesity (BMI 30.1)
+- Single remote seizure (2019, no clear precipitant)
+- Viral sinusitis (2022)
+- Acute viral pharyngitis (2022)
+
+---
+
+### **Past Surgical History**
+- None
+
+---
+
+### **Medications on Admission**
+- Amlodipine 5mg / Hydrochlorothiazide 12.5mg / Olmesartan 20mg daily
+- Levetiracetam 1000mg BID (home)
+- PRN acetaminophen
+
+---
+
+### **Allergies**
+- NKDA
+
+---
+
+### **Social History**
+- Lives with wife, 2 children
+- Denies tobacco, alcohol, illicit drugs
+- Works as accountant
+
+---
+
+### **Family History**
+- Mother: HTN, DM2
+- Father: MI age 59
+
+---
+
+### **Review of Systems** *(Unable to obtain, intubated & sedated)*
+
+---
+
+## **Physical Exam (5/23/2024, 0700)**
+
+| Vitals         | Value                        |
+|----------------|-----------------------------|
+| Temp           | 37.7°C                      |
+| HR             | 98                          |
+| BP             | 112/65 (on low-dose norepi) |
+| RR             | 14 (vent)                   |
+| SpO2           | 98% (FiO2 40%)              |
+| Weight         | 92.8 kg                     |
+| Height         | 175 cm                      |
+| BMI            | 30.1                        |
+
+**Gen:** Intubated, sedated, on ventilator, Impella in place, CVC R IJ  
+**HEENT:** Pupils 3mm, reactive. No scleral icterus.  
+**CV:** Regular, S3 present, no murmurs. Impella sounds.  
+**Resp:** Intubated, bilateral crackles, mildly decreased breath sounds bases.  
+**Abd:** Soft, non-tender, no HSM.  
+**Ext:** 2+ pitting edema, bilateral. Pulses dopplerable.  
+**Neuro:** Sedated, moves all extremities to pain, no focal deficit. No clonus.  
+**Skin:** Intact, no rashes.
+
+---
+
+## **Laboratory Data**
+
+#### **CBC + Chem7 + Selected Labs**
+
+| Date      | WBC    | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin I | BNP    | AST  | ALT  | Alk Phos | Bilirubin | Mg   | Ca   |
+|-----------|--------|-------|-------|-------|------|------|------|------|------|------|------|------------|--------|------|------|----------|-----------|------|------|
+| 5/15 AM  | 7.2    | 13.9  | 42    | 330   | 136  | 4.5  | 100  | 22   | 26   | 1.1  | 142  | 0.12       | 3680   | 34   | 31   | 84       | 0.8       | 1.7  | 8.6  |
+| 5/16 AM  | 6.3    | 13.2  | 40    | 297   | 134  | 4.1  | 98   | 19   | 40   | 1.7  | 156  | 0.18       | >4000  | 39   | 35   | 90       | 1.1       | 1.6  | 8.4  |
+| 5/17 AM  | 8.1    | 12.7  | 39    | 255   | 133  | 4.0  | 97   |      | 54   | 2.2  | 168  | 0.11       | 3900   | 41   | 37   | 93       | 1.0       | 1.8  | 8.2  |
+| 5/18 AM  | 7.9    | 12.9  | 41    | 241   | 137  | 3.8  | 101  | 24   | 47   | 1.9  | 138  | <0.01      | 3100   | 38   | 33   | 86       | 0.9       |      | 8.3  |
+| 5/19 AM  | 7.1    | 13.1  |       | 222   | 138  | 3.7  | 103  | 26   | 39   | 1.5  | 124  | <0.01      | 2500   |      |      |          |           | 1.8  |      |
+| 5/21 AM  | 6.4    | 13.5  | 43    | 210   | 140  | 3.9  | 105  | 27   | 33   | 1.3  | 112  | <0.01      | 1800   | 30   | 29   | 80       | 0.7       | 1.9  | 8.7  |
+| 5/23 AM  | 5.9    | 13.9  | 44    | 198   | 141  | 4.2  | 104  | 28   | 26   | 1.1  | 104  | <0.01      | 980    | 27   | 25   | 73       | 0.6       | 2.0  | 8.9  |
+
+*Some labs missing due to hemolysis or sample clotting.*
+
+---
+
+## **Pertinent Imaging**
+
+- **CXR (5/15):** Pulmonary vascular congestion, bilateral pleural effusions.
+- **TTE (5/15):** LVEF 15%, severe diffuse hypokinesis, mild RV dysfunction, no LV thrombus.
+- **Brain MRI (5/16):** No acute infarct/hemorrhage. Chronic microvascular changes.
+- **Repeat TTE (5/22):** LVEF improved to 35% post-Impella, mild MR.
+
+---
+
+## **Hospital Course**
+
+- **5/15:** Admitted with acute respiratory distress, seizure. Found to have severe new-onset systolic heart failure. Intubated for hypoxic respiratory failure. Started on IV diuresis, levetiracetam, and BP control.
+- **5/16:** Developed hypotension refractory to diuresis, rising creatinine, worsening lactic acidosis. Cardiogenic shock diagnosed. Impella CP placed. Started on norepinephrine, dobutamine.
+- **5/17-18:** Gradual improvement in perfusion, weaned off norepi by 5/19. Renal function improved with diuresis. No further seizures. EEG: diffuse slowing, no epileptiform activity.
+- **5/19-21:** Impella support ongoing. Diuresis continued. Extubated 5/20, transitioned to BiPAP. Mobilizing with PT/OT. 
+- **5/22:** Impella successfully weaned and removed. LVEF improved to 35%. Remains on low-dose diuretic, uptitrating guideline-directed HF therapy.
+- **5/23:** Alert, oriented x3. No focal neuro deficits. Stable on room air.
+
+---
+
+## **Assessment and Plan**
+
+**1. Cardiogenic Shock secondary to Acute Systolic Heart Failure (new onset)**
+   - Likely viral myocarditis (pending viral panel, coxsackie B IgM+)
+   - Required Impella CP for 6 days, now explanted
+   - Guideline-directed medical therapy: Start low-dose carvedilol, titrate up. Continue ACEi/ARB, consider SGLT2i.
+   - Monitor for arrhythmias. Telemetry ongoing.
+   - Daily weights, strict I/Os, continue IV Lasix, transition to oral as tolerated.
+
+**2. Seizure Disorder/Epilepsy**
+   - No recurrent seizures since admission
+   - EEG: diffuse slowing, no epileptiform discharges
+   - Continue levetiracetam 1000mg BID, monitor for sedation/encephalopathy
+   - Neuro follow-up on floor
+
+**3. Acute Kidney Injury (pre-renal, resolving)**
+   - Likely secondary to hypoperfusion, improved with volume management
+   - Monitor renal function daily
+   - Avoid nephrotoxins
+
+**4. Hypertension**
+   - Previously poorly controlled, now low-normal BP
+   - Restart home regimen once stable, titrate as tolerated
+
+**5. Obesity (BMI 30.1)**
+   - Dietician consult, low sodium, cardiac diet
+   - Encourage mobilization, PT/OT
+
+**6. History of Viral Sinusitis/Pharyngitis**
+   - No current symptoms, no antibiotics needed
+
+**7. Hospital-Related Issues**
+   - VTE prophylaxis: SCDs, LMWH
+   - Stress ulcer prophylaxis: pantoprazole
+   - Monitor for ICU delirium
+   - Foley removed 5/19
+
+**Dispo:**  
+Anticipate transfer to step-down unit in 24-48 hrs. Plan for cardiac rehab, close outpatient f/u with cardiology and neurology.
+
+---
+
+**Attending:** Dr. R. Jensen, MD  
+**Resident:** J. Patel, MD  
+**Nurse:** S. McCoy, RN  
+**Date/Time:** 5/23/2024 09:13 AM
+
+---
+
+**Additional Orders:**  
+- Cardiac enzymes q12h x3 (if recurrent symptoms)  
+- Viral myocarditis panel  
+- Continue telemetry  
+- Strict fluid balance  
+- PT/OT daily  
+- Cardiology and Neurology to follow
+
+---
+
+**End of Note**

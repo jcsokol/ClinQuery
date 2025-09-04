@@ -1,0 +1,185 @@
+---
+**EPIC EHR Note – ICU Progress Note**  
+**Patient Name:** Ruelas, Felipe  
+**MRN:** 00541763  
+**DOB:** 06/04/1979  
+**Sex:** Male  
+**Date of Admission:** 05/14/2024  
+**Date of Note:** 05/21/2024  
+**Attending:** Dr. J. Park, MD  
+**Consultants:** Cardiology, Endocrinology, Nephrology  
+**Location:** CVICU, Bed 3  
+
+---
+
+## HISTORY OF PRESENT ILLNESS
+
+44-year-old male with hx of poorly controlled DM2, HTN, hypertriglyceridemia, CKD 1, and metabolic syndrome, presented to ED with 3 days of progressive SOB, orthopnea, and chest heaviness. Found to be hypertensive and tachypneic. In ED, developed hypotension and acute hypoxemic respiratory failure requiring emergent intubation. Initial EKG: sinus tach, nonspecific ST changes. Troponin peaked at 4.6. Bedside echo: LVEF 15%, global hypokinesis, moderate MR. Cardiology emergently consulted; patient developed cardiogenic shock and was started on norepinephrine and dobutamine. Despite escalating pressors and inotropes, MAP <60 mmHg and lactate 5.2 mmol/L. Decision made for placement of percutaneous LVAD (Impella CP) for temporary mechanical circulatory support.  
+
+Hospital course complicated by AKI, worsening hyperglycemia, and superimposed bacterial pneumonia (see below).  
+
+---
+
+## PAST MEDICAL HISTORY
+
+- Diabetes mellitus type 2 (on insulin)
+- Hypertension
+- Hypertriglyceridemia
+- Chronic kidney disease stage 1
+- Diabetic renal disease
+- Metabolic syndrome
+- Viral sinusitis, recent
+- Acute viral pharyngitis, resolved
+
+## PAST SURGICAL HISTORY
+
+- None
+
+## ALLERGIES
+
+- NKDA
+
+## MEDICATIONS ON ADMISSION
+
+- Amlodipine 5mg/HCTZ 12.5mg/Olmesartan 20mg, daily
+- Insulin (70/30), sliding scale
+
+---
+
+## ICU HOSPITAL COURSE SUMMARY
+
+**05/14/24**:  
+- Admitted for acute decompensated heart failure, cardiogenic shock.  
+- Intubated for hypoxemia, started on norepi, dobutamine.  
+- Troponin uptrending, echo: LVEF 15%.  
+- Emergent Impella CP placed via right femoral artery.  
+- Foley, a-line, CVC placed.  
+
+**05/15/24**:  
+- Vasopressors weaned slightly. Improved perfusion.  
+- Still oliguric, Cr up to 2.1.  
+- Started empiric cefepime/azithro for new fever, CXR with infiltrate.  
+- Glucose trending high 200s, insulin drip started.  
+- Sputum cx sent.  
+
+**05/16/24**:  
+- MAP maintained 65-70, lactate down to 2.1.  
+- Off norepi, still on dobutamine.  
+- Impella flows 3.2-3.5 L/min.  
+- Extubated to HFNC.  
+- Creatinine peaked 2.3, started gentle diuresis.  
+
+**05/17/24**:  
+- Improved urine output, Cr down to 1.8.  
+- Blood cultures negative. Sputum cx: GNR, started on pip-tazo.  
+- Insulin drip transitioned to sliding scale SQ.  
+- Echo: LVEF 20-25%.  
+
+**05/18/24**:  
+- Impella weaning trial successful.  
+- Device explanted.  
+- Stable off pressors/inotropes.  
+- Mobilizing with PT.  
+
+**05/19-21/24**:  
+- Stable hemodynamics.  
+- Creatinine trending down, glycemic control improved.  
+- O2 weaned to NC.  
+- Discharge planning with case management, home health arranged.  
+
+---
+
+## VITALS (Selected)
+
+| Date       | Temp (C) | HR   | BP          | RR  | SpO2 | Weight (kg) |
+|------------|----------|------|-------------|-----|------|-------------|
+| 5/14/24    | 37.3     | 122  | 88/54 (MAP 62) | 28  | 93%  | 92.5        |
+| 5/15/24    | 38.1     | 116  | 94/60 (MAP 71) | 22  | 95%  | 91.9        |
+| 5/16/24    | 37.4     | 98   | 103/65 (MAP 78)| 18  | 99%  | 91.0        |
+| 5/17/24    | 36.9     | 92   | 108/70 (MAP 83)| 16  | 98%  | 90.2        |
+| 5/18/24    | 37.0     | 88   | 112/74 (MAP 86)| 14  | 98%  | 90.0        |
+
+---
+
+## LABS
+
+**CBC & Chemistry Panel**
+
+| Date      | WBC  | Hgb   | Hct   | Plt   | Na    | K    | Cl   | CO2  | BUN  | Cr    | Glu   | Ca    |
+|-----------|------|-------|-------|-------|-------|------|------|------|------|-------|-------|-------|
+| 5/14/24   | 6.2  | 14.6  | 37.3  | 424   | 143   | 4.9  | 105  | 27   | 13   | 2.0   | 117   | 9.0   |
+| 5/15/24   | 8.1  | 13.9  | 36.0  | 392   | 142   | 5.2  | 107  | 26   | 18   | 2.1   | 217   | 8.8   |
+| 5/16/24   | 7.5  | 13.2  | 34.7  | 370   | 140   | 4.7  | 104  | 25   | 20   | 2.3   | 254   | 8.6   |
+| 5/17/24   | 7.0  | 13.7  | 35.4  | 385   | 141   | 4.5  | 106  | 27   | 16   | 1.8   | 171   | 8.9   |
+| 5/18/24   | 6.8  | 13.9  | 36.1  | 378   | 139   | 4.2  | 104  | 26   | 13   | 1.5   | 143   |       |
+| 5/19/24   |      | 14.2  |       | 365   | 139   | 4.2  |      | 25   | 12   | 1.3   | 131   | 8.7   |
+
+**Selected Other Labs**
+
+| Date    | Troponin | BNP   | Lactate | A1c   | Albumin | AST  | ALT  | Alk Phos | Bilirubin |
+|---------|----------|-------|---------|-------|---------|------|------|----------|-----------|
+| 5/14/24 | 4.6      | 1220  | 5.2     | 9.1   | 3.1     | 38   | 47   | 89       | 1.0       |
+| 5/15/24 | 2.9      | 980   | 3.2     |       | 3.0     | 33   | 44   | 86       | 1.2       |
+| 5/16/24 | 1.5      | 760   | 2.1     |       | 3.2     | 29   | 41   | 81       | 1.1       |
+| 5/17/24 | 0.7      | 550   | 1.2     |       | 3.4     | 27   | 38   | 76       | 1.0       |
+| 5/18/24 | <0.05    | 430   |         |       | 3.5     | 28   | 36   | 74       |           |
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock secondary to acute decompensated heart failure**  
+- Likely precipitated by viral illness (recent pharyngitis/sinusitis) on background of ischemic cardiomyopathy and metabolic syndrome.  
+- Required mechanical circulatory support with percutaneous LVAD (Impella CP).  
+- Now successfully weaned off Impella, hemodynamically stable off pressors/inotropes.  
+- Plan: Continue aggressive diuresis, close hemodynamic monitoring, optimize GDMT, consider cardiac rehab.
+
+**2. Acute on chronic kidney injury (CKD 1)**
+- Likely multifactorial: hypoperfusion, nephrotoxic exposure, possible ATN.
+- Improved with volume management and renal perfusion post-Impella.
+- Cr trending down, eGFR improving.
+- Plan: Monitor renal function, avoid nephrotoxins, adjust meds for renal dosing.
+
+**3. Diabetes Mellitus (Type 2)**
+- Marked hyperglycemia during critical illness, now improving.
+- Insulin drip transitioned to SQ sliding scale.
+- Plan: Endo to follow, dietary consult, target BG <180.
+
+**4. Superimposed hospital-acquired pneumonia**
+- Fever, new infiltrate, positive sputum culture for GNR.
+- Improved on pip-tazo, afebrile, WBC normalizing.
+- Plan: Continue abx to complete course, monitor for complications.
+
+**5. Hypertension, Metabolic Syndrome, Hypertriglyceridemia**
+- BP now at goal on current regimen.
+- Plan: Reinforce medication compliance, low-salt/low-fat diet, outpatient lipid clinic referral.
+
+**6. Diabetic Renal Disease**
+- See above; monitor for proteinuria, optimize glycemic and BP control.
+
+**7. Deconditioning**
+- Mobilizing with PT/OT.
+- Plan: Early rehab, DVT prophylaxis.
+
+**8. Discharge Planning**
+- To acute rehab vs home with PT, home health.
+- Arrange close outpatient f/u: Cardiology, Nephrology, Endocrinology.
+
+---
+
+## PHYSICIAN ATTESTATION
+
+I have reviewed the above note and patient data.  
+**Dr. J. Park, MD**  
+**Date/Time:** 05/21/2024 08:35
+
+---
+
+### Additional Comments
+- Foley d/c’d on 5/18.  
+- PICC line remains for abx, to be reassessed daily.  
+- Family updated daily; wife present at bedside most days.
+
+---
+
+**[End of Note]**

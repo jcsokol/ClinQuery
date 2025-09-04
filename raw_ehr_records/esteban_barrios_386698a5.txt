@@ -1,0 +1,199 @@
+**EPIC EHR – Inpatient Progress Note**
+---
+**Patient:** Esteban Barrios  
+**MRN:** 0098745-ICU  
+**DOB:** 10/17/1912 (Age: 111)  
+**Sex:** Male  
+**Admit Date:** 05/24/2024  
+**Attending:** Dr. S. Martinez  
+**Unit:** MICU, Room 17  
+**Allergies:** NKDA  
+**Code Status:** Full Code  
+**Isolation:** None  
+**Consults:** Cardiology, Nephrology, ID, PT/OT, Social Work
+
+---
+
+### **Chief Complaint**
+Progressive SOB and orthopnea, admitted for decompensated CHF with hypoxia, hypotension, and acute kidney injury. Required temporary left-sided heart pump (Impella CP) for cardiogenic shock.
+
+---
+
+### **Hospital Course Summary**
+
+Mr. Barrios is a 111-year-old male with a history of severe COPD, class III obesity, prediabetes, chronic anemia, recurrent UTI, OA knees, prior bullet wound (remote), drug overdose (remote), viral URIs, clavicle fracture, and chronic CHF. He presented with 2 weeks of worsening dyspnea, orthopnea, bilateral LE edema, and confusion. On arrival, he was hypoxic (SpO₂ 88% on RA), tachypneic, and hypotensive (MAP 58 mmHg). CXR: pulmonary edema, mild bibasilar infiltrates. Echo: LVEF 35% (baseline 45%), global hypokinesis. Labs: rising creatinine, elevated NT-proBNP, mild troponin leak.
+
+Despite aggressive diuresis and inotropes, he developed worsening shock and renal dysfunction. Cardiology placed a temporary LV assist device (Impella CP) on D2 for refractory cardiogenic shock. He stabilized hemodynamically over 5 days, device was weaned and explanted D7. Complicated by anemia, delirium, UTI, and transient AKI. Now on gentle diuresis, O₂ nasal cannula, improving mental status.
+
+---
+
+## **Problem List and Assessment/Plan**
+
+---
+
+### 1. **Cardiogenic Shock / Chronic CHF**
+- **HPI:** Acute-on-chronic decompensation with hypotension, poor perfusion, rising lactate, and AKI, likely precipitated by viral illness + medication nonadherence.
+- **Course:** Refractory to IV furosemide, dobutamine, norepinephrine; required Impella CP for 5 days (D2–D7). Weaned off pressors, device explanted.
+- **Current:** MAP >65, off inotropes, mild volume overload, NT-proBNP downtrending, LVEF 38% (repeat TTE).
+- **Plan:**  
+   - Continue gentle IV furosemide; monitor I/Os, weights, electrolytes  
+   - Re-initiate low-dose metoprolol, consider uptitration  
+   - Continue ACE-inhibitor when renal function allows  
+   - Daily EKGs, telemetry  
+   - Fluid restrict <1.5L/d  
+   - Cardiac rehab consult  
+   - Echo in 1 week  
+
+---
+
+### 2. **Acute Kidney Injury (on CKD III)**
+- **Etiology:** Cardiorenal syndrome, hypoperfusion, nephrotoxic exposures (contrast, NSAIDs).
+- **Course:** Peak Cr 2.1 (baseline 1.1), now improving (Cr 1.4).
+- **Plan:**  
+   - Hold nephrotoxins (NSAIDs, ACEi for now)  
+   - Monitor daily BMP, urine output  
+   - Nephrology following  
+   - Avoid hypotension  
+   - Trend BUN/Cr, replete K/Mg/PO4 as needed  
+
+---
+
+### 3. **COPD (Severe)**
+- **Status:** Exacerbation on admission, now improved. On fluticasone/salmeterol, O₂ 2L/min.
+- **Plan:**  
+   - Continue inhalers (fluticasone/salmeterol)  
+   - Monitor for bronchospasm  
+   - Incentive spirometry  
+   - Pulm consult PRN  
+
+---
+
+### 4. **Anemia (Chronic + Acute Exacerbation)**
+- **Etiology:** Chronic disease, acute drop post-Impella (device-related hemolysis).
+- **Labs:** Hgb nadir 7.9, now 9.8. No active bleeding.
+- **Plan:**  
+   - Monitor CBC  
+   - Iron studies, retic count  
+   - Transfuse if Hgb <7.5 or symptomatic  
+   - GI consult for occult GI loss  
+
+---
+
+### 5. **Recurrent UTI**
+- **Findings:** Dysuria, +UA, +E. coli on urine cx.
+- **Plan:**  
+   - Continue IV ceftriaxone (switched from oral amox/clav)  
+   - Monitor for urosepsis  
+   - Foley out ASAP  
+   - Urology consult if fails to clear  
+
+---
+
+### 6. **Obesity (BMI 30+) / Prediabetes**
+- **Plan:**  
+   - Diabetic diet  
+   - Monitor glucose, A1c  
+   - Nutrition consult  
+   - Encourage mobility  
+
+---
+
+### 7. **Osteoarthritis (Knee)**
+- **Plan:**  
+   - Pain control (avoid NSAIDs)  
+   - PT/OT for mobility  
+   - Topical agents preferred  
+
+---
+
+### 8. **Other Problems**
+- **Remote bullet wound:** No acute issues  
+- **Remote drug overdose:** Social work following  
+- **Viral sinusitis/pharyngitis:** Supportive care  
+- **Old clavicle fracture:** Healed  
+- **Fall risk:** Bed alarm, close monitoring  
+- **Delirium:** Improving; re-orient, minimize restraints, sleep hygiene  
+
+---
+
+## **Medications (Active)**
+| Medication                                      | Dose/Route            | Schedule        | Indication                |
+|-------------------------------------------------|-----------------------|----------------|---------------------------|
+| Furosemide                                      | 40 mg IV BID          | BID             | CHF/volume overload       |
+| Metoprolol succinate                            | 25 mg PO daily        | Daily           | CHF, rate control         |
+| Fluticasone/salmeterol inhaler                  | 1 puff BID            | BID             | COPD                      |
+| Ceftriaxone                                     | 1 g IV daily          | Daily           | UTI                       |
+| Acetaminophen                                   | 325 mg PO q6h PRN     | PRN             | Pain/fever                |
+| Senna/docusate                                  | 8.6/100 mg PO qHS     | Nightly         | Constipation prevention    |
+| Sliding scale insulin                           | per protocol          | AC/HS           | Hyperglycemia PRN         |
+
+---
+
+## **ICU Events Timeline**
+| Date       | Events/Interventions                                   |
+|------------|-------------------------------------------------------|
+| D0 (5/24)  | Admit MICU; severe CHF, AKI, SOB, hypoxemia           |
+| D1         | Worsening shock; started dobutamine, norepi           |
+| D2         | Impella CP LVAD placed; MAP improved                  |
+| D3–D6      | Ongoing support; transfused PRBC for Hgb 7.9          |
+| D7         | Impella explanted; weaned off pressors                |
+| D8         | Transition to oral diuretics, O₂ sat stable           |
+| D9         | Transferred to step-down unit                         |
+
+---
+
+## **LABS**
+
+**Note:** Not all labs collected at each time point.  
+**Key:** * = abnormal
+
+| Date       | WBC     | Hgb    | Hct   | Plt    | Na    | K    | Cl    | CO₂   | BUN   | Cr    | Gluc  | Ca    | AST   | ALT   | Alk Phos | NT-proBNP | Lactate |
+|------------|---------|--------|-------|--------|-------|------|-------|-------|-------|-------|-------|-------|-------|-------|----------|-----------|---------|
+| 5/24/24    | 9.8     | 12.2   | 36.5  | 410    | 135   | 4.1  | 105   | 23    | 34    | 1.2   | 134   | 9.1   | 18    | 41    | 132      | 2890*     | 3.2*    |
+| 5/25/24    | 11.2*   | 11.0   | 33.2  | 381    | 132*  | 4.6  | 101   | 20*   | 47*   | 1.7*  | 98*   | 8.8   | 25*   | 44    | 121      | 3620*     | 2.8     |
+| 5/26/24    | 10.8    | 9.9*   | 29.0* | 355    | 134   | 5.0* | 106   | 22    | 54*   | 2.1*  | 110   | 8.9   | 27*   | 49*   | 127      | 4100*     | —       |
+| 5/27/24    | 9.6     | 7.9*   | 25.1* | 389    | 139   | 4.3  | 108   | 24    | 44*   | 1.9*  | 126   | 9.2   | 31*   | 49*   | —        | 3350*     | 1.9     |
+| 5/28/24    | 8.7     | 8.8*   | 27.4* | 402    | 136   | 4.1  | 104   | 25    | 29    | 1.4   | 87*   | 9.3   | 22    | 45    | 118      | 2500*     | —       |
+| 5/29/24    | —       | 9.8    | 28.9  | 415    | 138   | 4.2  | 107   | 26    | 19    | 1.2   | 99    | 9.4   | 19    | 43    | 109      | 1800      | 1.1     |
+| 5/30/24    | 8.9     | 10.7   | 30.5  | 428    | 140   | 4.0  | 103   | 24    | 17    | 1.1   | 101   | 9.5   | 16    | 41    | 110      | 900       | —       |
+
+*Abnormal labs:  
+- NT-proBNP persistently elevated, trending down.  
+- Lactate peaked with shock, normalized after support.  
+- Hgb dropped post-device, transfused.  
+- Creatinine peaked with AKI, now improving.
+
+---
+
+## **Imaging**
+
+- **CXR (5/24):** Pulmonary edema, mild bibasilar opacities, cardiomegaly.
+- **Echo (5/24):** LVEF 35%, global hypokinesis, no LV thrombus.
+- **Echo (5/29):** LVEF 38%, improved LV function.
+
+---
+
+## **Vital Signs (Selected)**
+
+| Date      | Temp  | HR  | BP         | RR | SpO₂   | Weight  |
+|-----------|-------|-----|------------|----|--------|---------|
+| 5/24      | 37.2  | 108 | 85/44      | 26 | 88% RA | 82 kg   |
+| 5/25      | 36.8  | 102 | 94/54      | 24 | 90% 2L | 81.5 kg |
+| 5/28      | 36.9  | 96  | 118/68     | 18 | 97% 2L | 79 kg   |
+| 5/30      | 37.0  | 88  | 124/74     | 16 | 97% RA | 77.5 kg |
+
+---
+
+## **Disposition / Discharge Planning**
+- **Anticipated disposition:** SNF vs home with home health
+- **PT/OT:** Working on strength, endurance
+- **Goals:** Maximize independence, prevent readmission, optimize CHF/COPD management
+
+---
+
+**Signed:** S. Martinez, MD  
+**Date/Time:** 05/31/2024 1530
+
+---
+
+**End of Note**

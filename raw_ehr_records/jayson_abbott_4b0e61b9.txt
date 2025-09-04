@@ -1,0 +1,172 @@
+---
+**Epic EHR Note – ICU Daily Progress Note**  
+**Patient:** Jayson Abbott  
+**MRN:** 00211944  
+**DOB:** 08/19/1938 (Age: 85)  
+**Sex:** M  
+**Admit Date:** 3/18/2024  
+**Attending:** Dr. L. Pennington  
+**ICU Service:** Cardiology/Cardiothoracic ICU  
+**Date of Note:** 3/23/2024  
+---
+
+### Reason for Admission:
+Acute decompensated heart failure with cardiogenic shock secondary to ischemic cardiomyopathy, complicated by acute on chronic renal failure, severe anemia, and metastatic colon cancer. Required placement of temporary left ventricular assist device (Impella CP) for hemodynamic support.
+
+---
+
+## Problem-Based Assessment & Plan
+
+---
+
+### 1. **Cardiogenic Shock / Acute Decompensated Heart Failure**
+- **History:** 85M with HTN, CAD, HLD, CKD, metastatic colon cancer, presented with acute SOB, orthopnea, hypotension (SBP 78 mmHg), cold extremities, elevated JVP, CXR with pulmonary edema. Echo: LVEF 15%, severe global hypokinesis.
+- **Course:** Progressed to worsening shock despite pressor support (norepinephrine, dobutamine). Emergent Impella CP placed on HD#1 for refractory hypotension, improved perfusion.
+- **Current:** Impella CP in situ, flows 3.2 L/min, MAPs stable 68-75 mmHg. Weaning vasopressors. Still oliguric.
+- **Plan:**  
+    - Continue Impella CP, daily echo for LV recovery.
+    - Titrate off pressors as tolerated.
+    - Strict I/Os, daily weights.
+    - Continue diuresis (IV furosemide).
+    - Cardiac rehab, PT/OT as tolerated.
+    - Cardiology & CT surgery continue to follow.
+
+---
+
+### 2. **Acute Kidney Injury on CKD (Stage 3b)**
+- **History:** Baseline Cr 2.1, now up to 3.6 on HD#2, oliguric, BUN peaked 48.
+- **Etiology:** Likely multifactorial—low perfusion, nephrotoxic meds (contrast), volume overload.
+- **Current:** UOP improved after Impella, now 0.6 cc/kg/hr.
+- **Plan:**  
+    - Hold nephrotoxins, monitor renal function daily.
+    - Avoid ACEi/ARB.
+    - Renal dose adjust all meds.
+    - Nephrology consult on board.
+    - CRRT if worsening acidosis/hyperK/volume.
+
+---
+
+### 3. **Severe Anemia**
+- **History:** Hgb dropped from 10.2 to 6.0 over 48hrs. Colon cancer hx, GI bleeding vs. dilutional.
+- **Transfused:** 2U PRBCs on HD#2.
+- **Current:** Hgb stable at 8.1 g/dL post-transfusion.
+- **Plan:**  
+    - Monitor H/H q12h.
+    - GI consult, plan for colonoscopy after hemodynamic stabilization.
+    - Iron studies, retic count pending.
+    - Hold anticoagulation for now.
+
+---
+
+### 4. **Metastatic Colon Cancer**
+- **History:** s/p R hemicolectomy 2021, on FOLFOX chemo (oxaliplatin, leucovorin). Recent imaging: new hepatic lesions, osseous mets.
+- **Current:** No active chemo during ICU stay.
+- **Plan:**  
+    - Oncology consult for goals of care, palliative options.
+    - Continue DVT ppx unless actively bleeding.
+    - Symptom management (pain, constipation, nausea).
+
+---
+
+### 5. **Hypertension / Hyperlipidemia**
+- **History:** On atenolol/chlorthalidone, simvastatin.
+- **Course:** HTN less of a problem, now hypotensive.
+- **Plan:**  
+    - Hold BP meds, statin on hold due to LFT uptrending.
+    - Reassess when hemodynamics improve.
+
+---
+
+### 6. **Osteoarthritis (Hip)**
+- **History:** Chronic pain, limited mobility.
+- **Plan:**  
+    - Pain managed with PRN acetaminophen.
+    - Avoid NSAIDs (AKI).
+    - PT/OT for mobility as tolerated.
+
+---
+
+### 7. **Chronic Sinusitis**
+- **Plan:**  
+    - Supportive care, nasal saline sprays.
+    - Monitor for fever, secondary infection.
+
+---
+
+### 8. **Other: Nutrition, DVT Prophylaxis, Code Status**
+- **Nutrition:** NPO x48hrs, now on tube feeds.
+- **DVT Ppx:** SCDs, heparin SQ on hold until Hgb stable.
+- **Code Status:** Full code, family meeting planned.
+
+---
+
+---
+
+## **LABS**
+
+#### *Chemistry/CBC Summary Table*  
+| Date      | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Ca | WBC (10^3/uL) | Hgb (g/dL) | Hct (%) | Plt (10^3/uL) |
+|-----------|-------------|------------|-------------|--------------|-------------|------------|-------------|----|---------------|------------|---------|----------------|
+| 3/18/24   | 140         | 5.1        | 109         | 24           | 22          | 2.9        | 98          | 9.2| 6.4           | 10.2       | 33.9    | 298            |
+| 3/19/24   | 142         | 4.8        | 110         | 21           | 34          | 3.4        | 102         |    | 5.2           | 8.7        | 29.1    | 241            |
+| 3/20/24   | 139         | 4.6        | 108         | 22           | 48          | 3.6        | 105         |    | 4.1           | 6.0        | 20.0    | 175            |
+| 3/21/24   | 141         | 4.7        | 111         | 23           | 41          | 3.3        | 97          | 8.9| 4.9           | 8.1        | 27.5    | 207            |
+| 3/22/24   | 140         | 4.2        | 110         | 25           | 38          | 3.2        | 99          |    | 5.6           | 8.3        | 28.1    | 219            |
+| 3/23/24   | 140         | 4.4        | 109         | 25           | 36          | 3.0        | 101         | 9.1| 5.1           | 8.1        | 28.0    | 221            |
+
+#### *Additional Labs/Relevant Markers*  
+| Date      | Troponin I (ng/mL) | BNP (pg/mL) | ALT (U/L) | AST (U/L) | Alk Phos (U/L) | T. Bili (mg/dL) | Albumin (g/dL) |
+|-----------|--------------------|-------------|-----------|-----------|----------------|-----------------|----------------|
+| 3/18/24   | 0.09               | 1572        | 32        | 28        | 70             | 0.36            | 4.2            |
+| 3/19/24   | 0.11               | 1890        | 44        | 39        | 82             | 0.39            | 3.8            |
+| 3/20/24   | 0.10               | 2112        | 38        | 31        | 88             | 0.41            | 3.5            |
+| 3/21/24   | 0.07               | 2010        | 36        | 29        | 81             | 0.37            | 3.6            |
+| 3/22/24   |                    | 1899        | 34        | 27        | 79             | 0.35            | 3.7            |
+| 3/23/24   | 0.06               | 1755        |           | 25        | 74             | 0.33            | 3.8            |
+
+---
+
+## **Medications (Active Orders)**
+
+- **Atenolol/Chlorthalidone** 50/25 mg PO daily (HOLD)
+- **Simvastatin** 10 mg PO daily (HOLD)
+- **Furosemide** 40 mg IV BID
+- **Naproxen** 220 mg PO PRN pain (HOLD)
+- **Leucovorin** 100 mg IV q2w (HOLD, consult Onc)
+- **Oxaliplatin** 50 mg IV q2w (HOLD, consult Onc)
+- **Acetaminophen** 650 mg PO q6h PRN pain
+- **Heparin** 5000u SQ q8h (HOLD, per Hgb drop)
+- **Pantoprazole** 40 mg IV daily
+
+---
+
+## **Imaging/Procedures**
+
+- **Echocardiogram (3/18/24):** LVEF 15%, severe global hypokinesis, moderate MR, RV normal.
+- **CXR (3/18/24):** Pulmonary edema, bilateral effusions.
+- **CT Abd/Pelvis (3/19/24):** Extensive hepatic and osseous mets, no active GI bleed.
+- **Impella CP Placement (3/18/24):** L femoral approach, no complications.
+
+---
+
+## **Vital Signs Summary** (past 24hr)
+
+| Time   | HR  | BP        | RR | SpO2 | Temp    |
+|--------|-----|-----------|----|------|---------|
+| 08:00  | 95  | 102/68    | 20 | 98%  | 36.8°C  |
+| 12:00  | 88  | 110/70    | 18 | 97%  | 36.5°C  |
+| 16:00  | 92  | 104/66    | 19 | 98%  | 36.7°C  |
+| 20:00  | 90  | 108/70    | 18 | 97%  | 36.6°C  |
+
+---
+
+## **Summary/Signout**
+85M with HFrEF, shock, AKI, severe anemia, metastatic colon ca, s/p Impella CP for hemodynamic support, weaning pressors, stable off vasopressors, now with improving UOP and labs. Family meeting pending for goals of care.  
+**To do:** Continue monitoring, extubate if stable, reinitiate anticoagulation if Hgb stable, reassess Impella daily.
+
+---
+
+**Physician:** L. Pennington, MD  
+**Date/Time:** 3/23/2024 09:13
+
+---

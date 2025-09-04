@@ -1,0 +1,136 @@
+**EPIC EHR - Inpatient Progress Note**  
+**Patient:** Zack Kertzmann  
+**MRN:** 00049631  
+**DOB:** 11/24/1934  
+**Sex:** Male  
+**Attending:** Dr. R. Flanders  
+**Date of Admission:** 04/18/2024  
+**Admitting Diagnosis:** Cardiogenic shock secondary to acute decompensated heart failure  
+**Service:** Cardiology ICU
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+Mr. Zack Kertzmann, an 89-year-old male with a history of chronic congestive heart failure (LVEF ~32%), obesity (BMI 30), prediabetes, anemia, and history of colon polyps (including prior colorectal malignancy), was admitted from the ED after presenting with progressive dyspnea, orthopnea, and lower extremity edema. He was found to be in acute decompensated heart failure with evidence of hypoperfusion and hypotension refractory to diuretics and vasodilators. He developed cardiogenic shock requiring vasopressor support and ultimately required placement of a temporary percutaneous left ventricular assist device (Impella CP) on hospital day 2 for hemodynamic stabilization.
+
+His course was notable for volume overload, acute kidney injury, multifactorial anemia, and delirium. He was managed in the CVICU for 7 days with gradual improvement, after which the Impella was weaned and removed. He transferred to the step-down unit on hospital day 10 for ongoing management.
+
+---
+
+### VITALS (Selected from ICU stay)
+| Date         | Temp (°C) | HR (bpm) | BP (mmHg) | RR (min) | SpO2 (%) | Pain (0-10) |
+|--------------|-----------|----------|-----------|----------|----------|-------------|
+| 4/18/2024 06:00 | 36.8      | 109      | 88/54     | 22       | 95       | 7           |
+| 4/19/2024 06:00 | 37.2      | 104      | 92/60     | 18       | 97       | 6           |
+| 4/20/2024 06:00 | 36.9      | 98       | 102/65    | 18       | 98       | 4           |
+| 4/21/2024 06:00 | 36.6      | 88       | 108/70    | 16       | 98       | 4           |
+| 4/23/2024 06:00 | 36.7      | 86       | 118/72    | 15       | 99       | 3           |
+
+---
+
+### LABS
+
+#### CBC + CHEM 7 (SELECTED)
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plts (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|------------|------------|------------|---------|-------------|-------------|------------|-------------|--------------|-------------|------------|-------------|
+| 4/18/24 06:15 | 7.3        | 11.2       | 33      | 389         | 137         | 4.6        | 110         | 22           | 26          | 1.28       | 118         |
+| 4/19/24 05:50 | 8.6        | 9.8        | 29      | 355         | 135         | 4.1        | 108         | 20           | 34          | 1.56       | 132         |
+| 4/20/24 06:20 | 7.5        | 8.9        | 27      | 319         | 134         | 4.0        | 106         | 22           | 36          | 1.64       | 109         |
+| 4/21/24 06:30 | 6.8        | 9.7        | 29      | 279         | 136         | 4.2        | 109         | 24           | 29          | 1.43       | 104         |
+| 4/22/24 06:10 | 7.2        | 10.6       | 32      | 265         | 137         | 4.0        | 108         | 25           | 21          | 1.21       | 98          |
+| 4/23/24 06:00 | 7.1        | 11.8       | 35      | 239         | 138         | 4.1        | 109         | 25           | 19          | 1.07       | 95          |
+
+#### ADDITIONAL LABS
+
+| Date       | NT-proBNP (pg/mL) | Troponin I (ng/mL) | ALT (U/L) | AST (U/L) | Alk Phos (U/L) | Total Bilirubin (mg/dL) | Albumin (g/dL) | INR  | Lactate (mmol/L) |
+|------------|-------------------|--------------------|-----------|-----------|----------------|------------------------|----------------|------|------------------|
+| 4/18/24    | 6800              | 0.06               | 38        | 29        | 54             | 1.2                    | 3.5            | 1.3  | 2.8              |
+| 4/20/24    | 5400              | 0.04               | 33        | 22        | 48             | 1.0                    | 3.7            | 1.2  | 1.9              |
+| 4/23/24    | 2200              | --                 | 28        | 18        | 45             | 0.7                    | 3.8            | --   | 1.2              |
+
+---
+
+### PAST MEDICAL HISTORY
+
+- **Cardiac:** Chronic HFrEF (LVEF 32%), hypertension, prediabetes, prior CHF admissions, NT-proBNP up to 6800 on admission
+- **GI:** Polyp of colon (multiple), recurrent rectal polyps, history of overlapping malignant neoplasm of colon (s/p resection 2012)
+- **Psych:** Major depressive disorder (on fluoxetine)
+- **Heme:** Anemia (chronic, multifactorial)
+- **Other:** Obesity (BMI 30+), gout, history of forearm fracture, history of ankle sprain, osteoporosis (T-score 0.3), chronic sinusitis
+
+---
+
+### HOSPITAL COURSE: DETAILED
+
+**Day 1 (4/18/24):**  
+Admitted with hypotension, tachycardia, pulmonary edema. CXR: bilateral pulmonary infiltrates, cardiomegaly. Echo: LVEF 32%, dilated LV, moderate MR, elevated filling pressures. Started on IV furosemide and dobutamine. Required norepinephrine for MAP >65.
+
+**Day 2:**  
+Progressed to worsening shock with oliguric renal failure (Cr up to 1.64). Lactate peaked at 2.8. Decision made for temporary mechanical circulatory support. Impella CP placed at bedside under fluoroscopic guidance. Hemodynamics improved, vasopressors weaned over next 24h.
+
+**Days 3-6:**  
+On Impella support. Gradual diuresis achieved (net negative 3.5L). Renal function improved with Cr trending down to baseline by day 6. Anemia worsened transiently (Hgb nadir 8.9) but stabilized without transfusion. Developed delirium (CAM-ICU positive), managed with non-pharmacologic measures. No bleeding or vascular complications.
+
+**Day 7:**  
+Impella weaned and removed. Cardiac output adequate on echo. Transitioned to oral diuretics and uptitrated guideline-directed medical therapy. Mobilized with PT.
+
+**Days 8-10:**  
+Transferred to step-down. Stable hemodynamics. No recurrent arrhythmias. Appetite poor, mild nausea. Ongoing iron supplementation for anemia.
+
+---
+
+### PROBLEM-BASED ASSESSMENT AND PLAN
+
+#### 1. **Acute on Chronic Systolic Heart Failure with Cardiogenic Shock**
+   - **Assessment:** Acute decompensation requiring temporary LVAD (Impella). Now off support, stable.
+   - **Plan:** Continue GDMT (metoprolol, ACE-I held for AKI, will reinitiate as tolerated), monitor volume status, daily weights, strict I/Os, repeat echo prior to discharge.
+
+#### 2. **Acute Kidney Injury (pre-renal, cardiorenal)**
+   - **Assessment:** Oliguric AKI, Cr up to 1.64, now improving.
+   - **Plan:** Monitor renal function, avoid nephrotoxins, adjust meds (ACE-I held), maintain euvolemia.
+
+#### 3. **Chronic Anemia**
+   - **Assessment:** Multifactorial (CKD, prior GI blood loss, chronic disease). Hgb nadir 8.9, no transfusion.
+   - **Plan:** Continue iron, folate, B12. Monitor for overt GI blood loss. Repeat CBC Q2d.
+
+#### 4. **History of Colon Polyps/Colorectal Malignancy**
+   - **Assessment:** No evidence of acute GI bleeding. S/p resection 2012.
+   - **Plan:** Outpatient GI follow-up for planned colonoscopy.
+
+#### 5. **Obesity / Prediabetes**
+   - **Assessment:** BMI 30.3, A1c 6.0%. 
+   - **Plan:** Diabetic diet, glucose monitoring, education. Endocrine consult for optimization.
+
+#### 6. **Major Depression**
+   - **Assessment:** On fluoxetine. Mild delirium during ICU stay.
+   - **Plan:** Continue home meds, psych consult for mood assessment prior to discharge.
+
+#### 7. **Delirium**
+   - **Assessment:** ICU delirium, likely multifactorial.
+   - **Plan:** Non-pharmacologic interventions, minimize sedatives, reorient, PT/OT.
+
+#### 8. **Other problems**
+   - **History of forearm fracture, ankle sprain:** No acute issues.
+   - **Chronic sinusitis:** No current infection, continue home meds PRN.
+   - **Osteoporosis:** Continue calcium/vit D, follow up with PCP.
+
+---
+
+### DISCHARGE PLANNING
+
+- Anticipated discharge to SNF in 2-3 days if stable.
+- Arrange home health nursing for CHF monitoring.
+- Outpatient cardiology and GI follow-up.
+- Ensure medication reconciliation and education for patient/family.
+
+---
+
+**Physician:**  
+Dr. R. Flanders, MD  
+Attestation: I have reviewed and agree with the above documentation.  
+
+---
+
+**End of Note**

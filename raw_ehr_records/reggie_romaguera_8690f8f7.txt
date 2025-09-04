@@ -1,0 +1,213 @@
+---
+
+**Patient Name:** Reggie Romaguera  
+**MRN:** 002938129  
+**DOB:** 2003-03-01 (21 y/o)  
+**Sex:** Male  
+**Admitting Service:** Cardiac ICU  
+**Attending:** Dr. A. Cardio  
+**Admission Date:** 2024-05-22  
+**Note Date:** 2024-06-01  
+**Allergies:** NKDA  
+**Code Status:** Full  
+**Primary Team:** Cardiology/Critical Care  
+**Consults:** Cardiac Surgery, Infectious Disease, Renal
+
+---
+
+### CHIEF COMPLAINT:
+Acute chest pain, shortness of breath, and syncope.
+
+---
+
+### HISTORY OF PRESENT ILLNESS:
+21-year-old previously healthy male with remote history of wrist sprain, presenting with 2 days of progressive shortness of breath, orthopnea, and an episode of syncope at home. On arrival to ED: tachycardic (HR 132), hypotensive (BP 82/55), cool extremities, O2 sat 92% RA. CXR: pulmonary edema. ECG: sinus tachycardia, non-specific ST changes. Troponin mildly elevated (see labs). Echo: severe global LV dysfunction (EF 12%). Cardiogenic shock diagnosed. Escalated to norepinephrine, dobutamine, then emergently cannulated for temporary LVAD (Impella CP) within 8 hours of admission.  
+
+Hospital course notable for:  
+- Ongoing hemodynamic instability, requiring escalation of vasopressors/inotropes.  
+- Multiorgan dysfunction (AKI, mild transaminitis, lactic acidosis).  
+- Infectious workup negative; blood cultures x2 no growth.  
+- Serial echocardiograms for LV recovery.  
+- Gradual weaning of vasopressors, Impella explant on HD #7.  
+- Complications: right radial arterial line occlusion, transient thrombocytopenia, mild delirium.  
+- Ongoing PT/OT.  
+
+---
+
+### MEDICAL HISTORY:
+- No known structural heart disease prior to this event.
+- Recent viral URI, 1 week prior to admission.
+- No DM, no HTN, no HLD.
+- No tobacco, EtOH, or illicit drug use.
+
+### SURGICAL HISTORY:
+- None.
+
+### FAMILY HISTORY:
+- Mother with hypertension.
+- Father: healthy.
+
+### SOCIAL HISTORY:
+- Lives with parents, college student.
+- No tobacco, EtOH, or drug use.
+
+### HOME MEDICATIONS:
+- Acetaminophen 160 mg PO PRN (for wrist sprain, not used recently).
+
+---
+
+### PHYSICAL EXAM (on ICU day 1):
+
+| Vital Sign          | Value         |
+|---------------------|--------------|
+| Temp                | 36.2 °C      |
+| HR                  | 132 bpm      |
+| BP                  | 82/55 mmHg   |
+| RR                  | 28           |
+| SpO2                | 92% RA       |
+| Weight              | 66.7 kg      |
+| Height              | 172.8 cm     |
+
+**Gen:** Ill-appearing, somnolent  
+**HEENT:** PERRL, MMM  
+**CV:** Tachycardic, S3, no murmurs  
+**Resp:** Tachypneic, crackles at bases  
+**Abd:** Soft, nontender  
+**Ext:** Cool, delayed cap refill, no edema  
+**Neuro:** Moves all extremities, AOx2
+
+---
+
+### ICU HOSPITAL COURSE SUMMARY
+
+| Hospital Day | Events/Interventions                                    |
+|--------------|--------------------------------------------------------|
+| 1            | Admitted in cardiogenic shock. Started norepi/dobutamine. Impella CP LVAD placed. Intubated for hypoxemia. |
+| 2-3          | Impella support. High-dose vasopressors. AKI develops (Cr peak 2.1). Lactic acid 7.2. Platelets drop to 83k. |
+| 4            | Hemodynamics improved. Vasopressors weaned. Extubated. Platelets recovering. |
+| 5-6          | Ongoing support. Echo: LV function improving. LFTs normalize. Mobilization started. |
+| 7            | Impella explanted. Monitored in ICU for 24 more hours. |
+| 8-10         | Transferred to stepdown. PT/OT, improving oral intake. |
+| 11           | Preparing for discharge. Echo: LVEF 38%. |
+
+---
+
+### LABS
+
+**CBC & CHEMISTRY (selected, see table for details):**
+
+| Date (HD) | WBC (k/uL) | Hgb (g/dL) | Plt (k/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|-----------|------------|------------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|
+| 1         | 7.4        | 14.2       | 391        | 137         | 4.6        | 104         | 18           | 12          | 1.1        | 98          |
+| 2         | 12.1       | 13.1       | 132        | 134         | 5.4        | 101         | 14           | 35          | 2.1        | 142         |
+| 3         | 10.3       | 12.9       | 83         | 136         | 5.1        | 103         | 15           | 38          | 2.0        | 129         |
+| 4         | 8.2        | 13.5       | 107        | 138         | 4.2        | 104         | 19           | 24          | 1.5        | 101         |
+| 5         | 7.8        | 14.1       | 159        | 139         | 4.0        | 105         | 22           | 18          | 1.2        | 99          |
+| 6         | 8.0        | 14.5       | 201        | 140         | 4.1        | 106         | 23           | 15          | 1.0        | 98          |
+| 7         | 7.9        | 14.7       | 234        | 139         | 4.2        | 105         | 23           | 14          | 1.0        | 99          |
+| 8         | 7.2        | 14.8       | 249        | 138         | 4.3        | 104         | 23           | 13          | 0.9        | 97          |
+| 9         | 7.0        | 14.9       | 251        | 137         | 4.2        | 104         | 23           | 13          | 0.9        | 100         |
+| 10        | 6.9        | 15.0       | 265        | 138         | 4.1        | 105         | 24           | 12          | 0.8        | 101         |
+
+**Additional Labs:**
+
+| Date (HD) | Troponin I (ng/mL) | BNP (pg/mL) | AST (U/L) | ALT (U/L) | Lactate (mmol/L) |
+|-----------|--------------------|-------------|-----------|-----------|------------------|
+| 1         | 0.19               | 2300        | 82        | 74        | 7.2              |
+| 2         | 0.15               | 2100        | 66        | 62        | 4.8              |
+| 3         | 0.08               | 1500        | 38        | 40        | 2.2              |
+| 4         | 0.04               | 980         | 21        | 20        | 1.1              |
+| 7         | 0.01               | 520         | 18        | 19        | 0.9              |
+
+*Some labs not drawn on all days. LFTs and cardiac markers trended as above.*
+
+---
+
+### MICROBIOLOGY
+
+- Blood cultures x2 on admission: No growth at 5 days.
+- UA: Negative.
+- Respiratory viral PCR: Negative.
+
+---
+
+### IMAGING
+
+- **Admission CXR:** Pulmonary edema, mild cardiomegaly.
+- **Echocardiogram (HD1):** Global severe hypokinesis, LVEF 12%, no LV thrombus.
+- **Echocardiogram (HD7):** LVEF 38%, mild MR, no pericardial effusion.
+
+---
+
+### PROCEDURES
+
+- Right femoral Impella CP LVAD placement (HD1)
+- Right radial arterial line (HD1, removed HD5)
+- Central venous catheter, right IJ (HD1)
+- Endotracheal intubation (HD1, extubated HD4)
+
+---
+
+## ASSESSMENT & PLAN
+
+**21-year-old male with new severe nonischemic cardiomyopathy (likely viral myocarditis) presenting in cardiogenic shock, requiring temporary mechanical circulatory support (Impella CP LVAD).**
+
+**Major Problems:**
+
+### 1. Cardiogenic Shock / Acute Decompensated Heart Failure  
+- Severe biventricular dysfunction, likely secondary to viral myocarditis (recent URI, negative ischemic/infectious workup).
+- Required Impella CP for LV support, vasopressors, inotropes.
+- Now off all vasoactive agents. LV function improving.
+- Plan: Continue guideline-directed medical therapy, close telemetry, repeat echo in 2 weeks, consider heart failure genetics panel.
+
+### 2. Acute Kidney Injury (AKI)  
+- Multifactorial (low flow, pressors, nephrotoxic exposure).
+- Peak Cr 2.1, now improved to baseline.
+- Plan: Monitor renal function, avoid nephrotoxins, maintain euvolemia.
+
+### 3. Thrombocytopenia  
+- Likely multifactorial (device, critical illness).
+- Platelets nadir 83k, now recovered.
+- Plan: Monitor CBC, hold heparin unless indicated, monitor for bleeding.
+
+### 4. Transaminitis  
+- Mild, likely shock liver.
+- LFTs normalized.
+- Plan: No further intervention.
+
+### 5. Delirium  
+- Fluctuating, improved off sedation.
+- Plan: Nonpharmacologic management, minimize sedatives.
+
+### 6. Deconditioning  
+- Bedrest, critical illness.
+- Plan: Daily PT/OT, nutrition optimization.
+
+### 7. Wrist Sprain (remote)  
+- Asymptomatic, no current issues.
+
+### 8. Pain Control  
+- Well controlled, acetaminophen PRN.
+
+### 9. Vascular Access Issues  
+- Right radial A-line occlusion, no sequelae.
+- Plan: Monitor distal perfusion.
+
+---
+
+### DISPOSITION
+- Continue cardiac rehab, close outpatient follow-up (HF, cardiac surgery).
+- Education on device/driving restrictions.
+- Family/patient counseling ongoing.
+- Anticipate discharge home in 24-48 hrs if stable.
+
+---
+
+### SIGNED:
+Dr. A. Cardio, MD  
+Critical Care/Cardiology  
+2024-06-01 15:28
+
+---
+
+**(End of Note)**

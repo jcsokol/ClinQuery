@@ -1,0 +1,157 @@
+---
+**Patient Name:** Omega Grimes  
+**MRN:** 00429381  
+**DOB:** 11/14/1973  
+**Sex:** Female  
+**Admit Date:** 04/02/2024  
+**Attending:** Dr. Sonia Patel  
+**Service:** Cardiac ICU  
+**Note Type:** ICU Daily Progress Note  
+**Date of Note:** 04/07/2024  
+---
+
+**Chief Complaint:**  
+Progressive dyspnea, chest pain, and hypotension in the setting of recent viral illness and history of gunshot wound.
+
+---
+
+**HOSPITAL COURSE SUMMARY:**  
+Omega Grimes is a 50-year-old female with PMHx significant for recent acute viral pharyngitis, recurrent viral sinusitis, and prior bullet wound (remote, right upper abdomen, 1997), presenting with 4 days of worsening shortness of breath, orthopnea, and lower extremity edema. She was initially admitted to the general medical floor for evaluation of viral myocarditis (suspected due to recent URI), but developed acute hypoxemic respiratory failure and hemodynamic compromise on hospital day 2. She was transferred to the ICU, where she rapidly deteriorated, developing cardiogenic shock with elevated lactate and evidence of end-organ hypoperfusion. After multidisciplinary discussion, a temporary percutaneous left ventricular assist device (Impella CP) was placed for circulatory support.
+
+Her course has been complicated by AKI (now improving), transaminitis (likely ischemic hepatitis), ongoing volume overload, and intermittent atrial fibrillation with RVR. She remains on broad spectrum antibiotics due to persistent leukocytosis and fevers. Cardiac MRI pending for further evaluation of myocarditis vs stress cardiomyopathy. No new neurologic deficits. Slow wean of vasopressors ongoing.
+
+---
+
+**VITALS (Most recent):**  
+- Temp: 37.2°C (oral)  
+- HR: 112 bpm (irregularly irregular)  
+- BP: 98/54 mmHg (on low-dose norepinephrine)  
+- RR: 19  
+- SpO2: 97% (2L NC)  
+- Pain: 3/10  
+- Weight: 37.3 kg  
+- Height: 145.9 cm  
+- BMI: 17.5 kg/m2
+
+---
+
+**LABS:**  
+*(Key: "--" = not collected)*
+
+| Date        | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | AST (U/L) | ALT (U/L) | Troponin (ng/mL) | Lactate (mmol/L) |
+|-------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-----------|-----------|------------------|------------------|
+| 4/2 AM      | 5.2        | 13.4       | 35.8    | 440        | 138         | 4.2        | 103         | 22           | 14          | 0.9        | 38        | 34        | <0.01            | 1.1              |
+| 4/3 AM      | 7.9        | 12.1       | 32.0    | 392        | 136         | 4.8        | 102         | 19           | 24          | 1.6        | 121       | 108       | 0.17             | 3.8              |
+| 4/4 AM      | 10.3       | 11.3       | 29.6    | 376        | 137         | 5.3        | 100         | 17           | 34          | 2.4        | 194       | 164       | 0.23             | 4.2              |
+| 4/5 AM      | 8.7        | 11.7       | 31.0    | 355        | 139         | 4.0        | 104         | 23           | 28          | 1.7        | 93        | 78        | 0.19             | 2.0              |
+| 4/6 AM      | 6.1        | 13.0       | 35.2    | 371        | 138         | 3.9        | 104         | 25           | 18          | 1.2        | 45        | 36        | <0.01            | 1.3              |
+| 4/7 AM      | --         | 12.7       | 34.1    | --         | 137         | 4.2        | --          | 24           | 16          | 1.1        | --        | 32        | --               | 1.0              |
+
+---
+
+**IMAGING/PROCEDURES:**  
+- **CXR 4/3:** Mild pulmonary edema, no acute infiltrates.  
+- **ECHO 4/3:** LVEF ~18%, global hypokinesis, mild MR, RV normal size/function, no pericardial effusion.  
+- **Coronary angio 4/3:** Non-obstructive CAD.  
+- **Impella CP placement 4/3:** Successful, no vascular complications.  
+- **CT Abd/Pelvis 4/4:** Old right hepatic lobe bullet fragment, no acute bleeding.
+
+---
+
+**ASSESSMENT & PLAN:**
+
+**1. Cardiogenic Shock secondary to suspected viral myocarditis**  
+- On Impella CP (since 4/3). Flows 3.2-3.6 L/min.  
+- Weaning vasopressors (norepinephrine now 0.03 mcg/kg/min).  
+- Plan: Continue hemodynamic monitoring, daily TTE for LV recovery, consider explant if LVEF >35% and stable.  
+- Cardiac MRI pending for myocarditis characterization.
+
+**2. Acute Kidney Injury (KDIGO Stage II), likely pre-renal**  
+- Peak Cr 2.4, now 1.1.  
+- Plan: IVF guided by CVP/volume status, minimize nephrotoxins, monitor UOP, daily labs.
+
+**3. Ischemic Hepatitis ("shock liver")**  
+- Transaminitis peaked on 4/4, now improving.  
+- Plan: Supportive, monitor LFTs, avoid hepatotoxic medications.
+
+**4. Atrial Fibrillation with RVR**  
+- Intermittent, rate controlled with IV metoprolol.  
+- Plan: Continue PRN, monitor QTc, consider amiodarone if refractory.
+
+**5. Volume Overload**  
+- Mild pulmonary edema, +2 LE edema.  
+- Plan: IV furosemide as tolerated, daily weights, strict I/O.
+
+**6. Infectious Concerns**  
+- Persistent fevers, leukocytosis.  
+- On empiric vancomycin/cefepime.  
+- Plan: Continue cultures, de-escalate abx if cultures negative x72hr.
+
+**7. History of bullet wound (remote, R hepatic lobe)**  
+- No acute findings on CT.  
+- Plan: None.
+
+**8. Nutrition**  
+- Underweight (BMI 17.5).  
+- Plan: Consult Nutrition, high-calorie, high-protein enteral feeds.
+
+**9. Pain**  
+- Mild, mostly MSK.  
+- Plan: Acetaminophen PRN, avoid NSAIDs.
+
+**10. DVT prophylaxis**  
+- On SQ heparin, SCDs.
+
+**11. Psychosocial**  
+- Supportive care, SW consult for family.
+
+---
+
+**MEDICATIONS (Active):**  
+- Norepinephrine 0.03 mcg/kg/min IV  
+- Metoprolol 2.5 mg IV q6h PRN  
+- Vancomycin 1g IV q12h  
+- Cefepime 2g IV q8h  
+- Furosemide 20mg IV q12h  
+- Amoxicillin-Clavulanate 250/125 mg PO BID (for prior sinusitis, now d/c)  
+- Acetaminophen 650mg PO q6h PRN  
+- Heparin 5000U SQ q8h  
+- Pantoprazole 40mg IV q24h
+
+---
+
+**ALLERGIES:**  
+No known drug allergies.
+
+---
+
+**SOCIAL HISTORY:**  
+- Lives alone; no tobacco, EtOH, or illicit drug use.  
+- Employed as a librarian.
+
+---
+
+**CODE STATUS:**  
+Full code.
+
+---
+
+**ATTENDING PHYSICIAN:**  
+Dr. Sonia Patel
+
+---
+
+**NEXT STEPS:**  
+- Continue Impella support, daily labs, strict I/O, monitor for complications (bleeding, hemolysis, limb ischemia).  
+- Repeat echo tomorrow.  
+- Cardiology, ID, Nutrition, SW following.  
+- Discuss with family daily.
+
+---
+
+**SIGNATURE:**  
+Sonia Patel, MD  
+Cardiac ICU  
+04/07/2024 07:43
+
+---

@@ -1,0 +1,181 @@
+---
+**Epic EHR – ICU Progress Note**  
+**Patient Name:** Star Kulas  
+**MRN:** 1002938476  
+**DOB:** 11/25/1953 (Age: 70)  
+**Sex:** Female  
+**Admission Date:** 2024-04-16  
+**Attending:** Dr. L. Mendelson  
+**Service:** MICU  
+**Note Date:** 2024-04-19  
+---
+
+### CHIEF COMPLAINT  
+Progressive SOB, chest heaviness, and confusion.
+
+---
+
+### HISTORY OF PRESENT ILLNESS  
+Star Kulas is a 70-year-old female with a past medical history significant for non-small cell lung cancer (s/p multiple cycles of cisplatin/paclitaxel), chronic and acute sinusitis, obesity (BMI ~30), anemia, and recent diagnosis of Stage I NSCLC, who presented to the ED three days ago with acute onset dyspnea, orthopnea, and progressive confusion. She was found hypoxic (SpO₂ 86% RA) and tachypneic. On arrival, she was hypotensive (BP 78/48), with JVD, cool extremities, and bibasilar crackles. Initial labs were notable for AKI (Cr 3.4 mg/dL), anemia (Hb 11.3), and elevated BNP. CXR: Large right lower lobe mass, pulmonary edema.
+
+She rapidly deteriorated with evidence of cardiogenic shock (SBP <80 mmHg, MAP <60, lactate 5.8), requiring norepinephrine and dobutamine. TTE: Severely reduced LVEF (~18%), global hypokinesis, no tamponade, moderate MR. Cardiology consulted; presumed acute decompensated heart failure (likely chemo-induced, ischemic, or malignant infiltration). Due to persistent shock refractory to pressors, a percutaneous left ventricular assist device (Impella CP) was placed on hospital day 1. She was transferred to MICU for further management.
+
+---
+
+### HOSPITAL COURSE (to date)
+- **Day 1:** Admitted to MICU. Required high-flow O₂, started on vasopressors/inotropes. Impella CP placed for cardiogenic shock. Chemotherapy held. Nephrology consulted for AKI.
+- **Day 2:** Gradual improvement in MAP, weaned off norepinephrine. Oliguria persists. Labs: persistent AKI, mild transaminitis. Developed fever (Tmax 38.7°C), blood cultures sent, empiric vanc/cefepime started.
+- **Day 3:** Improved mentation, still on Impella support. Extubated to HFNC. Vasopressors off. AKI improving. Echo: LVEF up to 30%. Oncology consulted; chemo on hold pending cardiac recovery.
+- **Day 4:** Impella weaned, device removed. Stable hemodynamics. O₂ sat 95% on 2L NC. Monitoring for arrhythmias. Renal function continues to recover.
+
+---
+
+### PAST MEDICAL HISTORY
+- Non-small cell lung cancer (right lower lobe, Stage I, s/p multiple cycles cisplatin/paclitaxel)
+- Anemia (likely multifactorial)
+- Obesity (BMI ~30)
+- Chronic/acute sinusitis, bronchitis, viral pharyngitis
+- CKD (new, likely ATN vs. cardiorenal)
+- Suspected lung cancer (h/o)
+- No prior cardiac history
+
+### PAST SURGICAL HISTORY
+- Port-a-cath placement
+- Right lung biopsy (2023)
+
+### FAMILY HISTORY
+- Mother: breast ca, deceased age 71  
+- Father: MI, deceased age 66
+
+### SOCIAL HISTORY
+- Former smoker (35 pack-years, quit 2018)
+- No ETOH, no illicit drugs
+- Lives with spouse
+
+### ALLERGIES
+- NKDA
+
+### MEDICATIONS (On Admission)
+- Acetaminophen 325 mg PO PRN
+- Amox/Clav 250/125 mg PO BID (recent)
+- Cisplatin 50 mg IV (cycles)
+- Paclitaxel 100 mg IV (cycles)
+
+---
+
+## VITALS (Selected)
+
+| Date       | Temp (°C) | HR (bpm) | BP (mmHg) | RR | SpO₂ (%) | Weight (kg) | Pain (0-10) |
+|------------|-----------|----------|-----------|----|----------|-------------|-------------|
+| 4/16/2024  | 37.8      | 110      | 78/48     | 28 | 86       | 85.2        | 7           |
+| 4/17/2024  | 38.7      | 104      | 88/56     | 26 | 90       | 84.8        | 6           |
+| 4/18/2024  | 37.4      | 92       | 98/62     | 22 | 94       | 84.5        | 4           |
+| 4/19/2024  | 36.9      | 88       | 108/70    | 18 | 95       | 84.3        | 3           |
+
+---
+
+## LABS
+
+**CBC/Chemistries**
+
+| Date       | WBC   | Hgb  | Hct   | Plt   | Na   | K    | Cl   | CO₂  | BUN  | Cr   | Glu  | Ca   |
+|------------|-------|------|-------|-------|------|------|------|------|------|------|------|------|
+| 4/16/2024  | 7.0   | 11.3 | 34.9  | 386   | 141  | 3.8  | 103  | 20.7 | 11.7 | 3.40 | 67   | 9.9  |
+| 4/17/2024  | 8.6   | 10.9 | 33.7  | 352   | 138  | 4.1  | 107  | 22.2 | 15.1 | 2.90 | 85   | 9.7  |
+| 4/18/2024  | 5.2   | 10.1 | 31.2  | 298   | 137  | 4.4  | 108  | 23.8 | 14.0 | 2.10 | 94   | -    |
+| 4/19/2024  | 6.0   | 10.7 | 32.9  | 274   | 139  | 4.0  | 104  | 24.1 | 13.0 | 1.80 | 106  | 9.8  |
+
+*Some labs omitted for brevity.*
+
+**Additional Labs**
+
+| Date       | AST  | ALT  | Alk Phos | Alb  | T. bili | Troponin | BNP   | Lactate |
+|------------|------|------|----------|------|---------|----------|-------|---------|
+| 4/16/2024  | 30   | 35   | 83       | 3.6  | 0.7     | 0.09     | 1580  | 5.8     |
+| 4/17/2024  | 38   | 44   | 89       | 3.2  | 0.8     | <0.01    | 1240  | 2.2     |
+| 4/18/2024  | -    | 41   | 90       | 3.4  | 0.7     | <0.01    | 810   | 1.1     |
+| 4/19/2024  | 29   | 33   | 86       | 3.8  | 0.6     | <0.01    | 720   | 0.8     |
+
+---
+
+## MICROBIOLOGY
+- Blood cultures x2: pending
+- Sputum cx: negative
+- Urine culture: negative
+
+---
+
+## ECG/ECHO
+- ECG: Sinus tach, non-specific ST-T changes, no acute ischemia
+- TTE (4/16): LVEF 18%, global hypokinesis, mild LV dilation, mod MR, RVSP 42 mmHg
+- TTE (4/18): LVEF improved to 30%, MR mild, no pericardial effusion
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock, s/p temporary LVAD (Impella CP) placement**
+   - Likely multifactorial (chemo-induced cardiomyopathy vs. ischemic vs. malignant infiltration)
+   - Impella placed day 1; now weaned and removed
+   - MAP stable, off pressors/inotropes
+   - Monitoring for arrhythmias, daily EKG
+   - Cardiology f/u, consider GDMT for HF as tolerated
+   - Daily weights, strict I/Os, diuresis as able
+
+**2. Acute Kidney Injury (stage 3, now improving)**
+   - Likely cardiorenal, possibly nephrotoxic from chemo
+   - Nephrology following; Cr trending down
+   - IVF held, careful fluid balance
+   - Monitor lytes, daily chem7
+
+**3. Non-small Cell Lung Cancer (Stage I, RLL)**
+   - s/p multiple cycles cisplatin/paclitaxel (on hold)
+   - Oncology consulted, resume chemo after cardiac recovery
+   - Imaging pending for restaging
+
+**4. Anemia (chronic, multifactorial)**
+   - Hb stable (10–11)
+   - Monitor for GI bleed, transfuse if <7 or symptomatic
+   - Iron studies pending
+
+**5. Acute on Chronic Sinusitis, Bronchitis**
+   - Treated with amox/clav, clinical improvement
+   - Monitor for secondary infection
+
+**6. Obesity (BMI 30)**
+   - DVT ppx with SCDs, LMWH held due to AKI
+
+**7. Infection/Sepsis rule out**
+   - Febrile on day 2, blood cultures sent, empiric vanc/cefepime
+   - No obvious source, abx to narrow if cultures negative
+
+**8. Pain/Delirium**
+   - Moderate pain, managed with acetaminophen
+   - Delirium improved with metabolic correction
+
+**9. Nutrition**
+   - NPO initially, now on cardiac diet, PO intake improving
+
+**10. Disposition**
+   - Remain in MICU for monitoring, anticipate transfer to telemetry in 24–48h if stable
+
+---
+
+**To Do:**  
+- Continue telemetry
+- Daily labs: CBC, chem7, LFTs
+- Monitor for arrhythmia, recurrent shock
+- Cardiology, nephrology, oncology continue to follow
+- Physical therapy to evaluate
+- Discuss advanced directives/goals of care
+
+---
+
+**Authentication**  
+L. Mendelson, MD  
+Attending Critical Care  
+2024-04-19 13:47
+
+---
+
+**End of Note**

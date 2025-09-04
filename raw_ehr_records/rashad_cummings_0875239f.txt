@@ -1,0 +1,153 @@
+```
+====================================================================
+Rashad Cummings (MRN: 0093847)   DOB: 11/29/2001  Sex: M   Age: 22
+====================================================================
+Attending: Dr. J. Mendoza   Service: Cardiac ICU 
+Admit Date: 4/14/2024      Encounter: 003-2024-ICU
+====================================================================
+
+**Chief Complaint:**  
+Shortness of breath, chest pain, and dizziness  
+
+**HPI:**  
+22-year-old male with hx of ADHD, recent acute and viral sinusitis, presented with 3 days of progressive SOB, orthopnea, and pleuritic chest pain. On arrival, found to be hypotensive (SBP 82 mmHg), tachycardic (HR 122), tachypneic (RR 26), and hypoxic (SpO2 88% RA). Denied recent travel, leg swelling, or sick contacts. PMHx noncontributory for cardiac disease. No regular meds. No allergies.
+
+**Hospital Course Summary:**  
+- Day 1: Admitted to ICU for cardiogenic shock. Initial workup: CXR with pulmonary edema, EKG: sinus tachycardia, troponin mildly elevated. Echo: EF 17%, global hypokinesis, no valve vegetations, LV dilation.  
+- Day 2: Worsening shock refractory to pressors; emergently placed on Impella CP (percutaneous LVAD) for mechanical circulatory support.  
+- Day 3-5: Gradual hemodynamic improvement, weaned off vasopressors. Developed transaminitis, AKI (Cr peak 2.3), and mild thrombocytopenia.  
+- Day 6: Impella explanted. Echo: EF improved to 35%.  
+- Day 7-10: Continued supportive care, renal recovery, transitioned to oral heart failure therapy.  
+- Day 11: Transferred to telemetry, then discharged home with close cardiology follow-up.
+
+====================================================================
+**Problem List**
+1. Cardiogenic shock, likely acute myocarditis (s/p temporary LVAD)
+2. Acute decompensated heart failure (new onset, severe LV dysfunction)
+3. Acute kidney injury, likely multifactorial (cardiorenal, hypoperfusion)
+4. Transaminitis (shock liver vs. drug-induced)
+5. Recent sinusitis (bacterial and viral, improving)
+6. ADHD (not on therapy)
+7. Thrombocytopenia (transient, resolved)
+8. Anxiety sxs (situational)
+9. Pain (chest, mild, resolving)
+
+====================================================================
+**Assessment and Plan**
+
+**1. Cardiogenic Shock / Acute Myocarditis**
+- Presentation and echo consistent with new, severe LV systolic dysfunction.
+- Etiology: Suspect viral myocarditis (recent viral URI, no CAD risk).
+- Management:  
+  - Temporary mechanical support (Impella CP) placed Day 2, explanted Day 6.
+  - IV vasopressors (norepinephrine, dobutamine) weaned off by Day 5.
+  - Serial Echos: EF improved from 17% to 35%.
+  - Supportive: Diuresis, low salt diet, strict I/O, daily weights.
+  - Cardiac MRI planned outpatient.
+  - Autoimmune/viral panel sent (see labs).
+  - Plan: Continue GDMT, close f/u, restrict activity.
+
+**2. Acute Decompensated Heart Failure**
+- New diagnosis, EF <20% on admit, improved to 35% post-recovery.
+- Diuresed aggressively—net negative 4.8L over first 72h.
+- Started on carvedilol, sacubitril/valsartan, low-dose spironolactone.
+- Cardiology f/u for titration.
+
+**3. Acute Kidney Injury**
+- Likely pre-renal (hypoperfusion, high-dose diuretics).
+- Cr peaked at 2.3 (baseline ~1.0), improved to 1.2 by discharge.
+- Monitored UOP, avoided nephrotoxins.
+- No dialysis needed.
+
+**4. Transaminitis**
+- ALT/AST peaked at 412/378 on Day 3, normalized by Day 9.
+- Likely shock liver.
+- Hepatitis panel negative.
+- Monitored for coagulopathy.
+
+**5. Sinusitis (recent)**
+- Received ceftriaxone + doxycycline on admit, then stopped as afebrile, negative cultures, symptoms resolved.
+
+**6. ADHD**
+- No acute management required. Education on med options outpatient.
+
+**7. Thrombocytopenia**
+- Platelets dropped to 79k on Day 4, recovered after Impella explant.
+- No bleeding, no HIT.
+- Monitored CBC.
+
+**8. Anxiety**
+- Supportive measures, psychiatry consult. No medications required.
+
+**9. Pain**
+- Mild chest discomfort, managed with acetaminophen.
+
+====================================================================
+**Vitals (Selected):**
+
+| Date           | Temp (°C) | HR   | BP        | RR  | SpO2 | Pain |
+|----------------|-----------|------|-----------|-----|------|------|
+| 4/14/24 04:30  | 37.1      | 122  | 82/48     | 26  | 88%  | 5    |
+| 4/15/24 06:00  | 36.8      | 112  | 94/55     | 22  | 93%  | 3    |
+| 4/17/24 07:00  | 37.4      | 94   | 105/60    | 18  | 97%  | 2    |
+| 4/21/24 08:00  | 36.9      | 78   | 114/69    | 16  | 98%  | 1    |
+
+====================================================================
+**Laboratory Data**
+
+CBC / Chem-7 (Selected)
+
+| Date        | WBC   | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|-------------|-------|------|------|-------|------|------|------|------|------|------|------|
+| 4/14/24     | 6.9   | 13.9 | 48.4 | 372   | 139  | 4.2  | 104  | 22   | 18   | 1.1  | 108  |
+| 4/15/24     | 8.6   | 12.2 | 42.1 | 219   | 137  | 3.6  | 101  | 19   | 28   | 1.7  | 124  |
+| 4/16/24     | 10.2  | 11.8 | 38.8 | 126   | 136  | 3.2  | 99   | 17   | 35   | 2.3  | 142  |
+| 4/17/24     | 9.4   | 12.0 | 39.9 | 79    | 138  | 3.9  | 102  | 23   | 29   | 1.9  | 99   |
+| 4/19/24     | 7.8   | 12.5 | 41.5 | 154   | 141  | 4.1  | 105  | 25   | 19   | 1.3  | 91   |
+| 4/21/24     | 6.4   | 13.1 | 43.8 | 208   | 140  | 4.3  | 106  | 27   | 16   | 1.2  | 102  |
+
+Additional Labs:
+- Troponin I: 0.27 (D1), 0.31 (D2), 0.15 (D3), <0.01 (D7)
+- BNP: 2,760 (D1), 1,210 (D7)
+- AST: 378 (D3), 62 (D6), 33 (D9)
+- ALT: 412 (D3), 75 (D6), 36 (D9)
+- Hepatitis serologies: Negative
+- ANA, ENA, dsDNA: Negative
+- Blood cultures: Negative x2
+
+====================================================================
+**Imaging & Procedures**
+
+- CXR (4/14/24): Pulmonary edema, mild cardiomegaly
+- Echo (D1): EF 17%, global hypokinesis, LV dilation
+- Echo (D6): EF 35%, improved wall motion
+- Cardiac MRI: Pending outpatient
+- Impella CP (percutaneous LVAD) placed via R femoral artery, explanted after 4 days
+
+====================================================================
+**Medications (During Admission)**
+- Norepinephrine (IV, titrated off by D5)
+- Dobutamine (IV, stopped D4)
+- Furosemide (IV, transitioned to PO)
+- Carvedilol (started D8)
+- Sacubitril/valsartan (started D9)
+- Spironolactone (started D10)
+- Acetaminophen (prn)
+- Ceftriaxone, doxycycline (admit only, stopped D2)
+
+====================================================================
+**Discharge Instructions**
+- Continue carvedilol, sacubitril/valsartan, spironolactone
+- Strict sodium restriction
+- Cardiology follow-up in 1 week
+- No strenuous activity for 6 weeks
+- Monitor for recurrent chest pain, SOB, palpitations
+- Outpatient MRI scheduled
+
+====================================================================
+**Signatures**
+Attending: J. Mendoza, MD        Date: 4/25/2024
+ICU Resident: S. Patel, MD       Date: 4/25/2024
+
+====================================================================
+```

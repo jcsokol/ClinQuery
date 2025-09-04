@@ -1,0 +1,165 @@
+```
+----------------------------------------------------------------------
+Patient Name: Billie Buckridge              MRN: 002981273
+DOB: 08/06/1917 (Age: 106)                 Sex: Male
+Admission Date: 2024-05-19                  Attending: Dr. S. Patel
+----------------------------------------------------------------------
+
+CHIEF COMPLAINT:
+Progressive dyspnea, orthopnea, and lower extremity edema.
+
+HISTORY OF PRESENT ILLNESS:
+106-year-old male with extensive PMHx including HTN, DM2 with neuropathy/retinopathy/CKD, tobacco use, prior CVA, anemia, metabolic syndrome, and stage 1 NSCLC s/p multiple cycles of cisplatin/paclitaxel, presenting with 2 weeks of worsening SOB, reduced exercise tolerance, and swelling of legs. He was initially admitted to the floor but rapidly developed hypotension, hypoxia, and evidence of cardiogenic shock. Required transfer to ICU and urgent placement of a percutaneous left ventricular assist device (Impella CP) after failed response to inotropes and pressors.
+
+HOSPITAL COURSE SUMMARY:
+Day 1-2: On admission, hypoxic on 4L NC, tachycardic (HR 116), BP 98/56, temp 37.8°C. Labs significant for mild AKI on CKD, hyperglycemia, anemia (Hb 8.3), lactic acidosis, elevated BNP (3123), troponin 0.18 rising to 0.33. Echo: severe global LV hypokinesis, EF 15%, RV moderately reduced, no tamponade, no significant valvular dz. CXR: mild pulmonary edema, RUL mass unchanged. 
+Day 2-3: Progressive hypotension, escalating O2 requirements, deteriorating renal function. Started on norepinephrine, dobutamine, furosemide drip. Cardiogenic shock refractory to medical management, emergent Impella CP placed via LFA. 
+Day 3-7: Gradual hemodynamic stabilization, improved renal perfusion. Diuresed 6L net negative, extubated on Day 5. Weaned off pressors Day 6. Impella removed Day 7. Echo EF improved to 23%. Remained on telemetry, transferred to stepdown Day 9.
+Day 8-13: Complicated by delirium, UTI. Completed antibiotics. Oncology consulted re: NSCLC. Family discussion held re: goals of care, patient wishes to continue full therapy.
+
+----------------------------------------------------------------------
+MEDICATIONS ON ADMISSION:
+1. Atenolol/Chlorthalidone 50/25 mg daily
+2. Nicotine patch 24hr
+3. Humulin 70/30, sliding scale
+4. Aspirin 81 mg daily
+5. Acetaminophen prn
+6. Multiple cycles of cisplatin/paclitaxel (see med admin record)
+7. Dextromethorphan/doxylamine/acetaminophen prn
+8. Furosemide drip (ICU)
+9. Norepinephrine (ICU)
+10. Dobutamine (ICU)
+11. Ceftriaxone IV (UTI, day 9-12)
+
+----------------------------------------------------------------------
+ALLERGIES:
+NKDA
+
+----------------------------------------------------------------------
+VITALS (SELECTED):
+| Date       | Temp (C) | HR  | BP       | RR | SpO2  | Weight (kg) |
+|------------|----------|-----|----------|----|-------|-------------|
+| 5/19/24    | 37.8     | 116 | 98/56    | 23 | 92%   | 90.2        |
+| 5/20/24    | 38.2     | 122 | 84/49    | 26 | 89%   | 89.9        |
+| 5/21/24    | 37.9     | 110 | 102/67   | 20 | 95%   | 87.4        |
+| 5/23/24    | 36.9     | 88  | 123/74   | 18 | 97%   | 84.1        |
+| 5/27/24    | 37.1     | 77  | 132/68   | 16 | 96%   | 83.6        |
+
+----------------------------------------------------------------------
+LABS (CBC, CHEM7, SELECT OTHERS):
+
+CBC
+| Date     | WBC      | Hgb   | Hct   | Plt   | ANC   |
+|----------|----------|-------|-------|-------|-------|
+| 5/19/24  | 4.5      | 8.3   | 26.1  | 342   | 3.2   |
+| 5/20/24  | 3.9      | 7.6   | 23.4  | 299   | 2.8   |
+| 5/21/24  | 4.0      | 8.2   | 25.2  | 297   | -     |
+| 5/23/24  | 4.8      | 9.4   | 29.0  | 355   | 3.5   |
+| 5/27/24  | 5.1      | 10.0  | 31.2  | 371   | 3.8   |
+
+CHEM7
+| Date     | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glucose |
+|----------|------|------|------|------|------|------|---------|
+| 5/19/24  | 142  | 5.0  | 106  | 23   | 31   | 1.7  | 312     |
+| 5/20/24  | 144  | 5.4  | 108  | 19   | 36   | 2.2  | 288     |
+| 5/21/24  | 140  | 4.8  | 110  | 25   | 25   | 1.4  | 168     |
+| 5/23/24  | 141  | 4.1  | 104  | 27   | 21   | 1.1  | 138     |
+| 5/27/24  | 143  | 4.2  | 103  | 24   | 19   | 1.0  | 122     |
+
+CARDIAC
+| Date     | Troponin I | BNP      | CK-MB   |
+|----------|------------|----------|---------|
+| 5/19/24  | 0.18       | 3123     | 7.2     |
+| 5/20/24  | 0.33       | 4021     | 8.4     |
+| 5/23/24  | 0.12       | 1801     | 3.9     |
+
+LIVER PANEL (selected)
+| Date     | AST  | ALT  | AlkPhos | Tbili |
+|----------|------|------|---------|-------|
+| 5/19/24  | 37   | 29   | 91      | 1.2   |
+| 5/20/24  | 42   | 34   | 107     | 1.4   |
+| 5/23/24  | 28   | 22   | 72      | 0.9   |
+
+----------------------------------------------------------------------
+PROBLEM-BASED ASSESSMENT & PLAN
+
+1. **Cardiogenic Shock, Severe Systolic HF, Temporary LVAD (Impella CP)**
+   - PMHx: HTN, DM2, prior CVA, CKD, chemo, anemia
+   - Worsening decompensated HF, shock, AKI, lactic acidosis
+   - Managed with pressors/inotropes, then Impella CP (day 2-7)
+   - Plan: Continue HF guideline therapy, daily weights, strict I/O, slow diuresis, monitor for arrhythmia, DVT ppx, echo scheduled, consider CRT/ICD if recurrent decompensation
+
+2. **Acute-on-CKD, Stage 1**
+   - Baseline Cr ~1.2, peaked at 2.2 with shock, now improving
+   - Plan: Avoid nephrotoxins, renally dose meds, monitor lytes, nephrology to follow
+
+3. **Diabetes Mellitus, Complicated**
+   - DM2 with neuropathy, retinopathy, nephropathy
+   - Hyperglycemia on admission, improved with insulin drip then sliding scale
+   - Plan: Endo to re-evaluate regimen, maintain BG <180, monitor for hypoglycemia
+
+4. **Anemia, multifactorial (chronic dz, chemo, acute blood loss r/o)**
+   - Downtrending hgb on admission (7.6-8.3), stable after ICU course
+   - Plan: Continue to monitor, iron studies pending, consider EPO if persistent
+
+5. **Non-Small Cell Lung Cancer, Stage 1**
+   - S/p multiple cycles cisplatin/paclitaxel, no acute oncologic complications
+   - Plan: Oncology following, consider next steps after cardiac stabilization
+
+6. **Delirium, ICU**
+   - Hyperactive, fluctuating, improved after extubation
+   - Plan: Sleep hygiene, minimize deliriogenic meds, reorient frequently
+
+7. **UTI (new, day 9)**
+   - Positive urine cx, fever, leukocytosis, treated with ceftriaxone x4d
+   - Plan: Monitor for recurrence, remove foley ASAP
+
+8. **Hypertension, Atherosclerosis**
+   - On home BB/thiazide, hold as needed for low BP
+   - Plan: Re-titrate as BP improves, add ACEI if tolerated
+
+9. **Dyslipidemia, Metabolic Syndrome**
+   - Elevated LDL, TG, low HDL
+   - Plan: Statin when able to swallow, low-fat/low-carb diet, continue lifestyle mods
+
+10. **History of CVA**
+    - No new neuro deficits, on ASA 81 mg
+    - Plan: Continue ASA, PT/OT eval
+
+11. **Tobacco Use**
+    - On nicotine patch
+    - Plan: Continue patch, offer cessation support
+
+12. **Other**
+    - Chronic pain: None reported, acetaminophen prn
+    - History of ankle sprain: no acute issues
+    - Prior viral URI/sinusitis/bronchitis: resolved
+
+----------------------------------------------------------------------
+DISPOSITION:
+- Stable for stepdown unit, continue close monitoring
+- PT/OT to evaluate for rehab needs
+- Goals of care discussed; patient desires full code
+
+----------------------------------------------------------------------
+PHYSICIAN ATTESTATION:
+I have reviewed the above, discussed with the multidisciplinary team, and will continue to follow closely.
+
+/s/ S. Patel, MD
+Date: 2024-05-27
+----------------------------------------------------------------------
+
+LABS - FULL DETAIL (partial, see flowsheets for more):
+
+| Date     | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | AST  | ALT  | Glu  |
+|----------|------|------|------|------|------|------|------|------|------|------|------|------|------|
+| 5/19/24  | 4.5  | 8.3  | 26.1 | 342  | 142  | 5.0  | 106  | 23   | 31   | 1.7  | 37   | 29   | 312  |
+| 5/20/24  | 3.9  | 7.6  | 23.4 | 299  | 144  | 5.4  | 108  | 19   | 36   | 2.2  | 42   | 34   | 288  |
+| 5/21/24  | 4.0  | 8.2  | 25.2 | 297  | 140  | 4.8  | 110  | 25   | 25   | 1.4  | -    | -    | 168  |
+| 5/23/24  | 4.8  | 9.4  | 29.0 | 355  | 141  | 4.1  | 104  | 27   | 21   | 1.1  | 28   | 22   | 138  |
+| 5/27/24  | 5.1  | 10.0 | 31.2 | 371  | 143  | 4.2  | 103  | 24   | 19   | 1.0  | -    | -    | 122  |
+
+----------------------------------------------------------------------
+
+**See scanned notes, flowsheets, and med admin record for additional details.**
+```

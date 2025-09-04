@@ -1,0 +1,171 @@
+---
+**Patient Name:** Vernie Von  
+**MRN:** 00423814  
+**DOB:** 1945-06-13 (78 y/o F)  
+**Admit Date:** 2024-03-16  
+**Attending:** Dr. S. Patel  
+**Service:** Cardiology ICU  
+**Note Date:** 2024-03-23  
+**Encounter:** ICU Admission  
+
+---
+
+**Chief Complaint:**  
+Progressive dyspnea, orthopnea, and lower extremity edema over 2 weeks, now with acute decompensation.
+
+---
+
+**HPI:**  
+78F with known history of chronic CHF (EF ~42%), HTN, obesity, prediabetes, remote hx of colon polyps, and prior OB history (miscarriage, tubal pregnancy), presented to ED with 4-day history of worsening SOB, PND, and weight gain. She had been on Lasix at home, but noted decreased urine output. In ED, found to be hypoxic and hypertensive (BP 186/94), tachypneic, with JVD, bibasilar crackles, and 2+ pitting edema. CXR with pulmonary edema. BNP markedly elevated. Echo: LVEF 34%, moderate MR, RV mildly reduced.  
+
+Despite IV diuresis, she developed hypotension and rising creatinine (AKI). Cardiogenic shock diagnosed. Temporary percutaneous LVAD (Impella CP) placed for hemodynamic support. Now day 7 of ICU stay.
+
+---
+
+**HOSPITAL COURSE:**  
+
+**Day 1 (3/16):**  
+- Admitted from ED to ICU for acute decompensated HFrEF, hypertensive emergency, AKI.  
+- IV Lasix, nitroglycerin, BiPAP started.  
+- Worsening hypotension, MAP <60, escalating pressors (norepi).  
+- Transferred to CICU.  
+- Bedside echo: LVEF 34%, dilated LV, moderate MR.  
+- Labs: BNP 1771, Cr 0.9 → 1.7, lactate 2.4.  
+- Decision for mechanical support; Impella CP placed via R femoral artery.
+
+**Day 2-3:**  
+- Hemodynamics stabilized on Impella CP, pressors weaned.  
+- Aggressive IV diuresis, net negative 3L.  
+- UOP improved.  
+- AKI stabilizing (Cr peaked at 1.9, downtrending).  
+- NT-proBNP 2050.  
+- Monitored for hemolysis, limb ischemia.
+
+**Day 4-5:**  
+- Respiratory status improved, off BiPAP.  
+- Mobilization with PT.  
+- Weaned off Impella support on day 5, device explanted.  
+- Transitioned to oral HF regimen (Lasix, metoprolol succinate, spironolactone).  
+- Stable rhythm, no VT/VF.
+
+**Day 6-7:**  
+- Diuresis ongoing.  
+- Creatinine returned to baseline (0.7).  
+- Vitals stable, ambulating with assistance.  
+- Plan for transfer to telemetry.
+
+---
+
+### VITALS SUMMARY (ICU, 3/16–3/23)
+
+| Date   | Temp (°C) | HR (bpm) | BP (mmHg) | RR (/min) | O2 Sat (%) | Weight (kg) |
+|--------|-----------|----------|-----------|-----------|------------|-------------|
+| 3/16   | 37.6      | 110      | 186/94    | 24        | 89% (RA)   | 75.3        |
+| 3/17   | 37.2      | 102      | 155/85    | 20        | 94% (2L NC)| 74.7        |
+| 3/18   | 36.8      | 92       | 128/74    | 18        | 98%        | 73.6        |
+| 3/20   | 36.9      | 86       | 120/68    | 16        | 98%        | 72.9        |
+| 3/22   | 37.1      | 80       | 122/70    | 16        | 99%        | 72.2        |
+
+---
+
+### LABS
+
+#### Chem 7 / CBC (ICU Days 1-7)
+
+| Date   | Na  | K   | Cl  | CO2 | BUN | Cr  | Glu | WBC  | Hgb  | Hct  | Plt  |
+|--------|-----|-----|-----|-----|-----|-----|-----|------|------|------|------|
+| 3/16   | 139 | 5.2 | 102 | 24  | 18  | 0.9 | 98  | 4.9  | 14.9 | 41   | 221  |
+| 3/17   | 137 | 4.8 | 101 | 22  | 24  | 1.3 | 108 | 6.1  | 13.8 | 39   | 210  |
+| 3/18   | 136 | 4.6 | 99  | 23  | 27  | 1.7 | 122 | 9.2  | 13.6 | 38   | 200  |
+| 3/19   | 137 | 4.3 | 100 | 23  | 29  | 1.9 | 115 | 8.5  | 13.2 | 37   | 184  |
+| 3/20   | 138 | 4.1 | 103 | 25  | 22  | 1.5 | 104 | 7.2  | 13.8 | 39   | 206  |
+| 3/21   | 139 | 4.3 |     | 24  | 19  | 1.2 | 102 | 5.6  | 14.1 | 40   | 199  |
+| 3/22   |     | 4.2 | 103 |     | 17  | 0.9 | 96  | 4.7  | 14.7 | 41   |      |
+| 3/23   | 140 | 4.5 | 101 | 25  | 16  | 0.7 | 91  | 4.4  | 15.0 | 43   | 215  |
+
+#### Other Labs
+
+- **NT-proBNP:** 3/16: 1771 pg/mL → 3/18: 2050 pg/mL → 3/22: 1550 pg/mL  
+- **Troponin I:** 3/16: 0.05 ng/mL (no dynamic rise)  
+- **Liver panel:** 3/17: AST 18, ALT 29, Alk Phos 98, Tbili 0.3  
+- **HbA1c:** 6.4% (elevated, prediabetes)  
+- **UA:** Negative for protein, blood  
+- **Stool hemoccult:** Neg
+
+---
+
+### IMAGING / PROCEDURES
+
+- **CXR (3/16):** Pulmonary vascular congestion, bilateral pleural effusions  
+- **Echocardiogram (3/16):** LVEF 34%, mod MR, RV mild dysfunction, no LV thrombus  
+- **Impella CP (3/16):** R femoral artery insertion, position confirmed by fluoro  
+- **Echo (3/22):** LVEF 42%, improved, mild MR
+
+---
+
+### MEDICATIONS (ICU)
+
+- Lasix IV/PO transitioned to PO  
+- Metoprolol succinate 100 mg QD  
+- Spironolactone 25 mg QD (added day 5)  
+- Aspirin 81 mg QD (started day 2)  
+- Atorvastatin 20 mg QHS  
+- IV fluids prn  
+- Acetaminophen prn  
+- PRN sliding scale insulin
+
+---
+
+## **Assessment & Plan**
+
+**1. Cardiogenic Shock, Acute on Chronic HFrEF**  
+- Temporary percutaneous LVAD (Impella CP) placed day 1 for hemodynamic support, explanted day 5  
+- Cause: likely acute decompensation in setting of volume overload, poorly controlled HTN  
+- Now stable on oral HF regimen, weaned off pressors and Impella  
+- Continue aggressive diuresis, daily weights, goal euvolemia  
+- Monitor for arrhythmias, renal dysfunction  
+- Cardiac rehab consult
+
+**2. Chronic Systolic Heart Failure (EF 34–42%)**  
+- Guideline-directed medical therapy: B-blocker, ACEi/ARB (to start as BP tolerates), aldactone  
+- Monitor volume status, electrolytes  
+- Continue home BP log  
+- Outpatient HF follow-up
+
+**3. Hypertension**  
+- Now controlled on metoprolol, plan to restart chlorthalidone as outpatient  
+- Reinforce sodium restriction
+
+**4. Obesity (BMI 30+)**  
+- Dietician consult  
+- Weight loss counseling
+
+**5. Prediabetes (HbA1c 6.4%)**  
+- Monitor glucoses, no need for DM meds at this time  
+- Lifestyle modification
+
+**6. Colon Polyps, s/p removal**  
+- F/u GI for surveillance colonoscopy
+
+**7. AKI on CKD, resolved**  
+- Monitor renal function, adjust meds as needed  
+- Avoid nephrotoxins
+
+**8. PMH: OB history (miscarriage, tubal pregnancy)**  
+- No acute issues
+
+**9. Recent viral URIs**  
+- Resolved, no current infection
+
+---
+
+**Dispo:**  
+- Stable for stepdown/telemetry floor, anticipate DC home within 48h  
+- F/u: Cardiology, HF clinic, PCP, GI
+
+---
+
+**Signed:** Dr. S. Patel, MD  
+**Date/Time:** 2024-03-23 09:14
+
+---

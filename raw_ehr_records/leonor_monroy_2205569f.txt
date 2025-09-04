@@ -1,0 +1,190 @@
+**LEONOR MONROY**  
+MRN: 00298472  
+DOB: 07/18/1977 (Age: 46)  
+Sex: Female  
+Date of Admission: 05/23/2024  
+Attending: Dr. Patel, MD  
+Admitting Diagnosis: Cardiogenic shock secondary to acute decompensated heart failure  
+Service: MICU  
+Allergies: NKDA
+
+---
+
+# History of Present Illness
+
+46-year-old female with PMH significant for seizure disorder (on clonazepam), remote history of single seizure, chronic pain (foot laceration, prior wrist fracture/subluxation), and recurrent viral respiratory infections (acute viral pharyngitis x2, viral sinusitis, bronchitis), who presented to ED with 3 days of progressive dyspnea, orthopnea, and lower extremity swelling. She reports a viral URI 2 weeks prior. Family called EMS after she was found lethargic and tachypneic at home.
+
+On arrival: HR 122, BP 85/60, RR 28, O2 sat 89% on RA, T 37.2°C, cool extremities, JVD present, bibasilar crackles, 2+ pitting edema to knees, S3 gallop. CXR: Pulmonary edema. Labs: Elevated troponin, BNP 2780, creatinine 2.1 (baseline 0.8), lactate 4.8. Echo: EF 15%, severe global hypokinesis, no LV thrombus.
+
+She rapidly deteriorated with worsening hypotension and altered mental status, requiring intubation and vasopressors, and was transferred to the MICU. Due to ongoing cardiogenic shock refractory to maximal medical therapy, a percutaneous left ventricular assist device (Impella CP) was placed on hospital day 1.
+
+---
+
+# Hospital Course Summary
+
+- **HD 1:** Intubated for hypoxic respiratory failure. Started on norepinephrine, dobutamine. Impella CP placed via femoral approach. Started on heparin drip.
+- **HD 2-4:** Gradual improvement in mentation and urine output. Weaned off norepinephrine by HD 3. Remained on dobutamine. Renal function improving.
+- **HD 5:** Impella CP weaned and explanted. Extubated to HFNC, transitioned to oral heart failure regimen.
+- **HD 6-7:** Mobilizing with PT/OT. Stable on oral medications. Discharged to home with close cardiology and neurology follow-up.
+
+---
+
+# Problem-Based Assessment & Plan
+
+---
+
+## 1. Cardiogenic Shock / Acute Decompensated Heart Failure
+
+- **Assessment:** 46F with new severe systolic dysfunction (EF 15%), likely viral myocarditis vs. idiopathic non-ischemic cardiomyopathy, presenting in shock.
+- **Plan:**
+  - Impella CP placed HD1, removed HD5
+  - Initially required vasopressors/inotropes, now weaned
+  - Diuresis with IV furosemide, transitioned to PO
+  - Initiate guideline-directed medical therapy (GDMT): carvedilol, sacubitril/valsartan, spironolactone
+  - Strict I/Os, daily weights
+  - Cardiac MRI and outpatient heart failure clinic arranged
+  - Anticoagulation for Impella, now D/C’d
+
+## 2. Acute Kidney Injury (AKI)
+
+- **Assessment:** Likely pre-renal from shock, improved with volume and cardiac support
+- **Plan:**
+  - Monitor renal function, electrolytes
+  - Avoid nephrotoxins
+  - Renal dose adjustments as needed
+
+## 3. Respiratory Failure
+
+- **Assessment:** Intubated for hypoxia, pulmonary edema. Extubated HD5.
+- **Plan:**
+  - Pulmonary toilet, incentive spirometry
+  - Monitor for secondary infection
+
+## 4. Seizure Disorder
+
+- **Assessment:** No witnessed seizures this admission; on home clonazepam
+- **Plan:**
+  - Continue home clonazepam
+  - EEG if any events
+  - Neurology f/u
+
+## 5. Pain Management/Chronic Injuries
+
+- **Assessment:** History of wrist fracture, foot laceration
+- **Plan:**
+  - Continue acetaminophen/ibuprofen PRN
+  - PT/OT for mobility
+
+## 6. Viral Infections (Past)
+
+- **Assessment:** No signs of active infection currently
+- **Plan:** Monitor for infectious complications
+
+## 7. Secondary Prevention
+
+- **Plan:**
+  - Aspirin 81 mg daily (secondary prevention)
+  - Smoking cessation counseling (denies current tobacco)
+  - Vaccinations up to date
+
+## 8. Contraception
+
+- **Assessment:** On Norinyl (combined OCP)
+- **Plan:** Continue unless contraindicated
+
+## 9. DVT Prophylaxis
+
+- **Plan:** SCDs, ambulation. Heparin DVT ppx now resumed.
+
+---
+
+# Medications on Admission
+
+| Medication                        | Dose/Route    | Frequency        | Indication                |
+|------------------------------------|--------------|------------------|---------------------------|
+| Ibuprofen                         | 100 mg PO    | PRN              | Pain                      |
+| Acetaminophen                     | 325 mg PO    | PRN              | Pain/Fever                |
+| Aspirin                           | 81 mg PO     | Daily            | Secondary prevention      |
+| Clonazepam [Klonopin]             | 0.5 mg PO    | BID              | Seizure disorder          |
+| Norinyl 1+50                      | 1 tab PO     | Daily            | Contraception             |
+| Furosemide                        | 40 mg IV/PO  | BID              | Volume overload           |
+| Carvedilol                        | 3.125 mg PO  | BID              | HF GDMT                   |
+| Sacubitril/valsartan              | 24/26 mg PO  | BID              | HF GDMT                   |
+| Spironolactone                    | 25 mg PO     | Daily            | HF GDMT                   |
+| Heparin drip                      | variable     | Infusion         | Impella anticoagulation   |
+
+---
+
+# Vital Signs (selected)
+
+| Date       | HR | BP        | RR | Temp (C) | SpO2   |
+|------------|----|-----------|----|----------|--------|
+| 5/23/24    |122 | 85/60     | 28 | 37.2     | 89% RA |
+| 5/24/24    |110 | 94/68     | 22 | 37.1     | 95% 2L |
+| 5/25/24    | 98 | 102/74    | 18 | 37.4     | 97% 2L |
+| 5/27/24    | 84 | 112/78    | 14 | 36.9     | 98% RA |
+
+---
+
+# Laboratory Data
+
+### CBC & Chemistries
+
+| Date    | WBC  | Hgb | Hct | Plt | Na  | K   | Cl  | CO2 | BUN | Cr  | Glu | Ca  |
+|---------|------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|5/23/24  | 10.2 |12.4 |38.8 |418  | 132 | 5.1 | 98  | 21  | 36  |2.1  | 167 |8.7  |
+|5/24/24  | 11.7 |11.8 |36.5 |390  | 134 | 4.3 | 102 | 19  | 28  |1.7  | 143 |8.6  |
+|5/25/24  | 9.4  |12.9 |39.4 |377  | 136 | 4.1 | 101 | 20  | 19  |1.2  | 119 |8.9  |
+|5/26/24  |      |     |     |     |     |     |     |     |     |     |     |     |
+|5/27/24  | 7.8  |13.1 |40.2 |336  | 138 | 4.0 | 99  | 22  | 14  |0.9  | 101 |8.8  |
+
+### Additional Labs
+
+| Date    | Troponin I | BNP   | Lactate | AST | ALT | Alk Phos | Total Bili |
+|---------|------------|-------|---------|-----|-----|----------|------------|
+|5/23/24  | 0.68       | 2780  | 4.8     | 64  | 57  | 112      | 1.8        |
+|5/24/24  | 0.41       | 2100  | 2.2     | 35  | 31  | 98       | 1.2        |
+|5/25/24  | 0.19       | 980   | 1.1     | 27  | 22  | 94       | 0.9        |
+|5/27/24  | <0.01      | 430   | 0.7     | 21  | 17  | 90       | 0.7        |
+
+---
+
+# Imaging
+
+- **CXR (5/23/24):** Pulmonary edema, mild cardiomegaly, no consolidation
+- **Echo (5/23/24):** LVEF 15%, severe diffuse hypokinesis, mild MR, RV normal, no thrombus
+
+---
+
+# Procedures
+
+- **5/23/24:** Intubation for hypoxic respiratory failure
+- **5/23/24:** Impella CP placement (femoral)
+- **5/25/24:** Right IJ central line, arterial line
+- **5/27/24:** Impella explantation, extubation
+
+---
+
+# Disposition
+
+Discharged home on HD7 in stable condition. F/u with heart failure clinic in 1 week; neurology f/u in 2 weeks.
+
+---
+
+# Additional Notes
+
+- PT/OT: Mobilizing independently with supervision
+- Social work: Lives with family, no home health needs at this time
+- Diet: Cardiac/renal, 2g Na, fluid restriction 1.5L/d
+
+---
+
+# Signature
+
+Patel, MD  
+Attending, MICU  
+05/30/2024
+
+---
+
+**End of Note**

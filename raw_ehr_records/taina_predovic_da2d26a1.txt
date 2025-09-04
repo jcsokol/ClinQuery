@@ -1,0 +1,176 @@
+---
+**Patient Name:** Taina Predovic  
+**MRN:** 10239874  
+**DOB:** 08/03/1997 (26 years old)  
+**Sex:** Female  
+**Admission Date:** 03/19/2024  
+**Attending:** Dr. K. Standish  
+**Service:** Medical ICU  
+**Admitting Dx:** Cardiogenic shock, s/p temporary LVAD (Impella CP) placement  
+**Allergies:** NKDA  
+
+---
+
+## CHIEF COMPLAINT
+Progressive SOB, chest pain, and presyncope.
+
+---
+
+## HPI
+
+26-year-old F with h/o HTN, prior concussion, remote rotator cuff injury, and recent viral URI, p/w 3 days of worsening SOB, orthopnea, and chest tightness. She presented to the ED after a syncopal episode. Initial evaluation notable for hypotension (BP 78/44), tachycardia, and hypoxia. ECG: NSR, T-wave inversions V2-V5. High-sensitivity troponin elevated. CXR: pulmonary edema. Echo: severe global hypokinesis, LVEF 15%. Cardiogenic shock diagnosed, transferred to MICU, started on dobutamine and norepinephrine, with rapid deterioration. Emergent placement of Impella CP for hemodynamic support.   
+
+PMH notable for:  
+- Hypertension (on HCTZ)  
+- Multiple viral upper respiratory infections (recent)  
+- Remote rotator cuff injury  
+- Second degree burns (remote)  
+- Normal pregnancy x2, no complications  
+- Acute bronchitis, viral sinusitis, viral pharyngitis (recurrent)  
+- No known cardiac history prior to this admission
+
+---
+
+## HOSPITAL COURSE
+
+**03/19/2024 (Day 0):**  
+Admitted for cardiogenic shock. Intubated for hypoxic respiratory failure. Vasopressors initiated. Cardiology consulted. Emergent Impella CP LVAD placed via right femoral artery. Initial stabilization achieved.
+
+**03/20/2024 (Day 1):**  
+Remained intubated, on Impella support. Hemodynamics improved (MAP 68-72). Lactate trended down from 5.2 to 2.1. Serial troponins peaked at 12,312 ng/L. Echo: persistent severe LV systolic dysfunction. Mild transaminitis. Renal function stable.  
+
+**03/21/2024 (Day 2):**  
+Extubated to high-flow nasal cannula. Impella flows weaned. Vasopressors off. Developed mild delirium, managed with reorientation and haloperidol PRN.
+
+**03/22/2024 (Day 3):**  
+Impella removed after successful weaning. Echo: LVEF improved to 30%. Diuresed for ongoing volume overload.  
+
+**03/23/2024 (Day 4):**  
+Transitioned to step-down unit. Started on GDMT for new-onset HFrEF. Mobilizing with PT/OT.
+
+---
+
+## VITAL SIGNS (selected values)
+
+| Date       | Temp (C) | HR (bpm) | RR (/min) | BP (mmHg) | SpO2 (%) | Pain |
+|------------|----------|----------|-----------|-----------|----------|------|
+| 3/19/24 AM | 37.8     | 122      | 28        | 78/44     | 88       | 7    |
+| 3/20/24 AM | 37.2     | 98       | 18        | 104/59    | 95       | 2    |
+| 3/21/24 PM | 36.8     | 92       | 16        | 110/70    | 98       | 1    |
+| 3/22/24 AM | 37.1     | 85       | 14        | 112/68    | 97       | 1    |
+| 3/23/24 AM | 36.9     | 80       | 12        | 118/70    | 99       | 0    |
+
+---
+
+## LABS
+
+### CBC & CHEMISTRY
+
+| Date       | WBC  | Hgb  | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|------|------|-------|-------|------|------|------|------|------|------|------|
+| 3/19/24 AM | 15.2 | 14.9 | 37.7  | 225   | 134  | 4.7  | 99   | 18   | 24   | 1.2  | 121  |
+| 3/20/24 AM | 12.8 | 13.7 | 34.1  | 210   | 137  | 4.3  | 102  | 21   | 19   | 1.1  | 109  |
+| 3/21/24 AM | 10.1 | 12.8 | 32.2  | 195   | 139  | 4.1  | 101  | 22   | 15   | 1.0  | 106  |
+| 3/22/24 AM |  8.6 | 12.3 | 31.0  | 189   | 140  | 4.0  | 102  | 23   | 14   | 0.9  | 103  |
+| 3/23/24 AM |  7.9 | 12.1 | 30.8  | 184   | 142  | 4.2  | 103  | 24   |      | 0.8  | 98   |
+
+### ADDITIONAL LABS
+
+| Date       | Troponin (ng/L) | BNP (pg/mL) | Lactate (mmol/L) | AST (U/L) | ALT (U/L) | ALK P (U/L) | TBili (mg/dL) |
+|------------|-----------------|-------------|------------------|-----------|-----------|-------------|--------------|
+| 3/19/24    | 7,203           | 3,890       | 5.2              | 93        | 111       | 140         | 1.8          |
+| 3/20/24    | 12,312          | 4,420       | 3.1              | 120       | 143       | 151         | 2.2          |
+| 3/21/24    | 9,011           | 4,000       | 2.1              | 101       | 130       | 120         | 1.3          |
+| 3/22/24    | 2,120           | 2,900       | 1.1              | 68        | 95        | 103         | 0.9          |
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. Cardiogenic Shock, s/p Impella CP Placement
+- **Assessment:** Severe acute LV systolic dysfunction, likely viral myocarditis vs. stress-induced (Takotsubo) cardiomyopathy. Required mechanical circulatory support.  
+- **Plan:**  
+  - Impella CP placed, successfully weaned and removed  
+  - Continue GDMT for HFrEF (metoprolol succ, sacubitril-valsartan, spironolactone)  
+  - Monitor for arrhythmia/recurrence  
+  - Cardiac MRI pending for etiology  
+  - Cardiac rehab referral
+
+### 2. Acute Hypoxic Respiratory Failure, s/p Intubation  
+- **Assessment:** Secondary to pulmonary edema and shock.  
+- **Plan:**  
+  - Off vent, on O2 PRN  
+  - Diurese to euvolemia  
+  - Daily chest PT  
+  - Monitor for aspiration
+
+### 3. Acute Kidney Injury (resolved)  
+- **Assessment:** Likely pre-renal from shock, improved with perfusion.  
+- **Plan:**  
+  - Monitor renal function  
+  - Avoid nephrotoxins  
+  - Maintain adequate MAP
+
+### 4. Transaminitis  
+- **Assessment:** Likely ischemic hepatitis during low-flow state, now improving.  
+- **Plan:**  
+  - Trending LFTs  
+  - No hepatotoxins  
+  - GI consult if worsens
+
+### 5. Hypertension  
+- **Assessment:** Off antihypertensives during shock; will need re-initiation as tolerated.  
+- **Plan:**  
+  - Restart HCTZ, titrate as tolerated  
+  - Add ACEi/ARB as above  
+  - Monitor BP
+
+### 6. Delirium  
+- **Assessment:** Likely multifactorial (ICU, sedatives, shock).  
+- **Plan:**  
+  - Reorient  
+  - Minimize sedatives  
+  - Haldol PRN
+
+### 7. Remote Rotator Cuff Injury, Burns, Concussion  
+- **Assessment:** Not contributing to current illness.  
+- **Plan:**  
+  - PT/OT for shoulder mobility  
+  - Routine follow-up as outpatient
+
+### 8. Recurrent Viral URIs/Sinusitis/Pharyngitis  
+- **Assessment:** Recent viral illness may have triggered cardiac event.  
+- **Plan:**  
+  - Monitor for secondary infection  
+  - Supportive care
+
+### 9. Contraception/Pregnancy  
+- **Assessment:** On multiple contraceptives, not pregnant.  
+- **Plan:**  
+  - Continue home regimen  
+  - Counseling at discharge
+
+---
+
+## DISCHARGE PLANNING
+
+- Anticipate discharge home in 2-3 days  
+- Needs close cardiology f/u  
+- Cardiac rehab referral  
+- Home health for PT/OT  
+- Medication reconciliation pending
+
+---
+
+**Providers:**  
+Dr. K. Standish (Attending)  
+Dr. J. Lee (Cardiology)  
+Dr. M. Patel (MICU Fellow)  
+
+---
+
+**Signed:**  
+Dr. K. Standish, MD  
+03/23/2024 15:19
+
+---

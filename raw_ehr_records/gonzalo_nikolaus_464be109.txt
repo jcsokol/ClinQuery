@@ -1,0 +1,182 @@
+---
+
+**Patient Name:** Gonzalo Nikolaus  
+**MRN:** 01937856  
+**DOB:** 1997-01-17 (27 years old)  
+**Sex:** Male  
+**Date of Admission:** 2024-05-15  
+**Date of Note:** 2024-05-22  
+**Attending:** Dr. Mary Chen, MD  
+**Consults:** Cardiology, Infectious Disease, PT/OT, Nutrition  
+**Location:** Cardiovascular ICU, Bed 5  
+
+---
+
+### CHIEF COMPLAINT  
+Progressive dyspnea, orthopnea, and syncope.
+
+---
+
+### HISTORY OF PRESENT ILLNESS  
+27-year-old male with a past medical history notable for recurrent upper respiratory tract infections, previously healthy, presented to the ED with 1 week of worsening shortness of breath, paroxysmal nocturnal dyspnea, and two syncopal episodes. He reported pleuritic chest pain, subjective fevers, and malaise. He denied any prior cardiac history, illicit drug use, or recent travel. On arrival, he was tachycardic to 132 bpm, hypotensive (SBP 78 mmHg), febrile to 38.7°C, and hypoxic to 88% on room air. Initial labs revealed leukocytosis, elevated troponin, and lactic acidosis. CXR demonstrated pulmonary edema. Echocardiogram revealed severely reduced LVEF (~15%) with global hypokinesis, no significant valvulopathy. Emergent transfer to the cardiovascular ICU for management of cardiogenic shock was initiated.
+
+Despite aggressive medical therapy including inotropes (dobutamine, milrinone), vasopressors, and diuresis, he developed worsening end-organ hypoperfusion and escalating oxygen requirements. Due to refractory cardiogenic shock, a left-sided percutaneous ventricular assist device (Impella CP) was placed at bedside on hospital day 2. Patient stabilized hemodynamically but continued to require critical care support. Extensive infectious workup was pursued; blood cultures positive for Streptococcus pyogenes; suspicion for acute fulminant myocarditis secondary to strep infection.
+
+---
+
+### PAST MEDICAL HISTORY  
+- Streptococcal pharyngitis, multiple episodes  
+- Acute bronchitis, viral sinusitis  
+- Wrist sprain (remote)  
+- No known cardiac disease prior to this admission  
+
+### PAST SURGICAL HISTORY  
+- None  
+
+### MEDICATIONS ON ADMISSION  
+- Penicillin V potassium 250 mg PO BID  
+- Acetaminophen 325 mg PO PRN  
+
+### ALLERGIES  
+- NKDA
+
+---
+
+### SOCIAL HISTORY  
+- Lives alone in apartment  
+- No tobacco, no alcohol, no illicit drug use  
+- Works as freelance graphic designer  
+- No recent travel  
+
+### FAMILY HISTORY  
+- Father: alive, HTN  
+- Mother: alive, hypothyroid  
+- No known familial cardiomyopathy  
+
+---
+
+### PHYSICAL EXAM (ICU Day 7)  
+- **General:** Intubated, sedated, on mechanical ventilation, appears critically ill  
+- **HEENT:** Oropharynx clear, ETT in place  
+- **CV:** Tachycardic, S1/S2, no murmurs/rubs/gallops, Impella hum noted  
+- **Resp:** Decreased breath sounds at bases, mild rales  
+- **Abd:** Soft, NT/ND, bowel sounds present  
+- **Ext:** No edema, pulses 2+  
+- **Neuro:** Sedated, moves all extremities to pain  
+- **Skin:** No rashes, no peripheral stigmata of endocarditis  
+
+---
+
+### VITAL SIGNS (Selected)  
+| Date       | Temp (°C) | HR | BP        | RR | SpO2 | Weight (kg) |
+|------------|-----------|----|-----------|----|------|-------------|
+| 5/15/2024  | 38.7      | 132| 78/44     | 28 | 88%  | 68.9        |
+| 5/16/2024  | 37.9      | 110| 92/58     | 24 | 94%  | 68.5        |
+| 5/18/2024  | 37.0      | 95 | 108/66    | 18 | 97%  | 68.2        |
+| 5/20/2024  | 36.8      | 87 | 116/72    | 16 | 98%  | 67.8        |
+
+---
+
+### LABS
+
+#### CBC + CHEM7 (Selected Values)
+| Date       | WBC    | Hgb   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|--------|-------|-------|------|------|------|------|------|------|------|
+| 5/15/2024  | 17.2   | 13.6  | 227   | 131  | 3.9  | 98   | 19   | 22   | 1.5  | 142  |
+| 5/16/2024  | 15.6   | 12.8  | 198   | 134  | 4.2  | 101  | 18   | 29   | 2.1  | 156  |
+| 5/17/2024  | 12.9   | 12.3  | 174   | 137  | 4.0  | 100  | 20   | 27   | 1.8  |      |
+| 5/18/2024  | 10.4   | 12.1  | 162   | 139  | 4.3  | 104  | 21   |      | 1.3  | 124  |
+| 5/19/2024  | 8.7    | 12.2  | 158   |      | 4.1  | 106  | 23   | 17   | 1.1  | 102  |
+| 5/21/2024  | 7.1    | 12.9  | 164   | 142  |      | 108  | 24   | 14   | 0.9  | 98   |
+
+#### OTHER LABS  
+| Date       | Troponin I | BNP   | Lactate | AST  | ALT  | Alk Phos | Total Bili | INR  |
+|------------|------------|-------|---------|------|------|----------|------------|------|
+| 5/15/2024  | 3.2        | 1440  | 5.8     | 61   | 42   | 89       | 1.5        | 1.2  |
+| 5/16/2024  | 2.7        | 2100  | 4.2     | 76   | 58   | 106      | 1.7        | 1.4  |
+| 5/18/2024  | 1.1        | 1880  | 1.9     | 44   | 33   | 72       | 1.1        | 1.1  |
+| 5/20/2024  | 0.4        | 910   | 1.1     | 38   | 27   | 65       | 0.8        | 1.0  |
+
+---
+
+### MICROBIOLOGY  
+- Blood cultures x2: **Streptococcus pyogenes** (day 1)  
+- Respiratory viral panel: Negative  
+- Urine antigens (Legionella, Strep pneumo): Negative  
+
+---
+
+## ASSESSMENT & PLAN
+
+**27yo M with previously good health, presenting with fulminant myocarditis and cardiogenic shock, likely post-streptococcal, now s/p temporary LVAD (Impella CP) placement, improving.**
+
+---
+
+### 1. Cardiogenic Shock (likely fulminant myocarditis, Strep pyogenes)  
+- Required mechanical circulatory support for refractory shock  
+- Impella CP placed ICU day 2, currently at P6 support  
+- Closely monitoring for device complications (hemolysis, limb ischemia, infection)  
+- Wean inotropes as tolerated, daily TTE for function  
+- Cardiology following  
+- Plan for gradual Impella wean, reassess native LV function  
+
+### 2. Acute Heart Failure  
+- LVEF 15% on presentation, improved to 38% by day 6  
+- On IV diuretics (furosemide), strict I/Os  
+- Salt/fluid restriction  
+- Transition to oral HF regimen as tolerated (ACEi, BB)  
+
+### 3. Sepsis (Strep pyogenes bacteremia)  
+- Completed 7 days IV penicillin G  
+- Monitor for secondary infections, repeat cultures negative  
+- ID following, no evidence of endocarditis  
+
+### 4. Acute Kidney Injury (resolved)  
+- Initial Cr 2.1, improved to 0.9 by day 7  
+- Likely multifactorial: hypoperfusion, nephrotoxic meds  
+- Renal dosing for all meds, monitor lytes  
+
+### 5. Liver Injury (shock liver pattern, resolved)  
+- Initial transaminitis, rapidly improving  
+- Supportive care  
+
+### 6. Respiratory Failure  
+- Intubated for hypoxic respiratory failure, now on weaning settings  
+- SBT planned for tomorrow  
+- CXR improving, no evidence of pneumonia  
+
+### 7. Nutrition  
+- Enteral feeds, advancing as tolerated  
+- Monitor prealbumin, daily weights  
+
+### 8. DVT Prophylaxis  
+- SCDs, heparin SQ BID  
+
+### 9. Pain/Agitation  
+- On fentanyl/propofol, daily sedation vacation  
+- No pain behaviors noted  
+
+### 10. Disposition  
+- Remain in CVICU, anticipate transfer to stepdown within 48-72h if stable  
+- Multidisciplinary rehab planning
+
+---
+
+### **Significant Events**  
+- 5/15: Presented in shock, started on vasoactives  
+- 5/16: Impella CP placed  
+- 5/18: Extubation trial failed, re-intubated  
+- 5/20: Marked improvement in cardiac function, diuresed 3L net negative  
+- 5/21: Tolerating wean from Impella, stable labs  
+
+---
+
+**Physician:**  
+Mary Chen, MD  
+Cardiology/Intensive Care
+
+---
+
+**NOTE:** For full medication administration record, device settings, and imaging, see supplemental tabs.
+
+---

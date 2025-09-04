@@ -1,0 +1,119 @@
+```
+===============================================================================
+Epic EHR - Patient Chart
+===============================================================================
+PATIENT NAME: Morton Kunze
+MRN: 00458129
+DOB: 11/24/2006    SEX: Male
+ADMIT DATE: 4/12/2024
+ATTENDING: Dr. J. R. Voss
+===============================================================================
+
+Reason for Admission:
+---------------------
+15 y/o male with PMH notable for obesity, recent acute bronchitis, and viral pharyngitis, presenting with progressive dyspnea, palpitations, and near-syncope. Found to be hypotensive and tachycardic on arrival. Echo revealed severe global LV dysfunction (EF 18%). Admitted to ICU for management of acute decompensated heart failure, ultimately requiring temporary left ventricular assist device (Impella CP) placement. Course complicated by AKI, transaminitis, and nosocomial infection.
+
+===============================================================================
+HOSPITAL COURSE SUMMARY:
+-------------------------------------------------------------------------------
+- Day 0: Presents with 2 weeks of worsening cough, fever, SOB, and malaise. Hypotensive (BP 82/54), tachycardic (HR 128), O2 sat 91% RA. Initial labs: lactic acid 4.2, Cr 1.2, WBC 11.2, troponin 0.09, BNP 2,180. CXR: mild pulmonary edema. Echo: EF 18%, severe global LV hypokinesis. Started on milrinone, dobutamine, furosemide.
+- Day 1: Progressive shock, MAP 58 despite pressors. Worsening end-organ perfusion. Impella CP placed at bedside. Improved hemodynamics, MAP >70. Foley placed. Transaminitis (AST 229, ALT 184).
+- Day 2-4: Gradual improvement in end-organ function. Diuresis continued. Extubated on D3. Started on low-dose carvedilol D4.
+- Day 5: Impella weaned, explanted. Echo: EF improved to 35%. AKI resolved. 
+- Day 6-8: Monitoring. Developed fever, blood cultures positive for S. epidermidis. Treated with vancomycin for 7d.
+- Day 9: Transitioned to stepdown. Discharge planning initiated.
+
+===============================================================================
+VITAL SIGNS (Selected):
+-------------------------------------------------------------------------------
+| Date       | Temp   | HR  | BP        | RR | SpO2 | Wt (kg) | Pain (0-10) |
+|------------|--------|-----|-----------|----|------|---------|-------------|
+| 4/12/2024  | 37.1   | 128 | 82/54     | 28 | 91%  | 67.4    | 4           |
+| 4/13/2024  | 38.2   | 115 | 88/62     | 22 | 97%  | 67.1    | 3           |
+| 4/14/2024  | 37.8   | 98  | 94/68     | 18 | 98%  | 66.9    | 2           |
+| 4/15/2024  | 36.8   | 90  | 100/72    | 16 | 99%  | 66.3    | 2           |
+| 4/18/2024  | 37.0   | 85  | 110/74    | 14 | 99%  | 65.9    | 1           |
+
+===============================================================================
+LABS (CBC, Chem7, Cardiac Markers, LFTs, etc.):
+-------------------------------------------------------------------------------
+| Date       | WBC  | Hgb  | Hct  | Plts | Na   | K    | Cl   | CO2  | BUN | Cr   | Glu  | AST  | ALT  | Troponin | BNP    |
+|------------|------|------|------|------|------|------|------|------|-----|------|------|------|------|----------|--------|
+| 4/12/24 AM | 11.2 | 16.9 | 41.2 | 354  | 132  | 4.2  | 98   | 17   | 18  | 1.2  | 110  | 229  | 184  | 0.09     | 2180   |
+| 4/13/24 AM | 9.8  | 15.8 | 39.0 | 312  | 135  | 4.5  | 102  | 19   | 25  | 1.5  | 104  | 154  | 110  | 0.05     | 1960   |
+| 4/14/24 AM | 7.0  | 15.2 | 38.1 | 278  | 137  | 4.0  | 104  | 21   | 18  | 1.2  | 98   | 60   | 48   | <0.01    | 1120   |
+| 4/15/24 AM | 6.1  | 14.7 | 37.2 | 250  | 139  | 4.2  | 106  | 23   | 14  | 1.0  | 94   | 42   | 28   | <0.01    | 730    |
+| 4/16/24 AM | 5.5  | 13.9 | 36.0 | 230  | 140  | 4.1  | 107  | 22   | 12  | 0.9  | 92   | 31   | 20   | -        | -      |
+| 4/17/24 AM | 4.8  | 13.7 | 35.5 | 210  | 141  | 4.0  | -    | 21   | 11  | 0.8  | 90   | 26   | 17   | -        | -      |
+| 4/18/24 AM | 5.2  | 13.5 | 35.0 | 200  | 142  | 3.9  | 108  | 21   | 10  | 0.7  | 92   | 23   | 15   | -        | -      |
+
+===============================================================================
+PROBLEM-BASED ASSESSMENT & PLAN:
+-------------------------------------------------------------------------------
+1. **Acute Decompensated Heart Failure / Cardiogenic Shock**
+   - Severe LV dysfunction, likely viral myocarditis (recent URI symptoms).
+   - Required inotropes, then Impella CP for circulatory support.
+   - Monitoring for arrhythmia, volume status, end-organ perfusion.
+   - Now off Impella, EF improving.
+   - Plan: Continue GDMT (low-dose beta-blocker, ACEi to be started), f/u echo, monitor for recurrence.
+
+2. **Acute Kidney Injury, resolved**
+   - Likely secondary to low cardiac output and hypoperfusion, now improved.
+   - Creatinine trending down, urine output adequate.
+   - Plan: Monitor UOP, avoid nephrotoxic meds, renal dosing as needed.
+
+3. **Transaminitis**
+   - Likely ischemic hepatitis (shock liver) during low-flow state.
+   - LFTs improving.
+   - Plan: Continue supportive care, trend LFTs.
+
+4. **Nosocomial Bacteremia (S. epidermidis)**
+   - Likely line-associated.
+   - Treated with vancomycin x7d, line removed.
+   - Blood cultures negative after 48h.
+   - Plan: Monitor for fevers, repeat cultures if indicated.
+
+5. **Obesity**
+   - BMI >98th percentile.
+   - At risk for OSA, metabolic syndrome.
+   - Plan: Nutrition consult, weight management, arrange f/u.
+
+6. **History of viral pharyngitis/bronchitis/sinusitis**
+   - Recent illnesses, likely viral, now resolved.
+   - Plan: Supportive care, monitor for recurrence.
+
+7. **Hand laceration (remote)**
+   - No active issues.
+   - Plan: No intervention needed.
+
+8. **Pain**
+   - Mild, likely procedural and musculoskeletal.
+   - Plan: PRN acetaminophen/ibuprofen, monitor for escalation.
+
+===============================================================================
+MEDICATIONS (Active During Admission):
+-------------------------------------------------------------------------------
+- Milrinone IV (off)
+- Dobutamine IV (off)
+- Furosemide IV/PO
+- Carvedilol PO (low dose)
+- Lisinopril (to start)
+- Vancomycin IV (completed)
+- Acetaminophen 325 mg PO PRN
+- Ibuprofen 100 mg PO PRN
+- Penicillin V PO (completed)
+- DVT ppx: Enoxaparin 40mg SQ
+
+===============================================================================
+DISCHARGE CONSIDERATIONS:
+-------------------------------------------------------------------------------
+- f/u pediatric cardiology in 1 wk
+- Echo in 1 mo
+- Home weight monitoring, daily BP/HR
+- Education on HF symptoms, infection precautions
+- Outpatient labs in 1 wk
+
+===============================================================================
+ATTENDING PHYSICIAN: J. R. Voss, MD
+===============================================================================
+```

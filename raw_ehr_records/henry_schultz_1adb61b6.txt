@@ -1,0 +1,195 @@
+**Inpatient Progress Note — EPIC**
+**Patient:** Henry Schultz  
+**MRN:** 00633421  
+**DOB:** 05/16/1945 (78 y/o)  
+**Sex:** Male  
+**Date of Service:** 2024-05-29  
+**Attending:** Dr. Jonathon M. Carde  
+**Admitting Dx:** Cardiogenic shock secondary to acute decompensated heart failure, atrial fibrillation with RVR, metastatic prostate cancer  
+**ICU Day:** 8
+
+---
+
+### Subjective
+
+**HPI:**  
+Mr. Henry Schultz is a 78-year-old male with a history of obesity, hyperlipidemia, daily tobacco use, chronic atrial fibrillation (on warfarin), metastatic prostate cancer (on docetaxel/leuprolide), and MDD, who presented via EMS for acute onset dyspnea, orthopnea, and chest pressure. He was found to be in rapid atrial fibrillation with hypotension refractory to initial medical management. He developed progressive hypoxemia, worsening lactic acidosis, and evidence of end-organ hypoperfusion. Cardiology was consulted and he was emergently transferred to the CCU where a temporary left ventricular assist device (Impella CP) was placed for cardiogenic shock.
+
+**ROS:**  
+- General: Fatigue, poor appetite, lost 3 lbs since admission  
+- Cardiac: Palpitations, intermittent chest discomfort  
+- Respiratory: Mild cough, increased work of breathing at baseline, no hemoptysis  
+- GI: Mild nausea, no vomiting, no abdominal pain  
+- GU: No dysuria, mild nocturia, chronic incontinence  
+- Neuro: Mild confusion on day 2, now at baseline  
+- Psych: Reports low mood, but denies SI/HI
+
+---
+
+### Objective
+
+#### Vitals (ICU Day 8, 06:00)
+| Temp | HR | BP | RR | SpO₂ | Pain |
+|------|----|----|----|------|------|
+| 37.4°C | 96 | 113/61 | 18 | 93% (2L NC) | 2/10 |
+
+#### Physical Exam
+
+- **Gen:** Cachectic, NAD, alert
+- **CV:** Irregularly irregular, S1/S2, no murmur, Impella hum heard
+- **Resp:** Bibasilar crackles, mild increased WOB, O₂ sat 93% RA
+- **Abd:** Soft, NT/ND, no HSM
+- **Ext:** Mild pitting edema B/L, no ulcers
+- **Neuro:** A&O x3, follows commands
+
+---
+
+#### Labs
+
+**CBC & Chemistries — Selected Values (ICU Days 1, 3, 5, 8)**
+
+| Date       | WBC    | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO₂  | BUN  | Cr   | Glu  |
+|------------|--------|-------|-------|-------|------|------|------|------|------|------|------|
+| ICU D1 AM  | 14.2   | 10.9  | 33.4  | 247   | 140  | 5.2  | 106  | 18   | 37   | 2.9  | 121  |
+| ICU D3 AM  | 12.7   | 9.7   | 29.1  | 208   | 142  | 4.7  | 109  | 19   | 32   | 2.3  | 108  |
+| ICU D5 AM  | 11.3   | 10.2  | 31.2  | 195   | 141  | 4.2  | 107  | 21   | —    | 1.7  | 94   |
+| ICU D8 AM  | 10.8   | 11.5  | 34.2  | 259   | 143  | 4.6  | —    | 20   | 14   | 1.1  | 85   |
+
+**Other Notable Labs**
+
+| Date       | Troponin | BNP   | Lactate | INR  | AST  | ALT  | Alk Phos | PSA   |
+|------------|----------|-------|---------|------|------|------|----------|-------|
+| ICU D1     | 0.09     | 2,350 | 4.1     | 2.9  | 56   | 61   | 38       | 5.1   |
+| ICU D3     | <0.01    | 1,710 | 2.3     | 2.3  | 29   | 40   | 45       | —     |
+| ICU D5     | <0.01    | 1,106 | 1.7     | 2.1  | 27   | 31   | 41       | —     |
+
+---
+
+#### Imaging/Procedures
+
+- **ECHO (ICU D1):** LVEF ~15%, severe global hypokinesis, moderate MR, RV function mildly reduced.  
+- **CXR (ICU D1):** Pulmonary edema, mild cardiomegaly  
+- **CT Chest/Abd/Pelvis (ICU D2):** No acute PE, stable osseous mets, mild pleural effusions  
+- **Impella CP Placement (ICU D1):** Successful, no immediate complications  
+- **Bladder scan:** PVR 80 mL
+
+---
+
+#### Medications (Active)
+
+- Fluoxetine 25mg qAM  
+- Sertraline 100mg qHS  
+- Simvastatin 10mg qHS  
+- Warfarin 5mg qHS (held x2 days for INR >3.0)  
+- Verapamil 40mg TID  
+- Digoxin 0.125mg qAM  
+- Acetaminophen/Hydrocodone PRN  
+- Docetaxel (last dose 2 weeks ago, held in hospital)  
+- Leuprolide (monthly, last dose 3 weeks ago)  
+- Furosemide 40mg IV BID  
+- Metoprolol IV PRN  
+- Heparin SQ for DVT ppx (held during Impella)
+
+---
+
+### Assessment & Plan
+
+**1. Cardiogenic shock s/p Impella placement**  
+- Likely precipitated by acute decompensated HF on background of chronic AF, ischemic cardiomyopathy (probable demand ischemia, mild troponin rise).  
+- Responded to temporary LV mechanical support (Impella CP), weaning underway.  
+- Monitor hemodynamics, device position (daily ECHO, CXR PRN), strict I/O, daily weights.  
+- Weaning protocol in progress; anticipate explant in 24–48hr if stable.
+
+**2. Acute on chronic systolic heart failure**  
+- Volume overload improved with diuresis, now euvolemic.  
+- Resume home HF regimen as tolerated, continue IV furosemide, uptitrate beta blockade as BP allows.  
+- Daily BNP trending down.
+
+**3. Atrial Fibrillation (chronic, on warfarin)**  
+- Rate controlled with verapamil/digoxin, brief period of RVR on admission.  
+- Warfarin resumed, INR goal 2–3, monitor for bleeding (high risk post-Impella).  
+- No further arrhythmias noted on tele.
+
+**4. Metastatic prostate cancer**  
+- Stable, on palliative docetaxel/leuprolide.  
+- Oncology consulted; recommend holding chemo until out of ICU.  
+- PSA stable, no new bony pain.
+
+**5. Obesity, Hyperlipidemia, Tobacco use**  
+- Counsel re: smoking cessation, dietary modification  
+- Continue statin, monitor LFTs
+
+**6. Major Depression**  
+- Mood improved with supportive care, continue SSRI/SNRI  
+- Psych consult: consider adjustment of meds after ICU
+
+**7. AKI on CKD (resolved)**  
+- Admission Cr 2.9, now 1.1, likely pre-renal (hypoperfusion).  
+- Monitor renal function, avoid nephrotoxins
+
+**8. Other**  
+- Mild transaminitis (likely ischemic hepatitis vs. med effect)  
+- DVT prophylaxis (heparin held with Impella, SCDs in place)  
+- Nutrition: High protein, calorie dense diet, supplement as needed  
+- Social work, PT/OT, discharge planning in progress
+
+---
+
+### Disposition
+
+- Remain in ICU for ongoing monitoring and Impella wean
+- Anticipate transfer to telemetry floor in 2–3 days if stable
+
+---
+
+**Physician:**  
+Jonathon M. Carde, MD  
+Cardiology/Critical Care
+
+---
+
+#### Additional Labs (ICU D1–D8)
+
+| Date    | AST  | ALT  | AlkPhos | Albumin | INR  | Lactate | PSA  | BNP   |
+|---------|------|------|---------|---------|------|---------|------|-------|
+| D1      | 56   | 61   | 38      | 3.1     | 2.9  | 4.1     | 5.1  | 2350  |
+| D3      | 29   | 40   | 45      | 3.4     | 2.3  | 2.3     | —    | 1710  |
+| D5      | 27   | 31   | 41      | 3.7     | 2.1  | 1.7     | —    | 1106  |
+| D8      | —    | —    | —       | 3.9     | 2.0  | 1.1     | —    | 544   |
+
+---
+
+**Nursing Notes:**  
+- Foley d/c’d day 6, voiding independently  
+- OOB to chair with PT x2 daily, needs assistance  
+- Wound care: groin site clean, dry, intact  
+- Family updated daily, DNR/DNI not indicated, full code
+
+---
+
+**Consults:**  
+- Cardiology, Oncology, Psychiatry, Nutrition, Social Work
+
+---
+
+**Problem List:**  
+- Cardiogenic shock, s/p Impella  
+- ADHF  
+- Atrial fibrillation  
+- Metastatic prostate cancer  
+- Obesity  
+- Hyperlipidemia  
+- Tobacco use  
+- Major depression  
+- AKI on CKD (resolved)  
+- Transaminitis (mild)  
+
+---
+
+**Signature:**  
+Jonathon M. Carde, MD  
+Date/Time: 2024-05-29 08:34
+
+---
+
+**(End of Note)**

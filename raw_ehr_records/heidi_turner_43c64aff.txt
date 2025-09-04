@@ -1,0 +1,150 @@
+**[EPIC EHR: ICU Admission Note]**
+
+**Patient Name:** Heidi Turner  
+**MRN:** 00347519  
+**DOB:** 06/11/2006 (17 y.o.)  
+**Sex:** Female  
+**Admit Date:** 2024-05-29  
+**Attending:** Dr. Alisha Smith  
+**Location:** PICU, Rm 4B  
+**Code Status:** Full  
+**Allergies:** Latex (anaphylaxis), cat dander, dust mite, white oak, Cladosporium, shrimp
+
+---
+
+## CHIEF COMPLAINT
+Acute decompensated heart failure, respiratory distress.
+
+---
+
+## HISTORY OF PRESENT ILLNESS
+Heidi Turner is a 17-year-old female with h/o perennial allergic rhinitis, atopic dermatitis, multiple severe environmental and food allergies, and recent viral upper respiratory tract infection, who presented to the ED with 3 days of progressive SOB, orthopnea, and chest discomfort. She developed acute hypoxemic respiratory failure requiring intubation. Cardiac workup revealed severe left ventricular dysfunction (EF 18%) and elevated cardiac biomarkers. She was transferred to the PICU and ultimately required placement of a temporary left ventricular assist device (Impella CP) for cardiogenic shock.
+
+Notably, she had a recent episode of viral pharyngitis and sinusitis, and one day prior to admission, sustained a minor laceration to the right thigh after a fall (cleaned, no signs of infection). No preceding chest pain or palpitations. No prior cardiac history.
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+- **Day 1:** Admitted to PICU. Intubated for hypoxemic respiratory failure. Started on inotropes (milrinone, epinephrine). Echo: severe global hypokinesis, LVEF 18%. Troponin I: 8.2 ng/mL. BNP: 3,750 pg/mL. 
+- **Day 2:** Worsening hypotension, rising lactate (4.8 mmol/L), oliguric. Impella CP placed at bedside for cardiogenic shock. Started on broad-spectrum abx (vanc, cefepime) for possible sepsis. 
+- **Day 3:** Improvement in perfusion, weaned off epi. Persistent mild transaminitis. Extubated to HFNC.  
+- **Day 4-6:** Hemodynamics stable. Impella weaned, removed on Day 6. Gradual improvement in LVEF to 38% by repeat echo.  
+- **Day 7:** Transferred to step-down. Mobilizing with PT/OT.  
+- **Day 8:** Discharged home with close cardiology and allergy follow-up.
+
+---
+
+## MEDICATIONS (IN-HOSPITAL)
+
+- Fexofenadine 30mg PO BID
+- Hydrocortisone 10mg/mL topical PRN
+- Epinephrine auto-injector (home med, not used in hospital)
+- Acetaminophen 160mg PO q6h PRN
+- Milrinone IV (titrated, D1-5)
+- Epinephrine IV (D1-2)
+- Vancomycin IV (D2-4)
+- Cefepime IV (D2-4)
+- Furosemide IV PRN
+- PPI prophylaxis
+
+---
+
+## VITALS (SELECTED)
+| Date       | Temp (C) | HR   | BP      | RR | SpO2 | Weight (kg) |
+|------------|----------|------|---------|----|------|-------------|
+| 5/29/24    | 37.2     | 128  | 88/54   | 28 | 91%  | 47.5        |
+| 5/30/24    | 37.1     | 114  | 98/60   | 20 | 97%  | 48.2        |
+| 6/1/24     | 36.9     | 96   | 102/62  | 18 | 99%  | 48.7        |
+| 6/4/24     | 37.0     | 82   | 108/68  | 16 | 99%  | 49.1        |
+
+---
+
+## LABS
+
+**CBC + CHEM7 + other relevant labs:**
+
+| Date     | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | TnI   | BNP    | Lactate |
+|----------|------|------|------|------|------|------|------|------|------|------|------|------|------|-------|--------|---------|
+| 5/29/24  | 5.5  | 17.1 | 47.8 | 208  | 134  | 4.9  | 102  | 21   | 18   | 0.6  | 96   | 82   | 95   | 8.2   | 3750   | 4.8     |
+| 5/30/24  | 7.2  | 16.5 | 46.2 | 181  | 132  | 5.1  | 101  | 19   | 23   | 0.8  | 110  | 91   | 102  | 6.1   | 2880   | 2.1     |
+| 5/31/24  | 6.4  | 15.8 | 44.0 | 165  | 135  | 4.7  | 104  | 22   | 19   | 0.7  | 102  | 68   | 71   | 2.2   | 1410   |         |
+| 6/2/24   | 5.9  | 15.3 | 43.2 | 178  | 137  | 4.3  | 105  | 23   | 16   | 0.6  | 97   | 38   | 44   | <0.05 | 620    |         |
+| 6/4/24   |      | 14.9 | 41.7 | 192  | 138  | 4.1  | 107  | 25   | 14   | 0.5  |      | 29   | 35   | <0.05 | 410    |         |
+
+---
+
+## MICROBIOLOGY
+- Blood cultures x2 (5/29/24): No growth
+- Respiratory viral PCR: positive for Enterovirus
+- Thigh wound Cx: no growth
+
+---
+
+## IMAGING
+- **Echo (5/29/24):** LVEF 18%, severe global hypokinesis, mild MR.
+- **Echo (6/3/24):** LVEF 38%, mild MR.
+- **CXR (5/29/24):** Pulmonary edema, mild cardiomegaly.
+- **CXR (6/2/24):** Improved, no focal infiltrate.
+
+---
+
+## PROCEDURES
+- Intubation (5/29/24)
+- Impella CP placement (5/30/24)
+- Central line, arterial line
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. **Acute decompensated heart failure (cardiogenic shock, suspected viral myocarditis)**
+- Required temporary LVAD (Impella CP) for 6 days.
+- Plan: Continue guideline-directed HF therapy. Follow up with peds cardiology. Outpatient echo in 2 weeks.
+- **Medications:** Beta-blocker and ACEi to be initiated as tolerated.
+
+### 2. **Acute hypoxemic respiratory failure**
+- Intubated, now extubated. O2 sat >98% on RA.
+- Plan: Pulm follow-up PRN.
+
+### 3. **Recent viral pharyngitis/sinusitis**
+- Enterovirus+; no bacterial superinfection.
+- Plan: Supportive care.
+
+### 4. **Atopic dermatitis**
+- Stable. Continue topical hydrocortisone.
+
+### 5. **Severe environmental/food allergies**
+- Latex, shrimp, dust mite, cat dander, etc.
+- Plan: Epi auto-injector at discharge. Allergy f/u.
+
+### 6. **Transaminitis**
+- Mild, improving as cardiac function recovers.
+- Plan: Monitor LFTs outpt.
+
+### 7. **Right thigh laceration**
+- Superficial, clean, no signs of infection.
+- Plan: Local wound care.
+
+### 8. **Nutrition, Mobility, Psychosocial**
+- PT/OT involved. Appetite improved. Mood appropriate.
+
+---
+
+## DISCHARGE INSTRUCTIONS
+
+- Strict return precautions for SOB, chest pain, syncope.
+- Continue fexofenadine, topical hydrocortisone, PRN acetaminophen.
+- Avoid all known allergens. Carry EpiPen at all times.
+- Cardiology and allergy clinic follow-up scheduled.
+
+---
+
+## SIGNED:  
+Alisha Smith, MD  
+Attending Pediatric Intensivist  
+Date: 2024-06-08
+
+---
+
+**[END OF NOTE]**

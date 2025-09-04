@@ -1,0 +1,130 @@
+**Patient Name:** Hauck, Rebecka  
+**MRN:** 0012394885  
+**DOB:** 08/06/1970  
+**Sex:** Female  
+**Admit Date:** 2024-03-15  
+**Attending:** Dr. Ross, Cardiology  
+**Service:** ICU  
+**Note Date:** 2024-03-21  
+**Type:** Progress Note  
+
+---
+
+# Chief Complaint  
+Shortness of breath and chest pain
+
+# HPI  
+49-year-old female with PMHx of prediabetes, chronic anemia, prior miscarriages, and recent viral sinusitis presenting with 2-day h/o worsening dyspnea, orthopnea, and intermittent chest tightness. No prior cardiac history. She developed progressive respiratory distress and hypotension in the ED, requiring urgent transfer to the ICU. Echo showed severe global LV dysfunction (EF 18%), and she developed cardiogenic shock requiring temporary LVAD (Impella CP) placement. No prior CAD or known structural heart disease.  
+
+# Hospital Course  
+- Day 1: Admitted to ICU, intubated for hypoxic respiratory failure. Initial labs notable for elevated troponin and lactate. Started on norepinephrine, dobutamine.  
+- Day 2: Remained hypotensive, echo showed EF 18%. Impella CP placed for hemodynamic support.  
+- Day 3: Weaned off vasopressors. Volume status optimized with diuresis, renal function monitored closely.  
+- Day 4-6: Gradual improvement in end-organ perfusion. Extubated on day 5. Impella removed on day 6.  
+- Day 7: Transferred to step-down unit.  
+
+---
+
+# Problem List & Assessment/Plan
+
+**1. Cardiogenic Shock (Acute Systolic HF, non-ischemic)**
+   - Severe LV dysfunction (EF 18%), likely acute myocarditis or stress cardiomyopathy.
+   - Required Impella CP for 4 days, now weaned.
+   - Troponin peaked at 2.1, CK-MB 23 (downtrending).
+   - Plan: Echo tomorrow, continue GDMT (BB, ACEi as tolerated), monitor for arrhythmia.
+
+**2. Hypoxic Respiratory Failure**
+   - Intubated for 4 days, now extubated.
+   - Negative respiratory cultures, CXR improved.
+   - Plan: Incentive spirometry, ambulate, monitor for re-intubation.
+
+**3. Acute Kidney Injury (pre-renal)**
+   - Cr peaked at 2.1, now improved to 1.1 with improved perfusion.
+   - Plan: Continue to monitor, adjust diuretics, daily BMP.
+
+**4. Anemia**
+   - Baseline hgb 10.8, nadir 8.7 post-Impella (small groin hematoma, no active bleed).
+   - Plan: Monitor H/H, iron studies pending, transfuse if <8.
+
+**5. Prediabetes**
+   - A1c 6.1% on admission.
+   - Plan: Sliding scale insulin while NPO, resume PO meds as tolerated.
+
+**6. Viral Sinusitis (recent, resolved)**
+   - No active infection, no antibiotics needed.
+
+**7. Contraceptive Management**
+   - Multiple prior forms. All held during admission due to VTE risk.
+   - Plan: Reassess prior to discharge.
+
+**8. Miscellaneous**
+   - VTE prophylaxis with heparin.
+   - Physical therapy consult.
+   - Social work for discharge planning.
+   - Monitor for depression/anxiety post-ICU.
+
+---
+
+# ICU Vitals Summary (selected)
+
+| Date       | HR  | BP          | RR | Temp  | O2 Sat | Notes                        |
+|------------|-----|-------------|----|-------|--------|------------------------------|
+| 3/15/2024  | 118 | 82/56 (MAP 65)| 26 | 37.8  | 91%    | On 100% NRB, agitated        |
+| 3/16/2024  | 102 | 92/61       | 20 | 36.9  | 96%    | On Impella, norepi           |
+| 3/17/2024  | 91  | 110/72      | 16 | 37.0  | 98%    | Weaning sedation             |
+| 3/18/2024  | 86  | 118/68      | 16 | 37.2  | 99%    | Extubated                    |
+| 3/19/2024  | 82  | 122/74      | 14 | 36.8  | 99%    | Off pressors, stable         |
+
+---
+
+# Labs (CBC, CHEM7, Cardiac, Other)
+
+| Date       | Na   | K   | Cl  | CO2 | BUN | Cr   | Glu  | WBC  | Hgb  | Hct  | Plt  | Troponin | CK-MB | AST  | ALT  |
+|------------|------|-----|-----|-----|-----|------|------|------|------|------|------|----------|-------|------|------|
+| 3/15/2024  | 142  | 3.8 | 109 | 23  | 32  | 2.1  | 148  | 10.2 | 10.8 | 34.1 | 408  | 1.85     | 22    | 72   | 55   |
+| 3/16/2024  | 140  | 4.1 | 107 | 21  | 28  | 1.6  | 132  | 9.1  | 9.7  | 31.2 | 382  | 2.10     | 23    | 65   | 49   |
+| 3/17/2024  | 139  | 3.9 | 105 | 24  | 21  | 1.3  | 115  | 7.8  | 8.7  | 28.9 | 355  | 1.4      | 15    | 43   | 33   |
+| 3/18/2024  | 141  | 4.2 | 108 | 26  | 18  | 1.1  | 101  | 7.3  | 9.3  | 30.4 | 367  | 0.78     | 8     |      |      |
+| 3/19/2024  | 143  | 4.0 | 107 | 25  | 17  | 1.1  | 98   | 8.2  | 10.1 | 33.0 | 385  | 0.39     | 5     |      |      |
+
+*Missing values indicate labs not obtained that day.
+
+---
+
+# Imaging
+
+**Echocardiogram (3/16/24):**  
+- LVEF 18%, severe global hypokinesis, mild MR, RV normal  
+**CXR (3/15/24):**  
+- Mild pulmonary edema, no infiltrate  
+**Chest CT (3/15/24):**  
+- No PE, mild interstitial edema
+
+---
+
+# Medications (current hospital)
+
+- Furosemide IV
+- Metoprolol tartrate PO
+- Lisinopril PO (started 3/18)
+- Aspirin 81mg PO
+- Heparin SQ
+- Atorvastatin 40mg PO
+- Sliding scale insulin
+- Pantoprazole IV
+- PRN acetaminophen
+
+---
+
+# Disposition
+- Remains in step-down, planned transfer to telemetry.
+- Awaiting repeat echo, pending improvement in functional status.
+- Anticipate discharge home with outpatient cardiology, heart failure, and primary care follow-up.
+
+---
+
+# Attending: Ross, MD  
+# Resident: Patel, MD  
+# RN: M. Nguyen  
+
+**END OF NOTE**

@@ -1,0 +1,154 @@
+---
+**Patient Name:** Robbie Bernier  
+**MRN:** 00438921  
+**Date of Birth:** 09/22/1975  
+**Sex:** Male  
+**Admission Date:** 04/18/2024  
+**Attending:** Dr. J. Patel  
+**Admitting Dx:** Cardiogenic shock, acute decompensated heart failure  
+**Allergies:** NKDA  
+
+---
+
+## ICU Admission H&P
+
+**Chief Complaint:**  
+Shortness of breath, chest discomfort, and fatigue
+
+**History of Present Illness:**  
+Mr. Robbie Bernier is a 48-year-old male with a history of prediabetes, chronic anemia, and recent viral sinusitis. He presented to the ED with progressive dyspnea on exertion over 3 days, orthopnea, and intermittent chest tightness. He also noted bilateral lower extremity swelling and a 3 kg weight gain over the past week. He denied fevers, cough, or recent travel. He has a remote history of a left ankle sprain, but no trauma preceding this presentation. On arrival, he was tachypneic, hypotensive (BP 82/54 mmHg), and hypoxic (SpO2 89% on RA).
+
+**Past Medical History:**  
+- Prediabetes  
+- Chronic anemia (baseline Hgb ~11)  
+- Sprain of left ankle (remote, resolved)  
+- Viral sinusitis (recent, now resolved)
+
+**Past Surgical History:**  
+- None
+
+**Medications (on admission):**  
+- Naproxen sodium 220 mg PO PRN
+
+**Family History:**  
+- Father: MI at 61, T2DM  
+- Mother: HTN, hypothyroidism
+
+**Social History:**  
+- Smoker: Never  
+- Alcohol: Rare  
+- Illicit drugs: Denies  
+- Lives with spouse
+
+**Review of Systems:**  
+All other systems negative except as noted in HPI.
+
+---
+
+## ICU Course Summary
+
+Upon arrival, patient was in frank cardiogenic shock with evidence of end-organ hypoperfusion (confusion, cool extremities, lactate 4.6). Initial echo revealed severely reduced LVEF (~15%), global hypokinesis, and moderate mitral regurg. Troponin I peaked at 4.3 ng/mL. He was started on dobutamine and norepinephrine. Despite escalating support, he remained hypotensive with worsening renal function and rising lactate. A decision was made to place a percutaneous left ventricular assist device (Impella CP) for temporary circulatory support. 
+
+Patient stabilized hemodynamically post-Impella, with improvement in end-organ perfusion. Over the next 72 hours, he was gradually weaned off vasopressors. After 5 days, the device was explanted. He was transitioned to guideline-directed medical therapy for heart failure and initiated on diuresis. Anemia worsened transiently, likely dilutional and iatrogenic, but stabilized with supportive care.
+
+---
+
+## Vital Signs (ICU Day 1-7, selected)
+
+| Date       | Temp (C) | HR   | BP         | RR  | SpO2 | O2 device    | Pain |
+|------------|----------|------|------------|-----|------|-------------|------|
+| 4/18/24    | 36.9     | 108  | 82/54      | 27  | 89   | RA          | 3    |
+| 4/19/24    | 37.1     | 102  | 90/62      | 20  | 97   | 2L NC       | 2    |
+| 4/20/24    | 36.7     | 98   | 95/68      | 18  | 96   | 2L NC       | 1    |
+| 4/21/24    | 36.8     | 90   | 108/72     | 16  | 97   | RA          | 1    |
+| 4/22/24    | 36.6     | 84   | 112/76     | 16  | 98   | RA          | 0    |
+| 4/23/24    | 36.7     | 78   | 118/78     | 14  | 98   | RA          | 0    |
+| 4/24/24    | 36.7     | 76   | 124/82     | 14  | 98   | RA          | 0    |
+
+---
+
+## Lab Results
+
+**CBC, Chem 7, and selected labs (ICU Days 1-7):**
+
+| Date      | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Gluc (mg/dL) | Troponin I (ng/mL) | BNP (pg/mL) | AST (U/L) | ALT (U/L) |
+|-----------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|--------------|---------------------|-------------|-----------|-----------|
+| 4/18/24   | 8.0        | 11.2       | 32.8    | 190        | 137         | 4.8        | 108         | 19           | 28          | 2.1        | 72           | 4.3                 | 3200        | 98        | 76        |
+| 4/19/24   | 7.5        | 10.6       | --      | 168        | 136         | 4.9        | 110         | 21           | 31          | 2.3        | 68           | 3.2                 | 2890        | 84        | 72        |
+| 4/20/24   | 6.9        | 10.0       | 30.2    | --         | 137         | --         | 109         | 23           | 27          | 1.9        | --           | 1.2                 | 2100        | 62        | 54        |
+| 4/21/24   | 7.1        | 10.4       | 31.4    | 172        | 138         | 4.6        | 108         | 24           | 21          | 1.4        | 92           | 0.5                 | 1200        | 44        | 33        |
+| 4/22/24   | 7.8        | 10.8       | --      | 181        | 139         | 4.2        | 107         | 25           | 17          | 1.2        | 104          | <0.01               | 890         | 34        | 27        |
+| 4/23/24   | 7.4        | 11.0       | 32.2    | 193        | 139         | 4.3        | 108         | 25           | 16          | 1.1        | 101          | <0.01               | 740         | 31        | 24        |
+| 4/24/24   | 7.2        | 11.3       | 33.0    | --         | 140         | 4.1        | --          | 26           | --          | 1.0        | 98           | <0.01               | 490         | 28        | --        |
+
+*Missing values indicate tests not performed or lab error.*
+
+---
+
+## Imaging
+
+**TTE (4/18/24):**  
+- LVEF 15%, global hypokinesis, moderate MR, RV mildly reduced, no pericardial effusion.
+
+**CXR (4/18/24):**  
+- Pulmonary vascular congestion, bilateral pleural effusions, enlarged cardiac silhouette.
+
+---
+
+## Problem-Based Assessment & Plan
+
+### 1. Acute Decompensated Systolic Heart Failure / Cardiogenic Shock  
+- Initial presentation with low-output state, hypotension, end-organ hypoperfusion.
+- Severe LV dysfunction (echo LVEF 15%).
+- Required inotropes (dobutamine), vasopressors (norepi), and temporary mechanical support (Impella CP) for 5 days.
+- Serial improvement in hemodynamics and end-organ function.
+- Plan: Guideline-directed medical therapy (GDMT) for HFrEF (carvedilol, sacubitril-valsartan, dapagliflozin, spironolactone titrated as tolerated), close cardiology follow-up, consider advanced therapies if recurrent decompensation.
+
+### 2. Anemia, multifactorial (chronic + dilutional/ICU-related)  
+- Baseline anemia, worsened during ICU stay (lowest Hgb 10.0).
+- No evidence of active bleeding.
+- Plan: Iron studies, continue supportive care, avoid unnecessary phlebotomy, monitor for improvement as diuresis continues.
+
+### 3. Acute Kidney Injury (pre-renal, improved)  
+- Initial Cr 2.1 (baseline 1.1), improved to 1.0 with improved perfusion.
+- Plan: Monitor renal function, avoid nephrotoxins, adjust meds for renal dosing.
+
+### 4. Prediabetes  
+- Glucose ranged 68-104.
+- HbA1c 6.2% on admission.
+- Plan: Continue monitoring, diabetic diet, education.
+
+### 5. Volume Overload/Edema  
+- Improved with diuresis post-cardiac support.
+- Plan: Daily weights, strict I/Os, continue loop diuretic as tolerated.
+
+### 6. Viral Sinusitis (recent, resolved)  
+- No current symptoms.
+- No antibiotics indicated.
+
+### 7. Remote Ankle Sprain  
+- No acute issues.
+
+### 8. Pain (mild, musculoskeletal)  
+- Well-controlled on PRN naproxen.
+
+### 9. Secondary Prevention  
+- Statin initiated, smoking counseling (N/A), cardiac rehab referral, vaccinations up to date.
+
+---
+
+## Discharge Planning
+
+- Anticipated discharge to home with spouse.
+- Close follow-up with heart failure clinic and PCP.
+- Home health for medication management and weight checks.
+- Education provided on heart failure symptoms, sodium restriction, and when to seek care.
+
+---
+
+**Signed:**  
+J. Patel, MD  
+04/25/2024  
+ICU Medicine
+
+---

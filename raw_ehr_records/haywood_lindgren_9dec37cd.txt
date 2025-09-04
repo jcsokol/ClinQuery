@@ -1,0 +1,166 @@
+---
+**Patient:** Haywood Lindgren  
+**MRN:** 00823456  
+**DOB:** 12/05/1989  
+**Sex:** Male  
+**Admit Date:** 05/14/2024  
+**Attending:** Dr. S. Patel  
+**Service:** Cardiac ICU  
+**Note Type:** ICU Progress Note  
+**Date/Time:** 05/19/2024 09:12  
+
+---
+
+### **Chief Complaint**
+Shortness of breath, chest tightness, and fatigue
+
+---
+
+### **History of Present Illness**
+Haywood Lindgren is a 34-year-old male with a history notable for prediabetes, chronic anemia, and recurrent upper respiratory infections (including viral sinusitis and acute bronchitis), who presented to the ED with 3 days of worsening dyspnea on exertion, orthopnea, and intermittent chest pain. He reports a recent upper respiratory infection with low-grade fevers and cough, treated with acetaminophen and amox-clav at home. No prior history of structural heart disease or known CAD.
+
+In the ED, he was tachypneic, tachycardic, and hypoxic (O2 sat 88% on room air). Initial labs revealed acute renal impairment and elevated cardiac biomarkers. CXR showed pulmonary edema. EKG: sinus tachy, non-specific ST/T changes. Troponin I elevated at 2.1 ng/mL. BNP 3500 pg/mL. TTE: LVEF 18%, global hypokinesis, no valvular vegetations, moderate MR.
+
+He rapidly deteriorated, requiring BiPAP, then intubation for hypoxic respiratory failure. Despite medical therapy (IV lasix, dobutamine, nitroglycerin), he developed cardiogenic shock with escalating vasopressor/inotrope requirements. On hospital day 2, he was taken for placement of a percutaneous left ventricular assist device (Impella CP) for hemodynamic support.
+
+---
+
+### **Past Medical History**
+- Prediabetes (HbA1c 6.3%)
+- Chronic anemia (baseline Hgb 10-12)
+- Recurrent viral sinusitis, bronchitis, pharyngitis
+
+### **Past Surgical History**
+- None
+
+### **Allergies**
+- NKDA
+
+### **Home Medications**
+- Acetaminophen 325mg PO PRN
+- Amoxicillin-clavulanate 250/125mg PO BID (recent, for URI)
+
+---
+
+### **Hospital Course Summary**
+- **HD1:** Admitted with acute decompensated heart failure, hypoxic resp failure, likely viral myocarditis vs. ischemic etiology.  
+- **HD2:** Worsening shock, required intubation, started on multiple vasoactive agents. Impella CP placed for temporary circulatory support.  
+- **HD3-5:** Gradual improvement in organ perfusion. Weaned off vasopressors. Renal function improved with diuresis.  
+- **HD6:** Impella weaned and explanted. Extubated. Now on low-flow nasal cannula, awake, interactive.  
+- **HD7-8:** Transferred to stepdown. Ambulating with PT.  
+
+---
+
+### **Review of Systems**
+Unable to provide, intubated for most of admission.
+
+---
+
+### **Physical Exam**
+**HD6 (post-extubation):**  
+- **Gen:** Awake, alert, NAD  
+- **CV:** Tachycardic, S3 present, no murmurs/rubs/gallops  
+- **Pulm:** Bibasilar crackles, improved aeration  
+- **Abd:** Soft, NT, ND  
+- **Ext:** No edema, pulses 2+  
+- **Neuro:** Oriented, moves all extremities  
+
+---
+
+### **Vitals (Selected)**
+| Date       | Temp (C) | HR   | BP        | RR | O2 Sat | Wt (kg) |
+|------------|----------|------|-----------|----|--------|---------|
+| 05/14/24   | 37.9     | 121  | 94/54     | 28 | 88%    | 84.8    |
+| 05/15/24   | 38.1     | 113  | 89/50     | 32 | 94%    | 84.1    |
+| 05/16/24   | 37.2     | 105  | 102/62    | 20 | 98%    | 83.0    |
+| 05/18/24   | 36.8     | 92   | 114/67    | 16 | 99%    | 82.7    |
+
+---
+
+### **Laboratory Data**
+
+#### **CBC & CHEM7 Table**
+| Date      | WBC  | Hgb  | Hct  | Plt  | Na   | K   | Cl   | CO2  | BUN  | Cr   | Glu  |
+|-----------|------|------|------|------|------|-----|------|------|------|------|------|
+| 5/14/24   | 5.8  | 8.6  | 26.1 | 148  | 143  | 5.0 | 108  | 19   | 38   | 2.1  | 92   |
+| 5/15/24   | 7.1  | 7.9  | 24.3 | 165  | 142  | 5.4 | 110  | 18   | 44   | 2.5  | 98   |
+| 5/16/24   | 6.2  | 9.2  | 28.1 | 158  | 140  | 4.9 | 109  | 21   | 31   | 1.7  | 105  |
+| 5/17/24   | 5.9  | 10.2 | 30.5 | 166  | 141  | 4.5 | 107  | 23   | 21   | 1.2  | *    |
+| 5/18/24   | 5.6  | 11.1 | 33.2 | 162  | 139  | 4.1 | 108  | *    | 17   | 1.0  | 112  |
+| 5/19/24   | 5.4  | 11.3 | 34.0 | 159  | *    | 4.2 | 106  | 24   | 16   | 0.9  | 108  |
+
+*Missing values indicated by *
+
+#### **Other Labs**
+- **Troponin I**: 2.1 (HD1) → 1.2 (HD2) → 0.4 (HD4)
+- **BNP**: 3500 (HD1), 2100 (HD3), 890 (HD7)
+- **AST/ALT**: AST 86 (HD2), ALT 60 (HD2), both trending down by HD6
+- **Lactate**: 3.2 (HD1), normalized by HD4
+
+---
+
+### **Imaging**
+- **CXR (HD1):** Pulmonary edema, bilateral perihilar infiltrates
+- **Echo (HD1):** LVEF 18%, global hypokinesis, moderate MR, no vegetations
+- **Repeat Echo (HD6):** LVEF improved to 34%, mild MR
+
+---
+
+### **Assessment & Plan (Problem-Based)**
+
+#### 1. **Acute Decompensated Heart Failure/Cardiogenic Shock, likely viral myocarditis**
+   - Required Impella CP for hemodynamic support (HD2-6)
+   - Weaned off vasopressors, now stable
+   - Continue guideline-directed medical therapy (GDMT): low-dose carvedilol, lisinopril if BP tolerates, spironolactone
+   - Monitor for arrhythmias, volume status, renal function
+   - Daily weights, strict I/O
+   - Cardiology f/u
+
+#### 2. **Severe Anemia (multifactorial, acute on chronic)**
+   - Transfused 2u PRBCs HD2, improved Hgb
+   - Monitor CBC daily
+   - Iron studies pending
+
+#### 3. **Acute Renal Injury (pre-renal, likely cardiorenal)**
+   - Improved with diuresis, off pressors
+   - Monitor renal function
+   - Avoid nephrotoxic agents
+
+#### 4. **Respiratory Failure, s/p intubation/tracheal extubation**
+   - Improving, on NC 2L
+   - Incentive spirometry, PT/OT
+
+#### 5. **Prediabetes**
+   - Maintain euglycemia, monitor glucose
+   - Endocrine consult
+
+#### 6. **Recurrent URIs (viral sinusitis, bronchitis, pharyngitis)**
+   - Currently no evidence of bacterial infection
+   - Continue supportive care
+
+#### 7. **Pain (mild, post-procedure)**
+   - Acetaminophen PRN
+
+#### 8. **DVT Prophylaxis**
+   - SCDs, SQ heparin
+
+#### 9. **Nutrition**
+   - Renal/cardiac diet
+   - Monitor labs/electrolytes
+
+---
+
+### **Discharge Planning**
+- Anticipate transfer to acute rehab
+- Cardiology, nephrology, primary care follow-up
+- Medication reconciliation prior to discharge
+
+---
+
+**Signed:**  
+S. Patel, MD  
+05/19/2024 09:12
+
+---
+
+**(See flowsheet for complete vital sign and lab trends. Labs above are representative.)**

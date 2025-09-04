@@ -1,0 +1,160 @@
+**Ezequiel Rosenbaum**  
+**MRN:** 00298435  
+**DOB:** 09/28/1982 (Age 41)  
+**Sex:** Male  
+**Attending:** Dr. Jacobson  
+**Date of Admission:** 2024-05-16  
+**Date of Note:** 2024-05-23  
+**Location:** ICU, Cardiology Service  
+**Consults:** Cardiology, Infectious Disease, Cardiothoracic Surgery  
+---
+
+---
+
+# HOSPITAL COURSE SUMMARY
+
+**Chief Complaint:**  
+Acute onset chest pain, dyspnea, and syncope at home.
+
+**History of Present Illness:**  
+41-year-old male, previously healthy aside from recent streptococcal pharyngitis treated with penicillin, presented to the ED with 2 days of worsening dyspnea, orthopnea, and pleuritic chest pain. He experienced a syncopal episode at home. On arrival, hypotensive (BP 78/52), tachycardic (HR 126), tachypneic (RR 28), hypoxic on room air (SpO2 87%). Initial workup notable for elevated troponin, diffuse ST elevations, and echocardiogram with severe global hypokinesis, EF 15%. He rapidly progressed to cardiogenic shock, requiring vasopressors and subsequently, insertion of a percutaneous left ventricular assist device (Impella CP) in the ICU. Infectious workup negative except for positive rapid strep test and elevated anti-streptolysin O titers. Blood cultures negative.  
+
+**Hospital Course:**  
+- Admitted to ICU on day 0 for acute decompensated heart failure and cardiogenic shock.  
+- Initiated on norepinephrine, switched to dobutamine for inotropy.  
+- Impella CP placed on day 1 for refractory shock.  
+- Developed acute kidney injury (AKI) requiring continuous renal replacement therapy (CRRT) days 2-5.  
+- Complicated by transient atrial fibrillation, managed with amiodarone.  
+- Weaned off Impella on day 5 as cardiac function improved (repeat echo EF 32%).  
+- Persistent low-grade fever, negative infectious workup, presumed inflammatory myocarditis.  
+- Down-trended CRRT, renal function improved.  
+- Transferred to step-down unit day 7.  
+- Discharged home on day 9 with outpatient follow-up.
+
+---
+
+# MEDICATIONS (Active)
+
+| Medication                         | Dose/Frequency               | Indication                           |
+|-------------------------------------|------------------------------|--------------------------------------|
+| Penicillin V Potassium              | 500 mg PO q6h                | Streptococcal pharyngitis            |
+| Metoprolol succinate                | 25 mg PO daily               | Cardiomyopathy                       |
+| Furosemide                          | 40 mg IV q12h                | Volume overload/CHF                  |
+| Lisinopril                          | 5 mg PO daily                | LV dysfunction                       |
+| Amiodarone                          | 200 mg PO daily              | Atrial fibrillation                  |
+| Aspirin                             | 81 mg PO daily               | CAD prevention                       |
+| Heparin (IV)                        | per protocol                 | DVT prophylaxis                      |
+| Atorvastatin                        | 20 mg PO daily               | Hyperlipidemia                       |
+
+---
+
+# VITALS (ICU Course)
+
+| Date         | Temp (°C) | HR   | BP         | RR  | SpO2 (%) | Pain (0-10) |
+|--------------|-----------|------|------------|-----|----------|-------------|
+| 5/16/2024    | 37.4      | 126  | 78/52      | 28  | 87       | 4           |
+| 5/17/2024    | 37.6      | 112  | 92/60      | 22  | 94       | 3           |
+| 5/18/2024    | 38.1      | 98   | 105/68     | 18  | 95       | 2           |
+| 5/19/2024    | 36.9      | 87   | 112/74     | 16  | 98       | 1           |
+| 5/20/2024    | 37.0      | 80   | 120/80     | 14  | 99       | 1           |
+
+---
+
+# LABS
+
+**CBC, CHEM7, Selected Cardiac and Liver Labs**
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cr (mg/dL) | BUN (mg/dL) | Troponin (ng/mL) | AST (U/L) | ALT (U/L) | Comments          |
+|------------|------------|------------|---------|------------|-------------|------------|------------|-------------|-------------------|-----------|-----------|-------------------|
+| 5/16/2024  | 8.7        | 14.5       | 37.2    | 335        | 138         | 4.2        | 1.4        | 28          | 6.2               | 56        | 44        | Admission labs    |
+| 5/17/2024  | 10.2       | 13.9       | 35.4    | 298        | 135         | 5.1        | 2.7        | 49          | 4.8               | 73        | 58        | After Impella     |
+| 5/18/2024  | 9.1        | 13.2       | 33.7    | 272        | 137         | 4.5        | 2.9        | 54          | 2.2               | 80        | 66        | Peak AKI          |
+| 5/19/2024  | 7.8        | 12.8       | 32.6    | 243        | 136         | 4.0        | 2.0        | 38          | 1.1               | 61        | 52        | Improving renal   |
+| 5/20/2024  | —          | 12.6       | —       | 201        | 140         | 3.9        | 1.7        | 31          | 0.4               | 39        | 34        | Near baseline     |
+| 5/21/2024  | 8.2        | 12.9       | 33.1    | —          | 141         | 4.1        | 1.4        | 21          | —                 | 32        | 25        | Pre-discharge     |
+
+---
+
+# ASSESSMENT & PLAN (Problem-Based)
+
+**1. Cardiogenic Shock secondary to Acute Fulminant Myocarditis**  
+- Rapid-onset global LV dysfunction with severe reduction in EF (15%).  
+- Required vasopressors (norepinephrine, then dobutamine) and mechanical circulatory support (Impella CP).  
+- Improved cardiac function post-support, now off inotropes/Impella.  
+- Plan: Continue GDMT for heart failure (BB, ACEi), serial echos, outpatient cardiology. No device needed at discharge.
+
+**2. Acute Kidney Injury (Stage 3, multifactorial: hypotension, low cardiac output)**  
+- Required CRRT days 2–5, renal function improving.  
+- Plan: Strict I/Os, daily labs, renal dosing of meds, nephrology follow-up.
+
+**3. Arrhythmia (Atrial Fibrillation with RVR)**  
+- New-onset, likely secondary to critical illness, resolved with amiodarone.  
+- Plan: Continue amiodarone, telemetry, consider taper if no recurrence.
+
+**4. Recent Streptococcal Pharyngitis**  
+- Treated with penicillin V, likely trigger for immune-mediated myocarditis.  
+- Plan: Complete abx course, monitor ASO titers, no evidence of persistent infection.
+
+**5. Volume Overload/CHF**  
+- Managed with IV diuretics, improved with renal recovery.  
+- Plan: Transition to oral diuretics, daily weights, home scale.
+
+**6. Hyperlipidemia**  
+- LDL 90 mg/dL, on statin.  
+- Plan: Continue statin, dietary counseling.
+
+**7. DVT Prophylaxis**  
+- On heparin throughout ICU stay.  
+- Plan: Continue until ambulatory.
+
+**8. Pain**  
+- Mild, managed with acetaminophen.  
+- Plan: PRN non-opioid analgesia.
+
+**9. Social/Disposition**  
+- Lives alone, employed, family involved.  
+- Plan: Discharge with home health, outpatient cardiac rehab, follow-up in HF clinic in 1 week.
+
+---
+
+# IMAGING
+
+**Echocardiogram (5/16/24):**  
+- Severe global LV hypokinesis, EF 15%, mild RV dysfunction, no significant valvular disease.
+
+**Echocardiogram (5/20/24):**  
+- EF improved to 32%, mild LV dysfunction, RV function improved.
+
+**Chest X-ray (5/16/24):**  
+- Pulmonary edema, mild cardiomegaly.
+
+---
+
+# MICROBIOLOGY
+
+- Blood cultures x2: Negative  
+- Rapid strep test: Positive  
+- ASO titer: Elevated  
+- Respiratory viral PCR: Negative
+
+---
+
+# DISCHARGE INSTRUCTIONS
+
+- Continue all home and new cardiac meds as above.
+- Daily weights, monitor for SOB, edema.
+- Outpatient echo in 2 weeks.
+- Cardiology follow-up in 1 week.
+- Call for chest pain, palpitations, syncope, or worsening dyspnea.
+
+---
+
+# SIGNATURE
+
+**Jacob Jacobson, MD**  
+Attending, Cardiology  
+Date/Time: 2024-05-23 13:02
+
+---
+
+**END OF NOTE**

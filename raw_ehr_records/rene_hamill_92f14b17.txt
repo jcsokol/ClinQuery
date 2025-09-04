@@ -1,0 +1,170 @@
+**Patient Name:** Rene Hamill  
+**MRN:** 00492183  
+**DOB:** 02/19/1959 (65 years)  
+**Sex:** Female  
+**Admit Date:** 2024-05-31  
+**Attending:** Dr. K. Lawrence  
+**Service:** ICU - Cardiology  
+**Location:** 4W ICU Room 12  
+**Allergies:** NKDA  
+**Code Status:** Full Code  
+**Isolation:** None
+
+---
+
+### Admission HPI
+
+65F with PMHx of obesity, remote appendectomy, and hyperlipidemia, presenting with 3 days of progressive dyspnea, orthopnea, and lower extremity edema. She initially developed a viral URI 1 week prior, with fevers, myalgias, and sore throat, partially improved with outpatient Penicillin for presumed strep pharyngitis. Over the past 72 hours, she developed severe fatigue, exertional dyspnea, and PND. Presented to the ED after an episode of near-syncope at home.
+
+On arrival: tachycardic to 122, BP 88/54, O2 sat 92% RA, T 38.4°C. Exam notable for JVD, S3, bibasilar crackles, 2+ pitting edema. CXR: pulmonary edema. Labs: elevated BNP and troponin, metabolic acidosis, AKI. Echo: EF 15%, global hypokinesis. Cardiogenic shock suspected. Emergent transfer to ICU.
+
+Required escalating vasopressors and inotropic support. Due to refractory shock and persistent low cardiac output, a percutaneous left ventricular assist device (Impella CP) was placed on HD 1. Patient stabilized on temporary mechanical support.
+
+---
+
+## Problem-Based Assessment & Plan
+
+---
+
+### 1. **Cardiogenic Shock / New Onset Systolic Heart Failure**
+- **Assessment:** Likely viral myocarditis vs. ischemic insult (troponin mildly elevated, no focal wall motion abn, no prior CAD). Severe biventricular dysfunction, hemodynamic instability, multi-organ hypoperfusion.
+- **Plan:**
+  - Continue Impella CP support; monitor device parameters Q2h.
+  - Wean vasopressors as tolerated. Currently on norepinephrine 0.06 mcg/kg/min.
+  - Daily TTE to trend EF and filling pressures.
+  - Serial troponins, BNP.
+  - Strict I/Os, daily weights.
+  - Consult Advanced Heart Failure and Cardiac Surgery.
+  - Consider myocardial biopsy if no improvement by HD 4.
+  - Continue telemetry, maintain MAP >65.
+
+---
+
+### 2. **Acute Kidney Injury (Stage 2)**
+- **Assessment:** Likely multifactorial—hypoperfusion, congestion, possible nephrotoxic exposure.
+- **Plan:**
+  - Monitor daily chem7, UOP Q1h.
+  - Hold nephrotoxins, adjust antibiotics for renal function.
+  - IV fluids cautiously for euvolemia.
+  - Nephrology consult—consider RRT if oliguric/anuric.
+  - Monitor for electrolyte derangements.
+
+---
+
+### 3. **Volume Overload / Pulmonary Edema**
+- **Assessment:** Heart failure with fluid retention, pulmonary congestion.
+- **Plan:**
+  - IV loop diuretics (furosemide infusion), titrate to net negative balance.
+  - Daily CXR, monitor for improvement in pulmonary edema.
+  - Sodium restriction <2g/day, fluid restriction 1.5L/day.
+  - Monitor for diuretic response.
+
+---
+
+### 4. **Obesity (BMI 30+)**
+- **Assessment:** Risk factor for HF, complicates volume management.
+- **Plan:**
+  - Dietician consult for calorie restriction.
+  - Monitor for wound complications (Impella site).
+  - Encourage mobility as tolerated.
+
+---
+
+### 5. **Fever / Possible Viral Myocarditis**
+- **Assessment:** Recent viral URI, fever on admission, elevated inflammatory markers.
+- **Plan:**
+  - Continue infectious workup: viral PCR panel, blood cultures.
+  - Empiric antibiotics discontinued after negative cultures x48h.
+  - Monitor for secondary infections.
+  - Supportive care.
+
+---
+
+### 6. **History of Appendectomy / Prior Infections**
+- **Assessment:** Remote; not contributing to current presentation.
+- **Plan:**
+  - No acute intervention.
+
+---
+
+### 7. **Dyslipidemia**
+- **Assessment:** Modest elevations; likely chronic.
+- **Plan:**
+  - Hold statins for now (risk of myopathy in acute illness).
+  - Reassess on recovery.
+
+---
+
+### 8. **Pain (Mild)**
+- **Assessment:** Reports mild discomfort at groin insertion site (Impella).
+- **Plan:**
+  - Tylenol PRN.
+  - Assess site Q4h for bleeding/infection.
+
+---
+
+## Hospital Course Summary
+
+- **HD 0 (ED/ICU):** Hypotension, lactic acidosis, started norepinephrine and dobutamine. Worsening hypoxia, intubated for airway protection. Impella CP placed via right femoral artery.
+- **HD 1:** Stabilization of MAP, improved lactate. Oliguria, creatinine uptrending. Fevers persist, workup for myocarditis initiated.
+- **HD 2:** Weaning of vasopressors begun. Urine output improved with diuresis. Echo: EF 20%. CXR: improved pulmonary edema.
+- **HD 3:** Vasopressors discontinued. Impella flow reduced. Labs show stabilization of renal function. Negative infectious workup.
+- **HD 4:** TTE: EF 30%. Impella weaned off and removed. Extubated. Continues to improve.
+
+---
+
+## Labs
+
+| Date       | WBC  | Hgb   | Hct   | Plt   | Na   | K    | Cl   | HCO3 | BUN  | Cr   | Glu  | Troponin | BNP   | ALT  | AST  |
+|------------|------|-------|-------|-------|------|------|------|------|------|------|------|----------|-------|------|------|
+| 5/31/24    | 7.1  | 16.9  | 37.7  | 299   | 133  | 5.3  | 98   | 19   | 42   | 2.1  | 112  | 0.14     | 2100  | 44   | 62   |
+| 6/1/24     | 9.2  | 15.8  | 34.3  | 268   | 130  | 4.8  | 100  | 17   | 52   | 2.6  | 138  | 0.11     | 1950  | 38   | 51   |
+| 6/2/24     | 8.4  | 15.1  | 32.5  | 241   | 134  | 4.1  | 101  | 23   | 45   | 1.8  |      | 0.07     | 1300  |      | 38   |
+| 6/3/24     |      | 14.7  | 31.8  | 228   | 137  | 3.7  | 104  | 27   | 28   | 1.2  | 106  | <0.01    | 890   | 32   |      |
+| 6/4/24     | 6.6  | 14.2  |       | 211   | 139  | 3.9  |      | 25   | 24   | 1.0  | 99   | <0.01    | 640   | 28   | 31   |
+
+*missing values indicate lab not performed or sample insufficient*
+
+---
+
+## Medications (Inpatient)
+
+- Norepinephrine IV infusion (HD 0-3)
+- Dobutamine IV infusion (HD 0-2)
+- Furosemide IV continuous infusion
+- Acetaminophen 650mg PO/PRN
+- Empiric ceftriaxone/vancomycin (HD 0-2, discontinued)
+- Penicillin V (home, held on admission)
+- Atorvastatin (home, held)
+- DVT prophylaxis: enoxaparin 40mg SQ daily
+
+---
+
+## Procedures
+
+- **Impella CP placement:** 5/31/24, right femoral artery, no immediate complications.
+- **Intubation:** 5/31/24, extubated 6/4/24.
+- **Central venous catheter** (right IJ), **arterial line** (left radial).
+
+---
+
+## Disposition
+
+- Improving cardiac and renal function.
+- Transferred to step-down unit on 6/5/24 for continued monitoring, cardiac rehab, and advanced HF evaluation.
+
+---
+
+## Signout/To Do
+
+- Continue daily labs
+- Monitor for Impella site complications
+- Trend echo, consider cardiac MRI as outpatient
+- Early mobilization, PT consult
+- Arrange outpatient heart failure follow-up
+
+---
+
+**Signed by:** K. Lawrence, MD  
+**Date/Time:** 2024-06-05 13:22  
+**Co-signed:** N. Patel, MD (ICU Fellow)

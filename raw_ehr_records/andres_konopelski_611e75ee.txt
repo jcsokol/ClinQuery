@@ -1,0 +1,218 @@
+---
+**Patient:** Andres Konopelski  
+**MRN:** 004982314  
+**DOB:** 10/07/1975  
+**Sex:** Male  
+**Attending:** Dr. L. Garrison  
+**Admit Date:** 2024-05-16  
+**Location:** MICU, Rm 18B  
+**Service:** Cardiology/ICU  
+
+---
+
+### CHIEF COMPLAINT  
+Chest pain and dyspnea
+
+---
+
+### HISTORY OF PRESENT ILLNESS  
+49-year-old male with a history of coronary heart disease, prior MI (2019), anemia, prediabetes, chronic sinusitis, and recent viral pharyngitis, presenting with acute substernal chest pain radiating to the left arm, associated with diaphoresis and SOB. On arrival to ED, found to be hypotensive (BP 84/51), tachycardic (HR 116), and hypoxic (SpO2 88% RA). ECG showed ST elevations in the anterior leads. Emergent cardiac cath revealed 100% LAD occlusion, treated with PCI and DES. Developed cardiogenic shock post-PCI, requiring norepinephrine and dobutamine. Due to persistent hypotension and low cardiac index (CI 1.7), Impella CP device placed for temporary LV support. Transferred to MICU.  
+
+---
+
+### PAST MEDICAL HISTORY  
+- Coronary Heart Disease  
+- Hx of MI (2019, anterior wall)  
+- Anemia (chronic, likely multifactorial)  
+- Prediabetes  
+- Chronic sinusitis, viral sinusitis, recent viral pharyngitis  
+
+### SURGICAL HISTORY  
+- PCI x2 (2019, 2024)  
+- None other reported
+
+### MEDICATIONS ON ADMISSION  
+- Clopidogrel 75 mg PO daily  
+- Atorvastatin 80 mg PO daily  
+- Simvastatin 20 mg PO daily (home, held on admit)  
+- Amlodipine 5 mg PO daily  
+- Captopril 25 mg PO TID  
+- Nitroglycerin 0.4 mg/spray PRN  
+- Aspirin 325 mg PO daily (added in ED)  
+- IV norepinephrine, dobutamine (ICU only)  
+
+### ALLERGIES  
+No known drug allergies (NKDA)
+
+---
+
+### SOCIAL HISTORY  
+- Ex-smoker (quit 2019), 20 pack-years  
+- Social alcohol use  
+- Lives with spouse  
+- No illicit drug use  
+
+### FAMILY HISTORY  
+- Father: MI at age 62  
+- Mother: T2DM, HTN  
+
+---
+
+### REVIEW OF SYSTEMS  
+Unable to obtain complete ROS due to intubation and sedation in ICU. Notable for chest pain, dyspnea, cough, low urine output per nursing.
+
+---
+
+### PHYSICAL EXAM (ICU, Day 3)  
+- **Gen:** Intubated, sedated, appears acutely ill  
+- **CV:** S1, S2. No murmur. Impella hum audible. Cool extremities, pulses 1+  
+- **Resp:** Intubated, bilateral crackles  
+- **Abd:** Soft, nontender, +BS  
+- **Ext:** No edema, cap refill 3s  
+- **Neuro:** Follows simple commands, no focal deficit  
+- **Skin:** No rash, mild pallor
+
+---
+
+## ICU HOSPITAL COURSE SUMMARY
+
+**Day 0:**  
+- STEMI → emergent PCI (LAD)  
+- Cardiogenic shock, started on pressors  
+- Impella CP placed for LV support  
+- Intubated for hypoxemic respiratory failure  
+- Transferred to MICU
+
+**Day 1:**  
+- Persistent shock, rising creatinine (AKI)  
+- Lactate peaked at 5.1 mmol/L  
+- Started empiric antibiotics for possible aspiration pneumonia  
+- Transfused 1U PRBC for Hgb 7.4  
+- Echo: LVEF 22%, severe anterior hypokinesis  
+- Impella flows 3.2 L/min
+
+**Day 2-3:**  
+- Weaned off norepinephrine  
+- Impella flows down to 2.7 L/min  
+- Diuresis initiated for pulmonary edema  
+- Extubated on Day 3 AM  
+- Output improved, creatinine trending down  
+- Hgb stable at 9.4  
+- Cardiology: Plan for Impella removal if hemodynamics remain stable
+
+**Day 4:**  
+- Impella explanted, transitioned to low-dose dobutamine  
+- Ambulating in room, tolerating oral diet  
+- Plan for stepdown to telemetry
+
+---
+
+## VITALS SUMMARY
+
+| Date       | Temp (C) | HR   | BP         | RR  | SpO2 | Weight (kg) |
+|------------|----------|------|------------|-----|------|-------------|
+| 5/16/24    | 37.7     | 116  | 84/51      | 24  | 88%  | 83.1        |
+| 5/17/24    | 38.1     | 97   | 110/64     | 20  | 96%  | 82.8        |
+| 5/18/24    | 37.2     | 88   | 116/72     | 18  | 98%  | 82.1        |
+| 5/19/24    | 36.9     | 80   | 124/78     | 16  | 99%  | 82.0        |
+
+---
+
+## LABS
+
+**CBC / Chemistries (selected):**
+
+| Date      | WBC   | Hgb  | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Ca   |
+|-----------|-------|------|-------|-------|------|------|------|------|------|------|------|------|
+| 5/16/24   | 8.7   | 9.1  | 27.1  | 212   | 138  | 5.2  | 110  | 25   | 21   | 1.6  | 112  | 8.7  |
+| 5/17/24   | 13.2  | 7.4  | 22.0  | 190   | 140  | 5.8  | 112  | 22   | 28   | 2.2  | 156  | 8.2  |
+| 5/18/24   | 10.4  | 9.4  | 28.3  | 198   | 139  | 4.5  | 107  | 27   | 18   | 1.3  | 104  |      |
+| 5/19/24   | 8.2   | 9.7  | 29.1  | 210   |      | 4.2  | 109  | 28   | 14   | 1.0  | 98   | 9.2  |
+
+**Other Labs:**
+
+- **Lactate:**  
+  - 5/16: 4.8  
+  - 5/17: 5.1  
+  - 5/18: 2.1  
+  - 5/19: 1.3  
+- **Troponin I:**  
+  - 5/16: 8.21 ng/mL  
+  - 5/17: 9.10 ng/mL  
+  - 5/18: 5.32 ng/mL  
+  - 5/19: 3.41 ng/mL  
+- **BNP:**  
+  - 5/17: 1460 pg/mL  
+  - 5/19: 975 pg/mL  
+- **AST/ALT:**  
+  - 5/16: 78/55  
+  - 5/18: 45/31  
+- **INR:**  
+  - 5/16: 1.2  
+  - 5/18: 1.1  
+
+---
+
+## IMAGING  
+- **CXR (5/16):** Pulm edema, vascular congestion, ETT and Impella in place  
+- **Echo (5/17):** LVEF 22%, severe anterior wall hypokinesis, no pericardial effusion  
+- **Echo (5/19):** LVEF 33%, improved wall motion
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock, s/p STEMI (LAD), Impella CP placed**  
+   - Etiology: Acute anterior STEMI with profound LV dysfunction  
+   - Impella provided hemodynamic support for 4 days  
+   - Now off pressors, improved renal function  
+   - Plan: Continue aggressive diuresis, low-dose dobutamine, optimize afterload reduction, goal-directed medical therapy  
+
+**2. Acute Kidney Injury (likely ischemic, now improving)**  
+   - Oliguria, Cr peaked at 2.2, now 1.0  
+   - Avoid nephrotoxins, monitor I/Os, trend labs  
+   - Renal consult if worsening  
+
+**3. Anemia (Hx, acute on chronic)**  
+   - Transfused for Hgb <7.5  
+   - Stable at 9.7, monitor for ongoing losses  
+   - Iron studies pending  
+
+**4. Respiratory Failure, s/p intubation**  
+   - Extubated, now on 2L NC, SpO2 98-99%  
+   - Incentive spirometry, monitor for reintubation  
+
+**5. Coronary Artery Disease/Secondary Prevention**  
+   - Continue DAPT, statin, ACEi, BB (add once stable)  
+   - Cardiac rehab referral  
+   - Smoking cessation reinforced  
+
+**6. Prediabetes**  
+   - HgbA1c 5.8%  
+   - Monitor, dietician consult  
+
+**7. Infectious Concerns**  
+   - Procalcitonin neg, cultures no growth  
+   - Ceftriaxone/azithro for aspiration risk, stop after 5d if stable  
+
+**8. Chronic Sinusitis/Pharyngitis**  
+   - Supportive, ENT f/u as outpatient  
+
+**Other:**  
+- DVT prophylaxis with heparin  
+- GI prophylaxis with pantoprazole  
+- PT/OT eval for functional status  
+- Social work consult for disposition planning
+
+---
+
+**Dispo:** Stepdown unit, anticipate discharge home in 2-4 days if stable
+
+---
+
+**Physician:**  
+Dr. L. Garrison, MD  
+Attending, Cardiology-ICU  
+Date/Time: 2024-05-19 12:48
+
+---

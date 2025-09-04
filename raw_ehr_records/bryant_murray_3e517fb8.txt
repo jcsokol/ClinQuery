@@ -1,0 +1,150 @@
+**EPIC EHR - ICU PROGRESS NOTE**
+
+**Patient Name:** Bryant Murray  
+**MRN:** 00458962  
+**DOB:** 11/27/1957  
+**Sex:** Male  
+**Admit Date:** 2024-05-20  
+**Attending:** Dr. L. Chen  
+**Consults:** Cardiology, CV Surgery, Neurology, ID  
+**Location:** MICU, Rm 8B-12
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+Mr. Bryant Murray is a 66-year-old male with a history of obesity, osteoarthritis, CVA, and recent viral upper respiratory infections who presented to the ED with acute-onset dyspnea, orthopnea, and chest tightness. On evaluation, he was found to be in cardiogenic shock (SBP 70s, tachycardic, cool extremities, altered mentation). Initial workup revealed troponin elevation, diffuse ST depressions, and echo showing severely reduced LVEF (~10%), global hypokinesis. Cardiology and CV surgery were consulted. Due to persistent shock and end-organ hypoperfusion despite maximal medical therapy (dobutamine, norepi), a percutaneous left ventricular assist device (Impella CP) was placed on HD#1 for hemodynamic support.
+
+His course was complicated by AKI (Cr peak 2.4), transaminitis, and delirium. He was weaned off pressors by HD#3, and Impella was explanted on HD#5 after TTE showed improved LVEF (~25%) and hemodynamic stability. He remains on telemetry, with slow improvement in respiratory status and renal function. Neurology is following for prior CVA and delirium.
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. Cardiogenic Shock, Severe LV Dysfunction  
+- **Assessment:** Likely ischemic etiology; no prior known CAD. S/p Impella CP placement for refractory shock. LVEF improved to 25%.
+- **Plan:**
+    - Continue GDMT for HF (ACEi started, BB pending further stability).
+    - Aspirin, clopidogrel, statin initiated.
+    - Serial TTEs for LVEF.
+    - Telemetry monitoring.
+    - Outpatient cardiac cath planned post-stabilization.
+
+### 2. Acute Kidney Injury (AKI)  
+- **Assessment:** Multifactorial—pre-renal from hypoperfusion, nephrotoxic exposure (contrast from CT angio HD#1). Cr peaked at 2.4, now trending down.
+- **Plan:**
+    - IVF as tolerated.
+    - Avoid nephrotoxins.
+    - Monitor UOP, daily BMP.
+    - Renal dosing for all meds.
+
+### 3. Delirium  
+- **Assessment:** Likely multifactorial—ICU, metabolic derangement, prior CVA, infection.
+- **Plan:**
+    - Minimize sedatives.
+    - Early mobilization.
+    - Sleep hygiene.
+    - Neuro checks q2h.
+    - Psychiatry consult if persistent.
+
+### 4. CVA, remote  
+- **Assessment:** No new focal deficits. Continued on clopidogrel.
+- **Plan:**
+    - Continue DAPT.
+    - Monitor for hemorrhagic conversion.
+    - PT/OT to assess baseline.
+
+### 5. Obesity, BMI 30  
+- **Assessment:** BMI 31.2 on admission.
+- **Plan:**
+    - Nutrition consult.
+    - Calorie restriction.
+    - Encourage mobility as tolerated.
+
+### 6. Osteoarthritis (Knee)  
+- **Assessment:** Chronic, flares with inactivity.
+- **Plan:**
+    - Scheduled acetaminophen.
+    - Resume PT when able.
+
+### 7. Acute Bronchitis & Recent Viral URI  
+- **Assessment:** Productive cough on admission, now improved. No new infiltrates on CXR.
+- **Plan:**
+    - Supportive care.
+    - Incentive spirometry.
+
+---
+
+## ICU VITALS SUMMARY
+
+| Date        | Temp (°C) | HR   | BP (mmHg) | RR  | SpO2 | Pain (0-10) |
+|-------------|-----------|------|-----------|-----|------|-------------|
+| 5/20/2024   | 37.2      | 122  | 78/48     | 28  | 91%  | 7           |
+| 5/21/2024   | 37.5      | 110  | 98/62     | 24  | 94%  | 5           |
+| 5/22/2024   | 37.1      | 98   | 112/66    | 20  | 97%  | 3           |
+| 5/24/2024   | 36.9      | 86   | 124/74    | 16  | 98%  | 2           |
+
+---
+
+## HOSPITAL COURSE LABS
+
+| Date       | WBC    | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | Trop I  |
+|------------|--------|------|------|-------|------|------|------|------|------|------|------|------|------|---------|
+| 5/20/2024  | 8.9    | 14.1 | 43.2 | 265   | 129  | 5.2  | 98   | 21   | 38   | 2.1  | 144  | 98   | 112  | 0.32    |
+| 5/21/2024  | 9.6    | 12.8 | 39.5 | 212   | 132  | 4.8  | 101  | 19   | 54   | 2.4  | 162  | 212  | 180  | 0.27    |
+| 5/22/2024  | 8.1    | 12.5 | 38.2 | 189   | 134  | 4.2  | 104  | 22   | 46   | 1.9  | 132  | 67   | 75   | 0.11    |
+| 5/23/2024  | 7.5    | 12.7 | 38.7 | 178   | 137  | 4.1  | 105  | 25   | 35   | 1.2  | 121  | --   | --   | <0.01   |
+| 5/24/2024  | --     | 13.2 | 40.4 | 204   | 139  | 4.0  | 108  | 27   | 29   | 1.0  | 108  | --   | --   | <0.01   |
+
+---
+
+## HOME MEDICATIONS
+
+- Naproxen sodium 220mg PO PRN
+- Acetaminophen 325mg/Hydrocodone 7.5mg PO PRN
+- Acetaminophen 325mg PO PRN
+- Clopidogrel 75mg PO daily
+- Atorvastatin 40mg PO daily (started inpatient)
+- Lisinopril 2.5mg PO daily (started inpatient)
+- Metoprolol tartrate 12.5mg PO BID (to start after hemodynamic stability)
+- Aspirin 81mg PO daily (started inpatient)
+- Furosemide 20mg IV q12h (inpatient, now PO)
+
+---
+
+## CONSULTS
+
+- **Cardiology:** For shock, LVEF monitoring, GDMT, Impella management
+- **CT Surgery:** Impella placement and explant
+- **Neurology:** Delirium, prior CVA
+- **PT/OT:** Mobility, post-ICU rehab
+
+---
+
+## ALLERGIES
+
+- NKDA
+
+---
+
+## DISPOSITION
+
+- Anticipate transfer to step-down when off pressors >24h, stable without Impella.
+- Close follow-up with Cardiology, Neurology, and PCP.
+
+---
+
+## ADDITIONAL COMMENTS
+
+- Family updated daily; wife at bedside.
+- Social work consulted for home support.
+- Awaiting echo report for LVEF reassessment.
+
+---
+
+**Attending:** L. Chen, MD  
+**Date/Time:** 2024-05-24 08:17
+
+---
+
+**End of Note**

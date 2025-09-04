@@ -1,0 +1,165 @@
+--------------------------------------------------------------------------------
+**Epic EHR - [Inpatient] Chart Review**
+**Patient Name:** Enid Walter  
+**MRN:** 100234588  
+**DOB:** 1971-10-06 (Age 52)  
+**Sex:** Female  
+**Admit Date:** 2024-05-18  
+**Attending:** Dr. Y. Ramaswamy  
+**Consults:** Cardiology, Trauma Surgery, Endocrinology  
+**Allergies:** NKDA  
+**Code Status:** Full  
+**Isolation:** None  
+--------------------------------------------------------------------------------
+
+**HOSPITAL COURSE SUMMARY:**  
+Enid Walter is a 52-year-old obese female with history of hyperlipidemia who presented after a high-speed MVC with rib fracture, left thigh laceration, and concussion. She developed acute decompensated heart failure with cardiogenic shock on HD2, requiring temporary left-sided mechanical circulatory support (Impella CP) in the ICU. Her course was complicated by AKI, persistent hyperkalemia, and mild transaminitis. She was transferred out of the ICU on HD7 after explant of the pump and gradual improvement in hemodynamics.
+
+--------------------------------------------------------------------------------
+**PROBLEM-BASED ASSESSMENT & PLAN**
+
+**1. Cardiogenic Shock / Acute Decompensated Heart Failure**
+- **Assessment:** On HD2, patient became hypotensive (SBP 76/40), tachycardic, with rising lactate (3.8), worsening dyspnea, JVD, and rales. Echo: LVEF 18%, global hypokinesis. Troponin I peaked at 1.8 ng/mL. 
+- **Plan:**
+  - Initiated dobutamine, norepinephrine
+  - Emergent Impella CP placed at bedside for hemodynamic support
+  - Diuresis with IV furosemide, strict I/O
+  - Serial echocardiograms
+  - Cardiology following
+  - Tapered off pressors by HD5, Impella explanted HD6
+
+**2. Acute Kidney Injury (AKI)**
+- **Assessment:** Creatinine rose from 1.1 (baseline) to 2.7 on HD3, with decreased UOP. Likely multifactorial: hypoperfusion, diuretics, contrast.
+- **Plan:**
+  - IV fluids (judicious)
+  - Nephrology consult
+  - Hold nephrotoxics, monitor lytes
+  - Renal function improving by HD8 (Cr 1.5)
+
+**3. Chest Trauma: Rib Fracture (R 6th)**
+- **Assessment:** Stable, non-flail. Mild pain, no pneumothorax.
+- **Plan:**
+  - Incentive spirometry, pain control (acetaminophen, meperidine PRN)
+  - Pulmonary toilet, OOB as tolerated
+
+**4. Laceration, Left Thigh**
+- **Assessment:** 8 cm deep laceration, debrided and closed in OR HD1. No infection.
+- **Plan:**
+  - Wound checks BID, dry dressing
+  - Cefazolin x24h postop
+  - Suture removal planned HD10
+
+**5. Concussion (no LOC)**
+- **Assessment:** Mild HA, no neuro deficits, CT head neg.
+- **Plan:**
+  - Neuro checks q4h x48h, then daily
+  - Tylenol PRN
+
+**6. Obesity (BMI 30+)**
+- **Assessment:** BMI 30.0, increased risk for OSA, DVT.
+- **Plan:**
+  - SCDs, ambulate as tolerated
+  - Dietician consult
+  - Weight loss counseling
+
+**7. Hyperlipidemia**
+- **Assessment:** LDL 132 on admission, on simvastatin.
+- **Plan:**
+  - Resume simvastatin when LFTs stable
+  - Monitor LFTs
+
+**8. Contraception / Menstrual Management**
+- **Assessment:** Multiple hormonal contraceptives listed. Mirena IUD in place.
+- **Plan:**
+  - Continue Mirena only, discontinue others
+  - Gynecology consult for med reconciliation
+
+**9. Pain**
+- **Assessment:** Mostly controlled, NRS 1/10 except thigh wound.
+- **Plan:**
+  - Acetaminophen scheduled
+  - Meperidine PRN for severe pain
+
+**10. DVT Prophylaxis**
+- **Assessment:** High risk due to obesity, trauma, reduced mobility.
+- **Plan:**
+  - Enoxaparin 40 mg SQ daily (held while Impella in place, restarted HD7)
+
+**11. Hyperkalemia**
+- **Assessment:** K+ peaked 5.8 mmol/L during AKI.
+- **Plan:**
+  - Kayexalate x1, lasix, sodium zirconium cyclosilicate
+  - Monitor ECG, repeat labs
+
+--------------------------------------------------------------------------------
+**LABS - HOSPITAL COURSE**
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Ca   | Glu  | AST  | ALT  | AlkPhos | Tbili | Troponin I |
+|------------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|---------|-------|------------|
+| 5/18/2024  | 9.5  | 16.2 | 46.2 | 357  | 136  | 4.8  | 106  | 27   | 14.5 | 2.7  | 9.2  | 66   | 27   | 21   | 71      | 0.87  | 0.03       |
+| 5/19/2024  | 12.8 | 14.9 | 42.0 | 311  | 134  | 5.5  | 104  | 24   | 19   | 3.1  | 8.9  | 74   | 35   | 29   | 80      | 1.12  | 0.45       |
+| 5/20/2024  | 13.2 | 13.7 | 39.6 | 265  | 132  | 5.8  | 101  | 23   | 23   | 3.4  | 8.3  | 82   | 41   | 34   | 88      | 1.23  | 1.80       |
+| 5/21/2024  | 11.0 | 13.2 | 38.2 | 268  | 133  | 5.2  | 103  | 25   | 21   | 3.0  | 8.6  | 90   | 39   | 33   | 85      | 1.08  | 1.15       |
+| 5/22/2024  | 10.5 | 13.9 | 39.8 | 302  | 135  | 4.9  | 105  | 26   | 18   | 2.4  | 8.9  | 101  | 32   | 28   | 76      | 0.91  | 0.29       |
+| 5/23/2024  | 8.7  | 14.6 | 41.5 | 325  | 137  | 4.4  | 107  | 28   | 17   | 2.0  | 9.0  | 98   | 28   | 22   | 72      | 0.77  | <0.01      |
+| 5/24/2024  | 7.8  | 15.1 | 43.1 | 341  | 138  | 4.2  | 108  | 27   | 15   | 1.7  | 9.2  | 96   | 25   | 18   | 69      | 0.63  | <0.01      |
+| 5/25/2024  | 8.2  | 15.5 | 44.4 | 354  | 139  | 4.0  | 109  | 28   | 14   | 1.5  |      | 94   |      |      |         |       |            |
+
+*Some labs not collected daily. Troponin I trended during acute event only.*
+
+--------------------------------------------------------------------------------
+**VITALS - SELECTED**
+
+| Date       | Temp  | HR   | BP         | RR   | SpO2 | Pain |
+|------------|-------|------|------------|------|------|------|
+| 5/18/2024  | 36.7  | 98   | 134/88     | 18   | 97%  | 1    |
+| 5/19/2024  | 36.5  | 110  | 102/68     | 22   | 95%  | 3    |
+| 5/20/2024  | 36.1  | 124  | 76/40      | 28   | 92%  | 4    |
+| 5/21/2024  | 37.0  | 112  | 94/58      | 20   | 96%  | 2    |
+| 5/22/2024  | 36.8  | 96   | 112/74     | 19   | 98%  | 1    |
+| 5/23/2024  | 36.6  | 88   | 120/80     | 16   | 99%  | 0    |
+
+--------------------------------------------------------------------------------
+**MEDICATION ADMINISTRATION RECORD (abbreviated)**
+
+- **Dobutamine:** IV, HD2–HD5
+- **Norepinephrine:** IV, HD2–HD4
+- **Furosemide:** IV, daily HD2–HD8
+- **Simvastatin:** Held HD2–HD6, resumed HD7
+- **Meperidine:** PRN, max daily dose 100mg
+- **Acetaminophen:** 650mg q6h scheduled
+- **Cefazolin:** 1g IV q8h x3 doses post-op
+- **Enoxaparin:** Held HD2–HD6, resumed HD7
+
+--------------------------------------------------------------------------------
+**IMAGING**
+
+- **Chest X-ray HD2:** Mild pulmonary edema, Impella in place, no pneumothorax.
+- **Echo HD2:** LVEF 18%, global hypokinesis.
+- **Echo HD7:** LVEF 28%, mild improvement.
+
+--------------------------------------------------------------------------------
+**PROGRESS NOTES (EXCERPTS)**
+
+**HD2 – ICU Admission:** "Pt became hypotensive, anuric, with rising troponin. Cardiology at bedside, Impella CP placed without complication. Started on dual pressors, diuresis initiated."
+
+**HD4:** "Weaning off pressors, UOP improved, K+ trending down, wound healing well. Still requiring Impella support, but hemodynamics stabilizing."
+
+**HD7:** "Impella explanted, transferred to stepdown. Renal function improved, off pressors, DVT ppx resumed."
+
+--------------------------------------------------------------------------------
+**DISCHARGE PLAN (anticipated HD12):**
+- Close follow-up with cardiology, nephrology, trauma surgery
+- Home health for wound care
+- Cardiac rehab referral
+- Outpatient echo in 2 weeks
+- Resume simvastatin, Mirena only for contraception
+
+--------------------------------------------------------------------------------
+
+**Signed:**  
+Y. Ramaswamy, MD  
+Cardiology/ICU Attending  
+2024-05-25 14:32
+
+--------------------------------------------------------------------------------

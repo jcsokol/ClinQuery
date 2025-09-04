@@ -1,0 +1,181 @@
+**Patient Name:** Pierre Cassin  
+**MRN:** 004281556  
+**DOB:** 1995-06-10 (Age: 28)  
+**Sex:** M  
+**Date of Admit:** 2024-05-11  
+**Date of Note:** 2024-05-23  
+**Attending:** Dr. Angela L. Hsu  
+**Location:** ICU–Cardiac  
+
+---
+
+### **History of Present Illness**
+
+28-year-old male with PMH significant for obesity (BMI ~31), viral sinusitis, viral pharyngitis, and remote concussion (no LOC), presented with 3 days of progressive dyspnea, orthopnea, and chest tightness. He initially attributed symptoms to a viral URI but developed worsening fatigue and lower extremity edema. On day of admission, found diaphoretic and hypotensive (SBP 82) at home. EMS noted tachycardia and O2 sat 91% on RA. On arrival, patient was in frank cardiogenic shock with rising lactate (4.8) and was admitted to the cardiac ICU. Initial TTE showed LVEF 10-15% with global hypokinesis. Given persistent shock despite maximal medical therapy, he underwent emergent placement of a percutaneous left ventricular assist device (Impella CP) on hospital day 2.
+
+---
+
+### **Hospital Course Overview**
+
+- **Day 1-2:** Cardiogenic shock, hypotension, AKI (creatinine peaked at 2.1), lactic acidosis. Poor response to pressors/inotropes. Transferred to cath lab for Impella placement.
+- **Day 2-4:** Gradual improvement in end-organ perfusion. Pressors weaned. Serial TTEs showed improvement in LVEF to 25%. Developed mild transaminitis and thrombocytopenia.
+- **Day 5-8:** Impella weaned and removed on day 7. Diuresed aggressively. Extubated on day 6. Persistent mild AKI, improving.
+- **Day 9-11:** Stable on floor. Ongoing diuresis. Mobilization with PT. Discharge planning initiated.
+
+---
+
+## **Assessment/Problem List**
+
+### 1. **Cardiogenic Shock due to Acute Severe Systolic Heart Failure**
+
+- **Summary:** Likely viral myocarditis (post-viral syndrome). Required Impella CP for hemodynamic support.
+- **Status:** LVEF improved to 35% pre-discharge. Off pressors, euvolemic.
+- **Plan:**
+  - Continue GDMT for HFrEF (low-dose carvedilol, lisinopril, spironolactone).
+  - Follow up with heart failure and transplant team.
+  - Serial echo.
+  - Monitor for arrhythmias.
+
+### 2. **Obesity (BMI 31)**
+
+- **Plan:** Nutrition consult. Caloric restriction, low sodium diet, cardiac rehab referral.
+
+### 3. **Acute Kidney Injury (AKI), resolving**
+
+- **Etiology:** Likely multifactorial (shock, nephrotoxic meds, diuretics).
+- **Plan:** Monitor renal function. Avoid nephrotoxins. Adjust meds for GFR.
+
+### 4. **Transaminitis**
+
+- **Etiology:** Likely ischemic hepatitis (shock liver).
+- **Plan:** Monitor LFTs. No hepatotoxic meds.
+
+### 5. **Thrombocytopenia**
+
+- **Etiology:** Multifactorial (device-related, sepsis, dilutional).
+- **Plan:** Monitor CBC daily. No evidence of HIT.
+
+### 6. **Remote concussion, viral sinusitis, viral pharyngitis**
+
+- **Plan:** Continue supportive care. No acute issues.
+
+### 7. **Allergies**
+
+- **NKDA.** EpiPen on hand for possible anaphylaxis (history of urticaria with unknown trigger).
+
+---
+
+## **Medications**
+
+| Medication                     | Dose/Route                     | Frequency             | Indication                      |
+|---------------------------------|-------------------------------|-----------------------|----------------------------------|
+| Carvedilol                     | 3.125 mg PO                   | BID                   | Systolic HF                     |
+| Lisinopril                     | 2.5 mg PO                     | Daily                 | Systolic HF                     |
+| Spironolactone                 | 12.5 mg PO                    | Daily                 | Systolic HF                     |
+| Furosemide                     | 20 mg IV/PO                   | BID                   | Volume overload                  |
+| Loratadine                     | 5 mg chewable                  | PRN                   | Allergic rhinitis                |
+| Epinephrine (auto-injector)    | 0.3 ml (1mg/ml)                | PRN                   | Allergy kit                      |
+| Acetaminophen                  | 650 mg PO                     | q6h PRN               | Fever/pain                       |
+| Pantoprazole                   | 40 mg IV                      | Daily                 | GI prophylaxis                   |
+
+---
+
+## **Vital Signs (Selected)**
+
+| Date        | Temp (C) | HR  | BP         | RR | SpO2 | Wt (kg) |
+|-------------|----------|-----|------------|----|------|---------|
+| 5/11        | 37.7     | 132 | 82/58      | 24 | 91%  | 95.4    |
+| 5/12        | 38.1     | 128 | 88/62      | 22 | 94%  | 96.0    |
+| 5/13        | 37.2     | 110 | 102/70     | 18 | 97%  | 94.5    |
+| 5/15        | 36.9     | 92  | 110/75     | 16 | 98%  | 92.2    |
+| 5/17        | 37.0     | 84  | 115/80     | 15 | 98%  | 91.0    |
+| 5/21        | 36.8     | 78  | 120/80     | 14 | 98%  | 90.5    |
+
+---
+
+## **Laboratory Results**
+
+### **CBC, CHEM7, LFTs, Cardiac Markers**
+
+| Date    | WBC  | Hgb  | Hct  | Plt  | Na   | K   | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | T.Bili | Troponin | BNP     |
+|---------|------|------|------|------|------|-----|------|------|------|------|------|------|------|--------|----------|---------|
+| 5/11    | 6.1  | 16.1 | 49.6 | 198  | 132  | 5.2 | 104  | 19   | 32   | 1.8  | 124  | 89   | 105  | 2.1    | 0.32     | 7,050   |
+| 5/12    | 8.2  | 14.3 | 43.1 | 155  | 129  | 4.8 | 100  | 16   | 39   | 2.1  | 118  | 212  | 187  | 3.0    | 0.41     | 6,300   |
+| 5/13    | 7.8  | 13.9 | 41.2 | 132  | 135  | 4.2 | 103  | 23   | 26   | 1.5  | 110  | 101  | 85   | 1.7    | 0.15     | 4,800   |
+| 5/15    | 6.9  | 14.8 | 44.9 | 141  | 138  | 4.0 | 106  | 25   | 21   | 1.2  | 105  | 49   | 51   | 0.9    | 0.09     | 2,300   |
+| 5/16    |      | 15.1 |      | 158  | 139  |     | 107  |      | 19   | 1.1  | 103  | 41   | 40   |        |          | 1,580   |
+| 5/18    | 5.6  | 15.6 | 46.2 | 172  | 140  | 4.1 |      | 27   | 17   | 1.0  | 108  | 38   |      | 0.7    | 0.04     | 980     |
+| 5/21    | 5.2  | 15.3 |      | 196  | 141  | 4.1 | 108  | 28   | 16   | 0.9  | 99   |      | 27   |        | 0.01     | 540     |
+
+*Note: Some labs not obtained on all days. Significant for initial leukocytosis, anemia, thrombocytopenia, hyperbilirubinemia, marked transaminitis, and elevated BNP/troponin trending down.*
+
+---
+
+## **Imaging**
+
+- **TTE (5/11):** LVEF 10-15%, global hypokinesis, mild RV dysfunction, no LV thrombus, mild MR.
+- **TTE (5/15):** LVEF 25%, improved wall motion, no pericardial effusion.
+- **CXR (5/11):** Mild pulmonary edema, vascular congestion.
+- **CXR (5/13):** Improving pulmonary edema, Impella in place.
+
+---
+
+## **Procedures**
+
+- **5/12:** Impella CP placement via right femoral artery (see full procedure note).
+- **5/13-5/15:** Serial TTE for device position.
+- **5/17:** Right heart cath: Normal wedge, improved cardiac index.
+
+---
+
+## **Consults**
+
+- **Cardiology (Heart Failure):** Guideline-directed therapy, transplant eval.
+- **Nutrition:** Calorie/salt restriction.
+- **PT/OT:** Mobilization post-ICU.
+- **Nephrology:** AKI management.
+
+---
+
+## **Discharge Planning**
+
+- Anticipate discharge home with family support.
+- Close follow-up with cardio, HF clinic, PCP.
+- Home weight monitoring, BP log, HF education.
+- Prescriptions for GDMT, diuretics, EpiPen.
+
+---
+
+## **Problem-Based Assessment and Plan**
+
+1. **Acute Systolic Heart Failure/Cardiogenic Shock:**  
+   - Etiology: Suspect viral myocarditis (consider endomyocardial biopsy if recurrent).  
+   - Plan: GDMT, close follow-up, repeat echo, life vest until rhythm stable.
+
+2. **Obesity:**  
+   - Plan: Nutrition, exercise, PT/OT, sleep apnea screening.
+
+3. **AKI, resolving:**  
+   - Plan: Avoid nephrotoxins, monitor labs, renal dosing.
+
+4. **Shock Liver:**  
+   - Plan: Repeat LFTs, supportive care.
+
+5. **Thrombocytopenia:**  
+   - Plan: Monitor, trend, avoid unnecessary sticks.
+
+6. **Allergy hx:**  
+   - Plan: Continue EpiPen, allergy f/u PRN.
+
+7. **Others:**  
+   - Plan: Resume loratadine PRN, monitor for infection, vaccinate as indicated.
+
+---
+
+**Attending:** Angela L. Hsu, MD  
+**Resident:** Jacob R. Lee, MD  
+**Date/Time Signed:** 2024-05-23 13:41
+
+---
+
+**END OF NOTE**

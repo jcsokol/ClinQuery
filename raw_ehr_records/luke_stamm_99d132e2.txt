@@ -1,0 +1,166 @@
+**EPIC EHR**
+
+**Patient Name:** Luke Stamm  
+**MRN:** 00438291  
+**DOB:** 09/08/1924 (Age: 99)  
+**Sex:** M  
+**Admit Date:** 03/16/2024  
+**Attending:** Dr. J. M. Patel  
+**ICU Service:** Cardiology/CCU  
+
+---
+
+### **HOSPITAL COURSE SUMMARY**
+
+**History of Present Illness:**  
+Mr. Luke Stamm is a 99-year-old male with a complex medical history including hypertension, DM2, CKD1, metabolic syndrome, prior CVA, anemia, hypertriglyceridemia, and recurrent colonic polyps with history of colon CA. He presented to the ED with 3 days of progressive dyspnea, orthopnea, and lower extremity swelling. On arrival, he was tachypneic and hypotensive (BP 84/52), with bibasilar rales, JVD, and cool extremities. Initial labs showed acute renal dysfunction and rising troponin. He rapidly decompensated on the floor with evidence of cardiogenic shock—requiring escalation to the ICU.  
+
+Cardiology was consulted and an intra-aortic balloon pump (IABP) was placed for temporary circulatory support. He required vasopressors and aggressive diuresis. He improved over the next 3 days and was weaned off the IABP on day 4.  
+
+He also had a complicated course with AKI, mild transaminitis, and anemia. Oncology was consulted for further colon surveillance.  
+
+---
+
+### **PROBLEM-BASED ASSESSMENT & PLAN**
+
+#### 1. **Cardiogenic Shock / Acute Decompensated Heart Failure**
+- **Assessment:** Likely ischemic etiology with underlying HFrEF. Required IABP for 72h. LVEF on bedside echo: 20%.  
+- **Plan:**  
+    - Continue GDMT (hold ACEi due to AKI).  
+    - Diurese with IV furosemide.  
+    - Monitor for arrhythmias.  
+    - Outpatient follow-up for advanced HF therapies.  
+    - Cardiac rehab referral.
+
+#### 2. **Acute Kidney Injury on CKD1**
+- **Assessment:** Multifactorial—cardiorenal, hypotension, contrast exposure. Baseline Cr ~1.3, peak 5.9, now trending down.  
+- **Plan:**  
+    - Daily BMP, strict I/O.  
+    - Avoid nephrotoxins.  
+    - Hold metformin.  
+    - Renal consult—no acute need for dialysis.
+
+#### 3. **Diabetes Mellitus, Type 2**
+- **Assessment:** Poorly controlled, A1c 8.2% on admission.  
+- **Plan:**  
+    - Sliding scale insulin in ICU.  
+    - Resume basal/bolus when oral intake improved.  
+    - Endo consult.
+
+#### 4. **Hypertension**
+- **Assessment:** Difficult to control, now low due to critical illness.  
+- **Plan:**  
+    - Hold all antihypertensives until stable.  
+    - Slow uptitration as tolerated.
+
+#### 5. **Anemia**
+- **Assessment:** Hgb dropped from 13 to 8.1, likely multifactorial (chronic disease, GI blood loss, hemodilution).  
+- **Plan:**  
+    - Monitor CBC daily.  
+    - Transfuse if <7 or symptomatic.  
+    - Stool guaiac negative.  
+    - GI/oncology to follow for surveillance.
+
+#### 6. **Colon Cancer / Polyps**
+- **Assessment:** S/p partial colectomy 2019, recurrent polyps, last colonoscopy 2022.  
+- **Plan:**  
+    - Oncology to coordinate surveillance.  
+    - No active chemo during admission.
+
+#### 7. **Stroke (CVA)**
+- **Assessment:** Remote, residual mild left hemiparesis.  
+- **Plan:**  
+    - DVT prophylaxis.  
+    - Continue PT/OT.  
+    - Aspirin resumed when bleeding risk acceptable.
+
+#### 8. **Metabolic Syndrome / Hypertriglyceridemia**
+- **Assessment:** Not acutely managed during ICU course.  
+- **Plan:**  
+    - Resume statin/fibrate on discharge.
+
+#### 9. **Acute Viral Pharyngitis / Streptococcal Sore Throat**
+- **Assessment:** Mild pharyngitis on admission, no respiratory compromise.  
+- **Plan:**  
+    - Symptomatic care, completed 5-day penicillin.
+
+---
+
+### **HOSPITAL LABS SUMMARY**
+
+#### **Chemistry / CBC (Selected Dates)**
+
+| Date        | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | WBC  | Hgb  | Hct  | Plt  |
+|-------------|------|------|------|------|------|------|------|------|------|------|------|
+| 3/16 05:32  | 139  | 4.7  | 104  | 28   | 15   | 5.9  | 315  | 8.4  | 16.7 | 49.5 | 377  |
+| 3/17 06:01  | 138  | 5.2  | 102  | 26   | 34   | 4.8  | 204  | 11.2 | 13.4 | 41.2 | 319  |
+| 3/18 05:44  | 136  | 4.9  | 100  | 23   | 45   | 3.7  | 186  | 9.1  | 11.9 | 36.8 | 289  |
+| 3/19 07:12  | 137  | 4.2  | 102  | 25   | 29   | 2.9  | 142  | 7.5  | 10.3 | 33.2 | 223  |
+| 3/20 06:58  | 138  | 4.4  | 103  | 27   | 20   | 2.1  | 131  | 8.0  | 9.1  | 29.7 | 211  |
+| 3/21 06:24  | 139  | 4.1  | 104  | 26   | 18   | 1.7  | 124  | 7.8  | 8.1  | 27.4 | 221  |
+
+*Some values not collected daily. Glucose values variable due to insulin titration.*
+
+#### **Other Labs**
+
+- **Troponin I:** 0.34 → 1.22 → 0.98 → 0.22 (peaked 3/16, trended down)
+- **BNP:** 3840 pg/mL (on admission)
+- **LFTs (ALT/AST):** ALT 57, AST 31, Alk Phos 103, T. bili 1.2 (mild transaminitis, resolved)
+- **HbA1c:** 8.2%
+- **Albumin:** 2.9 g/dL (low)
+- **Urinalysis:** Proteinuria, microalbumin/Cr 36 mg/g
+- **Prostate specific Ag:** 3.2 ng/mL
+
+---
+
+### **CARDIOVASCULAR PROCEDURES**
+
+**Intra-aortic Balloon Pump (IABP) Placement**  
+- **Date:** 3/16/2024  
+- **Indication:** Cardiogenic shock, low cardiac output despite inotropes/pressors  
+- **Access:** R femoral artery  
+- **Complications:** None  
+- **Weaned off:** 3/20/2024  
+- **Outcome:** Improved hemodynamics, urine output, mentation
+
+---
+
+### **VITALS (Selected ICU Days)**
+
+| Date/Time      | Temp (C) | HR  | BP         | RR  | SpO2 | Pain |
+|----------------|----------|-----|------------|-----|------|------|
+| 3/16 07:00     | 37.6     | 112 | 84/52      | 28  | 91%  | 2    |
+| 3/16 16:00     | 37.2     | 98  | 92/58      | 24  | 95%  | 0    |
+| 3/17 06:00     | 36.8     | 88  | 101/64     | 18  | 97%  | 0    |
+| 3/18 07:00     | 36.9     | 75  | 112/70     | 16  | 98%  | 0    |
+| 3/20 08:00     | 37.1     | 74  | 118/72     | 16  | 98%  | 0    |
+
+---
+
+### **MEDICATIONS (Active During Admission)**
+
+- Furosemide IV drip
+- Insulin glargine and regular insulin sliding scale
+- Heparin SQ (DVT prophylaxis)
+- Penicillin V (completed)
+- Atorvastatin (held, then resumed)
+- Atenolol/chlorthalidone (held during shock)
+- Leucovorin, oxaliplatin (oncology, not given during this admission)
+
+---
+
+### **DISPOSITION**
+
+- Transferred to stepdown on 3/21/2024, improved renal function, off pressors, ambulating with PT.
+- Plan for SNF placement with outpatient cardiology/oncology follow-up.
+
+---
+
+**Signed:**  
+Dr. J. M. Patel, MD  
+Cardiology/ICU  
+03/22/2024 09:15
+
+---
+
+**END OF NOTE**

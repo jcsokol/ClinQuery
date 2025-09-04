@@ -1,0 +1,200 @@
+---
+**Epic EHR Patient Summary**  
+**Patient Name:** Mikki King  
+**MRN:** 0094321  
+**DOB:** 2003-05-25 (Age: 20)  
+**Sex:** Female  
+**Date of Admission:** 2024-05-12  
+**Date of Note:** 2024-05-19  
+**Attending:** Dr. S. Patel  
+**Consults:** Cardiology, Allergy/Immunology, Infectious Disease, ICU
+
+---
+
+## **Chief Complaint**
+Acute onset of dyspnea, chest pain, and syncope at home. EMS found hypotensive, tachycardic, requiring urgent transfer.  
+
+---
+
+## **History of Present Illness**
+20-year-old F with PMHx of atopic dermatitis, perennial allergic rhinitis (seasonal variation), acute bronchitis, and recent strep throat, who presented with 2 days of worsening cough and myalgias, followed by acute chest pain and collapse at home. EMS report: HR 140s, BP 76/44, O2 sat 86% RA, fever 39.3°C. On arrival to ED: obtunded, tachycardic, hypotensive, requiring intubation and vasopressors.
+
+ECG: sinus tach, diffuse low voltage, ST changes.  
+Echo: Severe global LV dysfunction, LVEF ~10%, mild RV dysfunction.  
+Troponin: markedly elevated.  
+Diagnosis: Fulminant myocarditis (likely viral vs. post-infectious).  
+Due to refractory cardiogenic shock, temporary LV assist device (Impella CP) placed in ICU on D1.
+
+---
+
+## **Past Medical History**
+- Atopic dermatitis
+- Perennial allergic rhinitis (seasonal)
+- Acute bronchitis (resolved)
+- Streptococcal pharyngitis (recent; penicillin completed 1 week ago)
+
+## **Past Surgical History**
+- None
+
+## **Family History**
+- Mother: asthma, eczema
+- Father: healthy
+
+## **Social History**
+- College student
+- Non-smoker, no EtOH, no illicit drug use
+- Lives in dormitory
+
+## **Allergies**
+- NKDA
+
+## **Home Medications**
+- Fexofenadine 30mg PO qd
+- Epinephrine 0.3mg autoinjector PRN
+- Acetaminophen/dextromethorphan/doxylamine PRN
+- Penicillin V (recent course, now stopped)
+- Hydrocortisone 10mg/mL topical PRN
+- Trinessa OCP
+- Medroxyprogesterone acetate IM q3mo
+
+---
+
+# **ICU Course Summary**
+- D1: Admitted in florid cardiogenic shock, intubated, on norepinephrine + milrinone. Echo: LVEF 10%. Labs: lactic acidosis, acute renal injury, elevated troponin/CK-MB. Emergent Impella CP (percutaneous LVAD) placed.
+- D2-3: Improved MAP, decreasing pressor support. Ongoing fever. Blood cultures drawn. Started empiric broad-spectrum abx (cefepime, vanc).
+- D4: Extubated. Weaning Impella support. Repeat echo: LVEF up to 25%. Renal function improving.  
+- D5-6: Impella explanted. Transient arrhythmias (NSVT), resolved.  
+- D7: Transferred to stepdown. Off pressors, stable.
+
+---
+
+# **Vital Signs (selected)**
+
+| Date       | Temp (C) | HR (bpm) | BP (mmHg)   | RR | SpO2 | Pain (0-10) |
+|------------|----------|----------|-------------|----|------|-------------|
+| 2024-05-12 | 39.3     | 143      | 76/44       | 32 | 86%  | intubated   |
+| 2024-05-13 | 38.2     | 125      | 92/55 (MAP 68)| 24 | 92%  | 0           |
+| 2024-05-14 | 37.8     | 98       | 110/64      | 18 | 96%  | 3           |
+| 2024-05-16 | 37.2     | 82       | 116/74      | 16 | 98%  | 2           |
+| 2024-05-18 | 36.9     | 76       | 118/72      | 14 | 98%  | 1           |
+
+---
+
+# **Labs**
+
+**CBC, Chem7, Cardiac, LFTs (selected days):**
+
+| Date       | WBC  | Hgb  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin I | CK-MB | AST  | ALT  |
+|------------|------|------|------|------|------|------|------|------|------|------|------------|-------|------|------|
+| 5/12       | 7.0  | 15.8 | 420  | 132  | 5.6  | 98   | 18   | 32   | 2.1  | 142  | 12.1       | 78    | 210  | 189  |
+| 5/13       | 6.2  | 14.9 | 398  | 134  | 4.9  | 99   | 20   | 28   | 1.7  | 116  | 9.2        | 54    | 178  | 166  |
+| 5/14       | 5.7  | 13.8 | 382  | 136  | 4.2  | 101  | 23   | 21   | 1.2  | 104  | 2.8        | 19    | 98   | 87   |
+| 5/15       |      | 13.6 |      | 137  | 4.1  |      | 25   | 18   | 1.0  | 99   | <0.01      | <5    | 51   | 49   |
+| 5/16       | 6.1  | 13.2 | 355  | 138  | 3.9  | 103  | 25   | 14   | 0.8  | 92   | <0.01      | <5    | 32   | 29   |
+| 5/18       | 6.8  | 13.9 | 367  |      | 4.0  | 104  |      | 13   | 0.7  | 88   |            |       |      |      |
+
+**Other relevant labs:**
+- ProBNP (5/12): 28,772 pg/mL (markedly elevated)
+- Lactate (5/12): 6.1 mmol/L → 2.2 (5/14)
+- CRP (5/12): 119 mg/L
+- ESR (5/12): 58 mm/hr
+- Blood Cx: negative x2
+- Viral panel: Parvovirus B19 IgM+, others neg
+
+---
+
+# **Allergy/Immunology**
+
+**IgE Panel (collected 5/17):**
+- White oak: 25.5 kU/L
+- Ragweed: 28.4 kU/L
+- Cat dander: 21.9 kU/L
+- Dust mite: 6.5 kU/L
+- Cladosporium: 11.2 kU/L
+- Others (peanut, walnut, codfish, shrimp, wheat, egg, soy, milk, bee, latex): All <0.4 kU/L
+
+---
+
+# **Imaging**
+- **Echo (5/12):** LVEF 10%, severe global hypokinesis, mild RV dysfunction, small pericardial effusion
+- **Echo (5/15):** LVEF improved to 25-30%, no LV thrombus, mild MR
+- **CXR (5/12):** Pulmonary edema, mild cardiomegaly
+
+---
+
+# **Assessment & Plan**  
+**1. Fulminant viral myocarditis with cardiogenic shock (Impella CP LVAD placed, now explanted):**  
+- Continue to monitor cardiac function, telemetry for arrhythmia
+- Cardiac MRI pending outpatient for residual fibrosis
+- Plan: ACEi (lisinopril), carvedilol, Lasix PRN, close f/u with heart failure clinic
+- Avoid strenuous activity x3mo
+
+**2. Acute kidney injury, likely pre-renal (improved):**  
+- Now resolving, monitor renal function, avoid nephrotoxins
+
+**3. Recent strep pharyngitis, completed abx:**  
+- No evidence of ongoing infection
+
+**4. Atopic dermatitis, allergic rhinitis:**  
+- Resume topical hydrocortisone, continue fexofenadine
+- Epi autoinjector remains on PRN basis
+
+**5. Fever, leukocytosis (initial):**  
+- Infectious workup negative; likely inflammatory/viral
+- Abx discontinued after 72hr negative cultures
+
+**6. Transient arrhythmias (NSVT):**  
+- Monitor, no antiarrhythmics needed
+
+**7. Nutrition:**  
+- BMI low at baseline, nutritional support during ICU stay, now advancing to PO
+
+**8. Contraception:**  
+- Continue Trinessa, medroxyprogesterone as scheduled
+
+**9. Disposition:**  
+- Stepdown unit, anticipate discharge in 2-3 days with cardiology, allergy follow-up
+
+---
+
+# **Medications (Inpatient)**
+
+- Norepinephrine IV (D1-3)
+- Milrinone IV (D1-4)
+- Cefepime IV (D1-3)
+- Vancomycin IV (D1-3)
+- Lisinopril PO (from D5)
+- Carvedilol PO (from D5)
+- Furosemide IV/PO (PRN)
+- Acetaminophen PO/IV (PRN)
+- Fexofenadine PO qd
+- Hydrocortisone topical PRN
+- Trinessa OCP
+- Medroxyprogesterone IM
+
+---
+
+# **Procedures**
+
+- Intubation (5/12)
+- Impella CP placement (5/12)
+- Central line, arterial line
+- Impella explantation (5/15)
+- Extubation (5/14)
+
+---
+
+# **Education/Follow-up**
+
+- Discussed post-myocarditis care, infection precautions, activity restrictions
+- Cardiology/Heart Failure Clinic f/u in 1 week
+- Allergy/Immunology f/u in 2 weeks
+- PCP f/u for nutrition and contraceptive management
+
+---
+
+# **Signature**
+Dr. S. Patel, MD | Cardiology/ICU  
+Date: 2024-05-19
+
+---

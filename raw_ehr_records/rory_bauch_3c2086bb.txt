@@ -1,0 +1,147 @@
+**Patient:** Rory Bauch  
+**MRN:** 99327185  
+**DOB:** 04/08/1911 (Age: 113)  
+**Sex:** Male  
+**Admit Date:** 06/17/2024  
+**Attending:** Dr. J. Tan, Cardiology  
+**Note Type:** ICU Progress Note  
+**Date/Time:** 06/21/2024 07:59
+
+---
+
+### Chief Complaint:
+Worsening shortness of breath, confusion, and hypotension.
+
+---
+
+### HOSPITAL COURSE (Summary)
+Mr. Rory Bauch is a 113-year-old male with a history of hypertension, chronic opioid use, tobacco use, prediabetes, chronic anemia, gout, metastatic prostate cancer (s/p docetaxel and leuprolide), Alzheimer’s dementia, osteoporosis, and pneumonia. He was admitted from the SNF with acute-on-chronic hypoxemic respiratory failure and hypotension. He rapidly decompensated in the ED, requiring intubation and vasopressor support. An echocardiogram revealed severe global LV hypokinesis with EF ~15%. He was transferred to the ICU, where he developed cardiogenic shock refractory to medical management. A percutaneous left ventricular assist device (Impella CP) was placed for temporary hemodynamic support.
+
+His course was complicated by AKI (now improving), anemia requiring transfusion, delirium, and recurrent infections. He is now extubated, on minimal pressors, and the Impella is being weaned.
+
+---
+
+### VITALS (last 24h)
+| Time        | Temp (°C) | HR   | BP         | RR   | SpO2 | O2 Device    | Pain |
+|-------------|-----------|------|------------|------|------|-------------|------|
+| 06:00       | 36.8      | 92   | 103/57     | 20   | 95%  | 2L NC        | 2    |
+| 12:00       | 37.0      | 88   | 109/62     | 18   | 97%  | 2L NC        | 4    |
+| 18:00       | 36.5      | 85   | 98/54      | 16   | 96%  | Room Air     | 3    |
+
+
+---
+
+### LABS
+
+#### CBC/Chemistries
+
+| Date        | WBC      | Hgb   | Hct   | Plt   | Na    | K     | Cl    | CO2   | BUN   | Cr     | Glu   |
+|-------------|----------|-------|-------|-------|-------|-------|-------|-------|-------|--------|-------|
+| 6/17 06:15  | 5.6      | 12.7  | 39.6  | 244   | 137   | 3.8   | 111   | 20    | 8     | 0.52   | 74    |
+| 6/18 04:50  | 6.7      | 10.2  | 31.4  | 201   | 134   | 3.6   | 109   | 18    | 17    | 1.14   | 121   |
+| 6/18 18:12  | 8.2      | 9.4   | 29.2  | 182   | 136   | 3.4   | 106   | 19    | 23    | 1.39   | 112   |
+| 6/19 05:30  | 7.1      | 10.7  | 33.0  | 175   | 138   | 3.7   | 110   | 21    | 18    | 0.98   | 106   |
+| 6/20 04:45  | 5.9      | 11.3  | 34.1  | 164   | 139   | 3.9   | 112   | 22    | 14    | 0.81   | 98    |
+| 6/21 05:10  | 6.1      | 11.7  | 35.2  | 159   | 140   | 4.1   | 113   | 23    | 12    | 0.71   | 102   |
+
+*Some missing values: Differential, MCV, MCH, RDW not available for several time points.*
+
+#### Additional Labs
+
+| Date      | Troponin I | BNP   | AST  | ALT  | Alk Phos | T. Bili | INR  | Lactate |
+|-----------|------------|-------|------|------|----------|---------|------|---------|
+| 6/17      | 0.18       | 2880  | 42   | 30   | 97       | 0.7     | 1.2  | 2.1     |
+| 6/18      | 0.22       | 3150  | 51   | 38   | 121      | 1.0     | 1.4  | 3.2     |
+| 6/19      | 0.14       | 2650  | 40   | 29   | 88       | 0.6     | 1.1  | 1.7     |
+| 6/20      | 0.09       | 2380  | --   | --   | --       | --      | --   | 1.2     |
+
+---
+
+### IMAGING
+- **CXR 6/17**: Bilateral patchy opacities, most pronounced at lower lobes, consistent with pneumonia. Mild cardiomegaly.
+- **Echo 6/17**: Severe global LV hypokinesis, EF 15%. Mild RV dysfunction. No significant valvular disease.
+- **CT Head 6/17**: Chronic microvascular changes. No acute infarct or hemorrhage.
+
+---
+
+### ASSESSMENT & PLAN
+
+1. **Cardiogenic Shock, Severe Systolic HF (EF 15%)**
+   - Likely multifactorial: ischemic, chemotherapy-induced, chronic hypertension.
+   - Required percutaneous LVAD (Impella CP) for hemodynamic support on 6/17.
+   - On milrinone and low-dose norepinephrine, now weaning both.
+   - Daily echo to assess LV recovery.
+   - Plan: Continue LVAD wean. Evaluate for transition to palliative care vs. advanced therapies; unlikely candidate for durable LVAD or transplant due to age, comorbidities.
+
+2. **Acute-on-Chronic Anemia**
+   - Hgb nadir 9.4; received 2U PRBC on 6/18.
+   - Etiology: chronic disease, marrow suppression (chemo), possible GI losses (no melena, stool hemoccult negative).
+   - Monitoring CBC daily.
+   - Plan: Transfuse for Hgb <8.5, iron studies pending.
+
+3. **Pneumonia**
+   - Community-acquired, likely aspiration (dementia, debility).
+   - Blood/sputum cultures negative.
+   - Completed 5 days ceftriaxone & azithromycin.
+   - Plan: Pulmonary hygiene, monitor for recurrence.
+
+4. **Acute Kidney Injury (KDIGO 2, now improving)**
+   - Likely secondary to shock, nephrotoxins (contrast, diuretics).
+   - Creatinine peaked at 1.39, now 0.71.
+   - Plan: Avoid nephrotoxins, daily renal panel, strict I/O, diurese as needed.
+
+5. **Delirium/Advanced Dementia**
+   - Baseline severe cognitive impairment (MMSE 3/30).
+   - Hospital course complicated by hypoactive delirium.
+   - Plan: Re-orientation, minimize sedatives, family at bedside.
+
+6. **Prostate Cancer (Metastatic)**
+   - Receiving docetaxel, leuprolide.
+   - Complicated by recurrent infections, debility.
+   - Plan: Oncology following, consider holding chemo pending recovery.
+
+7. **Opioid Use Disorder**
+   - On chronic opioids for cancer pain.
+   - Pain controlled (2-4/10).
+   - Plan: Continue current regimen, monitor for withdrawal/over-sedation.
+
+8. **Hypertension/Prediabetes/Gout/Osteoporosis**
+   - BP controlled on current regimen.
+   - Colchicine and allopurinol resumed as able.
+   - DXA T-score -2.9, at risk for fractures.
+   - Plan: Continue secondary prevention, encourage mobility.
+
+9. **Tobacco Use**
+   - On nicotine patch.
+   - Plan: Continue patch, offer counseling.
+
+---
+
+### ACTIVE MEDICATIONS
+- HydrOCHLOROthiazide 25 mg PO daily
+- 24hr nicotine patch
+- Docetaxel 20 mg/mL IV (cycle held while in ICU)
+- Leuprolide Acetate 30 mg/mL SQ monthly
+- Colchicine 0.6 mg PO daily
+- Allopurinol 100 mg PO daily
+- Ceftriaxone & Azithromycin (completed)
+- PRN acetaminophen, morphine
+- Milrinone (weaning)
+- Norepinephrine (weaning)
+
+---
+
+### DISPOSITION
+- Prognosis poor, unlikely candidate for advanced heart failure therapies.
+- Goals of care discussion ongoing with family.
+- Continue ICU monitoring, consider transition to comfort-focused care if no improvement.
+
+---
+
+### SIGNED:  
+Tan, J., MD (Cardiology)  
+06/21/2024 08:16
+
+---
+
+**[END OF NOTE]**

@@ -1,0 +1,199 @@
+Epic EHR - Inpatient Chart Review  
+Patient: **Jenell Goldner**  
+MRN: 00499118-ICU  
+DOB: 01/29/1942  
+Sex: Female  
+Admission Date: 06/01/2024  
+Attending: Dr. F. Letourneau  
+Consults: Cardiology, CV Surgery, Endocrinology, Hematology  
+Location: MICU, Bed 17  
+
+---
+
+## CHIEF COMPLAINT
+Progressive dyspnea, orthopnea, and lower extremity edema over 2 weeks.  
+
+---
+
+## HISTORY OF PRESENT ILLNESS
+Ms. Goldner is an 82-year-old female with chronic systolic heart failure (EF 35%), h/o breast ca (s/p lumpectomy, remote), prediabetes, chronic anemia, and multiple remote miscarriages, who presented with acute decompensated heart failure and cardiogenic shock. She was found at home by family, confused and tachypneic, with increasing lower extremity swelling, productive cough, and recent viral URI. EMS noted hypotension (SBP 78 mmHg), HR 112, RR 28, O2 sat 89% RA. On arrival to the ED, she was in respiratory distress with bibasilar rales, JVD, and cool extremities. CXR: pulmonary edema. Echo: LVEF 31%, global hypokinesis, moderate MR, dilated LV.  
+
+Despite IV diuresis, she developed worsening shock (MAP <60, lactate 4.2). Decision was made to place a percutaneous LVAD (Impella CP) for hemodynamic support. She was transferred to MICU.  
+
+---
+
+## PAST MEDICAL HISTORY
+- Prediabetes  
+- Chronic anemia  
+- CHF, NYHA IV, EF ~30-35%  
+- Breast CA (remote, s/p lumpectomy, no recurrence)  
+- Multiple (3) first trimester miscarriages  
+- Tubal pregnancy (1987, s/p salpingectomy)  
+- Remote L forearm fx (2011)  
+- Recurrent bronchitis, viral sinusitis  
+
+## PAST SURGICAL HISTORY
+- Lumpectomy, left, 1998  
+- Tubal ligation/salpingectomy, 1987  
+- ORIF L forearm, 2011  
+
+## FAMILY HISTORY
+- CAD (father), breast CA (mother), DM2 (sister)  
+
+## SOCIAL HISTORY
+- Retired librarian, widowed  
+- Former smoker, quit 1978  
+- No EtOH, no illicit drugs  
+- Lives with adult daughter  
+
+## ALLERGIES
+- NKDA  
+
+---
+
+## HOME MEDICATIONS
+- Metoprolol succinate 100 mg QD  
+- Lasix 40 mg QAM  
+- Acetaminophen 325 mg PRN  
+- Ibuprofen 200 mg PRN  
+
+---
+
+## HOSPITAL COURSE SUMMARY (Days 1-7)
+**Day 1 (ED/ICU):** Hypotensive, tachypneic. Started on IV furosemide drip, O2 via HFNC, dobutamine. Labs: WBC normal, Hgb 10.2, Cr 1.1, BNP 5200, troponin 0.04. Echo: EF 31%. Impella CP placed via R femoral artery.  
+**Day 2:** Improved MAP, urine output up, but mild delirium. Hemodynamics stable on Impella, dobutamine weaned. Lactate normalized.  
+**Day 3:** Ongoing diuresis, net -3L. Some improvement in mentation. Mild AKI (Cr up to 1.6).  
+**Day 4:** Impella weaned, device removed. Vascular surgery consulted for mild RLE hematoma.  
+**Day 5:** Improving. Off pressors, on low-dose IV diuretics. Ambulating with PT.  
+**Day 6:** Transient fever, negative blood cx, likely atelectasis.  
+**Day 7:** Transferred to stepdown. Stable, euvolemic, tolerating oral meds.  
+
+---
+
+## VITALS (Selected, ICU Days 1-5)
+
+| Date       | Temp (°F) | HR   | BP         | RR  | O2 Sat | Weight (kg) |
+|------------|-----------|------|------------|-----|--------|-------------|
+| 6/1/2024   | 98.7      | 112  | 78/44      | 28  | 89% RA | 72.1        |
+| 6/2/2024   | 98.4      | 98   | 90/58      | 22  | 94% NC | 70.8        |
+| 6/3/2024   | 99.1      | 88   | 102/64     | 18  | 96% NC | 69.9        |
+| 6/4/2024   | 98.8      | 82   | 108/68     | 16  | 97% RA | 69.2        |
+| 6/5/2024   | 98.6      | 86   | 116/72     | 16  | 98% RA | 69.1        |
+
+---
+
+## LABS
+
+**CBC, CHEM7, Cardiac, LFTs (Selected Days, ICU/Stepdown)**
+
+| Date     | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | BNP   | AST  | ALT  | Alk Phos | Alb  |
+|----------|------|------|------|------|------|------|------|------|------|------|------|----------|-------|------|------|----------|------|
+| 6/1      | 6.1  | 10.2 | 31.5 | 204  | 140  | 4.8  | 110  | 21   | 28   | 1.1  | 126  | 0.04     | 5200  | 42   | 33   | 55       | 3.9  |
+| 6/2      | 5.8  | 9.8  | 30.2 | 187  | 138  | 4.9  | 108  | 19   | 26   | 1.3  | 108  | <0.01    | 4200  | 38   | 28   | 53       | 3.7  |
+| 6/3      | 5.6  | 9.4  | 29.0 | 178  | 137  | 5.4  | 106  | 18   | 34   | 1.6  | 102  | <0.01    | 2100  | 33   | 24   | 51       | 3.6  |
+| 6/4      | 6.3  | 10.0 | 31.0 | 192  | 139  | 4.7  | 110  | 22   | 19   | 1.2  | 101  | <0.01    | 950   | 31   | 23   | 57       | 3.8  |
+| 6/5      | 5.9  | 10.4 | 32.2 | 198  | 140  | 4.2  | 109  | 22   | 18   | 1.0  | --   | <0.01    | 570   | --   | 19   | --       | 4.0  |
+
+*Missing values indicate labs not drawn or pending.*
+
+---
+
+## MICROBIOLOGY
+- Blood cultures (6/1, 6/2): No growth  
+- UA: Negative  
+- CXR: Bilateral pulmonary edema, no infiltrate  
+
+---
+
+## IMAGING
+- Echo (6/1): LVEF 31%, global hypokinesis, moderate MR, mild TR, dilated LV, RV mildly reduced  
+- CXR (6/1): Pulmonary edema, no consolidation  
+- Doppler RLE (6/4): No DVT, small hematoma at access site  
+
+---
+
+## PROCEDURES
+- 6/1: Impella CP placement, right femoral artery  
+- 6/4: Impella removal at bedside, hemostasis achieved  
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. **Acute Decompensated Heart Failure / Cardiogenic Shock (EF 31%)**
+- Impella CP placed for hemodynamic support, now removed  
+- IV diuresis (furosemide drip, then IVP), transitioned to oral  
+- Monitor for recurrent volume overload, daily weights, strict I/O  
+- Continue guideline-directed medical therapy (GDMT): Metoprolol, titrate as tolerated  
+- Consider SGLT2i on discharge if renal fxn allows  
+- Echo prior to discharge  
+- Cardiac rehab referral  
+
+### 2. **Chronic Systolic CHF**
+- Continue beta blocker, ACEi/ARB deferred due to hypotension  
+- Daily weights, low sodium diet  
+- Cardiology f/u 1 week post-discharge  
+
+### 3. **AKI, improved**
+- Likely pre-renal from low output, diuresis  
+- Renal fxn improving with euvolemia  
+- Monitor BUN/Cr daily  
+- Avoid nephrotoxins  
+
+### 4. **Anemia (chronic, multifactorial)**
+- Hgb stable ~10, no transfusion needed  
+- Iron studies pending  
+- Monitor for GI blood loss  
+
+### 5. **Remote Malignancy (Breast CA)**
+- No recurrence, completed treatment 1998  
+- Routine age-appropriate cancer screening  
+
+### 6. **Prediabetes**
+- Continue lifestyle mod, monitor glucose  
+- A1c 6.0% (from OSH records)  
+- No insulin or PO agents needed at this time  
+
+### 7. **Vascular Access Complication**
+- RLE hematoma at Impella site, improving  
+- Vascular Surgery: Conservative mgt, warm compress  
+- Monitor for expansion, infection  
+
+### 8. **Delirium, resolved**
+- Likely multifactorial (shock, hypoxia, ICU stay)  
+- Resolved; continue reorientation, optimize sleep, minimize restraints  
+
+### 9. **Acute bronchitis/viral URI**
+- Supportive care, no antibiotics  
+- Symptoms improved  
+
+### 10. **DVT Prophylaxis**
+- SCDs, LMWH held during Impella; resumed post-removal  
+
+### 11. **Physical Therapy/Discharge Planning**
+- Ambulating with PT  
+- Anticipate SNF placement for rehab  
+
+---
+
+## CARE TEAM
+- Attending: Dr. F. Letourneau  
+- Cardiology: Dr. S. Patel  
+- CV Surgery: Dr. V. Choi  
+- PT/OT, Nutrition, Social Work  
+
+---
+
+## DISCHARGE MEDICATIONS (anticipated)
+- Metoprolol succinate 100 mg QD  
+- Lasix 40 mg PO QAM  
+- Acetaminophen 325 mg PO PRN  
+- Iron sulfate 325 mg QD  
+- SGLT2i (if renal fxn stable)  
+
+---
+
+## SIGNED  
+**F. Letourneau, MD**  
+**Date/Time:** 06/07/2024 16:31  
+---

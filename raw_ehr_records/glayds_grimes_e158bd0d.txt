@@ -1,0 +1,163 @@
+---
+**Patient Name:** Glayds Grimes  
+**MRN:** 003829348  
+**DOB:** 1997-04-01 (27 years old)  
+**Sex:** Female  
+**Admit Date:** 2024-04-14  
+**Attending:** Dr. S. Patel  
+**Service:** MICU  
+**Report Date:** 2024-04-18  
+**Allergies:** NKDA  
+**Code Status:** Full Code  
+**Isolation:** None  
+**Consults:** Cardiology, Infectious Disease, Pharmacy
+
+---
+
+# ICU Progress Note
+
+## Reason for Admission:
+27-year-old female with history of hypertension and recent upper respiratory infection, presenting with acute decompensated heart failure and cardiogenic shock, requiring temporary left ventricular assist device (Impella CP) placement for hemodynamic support.
+
+## HPI:
+Glayds Grimes is a previously healthy young woman with a PMHx notable for hypertension and recent streptococcal pharyngitis, who presented to the ED with 2 days of progressive dyspnea, orthopnea, palpitations, and fevers. She was initially seen for presumed viral sinusitis and strep pharyngitis, treated with penicillin. Over the past 24 hours prior to admission, she developed increasing shortness of breath, chest discomfort, and near-syncope. In the ED, she was found to be hypotensive (SBP 78 mmHg), tachycardic (HR 122), febrile (T 38.6°C), and hypoxic (SpO2 92% RA). CXR revealed pulmonary edema. Echo showed severely reduced LVEF (20%) with global hypokinesis. Troponin and BNP elevated. Admitted to ICU for vasopressor support; developed worsening shock refractory to medical management, requiring placement of a temporary LVAD (Impella CP) on hospital day 1.
+
+## Hospital Course Summary:
+- HD1: Intubated for hypoxic respiratory failure secondary to acute heart failure. Started on norepinephrine, dobutamine. Impella CP placed for cardiogenic shock. Infectious workup initiated.
+- HD2: Improved hemodynamics on Impella. Blood cultures negative. Started on empiric vancomycin/cefepime, later narrowed to penicillin for persistent strep pharyngitis.
+- HD3: Weaned off vasopressors. LVEF improved to 35% on echo. Impella weaning trials initiated.
+- HD4: Impella explanted. Extubated. Diuresed for persistent volume overload. Transitioned to oral antihypertensives.
+- HD5: Transferred to step-down unit, stable.
+
+## Problem-Based Assessment and Plan
+
+---
+
+### 1. Cardiogenic Shock s/p Temporary LVAD (Impella CP)
+- **Assessment:** Acute decompensated heart failure with cardiogenic shock, likely secondary to viral myocarditis post-URI.
+- **Plan:**
+  - Impella CP placed, now explanted HD4.
+  - Serial Echos: Monitor EF, wall motion.
+  - Continue guideline-directed medical therapy for HF (beta blocker, ACEi, spironolactone if tolerated).
+  - Monitor for arrhythmias, end-organ dysfunction.
+  - Cardiology f/u.
+
+### 2. Acute Systolic Heart Failure (EF nadir 20%, now 35%)
+- **Assessment:** Likely viral myocarditis (recent URI, fevers, lymphopenia, cardiac enzyme elevation).
+- **Plan:**
+  - Continue diuresis as needed.
+  - Daily weights, strict I/Os.
+  - Fluid restriction.
+  - Repeat echo prior to discharge.
+
+### 3. Hypertension
+- **Assessment:** Chronic, previously well controlled; exacerbated by acute illness.
+- **Plan:**
+  - Resume home HCTZ when stable.
+  - Add ACEi, titrate as tolerated.
+  - Monitor for hypotension.
+
+### 4. Streptococcal Pharyngitis / Viral Sinusitis
+- **Assessment:** Recent infection, likely precipitant of myocarditis.
+- **Plan:**
+  - Continue penicillin per ID rec.
+  - Supportive care.
+  - Monitor for complications (rheumatic fever, glomerulonephritis).
+
+### 5. Fever, Leukopenia
+- **Assessment:** Febrile on admission, likely infectious trigger for cardiac event.
+- **Plan:**
+  - Blood cultures x2, viral PCR panel.
+  - Monitor WBC, trend daily CBC.
+  - Infectious Disease consult.
+
+### 6. Contraception
+- **Assessment:** On progestin-only pill and Seasonique; review for cardiac safety.
+- **Plan:**
+  - Hold estrogen-containing OCPs during acute phase.
+  - Discuss long-term options with Gyn.
+
+### 7. Pain (Throat/Chest)
+- **Assessment:** Mild chest and throat discomfort.
+- **Plan:**
+  - Acetaminophen PRN.
+  - Avoid NSAIDs.
+
+### 8. VTE Prophylaxis
+- **Assessment:** High risk due to ICU stay, Impella, immobilization.
+- **Plan:**
+  - SQ heparin.
+
+---
+
+## Pertinent Labs
+
+### CBC / Chemistries (selected values)
+
+| Date        | WBC   | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|-------------|-------|-------|-------|-------|------|------|------|------|------|------|------|
+| 4/14/24 AM  | 4.9   | 14.3  | 36.7  | 400   | 139  | 4.2  | 102  | 23   | 18   | 0.8  | 101  |
+| 4/14/24 PM  | 5.1   | 13.7  | 35.1  | 380   | 137  | 4.1  | 104  | 22   | 20   | 0.9  | 108  |
+| 4/15/24 AM  | 4.2   | 13.5  | 34.9  | 385   | 136  | 4.6  | 103  | 21   | 22   | 1.0  | 112  |
+| 4/16/24 AM  | 3.6   | 13.0  | 33.0  | 370   | 138  | 4.3  | 101  | 20   | 19   | 0.9  | 99   |
+| 4/17/24 AM  | 4.7   | 13.8  | 36.0  | 390   | 140  | 4.1  |      | 22   |      | 0.9  | 104  |
+| 4/18/24 AM  | 4.8   | 14.1  | 36.2  | 410   | 139  | 4.2  | 102  | 23   | 17   |      | 97   |
+
+#### Additional Labs:
+- **Troponin T:** 0.24 → 0.14 → 0.09 ng/mL (downtrending)
+- **BNP:** 3120 pg/mL → 1580 pg/mL → 820 pg/mL
+- **AST/ALT:** 54/61 U/L (mildly elevated, likely shock liver)
+- **CK-MB:** 18 U/L (peak on HD1)
+- **Lactate:** 3.2 → 2.1 mmol/L (improved after Impella)
+
+---
+
+## Imaging
+- **CXR HD1:** Bilateral pulmonary edema, no consolidation.
+- **Echo HD1:** LVEF 20%, global hypokinesis, no valvular vegetations.
+- **Echo HD3:** LVEF improved to 35%, mild MR.
+- **CXR HD4:** Improving vascular congestion.
+
+---
+
+## Microbiology
+- **Blood cultures x2:** Negative.
+- **Rapid strep:** Positive.
+- **Resp viral PCR:** Positive for Coxsackie B.
+- **Urine:** Negative.
+
+---
+
+## Medications (selected)
+- Penicillin V Potassium 250 mg PO QID
+- Camila 28 Day Pack (held during ICU course)
+- Seasonique 91 Day Pack (held during ICU course)
+- Hydrochlorothiazide 25 mg PO daily (held HD1-2, resumed HD4)
+- Furosemide IV as needed
+- Norepinephrine, dobutamine (HD1-2, discontinued)
+- Acetaminophen PRN
+- SQ heparin for VTE prophylaxis
+
+---
+
+## Vitals (selected)
+
+| Date/Time   | Temp (°C) | HR   | BP        | RR   | SpO2   | Pain |
+|-------------|-----------|------|-----------|------|--------|------|
+| 4/14 07:00  | 38.6      | 122  | 78/51     | 28   | 92% RA | 3    |
+| 4/14 19:00  | 38.2      | 105  | 90/62     | 24   | 95% O2 | 2    |
+| 4/15 08:00  | 37.8      | 98   | 99/65     | 22   | 96% O2 | 2    |
+| 4/16 08:00  | 37.1      | 85   | 110/72    | 18   | 98% RA | 1    |
+| 4/17 08:00  | 36.8      | 81   | 115/74    | 16   | 98% RA | 0    |
+
+---
+
+## Disposition
+- Anticipate transfer to step-down, then home with cardiology f/u, outpatient echo, and cardiac MRI in 2-3 weeks.
+
+---
+
+**Physician:** S. Patel, MD  
+**Date/Time:** 2024-04-18 10:37
+
+---

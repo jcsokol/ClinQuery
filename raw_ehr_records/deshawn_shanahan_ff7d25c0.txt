@@ -1,0 +1,160 @@
+```
+-----------------------------------------------------------------
+[Patient Summary]
+Patient Name: Deshawn Shanahan
+MRN: 00928473
+DOB: 10/21/1979 (44 yo)
+Sex: Male
+Admit Date: 5/16/2024
+Attending: Dr. R. Patel
+Service: MICU
+
+-----------------------------------------------------------------
+[Chief Complaint]
+Shortness of breath, weakness, chest tightness
+
+[History of Present Illness]
+44M with history of obesity and recent acute bronchitis, presented to ED with 4 days of worsening dyspnea, orthopnea, and non-productive cough. Patient reports progressive fatigue, inability to ambulate >20 feet, and 2-pillow orthopnea. Denies fever, chills, or leg swelling. He initially attributed symptoms to bronchitis but noted acute worsening overnight. In the ED, found tachypneic and hypoxic (O2 sat 87% RA). CXR: bilateral pulmonary edema. Troponin mildly elevated. Echo: LVEF 15%, global hypokinesis. Admitted to ICU for acute decompensated heart failure with cardiogenic shock. Required dobutamine, norepinephrine, and subsequently placed on temporary Impella CP device for hemodynamic support.
+
+[Past Medical History]
+- Obesity (BMI >30)
+- Acute bronchitis (recent)
+- Hyperlipidemia (untreated)
+- Hypertension (no home meds)
+- No prior cardiac history
+- No known diabetes
+
+[Past Surgical History]
+- None
+
+[Allergies]
+- NKDA
+
+[Medications on Admission]
+- Acetaminophen 325 mg PO PRN
+
+[Home Medications]
+- None
+
+[Family History]
+- Father: MI at 54
+- Mother: HTN
+- No known genetic disorders
+
+[Social History]
+- Former smoker (quit 2015, 15 pack-years)
+- Occasional ETOH
+- Lives with wife, works as truck driver
+
+[Review of Systems]
+- General: Weakness, fatigue
+- Cardiac: Chest tightness, orthopnea
+- Pulm: Dyspnea, cough, no hemoptysis
+- GI: No N/V/D, no abdominal pain
+- GU: No dysuria
+- Neuro: No focal deficits
+- Skin: No rashes
+
+-----------------------------------------------------------------
+[Physical Exam]
+
+Date: 5/16/24 (Admission)
+
+VS: T 36.8°C, HR 115, BP 86/54, RR 28, SpO2 91% 4L NC
+
+Gen: Obese male, moderate distress
+CV: Tachycardic, JVD 12cm, S3 present, no murmurs
+Pulm: Crackles 2/3 up bilaterally, tachypneic, mild use of accessory muscles
+Abd: Soft, NT, no HSM
+Ext: 1+ pitting edema BL ankles, cool peripheries
+Neuro: AOx3, no focal deficits
+
+-----------------------------------------------------------------
+[ICU Course Summary]
+
+Day 1: Admitted with cardiogenic shock, required norepinephrine and dobutamine. Worsening hypotension despite increasing vasopressors; bedside echo showed poor LVEF. Decision made for temporary mechanical circulatory support (Impella CP) placement.
+
+Day 2: Impella placed via right femoral artery, immediate improvement in MAP and end-organ perfusion. Weaned norepinephrine. Developed transient hematuria, self-resolved.
+
+Day 3: Improved urine output, mental status clear. Still requiring moderate Impella support. Started low-dose IV Lasix.
+
+Day 4: Vasopressors off, Impella flows reduced. Echo: LVEF 20%. Mild transaminitis noted, trending down.
+
+Day 5: Weaned off Impella, device removed. Remained hemodynamically stable. Transitioned to oral heart failure therapies.
+
+-----------------------------------------------------------------
+[Assessment & Plan]
+
+1. **Cardiogenic shock, new systolic heart failure (LVEF 15%)**
+   - Likely ischemic vs viral myocarditis (workup ongoing)
+   - Required temporary Impella CP support, now off device; improving
+   - Continue aggressive diuresis, titrate guideline-directed medical therapy (GDMT)
+   - Serial Echos, daily weights, strict I/O
+   - Monitor for arrhythmias, renal/hepatic dysfunction
+
+2. **Acute bronchitis (recent)**
+   - No current signs of infection, afebrile
+   - No antibiotics indicated
+
+3. **Obesity (BMI ~30)**
+   - Counsel on diet/exercise once stable
+   - Monitor for OSA
+
+4. **Transaminitis (transient, likely hypoperfusion-related)**
+   - Trending down, continue to monitor LFTs
+
+5. **AKI, resolving**
+   - Improved with restoration of perfusion
+   - Monitor daily labs
+
+6. **Hyperlipidemia**
+   - Not on statin; initiate once stable
+
+7. **Hypertension**
+   - Off anti-HTN in ICU; to restart as tolerated
+
+8. **Pain (mild)**
+   - Acetaminophen PRN
+
+-----------------------------------------------------------------
+[Laboratory Results]
+
+| Date      | WBC    | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | TnI   | BNP   |
+|-----------|--------|-------|-------|-------|------|------|------|------|------|------|------|------|------|-------|-------|
+| 5/16/24   | 10.1   | 13.2  | 35.4  | 154   | 134  | 4.7  | 100  | 21   | 36   | 2.2  | 142  | 219  | 98   | 0.09  | 3100  |
+| 5/17/24   | 13.4   | 12.5  | 34.8  | 139   | 132  | 4.5  | 98   | 20   | 44   | 2.6  | 131  | 170  | 76   | 0.13  | 4200  |
+| 5/18/24   | 9.8    | 12.1  | 33.2  | 127   | 136  | 4.2  | 101  | 22   | 29   | 1.7  | 124  | 69   | 60   | 0.06  | 3100  |
+| 5/19/24   | 8.6    | 12.7  | 35.0  | 131   | 138  | 4.4  | 104  | 24   | 22   | 1.2  | 98   | 37   | 33   | 0.02  | 1200  |
+| 5/20/24   | 7.9    | 13.6  | 37.1  | 144   | 139  | 4.1  | 106  | 25   | 16   | 1.0  | 105  | --   | --   | --    | 700   |
+
+*Some labs missing on 5/20/24 due to transition to step-down unit.
+
+-----------------------------------------------------------------
+[Imaging]
+
+- CXR (5/16/24): Cardiomegaly, pulmonary edema, no consolidation
+- TTE (5/16/24): LVEF 15%, global hypokinesis, no LV thrombus
+- TTE (5/19/24): LVEF 20%, mild improvement
+
+-----------------------------------------------------------------
+[Procedures]
+
+- 5/17/24: Placement of Impella CP via right femoral artery (fluoro-guided)
+- 5/20/24: Removal of Impella CP
+
+-----------------------------------------------------------------
+[Discharge Planning]
+
+- Anticipate transfer to telemetry floor in 24h
+- Cardiology, PT/OT, nutrition consults
+- LifeVest ordered
+- Close outpatient follow-up, consider advanced HF therapies if recurrent decompensation
+
+-----------------------------------------------------------------
+[Sign-out/To-Do]
+- Continue daily labs, weights
+- Monitor for arrhythmias, infection at access site
+- Titrate GDMT as tolerated
+
+-----------------------------------------------------------------
+```

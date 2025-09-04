@@ -1,0 +1,162 @@
+---
+**Patient Name:** Arminda Muller  
+**MRN:** 002981274  
+**DOB:** 08/31/1968  
+**Sex:** Female  
+**Admit Date:** 04/20/2024  
+**Attending:** Dr. R. Patel  
+**Unit:** MICU  
+**Consults:** Cardiology, Endocrinology, ID  
+**Code Status:** Full  
+**Allergies:** NKDA  
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+Ms. Arminda Muller is a 55-year-old female with a PMHx notable for prediabetes, recurrent sinusitis, prior miscarriage, and previous normal pregnancy, who presented with acute onset dyspnea, chest pain, and hypotension. She was found to be in acute decompensated heart failure (ADHF) with cardiogenic shock and ultimately required temporary mechanical circulatory support (Impella CP placed on HD2) for refractory hypotension and low cardiac output.
+
+She was transferred to the MICU on vasopressors and inotropes, subsequently stabilized, and had her temporary LV assist device weaned and explanted on HD6. Her hospital course was complicated by acute kidney injury, transient transaminitis, and a lower respiratory tract infection.
+
+---
+
+## ADMISSION VITALS (ED, 4/20/24 16:42)
+
+| Temp | HR | BP | RR | SpO2 | Weight | BMI |
+|------|----|----|----|------|--------|-----|
+| 36.7°C | 114 | 78/52 | 24 | 92% RA | 77.2 kg | 29.5 |
+
+---
+
+## ICU DAILY LABS
+
+| Date       | WBC   | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | Trop  | BNP   | Lactate |
+|------------|-------|------|------|-------|------|------|------|------|------|------|------|------|------|-------|-------|---------|
+| 4/20/24    | 7.2   | 14.9 | 42.6 | 365   | 141  | 4.0  | 108  | 24   | 14   | 1.0  | 72   | 38   | 41   | 0.04  |  5980 | 4.2     |
+| 4/21/24    | 8.5   | 13.7 | 40.2 | 312   | 137  | 3.5  | 104  | 20   | 19   | 1.4  | 112  | 62   | 55   | 0.11  |  6200 | 2.8     |
+| 4/22/24    | 10.1  | 12.9 | 38.3 | 266   | 135  | 3.7  | 103  | 19   | 29   | 1.8  | 148  | 44   | 39   | 0.07  |  5800 | 1.7     |
+| 4/23/24    | 9.8   | 12.6 | 37.4 | 255   | 136  | 3.9  | 107  | 23   | 22   | 1.4  | 98   | 33   | 29   | 0.03  |   --- | 1.3     |
+| 4/24/24    | 8.0   | 12.7 | 37.8 | 230   | 139  | 4.1  | 109  | 25   | 16   | 1.1  | 84   | ---  | ---  | <0.01 |  3800 | ---     |
+| 4/25/24    | 7.4   | 13.0 | 38.1 | 242   | 140  | 4.0  | 108  | 26   | 15   | 1.0  | 92   | 27   | 19   | <0.01 |  2200 | 0.9     |
+| 4/26/24    | 6.9   | 13.4 | 39.2 | 256   | 140  | 3.9  | 108  | 24   | 14   | 0.9  | 83   | 22   | 17   | <0.01 |  1100 | 0.8     |
+
+*Some values were not obtained each day due to clinical stability or lab draw error.
+
+---
+
+## HOSPITAL MEDICATIONS
+
+- Furosemide IV 40mg Q12h (HD2-7)
+- Dobutamine infusion (HD1-4)
+- Norepinephrine infusion (HD1-3)
+- Aspirin 81mg PO daily (HD2+)
+- Atorvastatin 40mg PO daily (HD2+)
+- Empiric vancomycin/cefepime (HD3-6; for VAP rule-out)
+- Amiodarone IV for NSVT x2 on HD2
+- Sliding scale insulin (HD2-5)
+- DVT prophylaxis: enoxaparin 40mg SQ daily
+
+---
+
+## HPI
+
+55F with prediabetes, prior 1st trimester miscarriage, and history of sinusitis, presented with 2 days of progressive SOB, orthopnea, and pleuritic chest pain. On arrival was hypotensive, tachycardic, hypoxic; CXR: bilateral pulmonary edema. Echo: severe global hypokinesis, LVEF ~15%, no valvular vegetations. Required intubation and pressor support. Emergent placement of Impella CP for cardiogenic shock refractory to medical therapy. No preceding viral prodrome. Denied recent travel, sick contacts.
+
+---
+
+## PHYSICAL EXAM (HD2, on Impella, intubated)
+
+- **Gen:** Intubated, sedated, responsive to sternal rub
+- **CV:** Tachycardic, S3, no murmur, Impella audible, JVD 12cm, cool extremities
+- **Pulm:** Breath sounds coarse b/l, mild crackles, ETT in place, FiO2 50%
+- **Abd:** Soft, NT/ND, +BS
+- **Ext:** 1+ edema, pulses present, no DVT
+- **Neuro:** Moves all extremities to pain, no focal deficit
+
+---
+
+## PROBLEM BASED ASSESSMENT & PLAN
+
+### 1. **Cardiogenic Shock, Severe Systolic HF**
+   - Etiology unclear; ischemic vs. non-ischemic. No MI on serial troponins. Severe LVEF reduction.
+   - Required Impella CP for mechanical support HD2-6
+   - Dobutamine and norepinephrine weaned off by HD4
+   - Serial lactates trended down (see above)
+   - Plan: Continue GDMT, optimize euvolemia, consider ICD if EF persists <35% at 3mo, outpatient HF clinic f/u
+
+### 2. **Acute Kidney Injury (KDIGO Stage II)**
+   - Likely multifactorial: cardiorenal, vasopressors, transient hypotension
+   - Peak Cr 1.8, now improved
+   - Plan: IV fluids as tolerated, avoid nephrotoxins, monitor renal function
+
+### 3. **Transaminitis**
+   - AST/ALT peaked on HD2, likely ischemic hepatitis
+   - Downtrending, no evidence of biliary obstruction or viral hepatitis
+   - Plan: Monitor, supportive only
+
+### 4. **Ventilator Associated Pneumonia (VAP)**
+   - Fever, increased WBC, purulent secretions, new infiltrate HD3
+   - Empiric vanc/cefepime x72h, improved, cultures negative
+   - Plan: Finish abx, monitor for recurrence
+
+### 5. **Prediabetes**
+   - HgbA1c 6.2%, transient hyperglycemia on pressors/steroids
+   - Sliding scale insulin, now off
+   - Plan: Endocrine f/u, continue lifestyle modifications
+
+### 6. **Gynecological History**
+   - Mirena IUD in situ, h/o miscarriage, prior OCP/implant use
+   - No acute GYN issues during this admission
+
+### 7. **DVT Prophylaxis**
+   - Enoxaparin SQ, SCDs
+   - No evidence of DVT/PE
+
+### 8. **Nutrition**
+   - NPO x48h, then enteral feeds via OG tube, advanced to PO on HD7
+
+### 9. **Disposition**
+   - Medically stable for transfer to stepdown on HD8
+   - Plan for aggressive cardiac rehab, close outpatient follow-up
+
+---
+
+## DISCHARGE SUMMARY (Anticipated)
+
+- **Discharge date:** 4/28/2024
+- **Disposition:** Home with family, home health nursing
+- **Follow-up:** Cardiology (1 week), Endocrinology (2 weeks), HF clinic (1 month)
+- **Instructions:** Fluid/salt restriction, daily weights, medication adherence, warning signs
+
+---
+
+## PERTINENT IMAGING
+
+- **CXR (4/20):** Bilateral alveolar opacities, mild cardiomegaly
+- **Echo (4/20):** LVEF ~15%, severe global hypokinesis, mild MR/TR, no pericardial effusion
+- **Renal US (4/22):** No hydronephrosis, normal size
+
+---
+
+## MICROBIOLOGY
+
+- **Blood Cx (4/21, 4/23):** Negative
+- **Sputum Cx (4/22):** Mixed respiratory flora, no growth of pathogens
+- **Urine Cx:** Negative
+
+---
+
+## SOCIAL HISTORY
+
+- Lives with partner, 1 adult child, works as librarian
+- Non-smoker, rare EtOH, no illicit drug use
+
+---
+
+## SIGNED BY
+
+Dr. R. Patel, MD  
+Attending Physician  
+04/27/2024 15:22
+
+---

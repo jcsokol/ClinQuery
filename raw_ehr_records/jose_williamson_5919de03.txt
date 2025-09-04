@@ -1,0 +1,238 @@
+---
+**EPIC EHR Progress Note**
+**Attending:** Dr. Alex Fuentes  
+**Date of Service:** 2024-06-17  
+**Patient Name:** Jose Williamson  
+**MRN:** 002154321  
+**DOB:** 1924-06-30 (Age: 99)  
+**Sex:** Male  
+**Admitting Service:** Cardiology/ICU  
+**Admission Date:** 2024-06-10  
+**Primary Language:** English  
+**Code Status:** Full  
+**Allergies:** NKDA  
+**Height:** 177.5 cm  
+**Weight:** 64.9 kg (BMI: 20.6)  
+**Consults:** Cardiology, Neurology, Geriatrics, PT/OT, Nutrition
+
+---
+
+### CHIEF COMPLAINT
+Progressive dyspnea, orthopnea, hypotension, altered mental status
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+
+Mr. Jose Williamson is a 99-year-old male with a history of coronary heart disease, chronic congestive heart failure (CHF), atrial fibrillation, previous ischemic stroke, prostate carcinoma (status post leuprolide and docetaxel), severe osteoporosis with multiple pathologic fractures, and Alzheimer’s dementia. He presented from his skilled nursing facility with acute-on-chronic decompensated heart failure, increasing confusion, and new hypotension. Per nursing staff, he was found tachypneic and hypoxic (O2 sat 83% on RA), with cold extremities and decreased urine output.
+
+In the ED, he was hypotensive (SBP 78 mmHg), tachycardic (HR 128, irregularly irregular), and hypoxic. Labs showed an elevated NT-proBNP and rising creatinine. CXR: pulmonary edema. Echo: LVEF 25%, severe global hypokinesis, moderate MR. Despite IV Lasix, nitroglycerin, and inotropic support, he remained in cardiogenic shock. He was admitted to the ICU. On hospital day 2, with persistent shock and evidence of end-organ hypoperfusion (AKI, elevated lactate), a percutaneous left-sided temporary ventricular assist device (Impella CP) was placed for hemodynamic support.
+
+Course complicated by delirium, AKI, mild transaminitis, and ongoing volume overload. He has received gentle diuresis and close monitoring, with gradual improvement in end-organ function.
+
+---
+
+### PAST MEDICAL HISTORY
+
+- **Coronary Heart Disease** (NSTEMI x2, last 2019, stenting)
+- **Chronic CHF** (EF 25–30%, NYHA III–IV)
+- **Atrial Fibrillation** (paroxysmal, on warfarin)
+- **Ischemic Stroke** (2017, residual mild right-sided weakness)
+- **Prostate cancer** (cT2, on leuprolide/docetaxel, no mets)
+- **Osteoporosis** (severe, multiple pathologic fractures)
+- **Alzheimer’s disease** (moderate, MMSE 8)
+- **Anemia** (chronic, multifactorial)
+- **Recent viral sinusitis**
+- **Obesity** (remote, now cachectic)
+- **History of multiple fractures** (clavicle, wrist)
+
+---
+
+### PAST SURGICAL HISTORY
+
+- Right femoral neck ORIF (2022)
+- PCI with DES (2019, 2015)
+- TURP (2018)
+- L wrist ORIF (2015)
+
+---
+
+### SOCIAL HISTORY
+
+- Widowed, retired teacher
+- SNF resident, full assist for ADLs
+- No tobacco, no EtOH, no illicit drugs
+
+---
+
+### FAMILY HISTORY
+
+- Noncontributory (limited by patient’s dementia)
+
+---
+
+### MEDICATIONS (on admission)
+
+- Nitroglycerin spray PRN
+- Docetaxel IV q3wks
+- Leuprolide q3mo IM
+- Simvastatin 20mg qHS
+- Amlodipine 5mg qAM
+- Clopidogrel 75mg qAM
+- Warfarin 5mg qPM
+- Verapamil 40mg BID
+- Digoxin 0.125mg qAM
+- Alendronate 10mg PO daily
+- Amox/Clav 250/125mg BID (recent sinusitis)
+- Metoprolol succinate 100mg qAM
+- Lasix 40mg BID (now IV)
+- Meperidine 50mg PRN pain
+- Acetaminophen 325mg PRN
+- Galantamine 4mg qAM
+- Donepezil/memantine XR qHS
+- Furosemide 10mg/mL IV PRN
+
+---
+
+### PHYSICAL EXAM (ICU, HD#5)
+
+- **General:** Frail, cachectic, responsive but confused
+- **VS:** T 36.3°C, HR 102 (irreg), BP 96/54 (on Impella), RR 24, SpO2 95% (2L NC)
+- **HEENT:** Pale, dry mucosa, mild periorbital edema
+- **CV:** Irregularly irregular, S3, holosystolic murmur at apex, Impella hum present
+- **Resp:** Bibasilar crackles, mild increased WOB
+- **Abd:** Soft, mildly distended, mild RUQ tenderness
+- **Ext:** +1 pitting LE edema, cold peripheries, old surgical scars, contractures
+- **Neuro:** Oriented to name only, follows simple commands, RUE mild weakness, tremulous
+
+---
+
+## ICU LABS
+
+| Date        | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | AST (U/L) | ALT (U/L) | Alk Phos (U/L) | Alb (g/dL) | T Bili (mg/dL) | NT-proBNP (pg/mL) | Troponin (ng/mL) | Lactate (mmol/L) |
+|-------------|------------|------------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|-----------|-----------|----------------|------------|----------------|-------------------|------------------|------------------|
+| 6/10 06:00  | 8.4        | 10.4       | 246        | 144         | 4.1        | 107         | 28           | 19          | 0.48       | 70          | 36        | 24        | 23             | 3.6        | 0.79           | 1293              | 0.09             | 2.7              |
+| 6/11 04:00  | 12.1       | 9.2        | 198        | 142         | 4.7        | 104         | 25           | 31          | 1.12       | 95          | 48        | 33        | 27             | 2.8        | 1.21           | 2200              | 0.14             | 4.2              |
+| 6/12 04:00  | 14.7       | 8.6        | 155        | 138         | 5.5        | 100         | 19           | 54          | 2.24       | 124         | 63        | 45        | 31             | 2.2        | 2.09           | 3210              | 0.21             | 5.1              |
+| 6/13 05:30  | 9.8        | 9.7        | 171        | 140         | 4.2        | 105         | 23           | 36          | 1.08       | 87          | 52        | 27        | 26             | 2.9        | 1.03           | 1750              | 0.08             | 2.1              |
+| 6/14 06:00  | 7.2        | 10.8       | 198        | 141         | 3.8        | 107         | 27           | 22          | 0.92       | 78          | 39        | 21        | 22             | 3.4        | 0.85           | 1222              | <0.01            | 1.2              |
+| 6/15 06:00  | 6.4        | 11.1       | 211        | 143         | 4.0        | 108         | 28           | 18          | 0.81       | 71          | 31        | 18        | 22             | 3.7        | 0.77           | 1105              | <0.01            | 0.9              |
+| 6/16 07:30  | 5.8        | 11.4       | 222        | 144         |            | 108         | 27           | 17          | 0.77       |             | 29        |           | 23             | 3.8        | 0.68           | 900               |                  |                  |
+
+---
+
+## IMAGING
+
+- **CXR (6/10):** Bilateral interstitial edema, small pleural effusions, mild cardiomegaly
+- **ECHO (6/10):** LVEF 25%, severe global hypokinesis, moderate MR, mildly dilated LA, RVSP 38 mmHg
+- **Renal US (6/12):** No obstruction, increased cortical echogenicity
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+**HD 1:**- **HD 1 (6/10):**  
+  - Admitted from ED for acute decompensated CHF, hypotension, and hypoxic respiratory failure.  
+  - Initial management with BiPAP, IV Lasix, nitroglycerin, and inotropic support (dobutamine started).  
+  - Persistent hypotension and altered mentation, worsening AKI. Cardiology consulted.  
+  - Serial labs: rising creatinine, worsening lactic acidosis, elevated NT-proBNP and troponin.
+
+- **HD 2 (6/11):**  
+  - Remained in cardiogenic shock despite escalating inotropes/vasopressors.  
+  - Decision made for percutaneous temporary LVAD (Impella CP) placement.  
+  - Procedure performed at bedside without immediate complications.  
+  - Noted improvement in MAP and urine output post-placement; lactate slowly trending down.  
+  - Developed new-onset delirium and agitation, managed with low-dose haloperidol.  
+  - Started empiric broad-spectrum antibiotics (cefepime/vancomycin) for possible line sepsis—cultures negative, abx discontinued HD 4.
+
+- **HD 3 (6/12):**  
+  - Gradual improvement in end-organ perfusion (AKI improving, lactate downtrending).  
+  - Persistent volume overload, diuresis continued with close monitoring—Lasix drip titrated.  
+  - Impella device flows stable, no evidence of hemolysis or device malfunction.  
+  - Mild transaminitis noted, attributed to hypoperfusion ("shock liver"), trending down on repeat labs.
+
+- **HD 4 (6/13):**  
+  - Mental status improved but remains confused (baseline dementia, delirium).  
+  - Diuresis successful, net negative 2L.  
+  - Vitals stabilizing, weaning off inotropes.  
+  - Impella CP weaned and explanted at bedside, tolerated well.
+
+- **HD 5–6 (6/14 – 6/15):**  
+  - Steady improvement in renal and hepatic function, electrolytes normalized.  
+  - Continued physical therapy, nutrition optimization.  
+  - Persistent mild delirium, baseline cognitive impairment (MMSE 8).  
+  - No further arrhythmias, HR controlled with metoprolol and digoxin.  
+  - Mobilized to chair with PT, eating 50% of meals.
+
+- **HD 7 (6/16):**  
+  - Transitioned to oral diuretics, stable hemodynamics.  
+  - Discharge planning underway—likely to SNF with hospice consult for advanced heart failure and dementia.
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock (Acute on Chronic CHF, EF 25%)**  
+- Admitted with decompensated CHF, cardiogenic shock unresponsive to medical therapy.  
+- Temporary LVAD (Impella CP) placed HD2; hemodynamics improved.  
+- Weaned off device HD4, now stable.  
+- Continue gentle diuresis, daily weights, strict I/Os, cardiac monitoring.  
+- Resume home CHF meds as tolerated (metoprolol, digoxin, lasix).  
+- Prognosis poor given underlying cardiac disease and age; goals of care discussion ongoing.
+
+**2. Acute Kidney Injury (pre-renal, multifactorial)**  
+- Likely secondary to low cardiac output, improved with Impella support and diuresis.  
+- Daily BMP, monitor for electrolyte derangements.  
+- Renal function improving; avoid nephrotoxins.
+
+**3. Delirium on Dementia (Alzheimer’s, MMSE 8)**  
+- Likely multifactorial: metabolic derangements, infection ruled out, ICU environment.  
+- Non-pharmacologic interventions (reorientation, sleep hygiene, mobilization).  
+- Low-dose haloperidol PRN.
+
+**4. Chronic Atrial Fibrillation**  
+- Rate control with metoprolol/digoxin.  
+- On warfarin for anticoagulation—monitor INR, bleeding risk high (recent AKI, falls risk).
+
+**5. History of Prostate Cancer (on leuprolide/docetaxel)**  
+- No acute issues; continue oncologic therapy per oncology.  
+- Monitor CBC for cytopenias.
+
+**6. Severe Osteoporosis, Multiple Pathologic Fractures**  
+- On alendronate; fall precautions, PT/OT evaluating for safe mobility.
+
+**7. Anemia (chronic, multifactorial)**  
+- Monitor CBC, transfuse PRN (Hgb <7 or sx).  
+- Likely due to chronic disease, renal dysfunction, cancer.
+
+**8. Volume Overload**  
+- Aggressive diuresis with transition to oral; monitor renal function, electrolytes.
+
+**9. Nutritional Support**  
+- Frail, cachectic; nutrition consult, oral supplements as tolerated.
+
+**10. Discharge Planning**  
+- Anticipate SNF placement with hospice involvement; advanced directives to be discussed with POA.
+
+---
+
+## ORDERS
+
+- Daily CBC, BMP, LFTs, NT-proBNP, troponin x2 post-Impella, lactate q8h x48h
+- Strict I/O, daily weights
+- Cardiac telemetry
+- PT/OT, nutrition consults
+- Fall precautions
+- DVT prophylaxis (SCDs)
+- Foley catheter d/c when safe
+- Warfarin hold if INR >3 or bleeding
+
+---
+
+## SIGNATURES
+
+**Alex Fuentes, MD**  
+**Cardiology/ICU Attending**  
+**Date/Time:** 2024-06-17 09:15
+
+---

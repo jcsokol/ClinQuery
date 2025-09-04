@@ -1,0 +1,194 @@
+---
+**EPIC EHR – Progress Note**
+
+**Patient Name:** Alethea Crooks  
+**MRN:** 001238776  
+**DOB:** 11/10/2002 (21 yo)  
+**Sex:** Female  
+**Date of Admission:** 5/20/2024  
+**Date of Service:** 5/21/2024  
+**Attending:** Dr. S. Patel  
+**ICU Service:** Cardiac ICU  
+**Note Author:** J. Lin, MD
+
+---
+
+### CHIEF COMPLAINT
+
+Acute shortness of breath, chest pain, and presyncope.
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+
+Alethea Crooks is a 21-year-old female with a history notable only for viral sinusitis who presented to the ED with sudden onset chest pain, shortness of breath, palpitations, and near-syncope. She denied prior cardiac history. No drug or tobacco use. She was recently recovering from a mild viral URI.
+
+On arrival, she was tachycardic (HR 122), hypotensive (BP 84/55), and hypoxic (O2 sat 91% RA). She was diaphoretic and in distress. Initial ECG showed sinus tachycardia with diffuse ST changes. Troponin elevated at 8.1 ng/mL. Echocardiogram revealed severe global LV systolic dysfunction (EF 15%). She rapidly decompensated with worsening hypotension and evidence of cardiogenic shock, requiring vasopressors and urgent placement of a percutaneous left ventricular assist device (Impella CP).
+
+---
+
+### PAST MEDICAL HISTORY
+
+- Viral sinusitis (recent)
+- No known structural heart disease
+
+### PAST SURGICAL HISTORY
+
+- None
+
+### MEDICATIONS ON ADMISSION
+
+- Seasonique 91 Day Pack
+
+### ALLERGIES
+
+- NKDA
+
+---
+
+### FAMILY HISTORY
+
+- Non-contributory
+
+### SOCIAL HISTORY
+
+- Non-smoker, no EtOH or illicit drug use
+- College student
+
+---
+
+### REVIEW OF SYSTEMS
+
+- **General:** Fatigue, malaise
+- **Cardiac:** Palpitations, chest discomfort
+- **Respiratory:** Dyspnea, mild cough (non-productive)
+- **GI:** Nausea, no vomiting
+- **Neuro:** Lightheadedness, no focal deficits
+
+---
+
+### PHYSICAL EXAM
+
+- **Temp:** 36.8°C
+- **HR:** 128 bpm, irregular
+- **BP:** 84/55 mmHg (on norepinephrine)
+- **RR:** 24
+- **SpO2:** 93% on 4L NC
+- **Gen:** Ill-appearing, diaphoretic
+- **CV:** Tachycardic, S3 present, no murmur
+- **Resp:** Tachypneic, bibasilar crackles
+- **Abd:** Soft, non-distended
+- **Ext:** Cool extremities, trace edema
+- **Neuro:** Alert, oriented x3
+
+---
+
+## LABS
+
+#### Table 1: CBC & Chemistry (select entries missing)
+
+| Date/Time         | WBC  | Hgb  | Hct   | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|-------------------|------|------|-------|------|------|------|------|------|------|------|------|
+| 5/20/24 09:50     | 5.1  | 13.4 | 39.7  | 315  | 138  | 3.2  | 102  | 19   | 28   | 1.3  | 116  |
+| 5/20/24 15:20     | 4.9  | 12.6 | 37.8  | 280  | 136  | 3.6  | 101  | 18   | 36   | 1.8  | 144  |
+| 5/21/24 04:12     | 6.7  | 10.9 | 32.5  | 195  | 133  | 4.4  | 99   | 16   | 47   | 2.2  | 136  |
+| 5/21/24 13:05     |      | 10.7 | 31.8  | 190  | 132  |      | 98   | 15   | 52   | 2.6  |      |
+| 5/22/24 03:20     | 8.2  | 10.3 | 30.7  | 177  | 134  | 4.2  |      | 17   | 46   | 2.1  | 128  |
+| 5/22/24 16:00     | 7.9  |      |       | 172  |      | 4.1  | 98   | 15   | 38   | 1.7  | 116  |
+
+#### Table 2: Cardiac Markers & Other Labs
+
+| Date/Time         | Troponin (ng/mL) | BNP (pg/mL) | AST (U/L) | ALT (U/L) | Total Bili | INR  | Lactate (mmol/L) |
+|-------------------|------------------|-------------|-----------|-----------|------------|------|------------------|
+| 5/20/24 10:00     | 8.1              | 3020        | 66        | 39        | 1.2        | 1.4  | 4.8              |
+| 5/20/24 18:00     | 7.6              | 3310        | 92        | 71        | 1.6        | 1.6  | 3.2              |
+| 5/21/24 12:00     | 5.9              | 2980        | 72        | 58        | 1.3        | 1.5  | 2.1              |
+| 5/22/24 09:00     | 2.3              | 2410        | 61        | 45        | 1.1        | 1.3  | 1.6              |
+
+---
+
+## IMAGING
+
+- **Echocardiogram (5/20/24):** Severe global LV systolic dysfunction (EF 15%), mild RV dysfunction, moderate MR, no thrombus.
+- **Chest X-ray (5/20/24):** Pulmonary edema, mild cardiomegaly.
+
+---
+
+## HOSPITAL COURSE (ICU)
+
+- **Day 0:** Admitted to ICU for acute decompensated heart failure and cardiogenic shock. Started on norepinephrine, dobutamine. Impella CP placed for hemodynamic support.
+- **Day 1:** Remained on Impella, pressors weaned slightly. Oliguric, rising creatinine, lactate improved. Developed mild transaminitis and hyperbilirubinemia, likely shock liver.
+- **Day 2:** Gradual improvement in MAP and urine output. Pressors further down-titrated. LV function remains poor. Extubated to high-flow NC.
+- **Day 3:** Impella weaned and removed after TTE showed modest but improved LV function (EF 28%). Transitioned to oral HF meds (metoprolol, sacubitril-valsartan, spironolactone). Off pressors.
+
+---
+
+## ASSESSMENT & PLAN
+
+### 1. **Cardiogenic Shock, Severe Acute Heart Failure (likely viral myocarditis)**
+   - Impella CP placed for hemodynamic support, now removed.
+   - Weaned from vasopressors.
+   - Serial TTEs to monitor recovery.
+   - Continue guideline-directed medical therapy (GDMT) for HF.
+   - Monitor for arrhythmias.
+
+### 2. **Acute Kidney Injury (likely ischemic)**
+   - Monitored urine output, trending Cr/BUN.
+   - Avoid nephrotoxins.
+   - Renal function improving as perfusion stabilizes.
+
+### 3. **Transaminitis, Hyperbilirubinemia (shock liver)**
+   - Expectant management, trending LFTs.
+   - Liver enzymes down-trending as shock resolves.
+
+### 4. **Volume Overload / Pulmonary Edema**
+   - Diuresis with IV furosemide.
+   - Fluid restriction.
+
+### 5. **Electrolyte Abnormalities (hypokalemia, mild hyponatremia)**
+   - Replete K+ as needed.
+   - Monitor sodium closely.
+
+### 6. **Contraception Management**
+   - Hold Seasonique during acute illness; discuss risks/benefits prior to restart.
+
+### 7. **Viral Sinusitis (recent)**
+   - No signs of ongoing infection; no antibiotics.
+
+### 8. **Nutrition / DVT Prophylaxis**
+   - Started on tube feeds for 48 hrs; now on oral diet.
+   - SCDs and low-dose heparin for DVT prophylaxis.
+
+### 9. **Disposition**
+   - Continue close cardiac monitoring.
+   - Cardiology, nephrology, and ICU teams following.
+
+---
+
+## MEDICATIONS (Hospital Day 3)
+
+- Metoprolol succinate 25 mg PO daily
+- Sacubitril-valsartan 24/26 mg PO BID
+- Spironolactone 25 mg PO daily
+- Furosemide 40 mg IV BID
+- Potassium chloride 40 mEq PO daily
+- Heparin 5000 U SQ q8h
+
+---
+
+## VITALS (selected)
+
+| Date/Time   | Temp  | HR   | BP         | RR  | SpO2  | Pain |
+|-------------|-------|------|------------|-----|-------|------|
+| 5/20/24 10:00 | 36.7 | 122  | 84/55      | 26  | 91%RA | 2    |
+| 5/21/24 04:00 | 36.8 | 128  | 88/59      | 24  | 94%4L | 1    |
+| 5/21/24 14:30 | 37.1 | 110  | 95/62      | 18  | 97%NC | 0    |
+| 5/22/24 09:00 | 36.9 | 98   | 106/70     | 16  | 98%RA | 0    |
+
+---
+
+**Attending Physician:** S. Patel, MD  
+**Co-signed by:** J. Lin, MD  
+**Date/Time:** 5/22/2024 19:44
+
+---

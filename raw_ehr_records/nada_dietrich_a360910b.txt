@@ -1,0 +1,157 @@
+---
+**Patient Name:** Nada Dietrich  
+**MRN:** 00835472  
+**DOB:** 12/12/1949 (Age: 74)  
+**Sex:** Female  
+**Date of Admission:** 04/18/2024  
+**Attending:** Dr. M. Wilcox  
+**Consults:** Cardiology, Endocrinology, Infectious Disease, PT/OT  
+**Location:** Medical ICU, Bed 4  
+**Code Status:** Full  
+**Allergies:** NKDA  
+**Height:** 157.7 cm  
+**Weight:** 68.9 kg  
+**BMI:** 27.7 kg/m²  
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+Ms. Nada Dietrich, a 74-year-old woman with a history notable for obesity, prediabetes, chronic anemia, and osteoarthritis, was admitted with acute hypoxemic respiratory failure, rapidly progressive cardiogenic shock, and evidence of acute decompensated heart failure. Her course was complicated by multi-organ dysfunction and she required the insertion of a TEMPORARY LEFT VENTRICULAR ASSIST DEVICE (Impella CP) for refractory shock.
+
+#### **Hospital Day 1 (Admission)**
+- Presented to ED with 3 days of worsening SOB, orthopnea, and PND. 
+- Exam: tachypneic, tachycardic, JVD+, bibasilar crackles, S3, LE edema.
+- Initial labs: Troponin I 0.11 ng/mL (↑), BNP 1450 pg/mL, Cr 1.1 mg/dL, LFTs normal, lactate 3.1 mmol/L.
+- EKG: Sinus tachycardia, nonspecific ST-T changes.
+- CXR: Pulmonary vascular congestion, mild pleural effusions.
+- Echo: LVEF ~18%, global hypokinesis, moderate MR.
+- Admitted to MICU for inotropic support (dobutamine), IV Lasix, BiPAP.
+- Overnight, progressive hypotension and rising lactate (4.8 mmol/L).
+
+#### **Hospital Day 2**
+- Cardiogenic shock refractory to escalating vasopressors.
+- Cardiology: emergent placement of Impella CP via femoral approach.
+- Hemodynamics stabilized post-device. Weaned off norepinephrine over 8 hrs.
+- Foley, A-line, central line placed.
+- Initiated broad-spectrum abx for possible aspiration pneumonia (cefepime, vanc, flagyl).
+- VBG: pH 7.29/CO2 49/O2 38/HCO3 21.
+- Labs: WBC 13.7, Hgb 10.2, Plt 354, Cr 1.4, Na 135, K 4.7, Glu 162.
+
+#### **Hospital Day 3-6**
+- Gradual improvement in end-organ perfusion.
+- Renal function slow to recover (peak Cr 1.7 on D4). Required 2 units PRBC for Hgb <8.
+- Transitioned to IV diuresis.
+- Impella flows maintained, no evidence hemolysis (LDH normal, haptoglobin WNL).
+- Developed right groin hematoma post-procedure (managed conservatively).
+- Ongoing intermittent fevers, likely aspiration vs. device-related infection (blood cultures negative).
+- Physical therapy initiated on D5.
+- Nutrition consult: high protein, diabetic diet.
+
+#### **Hospital Day 7**
+- Weaning of Impella support. Repeat echo: LVEF improved to 28%, MR mild.
+- Device explanted successfully, hemostasis achieved.
+- Mobilized to chair.
+- Transitioned to oral diuretics, beta-blocker, and ACEi.
+
+#### **Hospital Day 8-11**
+- Continued improvement, off all inotropes/vasopressors.
+- Infectious workup negative; abx discontinued.
+- Persistent anemia (Hgb 8.6-9.2), likely multifactorial.
+- Discharged to acute rehab on Day 11.
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock / Acute Decompensated HF (HFrEF)**
+   - Likely ischemic/non-ischemic etiology, severe LV dysfunction.
+   - Required Impella CP for hemodynamic support (HD2-7).
+   - Now improved, off device, on GDMT (carvedilol, lisinopril, torsemide).
+   - F/u outpatient echo and HF clinic.
+
+**2. Anemia (Chronic, Acute on Chronic)**
+   - Baseline anemia, worsened by acute illness and procedural blood loss.
+   - 2u PRBC given, Hgb now stable.
+   - Iron studies, B12, folate pending. GI workup outpatient.
+
+**3. Obesity / Prediabetes**
+   - BMI 27.7, A1c 6.3%.
+   - On diabetic diet, glucose controlled (range 95-170).
+   - Monitor for new DM; outpatient endocrinology.
+
+**4. Acute Kidney Injury (AKI)**
+   - Pre-renal/ischemic, Cr peaked 1.7, improved to 1.2.
+   - UOP adequate, no dialysis needed.
+   - Monitor labs, avoid nephrotoxins.
+
+**5. Infection Risk (Aspiration, Device-related)**
+   - Empiric abx x 5d, all cultures negative.
+   - Afebrile, WBC trending down.
+   - No vegetations on TTE.
+
+**6. Osteoarthritis / Mobility**
+   - Baseline R hip pain, worsened by immobility.
+   - PT/OT daily, range of motion exercises.
+   - Continue naproxen PRN, monitor GI/renal.
+
+**7. Miscellaneous**
+   - Burn (old, healed), viral pharyngitis/sinusitis (resolved).
+   - DVT prophylaxis (enoxaparin).
+   - Social work: Dispo to rehab.
+
+---
+
+## LABS (Selected, Inpatient)
+
+| Date        | WBC  | Hgb  | Plt  | Na   | K    | Cl   | HCO3 | BUN  | Cr   | Glu  | Troponin | BNP   | Lactate | AST  | ALT  |
+|-------------|------|------|------|------|------|------|------|------|------|------|----------|-------|---------|------|------|
+| 4/18/2024   | 7.9  | 15.7 | 415  | 136  | 4.6  | 103  | 26.7 | 7.1  | 0.74 | 95   | 0.11     | 1450  | 3.1     | 22   | 18   |
+| 4/19/2024   | 13.7 | 10.2 | 354  | 135  | 4.7  | 102  | 22   | 18   | 1.4  | 162  | 0.19     | 1900  | 4.8     | 38   | 41   |
+| 4/20/2024   | 12.1 | 8.0  | 298  | 138  | 4.1  | 101  | 19   | 25   | 1.7  | 155  | 0.08     | 1000  | 3.9     | 33   | 30   |
+| 4/21/2024   | 9.8  | 9.0  | 272  | 137  | 4.2  | 103  | 24   | 20   | 1.5  | 148  | --       | --    | --      | --   | --   |
+| 4/22/2024   | 8.7  | 8.6  | 247  | 139  | 4.0  | 104  | 23   | 17   | 1.3  | 143  | --       | 820   | 2.1     | 27   | 26   |
+| 4/23/2024   | 7.5  | 9.2  | 233  | 138  | 4.3  | 103  | 25   | 15   | 1.2  | 120  | --       | --    | --      | --   | --   |
+
+*Some labs not collected daily, or results pending.*
+
+---
+
+## VITALS (Selected)
+
+- **HR**: 90-120
+- **BP**: 82/55 (lowest, HD2) to 138/65 (HD8)
+- **RR**: 18-34
+- **SpO2**: 89% (on BiPAP, HD1) to 97% (RA, HD8)
+- **Temp**: Max 38.2°C (HD3), otherwise 36.9–37.4°C
+
+---
+
+## HOME MEDICATIONS
+- Naproxen sodium 220 mg PO PRN
+- Amoxicillin-clavulanate 250/125 mg PO BID (recent, completed)
+- Multivitamin
+- Atorvastatin 20 mg PO qHS (added at discharge)
+- Carvedilol 3.125 mg PO BID (new)
+- Lisinopril 5 mg PO daily (new)
+- Torsemide 20 mg PO daily (new)
+
+---
+
+## DISCHARGE PLAN
+- To acute rehab, PT/OT
+- F/u: Cardiology (1 week), Labs (BMP, CBC, iron panel), Echo (4 weeks)
+- No driving for 1 month post-Impella
+- Strict I/O at rehab, daily weights
+- Return precautions: SOB, CP, dizziness, fever, bleeding
+
+---
+
+**Signed:**  
+Wilcox, MD  
+Attending, Medical ICU  
+04/29/2024 09:46
+
+---
+
+**[End of Note]**

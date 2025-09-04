@@ -1,0 +1,189 @@
+```
+===================================================================
+EpicCare Inpatient - Progress Note
+===================================================================
+
+Patient Name: Wanita Ondricka             MRN: 003458211
+DOB: 07/04/1921 (Age: 102)                Sex: Female
+Date of Admission: 05/18/2024             Attending: Dr. T. Wilcox
+Date of Service: 05/22/2024               
+
+===================================================================
+Chief Complaint:
+----------------
+Progressive dyspnea, orthopnea, and acute confusion.
+
+History of Present Illness:
+---------------------------
+Ms. Ondricka is a 102-year-old female with a significant past medical history of hypertension, coronary artery disease, atrial fibrillation on warfarin, heart failure (preserved EF), Alzheimer's dementia, obesity, osteoporosis, fibromyalgia, and multiple recent infections (bronchitis, sinusitis). She was admitted from her memory care facility after developing worsening shortness of breath, somnolence, and decreased oral intake. 
+
+Initial workup revealed acute hypoxic respiratory failure with flash pulmonary edema, worsening confusion, and signs of low cardiac output. She was transferred to the ICU, where she developed cardiogenic shock refractory to inotropes and vasopressors. Emergent left-sided temporary mechanical circulatory support (Impella CP) was placed for hemodynamic stabilization. She is currently intubated and sedated, on Impella support, and undergoing aggressive diuresis and infection management.
+
+===================================================================
+Hospital Course Summary:
+------------------------
+- Day 0: Arrival to ED, hypoxic, tachypneic, SBP 82, HR 132 (irregularly irregular), O2 sat 85% RA. CXR: bilateral infiltrates, pulmonary edema. BNP 2100, troponin I 0.19, lactate 4.1. Started on BiPAP, IV Lasix, and nitroglycerin drip.
+- Day 1: Transferred to ICU for worsening shock, started on norepinephrine, dobutamine. Echo: LVEF 15%, severe global hypokinesis, dilated LA. Impella CP placed via femoral approach.
+- Day 2: Improved hemodynamics, weaned off vasopressors. Still oliguric, borderline MAPs. Developed fever, started on vancomycin + cefepime. Blood and sputum cultures sent.
+- Day 3: Mental status improved, extubated to high-flow nasal cannula. Impella flows stable. Complicated by new-onset hematuria, INR 3.8. Warfarin held. Hgb drop from 12.7 to 9.8.
+- Day 4: Gradual diuresis successful, improved pulmonary status. Impella wean initiated. Nutrition consult for poor PO intake. Family meeting held re: advanced directives.
+- Day 5: Impella explanted at bedside, hemodynamics stable. Transitioned to low-dose inotropes. Persistent delirium, physical therapy consulted.
+
+===================================================================
+Past Medical History:
+---------------------
+- Hypertension
+- Coronary artery disease (prior NSTEMI, stents x2)
+- Atrial fibrillation (chronic, on warfarin)
+- Heart failure with reduced EF (EF 15% on admission)
+- Alzheimer's disease
+- Obesity (BMI ~30)
+- Osteoporosis
+- Fibromyalgia
+- Recurrent acute bronchitis, sinusitis
+- Remote miscarriage
+
+Past Surgical History:
+----------------------
+- Cholecystectomy (1983)
+- Left hip ORIF (2017)
+- PCI with DES x2 (2015, 2018)
+
+Allergies:
+----------
+- NKDA
+
+===================================================================
+Medications on Admission:
+-------------------------
+- Hydralazine 25 mg PO BID
+- Furosemide 40 mg PO daily (home)
+- Naproxen 500 mg PO BID
+- Clopidogrel 75 mg PO daily
+- Simvastatin 20 mg PO QHS
+- Amlodipine 5 mg PO daily
+- Nitroglycerin 0.4 mg SL PRN
+- Amoxicillin-clavulanate 250/125 mg PO BID
+- Galantamine 4 mg PO daily
+- Donepezil 23 mg PO daily
+- Warfarin 5 mg PO daily
+- Verapamil 40 mg PO BID
+- Digoxin 0.125 mg PO daily
+- Pregabalin 100 mg PO BID
+- Acetaminophen 325 mg PO Q6h PRN
+
+===================================================================
+Vital Signs (selected):
+-----------------------
+| Date      | T (°C) | HR (bpm) | BP (mmHg) | RR | O2 Sat (%) | Weight (kg) |
+|-----------|--------|----------|-----------|----|------------|-------------|
+| 5/18/24   | 36.8   | 132      | 82/45     | 28 | 85         | 83.7        |
+| 5/19/24   | 37.2   | 110      | 95/60     | 24 | 94         | 81.9        |
+| 5/20/24   | 37.8   | 98       | 108/68    | 20 | 96         | 80.6        |
+| 5/21/24   | 36.9   | 86       | 115/71    | 18 | 98         | 79.5        |
+| 5/22/24   | 36.6   | 88       | 118/72    | 16 | 98         | 79.0        |
+
+===================================================================
+Laboratory Results (CBC, Chem7, Others):
+----------------------------------------
+| Date     | WBC   | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin I | BNP   | INR  | AST  | ALT  |
+|----------|-------|------|------|------|------|------|------|------|------|------|------|------------|-------|------|------|------|
+| 5/18/24  | 5.2   | 12.7 | 38.1 | 219  | 134  | 3.8  | 98   | 19   | 38   | 1.8  | 118  | 0.19       | 2100  | 2.9  | 45   | 39   |
+| 5/19/24  | 6.1   | 11.9 | 36.2 | 191  | 137  | 4.1  | 101  | 21   | 44   | 2.2  | 132  | 0.10       | 1850  | 3.1  | 48   | 41   |
+| 5/20/24  | 7.9   | 10.5 | 32.8 | 173  | 140  | 3.4  | 99   | 23   | 51   | 2.9  | 167  | 0.08       | 1650  | 3.8  | 59   | 53   |
+| 5/21/24  | 8.2   | 9.8  | 31.1 | 154  | 142  | 4.2  | 104  | 24   | 38   | 2.1  | 142  | <0.01      | 1200  | 2.7  | 44   | 38   |
+| 5/22/24  | 6.5   | 9.7  | 30.2 | 160  | 139  | 3.9  | 102  | 22   | 29   | 1.4  | 108  | --         | 860   | 1.8  | --   | --   |
+*Some values not measured each day.
+
+Additional Labs:
+- Lactate (5/18): 4.1 mmol/L (elevated)
+- Procalcitonin (5/19): 0.14 ng/mL
+- LFTs with mild transaminitis during shock phase
+- Blood cultures: Negative x2
+- Sputum culture: Mixed flora
+
+Imaging:
+--------
+- CXR: Bilateral pulmonary edema, no consolidation
+- Echo (5/18): LVEF 15%, severe global hypokinesis, LA dilation, mild MR, no tamponade
+- CT head (5/19): No acute infarct or bleed, severe atrophy
+
+===================================================================
+Physical Exam (ICU Day 4):
+--------------------------
+Gen: Elderly F, cachectic, alert but confused, NAD
+HEENT: Oropharynx clear, mild nasal congestion
+CV: Irregularly irregular, S3 present, 2/6 holosystolic murmur at apex, Impella in place, no peripheral edema
+Lungs: Crackles at bases, improved aeration, no wheeze
+Abd: Soft, NT, NABS, no HSM
+Ext: No clubbing/cyanosis, mild chronic edema
+Neuro: Follows simple commands inconsistently, non-focal, MMSE 0/30
+
+===================================================================
+Assessment & Plan (Problem-Based):
+----------------------------------
+
+1. **Cardiogenic Shock, Acute Decompensated Heart Failure**
+   - Etiology: Likely ischemic + arrhythmia (AFib) + infection
+   - Required temporary left-sided mechanical support (Impella CP) for refractory shock
+   - Now hemodynamically improved, weaning off support
+   - Continue GDMT for HF (hold nephrotoxics, titrate diuresis)
+   - Daily weights, strict I/O, monitor for hemolysis/vascular complications
+
+2. **Atrial Fibrillation**
+   - Chronic, on warfarin, now with supratherapeutic INR/bleed
+   - Hold warfarin, monitor Hgb/INR
+   - Rate control with low-dose IV metoprolol, digoxin continued
+   - Cardiology following
+
+3. **Alzheimer’s Disease, Delirium**
+   - Baseline MMSE 0/30, worsened by acute illness
+   - Nonpharmacologic delirium prevention, minimize benzos/anticholinergics
+   - Family updated, DPOA present, code status: DNR/DNI
+
+4. **Acute Kidney Injury**
+   - Multifactorial: low output, diuresis, nephrotoxins
+   - Renal trending down, improving with euvolemia
+   - Avoid nephrotoxic drugs, monitor labs
+
+5. **Infection (Bronchitis/Sinusitis)**
+   - Empiric vancomycin/cefepime started, now afebrile, cultures negative
+   - Will de-escalate to PO amoxicillin-clavulanate for 5 days
+
+6. **Obesity, Osteoporosis, Fibromyalgia**
+   - PT/OT for mobility, DEXA not indicated acutely
+   - Pain managed with acetaminophen, avoid NSAIDs
+
+7. **Nutrition**
+   - Poor PO, high risk for refeeding, started on tube feeds
+   - Monitor for aspiration, routine labs
+
+8. **Other**
+   - DVT prophylaxis: SCDs (no anticoagulation due to bleeding)
+   - Advance care planning: Family meeting held, palliative care consulted
+
+===================================================================
+Consults:
+---------
+- Cardiology (mechanical support, arrhythmia)
+- Nephrology (AKI)
+- Infectious Disease (antibiotic stewardship)
+- Nutrition, PT/OT, Palliative Care
+
+===================================================================
+Orders:
+-------
+- Continue telemetry, daily labs (CBC, Chem7, Mg, Phos, LFTs)
+- Hold warfarin, monitor INR daily
+- Wean off Impella, serial vascular checks
+- Strict I/O, daily weights
+- DVT prophylaxis: SCDs only
+- Advance directives on file
+
+===================================================================
+Signature: 
+----------
+Wilcox, T. MD  05/22/2024  13:14
+
+===================================================================
+```

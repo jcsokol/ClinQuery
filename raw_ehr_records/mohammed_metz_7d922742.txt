@@ -1,0 +1,206 @@
+---
+**Epic EHR - Inpatient Encounter**
+
+**Patient:** Mohammed Metz  
+**MRN:** 00348291  
+**DOB:** 09/27/1983 (Age 40)  
+**Sex:** Male  
+**Admit Date:** 2024-05-28  
+**Attending:** Dr. J. Albright  
+**Location:** MICU, Bed 7
+
+---
+
+### ADMISSION SUMMARY
+
+**Chief Complaint:**  
+Progressive dyspnea, orthopnea, and chest pressure x 4 days. Presented with acute decompensated heart failure and cardiogenic shock.
+
+**History of Present Illness:**  
+40-year-old male with a history of prediabetes, chronic sinusitis, anemia, and recurrent respiratory tract infections presented to the ED with acute onset of worsening shortness of breath, chest heaviness, and palpitations. Reports recent viral upper respiratory infection with subjective fevers, myalgias, and non-productive cough. On the day of admission, he developed severe fatigue, lightheadedness, and an episode of near-syncope. Found to be hypotensive (BP 84/52), tachycardic (HR 122), and hypoxic on arrival to ED. Initial labs notable for elevated lactate, low CO2, and mild renal dysfunction. Cardiac biomarkers elevated. Bedside echo revealed severely reduced LVEF (est. 15%), global hypokinesis, and dilated LV. Emergent transfer to MICU.
+
+**Hospital Course Summary:**  
+Patient developed progressive cardiogenic shock with evidence of end-organ hypoperfusion. Initiated on norepinephrine and dobutamine drips. Despite escalating vasoactives, persistent hypotension and rising lactate prompted placement of a percutaneous left ventricular assist device (Impella CP) on hospital day 1. Hemodynamics improved, weaned off pressors by day 3. Complicated by mild hemolysis and transient AKI (resolved by day 5). No significant arrhythmias. Cardiac MRI suggestive of viral myocarditis. Extubated on day 4, transitioned to goal-directed medical therapy for HFrEF. Awaiting placement for cardiac rehab.
+
+---
+
+### PAST MEDICAL HISTORY
+
+- Chronic sinusitis
+- Prediabetes
+- Anemia (mild, chronic)
+- Recurrent strep pharyngitis
+- Acute bronchitis (frequent episodes)
+- No prior cardiac history
+
+### PAST SURGICAL HISTORY
+
+- None
+
+### ALLERGIES
+
+- NKDA
+
+### HOME MEDICATIONS
+
+- Penicillin V Potassium 500 mg PO BID (for sinusitis)
+- Acetaminophen 325 mg PO PRN
+
+### FAMILY HISTORY
+
+- Non-contributory
+
+### SOCIAL HISTORY
+
+- Non-smoker, no alcohol, no illicit drugs
+- Lives with spouse, employed as IT technician
+
+---
+
+## PHYSICAL EXAMINATION (HD 2)
+
+| Vital Sign              | Value      |
+|-------------------------|------------|
+| Temp                    | 37.8 °C    |
+| HR                      | 98         |
+| BP                      | 104/68     |
+| RR                      | 18         |
+| SpO2                    | 96% on 2L  |
+| Weight                  | 80 kg      |
+| Height                  | 164 cm     |
+| BMI                     | 29.8       |
+
+**General:** Awake, alert, mild distress  
+**CV:** S3 present, tachycardic, Impella hum audible, no JVD  
+**Resp:** Clear to ausc, no crackles  
+**Abd:** Soft, non-tender  
+**Ext:** No edema, pulses 2+  
+**Skin:** No rashes, mild pallor  
+**Neuro:** Grossly intact
+
+---
+
+## ICU LABS TABLE
+
+| Date        | WBC  | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2   | Cr   | BUN  | Gluc | Troponin | BNP   | AST  | ALT  |
+|-------------|------|------|------|-------|------|------|------|-------|------|------|------|----------|-------|------|------|
+| 5/28 06:00  | 8.0  | 17.4 | 44.4 | 343   | 140  | 5.1  | 102  | 20.9  | 1.18 | 14.7 | 74   | 1.28     | 2350  | 87   | 65   |
+| 5/28 18:00  | 12.2 | 15.7 | 41.1 | 289   | 137  | 4.9  | 101  | 19.1  | 1.44 | 21.3 | 108  | 2.53     | 5240  | 105  | 82   |
+| 5/29 06:00  | 10.5 | 14.9 | 39.0 | 256   | 139  | 4.2  | 105  | 21.7  | 1.23 | 17.8 | 94   | 1.11     | 4030  | 76   | 56   |
+| 5/29 18:00  | 9.8  | 13.8 | 36.8 | 240   | 141  | 4.6  | 103  | 23.5  | 1.05 | 15.2 |      | 0.64     | 2210  |      | 50   |
+| 5/30 07:00  | 7.7  | 13.4 | 35.3 | 218   | 142  | 4.0  | 100  | 25.1  | 0.97 | 12.6 | 83   | 0.22     | 1090  | 39   |     |
+| 5/31 06:00  |      | 13.1 | 33.1 | 206   | 143  | 4.3  | 102  | 27.4  | 0.89 | 11.2 | 88   | 0.09     | 650   | 28   | 21   |
+| 6/01 08:00  | 8.1  | 13.3 |      | 199   | 141  | 4.8  |      | 27.9  | 0.89 | 10.7 | 92   | <0.01    | 410   |     |     |
+
+---
+
+## PROBLEM-BASED ASSESSMENT & PLAN
+
+### 1. **Acute Systolic Heart Failure (HFrEF) due to Presumed Viral Myocarditis**
+- **Assessment:** New diagnosis, likely viral myocarditis (recent URI, MRI findings, elevated troponin/BNP), LVEF 15%, presented in cardiogenic shock.
+- **Plan:**
+  - Impella CP placed HD 1, ongoing support, flows 3.4 L/min, no device alarms.
+  - Weaned off all vasoactives by HD 3.
+  - Serial TTEs: no LV thrombus, gradual improvement in function (LVEF up to 25% by HD 5).
+  - Initiated low-dose carvedilol and sacubitril-valsartan HD 5.
+  - Strict I/O, daily weights, sodium restriction.
+  - Awaiting outpatient cardiac MRI, referral to advanced HF/transplant team.
+
+### 2. **Cardiogenic Shock**
+- **Assessment:** Required pressor/inotrope support and Impella for hemodynamic instability.
+- **Plan:**
+  - Norepinephrine/dobutamine discontinued HD 3.
+  - Lactate normalized by HD 4.
+  - Monitor for hemolysis, limb ischemia, device complications (none to date).
+  - Daily labs and device flows.
+
+### 3. **Acute Kidney Injury (resolved)**
+- **Assessment:** Likely multifactorial (hypoperfusion, hemolysis), peaked Cr 1.44, improved with volume optimization and improved perfusion.
+- **Plan:**
+  - Monitor renal function, avoid nephrotoxins.
+  - Renal function normalized by HD 5.
+
+### 4. **Chronic Anemia**
+- **Assessment:** Baseline mild anemia, Hgb dropped to 13.1 during hospitalization (likely dilutional/hemolysis).
+- **Plan:**
+  - Monitor CBC, transfusion not indicated.
+  - Iron studies pending.
+
+### 5. **Prediabetes**
+- **Assessment:** A1c 5.8%, no DKA/hyperglycemia during admission.
+- **Plan:**
+  - Monitor glucose, diabetic diet, endocrinology f/u.
+
+### 6. **Chronic Sinusitis / Recurrent URI**
+- **Assessment:** No acute sinus symptoms during ICU stay.
+- **Plan:**
+  - Continue outpatient therapy.
+  - ENT f/u as outpatient.
+
+### 7. **Pain/Fever Management**
+- **Assessment:** Occasional low-grade fever, pain well-controlled with acetaminophen.
+- **Plan:**
+  - Acetaminophen 325 mg PO PRN.
+  - No NSAIDs due to renal/cardiac risk.
+
+### 8. **Prophylaxis/Prevention**
+- **Plan:**
+  - DVT prophylaxis with heparin SQ.
+  - PPI for GI prophylaxis.
+  - Up to date on vaccines.
+
+---
+
+## PROCEDURES
+
+- **Impella CP placement (5/28/2024):** Right femoral arterial access. No immediate complications.
+
+---
+
+## IMAGING
+
+- **Echocardiogram (5/28):** LVEF 15%, global LV hypokinesis, mild RV dysfunction.
+- **Chest X-ray (5/29):** Mild pulmonary vascular congestion, Impella in position.
+- **Cardiac MRI (5/30):** Edema, late gadolinium enhancement in inferolateral wall, consistent with acute myocarditis.
+
+---
+
+## MICROBIOLOGY
+
+- NP swab: Positive for Coxsackie B virus
+- Blood cultures: Negative x2
+
+---
+
+## DISCHARGE PLANNING
+
+- Anticipated transfer to telemetry floor HD 6.
+- Cardiac rehab referral.
+- Follow-up: HF/transplant clinic, cardiology, primary care, ENT, endocrinology.
+
+---
+
+**Signed:**  
+J. Albright, MD  
+MICU Attending  
+Date/Time: 2024-06-01 10:22
+
+---
+
+**Additional Labs:**  
+- LDH: 412 U/L (↑, HD 2)  
+- Haptoglobin: <10 mg/dL (↓, HD 2)  
+- Reticulocyte count: 2.8%  
+- Ferritin: 61 ng/mL  
+- INR: 1.1  
+- aPTT: 31 s  
+
+**Nursing Notes:**  
+Impella site clean, dry, pulses present. Foley removed HD 4. No delirium. Family at bedside.
+
+**Consults:**  
+- Cardiology (primary)
+- Nephrology (AKI, resolved)
+- Infectious Disease (viral myocarditis)
+
+---

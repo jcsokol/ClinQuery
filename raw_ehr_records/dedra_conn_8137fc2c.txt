@@ -1,0 +1,208 @@
+**INPATIENT PROGRESS NOTE**  
+**Patient Name:** Dedra Conn  
+**MRN:** 003049221  
+**DOB:** 08/23/1955  
+**Sex:** Female  
+**Date of Service:** 05/13/2024  
+**Attending:** Dr. K. Andrews  
+**Location:** MICU, Room 8B  
+
+---
+
+### CHIEF COMPLAINT
+Shortness of breath, chest pain, and lower extremity edema.
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+Dedra Conn is a 68-year-old female with a history of obesity (BMI ~30), chronic sinusitis, osteoarthritis of the knee, and remote clavicle fracture, presenting to the ED with acute onset of chest pain, progressive dyspnea, orthopnea, and bilateral leg swelling over 3 days. She was found to be in acute decompensated heart failure on arrival, with hypotension and evidence of end-organ hypoperfusion. She rapidly deteriorated on the floor, requiring transfer to the ICU for escalating vasopressor support. Given persistent cardiogenic shock refractory to medical management (dobutamine, norepinephrine), a temporary percutaneous left ventricular assist device (Impella CP) was placed for hemodynamic support.
+
+---
+
+### HOSPITAL COURSE
+- Day 1: Admitted to ED with acute SOB, CXR with pulmonary edema, BNP 2100, troponin mildly elevated (0.14, peaked 0.22). Started on IV furosemide, O2, and nitro drip.  
+- Day 2: Worsening hypotension, rising creatinine, transferred to ICU. Started on norepinephrine, dobutamine.  
+- Day 3: Echocardiogram: LVEF ~15%, global hypokinesis. Cardiology consulted. Given persistent shock, Impella CP placed via right femoral artery.  
+- Day 4-7: Gradual improvement in perfusion, down-titration of vasopressors. Diuresis intensified. Monitored for hemolysis and device-related complications.  
+- Day 8: Impella weaned and removed. LVEF improved to 28%.  
+- Day 9-12: Steady improvement, transitioned to oral heart failure therapy. Monitored for arrhythmias and secondary infections.  
+- Day 13: Preparing for transfer to step-down with plans for outpatient heart failure follow-up.
+
+---
+
+### PAST MEDICAL HISTORY
+- Obesity (BMI ~30)
+- Chronic sinusitis
+- Osteoarthritis (knee)
+- Remote clavicle fracture
+- Viral sinusitis/pharyngitis (multiple episodes)
+- Sprains: ankle, wrist
+
+---
+
+### PAST SURGICAL HISTORY
+- None reported
+
+---
+
+### MEDICATIONS ON ADMISSION
+- Naproxen sodium 220 mg PO PRN
+- Meperidine 50 mg PO PRN
+- Amoxicillin/clavulanate 250/125 mg PO BID
+- Ibuprofen 200 mg PO PRN
+
+**Hospital Medications:**
+- Furosemide IV
+- Norepinephrine IV
+- Dobutamine IV
+- Aspirin 81 mg PO daily
+- Lisinopril 5 mg PO daily
+- Carvedilol 3.125 mg PO BID
+- Atorvastatin 40 mg PO daily
+
+---
+
+### ALLERGIES
+- NKDA
+
+---
+
+### FAMILY HISTORY
+- Noncontributory
+
+---
+
+### SOCIAL HISTORY
+- Lives alone, retired librarian
+- No tobacco, EtOH rare, no illicit drugs
+
+---
+
+### REVIEW OF SYSTEMS
+- Constitutional: Weakness, malaise, weight unchanged
+- CV: Chest pain, palpitations, orthopnea, PND, edema
+- Pulm: SOB, no cough
+- GI: Nausea, no vomiting or diarrhea
+- GU: Oliguria (during shock)
+- MSK: Baseline OA pain, no new trauma
+- Neuro: No focal deficits
+- Skin: No rash
+
+---
+
+### PHYSICAL EXAM (ICU Day 5)
+- Gen: Overweight female, appears fatigued
+- VS: T 37.3, HR 94, BP 92/58 (on low-dose norepi), RR 18, SpO2 94% RA
+- HEENT: Sinus tenderness, no oropharyngeal lesions
+- Neck: JVD 8 cm, no thyromegaly
+- CV: S3 present, holosystolic murmur at apex, cool extremities
+- Lungs: Bibasilar crackles
+- Abd: Soft, non-tender, no HSM
+- Ext: 2+ pitting edema BLE, pulses weak
+- Neuro: Alert, oriented x3
+- Skin: No ulcers, no petechiae
+
+---
+
+### VITALS TREND (ICU Days 1–7)
+| Date       | Temp (C) | HR | BP       | RR | SpO2 | Pain |
+|------------|----------|----|----------|----|------|------|
+| 5/1/24     | 37.6     | 108| 84/54    | 22 | 95%  | 8    |
+| 5/2/24     | 37.4     | 101| 90/60    | 20 | 95%  | 6    |
+| 5/3/24     | 37.2     | 97 | 92/58    | 18 | 94%  | 5    |
+| 5/4/24     | 37.0     | 92 | 98/62    | 17 | 96%  | 4    |
+| 5/5/24     | 36.8     | 88 | 104/65   | 16 | 97%  | 3    |
+| 5/6/24     | 37.1     | 90 | 108/70   | 16 | 97%  | 2    |
+| 5/7/24     | 36.9     | 88 | 110/72   | 16 | 98%  | 2    |
+
+---
+
+### LABS (SELECTED CBC, CHEM7, CARDIAC MARKERS)
+
+| Date   | WBC  | Hgb  | Hct  | Plt  | Na  | K   | Cl  | CO2 | BUN | Cr   | Glu | Troponin | BNP   | AST | ALT | TBili |
+|--------|------|------|------|------|-----|-----|-----|-----|-----|------|-----|----------|-------|-----|-----|-------|
+| 5/1/24 | 5.9  | 12.1 | 40.7 | 207  | 134 | 4.1 | 100 | 21  | 36  | 1.6  | 116 | 0.14     | 2100  | 41  | 35  | 0.7   |
+| 5/2/24 | 6.2  | 11.6 | 38.9 | 198  | 132 | 4.3 | 99  | 19  | 42  | 2.1  | 110 | 0.18     | 2340  | 52  | 41  | 0.9   |
+| 5/3/24 | 6.0  | 11.4 | 38.1 | 196  | 130 | 4.5 | 98  | 18  | 45  | 2.4  | 107 | 0.22     | 2570  | 65  | 53  | 1.1   |
+| 5/4/24 | 6.3  | 12.0 | 39.9 | 210  | 135 | 4.2 | 101 | 22  | 38  | 1.8  | 112 | 0.18     | 1960  | 49  | 38  | 0.8   |
+| 5/5/24 | 5.8  | 12.5 | 41.2 | 220  | 137 | 4.0 | 103 | 23  | 34  | 1.3  | 108 | 0.11     | 1750  | 37  | 33  | 0.7   |
+| 5/6/24 | 5.7  | 13.1 | 43.3 | 225  | 139 | 4.1 | 104 | 24  | 29  | 1.0  | 102 | 0.07     | 1400  | 33  | 29  | 0.6   |
+| 5/7/24 | 5.5  | 13.4 | 44.0 | 230  | 140 | 4.0 | 105 | 25  | 24  | 0.9  | 98  | -        | 1200  | -   | -   | -     |
+
+---
+
+### IMAGING
+- **CXR (ED):** Pulmonary edema, mild cardiomegaly, no focal infiltrate
+- **ECHO (ICU):** LVEF 15% (pre-Impella), global hypokinesis, no significant valvulopathy. Repeat: LVEF 28% (post-Impella removal)
+- **LE Dopplers:** Negative for DVT
+
+---
+
+### PROCEDURES
+- 5/3/24: Right femoral Impella CP placement under fluoroscopic guidance
+- Daily vascular checks, no evidence of limb ischemia
+
+---
+
+### MICROBIOLOGY
+- Blood cultures: Negative x2
+- Urine culture: No growth
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock, Acute Decompensated Heart Failure (HFrEF, new dx)**
+   - Etiology likely ischemic vs viral myocarditis (coronary angio deferred due to AKI)
+   - Required Impella CP for refractory shock, weaned off after 5 days
+   - Now hemodynamically stable on PO therapy
+   - Continue guideline-directed medical therapy (GDMT): ACEi, BB, loop diuretic, statin
+   - Daily weights, strict I/O, titrate diuretics
+   - Cardiology follow-up, consider outpatient cardiac MRI
+
+**2. Acute Kidney Injury (pre-renal, resolved)**
+   - Likely secondary to low cardiac output
+   - Improving with restoration of perfusion and diuresis
+   - Monitor renal function, avoid nephrotoxins
+
+**3. Volume Overload/Pulmonary Edema**
+   - Managed with IV diuresis, now improving
+   - Continue diuresis, monitor electrolytes
+
+**4. Obesity**
+   - Counsel on diet, activity as tolerated after discharge
+
+**5. Chronic Sinusitis, OA, prior injuries**
+   - No acute issues during admission
+   - Continue usual pain management as needed
+
+**6. Infection prophylaxis**
+   - Monitor for device/line-related infection, none to date
+
+**7. DVT Prophylaxis**
+   - On heparin SQ, ambulating with PT as tolerated
+
+**8. Social/Disposition**
+   - Anticipate transfer to step-down, then home with HF nurse follow-up
+   - Education on heart failure, med compliance, daily weights
+
+---
+
+**Attending:** Dr. K. Andrews, MD  
+**Resident:** M. Patel, MD  
+**Date/Time:** 05/13/2024 08:55
+
+---
+
+**Orders:**  
+- Continue telemetry  
+- Labs: CBC, Chem7 daily  
+- Cardiac markers PRN  
+- Diet: Heart healthy  
+- PT/OT consult  
+- Discharge planning initiated
+
+---
+
+**Signature:**  
+[Electronically Signed by Dr. K. Andrews, MD]

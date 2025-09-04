@@ -1,0 +1,179 @@
+---
+**Patient:** Grady, Shona  
+**MRN:** 00294832  
+**DOB:** 05/10/1999  
+**Sex:** Female  
+**Admit Date:** 04/17/2024  
+**Attending:** Dr. V. Banerjee  
+**Location:** MICU, Room 3B-12  
+**Consults:** Cardiology, Cardiothoracic Surgery, Infectious Disease
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+Ms. Shona Grady is a 24-year-old female with past medical history significant for chronic sinusitis, recurrent otitis media, acute bronchitis, streptococcal pharyngitis, and normal prior pregnancy, who presented to the ED with acute-onset shortness of breath, pleuritic chest pain, and malaise. She rapidly decompensated on the floor with hypotension and hypoxia, requiring transfer to the MICU. Initial work-up revealed severe cardiogenic shock, likely secondary to acute viral myocarditis (Coxsackie B titers positive, troponin mildly elevated, echo with LVEF 12%). She required intubation, vasopressor support, and subsequently placement of a percutaneous left ventricular assist device (Impella CP) for hemodynamic stabilization.
+
+---
+
+### VITAL SIGNS (selected; see flowsheet for full range)
+
+| Date/Time      | Temp (°C) | HR (bpm) | BP (mmHg) | RR | SpO₂ (%) | Pain |
+|----------------|-----------|----------|-----------|----|----------|------|
+| 4/17 06:22     | 37.8      | 122      | 84/52     | 28 | 88% RA   | 6    |
+| 4/17 13:10     | 38.1      | 116      | 91/57     | 24 | 92% 2L NC| 4    |
+| 4/18 02:35     | 37.5      | 102      | 108/66    | 16 | 98% Vent | 0    |
+| 4/19 07:00     | 36.6      | 98       | 117/73    | 14 | 99% Vent | 0    |
+| 4/20 10:40     | 36.8      | 90       | 121/75    | 12 | 98% Room | 0    |
+
+---
+
+### LABORATORY DATA
+
+#### CBC, Chem7, Cardiac Markers, LFTs (selected results)
+
+| Date        | WBC (K) | Hgb (g/dL) | Plt (K) | Na | K | Cl | CO₂ | BUN | Cr | Glu | Troponin I | AST | ALT | BNP |
+|-------------|---------|------------|---------|----|---|----|-----|-----|----|-----|------------|-----|-----|-----|
+| 4/17 05:50  | 5.2     | 15.5       | 266     | 139| 4.2| 102| 23  | 18  | 0.8| 98  | 0.16       | 98  | 84  | 5400|
+| 4/17 14:00  | 6.8     | 14.7       | 251     | 137| 3.7| 100| 21  | 24  | 1.2| 104 | 0.21       | 112 | 90  | 6700|
+| 4/18 07:12  | 7.5     | 13.9       | 233     | 135| 3.3| 98 | 19  | 28  | 1.5| 110 | 0.13       | 101 | 73  | 4800|
+| 4/19 07:00  | 6.2     | 13.7       | 219     | 137| 4.0| 101| 22  | 22  | 1.0| 102 | <0.01      | 54  | 42  | 2900|
+| 4/20 06:45  | 5.4     |            | 202     | 138| 3.8|    |     | 18  |    | 98  |            |     |     |     |
+
+*Note: Several labs not drawn daily due to clinical stabilization after 4/19.*
+
+---
+
+### PAST MEDICAL HISTORY
+
+- Chronic sinusitis
+- Recurrent otitis media
+- Streptococcal pharyngitis
+- Acute bronchitis
+- Sprain of ankle (remote)
+- Normal pregnancy (2021)
+- No prior cardiac disease documented
+
+---
+
+### HOME MEDICATIONS
+
+- Penicillin V Potassium 250mg PO BID PRN
+- Cefuroxime 250mg PO BID PRN
+- Amoxicillin 500mg PO TID PRN
+- Acetaminophen 325mg PO PRN
+- Yaz (ethinyl estradiol/drospirenone) 28 day pack
+- OTC cough/cold syrup PRN
+
+---
+
+## ICU ADMISSION NOTE
+
+**Chief Complaint:**  
+Acute shortness of breath, chest pain, confusion
+
+**History of Present Illness:**  
+24 y/o F with no cardiac history presented with 3 days of viral prodrome (myalgias, fever, sore throat) followed by abrupt onset SOB and chest pain. In ED: tachycardic, hypotensive, hypoxic, rapidly worsening mental status. Initial imaging: CXR with pulmonary edema, ECG: sinus tach, diffuse low-voltage QRS. Troponin mild elevation, echo: global hypokinesis, LVEF 12%. Moved to ICU for escalating pressor needs, intubated for hypoxic resp failure. Cardiology and CT surgery consulted. Decision made for Impella CP placement for mechanical circulatory support.
+
+**Physical Exam (on admission):**  
+- General: Ill-appearing, diaphoretic, confused  
+- HEENT: Oropharynx clear, no tonsillar exudate  
+- Lungs: Rales at bases bilaterally  
+- CV: Tachycardic, S3, cool extremities, JVD  
+- Abd: Soft, mild hepatomegaly  
+- Neuro: Withdraws to pain, non-focal
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock, likely viral myocarditis (Coxsackie B):**  
+- Acute decompensated HF with severe LV dysfunction  
+- Impella CP placed 4/17 for hemodynamic support  
+- Weaned off vasopressors by 4/19  
+- Serial TTE: LVEF improved to 38% by 4/20  
+- Diuresis with IV furosemide, net -4.2L in 72h  
+- Plan: Continue Impella wean, repeat TTE, consider explantation 4/21, monitor for arrhythmias
+
+**2. Acute hypoxic respiratory failure:**  
+- Intubated on 4/17, extubated 4/19  
+- Improved O2 sat, CXR improving  
+- Incentive spirometry, pulmonary toilet
+
+**3. Acute kidney injury (pre-renal):**  
+- Likely secondary to low-output state  
+- Creatinine peaked at 1.5, improved with volume management  
+- Monitor UOP, avoid nephrotoxins
+
+**4. Transaminitis:**  
+- Mild-moderate AST/ALT elevation, likely ischemic hepatitis  
+- Down-trending as cardiac output improves
+
+**5. Infection risk (immunosuppression, device):**  
+- Blood cultures x2, urine culture negative  
+- Empiric cefepime/vancomycin x48h, discontinued after negative cultures  
+- Monitor temp, WBC
+
+**6. Contraception:**  
+- Yaz held during acute illness due to VTE risk  
+- Will resume after discharge
+
+**7. Other chronic issues:**  
+- Sinusitis/otitis: No current symptoms  
+- Sore throat: Resolved, likely viral  
+- Sprained ankle: Remote, no sequelae  
+- Psychosocial: Family at bedside, supportive
+
+**Disposition:**  
+- Continue close monitoring in ICU  
+- If cardiac function stable, consider transfer to step-down unit after Impella explant  
+- Anticipate prolonged cardiac rehab
+
+---
+
+### PROCEDURES
+
+- 4/17: Right femoral arterial line placement  
+- 4/17: Endotracheal intubation  
+- 4/17: Impella CP placement via left femoral artery (see Op Note)  
+- 4/18: Right IJ central line placement for access
+
+---
+
+### MICROBIOLOGY
+
+- Blood cultures x2 (4/17): No growth at 72h  
+- Respiratory viral panel: Coxsackie B positive  
+- Urine culture: No growth
+
+---
+
+### IMAGING
+
+- CXR 4/17: Pulm edema, small bilateral effusions  
+- Echo 4/17: LVEF 12%, global hypokinesis  
+- Echo 4/20: LVEF 38%, mild MR, no thrombus
+
+---
+
+### ALLERGIES
+- NKDA
+
+---
+
+### ADDITIONAL NOTES
+
+- Social: Lives with partner, employed as teacher; no tobacco/drug use; EtOH rare  
+- Advanced directives: Full code  
+- Family updated daily, agreeable with plan of care  
+- Physical Therapy consulted for early mobilization post-Impella
+
+---
+
+**Attending:** V. Banerjee, MD  
+**Resident:** J. Kwon, MD  
+**Date/Time:** 4/20/2024 14:12
+
+---
+
+**(See next for ICU flowsheet, input/output, and additional progress notes.)**

@@ -1,0 +1,172 @@
+**Patient Name:** Willms, Reiko  
+**MRN:** 19827351  
+**DOB:** 02/07/1946  
+**Sex:** Female  
+**Admit Date:** 04/16/2024  
+**Attending:** Dr. K. Jansen  
+**Service:** Cardiac ICU  
+**Location:** 9C/ICU-3  
+**FIN:** 10028482  
+
+---
+
+# ICU Progress Note
+
+**Date:** 04/19/2024  
+**Time:** 07:13  
+**Author:** Dr. K. Jansen
+
+---
+
+## Reason for Admission
+68F with history of chronic CHF (EF ~48%), obesity, chronic sinusitis, and prior viral myocarditis, presenting after 2 days of worsening DOE, orthopnea, and lower extremity edema. On arrival, hypotensive and hypoxic, requiring escalation to ICU. Course complicated by acute decompensated heart failure, cardiogenic shock, and need for temporary LVAD (Impella CP) placement on HD2.
+
+---
+
+## Problem-Based Assessment & Plan
+
+### 1. **Cardiogenic Shock/Acute Decompensated Heart Failure**
+- **History:** Admitted with acute decompensated CHF, hypotension (SBP 78), tachycardia, hypoxia. CXR: pulmonary edema. Echo: EF 30%, moderate MR, dilated LV. Troponin T mildly elevated. NT-proBNP >1800. Worsened on HD1 with progressive shock, lactic acidosis, and oliguric AKI.
+- **Course:** Required norepinephrine, dobutamine. On HD2, Impella CP placed for LV support. Improved hemodynamics, weaning off pressors by HD4.
+- **Plan:**  
+    - Daily TTE to assess LV function  
+    - Wean Impella as tolerated; possible explant HD6  
+    - Continue IV Lasix; adjust for urine output  
+    - Monitor for hemolysis, device complications  
+    - Strict I/O, daily weights  
+    - Cardiac rehab consult  
+    - Continue metoprolol, hold ACEi for now (BP)
+
+### 2. **Chronic Congestive Heart Failure (HFrEF)**
+- **History:** Baseline EF 48%, now down to 30% (likely acute on chronic). On home Lasix, metoprolol.
+- **Plan:**  
+    - Up-titrate GDMT as tolerated after stabilization  
+    - Monitor electrolytes, renal function  
+    - Salt/fluid restriction
+
+### 3. **AKI on CKD (Baseline GFR ~21)**
+- **History:** Oliguric on HD2-3, likely cardiorenal. Creatinine peaked 2.1 mg/dL, improving with hemodynamic stabilization.
+- **Plan:**  
+    - Daily BMP  
+    - Hold nephrotoxins  
+    - Monitor for recovery post-Impella removal
+
+### 4. **Volume Overload**
+- **Exam:** +3 pitting edema, crackles, JVP 12cm.
+- **Plan:**  
+    - Lasix IV, titrate to euvolemia  
+    - Daily weights, strict I/O  
+    - Fluid restriction <1.2L/day
+
+### 5. **Obesity (BMI 30)**
+- **Plan:**  
+    - Nutritionist consult  
+    - Low sodium, calorie-controlled diet
+
+### 6. **Chronic Sinusitis/Viral Sinusitis**
+- **History:** Chronic sx, recent amox-clav for 10 days; currently no fever, no purulent discharge.
+- **Plan:**  
+    - Monitor for secondary infection  
+    - ENT consult if recurrent
+
+### 7. **History of First Trimester Miscarriage**
+- **No active issues.**
+
+### 8. **Other Active Issues**
+- **Pain:** Mild, managed with PRN acetaminophen.
+- **Pressure Ulcer Prevention:** Turn q2h, barrier cream.
+- **DVT Prophylaxis:** SCDs, heparin 5000u SQ BID.
+
+---
+
+## ICU Medications (Active)
+
+| Medication                               | Dose/Route              | Frequency        |
+|-------------------------------------------|-------------------------|------------------|
+| Metoprolol succinate                     | 100mg PO                | daily            |
+| Furosemide (Lasix)                       | 40mg IV                 | BID              |
+| Amoxicillin-clavulanate                  | 250/125mg PO            | BID              |
+| Norepinephrine (off as of HD4)           | ---                     | ---              |
+| Dobutamine (off as of HD4)               | ---                     | ---              |
+| Heparin                                  | 5000u SQ                | BID              |
+| Acetaminophen                            | 650mg PO                | PRN              |
+
+---
+
+## Vital Signs (Selected)
+
+| Date      | Temp | HR  | BP      | RR  | SpO2 | Pain |
+|-----------|------|-----|---------|-----|------|------|
+| 4/16      | 36.9 | 112 | 78/52   | 24  | 89%  | 4    |
+| 4/17      | 37.3 | 98  | 80/60   | 22  | 92%  | 4    |
+| 4/18      | 36.7 | 90  | 98/66   | 20  | 96%  | 3    |
+| 4/19      | 36.8 | 84  | 108/70  | 18  | 97%  | 2    |
+
+---
+
+## Laboratory Results
+
+### CBC / Chemistries (Selected)
+
+| Date      | WBC    | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Ca   |
+|-----------|--------|-------|-------|-------|------|------|------|------|------|------|------|------|
+| 4/16      | 4.2    | 17.2  | 40.3  | 396   | 138  | 3.7  | 105  | 23.1 | 15.3 | 0.87 | 66.9 | 10.2 |
+| 4/17      | 4.0    | 15.8  | 37.1  | 380   | 135  | 3.3  | 103  | 21.0 | 28.2 | 1.96 | 92   | 9.8  |
+| 4/18      | 4.7    | 14.6  | 35.8  | 320   | 137  | 3.6  | 104  | 22.0 | 21.1 | 1.42 | 88   | 9.7  |
+| 4/19      | 4.8    | 15.2  | 36.9  | 301   | 139  | 3.9  | 106  | 23.2 | 18.7 | 1.02 | 105  |      |
+| 4/20      |        | 15.4  |       | 310   |      |      |      |      |      |      |      |      |
+
+### Additional Labs
+
+| Date      | NT-proBNP | Troponin T | AST  | ALT  | AlkPhos | Bili | Albumin | GFR   |
+|-----------|-----------|------------|------|------|---------|------|---------|-------|
+| 4/16      | 1812     | 0.042      | 10.2 | 27.5 | 104.6   | 1.03 | 4.74    | 21.2  |
+| 4/17      | 2331     | 0.054      | 16.1 | 38.2 | 115.0   | 1.41 | 4.12    | 14.6  |
+| 4/18      | 1998     | 0.038      | 12.9 | 30.4 | 107.3   | 1.11 | 4.56    | 19.8  |
+| 4/19      | 1645     | 0.029      |      |      |         |      |         | 20.7  |
+
+---
+
+## Imaging
+
+- **4/16 CXR:** Pulmonary edema, mild cardiomegaly.
+- **4/16 Echo:** LVEF 30%, moderate MR, dilated LV, RV function mildly reduced.
+- **4/18 TTE:** LVEF improved to 38%, Impella well-positioned.
+
+---
+
+## Procedures
+
+- **4/16:** Right IJ central line, arterial line
+- **4/17:** Impella CP placement, left femoral artery (under fluoroscopy, no complications)
+- **4/18:** Foley removal
+
+---
+
+## Disposition
+
+- Continue ICU monitoring.
+- Anticipate stepdown after Impella explant and further stabilization.
+- Awaiting cardiac rehab and advanced HF team evaluation.
+
+---
+
+## Problem List
+
+1. Cardiogenic shock, s/p Impella placement
+2. Acute on chronic HFrEF (EF now 30%)
+3. AKI on CKD, improving
+4. Volume overload
+5. Obesity
+6. Chronic sinusitis
+7. Hx miscarriage
+8. Risk for DVT, pressure ulcers
+
+---
+
+**Attending Signature:**  
+K. Jansen, MD
+
+---
+
+**[Additional pages omitted for brevity]**

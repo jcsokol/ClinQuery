@@ -1,0 +1,159 @@
+---
+**Patient Name:** Stanton Bartoletti  
+**MRN:** 001234567  
+**DOB:** 11/01/1968  
+**Sex:** Male  
+**Date of Admission:** 04/12/2024  
+**Attending:** Dr. Smith, Cardiology  
+**Consults:** Cardiology, Pulmonary, Endocrinology  
+**Admitting Dx:** Cardiogenic shock secondary to acute decompensated heart failure  
+**ICU Day:** 7  
+
+---
+
+### HOSPITAL COURSE SUMMARY
+
+Mr. Stanton Bartoletti is a 55-year-old obese male with history of prediabetes, anemia, and recurrent respiratory infections (recent viral pharyngitis and bronchitis) who presented to the ED with acute onset dyspnea, orthopnea, and lower extremity edema. He was found to be hypoxic and hypotensive on arrival. Initial workup revealed elevated BNP and troponin, suggestive of acute decompensated heart failure, likely on the background of undiagnosed cardiomyopathy. He rapidly deteriorated with worsening hemodynamics requiring vasopressor support and subsequently was transferred to the ICU.
+
+On ICU Day 2, the patient developed refractory cardiogenic shock with evidence of end-organ hypoperfusion and lactic acidosis. He was started on inotropes and required placement of a temporary percutaneous left ventricular assist device (Impella CP) for circulatory support. His course was complicated by transient AKI, persistent anemia, volume overload, and nosocomial pneumonia. After 5 days of MCS (mechanical circulatory support), he was weaned off the device and is now being managed on medical therapy for heart failure.
+
+---
+
+## PHYSICIAN NOTE – ICU Progress Note
+
+**Date:** 04/18/2024  
+**Time:** 09:21AM  
+**Author:** Dr. Smith, MD  
+
+### SUBJECTIVE
+
+- Pt reports mild chest discomfort, 3/10, and ongoing fatigue.
+- Denies palpitations, new dyspnea, or fever.
+- Family at bedside, requesting updates about prognosis and long-term plan.
+
+### OBJECTIVE
+
+**Vital Signs (Last 24h):**
+| Date/Time         | Temp (°C) | HR (bpm) | BP (mmHg) | RR (/min) | SpO2 (%) | Pain (0-10) |
+|-------------------|-----------|----------|-----------|-----------|----------|-------------|
+| 04/18 08:00       | 37.4      | 92       | 108/67    | 18        | 97       | 3           |
+| 04/17 20:00       | 37.1      | 98       | 101/60    | 20        | 95       | 4           |
+| 04/17 08:00       | 36.9      | 104      | 89/55     | 22        | 93       | 5           |
+
+**Physical Exam:**
+- Gen: Obese male, alert, NAD.
+- CV: S1/S2, no murmur, regular, trace JVD, 2+ pedal edema.
+- Pulm: Bibasilar crackles, decreased air entry.
+- Abd: Obese, soft, NT, no HSM.
+- Ext: 2+ pitting edema bilateral LE.
+- Neuro: AAOx3, no focal deficits.
+
+---
+
+### LABS
+
+#### CBC / Chemistries (Selected)
+| Date      | WBC (K) | Hgb (g/dL) | Hct (%) | Plt (K) | Na | K | Cl | CO2 | BUN | Cr | Glu | Ca |
+|-----------|---------|------------|---------|---------|----|---|----|-----|-----|----|-----|----|
+| 4/18      | 8.1     | 10.4       | 32      | 289     | 137|4.2|102 | 21  | 22  |1.8 | 132 |8.7 |
+| 4/17      | 9.7     | 9.8        | 30      | 255     | 134|4.6| 98 | 18  | 26  |2.0 | 145 |8.2 |
+| 4/16      | 7.5     | 11.6       | 35      | 322     | 139|4.1|100 | 23  | 17  |1.4 | 126 |9.3 |
+| 4/15      | 7.9     | 14.2       | 44      | 330     | 140|4.0|101 | 23  | 9   |1.3 | 118 |9.7 |
+| 4/14      | 8.3     | 15.3       | 47      | 315     |    |   |    |     | 8   |1.2 |     |9.5 |
+
+**Other Labs:**
+- Troponin I (peak): 0.19 ng/mL (4/13), now <0.01
+- BNP: 1,800 pg/mL (4/13), trended down to 1,050 (4/18)
+- LFTs: Mildly elevated AST/ALT x2 upper limit, improved.
+- Lactate: 4.1 mmol/L (4/14), normalized to 1.5 (4/17)
+- Blood cultures: Negative.
+
+#### Microbiology
+- BAL: MSSA, started on cefazolin (4/15)
+- Nasal swab: Negative for influenza/RSV/COVID
+
+---
+
+### IMAGING
+
+- CXR (4/14): Pulmonary edema, mild bibasilar infiltrates.
+- CXR (4/17): Improved vascular congestion, persistent small L pleural effusion.
+- TTE (4/14): LVEF ~20%, global hypokinesis, dilated LV, mild MR.
+- Renal US: No hydronephrosis.
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock/Acute Decompensated HF**
+   - Initial presentation with severe LV dysfunction (EF 20%).
+   - Required temporary LVAD (Impella CP) 4/14–4/19 for refractory shock.
+   - Now off MCS, weaning inotropes (milrinone off, dobutamine wean).
+   - Continue GDMT: carvedilol, sacubitril/valsartan, spironolactone, Lasix IV.
+   - Monitor fluid status, daily weights, strict I/Os.
+   - Cardiac rehab consult; pending repeat TTE.
+
+**2. Acute Kidney Injury (Stage 2, resolving)**
+   - Likely multifactorial: low flow, diuretics.
+   - Cr peaked at 2.0, now trending down.
+   - Renal dosing for all meds, nephrology following.
+   - Avoid nephrotoxins, maintain MAP >65.
+
+**3. Anemia (Chronic, worsened acutely)**
+   - Hgb dropped to 9.8, likely dilutional + GI loss (occult blood +).
+   - Iron panel pending; fecal occult blood positive.
+   - GI consult placed; PPI started.
+   - Monitor H/H q12h, transfuse if <8.
+
+**4. Obesity, Prediabetes**
+   - BMI 30+, A1c 6.0%.
+   - Endocrine consult; sliding scale insulin if BG >180.
+   - Nutrition consult, calorie restriction.
+
+**5. Nosocomial Pneumonia**
+   - MSSA on BAL; improved on cefazolin.
+   - Plan 7d total antibiotics.
+   - Monitor WBC, CXR.
+
+**6. Acute viral pharyngitis/bronchitis (resolved)**
+   - No further symptoms, no therapy needed.
+
+**7. DVT Prophylaxis**
+   - SCDs in place, enoxaparin 40mg SQ daily (hold for platelets <100).
+
+**8. Other**
+   - Pain: acetaminophen prn, avoid NSAIDs.
+   - GI: PPI for GI prophylaxis, bowel regimen.
+   - Social: Case management following, family updated daily.
+   - Code: Full.
+
+---
+
+### ACTIVE MEDICATIONS
+
+- Carvedilol 6.25 mg PO BID
+- Sacubitril/valsartan 24/26 mg PO BID
+- Spironolactone 25 mg PO daily
+- Furosemide 40 mg IV BID
+- Cefazolin 2g IV q8h (until 4/22)
+- Acetaminophen 325 mg PO q6h prn
+- Pantoprazole 40 mg IV daily
+- Enoxaparin 40 mg SQ daily (hold if plt <100K)
+- Sliding scale insulin (if needed)
+
+---
+
+### DISPOSITION
+
+- Continue ICU monitoring.
+- Anticipate transfer to step-down once off inotropes and stable.
+- Cardiac rehab, advanced HF follow-up.
+- Consideration for long-term LVAD/transplant evaluation pending recovery.
+
+---
+
+## SIGNED:  
+Dr. Smith, MD  
+Cardiology/Critical Care  
+Date: 04/18/2024  
+---

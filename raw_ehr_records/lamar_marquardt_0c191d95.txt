@@ -1,0 +1,187 @@
+---
+**Patient Name:** Lamar Marquardt  
+**MRN:** 00458723  
+**DOB:** 02/05/1965  
+**Sex:** Male  
+**Admit Date:** 2024-03-28  
+**Attending:** Dr. S. Kearney  
+**Location:** MICU, Bed 4
+
+---
+
+**Reason for Admission:**  
+61-year-old male with h/o HTN, obesity, prediabetes, chronic sinusitis, anemia, and recent left clavicle fracture, presenting with progressive SOB, orthopnea, and chest discomfort. Found to be in acute decompensated heart failure (ADHF) with cardiogenic shock, requiring temporary LVAD placement.
+
+---
+
+**Hospital Course Summary:**  
+Mr. Marquardt presented to the ED with 1 week of worsening dyspnea, lower extremity edema, and orthopnea. He was tachycardic, hypotensive (SBP 82 mmHg), hypoxic (SpO2 89% RA), and had JVD, S3, rales, and cold extremities. Labs showed acute on chronic anemia, acute kidney injury (AKI), and elevated troponins. Echo revealed severe global LV dysfunction (EF 18%), moderate RV dysfunction, and moderate MR. He was admitted to the MICU for cardiogenic shock. Despite inotropes and diuretics, he remained unstable, prompting placement of a temporary percutaneous LVAD (Impella CP) on HD2. He subsequently stabilized, with gradual improvement in end-organ function. Notable for intermittent atrial fibrillation, persistent anemia, and a brief episode of aspiration pneumonia. He completed a 10-day ICU course and was transferred to telemetry.
+
+---
+
+**Allergies:**  
+NKDA
+
+---
+
+**Home Medications (on admission):**
+- Hydrochlorothiazide 12.5 mg daily
+- Meperidine 50 mg PO PRN
+- Naproxen sodium 220 mg PO PRN
+
+---
+
+**Active Orders:**
+- Furosemide IV
+- Metoprolol tartrate PO
+- Aspirin PO
+- Heparin drip (while on Impella)
+- Sliding scale insulin
+- IV fluids as needed
+- PRN acetaminophen
+
+---
+
+### **Problem-Based Assessment & Plan**
+
+#### 1. **Cardiogenic Shock / Acute Decompensated Heart Failure**
+- **Assessment:** ADHF with severe LV dysfunction, likely ischemic. Required temporary LVAD (Impella CP) for hemodynamic support.
+- **Plan:**
+  - Continue Impella support until stable off inotropes
+  - Daily echo for LV recovery
+  - Wean inotropes as tolerated
+  - Strict I/Os, daily weights
+  - Diuresis with IV furosemide
+  - Monitor for hemolysis, device complications
+  - Cardiology consult, transplant evaluation started
+
+#### 2. **Atrial Fibrillation (new onset, intermittent)**
+- **Assessment:** Paroxysmal, rate-controlled with metoprolol.
+- **Plan:**
+  - Continue metoprolol
+  - Anticoagulation while on Impella (heparin drip)
+  - Monitor rhythm, electrolytes
+
+#### 3. **Acute Kidney Injury (on CKD)**
+- **Assessment:** Creatinine peaked at 2.3 mg/dL, likely pre-renal from low output; improved with Impella and diuresis.
+- **Plan:**
+  - Monitor renal function daily
+  - Avoid nephrotoxins
+  - Adjust meds for renal dosing
+
+#### 4. **Anemia (chronic, worsened acutely)**
+- **Assessment:** Baseline Hgb 10-11, dropped to 8.0 on HD2; multifactorial (hemodilution, device-related hemolysis, CKD).
+- **Plan:**
+  - Monitor Hgb q12h
+  - Transfuse PRBCs if <7.5 or symptomatic
+  - Iron studies, retic count
+  - Hold antiplatelets if active bleeding
+
+#### 5. **Obesity & Prediabetes**
+- **Assessment:** BMI 30.5, A1c 5.8%
+- **Plan:**
+  - Sliding scale insulin for BG >140
+  - Nutrition consult, calorie restriction
+  - Encourage mobility as tolerated
+
+#### 6. **Chronic Sinusitis / Recent Viral Sinusitis**
+- **Assessment:** No acute infection on admission; mild congestion.
+- **Plan:**
+  - Supportive care, nasal saline
+  - Monitor for secondary bacterial infection
+
+#### 7. **Left Clavicle Fracture (remote)**
+- **Assessment:** Old injury, no acute symptoms.
+- **Plan:**
+  - Continue PRN pain control
+  - Ortho f/u as outpatient
+
+#### 8. **Aspiration Pneumonia (hospital-acquired)**
+- **Assessment:** Developed fever, cough, infiltrate on HD4; improved with IV ceftriaxone/metronidazole.
+- **Plan:**
+  - Complete 7-day abx course
+  - Chest physiotherapy
+  - Monitor for respiratory decline
+
+---
+
+### **Objective Data**
+
+#### **ICU Vitals (Selected)**
+| Date      | Temp (°C) | HR   | BP (mmHg) | RR  | SpO2 | Weight (kg) |
+|-----------|-----------|------|-----------|-----|------|-------------|
+| HD1       | 36.8      | 118  | 82/48     | 28  | 89%  | 92.5        |
+| HD2       | 37.1      | 112  | 88/54     | 26  | 94%  | 91.2        |
+| HD3       | 36.9      | 102  | 98/62     | 20  | 96%  | 89.8        |
+| HD5       | 37.8      | 98   | 104/68    | 18  | 98%  | 88.7        |
+| HD8       | 36.7      | 84   | 112/74    | 16  | 98%  | 87.9        |
+
+---
+
+#### **LABS**
+
+##### **CBC/Chemistry (Selected)**
+| Date        | WBC (10^3/uL) | Hgb (g/dL) | Hct (%) | Plt (10^3/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|-------------|---------------|------------|---------|--------------|-------------|------------|-------------|--------------|-------------|------------|-------------|
+| HD1         | 4.3           | 11.1       | 33.5    | 422          | 136         | 4.6        | 107         | 26.8         | 10          | 1.1        | 68          |
+| HD2         | 6.2           | 8.0        | 25.0    | 355          | 134         | 4.9        | 108         | 24.1         | 16          | 2.3        | 94          |
+| HD3         | 7.9           | 8.6        | 27.6    | 320          | 137         | 4.7        | 104         | 23.6         | 13          | 1.8        | 88          |
+| HD4         | 12.5          | 9.2        | 29.8    | 289          | 138         | 4.3        | 106         | 25.0         | 15          | 1.7        | 102         |
+| HD5         | 10.6          | 9.6        | 30.6    | 375          | 140         | 5.1        | 109         | 27.8         | 14          | 1.4        |             |
+| HD6         |               | 10.0       |         | 401          | 139         | 4.8        |             | 26.4         | 13          | 1.2        | 110         |
+| HD8         | 6.8           | 10.4       | 32.9    | 450          | 141         | 4.6        | 111         | 28.1         | 11          | 1.1        | 106         |
+
+##### **Other Labs**
+- Troponin I: 0.54 ng/mL (HD1), 0.38 (HD2), 0.11 (HD3)
+- BNP: 1920 pg/mL (HD1), 1431 (HD5)
+- LFTs: WNL throughout
+- LDH: 510 U/L (HD2), 422 (HD3)
+- Haptoglobin: 28 mg/dL (HD2)
+- Retic count: 2.5% (HD3)
+- Ferritin: 215 ng/mL (HD4)
+- INR: 1.4 (HD2), 1.2 (HD5)
+
+---
+
+#### **Microbiology**
+- Blood cx x2: No growth
+- Sputum cx (HD4): Mixed oral flora
+
+---
+
+#### **Imaging**
+- **Echo (HD1):** LVEF 18%, severe global hypokinesis, moderate MR, RVSP 52 mmHg
+- **CXR (HD1):** Pulm edema, cardiomegaly
+- **CXR (HD4):** New RLL infiltrate (aspiration)
+- **Echo (HD7):** LVEF 31%, improved LV/RV function
+
+---
+
+#### **Procedures**
+- **Impella CP placement (HD2):** Successful, right femoral artery access. No immediate complications.
+- **Central line, arterial line (HD1)**
+- **Transfusion PRBC (HD2, HD3)**
+
+---
+
+#### **Consults**
+- Cardiology: device mgmt, transplant evaluation
+- Infectious Disease: aspiration pna
+- Nutrition: calorie/Na restriction
+
+---
+
+#### **Discharge Planning**
+- Anticipate transfer to step-down when stable off Impella and inotropes
+- Outpatient HF, cardiology, ortho follow-up
+- Home health for PT/OT
+
+---
+
+**Attending:** S. Kearney, MD  
+**ICU Progress Note: 2024-04-06**  
+**Signed:** S. Kearney, MD
+
+---
+
+**End of Note**

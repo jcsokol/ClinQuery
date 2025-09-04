@@ -1,0 +1,182 @@
+**Patient:** Benjamín Venegas  
+**MRN:** 00384927  
+**DOB:** 1961-03-05 (63 yo)  
+**Sex:** Male  
+**Date of Admission:** 2024-05-28  
+**Date of Note:** 2024-06-02  
+**Attending Physician:** Dr. J. Morales  
+**Consults:** Cardiology, ICU, Endocrinology  
+
+---
+
+# ICU Progress Note
+
+## Chief Complaint
+Progressive shortness of breath, orthopnea, and chest discomfort for 2 days.  
+
+## HPI
+63 yo M with hx of HTN, prediabetes, hyperlipidemia, chronic anemia, and recent viral pharyngitis, presenting with 2 days of worsening dyspnea, PND, orthopnea, and mild chest pain. He had an episode of near-syncope at home, prompting ED evaluation. He was initially hypertensive, tachycardic, tachypneic, and hypoxic (O2 sat 88% RA). CXR and bedside echo concerning for acute decompensated heart failure with reduced EF (~20%). Troponin elevated, NT-proBNP >10,000.  
+
+Despite IV diuresis, patient acutely decompensated with hypotension and worsening end-organ perfusion. Required escalating pressors and was transferred to the ICU. Given refractory cardiogenic shock, a percutaneous left ventricular assist device (Impella CP) was placed for temporary mechanical circulatory support.  
+
+---
+
+## Hospital Course Summary
+
+- **Day 1-2:** Admitted to ED, decompensated in observation, transferred to ICU.  
+- **Day 2:** Developed worsening hypotension, evidence of end-organ hypoperfusion (AKI, elevated LFTs, rising lactate). Started on norepinephrine, dobutamine.  
+- **Day 3:** Cardiology consulted, Impella CP placed via femoral access. Gradual improvement in MAP, decreased inotropes.  
+- **Day 4-5:** Weaning off vasopressors. Renal function improved. Still requiring support for low output state.  
+- **Day 6:** Impella weaned, removed without complication.  
+- **Day 7:** Transferred to step-down unit.  
+
+---
+
+# Problem List & Assessment/Plan
+
+## 1. Cardiogenic Shock, HFrEF (EF ~20%)
+- Acute decompensated HF with evidence of low output, requiring temporary mechanical support (Impella).  
+- Etiology: Likely ischemic cardiomyopathy, possibly demand ischemia on background of CAD/HTN.  
+- **Plan:**
+  - Continue guideline-directed medical therapy (GDMT) as tolerated (BB, ACEi/ARB, MRA, statin)
+  - Monitor for arrhythmias, optimize volume status
+  - Daily weights, strict I/O, adjust diuretics
+  - Troponin trending, echo repeat before transfer
+  - Cardiology to follow, consider advanced HF therapies if recurrent decompensation
+
+## 2. Acute Kidney Injury (KDIGO 2)
+- Likely multifactorial: low output, pre-renal azotemia, possible nephrotoxic meds.
+- **Plan:**
+  - Hold nephrotoxins (NSAIDs d/c’d)
+  - Monitor chem7, UA, urine output
+  - Nephrology consulted
+  - Renal function improved with support
+
+## 3. Chronic Anemia (baseline Hgb ~11, now 9.8)
+- Multifactorial: CKD, chronic disease, possible iron deficiency.
+- **Plan:**
+  - Iron panel, B12, folate pending
+  - Transfuse if Hgb <7 or symptomatic
+  - GI consult if ongoing drop
+
+## 4. Hypertension
+- Longstanding, suboptimally controlled.
+- **Plan:**
+  - Resume home HCTZ and add ACEi when stable
+  - Monitor for hypotension as HF meds uptitrated
+
+## 5. Hyperlipidemia
+- LDL 97, on simvastatin.
+- **Plan:**
+  - Continue statin
+  - Consider high-intensity statin if tolerated
+
+## 6. Prediabetes
+- A1c 5.9%
+- **Plan:**
+  - Monitor glucose, dietician consult
+  - No insulin/PO agents needed
+
+## 7. Recent Viral Pharyngitis
+- Resolved, no ongoing symptoms.
+- **Plan:**
+  - Supportive care only
+
+## 8. Wrist Sprain
+- Mild right wrist pain, no swelling.
+- **Plan:**
+  - Ice/acetaminophen prn (avoid NSAIDs due to AKI)
+  - PT referral if persistent
+
+---
+
+## Medications (Current)
+
+| Medication              | Dose          | Route   | Frequency    | Status              |
+|-------------------------|--------------|---------|--------------|---------------------|
+| Metoprolol succinate    | 25 mg        | PO      | daily        | New, started ICU    |
+| Lisinopril              | 5 mg         | PO      | daily        | Started post-shock  |
+| Simvastatin             | 10 mg        | PO      | daily        | Continued           |
+| HCTZ                    | 25 mg        | PO      | daily        | Held x 3 days, resumed|
+| Furosemide              | 40 mg        | IV/PO   | BID          | Adjust per volume   |
+| Acetaminophen           | 650 mg       | PO      | q6h PRN      | For pain/fever      |
+
+---
+
+## Vitals (Selected, ICU Days 1-6)
+
+| Date       | Temp (C) | HR   | BP        | RR   | SpO2   | Weight (kg) |
+|------------|----------|------|-----------|------|--------|-------------|
+| 5/28/2024  | 37.6     | 112  | 162/94    | 26   | 88% RA | 90.3        |
+| 5/29/2024  | 37.2     | 105  | 130/72    | 22   | 95% O2 | 89.8        |
+| 5/30/2024  | 36.9     | 99   | 110/68    | 20   | 97% O2 | 88.9        |
+| 5/31/2024  | 37.1     | 82   | 112/74    | 18   | 98% O2 | 88.3        |
+| 6/1/2024   | 36.8     | 75   | 118/76    | 16   | 98% O2 | 87.7        |
+
+---
+
+## Laboratory Data
+
+### CBC & Chemistry Panel
+
+| Date       | WBC   | Hgb  | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu   |
+|------------|-------|------|-------|-------|------|------|------|------|------|------|-------|
+| 5/28/2024  | 10.1  | 11.2 | 34.1  | 312   | 137  | 4.1  | 103  | 24   | 32   | 2.3  | 162   |
+| 5/29/2024  | 9.4   | 10.6 | 32.3  | 289   | 136  | 3.9  | 101  | 23   | 38   | 2.9  | 148   |
+| 5/30/2024  | 8.8   | 10.1 | 30.2  | 271   | 135  | 3.7  | 99   | 20   | 41   | 3.2  | 127   |
+| 5/31/2024  | 8.3   | 9.8  | 29.5  | 260   | 137  | 3.9  | 102  | 25   | 27   | 2.1  | 112   |
+| 6/1/2024   | 7.9   | 10.2 | 30.1  | 252   | 138  | 4.2  | 104  | 27   | 21   | 1.7  | 106   |
+| 6/2/2024   | 8.1   | 10.5 | 31.0  | 275   | 137  |      | 103  | 25   | 19   | 1.3  |       |
+
+---
+
+### Other Labs
+
+| Date       | Troponin I | NT-proBNP | AST  | ALT  | Alk Phos | TBili | Albumin |
+|------------|------------|-----------|------|------|----------|-------|---------|
+| 5/28/2024  | 0.19       | >10000    | 46   | 58   | 139      | 0.7   | 3.4     |
+| 5/29/2024  | 0.14       | 9500      | 53   | 61   | 143      | 0.8   | 3.1     |
+| 5/30/2024  | 0.08       | 8200      | 41   | 54   | 128      | 0.6   | 3.7     |
+| 6/1/2024   | 0.04       | 4120      | 32   | 48   | 109      | 0.7   | 3.9     |
+
+---
+
+## Imaging/Procedures
+
+- **CXR:** Bilateral pulmonary edema, mild cardiomegaly.
+- **Echo (5/29):** LVEF 20%, severe global hypokinesis, mild MR, RV normal.
+- **Coronary angio (5/30):** Non-obstructive CAD, no culprit lesion.
+- **Impella CP placement (5/30):** Successful, no immediate complications.
+
+---
+
+## Disposition
+
+- Remains in hospital, transitioned to step-down for ongoing monitoring.
+- Cardiology to follow; outpatient HF clinic referral on discharge.
+- Plan for cardiac rehab and close outpatient follow-up.
+
+---
+
+## Problem-Based Assessment and Plan (Summary Table)
+
+| Problem             | Assessment                                                | Plan (abridged)                              |
+|---------------------|-----------------------------------------------------------|----------------------------------------------|
+| Cardiogenic shock   | Decompensated HFrEF, Impella placed, improved            | Continue GDMT, monitor, cardiac rehab        |
+| AKI                 | Pre-renal, improved with support                         | Hold nephrotoxins, nephrology, monitor labs  |
+| Anemia              | Chronic, mild drop with AKI                              | Iron/B12/folate, transfuse <7, GI if drop    |
+| Hypertension        | Poorly controlled, improved with diuresis                | Restart meds as tolerated                    |
+| Hyperlipidemia      | LDL suboptimal                                           | Continue statin                              |
+| Prediabetes         | Stable                                                    | Monitor, dietician                           |
+| Viral pharyngitis   | Resolved                                                  | Supportive                                   |
+| Wrist sprain        | Mild, not limiting                                        | Ice/acetaminophen, PT prn                    |
+
+---
+
+**Physician:**  
+J. Morales, MD  
+Attending, Cardiology/ICU
+
+---
+
+**End of Note**

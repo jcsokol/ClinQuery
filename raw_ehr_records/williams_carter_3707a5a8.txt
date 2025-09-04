@@ -1,0 +1,171 @@
+**Patient Name:** Williams Carter  
+**MRN:** 00827349  
+**DOB:** 07/22/2002  
+**Sex:** M  
+**Admission Date:** 03/18/2024  
+**Attending:** Dr. R. Smith  
+**Consults:** Cardiology, Infectious Disease, Psychiatry
+
+---
+
+# ICU Progress Note – Day 5
+
+---
+
+## History of Present Illness
+
+Williams Carter is a 21-year-old male with a PMH significant for obesity (BMI 37), chronic sinusitis, ADHD (on atomoxetine), and recent streptococcal pharyngitis (treated with penicillin). He presented to the ED with 2 days of worsening dyspnea, orthopnea, lower extremity edema, and subjective fevers. On arrival, he was tachycardic, tachypneic, and hypoxic, with a blood pressure of 88/54 mmHg. CXR revealed pulmonary edema; bedside echo showed severe LV systolic dysfunction (EF ~10%) with global hypokinesis, no significant valvular abnormalities, and mild RV dysfunction. Troponin was elevated; BNP markedly increased. He was admitted to the ICU for acute decompensated heart failure, likely secondary to viral myocarditis.
+
+Due to persistent hypotension and evidence of end-organ hypoperfusion despite escalating inotropes (dobutamine, milrinone), a percutaneous left ventricular assist device (Impella CP) was placed on hospital day 2 for circulatory support. He subsequently stabilized hemodynamically and has been weaning off pressors. 
+
+---
+
+## Hospital Course Summary
+
+- **Day 1:** Admitted to ICU. Initial labs notable for leukocytosis, elevated troponin, transaminitis, AKI (Cr 1.8 from baseline 0.9). Required high-flow O2, started on dobutamine and norepinephrine.
+- **Day 2:** Persistent shock, worsening lactate, oliguria. Impella CP placed. Vasopressors/inotropes titrated. Broad-spectrum antibiotics started for possible sepsis.
+- **Day 3:** Improved mentation, urine output. Lactate trending down. Reduced norepi. Echo: Impella flow 3.5 L/min, LV unloading adequate.
+- **Day 4:** Off pressors, weaning Impella. Diuresis initiated with IV furosemide. LFTs improving. 
+- **Day 5:** Tolerating Impella wean. Renal and hepatic function improving. Transferred to step-down pending Impella explant.
+
+---
+
+## Active Problems
+
+1. **Acute decompensated heart failure with cardiogenic shock (likely viral myocarditis)**
+2. **Obesity (BMI 37)**
+3. **Acute kidney injury (multifactorial: low flow, nephrotoxic agents)**
+4. **Transaminitis secondary to shock liver**
+5. **Chronic sinusitis**
+6. **Streptococcal pharyngitis (recent, completed antibiotics)**
+7. **ADHD (on atomoxetine)**
+8. **Anxiety/agitation (ICU-related)**
+9. **Risk for nosocomial infection**
+10. **Pain (mild, intermittent)**
+
+---
+
+## Assessment and Plan
+
+### 1. Cardiogenic Shock s/p Impella CP  
+- Etiology: Suspected viral myocarditis vs. stress-induced cardiomyopathy
+- Continue Impella support, daily device checks
+- Wean inotropes as tolerated
+- Serial TTE to assess recovery
+- Monitor for device complications (hemolysis, limb ischemia, infection)
+- Cardiology following
+
+### 2. Acute Kidney Injury  
+- Likely multifactorial: pre-renal (low flow), nephrotoxins
+- Renal function improving w/ hemodynamic support
+- Avoid nephrotoxic agents
+- Monitor urine output, daily BMP
+
+### 3. Transaminitis  
+- Shock liver pattern (AST/ALT > 1000 on day 2, now improving)
+- Trending LFTs daily
+- No evidence of viral hepatitis
+
+### 4. Obesity  
+- Dietician consult
+- DVT prophylaxis (SQ heparin, SCDs)
+- Monitor for OSA
+
+### 5. Chronic Sinusitis  
+- No acute symptoms, continue outpatient management
+
+### 6. ADHD  
+- Atomoxetine held during acute illness, resume when stable
+
+### 7. Anxiety/Agitation  
+- ICU delirium precautions, sleep hygiene
+- PRN lorazepam for agitation
+
+### 8. Infection Risk  
+- Daily CBC, monitor for fever
+- Empiric abx (cefepime, vanc) stopped after 48h, negative cultures
+
+### 9. Pain  
+- Mild, managed with acetaminophen
+
+---
+
+## ICU Vitals & Monitoring (selected)
+
+| Date       | Temp (C) | HR   | BP         | RR   | O2 Sat | Pain (0-10) |
+|------------|----------|------|------------|------|--------|-------------|
+| 3/18/24    | 38.0     | 124  | 88/54      | 28   | 91%    | 3           |
+| 3/19/24    | 37.5     | 112  | 95/60      | 24   | 94%    | 2           |
+| 3/20/24    | 37.2     | 98   | 107/68     | 20   | 97%    | 2           |
+| 3/21/24    | 36.9     | 90   | 114/72     | 18   | 99%    | 1           |
+| 3/22/24    | 36.8     | 82   | 120/78     | 16   | 99%    | 1           |
+
+---
+
+## Laboratory Data
+
+**CBC & CHEM7**
+
+| Date       | WBC   | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|-------|------|------|-------|------|------|------|------|------|------|------|
+| 3/18/24    | 13.8  | 15.6 | 48.9 | 362   | 137  | 5.2  | 99   | 18   | 34   | 1.8  | 142  |
+| 3/19/24    | 12.3  | 15.1 | 47.2 | 349   | 136  | 4.9  | 101  | 19   | 28   | 1.6  | 128  |
+| 3/20/24    | 9.7   | 14.2 | 44.1 | 325   | 139  | 4.2  | 102  | 22   | 19   | 1.3  | 116  |
+| 3/21/24    | 8.8   | 13.7 | 42.0 | 310   | 140  | 4.0  | 100  | 24   | 15   | 1.1  |      |
+| 3/22/24    | 9.0   | 13.9 | 42.5 | 318   |      | 4.1  |      | 25   | 13   | 1.0  | 109  |
+
+**Other Labs**
+
+| Date       | Troponin I | BNP    | AST   | ALT   | Alk Phos | TBili | Lactate | PT/INR | Fibrinogen |
+|------------|------------|--------|-------|-------|----------|-------|---------|---------|------------|
+| 3/18/24    | 3.2       | 3280   | 1243  | 1064  | 112      | 2.3   | 4.9     | 18.4/1.6| 420        |
+| 3/19/24    | 2.1       | 2950   | 890   | 720   | 110      | 1.8   | 3.2     | 16.8/1.4| 410        |
+| 3/20/24    | 1.3       | 2040   | 410   | 220   | 97       | 1.2   | 1.6     |         | 415        |
+| 3/21/24    | 0.7       | 980    | 110   | 90    | 104      | 0.9   | <1.0    |         |            |
+| 3/22/24    | 0.5       | 430    | 54    | 62    | 101      | 0.7   | <1.0    |         |            |
+
+---
+
+## Imaging
+
+- **CXR (3/18):** Pulmonary edema, mild cardiomegaly
+- **TTE (3/18):** EF 10%, global hypokinesis, no LV thrombus, mild RV dysfunction
+- **TTE (3/21):** EF improved to 22%, Impella in place, no pericardial effusion
+
+---
+
+## Procedures
+
+- **3/19:** Placement of percutaneous LVAD (Impella CP) via right femoral artery, no immediate complications.
+
+---
+
+## Medications (hospital)
+
+- Dobutamine IV (tapered off 3/21)
+- Norepinephrine IV (tapered off 3/20)
+- Cefepime, vancomycin (d/c’d 3/20)
+- Furosemide IV
+- Acetaminophen PRN
+- Atomoxetine (held)
+- Penicillin VK (completed prior to admission)
+- SQ heparin
+
+---
+
+## Discharge Planning
+
+- Pending Impella explant and observation post-device removal
+- Cardiac rehab referral
+- Close outpatient follow-up with HF/Cardiology
+- Resume atomoxetine if stable
+- Weight management consult
+
+---
+
+**Attending:** R. Smith, MD  
+**Resident:** J. Lee, MD  
+
+---
+
+**End of Note**

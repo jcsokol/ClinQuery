@@ -1,0 +1,158 @@
+```
+----------------------------------------------------------------------
+Patient Name: Gutmann, Kasi                  MRN: 004398712
+DOB: 11/13/1996 (27 y/o)                     Sex: Female
+Admit Date: 04/01/2024                       Attending: Dr. A. Roush
+Admitting Dx: Acute decompensated heart failure, cardiogenic shock
+----------------------------------------------------------------------
+
+CHIEF COMPLAINT:
+Progressive dyspnea, orthopnea, and chest discomfort.
+
+HISTORY OF PRESENT ILLNESS:
+27-year-old female with a history notable for chronic migraines, chronic pain, anemia, and recurrent bronchitis, who presented to the ED with 4 days of worsening shortness of breath, exertional fatigue, and chest tightness. She reports mild cough productive of clear sputum and subjective fevers. She has a remote history of viral sinusitis and recurrent bronchitis but no prior cardiac history. Denies illicit drug use, but does endorse chronic opioid use for pain. No recent surgeries. She had a normal pregnancy two years ago.
+
+On arrival, she was tachycardic, hypotensive (BP 82/52), tachypneic (RR 28), O2 sat 92% RA, and appeared pale and diaphoretic. Initial CXR showed pulmonary edema. Troponin mildly elevated, BNP markedly elevated. Echo revealed severe global LV hypokinesis, LVEF ~15%, moderate mitral regurgitation, no LV thrombus. Rapid decompensation with worsening hypoxia and hypotension prompted initiation of norepinephrine and dobutamine. Due to persistent cardiogenic shock, a percutaneous left ventricular assist device (Impella CP) was placed in the CCU on hospital day 1.
+
+PAST MEDICAL HISTORY:
+- Chronic migraine w/o aura
+- Chronic pain (multifocal, s/p molar impaction)
+- Anemia (chronic, mild-moderate)
+- Concussion (no LOC, remote)
+- Acute and chronic bronchitis episodes
+- Viral sinusitis (remote)
+- Normal pregnancy x2
+
+PAST SURGICAL HISTORY:
+- Wisdom teeth extraction
+
+FAMILY HISTORY:
+- Mother: HTN, T2DM
+- Father: CAD, MI at 54
+- No known genetic cardiomyopathy
+
+SOCIAL HISTORY:
+- Denies tobacco, EtOH, illicit drugs
+- Lives with partner, works remotely
+
+ALLERGIES:
+- NKDA
+
+MEDICATIONS ON ADMISSION:
+- Acetaminophen/oxycodone 325/5 mg, 1 tab q6h PRN
+- Oxycodone ER 15 mg BID
+- Hydrocodone/acetaminophen 5/300 mg PRN
+- Amoxicillin-clavulanate (recent, for bronchitis)
+- Jolivette (progestin-only OCP)
+- Errin (recent, OCP)
+- Dextromethorphan/acetaminophen/doxylamine elixir PRN
+
+----------------------------------------------------------------------
+
+PHYSICAL EXAM (HD 1, ICU):
+GEN: Pale, diaphoretic, appears acutely ill
+VITALS: T 37.2°C, BP 82/52 (MAP 62), HR 124, RR 28, SpO2 92% RA, BMI 25.8
+HEENT: No JVD, oropharynx clear, mild dental caries
+LUNGS: Crackles at bases, decreased air entry bilaterally
+CV: Tachycardic, S3 present, no murmurs
+ABD: Soft, nontender, no HSM
+EXT: Cool, 1+ pitting edema BLE
+NEURO: A&O x3, no focal deficit
+
+----------------------------------------------------------------------
+
+HOSPITAL COURSE SUMMARY:
+HD 1: Presentation as above. Worsening shock with required escalation to dual pressors, intubation for hypoxic respiratory failure. Impella CP placed via femoral access for LV support. Started on IV heparin for device. Broad-spectrum abx (pip-tazo), blood cultures drawn.
+HD 2: Modest hemodynamic improvement, weaned off norepinephrine. Persistent AKI (Cr peak 1.8). Lactate trending down. Developed mild hemolysis (LDH ↑, haptoglobin ↓) on Impella. 
+HD 3: LVEF improved to 30% on TTE. Impella weaned, removed on HD 4. Extubated. Transitioned to oral HF regimen (metoprolol, sacubitril/valsartan, spironolactone).
+HD 4-7: Slow recovery. Mobilizing with PT. Diuresis continued. Renal function improving. Migraines recurred, managed with acetaminophen/oxycodone. Discharged HD 8 to home with close HF follow-up.
+
+----------------------------------------------------------------------
+
+LABS (SELECTED: CBC, CHEM7, CARDIAC, LIVER)
+----------------------------------------------------------------------
+| Date      | WBC   | Hgb  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Troponin | BNP   | AST  | ALT  |
+|-----------|-------|------|------|------|------|------|------|------|------|----------|-------|------|------|
+| 4/1/24 AM | 5.0   | 13.6 | 276  | 136  | 4.2  | 98   | 21   | 22   | 1.1  | 0.11     | 3890  | 34   | 29   |
+| 4/2/24 AM | 6.2   | 12.4 | 241  | 134  | 4.8  | 97   | 18   | 32   | 1.7  | 0.08     | 2870  | 65   | 52   |
+| 4/3/24 AM | 7.1   | 11.8 | 203  | 137  | 4.6  | 99   | 20   | 30   | 1.8  | <0.01    | 1590  | 44   | 37   |
+| 4/4/24 AM | 6.4   | 11.9 | 198  | 139  | 4.0  | 101  | 23   | 21   | 1.3  | <0.01    | 1240  | 36   | 31   |
+| 4/5/24 AM | 6.0   | 12.2 | 212  | 140  | 3.7  | 103  |      | 17   | 1.1  |          | 900   | 32   |      |
+| 4/6/24 AM | 5.7   | 12.6 | 223  | 138  | 4.1  | 102  | 24   | 15   | 1.0  |          | 680   |      | 27   |
+| 4/7/24 AM | 5.2   | 13.0 | 232  | 139  |      | 100  | 25   | 14   | 0.9  |          | 410   | 28   | 21   |
+----------------------------------------------------------------------
+
+Additional labs: LDH 410 (HD2), Haptoglobin <10 (HD2), INR 1.1-1.3 (HD1-4), D-dimer 1.2 (HD1), Ferritin 67, TSH 2.3
+
+----------------------------------------------------------------------
+
+PROBLEM-BASED ASSESSMENT & PLAN
+
+1. **Cardiogenic Shock, Acute Decompensated Heart Failure (new onset, non-ischemic)**
+   - Presentation: Hypotension, pulmonary edema, low output, severe LV dysfunction (EF 15%)
+   - Impella CP placed HD1 for temporary LV support, IV heparin anticoagulation
+   - Pressors (norepinephrine, dobutamine) titrated, then weaned as hemodynamics improved
+   - Serial TTE: improvement EF to 30%, Impella explanted HD4
+   - Transitioned to oral guideline-directed medical therapy (GDMT): metoprolol succinate, sacubitril/valsartan, spironolactone, furosemide
+   - Discharge: Close HF clinic follow-up, outpatient echo in 1 month
+
+2. **Acute Kidney Injury (likely pre-renal, secondary to shock)**
+   - Cr peaked 1.8, downtrending after hemodynamic stabilization
+   - Monitored urine output, daily labs
+   - Avoided nephrotoxins, adjusted medications
+   - Plan: Outpatient renal function monitoring
+
+3. **Hemolysis (device-related, mild)**
+   - Labs: ↑LDH, ↓haptoglobin, mild drop in Hgb
+   - Monitored, no transfusion required, resolved after device removal
+
+4. **Anemia (chronic, multifactorial)**
+   - Baseline Hgb ~13, nadir 11.8 (HD3), improved with recovery
+   - No evidence of acute blood loss
+   - Plan: Iron studies as outpatient
+
+5. **Chronic pain (multifocal) / Migraine**
+   - On chronic opioids for dental and migraine pain, managed with home regimen
+   - Migraine flares managed with acetaminophen/oxycodone, non-pharmacologic measures
+   - Referral to pain management on discharge
+
+6. **Recurrent bronchitis / Sinusitis**
+   - No evidence of acute infection on cultures; completed outpatient abx prior to admission
+   - Monitored for secondary infection; none identified
+
+7. **Normal pregnancy (remote)**
+   - No current pregnancy, LMP 2 weeks prior to admit
+
+8. **Impacted molars, dental caries**
+   - No acute dental infection; dental follow-up recommended
+
+9. **DVT Prophylaxis**
+   - Mechanical (SCDs) + pharmacologic (heparin, later SQ enoxaparin)
+
+10. **Psychosocial**
+    - Young age, new diagnosis of heart failure; social work consulted, provided resources
+
+----------------------------------------------------------------------
+
+DISCHARGE MEDICATIONS:
+- Metoprolol succinate 25 mg daily
+- Sacubitril/valsartan 24/26 mg BID
+- Spironolactone 25 mg daily
+- Furosemide 20 mg daily
+- Acetaminophen/oxycodone 325/5 mg, 1 tab q6h PRN
+- Jolivette 1 tab daily
+
+----------------------------------------------------------------------
+
+DISPOSITION:
+Discharged home in stable condition on HD8. Follow-up arranged with heart failure clinic, PCP, and pain management. Advised strict adherence to medication, fluid restriction, daily weights, and emergency precautions.
+
+----------------------------------------------------------------------
+
+PROVIDER: Roush, MD
+DATE/TIME: 04/08/2024 14:22
+
+----------------------------------------------------------------------
+
+[End of Note]
+```

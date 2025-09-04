@@ -1,0 +1,141 @@
+```
+Patient: Alpha Crist    MRN: 00298371    DOB: 03/04/1997    Sex: F
+Admit Date: 05/18/2024   Attending: Dr. R. Simmons    Location: MICU
+Note Date/Time: 05/24/2024 09:13
+
+=====================================================================
+CHIEF COMPLAINT:
+Shortness of breath, chest pain, hypotension
+
+HISTORY OF PRESENT ILLNESS:
+Alpha Crist is a 27-year-old female with a history of asthma, atopy, prior viral pharyngitis, and contact dermatitis who presented to the ED 6 days ago with acute onset of progressive dyspnea, orthopnea, and chest pressure. She initially thought symptoms were due to an upper respiratory infection, but developed worsening lower extremity edema, lightheadedness, and one witnessed syncopal episode at home. In the ED, she was found to be hypotensive (BP 74/38), tachycardic (HR 122), and hypoxic (SpO2 88% RA). She was intubated for hypoxic respiratory failure. Initial TTE demonstrated severely reduced LVEF (~15%), global hypokinesis, and mild RV dilation. Cardiac enzymes were elevated and troponin trended up to 7.2 ng/mL. Infectious, autoimmune, and toxicologic workup pending at that time. She was admitted to the ICU for management of suspected fulminant myocarditis with cardiogenic shock.
+
+She required escalating vasopressor and inotropic support (norepinephrine, dobutamine) and, on hospital day 2, developed worsening lactic acidosis and end-organ hypoperfusion. She was emergently taken for left femoral Impella CP placement. She has since been weaned off vasopressors and extubated on HD 5. 
+
+Relevant PMH:
+- Atopy, eczema, peanut allergy
+- Asthma
+- Contact dermatitis
+- Recurrent pharyngitis, strep throat
+- No prior cardiac history
+
+PSH: None
+Allergies: Peanuts (anaphylaxis), latex (rash)
+Family History: Non-contributory
+Social: No tobacco, rare EtOH, no illicit drugs. Lives alone, works as a graphic designer.
+
+=====================================================================
+PHYSICAL EXAM (05/24/24, 08:15)
+Gen: Awake, alert, NAD.  
+CV: S1, S2 present, soft S3, no murmur, JVP 7cm, trace pedal edema  
+Resp: Lungs clear, no rales, decreased breath sounds left base  
+Abd: Soft, NT, mild hepatomegaly  
+Ext: Warm, trace edema bilat, no rashes  
+Skin: Patchy erythema antecubital fossae, mild excoriation (eczema), no acute lesions  
+Neuro: AOx3, non-focal
+
+=====================================================================
+VITALS (most recent):
+T: 37.5°C     HR: 96     BP: 108/62     RR: 18     SpO2: 97% RA  
+Wt: 61.8 kg   Ht: 156.5 cm   BMI: 25.2
+
+=====================================================================
+HOSPITAL COURSE SUMMARY:
+HD 1: ICU admit for acute hypoxemic respiratory failure, shock. Started on norepinephrine, dobutamine, broad-spectrum antibiotics, stress-dose steroids.  
+HD 2: Worsening shock, lactic acidosis, rising troponin. Emergent Impella CP placement.  
+HD 3: Improved MAP, down-titrated norepinephrine. Echo: LVEF 18%, minimal aortic regurgitation.  
+HD 4: Extubated, transitioned to high-flow nasal cannula.  
+HD 5: Impella weaning trial, improved end-organ perfusion, off pressors.  
+HD 6: Stable on minimal O2, transferred to stepdown unit.
+
+=====================================================================
+LABS
+CBC/Metabolic Panel (selected, see full flowsheet for all values):
+
+| Date       | WBC   | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|-------|------|------|------|------|------|------|------|------|------|------|
+| 5/18 06:12 | 8.3   | 12.2 | 35.8 | 172  | 134  | 4.8  | 98   | 21   | 28   | 1.1  | 118  |
+| 5/19 04:33 | 10.6  | 11.4 | 33.7 | 154  | 130  | 5.2  | 99   | 18   | 36   | 1.7  | 132  |
+| 5/20 05:55 | 13.1  | 10.6 | 31.4 | 146  | 127  | 5.5  | 97   | 17   | 42   | 2.2  | 145  |
+| 5/21 06:10 | 9.9   | 11.0 | 32.1 | 158  | 132  | 4.2  | 100  | 19   | 30   | 1.5  | 133  |
+| 5/22 07:01 | 8.7   | 11.8 | 34.2 | 165  | 135  | 4.6  | 102  | 23   | 20   | 1.2  | 111  |
+| 5/23 06:30 | 7.5   | 12.5 | 36.2 | 174  | 137  | 4.4  | 101  | 24   | 18   | 1.0  | 104  |
+| 5/24 05:59 | 8.0   | 12.7 | 36.8 | 168  | 138  | 4.1  | 103  | 25   | 15   | 0.9  |      |
+
+Other labs:
+- Troponin I: 6.2 → 7.2 → 5.8 → 2.3 ng/mL (peak HD2)
+- BNP: 1894 pg/mL (HD1), 1123 (HD3)
+- LFTs: ALT 72, AST 66 (HD2), trending down to normal
+- Lactate: 6.8 (HD2), 2.1 (HD4)
+- CRP: 86 mg/L (HD1), 32 (HD4)
+- ESR: 42 mm/hr (HD1)
+- Viral panel: Parvovirus B19 IgM positive; other viral serologies negative
+
+=====================================================================
+ASSESSMENT & PLAN
+
+# Cardiogenic Shock, Fulminant Myocarditis (presumed viral)
+- Acute decompensated heart failure, biventricular dysfunction, shock requiring temporary mechanical circulatory support (Impella CP)
+- Etiology likely viral (Parvo B19 IgM+), no evidence of ischemia or autoimmune disease
+- Now improved, off pressors, weaning Impella, monitoring for recovery vs. need for advanced therapies
+- Plan: Continue weaning Impella, serial TTEs, monitor for arrhythmias, optimize volume status, guideline-directed HF therapy when stable, ID consult for viral myocarditis
+
+# Respiratory Failure, s/p Intubation
+- Hypoxemic respiratory failure, likely secondary to pulmonary edema and shock
+- Extubated HD4, now on 2L NC, SpO2 >96%
+- Plan: Pulmonary hygiene, incentive spirometry, wean O2, monitor ABGs
+
+# Acute Kidney Injury
+- AKI on shock (Cr peaked 2.2, now improved to 0.9)
+- Likely pre-renal, no evidence of ATN, improving with perfusion
+- Plan: Monitor UOP, avoid nephrotoxins, daily BMP
+
+# Transaminitis
+- Mild AST/ALT elevation during shock, improving
+- Plan: Monitor LFTs, trend down expected
+
+# Atopy, Eczema, Allergies
+- History of eczema, peanut/latex allergy, mild flare during admission
+- Plan: Continue topical steroids, antihistamines PRN, maintain skin care
+
+# Contraception
+- On OCPs, held during admission due to acute illness
+- Plan: Re-evaluate prior to discharge
+
+# Other
+- VTE prophylaxis: SCDs, heparin SQ
+- GI prophylaxis: PPI
+- Nutrition: Advancing diet as tolerated
+
+=====================================================================
+MEDICATIONS (Active in Hospital)
+- Norepinephrine (weaned off HD4)
+- Dobutamine (weaned off HD5)
+- Furosemide 20mg IV q12h
+- Metoprolol 12.5mg PO BID (initiated HD6)
+- Lisinopril held (low BP)
+- Aspirin 81mg PO daily
+- Pantoprazole 40mg IV q24h
+- Ceftriaxone 1g IV q24h (discontinued HD4)
+- D5W/NS at 50cc/hr (Impella flush)
+- Hydrocortisone topical cream
+- Loratadine 10mg PO daily
+
+=====================================================================
+ICU DEVICES/INTERVENTIONS
+- Impella CP (left femoral, HD2-present)
+- Central venous catheter (IJ)
+- Foley catheter (removed HD5)
+- A-line (removed HD5)
+
+=====================================================================
+DISPOSITION
+- Continue ICU-level monitoring, anticipate transfer to step-down in 24-48hr if stable
+- Cardiology, ID, and PT/OT following
+
+=====================================================================
+SIGNATURE
+R. Simmons, MD
+MICU Attending
+```
+---

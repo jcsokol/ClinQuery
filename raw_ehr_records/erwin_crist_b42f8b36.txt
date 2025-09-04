@@ -1,0 +1,163 @@
+```
+==============================================================================
+EpicCare Inpatient - Progress Note
+------------------------------------------------------------------------------
+Patient Name: Erwin Crist
+MRN: 00394721
+DOB: 07/09/1959   Sex: Male   Age: 64
+Date of Admission: 05/08/2024
+Date of Service: 05/12/2024
+Attending: Dr. S. Patel, MD
+------------------------------------------------------------------------------
+Reason for Admission:
+Acute decompensated heart failure with cardiogenic shock requiring temporary left ventricular assist device (Impella CP) placement.
+
+------------------------------------------------------------------------------
+HPI:
+64-year-old male with PMHx of hypertension, prediabetes, chronic anemia, early-onset familial Alzheimer's, hyperlipidemia, and recent URI, who presented to ED with 2 days of progressive dyspnea, orthopnea, and lower extremity edema. On arrival, he was hypotensive (SBP 82), tachycardic, and hypoxic (SpO2 88% RA), with evidence of acute pulmonary edema on CXR and elevated troponin. Rapid escalation of vasopressors and inotropes was required. He subsequently developed worsening end-organ hypoperfusion (AKI, mild transaminitis, rising lactate) and was transferred to the CICU for advanced heart failure management. Due to persistent cardiogenic shock refractory to medical therapy, an Impella CP device was placed on hospital day 2 for temporary circulatory support. He has since stabilized hemodynamically.
+
+------------------------------------------------------------------------------
+Active Problems:
+1. Cardiogenic shock, s/p Impella CP placement (HD#2)
+2. Acute decompensated heart failure (HFrEF, new dx)
+3. Non-STEMI, type 2 (troponin leak)
+4. Acute kidney injury on CKD
+5. Anemia, chronic, multifactorial
+6. Hypertension
+7. Hyperlipidemia
+8. Early-onset Alzheimer's dementia
+9. Prediabetes
+10. Recent viral pharyngitis/sinusitis (resolved)
+11. Dental: Impacted molars
+
+------------------------------------------------------------------------------
+Physical Exam:
+Gen: Appears fatigued, conversant, NAD
+Neuro: Alert, AOx2 (baseline), MMSE 16/30
+HEENT: Mucous membranes moist, no oropharyngeal erythema, molar impaction noted
+CV: S1S2, no murmurs, Impella hum present, JVP 12cm, 2+ LE edema
+Resp: Bibasilar crackles, tachypnea, O2 2L/min NC
+GI: Soft, NT, mild hepatomegaly
+GU: Foley present, clear yellow urine
+Skin: Warm, no rashes, mild ecchymosis at access site
+
+------------------------------------------------------------------------------
+Vital Signs:
+| Date        | Temp (C) | HR (bpm) | SBP/DBP (mmHg) | RR | SpO2 (%) | Weight (kg) |
+|-------------|----------|----------|----------------|----|----------|-------------|
+| 5/08/2024   | 37.8     | 112      | 82/50          | 26 | 88       | 78.2        |
+| 5/09/2024   | 37.5     | 104      | 98/62          | 22 | 95       | 77.9        |
+| 5/10/2024   | 37.6     | 96       | 112/64         | 20 | 97       | 76.8        |
+| 5/11/2024   | 37.4     | 88       | 118/68         | 18 | 98       | 76.7        |
+| 5/12/2024   | 37.6     | 84       | 124/72         | 16 | 98       | 76.5        |
+
+------------------------------------------------------------------------------
+Laboratory Data (Selected):
+
+CBC & Chemistries:
+| Date       | WBC (10^3/uL) | Hgb (g/dL) | Hct (%) | Plt (10^3/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) |
+|------------|---------------|------------|---------|---------------|-------------|------------|-------------|--------------|-------------|------------|-------------|
+| 5/08/2024  | 7.8           | 12.9       | 36.3    | 298           | 134         | 4.7        | 101         | 24           | 26          | 2.8        | 138         |
+| 5/09/2024  | 8.2           | 11.4       | 33.1    | 274           | 135         | 4.1        | 102         | 23           | 34          | 3.3        | 122         |
+| 5/10/2024  | 7.1           | 10.8       | 31.9    | 242           | 136         | 4.0        | 100         | 24           | 38          | 3.7        | 109         |
+| 5/11/2024  | 6.9           | 11.2       | 32.1    | 205           | 137         | 4.2        | 104         | 25           | 27          | 2.6        | 98          |
+| 5/12/2024  | 8.0           | 11.9       | 33.5    | 221           | 136         | 4.3        | 101         | 26           | 18          | 2.0        | 93          |
+
+Additional labs:
+| Date       | Troponin I (ng/mL) | BNP (pg/mL) | ALT (U/L) | AST (U/L) | Alk Phos (U/L) | T. Bili (mg/dL) | Alb (g/dL) | INR  |
+|------------|--------------------|-------------|-----------|-----------|----------------|-----------------|------------|-------|
+| 5/08/2024  | 0.21               | 4120        | 38        | 45        | 133            | 0.9             | 3.8        | 1.3   |
+| 5/09/2024  | 0.17               | 3890        | 44        | 38        | 143            | 1.2             | 3.5        | 1.2   |
+| 5/10/2024  | 0.12               | 3001        | 47        | 32        | 129            | 1.0             | 3.7        | 1.1   |
+| 5/11/2024  | 0.09               | 2094        | 36        | 27        | 124            | 0.8             | 3.9        | 1.1   |
+| 5/12/2024  | 0.07               | 1550        | 29        | 23        | 120            | 0.6             | 4.1        | 1.0   |
+
+Missing: No CBC differential for 5/10. No BNP for 5/12.
+
+------------------------------------------------------------------------------
+Imaging:
+- CXR (5/08): Pulmonary edema, bilateral vascular congestion, mild cardiomegaly.
+- TTE (5/09): LVEF 18%, global hypokinesis, moderate MR, no LV thrombus.
+- Renal US (5/09): Normal size, increased echogenicity, no hydronephrosis.
+
+------------------------------------------------------------------------------
+Hospital Course (Summary):
+HD#1: Presented with acute pulmonary edema, hypotension, hypoxia. Started on IV furosemide, dobutamine, and norepinephrine. Labs with rising creatinine, transaminitis. Transferred to CICU for escalating shock.
+HD#2: Persistent cardiogenic shock. Impella CP placed via right femoral artery. Vasopressors weaned over next 24h. UOP improved. Mild bleeding at access site, no transfusion needed.
+HD#3-4: Progressive stabilization. Off pressors. Slow diuresis. Renal function trending down but improved by HD#5. Serial TTEs show improved cardiac output with device support.
+HD#5: Neuro exam at baseline, tolerating oral meds, ambulating with PT. Device wean planned.
+
+------------------------------------------------------------------------------
+Problem-Based Assessment and Plan:
+
+1. **Cardiogenic Shock, s/p Impella CP (HD#2)**
+   - Etiology: Likely acute on chronic HFrEF, ischemic (type 2 NSTEMI).
+   - Impella CP functioning, no hemolysis or limb ischemia.
+   - Plan: Continue hemodynamic monitoring. Daily TTE for device position. Goal-directed therapy. Wean device as tolerated. Consider advanced therapies if unable to wean.
+
+2. **Acute Decompensated Heart Failure (new HFrEF)**
+   - Negative fluid balance goal, strict I&O.
+   - IV loop diuretics, titrate to euvolemia.
+   - Initiate guideline-directed medical therapy as tolerated (ACEi/ARB/ARNI, BB, MRA).
+   - Daily weights.
+
+3. **Type 2 NSTEMI**
+   - Troponin trend down. No ongoing ischemia.
+   - DAPT not indicated. Continue statin.
+   - Cardiology following.
+
+4. **AKI on CKD**
+   - Likely multifactorial (hypoperfusion, diuretics, ACEi).
+   - Renal dosing of all meds. Monitor daily BMP.
+   - Avoid nephrotoxins. Renal consult if worsening.
+
+5. **Chronic Anemia**
+   - Hgb stable, no active bleeding.
+   - No transfusion required.
+   - Iron studies pending.
+
+6. **Hypertension**
+   - Hold antihypertensives while on pressors/Impella.
+   - Reinitiate as tolerated.
+
+7. **Hyperlipidemia**
+   - Continue simvastatin.
+
+8. **Early-Onset Alzheimer's**
+   - Continue memantine/galantamine.
+   - Supportive care.
+
+9. **Prediabetes**
+   - Monitor glucose. No insulin needed.
+
+10. **Recent Viral Pharyngitis/Sinusitis**
+    - Resolved. No abx.
+
+11. **Dental: Impacted molars**
+    - Non-acute, outpatient f/u.
+
+------------------------------------------------------------------------------
+Medications:
+- Furosemide IV 40mg q12h
+- Dobutamine IV, weaned off HD#4
+- Norepinephrine IV, off HD#3
+- Simvastatin 10mg PO daily
+- Atenolol/chlorthalidone PO, on hold
+- Galantamine 4mg PO BID
+- Memantine 2mg/mL oral solution
+- Multivitamin, docusate, PRN
+- Pantoprazole 40mg IV daily
+
+------------------------------------------------------------------------------
+Allergies: NKDA
+
+------------------------------------------------------------------------------
+Disposition:
+Plan for ICU downgrade pending device wean and continued stability.
+
+------------------------------------------------------------------------------
+Attestation:
+Electronically signed by: S. Patel, MD  05/12/2024  11:08 AM
+==============================================================================
+
+```

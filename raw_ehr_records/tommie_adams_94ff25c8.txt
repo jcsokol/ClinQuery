@@ -1,0 +1,185 @@
+**Epic EHR - Inpatient Progress Note**  
+**Patient:** Tommie Adams  
+**MRN:** 00498325  
+**DOB:** 1978-03-14 (46 years old)  
+**Sex:** Male  
+**Date of Admission:** 2024-05-30  
+**Attending:** Dr. L. Mendez  
+**Location:** CVICU, Bed 14  
+**Consults:** Cardiology, Infectious Disease, PT/OT  
+
+---
+
+### Chief Complaint  
+Acute onset chest pain, dyspnea, and progressive lower extremity edema.  
+
+---
+
+### HPI  
+46-year-old male with PMHx notable for chronic sinusitis, recurrent viral and strep pharyngitis, obesity (BMI 27), and remote right ankle sprain, presenting with 3 days of worsening shortness of breath, orthopnea, and new lower extremity swelling. Denies fevers/chills but reports decreased exercise tolerance. On day of admission, developed acute chest pressure and lightheadedness, prompting ED visit.  
+
+---
+
+### Hospital Course  
+- **Day 0 (Admission):**  
+  - Tachycardic (HR 118), BP 98/64, SpO2 93% on RA, temp 38.1°C.  
+  - CXR: Pulmonary edema.  
+  - Labs: BNP 2100, troponin mildly elevated, Cr 1.2, LFTs wnl, WBC 11.1.  
+  - EKG: Sinus tachycardia, non-specific ST-T changes.  
+  - Echo: LVEF 18%, global hypokinesis, no significant valvulopathy.  
+  - Admitted to ICU for acute decompensated heart failure (new dx, likely viral myocarditis vs. ischemic).  
+  - Started IV furosemide, dobutamine, empiric ceftriaxone (fever, unclear source).  
+
+- **Day 1:**  
+  - Worsening hypoxia, hypotension (MAP < 60), escalating inotropes.  
+  - Bedside echo: No tamponade.  
+  - Multidisciplinary discussion; decision for temporary mechanical circulatory support.  
+  - **Impella CP** placed at bedside without complication.  
+  - Hemodynamics stabilize post-placement.  
+  - ID consulted; blood cultures x2, respiratory viral PCR pending.  
+
+- **Day 2-4:**  
+  - Weaned off dobutamine.  
+  - Diuresis continues.  
+  - LFTs uptrending (congestion), renal function stable.  
+  - Cardiac MRI: Suggestive of myocarditis.  
+  - Impella remains in place, flow 3.6 L/min.  
+  - PT/OT eval: Bedrest, passive ROM.  
+  - Fevers resolve, WBC normalizes.  
+  - Antibiotics d/c’d after negative cultures.  
+  - Nutrition: NPO initially, advancing to cardiac diet.  
+
+- **Day 5-7:**  
+  - Gradual improvement in volume status.  
+  - Echo: LVEF up to 28%.  
+  - Impella weaning protocol initiated.  
+  - Renal, hepatic labs improving.  
+  - Off pressors/inotropes.  
+  - Mobilizing with assistance.  
+  - Transitioned to oral HF regimen (metoprolol, sacubitril/valsartan, spironolactone).  
+  - Planning for Impella explant (pending stability).  
+
+---
+
+### Allergies  
+No known drug allergies.
+
+---
+
+### Medications on Admission  
+- Naproxen sodium 220mg PO PRN  
+- Penicillin V potassium 500mg PO BID (recent strep pharyngitis)  
+- Amoxicillin-clavulanate 250/125mg PO BID (chronic sinusitis, recently completed)  
+
+---
+
+### Current Medications (Hospital Day 7)  
+- Metoprolol succinate 25mg PO daily  
+- Sacubitril/valsartan 24/26mg PO BID  
+- Spironolactone 25mg PO daily  
+- Furosemide 40mg IV BID  
+- Aspirin 81mg PO daily  
+- Atorvastatin 40mg PO daily  
+- Pantoprazole 40mg IV daily  
+- DVT prophylaxis: Enoxaparin 40mg SQ daily  
+- PRN: Acetaminophen, oxycodone  
+
+---
+
+### Vitals (selected)  
+| Date       | Temp (°C) | HR  | BP       | RR | SpO2 | Weight (kg) |
+|------------|-----------|-----|----------|----|------|-------------|
+| 5/30/24    | 38.1      | 118 | 98/64    | 22 | 93%  | 87.9        |
+| 5/31/24    | 37.2      | 104 | 102/68   | 18 | 96%  | 86.1        |
+| 6/2/24     | 36.9      | 88  | 112/74   | 16 | 97%  | 84.2        |
+| 6/4/24     | 36.8      | 74  | 116/78   | 14 | 98%  | 83.7        |
+
+---
+
+### Laboratory Results (Selected, Chem7 + CBC + others)
+
+| Date      | Na  | K   | Cl  | CO2 | BUN | Cr   | Glu | WBC   | Hgb   | Hct   | Plt   | AST  | ALT  | Troponin | BNP   |
+|-----------|-----|-----|-----|-----|-----|------|-----|-------|-------|-------|-------|------|------|----------|-------|
+| 5/30/24   | 137 | 4.7 | 102 | 22  | 24  | 1.2  | 116 | 11.1  | 16.9  | 36.2  | 159   | 66   | 70   | 0.08     | 2100  |
+| 5/31/24   | 139 | 4.5 | 101 | 21  | 22  | 1.1  | 102 | 9.2   | 15.8  | 34.9  | 142   | 88   | 92   | 0.06     | 1870  |
+| 6/1/24    | 138 | 4.3 | 104 | 23  | 18  | 1.0  | 98  | 8.7   | 14.9  | 33.7  | 165   | 94   | 90   | 0.04     | 1620  |
+| 6/2/24    | 137 | 4.1 | 103 |     | 19  | 1.0  | 101 | 7.5   | 13.8  | 31.5  | 148   | 91   |      | <0.01    | 1120  |
+| 6/3/24    | 138 | 4.0 |     | 25  | 15  | 0.9  | 97  | 7.2   | 13.4  | 31.1  | 139   |      |      | <0.01    | 890   |
+| 6/4/24    | 139 | 4.2 | 102 | 26  | 13  | 0.8  | 93  | 6.8   | 13.1  | 30.7  | 151   | 45   | 50   | <0.01    | 750   |
+
+*Note: Some labs not drawn each day.*
+
+---
+
+### Imaging / Diagnostics  
+- **CXR 5/30/24:** Pulmonary vascular congestion, mild bilateral effusions  
+- **Echo 5/30/24:** LVEF 18%, global hypokinesis  
+- **Cardiac MRI 6/2/24:** Diffuse myocardial edema, consistent with myocarditis  
+- **Lower extremity doppler:** No DVT
+
+---
+
+## Problem-Based Assessment & Plan
+
+### 1. Acute Decompensated Heart Failure / Cardiogenic Shock (likely viral myocarditis)
+- Presenting with acute HF and shock; required temporary mechanical circulatory support (Impella CP) on Day 1.
+- Now stable, Impella weaning protocol initiated.
+- Monitoring for arrhythmias, hemolysis, infection.
+- HF regimen titration ongoing.
+- Continue daily weights, I/O, fluid restriction.
+- Cardiology to follow for advanced HF therapies if needed.
+
+### 2. Impella Device (Temporary LVAD)
+- Inserted on hospital day 1 for refractory shock.
+- No evidence of device-related complications (hemolysis, limb ischemia, infection).
+- Labs: Monitor LDH, haptoglobin, CBC, Cr daily.
+- Plan for explant on Day 8 if clinical stability maintained.
+
+### 3. Acute Kidney Injury (resolved)
+- Initial rise in Cr, now improved with improved perfusion and diuresis.
+- Monitor renal function, avoid nephrotoxins.
+
+### 4. Transaminitis (congestive hepatopathy)
+- LFTs uptrending, now improving with volume removal.
+- Continue to trend AST/ALT.
+
+### 5. Fever/Leukocytosis (rule out infection)
+- Empiric antibiotics started, discontinued after cultures negative and clinical improvement.
+- Monitor for secondary infection, esp. device-related.
+
+### 6. Hypotension/Shock
+- Initially required vasopressors/inotropes, now off.
+- Monitor for recurrence.
+
+### 7. Chronic Sinusitis
+- No acute exacerbation during admission.
+- Home meds held; outpatient follow-up.
+
+### 8. DVT Prophylaxis
+- Enoxaparin while immobile.
+- Continue until ambulating independently.
+
+### 9. Nutrition
+- Initially NPO, now cardiac diet.
+- Monitor for refeeding.
+
+### 10. PT/OT Needs
+- Bedrest initially, now mobilizing with assistance.
+- Continue to work with therapies.
+
+### 11. Psychosocial
+- Patient anxious re: prognosis; SW and chaplain involved.
+
+---
+
+### Disposition
+- Anticipate transfer to stepdown once Impella explanted and stable on oral regimen.
+- Close outpatient cardiology follow-up required.
+
+---
+
+**Signed:**  
+Dr. Lucia Mendez, MD  
+CVICU Attending  
+Date: 2024-06-06  
+**[End of Note]**

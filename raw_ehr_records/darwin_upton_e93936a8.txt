@@ -1,0 +1,156 @@
+**Patient:** Upton, Darwin  
+**MRN:** 000443221  
+**DOB:** 1978-06-06  
+**Sex:** Male  
+**Admit Date:** 2024-05-29  
+**Attending:** Dr. A. Garrison, MD  
+**ICU Location:** Cardiac ICU, 3rd Floor  
+**Note Type:** ICU Progress Note  
+**Date/Time:** 2024-06-02 07:19  
+
+---
+
+**Chief Complaint:**  
+Progressive shortness of breath, orthopnea, and lower extremity edema.  
+
+**History of Present Illness:**  
+45-year-old male with a PMHx of HTN, prediabetes, chronic anemia, and recurrent viral upper respiratory infections presents to ED with 3 days of worsening dyspnea, PND, orthopnea, and fatigue. On arrival, found to be hypoxic (O2 sat 88% RA), tachycardic (HR 112), hypotensive (BP 88/50), and in respiratory distress. CXR showed pulmonary edema. EKG: sinus tachycardia, nonspecific ST changes. Troponin mildly elevated. Echo: severely reduced LVEF (15%), global hypokinesis, moderate MR. Cardiology and heart failure consulted. Rapid deterioration requiring intubation and initiation of temporary left-sided heart pump (Impella CP) for cardiogenic shock.  
+
+**Pertinent PMHx:**  
+- Hypertension  
+- Prediabetes (HbA1c 6.2%)  
+- Anemia, chronic (baseline Hgb ~13)  
+- Viral sinusitis, recurrent  
+- Acute bronchitis, remote  
+- No prior MI, no known CAD  
+- No prior HF dx  
+- Smoker, quit 2018  
+
+**Home Meds:**  
+- HCTZ 25mg qd  
+- Fluticasone inhaler prn  
+- Albuterol inhaler prn  
+- Chlorpheniramine prn  
+- Acetaminophen/dextromethorphan/doxylamine prn  
+
+**Allergies:**  
+NKDA  
+
+---
+
+**ICU Course Summary:**  
+Admitted for acute decompensated heart failure with cardiogenic shock. Required intubation and started on norepinephrine, dobutamine. Due to persistent shock, Impella CP placed at bedside without complications. Started on IV diuretics, broad spectrum abx for possible pneumonia (CXR infiltrate, procalcitonin 1.7), and supportive care. Weaned off pressors on HD 3, extubated HD 4. Impella weaned off and explanted on HD 5 after improvement in hemodynamics.  
+
+---
+
+**Vital Signs (selected):**  
+| Date       | Temp (C) | HR | BP        | RR | O2 Sat | Weight (kg) |  
+|------------|----------|----|-----------|----|--------|-------------|  
+| 5/29 08:00 | 37.8     | 112| 88/50     | 28 | 88% RA | 76.6        |  
+| 5/30 06:00 | 38.1     | 104| 92/56     | 22 | 95% FM | 75.9        |  
+| 6/1 05:45  | 37.4     | 98 | 106/66    | 20 | 98% NC | 75.1        |  
+| 6/2 07:00  | 36.9     | 79 | 120/68    | 16 | 99% RA | 74.8        |  
+
+---
+
+**LABS:**  
+*CBC and CHEM7 (selected)*  
+| Date/Time  | WBC   | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Gluc |  
+|------------|-------|------|------|-------|------|------|------|------|------|------|------|  
+| 5/29 09:00 | 13.2  | 12.1 | 36.4 | 193   | 143  | 4.1  | 104  | 23   | 39   | 1.9  | 167  |  
+| 5/30 06:00 | 10.8  | 10.7 | 31.7 | 156   | 141  | 3.8  | 99   | 21   | 32   | 1.4  | 142  |  
+| 5/31 05:45 |  7.5  | 11.9 | 34.5 | 192   | 140  | 4.0  | 102  | 24   | 27   | 1.1  | 118  |  
+| 6/1 04:40  |  6.3  | 12.5 | 37.8 | 234   | 142  | 4.2  | 106  | 26   | 21   | 0.9  | 102  |  
+| 6/2 06:50  |  5.2  | 13.0 | 39.2 | 241   | 143  | 4.3  | 104  | 25   | 19   | 0.8  | 97   |  
+| 6/3 06:10  |  5.0  | 13.2 | 39.7 | 247   | 142  | 4.1  |  -   |  -   |  -   |  -   |  -   |  
+
+*Other Labs/Markers*  
+- Troponin I: 0.17 → 0.12 → 0.07 (nl <0.04)  
+- BNP: 2,387 pg/mL (5/29)  
+- LFTs: AST 44, ALT 38, T. bili 1.1, Alk Phos 97 (5/29)  
+- Procalcitonin: 1.7 (5/29), 0.5 (6/1)  
+- INR: 1.3 (5/29)  
+- Lactate: 3.2 (5/29), 1.7 (5/30), 1.0 (6/1)  
+- HbA1c: 6.2% (baseline)  
+- Cholesterol: T chol 189, LDL 94, HDL 68, TG 135 (baseline)  
+
+---
+
+**IMAGING:**  
+- CXR 5/29: Pulmonary edema, bibasilar infiltrates  
+- CXR 5/31: Improved edema, no consolidation  
+- Echo 5/29: LVEF 15%, global hypokinesis, mod MR, no LV thrombus  
+- Renal US 5/30: Normal  
+
+---
+
+**ASSESSMENT & PLAN:**  
+1. **Cardiogenic shock, new severe systolic HF (EF 15%)**  
+   - Likely viral myocarditis vs. idiopathic DCM  
+   - Managed with Impella CP, pressors, inotropes  
+   - Now improved, Impella explanted HD5  
+   - Plan: Continue GDMT, initiate low-dose carvedilol, ACEi as tolerated, serial echoes, f/u advanced HF  
+2. **Acute hypoxic respiratory failure**  
+   - 2/2 pulmonary edema, intubated HD1-4  
+   - Extubated, now on 2L NC, weaning  
+   - Incentive spirometry, pulm toilet  
+3. **Volume overload**  
+   - IV furosemide, daily weights, strict I/O  
+   - Now euvolemic  
+   - Transition to oral diuretics  
+4. **Anemia, multifactorial**  
+   - Hgb nadir 10.7, stable  
+   - No active bleeding  
+   - Monitor, iron panel pending  
+5. **Prediabetes**  
+   - HbA1c 6.2%  
+   - Sliding scale insulin in ICU, now on PO diet  
+   - Endo consult for DM prevention  
+6. **Hypertension**  
+   - Off home HCTZ due to AKI  
+   - Restart once renal fx stable  
+   - Add ACEi if BP tolerates  
+7. **Possible pneumonia**  
+   - Treated empirically (ceftriaxone + azithro x5d)  
+   - Sputum cx negative, procalcitonin downtrending  
+8. **Recurrent viral URIs**  
+   - Supportive care  
+   - Avoid decongestants (tachyarrhythmia risk)  
+9. **ICU-acquired delirium**  
+   - Resolved, now A&O x3  
+   - Sleep hygiene, minimize nighttime disruptions  
+10. **DVT prophylaxis**  
+    - SCDs, SQ heparin  
+
+**Dispo:**  
+- Transition to stepdown when off all vasoactive meds and stable  
+- Anticipate prolonged cardiac rehab and close cardiology follow-up  
+- Social work, PT/OT to assess  
+
+---
+
+**Physician:**  
+Garrett, MD  
+**Electronically signed:** 2024-06-02 08:10  
+
+---
+
+**Orders:**  
+- Cardiac telemetry  
+- Daily CBC, Chem7  
+- Strict I/O  
+- Furosemide IV → PO transition  
+- Carvedilol 3.125mg BID  
+- Lisinopril 2.5mg daily  
+- DVT ppx: Heparin SQ  
+- PT/OT eval  
+- Cardiology consult  
+
+---
+
+**Nursing:**  
+- Foley DC’d 6/2  
+- Central line removed 6/3  
+- Daily weights  
+- Oral care protocol  
+- Mobility: Up to chair with assist

@@ -1,0 +1,151 @@
+```
+-------------------------------------------------------
+EpicCare Inpatient - Progress Note
+Patient: Bertram Homenick   MRN: 00483217
+DOB: 07/20/1971 (Age: 52)  Sex: Male   Admit Date: 03/21/2024
+Attending: Dr. Mark O’Hara  Service: Cardiology ICU
+-------------------------------------------------------
+
+CHIEF COMPLAINT:
+Altered mental status, shortness of breath, chest pain
+
+HISTORY OF PRESENT ILLNESS:
+Bertram Homenick is a 52-year-old male with a history of chronic migraines, chronic pain, prediabetes, anemia, and remote drug overdose, who presented with acute-onset chest pain, progressive dyspnea, and confusion. He was brought in by EMS after being found unresponsive at home. Initial assessment in the ED revealed hypotension, tachycardia, and hypoxia. Labs and imaging were consistent with acute decompensated heart failure with evidence of cardiogenic shock. He was emergently transferred to the ICU, where a temporary left ventricular assist device (LVAD; Impella CP) was placed for hemodynamic support.
+
+HOSPITAL COURSE:
+- Day 1: Admitted to ICU. Intubated for airway protection. Started on norepinephrine and dobutamine. Impella CP placed via right femoral artery. Initial echo: LVEF 15%, global hypokinesis. Started on broad-spectrum antibiotics for possible aspiration pneumonia.
+- Day 2: Improved hemodynamics on temporary pump support. Weaned off norepinephrine. Extubated to high-flow nasal cannula. Cardiac enzymes trended down.
+- Day 3: Developed acute kidney injury (Cr 2.1 mg/dL from baseline 1.0). Diuresis initiated. Platelets dropped to 80K; heparin-induced thrombocytopenia ruled out.
+- Day 4: Mental status improved. Impella weaned and removed. Transferred to stepdown unit.
+
+PAST MEDICAL HISTORY:
+- Chronic intractable migraine without aura
+- Chronic pain
+- Impacted molars
+- Prediabetes
+- Anemia
+- Previous foot laceration (resolved)
+- Acute bronchitis (remote)
+- Drug overdose (remote, unspecified agent)
+
+PAST SURGICAL HISTORY:
+- Wisdom tooth extraction (age 23)
+- No cardiac surgery prior to current admission
+
+FAMILY HISTORY:
+- Father: MI age 59
+- Mother: Type 2 diabetes, hypertension
+
+SOCIAL HISTORY:
+- Former smoker, quit 10 years ago (15 pack-years)
+- Rare alcohol use, denies illicit drug use since overdose 8 years ago
+- Lives alone, works as accountant
+
+ALLERGIES:
+- NKDA
+
+MEDICATIONS ON ADMISSION:
+- Naproxen sodium 220 mg PO prn
+- Acetaminophen 325 mg PO prn
+
+MEDICATIONS IN HOSPITAL:
+- Metoprolol tartrate
+- Furosemide IV
+- Aspirin 81 mg PO
+- Atorvastatin 40 mg PO
+- Pantoprazole 40 mg IV
+- Ceftriaxone IV
+- DVT prophylaxis: Heparin 5000U sq q8h (held after platelets dropped)
+
+PHYSICAL EXAM (ICU Day 2):
+Gen: Intubated, sedated, appears age stated
+VS: T 37.8°C, HR 102, BP 98/54 (MAP 69), RR 18 (vent), SpO2 96% (FiO2 40%)
+HEENT: Pupils 3mm, reactive
+CV: Tachycardic, S3 present, no murmurs
+Lungs: Bibasilar crackles, decreased breath sounds left base
+Abd: Soft, NT, ND, normoactive BS
+Ext: 2+ edema BLE, pulses present
+Neuro: Moves all extremities, follows commands
+
+LABS (SELECTED):
+
+| Date       | WBC    | Hgb   | Hct   | Plt   | Na    | K     | Cl    | CO2   | BUN   | Cr    | Gluc  | Troponin | AST   | ALT   |
+|------------|--------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|----------|-------|-------|
+| 3/21/24 AM | 4.8    | 11.9  | 36.2  | 203   | 137   | 4.7   | 99    | 18    | 23    | 1.1   | 92    | 1.57     | 41    | 35    |
+| 3/21/24 PM | 5.5    | 11.6  | 35.5  | 195   | 138   | 4.9   | 100   | 19    | 25    | 1.3   | 85    | 1.41     | 39    | 34    |
+| 3/22/24    | 7.2    | 10.8  | 33.1  | 144   | 139   | 5.1   | 101   | 17    | 31    | 1.8   | 98    | 0.77     | 45    | 41    |
+| 3/23/24    | 6.9    | 10.4  | 32.3  | 82    | 141   | 4.3   | 104   | 15    | 36    | 2.1   | 104   | 0.41     | 49    | 43    |
+| 3/24/24    | 5.5    | 10.9  | 34.1  | 137   | 140   | 4.2   | 102   | 20    | 28    | 1.4   | 99    | --       | --    | 41    |
+| 3/25/24    | --     | 11.2  | 35.1  | 155   | 139   | --    | 99    | 22    | 21    | 1.1   | 95    | --       | 37    | --    |
+
+
+CARDIAC IMAGING:
+- Echocardiogram (3/21): LVEF 15%, global hypokinesis, mild MR, dilated LV, RV function mildly reduced.
+- Repeat echo (3/24): LVEF improved to 32%, mild MR persists, LV size improved.
+
+ECG: Sinus tachycardia, non-specific ST-T changes. No acute STEMI.
+
+CHEST XRAY: Pulmonary edema, small left pleural effusion.
+
+MICROBIOLOGY:
+- Blood cultures x2 negative
+- Sputum culture: Normal flora
+
+OTHER LABS:
+- BNP: 2880 pg/mL (3/21)
+- Lactate: 4.2 mmol/L (3/21), improved to 1.6 mmol/L (3/24)
+- INR: 1.1
+- aPTT: 31 sec
+
+PROBLEM-BASED ASSESSMENT & PLAN:
+
+1. **Cardiogenic shock / Acute decompensated heart failure**
+   - Likely ischemic etiology (troponin leak, severe LV dysfunction)
+   - Temporary LVAD (Impella CP) placed for hemodynamic support, removed after 3 days as LVEF improved
+   - Continue gentle diuresis, monitor electrolytes, daily weights
+   - Initiate guideline-directed medical therapy (GDMT): beta-blocker, ACEi/ARB as tolerated
+   - Cardiology f/u for consideration of advanced heart failure therapies
+
+2. **AKI on CKD risk**
+   - Likely pre-renal from low perfusion, resolved with improved cardiac output
+   - Monitor renal function daily, avoid nephrotoxins
+
+3. **Thrombocytopenia**
+   - Platelets nadir at 80K, improved after heparin held
+   - HIT panel negative
+   - Monitor CBC, resume DVT ppx with fondaparinux if platelets >100K
+
+4. **Anemia (baseline, chronic)**
+   - Stable, no transfusion required
+   - Continue iron supplementation outpatient
+
+5. **Chronic pain / migraines**
+   - Resume home regimen as tolerated
+   - Avoid NSAIDs until renal function stable
+
+6. **Prediabetes**
+   - Glucose well controlled
+   - HgbA1c 6.4%
+   - Continue diet/lifestyle measures
+
+7. **Aspiration pneumonia (suspected)**
+   - Completed 4 days ceftriaxone, now afebrile, WBC improving
+
+8. **Dental: Impacted molars**
+   - No acute issues, outpatient dental f/u
+
+9. **Psychosocial**
+   - History of drug overdose, no acute psychiatric needs
+   - Social work consult for support at discharge
+
+DISPOSITION:
+- Transfer to stepdown unit, then likely to cardiac rehab
+- Close f/u with cardiology, PCP, and dental
+
+-------------------------------------------------------
+**Signed by:**  
+Mark O’Hara, MD  
+Cardiology ICU  
+Date/Time: 03/25/2024 18:01  
+-------------------------------------------------------
+```

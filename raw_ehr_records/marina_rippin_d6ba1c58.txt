@@ -1,0 +1,178 @@
+MARINA RIPPIN  
+MRN: 00839427  
+DOB: 08/09/1988 (Age: 35)  
+Sex: Female  
+Attending: Dr. Lee  
+Admit Date: 2024-03-19  
+Service: ICU/Cardiology  
+Encounter: Inpatient  
+
+---
+
+**Admission Summary:**  
+35F with PMHx of HTN, prediabetes, h/o breast ca (currently in remission), anemia, and recent URI, presenting with acute onset dyspnea and orthopnea, found to be in acute decompensated heart failure (ADHF) with evidence of cardiogenic shock requiring ICU admission and placement of a temporary left ventricular assist device (LVAD; Impella CP) for circulatory support.
+
+---
+
+# Hospital Course
+
+Ms. Rippin was admitted directly from the ED to the ICU for acute hypoxemic respiratory failure and shock. On arrival, she was tachycardic (HR 122), hypotensive (BP 82/54), tachypneic (RR 28), and hypoxic (SpO2 86% RA). Initial labs showed elevated lactate, acute kidney injury, and troponin leak. Echo revealed severe global LV dysfunction (EF 15%) with moderate RV dysfunction, no significant valvulopathy.  
+
+Due to persistent hypotension despite high-dose vasopressors (norepi, vasopressin), a temporary LVAD (Impella CP) was placed at bedside by Interventional Cardiology. She was started on dobutamine, diuretics, and broad spectrum antibiotics for possible sepsis given leukocytosis and recent bronchitis. Patient was intubated for airway protection on hospital day 2.  
+
+Over the following days, her hemodynamics improved, and vasopressors were weaned off. Renal function recovered. The LVAD was removed on day 6 after TTE showed improved LV function (EF 35%). She was successfully extubated on day 7, transferred to step-down on day 9, and is currently on oral HF regimen.
+
+---
+
+# Problem List
+
+1. **Acute Decompensated Heart Failure, Cardiogenic Shock**  
+2. **Temporary LVAD (Impella CP) placement**  
+3. **Hypertension**  
+4. **Anemia**  
+5. **History of Breast Cancer (ER/PR+, s/p lumpectomy, in remission)**  
+6. **Acute bronchitis, resolving**  
+7. **Acute kidney injury, resolved**  
+8. **Prediabetes**  
+9. **Normal pregnancy, remote**  
+10. **Medication Reconciliation**  
+11. **Pain management**  
+12. **Electrolyte imbalances**
+
+---
+
+# Assessment & Plan
+
+**1. Acute Decompensated Heart Failure (EF 15% on admission) / Cardiogenic Shock**  
+- Likely precipitated by viral myocarditis (recent URI, new drop in EF, troponin leak, no CAD on angio).  
+- Required temporary LVAD support (Impella CP) for 6d.  
+- Now off all inotropes/pressors, LV function improved (EF 35%).  
+- Continue goal-directed HF therapy:  
+  - Low-dose carvedilol, sacubitril-valsartan, spironolactone, furosemide.  
+  - Strict I/Os, daily weights.  
+  - Limit fluids, Na <2g/d.  
+  - Cardiology f/u, plan for cardiac MRI as outpatient.  
+  - ICD not indicated at this time.  
+
+**2. Temporary LVAD (Impella CP) Placement**  
+- Placed day 1 for refractory shock; removed day 6 after improved hemodynamics.  
+- No device complications.  
+- Continue DVT ppx x 2w post device removal.  
+- Vascular access site: clean, dry, no hematoma.  
+
+**3. Hypertension**  
+- Home regimen held during shock, now restarted:  
+  - Amlodipine/HTZ/Olmesartan combo resumed at lower dose.  
+- Monitor for hypotension as up-titrate HF meds.  
+
+**4. Anemia**  
+- Baseline mild anemia (Hgb ~11-12), worsened (nadir 8.3) during ICU stay.  
+- Transfused 1u PRBCs on day 3 for Hgb 7.9, now stable (Hgb 10.2).  
+- Iron studies: ferritin 44, TSAT 16%, Fe 38, TIBC 240 – IDA.  
+- Plan: PO iron, GI f/u for possible source.  
+
+**5. Hx Breast Cancer (ER/PR+, s/p lumpectomy, completed chemo/radiation 2021)**  
+- No evidence of recurrence. No active tx.  
+- Oncology aware, continue routine surveillance.  
+
+**6. Acute Bronchitis (recent viral URI)**  
+- Treated empirically with ceftriaxone/azithro x 5d for superimposed bacterial infection.  
+- Sputum cx negative.  
+- Improving, off O2.  
+
+**7. Acute Kidney Injury (creat 2.1 to 0.9)**  
+- Likely multifactorial: hypoperfusion, nephrotoxic meds (contrast, diuretics).  
+- Resolved with improved perfusion, IVF, holding nephrotoxins.  
+- Continue to monitor.  
+
+**8. Prediabetes**  
+- A1c 6.1% pre-admission, FSG 85-140 inpatient.  
+- No insulin required.  
+- Continue low-carb diet, outpatient follow-up.  
+
+**9. Normal Pregnancy, remote**  
+- G2P2, last pregnancy 2018. No OB issues.  
+
+**10. Medication Reconciliation**  
+- Restarted home antihypertensives, stopped OCPs (risk of VTE), continue PRN acetaminophen, hold diphenhydramine unless insomnia.  
+
+**11. Pain Control**  
+- Mild sternal/vascular site discomfort, managed with acetaminophen.  
+
+**12. Electrolyte Imbalances**  
+- Notable hypokalemia (K 2.9) on day 2, corrected with IV/PO KCl.  
+- Mild hypomagnesemia, repleted.  
+- Monitor daily.  
+
+---
+
+# Labs
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Hct (%) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Glu (mg/dL) | Lactate (mmol/L) | Troponin (ng/mL) |
+|------------|------------|------------|---------|------------|-------------|------------|-------------|--------------|-------------|------------|-------------|------------------|------------------|
+| 3/19 04:01 | 16.2       | 9.8        | 29.1    | 121        | 133         | 3.1        | 105         | 18           | 29          | 2.1        | 112         | 4.2              | 0.13             |
+| 3/20 05:10 | 13.7       | 8.6        | 26.4    | 99         | 135         | 2.9        | 101         | 16           | 31          | 1.9        | 98          | 2.7              | 0.21             |
+| 3/21 06:02 | 11.5       | 7.9        | 24.2    | 108        | 136         | 3.8        | 100         | 21           | 28          | 1.3        | 91          | 1.7              | 0.09             |
+| 3/22 06:15 | 9.8        | 8.3        | 25.5    | 132        | 137         | 4.1        | 99          | 23           | 22          | 1.0        | 85          | 1.1              | 0.05             |
+| 3/23 07:00 | 7.2        | 9.1        | 28.8    | 144        | 135         | 4.2        | 102         | 24           | 18          | 0.9        | 87          | 0.9              | <0.01            |
+| 3/24 07:10 | 6.7        | 9.9        | 30.1    | 155        | 138         | 4.0        | 104         | 22           | 17          | 0.8        | 92          | 0.8              | <0.01            |
+| 3/25 07:30 | 5.8        | 10.2       | 32.0    | 160        | 137         | 4.5        | 103         | 25           | 16          | 0.8        | 95          | --               | --               |
+| 3/26 06:45 | --         | 10.2       | --      | 165        | 136         | 4.4        | 101         | 24           | 15          | 0.8        | 84          | --               | --               |
+| 3/27 07:02 | 6.4        | 10.3       | 34.0    | 168        | 137         | 4.6        | 102         | 23           | 14          | 0.7        | 88          | --               | --               |
+
+**Other labs:**  
+- Ferritin 44 ng/mL (3/22), Fe 38 mcg/dL, TIBC 240, TSAT 16%  
+- Mg 1.4 (3/20, corrected to 2.0 by 3/23)  
+- BNP 1845 pg/mL (admission, trended down to 420 at discharge)  
+- LFTs: AST 44, ALT 39, Alk Phos 90, Tbili 1.2 (mildly elevated on 3/20, normalized by 3/27)  
+- Procalcitonin 0.16 ng/mL (3/19, low likelihood of bacterial sepsis)  
+
+---
+
+# Vitals (Selected)
+
+| Date/Time      | Temp (C) | HR  | BP        | RR | SpO2 | Pain |
+|----------------|----------|-----|-----------|----|------|------|
+| 3/19 04:15     | 37.8     | 122 | 82/54     | 28 | 86%  | 6    |
+| 3/20 08:00     | 37.4     | 110 | 90/62     | 26 | 92%  | 5    |
+| 3/22 06:00     | 36.9     | 98  | 112/71    | 20 | 95%  | 3    |
+| 3/24 07:00     | 37.2     | 78  | 120/82    | 18 | 98%  | 2    |
+| 3/27 07:00     | 36.7     | 72  | 128/85    | 16 | 98%  | 1    |
+
+---
+
+# Medications (Inpatient)
+
+- Carvedilol 3.125 mg BID (start 3/25)
+- Sacubitril-valsartan 24/26 mg BID (start 3/26)
+- Spironolactone 25 mg daily
+- Furosemide 40 mg IV BID, then PO
+- Ceftriaxone 1g IV q24h x 5d
+- Azithromycin 500 mg IV/PO x 5d
+- Acetaminophen 650 mg PO q6h PRN
+- KCl 40 mEq PO/IV daily x 4d
+- Ferrous sulfate 325 mg PO BID
+- Pantoprazole 40 mg IV daily
+- Enoxaparin 40 mg SC daily (DVT ppx)
+
+---
+
+# Discharge Planning
+
+- Anticipate discharge in 1-2 days to home.
+- Close f/u with Cardiology, PCP, and Oncology.
+- Home health nursing for wound checks.
+- Strict HF diet and med adherence.
+- No driving for 2w post-LVAD.
+- Education on s/sx of HF, infection.
+
+---
+
+# Physician Attestation  
+I have reviewed the above and discussed with the patient and family.  
+- Dr. Lee, MD  
+- 3/27/2024, 08:45
+
+---
+
+**END OF NOTE**

@@ -1,0 +1,180 @@
+```
+Patient Name: Lavern Gusikowski
+MRN: 00419825
+DOB: 09/02/1935   Sex: M   Age: 88
+Date of Admission: 03/01/2024
+Date/Time: 03/11/2024 07:22
+Attending: Dr. S. Feldman, MD
+Service: Cardiology ICU
+
+===============================
+ADMISSION SUMMARY
+===============================
+Chief Complaint: Progressive shortness of breath, orthopnea, and lower extremity edema
+
+HPI:
+Lavern Gusikowski is an 88-year-old male with a history of chronic congestive heart failure (EF last known 38%), CAD, prostate neoplasm, anemia, opioid use disorder, and remote appendectomy, who presented to the ED with 3 days of worsening dyspnea, new-onset confusion, and abdominal discomfort. He had recently been treated for acute bronchitis and has a history of hyperlipidemia and colon polyps.
+
+On arrival, he was found to be in acute decompensated heart failure with hypotension (SBP 82 mmHg), hypoxemia (O2 sat 88% on RA), and acute kidney injury. He rapidly developed cardiogenic shock and was transferred to the CCU, where he required vasopressor support and ultimately placement of a percutaneous left ventricular assist device (Impella CP) for temporary circulatory support. He has had a complicated ICU course including AKI, volume overload, and episodes of delirium.
+
+===============================
+PAST MEDICAL HISTORY
+===============================
+- Chronic systolic heart failure (EF 30-40%)
+- Coronary artery disease (s/p stents 2018)
+- Neoplasm of prostate, carcinoma in situ (on leuprolide, docetaxel)
+- Anemia (multifactorial)
+- Hyperlipidemia
+- Opioid use disorder (remote, on methadone maintenance)
+- History of appendectomy (complicated by rupture)
+- Polyp of colon (3.3 mm, last colonoscopy 2023)
+- Recurrent acute bronchitis, viral pharyngitis
+- Concussion (2021, no LOC)
+
+SURGICAL HISTORY:
+- Appendectomy (remote, complicated by rupture)
+- PCI with stents (2018)
+- TURP (2022)
+
+ALLERGIES:
+- NKDA
+
+SOCIAL HISTORY:
+- Former smoker (40 pack-years, quit 1997)
+- Lives with spouse, retired postal worker
+- No current alcohol, remote opioid use (methadone maintenance)
+
+FAMILY HISTORY:
+- CAD (father), stroke (mother), prostate cancer (brother)
+
+===============================
+MEDICATIONS ON ADMISSION
+===============================
+- Simvastatin 10mg QHS
+- Metoprolol succinate 100mg daily
+- Furosemide 40mg IV/PO BID
+- Acetaminophen 325mg PRN
+- Docetaxel 20mg IV q3wk
+- Leuprolide 30mg SQ q3mo
+- Methadone 10mg BID
+- PRN: Ondansetron, Senna
+
+===============================
+VITALS (ON ADMISSION)
+===============================
+Temp: 37.6°C  HR: 108   BP: 82/54   RR: 24   SpO2: 88% (RA)
+Wt: 100.5 kg   Ht: 188.7 cm   BMI: 28.2
+
+===============================
+PHYSICAL EXAM (ICU Day 1)
+===============================
+GEN: Elderly male, dyspneic, drowsy, in mild distress
+CV: Tachycardic, S3 present, no murmurs, JVP 14 cm, +1 pitting edema bilat
+RESP: Tachypnea, bibasilar crackles, O2 via HFNC
+ABD: Soft, mild tenderness RLQ, old surgical scar
+NEURO: Alert, intermittently confused, follows simple commands
+EXT: Cool, diminished pulses, 1+ pitting edema
+
+===============================
+LABS
+===============================
+**See table below for serial laboratory values**
+
+| Date        | WBC    | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Ca   | AST  | ALT  | Alk Phos | Alb  | NT-proBNP | Troponin | GFR   |
+|-------------|--------|-------|-------|-------|------|------|------|------|------|------|------|------|------|------|----------|------|-----------|----------|-------|
+| 3/1/2024    | 7.9    | 15.0  | 44.5  | 392   | 137  | 4.1  | 109  | 26   | 16   | 1.07 | 98   | 9.9  | 38   | 54   | 91       | 3.6  | 1358      | 0.03     | 82    |
+| 3/2/2024    | 8.7    | 13.2  | 39.1  | 367   | 135  | 4.8  | 112  | 22   | 24   | 1.34 | 101  | 9.5  | 42   | 47   | 96       | 3.2  | 1780      | 0.05     | 61    |
+| 3/3/2024    | 10.2   | 11.7  | 35.7  | 341   | 132  | 5.3  | 115  | 20   | 32   | 1.76 | 112  | 8.7  | 48   | 60   | 104      | 2.9  | 2010      | 0.04     | 38    |
+| 3/4/2024    | 9.6    | 12.4  | 37.2  | 354   | 133  | 4.9  | 113  | 21   | 27   | 1.44 | 107  | 9.1  | 44   | 55   | 97       | 3.1  | 1640      | --       | 49    |
+| 3/5/2024    | 7.4    | 12.9  | 38.8  | 377   | 137  | 4.4  | 110  | 25   | 19   | 1.21 | 98   | --   | 39   | 51   | 90       | 3.5  | 1205      | 0.02     | 71    |
+| 3/6/2024    | --     | 13.1  | 39.2  | 369   | 136  | 4.6  | 111  | 24   | 18   | 1.17 | 99   | 9.8  | 37   | 50   | 88       | 3.7  | 1170      | 0.01     | 74    |
+| 3/7/2024    | 8.3    | 13.5  | 40.7  | 386   | 138  | 4.2  | 108  | 26   | 16   | 1.03 | 95   | 9.7  | 35   | 47   | 85       | 3.8  | 1011      | --       | 83    |
+| 3/8/2024    | 7.5    | 13.6  | 41.0  | 390   | 139  | 4.0  | 107  | 27   | 15   | 0.98 | --   | --   | --   | --   | --       | --   | --        | --       | 89    |
+| 3/9/2024    | 7.1    | 13.7  | 41.4  | 393   | 140  | 3.9  | 106  | 28   | 14   | 0.91 | 92   | 10.1 | 32   | 45   | 78       | 3.9  | 895       | <0.01    | 94    |
+
+===============================
+CARDIAC IMAGING
+===============================
+3/1/24 ECHO: LVEF 32%, severe global hypokinesis, moderate MR, moderate TR, RV systolic function mildly reduced. IVC plethoric. No pericardial effusion.
+
+===============================
+HOSPITAL COURSE (ICU)
+===============================
+Day 1-2: Admitted with acute decompensated heart failure, presumed ischemic. Required escalating O2, then BiPAP. Vasopressors (norepi, then low-dose dobutamine). Acute kidney injury worsened. Oliguric, rising creatinine.
+
+Day 2: Developed hypotension refractory to pressors, rising lactate. Bedside ECHO: severe LV dysfunction, low cardiac output (CI 1.2). Decision made for percutaneous LVAD (Impella CP) placement. Procedure at bedside, tolerated well. Anticoag started.
+
+Day 3-5: Gradual hemodynamic stabilization. Weaned off norepi, dobutamine. Renal function initially worsened, then improved with volume management. Diuresis with IV furosemide. Confusion improved. LFTs peaked then trended down. Cardiac enzymes trended.
+
+Day 6-8: Impella weaned, removed on day 7. Maintained MAP >65 mmHg off pressors. Diuresis continued. O2 requirements downtrended. Mobilized to chair. Appetite improved.
+
+Day 9: Transferred to stepdown. Creatinine near baseline. No further arrhythmia, stable volume status.
+
+===============================
+PROBLEM-BASED ASSESSMENT & PLAN
+===============================
+**1. Cardiogenic Shock (Acute on Chronic Systolic Heart Failure)**
+   - Etiology: Ischemic, severe LV dysfunction (EF 32%), rapid decompensation
+   - Management: Pressors, inotropes, rapid escalation to temporary LVAD (Impella CP)
+   - Anticoagulation for device
+   - Serial echo monitoring
+   - Diuresis as tolerated
+   - Weaned and explanted Impella after 5 days, now stable
+
+**2. Acute Kidney Injury (on CKD)**
+   - Multifactorial: hypoperfusion, cardiorenal, diuretic effect
+   - Monitored UOP, daily lytes, renal dose adjustments
+   - Renal function improved with improved cardiac output and diuresis
+
+**3. Volume Overload/Pulmonary Edema**
+   - Treated with IV loop diuretics, strict I/O, daily weights
+   - Monitored for electrolyte disturbances
+
+**4. Anemia**
+   - Baseline chronic, mild drop with hemodilution/AKI
+   - Monitored H/H, no transfusion needed
+
+**5. Prostate Cancer/Neoplasm**
+   - Onc consulted, continued leuprolide and docetaxel
+   - No evidence of infection/neutropenia
+
+**6. Opioid Use Disorder**
+   - On methadone maintenance, no withdrawal
+   - Monitored for delirium, pain management coordinated
+
+**7. Hyperlipidemia**
+   - Continue statin
+
+**8. Delirium**
+   - Multifactorial: hypoxemia, uremia, ICU environment
+   - Improved with correction of underlying issues
+
+**9. Remote Appendectomy, Colon Polyp, Concussion**
+   - No acute issues
+
+**10. Prophylaxis**
+   - DVT: SCDs, heparin held during Impella, resumed after removal
+   - GI: PPI
+
+===============================
+DISCHARGE PLANNING
+===============================
+- To stepdown, then home with home health
+- Cardiology follow-up in 1 week
+- Home meds: Continue HF regimen, statin, anticoag x2 weeks post-Impella
+- Outpatient echo in 2 weeks
+- Close monitoring for recurrent decompensation
+
+===============================
+ADDITIONAL NOTES
+===============================
+- No new colonoscopy indicated at this time
+- No evidence of active infection during this admission
+- No overt GI bleeding
+- Code status: Full, discussed with family
+
+===============================
+ATTENDING PHYSICIAN: Dr. S. Feldman, MD
+RESIDENT: J. Lee, MD
+```
+

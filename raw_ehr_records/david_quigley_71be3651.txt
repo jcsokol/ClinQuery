@@ -1,0 +1,199 @@
+**EPIC EHR RECORD – INPATIENT PROGRESS NOTE**  
+**Patient Name:** David Quigley  
+**MRN:** 01834279  
+**DOB:** 12/18/1932  
+**Sex:** Male  
+**Date of Admission:** 05/13/2024  
+**Attending:** Dr. Karen Patel, MD  
+**Location:** MICU, Bed 4  
+**Consults:** Cardiology, Pulmonology, Infectious Disease, Endocrinology  
+
+---
+
+### **Chief Complaint**
+Worsening dyspnea, orthopnea, and lower extremity edema for 5 days.
+
+---
+
+### **HPI**
+89-year-old male with past medical history notable for chronic congestive heart failure (CHF, LVEF 47%), pulmonary emphysema, anemia, prediabetes, and recurrent sinusitis, who presented with increased shortness of breath, orthopnea, and productive cough with clear sputum. He was found to have acute decompensated heart failure with hypotension refractory to diuresis, requiring ICU admission and, on hospital day 2, placement of a temporary left ventricular assist device (Impella) for cardiogenic shock. Complicated by AKI, anemia, and persistent hypoxemia.
+
+---
+
+### **Hospital Course**
+- **Day 1:** Admitted for acute CHF exacerbation. BNP elevated, CXR with pulmonary edema. Started on IV furosemide, BiPAP for hypoxemia.
+- **Day 2:** Progressive hypotension (MAP < 60), rising lactate, oliguria. Cardiology: concern for cardiogenic shock. Vasopressors started, bedside echo EF 30%, Impella CP placed.
+- **Day 3-4:** Hemodynamics improved, diuresed 4L, extubated to high-flow NC. Creatinine peaked at 2.2, trending down. Developed mild delirium.
+- **Day 5:** Impella weaned, removed. Transitioned to low-dose dobutamine. Renal function improving, mental status baseline.  
+- **Day 6:** Transferred to step-down, ambulating with PT.
+
+---
+
+### **Vital Signs (selected)**
+| Date       | Temp (C) | HR   | BP        | RR | SpO2 | Weight (kg) |
+|------------|----------|------|-----------|----|------|-------------|
+| 5/13/2024  | 37.7     | 104  | 92/54     | 22 | 89%  | 86.8        |
+| 5/14/2024  | 37.2     | 98   | 85/48     | 20 | 92%  | 85.1        |
+| 5/15/2024  | 36.9     | 88   | 97/60     | 16 | 94%  | 82.7        |
+| 5/16/2024  | 36.8     | 82   | 101/64    | 16 | 95%  | 81.9        |
+| 5/17/2024  | 36.6     | 78   | 108/70    | 16 | 96%  | 81.7        |
+
+---
+
+### **Lab Results (CBC, Chem7, Cardiac, LFTs, others)**
+#### **Table 1: Hospital Labs**
+
+| Date       | WBC (K/uL) | Hgb (g/dL) | Plt (K/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | Cr (mg/dL) | BUN (mg/dL) | Glu (mg/dL) | BNP (pg/mL) | Trop (ng/mL) | AST (U/L) | ALT (U/L) | Alk Phos (U/L) |
+|------------|------------|------------|------------|-------------|------------|-------------|--------------|------------|-------------|-------------|-------------|--------------|-----------|-----------|----------------|
+| 5/13/24 AM | 4.7        | 16.7       | 250        | 139         | 4.5        | 109         | 26           | 0.9        | 8.9         | 83          | 1203        | 0.02         | 11        | 21        | 51             |
+| 5/14/24 AM | 6.2        | 14.3       | 210        | 138         | 4.2        | 111         | 24           | 1.6        | 19          | 108         | 2290        | 0.04         | 18        | 39        | 60             |
+| 5/15/24 AM | 7.1        | 12.8       | 180        | 137         | 3.9        | 113         | 21           | 2.2        | 34          | 132         | 1850        | 0.03         | 31        | 42        | 58             |
+| 5/16/24 AM | 6.4        | 13.1       | 205        | 138         | 4.1        | 112         | 23           | 1.7        | 21          | 120         | 950         | <0.01        | 25        | 25        | 54             |
+| 5/17/24 AM | 5.9        | 13.7       | 220        | 139         |            | 110         | 25           | 1.2        | 12          | 103         | 650         | <0.01        | 15        |           | 52             |
+
+*Some values not available/missing on certain days due to limited sample or hemolysis.
+
+---
+
+### **Imaging**
+- **CXR 5/13/24:** Cardiomegaly, pulmonary vascular congestion, bilateral interstitial edema.
+- **Echocardiogram 5/14/24:** LVEF 30%, moderate global hypokinesis, dilated LV, mild MR, RV mildly reduced. No tamponade.
+- **CXR 5/15/24:** Impella device in place, improved pulmonary edema.
+
+---
+
+### **Problem-Based Assessment & Plan**
+---
+
+#### 1. **Acute on Chronic Systolic Heart Failure, Cardiogenic Shock**
+- **Assessment:** Presented with decompensation, hypotension, evidence of end-organ hypoperfusion and elevated BNP. Required vasopressors and temporary LV support (Impella CP).  
+- **Plan:**
+  - Cardiology to continue daily evaluation.
+  - Wean vasopressors as tolerated.
+  - Continue guideline-directed medical therapy (GDMT) as hemodynamics permit (Metoprolol, Lasix).
+  - Monitor volume status, strict I/O, daily weights.
+  - Serial EKG, telemetry, daily BNP.
+  - Echo planned prior to discharge.
+  - Monitor for arrhythmia, device-related complications.
+  - DVT prophylaxis with enoxaparin.
+
+#### 2. **Acute Kidney Injury (AKI) on CKD**
+- **Assessment:** Likely secondary to hypoperfusion, pre-renal etiology, baseline GFR ~22.
+- **Plan:**
+  - Renal dosing for meds.
+  - Monitor Cr, BUN, lytes QAM.
+  - Avoid nephrotoxins (hold ACEi for now).
+  - Volume management—goal net negative.
+  - Nephrology consult if worsening.
+
+#### 3. **Anemia of Chronic Disease/Acute Blood Loss**
+- **Assessment:** Drop in Hgb post-Impella, likely mild hemolysis, no overt bleeding.
+- **Plan:**
+  - Monitor H/H QAM.
+  - Iron studies, retic count pending.
+  - Transfuse if Hgb <7.5 or symptomatic.
+  - GI prophylaxis with pantoprazole.
+
+#### 4. **Pulmonary Emphysema/COPD**
+- **Assessment:** Baseline FEV1/FVC 50%. Exacerbation likely due to CHF, viral URI.
+- **Plan:**
+  - Inhaled bronchodilators PRN.
+  - O2 to maintain SpO2 >92%.
+  - Pulmonary toilet, IS, mobilization.
+  - Pulm f/u.
+
+#### 5. **Prediabetes**
+- **Assessment:** A1c 6.2%, glucose mildly elevated, no DKA/HHS.
+- **Plan:**
+  - Continue monitoring glucose BID.
+  - No insulin needed at present.
+  - Dietician consult for DM education.
+
+#### 6. **Chronic Sinusitis/Recent Viral URI**
+- **Assessment:** Reported nasal congestion, no fever, no purulence.
+- **Plan:**
+  - Supportive care: saline rinses, acetaminophen PRN.
+  - ENT if worsening.
+
+#### 7. **Hand Laceration**
+- **Assessment:** Small dorsal left hand wound, clean, no signs of infection.
+- **Plan:**
+  - Daily wound checks.
+  - Bacitracin ointment, dry dressing.
+  - Tetanus up to date.
+
+#### 8. **Delirium**
+- **Assessment:** Mild, likely multifactorial (ICU, metabolic, sleep deprivation).
+- **Plan:**
+  - Reorient, minimize sedation.
+  - PT/OT, sleep hygiene.
+
+#### 9. **Polypharmacy/Medication Reconciliation**
+- **Plan:**
+  - Review all meds daily.
+  - D/C unnecessary meds, minimize interactions.
+
+---
+
+### **Procedures**
+- 5/14/2024: Impella CP placement, right femoral access, no immediate complications.
+- 5/16/2024: Impella explant at bedside.
+
+---
+
+### **Consults**
+- Cardiology: Device management, daily f/u.
+- Pulmonology: COPD/vent weaning.
+- Infectious Disease: r/o nosocomial infection.
+- Nutrition: Diet optimization.
+
+---
+
+### **Discharge Planning**
+- Anticipate discharge to inpatient rehab in 2-3d.
+- Close outpatient cardiology and nephrology follow-up.
+
+---
+
+### **Medications (Current as of 5/17/2024)**
+- Metoprolol succinate 100mg PO daily
+- Aspirin 81mg PO daily
+- Furosemide 40mg IV BID (transitioning to PO)
+- Amoxicillin/clavulanate 250/125mg PO BID (for sinusitis, 2d remaining)
+- Acetaminophen/oxycodone 325/5mg PO PRN pain
+- Hydrocortisone cream 10mg/mL topical PRN
+- Pantoprazole 40mg IV daily
+- Enoxaparin 40mg SQ daily
+
+---
+
+### **Allergies**
+- No known drug allergies.
+
+---
+
+### **Social/Family History**
+- Lives with daughter, retired engineer.
+- Former smoker, quit 1994.
+- No alcohol, no illicit drugs.
+
+---
+
+### **Physical Exam (5/17/2024)**
+- Gen: Elderly male, NAD, conversant.
+- CV: Irregularly irregular, no murmurs, JVP 9cm, +2 LE edema.
+- Pulm: Crackles at bases, diminished breath sounds.
+- GU: Foley d/c’d, voiding spontaneously.
+- Neuro: Alert, oriented x3, no focal deficit.
+- Skin: Clean healing laceration L hand.
+
+---
+
+### **Signatures**
+**Karen Patel, MD**  
+**Attending Physician**  
+**Date/Time:** 5/17/2024 08:36
+
+---
+
+**[End of Note]**

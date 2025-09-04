@@ -1,0 +1,205 @@
+---
+**Inpatient Progress Note**  
+**Patient:** Elvera Raynor  
+**MRN:** 0192837465  
+**DOB:** 10/24/1976 (47 y/o)  
+**Sex:** Female  
+**Date of Admission:** 06/14/2024  
+**Date of Service:** 06/20/2024  
+**Attending:** Dr. L. Karp  
+**Service:** Cardiology ICU
+
+---
+
+**Chief Complaint:**  
+Progressive dyspnea, orthopnea, and chest discomfort.  
+
+**History of Present Illness:**  
+47-year-old female with PMHx of hypertension, chronic sinusitis, fibromyalgia, and recent viral pharyngitis, who presented to the ED with 3 days of worsening shortness of breath, chest heaviness, and lower extremity edema. She reports orthopnea and PND, and noted a 5-lb weight gain over the past week. No syncope. No recent URI symptoms. No prior cardiac history. She has a history of concussion (no LOC) and normal pregnancy in her 20s. Home meds include HCTZ, loratadine, naproxen, duloxetine, hydrocortisone cream, and an epinephrine autoinjector.
+
+On arrival to ED, she was tachycardic (HR 112), hypertensive (BP 164/98), and hypoxic (SpO2 89% RA). CXR showed pulmonary edema. Troponin mildly elevated. BNP elevated. Echo showed severe global LV dysfunction (EF 18%), moderate MR, and no pericardial effusion. She was admitted to the CICU for acute decompensated heart failure, likely new-onset non-ischemic cardiomyopathy (possible viral or stress-induced).  
+
+On hospital day 2, she developed worsening hypotension and hypoperfusion (cold, clammy, MAP <60 despite escalating pressors). Cardiac index <1.8 by Swan-Ganz. Emergent placement of a percutaneous left ventricular assist device (Impella CP) was performed for refractory cardiogenic shock. She stabilized on support.  
+
+---
+
+**Hospital Course Summary:**  
+- **Day 1:** Admitted with acute decompensated heart failure, started on IV furosemide and nitroglycerin.  
+- **Day 2:** Developed cardiogenic shock, required norepinephrine and dobutamine. Impella CP placed.  
+- **Day 3–4:** Gradual improvement in end-organ perfusion. Weaned off pressors.  
+- **Day 5:** Impella weaned and removed after repeat echo showed EF improved to 28%.  
+- **Day 6:** Transitioned to oral heart failure regimen (carvedilol, sacubitril/valsartan, spironolactone).  
+- **Day 7:** Ambulating in ICU, euvolemic, stable hemodynamics.  
+
+---
+
+# Problem List & Assessment/Plan
+
+## 1. Acute Decompensated Heart Failure w/ Cardiogenic Shock
+**Assessment:**  
+New diagnosis of non-ischemic cardiomyopathy (likely viral or stress-induced) with acute decompensation and cardiogenic shock requiring temporary mechanical circulatory support (Impella CP).  
+**Plan:**  
+- Continue close cardiac monitoring (telemetry, Swan-Ganz).
+- Titrate heart failure regimen (goal: maximize GDMT).
+- Monitor for arrhythmias, volume status.
+- Cardiac rehab consult.
+- Repeat TTE prior to discharge.
+- Education on low-sodium diet, daily weights.
+
+## 2. Hypertension  
+**Assessment:**  
+History of suboptimally controlled hypertension, likely contributed to cardiac remodeling.  
+**Plan:**  
+- Continue carvedilol, add sacubitril/valsartan.
+- Monitor BP q4h.
+- Discontinue HCTZ (risk of hypovolemia).
+
+## 3. Chronic Sinusitis / Viral Pharyngitis (remote)  
+**Assessment:**  
+Remote, not active.  
+**Plan:**  
+- Continue supportive care as needed (loratadine PRN).
+- Monitor for secondary bacterial infection.
+
+## 4. Fibromyalgia  
+**Assessment:**  
+Chronic, baseline pain; currently well controlled on duloxetine.  
+**Plan:**  
+- Continue duloxetine.
+- Assess pain daily.
+- Avoid NSAIDs due to HF.
+
+## 5. Acute Kidney Injury (on CKD?)  
+**Assessment:**  
+Transient rise in creatinine during shock, now improving with diuresis and improved CO.  
+**Plan:**  
+- Monitor daily BMP.
+- Avoid nephrotoxic agents.
+- Adjust diuretic dosing to renal function.
+
+## 6. Medication Reconciliation  
+**Assessment:**  
+Complex regimen, several home meds not appropriate for new HF diagnosis.  
+**Plan:**  
+- Discontinue naproxen, HCTZ.
+- Continue duloxetine, loratadine, hydrocortisone cream, EpiPen.
+- Add carvedilol, sacubitril/valsartan, spironolactone, furosemide.
+
+## 7. DVT Prophylaxis  
+**Assessment:**  
+High risk due to ICU stay and Impella device.  
+**Plan:**  
+- SCDs while in bed.
+- SQ heparin unless contraindicated.
+
+## 8. Psychosocial/Disposition  
+**Assessment:**  
+Lives alone, moderate support.  
+**Plan:**  
+- Social work consult for discharge planning.
+- Consider cardiac rehab referral.
+
+---
+
+# Vitals (Selected)
+
+| Date         | Temp (C) | HR   | BP          | RR | SpO2   | Weight (kg) | Pain   |
+|--------------|----------|------|-------------|----|--------|-------------|--------|
+| 06/14/2024   | 37.5     | 112  | 164/98      | 22 | 89% RA | 66.2        | 3/10   |
+| 06/15/2024   | 37.2     | 98   | 132/84      | 18 | 94%    | 65.6        | 2/10   |
+| 06/16/2024   | 36.9     | 88   | 119/76      | 16 | 97%    | 64.9        | 1/10   |
+| 06/17/2024   | 37.0     | 80   | 116/72      | 15 | 98%    | 64.7        | 1/10   |
+| 06/18/2024   | 36.8     | 76   | 114/70      | 14 | 98%    | 64.7        | 1/10   |
+
+---
+
+# Labs
+
+**CBC / Chemistries**  
+*Values in bold = abnormal; blank = not collected.*
+
+| Date       | WBC   | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu   |
+|------------|-------|-------|-------|-------|------|------|------|------|------|------|-------|
+| 6/14/2024  | 4.7   | 15.4  | 36.5  | 372   | 137  | 3.6  | 104  | 22   | 21   | 1.3  | 106   |
+| 6/15/2024  | 5.2   | 14.9  | 35.2  | 355   | 135  | 3.4  | 101  | 19   | 27   | 1.7  | 114   |
+| 6/16/2024  | 6.8   | 13.8  | 32.9  | 312   | 134  | 3.7  | 102  | 20   | 18   | 1.2  | 101   |
+| 6/17/2024  | 5.9   | 13.2  | 31.2  | 289   | 136  | 3.9  | 104  | 22   | 15   | 1.0  | 98    |
+| 6/18/2024  | 5.1   | 13.1  | 31.0  | 275   | 137  | 4.1  |      | 23   |      | 0.9  | 99    |
+
+**Cardiac Enzymes / Markers**  
+| Date       | Troponin I | BNP   | CK     |
+|------------|------------|-------|--------|
+| 6/14/2024  | 0.17       | 1910  | 342    |
+| 6/15/2024  | 0.11       | 2020  | 256    |
+| 6/16/2024  | 0.06       | 1540  |        |
+| 6/17/2024  | 0.03       | 812   | 104    |
+| 6/18/2024  | <0.01      | 623   |        |
+
+**Liver Panel**  
+| Date       | AST  | ALT  | Alk Phos | Tbili |
+|------------|------|------|----------|-------|
+| 6/14/2024  | 38   | 33   | 102      | 0.8   |
+| 6/15/2024  | 55   | 41   | 108      | 0.9   |
+| 6/16/2024  | 42   | 36   | 101      | 0.7   |
+| 6/17/2024  | 31   | 32   | 99       | 0.6   |
+
+---
+
+# Imaging
+
+**Echocardiogram (6/14/2024):**  
+- Severe global LV dysfunction, EF 18%  
+- Moderate MR, mild TR  
+- No pericardial effusion  
+- Mild RV dilation, no RV dysfunction
+
+**Repeat Echo (6/17/2024):**  
+- EF improved to 28%  
+- Mild MR, trace TR  
+- No effusion
+
+**CXR (6/14/2024):**  
+- Pulmonary edema, mild cardiomegaly
+
+---
+
+# Procedures
+
+**6/15/2024:**  
+- Placement of Impella CP device via right femoral artery for refractory cardiogenic shock.  
+- No procedural complications.
+
+**6/17/2024:**  
+- Impella weaning and removal at bedside.
+
+---
+
+# Medications (Current)
+
+- Carvedilol 3.125 mg BID
+- Sacubitril/valsartan 24/26 mg BID
+- Spironolactone 25 mg QD
+- Furosemide 40 mg IV BID → PO 40 mg QD
+- Duloxetine 20 mg PO QD
+- Loratadine 10 mg PO QD PRN
+- Hydrocortisone 10 mg/mL topical PRN
+- NDA020800 0.3 mL Epinephrine 1 mg/mL auto-injector
+- SQ Heparin 5000U q8h
+- Docusate 100 mg PO BID
+- Acetaminophen 650 mg PO q6h PRN pain
+
+---
+
+# Disposition / Follow-up
+
+- Continue cardiac rehab and strict HF follow-up.
+- Social work to arrange home support.
+- Pt/family education on new cardiac diagnosis and device history.
+- Outpatient cardiology f/u in 1 week.
+
+---
+
+**Physician:** L. Karp, MD  
+**Date/Time:** 06/20/2024 09:02
+
+---

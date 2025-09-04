@@ -1,0 +1,173 @@
+**Patient Name:** Arnold Cassin  
+**MRN:** 00394821  
+**DOB:** 09/03/1956  
+**Sex:** Male  
+**Admit Date:** 2024-05-29  
+**Attending:** Dr. O’Connor, Cardiology  
+**Consults:** Cardiac Surgery, Endocrinology, Infectious Disease  
+**Admitting Dx:** Cardiogenic shock, acute on chronic heart failure (HFrEF), s/p Impella CP placement  
+**Allergies:** NKDA  
+**Code Status:** Full Code  
+---
+
+# HOSPITAL COURSE SUMMARY
+
+Mr. Arnold Cassin is a 67-year-old man with a complex PMHx including hypertension, HLD, prediabetes, chronic anemia, and recent viral sinusitis, who presented to the ED with progressive dyspnea, orthopnea, and confusion. He was found to be in acute decompensated heart failure with evidence of low cardiac output, hypotension, and rising lactate. Despite medical therapy, he developed worsening shock and was transferred to the Cardiac ICU for consideration of temporary mechanical circulatory support. On HD2, he required placement of an Impella CP percutaneous LV assist device for cardiogenic shock. His course was complicated by AKI, anemia requiring transfusion, and hospital-acquired pneumonia. He is currently weaning off the Impella and remains on low-dose inotropes.
+
+---
+
+## PROBLEM-BASED ASSESSMENT AND PLAN
+
+### 1. **Cardiogenic Shock, Acute on Chronic HFrEF**
+- **Assessment:**  
+  Presented in extremis, BP 80/45, HR 116, cold extremities, elevated JVP. Echo: LVEF ~20%, globally reduced, moderate MR. Troponin I peaked at 0.28, downtrending. CXR: pulmonary edema. Swan: CI 1.6, wedge 27.
+- **Interventions:**  
+  - Initiated dobutamine, uptitrated to 7.5 mcg/kg/min  
+  - Furosemide drip for volume overload  
+  - Impella CP placed HD2 via R femoral artery  
+  - Daily TTEs for LV function
+  - Weaning off pressors, Impella flows down to P3
+- **Plan:**  
+  - Continue Impella wean, reassess for device explant in 24h  
+  - Maintain MAP >65, adjust vasopressors as needed  
+  - Serial lactates, mixed venous O2 sats  
+  - Transition to oral HF regimen as tolerated (BB, ACEi/ARB, MRA, SGLT2i)
+
+### 2. **Acute Kidney Injury (AKI), Stage II**
+- **Assessment:**  
+  Baseline Cr 1.0, peaked at 2.2 on HD3. Likely multifactorial: hypoperfusion, diuretics, contrast load. UOP improved with hemodynamic recovery.
+- **Plan:**  
+  - Monitor daily BMP, strict I/O  
+  - Avoid nephrotoxins  
+  - Nephrology following, no RRT indicated  
+  - Reduce diuretic dose as tolerated
+
+### 3. **Anemia (Chronic, Acute on Chronic)**
+- **Assessment:**  
+  Baseline Hgb ~10, dropped to 7.8 on HD4. r/o hemolysis (haptoglobin nl, LDH nl), no overt bleeding, likely dilutional and procedural.
+- **Plan:**  
+  - Transfused 1U PRBC HD4  
+  - Monitor CBC q12h  
+  - Iron studies pending, consider IV iron if ferritin <100
+
+### 4. **Hospital-Acquired Pneumonia**
+- **Assessment:**  
+  Developed fever, new infiltrate, leukocytosis on HD5. Sputum cx growing MSSA.
+- **Plan:**  
+  - Cefazolin 2g IV q8h x7d  
+  - Pulmonary toilet, IS, early mobilization  
+  - Monitor for sepsis, repeat CXR prn
+
+### 5. **Hypertension, Hyperlipidemia, Prediabetes**
+- **Assessment:**  
+  Home meds: HCTZ, simvastatin, A1c 5.8%. BP labile in ICU.
+- **Plan:**  
+  - Hold HCTZ while on pressors  
+  - Resume statin  
+  - Monitor glucose, no insulin needed  
+  - Reassess outpatient for SGLT2i after HF stabilized
+
+### 6. **History of Viral Sinusitis, Acute Bronchitis**
+- **Assessment:**  
+  No current symptoms. Completed course of abx pre-admission.
+- **Plan:**  
+  - No further abx needed  
+  - Monitor for nosocomial infection
+
+### 7. **Other: Prior Forearm Fracture**
+- **Assessment:**  
+  Healed, no current issues.
+- **Plan:**  
+  - None
+
+---
+
+## ICU VITALS + NURSING FLOWSHEET (SELECTED)
+
+| Date/Time      | Temp (C) | HR | BP (mmHg) | MAP | RR | SpO2 | Pain (0-10) | UOP (mL/24h) |
+|----------------|----------|----|-----------|-----|----|------|-------------|--------------|
+| 5/29 07:00     | 36.7     | 112| 92/54     | 64  | 22 | 95%  | 4           | 675          |
+| 5/30 07:00     | 37.2     | 118| 80/45     | 58  | 24 | 92%  | 5           | 520          |
+| 5/31 07:00     | 37.7     | 124| 84/48     | 60  | 28 | 94%  | 6           | 420          |
+| 6/1 07:00      | 36.8     | 108| 104/62    | 76  | 20 | 98%  | 3           | 1100         |
+| 6/2 07:00      | 36.5     | 100| 118/67    | 84  | 18 | 99%  | 2           | 1450         |
+| 6/3 07:00      | 36.4     | 96 | 126/71    | 89  | 16 | 98%  | 1           | 1700         |
+
+---
+
+## LABS
+
+### CBC + CHEM7 (Selected, Incomplete)
+
+| Date  | WBC  | Hgb | Hct  | Plt | Na   | K    | Cl    | CO2 | BUN  | Cr   | Glu  |
+|-------|------|-----|------|-----|------|------|-------|-----|------|------|------|
+| 5/29  | 5.7  | 10.2| 31.6 | 235 | 137  | 4.0  | 105   | 27  | 20   | 1.1  | 134  |
+| 5/30  | 6.2  | 9.7 | 30.1 | 229 | 139  | 4.2  | 106   | 24  | 25   | 1.6  | 142  |
+| 5/31  | 7.4  | 8.8 | 27.8 | 212 | 142  | 4.4  | 108   | 22  | 36   | 2.0  | 149  |
+| 6/1   | 8.1  | 7.8 | 24.4 | 203 | 140  | 4.1  | 107   | 25  | 41   | 2.2  | 156  |
+| 6/2   | 7.0  | 9.2 | 28.6 | 225 | 138  | 4.3  | 105   | 27  | 28   | 1.6  | 148  |
+| 6/3   | 6.1  | 9.9 | 31.2 | 239 | 137  | 4.0  | 104   | 28  | 22   | 1.2  | 132  |
+
+### ADDITIONAL LABS
+
+| Date  | Troponin I | BNP (pg/mL) | Lactate | AST  | ALT  | Alk Phos | Bili | Albumin |
+|-------|------------|-------------|---------|------|------|----------|------|---------|
+| 5/29  | 0.11       | 1350        | 2.3     | 40   | 45   | 122      | 0.3  | 4.7     |
+| 5/30  | 0.28       | 2240        | 3.2     | 55   | 63   | 130      | 0.4  | 4.2     |
+| 5/31  | 0.22       | 2120        | 2.8     | 49   | 51   | 128      | 0.2  | 3.9     |
+| 6/1   | 0.17       | 1710        | 1.8     | 38   | 44   | 119      | —    | 3.8     |
+| 6/2   | 0.09       | 950         | 1.4     | —    | —    | —        | —    | 4.0     |
+
+---
+
+## ACTIVE MEDICATIONS
+
+- Dobutamine 7.5 mcg/kg/min IV drip (titrating, goal CI >2.2)
+- Furosemide 10 mg/hr IV
+- Cefazolin 2g IV q8h
+- Simvastatin 10 mg PO qHS
+- Acetaminophen 650 mg PO q6h prn pain/fever
+- Dextromethorphan/doxylamine/acetaminophen elixir 10 mL PO q8h prn cough
+- Pantoprazole 40 mg IV q24h (stress ulcer ppx)
+- Heparin 5000U SQ q8h (VTE ppx)
+- HCTZ held
+- SGLT2i, BB, ACEi all on hold pending hemodynamic stability
+
+---
+
+## PROCEDURES
+
+- 5/30: Right femoral Impella CP placement under fluoroscopy, no immediate complications.
+- 6/1: TTE — Impella in good position, LV unloading, LVEF 23%.
+- 6/1: Removal of right IJ cordis, no bleeding.
+- 6/2: Wean of dobutamine initiated.
+- 6/3: Impella wean to P2, planned for explant 6/4.
+
+---
+
+## IMAGING
+
+- 5/29: CXR — pulmonary edema, enlarged cardiac silhouette.
+- 5/31: CXR — improved vascular congestion.
+- 6/1: TTE — LVEF 23%, Impella functioning, no LV thrombus.
+
+---
+
+## DISPOSITION
+
+- Remains in CICU, hemodynamically improving.
+- Anticipate transfer to step-down after Impella explant if stable.
+- Will need close outpatient f/u in HF clinic, consider AICD.
+
+---
+
+## ATTENDING PHYSICIAN ATTESTATION
+
+I have reviewed the above, discussed with the interdisciplinary team, and agree with the assessment and plan.
+
+/s/ O’Connor, MD, Cardiology  
+Date: 06/03/2024
+
+---
+
+**END OF RECORD**

@@ -1,0 +1,192 @@
+**Patient: Carroll, Isidro**  
+**MRN:** 00987123  
+**DOB:** 06/20/1974 (Age: 49)  
+**Sex:** M  
+**Attending:** Dr. P. Ramaswamy  
+**Admit Date:** 03/04/2024  
+**Location:** MICU, Bed 18  
+**Visit ID:** 2024-ICU-1452
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+
+Isidro Carroll is a 49-year-old male with a history of hypertension, prediabetes, anemia, and osteoarthritis of the hip who presented to the ED with 2 days of progressive dyspnea, orthopnea, fatigue, and lower extremity swelling. He was initially found to be hypotensive (BP 86/54), tachycardic (HR 122), and hypoxic on room air (SpO2 88%). Exam notable for JVD, S3 gallop, bibasilar crackles, and 2+ pitting edema bilaterally.
+
+Initial workup revealed elevated troponin, BNP, and evidence of pulmonary edema on CXR. Echo in ED showed severely reduced LVEF (~15%) with global hypokinesis. He rapidly deteriorated with worsening shock, requiring norepinephrine and dobutamine infusions, and was transferred to the MICU. Due to refractory cardiogenic shock, a left-sided percutaneous temporary ventricular assist device (Impella CP) was placed on hospital day 1. 
+
+---
+
+### PAST MEDICAL HISTORY
+
+- Hypertension
+- Prediabetes
+- Anemia (chronic, presumed iron-deficiency)
+- Osteoarthritis, bilateral hips
+- Sinusitis, recurrent (viral episodes)
+
+### PAST SURGICAL HISTORY
+
+- None
+
+### MEDICATIONS ON ADMISSION
+
+- Amlodipine/HCTZ/Olmesartan 5/12.5/20 mg PO daily
+- Ferrous sulfate 325 mg PO BID
+- Naproxen sodium 220 mg PO PRN
+
+### ALLERGIES
+
+- NKDA
+
+### SOCIAL HISTORY
+
+- Lives with wife, works as a mechanic
+- No tobacco, rare ETOH, denies illicit drug use
+
+---
+
+## ICU HOSPITAL COURSE SUMMARY
+
+**Day 1:**  
+Admission for acute decompensated heart failure with cardiogenic shock. Started on vasopressors/inotropes. Left-sided Impella CP placed for hemodynamic support. Intubated for hypoxic respiratory failure. Central line, arterial line placed. Started on broad-spectrum antibiotics for possible sepsis (later negative).  
+
+**Day 2:**  
+Hemodynamics improved slightly, weaned norepinephrine. Remained oliguric. Lactate downtrend. Serial troponins peaked at 2.3 ng/mL. Developed mild transaminitis.  
+
+**Day 3:**  
+Impella continued; started gentle diuresis. WBC uptrend, fevers—workup for VAP started. CXR: improving pulmonary edema.  
+
+**Day 4:**  
+Extubated to HFNC. Diuresis ongoing. Impella wean attempted but patient became hypotensive; device left in place.  
+
+**Day 5:**  
+Improvement in urine output, but Hgb trended down to 8.1, likely iatrogenic/hemolysis from Impella. No overt bleeding.  
+
+**Day 6:**  
+Impella explanted after successful weaning; patient maintained MAP >65 mmHg without support.  
+
+**Day 7:**  
+Transferred to step-down after 24h of stable hemodynamics, off pressors and Impella.
+
+---
+
+## PHYSICAL EXAM (Day 4, pre-explant)
+
+- **Gen:** Awake, alert, NAD
+- **CV:** S3, no murmur, JVD 2cm, mild peripheral edema
+- **Resp:** Clear to ausc. on HFNC 40% FiO2, RR 18
+- **GI:** Soft, NT, no HSM
+- **GU:** Foley, clear yellow urine
+- **MSK:** Moves all extremities, baseline hip discomfort
+- **Neuro:** AOx3, no focal deficit
+- **Skin:** Intact, no rashes, central line site clean
+
+---
+
+## ICU LABS
+
+#### Table 1: CBC, Chem7, and Selected Labs (values rounded; blank = not collected)
+
+| Date       | WBC (K) | Hgb (g/dL) | Plt (K) | Na  | K   | Cl  | CO2 | BUN | Cr  | Glu | Trop (ng/mL) | BNP (pg/mL) | AST | ALT | Tbili | LDH |
+|------------|---------|------------|---------|-----|-----|-----|-----|-----|-----|-----|--------------|-------------|-----|-----|-------|-----|
+| 3/4 AM     | 5.3     | 15.8       | 397     | 137 | 3.8 | 107 | 29  | 19  | 1.2 | 84  | 1.8          | 3200        | 44  | 49  | 1.1   | 380 |
+| 3/4 PM     | 5.9     | 14.3       | 372     | 138 | 3.6 | 105 | 27  | 23  | 1.4 | 99  | 2.3          |             | 62  | 72  | 1.9   |     |
+| 3/5 AM     | 8.2     | 12.7       | 355     | 139 | 4.0 | 108 | 25  | 28  | 1.7 | 112 | 2.1          | 4100        | 72  | 80  | 2.2   | 520 |
+| 3/6 AM     | 10.1    | 10.2       | 290     | 140 | 4.3 | 109 | 26  | 32  | 2.0 | 118 | 1.7          | 3900        | 68  | 77  | 1.6   | 600 |
+| 3/7 AM     | 9.4     | 8.1        | 250     | 138 | 4.1 | 107 | 28  | 29  | 1.5 | 104 | 1.0          | 2200        | 49  | 51  | 1.0   | 410 |
+| 3/8 AM     | 7.1     | 8.5        | 222     | 137 | 3.9 | 105 | 29  | 24  | 1.3 | 98  | 0.4          | 1200        | 36  | 38  | 0.8   | 320 |
+
+---
+
+## ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock, HFrEF (new, LVEF 15%)**
+   - Etiology likely ischemic vs. viral (no prior echo available). STEMI ruled out, but troponin and global hypokinesis suggest possible myocarditis or severe ischemic insult.
+   - Required Impella CP for hemodynamic support due to refractory shock.
+   - Now off device, stable, plan GDMT initiation, close follow-up with HF team, outpatient cardiac MRI pending.
+
+**2. Acute on Chronic Anemia**
+   - Downtrend in Hgb (likely hemolysis, device-related, and phlebotomy losses).
+   - Monitored, no transfusion required. Continue iron PO, f/u CBC.
+
+**3. Acute Kidney Injury (pre-renal)**
+   - Likely 2/2 hypoperfusion. Improved with volume management and improved cardiac output.
+   - Renal function improving, continue monitoring.
+
+**4. Transaminitis**
+   - Mild-moderate AST/ALT elevation, likely ischemic hepatitis; resolving as hemodynamics improve.
+
+**5. Recurrent Sinusitis**
+   - No evidence of acute bacterial infection on this admission; symptoms resolved.
+
+**6. Osteoarthritis, hip**
+   - Baseline discomfort, managed with PRN naproxen. Avoid NSAIDs given AKI—switched to acetaminophen.
+
+**7. Hypertension, Prediabetes**
+   - Off home meds during ICU stay; will restart as tolerated prior to discharge.
+
+**8. Infection prevention**
+   - Ventilator-associated pneumonia ruled out; blood/urine cultures negative. Central line precautions maintained.
+
+**9. DVT Prophylaxis**
+   - On SCDs and SQ heparin.
+
+**10. Disposition**
+   - Step-down unit, pending PT/OT evaluation, outpatient cardiology f/u, consider advanced HF therapies if LVEF does not improve.
+
+---
+
+### ICU FLOW SHEET (Selected; Day 1-6)
+
+| Date  | Temp | HR  | BP       | MAP | RR | SpO2 | Urine (ml) | I/O Balance |
+|-------|------|-----|----------|-----|----|------|------------|-------------|
+| 3/4   | 36.5 | 122 | 86/54    | 62  | 26 | 88%  | 210        | +1800       |
+| 3/5   | 37.2 | 110 | 94/60    | 70  | 22 | 96%  | 320        | +900        |
+| 3/6   | 38.1 | 102 | 102/66   | 78  | 18 | 99%  | 840        | +200        |
+| 3/7   | 37.0 | 92  | 108/72   | 84  | 16 | 99%  | 1260       | -400        |
+
+---
+
+### PROCEDURES
+
+- 3/4: Left femoral arterial Impella CP insertion (bedside, fluoroscopic guidance)
+- 3/4: Right IJ central line, left radial arterial line
+- 3/4: Endotracheal intubation
+- 3/6: Impella CP explantation
+
+---
+
+### CONSULTS
+
+- Cardiology (HF service): Ongoing
+- Nephrology: AKI management recommendations
+- Physical therapy/occupational therapy: post-ICU deconditioning
+
+---
+
+### DISCHARGE MEDICATIONS (anticipated)
+
+- Carvedilol (start low, titrate)
+- Lisinopril (if tolerated)
+- Ferrous sulfate 325 mg PO BID
+- Acetaminophen 650 mg PO PRN
+- Continue home antihypertensives as tolerated
+
+---
+
+### FOLLOW-UP
+
+- Cardiology (HF) clinic in 1 week
+- Labs: CBC, BMP, LFTs, BNP in 1 week
+- Consider cardiac MRI outpatient
+
+---
+
+**Electronically signed by:**  
+Dr. P. Ramaswamy, MD, Attending Physician  
+Date: 03/08/2024 16:45
+
+---
+
+**End of Note**

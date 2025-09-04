@@ -1,0 +1,172 @@
+---
+**Patient Name:** Melodi Howell  
+**MRN:** 1029483  
+**DOB:** 1957-10-11  
+**Sex:** Female  
+**Date of Admission:** 2024-05-23  
+**Attending:** Dr. L. Nunez  
+**ICU Location:** Cardiac Intensive Care Unit (CICU)  
+**Reason for Admission:** Cardiogenic shock secondary to acute decompensated heart failure; required temporary LVAD (Impella CP) placement.
+
+---
+
+# HOSPITAL COURSE SUMMARY
+
+**HPI:**  
+66-year-old female with PMHx of obesity (BMI ~30), anemia, prediabetes, and recurrent upper respiratory tract infections, presented to ED with 3 days of progressive dyspnea, orthopnea, and lower extremity edema. She reported recent viral symptoms (cough, sinus congestion, subjective fevers). On arrival, she was tachypneic, hypotensive (SBP 78 mmHg), tachycardic, and hypoxic (SpO2 89% RA). She was admitted to the CICU for acute hypoxemic respiratory failure and shock. Initial workup revealed elevated BNP and troponin, pulmonary edema on CXR, and echo showed new global LV dysfunction (EF 18%). Despite diuresis and inotropes, she deteriorated and required temporary LVAD support with Impella CP for refractory cardiogenic shock.  
+
+---
+
+## Problem-Based Assessment & Plan
+
+### 1. Cardiogenic Shock / Acute Decompensated Heart Failure
+- **Assessment:**  
+  - Etiology likely multifactorial: viral myocarditis (recent URI), possible ischemic insult (troponin leak, risk factors), longstanding HTN and obesity.  
+  - Severe LVEF reduction, hypotension, lactic acidosis.
+- **Plan:**  
+  - Temporary LVAD (Impella CP) placed on D2, weaned and explanted on D8 after hemodynamic improvement.
+  - IV milrinone and low-dose norepinephrine for pressor support, weaned off by D7.
+  - Aggressive diuresis after stabilization (IV furosemide).
+  - Serial TTEs to monitor EF.
+  - Cardiology, CT surgery, and Heart Failure team consults.
+  - Daily weights, strict I/O, telemetry.
+  - Started on guideline-directed HF therapy (carvedilol, low-dose lisinopril) as tolerated.
+  - Plan for cardiac MRI as outpatient to assess for myocarditis.
+
+### 2. Acute Kidney Injury (AKI) - pre-renal
+- **Assessment:**  
+  - Likely secondary to hypoperfusion in shock state, improved with LVAD support and volume management.
+- **Plan:**  
+  - Monitor daily chem7, urine output.
+  - Avoid nephrotoxins.
+  - Renal function improved after Day 5; no need for RRT.
+
+### 3. Anemia
+- **Assessment:**  
+  - Chronic microcytic anemia, baseline Hgb ~10 g/dL, mildly worsened during ICU stay with hemodilution and phlebotomy.
+- **Plan:**  
+  - Continue oral ferrous sulfate.
+  - Monitor CBC Q24h.
+  - No transfusions required.
+
+### 4. Prediabetes
+- **Assessment:**  
+  - HbA1c 5.9%. No evidence of DKA or HHS.
+- **Plan:**  
+  - Monitor fasting glucose BID.
+  - Sliding scale insulin PRN for ICU hyperglycemia.
+  - Endocrine consult for outpatient management.
+
+### 5. Obesity (BMI 30+)
+- **Assessment:**  
+  - Contributes to HF, OSA risk.
+- **Plan:**  
+  - Nutrition consult.
+  - Low-salt, calorie-restricted diet.
+  - Early mobilization/PT post-ICU.
+
+### 6. Recent Viral URI / Sinusitis / Acute Bronchitis
+- **Assessment:**  
+  - Treated with amox-clav, supportive care.
+  - No evidence of secondary pneumonia.
+- **Plan:**  
+  - Complete 7-day course abx.
+  - Pulmonary toilet, incentive spirometry.
+  - Monitor for superimposed infection.
+
+### 7. Pain (mild)
+- **Assessment:**  
+  - Sternal soreness post-Impella, mild myalgias.
+- **Plan:**  
+  - Acetaminophen PRN.
+  - Reassess pain Qshift.
+
+### 8. DVT Prophylaxis
+- **Plan:**  
+  - SCDs, SQ heparin unless contraindicated.
+
+### 9. Discharge Planning
+- **Plan:**  
+  - Anticipated transfer out of ICU D9.
+  - Cardiac rehab referral.
+  - Close HF, cardiology, and PCP follow-up.
+
+---
+
+# ICU FLOW SHEET
+
+### VITALS (selected)
+| Date       | Temp (C) | HR (bpm) | BP (mmHg) | RR | SpO2 (%) | Weight (kg) | Pain (0-10) |
+|------------|----------|----------|-----------|----|----------|-------------|-------------|
+| 5/23       | 37.7     | 110      | 78/52     | 28 | 89       | 73.1        | 3           |
+| 5/24       | 37.2     | 98       | 92/60     | 24 | 94       | 71.8        | 2           |
+| 5/25       | 36.9     | 89       | 104/65    | 20 | 96       | 70.2        | 1           |
+| 5/27       | 36.8     | 82       | 112/70    | 18 | 97       | 70.0        | 1           |
+| 5/29       | 37.1     | 75       | 116/69    | 16 | 97       | 69.8        | 0           |
+
+---
+
+# LABS
+
+### CBC & CHEM7 (selected, missing entries denoted by “--”)
+| Date       | WBC (10^3/uL) | Hgb (g/dL) | Hct (%) | Plt (10^3/uL) | Na (mmol/L) | K (mmol/L) | Cl (mmol/L) | CO2 (mmol/L) | BUN (mg/dL) | Cr (mg/dL) | Gluc (mg/dL) |
+|------------|---------------|------------|---------|---------------|-------------|------------|-------------|--------------|-------------|------------|--------------|
+| 5/23       | 13.2          | 9.8        | 29.5    | 172           | 138         | 4.2        | 105         | 23           | 28          | 1.39       | 118          |
+| 5/24       | 12.1          | 9.6        | 28.8    | 154           | 136         | 4.0        | 104         | 22           | 32          | 1.57       | 141          |
+| 5/25       | 11.4          | 9.8        | 29.9    | 149           | 137         | 4.2        | 106         | 24           | 22          | 1.18       | 133          |
+| 5/26       | 10.1          | 10.0       | 30.7    | --            | 139         | 4.3        | 108         | 26           | 18          | 0.98       | 109          |
+| 5/27       | --            | 10.2       | 31.2    | 158           | 140         | 4.4        | 108         | 28           | 14          | 0.87       | 95           |
+| 5/28       | 9.6           | 10.1       | --      | 164           | 140         | 4.6        | --          | 28           | 13          | 0.76       | --           |
+| 5/29       | 8.8           | 10.5       | 32.0    | 168           | 141         | 4.5        | 107         | 29           | 13          | 0.72       | 84           |
+
+**Additional Labs**
+- **BNP:** 2,580 pg/mL (admission), 1,900 (D4), 1,210 (D7)
+- **Troponin I:** 0.14 ng/mL (admission), peaked 0.27 (D2), 0.08 (D5)
+- **LFTs:** AST 42 / ALT 38 (mildly elevated on D2, normalized by D6)
+- **CRP:** 31 mg/L (admission), improved to 12 by D7
+
+---
+
+# PROCEDURES
+
+## 5/24 – Left femoral arterial Impella CP placement  
+- **Indication:** Cardiogenic shock, persistent hypotension, severe LV dysfunction
+- **Details:**  
+  - Performed in CICU under fluoroscopic guidance.
+  - No immediate complications.
+  - Daily vascular checks, device weaned over D6-8, explanted 5/31.
+
+---
+
+# CONSULTS
+
+- **Cardiology (HF):** Management of acute decompensated HF, device wean.
+- **CT Surgery:** Impella placement and removal.
+- **Renal:** AKI management.
+- **Endocrine:** Prediabetes.
+
+---
+
+# DISCHARGE MEDICATIONS (anticipated)
+- Furosemide 40mg PO BID
+- Carvedilol 6.25mg PO BID
+- Lisinopril 2.5mg PO daily
+- Ferrous sulfate 325mg PO daily
+- Acetaminophen 325mg PO PRN
+- Atorvastatin 20mg PO daily
+
+---
+
+# EDUCATION / FOLLOW-UP
+
+- Heart failure education provided to patient/family.
+- Cardiac rehab referral.
+- Close follow-up with HF, cardiology, PCP.
+- Monitor for signs of volume overload, infection, device site complications.
+
+---
+
+**Attending:** L. Nunez, MD  
+**Date/Time:** 2024-06-09 09:31
+
+---

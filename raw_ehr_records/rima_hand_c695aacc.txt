@@ -1,0 +1,254 @@
+---
+
+**EPIC EHR: Inpatient Progress Note**  
+**Patient:** Rima Hand  
+**MRN:** 00938172  
+**DOB:** 2007-08-19 (Age: 16)  
+**Sex:** Female  
+**Date of Admission:** 2024-04-30  
+**Date of Note:** 2024-05-05  
+**Attending:** Dr. Lisa M. Choi, MD  
+**Consultants:** Cardiology, Infectious Disease, Pediatric ICU  
+
+---
+
+## CHIEF COMPLAINT  
+Shortness of breath, chest pain, and syncope at home.
+
+---
+
+## HISTORY OF PRESENT ILLNESS  
+16yo female with PMHx notable for recurrent otitis media, streptococcal pharyngitis, and recent acute bronchitis, admitted from the ED for acute hypoxemic respiratory failure and shock. Per mother, patient developed cough and fever (~39°C) 5 days ago, which progressed to dyspnea and chest tightness. Last night, experienced syncopal episode at home; EMS reported hypotension (BP 72/44), tachycardia (HR 146), and hypoxia (SpO2 86% RA). She was brought to the ED, where she rapidly deteriorated with worsening respiratory distress and hypotension refractory to fluid boluses. Intubated for airway protection, started on norepinephrine and dobutamine. Echo revealed severe global LV dysfunction (EF ~15%), LA dilation, and mild-moderate MR. Given concern for fulminant myocarditis vs. acute decompensated heart failure, she was admitted to PICU and placed on temporary percutaneous LVAD (Impella CP) for hemodynamic stabilization.
+
+---
+
+## HOSPITAL COURSE (ICU DAYS 1-6)
+
+- **Day 1:** Intubated; started on broad-spectrum antibiotics (cefepime, vancomycin), oseltamivir, and supportive care. Cardiac biomarkers elevated (Troponin I 4.2 ng/mL, BNP 3120 pg/mL). CXR: pulmonary edema.  
+- **Day 2:** Remains hemodynamically unstable; Impella CP placed via R femoral artery. Improved MAPs and urine output. Blood cultures pending.  
+- **Day 3:** Echo: persistent biventricular dysfunction. Infectious workup negative (resp viral PCR, blood cx). Considered autoimmune myocarditis; sent ANA, ESR, CRP.  
+- **Day 4:** Low-grade fevers (38.2°C). LFTs elevated (AST 96, ALT 103). Platelets trending down (nadir 79K).  
+- **Day 5:** Gradual improvement in cardiac indices. Vasopressors weaned. Impella flows stable.  
+- **Day 6:** Extubated to HFNC. Impella explanted late evening. Transferred to step-down unit.
+
+---
+
+## PAST MEDICAL HISTORY
+
+- Otitis media (recurrent)
+- Streptococcal pharyngitis (multiple documented episodes)
+- Acute bronchitis (recent)
+- Obesity (BMI >97th percentile for age/sex)
+- No known congenital heart disease
+
+## PAST SURGICAL HISTORY
+
+- None
+
+## FAMILY HISTORY
+
+- Mother: HTN, obesity
+- Father: Healthy
+- No family history of cardiomyopathy or sudden cardiac death
+
+## ALLERGIES
+
+- NKDA
+
+## MEDICATIONS ON ADMISSION
+
+- Amoxicillin 250mg PO BID (recent, for bronchitis)
+- Ibuprofen 100mg PO PRN
+- Penicillin V potassium 250mg PO (previous, for strep throat)
+- Acetaminophen/dextromethorphan/doxylamine syrup PRN
+
+## HOME & SOCIAL HISTORY
+
+- Lives with mother, attends high school (10th grade)
+- No tobacco, alcohol, or drug use
+- Up-to-date on vaccinations
+
+---
+
+## PHYSICAL EXAM (ICU Day 4)
+
+**General:** Intubated, sedated, moderately ill-appearing  
+**HEENT:** PERRLA, oropharynx clear, no tonsillar exudate  
+**Neck:** No JVD, no lymphadenopathy  
+**CV:** S1/S2, tachycardic, S3 gallop, no rubs, peripheral pulses weak  
+**Resp:** Decreased air entry at bases, diffuse crackles  
+**Abd:** Soft, nontender, no HSM  
+**Ext:** 2+ edema BL LE, cap refill 3 sec  
+**Neuro:** Sedated, nonfocal  
+**Skin:** No rash, no petechiae
+
+---
+
+## LABS
+
+### HOSPITAL LAB SUMMARY
+
+| Date        | WBC   | Hgb   | Hct   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | AST  | ALT  | Troponin I | BNP   |
+|-------------|-------|-------|-------|-------|------|------|------|------|------|------|------|------|------|------------|-------|
+| 5/01/2024   | 15.1  | 15.8  | 45.2  | 214   | 132  | 4.9  | 97   | 18   | 21   | 0.91 | 156  | 62   | 71   | 4.2        | 3120  |
+| 5/02/2024   | 13.8  | 14.9  | 43.0  | 142   | 134  | 4.3  | 101  | 19   | 26   | 1.12 | 118  | 96   | 103  | 2.8        | 2860  |
+| 5/03/2024   | 11.2  | 13.7  | 39.5  | 79    | 136  | 4.0  | 98   | 20   | 17   | 0.74 | 102  | -    | -    | 1.1        | 1510  |
+| 5/04/2024   | 9.4   | 12.9  | 36.7  | 101   | 137  | 3.8  | 104  | 22   | 13   | 0.66 | 94   | 47   | 52   | 0.6        | 820   |
+| 5/05/2024   | 7.3   | 12.2  | 34.1  | 147   | 139  | 4.2  | 106  | 24   | 12   | 0.61 | -    | -    | -    | <0.05      | 400   |
+
+*Missing values indicate not obtained or pending.*
+
+---
+
+## MICROBIOLOGY / OTHER STUDIES
+
+- Blood cultures (x2): No growth at 48h
+- Respiratory viral PCR: Negative (incl. influenza, RSV, COVID)
+- ANA: Negative
+- CRP: 22 mg/L (elevated)
+- ESR: 47 mm/hr (elevated)
+- CXR: Bibasilar infiltrates, pulmonary edema
+- ECG: Sinus tach, low voltage QRS, nonspecific ST-T changes
+- Echo (Day 1): EF 15%, global hypokinesis, mild MR
+
+---
+
+## ASSESSMENT & PLAN
+
+**16yo F with recent URI sx, now fulminant myocarditis/decompensated HF requiring temporary LVAD (Impella) support.**
+
+### PROBLEM-BASED ASSESSMENT
+
+1. **Acute Fulminant Myocarditis / Cardiogenic Shock**
+   - Presentation: Rapid-onset heart failure, shock, elevated troponin, reduced EF.
+   - Course: Required intubation, vasopressors, Impella CP support. Improved after 5 days.
+   - Plan:
+     - Continue close hemodynamic monitoring
+     - Cardiology follow-up, consider cardiac MRI after stabilization
+     - Serial troponin, BNP, echo
+     - Wean diuresis as tolerated
+
+2. **Acute Hypoxemic Respiratory Failure**
+   - Likely secondary to pulmonary edema and cardiac dysfunction.
+   - Plan:
+     - Maintain on HFNC, monitor ABGs
+     - Chest PT, incentive spirometry
+     - Daily CXR PRN
+
+3. **Sepsis Rule-Out**
+   - Initial broad-spectrum abx, now de-escalated
+   - Negative cultures, viral PCRs
+   - Plan:
+     - Discontinue vanc/cefepime
+     - Monitor for secondary infection
+
+4. **Thrombocytopenia**
+   - Likely multifactorial (sepsis, device, meds)
+   - Plan:
+     - Monitor CBC daily
+     - Avoid unnecessary sticks, consider heparin-induced thrombocytopenia panel if platelets drop further
+
+5. **Transaminitis**
+   - Mild, likely congestive hepatopathy
+   - Plan:
+     - Monitor LFTs
+     - Supportive care
+
+6. **Obesity (BMI 97th percentile)**
+   - At risk for metabolic complications
+   - Plan:
+     - Nutrition consult
+     - Counsel on healthy eating, activity after discharge
+
+7. **Pain/Agitation (intubation, device)**
+   - Plan:
+     - Wean sedation
+     - Transition to oral pain meds as tolerated
+
+8. **Recent Upper Respiratory Infection**
+   - No evidence of ongoing bacterial infection
+   - Plan:
+     - Discontinue abx
+     - Supportive care
+
+9. **Social/Discharge Planning**
+   - Plan:
+     - SW consult for school re-entry, family support
+     - Anticipate PICU → step-down → home in 2-4 days
+
+---
+
+## ORDERS & RECOMMENDATIONS
+
+- Monitor VS q2h, continuous telemetry
+- CBC, Chem7, LFTs qAM
+- Troponin, BNP q48h
+- Echo prior to discharge
+- Early mobilization PT/OT consult
+- Cardiology f/u in 2 weeks
+- Strict I/Os
+
+---
+
+## SIGNED  
+Lisa M. Choi, MD  
+Pediatric Cardiology/Intensive Care  
+05-05-2024, 15:33
+
+---
+
+**[END OF NOTE – PAGE 1/4]**
+
+---
+
+**[PAGE 2/4]**  
+**Nursing Flowsheet Excerpt (ICU Day 2):**
+
+| Time  | HR  | BP      | SpO2 | Temp | MAP | Urine Output |
+|-------|-----|---------|------|------|-----|--------------|
+| 06:00 | 142 | 78/44   | 89%  | 37.8 | 54  | 0.7 ml/kg/hr |
+| 10:00 | 138 | 85/47   | 92%  | 38.1 | 62  | 1.1 ml/kg/hr |
+| 14:00 | 133 | 90/52   | 95%  | 37.5 | 65  | 1.3 ml/kg/hr |
+| 18:00 | 129 | 96/56   | 97%  | 37.3 | 68  | 1.6 ml/kg/hr |
+
+**Sedation/Analgesia:**  
+Fentanyl infusion 1.5 mcg/kg/hr, PRN bolus q2h  
+Midazolam 0.05 mg/kg/hr
+
+**Device:**  
+Impella CP: Flows 2.9-3.2 L/min, no alarms
+
+---
+
+**[PAGE 3/4]**  
+**Consultant Notes (Cardiology, Day 3):**
+
+> Assessment: Rima Hand is a 16-year-old with new-onset severe LV dysfunction, in context of probable viral or autoimmune myocarditis. No coronary anomalies seen on echo. No evidence of congenital heart disease.  
+>  
+> Recommendations:  
+> - Continue Impella support, monitor for hemolysis/device complications  
+> - Serial echocardiograms  
+> - Consider IVIG if no improvement  
+> - Early mobilization when stable  
+> - Family counseling regarding possible need for long-term cardiac follow-up
+
+---
+
+**[PAGE 4/4]**  
+**Discharge Planning (Anticipated):**
+
+- **Criteria:** Off pressors >24h, extubated, stable hemodynamics, ambulating, tolerating PO
+- **Medications at discharge (anticipated):**
+  - Carvedilol 3.125mg BID (if EF <35% persists)
+  - Furosemide 20mg PO BID (weaning)
+  - Continue home meds as appropriate
+- **Follow-up:**
+  - Cardiology in 2 weeks
+  - Pediatrician in 1 week
+- **Education:**
+  - Fluid/salt restriction, medication adherence, s/sx of HF
+  - School accommodations as needed
+
+---
+
+**[END OF NOTE]**

@@ -1,0 +1,137 @@
+```
+Patient Name: Fred Metz                    MRN: 004529834
+DOB: 07/23/1954    Sex: Male               Admit Date: 03/29/2024
+Attending: Dr. S. Patel                    Note Date: 04/07/2024
+Encounter: ICU                             Location: Cardiac ICU
+
+---------------------------------------------------------
+ADMISSION SUMMARY:
+74 y/o M with h/o obesity, OA hip, prediabetes, chronic anemia, presented to ED c/o progressive SOB, orthopnea, and fatigue x 1 week. On arrival: BP 89/58, HR 116, RR 24, SpO2 92% RA. Exam: JVD, crackles, pitting edema. CXR: pulmonary edema. TTE: LVEF 12%, global hypokinesis. Troponin I mildly elevated. Diagnosed with acute decompensated heart failure (ADHF) complicated by cardiogenic shock. Required escalating pressors and subsequently underwent emergent placement of a percutaneous LV assist device (Impella CP) on HD#1. ICU course complicated by AKI, anemia, delirium.
+
+---------------------------------------------------------
+PRIOR MEDICAL HISTORY:
+  - Obesity (BMI 30+)
+  - Osteoarthritis, bilateral hips
+  - Prediabetes (A1c 6.3%)
+  - Chronic anemia (baseline Hgb ~11)
+  - Recurrent bronchitis, viral sinusitis
+  - Remote tobacco use (quit >25y ago)
+  - No known CAD prior to this admission
+
+SOCIAL HISTORY:
+  - Lives alone, retired postal worker
+  - No alcohol, illicit drugs
+  - Ex-smoker, 20py, quit 1997
+
+FAMILY HISTORY:
+  - Father: MI at 62
+  - Mother: T2DM, OA
+
+ALLERGIES:
+  - NKDA
+
+---------------------------------------------------------
+HOSPITAL COURSE (ICU):
+
+HD#0 (ED): Hypotensive, hypoxic. BNP 2340. Troponin 0.44 (mild rise). CXR: pulmonary edema. Started on BiPAP, IV furosemide, dobutamine. No improvement, MAP <60 despite max support.
+
+HD#1: Cardiogenic shock. Impella CP placed via R femoral artery for hemodynamic support. Low dose norepinephrine. Transfused 1U PRBC for Hgb 7.8. Foley, A-line, central line placed. Started on aspirin, statin, heparin drip. Worsening AKI (Cr 1.4→2.2). Mild delirium, O2 sat 95% on 4L. Echo: LVEF 12%, severe global dysfunction.
+
+HD#2-3: Gradual improvement. MAP >65, weaning pressors. Impella flow 3.2 L/min. Diuresis with net -3.2L. Hgb stable at 8.6. UOP improving. Weaned to 2L NC. PT/OT eval. Mild confusion persists.
+
+HD#4: Impella weaned and explanted. BP stable off pressors. Cr 1.5. Delirium improving, more awake. Started on PO HF regimen (metoprolol, spironolactone, dapagliflozin). Appetite poor, constipation.
+
+HD#5-7: Stable. AKI resolving. Hgb up to 9.2. Ambulating with walker. Ready for transfer to stepdown.
+
+---------------------------------------------------------
+LABS (select values):
+
+| Date       | WBC   | Hgb   | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | ALT  | AST  |
+|------------|-------|-------|-------|------|------|------|------|------|------|------|----------|------|------|
+| 3/29/2024  | 11.2  | 7.8   | 210   | 143  | 4.9  | 110  | 27   | 30   | 1.4  | 216  | 0.44     | 38   | 44   |
+| 3/30/2024  | 10.1  | 8.6   | 205   | 140  | 5.2  | 112  | 24   | 41   | 2.2  | 180  | 0.29     | 41   | 48   |
+| 3/31/2024  | 8.7   | 8.2   | 195   | 139  | 4.3  | 107  | 26   | 35   | 1.6  | 154  | -        | 27   | 31   |
+| 4/2/2024   | 7.9   | 9.2   | 218   | 142  | 4.1  | 109  | 25   | 22   | 1.3  | 128  | -        | -    | -    |
+| 4/4/2024   | 6.8   | 9.2   | 224   | 141  | 4.0  | 109  | 27   | 19   | 1.2  | 112  | -        | 23   | 18   |
+| 4/7/2024   | 5.6   | 10.1  | 230   | 142  | 4.2  | 108  | -    | 16   | 1.1  | 102  | -        | -    | -    |
+
+*Some values missing due to lab draw times.
+
+---------------------------------------------------------
+VITALS:
+  - T: 37.2-38.1C
+  - BP: 88/56 (admit) → 112/68 (current)
+  - HR: 98-120
+  - RR: 18-26
+  - SpO2: 92-96% (RA/NC)
+  - Weight: 79 kg (↓2.5kg from admit)
+
+---------------------------------------------------------
+PROBLEM-BASED ASSESSMENT & PLAN:
+
+1. **Cardiogenic Shock, s/p Impella CP**
+   - Etiology: Likely underlying non-ischemic cardiomyopathy (no obstructive CAD on angio)
+   - Impella placed HD#1, explanted HD#4 after stabilization
+   - Now off pressors, hemodynamics stable
+   - Continue guideline-directed medical therapy (GDMT): beta-blocker, SGLT2i, MRA, low dose ACEi
+   - Daily weights, strict I/O, monitor for volume overload
+   - Consider ICD eval if EF remains <35% at 90 days
+
+2. **Acute Decompensated Heart Failure**
+   - Initial volume overload, now euvolemic
+   - Continue gentle diuresis as needed
+   - Sodium restriction, fluid limit <2L/d
+   - Cardiac rehab consult
+
+3. **Acute Kidney Injury (multifactorial: hypoperfusion, diuresis)**
+   - Cr peaked at 2.2, now trending down
+   - Monitor UOP, renal function daily
+   - Avoid nephrotoxins, adjust meds as needed
+
+4. **Chronic Anemia**
+   - Baseline Hgb ~11, dropped to 7.8 (likely dilutional, some blood loss w/ device)
+   - Transfused 1U PRBC, now stable
+   - Iron studies pending
+   - Monitor CBC
+
+5. **Delirium**
+   - Likely multifactorial: ICU, AKI, device
+   - Improving, reorient, mobilize
+   - Avoid benzos/anticholinergics
+
+6. **Obesity (BMI ~29)**
+   - Nutritionist consult
+   - Encourage low Na, cardiac diet
+   - Monitor for sarcopenia during recovery
+
+7. **Osteoarthritis (hip)**
+   - Pain controlled with acetaminophen
+   - PT/OT for mobility, advance as tolerated
+
+8. **Prediabetes**
+   - Fasting glucoses 99-216 (stress response)
+   - Monitor, no insulin required
+   - Diabetic education at discharge
+
+9. **Recent Acute Bronchitis/Sinusitis**
+   - No current symptoms
+   - Monitor for secondary infection
+
+10. **Other**
+    - Constipation: docusate prn
+    - DVT ppx: SCDs, heparin sc
+    - Foley removed HD#5
+
+---------------------------------------------------------
+DISPOSITION:
+- Ready for transfer to stepdown, then inpatient rehab likely
+- Anticipate close outpatient HF follow-up, repeat TTE in 1 month
+- Discussed goals of care with patient and daughter
+
+---------------------------------------------------------
+ATTENDING ATTESTATION:
+I have reviewed the above note and agree with the plan.
+— S. Patel, MD
+
+---------------------------------------------------------
+```

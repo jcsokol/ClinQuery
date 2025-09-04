@@ -1,0 +1,135 @@
+```
+Patient Name: Mozella Heidenreich            MRN: 00718347
+DOB: 1998-05-11 (Age: 25)                    Sex: Female
+Admission Date: 2024-05-24                   Attending: Dr. J. Stimson
+Admitting Dx: Cardiogenic Shock, Acute Heart Failure
+Allergies: NKDA
+Code Status: Full Code
+
+----------------------------------------------------------------------
+HOSPITAL COURSE SUMMARY
+
+Mozella Heidenreich is a 25-year-old female with a past medical history notable for atopic dermatitis, recurrent viral sinusitis, acute viral pharyngitis, and prior episodes of streptococcal pharyngitis, who presented to the ED with acute-onset chest pain, dyspnea, and presyncope. She was found to be hypotensive and tachycardic, with evidence of pulmonary edema on CXR. Initial workup revealed an elevated troponin and BNP, concerning for acute decompensated heart failure, likely secondary to viral myocarditis. She rapidly deteriorated, requiring vasopressor support and intubation for hypoxemic respiratory failure, and was transferred to the MICU. Due to persistent cardiogenic shock (SBP <80 mmHg, CI <2.0 L/min/m2 despite maximal medical therapy), a percutaneous left ventricular assist device (Impella CP) was placed on hospital day 2.
+
+She was supported on temporary mechanical circulatory support for 6 days, during which time she was managed with anticoagulation, aggressive diuresis, and treatment for underlying myocarditis. Cardiac function gradually improved, allowing for device explant and weaning off vasoactive agents. She experienced several complications including AKI (resolved), delirium, and mild transaminitis. She was transferred to the step-down unit on HD 10 and ultimately discharged home on HD 15.
+
+----------------------------------------------------------------------
+ADMISSION VITALS
+
+| Date/Time           | Temp (C) | HR  | BP      | RR | SpO2 | Pain |
+|---------------------|----------|-----|---------|----|------|------|
+| 2024-05-24 09:14    | 37.9     | 122 | 81/55   | 24 | 89%  | 7    |
+| 2024-05-25 03:30    | 38.1     | 116 | 88/59   | 20 | 92%  | 6    |
+| 2024-05-26 10:00    | 37.2     | 98  | 102/66  | 18 | 97%  | 2    |
+| 2024-05-29 08:47    | 36.7     | 84  | 116/78  | 16 | 98%  | 1    |
+
+----------------------------------------------------------------------
+LABS
+
+CBC & CHEMISTRIES
+
+| Date        | WBC   | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|-------------|-------|------|------|-------|------|------|------|------|------|------|------|
+| 5/24/24 AM  | 9.8   | 15.2 | 47.1 | 143   | 138  | 3.4  | 103  | 19   | 38   | 1.9  | 116  |
+| 5/25/24 AM  | 11.7  | 13.3 | 41.0 | 119   | 134  | 3.2  | 100  | 17   | 41   | 2.5  | 98   |
+| 5/27/24 PM  | 8.2   | 12.7 | 38.6 | 167   | 140  | 4.0  | 106  | 21   | 29   | 1.3  | 88   |
+| 5/29/24 AM  | 7.5   | 13.6 | 41.2 | 154   | 137  | 3.8  | 102  | 24   | 18   | 0.9  | 85   |
+| 5/31/24 AM  | 7.9   | 13.9 | 43.0 | 161   | 139  | 4.1  | 105  | 23   | 14   | 0.7  | 92   |
+| 6/2/24 PM   | 9.0   | 14.1 | 44.2 | 152   | 138  |      |      | 24   | 13   | 0.8  |      |
+
+OTHER RELEVANT LABS
+
+| Date        | Troponin I | CK-MB | BNP   | AST  | ALT  | ALK P | Total Bili | INR  | aPTT | Fibrinogen |
+|-------------|------------|-------|-------|------|------|-------|------------|------|------|------------|
+| 5/24/24     | 2.76       | 21.4  | 1843  | 89   | 96   | 102   | 0.5        | 1.3  | 37   | 364        |
+| 5/25/24     | 2.13       | 16.8  | 1560  | 126  | 141  | 93    | 0.6        | 1.4  | 41   | 301        |
+| 5/27/24     | 0.34       | 6.2   | 687   | 65   | 74   | 99    | 0.4        | 1.2  | 32   | 311        |
+| 5/31/24     | <0.01      | 2.1   | 198   | 34   | 29   | 85    | 0.5        | 1.1  | 29   | 278        |
+
+----------------------------------------------------------------------
+PROBLEM-BASED ASSESSMENT & PLAN
+
+1. **Cardiogenic Shock / Acute Heart Failure (presumed viral myocarditis)**
+   - Presentation: Acute severe LV dysfunction, low cardiac index, hypotension refractory to pressors.
+   - Course: Required percutaneous LVAD (Impella CP) HD 2-8. Gradual recovery in LVEF (from 18% to 37% by TTE HD 9).
+   - Plan:
+     - Continue GDMT for heart failure (carvedilol started HD 11, low-dose lisinopril HD 12).
+     - Outpatient follow-up with HF clinic and repeat TTE in 2 weeks.
+     - Continue salt restriction, daily weights.
+     - Discharged on 40 mg furosemide PO daily.
+
+2. **Acute Kidney Injury (multifactorial: hypoperfusion, nephrotoxic exposure)**
+   - Creatinine peaked at 2.5; now improved to 0.8.
+   - Plan:
+     - Monitor renal function, avoid nephrotoxins.
+     - Hold ACEi/ARB if Cr rises.
+
+3. **Delirium (ICU, multifactorial)**
+   - Fluctuating attention, sleep-wake reversal, resolved with reorientation, sleep hygiene.
+   - Plan:
+     - Monitor for recurrence, minimize sedatives, promote sleep-wake cycle.
+
+4. **Mild Transaminitis**
+   - Likely ischemic hepatitis; LFTs trended down to near baseline.
+   - Plan: Trend LFTs, no further intervention unless rise recurs.
+
+5. **Extensive Medication History**
+   - Pre-admission: Fexofenadine, hydrocortisone cream, OCPs, acetaminophen, penicillin, naproxen, amox/clav.
+   - During admission: Most home meds held except for fexofenadine PRN.
+   - Plan: Resume home meds as indicated, avoid NSAIDs due to AKI.
+
+6. **Atopic Dermatitis**
+   - No acute flares during admission.
+   - Plan: Continue topical hydrocortisone as needed.
+
+7. **History of Viral Sinusitis, Pharyngitis, Sore Throat**
+   - Not contributory to current admission; no evidence of active infection.
+   - Plan: Education on when to seek care for recurrent symptoms.
+
+8. **Contraception**
+   - On OCPs prior to admission.
+   - Plan: Discuss risk/benefit of OCPs in context of recent cardiac event; follow up with GYN.
+
+----------------------------------------------------------------------
+HOSPITAL MEDICATION ADMINISTRATION RECORD (partial)
+
+| Medication                    | Dose/Route/Frequency         | Start Date | End Date   | Comment                      |
+|-------------------------------|------------------------------|------------|------------|------------------------------|
+| Furosemide                    | 40 mg IV Q12h                | 5/24/24    | 5/29/24    | Switched to PO on HD 7       |
+| Norepinephrine                | 0.12-0.18 mcg/kg/min IV      | 5/24/24    | 5/27/24    | Weaned off after LVAD stable |
+| Heparin infusion              | titrated IV                  | 5/24/24    | 5/31/24    | For Impella anticoagulation  |
+| Ceftriaxone                   | 1g IV Q24h                   | 5/24/24    | 5/26/24    | Empiric, stopped after neg cx|
+| Acetaminophen                 | 650 mg PO Q6h PRN            | 5/24/24    | 6/2/24     | Pain/fever                   |
+| Carvedilol                    | 3.125 mg PO BID              | 6/3/24     | ongoing    | Initiated after stabilization|
+| Lisinopril                    | 2.5 mg PO daily              | 6/4/24     | ongoing    | GDMT                         |
+
+----------------------------------------------------------------------
+IMAGING (selected)
+
+- CXR 5/24/24: Pulmonary edema, prominent vascular markings, mild cardiomegaly.
+- TTE 5/24/24: LVEF 18%, severe global hypokinesis, mild MR.
+- TTE 5/29/24: LVEF 29%, improvement in wall motion.
+- TTE 6/3/24: LVEF 37%, mild MR, no pericardial effusion.
+
+----------------------------------------------------------------------
+DISCHARGE CONDITION
+
+- Ambulating independently, euvolemic, stable on oral meds, Cr at baseline, LFTs improved. No chest pain or SOB. 
+
+----------------------------------------------------------------------
+FOLLOW-UP
+
+- Heart Failure Clinic: 1 week
+- Cardiology: 2 weeks (repeat TTE)
+- Primary Care: 2 weeks
+- GYN: Contraception counseling
+
+----------------------------------------------------------------------
+PHYSICIAN ATTESTATION
+
+Signed: J. Stimson, MD
+Date/Time: 2024-06-08 15:41
+
+----------------------------------------------------------------------
+
+```

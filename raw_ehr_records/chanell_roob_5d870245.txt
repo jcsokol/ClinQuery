@@ -1,0 +1,153 @@
+```
+----------------------------------------------------------
+Epic EHR - Inpatient Progress Note
+----------------------------------------------------------
+
+Patient Name: Chanell Roob  
+MRN: 00493822  
+DOB: 1967-07-04 (Age: 56)  
+Sex: Female  
+Admit Date: 2024-05-12  
+Attending: Dr. S. Patel  
+Consults: Cardiology, Critical Care, Oncology  
+Note Date: 2024-05-18  
+Location: MICU, Bed 4
+
+----------------------------------------------------------
+CHIEF COMPLAINT
+----------------------------------------------------------
+Shortness of breath, chest discomfort, and progressive fatigue
+
+----------------------------------------------------------
+HOSPITAL COURSE SUMMARY
+----------------------------------------------------------
+Ms. Roob is a 56-year-old female with a history of breast cancer (s/p L mastectomy, on tamoxifen until 2022, now in remission), recurrent sinusitis, prior miscarriage, and remote E. coli UTI, who presented with acute-on-chronic dyspnea and chest pain. She was found to be in acute decompensated heart failure (new diagnosis, presumed non-ischemic), complicated by cardiogenic shock requiring the placement of a temporary left ventricular assist device (Impella CP) for circulatory support. She was admitted to the MICU for management.
+
+Hospital Day 1-2: Presented to ED with severe SOB, hypotension (SBP 80s), tachycardia (HR 120), SpO2 91% on RA. CXR with mild pulm edema. Troponin mildly elevated (0.08 → 0.13), BNP 2500 pg/mL. Echo: LVEF 18%, global hypokinesis, no valvular vegetations. Started on norepinephrine, diuresed with IV furosemide, and transferred to ICU.  
+Hospital Day 3: Worsening shock, escalating pressor needs, oliguric. Cardiology consulted, Impella CP placed at bedside.  
+Hospital Day 4-6: Gradual stabilization, weaned off pressors, slow diuresis.  
+Hospital Day 7: Impella removed. Now on low-dose dobutamine. Extubated on HD8.  
+Hospital Day 8-9: Continued improvement, transitioned to oral HF regimen.
+
+----------------------------------------------------------
+PAST MEDICAL HISTORY
+----------------------------------------------------------
+- Malignant neoplasm of breast (left, s/p mastectomy 2021, in remission)
+- Chronic sinusitis
+- Multiple viral URIs
+- History of miscarriage (1st trimester)
+- Prior E. coli UTI (2022)
+- Acute bronchitis (multiple episodes)
+- No known CAD, no DM, no CKD
+
+----------------------------------------------------------
+MEDICATIONS ON ADMISSION
+----------------------------------------------------------
+- Hydrocortisone 10 MG/ML Topical Cream (PRN)
+- Loratadine 10 MG PO daily
+- EpiPen (PRN)
+- Ferrous sulfate 325 MG PO daily
+- Acetaminophen 325 MG PO PRN
+- Dextromethorphan/Acetaminophen/Doxylamine syrup PRN
+- Nitrofurantoin suspension (prior, not active)
+- Phenazopyridine (prior, not active)
+
+NEW/ACTIVE INPATIENT MEDS:
+- Furosemide IV 40 mg BID
+- Norepinephrine IV (ICU days 1-3)
+- Dobutamine IV (ICU days 7-8)
+- Carvedilol 3.125 mg PO BID (initiated HD8)
+- Lisinopril 2.5 mg PO daily (initiated HD8)
+- Atorvastatin 20 mg PO daily
+
+----------------------------------------------------------
+ALLERGIES
+----------------------------------------------------------
+NKDA
+
+----------------------------------------------------------
+VITALS SUMMARY (SELECTED)
+----------------------------------------------------------
+| Date       | Temp | HR  | BP          | RR | SpO2 | Weight  |
+|------------|------|-----|-------------|----|------|---------|
+| 5/12/2024  | 36.9 | 122 | 82/56       | 26 | 91%  | 74 kg   |
+| 5/13/2024  | 37.1 | 116 | 88/60       | 24 | 94%  | 73 kg   |
+| 5/14/2024  | 36.6 | 104 | 95/68       | 18 | 97%  | 72.5 kg |
+| 5/15/2024  | 36.7 | 96  | 102/72      | 16 | 98%  | 72 kg   |
+| 5/17/2024  | 36.5 | 86  | 113/74      | 14 | 99%  | 71.8 kg |
+
+----------------------------------------------------------
+LABS - CBC, CHEM7, CARDIAC/LIVER MARKERS
+----------------------------------------------------------
+| Date      | WBC   | Hgb  | Hct  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  | Troponin | BNP    | AST  | ALT  |
+|-----------|-------|------|------|-------|------|------|------|------|------|------|------|----------|--------|------|------|
+| 5/12/24   | 9.2   | 14.4 | 41   | 398   | 135  | 4.7  | 104  | 21   | 19   | 1.1  | 108  | 0.08     | 2500   | 38   | 43   |
+| 5/13/24   | 11.6  | 13.7 | 39   | 352   | 133  | 4.9  | 102  | 19   | 28   | 1.4  | 114  | 0.13     | 2400   | 47   | 41   |
+| 5/14/24   | 10.1  | 13.2 | 38   | 341   | 134  | 4.4  | 103  | 20   | 21   | 1.2  | 120  | <0.01    | 2100   | 42   | 39   |
+| 5/15/24   | 8.1   | 12.9 | 36   | 311   | 136  | 4.3  | 105  | 22   | 18   | 1.0  | 99   | <0.01    | 1800   | 35   | 37   |
+| 5/17/24   | 7.6   | 12.3 | 34   | 288   | 137  | 4.2  | 106  | 24   | 15   | 0.9  | 88   | n/a      | 950    | n/a  | n/a  |
+
+*Some labs not drawn daily due to clinical improvement.
+
+----------------------------------------------------------
+ASSESSMENT & PLAN
+----------------------------------------------------------
+
+**1. Cardiogenic Shock, new systolic heart failure (EF 18%)**
+- Likely non-ischemic, possibly chemotherapy-induced (history of breast CA)
+- Required temporary mechanical circulatory support (Impella CP) due to refractory shock
+- Now improving, Impella removed HD7
+- Continue low-dose inotrope (dobutamine) wean, transition to oral HF regimen (carvedilol, lisinopril)
+- Diuresis as tolerated, monitor renal function, daily weights
+- Repeat TTE scheduled HD10
+- Strict I/Os, monitor for arrhythmias, daily labs
+
+**2. Breast Cancer (hx of L mastectomy, remission)**
+- Oncology following, no active chemo
+- Monitor for recurrence (no acute issues)
+
+**3. Anemia of chronic disease**
+- Mild drop in Hgb from baseline, multifactorial (HF, critical illness)
+- Monitor CBC, supplement Fe as needed
+
+**4. Recurrent sinusitis/chronic bronchitis**
+- No current infection, on allergy meds
+- Supportive care
+
+**5. Electrolyte derangements**
+- Mild hypokalemia (K nadir 4.2), repleted as needed
+- Monitor Mg, avoid QT-prolonging agents
+
+**6. AKI on CKD, resolved**
+- Creatinine peaked at 1.4 (baseline 1.0), now improving with improved perfusion
+- Monitor renal function, avoid nephrotoxins
+
+**7. Pain**
+- Mild, managed with acetaminophen PRN
+
+**8. DVT prophylaxis**
+- SCDs on, low-dose heparin initiated
+
+**9. Nutrition**
+- Regular diet, encourage PO intake
+
+**10. Disposition**
+- Anticipate transfer to step-down in 1-2 days if stable
+- Education on HF, close outpatient follow-up
+
+----------------------------------------------------------
+PROGRESS/NOTABLE EVENTS
+----------------------------------------------------------
+- Day 3: Cardiac arrest x1 (PEA, 2 min, ROSC), likely due to arrhythmia/shock, no residual neuro deficit
+- Day 4: Brief delirium, resolved with reorientation, off sedation
+- Day 6: Family meeting, advanced directives reviewed
+- Day 8: Extubated, tolerating oral meds
+
+----------------------------------------------------------
+SIGNATURES
+----------------------------------------------------------
+Dr. S. Patel, MD (Critical Care)      Date: 2024-05-18
+Dr. R. Ghosh, MD (Cardiology)         Date: 2024-05-18
+Dr. K. Yates, MD (Oncology)           Date: 2024-05-18
+----------------------------------------------------------
+```

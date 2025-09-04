@@ -1,0 +1,142 @@
+```
+-------------------------------------------------------------------------------
+EpicCare Inpatient - Progress Note - ICU
+-------------------------------------------------------------------------------
+Patient Name: Magda Harvey
+MRN: 00192837
+Date of Birth: 10/29/1992  (Age: 31)
+Sex: Female
+Attending: Dr. Patel, Cardiology
+Admit Date: 05/19/2024
+Service: Cardiac ICU
+-------------------------------------------------------------------------------
+Reason for Admission:
+31F with PMHx of chronic sinusitis, anemia, multiple pregnancies (complicated by preeclampsia), presenting at 36w1d gestation with acute-on-chronic dyspnea, chest pain, and syncope. Found to be in acute decompensated heart failure with evidence of cardiogenic shock. Required urgent placement of a temporary left ventricular assist device (Impella CP) for hemodynamic support.
+
+-------------------------------------------------------------------------------
+Hospital Course Summary:
+Pt presented from OB triage with progressive SOB, orthopnea, chest pain, and a syncopal episode at home. On arrival, tachypneic, tachycardic, BP 80/50, O2 sat 93% on 6L NC. EKG: sinus tach, no ST changes. Troponin mildly elevated, BNP 1,400. CXR: pulmonary edema. Bedside echo: severe LV systolic dysfunction (EF ~15-20%), moderate MR, RV function preserved. Rapid decompensation, requiring norepinephrine and dobutamine. Decision made for mechanical circulatory support: Impella CP placed via femoral approach on D1. Obstetrics consulted; emergent C-section performed on D2 due to worsening maternal status and non-reassuring fetal tracing. Post-op, continued on Impella x 4d with gradual wean. Complicated by AKI (Cr peak 2.1), anemia, and mild transaminitis. Impella removed D5, transitioned to guideline-directed medical therapy for HF. Extubated D3, off pressors D4. Transferred to step-down D7.
+
+-------------------------------------------------------------------------------
+Allergies:
+NKDA
+
+-------------------------------------------------------------------------------
+Current Medications:
+- Furosemide 40 mg IV BID
+- Labetalol 100 mg PO BID
+- Enalapril 2.5 mg PO daily (started D6)
+- Aspirin 81 mg PO daily
+- Mirena IUD (prior to admission)
+- Prenatal vitamins
+- Heparin SQ 5000u q8h (DVT prophylaxis)
+- Magnesium sulfate (perioperative, discontinued)
+- Multivitamin (daily)
+
+-------------------------------------------------------------------------------
+Review of Systems (abbreviated):
++Dyspnea, +orthopnea, +chest pain, +syncope, -fever, +edema, -cough, -hemoptysis, -abdominal pain, +nausea (perioperative), -vomiting, -dysuria.
+
+-------------------------------------------------------------------------------
+Physical Exam (ICU, Day 3):
+Gen: Appears fatigued, mild distress
+HEENT: Mucous membranes moist, nares clear
+Neck: JVD 8cm, no lymphadenopathy
+Cardiac: Tachycardic, S3 present, soft systolic murmur, Impella hum noted
+Lungs: Bibasilar crackles, decreased breath sounds LLL
+Abdomen: Soft, NT, post-C/S incision clean/dry/intact
+Extremities: Trace pitting edema BLE, pulses 2+
+Neuro: AOx3, follows commands
+
+-------------------------------------------------------------------------------
+Problem-Based Assessment & Plan
+
+1. **Acute Decompensated Heart Failure/Cardiogenic Shock (EF 15-20%)**
+   - Etiology likely peripartum cardiomyopathy vs. preeclampsia-related.
+   - Required Impella CP placement for hemodynamic stabilization (D1-5).
+   - Now improved, off inotropes and Impella.
+   - Echo D6: EF 28%, mild MR, no LV thrombus.
+   - Plan: Continue GDMT (BB, ACEi, diuresis), monitor for arrhythmia, daily weights, strict I/O.
+
+2. **Recent Cesarean Section (D2)**
+   - Non-reassuring fetal tracing, emergent C/S under general anesthesia.
+   - Post-op: Uterus involuting, incision healing, lochia appropriate.
+   - Plan: Continue wound care, monitor for infection, OB follow-up.
+
+3. **Anemia (Hx + hospital-acquired)**
+   - Baseline Hgb 10-11, nadir 7.8 post-op, transfused 1U PRBCs.
+   - Now stable (last Hgb 9.3).
+   - Plan: Monitor CBC, iron studies, minimize further phlebotomy.
+
+4. **Acute Kidney Injury (post-contrast, prerenal)**
+   - Cr rose to 2.1 (baseline ~0.7), now trending down (1.3).
+   - Likely multifactorial: shock, diuretics, contrast.
+   - Plan: Monitor renal function, avoid nephrotoxins, adjust meds as needed.
+
+5. **Mild Transaminitis**
+   - AST/ALT peaked at 120/105 (likely ischemic hepatitis), now downtrending.
+   - Plan: Monitor LFTs, supportive care.
+
+6. **Chronic Sinusitis**
+   - No acute symptoms, no antibiotics needed.
+
+7. **Preeclampsia (remote, resolved)**
+   - Postpartum, no current hypertensive urgency/emergency.
+
+8. **Contraception**
+   - Mirena IUD in situ, not addressed this admission.
+
+9. **Other**
+   - DVT prophylaxis (heparin SQ), SCDs.
+   - PT/OT evaluating for post-ICU weakness.
+
+-------------------------------------------------------------------------------
+LABS (selected, see chart for full data)
+
+| Date        | WBC   | Hgb  | Plt   | Na   | K    | Cl   | CO2  | BUN  | Cr   | AST  | ALT  | BNP   | Trop  |
+|-------------|-------|------|-------|------|------|------|------|------|------|------|------|-------|-------|
+| 5/19/24 AM  | 12.3  | 10.2 | 388   | 134  | 4.5  | 100  | 22   | 18   | 0.8  | 41   | 38   | 1400  | 0.06  |
+| 5/19/24 PM  | 13.5  | 9.1  | 376   | 132  | 4.7  | 99   | 21   | 23   | 1.2  | 63   | 45   |       | 0.08  |
+| 5/20/24     | 11.2  | 8.5  | 355   | 130  | 5.2  | 98   | 20   | 32   | 1.9  | 120  | 105  | 2000  | 0.09  |
+| 5/21/24     | 10.1  | 7.8  | 342   | 132  | 4.8  | 102  | 24   | 29   | 2.1  | 98   | 82   |       |       |
+| 5/22/24     | 9.8   | 8.9  | 321   | 135  | 4.4  | 101  | 25   | 23   | 1.7  | 65   | 55   | 1100  | 0.05  |
+| 5/23/24     | 9.2   | 9.3  | 318   | 136  | 4.0  | 102  | 25   | 19   | 1.3  | 41   | 39   | 820   |       |
+| 5/24/24     | 8.8   | 9.5  | 310   | 138  | 3.9  | 104  | 26   | 15   | 1.1  | 34   | 28   | 570   | <0.01 |
+| 5/25/24     | 8.5   | 9.3  | 295   | 140  | 4.2  | 103  | 27   | 13   | 0.9  |      |      | 380   |       |
+
+*Some values not collected daily or not resulted.
+
+-------------------------------------------------------------------------------
+Vital Signs (selected, ICU D1-5)
+- BP: 80s/50s on arrival, requiring norepi/dobutamine, improved to 100-110/60-70 by D3
+- HR: 110-130, improved to 90s
+- RR: 22-30, improved to 16-20
+- Temp: 36.8-37.9°C
+- O2: 93% on 6L NC → 97% on RA by D4
+-------------------------------------------------------------------------------
+Imaging/Procedures:
+- CXR (D1): Pulmonary edema, mild cardiomegaly
+- Echo (D1): EF 15-20%, mod MR, RV preserved
+- Echo (D6): EF 28%, mild MR
+- Impella CP placed (D1), removed (D5)
+- C/S (D2), no surgical complications
+
+-------------------------------------------------------------------------------
+Consults:
+- Cardiology (primary)
+- Maternal-Fetal Medicine/OB (perioperative)
+- Nephrology (AKI, resolved)
+- PT/OT (ongoing)
+
+-------------------------------------------------------------------------------
+Discharge Planning:
+- Anticipate transfer to step-down today or tomorrow
+- Home with family support, f/u with Cardiology, OB, and PCP
+- Education: HF symptoms, med adherence, contraception
+
+-------------------------------------------------------------------------------
+Attending: Dr. Patel, MD
+ICU Fellow: Dr. S. Nguyen
+Date/Time: 5/25/2024 08:14
+-------------------------------------------------------------------------------
+```

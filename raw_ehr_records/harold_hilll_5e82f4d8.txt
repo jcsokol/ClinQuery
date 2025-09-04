@@ -1,0 +1,208 @@
+---
+**Patient Name:** Harold Hilll  
+**MRN:** [Redacted]  
+**DOB:** 03/24/1993  
+**Sex:** Male  
+**Admit Date:** 2024-04-13  
+**Attending:** Dr. K. Adams  
+**Location:** MICU, Bed 7  
+**Consults:** Cardiology, Infectious Disease, PT/OT  
+**Allergies:** NKDA  
+**Code Status:** Full Code  
+**Height:** 172 cm  
+**Weight:** 81 kg  
+**BMI:** 27.3 kg/m2  
+
+---
+
+### Chief Complaint
+Progressive dyspnea, orthopnea, lower extremity edema.
+
+---
+
+### HPI
+Mr. Harold Hilll is a 31-year-old male with a history of acute viral pharyngitis and recent right ankle sprain, presenting with 1 week of worsening shortness of breath, orthopnea, and bilateral leg swelling. He initially attributed symptoms to his viral illness and limited mobility. On the day of admission, he developed acute chest discomfort and near-syncope. EMS noted hypotension (SBP 72 mmHg), tachycardia, and hypoxia. He was emergently transferred to the ICU for presumed cardiogenic shock.  
+
+Past 24 hours:  
+- Intubated for hypoxemic respiratory failure  
+- Started on norepinephrine, dobutamine  
+- Bedside echo: severe global LV dysfunction, LVEF ~15%, moderate MR, RV mildly reduced  
+- Emergent placement of percutaneous LVAD (Impella CP) due to refractory shock  
+
+---
+
+### Past Medical History
+- Acute viral pharyngitis (self-limited, multiple episodes)
+- Right ankle sprain (recent, immobilized)
+- No prior cardiac history
+- No DM, HTN, CKD, or known hyperlipidemia
+
+### Past Surgical History
+- None
+
+### Family History
+- No known premature CAD or sudden cardiac death
+- Father: healthy, age 61
+- Mother: hypothyroidism
+
+### Social History
+- Lives alone, works as accountant
+- Denies tobacco, rare EtOH, no illicit drug use
+
+---
+
+### Medications on Admission
+- Naproxen sodium 220 mg PRN (for ankle sprain)
+- No home cardiac meds
+
+---
+
+### ICU Course Summary
+
+**Day 0 (Admission):**  
+- Profound shock, intubation, started on vasopressors/inotropes  
+- Bedside echo: severe LV dysfunction, likely viral myocarditis  
+- Emergent Impella CP placed for hemodynamic support  
+- Central venous and arterial lines placed  
+- Empiric antibiotics started (ceftriaxone, azithromycin) pending further workup  
+
+**Day 1-3:**  
+- Gradual improvement in MAP, weaning of pressors  
+- Persistent lactic acidosis, rising LFTs (ischemic hepatitis pattern)  
+- Repeat echo: ongoing severe LV dysfunction  
+- Troponin peaked at 22.1 ng/mL, CK-MB elevated  
+- ID consulted for viral myocarditis workup: coxsackie B IgM+, influenza/RSV/adenovirus negative  
+- Developed AKI (Cr max 2.1), likely pre-renal  
+- Mild transaminitis, INR peaked at 2.2  
+
+**Day 4-6:**  
+- Clinical improvement: extubated on day 5  
+- Impella weaned and explanted on day 6  
+- Vasopressors off, MAP stable  
+- Renal function improving, LFTs trending down  
+- Mobilized with PT/OT  
+- Echo: LVEF improving to 28%  
+- Transferred to step-down on day 7  
+
+---
+
+## Problem List & Assessment/Plan
+
+### 1. Cardiogenic Shock (Presumed Fulminant Viral Myocarditis)
+- Severe LV dysfunction, requiring temporary mechanical circulatory support (Impella CP)
+- Etiology: likely viral (coxsackie B serology positive)
+- **Plan:**  
+  - Continue guideline-directed medical therapy for heart failure (beta-blocker, ACEi as tolerated)
+  - Cardiology f/u, consider cardiac MRI as outpatient
+  - Monitor for arrhythmias, optimize volume status
+  - Serial echos to trend recovery
+
+### 2. Acute Hypoxemic Respiratory Failure
+- Intubated for 3 days, now extubated and on nasal cannula
+- **Plan:**  
+  - Pulmonary toilet, incentive spirometry
+  - Monitor for re-intubation risk  
+  - Early mobilization
+
+### 3. Acute Kidney Injury (pre-renal, multifactorial)
+- Cr peaked at 2.1, now 1.3
+- Improved with volume/afterload optimization
+- **Plan:**  
+  - Monitor UOP, daily BMP
+  - Avoid nephrotoxins
+
+### 4. Ischemic Hepatitis
+- Transaminitis (AST/ALT >2000), INR 2.2, now improving
+- **Plan:**  
+  - Supportive care, monitor coags
+  - No hepatotoxic meds
+
+### 5. Right Ankle Sprain
+- Immobilized, mild edema
+- **Plan:**  
+  - Resume PT/OT as tolerated
+  - Continue naproxen PRN, monitor for GI/renal toxicity
+  - DVT prophylaxis
+
+### 6. Acute Viral Pharyngitis (resolved)
+- Supportive care, no current symptoms
+
+### 7. Pain Management
+- Mild pain (2/10), ankle
+- **Plan:**  
+  - Naproxen PRN
+  - Reassess daily
+
+### 8. Nutrition/Other
+- Diet advanced as tolerated
+- Thiamine, MVI daily
+
+---
+
+## ICU Labs
+
+| Date/Time         | WBC   | Hgb   | Hct   | Plt   | Na    | K     | Cl    | CO2   | BUN   | Cr    | Glu   | AST   | ALT   | ALP   | T. Bili | Troponin I | CK-MB |
+|-------------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|---------|------------|-------|
+| 4/13 05:10 (ER)   | 10.2  | 15.1  | 44.1  | 208   | 138   | 4.8   | 102   | 20    | 18    | 1.1   | 130   | 41    | 37    | 84    | 1.3     | 18.2       | 55    |
+| 4/13 19:00 (ICU)  | 13.8  | 13.2  | 39.2  | 172   | 134   | 5.7   | 100   | 15    | 28    | 1.6   | 182   | 2112  | 1998  | 122   | 2.9     | 22.1       | 167   |
+| 4/14 06:45        | 12.5  | 12.7  | 37.8  | 156   | 137   | 4.4   | 104   | 19    | 31    | 2.1   | 112   | 1983  | 1912  | 111   | 2.1     | 12.8       | 99    |
+| 4/15 08:00        | 10.8  | 13.1  | 39.9  | 163   | 140   | 4.1   | 103   | 22    | 24    | 1.7   | 96    | 872   | 766   | 94    | 1.1     | 7.4        | 61    |
+| 4/16 09:00        | 8.9   | 13.8  | 41.3  | 188   | 142   | 3.9   | 101   | 24    | 18    | 1.3   | 99    | 312   | 290   | 88    | 0.8     | 2.5        | 23    |
+| 4/17 08:30        | 7.7   | 14.0  | 42.0  | 199   | 141   | 4.0   | 103   | 25    | 15    | 1.2   | 104   | 61    | 49    | 83    | 0.6     | <0.04      | 7     |
+| 4/18 07:15        | 8.2   | 14.2  | 42.8  | 201   | 139   | 4.2   | 105   | 26    | 13    | 1.1   | 108   | 41    | 45    | 85    | 0.6     | <0.04      | 5     |
+| 4/19 10:00        | 8.1   | 14.1  | 42.5  | 203   | 137   | 4.1   | 104   | 25    | 12    | 1.0   | 112   | 39    | 41    | 82    | 0.5     |            |       |
+
+*Note: Some values missing due to hemolysis or not collected.*
+
+---
+
+## Vitals (Selected)
+
+| Date/Time   | Temp (C) | HR  | BP          | RR  | SpO2   | Pain |
+|-------------|----------|-----|-------------|-----|--------|------|
+| 4/13 05:20  | 37.8     | 132 | 72/48 (MAP 56) | 28  | 89% RA | 2    |
+| 4/13 19:30  | 37.1     | 119 | 92/62 (MAP 71) | 22  | 97% 2L  | 2    |
+| 4/14 07:00  | 37.2     | 101 | 105/70 (MAP 82) | 18  | 99% 2L  | 1    |
+| 4/15 08:10  | 36.9     | 88  | 118/76 (MAP 90) | 16  | 98% RA  | 1    |
+| 4/16 09:15  | 36.8     | 76  | 128/82 (MAP 97) | 14  | 99% RA  | 0    |
+| 4/17 08:45  | 36.7     | 71  | 130/80 (MAP 96) | 14  | 98% RA  | 0    |
+
+---
+
+## Imaging
+
+**Echocardiogram (4/13):**  
+- LVEF 15%, global hypokinesis  
+- Mildly reduced RV  
+- Moderate MR  
+- No pericardial effusion
+
+**CXR (4/13):**  
+- Pulmonary edema  
+- Mild cardiomegaly  
+- No consolidation
+
+---
+
+## Consults
+
+**Cardiology:** Guiding Impella placement, GDMT, device wean  
+**ID:** Viral myocarditis workup, coxsackie B positive  
+**PT/OT:** Mobilization post-ICU
+
+---
+
+## Discharge Planning
+
+- Anticipated transfer to acute rehab for deconditioning
+- Follow-up: Cardiology (2 weeks), PCP (1 week), outpatient echo (4 weeks)
+- Education: Heart failure, device care, medication adherence
+
+---
+
+**Signed:**  
+K. Adams, MD  
+Attending, Critical Care  
+Date/Time: 2024-04-19 14:27
+
+---

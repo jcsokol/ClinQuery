@@ -1,0 +1,190 @@
+**EHR SYSTEM: EPIC**  
+**PATIENT NAME:** Russel, Gabriele  
+**MRN:** 00847322  
+**DOB:** 04/23/1951  
+**SEX:** Female  
+**ADMIT DATE:** 05/14/2024  
+**ATTENDING:** Dr. L. McKinney, Cardiology  
+**HOSPITAL SERVICE:** Cardiac ICU  
+**ADMISSION DIAGNOSIS:** Acute decompensated heart failure (ADHF) with cardiogenic shock; Atrial Fibrillation with RVR; Dementia (familial early onset Alzheimer’s); Acute kidney injury  
+**CODE STATUS:** Full  
+---
+
+## CHIEF COMPLAINT
+Shortness of breath, confusion, and weakness for 3 days.
+
+---
+
+# HISTORY OF PRESENT ILLNESS
+
+71-year-old female with PMHx significant for atrial fibrillation (on warfarin and digoxin), osteoarthritis of the hip, early onset familial Alzheimer’s dementia, and prior rotator cuff injury, presented to the ED with worsening dyspnea, orthopnea, and progressive confusion. Daughter reports decreased oral intake, productive cough, and increased lethargy. Noted to be tachycardic and hypoxic on arrival. CXR: pulmonary edema. ECG: Afib with RVR. Initial troponin mildly elevated. BUN/Cr uptrending. BNP 2430 pg/mL. Initial TTE: severely reduced LVEF (~18%), global hypokinesis, moderate MR.  
+
+Worsening hemodynamics despite diuresis and rate control. Developed hypotension and progressive oliguria. Required transfer to CICU for escalating vasopressor support. Due to persistent cardiogenic shock, decision made for placement of percutaneous left ventricular assist device (Impella CP) on hospital day 2.
+
+---
+
+# HOSPITAL COURSE
+
+**Day 1:**  
+Admitted to CICU, started on BiPAP, furosemide drip, and diltiazem. Warfarin held for INR 3.1. Developed hypotension (BP 82/54), MAP <60. Started norepinephrine.  
+
+**Day 2:**  
+Worsening renal function (Cr 2.8 from baseline 1.0), rising lactate (4.1 mmol/L), persistent low output state. Family meeting. Placed Impella CP for temporary LV support. Hemodynamics improved.  
+
+**Day 3-6:**  
+Gradual wean off vasopressors. Urine output improved, but still some confusion and mild delirium. Weaned to high-flow nasal cannula. Developed mild transaminitis and thrombocytopenia. Serial TTE: LVEF improved to 26%. Impella weaned and removed day 6.  
+
+**Day 7-10:**  
+Stable on oral HF regimen (metoprolol, low-dose lisinopril, spironolactone). Rate controlled. Out of bed with PT. Renal function recovering. Plan for SNF placement.
+
+---
+
+# PAST MEDICAL HISTORY
+
+- Atrial fibrillation (on warfarin, digoxin, verapamil)
+- Early onset familial Alzheimer’s disease
+- Osteoarthritis (hip)
+- Prior miscarriage (first trimester)
+- Rotator cuff tendon injury (right, remote)
+- Recent acute bronchitis, viral sinusitis
+
+# PAST SURGICAL HISTORY
+
+- Right rotator cuff repair, 2011
+- Left total hip arthroplasty, 2019
+
+# ALLERGIES
+
+- NKDA
+
+# MEDICATIONS ON ADMISSION
+
+- Warfarin 5mg PO QD
+- Digoxin 0.125mg PO QD
+- Verapamil 40mg PO BID
+- Naproxen 220mg PO PRN
+- Acetaminophen/dextromethorphan/doxylamine solution PRN
+- Amox/clav 250/125mg PO BID (recent, for bronchitis)
+- Galantamine 4mg PO QD
+
+# SOCIAL HISTORY
+
+- Lives with daughter
+- Widowed
+- Former smoker (quit 1987)
+- No EtOH, no illicit drugs
+
+# FAMILY HISTORY
+
+- Mother: Alzheimer’s (deceased age 62)
+- Father: MI age 54
+
+# REVIEW OF SYSTEMS
+
+Unable to obtain reliable ROS due to dementia. Family notes:  
+- Dyspnea, cough, confusion, decreased appetite  
+- No fevers, no chest pain, no hemoptysis  
+
+# PHYSICAL EXAM (Day 2, CICU)
+
+- **Gen:** Elderly female, somnolent but arousable
+- **VS:** T 37.1°C, BP 86/49 (on norepi), HR 124 (Afib), RR 22, SpO2 95% (HFNC 40% FiO2)
+- **CV:** Irregularly irregular, S3 gallop, cool extremities, JVD 12cm, 2+ pitting edema
+- **Pulm:** Bibasilar rales, diminished breath sounds
+- **Neuro:** Oriented x1, follows simple commands
+- **Abd:** Soft, NT/ND
+- **MSK:** Limited ROM right shoulder, left hip prosthesis
+
+---
+
+# LABORATORY DATA
+
+**CBC & CHEMISTRY**  
+| Date       | WBC   | Hgb  | Hct | Plt  | Na   | K    | Cl   | CO2 | BUN  | Cr   | Glu  |
+|------------|-------|------|-----|------|------|------|------|-----|------|------|------|
+| 5/14/24    | 5.2   | 16.9 | 35  | 410  | 136  | 3.7  | 101  | 22  | 38   | 1.8  | 122  |
+| 5/15/24    | 6.8   | 15.7 | 32  | 352  | 132  | 4.1  | 98   | 18  | 48   | 2.3  | 108  |
+| 5/16/24    | 7.2   | 14.9 | 30  | 266  | 130  | 4.5  | 97   | 15  | 56   | 2.8  | 113  |
+| 5/17/24    | 6.0   | 13.5 | 28  | 221  | 134  | 4.0  | 99   | 19  | 41   | 2.1  | 104  |
+| 5/18/24    | 5.3   | 12.8 | 26  | 174  | 137  | 4.2  | 101  | 21  | 33   | 1.6  | 98   |
+| 5/19/24    | 4.9   | 12.2 | 25  | 190  | 138  | 4.0  | 102  | 22  | 29   | 1.3  | --   |
+| 5/20/24    | --    | 11.6 | 23  | 210  | 138  | 3.8  | 103  | 24  | 24   | 1.1  | 102  |
+
+**CARDIAC BIOMARKERS & OTHER**
+- BNP: 2430 pg/mL (5/14/24)
+- Troponin I: 0.14 ng/mL (5/14/24), 0.11 ng/mL (5/15/24)
+- AST/ALT: 72/44 U/L (5/16/24), trending down
+- INR: 3.1 (on admit), 2.7 (5/16/24), 2.1 (5/19/24)
+- Lactate: 4.1 mmol/L (5/15/24), normalized by 5/18/24
+- Albumin: 3.2 g/dL (5/15/24)
+- TSH: 2.8 (w/u for confusion)
+
+---
+
+# IMAGING
+
+- **CXR (5/14/24):** Pulmonary edema, small bilateral effusions
+- **TTE (5/14/24):** LVEF 18%, severe diffuse hypokinesis, moderate MR, mild TR
+- **TTE (5/19/24):** LVEF 26%, improved, Impella in situ
+
+---
+
+# ASSESSMENT & PLAN
+
+**1. Cardiogenic Shock / ADHF (EF 18%)**
+   - Required Impella CP for LV support (day 2-6)
+   - Ongoing HF management: diuresis, ACEi, BB, spironolactone
+   - Monitor volume status, electrolytes, renal function
+   - Plan: TTE prior to discharge, adjust meds for recovery
+
+**2. Atrial Fibrillation, rate control**
+   - On digoxin, transitioned verapamil → metoprolol after stabilization
+   - Anticoagulation: warfarin resumed after INR <2.5
+   - Monitor for recurrence of RVR
+
+**3. Acute Kidney Injury (AKI)**
+   - Likely pre-renal, improved with volume optimization
+   - Daily BMP, monitor for further rise in Cr
+
+**4. Dementia (familial early onset)**
+   - Baseline MMSE 18/30
+   - Confusion worsened with acute illness, some delirium
+   - Reorientation, minimize sedatives
+
+**5. Transaminitis / Thrombocytopenia**
+   - Likely secondary to shock liver, Impella
+   - Trending down, monitor LFTs and platelets
+
+**6. Osteoarthritis (hip)**
+   - Pain controlled, PT to assist with mobility
+
+**7. Rotator cuff injury (remote)**
+   - No acute issues
+
+**8. Recent bronchitis, sinusitis**
+   - Completed antibiotics, no ongoing infection
+
+**9. Disposition**
+   - Plan for SNF placement with PT/OT, close cardiology follow-up
+
+---
+
+# ORDERS & CONSULTS
+
+- Continue HF regimen (metoprolol, lisinopril, spironolactone)
+- Resume warfarin, target INR 2-3
+- PT/OT eval
+- Diet: Cardiac, 2g Na
+- Case management for SNF placement
+- Serial labs: CBC, CMP, BNP, LFTs
+- Telemetry
+
+---
+
+**Signed:**  
+L. McKinney, MD  
+Cardiology/Critical Care
+
+---
+
+**END OF NOTE**

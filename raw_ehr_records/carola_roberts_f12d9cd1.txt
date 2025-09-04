@@ -1,0 +1,222 @@
+**Patient:** Carola Roberts  
+**MRN:** 00928473  
+**DOB:** 10/18/1947  
+**Sex:** Female  
+**Attending:** Dr. S. Mendoza  
+**Consultants:** Cardiology, Endocrinology, Infectious Disease  
+**Admit Date:** 04/17/2024  
+**Service:** MICU  
+**Hospital Day:** 9  
+**Note Type:** Progress Note  
+**Date/Time:** 04/25/2024 08:12
+
+---
+
+### CHIEF COMPLAINT
+Shortness of breath, chest discomfort, hypotension
+
+---
+
+### HISTORY OF PRESENT ILLNESS
+
+Carola Roberts is a 76-year-old female with a history of hypertension, hypothyroidism, prediabetes, osteoporosis, and chronic anemia who presented to the ED with acute onset dyspnea, orthopnea, and chest tightness. She reported 3 days of worsening lower extremity edema and paroxysmal nocturnal dyspnea. She denied fever or cough. In the ED, she was found to be hypotensive (BP 84/62), tachycardic (HR 112), and hypoxic (SpO2 88% on RA). CXR showed pulmonary edema. Troponin was mildly elevated. She rapidly deteriorated with worsening hypoxia and shock requiring ICU transfer.
+
+She was started on norepinephrine and furosemide. Echo revealed severe global LV dysfunction (EF 20%) with moderate MR, no tamponade, RV function preserved. Cardiology was consulted, and she was emergently placed on a percutaneous left ventricular assist device (Impella CP) for cardiogenic shock. She was intubated for airway protection and oxygenation. She is now on day 7 of Impella support and has had gradual improvement in end organ perfusion and urine output. She remains in the MICU.
+
+---
+
+### PAST MEDICAL HISTORY
+- Hypertension
+- Idiopathic atrophic hypothyroidism
+- Prediabetes
+- Osteoporosis
+- Chronic anemia (likely multifactorial)
+- Streptococcal pharyngitis (remote)
+- Hx of 1st trimester miscarriage (remote)
+- Acute viral sinusitis and pharyngitis (remote)
+- 1st degree burn (remote)
+
+---
+
+### PAST SURGICAL HISTORY
+- None
+
+---
+
+### FAMILY HISTORY
+- Mother: DM2, osteoporosis
+- Father: MI at 72
+- Sister: breast Ca
+
+---
+
+### SOCIAL HISTORY
+- Lives alone, retired school teacher
+- No tobacco, no ETOH, no illicit drugs
+- Widowed, 2 adult children
+
+---
+
+### MEDICATIONS ON ADMISSION
+- Atenolol/chlorthalidone 50/25 mg daily
+- Naproxen sodium 220 mg prn
+- Levothyroxine 75 mcg daily
+- Alendronate 10 mg daily
+
+---
+
+### ALLERGIES
+- NKDA
+
+---
+
+### REVIEW OF SYSTEMS
+Unable to obtain due to intubation/sedation.
+
+---
+
+### PHYSICAL EXAM (04/25/2024 07:50)
+- **Gen:** Intubated, sedated, appears frail
+- **VS:** T 37.1°C, BP 96/54 (MAP 65), HR 95, RR 18 (vent), SpO2 98% (FiO2 35%)
+- **HEENT:** Normocephalic, PERRL, oral ETT in place
+- **Neck:** JVP elevated ~10 cm
+- **CV:** S1/S2, tachycardic, no murmurs (difficult to auscultate), Impella hum
+- **Lungs:** Bibasilar crackles, diminished at bases
+- **Abd:** Soft, NT, mild hepatomegaly
+- **Ext:** 2+ pitting edema BLE, cool peripheries
+- **Neuro:** Moves all extremities to painful stim, nonverbal
+
+---
+
+## LABS/DIAGNOSTICS
+
+#### TABLE 1: CBC/CHEM7 (Selected)
+
+| Date        | WBC  | Hgb  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|-------------|------|------|------|------|------|------|------|------|------|------|
+| 4/17 06:30  | 5.1  | 13.2 | 172  | 134  | 4.8  | 100  | 19   | 29   | 1.32 | 113  |
+| 4/18 07:10  | 4.6  | 12.9 | 160  | 137  | 4.2  | 101  | 22   | 33   | 1.16 | 102  |
+| 4/19 08:20  | 4.3  | 12.2 | 145  | 139  | 4.0  | 99   | 23   | 28   | 1.04 | 100  |
+| 4/20 07:55  | 4.7  | 11.8 | 149  | 138  | 4.3  | 100  | 23   | 24   | 0.97 | 96   |
+| 4/21 09:00  | 4.9  | 12.5 | 153  | 137  | 4.5  | 100  | 22   | 20   | 0.93 | 92   |
+| 4/22 08:15  |      | 11.3 | 148  |      |      |      | 24   | 18   | 0.82 |      |
+| 4/23 08:10  | 4.2  | 11.1 | 142  | 136  | 4.6  | 102  | 25   | 16   | 0.79 | 89   |
+| 4/24 09:20  | 4.6  | 11.6 |      | 137  | 4.4  |      | 24   |      | 0.81 | 90   |
+| 4/25 06:45  | 4.7  | 12.0 | 151  | 137  | 4.4  | 101  | 23   | 19   | 0.77 | 94   |
+
+#### SELECTED ADDITIONAL LABS
+
+- Troponin I: 0.12 → 0.18 → 0.17 (peaked 4/17)
+- BNP: 2560 pg/mL (4/17)
+- LFTs: AST 61, ALT 48, Total bili 1.4 (4/18)
+- Lactate: 3.6 (4/17), 1.9 (4/18)
+- TSH: 3.1 (4/19)
+- FT4: 0.21 (4/19)
+- Ca: 9.6-9.9 (stable)
+- Mg: 1.7-2.0
+- PT/INR: 1.1 (4/17)
+
+#### MICROBIOLOGY
+
+- COVID-19 PCR: Negative
+- Blood cx x2: no growth
+- Sputum cx: no growth
+
+#### IMAGING
+
+- CXR 4/17: Pulmonary edema, mild cardiomegaly
+- Echo 4/17: Severe global LV dysfunction (EF 20%), mod MR, RV preserved, no tamponade
+- Renal US: Mildly increased echogenicity, no hydronephrosis
+
+---
+
+## ASSESSMENT & PLAN
+
+**76F with HTN, hypothyroidism, prediabetes, osteoporosis, chronic anemia, presenting with acute decompensated heart failure, cardiogenic shock, requiring temporary LVAD (Impella) and intubation. Improving but remains critically ill.**
+
+---
+
+### 1. **Cardiogenic Shock / Acute Decompensated Heart Failure**
+- Likely ischemic or demand-related, possible underlying chronic cardiomyopathy.
+- Placed on Impella CP 4/17 for refractory shock.
+- Weaning pressors (now off norepinephrine x2 days).
+- LV function slightly improved on bedside echo (EF ~28%).
+- Plan: Continue Impella support, monitor hemodynamics. Daily TTE. Cardiology to reassess for explant vs. transition to durable device if no further recovery.
+
+### 2. **Acute Hypoxic Respiratory Failure**
+- Intubated for airway protection/O2ation.
+- On low vent settings, FiO2 35%, PEEP 8.
+- Plan: SATs daily, SBT tomorrow. Pulm to assess for extubation readiness.
+
+### 3. **Volume Overload / Renal Dysfunction**
+- Initial AKI (Cr 1.32 → 0.77). Now with improved urine output.
+- Diuresis with furosemide gtt, goal net -500 mL/day.
+- Monitor lytes, daily weights.
+
+### 4. **Chronic Anemia**
+- Hgb stable 11.1–12.9. No evidence of acute bleed.
+- Multifactorial (CKD, chronic disease, osteoporosis Rx).
+- Plan: Monitor, transfuse if <8 or symptomatic.
+
+### 5. **Hypothyroidism**
+- On levothyroxine. TSH 3.1, FT4 0.21 (low).
+- Plan: Continue home dose, repeat TSH/FT4 q7d.
+
+### 6. **Osteoporosis**
+- On alendronate. High risk for fracture.
+- Plan: Hold bisphosphonate while NPO. Vit D/Ca supplementation IV.
+
+### 7. **Prediabetes**
+- BG 89–113. No insulin needed.
+- Monitor q6h while NPO.
+
+### 8. **HTN**
+- Off PO agents, BP low/normal.
+- No IV antihypertensives needed.
+
+### 9. **Infection Prophylaxis**
+- No active infection. Blood/sputum cx neg.
+- VAP, CLABSI, CAUTI prevention bundles in place.
+
+### 10. **Delirium Prevention**
+- Off sedation holidays daily.
+- Family at bedside.
+
+### 11. **DVT Prophylaxis**
+- SCDs in place, SQ heparin BID.
+
+### 12. **Nutrition**
+- NPO for Impella, receiving tube feeds at goal rate.
+
+---
+
+## PROCEDURES
+
+- 4/17: Right femoral arterial Impella CP placement (cardiology)
+- 4/17: Right IJ triple lumen CVC placement
+- 4/17: Endotracheal intubation
+
+---
+
+## HOSPITAL COURSE SUMMARY
+
+- Day 1: Presents with acute decomp HF, shock. Impella/vent/pressors started.
+- Day 2-3: Worsening AKI, volume overload, improved after aggressive diuresis.
+- Day 4-7: Stable on Impella, off vasopressors, extubation planned.
+- Day 8-9: Ongoing improvement, considering Impella explant if stable.
+
+---
+
+## DISCHARGE PLANNING
+
+- PT/OT eval pending.
+- Cardiology f/u.
+- Social work consult for home safety.
+
+---
+
+**Cosigned by:** S. Mendoza, MD
+
+---
+
+**END OF NOTE**

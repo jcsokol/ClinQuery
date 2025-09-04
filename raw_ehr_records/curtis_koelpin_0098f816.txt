@@ -1,0 +1,191 @@
+---
+**Patient:** Curtis Koelpin  
+**MRN:** 00923458  
+**DOB:** 2002-07-09 (Age: 21)  
+**Sex:** Male  
+**Attending:** Dr. B. Yates  
+**Admit Date:** 2024-05-29  
+**Service:** Cardiac ICU  
+**Note Type:** ICU Progress Note  
+**Date/Time:** 2024-06-02 08:54  
+
+---
+
+### Chief Complaint:
+Acute decompensated heart failure with cardiogenic shock
+
+---
+
+### History of Present Illness:
+Curtis Koelpin is a 21-year-old male with a remote history notable for recurrent otitis media, viral sinusitis, acute bronchitis, and prior episodes of streptococcal pharyngitis. He was previously healthy and active, taking only occasional antibiotics and over-the-counter analgesics. He presented to the ED with 3 days of progressive dyspnea, orthopnea, and chest tightness, found to be hypoxic and hypotensive. Initial CXR showed pulmonary edema. Troponin mildly elevated; BNP 1840. Echo in ED showed severe global LV systolic dysfunction (EF 15%), mild RV dysfunction, no significant valvulopathy. He rapidly deteriorated to cardiogenic shock requiring intubation, vasopressors, and was transferred to the CICU.
+
+Due to ongoing hemodynamic instability despite maximal medical therapy (dobutamine, norepinephrine), he underwent emergent placement of a temporary percutaneous left ventricular assist device (Impella CP) on hospital day 1.
+
+---
+
+### Hospital Course (to date):
+
+- **HD 1:** Admitted to CICU. Intubated for hypoxic respiratory failure. Started on dobutamine, norepi, Lasix gtt. Impella CP placed for refractory cardiogenic shock.  
+- **HD 2:** Improved MAPs, weaned norepi, extubated. Mild AKI developed (Cr 1.6 from 0.9 baseline).  
+- **HD 3:** Impella support ongoing. Diuresis continued. Developed low-grade fever (Tmax 38.7°C). Blood cultures drawn.  
+- **HD 4:** Clinical stabilization. Impella flows adequate. AKI resolving.  
+- **HD 5:** Impella weaned and explanted. Transitioned to oral diuretics.  
+- **HD 6:** Ambulating. No recurrent arrhythmias. LFTs normalized. Awaiting cardiac MRI.
+
+---
+
+### Past Medical History:
+- Otitis media (remote, recurrent childhood)
+- Viral sinusitis (remote)
+- Acute bronchitis
+- Streptococcal pharyngitis
+
+### Past Surgical History:
+- None
+
+### Social History:
+- College student, lives with parents.
+- No tobacco, EtOH, or illicit drug use.
+- No recent travel.
+
+### Family History:
+- No known early cardiac disease, sudden death, or cardiomyopathies.
+
+---
+
+### Allergies:
+- No known drug allergies
+
+---
+
+### Home Medications:
+- None regularly. Occasional use of acetaminophen or ibuprofen for fever/pain.
+
+---
+
+### Medications (Current):
+- Dobutamine IV (weaned off HD 3)
+- Norepinephrine IV (weaned off HD 2)
+- Furosemide IV gtt, then switched to oral
+- Amoxicillin/clavulanate (empiric for possible infection, discontinued HD 4 after negative cultures)
+- Acetaminophen PRN
+- Aspirin 81mg daily
+
+---
+
+### Physical Exam (HD 6):
+- **Gen:** Alert, NAD
+- **VS:** T 37.6°C, HR 82, BP 110/69, RR 16, SpO2 98% RA
+- **HEENT:** Oropharynx clear, TMs normal
+- **CV:** RRR, soft S3, no murmurs/rubs/gallops
+- **Lungs:** Clear to ausc, no rales/wheezes
+- **Abd:** Soft, NT/ND
+- **Ext:** WNL, no edema
+- **Neuro:** AOx3, no focal deficits
+
+---
+
+## Laboratory Data
+
+#### CBC & Chemistries
+
+| Date       | WBC  | Hgb  | Hct  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Glu  |
+|------------|------|------|------|------|------|------|------|------|------|------|------|
+| 5/29/24    | 9.9  | 15.6 | 49.2 | 260  | 137  | 4.1  | 103  | 23   | 18   | 0.9  | 101  |
+| 5/30/24    | 12.1 | 14.8 | 46.0 | 233  | 134  | 4.8  | 101  | 20   | 27   | 1.6  | 116  |
+| 5/31/24    | 11.3 | 14.3 | 44.2 | 197  | 134  | 4.4  | 99   | 22   | 24   | 1.4  | 107  |
+| 6/1/24     |      | 14.7 |      | 185  | 136  |      | 102  |      | 20   | 1.2  |      |
+| 6/2/24     | 8.4  | 15.1 | 46.9 | 210  | 137  | 4.1  | 101  | 24   | 17   | 1.0  | 93   |
+
+#### Other Labs
+
+| Date       | BNP   | Troponin I | ALT  | AST  | Alk Phos | Total Bilirubin | Lactate | INR  | PTT  |
+|------------|-------|------------|------|------|----------|-----------------|---------|------|------|
+| 5/29/24    | 1840  | 0.13       | 54   | 71   | 90       | 1.8             | 2.6     | 1.3  | 36   |
+| 5/30/24    | 1290  | 0.08       | 41   | 57   | 80       | 1.3             | 1.7     | 1.2  | 32   |
+| 5/31/24    | 1020  | 0.05       | 35   | 39   | 75       | 1.0             | 1.1     |      |      |
+| 6/1/24     | 800   | <0.01      | 29   | 32   |          | 0.8             |         | 1.1  | 29   |
+| 6/2/24     | 600   | <0.01      | 26   | 28   | 70       | 0.7             | 0.8     | 1.0  |      |
+
+---
+
+### Microbiology
+- Blood cultures x2 (HD 3): Negative
+- Urine culture: Negative
+
+---
+
+### Imaging
+- **CXR (ED):** Pulmonary edema, mild cardiomegaly
+- **TTE (ED):** Global LV hypokinesis, EF 15%, mild RV dysfunction, no significant valve dz
+- **Cardiac MRI (pending):** Awaiting
+
+---
+
+### Procedures
+- Right IJ Cordis CVC (HD 1)
+- Left radial A-line (HD 1)
+- Impella CP placement (HD 1), explanted HD 5
+- Endotracheal intubation (HD 1), extubated HD 2
+
+---
+
+### Problem List & Assessment/Plan
+
+#### 1. Cardiogenic Shock (Resolved)
+- Likely acute myocarditis vs. idiopathic DCM; viral prodrome
+- Required Impella CP (HD 1–5), now explanted
+- Remains hemodynamically stable off pressors/inotropes
+- Plan: Await MRI, start GDMT if tolerated, monitor for HF recurrence
+
+#### 2. Acute Decompensated Systolic HF
+- Severe reduced EF (15% on TTE)
+- Aggressive diuresis, now euvolemic
+- Plan: Continue Lasix PO, consider ACEi/BB as tolerated, daily weights
+
+#### 3. Acute Kidney Injury (Resolved)
+- Likely prerenal, related to shock/diuresis
+- Creatinine peaked at 1.6, now back to baseline
+- Plan: Monitor renal function, maintain euvolemia
+
+#### 4. Transaminitis (Resolved)
+- Mild hepatic congestion/ischemia, improved with perfusion
+- LFTs trending down
+- Plan: Monitor
+
+#### 5. Fever/Leukocytosis (Resolved)
+- Tmax 38.7°C (HD 3), negative cultures, no source found
+- Likely secondary to device/procedures
+- Plan: No further abx
+
+#### 6. Recent Intubation/Mechanical Ventilation (Resolved)
+- Extubated HD 2, weaned O2, now on room air
+- Plan: Incentive spirometry, ambulation
+
+#### 7. Electrolyte Disturbances
+- Mild hyponatremia/hyperkalemia during AKI, resolved
+- Plan: Monitor BMP
+
+#### 8. Nutrition
+- NPO initially, now regular diet
+- Plan: Monitor intake, consider cardiac rehab
+
+#### 9. Disposition
+- Monitor for clinical stability
+- Await MRI, possible transfer to stepdown
+
+---
+
+### Discharge Planning
+- Anticipate transfer to telemetry within 24-48 hrs if stable
+- Cardiology, PT/OT, nutrition to follow
+
+---
+
+**Attending:** Dr. B. Yates  
+**Resident:** S. Venkataraman, MD  
+**Date/Time:** 2024-06-02 09:01
+
+---
+
+**(Additional details, flowsheets, and nursing notes available in chart review.)**

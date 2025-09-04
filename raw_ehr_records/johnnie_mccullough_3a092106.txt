@@ -1,0 +1,193 @@
+---
+**Patient Name:** Johnnie McCullough  
+**MRN:** 01027835  
+**DOB:** 06/20/1979  
+**Sex:** Male  
+**Admit Date:** 04/16/2024  
+**Attending:** Dr. L. Hernandez  
+**Consults:** Cardiology, Endocrinology, Infectious Disease  
+**Location:** MICU, Rm 6B  
+
+---
+
+## ICU Progress Note
+
+### Chief Complaint
+Acute decompensated heart failure, shock, and worsening dyspnea.
+
+### HPI
+Johnnie McCullough is a 44-year-old male with PMHx of type 2 DM (with neuropathy), metabolic syndrome, chronic sinusitis, anemia, and hypertriglyceridemia. He presented to the ED with 5 days of progressive dyspnea, orthopnea, and lower extremity edema. He was found to be hypoxic (SpO2 87% RA), febrile to 38.1°C, and hypotensive (BP 82/54). Initial labs showed acute kidney injury, elevated lactate, and troponin leak. CXR revealed pulmonary vascular congestion, and TTE showed severe LV dysfunction (EF 18%), global hypokinesis, and moderate MR. He was transferred to MICU for cardiogenic shock and required norepinephrine and dobutamine. Due to persistent shock and end-organ dysfunction, a percutaneous LV assist device (Impella CP) was placed on hospital day 1.
+
+---
+
+### Hospital Course Summary
+
+- **HD 1-2:** Persistent hypotension despite escalating vasoactive support. Impella placed with subsequent improvement in MAP and urine output.
+- **HD 3-4:** Diuresis initiated, volume status improved. Renal function slowly recovering. Developed fever, treated empirically for VAP.
+- **HD 5-6:** Impella weaned and explanted. Cardiac function remains severely depressed. Slow wean off pressors.
+- **HD 7+:** Continued management of heart failure, DM, and secondary infections. Endocrine consult for persistent hyperglycemia.
+
+---
+
+## Problem-Based Assessment & Plan
+
+### 1. Cardiogenic Shock / Acute Decompensated Heart Failure (EF 18%)
+- Etiology: Ischemic vs non-ischemic (likely multifactorial; no acute STEMI on EKG, troponin leak, metabolic syndrome).
+- **Course:** Required Impella CP for 5 days, now explanted. HD stable on minimal norepinephrine.
+- **Plan:**
+  - Continue GDMT (initiate low-dose carvedilol, spironolactone when stable)
+  - Serial ECHO to assess recovery
+  - Daily weights, strict I/Os, sodium restriction
+  - Cardiology f/u for advanced therapies (possible evaluation for durable LVAD if poor recovery)
+  - Continue VTE prophylaxis
+
+### 2. Acute Kidney Injury (KDIGO Stage 2)
+- Likely pre-renal from shock, possibly nephrotoxic agents.
+- **Course:** Creatinine peaked at 2.4, now downtrending (see labs).
+- **Plan:**
+  - Avoid nephrotoxins, monitor labs qAM
+  - Adjust meds for renal dosing
+  - Nephrology consult if worsening
+
+### 3. Type 2 Diabetes Mellitus (HgbA1c 7.1%)
+- Stress hyperglycemia on steroids and vasopressors.
+- **Plan:**
+  - Sliding scale insulin
+  - Endocrine consult for regimen adjustment
+  - Monitor for hypoglycemia
+
+### 4. Hospital-Acquired Pneumonia / VAP
+- Fever, CXR with infiltrates, sputum cultures pending.
+- **Plan:**
+  - Continue empiric pip/tazo & vanc
+  - De-escalate based on sensitivities
+  - Chest PT, early mobilization
+
+### 5. Anemia (Baseline Hgb ~13, dropped to 9.2 post-Impella)
+- Likely multifactorial: device-related hemolysis, phlebotomy, AKI.
+- **Plan:**
+  - Monitor Hgb
+  - Iron studies, retic count
+  - Transfuse if <7 or symptomatic
+
+### 6. Neuropathy (DM-related)
+- Numbness/tingling in feet, stable.
+- **Plan:**
+  - Continue gabapentin, foot care precautions
+
+### 7. Metabolic Syndrome / Hyperlipidemia
+- **Plan:**
+  - Statin therapy (hold if LFTs >3x ULN)
+  - Lifestyle counseling after discharge
+
+### 8. Chronic Sinusitis / Viral Sinusitis
+- Complaints of nasal congestion, no acute intervention needed.
+- **Plan:**
+  - Supportive care
+
+### 9. Forearm Laceration (HD 2, accidental during transfer)
+- Sutured, no signs of infection.
+- **Plan:**
+  - Daily dressing changes, monitor for cellulitis
+
+---
+
+## ICU Vitals (selected)
+
+| Date       | Temp (°C) | HR  | BP           | RR | SpO2 | Pain |
+|------------|-----------|-----|--------------|----|------|------|
+| 4/16/24    | 38.1      | 112 | 82/54        | 28 | 87   | 7    |
+| 4/17/24    | 37.9      | 110 | 92/61        | 24 | 92   | 5    |
+| 4/19/24    | 37.2      | 98  | 102/70       | 20 | 95   | 2    |
+| 4/21/24    | 36.8      | 86  | 116/74       | 18 | 97   | 1    |
+
+---
+
+## Laboratory Data
+
+| Date       | WBC   | Hgb  | Plt  | Na   | K    | Cl   | CO2  | BUN  | Cr   | Gluc | AST  | ALT  | Troponin | BNP   |
+|------------|-------|------|------|------|------|------|------|------|------|------|------|------|----------|-------|
+| 4/16/24    | 5.8   | 13.2 | 329  | 137  | 4.2  | 109  | 21   | 17   | 1.4  | 152  | 42   | 38   | 0.14     | 6087  |
+| 4/17/24    | 7.4   | 11.8 | 312  | 136  | 4.1  | 109  | 18   | 23   | 2.1  | 186  | 54   | 66   | 0.21     | 5972  |
+| 4/18/24    | 12.1  | 10.6 | 278  | 134  | 4.4  | 106  | 17   | 32   | 2.4  | 202  | 63   | 71   | 0.19     |       |
+| 4/19/24    | 10.6  | 9.2  | 244  | 137  | 4.0  | 110  | 20   | 24   | 1.8  | 173  | 49   |      | 0.11     | 5092  |
+| 4/20/24    | 7.2   | 9.6  | 220  | 138  | 3.9  | 111  | 23   | 19   | 1.7  |      | 35   | 40   | 0.07     | 4701  |
+| 4/21/24    | 6.2   | 10.1 | 238  | 139  | 4.1  | 113  | 24   | 18   | 1.5  | 139  | 29   | 36   | 0.06     | 4302  |
+
+---
+
+### Microbiology
+
+- Blood cx x2: Negative
+- Sputum: Pending (gram neg rods on stain)
+- Nasal swab: Rhinovirus positive
+
+---
+
+### Medications (Active)
+
+- Norepinephrine (tapering)
+- Dobutamine (weaned off HD 4)
+- Furosemide IV
+- Metoprolol (initiated HD 6)
+- Atorvastatin 40 mg PO QHS
+- Insulin sliding scale
+- Acetaminophen 325 mg PO PRN
+- Naproxen sodium 220 mg PO PRN
+- Pip/tazo IV
+- Vancomycin IV
+- Gabapentin 300 mg PO BID
+
+---
+
+### Disposition
+- Remains in MICU, close monitoring.
+- Plan for step-down unit when stable off vasoactives and after Impella explantation site is stable.
+
+---
+
+### To Do / Issues
+- Monitor for further arrhythmias, device complications
+- Daily labs, monitor renal recovery
+- Physical therapy consult for deconditioning
+- Family meeting regarding prognosis and advanced therapies
+
+---
+
+**Physician:**  
+L. Hernandez, MD  
+04/21/2024 09:12
+
+---
+
+**Additional Notes:**  
+- Social: Lives with wife, employed as truck driver. No tobacco, drinks socially.  
+- Allergies: NKDA  
+- Code status: Full
+
+---
+
+**Significant Events:**  
+- 4/16/24: Impella CP placed at bedside, no immediate complications.  
+- 4/18/24: Febrile to 38.3°C, started on broad-spectrum abx.  
+- 4/20/24: Impella explanted after successful wean.
+
+---
+
+**Imaging:**  
+- CXR 4/16/24: Pulmonary edema, mild right pleural effusion  
+- TTE 4/16/24: EF 18%, global hypokinesis, moderate MR  
+
+---
+
+**Consults:**  
+- Cardiology: For heart failure management, device support  
+- Endocrinology: DM management  
+- Infectious Disease: For VAP  
+
+---
+
+**Sign-off:**  
+Please see full chart for daily progress notes, medication administration record, and detailed nursing documentation.
+
+---

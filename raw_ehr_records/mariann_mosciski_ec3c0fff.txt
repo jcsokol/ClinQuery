@@ -1,0 +1,240 @@
+**Patient:** Mariann Mosciski  
+**MRN:** 00389234  
+**DOB:** 1958-08-20 (65 years)  
+**Sex:** Female  
+**Date of Admission:** 2024-05-16  
+**Date of Note:** 2024-05-24  
+**Attending:** Dr. R. Donoghue  
+**Service:** Cardiology ICU  
+**Allergies:** NKDA  
+**Code Status:** Full Code  
+**Isolation:** None  
+
+---
+
+### CHIEF COMPLAINT  
+Progressive shortness of breath, chest heaviness, and lower extremity swelling.
+
+---
+
+### HISTORY OF PRESENT ILLNESS  
+Mariann Mosciski is a 65-year-old woman with a history of prediabetes, chronic anemia, and hyperlipidemia who presented to the ED with 4 days of worsening dyspnea, orthopnea, fatigue, and new-onset paroxysmal nocturnal dyspnea. She denied fever or cough but reported rhinorrhea and mild sore throat for 1 week prior, thought to be viral. She also noted decreased exercise tolerance, bilateral leg swelling, and a sensation of chest pressure radiating to her neck but no frank chest pain.  
+
+On arrival, she was tachypneic, hypoxic, and found to be in acute decompensated heart failure with hypotension and evidence of end-organ hypoperfusion. She rapidly deteriorated in the ED, requiring ICU admission and escalating vasopressor support. Due to refractory cardiogenic shock, she underwent emergent placement of a temporary percutaneous left ventricular assist device (Impella CP) for hemodynamic support.
+
+---
+
+### PAST MEDICAL HISTORY  
+- Prediabetes  
+- Chronic anemia (multifactorial, B12 deficiency and chronic disease)  
+- Hyperlipidemia  
+- Viral sinusitis (recurrent)  
+- Acute viral pharyngitis  
+- Hypertension (recent diagnosis, not on therapy)  
+- Remote tobacco use (quit >20 years ago)  
+
+### PAST SURGICAL HISTORY  
+- None
+
+### FAMILY HISTORY  
+- Mother: MI age 67  
+- Father: CHF, DM2  
+
+### SOCIAL HISTORY  
+- Retired teacher  
+- No current tobacco, EtOH or illicit drug use  
+- Lives with spouse  
+- Independent ADLs  
+
+### HOME MEDICATIONS  
+- Vitamin B12 5mg/mL injectable solution weekly  
+- Multivitamin OTC  
+- No antihypertensives or statins prior to admission  
+
+---
+
+### PHYSICAL EXAM (on ICU transfer, Day 1)  
+**Gen:** Appears ill, in moderate respiratory distress  
+**VS:** BP 84/57 mmHg (on norepi), HR 112, RR 26, SpO2 92% (NRB), T 37.4°C  
+**HEENT:** Pale conjunctiva, mild rhinorrhea  
+**Neck:** JVD 12cm  
+**CV:** Tachycardic, S3, soft systolic murmur, no rubs  
+**Resp:** Crackles at bases, mild wheeze  
+**Abd:** Soft, NT, mild hepatomegaly  
+**Ext:** 2+ pitting edema BL, cool distal extremities  
+**Neuro:** AOx2 (mildly confused), no focal deficit  
+
+---
+
+### HOSPITAL COURSE (ICU Days 1–8)  
+
+**Day 1:**  
+- Admitted to CICU. Intubated for hypoxic respiratory failure.  
+- Started on norepinephrine, dobutamine, furosemide IV.  
+- Swan-Ganz: CI 1.5, PCWP 28, SVR 1600  
+- Echo: Severe global hypokinesis, LVEF ~15%, moderate MR  
+- Labs: Lactate 4.2, Cr 1.8 (baseline 0.8), AST/ALT mildly elevated, troponin T 0.43 (rising), BNP 3120  
+- Impella CP placed via right femoral artery.  
+
+**Day 2–3:**  
+- Improved MAPs, weaned norepinephrine.  
+- Urine output increased.  
+- Extubated on Day 3.  
+- Complication: Mild hemolysis (haptoglobin undetectable, LDH 950), required 1 PRBC transfusion  
+- Persistent anemia (Hgb nadir 7.8)  
+- Serial troponins peaked at 0.51 then trended down  
+
+**Day 4–5:**  
+- Weaned off inotropes.  
+- Impella flows decreased, device removed on Day 5.  
+- Repeat echo: LVEF improved to 28%, MR mild  
+- Switched to oral furosemide, started metoprolol and low-dose lisinopril  
+- Mobilized to chair, delirium resolved  
+- Mild transaminitis resolving  
+
+**Day 6–8:**  
+- Stable off advanced support  
+- Diuresed 4kg net negative  
+- Discharged to telemetry floor on Day 8 for rehab, close monitoring  
+
+---
+
+### LABS (Selected: CBC, Chem7, Cardiac, Liver, others)
+
+| Date        | WBC (K) | Hgb (g/dL) | Hct (%) | Plt (K) | Na | K | Cl | CO2 | BUN | Cr | Glu | AST | ALT | BNP | Trop | LDH | Haptog | Lactate |
+|-------------|---------|------------|---------|---------|----|---|----|-----|-----|----|-----|-----|-----|-----|------|-----|--------|---------|
+| 5/16 (ED)   | 8.1     | 10.7       | 32.3    | 233     | 142| 4.2| 101| 28  | 19  | 1.8| 120 | 78  | 61  | 3120| 0.43 | 950 | <10    | 4.2     |
+| 5/17 (ICU1) | 13.2    | 9.2        | 27.8    | 190     | 144| 4.7| 104| 25  | 24  | 2.2| 138 | 105 | 78  | >5000| 0.51 | 1080| <10    | 3.1     |
+| 5/18        | 10.1    | 8.7        | 25.9    | 185     | 143| 4.0| 102| 27  | 18  | 1.7| 132 | 62  | 49  | 4100| 0.29 | 720 | <10    | 2.2     |
+| 5/19        | 9.4     | 7.8        | 23.2    | 178     | 141| 3.7| 100| 28  | 16  | 1.3| 126 | 42  | 34  | 2600| 0.18 | 430 | 23     | 1.5     |
+| 5/20        | 8.7     | 8.9        | 26.5    | 194     | 143| 4.1| 102| 27  | 15  | 1.0| 111 | 35  | 28  | 1400| 0.07 | 220 | 52     | 0.8     |
+| 5/21        | 7.9     | 9.7        | 29.1    | 212     | 142| 3.9| 101| 29  | 13  | 0.9| 99  | 29  | 21  | 900 | <0.01| 180 | 68     | -       |
+| 5/22        | -       | 10.2       | 30.8    | 229     | 140| 4.0| 99 | 28  | 12  | 0.8| 93  | 25  | 19  | 500 | <0.01| 132 | 101    | -       |
+| 5/23        | 8.2     | 10.8       | 32.5    | 238     | 141| 4.1| 101| 28  | 11  | 0.8| 89  | -   | -   | -   | -    | -   | -      | -       |
+
+---
+
+### IMAGING / STUDIES  
+**ECHO (Day 1):** Severe global LV hypokinesis, LVEF ~15%, moderate MR, mild RV dysfunction.  
+**ECHO (Day 5):** LVEF improved to 28%, MR mild, no pericardial effusion.  
+**CXR:** Pulmonary edema, small bilateral effusions improving by Day 6.  
+**ECG:** Sinus tachycardia, non-specific T-wave abnormalities, no ST elevations.
+
+---
+
+### ASSESSMENT & PLAN (Problem-based)
+
+**1. Cardiogenic Shock s/p Impella CP**  
+- Cardiogenic shock likely due to acute viral myocarditis on background of chronic CV risk factors  
+- Emergent Impella CP placed for hemodynamic support, now explanted  
+- Continue GDMT for HFrEF, monitor for recurrence  
+- Serial ECHOs, daily labs, fluid/volume status monitoring  
+
+**2. Acute Decompensated Heart Failure (new HFrEF, LVEF 15–28%)**  
+- Diuresis with IV then PO furosemide  
+- Initiated beta-blocker (metoprolol) and ACEi (lisinopril) as tolerated  
+- Salt/fluid restriction, daily weights  
+- Cardiology to follow, consider outpatient advanced HF clinic  
+
+**3. Anemia (multifactorial, acute on chronic)**  
+- Ongoing hemolysis likely related to Impella  
+- Monitored retic, LDH, haptoglobin; transfused 1 PRBC  
+- B12 supplementation continued  
+- Monitor for recovery, iron studies pending  
+
+**4. Acute Kidney Injury**  
+- Pre-renal, likely multifactorial (hypoperfusion, diuretics, hemolysis)  
+- Improving with recovery of cardiac output and euvolemia  
+- Monitor renal function, minimize nephrotoxins  
+
+**5. Transaminitis**  
+- Likely shock liver, resolving as hemodynamics improve  
+- Monitor LFTs  
+
+**6. Viral URI (Sinusitis/Pharyngitis)**  
+- Supportive care, no antibiotics indicated  
+- Symptom resolution  
+
+**7. Prediabetes / Hyperlipidemia**  
+- Counsel on lifestyle, initiate statin prior to discharge  
+- Plan for outpatient DM screening  
+
+**8. Delirium**  
+- Resolved after extubation and improved perfusion  
+- Monitor for recurrence  
+
+**9. VTE Prophylaxis**  
+- SCDs, heparin SQ started after bleeding risk decreased  
+
+**10. Rehab Needs**  
+- Physical therapy, nutrition consult  
+- Plan for cardiac rehab after discharge  
+
+---
+
+### DISCHARGE PLANNING (anticipated)  
+- To telemetry floor for ongoing diuresis, rehab  
+- Close cardiology follow-up  
+- Arrange outpatient echo, labs, advanced HF clinic  
+- Education: Meds, diet, device precautions  
+- Home health referral  
+
+---
+
+### ORDERS (selected)  
+- Furosemide 40mg PO BID  
+- Metoprolol succinate 25mg daily  
+- Lisinopril 2.5mg daily  
+- Atorvastatin 40mg daily  
+- Vitamin B12 5mg IM weekly  
+- Heparin 5000u SQ BID  
+- Regular CBC, chem7, LFTs, troponin, BNP  
+- Cardiac telemetry  
+
+---
+
+**Signed:** R. Donoghue, MD, Cardiology ICU  
+**Date/Time:** 2024-05-24 17:33
+
+---
+
+**(See next page for additional lab results and flowsheets...)**
+
+---
+
+**Flowsheet: Vitals (ICU Days 1–8)**
+
+| Date        | Temp (C) | HR | BP (mmHg) | RR | SpO2 | Weight (kg) | Pain (0–10) |
+|-------------|----------|----|-----------|----|------|-------------|-------------|
+| 5/16        | 37.3     | 112| 84/57     | 26 | 92%  | 82.4        | 4           |
+| 5/17        | 38.1     | 110| 90/61     | 24 | 95%  | 81.6        | 2           |
+| 5/18        | 37.6     | 106| 101/68    | 20 | 97%  | 80.7        | 2           |
+| 5/19        | 37.2     | 96 | 112/74    | 18 | 98%  | 80.3        | 1           |
+| 5/20        | 36.8     | 87 | 119/80    | 16 | 98%  | 79.9        | 1           |
+| 5/21        | 36.7     | 79 | 121/78    | 16 | 98%  | 79.0        | 1           |
+| 5/22        | 36.5     | 72 | 128/84    | 15 | 98%  | 78.9        | 0           |
+| 5/23        | 36.4     | 70 | 130/86    | 15 | 99%  | 78.4        | 0           |
+
+---
+
+**Nursing Notes (ICU Day 3):**  
+Pt extubated to 4L NC, hemodynamics stable. Tolerating clear liquids. Ambulated to chair with PT, mild dizziness on standing. Foley removed. Impella flows 2.6L/min, site clean/dry.
+
+---
+
+**Consults:**  
+- Cardiology  
+- Nutrition  
+- Physical Therapy  
+- Social Work (discharge planning)
+
+---
+
+**Patient Education:**  
+- Heart failure symptoms and when to seek care  
+- Device site care and infection prevention  
+- Medication changes reviewed with patient and spouse
+
+---
+
+**END OF NOTE**

@@ -1,0 +1,170 @@
+**Patient Name:** Reina Huels  
+**MRN:** 004582911  
+**DOB:** 08/27/1951  
+**Sex:** Female  
+**Date of Admission:** 04/19/2024  
+**Date of Note:** 04/27/2024  
+**Attending:** Dr. J. Martinez  
+**ICU Day:** 5  
+**Note Type:** Critical Care Progress Note  
+**Location:** CVICU  
+
+---
+
+### **HISTORY OF PRESENT ILLNESS**
+71-year-old female with history of prediabetes, remote miscarriage, and recent viral upper respiratory illness presented to ED with 3 days of progressive shortness of breath, orthopnea, and chest tightness. On arrival, tachypneic, hypoxic, hypotensive (SBP 78 mmHg), and tachycardic (HR 123). CXR showed pulmonary edema. Troponin mildly elevated. Bedside echo: severely reduced LVEF (~15%), global hypokinesis, no significant valvulopathy, no LV thrombus. No prior known cardiac history. Required transfer to cardiac ICU for management of acute decompensated heart failure with cardiogenic shock, likely secondary to fulminant viral myocarditis.
+
+Emergent placement of left-sided temporary mechanical circulatory support (Impella CP) on hospital day 1 due to refractory shock. Subsequently stabilized with inotropes, diuresis, and supportive care. Complicated by AKI and transient hepatic congestion.  
+
+---
+
+### **PAST MEDICAL HISTORY**
+- Prediabetes (HbA1c 5.8%)
+- Remote miscarriage, first trimester
+- Recent viral pharyngitis, sinusitis (outpatient)
+- No prior cardiac history
+- No known allergies  
+- No prior surgeries
+
+### **MEDICATIONS ON ADMISSION**
+- None reported
+
+### **FAMILY HISTORY**
+- Father: MI age 68
+- Mother: Type 2 DM, HTN
+
+### **SOCIAL HISTORY**
+- Lives with husband
+- Never smoker
+- Drinks wine socially
+
+### **REVIEW OF SYSTEMS**
+Unable to obtain complete ROS due to acuity. Per family: No prior syncope, chest pain, or palpitations.
+
+---
+
+## **PHYSICAL EXAM (ICU Day 5)**
+
+| Vital Sign             | Value    |
+|------------------------|----------|
+| Temp                   | 37.2°C   |
+| HR                     | 98       |
+| BP                     | 104/62   |
+| RR                     | 18       |
+| SpO2                   | 97% RA   |
+| Weight                 | 69.2 kg  |
+| Height                 | 157 cm   |
+| Pain Score             | 4/10     |
+
+**Gen:** Appears tired, on Impella support, intubated  
+**CV:** S1, S2, no murmur, no JVD, Impella hum  
+**Lungs:** Scattered rales, improved since admission  
+**Abd:** Soft, mild RUQ fullness, NT, no rebound  
+**Ext:** No edema, pulses 2+  
+**Neuro:** Moves all extremities, sedated but arousable  
+
+---
+
+## **LABORATORY DATA**
+
+**CBC/Chemistry Trends:**
+
+| Date      | WBC    | Hgb   | Hct   | Plt   | Na    | K    | Cl    | CO2   | BUN   | Cr    | Glu   |
+|-----------|--------|-------|-------|-------|-------|------|-------|-------|-------|-------|-------|
+| 4/19/24   | 6.2    | 14.6  | 49.6  | 357   | 140   | 4.8  | 103   | 26    | 12    | 0.94  | 67    |
+| 4/20/24   | 8.0    | 13.9  | 46.2  | 330   | 139   | 4.3  | 105   | 25    | 18    | 1.48  | 98    |
+| 4/21/24   | 10.2   | 12.8  | 41.2  | 289   | 141   | 4.1  | 104   | 23    | 27    | 2.12  | 108   |
+| 4/22/24   | 8.9    | 12.6  | 40.9  | 272   | 142   | 4.2  | 102   | 24    | 22    | 1.78  | 104   |
+| 4/23/24   | 7.0    | 13.9  | 44.5  | 301   | 140   | 4.6  | 102   | 25    | 17    | 1.10  | 89    |
+| 4/24/24   | 6.5    | 14.2  | 46.0  | 335   | 139   | 4.8  | 101   | 27    | 14    | 0.98  | —     |
+| 4/25/24   | —      | 13.8  | 45.2  | —     | 140   | 4.5  | 102   | 28    | 13    | 0.95  | 82    |
+| 4/26/24   | 5.9    | 14.0  | 45.6  | 349   | —     | 4.7  | 104   | 26    | 12    | 0.93  | 77    |
+
+**Other Labs:**
+- Troponin I (4/19): 0.41 → 0.38 → 0.31 (downtrending)
+- NT-proBNP (4/19): 18,000 pg/mL
+- AST/ALT (4/20): 72/89 (transiently elevated, improved by 4/23)
+- Total bili: peaked at 2.6 (4/21), now 1.1
+- INR/PT/PTT: WNL
+- Lactate (4/19): 4.2, normalized by 4/22
+
+---
+
+## **IMAGING**
+
+- **CXR (4/19):** Pulmonary edema, cardiomegaly
+- **Echo (4/19):** LVEF 15%, global hypokinesis, no thrombus
+- **Echo (4/24):** LVEF 28%, mild improvement
+
+---
+
+## **HOSPITAL COURSE HIGHLIGHTS**
+
+- **Day 0-1:** Admitted with hypotension, respiratory distress. Rapid progression to shock. Impella CP placed. Intubated for hypoxic respiratory failure. Started on norepinephrine, dobutamine, IV Lasix.
+- **Day 2:** Rising creatinine, mild transaminitis. Improved BP, weaned off pressors by evening.
+- **Day 3-4:** Gradual diuresis, extubated on day 4. Impella flows stable.
+- **Day 5:** Impella wean trial started. LVEF improved to 28%. Renal and liver function improving.  
+- **Day 6:** (Anticipated) Plan for device removal if stable.
+
+---
+
+## **ASSESSMENT & PLAN (PROBLEM-BASED)**
+
+### 1. **Cardiogenic Shock secondary to Fulminant Myocarditis**
+   - Impella CP placed for hemodynamic support
+   - Weaning in progress, LVEF improving
+   - Continue telemetry, daily echo assessment
+   - If stable, plan device explant tomorrow  
+   - Monitor for hemolysis, device complications
+
+### 2. **Acute Decompensated Heart Failure**
+   - IV diuresis (Lasix)
+   - Fluid status, daily weights
+   - Restrict fluids/Na
+   - Serial BNP, chemistry
+
+### 3. **Acute Kidney Injury (AKI), resolving**
+   - Likely multifactorial: hypoperfusion, diuretics
+   - Renal panel qAM
+   - Hold nephrotoxins, monitor urine output
+
+### 4. **Transaminitis/Hepatic Congestion, improved**
+   - Monitor LFTs
+   - Expect further improvement with euvolemia
+
+### 5. **Prediabetes**
+   - Monitor glucose, no antihyperglycemics needed
+
+### 6. **Risk of Infection**
+   - Central/arterial/Impella line care
+   - Daily blood cultures x2 (until off device)
+   - VAP bundle
+
+### 7. **Nutrition/Delirium/ICU Care**
+   - Early enteral feeds
+   - OOB to chair as tolerated
+   - PT/OT, minimize sedation
+
+### 8. **Disposition/Social**
+   - Discuss goals of care with family
+   - Anticipate transfer to step-down if stable post-Impella
+
+---
+
+## **MEDICATIONS (HOSPITAL DAY 5):**
+- IV Lasix 40 mg q8h
+- Aspirin 81 mg daily
+- Heparin infusion (per Impella protocol)
+- Multivitamin, pantoprazole, acetaminophen PRN
+- No home meds resumed
+
+---
+
+## **SIGNATURE**
+Dr. J. Martinez, MD  
+Cardiac Critical Care  
+04/27/2024, 09:16
+
+---
+
+**Additional labs, notes, and flowsheets available in chart.**

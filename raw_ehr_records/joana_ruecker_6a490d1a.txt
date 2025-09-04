@@ -1,0 +1,211 @@
+---
+**Patient Name:** Joana Ruecker  
+**MRN:** 00459213  
+**DOB:** 1995-01-25 (Age: 29)  
+**Sex:** Female  
+**Admit Date:** 2024-05-21  
+**Attending:** Dr. S. Patel, MD  
+**Unit:** MICU  
+**Reason for Admission:** Acute decompensated heart failure with cardiogenic shock, requiring temporary mechanical circulatory support (Impella CP)  
+
+---
+
+## Admission H&P (5/21/2024)
+
+**Chief Complaint:**  
+Shortness of breath, chest pressure, and near-syncope
+
+**History of Present Illness:**  
+Joana Ruecker is a 29-year-old female with PMH notable for recurrent viral sinusitis, viral pharyngitis, and recent whiplash injury, who presented to the ED with 2 days of worsening dyspnea, orthopnea, and pleuritic chest pain. She reports a flu-like syndrome 1 week ago, followed by progressive fatigue. On the day of presentation, she developed near-syncope while climbing stairs. In the ED, she was found to be hypotensive (SBP 83 mmHg), tachycardic (HR 122), and hypoxic (SpO2 89% on RA). Exam notable for elevated JVP, diffuse rales, and cool extremities.
+
+**Pertinent PMH:**  
+- Viral sinusitis, recurrent  
+- Acute viral pharyngitis, recurrent  
+- Whiplash injury (remote, no neuro deficits)  
+- No known cardiac disease prior to this admission
+
+**Medications on Admission:**  
+- Amoxicillin/clavulanate 250/125 mg PO BID (recent, for sinusitis)  
+- Yaz, Natazia, Jolivette, Trinessa (all OCPs—patient unclear which, stopped at admission)  
+- Ibuprofen 200 mg PO PRN
+
+**Allergies:**  
+No known drug allergies
+
+**Social History:**  
+- Non-smoker  
+- No EtOH, illicit drugs  
+- Lives with partner, no children
+
+**Family History:**  
+- Negative for early cardiac disease, SCD, or known inherited disorders
+
+---
+
+## Hospital Course Summary
+
+**Day 1:**  
+Admitted to MICU for acute hypoxic respiratory failure and shock. Initial workup revealed elevated troponin (see labs), BNP 1,242 pg/mL. TTE: severely depressed LVEF (~15%), global hypokinesis. Cardiology/CCU consulted—concern for acute viral myocarditis with cardiogenic shock. Started norepinephrine, furosemide, empiric antibiotics. Intubated for worsening hypoxia.
+
+**Day 2:**  
+Hemodynamics worsening despite escalating pressors/inotropes. Multidisciplinary decision for temporary LV support—Impella CP placed via femoral approach in cath lab. Immediate improvement in MAP and urine output. Repeat TTE: Impella position satisfactory.
+
+**Day 3–5:**  
+Ongoing Impella support. Gradual diuresis, improvement in end-organ function. Developed mild transaminitis (see labs), likely congestive hepatopathy. Neurologically intact when sedatives weaned. Extubated on Day 5.
+
+**Day 6–8:**  
+Hemodynamics stable. Impella weaned and explanted on Day 7. Started low-dose carvedilol, lisinopril. Persistent fatigue, but no recurrent chest pain or SOB. Mobilizing with PT.
+
+**Day 9:**  
+Transferred to step-down telemetry. Echo: LVEF improved to 36%. Plan for outpatient cardiac MRI, viral panel, and close HF follow-up.
+
+---
+
+## Problem List
+
+1. **Acute myocarditis with cardiogenic shock**  
+2. **Acute decompensated heart failure (new onset)**  
+3. **Temporary mechanical circulatory support (Impella CP)**  
+4. **Acute hypoxic respiratory failure (resolved)**  
+5. **Transaminitis, likely congestive hepatopathy**  
+6. **Recent viral syndrome**  
+7. **History of sinusitis/pharyngitis**  
+8. **History of whiplash injury**  
+9. **Contraceptive use, now discontinued**  
+10. **Mild anemia (transient)**  
+11. **Mild AKI (resolved)**
+
+---
+
+## Assessment & Plan (Written 2024-05-29, Dr. S. Patel)
+
+### 1. **Acute Myocarditis with Cardiogenic Shock**
+- Likely viral (recent URI, no ischemic risk factors, diffuse TTE findings).
+- Required temporary LV support (Impella CP, Days 2–7).
+- Now hemodynamically stable, off pressors/inotropes.
+- **Plan:** Continue guideline-directed medical therapy (GDMT) for HF, cardiac MRI as outpatient, viral panel pending.
+
+### 2. **Acute Decompensated Heart Failure**
+- LVEF improved from 15% to 36%.
+- Diuresed 8L net negative.
+- **Plan:** Monitor volume status, continue low-dose loop diuretic, titrate beta-blocker and ACEi.
+
+### 3. **Temporary Mechanical Circulatory Support**
+- Impella CP placed Day 2, explanted Day 7. No vascular complications.
+- **Plan:** Site care, monitor for delayed hematoma/pseudoaneurysm.
+
+### 4. **Acute Hypoxic Respiratory Failure**
+- Intubated Day 1, extubated Day 5.
+- **Plan:** Incentive spirometry, pulmonary rehab as tolerated.
+
+### 5. **Transaminitis**
+- Mild AST/ALT elevation, peaked Day 3, trending down.
+- No evidence of intrinsic liver disease.
+- **Plan:** Monitor LFTs, supportive care.
+
+### 6. **Recent Viral Syndrome**
+- Respiratory viral panel pending.
+- **Plan:** Supportive, infection control precautions discontinued.
+
+### 7. **History of Sinusitis/Pharyngitis**
+- Completing recent amox/clav course.
+- **Plan:** No further antibiotics.
+
+### 8. **Whiplash Injury (remote)**
+- No neuro symptoms.
+- **Plan:** No action needed.
+
+### 9. **Contraceptive Use**
+- OCPs held during admission.
+- **Plan:** Discuss safe options at discharge.
+
+### 10. **Mild Anemia**
+- Hgb nadir 10.8, likely dilutional.
+- **Plan:** Monitor, no transfusion needed.
+
+### 11. **Mild AKI**
+- Creatinine peaked 1.6, now 0.9.
+- **Plan:** Continue to monitor, avoid nephrotoxins.
+
+---
+
+## ICU Vitals (Selected)
+
+| Date        | Temp (°C) | HR     | BP        | RR | SpO2   | Pain |
+|-------------|-----------|--------|-----------|----|--------|------|
+| 5/21/2024   | 37.8      | 122    | 83/49     | 28 | 89% RA | 4    |
+| 5/22/2024   | 38.1      | 116    | 95/54     | 24 | 94% FM | -    |
+| 5/23/2024   | 37.6      | 105    | 107/61    | 18 | 98% VM | -    |
+| 5/25/2024   | 37.1      | 98     | 112/67    | 16 | 99% RA | 2    |
+| 5/28/2024   | 36.9      | 82     | 118/74    | 15 | 99% RA | 1    |
+
+---
+
+## Labs
+
+**Chemistry & CBC (Selected)**
+
+| Date      | Na  | K   | Cl  | HCO3 | BUN | Cr  | Glu | WBC  | Hgb  | Hct | Plt   | AST  | ALT  | BNP   | Trop I  |
+|-----------|-----|-----|-----|------|-----|-----|-----|------|------|-----|-------|------|------|-------|---------|
+| 5/21/24   | 139 | 5.1 | 104 | 19   | 23  | 1.4 | 112 | 7.2  | 16.1 | 41  | 423   | 56   | 62   | 1242  | 0.48    |
+| 5/22/24   | 137 | 4.8 | 102 | 20   | 27  | 1.6 | 98  | 6.9  | 14.3 | 36  | 375   | 101  | 116  | 987   | 0.32    |
+| 5/23/24   | 138 | 4.2 | 103 | 23   | 19  | 1.2 | 92  | 8.1  | 13.2 | 38  | 342   | 78   | 93   | 765   | 0.19    |
+| 5/24/24   | 140 | 3.9 | 105 | 25   | 15  | 1.0 | 89  | 8.7  | 12.4 | 35  | 391   | 62   | 70   | 550   | 0.11    |
+| 5/25/24   | 141 | 4.0 | 106 | 26   | 13  | 0.9 | 87  | —    | 10.8 | 33  | 368   | 44   | 55   | —     | <0.01   |
+| 5/27/24   | 139 | —   | 104 | 24   | 11  | 0.9 | 92  | 7.5  | 12.1 | 34  | 388   | 30   | 40   | 320   | <0.01   |
+| 5/29/24   | 138 | 4.2 | 103 | —    | 12  | 0.9 | 96  | 7.4  | 13.0 | 36  | 401   | 28   | 32   | 190   | <0.01   |
+
+*—: not collected / not available*
+
+---
+
+## Microbiology
+
+- **Blood cultures:** No growth (2 sets)
+- **Respiratory viral panel:** Pending
+
+---
+
+## Imaging
+
+- **CXR (5/21):** Pulmonary edema, mild cardiomegaly, no focal infiltrate  
+- **Echocardiogram (5/21):** LVEF 15%, global hypokinesis, no significant valvular disease  
+- **Echocardiogram (5/28):** LVEF 36%, improved contractility  
+- **Lower extremity Doppler:** Negative for DVT
+
+---
+
+## Procedures
+
+- **Right heart cath + Impella CP placement (5/22)**
+- **Endotracheal intubation (5/21), extubation (5/25)**
+
+---
+
+## Medications (Hospital Course)
+
+- Norepinephrine IV (Day 1–3)
+- Dobutamine IV (Day 1–3)
+- Furosemide IV/PO
+- Amoxicillin/clavulanate (completed)
+- Heparin infusion (per Impella protocol, Days 2–7)
+- Acetaminophen PRN
+- Carvedilol (started Day 7)
+- Lisinopril (started Day 7)
+- Pantoprazole
+
+---
+
+## Discharge Planning
+
+- Close HF clinic follow-up, TTE and cardiac MRI scheduled
+- OCPs to remain off until cleared by cardiology
+- Strict return precautions for SOB, CP, syncope
+- PT/OT to follow outpatient
+
+---
+
+*Dictated by: S. Patel, MD, MICU*  
+*Cosigned: J. Lin, MD, Cardiology*  
+*Date/Time: 2024-05-29 16:44*  
+---

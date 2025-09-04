@@ -1,9 +1,6 @@
 # Clinical Timeline Query System
 
-<div align="center">
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open-informational)](https://clinquery-live.onrender.com/) 
-[![Technical README](https://img.shields.io/badge/Technical-README-blue)](https://github.com/jcsokol/ClinQuery/blob/main/README_TECHNICAL.md)
-</div>
+[**Live demo**](https://clinquery-live.onrender.com/) · [Full technical readme](https://github.com/jcsokol/ClinQuery/blob/main/README_TECHNICAL.md)
 
 I’m an MD trained in Massachusetts’ largest safety-net hospital (adult + pediatric emergency sub-internships) and an engineer (Stanford BS/MS). I built this end-to-end clinical reasoning engine — from NER to SQL to natural language querying — that answers questions most retrieval-based LLM systems can’t.
 

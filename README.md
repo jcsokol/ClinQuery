@@ -13,7 +13,7 @@ Where typical retrieval pipelines return text fragments that “look” relevant
 
 **Built in ~2.5 months** on 589 synthetic ICU notes generated from the open-source Synthea simulator. No real patient data used.
 
-[Try live demo](https://clinquery-live.onrender.com/) | [Full technical readme](https://github.com/jcsokol/ClinQuery/blob/main/TECHNICAL_README.md)
+[Try live demo](https://clinquery-live.onrender.com/) | [Full technical readme](https://github.com/jcsokol/ClinQuery/blob/main/README_TECHNICAL.md)
 
 ---
 
@@ -63,7 +63,7 @@ This approach keeps the system flexible, safe, and extensible even in this early
 
 **Modularity:**
 - NER and relation extraction may require fine-tuning on your own data
-- Concept normalization, timestamp/negation logic, timeline construction, and querying are modular and generalizable (see [full technical readme](https://github.com/jcsokol/ClinQuery/blob/main/TECHNICAL_README.md) for details)
+- Concept normalization, timestamp/negation logic, timeline construction, and querying are modular and generalizable (see [full technical readme](https://github.com/jcsokol/ClinQuery/blob/main/README_TECHNICAL.md) for details)
 
 If you're building your own version, reach out! I’m happy to discuss improvements, ideas, or adaptations.
 

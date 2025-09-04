@@ -166,7 +166,7 @@ streamlit run pipeline_query/app.py
 
 **Entity classifications:** I pushed most classification to the normalization layer by using a catch-all *clinical entity* label in NER (covering observations, conditions, devices, medications, procedures). This reduced false negatives from over-cautious NER at the cost of pushing disambiguation to the normalizer.   
 
-**Negative example tuning for relation extraction:** The relations model only performed well when negative examples (entity–time/negation pairs) were selected with distances that matched those of positive examples. This tuning step was crucial to model performance.  
+**Negative example tuning for relation extraction:** The relations model only performed well when negative examples (entity–time/negation pairs where time/negation does not refer to entity) were selected with distances that matched those of positive examples. This tuning step was crucial to model performance.  
 
 **Ontology coverage vs. precision:** UMLS provides broad coverage with many clinically meaningful classes (e.g., “antihypertensive drug”), but also includes noisy or irrelevant groupings. I added an abstraction layer to override UMLS classes, balancing breadth with clinical precision. 
 

@@ -1,7 +1,5 @@
 # Technical README
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open-informational)](https://clinquery-live.onrender.com/)
-
 ## 1. Overview
 Two modular pipelines:
 

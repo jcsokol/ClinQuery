@@ -17,7 +17,7 @@ dependencies:
   - setuptools
   - wheel
   - pyarrow
-  - optree=0.12.*
+  - optree=0.13.*
   - psycopg
   - streamlit
   - faiss-cpu
@@ -41,6 +41,12 @@ dependencies:
   - cuda-toolkit 
   - nccl 
   - cuda-version=12.5   
+
+  # Dev / QA tooling
+  - black       
+  - ruff       
+  - pytest 
+  - pre-commit    
 
   - pip:
       - rapidfuzz

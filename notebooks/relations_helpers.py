@@ -1,32 +1,35 @@
-import numpy as np 
-import random 
-import torch 
-from torch import nn 
-import json 
-import copy 
+import numpy as np
+import random
+import torch
+from torch import nn
+import json
+import copy
 from itertools import product
-from datasets import Dataset 
-from typing import List, Dict, Tuple 
+from datasets import Dataset
+from typing import List, Dict, Tuple
 from sklearn.metrics import confusion_matrix, classification_report
 from transformers import Trainer
 
-def load_train_and_devsets_from_jsonl(path,initial_shuffle=False,dev_examples_n=5):
+
+def load_train_and_devsets_from_jsonl(path, initial_shuffle=False, dev_examples_n=5):
     """
     Load Prodigy-style JSONL with {"text", "spans": [...]} and split into train/dev.
 
     Returns:
         (train_list, dev_list)
     """
-    with open(path, 'r') as f:
+    with open(path, "r") as f:
         all_examples_list = [json.loads(line) for line in f]
-        if initial_shuffle: random.shuffle(all_examples_list) 
+        if initial_shuffle:
+            random.shuffle(all_examples_list)
         devset_output = all_examples_list[:dev_examples_n]
         trainset_output = all_examples_list[dev_examples_n:]
         devset_output = copy.deepcopy(devset_output)
         trainset_output = copy.deepcopy(trainset_output)
         random.shuffle(devset_output)
         random.shuffle(trainset_output)
-        return trainset_output,devset_output
+        return trainset_output, devset_output
+
 
 def chunk_text(example, tokenizer, max_length=512, overlap=0.25):
     """
@@ -39,14 +42,14 @@ def chunk_text(example, tokenizer, max_length=512, overlap=0.25):
     Returns:
         List[dict]: {"text", "spans", "relations"} for each chunk.
     """
-    text = example['text']
-    spans = example.get('spans', [])
-    relations = example.get('relations', [])
+    text = example["text"]
+    spans = example.get("spans", [])
+    relations = example.get("relations", [])
 
     # Use add_special_tokens=True to match model input behavior
     tokens = tokenizer(text, return_offsets_mapping=True, add_special_tokens=True)
-    input_ids = tokens['input_ids']
-    offsets = tokens['offset_mapping']
+    input_ids = tokens["input_ids"]
+    offsets = tokens["offset_mapping"]
 
     stride = int(max_length * (1 - overlap))
     chunks = []
@@ -69,34 +72,39 @@ def chunk_text(example, tokenizer, max_length=512, overlap=0.25):
         chunk_spans = []
         id_map = {}
         for span in spans:
-            if span['end'] > char_start and span['start'] < char_end:
+            if span["end"] > char_start and span["start"] < char_end:
                 adjusted = {
-                    'id': span['id'],
-                    'start': max(span['start'], char_start) - char_start,
-                    'end': min(span['end'], char_end) - char_start,
-                    'label': span['label'],
-                    'text': text[max(span['start'], char_start):min(span['end'], char_end)]
+                    "id": span["id"],
+                    "start": max(span["start"], char_start) - char_start,
+                    "end": min(span["end"], char_end) - char_start,
+                    "label": span["label"],
+                    "text": text[max(span["start"], char_start) : min(span["end"], char_end)],
                 }
                 chunk_spans.append(adjusted)
-                id_map[span['id']] = True
+                id_map[span["id"]] = True
 
-        chunk_relations = [
-            rel for rel in relations if rel['head'] in id_map and rel['child'] in id_map
-        ]
+        chunk_relations = [rel for rel in relations if rel["head"] in id_map and rel["child"] in id_map]
 
         if len(chunk_spans) > 0 or len(chunk_relations) > 0:
-            chunks.append({
-            'text': chunk_text,
-            'spans': chunk_spans,
-            'relations': chunk_relations
-        })
+            chunks.append({"text": chunk_text, "spans": chunk_spans, "relations": chunk_relations})
 
         if end == len(input_ids):
             break
 
     return chunks
 
-def prepare_relation_examples_with_chunking(data, tokenizer, label_encoder, max_length=512, overlap=0.25, max_control_token_distance=30, max_control_token_distance_lr=150, max_positives_token_distance=150, lr_controls_prop=0.05):
+
+def prepare_relation_examples_with_chunking(
+    data,
+    tokenizer,
+    label_encoder,
+    max_length=512,
+    overlap=0.25,
+    max_control_token_distance=30,
+    max_control_token_distance_lr=150,
+    max_positives_token_distance=150,
+    lr_controls_prop=0.05,
+):
     """
     Build a relation classification dataset by inserting <HEAD>...</HEAD> and <CHILD>...</CHILD> markers.
 
@@ -125,19 +133,15 @@ def prepare_relation_examples_with_chunking(data, tokenizer, label_encoder, max_
 
             def insert_xml_tags(text, head, child):
                 first, second = (head, child) if head["start"] <= child["start"] else (child, head)
-                before = text[:first["start"]]
-                between = text[first["end"]:second["start"]]
-                after = text[second["end"]:]
+                before = text[: first["start"]]
+                between = text[first["end"] : second["start"]]
+                after = text[second["end"] :]
 
-                middle1 = text[first["start"]:first["end"]]
-                middle2 = text[second["start"]:second["end"]]
+                middle1 = text[first["start"] : first["end"]]
+                middle2 = text[second["start"] : second["end"]]
 
-                first_tagged = (
-                    f"<HEAD>{middle1}</HEAD>" if first == head else f"<CHILD>{middle1}</CHILD>"
-                )
-                second_tagged = (
-                    f"<CHILD>{middle2}</CHILD>" if second == child else f"<HEAD>{middle2}</HEAD>"
-                )
+                first_tagged = f"<HEAD>{middle1}</HEAD>" if first == head else f"<CHILD>{middle1}</CHILD>"
+                second_tagged = f"<CHILD>{middle2}</CHILD>" if second == child else f"<HEAD>{middle2}</HEAD>"
 
                 return before + first_tagged + between + second_tagged + after
 
@@ -176,12 +180,7 @@ def prepare_relation_examples_with_chunking(data, tokenizer, label_encoder, max_
                 if distance > max_positives_token_distance:
                     continue  # discard long-distance positives
 
-                examples.append({
-                    "text": tagged,
-                    "label": rel["label"],
-                    "debug": tagged,
-                    "distance": distance
-                })
+                examples.append({"text": tagged, "label": rel["label"], "debug": tagged, "distance": distance})
 
             # Negative examples (NO_RELATION)
             span_list = list(spans.values())
@@ -198,9 +197,8 @@ def prepare_relation_examples_with_chunking(data, tokenizer, label_encoder, max_
                     if any((r["head"] == s1["id"] and r["child"] == s2["id"]) for r in relations):
                         continue
 
-                    valid = (
-                        (s1["label"] in {"C_ENT", "TABLE"} and s2["label"] == "TIME") or
-                        (s1["label"] == "C_ENT" and s2["label"] == "NEGATION")
+                    valid = (s1["label"] in {"C_ENT", "TABLE"} and s2["label"] == "TIME") or (
+                        s1["label"] == "C_ENT" and s2["label"] == "NEGATION"
                     )
                     if not valid:
                         continue
@@ -219,7 +217,7 @@ def prepare_relation_examples_with_chunking(data, tokenizer, label_encoder, max_
                         "text": tagged,
                         "label": "NO_RELATION",
                         "debug": tagged,
-                        "distance": distance
+                        "distance": distance,
                     }
 
                     if distance <= max_control_token_distance:
@@ -228,7 +226,7 @@ def prepare_relation_examples_with_chunking(data, tokenizer, label_encoder, max_
                         long_range_controls.append(ex)
 
     # Add ~10% of NO_RELATION examples from long-range band
-    max_extra = int(lr_controls_prop*len([e for e in examples if e["label"] == "NO_RELATION"]))
+    max_extra = int(lr_controls_prop * len([e for e in examples if e["label"] == "NO_RELATION"]))
     sampled = random.sample(long_range_controls, min(len(long_range_controls), max_extra))
     examples.extend(sampled)
 
@@ -239,14 +237,14 @@ def prepare_relation_examples_with_chunking(data, tokenizer, label_encoder, max_
         truncation=True,
         padding=True,
         max_length=max_length,
-        add_special_tokens=True
+        add_special_tokens=True,
     )
     encodings["labels"] = labels.tolist()
     encodings["debug"] = [ex["debug"] for ex in examples]
     encodings["distance"] = [ex["distance"] for ex in examples]
     return Dataset.from_dict(encodings)
 
-    
+
 def compute_metrics_with_confusion_matrix(eval_pred):
     """
     compute_metrics for HF Trainer (relation classification).
@@ -263,18 +261,11 @@ def compute_metrics_with_confusion_matrix(eval_pred):
 
     # Confusion matrix as a dictionary for compatibility
     cm = confusion_matrix(labels, preds)
-    cm_dict = {
-        f"confusion_matrix_{i}_{j}": cm[i][j]
-        for i in range(cm.shape[0])
-        for j in range(cm.shape[1])
-    }
+    cm_dict = {f"confusion_matrix_{i}_{j}": cm[i][j] for i in range(cm.shape[0]) for j in range(cm.shape[1])}
 
     # You can also add accuracy, f1, etc.
-    return {
-        "accuracy": (preds == labels).mean(),
-        **cm_dict
-    }
-    
+    return {"accuracy": (preds == labels).mean(), **cm_dict}
+
 
 class WeightedTrainer(Trainer):
     """
@@ -283,11 +274,12 @@ class WeightedTrainer(Trainer):
     Args:
         class_weights (torch.Tensor|None): Tensor of per-class weights (size C), or None.
     """
+
     def __init__(self, class_weights=None, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self.class_weights = class_weights
 
-    def compute_loss(self, model, inputs, return_outputs=False, **kwargs):  
+    def compute_loss(self, model, inputs, return_outputs=False, **kwargs):
         labels = inputs.pop("labels")
         outputs = model(**inputs)
         logits = outputs.logits
@@ -299,6 +291,7 @@ class WeightedTrainer(Trainer):
 
         loss = loss_fct(logits, labels)
         return (loss, outputs) if return_outputs else loss
+
 
 def chunk_text_for_predictions(text: str, tokenizer, max_length=512, overlap=0.50, pred_window=0.80):
     """
@@ -337,19 +330,24 @@ def chunk_text_for_predictions(text: str, tokenizer, max_length=512, overlap=0.5
         middle_start = margin
         middle_end = chunk_length - margin
 
-        chunks.append({
-            "input_ids": chunk_ids,
-            "offsets": chunk_offsets,
-            "start_token": start,
-            "middle_range": (middle_start, middle_end)
-        })
+        chunks.append(
+            {
+                "input_ids": chunk_ids,
+                "offsets": chunk_offsets,
+                "start_token": start,
+                "middle_range": (middle_start, middle_end),
+            }
+        )
 
         if end == len(input_ids):
             break
 
     return chunks
 
-def spans_in_middle_range_for_predictions(spans: List[Dict], offsets, middle_range: Tuple[int, int], is_start, is_end) -> List[Dict]:
+
+def spans_in_middle_range_for_predictions(
+    spans: List[Dict], offsets, middle_range: Tuple[int, int], is_start, is_end
+) -> List[Dict]:
     """
     Filter spans to those whose token positions land inside the given middle_range,
     relaxing the lower/upper bound for the first/last chunks.
@@ -366,8 +364,10 @@ def spans_in_middle_range_for_predictions(spans: List[Dict], offsets, middle_ran
     """
     selected = []
     start_idx, end_idx = middle_range
-    if is_start: start_idx = 0
-    if is_end: end_idx = float('inf')
+    if is_start:
+        start_idx = 0
+    if is_end:
+        end_idx = float("inf")
 
     for span in spans:
         # Find the first token whose offset overlaps with span start
@@ -380,7 +380,10 @@ def spans_in_middle_range_for_predictions(spans: List[Dict], offsets, middle_ran
                 break
     return selected
 
-def generate_allowed_span_pairs_for_predictions(spans: List[Dict], allowed_relations: List[Tuple[str, str, str]]) -> List[Tuple[Dict, Dict, str]]:
+
+def generate_allowed_span_pairs_for_predictions(
+    spans: List[Dict], allowed_relations: List[Tuple[str, str, str]]
+) -> List[Tuple[Dict, Dict, str]]:
     """
     Generate ordered span pairs that match allowed type patterns.
 
@@ -400,7 +403,19 @@ def generate_allowed_span_pairs_for_predictions(spans: List[Dict], allowed_relat
                 span_pairs.append((a, b, rel_label))
     return span_pairs
 
-def predict_relations_with_chunking(text: str, spans: List[Dict], model, tokenizer, label2id: Dict[str, int], id2label: Dict[int, str], allowed_relations: List[Tuple[str, str, str]], device, prob_threshold=0.6, max_token_distance=100):
+
+def predict_relations_with_chunking(
+    text: str,
+    spans: List[Dict],
+    model,
+    tokenizer,
+    label2id: Dict[str, int],
+    id2label: Dict[int, str],
+    allowed_relations: List[Tuple[str, str, str]],
+    device,
+    prob_threshold=0.6,
+    max_token_distance=100,
+):
     """
     Score candidate (HEAD, CHILD) pairs inside overlapping chunks, enforcing a maximum
     token distance and trusting only the central region per chunk to reduce edge effects.
@@ -430,7 +445,7 @@ def predict_relations_with_chunking(text: str, spans: List[Dict], model, tokeniz
 
     chunks = chunk_text_for_predictions(text, tokenizer)
 
-    for chunk in chunks:        
+    for chunk in chunks:
         chunk_offsets = chunk["offsets"]
         middle_range = chunk["middle_range"]
         chunk_start = chunk_offsets[0][0]
@@ -440,7 +455,7 @@ def predict_relations_with_chunking(text: str, spans: List[Dict], model, tokeniz
 
         is_start = chunk_start == 0
         is_end = chunk_offsets[-1][1] >= len(text) - 5 or chunks.index(chunk) == len(chunks) - 1
-        
+
         spans_in_chunk = [span for span in spans if chunk_start <= span["start"] < chunk_end]
         selected_spans = spans_in_middle_range_for_predictions(spans_in_chunk, chunk_offsets, middle_range, is_start, is_end)
         pairs = generate_allowed_span_pairs_for_predictions(selected_spans, allowed_relations)
@@ -456,22 +471,30 @@ def predict_relations_with_chunking(text: str, spans: List[Dict], model, tokeniz
 
             if head_start < 0 or head_end > len(chunk_text) or child_start < 0 or child_end > len(chunk_text):
                 continue
-    
+
             if head_start < child_start:
                 tagged = (
-                    chunk_text[:head_start] +
-                    "<HEAD>" + chunk_text[head_start:head_end] + "</HEAD>" +
-                    chunk_text[head_end:child_start] +
-                    "<CHILD>" + chunk_text[child_start:child_end] + "</CHILD>" +
-                    chunk_text[child_end:]
+                    chunk_text[:head_start]
+                    + "<HEAD>"
+                    + chunk_text[head_start:head_end]
+                    + "</HEAD>"
+                    + chunk_text[head_end:child_start]
+                    + "<CHILD>"
+                    + chunk_text[child_start:child_end]
+                    + "</CHILD>"
+                    + chunk_text[child_end:]
                 )
             else:
                 tagged = (
-                    chunk_text[:child_start] +
-                    "<CHILD>" + chunk_text[child_start:child_end] + "</CHILD>" +
-                    chunk_text[child_end:head_start] +
-                    "<HEAD>" + chunk_text[head_start:head_end] + "</HEAD>" +
-                    chunk_text[head_end:]
+                    chunk_text[:child_start]
+                    + "<CHILD>"
+                    + chunk_text[child_start:child_end]
+                    + "</CHILD>"
+                    + chunk_text[child_end:head_start]
+                    + "<HEAD>"
+                    + chunk_text[head_start:head_end]
+                    + "</HEAD>"
+                    + chunk_text[head_end:]
                 )
 
             tok = tokenizer(tagged, return_offsets_mapping=True, add_special_tokens=True)
@@ -490,8 +513,14 @@ def predict_relations_with_chunking(text: str, spans: List[Dict], model, tokeniz
             if abs(idx1 - idx2) > max_token_distance:
                 continue
 
-            enc = tokenizer(tagged, return_tensors="pt", truncation=True,
-                            padding=True, max_length=512, add_special_tokens=True).to(device)
+            enc = tokenizer(
+                tagged,
+                return_tensors="pt",
+                truncation=True,
+                padding=True,
+                max_length=512,
+                add_special_tokens=True,
+            ).to(device)
 
             with torch.no_grad():
                 logits = model(**enc).logits
@@ -501,27 +530,32 @@ def predict_relations_with_chunking(text: str, spans: List[Dict], model, tokeniz
 
             label = id2label[pred]
             if label == "TIME_RELATION" and confidence > prob_threshold:
-                if head['label'] in {"C_ENT", "TABLE"} and child['label'] == "TIME":
+                if head["label"] in {"C_ENT", "TABLE"} and child["label"] == "TIME":
                     xml_texts.append(tagged)
-                    all_rels.append({
-                        "head": head["id"],
-                        "child": child["id"],
-                        "label": label,
-                        "confidence": round(confidence, 3)
-                    })
+                    all_rels.append(
+                        {
+                            "head": head["id"],
+                            "child": child["id"],
+                            "label": label,
+                            "confidence": round(confidence, 3),
+                        }
+                    )
             elif label == "NEGATION_RELATION" and confidence > prob_threshold:
-                if head['label'] == "C_ENT" and child['label'] == "NEGATION":
+                if head["label"] == "C_ENT" and child["label"] == "NEGATION":
                     xml_texts.append(tagged)
-                    all_rels.append({
-                        "head": head["id"],
-                        "child": child["id"],
-                        "label": label,
-                        "confidence": round(confidence, 3)
-                    })
+                    all_rels.append(
+                        {
+                            "head": head["id"],
+                            "child": child["id"],
+                            "label": label,
+                            "confidence": round(confidence, 3),
+                        }
+                    )
             elif label == "NO_RELATION" and confidence > prob_threshold:
                 xml_texts_no_relations.append(tagged)
 
     return all_rels, xml_texts, xml_texts_no_relations
+
 
 def filter_relations_for_predictions(relations: List[Dict]) -> List[Dict]:
     """
@@ -583,4 +617,3 @@ def render_text_with_xml_tags(text: str, spans: list[dict], span_type: str = Non
         tagged_text = tagged_text[:start] + tagged + tagged_text[end:]
 
     return tagged_text
-        

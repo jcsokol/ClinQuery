@@ -1,0 +1,22 @@
+# pyproject.toml
+
+[tool.black]
+line-length = 130
+target-version = ["py310"]
+
+[tool.ruff]
+line-length = 130
+target-version = "py310"
+exclude = ["notebooks/*"]  
+
+[tool.ruff.lint]
+# Core rule sets: pycodestyle/pyflakes/imports/pyupgrade/bugbear
+select = ["E", "F", "I", "UP", "B"]
+ignore = ["E501"] 
+
+[tool.ruff.lint.per-file-ignores]
+"notebooks/*" = ["E402", "F401"]  # allow top-level/unused imports in notebooks
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

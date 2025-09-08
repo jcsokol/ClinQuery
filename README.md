@@ -1,5 +1,8 @@
 # Clinical Timeline Query System
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open-informational)](https://clinquery-live.onrender.com/)
+[![Technical README](https://img.shields.io/badge/Technical-README-blue)](https://github.com/jcsokol/ClinQuery/blob/main/README_TECHNICAL.md)
+
 I’m an MD trained in Massachusetts’ largest safety-net hospital (adult + pediatric emergency sub-internships) and an engineer (Stanford BS/MS). I built this end-to-end clinical reasoning engine — from NER to SQL to natural language querying — that answers questions most retrieval-based LLM systems can’t.
 
 It turns raw EHR notes into a temporal, canonicalized database capable of answering reasoning-heavy queries like:
@@ -12,8 +15,6 @@ Where typical retrieval pipelines return text fragments that “look” relevant
 - Enables direct query execution over structured timelines
 
 **Built in ~2.5 months** on 589 synthetic ICU notes generated from the open-source Synthea simulator. No real patient data used.
-
-[Try live demo](https://clinquery-live.onrender.com/) | [Full technical readme](https://github.com/jcsokol/ClinQuery/blob/main/README_TECHNICAL.md)
 
 ---
 
@@ -76,7 +77,7 @@ This project was inspired by challenges I encountered at Johnson & Johnson (Abio
 A customized version was delivered to J&J for internal use on real EHR data.
 
 - EHR notes are based on [Synthea](https://github.com/synthetichealth/synthea), an open-source synthetic patient simulator
-- Concept normalized via [UMLS Metathesaurus](https://www.nlm.nih.gov/research/umls/knowledge_sources/metathesaurus/index.html)
+- Concepts normalized via [UMLS Metathesaurus](https://www.nlm.nih.gov/research/umls/knowledge_sources/metathesaurus/index.html)
 - Models: UFNLP/gatortron-base (Yang et al) and michiyasunaga/BioLinkBERT-large (Yasunaga et al)
 - Query layer utilizes OpenAI API
 

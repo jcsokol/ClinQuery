@@ -142,8 +142,8 @@ export OPENAI_API_KEY=...
 ### Running the Ingestion Pipeline
 ```
 python pipeline_ingest/ingest.py \
-  --input_json ./db/input.jsonl \
-  --output_path ./pipeline_query/db \ 
+  ./db/input.jsonl \ 
+  ./pipeline_query/db \ 
   --mrconso_rrf PATH \ 
   --mrrel_rrf PATH \ 
   --mrsty_rrf PATH
@@ -166,7 +166,7 @@ streamlit run pipeline_query/app.py
 
 **Entity classifications:** I pushed most classification to the normalization layer by using a catch-all *clinical entity* label in NER (covering observations, conditions, devices, medications, procedures). This reduced false negatives from over-cautious NER at the cost of pushing disambiguation to the normalizer.   
 
-**Negative example tuning for relation extraction:** The relations model only performed well when negative examples (entity–time/negation pairs) were selected with distances that matched those of positive examples. This tuning step was crucial to model performance.  
+**Negative example tuning for relation extraction:** The relations model only performed well when negative examples (entity–time/negation pairs where time/negation does not refer to entity) were selected with distances that matched those of positive examples. This tuning step was crucial to model performance.  
 
 **Ontology coverage vs. precision:** UMLS provides broad coverage with many clinically meaningful classes (e.g., “antihypertensive drug”), but also includes noisy or irrelevant groupings. I added an abstraction layer to override UMLS classes, balancing breadth with clinical precision. 
 
@@ -201,7 +201,7 @@ streamlit run pipeline_query/app.py
 The ingestion pipeline's runtime and memory usage can be optimized in several places to enable scaling to very large datasets (see performance & reproducibility). 
 
 > ## **Vision:**
-> The long-term goal is a **“Wolfram Alpha for medicine”:** a system that shows transparently how it interpreted the data in response to a query using guideline-aware navigation. In medicine this would be invaluable, since clinical guidelines and algorithms are referenced all the time as physicians work up and treat patients. Ideally the system would surface the relevant guideline, traverse it step-by-step, and show where the patient lands. Physicians would **love** this, and my recent hospital years give me an edge for building it.
+> The long-term goal is a **“Wolfram Alpha for medicine”:** a system that shows transparently how it interpreted the data in response to a query using guideline-aware navigation. In medicine this would be invaluable, since clinical guidelines and algorithms are referenced all the time as physicians work up and treat patients. Ideally the system would surface the relevant guideline, traverse it step-by-step, and show where the patient lands. **Physicians would love this**, and my recent hospital years give me an edge for building it.
 
 ---
 

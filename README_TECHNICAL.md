@@ -42,6 +42,7 @@ Two modular pipelines:
 │   ├── train_relations_model.ipynb
 │   └── *_helpers.py
 │
+├── logging_setup.py
 ├── raw_ehr_records
 │
 ├── requirements.yml
@@ -141,23 +142,25 @@ export OPENAI_API_KEY=...
 *Note: if you only intend to use the query pipeline you can comment out several packages in `requirements.yml` (they are labeled).*
 ### Running the Ingestion Pipeline
 ```
-python pipeline_ingest/ingest.py \
-  ./db/input.jsonl \ 
-  ./pipeline_query/db \ 
-  --mrconso_rrf PATH \ 
-  --mrrel_rrf PATH \ 
-  --mrsty_rrf PATH
+python -m pipeline_ingest.ingest \
+  ./pipeline_ingest/db/input.jsonl \
+  ./pipeline_query/db \
+  --mrconso_rrf /path/to/MRCONSO.RRF \
+  --mrrel_rrf   /path/to/MRREL.RRF \
+  --mrsty_rrf   /path/to/MRSTY.RRF
 ```
 *Note: you will have to obtain your own UMLS license and download mrconso.rrf+mrrel.rrf+mrsty.rrf, which aren't provided in this repo.*
 ### Running the Query Pipeline from the command line
 <pre>
-python pipeline_query/cli.py "did creatinine rise after pump removal in any patient?"
+python -m pipeline_query.cli "did creatinine rise after pump removal in any patient?"
 </pre>
 
 ### Running the Query Pipeline using the frontend
 ```
 streamlit run pipeline_query/app.py
 ```
+
+All commands must be run from the repo root using the '-m' flag where included. 
 
 ---
 
@@ -201,7 +204,7 @@ streamlit run pipeline_query/app.py
 The ingestion pipeline's runtime and memory usage can be optimized in several places to enable scaling to very large datasets (see performance & reproducibility). 
 
 > ## **Vision:**
-> The long-term goal is a **“Wolfram Alpha for medicine”:** a system that shows transparently how it interpreted the data in response to a query using guideline-aware navigation. In medicine this would be invaluable, since clinical guidelines and algorithms are referenced all the time as physicians work up and treat patients. Ideally the system would surface the relevant guideline, traverse it step-by-step, and show where the patient lands. **Physicians would love this**, and my recent hospital years give me an edge for building it.
+> The long-term goal is a **“Wolfram Alpha for physicians”:** a system that shows transparently how it interpreted the data in response to a query using guideline-aware navigation. In medicine this would be invaluable, since clinical guidelines and algorithms are referenced all the time as physicians work up and treat patients. Ideally the system would surface the relevant guideline, traverse it step-by-step, and show where the patient lands. **Physicians would love this**, and my recent hospital years give me an edge for building it.
 
 ---
 

@@ -16,16 +16,17 @@ Environment variables used:
 
 import os
 from dataclasses import dataclass
+from pathlib import Path
 
 
 @dataclass(frozen=True)
 class Params:
     openai_api_key = os.getenv("OPENAI_API_KEY", "")
-    duckdb_path = "./db/master_db_v1.duckdb"
-    faiss_path = "./db/alias_vectors.faiss"
-    idmap_path = "./db/alias_vector_ids.npy"
+    duckdb_path = str(Path(__file__).resolve().parent / "db" / "master_db_v1.duckdb")
+    faiss_path = str(Path(__file__).resolve().parent / "db" / "alias_vectors.faiss")
+    idmap_path = str(Path(__file__).resolve().parent / "db" / "alias_vector_ids.npy")
+    custom_concepts_path = str(Path(__file__).resolve().parent / "db" / "custom_concepts")
     embedder_model = "cambridgeltl/SapBERT-from-PubMedBERT-fulltext"
-    custom_concepts_path = "./db/custom_concepts"
     pg_dsn = os.getenv("PG_DSN", "")
     gpt_model = "gpt-4.1"
     intent_parser_max_retries = 1

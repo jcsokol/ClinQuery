@@ -30,10 +30,10 @@ import uuid
 from collections.abc import Callable
 from datetime import datetime, timezone
 
-from config import settings
-from intent_parser import parse_intent
-from response_engine import generate_response
-from sql_engine import SqlEngine
+from pipeline_query.config import settings
+from pipeline_query.intent_parser import parse_intent
+from pipeline_query.response_engine import generate_response
+from pipeline_query.sql_engine import SqlEngine
 
 
 def run_query(user_query: str, session_id: str, query_compiler: Callable):

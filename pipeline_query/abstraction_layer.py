@@ -35,8 +35,9 @@ import duckdb
 import faiss
 import numpy as np
 import yaml
-from config import settings
 from rapidfuzz import fuzz, process
+
+from pipeline_query.config import settings
 
 # ----------------- Public data structures -----------------
 

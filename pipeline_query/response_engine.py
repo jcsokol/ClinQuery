@@ -23,9 +23,10 @@ import json
 import random
 
 import pandas as pd
-from config import settings
 from openai import OpenAI
-from prompts import final_llm_call_rubric, final_llm_call_system_prompt
+
+from pipeline_query.config import settings
+from pipeline_query.prompts import final_llm_call_rubric, final_llm_call_system_prompt
 
 # ---------------- Public API ----------------
 

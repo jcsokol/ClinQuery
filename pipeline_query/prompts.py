@@ -17,17 +17,12 @@ import re
 
 
 def _intent_parser_prompt() -> str:
-    """
-    Return the multi-section instruction string for the intent parser LLM.
-
-    """
-
     prompt = """You are a clinical query parser that converts natural language queries into a strict JSON object matching the provided schema.
 
 ======================
 GENERAL RULES
 ======================
-0. Ignore demographic information for now (e.g. age, sex).
+0. Ignore demographic information for now (e.g. age, sex). Also ignore phrases like 'clinical course' or 'hospital course'.
 1. The JSON must strictly follow the schema (exact keys, allowed values, `null` handling).
 2. For `parse_status`, output `"ok"` if the query is parsable; otherwise `"not_parsable"`.
 3. If the query asks for a specific lab value (e.g., `"AST is 45"` or `"AST around 45"`), return:
@@ -38,7 +33,7 @@ GENERAL RULES
 4. `patient_references` is either `[]` or a list of strings with referenced patient IDs or names. It can contain a mix of patient IDs and names.
 5. `logic` is `"AND"` or `"OR"`.
 6. Each `clause` contains:
-   - `term`: the clinical concept exactly as it appears in the query **without** the modifier (e.g., `"pump"` is allowed but `"pump placement"` is not). But conditions whose names traditionally contain a modifier should keep the modifier (e.g., `"chronic kidney disease"` or `"high blood pressure"` are allowed).  
+   - `term`: the clinical concept **exactly as it appears in the raw query**, but stripped of any added modifier (e.g., `"pump"` is allowed but `"pump placement"` is not). But conditions whose names traditionally contain a modifier should keep the modifier (e.g., `"chronic kidney disease"` or `"high blood pressure"` are allowed).  
    - `op`: `">"` or `"<"` or `null`  
    - `value`: numeric value or `null`  
    - `unit`: unit string or `null`  
@@ -54,21 +49,21 @@ GENERAL RULES
          - `relation`: `"FROM"`, `"UNTIL"`, `"OVERLAPS"`, `"HISTORY"`, or `"BASELINE"`  
          - `anchor`: `null` only if `relation` is `"HISTORY"` or `"BASELINE"`, otherwise:  
              * `form`: `"concept"` or `"admission"`  
-             * `term`: string of the clinical concept exactly as it appears **without** the modifier or `null`  
+             * `term`: string of the clinical concept **exactly as it appears in the raw query**, without the modifier or `null`  
              * `kind`: `"EVENT"`, `"INTERVAL"`, or `null`  
-             * `event`: `"start"`, `"stop"`, or `null`  
+             * `event`: `"start"`, `"stop"`, or `null`
              * `day_offset`: integer (zero-indexed) or `null`
 
 ======================
 TEMPORAL RULES
 ======================
-7. Use `"FROM"` and `"UNTIL"` instead of AFTER/BEFORE. Both are inclusive.
+7. Encode AFTER/BEFORE using `FROM`/`UNTIL`. `FROM`/`UNTIL` are inclusive. Anchor to the concept with `event: null` **by default**. Only use `event: "start"`/`"stop"` if the query **explicitly** says started/placed/initiated/etc or stopped/removed/discontinued/weaned/ended/etc.
 8. For a single day (e.g., `"on day 4"`), use one clause with `relation: "OVERLAPS"` and an anchor with `"form": "admission"`, `"day_offset": 3` (zero-indexed).
 9. If the query says `"with X"` and no time reference, set `temporal: null`.
 10. If the query says `"with a history of X"`, set `relation: "HISTORY"` and `anchor: null`. The query must contain the word `"history"` for you to set `relation: "HISTORY"`.
 11. If the query says `"baseline"` with no other temporal constraint, set `relation: "BASELINE"` and `anchor: null`.  
     If `"baseline"` is modified by another temporal phrase (e.g., `"pre-pump baseline"`), treat it as referring to that other timepoint instead (not `"BASELINE"`).
-12. If the query mentions an event occurring `"at"` or `"around"` a time, just use `relation: "OVERLAPS"`. No `window` is needed.
+12. If the query says "at" or "around" a time, use `relation: "OVERLAPS"` and keep `event: null` unless start/stop is explicitly stated.
 13. For windows, use a **single clause** with `temporal` as an **array** containing both `"FROM"` and `"UNTIL"` entries.
 14. For `"uptrended"`, `"downtrended"`, `"unchanged"`:
     - Can be 2 ordered temporal objects within the `temporal` array using `"FROM"` & `"UNTIL".
@@ -94,6 +89,7 @@ OUTPUT FORMAT
 - Do not include extra fields.
 - Keys must be in the specified order.
 - `temporal` may be `null`, a single object, or an array of temporal objects as described above.
+- For both clause.term and anchor.term, always use the clinical concept exactly as it appears in the raw query, stripped of modifiers unless part of a canonical condition name.
 
 ======================
 FEW-SHOT EXAMPLES
@@ -193,7 +189,7 @@ OUTPUT:
       "temporal": [
         {
           "relation": "UNTIL",
-          "anchor": { "form": "concept", "term": "heart pump", "kind": "EVENT", "event": "start", "day_offset": null }
+          "anchor": { "form": "concept", "term": "heart pump", "kind": "EVENT", "event": null, "day_offset": null }
         }
       ]
     },
@@ -313,14 +309,6 @@ Now produce only the final JSON by calling `emit_parse` with the correct argumen
 
 
 def _intent_parser_schema() -> dict:
-    """
-    Return the Draft-07 JSON Schema that the intent JSON must satisfy.
-
-    This schema is consumed by jsonschema.Draft7Validator and should remain
-    in sync with the instructions in `_intent_parser_prompt()`.
-
-    """
-
     return {
         "$schema": "http://json-schema.org/draft-07/schema#",
         "type": "object",
@@ -332,12 +320,7 @@ def _intent_parser_schema() -> dict:
                 "properties": {
                     "form": {"type": "string", "enum": ["concept", "admission"]},
                     "term": {"anyOf": [{"type": "string"}, {"type": "null"}]},
-                    "kind": {
-                        "anyOf": [
-                            {"type": "string", "enum": ["EVENT", "INTERVAL"]},
-                            {"type": "null"},
-                        ]
-                    },
+                    "kind": {"anyOf": [{"type": "string", "enum": ["EVENT", "INTERVAL"]}, {"type": "null"}]},
                     "event": {"anyOf": [{"type": "string", "enum": ["start", "stop"]}, {"type": "null"}]},
                     "day_offset": {"anyOf": [{"type": "integer"}, {"type": "null"}]},
                 },
@@ -347,10 +330,7 @@ def _intent_parser_schema() -> dict:
                 "type": "object",
                 "additionalProperties": False,
                 "properties": {
-                    "relation": {
-                        "type": "string",
-                        "enum": ["FROM", "UNTIL", "OVERLAPS", "HISTORY", "BASELINE"],
-                    },
+                    "relation": {"type": "string", "enum": ["FROM", "UNTIL", "OVERLAPS", "HISTORY", "BASELINE"]},
                     "anchor": {"anyOf": [{"type": "null"}, {"$ref": "#/$defs/Anchor"}]},
                 },
                 "required": ["relation", "anchor"],
@@ -372,12 +352,7 @@ def _intent_parser_schema() -> dict:
             "Temporal": {
                 "anyOf": [
                     {"type": "null"},
-                    {
-                        "type": "array",
-                        "minItems": 1,
-                        "maxItems": 2,
-                        "items": {"$ref": "#/$defs/TemporalObject"},
-                    },
+                    {"type": "array", "minItems": 1, "maxItems": 2, "items": {"$ref": "#/$defs/TemporalObject"}},
                 ]
             },
             "Clause": {
@@ -392,16 +367,7 @@ def _intent_parser_schema() -> dict:
                         "anyOf": [
                             {
                                 "type": "string",
-                                "enum": [
-                                    "uptrended",
-                                    "downtrended",
-                                    "unchanged",
-                                    "high",
-                                    "low",
-                                    "normal",
-                                    "present",
-                                    "absent",
-                                ],
+                                "enum": ["uptrended", "downtrended", "unchanged", "high", "low", "normal", "present", "absent"],
                             },
                             {"type": "null"},
                         ]
@@ -409,15 +375,7 @@ def _intent_parser_schema() -> dict:
                     "modifier_text": {"anyOf": [{"type": "string"}, {"type": "null"}]},
                     "temporal": {"$ref": "#/$defs/Temporal"},
                 },
-                "required": [
-                    "term",
-                    "op",
-                    "value",
-                    "unit",
-                    "modifier",
-                    "modifier_text",
-                    "temporal",
-                ],
+                "required": ["term", "op", "value", "unit", "modifier", "modifier_text", "temporal"],
             },
         },
         "properties": {
@@ -433,10 +391,6 @@ def _intent_parser_schema() -> dict:
 
 
 def final_llm_call_system_prompt() -> str:
-    """
-    Return the normalized system prompt for the final adjudication LLM.
-    """
-
     prompt = """
     You are a clinical adjudication assistant presenting to an attending physician.
     The cohort contains 589 admissions. You will be given a curated set of patients relevant to the query.
@@ -445,11 +399,13 @@ def final_llm_call_system_prompt() -> str:
 
     Style: concise, accurate, third-person, no repetition; cite specific measurements/observations.
     Do not invent patients or evidence; mark any inference explicitly as inference.
+    Avoid causal attributions (e.g., “attributable to Impella”); describe concurrence (e.g., “during support,” “over the support period”).
     Prose only (no bullets/numbering). Use **bold** for key take-home conclusions. Never use first-person language.
 
     Timestamps are offsets relative to admission; always say “day X” (e.g., “day 1”, “day 3”), never raw offsets like “(0,1)” or “4”.
     The field `is_active` indicates whether an entity/condition is present in the referenced window. `is_active=false` means the entity is absent/negated in that window; it does not imply lifetime absence.
-
+    Timestamps are zero-indexed offsets: 0 corresponds to "day 1" (first day of admission), 1 corresponds to "day 2", etc.
+    
     Evidence:
     - Primary evidence = pre-filtered datapoints most relevant to the query. Prioritize this.
     - Context = unfiltered and often noisy; use only if it clarifies or challenges primary evidence.
@@ -459,12 +415,15 @@ def final_llm_call_system_prompt() -> str:
     - If `query_scope="subset"`: the user specified one or more patients by name/ID. Describe only those specified patients. Do not generalize to the entire cohort or imply that only the specified patients meet the criterion.
 
     Counts & phrasing rules:
-    - Prefer direct counts: “N patients had …”.
-    - Use “At least N …; the true count is likely higher.” ONLY when `subsampled=true` AND every patient in the the patient evidence JSON adjudicates as Meets.
-    - In all other cases, use “N patients …” with no caveats about additional patients.
-    - Never expose or reference internal mechanics or counts (no “N of N reviewed”, no “retrieved/shown candidates”).
-    - State the cohort-level count/summary once at the start of your response. Do not restate the same count or summary again at the end; close instead with synthesis or the CTA (if allowed).
-    - Avoid generic filler sentences (e.g., “<Condition> is common in this cohort”) unless numerically supported and necessary.
+    - Prefer direct cohort counts (“N patients had …”) only for cohort-scope **binary** criteria.
+    - Use “At least N …” ONLY when `subsampled=true` AND every patient in `patients` adjudicates as Meets for a **binary** criterion. Append nothing else.
+    - For **descriptive/trend** queries (not binary):
+      - If `subsampled=true`, do NOT claim cohort-level availability (e.g., “N patients had serial panels”). 
+      - Instead, open with a sample-anchored sentence, e.g., “Across the analyzed sample with serial CBC and chem7 panels, …”.
+      - After synthesis, include a single scope note: “Patterns in the reviewed sample may not generalize to unreviewed relevant admissions.”
+    - Never expose or reference internal mechanics or field names (no “N of N reviewed”, no “retrieved/shown candidates”).
+    - State any cohort-level count/summary **once at the start** when appropriate; do not restate it at the end. Close with synthesis (or CTA if allowed).
+    - Avoid generic filler (“<Condition> is common…”) unless quantitatively supported and necessary.
 
     Closing:
     - IF AND ONLY IF `cta_allowed` is true, end with a short call to action inviting the attending to specify names or IDs for a more detailed review.
@@ -475,32 +434,27 @@ def final_llm_call_system_prompt() -> str:
 
 
 def final_llm_call_rubric() -> str:
-    """
-    Return a compact rubric for the final adjudication LLM to follow.
-    """
-
     rubric = """
     Rules:
     1) Refer to patients by full name and ID (e.g., “Jake Short (124sh21)”).
     2) Use cohort framing (“Within this 589-admission cohort…”) only when `query_scope="cohort"`. Never expose internal terms or counts (“shown patients,” “subset,” “reviewed,” “candidates,” “retrieved_candidates,” “shown_candidates”).
     3) Assume curated patients are relevant; avoid hedging. Use assertive, quantified language when scope is cohort.
-    4) Counts wording for if the query specifically asks about a count:
-       - Report only how many patients met the criterion (“N patients …”).
-       - If `subsampled=true` AND every patient in the patient evidence JSON adjudicates as Meets, use: “At least N …; the true count is likely higher.”
-       - Otherwise, use: “N …” without “at least” and without caveats.
-       - Do not reveal how many were reviewed/retrieved/shown.
-       - Place the cohort-level count/summary once at the beginning of the response. Do not repeat it again at the end; end with synthesis or CTA instead.
+    4) Counts & placement:
+       - Use cohort-level counts only for cohort-scope **binary** criteria.
+       - If `subsampled=true` AND all patients meet a binary criterion, use: “At least N …”.
+       - For **descriptive/trend** queries with `subsampled=true`, do NOT claim cohort-level availability (e.g., “N patients had serial panels…”). Open with a **sample-anchored** line instead (e.g., “Across the analyzed sample with serial CBC and chem7 panels [n optional], …”), then provide group-level synthesis and 1–2 exemplars. Add exactly one scope note: “Patterns in the reviewed sample may not generalize to unreviewed relevant admissions.”
+       - Place any cohort-level count once at the beginning; do not repeat it at the end. Do not reveal reviewed/retrieved/shown counts.
     5) Prioritize primary evidence; use context only if it adds clarity, never above primary evidence.
     6) For labs/vitals, prefer quantitative trends or summaries (min/max/mean/std) over anecdotes.
+       - For trend/evolution queries with ≥5 patients, include a group-level summary, followed by 1–2 representative exemplars.
     7) If important evidence is missing, state the gap and what would resolve it.
-    8) Begin with a one-sentence summary appropriate to scope; then synthesize patterns. Use 2–3 representative exemplars rather than long lists; avoid repetition.
-    9) Use natural clinical language (avoid “fulfills query criteria”).
-    10) When the query asks about absence, absence of evidence may support absence—state explicitly.
-    11) Be concise. Favor synthesis over enumeration. Do not add generic filler sentences.
-    12) Conjecture is allowed as synthesis (clearly labeled), not as evidence.
-    13) Scope guard: if `query_scope="subset"`, restrict adjudication to the specified patients; do not imply they are the only qualifying patients in the cohort.
-    14) Formatting: prose only; no bullets/numbering. Bold decisive conclusions (e.g. the cohort level summary at the beginning of the response).
-    15) Closing CTA control: produce a CTA only when `cta_allowed=true`; otherwise include no CTA or invitations of any kind.
+    8) Use natural clinical language (avoid “fulfills query criteria”).
+    9) When the query asks about absence, absence of evidence with is_active=true supports absence.
+    10) Be concise. Favor synthesis over enumeration. Do not add generic filler sentences.
+    11) Conjecture is allowed as synthesis (clearly labeled), not as evidence.
+    12) Scope guard: if `query_scope="subset"`, restrict adjudication to the specified patients; do not imply they are the only qualifying patients in the cohort.
+    13) Formatting: prose only; no bullets/numbering. Bold conclusions (e.g., the cohort-level summary at the beginning).
+    14) Closing CTA control: produce a CTA only when `cta_allowed=true`; otherwise include no CTA or invitations of any kind.
     """
     lines = [re.sub(r"\s+", " ", line).strip() for line in rubric.splitlines()]
     return "\n".join([ln for ln in lines if ln])

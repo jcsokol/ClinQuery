@@ -52,9 +52,8 @@ import argparse
 import sys
 from pathlib import Path
 
-import ner
-import relations
-from normalize_and_write import Normalizer
+from pipeline_ingest import ner, relations
+from pipeline_ingest.normalize_and_write import Normalizer
 
 
 def parse_args():

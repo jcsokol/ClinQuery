@@ -15,7 +15,8 @@ from typing import Any
 import numpy as np
 import pandas as pd
 import psycopg
-from config import settings
+
+from pipeline_query.config import settings
 
 DDL = """
 create table if not exists query_logs (

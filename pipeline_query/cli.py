@@ -17,9 +17,9 @@ message if none was produced).
 import argparse
 import uuid
 
-from abstraction_layer import QueryCompiler
-from config import settings
-from main import run_query
+from pipeline_query.abstraction_layer import QueryCompiler
+from pipeline_query.config import settings
+from pipeline_query.main import run_query
 
 
 def load_compiler() -> QueryCompiler:

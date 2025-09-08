@@ -1,7 +1,6 @@
 # Clinical Timeline Query System
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open-informational)](https://clinquery-live.onrender.com/)
-[![Technical README](https://img.shields.io/badge/Technical-README-blue)](https://github.com/jcsokol/ClinQuery/blob/main/README_TECHNICAL.md)
+[**Live Demo**](https://clinquery-live.onrender.com/) · [**Technical README**](https://github.com/jcsokol/ClinQuery/blob/main/README_TECHNICAL.md)
 
 I’m an MD trained in Massachusetts’ largest safety-net hospital (adult + pediatric emergency sub-internships) and an engineer (Stanford BS/MS). I built this end-to-end clinical reasoning engine — from NER to SQL to natural language querying — that answers questions most retrieval-based LLM systems can’t.
 
@@ -24,7 +23,8 @@ Real retrieval-based clinical reasoning needs structured logic over time. But mo
 
 - Interpret phrases like “improved perfusion” or “deteriorated after diuresis”
 - Resolve relative time constraints like “≥2 days post-implant”
-- Map abstractions like “hemodynamic instability” into concrete measurable proxies
+- Map abstractions like “hemodynamic instability” into measurable proxies
+- Expose a transparent reasoning chain physicians can audit
 
 What happens under the hood:
 

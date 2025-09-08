@@ -20,10 +20,11 @@ import json
 import time
 from typing import Any
 
-from config import settings
 from jsonschema import Draft7Validator
 from openai import OpenAI
-from prompts import _intent_parser_prompt, _intent_parser_schema
+
+from pipeline_query.config import settings
+from pipeline_query.prompts import _intent_parser_prompt, _intent_parser_schema
 
 # --------------- public API ---------------
 

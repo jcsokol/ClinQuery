@@ -160,7 +160,7 @@ python -m pipeline_query.cli "did creatinine rise after pump removal in any pati
 streamlit run pipeline_query/app.py
 ```
 
-All commands must be run from the repo root using the '-m' flag where included. 
+*All commands must be run from the repo root using the '-m' flag where included.*
 
 ---
 

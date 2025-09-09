@@ -22,7 +22,8 @@ Two modular pipelines:
 │   ├── ner.py
 │   ├── relations.py
 │   ├── normalize.py
-│   └── sql_writer.py
+│   ├── sql_writer.py
+│   └── logger.py
 │
 ├── pipeline_query/
 │   ├── db
@@ -42,7 +43,6 @@ Two modular pipelines:
 │   ├── train_relations_model.ipynb
 │   └── *_helpers.py
 │
-├── logging_setup.py
 ├── raw_ehr_records
 │
 ├── requirements.yml

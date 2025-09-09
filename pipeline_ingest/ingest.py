@@ -49,11 +49,15 @@ Additional notes:
 """
 
 import argparse
+import logging
 import sys
 from pathlib import Path
 
+from logging_setup import setup_logging
 from pipeline_ingest import ner, relations
 from pipeline_ingest.normalize_and_write import Normalizer
+
+log = logging.getLogger(__name__)
 
 
 def parse_args():
@@ -93,25 +97,26 @@ def parse_args():
 
 
 def main() -> int:
+    setup_logging("INFO")
     args = parse_args()
     if not args.jsonl_path.exists():
-        print(f"[ingest] Input not found: {args.jsonl_path}", file=sys.stderr)
-        return 1
+        log.error(f"Input not found: {args.jsonl_path}")
+        raise SystemExit(1)
     if not args.ner_model_path.exists():
-        print(f"[ingest] NER model path does not exist: {args.ner_model_path}", file=sys.stderr)
-        return 1
+        log.error(f"NER model path does not exist: {args.ner_model_path}")
+        raise SystemExit(1)
     if not args.rel_model_path.exists():
-        print(f"[ingest] REL model path does not exist: {args.rel_model_path}", file=sys.stderr)
-        return 1
+        log.error(f"REL model path does not exist: {args.rel_model_path}")
+        raise SystemExit(1)
     if not args.mrconso_rrf.exists():
-        print(f"[ingest] mrconso.rrf path does not exist: {args.mrconso_rrf}", file=sys.stderr)
-        return 1
+        log.error(f"mrconso.rrf path does not exist: {args.mrconso_rrf}")
+        raise SystemExit(1)
     if not args.mrrel_rrf.exists():
-        print(f"[ingest] mrrel.rrf path does not exist: {args.mrrel_rrf}", file=sys.stderr)
-        return 1
+        log.error(f"[ingest] mrrel.rrf path does not exist: {args.mrrel_rrf}")
+        raise SystemExit(1)
     if not args.mrsty_rrf.exists():
-        print(f"[ingest] mrsty.rrf path does not exist: {args.mrsty_rrf}", file=sys.stderr)
-        return 1
+        log.error(f"mrsty.rrf path does not exist: {args.mrsty_rrf}")
+        raise SystemExit(1)
 
     workdir = args.out_path
     workdir.mkdir(parents=True, exist_ok=True)
@@ -121,22 +126,22 @@ def main() -> int:
     term_stats_out = workdir / "term_stats_resolved.csv", workdir / "term_stats_unresolved.csv"
     csv_out = workdir / "db.csv"
 
-    print("[ingest] Stage 1: NER …")
+    log.info("Stage 1: NER …")
     ner.run_file(
         str(args.jsonl_path), str(ner_rel_out), str(args.ner_model_path)
     )  # also conducts file checks on args.jsonl_path to ensure it has all required fields and that all uids are unique
 
-    print("[ingest] Stage 2: RELATIONS …")
+    log.info("Stage 2: RELATIONS …")
     relations.run_file(str(ner_rel_out), str(rel_tmp_out), str(args.rel_model_path))
     rel_tmp_out.replace(ner_rel_out)
 
-    print("[ingest] Stage 3: NORMALIZE …")
+    log.info("Stage 3: NORMALIZE …")
     norm = Normalizer(str(args.mrconso_rrf), str(args.mrrel_rrf), str(args.mrsty_rrf), keep=args.keep)
     norm.normalize(
         in_jsonl=str(ner_rel_out), term_stats_csv=str(term_stats_out)
     )  # when args.keep==False will not produce term_stats_out
 
-    print("[ingest] Stage 4: DB WRITE …")
+    log.info("Stage 4: DB WRITE …")
     norm.write_db(str(csv_out), str(workdir), args.to_csv)
 
     # now remove intermediary files if user does not need them
@@ -149,10 +154,10 @@ def main() -> int:
         except Exception:
             pass
 
-    print("[ingest] Done")
+    log.info("Done")
 
     return 0
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())

@@ -12,9 +12,12 @@ from datetime import datetime, timezone
 
 import streamlit as st
 
+from logging_setup import setup_logging
 from pipeline_query.abstraction_layer import QueryCompiler
 from pipeline_query.config import settings
 from pipeline_query.main import run_query
+
+setup_logging("INFO")
 
 st.set_page_config(page_title="EHR Query Engine Demo", layout="wide")
 

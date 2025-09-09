@@ -45,6 +45,10 @@ if __name__ == "__main__":
     parser.add_argument("query", help="The question to ask (wrap in quotes)")
     args = parser.parse_args()
 
+    from logging_setup import setup_logging
+
+    setup_logging("INFO")
+
     qc = load_compiler()
     result = run_query(user_query=args.query, session_id=str(uuid.uuid4()), query_compiler=qc)
     print(result.get("final_answer") or "No answer generated.")

@@ -24,6 +24,7 @@ External dependencies
 from __future__ import annotations
 
 import copy
+import logging
 import re
 from collections import defaultdict
 from collections.abc import Callable
@@ -38,6 +39,9 @@ import yaml
 from rapidfuzz import fuzz, process
 
 from pipeline_query.config import settings
+
+log = logging.getLogger(__name__)
+
 
 # ----------------- Public data structures -----------------
 
@@ -474,7 +478,7 @@ class QueryCompiler:
             # Populate term-only router: term -> concept_key mappings for all terms
             for term in aliases.keys():
                 if term in custom_alias_to_key.keys():
-                    print("warning: overlapping aliases bewteen yaml files.")
+                    log.warning("warning: overlapping aliases between yaml files.")
                 custom_alias_to_key[term] = concept_key
 
         return custom_concepts, custom_alias_to_key

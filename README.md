@@ -83,6 +83,23 @@ A customized version was delivered to J&J for internal use on real EHR data.
 
 ---
 
+## Quickstart (Query Engine Only)
+
+```
+git clone https://github.com/jcsokol/ClinQuery.git
+cd ClinQuery
+
+conda env create -f requirements.cpu.yml
+conda activate clinquery_cpu
+
+export OPENAI_API_KEY=...
+
+python -m pipeline_query.cli "which patients developed acute kidney injury 2–4 days post pump placement?"
+```
+*For GPU training/ingestion pipelines see the [technical readme](https://github.com/jcsokol/ClinQuery/blob/main/README_TECHNICAL.md).*
+
+---
+
 ## About Me
 
 I bridge frontline clinical experience with production-ready ML engineering, with:

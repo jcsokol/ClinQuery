@@ -125,19 +125,19 @@ Two modular pipelines:
 
 ## 5. Installation & Running
 
-### Installation (linux, gpu support)
+### Installation
 ```
-# create environment
-conda env create -f requirements.yml
-conda activate clinquery_environment
+# GPU-enabled (Linux + NVIDIA GPU only)
+conda env create -f requirements.gpu.yml
+conda activate clinquery_gpu
 
 # (optional) register notebook kernel
-python -m ipykernel install --user --name=clinquery_environment
+python -m ipykernel install --user --name=clinquery_gpu
 
 # set API key
 export OPENAI_API_KEY=...
 ```
-*Note: if you only intend to use the query pipeline you can comment out several packages in `requirements.yml` (they are labeled).*
+*Note: if you only intend to use the query pipeline you can use the more lightweight requirements.cpu.yml on any platform.*
 ### Running the Ingestion Pipeline
 ```
 python -m pipeline_ingest.ingest \
@@ -147,7 +147,7 @@ python -m pipeline_ingest.ingest \
   --mrrel_rrf   /path/to/MRREL.RRF \
   --mrsty_rrf   /path/to/MRSTY.RRF
 ```
-*Note: you will have to obtain your own UMLS license and download mrconso.rrf+mrrel.rrf+mrsty.rrf, which aren't provided in this repo.*
+*Note: you will have to obtain your own UMLS license and download `MRCONSO.RRF`, `MRREL.RRF`, `MRSTY.RRF`.*
 ### Running the Query Pipeline from the command line
 <pre>
 python -m pipeline_query.cli "did creatinine rise after pump removal in any patient?"
@@ -192,7 +192,7 @@ streamlit run pipeline_query/app.py
 **Performance:** The ingestion pipeline's runtime and memory usage can be optimized in several places to enable scaling to very large datasets (see performance & reproducibility). 
 
 > ## **Vision:**
-> Build a **“Wolfram Alpha for physicians”**, a system that transparently maps patient data onto evidence-based clinical algorithms and guidelines. Physicians don’t just want answers; they want to see the reasoning path, step by step, the same way they are trained to think. This tool could transform how doctors interact with patient data, and my background in both clinical medicine and ML engineering puts me in a unique position to build it.
+> Build a **“Wolfram Alpha for physicians”**, a system that transparently maps patient data onto evidence-based clinical algorithms and guidelines. Physicians don’t just want answers; they want to see the reasoning path, step by step, the same way they are trained to think. This tool could transform how doctors interact with patient data, and my background in both clinical medicine and ML engineering puts me in a position to build a working version fast.
 
 ---
 

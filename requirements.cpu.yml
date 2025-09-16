@@ -1,0 +1,35 @@
+name: clinquery_cpu # this environment cannot be used for model training or the ingestion pipeline; it only supports the query engine
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy=1.26.*
+  - pandas=2.2.*
+  - duckdb=1.1.*
+  - requests=2.*
+  - rich=13.*
+  - typing_extensions=4.*
+  - tzdata
+  - setuptools
+  - wheel
+  - pyarrow
+  - optree=0.13.*
+  - psycopg=3.*
+  - streamlit
+  - faiss-cpu
+  - pyyaml
+  - black
+  - ruff
+  - pytest
+  - pre-commit
+
+  # TensorFlow CPU
+  - tensorflow=2.18.*
+  - tensorboard=2.18.*
+
+  - pip:
+      - rapidfuzz
+      - sentence-transformers --no-deps
+      - openai
+      - sqlparse

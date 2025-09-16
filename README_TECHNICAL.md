@@ -192,7 +192,7 @@ streamlit run pipeline_query/app.py
 **Performance:** The ingestion pipeline's runtime and memory usage can be optimized in several places to enable scaling to very large datasets (see performance & reproducibility). 
 
 > ## **Vision:**
-> Build a **“Wolfram Alpha for physicians”**, a system that transparently maps patient data onto evidence-based clinical algorithms and guidelines. Physicians don’t just want answers; they want to see the reasoning path, step by step, the same way they are trained to think. This tool could transform how doctors interact with patient data, and my background in both clinical medicine and ML engineering puts me in a position to build a working version fast.
+> A **“Wolfram Alpha for physicians”**, a system that transparently maps patient data onto evidence-based clinical algorithms and guidelines. Physicians don’t just want answers; they want to see the reasoning path, step by step, the same way they are trained to think. This tool could transform how doctors interact with patient data, and my background in both clinical medicine and ML engineering puts me in a position to build a working version very fast.
 
 ---
 

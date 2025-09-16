@@ -21,6 +21,7 @@ dependencies:
   - psycopg
   - streamlit
   - faiss-cpu
+  - pyyaml
   - scipy=1.12.* # not required for pipeline_query
   - scikit-learn=1.5.* # not required for pipeline_query
   - matplotlib=3.8.* # not required for pipeline_query

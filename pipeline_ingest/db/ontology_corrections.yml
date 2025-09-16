@@ -1,0 +1,196 @@
+# ontology_rules.yml — v1 (2025-08-31)
+#
+# PURPOSE
+#   Human-editable rules for canonicalizing/enriching clinical terms.
+#   Consumed by normalize_and_write.py. Empty sections = no-op.
+#
+# EXECUTION ORDER (add-only unless noted)
+#   1) preprocess: drop short/noisy aliases; remove listed aliases/whole sets.
+#   2) equivalent_term_sets: if ANY token appears in a set, add ALL from bucket, and merge any sets that now overlap.
+#   3) class_mappings: map terms (canonical or alias) → classes.
+#   4) new_classes: attach new class labels to listed terms.
+#   5) post_edits (optional):
+#        - term_merges / class_merges: add-only expansions.
+#        - term_removals / class_removals: remove exact strings.
+#        - term_set_splits: if coverage met, split into two named sets & drop source set.
+#
+# =============================================================================
+
+
+
+# PREPROCESSING
+preprocess:
+  # Drop shorter aliases at the get go because these are noisy and need to be defined manually
+  min_alias_length: 4 
+  # now remove any of these aliases (but don't remove the associated term sets)
+  aliases_to_remove: []
+  # now remove any term set that contains any of these:
+  term_sets_to_remove: [] 
+
+# HARD EQUIVALENCE: 
+equivalent_term_sets: 
+  - ['cardiac ejection fraction','ef','ejection fraction','lvef']
+  - ['creatinine','cr','creat','crea']
+  - ['blood pressure','bp']
+  - ['systolic blood pressure','sbp']
+  - ['mean wedge pressure','pcwp']
+  - ['swan ganz catheterization','swan ganz']
+  - ['heart rate','hr','bpm']
+  - ['echocardiography','echo','tte','bedside echo','cardiac echocardiography']
+  - ['chronic kidney disease','ckd']
+  - ['cardiac pacemaker','pacemaker']
+  - ['respiratory rate','rr']
+  - ['cystatin c','cystatin']
+  - ['urea','bun','blood urea nitrogen']
+  - ['sodium','na']
+  - ['potassium','k']
+  - ['calcium','ca']
+  - ['nesiritide','bnp']
+  - ['hemoglobin','hgb']
+  - ['body mass index','bmi']
+  - ['alanine aminotransferase','alt']
+  - ['ast serum measurement','ast']
+  - ['temperature','temp']
+  - ['creatine kinase','ck','cpk']
+  - ['white blood cell count','wbc']
+  - ['thyrotrophin','tsh']
+  - ['c reactive protein','crp']
+  - ['mean arterial pressure','map']
+  - ['international normalized ratio','inr']
+  - ['platelet','plt','plts','platelets']
+  - ['central venous pressure','cvp']
+  - ['iron','fe']
+  - ['plain x ray of chest','cxr','chest xray']
+  - ['cardiac index','ci']
+  - ['pulse oximetry','spo2']
+  - ['chloride salt','cl']
+  - ['bicarbonate','hco3']
+  - ['carbon dioxide','co2']
+  - ['glucose','glu','gluc']
+  - ['alkaline phosphatase','alk phos','alkp']
+  - ['total bilirubin','tbili','bili t','t bili','total bili']
+  - ['protime','pt']
+  - ['ptt substitution test','aptt']
+  - ['diastolic blood pressure','dbp']
+  - ['ethanol','alcohol','etoh']
+  - ['jugular venous engorgement','jvd']
+  - ['voided urinary volume','uop']
+  - ['dyspnea','sob']
+  - ['bilirubin','bili']
+  - ['high flow oxygen nasal cannula','hfnc']
+  - ['attention deficit disorder','adhd']
+  - ['liver function','lfts']
+  - ['intravenous immunotherapy','ivig']
+  - ['vancomycin','vanc']
+  - ['myocardial infarction','stemi','nstemi','mi']
+  - ['pressure support ventilation','bipap']
+  - ['low output heart failure','hfref']
+  - ['heart failure','hfpef','chf']
+  - ['furosemide','lasix']
+  - ['troponin t','trop t']
+  - ['troponin i','trop i']
+  - ['troponin','trop']
+  - ['free thyroxine','free t4']
+  - ['us scan of kidney and ureters','renal us','renal ultrasound']
+  - ['urinalysis','ua']
+  - ['mitral valve regurgitation','mr']
+  - ['lactate dehydrogenase','ldh']
+  - ['hematocrit','hct']
+  - ['deep venous thrombosis','dvt']
+  - ['acute kidney injury','aki']
+  - ['bowel sounds','+bs']
+  - ['paroxysmal nocturnal dyspnea','pnd']
+  - ['ecg analysis','ecg','ekg']
+  - ['hypertensive disorder','htn','hypertension']
+  - ['chronic airway disease','copd','chronic obstructive pulmonary disease']
+  - ['vasopressor','pressors','vasopressor support']
+  - ['dyspnea','acute sob','sob']
+  - ['upper respiratory infection','uri','viral uri']
+  - ['right atrial pressure','rap']
+  - ['glomerular filtration rate','gfr']
+  - ['alkaline phosphatase','alp']
+  - ['prothrombin time','pt']
+  - ['partial thromboplastin time finding','partial thromboplastin time','ptt']
+  - ['red blood cell count','rbc']
+  - ['mean cell volume','mcv']
+  - ['complete blood count','cbc']
+  - ['serum metabolic panel','bmp','chem7','basic metabolic panel']
+  - ['uti','urinary tract infection']
+  - ['disorder of coronary artery','cad']
+  - ['heart failure','hf']
+  - ['esophagogastroduodenoscopy','egd']
+  - ['jugular venous pressure','jvp']
+  - ['gastroesophageal reflux disease','gerd']
+  - ['packed red blood cells','prbcs']
+  - ['albumin','alb']
+  - ['body weight','weight','wt']
+  - ['pro brain natriuretic peptide','pro bnp','probnp']
+  - ['glasgow coma score','gcs']
+  - ['norepinephrine','norepi']
+  - ['hemoglobin a1c measurement','a1c','hba1c']
+  - ['comprehensive metabolic panel','cmp']
+  - ['computed tomography','ct']
+  - ['magnetic resonance imaging','mri']
+  - ['atrial fibrillation','afib','af']
+  - ['cardiopulmonary resuscitation','cpr']
+  - ['endotracheal tube','ett']
+  - ['diabetes mellitus','dm']
+  - ['diabetic ketoacidosis','dka']
+  - ['transient cerebral ischemia','tia']
+  - ['eeg finding','eeg','electroencephalogram']
+  - ['intracranial pressure','icp']
+  - ['human immunodeficiency virus','hiv']
+  - ['type b viral hepatitis','hbv']
+  - ['viral hepatitis, type a','hav']
+  - ['viral hepatitis c','hcv']
+  - ['tuberculosis','tb']
+  - ['acute myeloid leukemia','aml']
+  - ['acute lymphoid leukemia','all']
+  - ['non steroidal anti inflammatory agent','nsaid','nsaids']
+  - ['ph finding','ph']
+  - ['measure of urine output','uop']
+  - ['acute respiratory distress syndrome','ards']
+
+# EXTEND CLASSES for existing terms (terms can be canonicals OR aliases).
+class_mappings:
+
+# DEFINE NEW CLASSES and the terms they apply to. Each class has to refer to both 'sub'-entities and the entity itself if present in terms
+new_classes:
+  'renal function markers': ['creatinine','cystatin c','uric acid','urea nitrogen','sodium','potassium','calcium','glomerular filtration rate']
+  'hepatic function markers': ['liver function','alt','ast','alp','bilirubin','total bilirubin','albumin','international normalized ratio']
+  'cardiac injury/strain markers': ['troponin','troponin c','troponin i','troponin t','creatine kinase mb measurement','nesiritide']
+  'hemodynamic stability markers': ['mean arterial pressure','sbp','dbp','heart rate','lactate','vasopressor','cardiac index','hemodynamic monitoring','hemodynamic measurements','hemodynamic state']
+  'respiratory status markers': ['spo2','paco2','ventilation status','respiratory distress','acute respiratory distress']
+  'electrolytes': ['sodium','potassium','calcium','chloride salt','bicarbonate','anion gap']
+  'acid base markers': ['sodium','potassium','calcium','chloride salt','bicarbonate','anion gap','ph finding']
+  'electrolytes & acid base markers': ['sodium','potassium','calcium','chloride salt','bicarbonate','anion gap','ph finding']
+  'coagulation markers': ['platelets','international normalized ratio','aptt','fibrinogen','ddimer','prothrombin time','partial thromboplastin time finding']
+  'inflammatory markers': ['wbc','crp','procalcitonin','temperature']
+  'infectious markers': ['wbc','crp','procalcitonin','temperature']
+  'nutrition status markers': ['albumin','weight','bmi']
+  'respiratory support': ['mechanical ventilator','intubation','extubation','hfnc']
+  'chem7 panel': ['sodium','potassium','chloride salt','co2','bicarbonate','bun','glucose']
+  'comprehensive metabolic panel': ['sodium','potassium','chloride salt','co2','bicarbonate','bun','glucose','albumin','alp','alt','ast','total bilirubin','calcium']
+  'complete blood count panel': ['rbc','wbc','platelets','hgb','hct','mcv']
+  'cardiac echocardiography': ['cardiac ejection fraction','cardiac wall motion','aortic valve regurgitation','mitral valve regurgitation','pulmonic valve regurgitation','tricuspid valve regurgitation','heart valve regurgitation','aortic valve stenosis','mitral valve stenosis','pulmonic valve stenosis','tricuspid valve stenosis','hypokinesis of cardiac wall']
+  'ecg analysis': ['nstemi','stemi','cardiac arrhythmia']
+  'chest xray': ['pulmonary edema','pleural effusion','lung consolidation','cardiomegaly','chest xray']
+  
+# LATE, MANUAL, TARGETED TWEAKS that run AFTER all the above
+post_edits:
+  term_merges: []
+  term_removals: []
+  class_removals: []
+  term_set_splits: []
+
+
+
+
+
+
+
+  
+
+
+ 
+

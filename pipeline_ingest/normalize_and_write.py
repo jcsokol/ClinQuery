@@ -21,14 +21,13 @@ Outputs
 
 Performance & curation
 ----------------------
-If you want to optimize performance/accuracy you will have to carefully review the unmapped and mapped terms and then manually tune **term→alias** and **class→term-set** mappings in the places marked in code (marked as: 'manually edit * here'). A good way of doing this is to define a separate script and call it here; contact me for detailed help with this. This is also where you need to define abbreviations (aliases shorter than ~5 characters), which have intentionally been omitted from this demo because these are only useful if manually curated. 
+If you want to optimize performance/accuracy you will have to carefully review the unmapped and mapped terms that this script gives you and then manually tune **term→alias** and **class→term-set** mappings in ontology_corrections.yml.
 
 Assumptions & caveats
 ---------------------
 - Dates like `xx/xx` and `xx/xx/xxxx` are interpreted as **mm/dd** and **mm/dd/yyyy** (US order); `yyyy-mm-dd` is also supported.
-- Embeddings run on CPU using `cambridgeltl/SapBERT-from-PubMedBERT-fulltext`.
-- A planned CLI should accept a CSV with structured extractions (to enable users to still use this normalizer even when using LLMs like Google's langextract for NER+relation extractions); this is not implemented yet.
 - There are a few constants/tunables that I still need to move out. 
+- I need to add a sanity check that will give the user likely term sets that were merged erroneously or that should be merged. This will help them tune ontology_corrections.yml better.
 """
 
 import itertools
@@ -43,8 +42,11 @@ from datetime import datetime, timedelta
 from pathlib import Path
 from typing import Any
 
+import faiss
 import numpy as np
 import pandas as pd
+import torch
+import yaml
 from rapidfuzz import fuzz, process
 from sentence_transformers import SentenceTransformer, models
 
@@ -56,11 +58,15 @@ log = logging.getLogger(__name__)
 class Normalizer:
     """Build and apply UMLS-based normalization; resolves spans/tables and writes outputs."""
 
-    def __init__(self, mrconso_rrf: str, mrrel_rrf: str, mrsty_rrf: str, keep: bool = False):
+    def __init__(
+        self, mrconso_rrf: str, mrrel_rrf: str, mrsty_rrf: str, ont_corr: str, keep: bool = False, no_pruning: bool = False
+    ):
         """Initialize paths, defaults, caches; validate UMLS inputs."""
         self.mrconso_rrf = Path(mrconso_rrf)
         self.mrrel_rrf = Path(mrrel_rrf)
         self.mrsty_rrf = Path(mrsty_rrf)
+        self.mrsty_rrf = Path(mrsty_rrf)
+        self.ont_corr = Path(ont_corr)
         self.keep = keep
         self.embedder_model_name = "cambridgeltl/SapBERT-from-PubMedBERT-fulltext"
         self.min_alias_len = 6  # shorter terms are not considered by the embedder
@@ -82,6 +88,7 @@ class Normalizer:
         self._create_master_list(in_jsonl)
 
         # create vocabulary from UMLS and load embedder
+        log.info("loading ontology mappings …")
         self._create_umls_vocab()
         self._load_embedder()
 
@@ -139,36 +146,65 @@ class Normalizer:
         return filtered_vocab
 
     def merge_canonical_alias_sets_by_embeddings(
-        self, c_to_a_dict: dict[str, list[str]], emb_threshold: int = 90, fuzzy_threshold: int = 90, match_ratio_threshold=0.30
+        self,
+        c_to_a_dict,
+        a_to_c_resolver=None,
+        k_neighbors=16,
+        centroid_sim_threshold=50,
+        fuzzy_threshold=95,
+        emb_threshold=90,
+        match_ratio_threshold=0.30,
     ) -> dict[str, list[str]]:
-        """Merge canonical sets whose alias pools match via fuzzy+embedding"""
 
-        if not c_to_a_dict:
-            return {}
+        # ---- collect + length-filter ----
+        canonicals = list(c_to_a_dict.keys())
+        members, uniq = [], set()
+        for c in canonicals:
+            m = [c] + (c_to_a_dict.get(c, []) or [])
+            m = list(dict.fromkeys(s for s in m if s and len(s) >= self.min_alias_len))
+            members.append(m)
+            uniq.update(m)
+        if not uniq:
+            return {c: [c] for c in canonicals}
 
-        canon_keys = list(c_to_a_dict.keys())
-        set_members: list[list[str]] = []
-        all_strings = set()
-
-        # Step 1: Collect all unique strings to embed
-        for c in canon_keys:
-            members = [c] + (c_to_a_dict.get(c, []) or [])
-            uniq_members = list(dict.fromkeys(members))
-            set_members.append(uniq_members)
-            for s in uniq_members:
-                if len(s) >= self.min_alias_len:
-                    all_strings.add(s)
-
-        # Step 2: Embed strings (cached)
-        to_embed = [s for s in all_strings if s not in self.embedding_cache and len(s) >= self.min_alias_len]
+        # ---- embed aliases (cache-aware) ----
+        to_embed = [s for s in uniq if s not in self.embedding_cache]
         if to_embed:
-            embs = self.emb_model.encode(to_embed, normalize_embeddings=True)
-            for s, e in zip(to_embed, embs, strict=False):
+            E = (
+                self.emb_model.encode(to_embed, normalize_embeddings=True, batch_size=256)
+                if self.device == "cuda"
+                else self.emb_model.encode(to_embed, normalize_embeddings=True)
+            )
+            for s, e in zip(to_embed, E, strict=False):
                 self.embedding_cache[s] = e
+        D = next(iter(self.embedding_cache.values())).shape[0]
 
-        # Step 3: Initialize union-find
-        n = len(canon_keys)
-        parents = list(range(n))
+        # ---- set centroids (plain mean; L2-normalized) ----
+        C = np.zeros((len(canonicals), D), dtype=np.float32)
+        valid = np.zeros(len(canonicals), dtype=bool)
+        for i, m in enumerate(members):
+            embs = [self.embedding_cache[t] for t in m if t in self.embedding_cache]
+            if not embs:
+                continue
+            v = np.stack(embs, axis=0).mean(axis=0)
+            v /= max(np.linalg.norm(v), 1e-9)
+            C[i] = v
+            valid[i] = True
+
+        vidx = np.where(valid)[0]
+        if len(vidx) <= 1:
+            return {c: list(set([c] + members[i])) for i, c in enumerate(canonicals)}
+
+        # ---- ANN index (HNSW, L2 metric) ----
+        index = faiss.IndexHNSWFlat(D, 32)
+        index.hnsw.efSearch = 128
+        index.hnsw.efConstruction = 200
+        index.add(C[vidx])
+
+        pos2idx = {pos: idx for pos, idx in enumerate(vidx)}
+
+        # ---- union-find ----
+        parents = list(range(len(canonicals)))
 
         def find(x):
             while parents[x] != x:
@@ -181,77 +217,70 @@ class Normalizer:
             if ra != rb:
                 parents[rb] = ra
 
-        # Step 4: Compare all pairs using symmetric semantic Jaccard match ratio
-        for i in range(n):
-            for j in range(i + 1, n):
-                set_i = [s for s in set_members[i] if len(s) >= self.min_alias_len]
-                set_j = [s for s in set_members[j] if len(s) >= self.min_alias_len]
-                if not set_i or not set_j:
+        # ---- thresholds as decimals ----
+        cos_pref = float(centroid_sim_threshold) / 100.0
+        emb_thr = float(emb_threshold) / 100.0
+
+        # ---- verifier (your rule) ----
+        def verify_pair(i: int, j: int) -> bool:
+            A, B = members[i], members[j]
+            if not A or not B:
+                return False
+            # fuzzy
+            ab = sum(any(fuzz.ratio(a, b) >= fuzzy_threshold for b in B) for a in A)
+            ba = sum(any(fuzz.ratio(b, a) >= fuzzy_threshold for a in A) for b in B)
+            U = len(set(A).union(B))
+            if (ab + ba) / (2 * max(U, 1)) >= match_ratio_threshold:
+                return True
+            # embeddings (cosine on unit vectors)
+            Ei = [self.embedding_cache[s] for s in A if s in self.embedding_cache]
+            Ej = [self.embedding_cache[s] for s in B if s in self.embedding_cache]
+            if not Ei or not Ej:
+                return False
+            Ei = np.stack(Ei)
+            Ej = np.stack(Ej)
+            Ei /= np.linalg.norm(Ei, axis=1, keepdims=True) + 1e-9
+            Ej /= np.linalg.norm(Ej, axis=1, keepdims=True) + 1e-9
+            sims = Ei @ Ej.T
+            ab += int((sims.max(axis=1) >= emb_thr).sum())
+            ba += int((sims.max(axis=0) >= emb_thr).sum())
+            return (ab + ba) / (2 * max(U, 1)) >= match_ratio_threshold
+
+        # ---- retrieve candidates (convert L2→cosine), then verify ----
+        for i in vidx:
+            v = C[i][None, :].astype(np.float32)
+            dists, idxs = index.search(v, min(k_neighbors + 1, len(vidx)))  # includes self
+            # unit vectors: L2^2 = 2 - 2*cos  =>  cos = 1 - L2^2/2
+            for p, d2 in zip(idxs[0], dists[0], strict=False):
+                j = pos2idx.get(p)
+                if j is None or j == i:
                     continue
-
-                emb_i = [self.embedding_cache[s] for s in set_i if s in self.embedding_cache]
-                emb_j = [self.embedding_cache[s] for s in set_j if s in self.embedding_cache]
-
-                # Match i → j
-                match_count_ab = 0
-                for a in set_i:
-                    matched = False
-                    for b in set_j:
-                        if fuzz.ratio(a, b) >= fuzzy_threshold:
-                            matched = True
-                            break
-                    if not matched:
-                        if a in self.embedding_cache:
-                            a_emb = self.embedding_cache[a]
-                            sims = np.dot(emb_j, a_emb)
-                            if np.any(sims >= emb_threshold / 100):
-                                matched = True
-                    if matched:
-                        match_count_ab += 1
-
-                # Match j → i
-                match_count_ba = 0
-                for b in set_j:
-                    matched = False
-                    for a in set_i:
-                        if fuzz.ratio(b, a) >= fuzzy_threshold:
-                            matched = True
-                            break
-                    if not matched:
-                        if b in self.embedding_cache:
-                            b_emb = self.embedding_cache[b]
-                            sims = np.dot(emb_i, b_emb)
-                            if np.any(sims >= emb_threshold / 100):
-                                matched = True
-                    if matched:
-                        match_count_ba += 1
-
-                union_size = len(set(set_i).union(set_j))
-                match_ratio = (match_count_ab + match_count_ba) / (2 * union_size)
-
-                if match_ratio >= match_ratio_threshold:
+                cos_sim = 1.0 - float(d2) / 2.0
+                if cos_sim < cos_pref:
+                    continue
+                if verify_pair(i, j):
                     union(i, j)
 
-        # Step 5: Group merged sets
+        # ---- build merged result ----
         groups = {}
-        for i in range(n):
+        for i in range(len(canonicals)):
             r = find(i)
             groups.setdefault(r, []).append(i)
 
-        # Step 6: Build merged result
-        merged: dict[str, list[str]] = {}
-        for _, idxs in sorted(groups.items(), key=lambda kv: min(kv[1])):
-            chosen_idx = min(idxs)
-            chosen_canon = canon_keys[chosen_idx]
+        def pick_rep(idxs):
+            if a_to_c_resolver:
+                return min(idxs, key=lambda ix: (len(a_to_c_resolver.get(canonicals[ix], "§" * 64)), len(canonicals[ix]), ix))
+            return min(idxs)
 
-            seen, ordered = set(), []
-            for idx in idxs:
-                for s in set_members[idx]:
-                    if s not in seen:
-                        seen.add(s)
-                        ordered.append(s)
-
-            merged[chosen_canon] = sorted(seen)
+        merged = {}
+        for idxs in groups.values():
+            rep_idx = pick_rep(idxs)
+            rep_key = canonicals[rep_idx]
+            bag = set()
+            for ix in idxs:
+                bag.update(members[ix])
+                bag.add(canonicals[ix])
+            merged[rep_key] = list(set(bag | {rep_key}))
 
         merged = {
             key: [item for item in values if item is not None] for key, values in merged.items() if key is not None
@@ -714,117 +743,107 @@ class Normalizer:
 
         return expanded_dict
 
-    def assert_valid_dicts(self, all_entities_list, a_to_c_dict_filtered, a_to_c_dict_concept_classes):
-        """Debug checks: every term/class maps to a canonical and canonicals occur in data."""
-
-        all_concept_classes_list = list(set([item for sublist in all_entities_list for item in sublist["concept_classes"]]))
-        all_terms_list = list(set([item["normalized_term"] for item in all_entities_list]))
-
-        # assert that all terms within the final dataset are a canonical term
-        for entity in all_terms_list:
-            if entity not in a_to_c_dict_filtered.keys():
-                log.error("entity not in a_to_c_dict_filtered: " + str(entity))
-        for concept_class in all_concept_classes_list:
-            if concept_class not in a_to_c_dict_concept_classes.keys():
-                log.error("concept class not in a_to_c_dict_master: " + str(concept_class))
-
-        # assert that every dictionary entry's canonical term actually exists within data
-        all_terms_values = list(a_to_c_dict_filtered.values())
-        all_concept_class_values = list(a_to_c_dict_concept_classes.values())
-        for canonical_term in all_terms_values:
-            if canonical_term not in all_terms_list:
-                log.error("canonical term not in dataset: " + str(canonical_term))
-        for canonical_cc in all_concept_class_values:
-            if canonical_cc not in all_concept_classes_list:
-                log.error("canonical concept class not in dataset: " + str(canonical_cc))
-
     def _prune_and_collapse_vocab(self):
         """Prune to observed terms, merge equivalents, build alias→canonical maps, and rewrite data."""
 
         # get all entities and concept classes that actually appear in data
-        all_entities_list = [
-            item for sublist in [patient_master_list[7] for patient_master_list in self.master_list] for item in sublist
+        entities = [ent for patient in self.master_list for ent in patient[7]]
+
+        def normalize(s: str) -> str:
+            return re.sub(r"\s+", " ", s).lower().strip()
+
+        all_terms_list = list({normalize(ent["normalized_term"]) for ent in entities})
+        concept_class_list = [
+            c for c in {normalize(cls) for ent in entities for cls in ent["concept_classes"]} if len(c) >= self.min_alias_len
         ]
-        all_terms_list = list(set([re.sub(r"\s+", " ", item["normalized_term"]).lower().strip() for item in all_entities_list]))
-        concept_class_list = list(
-            set(
-                [
-                    re.sub(r"\s+", " ", item).lower().strip()
-                    for sublist in all_entities_list
-                    for item in sublist["concept_classes"]
-                ]
-            )
+
+        self.c_to_a_dict = {normalize(key): [normalize(v) for v in values] for key, values in self.c_to_a_dict.items()}
+
+        # create term dict
+        c_to_a_dict_filtered = self.filter_vocab_by_usage(self.c_to_a_dict, list(set(all_terms_list + concept_class_list)))
+        self.c_to_a_dict = self.merge_canonical_alias_sets_by_embeddings(
+            self.c_to_a_dict,
+            a_to_c_resolver=self.reverse_can_vocab_to_aliases_dict(c_to_a_dict_filtered),
+            fuzzy_threshold=95,
+            emb_threshold=90,
+            match_ratio_threshold=0.30,
         )
 
-        # filter term dict for terms in dataset (+ merge equivalent terms)
-        self.c_to_a_dict_filtered = {
-            re.sub(r"\s+", " ", key).lower().strip(): [re.sub(r"\s+", " ", value).lower().strip() for value in values]
-            for key, values in self.c_to_a_dict.items()
-        }
-        self.c_to_a_dict_filtered = self.filter_vocab_by_usage(
-            self.c_to_a_dict_filtered, list(set(all_terms_list + concept_class_list))
-        )
-        self.c_to_a_dict_filtered = self.merge_canonical_alias_sets_by_embeddings(
-            self.c_to_a_dict_filtered, emb_threshold=90, fuzzy_threshold=95, match_ratio_threshold=0.20
-        )
-        self.a_to_c_dict_filtered = self.reverse_can_vocab_to_aliases_dict(
-            self.c_to_a_dict_filtered, duplicate_alias_warnings=False
-        )
-
-        # expand concept classes with unfiltered term dict and create canonical concept class -> concept class aliases mappings
-        concept_class_list = [item for item in concept_class_list if len(item) >= self.min_alias_len]
+        # create class aliases dict
         self.c_to_a_dict_concept_classes = self.deduplicate_concept_classes(
             concept_class_list, fuzzy_threshold=95, embed_threshold=85
         )
         self.c_to_a_dict_concept_classes = self.merge_canonical_alias_sets_by_embeddings(
-            self.c_to_a_dict_concept_classes, emb_threshold=85, fuzzy_threshold=95, match_ratio_threshold=0.20
+            self.c_to_a_dict_concept_classes,
+            a_to_c_resolver=self.reverse_can_vocab_to_aliases_dict(self.c_to_a_dict_concept_classes),
+            fuzzy_threshold=95,
+            emb_threshold=85,
+            match_ratio_threshold=0.20,
         )
         self.c_to_a_dict_concept_classes = self.expand_concept_class_aliases_from_term_dict(
             self.c_to_a_dict_concept_classes,
-            self.c_to_a_dict_filtered,
+            c_to_a_dict_filtered,
             fuzzy_threshold=95,
             emb_threshold=85,
             match_ratio_threshold=0.20,
         )
         self.c_to_a_dict_concept_classes = self.merge_canonical_alias_sets_by_embeddings(
-            self.c_to_a_dict_concept_classes, emb_threshold=85, fuzzy_threshold=95, match_ratio_threshold=0.20
-        )
-        self.a_to_c_dict_concept_classes = self.reverse_can_vocab_to_aliases_dict(
-            self.c_to_a_dict_concept_classes, duplicate_alias_warnings=False
+            self.c_to_a_dict_concept_classes,
+            a_to_c_resolver=self.reverse_can_vocab_to_aliases_dict(self.c_to_a_dict_concept_classes),
+            fuzzy_threshold=95,
+            emb_threshold=85,
+            match_ratio_threshold=0.20,
         )
 
-        # filter c_to_a_dict_filtered to only have terms that actually occur as normalized terms
-        self.c_to_a_dict_filtered = self.filter_vocab_by_usage(self.c_to_a_dict_filtered, all_terms_list)
-        self.a_to_c_dict_filtered = self.reverse_can_vocab_to_aliases_dict(self.c_to_a_dict_filtered)
+        # apply final ontology corrections
+        self.c_to_a_dict, self.concept_class_map, self.c_to_a_dict_concept_classes = self.apply_ontology_corrections(
+            self.c_to_a_dict,
+            self.concept_class_map,
+            self.c_to_a_dict_concept_classes,
+            a_to_c_resolver=self.reverse_can_vocab_to_aliases_dict(c_to_a_dict_filtered),
+            post_edits=True,
+        )
+        self.a_to_c_dict = self.reverse_can_vocab_to_aliases_dict(self.c_to_a_dict)
+        self.a_to_c_dict_concept_classes = self.reverse_can_vocab_to_aliases_dict(self.c_to_a_dict_concept_classes)
 
-        # cycle through the entire dataset and replace everything with its canonical term
-        unmapped_terms_list = []
+        # now choose whether or not to prune vocab
+        if not self.no_pruning:
+            self.c_to_a_dict = self.filter_vocab_by_usage(self.c_to_a_dict, list(set(all_terms_list + concept_class_list)))
+            self.a_to_c_dict = self.reverse_can_vocab_to_aliases_dict(self.c_to_a_dict)
+
+        # log vocab stats
+        log.info("vocab size: " + str(len(self.c_to_a_dict) + len(self.c_to_a_dict_concept_classes)))
+
+        # cycle through the dataset and replace everything with its canonical term
+        unmapped_term_list, unmapped_class_list = [], []
         for master_list_i in range(len(self.master_list)):
+            drop_indices = []
             for c_ent_i in range(len(self.master_list[master_list_i][7])):
-                self.master_list[master_list_i][7][c_ent_i]["normalized_term"] = self.a_to_c_dict_filtered[
-                    re.sub(r"\s+", " ", self.master_list[master_list_i][7][c_ent_i]["normalized_term"]).lower().strip()
+                ent = self.master_list[master_list_i][7][c_ent_i]
+
+                # replace term
+                normalized_term = normalize(ent["normalized_term"])
+                if normalized_term in self.a_to_c_dict:
+                    ent["normalized_term"] = self.a_to_c_dict[normalized_term]
+                else:
+                    drop_indices.append(c_ent_i)
+                    unmapped_term_list.append(normalized_term)
+
+                # replace classes
+                unmapped_class_list += [
+                    normalize(item) for item in ent["concept_classes"] if normalize(item) not in self.a_to_c_dict_concept_classes
                 ]
-                unmapped_terms_list += [
-                    re.sub(r"\s+", " ", item).lower().strip()
-                    for item in self.master_list[master_list_i][7][c_ent_i]["concept_classes"]
-                    if re.sub(r"\s+", " ", item).lower().strip() not in self.a_to_c_dict_concept_classes.keys()
-                ]
-                self.master_list[master_list_i][7][c_ent_i]["concept_classes"] = list(
+                ent["concept_classes"] = list(
                     set(
-                        [
-                            self.a_to_c_dict_concept_classes[re.sub(r"\s+", " ", item).lower().strip()]
-                            for item in self.master_list[master_list_i][7][c_ent_i]["concept_classes"]
-                            if re.sub(r"\s+", " ", item).lower().strip() in self.a_to_c_dict_concept_classes.keys()
-                        ]
+                        self.a_to_c_dict_concept_classes[normalize(item)]
+                        for item in ent["concept_classes"]
+                        if normalize(item) in self.a_to_c_dict_concept_classes
                     )
                 )
-        # print(len(set(unmapped_terms_list))) # consider writing to output to help with debugging
 
-        # assert that all terms within the final dataset are a canonical term and that the final dicts only contain terms sets occuring in dataset
-        all_entities_list = [
-            item for sublist in [patient_master_list[7] for patient_master_list in self.master_list] for item in sublist
-        ]
-        self.assert_valid_dicts(all_entities_list, self.a_to_c_dict_filtered, self.a_to_c_dict_concept_classes)
+            # drop c_ent entries that were not mapped
+            for c_ent_i in sorted(drop_indices, reverse=True):
+                del self.master_list[master_list_i][7][c_ent_i]
 
     def _post_process_entities(self):
         """Drop None, split BP 120/80 into SBP/DBP, strip stray slashed values for non-BP."""
@@ -2171,9 +2190,7 @@ class Normalizer:
             canonical_to_aliases[canonical].append(alias)
         return dict(canonical_to_aliases)
 
-    def filter_canonical_vocab_to_aliases_dict(
-        self, c_to_a_dict, a_to_c_dict, concept_class_map, max_alias_len, substrings_remove
-    ):
+    def filter_canonical_vocab_to_aliases_dict(self, c_to_a_dict, a_to_c_dict, concept_class_map, substrings_remove):
         """Filter noisy/too-long/unit-like aliases; pick a new canonical if the old is dropped.
 
         Removes the following:
@@ -2269,7 +2286,7 @@ class Normalizer:
 
         def is_valid(term):
             term = term.lower().strip()
-            if len(term) > max_alias_len:
+            if len(term) > self.max_alias_len:
                 return False
             if any(sub.lower() in term for sub in substrings_remove):
                 return False
@@ -2320,83 +2337,267 @@ class Normalizer:
 
         return filtered_dict, updated_concept_class_map
 
-    def deduplicate_canonical_vocab(self, c_to_a_dict, a_to_c_dict, concept_class_map):
-        """Merge canonicals that normalize to the same form; union aliases and classes."""
+    def apply_ontology_corrections(self, term_dict, class_dict, class_aliases=None, a_to_c_resolver=None, post_edits=False):
 
-        def normalize_term(term):
-            term = term.lower()
-            term = re.sub(r"\b(?:measurement|determination|level|test|value|taking|finding|monitoring)\b", "", term)
-            term = re.sub(r"[,\s]+", "", term)  # remove commas and whitespace
-            # term = re.sub(r'\b(mg|ug|mol|umol|nmol|unit|g|ml|mmol|u)/[a-z]+', '', term)  # remove units
-            return term.strip()
+        rules = yaml.safe_load(open(self.ont_corr)) or {}
+        # Work with SETS internally (aliases/classes); convert to lists at the end
+        terms = {k: set(v) | {k} for k, v in deepcopy(term_dict).items()}
+        classes = {k: set(v) for k, v in deepcopy(class_dict).items()}
+        cls_alias = None if class_aliases is None else {k: set(v) | {k} for k, v in deepcopy(class_aliases).items()}
 
-        # Step 1: Map normalized term -> all canonical terms and aliases it comes from
-        norm_to_all_terms = defaultdict(set)
-        term_to_canonical = {}  # Maps each term (canonical or alias) -> its canonical term(s)
+        # ----- util -----
+        def normalize_term(s: str) -> str:
+            s = s.lower()
+            s = re.sub(r"\b(?:measurement|determination|level|test|value|taking|finding|monitoring)\b", "", s)
+            s = re.sub(r"[,\s]+", "", s)
+            return s.strip()
 
-        for canonical, aliases in c_to_a_dict.items():
-            all_terms = [canonical] + aliases
-            for term in all_terms:
-                norm = normalize_term(term)
-                if norm:
-                    norm_to_all_terms[norm].add(canonical)
-                term_to_canonical[term] = canonical
+        def rep_pick(items, resolver):
+            # Prefer item whose resolver mapping has the shortest string; then shortest item
+            # (Matches your earlier heuristic; resolver may not contain all items)
+            items = list(items)
+            return sorted(items, key=lambda t: (len(resolver.get(t, "§" * 64)), len(t)))[0]
 
-        # Step 2: Build equivalence classes (connected canonical terms)
-        visited = set()
-        canonical_groups = []
+        def components_from_token_sets(key2toks: dict[str, set[str]]):
+            if not key2toks:
+                return []
+            # Union-find over keys that share at least one token
+            token2keys, parent = {}, {k: k for k in key2toks}
 
-        for canonical in c_to_a_dict:
-            if canonical in visited:
-                continue
-            queue = deque([canonical])
-            group = set()
+            def find(x):
+                while parent[x] != x:
+                    parent[x] = parent[parent[x]]
+                    x = parent[x]
+                return x
 
-            while queue:
-                curr = queue.popleft()
-                if curr in visited:
+            def union(a, b):
+                ra, rb = find(a), find(b)
+                if ra != rb:
+                    parent[rb] = ra
+
+            for k, toks in key2toks.items():
+                for t in toks:
+                    token2keys.setdefault(t, []).append(k)
+            for ks in token2keys.values():
+                base = ks[0]
+                for k in ks[1:]:
+                    union(base, k)
+            comp = {}
+            for k in key2toks:
+                comp.setdefault(find(k), []).append(k)
+            return list(comp.values())
+
+        def build_live_resolver(groups: dict[str, set[str]]) -> dict[str, str]:
+            return {alias: canon for canon, als in groups.items() for alias in als}
+
+        def add_only_expand_groups(groups: dict[str, set[str]], expansions: list[list[str]]):
+            if not groups or not expansions:
+                return
+            exp_sets = [set(L) for L in expansions if L]
+            for c in list(groups):
+                crowd = groups[c]
+                for E in exp_sets:
+                    if crowd & E:
+                        groups[c] |= E
+
+        def coverage_on_spec(group_set: set[str], A: set[str], B: set[str]) -> float:
+            U = A | B
+            return 0.0 if not U else len(U & group_set) / len(U)
+
+        # refresh live resolvers
+        live_term = build_live_resolver(terms)
+        live_cls = build_live_resolver(cls_alias) if cls_alias is not None else {}
+
+        # ----- 1) PREPROCESS -----
+        pre = rules.get("preprocess", {}) or {}
+        minlen = int(pre.get("min_alias_length", 1))
+        rm_alias = set(pre.get("aliases_to_remove", []) or [])
+
+        def preprocess_groups(groups: dict[str, set[str]], resolver: dict, sync_classes=False, pref_resolver=None):
+            if not groups:
+                return
+            for c in list(groups):
+                filt = {a for a in groups[c] if len(a) >= minlen and a not in rm_alias}
+                if not filt:
+                    groups.pop(c, None)
+                    if sync_classes:
+                        classes.pop(c, None)
                     continue
-                visited.add(curr)
-                group.add(curr)
+                # choose representative and re-key if needed
+                pref = pref_resolver or {}
+                pref_rep = next((pref[t] for t in filt if t in pref), None)
+                rep = pref_rep if pref_rep else rep_pick(filt, resolver)
+                if rep != c:
+                    groups.pop(c, None)
+                    groups[rep] = filt | {rep}
+                    if sync_classes and c in classes:
+                        classes[rep] = classes.get(rep, set()) | classes.pop(c)
+                else:
+                    groups[c] = filt | {c}
 
-                # Get all aliases and normalize them
-                aliases = c_to_a_dict.get(curr, [])
-                related_terms = [curr] + aliases
-                for term in related_terms:
-                    norm = normalize_term(term)
-                    linked_canonicals = norm_to_all_terms.get(norm, [])
-                    for linked in linked_canonicals:
-                        if linked not in visited:
-                            queue.append(linked)
+        preprocess_groups(terms, live_term, sync_classes=True, pref_resolver=a_to_c_resolver)
+        if cls_alias is not None:
+            preprocess_groups(cls_alias, live_cls or {}, sync_classes=False, pref_resolver=a_to_c_resolver)
 
-            canonical_groups.append(group)
+        # ----- 2) REMOVE WHOLE SETS that contain any banned token -----
+        banned = set(pre.get("term_sets_to_remove", []) or [])
 
-        # Step 3: Merge each group into a single representative
-        def representative_sort_key(term):
-            mapped_value = a_to_c_dict.get(term, "____________________")
-            return (len(mapped_value), len(term))  # prioritize shorter mapped value, then shorter term
+        def remove_sets_with_banned(groups: dict[str, set[str]], sync_classes=False):
+            if not groups or not banned:
+                return
+            for c in list(groups):
+                if groups[c] & banned:
+                    groups.pop(c, None)
+                    if sync_classes:
+                        classes.pop(c, None)
 
-        deduped_vocab = {}
-        deduped_classes = {}
+        remove_sets_with_banned(terms, sync_classes=True)
+        if cls_alias is not None:
+            remove_sets_with_banned(cls_alias, sync_classes=False)
 
-        for group in canonical_groups:
-            all_terms = set()
-            for canon in group:
-                all_terms.add(canon)
-                all_terms.update(c_to_a_dict.get(canon, []))
+        # ----- 3) EQUIVALENT TERM SETS (add-only; no merges) -----
+        add_only_expand_groups(terms, rules.get("equivalent_term_sets", []) or [])
+        if cls_alias is not None:
+            add_only_expand_groups(cls_alias, rules.get("equivalent_term_sets", []) or [])
 
-            representative = sorted(all_terms, key=representative_sort_key)[0]
-            if a_to_c_dict[representative] in all_terms:
-                representative = a_to_c_dict[representative]
+        # refresh live resolvers
+        live_term = build_live_resolver(terms)
+        live_cls = build_live_resolver(cls_alias) if cls_alias is not None else {}
 
-            merged_classes = set()
-            for canon in group:
-                merged_classes.update(concept_class_map.get(canon, []))
+        # ----- 4) CLASS MAPPINGS (resolver-aware add-only) -----
+        for k, cls_list in (rules.get("class_mappings", {}) or {}).items():
+            tgt = live_term.get(k)
+            if tgt in terms:
+                classes.setdefault(tgt, set()).update(cls_list)
 
-            deduped_vocab[representative] = sorted(all_terms)
-            deduped_classes[representative] = sorted(merged_classes)
+        # ----- 5) NEW CLASSES (resolver-aware add-only) -----
+        for cls_name, members in (rules.get("new_classes", {}) or {}).items():
+            for t in members or []:
+                tgt = live_term.get(t)
+                if tgt in terms:
+                    classes.setdefault(tgt, set()).add(cls_name)
 
-        return deduped_vocab, deduped_classes
+        # ----- 6) POST EDITS -----
+        if post_edits:
+            pe = rules.get("post_edits", {}) or {}
+
+            # 6a) term_merges — add-only
+            add_only_expand_groups(terms, pe.get("term_merges", []) or [])
+            live_term = build_live_resolver(terms)
+
+            # 6b) class_merges — add-only on class_aliases
+            if cls_alias is not None:
+                add_only_expand_groups(cls_alias, pe.get("class_merges", []) or [])
+                live_cls = build_live_resolver(cls_alias)
+
+            # 6c) term_removals (resolver-aware); repick canonical if removed
+            for m in pe.get("term_removals", []) or []:
+                ((name, aliases),) = m.items()  # <- parse this format only
+                tgt = live_term.get(name, name)
+                if tgt not in terms:
+                    continue
+                rem = set(aliases)
+                kept = set(a for a in terms[tgt] if a not in rem)
+
+                if not kept:  # empty -> drop group + its classes
+                    terms.pop(tgt, None)
+                    classes.pop(tgt, None)
+                    continue
+
+                # if canonical was removed, pick a new rep and move classes
+                if tgt not in kept:
+                    pref_map = a_to_c_resolver or {}
+                    rep = min(kept, key=lambda t: (len(pref_map.get(t, "§" * 64)), len(t)))
+                    terms.pop(tgt, None)
+                    terms[rep] = kept | {rep}
+                    if tgt in classes:
+                        classes[rep] = classes.get(rep, set()) | classes.pop(tgt)
+                else:
+                    terms[tgt] = kept | {tgt}
+
+            live_term = build_live_resolver(terms)
+
+            # 6d) class_removals (resolver-aware) on class_aliases
+            if cls_alias is not None:
+                for m in pe.get("class_removals", []) or []:
+                    ((cname, aliases),) = m.items()  # <- parse this format only
+                    ccanon = live_cls.get(cname, cname)
+                    if ccanon not in cls_alias:
+                        continue
+                    rem = set(aliases)
+                    cls_alias[ccanon] = set(x for x in cls_alias[ccanon] if x not in rem)
+
+                live_cls = build_live_resolver(cls_alias)
+
+            # 6e) term_set_splits — coverage; ALWAYS drop source; copy classes to both
+            split_cov = float(pe.get("split_coverage", 0.6))
+            for spec in pe.get("term_set_splits", []) or []:
+                if not (isinstance(spec, list) and len(spec) == 2):
+                    continue
+                A, B = set(spec[0]), set(spec[1])
+                for c in list(terms):
+                    G = set(terms[c])
+                    if coverage_on_spec(G, A, B) >= split_cov:
+                        cA, cB = spec[0][0], spec[1][0]
+                        terms.setdefault(cA, set()).update(A | {cA})
+                        terms.setdefault(cB, set()).update(B | {cB})
+                        classes.setdefault(cA, set()).update(classes.get(c, set()))
+                        classes.setdefault(cB, set()).update(classes.get(c, set()))
+                        terms.pop(c, None)
+                        classes.pop(c, None)
+
+            live_term = build_live_resolver(terms)
+
+        def pick_rep_with_resolver(keys, raw_sets, resolver, fallback_items, fallback_resolver):
+            if resolver:
+                # preserve merge order: first canonical whose set has any resolver-mapped term wins
+                for k in keys:
+                    for t in raw_sets[k]:
+                        if t in resolver:
+                            return resolver[t]
+            # fallback to your existing heuristic
+            return rep_pick(fallback_items, fallback_resolver)
+
+        # ----- FINAL MERGE (normalized) and process terms -----
+        raw_sets = {k: set(terms[k]) for k in terms}
+        norm_sets = {k: {normalize_term(t) for t in v if normalize_term(t)} for k, v in raw_sets.items()}
+        comps = components_from_token_sets(norm_sets)
+        for keys in comps:
+            if len(keys) <= 1:
+                continue
+            all_terms = set().union(*[raw_sets[k] for k in keys])
+            all_classes = set().union(*[classes.get(k, set()) for k in keys])
+            rep = pick_rep_with_resolver(keys, raw_sets, a_to_c_resolver, all_terms, live_term)
+            terms[rep] = all_terms | {rep}
+            classes[rep] = all_classes
+            for k in keys:
+                if k != rep:
+                    terms.pop(k, None)
+                    classes.pop(k, None)
+
+        # ----- classes -----
+        if cls_alias:
+            c_raw = {k: set(cls_alias[k]) for k in cls_alias}
+            c_norm = {k: {normalize_term(t) for t in v if normalize_term(t)} for k, v in c_raw.items()}
+            c_comps = components_from_token_sets(c_norm)
+            for ks in c_comps:
+                if len(ks) <= 1:
+                    continue
+                all_alias = set().union(*[c_raw[k] for k in ks])
+                repc = pick_rep_with_resolver(ks, c_raw, a_to_c_resolver, all_alias, live_cls or {})
+                cls_alias[repc] = all_alias | {repc}
+                for k in ks:
+                    if k != repc:
+                        cls_alias.pop(k, None)
+
+        # ----- final checks -----
+        for k in terms:
+            classes.setdefault(k, set())  # to force every canonical term to be in the class dict
+        terms = {k: list(set(v) | {k}) for k, v in terms.items()}
+        classes = {k: list(set(v)) for k, v in classes.items()}
+        cls_alias = None if cls_alias is None else {k: list(set(v) | {k}) for k, v in cls_alias.items()}
+
+        return terms, classes, cls_alias
 
     def _create_umls_vocab(self):
         """Parse UMLS, collapse equivalents, filter noise, and build alias maps."""
@@ -2428,11 +2629,6 @@ class Normalizer:
             self.mrconso_rrf, self.mrrel_rrf, self.mrsty_rrf, allowed_parent_semtypes=allowed_semtypes, max_depth=3
         )
 
-        # collapse equivalent terms
-        self.c_to_a_dict, self.concept_class_map = self.deduplicate_canonical_vocab(
-            self.c_to_a_dict, self.reverse_can_vocab_to_aliases_dict(self.c_to_a_dict), self.concept_class_map
-        )
-
         # clean up canonical_vocab_to_aliases_dict
         substrings_remove = [
             "-one",
@@ -2442,30 +2638,24 @@ class Normalizer:
             "-ene",
             "-azole",
             "-hydroxy",
-        ]  # filter out any terms containing any of these substrings
+        ]
+        # clean up canonical_vocab_to_aliases_dict
         self.c_to_a_dict, self.concept_class_map = self.filter_canonical_vocab_to_aliases_dict(
-            self.c_to_a_dict,
-            self.reverse_can_vocab_to_aliases_dict(self.c_to_a_dict),
-            self.concept_class_map,
-            self.max_alias_len,
-            substrings_remove,
+            self.c_to_a_dict, self.reverse_can_vocab_to_aliases_dict(self.c_to_a_dict), self.concept_class_map, substrings_remove
         )
-        ### manually edit concept dict here ###
-        self.c_to_a_dict = {key: list(set(value)) for key, value in self.c_to_a_dict.items()}
+        self.c_to_a_dict, self.concept_class_map, _ = self.apply_ontology_corrections(self.c_to_a_dict, self.concept_class_map)
 
         # now create a reversed dict
         self.a_to_c_dict = self.reverse_can_vocab_to_aliases_dict(self.c_to_a_dict)
-
-        # manually fix some entries within the concept map
-        ### manually edit concept map here ###
-        self.concept_class_map = {key: list(set(value)) for key, value in self.concept_class_map.items()}
 
     def _load_embedder(self):
         """Load SapBERT encoder + pooling on CPU."""
 
         word_emb = models.Transformer(self.embedder_model_name)
         pooling = models.Pooling(word_emb.get_word_embedding_dimension())
-        self.emb_model = SentenceTransformer(modules=[word_emb, pooling], device="cpu")
+        self.device = "cuda" if torch.cuda.is_available() else "cpu"
+        log.info(f"gpu: {torch.cuda.is_available()}")
+        self.emb_model = SentenceTransformer(modules=[word_emb, pooling], device=self.device)
 
     def _create_master_list(self, ner_rel_out):
         """Build master list from JSONL: identity/demographics/admission, spans, and tables."""

@@ -47,7 +47,7 @@ What happens under the hood:
 
 When a query contains something not directly in the database (e.g. “respiratory distress”):
 
-- Semantic match first: check against custom definitions in provided yaml fileset
+- Semantic match first: check against UMLS concept classes as well as any provided custom definitions
 - If unresolved, asks for clarification: 
   _e.g. “which vitals, labs, or events define respiratory distress in your case?”_
 

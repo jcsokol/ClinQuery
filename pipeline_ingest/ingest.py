@@ -23,6 +23,7 @@ Options:
     --mrsty.rrf PATH     Path to UMLS mrsty.rrf file (required).
     --to_csv             Export the normalized table to CSV (default: SQL database + alias embeddings for query engine).
     --keep               Produce stats showing mapped+unmapped terms and their frequencies; use this to get a sense of the quality of the resolved ontology mappings.
+    --ont_corr PATH      Path to ontology correction yml file.    
     --ner-model DIR      Directory containing the NER model (default: ./db/ner_model).
     --rel-model DIR      Directory containing the relation extraction model (default: ./db/rel_model).
 
@@ -44,7 +45,7 @@ Action items for the near future:
     - The admission date is currently extracted from the records, but I want to let users optionally provide it in the JSON input to override the record-derived value.
     
 Additional notes:
-    - If you want good term recall you will need to manually tune the ontology alias->term mappings. See note in normalize_and_write.py and/or contact me for details. 
+    - If you want good term recall you will need to manually tune the ontology alias->term mappings within db/ontology_corrections.yml. Tune this for your own data using the stats you can get with --keep. 
 
 """
 
@@ -64,11 +65,7 @@ def parse_args():
     p = argparse.ArgumentParser(description="Batch ingest EHR notes JSONL → SQL DB/TABLE")
     p.add_argument("jsonl_path", type=Path, help="Input raw notes JSONL")
     p.add_argument("out_path", type=Path, help="Output workspace directory (intermediates + DB/CSV)")
-    p.add_argument(
-        "--to_csv",
-        action="store_true",
-        help="Write normalized table to CSV instead of SQL DB (OK for small data)",
-    )
+    p.add_argument("--to_csv", action="store_true", help="Write normalized table to CSV instead of SQL DB (OK for small data)")
     p.add_argument("--keep", action="store_true", help="Keep intermediate files")
     p.add_argument(
         "--ner-model",
@@ -85,14 +82,20 @@ def parse_args():
         help="REL model directory (default: ./db/rel_model)",
     )
     p.add_argument(
-        "--mrconso_rrf",
-        dest="mrconso_rrf",
+        "--ont_corr",
+        dest="ont_corr",
         type=Path,
-        help="mrconso.rrf file directory",
-        required=True,
+        help="ontology correction yml file directory",
+        default=Path("./db/ontology_corrections.yml"),
     )
+    p.add_argument("--mrconso_rrf", dest="mrconso_rrf", type=Path, help="mrconso.rrf file directory", required=True)
     p.add_argument("--mrrel_rrf", dest="mrrel_rrf", type=Path, help="mrrel.rrf file directory", required=True)
     p.add_argument("--mrsty_rrf", dest="mrsty_rrf", type=Path, help="mrsty.rrf file directory", required=True)
+    p.add_argument(
+        "--no_pruning",
+        action="store_true",
+        help="by default the ontology is pruned to only conain terms in dataset; call --no_pruning to disable this pruning",
+    )
     return p.parse_args()
 
 
@@ -117,6 +120,9 @@ def main() -> int:
     if not args.mrsty_rrf.exists():
         log.error(f"mrsty.rrf path does not exist: {args.mrsty_rrf}")
         raise SystemExit(1)
+    if not args.ont_corr.exists():
+        log.error(f"ontology correction file does not exist: {args.ont_corr}")
+        raise SystemExit(1)
 
     workdir = args.out_path
     workdir.mkdir(parents=True, exist_ok=True)
@@ -136,7 +142,14 @@ def main() -> int:
     rel_tmp_out.replace(ner_rel_out)
 
     log.info("Stage 3: NORMALIZE …")
-    norm = Normalizer(str(args.mrconso_rrf), str(args.mrrel_rrf), str(args.mrsty_rrf), keep=args.keep)
+    norm = Normalizer(
+        str(args.mrconso_rrf),
+        str(args.mrrel_rrf),
+        str(args.mrsty_rrf),
+        str(args.ont_corr),
+        keep=args.keep,
+        no_pruning=args.no_pruning,
+    )
     norm.normalize(
         in_jsonl=str(ner_rel_out), term_stats_csv=str(term_stats_out)
     )  # when args.keep==False will not produce term_stats_out

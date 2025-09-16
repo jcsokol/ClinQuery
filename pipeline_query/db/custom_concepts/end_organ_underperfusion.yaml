@@ -8,6 +8,10 @@ aliases:
     - { term: "end organ perfusion", modifier: "normal" }
     - { term: "end organ perfusion", modifier: "adequate" }
     - { term: "end organ perfusion", modifier: "good" }
+    - { term: "perfusion", modifier: "normal" }
+    - { term: "perfusion", modifier: "adequate" }
+    - { term: "perfusion", modifier: "good" }
+    - { term: "perfused", modifier: "well" }
     - { term: "end organ underperfusion", modifier: "no evidence" }
     - { term: "end organ nonperfusion", modifier: "no evidence" }
     - { term: "end organ hypoperfusion", modifier: "no evidence" }

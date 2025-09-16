@@ -1,18 +1,3 @@
-"""
-prompts.py
-
-Prompt and schema utilities for the intent parser and final adjudication LLM.
-
-Contents
---------
-- _intent_parser_prompt(): System/user-facing instructions that guide the
-  LLM to emit a strict JSON intent via a function/tool call.
-- _intent_parser_schema(): Draft-07 JSON Schema describing the intent format.
-- final_llm_call_system_prompt(): System prompt for the final adjudication step.
-- final_llm_call_rubric(): Concise rubric the final model should follow.
-
-"""
-
 import re
 
 
@@ -37,8 +22,11 @@ GENERAL RULES
    - `op`: `">"` or `"<"` or `null`  
    - `value`: numeric value or `null`  
    - `unit`: unit string or `null`  
-   - `modifier`: one of `"uptrended"`, `"downtrended"`, `"unchanged"`, `"high"`, `"low"`, `"normal"`, `"present"`, `"absent"`, or `null`  
-     Only map to non-null entries if you are **very confident** a **numeric measurement** (labs, vitals, or quantitative scores) is implied. The direction of change must be explicitly clear (e.g., “creatinine increased”, “blood pressure fell”). Non-null mappings can also not be used for qualitative states (e.g. worsened mental status). 
+   - `modifier`: one of `"uptrended"`, `"downtrended"`, `"unchanged"`, `"high"`, `"low"`, `"normal"`, `"present"`, `"absent"`, or `null`.  
+     **Default to `null`.** Set a non-null modifier **only** when:
+     1) the clause’s `term` is a **quantitative measurement** (labs, vitals, numeric scores **and**  
+     2) the query contains an **explicit directional cue** from the allowed trigger list (see *Modifier Policy*).  
+     Vague words like “trend”, “evolve”, “trajectory”, “change”, “compare”, “difference” **do not** justify a non-null modifier.  
      Example: `"worsened creatinine"` → `"uptrended"` because `"worsened"` clearly means `"uptrended"` creatinine. Default `modifier` to `null`. 
    - `modifier_text`: the raw text phrase in the query that implied the modifier  
    - `temporal`: one of:
@@ -53,6 +41,12 @@ GENERAL RULES
              * `kind`: `"EVENT"`, `"INTERVAL"`, or `null`  
              * `event`: `"start"`, `"stop"`, or `null`
              * `day_offset`: integer (zero-indexed) or `null`
+             
+### 6a. Modifier Policy (strict)
+- **Allowed directional triggers** (map to modifier):
+  - uptrended: `rise`, `rose`, `increased`, `went up`, `higher`, `uptrended`, `climbed`
+  - downtrended: `fell`, `decreased`, `went down`, `lower`, `downtrended`, `dropped`
+  - unchanged: `unchanged`, `stable`, `no change`, `remained the same`
 
 ======================
 TEMPORAL RULES
@@ -415,15 +409,16 @@ def final_llm_call_system_prompt() -> str:
     - If `query_scope="subset"`: the user specified one or more patients by name/ID. Describe only those specified patients. Do not generalize to the entire cohort or imply that only the specified patients meet the criterion.
 
     Counts & phrasing rules:
-    - Prefer direct cohort counts (“N patients had …”) only for cohort-scope **binary** criteria.
-    - Use “At least N …” ONLY when `subsampled=true` AND every patient in `patients` adjudicates as Meets for a **binary** criterion. Append nothing else.
-    - For **descriptive/trend** queries (not binary):
-      - If `subsampled=true`, do NOT claim cohort-level availability (e.g., “N patients had serial panels”). 
-      - Instead, open with a sample-anchored sentence, e.g., “Across the analyzed sample with serial CBC and chem7 panels, …”.
-      - After synthesis, include a single scope note: “Patterns in the reviewed sample may not generalize to unreviewed relevant admissions.”
-    - Never expose or reference internal mechanics or field names (no “N of N reviewed”, no “retrieved/shown candidates”).
-    - State any cohort-level count/summary **once at the start** when appropriate; do not restate it at the end. Close with synthesis (or CTA if allowed).
-    - Avoid generic filler (“<Condition> is common…”) unless quantitatively supported and necessary.
+    - Binary/availability queries (e.g., “did anyone have ALT and AST?”, “who had CBCs?”):
+      - If `subsampled=true`, open with: “At least N patients …” (N = number in `patients` that meet availability). Do not say “all patients …”.
+      - If `subsampled=false`, open with: “N patients …”.
+    - Descriptive/trend queries (not availability):
+      - If `subsampled=true`, do NOT claim cohort-level availability (e.g., “N patients had serial panels”).
+      - Instead, open sample-anchored (e.g., “Across an analyzed sample with serial CBC and chem7 panels, …”), then provide synthesis.
+      - After synthesis, add exactly one scope note: “Patterns in the reviewed sample may not generalize to unreviewed relevant admissions.”
+    - Never expose internal mechanics/field names (no “N of N reviewed”, no “retrieved/shown candidates”).
+    - State any cohort-level count/summary once at the start; do not restate it at the end. Close with synthesis (or CTA if allowed).
+    - Avoid generic filler unless quantitatively supported.
 
     Closing:
     - IF AND ONLY IF `cta_allowed` is true, end with a short call to action inviting the attending to specify names or IDs for a more detailed review.
@@ -440,9 +435,11 @@ def final_llm_call_rubric() -> str:
     2) Use cohort framing (“Within this 589-admission cohort…”) only when `query_scope="cohort"`. Never expose internal terms or counts (“shown patients,” “subset,” “reviewed,” “candidates,” “retrieved_candidates,” “shown_candidates”).
     3) Assume curated patients are relevant; avoid hedging. Use assertive, quantified language when scope is cohort.
     4) Counts & placement:
-       - Use cohort-level counts only for cohort-scope **binary** criteria.
-       - If `subsampled=true` AND all patients meet a binary criterion, use: “At least N …”.
-       - For **descriptive/trend** queries with `subsampled=true`, do NOT claim cohort-level availability (e.g., “N patients had serial panels…”). Open with a **sample-anchored** line instead (e.g., “Across the analyzed sample with serial CBC and chem7 panels [n optional], …”), then provide group-level synthesis and 1–2 exemplars. Add exactly one scope note: “Patterns in the reviewed sample may not generalize to unreviewed relevant admissions.”
+       - Binary/availability queries:
+         - If `subsampled=true`, open with “At least N …” (N = number in `patients` that meet availability). Never say “all patients …”.
+         - If `subsampled=false`, open with “N …”.
+       - Descriptive/trend queries (not availability) with `subsampled=true`:
+         - No cohort availability claims; open sample-anchored, provide group-level synthesis + 1–2 exemplars, then add one scope note.
        - Place any cohort-level count once at the beginning; do not repeat it at the end. Do not reveal reviewed/retrieved/shown counts.
     5) Prioritize primary evidence; use context only if it adds clarity, never above primary evidence.
     6) For labs/vitals, prefer quantitative trends or summaries (min/max/mean/std) over anecdotes.

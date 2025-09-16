@@ -165,15 +165,15 @@ streamlit run pipeline_query/app.py
 
 ## 6. Design Decisions & Tradeoffs
 
-**Entity classifications:** I pushed most classification to the normalization layer by using a catch-all *clinical entity* label in NER (covering observations, conditions, devices, medications, procedures). This reduced false negatives from over-cautious NER at the cost of pushing disambiguation to the normalizer.   
+**Entity classifications:** Used a broad clinical entity NER label (conditions, meds, procedures, devices, observations) to reduce misses. Disambiguation happens later in normalization. 
 
-**Negative example tuning for relation extraction:** The relations model only performed well when negative examples (entity–time/negation pairs where time/negation does not refer to entity) were selected with distances that matched those of positive examples. This tuning step was crucial to model performance.  
+**Negative example tuning for relation extraction:** Performed best when negatives were sampled with distances similar to positives. Careful tuning was critical. 
 
-**Ontology coverage vs. precision:** UMLS provides broad coverage with many clinically meaningful classes (e.g., “antihypertensive drug”), but also includes noisy or irrelevant groupings. I added an abstraction layer to override UMLS classes, balancing breadth with clinical precision. 
+**Ontology coverage vs. precision:** UMLS provides broad coverage with many clinically meaningful classes (e.g., “antihypertensive drug”), but also includes noisy or irrelevant groupings. I added an abstraction layer to override UMLS classes, balancing breadth with precision. 
 
-**Modifiers and values:** These can either be parsed separately *before* normalization, or entities can be normalized *with* modifiers included (which requires explicit ontology entries). I chose the first approach, since it generalizes to unseen entity–modifier pairs, at the cost of needing very accurate parsing. A drawback was that at times terms that encode both a modifier and concept (e.g. 'extubated') aren't parsed well. Another example of a concept that requires special treatment is 'high blood pressure'. 
+**Modifiers and values:** Parsed separately before normalization for generality, though this makes parsing accuracy critical. Terms that encode both (e.g. extubated) need special handling.
 
-**Evidence extrapolation policy:** I avoided fabricating evidence by not assuming persistence of events beyond what was documented. For example, if an event occurred on day X, it was not automatically extended to X+1. The only exception: I assumed heart pumps remained active between “start” and “stop” events, since this is a safe clinical assumption and enables temporal constraints around pump-related outcomes. 
+**Evidence extrapolation policy:** No assumptions beyond documented events, except pumps (assumed active between start/stop).
 
 **Evidence retrieval policy:** I retrieve any candidate that *could* satisfy the query (including cases with conflicting evidence) so the LLM adjudicator can decide. The risk is flooding the adjudicator with marginal candidates.
 
@@ -183,35 +183,24 @@ streamlit run pipeline_query/app.py
 
 ## 8. Failure Modes & Future Extensions
 
-**Ontology & concept classes:**  
-- Too many clinically irrelevant classes currently surface; pruning strategies are needed.  
-- Equivalent terms/classes are occasionally not collapsed despite a merge step.  
-- Misclassifications occur (e.g., *furosemide* miscategorized as an antibiotic). I can spot these errors instantly, but the system will eventually need automated checks on some level. Thus, a scalable system will need dedicated focus towards curating an error-free ontology. Realisticaly, this will take months to get right, but is worth the time. 
-- **I currently prune concepts absent from the ingested dataset to reduce complexity**. This can cause queries to miss otherwise valid concepts and is probably the first thing I will target next. I would prefer retaining the concept index so the system can say a concept exists but wasn’t identified in any note.
+**Ontology & concept classes:** Needs pruning of irrelevant classes, stronger synonym merging, and automated error checks. I currently prune unseen concepts, but long-term it should preserve all concepts -- even those that do not appear in the data.
 
-**Query expressivity:**  
-- System requires at least one entity in the query; it should be extended to support open-ended requests like “summarize patient X’s hospital course.”  
-- Support for demographic subsetting (age, sex, etc.) is not yet implemented.  
+**Query expressivity:** Extend to support open-ended summaries and demographic filters. 
 
-**Evidence retrieval:**  
-- RAG fallback not yet built; this would improve recall, though SQL-based retrieval is the priority for temporally precise queries.  
-- Very rare parsing errors in values/units/timestamps may cause missed candidates.  
-- When queries return very few datapoints, the system should retrieve additional supporting evidence using a relevance-based function. Currently I am using a two-stage approach that retrieves all datapoints, or all queried datapoints irrespective of temporal constraints, depending on which fits into the token limit. A continuous tuned relevance function that scales the retrieved context w.r.t. the remaining token limit would enable more accurate responses.  
-- Frequently the system retrieves too many candidates, not all of which satisfy the constraints. This happens partly because my intent parser can’t yet convert qualitative constraints (e.g., “low,” “high”) into numeric thresholds. Fixing this will protect the LLM adjudicator from being flooded with irrelevant candidates.  
+**Evidence retrieval:** Add RAG fallback for recall, better numeric handling for qualitative constraints, and a relevance function that scales with token budget to avoid flooding the LLM.
 
-The ingestion pipeline's runtime and memory usage can be optimized in several places to enable scaling to very large datasets (see performance & reproducibility). 
+**Performance:** The ingestion pipeline's runtime and memory usage can be optimized in several places to enable scaling to very large datasets (see performance & reproducibility). 
 
 > ## **Vision:**
-> The long-term goal is a **“Wolfram Alpha for physicians”:** a system that shows transparently how it interpreted the data in response to a query using guideline-aware navigation. In medicine this would be invaluable, since clinical guidelines and algorithms are referenced all the time as physicians work up and treat patients. Ideally the system would surface the relevant guideline, traverse it step-by-step, and show where the patient lands. **Physicians would love this**, and my recent hospital years give me an edge for building it.
+> Build towards a “Wolfram Alpha for physicians”, a form of guideline-aware reasoning that shows how patient data map onto clinical algorithms. Transparent, step-by-step navigation would make this system invaluable, and my recent hospital years give me an edge for building it.
 
 ---
 
 ## 9. Performance & Reproducibility
-- **Ingestion pipeline**: processes ~589 notes / ~90k events in ~2 hours, but this can be sped up via parallelization to handle ~millions of pages. Currently bottlenecked by relations predictions and entity normalization steps that loop over each entity using a single worker.  
-- **Query pipeline**: typical query executes in <15s with <1GB RAM. Memory load comes mainly from the embedder model (initialized once at startup and shared across users). Latency is bottlenecked by two LLM calls.  
-- Certain optimizations have been omitted here to keep the public version generalizable. Contact me if you’d like details.  
-- You will need your own UMLS license (free) to run the ingestion pipeline.  
-- **NER + relation model weights** (~1.3 GB each) are not included to keep this repo lightweight. Contact me for model weights, or fine-tune your own models via the provided notebooks.
+- **Ingestion**: ~589 notes / 90k events in ~2 hrs; parallelization can scale to millions. Bottleneck = relations + normalization loops. 
+- **Query pipeline**: <15s latency, <1GB RAM; main costs are two LLM calls.
+- **Dependencies**: Requires UMLS license/files.
+- **NER + relation model weights** NER and relation weights (~1.3 GB each) excluded; contact me for access or fine-tune via notebooks.
 
 ---
 

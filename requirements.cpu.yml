@@ -33,3 +33,4 @@ dependencies:
       - sentence-transformers
       - openai
       - sqlparse
+      - tf-keras

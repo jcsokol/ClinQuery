@@ -183,7 +183,7 @@ streamlit run pipeline_query/app.py
 
 ## 8. Failure Modes & Future Extensions
 
-**Ontology & concept classes:** Needs pruning of irrelevant classes, stronger synonym merging, and automated error checks. I currently prune unseen concepts, but long-term it should preserve all concepts -- even those that do not appear in the data.
+**Ontology & concept classes:** Too many irrelevant classes surface; pruning and better synonym collapsing are needed. Second, occasional misclassifications (e.g., furosemide as an antibiotic) highlight the need for automated checks to scale. 
 
 **Query expressivity:** Extend to support open-ended summaries and demographic filters. 
 
@@ -192,7 +192,7 @@ streamlit run pipeline_query/app.py
 **Performance:** The ingestion pipeline's runtime and memory usage can be optimized in several places to enable scaling to very large datasets (see performance & reproducibility). 
 
 > ## **Vision:**
-> Build towards a “Wolfram Alpha for physicians”, a form of guideline-aware reasoning that shows how patient data map onto clinical algorithms. Transparent, step-by-step navigation would make this system invaluable, and my recent hospital years give me an edge for building it.
+> Build a **“Wolfram Alpha for physicians”**, a system that transparently maps patient data onto evidence-based clinical algorithms and guidelines. Physicians don’t just want answers; they want to see the reasoning path, step by step, the same way they are trained to think. This tool could transform how doctors interact with patient data, and my background in both clinical medicine and ML engineering puts me in a unique position to build it.
 
 ---
 

@@ -51,7 +51,7 @@ dependencies:
 
   - pip:
       - rapidfuzz
-      - sentence-transformers --no-deps   
+      - sentence-transformers  
       - openai
       - sqlparse
       - seqeval

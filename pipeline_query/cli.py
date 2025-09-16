@@ -15,10 +15,14 @@ message if none was produced).
 """
 import os
 
+# Silence TensorFlow INFO messages
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
+
 import argparse
+import logging
 import uuid
 
+from logging_setup import setup_logging
 from pipeline_query.abstraction_layer import QueryCompiler
 from pipeline_query.config import settings
 from pipeline_query.main import run_query
@@ -47,9 +51,10 @@ if __name__ == "__main__":
     parser.add_argument("query", help="The question to ask (wrap in quotes)")
     args = parser.parse_args()
 
-    from logging_setup import setup_logging
-
+    # Quiet httpx and its underlying httpcore logs
     setup_logging("INFO")
+    logging.getLogger("httpx").setLevel(logging.ERROR)
+    logging.getLogger("httpcore").setLevel(logging.ERROR)
 
     qc = load_compiler()
     result = run_query(user_query=args.query, session_id=str(uuid.uuid4()), query_compiler=qc)

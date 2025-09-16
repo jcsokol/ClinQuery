@@ -95,6 +95,9 @@ conda activate clinquery_cpu
 export OPENAI_API_KEY=...
 
 python -m pipeline_query.cli "which patients had acute kidney injury 2–4 days post pump placement?"
+
+# or to launch the frontend with a reasoning trace
+streamlit run pipeline_query/app.py
 ```
 *For GPU training/ingestion pipelines see the [technical readme](https://github.com/jcsokol/ClinQuery/blob/main/README_TECHNICAL.md).*
 

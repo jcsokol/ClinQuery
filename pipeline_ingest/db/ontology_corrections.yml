@@ -1,3 +1,4 @@
+# =====================================================================
 # ontology_rules.yml — v1 (2025-08-31)
 #
 # PURPOSE
@@ -14,7 +15,7 @@
 #        - term_removals / class_removals: remove exact strings.
 #        - term_set_splits: if coverage met, split into two named sets & drop source set.
 #
-# =============================================================================
+# =====================================================================
 
 
 

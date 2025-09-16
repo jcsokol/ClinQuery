@@ -13,7 +13,9 @@ Usage
 The script will print the model's final answer to stdout (or a fallback
 message if none was produced).
 """
+import os
 
+os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
 import argparse
 import uuid
 

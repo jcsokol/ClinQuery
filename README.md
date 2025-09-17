@@ -6,7 +6,7 @@ I’m an MD trained in Massachusetts’ largest safety-net hospital (adult + ped
 
 It turns raw EHR notes into a temporal, canonicalized database capable of answering reasoning-heavy queries like:
 
-> “Which patients remained clinically stable after heart pump placement?”.
+> “Which patients remained clinically stable on day 2 post heart pump placement?”.
 
 Where typical retrieval pipelines return text fragments that “look” relevant, this system:
 - Models abstract clinical concepts (e.g. stability, watcher status) as structured proxies

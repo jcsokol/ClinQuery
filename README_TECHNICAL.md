@@ -45,7 +45,7 @@ Two modular pipelines:
 ├── raw_ehr_records
 │
 ├── logging_setup.py
-├── requirements.yml
+├── requirements.*.yml
 ├── README_TECHNICAL
 └── README
 ```

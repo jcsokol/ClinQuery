@@ -1,7 +1,8 @@
 name: clinquery_gpu  # this environment supports all ClinQuery pipelines
+
 channels:
-  - nvidia            
   - conda-forge
+
 dependencies:
   # Core
   - python=3.10
@@ -17,44 +18,40 @@ dependencies:
   - wheel
   - pyarrow
   - optree=0.13.*
-  - psycopg=3.*
+  - psycopg
   - streamlit
   - faiss-cpu
   - pyyaml
-  - black
-  - ruff
-  - pytest
-  - pre-commit
+  - scipy=1.12.* 
+  - scikit-learn=1.5.* 
+  - matplotlib=3.8.* 
+  - h5py=3.12.* 
+  - pillow=10.* 
+  - tensorflow=2.18.* 
+  - tensorboard=2.18.* 
+  - cudnn 
+  - cuda-toolkit 
+  - nccl 
+  - cuda-version=12.5   
+  - black       
+  - ruff       
+  - pytest 
+  - pre-commit 
 
-  # ingestion/analysis extras
-  - scipy=1.12.*
-  - scikit-learn=1.5.*
-  - matplotlib=3.8.*
-  - h5py=3.12.*
-  - pillow=10.*
-  - datasets
-
-  # notebooks
+  # for notebooks 
   - jupyter
   - ipykernel
   - ipywidgets
   - jupyterlab_widgets
-  - notebook
-
-  # TensorFlow GPU 
-  - tensorflow-gpu=2.18.*
-  - tensorboard=2.18.*
-
-  # PyTorch + CUDA 
-  - pytorch
-  - pytorch-cuda=12.6
+  - notebook 
 
   - pip:
       - rapidfuzz
-      - sentence-transformers  
+      - sentence-transformers
       - openai
       - sqlparse
-      - seqeval
-      - tf-keras
-      - transformers
-      - accelerate
+      - seqeval 
+      - tf-keras 
+      - transformers  
+      - datasets  
+      - accelerate 

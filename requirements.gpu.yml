@@ -2,6 +2,7 @@ name: clinquery_gpu  # this environment supports all ClinQuery pipelines
 
 channels:
   - conda-forge
+  - defaults
 
 dependencies:
   # Core
@@ -16,42 +17,45 @@ dependencies:
   - tzdata
   - setuptools
   - wheel
-  - pyarrow
-  - optree=0.13.*
   - psycopg
   - streamlit
-  - faiss-cpu
+  - faiss-cpu=1.9.*
   - pyyaml
-  - scipy=1.12.* 
-  - scikit-learn=1.5.* 
-  - matplotlib=3.8.* 
-  - h5py=3.12.* 
-  - pillow=10.* 
-  - tensorflow=2.18.* 
-  - tensorboard=2.18.* 
-  - cudnn 
-  - cuda-toolkit 
-  - nccl 
-  - cuda-version=12.5   
-  - black       
-  - ruff       
-  - pytest 
-  - pre-commit 
+  - scipy=1.12.*
+  - scikit-learn=1.5.*
+  - matplotlib=3.8.*
+  - h5py=3.12.*
+  - pillow=9.5.*         
+  - libjpeg-turbo=2.1.*
+  - pyarrow=19.0.1        
 
-  # for notebooks 
+  # Notebooks / Dev
   - jupyter
   - ipykernel
   - ipywidgets
   - jupyterlab_widgets
-  - notebook 
+  - notebook
+  - black
+  - ruff
+  - pytest
+  - pre-commit
 
+  # HF stack from conda (prevents pip from building Arrow)
+  - datasets
+  - transformers
+  - accelerate
+  - sentence-transformers
+  - rapidfuzz
+  - sqlparse
+  - seqeval
+  - openai
+
+  # Pip-only (TF)
   - pip:
-      - rapidfuzz
-      - sentence-transformers
-      - openai
-      - sqlparse
-      - seqeval 
-      - tf-keras 
-      - transformers  
-      - datasets  
-      - accelerate 
+      - tensorflow==2.19.1
+      - tensorboard==2.19.0
+      - tensorflow-io-gcs-filesystem==0.37.1
+      - tf-keras==2.19.0
+
+# and then install torch via 'pip install --index-url https://download.pytorch.org/whl/cu124 "torch>=2.6,<2.7"' 
+# adding conda to path may also be necessary: 'export LD_LIBRARY_PATH="$CONDA_PREFIX/lib:/lib64:$LD_LIBRARY_PATH"'

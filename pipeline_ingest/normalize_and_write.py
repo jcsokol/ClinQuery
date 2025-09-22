@@ -171,9 +171,9 @@ class Normalizer:
         to_embed = [s for s in uniq if s not in self.embedding_cache]
         if to_embed:
             E = (
-                self.emb_model.encode(to_embed, normalize_embeddings=True, batch_size=256)
+                self.emb_model.encode(to_embed, normalize_embeddings=True, batch_size=256, show_progress_bar=False)
                 if self.device == "cuda"
-                else self.emb_model.encode(to_embed, normalize_embeddings=True)
+                else self.emb_model.encode(to_embed, normalize_embeddings=True, show_progress_bar=False)
             )
             for s, e in zip(to_embed, E, strict=False):
                 self.embedding_cache[s] = e
@@ -493,7 +493,7 @@ class Normalizer:
             all_terms = list({t for terms in eligible_terms_per_group for t in terms})
             uncached_terms = [t for t in all_terms if t not in self.embedding_cache]
             if uncached_terms:
-                new_embs = self.emb_model.encode(uncached_terms, normalize_embeddings=True)
+                new_embs = self.emb_model.encode(uncached_terms, normalize_embeddings=True, show_progress_bar=False)
                 for t, emb in zip(uncached_terms, new_embs, strict=False):
                     self.embedding_cache[t] = emb
 
@@ -655,7 +655,7 @@ class Normalizer:
 
         to_embed = [t for t in all_terms if t not in self.embedding_cache]
         if to_embed:
-            embs = self.emb_model.encode(to_embed, normalize_embeddings=True)
+            embs = self.emb_model.encode(to_embed, normalize_embeddings=True, show_progress_bar=False)
             for t, emb in zip(to_embed, embs, strict=False):
                 self.embedding_cache[t] = emb
 
@@ -1217,7 +1217,7 @@ class Normalizer:
             if cleaned in self.embedding_cache.keys():
                 query_emb = self.embedding_cache[cleaned]
             else:
-                query_emb = self.emb_model.encode(cleaned, normalize_embeddings=True)
+                query_emb = self.emb_model.encode(cleaned, normalize_embeddings=True, show_progress_bar=False)
                 self.embedding_cache[cleaned] = query_emb
 
             emb_by_canon = {}
@@ -1228,7 +1228,7 @@ class Normalizer:
                 if alias in self.embedding_cache.keys():
                     emb = self.embedding_cache[alias]
                 else:
-                    emb = self.emb_model.encode(alias, normalize_embeddings=True)
+                    emb = self.emb_model.encode(alias, normalize_embeddings=True, show_progress_bar=False)
                     self.embedding_cache[alias] = emb
                 if emb is None:
                     continue
@@ -1251,7 +1251,7 @@ class Normalizer:
         if cleaned in self.embedding_cache.keys():
             query_emb = self.embedding_cache[cleaned]
         else:
-            query_emb = self.emb_model.encode(cleaned, normalize_embeddings=True)
+            query_emb = self.emb_model.encode(cleaned, normalize_embeddings=True, show_progress_bar=False)
             self.embedding_cache[cleaned] = query_emb
 
         emb_by_canon = {}
@@ -1262,7 +1262,7 @@ class Normalizer:
             if alias in self.embedding_cache.keys():
                 emb = self.embedding_cache[alias]
             else:
-                emb = self.emb_model.encode(alias, normalize_embeddings=True)
+                emb = self.emb_model.encode(alias, normalize_embeddings=True, show_progress_bar=False)
                 self.embedding_cache[alias] = emb
             if emb is None:
                 continue

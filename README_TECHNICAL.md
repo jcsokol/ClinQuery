@@ -130,6 +130,7 @@ Two modular pipelines:
 # GPU-enabled (Linux + NVIDIA GPU only)
 conda env create -f requirements.gpu.yml
 conda activate clinquery_gpu
+pip install --index-url https://download.pytorch.org/whl/cu124 "torch>=2.6,<2.7"
 
 # (optional) register notebook kernel
 python -m ipykernel install --user --name=clinquery_gpu

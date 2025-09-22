@@ -23,7 +23,7 @@ Options:
     --mrsty.rrf PATH     Path to UMLS mrsty.rrf file (required).
     --to_csv             Export the normalized table to CSV (default: SQL database + alias embeddings for query engine).
     --keep               Produce stats showing mapped+unmapped terms and their frequencies; use this to get a sense of the quality of the resolved ontology mappings.
-    --ont_corr PATH      Path to ontology correction yml file.    
+    --ont_corr PATH      Path to ontology correction yml file (default: ./db/ontology_corrections.yml).    
     --ner-model DIR      Directory containing the NER model (default: ./db/ner_model).
     --rel-model DIR      Directory containing the relation extraction model (default: ./db/rel_model).
 
@@ -71,22 +71,22 @@ def parse_args():
         "--ner-model",
         dest="ner_model_path",
         type=Path,
-        default=Path("./db/ner_model"),
-        help="NER model directory (default: ./db/ner_model)",
+        default=Path("./pipeline_ingest/db/ner_model"),
+        help="NER model directory (default: ./pipeline_ingest/db/ner_model)",
     )
     p.add_argument(
         "--rel-model",
         dest="rel_model_path",
         type=Path,
-        default=Path("./db/rel_model"),
-        help="REL model directory (default: ./db/rel_model)",
+        default=Path("./pipeline_ingest/db/rel_model"),
+        help="REL model directory (default: ./pipeline_ingest/db/rel_model)",
     )
     p.add_argument(
         "--ont_corr",
         dest="ont_corr",
         type=Path,
         help="ontology correction yml file directory",
-        default=Path("./db/ontology_corrections.yml"),
+        default=Path("./pipeline_ingest/db/ontology_corrections.yml"),
     )
     p.add_argument("--mrconso_rrf", dest="mrconso_rrf", type=Path, help="mrconso.rrf file directory", required=True)
     p.add_argument("--mrrel_rrf", dest="mrrel_rrf", type=Path, help="mrrel.rrf file directory", required=True)

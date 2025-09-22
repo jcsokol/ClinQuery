@@ -19,6 +19,7 @@ GENERAL RULES
 5. `logic` is `"AND"` or `"OR"`.
 6. Each `clause` contains:
    - `term`: the clinical concept **exactly as it appears in the raw query**, but stripped of any added modifier (e.g., `"pump"` is allowed but `"pump placement"` is not). But conditions whose names traditionally contain a modifier should keep the modifier (e.g., `"chronic kidney disease"` or `"high blood pressure"` are allowed).  
+   **If the query refers to a category rather than a specific concept (e.g., `medication`, `lab`, `vital`, `diagnosis`, `procedure`), you MAY set `term` to that category string exactly as it appears in the query.**
    - `op`: `">"` or `"<"` or `null`  
    - `value`: numeric value or `null`  
    - `unit`: unit string or `null`  
@@ -43,6 +44,7 @@ GENERAL RULES
              * `day_offset`: integer (zero-indexed) or `null`
              
 ### 6a. Modifier Policy (strict)
+- Words like `common`, `most common`, `frequent`, `typical`, `top`, `most used` are **not directional** and MUST NOT set `modifier` (leave `modifier = null`).
 - **Allowed directional triggers** (map to modifier):
   - uptrended: `rise`, `rose`, `increased`, `went up`, `higher`, `uptrended`, `climbed`
   - downtrended: `fell`, `decreased`, `went down`, `lower`, `downtrended`, `dropped`
@@ -83,7 +85,8 @@ OUTPUT FORMAT
 - Do not include extra fields.
 - Keys must be in the specified order.
 - `temporal` may be `null`, a single object, or an array of temporal objects as described above.
-- For both clause.term and anchor.term, always use the clinical concept exactly as it appears in the raw query, stripped of modifiers unless part of a canonical condition name.
+- For both clause.term and anchor.term, always use the clinical concept/category exactly as it appears in the raw query, stripped of modifiers unless part of a canonical condition name.
+- Ignore non-clinical framing words (`what`, `which`, `most`, `common`, `frequent`, `top`) unless they explicitly change a numeric comparator or time; keep only the clinical constraint (e.g., the category or concept and any time anchor).
 
 ======================
 FEW-SHOT EXAMPLES
@@ -297,6 +300,29 @@ OUTPUT:
   ]
 }
 
+USER: What was a common lab within 48 hours of admission?
+OUTPUT:
+{
+  "parse_status": "ok",
+  "error_message": null,
+  "patient_references": [],
+  "logic": "AND",
+  "clauses": [
+    {
+      "term": "lab",
+      "op": null,
+      "value": null,
+      "unit": null,
+      "modifier": null,
+      "modifier_text": null,
+      "temporal": [
+        { "relation": "FROM",  "anchor": { "form": "admission", "term": null, "kind": null, "event": null, "day_offset": 0 } },
+        { "relation": "UNTIL", "anchor": { "form": "admission", "term": null, "kind": null, "event": null, "day_offset": 1 } }
+      ]
+    }
+  ]
+}
+
 Now produce only the final JSON by calling `emit_parse` with the correct arguments. Do not write explanations."""
 
     return prompt
@@ -413,9 +439,9 @@ def final_llm_call_system_prompt() -> str:
       - If `subsampled=true`, open with: “At least N patients …” (N = number in `patients` that meet availability). Do not say “all patients …”.
       - If `subsampled=false`, open with: “N patients …”.
     - Descriptive/trend queries (not availability):
-      - If `subsampled=true`, do NOT claim cohort-level availability (e.g., “N patients had serial panels”).
-      - Instead, open sample-anchored (e.g., “Across an analyzed sample with serial CBC and chem7 panels, …”), then provide synthesis.
-      - After synthesis, add exactly one scope note: “Patterns in the reviewed sample may not generalize to unreviewed relevant admissions.”
+      - If `subsampled=true`, do NOT expose the number of patients in the subsample.
+      - Instead, open directly with synthesis of what was most common/typical, supported by exemplars.
+      - After synthesis, add exactly one scope note: “A subsample with relevant evidence was reviewed to answer the query; patterns in this subsample may not always generalize to the entire cohort.”
     - Never expose internal mechanics/field names (no “N of N reviewed”, no “retrieved/shown candidates”).
     - State any cohort-level count/summary once at the start; do not restate it at the end. Close with synthesis (or CTA if allowed).
     - Avoid generic filler unless quantitatively supported.
@@ -439,7 +465,8 @@ def final_llm_call_rubric() -> str:
          - If `subsampled=true`, open with “At least N …” (N = number in `patients` that meet availability). Never say “all patients …”.
          - If `subsampled=false`, open with “N …”.
        - Descriptive/trend queries (not availability) with `subsampled=true`:
-         - No cohort availability claims; open sample-anchored, provide group-level synthesis + 1–2 exemplars, then add one scope note.
+         - No cohort availability claims; do not expose the number of subsample patients.
+         - Open directly with group-level synthesis (what was most common/typical), add 1–2 exemplars, then add one scope note as specified in the system prompt.
        - Place any cohort-level count once at the beginning; do not repeat it at the end. Do not reveal reviewed/retrieved/shown counts.
     5) Prioritize primary evidence; use context only if it adds clarity, never above primary evidence.
     6) For labs/vitals, prefer quantitative trends or summaries (min/max/mean/std) over anecdotes.

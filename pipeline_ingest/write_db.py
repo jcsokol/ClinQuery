@@ -642,11 +642,13 @@ def to_db(norm_obj, sql_out_path, faiss_out_path, vector_ids_out_path, csv_out, 
 
     alias_to_canonical_df = alias_to_canonical_df[alias_to_canonical_df["alias"].str.len() >= norm_obj.min_alias_len]
     X = (
-        norm_obj.emb_model.encode(alias_to_canonical_df["alias"].tolist(), batch_size=256, normalize_embeddings=True).astype(
-            "float32"
-        )
+        norm_obj.emb_model.encode(
+            alias_to_canonical_df["alias"].tolist(), batch_size=256, normalize_embeddings=True, show_progress_bar=False
+        ).astype("float32")
         if norm_obj.device == "cuda"
-        else norm_obj.emb_model.encode(alias_to_canonical_df["alias"].tolist(), normalize_embeddings=True).astype("float32")
+        else norm_obj.emb_model.encode(
+            alias_to_canonical_df["alias"].tolist(), normalize_embeddings=True, show_progress_bar=False
+        ).astype("float32")
     )
     faiss.normalize_L2(X)
 

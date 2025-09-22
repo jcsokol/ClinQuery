@@ -68,6 +68,7 @@ class Normalizer:
         self.mrsty_rrf = Path(mrsty_rrf)
         self.ont_corr = Path(ont_corr)
         self.keep = keep
+        self.no_pruning = no_pruning
         self.embedder_model_name = "cambridgeltl/SapBERT-from-PubMedBERT-fulltext"
         self.min_alias_len = 6  # shorter terms are not considered by the embedder
         self.max_alias_len = 35  # ignore longer terms within umls

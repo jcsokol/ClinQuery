@@ -594,7 +594,7 @@ def to_db(norm_obj, sql_out_path, faiss_out_path, vector_ids_out_path, csv_out, 
     # columns: alias_id, alias, target_kind ('term' or 'concept_class'), canonical, status (always 'active'), priority (always 100)
     column_names = ["alias_id", "alias", "target_kind", "canonical", "status", "priority"]
     rows_list = []
-    for alias, canonical in norm_obj.a_to_c_dict_filtered.items():
+    for alias, canonical in norm_obj.a_to_c_dict.items():
         rows_list.append([len(rows_list) + 1, alias, "term", canonical, "active", 100])
     for alias, canonical in norm_obj.a_to_c_dict_concept_classes.items():
         rows_list.append([len(rows_list) + 1, alias, "concept_class", canonical, "active", 100])

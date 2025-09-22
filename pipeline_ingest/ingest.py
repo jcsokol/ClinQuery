@@ -23,9 +23,10 @@ Options:
     --mrsty.rrf PATH     Path to UMLS mrsty.rrf file (required).
     --to_csv             Export the normalized table to CSV (default: SQL database + alias embeddings for query engine).
     --keep               Produce stats showing mapped+unmapped terms and their frequencies; use this to get a sense of the quality of the resolved ontology mappings.
-    --ont_corr PATH      Path to ontology correction yml file (default: ./db/ontology_corrections.yml).    
-    --ner-model DIR      Directory containing the NER model (default: ./db/ner_model).
-    --rel-model DIR      Directory containing the relation extraction model (default: ./db/rel_model).
+    --ont_corr PATH      Path to ontology correction yml file (default: ./pipeline_ingest/db/ontology_corrections.yml).    
+    --ner-model DIR      Directory containing the NER model (default: ./pipeline_ingest/db/ner_model).
+    --rel-model DIR      Directory containing the relation extraction model (default: ./pipeline_ingest/db/rel_model).
+    --no_pruning         Flag to disable vocab pruning. Resulting database will be large (>1GB) but more expressive.
 
 Input Format:
     Each line in JSONL_IN must be a JSON object with:

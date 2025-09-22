@@ -109,7 +109,7 @@ class Normalizer:
         self._post_process_entities()
 
         # prune out vocab that does not appear in data, and then merge similar term sets
-        log.info("pruning vocab …")
+        log.info("post-processing vocab …")
         self._prune_and_collapse_vocab()
 
     # ---- Phase 2: write ----

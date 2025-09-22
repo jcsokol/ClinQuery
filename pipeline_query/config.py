@@ -22,7 +22,7 @@ from pathlib import Path
 @dataclass(frozen=True)
 class Params:
     openai_api_key = os.getenv("OPENAI_API_KEY", "")
-    duckdb_path = str(Path(__file__).resolve().parent / "db" / "master_db_v1.duckdb")
+    duckdb_path = str(Path(__file__).resolve().parent / "db" / "master_db.duckdb")
     faiss_path = str(Path(__file__).resolve().parent / "db" / "alias_vectors.faiss")
     idmap_path = str(Path(__file__).resolve().parent / "db" / "alias_vector_ids.npy")
     custom_concepts_path = str(Path(__file__).resolve().parent / "db" / "custom_concepts")

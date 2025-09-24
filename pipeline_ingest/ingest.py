@@ -152,7 +152,7 @@ def main() -> int:
         no_pruning=args.no_pruning,
     )
     norm.normalize(
-        in_jsonl=str(ner_rel_out), term_stats_csv=str(term_stats_out)
+        in_jsonl=str(ner_rel_out), term_stats_csv=(str(term_stats_out[0]), str(term_stats_out[1]))
     )  # when args.keep==False will not produce term_stats_out
 
     log.info("Stage 4: DB WRITE …")

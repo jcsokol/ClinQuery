@@ -11,7 +11,7 @@ What it does
 Inputs
 ------
 - UMLS files: MRCONSO.RRF, MRREL.RRF, MRSTY.RRF (English rows only are used).
-- `ner_rel_out`: JSONL with keys `spans`, `relations`, `tables` (see `_create_master_list`).
+- `in_jsonl`: JSONL with keys `spans`, `relations`, `tables` (see `_create_master_list`).
 
 Outputs
 -------
@@ -904,8 +904,12 @@ class Normalizer:
         ]
         resolved_entities_list = sorted(resolved_entities_list, key=lambda elem: elem[2], reverse=True)
         unresolved_entities_list = sorted(unresolved_entities_list, key=lambda elem: elem[2], reverse=True)
-        pd.DataFrame(resolved_entities_list, columns=["raw_string", "resolved_term", "count"]).to_csv(term_stats_csv[0])
-        pd.DataFrame(unresolved_entities_list, columns=["raw_string", "resolved_term", "count"]).to_csv(term_stats_csv[1])
+        pd.DataFrame(resolved_entities_list, columns=["raw_string", "resolved_term", "count"]).to_csv(
+            term_stats_csv[0], index=False
+        )
+        pd.DataFrame(unresolved_entities_list, columns=["raw_string", "resolved_term", "count"]).to_csv(
+            term_stats_csv[1], index=False
+        )
 
     def transpose_time_series_table(self, table: list[dict[str, Any]]) -> list[dict[str, Any]]:
         """Transpose row-per-time tables to a canonical time-keyed form."""

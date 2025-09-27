@@ -84,13 +84,11 @@ def run_query(user_query: str, session_id: str, query_compiler: Callable):
         timer_start_int = time.perf_counter()
         if len(compiled_query.trace["unresolved_concepts_list"]) > 0:
             payload_dict["run_status"] = "some queried concepts not resolved"
-            payload_dict["final_answer"] = settings.error_messages.unrecognized_term(
-                compiled_query.trace["unresolved_concepts_list"]
-            )
+            payload_dict["final_answer"] = settings.error_messages.unrecognized_term(compiled_query.trace["unresolved_concepts_list"])
             return payload_dict
-        payload_dict["concept_mappings"] = "  \n".join(
-            f"***{t}*** mapped to *{c}* ({ty})" for t, c, ty in compiled_query.trace["resolved_mappings"]
-        ).replace("concept_class", "class")
+        payload_dict["concept_mappings"] = "  \n".join(f"***{t}*** mapped to *{c}* ({ty})" for t, c, ty in compiled_query.trace["resolved_mappings"]).replace(
+            "concept_class", "class"
+        )
         payload_dict["concept_expansions"] = "  \n".join(
             f"***{cls}*** expanded to {', '.join(f'*{t}*' for t in terms)}"
             for cls, terms in compiled_query.trace["resolved_concept_class_term_expansions"].items()
@@ -113,12 +111,8 @@ def run_query(user_query: str, session_id: str, query_compiler: Callable):
         payload_dict["candidate_patient_ids"] = ", ".join(map(str, candidate_pt_ids))
         # Build & run EVIDENCE retrieval query
         sql_engine = SqlEngine(settings.params.duckdb_path, query_compiler.resolve("left heart pump"))
-        sql_event, params_event, sql_trend, params_trend = sql_engine.build_evidence_sql(
-            payload_dict["abstraction_layer_trace"], candidate_pt_ids
-        )
-        payload_dict["sql"]["evidence_retrieval_query"] = sql_engine.build_query_str_for_debug_trace(
-            sql_event, params_event, sql_trend, params_trend
-        )
+        sql_event, params_event, sql_trend, params_trend = sql_engine.build_evidence_sql(payload_dict["abstraction_layer_trace"], candidate_pt_ids)
+        payload_dict["sql"]["evidence_retrieval_query"] = sql_engine.build_query_str_for_debug_trace(sql_event, params_event, sql_trend, params_trend)
         payload_dict["sql"]["retrieved_event_df"], payload_dict["sql"]["retrieved_trend_df"] = sql_engine.run_evidence_sql(
             candidate_pt_ids, sql_event, params_event, sql_trend, params_trend
         )

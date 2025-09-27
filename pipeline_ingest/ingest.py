@@ -41,10 +41,6 @@ Outputs:
     - SQL database + embedded aliases for query engine / csv database if --keep is invoked.
     - no network calls; all outputs are local
     
-Action items for the near future:
-    - Enable users to plug in their own structured extractions (e.g. for users who have used LLMs for structured entity+timestamp+negation extractions). 
-    - The admission date is currently extracted from the records, but I want to let users optionally provide it in the JSON input to override the record-derived value.
-    
 Additional notes:
     - If you want good term recall you will need to manually tune the ontology alias->term mappings within db/ontology_corrections.yml. Tune this for your own data using the stats you can get with --keep. 
 

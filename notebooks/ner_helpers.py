@@ -198,9 +198,7 @@ def training_metrics_func(label_list):
         labels = p.label_ids
 
         # Convert to label strings and ignore -100 (padding)
-        true_predictions = [
-            [label_list[p_i] for p_i, l_i in zip(pred, lab) if l_i != -100] for pred, lab in zip(predictions, labels)
-        ]
+        true_predictions = [[label_list[p_i] for p_i, l_i in zip(pred, lab) if l_i != -100] for pred, lab in zip(predictions, labels)]
         true_labels = [[label_list[l_i] for p_i, l_i in zip(pred, lab) if l_i != -100] for pred, lab in zip(predictions, labels)]
 
         # print(predictions[20,:])
@@ -437,10 +435,7 @@ def predict_entities(
         chunk_relative_offsets = inputs.pop("offset_mapping").squeeze().tolist()
         chunk_start_char = offset_mapping[0][0]  # where this chunk starts in full text
 
-        offset_mapping = [
-            ((s + chunk_start_char, e + chunk_start_char) if s is not None and e is not None else (0, 0))
-            for (s, e) in chunk_relative_offsets
-        ]
+        offset_mapping = [((s + chunk_start_char, e + chunk_start_char) if s is not None and e is not None else (0, 0)) for (s, e) in chunk_relative_offsets]
 
         is_first_chunk = offset_mapping[0][0] == 0
         is_last_chunk = offset_mapping[-1][1] == len(text)

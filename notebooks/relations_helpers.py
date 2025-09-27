@@ -197,9 +197,7 @@ def prepare_relation_examples_with_chunking(
                     if any((r["head"] == s1["id"] and r["child"] == s2["id"]) for r in relations):
                         continue
 
-                    valid = (s1["label"] in {"C_ENT", "TABLE"} and s2["label"] == "TIME") or (
-                        s1["label"] == "C_ENT" and s2["label"] == "NEGATION"
-                    )
+                    valid = (s1["label"] in {"C_ENT", "TABLE"} and s2["label"] == "TIME") or (s1["label"] == "C_ENT" and s2["label"] == "NEGATION")
                     if not valid:
                         continue
 
@@ -345,9 +343,7 @@ def chunk_text_for_predictions(text: str, tokenizer, max_length=512, overlap=0.5
     return chunks
 
 
-def spans_in_middle_range_for_predictions(
-    spans: List[Dict], offsets, middle_range: Tuple[int, int], is_start, is_end
-) -> List[Dict]:
+def spans_in_middle_range_for_predictions(spans: List[Dict], offsets, middle_range: Tuple[int, int], is_start, is_end) -> List[Dict]:
     """
     Filter spans to those whose token positions land inside the given middle_range,
     relaxing the lower/upper bound for the first/last chunks.
@@ -381,9 +377,7 @@ def spans_in_middle_range_for_predictions(
     return selected
 
 
-def generate_allowed_span_pairs_for_predictions(
-    spans: List[Dict], allowed_relations: List[Tuple[str, str, str]]
-) -> List[Tuple[Dict, Dict, str]]:
+def generate_allowed_span_pairs_for_predictions(spans: List[Dict], allowed_relations: List[Tuple[str, str, str]]) -> List[Tuple[Dict, Dict, str]]:
     """
     Generate ordered span pairs that match allowed type patterns.
 

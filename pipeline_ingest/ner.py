@@ -8,7 +8,7 @@ This script loads a trained token classification model and applies it to EHR not
 3. Post-process predictions to merge overlapping spans and filter out noise.
 4. Write the enriched notes (with entity spans and parsed tables) back to JSONL.
 
-Intended to be called by ingest.py, but can also be run as a standalone function. 
+Intended to be called by ingest.py, but can also be run as a standalone function.
 """
 
 import json
@@ -105,12 +105,7 @@ def _extract_tables(in_path, out_path):
             else:
                 table_str += ch
                 # need two chars ahead: positions input_i+1 and input_i+2
-                if (
-                    input_i + 2 < len(input_EHR_string)
-                    and ch == "|"
-                    and input_EHR_string[input_i + 1] == "\n"
-                    and input_EHR_string[input_i + 2] != "|"
-                ):
+                if input_i + 2 < len(input_EHR_string) and ch == "|" and input_EHR_string[input_i + 1] == "\n" and input_EHR_string[input_i + 2] != "|":
                     json_dicts_output_list.append(parse_txt_table_to_json(table_str))
                     table_str = ""
                     output_EHR_string += "[TABLE]"
@@ -276,10 +271,7 @@ def predict_entities(text, model, tokenizer, id2label: dict[int, str], device="c
         chunk_relative_offsets = inputs.pop("offset_mapping").squeeze().tolist()
         chunk_start_char = offset_mapping[0][0]  # where this chunk starts in full text
 
-        offset_mapping = [
-            (s + chunk_start_char, e + chunk_start_char) if s is not None and e is not None else (0, 0)
-            for (s, e) in chunk_relative_offsets
-        ]
+        offset_mapping = [(s + chunk_start_char, e + chunk_start_char) if s is not None and e is not None else (0, 0) for (s, e) in chunk_relative_offsets]
 
         is_first_chunk = offset_mapping[0][0] == 0
         is_last_chunk = offset_mapping[-1][1] == len(text)

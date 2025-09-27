@@ -125,9 +125,7 @@ def chunk_text_for_predictions(text: str, tokenizer, max_length=512, overlap=0.5
         middle_start = margin
         middle_end = chunk_length - margin
 
-        chunks.append(
-            {"input_ids": chunk_ids, "offsets": chunk_offsets, "start_token": start, "middle_range": (middle_start, middle_end)}
-        )
+        chunks.append({"input_ids": chunk_ids, "offsets": chunk_offsets, "start_token": start, "middle_range": (middle_start, middle_end)})
 
         if end == len(input_ids):
             break
@@ -135,9 +133,7 @@ def chunk_text_for_predictions(text: str, tokenizer, max_length=512, overlap=0.5
     return chunks
 
 
-def spans_in_middle_range_for_predictions(
-    spans: list[dict], offsets, middle_range: tuple[int, int], is_start, is_end
-) -> list[dict]:
+def spans_in_middle_range_for_predictions(spans: list[dict], offsets, middle_range: tuple[int, int], is_start, is_end) -> list[dict]:
     """
     Filter spans to those whose token positions land inside the given middle_range,
     relaxing the lower/upper bound for the first/last chunks.
@@ -171,9 +167,7 @@ def spans_in_middle_range_for_predictions(
     return selected
 
 
-def generate_allowed_span_pairs_for_predictions(
-    spans: list[dict], allowed_relations: list[tuple[str, str, str]]
-) -> list[tuple[dict, dict, str]]:
+def generate_allowed_span_pairs_for_predictions(spans: list[dict], allowed_relations: list[tuple[str, str, str]]) -> list[tuple[dict, dict, str]]:
     """
     Generate ordered span pairs that match allowed type patterns.
 
@@ -303,9 +297,7 @@ def predict_relations_with_chunking(
             if abs(idx1 - idx2) > max_token_distance:
                 continue
 
-            enc = tokenizer(
-                tagged, return_tensors="pt", truncation=True, padding=True, max_length=512, add_special_tokens=True
-            ).to(device)
+            enc = tokenizer(tagged, return_tensors="pt", truncation=True, padding=True, max_length=512, add_special_tokens=True).to(device)
 
             with torch.no_grad():
                 logits = model(**enc).logits
@@ -317,15 +309,11 @@ def predict_relations_with_chunking(
             if label == "TIME_RELATION" and confidence > prob_threshold:
                 if head["label"] in {"C_ENT", "TABLE"} and child["label"] == "TIME":
                     xml_texts.append(tagged)
-                    all_rels.append(
-                        {"head": head["id"], "child": child["id"], "label": label, "confidence": round(confidence, 3)}
-                    )
+                    all_rels.append({"head": head["id"], "child": child["id"], "label": label, "confidence": round(confidence, 3)})
             elif label == "NEGATION_RELATION" and confidence > prob_threshold:
                 if head["label"] == "C_ENT" and child["label"] == "NEGATION":
                     xml_texts.append(tagged)
-                    all_rels.append(
-                        {"head": head["id"], "child": child["id"], "label": label, "confidence": round(confidence, 3)}
-                    )
+                    all_rels.append({"head": head["id"], "child": child["id"], "label": label, "confidence": round(confidence, 3)})
             elif label == "NO_RELATION" and confidence > prob_threshold:
                 xml_texts_no_relations.append(tagged)
 

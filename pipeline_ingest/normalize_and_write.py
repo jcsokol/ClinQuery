@@ -26,8 +26,8 @@ If you want to optimize performance/accuracy you will have to carefully review t
 Assumptions & caveats
 ---------------------
 - Dates like `xx/xx` and `xx/xx/xxxx` are interpreted as **mm/dd** and **mm/dd/yyyy** (US order); `yyyy-mm-dd` is also supported.
-- There are a few constants/tunables that I still need to move out. 
-- I need to add a sanity check that will give the user likely term sets that were merged erroneously or that should be merged. This will help them tune ontology_corrections.yml better.
+- There are a few constants/tunables that I still need to move out.
+- I need to add an additional sanity check that will give the user likely term sets that were merged erroneously or that should be merged. This will help them tune ontology_corrections.yml better.
 """
 
 import itertools
@@ -59,12 +59,18 @@ class Normalizer:
     """Build and apply UMLS-based normalization; resolves spans/tables and writes outputs."""
 
     def __init__(
-        self, mrconso_rrf: str, mrrel_rrf: str, mrsty_rrf: str, ont_corr: str, keep: bool = False, no_pruning: bool = False
+        self,
+        mrconso_rrf: str,
+        mrrel_rrf: str,
+        mrsty_rrf: str,
+        ont_corr: str,
+        keep: bool = False,
+        no_pruning: bool = False,
+        cli_entry: bool = False,
     ):
         """Initialize paths, defaults, caches; validate UMLS inputs."""
         self.mrconso_rrf = Path(mrconso_rrf)
         self.mrrel_rrf = Path(mrrel_rrf)
-        self.mrsty_rrf = Path(mrsty_rrf)
         self.mrsty_rrf = Path(mrsty_rrf)
         self.ont_corr = Path(ont_corr)
         self.keep = keep
@@ -74,6 +80,7 @@ class Normalizer:
         self.max_alias_len = 35  # ignore longer terms within umls
         self.resolved_cent_concept_cache = {}
         self.embedding_cache = {}
+        self.cli_entry = cli_entry
 
         # validate umls inputs
         for p in (self.mrconso_rrf, self.mrrel_rrf, self.mrsty_rrf):
@@ -96,8 +103,9 @@ class Normalizer:
         # resolve spans and table entries and combine resolved nontabular and tabular entities
         log.info("resolving spans …")
         self._resolve_spans()
-        log.info("resolving tabular data …")
-        self._resolve_table_entries()
+        if not self.cli_entry:
+            log.info("resolving tabular data …")
+            self._resolve_table_entries()
         for master_list_i in range(len(self.master_list)):
             self.master_list[master_list_i][7] = self.master_list[master_list_i][7] + self.master_list[master_list_i][8]
             del self.master_list[master_list_i][8]
@@ -283,16 +291,12 @@ class Normalizer:
                 bag.add(canonicals[ix])
             merged[rep_key] = list(set(bag | {rep_key}))
 
-        merged = {
-            key: [item for item in values if item is not None] for key, values in merged.items() if key is not None
-        }  # remove any None entries
+        merged = {key: [item for item in values if item is not None] for key, values in merged.items() if key is not None}  # remove any None entries
         merged = {key: list(set(values + [key])) for key, values in merged.items() if key is not None}  # remove duplicates
 
         return merged
 
-    def deduplicate_concept_classes(
-        self, concept_classes: Iterable[str], *, fuzzy_threshold: int = 90, embed_threshold: int = 90
-    ) -> dict[str, list[str]]:
+    def deduplicate_concept_classes(self, concept_classes: Iterable[str], *, fuzzy_threshold: int = 90, embed_threshold: int = 90) -> dict[str, list[str]]:
         """Collapse near-duplicate class labels with light normalize + fuzzy + optional embeddings."""
 
         # define phrases to remove for normalization -- entire phrases can also be put here
@@ -602,16 +606,10 @@ class Normalizer:
                 expanded[canonical] = sorted(new_aliases)
             return expanded
 
-        output_dict = expand_aliases_remove_terms(
-            output_dict, ["function", "panel", "markers", "marker", "status", "measurement", "study", "test"]
-        )
+        output_dict = expand_aliases_remove_terms(output_dict, ["function", "panel", "markers", "marker", "status", "measurement", "study", "test"])
 
-        output_dict = {
-            key: [value for value in values if value is not None] for key, values in output_dict.items() if key is not None
-        }  # remove None entries
-        output_dict = {
-            key: list(set(values + [key])) for key, values in output_dict.items() if key is not None
-        }  # remove duplicates
+        output_dict = {key: [value for value in values if value is not None] for key, values in output_dict.items() if key is not None}  # remove None entries
+        output_dict = {key: list(set(values + [key])) for key, values in output_dict.items() if key is not None}  # remove duplicates
 
         return output_dict
 
@@ -682,11 +680,7 @@ class Normalizer:
                             break
                     if not matched and len(a) >= self.min_alias_len:
                         if a in self.embedding_cache:
-                            emb_b_list = [
-                                self.embedding_cache[b]
-                                for b in t_set
-                                if b in self.embedding_cache and len(b) >= self.min_alias_len
-                            ]
+                            emb_b_list = [self.embedding_cache[b] for b in t_set if b in self.embedding_cache and len(b) >= self.min_alias_len]
                             if not emb_b_list:
                                 continue
                             emb_b = np.vstack(emb_b_list)
@@ -706,11 +700,7 @@ class Normalizer:
                             break
                     if not matched and len(b) >= self.min_alias_len:
                         if b in self.embedding_cache:
-                            emb_c_list = [
-                                self.embedding_cache[a]
-                                for a in c_set
-                                if a in self.embedding_cache and len(a) >= self.min_alias_len
-                            ]
+                            emb_c_list = [self.embedding_cache[a] for a in c_set if a in self.embedding_cache and len(a) >= self.min_alias_len]
                             if not emb_c_list:
                                 continue
                             emb_c = np.vstack(emb_c_list)
@@ -738,9 +728,7 @@ class Normalizer:
         expanded_dict = {
             key: [value for value in values if value is not None] for key, values in expanded_dict.items() if key is not None
         }  # remove None entries
-        expanded_dict = {
-            key: list(set(values + [key])) for key, values in expanded_dict.items() if key is not None
-        }  # remove duplicates
+        expanded_dict = {key: list(set(values + [key])) for key, values in expanded_dict.items() if key is not None}  # remove duplicates
 
         return expanded_dict
 
@@ -754,9 +742,7 @@ class Normalizer:
             return re.sub(r"\s+", " ", s).lower().strip()
 
         all_terms_list = list({normalize(ent["normalized_term"]) for ent in entities})
-        concept_class_list = [
-            c for c in {normalize(cls) for ent in entities for cls in ent["concept_classes"]} if len(c) >= self.min_alias_len
-        ]
+        concept_class_list = [c for c in {normalize(cls) for ent in entities for cls in ent["concept_classes"]} if len(c) >= self.min_alias_len]
 
         self.c_to_a_dict = {normalize(key): [normalize(v) for v in values] for key, values in self.c_to_a_dict.items()}
 
@@ -771,9 +757,7 @@ class Normalizer:
         )
 
         # create class aliases dict
-        self.c_to_a_dict_concept_classes = self.deduplicate_concept_classes(
-            concept_class_list, fuzzy_threshold=95, embed_threshold=85
-        )
+        self.c_to_a_dict_concept_classes = self.deduplicate_concept_classes(concept_class_list, fuzzy_threshold=95, embed_threshold=85)
         self.c_to_a_dict_concept_classes = self.merge_canonical_alias_sets_by_embeddings(
             self.c_to_a_dict_concept_classes,
             a_to_c_resolver=self.reverse_can_vocab_to_aliases_dict(self.c_to_a_dict_concept_classes),
@@ -831,9 +815,7 @@ class Normalizer:
                     unmapped_term_list.append(normalized_term)
 
                 # replace classes
-                unmapped_class_list += [
-                    normalize(item) for item in ent["concept_classes"] if normalize(item) not in self.a_to_c_dict_concept_classes
-                ]
+                unmapped_class_list += [normalize(item) for item in ent["concept_classes"] if normalize(item) not in self.a_to_c_dict_concept_classes]
                 ent["concept_classes"] = list(
                     set(
                         self.a_to_c_dict_concept_classes[normalize(item)]
@@ -868,12 +850,8 @@ class Normalizer:
                                 new_dbp_cent_entry = deepcopy(self.master_list[master_list_i][7][c_ent_i])
                                 new_sbp_cent_entry["normalized_term"] = self.a_to_c_dict["systolic blood pressure"]
                                 new_dbp_cent_entry["normalized_term"] = self.a_to_c_dict["diastolic blood pressure"]
-                                new_sbp_cent_entry["concept_classes"] = self.concept_class_map[
-                                    new_sbp_cent_entry["normalized_term"]
-                                ]
-                                new_dbp_cent_entry["concept_classes"] = self.concept_class_map[
-                                    new_dbp_cent_entry["normalized_term"]
-                                ]
+                                new_sbp_cent_entry["concept_classes"] = self.concept_class_map[new_sbp_cent_entry["normalized_term"]]
+                                new_dbp_cent_entry["concept_classes"] = self.concept_class_map[new_dbp_cent_entry["normalized_term"]]
                                 new_sbp_value_entry = deepcopy(new_sbp_cent_entry["values"][value_i])
                                 new_dbp_value_entry = deepcopy(new_dbp_cent_entry["values"][value_i])
                                 new_sbp_value_entry["value"] = int(new_sbp_value_entry["value"].split("/")[0])
@@ -884,9 +862,7 @@ class Normalizer:
                                 new_cent_list.append(new_dbp_cent_entry)
                     elif len(self.master_list[master_list_i][7][c_ent_i]["values"]) > 0:
                         self.master_list[master_list_i][7][c_ent_i]["values"] = [
-                            item
-                            for item in self.master_list[master_list_i][7][c_ent_i]["values"]
-                            if not (type(item["value"]) is str and "/" in item["value"])
+                            item for item in self.master_list[master_list_i][7][c_ent_i]["values"] if not (type(item["value"]) is str and "/" in item["value"])
                         ]
                         new_cent_list.append(self.master_list[master_list_i][7][c_ent_i])
                     else:  # neither None entry nor bp entry nor has any values
@@ -896,20 +872,12 @@ class Normalizer:
     def _produce_term_stats_output(self, term_stats_csv: tuple[str, str]):
         """Write CSVs of resolved vs. unresolved term strings with counts."""
 
-        resolved_entities_list = [
-            (key, value[0][0][0], value[1]) for key, value in self.resolved_cent_concept_cache.items() if value[0] is not None
-        ]
-        unresolved_entities_list = [
-            (key, None, value[1]) for key, value in self.resolved_cent_concept_cache.items() if value[0] is None
-        ]
+        resolved_entities_list = [(key, value[0][0][0], value[1]) for key, value in self.resolved_cent_concept_cache.items() if value[0] is not None]
+        unresolved_entities_list = [(key, None, value[1]) for key, value in self.resolved_cent_concept_cache.items() if value[0] is None]
         resolved_entities_list = sorted(resolved_entities_list, key=lambda elem: elem[2], reverse=True)
         unresolved_entities_list = sorted(unresolved_entities_list, key=lambda elem: elem[2], reverse=True)
-        pd.DataFrame(resolved_entities_list, columns=["raw_string", "resolved_term", "count"]).to_csv(
-            term_stats_csv[0], index=False
-        )
-        pd.DataFrame(unresolved_entities_list, columns=["raw_string", "resolved_term", "count"]).to_csv(
-            term_stats_csv[1], index=False
-        )
+        pd.DataFrame(resolved_entities_list, columns=["raw_string", "resolved_term", "count"]).to_csv(term_stats_csv[0], index=False)
+        pd.DataFrame(unresolved_entities_list, columns=["raw_string", "resolved_term", "count"]).to_csv(term_stats_csv[1], index=False)
 
     def transpose_time_series_table(self, table: list[dict[str, Any]]) -> list[dict[str, Any]]:
         """Transpose row-per-time tables to a canonical time-keyed form."""
@@ -955,9 +923,7 @@ class Normalizer:
 
         return transposed
 
-    def add_standardized_entities(
-        self, standardized_entities_list, cent_text, time_entries_list, negation_entries_list, adm_timestamp, debug_tuple
-    ):
+    def add_standardized_entities(self, standardized_entities_list, cent_text, time_entries_list, negation_entries_list, adm_timestamp, debug_tuple):
         """Resolve one chunk to canonical term, values, modifier, timestamp, and negation."""
 
         cent_text, time_entries_list, negation_entries_list = (
@@ -968,15 +934,11 @@ class Normalizer:
 
         time_entries_list_copy = deepcopy(time_entries_list)
         negation_entries_list_copy = deepcopy(negation_entries_list)
-        resolved_negation, cent_text, time_entries_list, negation_entries_list = self.resolve_cent_negation(
-            cent_text, time_entries_list, negation_entries_list
-        )
+        resolved_negation, cent_text, time_entries_list, negation_entries_list = self.resolve_cent_negation(cent_text, time_entries_list, negation_entries_list)
         resolved_timestamp, cent_text, time_entries_list, negation_entries_list = self.resolve_cent_timestamp(
             cent_text, time_entries_list, negation_entries_list, adm_timestamp
         )
-        resolved_modifier, cent_text, time_entries_list, negation_entries_list = self.resolve_cent_modifier(
-            cent_text, time_entries_list, negation_entries_list
-        )
+        resolved_modifier, cent_text, time_entries_list, negation_entries_list = self.resolve_cent_modifier(cent_text, time_entries_list, negation_entries_list)
         resolved_values, cent_text = self.resolve_cent_value(cent_text)
         cent_text, time_entries_list, negation_entries_list = (
             re.sub(r"[-–—]", " ", cent_text),
@@ -1054,9 +1016,7 @@ class Normalizer:
 
         return standardized_entities_list
 
-    def add_standardized_entities_wrapper(
-        self, standardized_entities_list, cent_text, time_entries_list, negation_entries_list, adm_timestamp, debug_tuple
-    ):
+    def add_standardized_entities_wrapper(self, standardized_entities_list, cent_text, time_entries_list, negation_entries_list, adm_timestamp, debug_tuple):
         """Resolve a raw entity+timestamp+negation stamp."""
 
         standardized_entities_list_new = deepcopy(standardized_entities_list)
@@ -1117,9 +1077,7 @@ class Normalizer:
     def clean_str_for_table_parsing(self, input_str):
         """Light cleanup for table cells to avoid parser collisions."""
 
-        input_str = (
-            re.sub(r"[()]", "", input_str).lower().strip()
-        )  # remove parentheses (individual or combined) as these frequently contain units
+        input_str = re.sub(r"[()]", "", input_str).lower().strip()  # remove parentheses (individual or combined) as these frequently contain units
         input_str = re.sub(r"\(k\)", "", input_str, flags=re.IGNORECASE)  # remove '(k)' patterns
         input_str = input_str.replace("alk phos", "alk-phos")
         input_str = input_str.replace("t. bili", "tbili")
@@ -1178,9 +1136,7 @@ class Normalizer:
             return self.resolved_cent_concept_cache[cleaned][0]
 
         # Step 1: Fuzzy match
-        initial_fast_matches = process.extract(
-            cleaned, all_aliases_list, scorer=fuzz.ratio, score_cutoff=embedding_matching_prefilter, limit=top_n * 100
-        )
+        initial_fast_matches = process.extract(cleaned, all_aliases_list, scorer=fuzz.ratio, score_cutoff=embedding_matching_prefilter, limit=top_n * 100)
         reranked_matches = sorted(
             [(alias, fuzz.token_sort_ratio(cleaned, alias)) for alias, _, _ in initial_fast_matches],
             key=lambda x: x[1],
@@ -1357,14 +1313,10 @@ class Normalizer:
 
         return negated, cleaned_cent_text, cleaned_time_texts, cleaned_negation_texts
 
-    def resolve_cent_timestamp(
-        self, cent_text: str, time_texts: list[str], negation_texts: list[str], admission_timestamp: tuple[str, str | None]
-    ):
+    def resolve_cent_timestamp(self, cent_text: str, time_texts: list[str], negation_texts: list[str], admission_timestamp: tuple[str, str | None]):
         """Extract the most specific coherent date/range/history relative to admission."""
 
-        TimestampType = (
-            tuple[tuple[str, None], None, None] | tuple[tuple[str, None], tuple[str, None], None] | tuple[str, None, None]
-        )
+        TimestampType = tuple[tuple[str, None], None, None] | tuple[tuple[str, None], tuple[str, None], None] | tuple[str, None, None]
 
         def normalize_year(year: int) -> int:
             return 2000 + year if year < 100 else year
@@ -1415,10 +1367,7 @@ class Normalizer:
                     offset = (
                         int(match.group(1))
                         if match.group(1).isdigit()
-                        else ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"].index(
-                            match.group(1).lower()
-                        )
-                        + 1
+                        else ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"].index(match.group(1).lower()) + 1
                     )
                     date = admission_date - timedelta(days=offset)
                     return ((date.strftime("%Y-%m-%d"), None), None, None)
@@ -1427,10 +1376,7 @@ class Normalizer:
                     offset = (
                         int(match.group(1))
                         if match.group(1).isdigit()
-                        else ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"].index(
-                            match.group(1).lower()
-                        )
-                        + 1
+                        else ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"].index(match.group(1).lower()) + 1
                     )
                     date = parse_relative_month(offset, admission_date)
                     return ((date, None), None, None)
@@ -1457,34 +1403,25 @@ class Normalizer:
 
                 elif label == "l":
                     match_days = re.search(
-                        r"(?:(\d+)|(?:"
-                        + "|".join(["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"])
-                        + "))",
+                        r"(?:(\d+)|(?:" + "|".join(["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"]) + "))",
                         match.group(0).lower(),
                     )
                     if match_days:
                         offset = (
                             int(match_days.group(1))
                             if match_days.group(1)
-                            else ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"].index(
-                                match_days.group(0)
-                            )
-                            + 1
+                            else ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"].index(match_days.group(0)) + 1
                         )
                         end = admission_date
                         start = admission_date - timedelta(days=offset)
                         return ((start.strftime("%Y-%m-%d"), None), (end.strftime("%Y-%m-%d"), None), None)
 
                 elif label == "p":
-                    num_text = re.search(
-                        r"(?P<number>\d{1,2}|one|two|three|four|five|six|seven|eight|nine|ten)", match.group(0).lower()
-                    )
+                    num_text = re.search(r"(?P<number>\d{1,2}|one|two|three|four|five|six|seven|eight|nine|ten)", match.group(0).lower())
                     if num_text:
                         word = num_text.group("number")
                         offset = (
-                            int(word)
-                            if word.isdigit()
-                            else ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"].index(word) + 1
+                            int(word) if word.isdigit() else ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"].index(word) + 1
                         )
                         end = admission_date
                         start = end - timedelta(days=7 * offset)
@@ -1796,9 +1733,7 @@ class Normalizer:
             r"\b(once daily|daily|bid|tid|qhs|q6h|q8h|q12h|q24h|per protocol|prn as needed|as needed|schedule)(?:\s+prn)?\b|\bprn\b",
             re.IGNORECASE,
         )
-        value_regex = re.compile(
-            r"(?:([<>~])\s*)?\b((?:\d{1,3}/\d{2,3})|(?:[+-]?(?:\d{1,3}(?:,\d{3})+|\d+)(?:\.\d+)?))(s?\b)?", re.IGNORECASE
-        )
+        value_regex = re.compile(r"(?:([<>~])\s*)?\b((?:\d{1,3}/\d{2,3})|(?:[+-]?(?:\d{1,3}(?:,\d{3})+|\d+)(?:\.\d+)?))(s?\b)?", re.IGNORECASE)
 
         cleaned_text = text.strip().lower()
 
@@ -1903,15 +1838,11 @@ class Normalizer:
                     if matches_route and matches_freq:
                         if start_route < start_freq:  # route is first
                             route = match_route.group(0)
-                            if (
-                                right_text[end_route] == " " and start_freq == end_route + 1
-                            ):  # there must be a space separating route and freq
+                            if right_text[end_route] == " " and start_freq == end_route + 1:  # there must be a space separating route and freq
                                 freq = match_freq.group(0)
                         elif start_route >= start_freq:  # freq is first
                             freq = match_freq.group(0)
-                            if (
-                                right_text[end_freq] == " " and start_route == end_freq + 1
-                            ):  # there must be a space separating freq and route
+                            if right_text[end_freq] == " " and start_route == end_freq + 1:  # there must be a space separating freq and route
                                 route = match_route.group(0)
                     elif matches_route and start_route == 1:  # has to start after a space
                         route = match_route.group(0)
@@ -1953,7 +1884,7 @@ class Normalizer:
                     [item["text"] for item in entity[1]],
                     [item["text"] for item in entity[2]],
                     self.master_list[master_list_i][5],
-                    ("spans", entity[0]["id"], entity[0]["text"]),
+                    ("spans", entity[0].get("id", ""), entity[0]["text"]),
                 )
             self.master_list[master_list_i][7] = standardized_entities_list
 
@@ -2147,9 +2078,7 @@ class Normalizer:
             labels = set()
 
             # Add class based on the concept's own semantic type
-            if allowed_parent_semtypes is None or any(
-                sty.lower() in allowed_parent_semtypes for sty in cui_to_semtypes.get(cui, [])
-            ):
+            if allowed_parent_semtypes is None or any(sty.lower() in allowed_parent_semtypes for sty in cui_to_semtypes.get(cui, [])):
                 terms = full_cui_to_terms.get(cui, [])
                 pt_terms = [t for t, tty in terms if tty == "PT"]
                 label = pt_terms[0] if pt_terms else (terms[0][0] if terms else None)
@@ -2259,32 +2188,32 @@ class Normalizer:
         word_unit_pattern_with_boundaries = r"\b(" + "|".join(re.escape(u) for u in word_units) + r")\b"
 
         compound_unit_pattern_no_boundaries = rf"""
-            (
-                {word_unit_pattern_no_boundaries}
-                (
-                    \s*(/|per)\s*
-                    {word_unit_pattern_no_boundaries}
-                ){{1,3}}
-            )
-            |
-            {word_unit_pattern_no_boundaries}
-            |
-            {symbol_unit_pattern}
-        """
+			(
+				{word_unit_pattern_no_boundaries}
+				(
+					\s*(/|per)\s*
+					{word_unit_pattern_no_boundaries}
+				){{1,3}}
+			)
+			|
+			{word_unit_pattern_no_boundaries}
+			|
+			{symbol_unit_pattern}
+		"""
 
         compound_unit_pattern_with_boundaries = rf"""
-            (
-                {word_unit_pattern_with_boundaries}
-                (
-                    \s*(/|per)\s*
-                    {word_unit_pattern_with_boundaries}
-                ){{1,3}}
-            )
-            |
-            {word_unit_pattern_with_boundaries}
-            |
-            {symbol_unit_pattern}
-        """
+			(
+				{word_unit_pattern_with_boundaries}
+				(
+					\s*(/|per)\s*
+					{word_unit_pattern_with_boundaries}
+				){{1,3}}
+			)
+			|
+			{word_unit_pattern_with_boundaries}
+			|
+			{symbol_unit_pattern}
+		"""
 
         unit_regex_no_boundaries = re.compile(compound_unit_pattern_no_boundaries, re.IGNORECASE | re.VERBOSE)
         unit_regex_with_boundaries = re.compile(compound_unit_pattern_with_boundaries, re.IGNORECASE | re.VERBOSE)
@@ -2662,19 +2591,24 @@ class Normalizer:
         log.info(f"gpu: {torch.cuda.is_available()}")
         self.emb_model = SentenceTransformer(modules=[word_emb, pooling], device=self.device)
 
-    def _create_master_list(self, ner_rel_out):
-        """Build master list from JSONL: identity/demographics/admission, spans, and tables."""
+    def _create_master_list(self, json_input):
+        """Build master list from JSONL: identity/demographics/admission, spans, and tables. If self.cli_entry then build from a JSONL containing name,uid,filename,age,sex,adm_date,entities keys."""
 
         # read in raw tables and ner+relations predictions
-        with open(ner_rel_out) as f:
+        with open(json_input) as f:
             json_lines_list = [json.loads(line) for line in f]
-            table_extractions_list = [item["tables"] for item in json_lines_list]
+            if not self.cli_entry:
+                table_extractions_list = [item["tables"] for item in json_lines_list]
 
         # map entities to timestamps + negations
-        extracted_entities = self.extract_cent_time_negation_by_patient(json_lines_list)
+        if not self.cli_entry:
+            extracted_entities = self.extract_cent_time_negation_by_patient(json_lines_list)
+        else:
+            extracted_entities = self.extract_cent_time_negation_by_patient_from_prestructured(json_lines_list)
 
         # map tables to timestamps + negations
-        extracted_tables = self.extract_table_time_by_patient(json_lines_list, table_extractions_list)
+        if not self.cli_entry:
+            extracted_tables = self.extract_table_time_by_patient(json_lines_list, table_extractions_list)
 
         # now create master_list
         self.master_list = []
@@ -2685,30 +2619,24 @@ class Normalizer:
             self.master_list.append(
                 [
                     json_lines_list[i]["uid"],
-                    json_lines_list[i]["name"],
-                    json_lines_list[i]["filename"],
+                    json_lines_list[i].get("name", ""),
+                    json_lines_list[i].get("filename", ""),
                     resolved_age,
                     resolved_sex,
                     resolved_adm_time,
-                    extracted_entities[i][0],
+                    extracted_entities[i][0] if not self.cli_entry else "",
                     extracted_entities[i][4],
-                    extracted_tables[i],
+                    extracted_tables[i] if not self.cli_entry else [],
                 ]
             )
 
         # normalize uid, name, sex entries
         for master_list_i in range(len(self.master_list)):
-            self.master_list[master_list_i][0] = (
-                re.sub(r"\s+", " ", re.sub(r"[-_]", " ", str(self.master_list[master_list_i][0]))).strip().lower()
-            )
+            self.master_list[master_list_i][0] = re.sub(r"\s+", " ", re.sub(r"[-_]", " ", str(self.master_list[master_list_i][0]))).strip().lower()
             if self.master_list[master_list_i][1] is not None:
-                self.master_list[master_list_i][1] = (
-                    re.sub(r"\s+", " ", re.sub(r"[-_]", " ", str(self.master_list[master_list_i][1]))).strip().lower()
-                )
+                self.master_list[master_list_i][1] = re.sub(r"\s+", " ", re.sub(r"[-_]", " ", str(self.master_list[master_list_i][1]))).strip().lower()
             if self.master_list[master_list_i][4] is not None:
-                self.master_list[master_list_i][4] = (
-                    re.sub(r"\s+", " ", re.sub(r"[-_]", " ", str(self.master_list[master_list_i][4]))).strip().lower()
-                )
+                self.master_list[master_list_i][4] = re.sub(r"\s+", " ", re.sub(r"[-_]", " ", str(self.master_list[master_list_i][4]))).strip().lower()
 
         # ensure all uids are unique and remove any patients with no valid admission timestamps
         master_list_filtered = []
@@ -2727,9 +2655,69 @@ class Normalizer:
             raise ValueError("all uids must be unique")
         self.master_list = master_list_filtered
 
-    def extract_cent_time_negation_by_patient(
-        self, samples: list[dict]
-    ) -> list[tuple[str, list[tuple[dict, list[dict], list[dict]]]]]:
+    def extract_cent_time_negation_by_patient_from_prestructured(self, json_inputs: list[dict]):
+        """
+        Return ('', {'label':'AGE','text':X},{'label':'SEX','text':X},{'label':'ADM_TIME','text':X}, C_ENT triples) per patient.
+        The admission date entry is set as the earliest timestamp if no admission date is supplied; if no adm_time nor timestamp is present adm_time is set to 01/01/2025.
+        """
+
+        DEFAULT_ADM_FALLBACK_ISO = "2025-01-01"
+
+        out = []
+        adm_iso = None
+
+        for json_line in json_inputs:
+            cent_triples = [({"text": t[0]}, [{"text": s} for s in t[1]], [{"text": s} for s in t[2]]) for t in json_line["entities"]]
+
+            # AGE entity
+            age_text = json_line.get("age")
+            age_ent = {"label": "AGE", "text": "" if age_text is None else str(age_text)}
+
+            # SEX entity
+            sex_text = json_line.get("sex")
+            sex_ent = {"label": "SEX", "text": "" if sex_text is None else sex_text}
+
+            # Preferred field for admission time/date
+            adm_date_raw = json_line.get("adm_date")
+
+            # Try to resolve adm_time from provided field
+            if adm_date_raw not in (None, ""):
+                parsed = self.resolve_adm_time_function([{"text": str(adm_date_raw)}])
+                if parsed is not None:
+                    adm_iso, _ = parsed  # (YYYY-MM-DD, time)
+
+            # If not provided or unparsable, scan timestamps in C_ENT triples for earliest date
+            if adm_iso is None:
+                earliest_iso: str | None = None
+
+                for _cent, ts_list, _ in cent_triples:
+                    for ts in ts_list or []:
+                        ts_text = ts.get("text") if isinstance(ts, dict) else None
+                        if not ts_text:
+                            continue
+                        parsed = self.resolve_adm_time_function([{"text": str(ts_text)}])
+                        if parsed is None:
+                            continue
+                        ts_iso, _ = parsed
+                        if ts_iso is None:
+                            continue
+                        if earliest_iso is None or ts_iso < earliest_iso:
+                            earliest_iso = ts_iso
+
+                if earliest_iso is not None:
+                    adm_iso = earliest_iso
+
+            # Final fallback if still unknown
+            if adm_iso is None:
+                adm_iso = DEFAULT_ADM_FALLBACK_ISO
+
+            adm_ent = {"label": "ADM_TIME", "text": adm_iso}
+
+            out.append(("", [age_ent], [sex_ent], [adm_ent], cent_triples))
+
+        return out
+
+    def extract_cent_time_negation_by_patient(self, samples: list[dict]) -> list[tuple[str, list[tuple[dict, list[dict], list[dict]]]]]:
         """Return (text, AGE spans, SEX spans, ADM_TIME spans, C_ENT triples) per patient."""
 
         all_results = []
@@ -2916,16 +2904,18 @@ class Normalizer:
             text = text.strip()
 
             # Match single/double-digit MM/DD/YYYY or YYYY-MM-DD
-            date_match = re.search(r"(\d{1,2}/\d{1,2}/\d{4}|\d{4}-\d{2}-\d{2})", text)
+            date_match = re.search(r"(\d{4}[-/]\d{2}[-/]\d{2}|\d{1,2}[-/]\d{1,2}[-/]\d{4})", text)
             if not date_match:
                 return None
 
             date_str = date_match.group(1)
 
+            date_str_norm = date_str.replace("/", "-")
+
             # Try both formats
-            for fmt in ("%m/%d/%Y", "%Y-%m-%d"):
+            for fmt in ("%Y-%m-%d", "%m-%d-%Y"):
                 try:
-                    date_obj = datetime.strptime(date_str, fmt)
+                    date_obj = datetime.strptime(date_str_norm, fmt)
                     break
                 except ValueError:
                     continue
@@ -2950,23 +2940,110 @@ class Normalizer:
         return (None, None)
 
 
-# ---------------- CLI to run this script on its own ----------------
+# ---------------- CLI to run this script on its own using pre-structured EHR extractions ----------------
 
 
 def _parse_args_cli():
-    """
-    Intended so that users can feed it a csv file with structured extractions using an alternative method (e.g. LLMs for structured output generation). Not implemented yet.
-    """
     import argparse
+    import sys
 
-    p = argparse.ArgumentParser(description="Run normalization script over pre-structured extractions (not implemented yet).")
-    args, unknown = p.parse_known_args()
-    return p.parse_args()
+    p = argparse.ArgumentParser(description="Run normalization script over pre-structured extractions (JSONL → SQL DB/TABLE)")
+
+    # Keep same interface as parse_args()
+    p.add_argument(
+        "jsonl_path",
+        type=Path,
+        help="Input structured jsonl ('name', 'uid', 'filename', 'age', 'sex', 'adm_date', 'entities' for each patient; name,filename,age,sex,adm_date are optional)",
+    )
+    p.add_argument("out_path", type=Path, help="Output workspace directory (intermediates + DB/CSV)")
+    p.add_argument("--to_csv", action="store_true", help="Write normalized table to CSV instead of SQL DB (OK for small data)")
+    p.add_argument("--keep", action="store_true", help="Keep intermediate files")
+    p.add_argument(
+        "--ont_corr",
+        dest="ont_corr",
+        type=Path,
+        help="ontology correction yml file",
+        default=Path("./pipeline_ingest/db/ontology_corrections.yml"),
+    )
+    p.add_argument("--mrconso_rrf", dest="mrconso_rrf", type=Path, help="mrconso.rrf file directory", required=True)
+    p.add_argument("--mrrel_rrf", dest="mrrel_rrf", type=Path, help="mrrel.rrf file directory", required=True)
+    p.add_argument("--mrsty_rrf", dest="mrsty_rrf", type=Path, help="mrsty.rrf file directory", required=True)
+    p.add_argument(
+        "--no_pruning",
+        action="store_true",
+        help="By default the ontology is pruned to only contain terms in dataset; call --no_pruning to disable",
+    )
+
+    args = p.parse_args()
+
+    # -------- Path validation -------- #
+    if not args.jsonl_path.exists():
+        log.error(f"Input not found: {args.jsonl_path}")
+        sys.exit(1)
+    if not args.mrconso_rrf.exists():
+        log.error(f"mrconso.rrf path does not exist: {args.mrconso_rrf}")
+        sys.exit(1)
+    if not args.mrrel_rrf.exists():
+        log.error(f"mrrel.rrf path does not exist: {args.mrrel_rrf}")
+        sys.exit(1)
+    if not args.mrsty_rrf.exists():
+        log.error(f"mrsty.rrf path does not exist: {args.mrsty_rrf}")
+        sys.exit(1)
+    if not args.ont_corr.exists():
+        log.error(f"Ontology correction file does not exist: {args.ont_corr}")
+        sys.exit(1)
+
+    # Ensure output directory exists
+    args.out_path.mkdir(parents=True, exist_ok=True)
+
+    return args
 
 
 if __name__ == "__main__":
-    _ = _parse_args_cli()
+    """
+    CLI for normalization over pre-structured extractions (e.g. from LLM output).
+
+    Same arguments as `parse_args()`, except excludes NER/REL model paths.
+    Input JSONL must contain:
+      - uid
+      - name, filename, age, sex, adm_date (optional)
+      - entities: list of (term, timestamp list, negation list), where 'timestamp list' and 'negation list' may be empty or None.
+    """
+
     from logging_setup import setup_logging
 
     setup_logging("INFO")
-    raise NotImplementedError("CLI mode for normalize_and_write has not been implemented yet.")
+
+    # get input/output paths
+    args = _parse_args_cli()
+    workdir = args.out_path
+    term_stats_out = workdir / "term_stats_resolved.csv", workdir / "term_stats_unresolved.csv"
+    csv_out = workdir / "db.csv"
+
+    # ensure that input jsonl file contains uid & entities keys for each patient
+    with open(str(args.jsonl_path)) as f:
+        for line in f:
+            json_line = json.loads(line)
+            if ("uid" not in json_line) or ("entities" not in json_line):
+                raise ValueError("input JSONL is invalid as it must contain 'uid' & 'entities' entries for EVERY patient")
+            if not isinstance(json_line["entities"], list):
+                raise ValueError("input JSONL is invalid as every 'entities' entry must be a list")
+
+    # now run normalization pipeline
+    log.info("Stage 1: NORMALIZE …")
+    norm = Normalizer(
+        str(args.mrconso_rrf),
+        str(args.mrrel_rrf),
+        str(args.mrsty_rrf),
+        str(args.ont_corr),
+        keep=args.keep,
+        no_pruning=args.no_pruning,
+        cli_entry=True,
+    )
+    norm.normalize(in_jsonl=str(args.jsonl_path), term_stats_csv=(str(term_stats_out[0]), str(term_stats_out[1])))
+
+    # now write outputs
+    log.info("Stage 2: DB WRITE …")
+    norm.write_db(str(csv_out), str(workdir), args.to_csv)
+
+    log.info("Done")

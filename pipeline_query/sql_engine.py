@@ -531,11 +531,7 @@ class SqlEngine:
                 return WindowSpec("absolute", 0, 0, None, None, None, [])
 
         # FROM + UNTIL
-        if (
-            len(temporal_ctx) == 2
-            and (temporal_ctx[0].get("relation") or "").upper() == "FROM"
-            and (temporal_ctx[1].get("relation") or "").upper() == "UNTIL"
-        ):
+        if len(temporal_ctx) == 2 and (temporal_ctx[0].get("relation") or "").upper() == "FROM" and (temporal_ctx[1].get("relation") or "").upper() == "UNTIL":
             a_from = temporal_ctx[0].get("anchor") or {}
             a_until = temporal_ctx[1].get("anchor") or {}
 
@@ -740,9 +736,7 @@ class SqlEngine:
 
         if has_numeric:
             # Compare class members' baseline values at admission_start
-            join = (
-                "FROM baselines_df b " "JOIN term_concept_class_map_df m " "ON m.term = b.normalized_term AND m.concept_class = ?"
-            )
+            join = "FROM baselines_df b " "JOIN term_concept_class_map_df m " "ON m.term = b.normalized_term AND m.concept_class = ?"
             conds, params = [], []
             params.append(concept_class)  # join param
             conds.append("b.patient_id = p.patient_id")
@@ -1262,12 +1256,7 @@ class SqlEngine:
         with_sql = "WITH " + ", ".join(ctes + [unioned_cte]) if ctes else "WITH " + unioned_cte
 
         # Join demographics at the end for convenience
-        final_sql = (
-            f"{with_sql}\n"
-            "SELECT u.*, p.patient_name, p.sex, p.age\n"
-            "FROM unioned u\n"
-            "JOIN patient_df p ON p.patient_id = u.patient_id"
-        )
+        final_sql = f"{with_sql}\n" "SELECT u.*, p.patient_name, p.sex, p.age\n" "FROM unioned u\n" "JOIN patient_df p ON p.patient_id = u.patient_id"
         params = cte_params + [p for _, ps in selects for p in ps]
         return final_sql, params
 

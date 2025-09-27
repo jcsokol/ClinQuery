@@ -118,38 +118,20 @@ def to_db(norm_obj, sql_out_path, faiss_out_path, vector_ids_out_path, csv_out, 
                 else None
             )
             day_offset_start = int((date_start - adm_date).days) if adm_date is not None and date_start is not None else np.nan
-            day_offset_end = (
-                int((date_end - adm_date).days) if adm_date is not None and date_end is not None else day_offset_start
-            )
+            day_offset_end = int((date_end - adm_date).days) if adm_date is not None and date_end is not None else day_offset_start
             history_entry = isinstance(c_ent["timestamp"][0], str) and c_ent["timestamp"][0].lower() == "history"
             for value in c_ent["values"] or [{"value": None, "unit": None}]:
                 rows_list.append(
                     [
                         norm_obj.master_list[master_list_i][0],
                         c_ent["normalized_term"],
-                        (
-                            float(value["value"])
-                            if isinstance(value["value"], int | float) and not pd.isna(value["value"])
-                            else np.nan
-                        ),
+                        (float(value["value"]) if isinstance(value["value"], int | float) and not pd.isna(value["value"]) else np.nan),
                         str(value["unit"]) if not pd.isna(value["unit"]) else None,
                         c_ent["modifier"],
-                        (
-                            False
-                            if (c_ent["negated"] or any(mod in c_ent["modifier"] for mod in {"resolved", "stopped"}))
-                            else True
-                        ),  # is_active entry
-                        (
-                            True if any(mod in c_ent["modifier"] for mod in {"started"}) and not c_ent["negated"] else False
-                        ),  # is_started entry
-                        (
-                            True
-                            if any(mod in c_ent["modifier"] for mod in {"resolved", "stopped"}) and not c_ent["negated"]
-                            else False
-                        ),  # is_ended entry
-                        (
-                            True if any(mod in c_ent["modifier"] for mod in {"worsened", "increased"}) else False
-                        ),  # is_worsening entry
+                        (False if (c_ent["negated"] or any(mod in c_ent["modifier"] for mod in {"resolved", "stopped"})) else True),  # is_active entry
+                        (True if any(mod in c_ent["modifier"] for mod in {"started"}) and not c_ent["negated"] else False),  # is_started entry
+                        (True if any(mod in c_ent["modifier"] for mod in {"resolved", "stopped"}) and not c_ent["negated"] else False),  # is_ended entry
+                        (True if any(mod in c_ent["modifier"] for mod in {"worsened", "increased"}) else False),  # is_worsening entry
                         next((mod for mod in ["high", "low", "medium"] if mod in c_ent["modifier"]), None),  # level_entry entry
                         day_offset_start,
                         day_offset_end,
@@ -182,23 +164,14 @@ def to_db(norm_obj, sql_out_path, faiss_out_path, vector_ids_out_path, csv_out, 
         rows_list.append(
             [
                 norm_obj.master_list[master_list_i][0],
-                (
-                    norm_obj.master_list[master_list_i][1].strip().lower()
-                    if isinstance(norm_obj.master_list[master_list_i][1], str)
-                    else None
-                ),
+                (norm_obj.master_list[master_list_i][1].strip().lower() if isinstance(norm_obj.master_list[master_list_i][1], str) else None),
                 norm_obj.master_list[master_list_i][2],
                 (
                     int(norm_obj.master_list[master_list_i][3])
-                    if isinstance(norm_obj.master_list[master_list_i][3], int | float)
-                    and not pd.isna(norm_obj.master_list[master_list_i][3])
+                    if isinstance(norm_obj.master_list[master_list_i][3], int | float) and not pd.isna(norm_obj.master_list[master_list_i][3])
                     else np.nan
                 ),
-                (
-                    norm_obj.master_list[master_list_i][4].strip().lower()
-                    if isinstance(norm_obj.master_list[master_list_i][4], str)
-                    else None
-                ),
+                (norm_obj.master_list[master_list_i][4].strip().lower() if isinstance(norm_obj.master_list[master_list_i][4], str) else None),
                 norm_obj.master_list[master_list_i][5],
             ],
         )
@@ -242,19 +215,14 @@ def to_db(norm_obj, sql_out_path, faiss_out_path, vector_ids_out_path, csv_out, 
     rows_list = []
 
     # 1) add admission_start baselines
-    event_df_sub = event_df[
-        (event_df["day_offset_end"] <= day_buffer)
-        & (event_df["level_entry"].isin(["high", "low", "medium"]) | event_df["value"].notna())
-    ]
+    event_df_sub = event_df[(event_df["day_offset_end"] <= day_buffer) & (event_df["level_entry"].isin(["high", "low", "medium"]) | event_df["value"].notna())]
     for pt_id in set(event_df_sub["patient_id"]):
         event_df_sub_pt = event_df_sub[event_df_sub["patient_id"] == pt_id]
         for term in set(event_df_sub_pt["normalized_term"]):
             event_df_sub_pt_term = event_df_sub_pt[event_df_sub_pt["normalized_term"] == term]
             values_list = list(event_df_sub_pt_term[event_df_sub_pt_term["value"].notna()]["value"])
             units_list = list(event_df_sub_pt_term[event_df_sub_pt_term["value"].notna()]["unit"])
-            modifiers_list = list(
-                event_df_sub_pt_term[event_df_sub_pt_term["level_entry"].isin(["high", "low", "medium"])]["level_entry"]
-            )
+            modifiers_list = list(event_df_sub_pt_term[event_df_sub_pt_term["level_entry"].isin(["high", "low", "medium"])]["level_entry"])
             rows_list.append(
                 [
                     pt_id,
@@ -282,17 +250,13 @@ def to_db(norm_obj, sql_out_path, faiss_out_path, vector_ids_out_path, csv_out, 
         for term in set(event_df_sub_pt["normalized_term"]):
             event_df_sub_pt_term = event_df_sub_pt[event_df_sub_pt["normalized_term"] == term]
             start_day, end_day = (
-                np.nanmax(event_df_sub_pt_term["day_offset_end"]) - day_buffer
-                if np.nanmax(event_df_sub_pt_term["day_offset_end"]) != 0
-                else 0
+                np.nanmax(event_df_sub_pt_term["day_offset_end"]) - day_buffer if np.nanmax(event_df_sub_pt_term["day_offset_end"]) != 0 else 0
             ), np.nanmax(event_df_sub_pt_term["day_offset_end"])
             event_df_sub_pt_term = event_df_sub_pt_term[event_df_sub_pt_term["day_offset_start"] >= start_day]
             if len(event_df_sub_pt_term) > 0:
                 values_list = list(event_df_sub_pt_term[event_df_sub_pt_term["value"].notna()]["value"])
                 units_list = list(event_df_sub_pt_term[event_df_sub_pt_term["value"].notna()]["unit"])
-                modifiers_list = list(
-                    event_df_sub_pt_term[event_df_sub_pt_term["level_entry"].isin(["high", "low", "medium"])]["level_entry"]
-                )
+                modifiers_list = list(event_df_sub_pt_term[event_df_sub_pt_term["level_entry"].isin(["high", "low", "medium"])]["level_entry"])
                 rows_list.append(
                     [
                         pt_id,
@@ -318,9 +282,7 @@ def to_db(norm_obj, sql_out_path, faiss_out_path, vector_ids_out_path, csv_out, 
     for pt_id in set(event_df_sub["patient_id"]):
         event_df_sub_pt = event_df_sub[event_df_sub["patient_id"] == pt_id]
         start_day, end_day = (
-            np.nanmax(event_df_sub_pt["day_offset_end"]) - day_buffer_adm_end
-            if np.nanmax(event_df_sub_pt["day_offset_end"]) != 0
-            else 0
+            np.nanmax(event_df_sub_pt["day_offset_end"]) - day_buffer_adm_end if np.nanmax(event_df_sub_pt["day_offset_end"]) != 0 else 0
         ), np.nanmax(event_df_sub_pt["day_offset_end"])
         event_df_sub_pt = event_df_sub_pt[
             (event_df_sub_pt["day_offset_start"] >= start_day)
@@ -330,9 +292,7 @@ def to_db(norm_obj, sql_out_path, faiss_out_path, vector_ids_out_path, csv_out, 
             event_df_sub_pt_term = event_df_sub_pt[event_df_sub_pt["normalized_term"] == term]
             values_list = list(event_df_sub_pt_term[event_df_sub_pt_term["value"].notna()]["value"])
             units_list = list(event_df_sub_pt_term[event_df_sub_pt_term["value"].notna()]["unit"])
-            modifiers_list = list(
-                event_df_sub_pt_term[event_df_sub_pt_term["level_entry"].isin(["high", "low", "medium"])]["level_entry"]
-            )
+            modifiers_list = list(event_df_sub_pt_term[event_df_sub_pt_term["level_entry"].isin(["high", "low", "medium"])]["level_entry"])
             rows_list.append(
                 [
                     pt_id,
@@ -396,9 +356,9 @@ def to_db(norm_obj, sql_out_path, faiss_out_path, vector_ids_out_path, csv_out, 
 
     def gather_trends_data(anchor_str, baselines_df_pt_term):
         baselines_df_pt_term_sub = baselines_df_pt_term[baselines_df_pt_term["anchor"] == anchor_str]
-        anchor_quant_entries, anchor_qual_entries = list(
-            baselines_df_pt_term_sub[baselines_df_pt_term_sub["value"].notna()]["value"]
-        ), list(baselines_df_pt_term_sub[baselines_df_pt_term_sub["level_entry"].isin(["high", "low", "medium"])]["level_entry"])
+        anchor_quant_entries, anchor_qual_entries = list(baselines_df_pt_term_sub[baselines_df_pt_term_sub["value"].notna()]["value"]), list(
+            baselines_df_pt_term_sub[baselines_df_pt_term_sub["level_entry"].isin(["high", "low", "medium"])]["level_entry"]
+        )
         anchor_time, anchor_start_time, anchor_end_time = (
             (
                 (np.nanmin(baselines_df_pt_term_sub["start_day"]) + np.nanmax(baselines_df_pt_term_sub["end_day"])) / 2
@@ -408,9 +368,7 @@ def to_db(norm_obj, sql_out_path, faiss_out_path, vector_ids_out_path, csv_out, 
             np.nanmin(baselines_df_pt_term_sub["start_day"]) if len(baselines_df_pt_term_sub) > 0 else np.nan,
             np.nanmax(baselines_df_pt_term_sub["end_day"]) if len(baselines_df_pt_term_sub) > 0 else np.nan,
         )
-        anchor_unit = (
-            Counter(baselines_df_pt_term_sub["unit"]).most_common(1)[0][0] if len(baselines_df_pt_term_sub) > 0 else None
-        )
+        anchor_unit = Counter(baselines_df_pt_term_sub["unit"]).most_common(1)[0][0] if len(baselines_df_pt_term_sub) > 0 else None
         anchor_n_quant_entries, anchor_n_qual_entries = (
             np.median(baselines_df_pt_term_sub["n_quant_measurements"]) if len(baselines_df_pt_term_sub) > 0 else np.nan
         ), (np.median(baselines_df_pt_term_sub["n_qual_measurements"]) if len(baselines_df_pt_term_sub) > 0 else np.nan)
@@ -460,16 +418,8 @@ def to_db(norm_obj, sql_out_path, faiss_out_path, vector_ids_out_path, csv_out, 
                 ),
                 anchor1_unit if anchor1_unit == anchor2_unit else None,
                 anchor2_time - anchor1_time,
-                (
-                    np.median(anchor1_quant_entries)
-                    if (len(anchor1_quant_entries) > 0 and len(anchor2_quant_entries) > 0)
-                    else np.nan
-                ),
-                (
-                    np.median(anchor2_quant_entries)
-                    if (len(anchor1_quant_entries) > 0 and len(anchor2_quant_entries) > 0)
-                    else np.nan
-                ),
+                (np.median(anchor1_quant_entries) if (len(anchor1_quant_entries) > 0 and len(anchor2_quant_entries) > 0) else np.nan),
+                (np.median(anchor2_quant_entries) if (len(anchor1_quant_entries) > 0 and len(anchor2_quant_entries) > 0) else np.nan),
                 anchor1_str,
                 anchor2_str,
                 anchor1_start_time,
@@ -629,9 +579,7 @@ def to_db(norm_obj, sql_out_path, faiss_out_path, vector_ids_out_path, csv_out, 
     con.register("temp_term_concept_class_map_df", term_concept_class_map_df)
     con.execute("CREATE TABLE IF NOT EXISTS term_concept_class_map_df AS SELECT * FROM temp_term_concept_class_map_df")
     con.execute("CREATE INDEX IF NOT EXISTS idx_term_concept_class_map_df_term ON term_concept_class_map_df(term);")
-    con.execute(
-        "CREATE INDEX IF NOT EXISTS idx_term_concept_class_map_df_concept_class ON term_concept_class_map_df(concept_class);"
-    )
+    con.execute("CREATE INDEX IF NOT EXISTS idx_term_concept_class_map_df_concept_class ON term_concept_class_map_df(concept_class);")
 
     # save & close duckdb connection
     con.close()
@@ -642,13 +590,9 @@ def to_db(norm_obj, sql_out_path, faiss_out_path, vector_ids_out_path, csv_out, 
 
     alias_to_canonical_df = alias_to_canonical_df[alias_to_canonical_df["alias"].str.len() >= norm_obj.min_alias_len]
     X = (
-        norm_obj.emb_model.encode(
-            alias_to_canonical_df["alias"].tolist(), batch_size=256, normalize_embeddings=True, show_progress_bar=False
-        ).astype("float32")
+        norm_obj.emb_model.encode(alias_to_canonical_df["alias"].tolist(), batch_size=256, normalize_embeddings=True, show_progress_bar=False).astype("float32")
         if norm_obj.device == "cuda"
-        else norm_obj.emb_model.encode(
-            alias_to_canonical_df["alias"].tolist(), normalize_embeddings=True, show_progress_bar=False
-        ).astype("float32")
+        else norm_obj.emb_model.encode(alias_to_canonical_df["alias"].tolist(), normalize_embeddings=True, show_progress_bar=False).astype("float32")
     )
     faiss.normalize_L2(X)
 

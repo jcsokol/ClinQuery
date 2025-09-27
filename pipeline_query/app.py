@@ -4,7 +4,7 @@ This script provides a thin UI layer over the core pipeline in `main.run_query`.
 
 Notes:
 - The heavy lifting happens in `run_query` (see `main.py`).
-- This app caches the `QueryCompiler` resources via `@st.cache_resource` so that the embedding model needs to only be loaded once on cold startup. 
+- This app caches the `QueryCompiler` resources via `@st.cache_resource` so that the embedding model needs to only be loaded once on cold startup.
 """
 
 import uuid
@@ -82,7 +82,7 @@ This tool converts unstructured notes into a structured, timestamped database, e
 - *Did any patients with no history of myocardial infarctions or hypertension have a myocardial infarction during this admission?*"""
 )
 
-st.caption("[Technical walkthrough](https://github.com/jcsokol/ClinQuery) | Contact: jsokol\u200B@alumni.stanford.edu")
+st.caption("[Technical walkthrough](https://github.com/jcsokol/ClinQuery) | Contact: jsokol\u200b@alumni.stanford.edu")
 
 
 # --- Load datastructures into RAM on cold-start ---

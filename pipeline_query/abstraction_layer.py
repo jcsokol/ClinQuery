@@ -401,11 +401,7 @@ class QueryCompiler:
         Applies a small bump when *both* strings are shorter than
         ``settings.params.min_search_term_len``.
         """
-        bump = (
-            settings.params.short_bump
-            if (len(q) < settings.params.min_search_term_len and len(alias_str) < settings.params.min_search_term_len)
-            else 0
-        )
+        bump = settings.params.short_bump if (len(q) < settings.params.min_search_term_len and len(alias_str) < settings.params.min_search_term_len) else 0
         return float(settings.params.fuzzy_min + bump)
 
     def string_normalizer(self, s: str) -> str:

@@ -814,9 +814,7 @@ class Normalizer:
 
                 # replace classes
                 unmapped_class_list += [normalize(item) for item in ent["concept_classes"] if normalize(item) not in self.a_to_c_dict_concept_classes]
-                ent["concept_classes"] = list(
-                    set(self.a_to_c_dict_concept_classes[normalize(item)] for item in ent["concept_classes"] if normalize(item) in self.a_to_c_dict_concept_classes)
-                )
+                ent["concept_classes"] = list(set(self.a_to_c_dict_concept_classes[normalize(item)] for item in ent["concept_classes"] if normalize(item) in self.a_to_c_dict_concept_classes))
 
             # drop c_ent entries that were not mapped
             for c_ent_i in sorted(drop_indices, reverse=True):
@@ -836,10 +834,7 @@ class Normalizer:
                         and len(self.master_list[master_list_i][7][c_ent_i]["values"]) > 0
                     ):
                         for value_i in range(len(self.master_list[master_list_i][7][c_ent_i]["values"])):
-                            if (
-                                type(self.master_list[master_list_i][7][c_ent_i]["values"][value_i]["value"]) is str
-                                and "/" in self.master_list[master_list_i][7][c_ent_i]["values"][value_i]["value"]
-                            ):
+                            if type(self.master_list[master_list_i][7][c_ent_i]["values"][value_i]["value"]) is str and "/" in self.master_list[master_list_i][7][c_ent_i]["values"][value_i]["value"]:
                                 new_sbp_cent_entry = deepcopy(self.master_list[master_list_i][7][c_ent_i])
                                 new_dbp_cent_entry = deepcopy(self.master_list[master_list_i][7][c_ent_i])
                                 new_sbp_cent_entry["normalized_term"] = self.a_to_c_dict["systolic blood pressure"]
@@ -1012,9 +1007,7 @@ class Normalizer:
         """Resolve a raw entity+timestamp+negation stamp."""
 
         standardized_entities_list_new = deepcopy(standardized_entities_list)
-        standardized_entities_list_new = self.add_standardized_entities(
-            standardized_entities_list_new, cent_text, time_entries_list, negation_entries_list, adm_timestamp, debug_tuple
-        )
+        standardized_entities_list_new = self.add_standardized_entities(standardized_entities_list_new, cent_text, time_entries_list, negation_entries_list, adm_timestamp, debug_tuple)
 
         if len(standardized_entities_list_new) > len(standardized_entities_list) and any(
             [standardized_entities_list_new[i]["normalized_term"] is not None for i in range(len(standardized_entities_list), len(standardized_entities_list_new))]
@@ -1347,20 +1340,12 @@ class Normalizer:
                     return ((date.strftime("%Y-%m-%d"), None), None, None)
 
                 elif label == "g":
-                    offset = (
-                        int(match.group(1))
-                        if match.group(1).isdigit()
-                        else ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"].index(match.group(1).lower()) + 1
-                    )
+                    offset = int(match.group(1)) if match.group(1).isdigit() else ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"].index(match.group(1).lower()) + 1
                     date = admission_date - timedelta(days=offset)
                     return ((date.strftime("%Y-%m-%d"), None), None, None)
 
                 elif label == "h":
-                    offset = (
-                        int(match.group(1))
-                        if match.group(1).isdigit()
-                        else ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"].index(match.group(1).lower()) + 1
-                    )
+                    offset = int(match.group(1)) if match.group(1).isdigit() else ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"].index(match.group(1).lower()) + 1
                     date = parse_relative_month(offset, admission_date)
                     return ((date, None), None, None)
 
@@ -1390,11 +1375,7 @@ class Normalizer:
                         match.group(0).lower(),
                     )
                     if match_days:
-                        offset = (
-                            int(match_days.group(1))
-                            if match_days.group(1)
-                            else ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"].index(match_days.group(0)) + 1
-                        )
+                        offset = int(match_days.group(1)) if match_days.group(1) else ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"].index(match_days.group(0)) + 1
                         end = admission_date
                         start = admission_date - timedelta(days=offset)
                         return ((start.strftime("%Y-%m-%d"), None), (end.strftime("%Y-%m-%d"), None), None)
@@ -2534,9 +2515,7 @@ class Normalizer:
             "mental or behavioral dysfunction",
             "biologically active substance",
         }
-        self.c_to_a_dict, self.concept_class_map = self.parse_mrconso_with_classes(
-            self.mrconso_rrf, self.mrrel_rrf, self.mrsty_rrf, allowed_parent_semtypes=allowed_semtypes, max_depth=3
-        )
+        self.c_to_a_dict, self.concept_class_map = self.parse_mrconso_with_classes(self.mrconso_rrf, self.mrrel_rrf, self.mrsty_rrf, allowed_parent_semtypes=allowed_semtypes, max_depth=3)
 
         # clean up canonical_vocab_to_aliases_dict
         substrings_remove = [

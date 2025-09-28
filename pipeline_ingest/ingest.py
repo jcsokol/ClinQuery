@@ -130,9 +130,7 @@ def main() -> int:
     csv_out = workdir / "db.csv"
 
     log.info("Stage 1: NER …")
-    ner.run_file(
-        str(args.jsonl_path), str(ner_rel_out), str(args.ner_model_path)
-    )  # also conducts file checks on args.jsonl_path to ensure it has all required fields and that all uids are unique
+    ner.run_file(str(args.jsonl_path), str(ner_rel_out), str(args.ner_model_path))  # also conducts file checks on args.jsonl_path to ensure it has all required fields and that all uids are unique
 
     log.info("Stage 2: RELATIONS …")
     relations.run_file(str(ner_rel_out), str(rel_tmp_out), str(args.rel_model_path))

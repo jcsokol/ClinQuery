@@ -107,9 +107,7 @@ def to_db(norm_obj, sql_out_path, faiss_out_path, vector_ids_out_path, csv_out, 
             else None
         )
         for c_ent in norm_obj.master_list[master_list_i][7]:
-            date_start = (
-                datetime.strptime(c_ent["timestamp"][0][0], "%Y-%m-%d").date() if isinstance(c_ent["timestamp"][0], tuple) and c_ent["timestamp"][0][0] is not None else None
-            )
+            date_start = datetime.strptime(c_ent["timestamp"][0][0], "%Y-%m-%d").date() if isinstance(c_ent["timestamp"][0], tuple) and c_ent["timestamp"][0][0] is not None else None
             date_end = datetime.strptime(c_ent["timestamp"][1][0], "%Y-%m-%d").date() if isinstance(c_ent["timestamp"][1], tuple) and c_ent["timestamp"][1][0] is not None else None
             day_offset_start = int((date_start - adm_date).days) if adm_date is not None and date_start is not None else np.nan
             day_offset_end = int((date_end - adm_date).days) if adm_date is not None and date_end is not None else day_offset_start
@@ -160,11 +158,7 @@ def to_db(norm_obj, sql_out_path, faiss_out_path, vector_ids_out_path, csv_out, 
                 norm_obj.master_list[master_list_i][0],
                 (norm_obj.master_list[master_list_i][1].strip().lower() if isinstance(norm_obj.master_list[master_list_i][1], str) else None),
                 norm_obj.master_list[master_list_i][2],
-                (
-                    int(norm_obj.master_list[master_list_i][3])
-                    if isinstance(norm_obj.master_list[master_list_i][3], int | float) and not pd.isna(norm_obj.master_list[master_list_i][3])
-                    else np.nan
-                ),
+                (int(norm_obj.master_list[master_list_i][3]) if isinstance(norm_obj.master_list[master_list_i][3], int | float) and not pd.isna(norm_obj.master_list[master_list_i][3]) else np.nan),
                 (norm_obj.master_list[master_list_i][4].strip().lower() if isinstance(norm_obj.master_list[master_list_i][4], str) else None),
                 norm_obj.master_list[master_list_i][5],
             ],
@@ -278,9 +272,7 @@ def to_db(norm_obj, sql_out_path, faiss_out_path, vector_ids_out_path, csv_out, 
         start_day, end_day = (np.nanmax(event_df_sub_pt["day_offset_end"]) - day_buffer_adm_end if np.nanmax(event_df_sub_pt["day_offset_end"]) != 0 else 0), np.nanmax(
             event_df_sub_pt["day_offset_end"]
         )
-        event_df_sub_pt = event_df_sub_pt[
-            (event_df_sub_pt["day_offset_start"] >= start_day) & (event_df_sub_pt["level_entry"].isin(["high", "low", "medium"]) | event_df_sub_pt["value"].notna())
-        ]
+        event_df_sub_pt = event_df_sub_pt[(event_df_sub_pt["day_offset_start"] >= start_day) & (event_df_sub_pt["level_entry"].isin(["high", "low", "medium"]) | event_df_sub_pt["value"].notna())]
         for term in set(event_df_sub_pt["normalized_term"]):
             event_df_sub_pt_term = event_df_sub_pt[event_df_sub_pt["normalized_term"] == term]
             values_list = list(event_df_sub_pt_term[event_df_sub_pt_term["value"].notna()]["value"])
@@ -488,9 +480,7 @@ def to_db(norm_obj, sql_out_path, faiss_out_path, vector_ids_out_path, csv_out, 
             for anchor1 in trend_anchors_list:
                 for anchor2 in trend_anchors_list:
                     if anchor1 != anchor2:
-                        if (len(quant_entries_dict[anchor1]) > 0 and len(quant_entries_dict[anchor2]) > 0) or (
-                            len(qual_entries_dict[anchor1]) > 0 and len(qual_entries_dict[anchor2]) > 0
-                        ):
+                        if (len(quant_entries_dict[anchor1]) > 0 and len(quant_entries_dict[anchor2]) > 0) or (len(qual_entries_dict[anchor1]) > 0 and len(qual_entries_dict[anchor2]) > 0):
                             new_row = compute_trends_row(
                                 anchor1,
                                 anchor2,

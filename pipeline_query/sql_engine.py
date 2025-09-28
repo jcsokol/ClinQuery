@@ -211,9 +211,7 @@ class SqlEngine:
             ).reset_index(drop=True)
             event_df = event_df.drop(columns=["is_worsening", "level_entry"], errors="ignore")
             event_df = event_df[first_cols + [c for c in event_df.columns if c not in first_cols]]
-            event_df = event_df[
-                event_df["source_entity"].str.strip('"') != "extrapolated pump entry"
-            ]  # only show final llm real, unextrapolated datapoints (remove for github repo)
+            event_df = event_df[event_df["source_entity"].str.strip('"') != "extrapolated pump entry"]  # only show final llm real, unextrapolated datapoints (remove for github repo)
         if trend_df is not None:
             trend_df = trend_df[first_cols + [c for c in trend_df.columns if c not in first_cols]]
         return event_df, trend_df
@@ -641,12 +639,7 @@ class SqlEngine:
             if leaf.get("unit"):
                 h_conds.append("e.unit ILIKE '%' || ? || '%'")
                 h_params.append(str(leaf["unit"]))
-            sql_hist = (
-                "EXISTS (SELECT 1 FROM event_df e "
-                "JOIN term_concept_class_map_df m "
-                "ON m.term = e.normalized_term AND m.concept_class = ? "
-                "WHERE " + " AND ".join(h_conds) + ")"
-            )
+            sql_hist = "EXISTS (SELECT 1 FROM event_df e " "JOIN term_concept_class_map_df m " "ON m.term = e.normalized_term AND m.concept_class = ? " "WHERE " + " AND ".join(h_conds) + ")"
             return f"(({sql_main}) OR ({sql_hist}))", params + h_params
 
         return sql_main, params

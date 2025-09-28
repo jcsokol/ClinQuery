@@ -238,9 +238,7 @@ def _package_evidence(candidate_pt_ids, event_df, trend_df, is_subset_query) -> 
                 patients_map[pid]["evidence"] += [_create_trend_term_entry(r, no_unit_str) for r in grp.itertuples(index=False)]
 
     ###### POPULATE CONTEXT ######
-    qualifying_terms = (set(event_df_qe["normalized_term"]) if not event_df_qe.empty else set()).union(
-        set(trend_df["normalized_term"]) if not trend_df.empty else set()
-    )
+    qualifying_terms = (set(event_df_qe["normalized_term"]) if not event_df_qe.empty else set()).union(set(trend_df["normalized_term"]) if not trend_df.empty else set())
     if len(event_df_ctx) <= settings.params.max_context_datapoints:  # enough space for all context entries
         if not event_df_ctx.empty:
             for (pid, pname, page, psex), grp in event_df_ctx.groupby(["patient_id", "patient_name", "age", "sex"], sort=False):

@@ -108,15 +108,9 @@ def to_db(norm_obj, sql_out_path, faiss_out_path, vector_ids_out_path, csv_out, 
         )
         for c_ent in norm_obj.master_list[master_list_i][7]:
             date_start = (
-                datetime.strptime(c_ent["timestamp"][0][0], "%Y-%m-%d").date()
-                if isinstance(c_ent["timestamp"][0], tuple) and c_ent["timestamp"][0][0] is not None
-                else None
+                datetime.strptime(c_ent["timestamp"][0][0], "%Y-%m-%d").date() if isinstance(c_ent["timestamp"][0], tuple) and c_ent["timestamp"][0][0] is not None else None
             )
-            date_end = (
-                datetime.strptime(c_ent["timestamp"][1][0], "%Y-%m-%d").date()
-                if isinstance(c_ent["timestamp"][1], tuple) and c_ent["timestamp"][1][0] is not None
-                else None
-            )
+            date_end = datetime.strptime(c_ent["timestamp"][1][0], "%Y-%m-%d").date() if isinstance(c_ent["timestamp"][1], tuple) and c_ent["timestamp"][1][0] is not None else None
             day_offset_start = int((date_start - adm_date).days) if adm_date is not None and date_start is not None else np.nan
             day_offset_end = int((date_end - adm_date).days) if adm_date is not None and date_end is not None else day_offset_start
             history_entry = isinstance(c_ent["timestamp"][0], str) and c_ent["timestamp"][0].lower() == "history"
@@ -249,9 +243,9 @@ def to_db(norm_obj, sql_out_path, faiss_out_path, vector_ids_out_path, csv_out, 
         event_df_sub_pt = event_df_sub[event_df_sub["patient_id"] == pt_id]
         for term in set(event_df_sub_pt["normalized_term"]):
             event_df_sub_pt_term = event_df_sub_pt[event_df_sub_pt["normalized_term"] == term]
-            start_day, end_day = (
-                np.nanmax(event_df_sub_pt_term["day_offset_end"]) - day_buffer if np.nanmax(event_df_sub_pt_term["day_offset_end"]) != 0 else 0
-            ), np.nanmax(event_df_sub_pt_term["day_offset_end"])
+            start_day, end_day = (np.nanmax(event_df_sub_pt_term["day_offset_end"]) - day_buffer if np.nanmax(event_df_sub_pt_term["day_offset_end"]) != 0 else 0), np.nanmax(
+                event_df_sub_pt_term["day_offset_end"]
+            )
             event_df_sub_pt_term = event_df_sub_pt_term[event_df_sub_pt_term["day_offset_start"] >= start_day]
             if len(event_df_sub_pt_term) > 0:
                 values_list = list(event_df_sub_pt_term[event_df_sub_pt_term["value"].notna()]["value"])
@@ -281,12 +275,11 @@ def to_db(norm_obj, sql_out_path, faiss_out_path, vector_ids_out_path, csv_out, 
     event_df_sub = event_df[(event_df["level_entry"].isin(["high", "low", "medium"]) | event_df["value"].notna())]
     for pt_id in set(event_df_sub["patient_id"]):
         event_df_sub_pt = event_df_sub[event_df_sub["patient_id"] == pt_id]
-        start_day, end_day = (
-            np.nanmax(event_df_sub_pt["day_offset_end"]) - day_buffer_adm_end if np.nanmax(event_df_sub_pt["day_offset_end"]) != 0 else 0
-        ), np.nanmax(event_df_sub_pt["day_offset_end"])
+        start_day, end_day = (np.nanmax(event_df_sub_pt["day_offset_end"]) - day_buffer_adm_end if np.nanmax(event_df_sub_pt["day_offset_end"]) != 0 else 0), np.nanmax(
+            event_df_sub_pt["day_offset_end"]
+        )
         event_df_sub_pt = event_df_sub_pt[
-            (event_df_sub_pt["day_offset_start"] >= start_day)
-            & (event_df_sub_pt["level_entry"].isin(["high", "low", "medium"]) | event_df_sub_pt["value"].notna())
+            (event_df_sub_pt["day_offset_start"] >= start_day) & (event_df_sub_pt["level_entry"].isin(["high", "low", "medium"]) | event_df_sub_pt["value"].notna())
         ]
         for term in set(event_df_sub_pt["normalized_term"]):
             event_df_sub_pt_term = event_df_sub_pt[event_df_sub_pt["normalized_term"] == term]
@@ -360,18 +353,14 @@ def to_db(norm_obj, sql_out_path, faiss_out_path, vector_ids_out_path, csv_out, 
             baselines_df_pt_term_sub[baselines_df_pt_term_sub["level_entry"].isin(["high", "low", "medium"])]["level_entry"]
         )
         anchor_time, anchor_start_time, anchor_end_time = (
-            (
-                (np.nanmin(baselines_df_pt_term_sub["start_day"]) + np.nanmax(baselines_df_pt_term_sub["end_day"])) / 2
-                if len(baselines_df_pt_term_sub) > 0
-                else np.nan
-            ),
+            ((np.nanmin(baselines_df_pt_term_sub["start_day"]) + np.nanmax(baselines_df_pt_term_sub["end_day"])) / 2 if len(baselines_df_pt_term_sub) > 0 else np.nan),
             np.nanmin(baselines_df_pt_term_sub["start_day"]) if len(baselines_df_pt_term_sub) > 0 else np.nan,
             np.nanmax(baselines_df_pt_term_sub["end_day"]) if len(baselines_df_pt_term_sub) > 0 else np.nan,
         )
         anchor_unit = Counter(baselines_df_pt_term_sub["unit"]).most_common(1)[0][0] if len(baselines_df_pt_term_sub) > 0 else None
-        anchor_n_quant_entries, anchor_n_qual_entries = (
-            np.median(baselines_df_pt_term_sub["n_quant_measurements"]) if len(baselines_df_pt_term_sub) > 0 else np.nan
-        ), (np.median(baselines_df_pt_term_sub["n_qual_measurements"]) if len(baselines_df_pt_term_sub) > 0 else np.nan)
+        anchor_n_quant_entries, anchor_n_qual_entries = (np.median(baselines_df_pt_term_sub["n_quant_measurements"]) if len(baselines_df_pt_term_sub) > 0 else np.nan), (
+            np.median(baselines_df_pt_term_sub["n_qual_measurements"]) if len(baselines_df_pt_term_sub) > 0 else np.nan
+        )
         return (
             anchor_quant_entries,
             anchor_qual_entries,
@@ -411,11 +400,7 @@ def to_db(norm_obj, sql_out_path, faiss_out_path, vector_ids_out_path, csv_out, 
                 pt_id,
                 term,
                 compute_change(anchor1_quant_entries, anchor2_quant_entries, anchor1_qual_entries, anchor2_qual_entries, epsilon),
-                (
-                    np.median(anchor2_quant_entries) - np.median(anchor1_quant_entries)
-                    if (len(anchor1_quant_entries) > 0 and len(anchor2_quant_entries) > 0)
-                    else np.nan
-                ),
+                (np.median(anchor2_quant_entries) - np.median(anchor1_quant_entries) if (len(anchor1_quant_entries) > 0 and len(anchor2_quant_entries) > 0) else np.nan),
                 anchor1_unit if anchor1_unit == anchor2_unit else None,
                 anchor2_time - anchor1_time,
                 (np.median(anchor1_quant_entries) if (len(anchor1_quant_entries) > 0 and len(anchor2_quant_entries) > 0) else np.nan),

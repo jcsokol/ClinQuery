@@ -725,9 +725,7 @@ class Normalizer:
 
             expanded_dict[c_key] = sorted(expanded_aliases)
 
-        expanded_dict = {
-            key: [value for value in values if value is not None] for key, values in expanded_dict.items() if key is not None
-        }  # remove None entries
+        expanded_dict = {key: [value for value in values if value is not None] for key, values in expanded_dict.items() if key is not None}  # remove None entries
         expanded_dict = {key: list(set(values + [key])) for key, values in expanded_dict.items() if key is not None}  # remove duplicates
 
         return expanded_dict
@@ -817,11 +815,7 @@ class Normalizer:
                 # replace classes
                 unmapped_class_list += [normalize(item) for item in ent["concept_classes"] if normalize(item) not in self.a_to_c_dict_concept_classes]
                 ent["concept_classes"] = list(
-                    set(
-                        self.a_to_c_dict_concept_classes[normalize(item)]
-                        for item in ent["concept_classes"]
-                        if normalize(item) in self.a_to_c_dict_concept_classes
-                    )
+                    set(self.a_to_c_dict_concept_classes[normalize(item)] for item in ent["concept_classes"] if normalize(item) in self.a_to_c_dict_concept_classes)
                 )
 
             # drop c_ent entries that were not mapped
@@ -935,9 +929,7 @@ class Normalizer:
         time_entries_list_copy = deepcopy(time_entries_list)
         negation_entries_list_copy = deepcopy(negation_entries_list)
         resolved_negation, cent_text, time_entries_list, negation_entries_list = self.resolve_cent_negation(cent_text, time_entries_list, negation_entries_list)
-        resolved_timestamp, cent_text, time_entries_list, negation_entries_list = self.resolve_cent_timestamp(
-            cent_text, time_entries_list, negation_entries_list, adm_timestamp
-        )
+        resolved_timestamp, cent_text, time_entries_list, negation_entries_list = self.resolve_cent_timestamp(cent_text, time_entries_list, negation_entries_list, adm_timestamp)
         resolved_modifier, cent_text, time_entries_list, negation_entries_list = self.resolve_cent_modifier(cent_text, time_entries_list, negation_entries_list)
         resolved_values, cent_text = self.resolve_cent_value(cent_text)
         cent_text, time_entries_list, negation_entries_list = (
@@ -1025,10 +1017,7 @@ class Normalizer:
         )
 
         if len(standardized_entities_list_new) > len(standardized_entities_list) and any(
-            [
-                standardized_entities_list_new[i]["normalized_term"] is not None
-                for i in range(len(standardized_entities_list), len(standardized_entities_list_new))
-            ]
+            [standardized_entities_list_new[i]["normalized_term"] is not None for i in range(len(standardized_entities_list), len(standardized_entities_list_new))]
         ):
             return standardized_entities_list_new
         else:
@@ -1045,10 +1034,7 @@ class Normalizer:
                     debug_tuple,
                 )
             if len(standardized_entities_list_new) > len(standardized_entities_list) and any(
-                [
-                    standardized_entities_list_new[i]["normalized_term"] is not None
-                    for i in range(len(standardized_entities_list), len(standardized_entities_list_new))
-                ]
+                [standardized_entities_list_new[i]["normalized_term"] is not None for i in range(len(standardized_entities_list), len(standardized_entities_list_new))]
             ):
                 return standardized_entities_list_new
             else:
@@ -1065,10 +1051,7 @@ class Normalizer:
                         debug_tuple,
                     )
                 if len(standardized_entities_list_new) > len(standardized_entities_list) and any(
-                    [
-                        standardized_entities_list_new[i]["normalized_term"] is not None
-                        for i in range(len(standardized_entities_list), len(standardized_entities_list_new))
-                    ]
+                    [standardized_entities_list_new[i]["normalized_term"] is not None for i in range(len(standardized_entities_list), len(standardized_entities_list_new))]
                 ):
                     return standardized_entities_list_new
                 else:
@@ -1420,9 +1403,7 @@ class Normalizer:
                     num_text = re.search(r"(?P<number>\d{1,2}|one|two|three|four|five|six|seven|eight|nine|ten)", match.group(0).lower())
                     if num_text:
                         word = num_text.group("number")
-                        offset = (
-                            int(word) if word.isdigit() else ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"].index(word) + 1
-                        )
+                        offset = int(word) if word.isdigit() else ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"].index(word) + 1
                         end = admission_date
                         start = end - timedelta(days=7 * offset)
                         return ((start.strftime("%Y-%m-%d"), None), (end.strftime("%Y-%m-%d"), None), None)
@@ -1919,9 +1900,7 @@ class Normalizer:
                     if not any(key in ("Medication", "Dose", "Value") for key in table_row.keys()):
                         for key in table_row.keys():
                             if not any(sub in key.lower() for sub in ["time", "day", "date"]):
-                                key_clean = (
-                                    self.connect_substrings_with_underscore(key) if len(key) < 18 else key
-                                )  # ensures that the key doesn't throw the value parser off
+                                key_clean = self.connect_substrings_with_underscore(key) if len(key) < 18 else key  # ensures that the key doesn't throw the value parser off
                                 cent_text = key_clean + " " + table_row[key]
                                 cent_text = self.clean_str_for_table_parsing(cent_text)
                                 standardized_entities_list = self.add_standardized_entities_wrapper(
@@ -2093,14 +2072,10 @@ class Normalizer:
             concept_class_map[canonical] = [item for item in concept_class_map[canonical] if item != canonical]
 
         canonical_vocab = {
-            re.sub(r"[-–—_]", " ", key): [re.sub(r"[-–—_]", " ", val) for val in values if val is not None]
-            for key, values in canonical_vocab.items()
-            if key is not None
+            re.sub(r"[-–—_]", " ", key): [re.sub(r"[-–—_]", " ", val) for val in values if val is not None] for key, values in canonical_vocab.items() if key is not None
         }  # replace dashes with spaces
         concept_class_map = {
-            re.sub(r"[-–—_]", " ", key): [re.sub(r"[-–—_]", " ", val) for val in values if val is not None]
-            for key, values in concept_class_map.items()
-            if key is not None
+            re.sub(r"[-–—_]", " ", key): [re.sub(r"[-–—_]", " ", val) for val in values if val is not None] for key, values in concept_class_map.items() if key is not None
         }  # replace dashes with spaces
 
         return canonical_vocab, concept_class_map
@@ -2646,11 +2621,7 @@ class Normalizer:
                 master_list_filtered.append(pt_entry)
                 uids_set.add(pt_entry[0])
         if len(self.master_list) != len(master_list_filtered):
-            log.info(
-                "warning: "
-                + str(len(self.master_list) - len(master_list_filtered))
-                + " patients removed due to invalid admission timestamps (a critical datapoint)"
-            )
+            log.info("warning: " + str(len(self.master_list) - len(master_list_filtered)) + " patients removed due to invalid admission timestamps (a critical datapoint)")
         if len(uids_set) != len(master_list_filtered):
             raise ValueError("all uids must be unique")
         self.master_list = master_list_filtered

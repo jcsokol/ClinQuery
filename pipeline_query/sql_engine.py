@@ -195,9 +195,7 @@ class SqlEngine:
         (event_df, trend_df) : tuple[pd.DataFrame | None, pd.DataFrame | None]
                 Cleaned tables (None if no rows).
         """
-        df_dicts = self.run_evidence_dfs(
-            patient_ids, sql_event, params_event, sql_trend, params_trend, len(patient_ids) <= 10
-        )  # also retrieves context if n candidates <= 10
+        df_dicts = self.run_evidence_dfs(patient_ids, sql_event, params_event, sql_trend, params_trend, len(patient_ids) <= 10)  # also retrieves context if n candidates <= 10
         event_df, trend_df = df_dicts.get("event_df"), df_dicts.get("trend_df")
         first_cols = ["patient_id", "patient_name", "age", "sex"]
         if event_df is not None:
@@ -829,22 +827,12 @@ class SqlEngine:
             if event == "start":
                 cte_name = f"anchor_start_{term.replace(' ','_')}"
                 if cte_name not in self._cte_map:
-                    sql = (
-                        "SELECT patient_id, MIN(day_offset_start) AS anchor_day "
-                        "FROM event_df "
-                        "WHERE normalized_term = ? AND is_started = TRUE "
-                        "GROUP BY patient_id"
-                    )
+                    sql = "SELECT patient_id, MIN(day_offset_start) AS anchor_day " "FROM event_df " "WHERE normalized_term = ? AND is_started = TRUE " "GROUP BY patient_id"
                     self._cte_map[cte_name] = (sql, [term])
             elif event == "stop":
                 cte_name = f"anchor_stop_{term.replace(' ','_')}"
                 if cte_name not in self._cte_map:
-                    sql = (
-                        "SELECT patient_id, MAX(day_offset_end) AS anchor_day "
-                        "FROM event_df "
-                        "WHERE normalized_term = ? AND is_ended = TRUE "
-                        "GROUP BY patient_id"
-                    )
+                    sql = "SELECT patient_id, MAX(day_offset_end) AS anchor_day " "FROM event_df " "WHERE normalized_term = ? AND is_ended = TRUE " "GROUP BY patient_id"
                     self._cte_map[cte_name] = (sql, [term])
             else:
                 # Unknown event kind → treat as 0
@@ -926,11 +914,7 @@ class SqlEngine:
 
     def _term_history_absent_predicate(self, term):
         """Build NOT EXISTS(...) forbidding HISTORY rows for a term."""
-        sql = (
-            "NOT EXISTS (SELECT 1 FROM event_df e "
-            "WHERE e.patient_id = p.patient_id AND e.normalized_term = ? "
-            "AND e.history = TRUE AND e.is_active = TRUE)"
-        )
+        sql = "NOT EXISTS (SELECT 1 FROM event_df e " "WHERE e.patient_id = p.patient_id AND e.normalized_term = ? " "AND e.history = TRUE AND e.is_active = TRUE)"
         return sql, [term]
 
     def _class_history_absent_predicate(self, concept_class):
@@ -1060,13 +1044,7 @@ class SqlEngine:
 
         parts, params = [], []
         if term:
-            sql = (
-                "EXISTS (SELECT 1 FROM trends_df t "
-                "WHERE t.patient_id = p.patient_id "
-                "AND t.normalized_term = ? "
-                "AND t.anchor1 = ? AND t.anchor2 = ? "
-                "AND t.change = ?)"
-            )
+            sql = "EXISTS (SELECT 1 FROM trends_df t " "WHERE t.patient_id = p.patient_id " "AND t.normalized_term = ? " "AND t.anchor1 = ? AND t.anchor2 = ? " "AND t.change = ?)"
             parts.append(sql)
             params += [term, anchor1, anchor2, change]
 
@@ -1344,12 +1322,7 @@ class SqlEngine:
 
         where_clauses = [f"e.patient_id IN ({placeholders})"]
 
-        base_select = (
-            "SELECT e.*, p.patient_name, p.sex, p.age "
-            "FROM event_df e "
-            "JOIN patient_df p ON p.patient_id = e.patient_id "
-            "WHERE " + " AND ".join(where_clauses)
-        )
+        base_select = "SELECT e.*, p.patient_name, p.sex, p.age " "FROM event_df e " "JOIN patient_df p ON p.patient_id = e.patient_id " "WHERE " + " AND ".join(where_clauses)
 
         return base_select, params
 

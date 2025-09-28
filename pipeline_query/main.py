@@ -90,8 +90,7 @@ def run_query(user_query: str, session_id: str, query_compiler: Callable):
             "concept_class", "class"
         )
         payload_dict["concept_expansions"] = "  \n".join(
-            f"***{cls}*** expanded to {', '.join(f'*{t}*' for t in terms)}"
-            for cls, terms in compiled_query.trace["resolved_concept_class_term_expansions"].items()
+            f"***{cls}*** expanded to {', '.join(f'*{t}*' for t in terms)}" for cls, terms in compiled_query.trace["resolved_concept_class_term_expansions"].items()
         )
         payload_dict["abstraction_layer_trace"] = compiled_query.trace
         # Build & run CANDIDATE retrieval query

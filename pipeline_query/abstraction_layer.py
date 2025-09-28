@@ -358,9 +358,7 @@ class QueryCompiler:
                         best_class = rt
 
         # ---------- ANN search ----------
-        if (
-            len(q) >= settings.params.min_search_term_len and best_term is None and best_class is None
-        ):  # only do ANN search if no term AND no class have been matched
+        if len(q) >= settings.params.min_search_term_len and best_term is None and best_class is None:  # only do ANN search if no term AND no class have been matched
 
             qv = self.embed_fn(q)  # embed_fn applies device/dtype consistently
             q2 = np.ascontiguousarray(qv.reshape(1, -1))

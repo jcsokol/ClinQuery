@@ -1006,6 +1006,9 @@ class Normalizer:
     def add_standardized_entities_wrapper(self, standardized_entities_list, cent_text, time_entries_list, negation_entries_list, adm_timestamp, debug_tuple):
         """Resolve a raw entity+timestamp+negation stamp."""
 
+        # ensure that inputs are strings (defensive)
+        cent_text, time_entries_list, negation_entries_list = str(cent_text), [str(item) for item in time_entries_list], [str(item) for item in negation_entries_list]
+
         standardized_entities_list_new = deepcopy(standardized_entities_list)
         standardized_entities_list_new = self.add_standardized_entities(standardized_entities_list_new, cent_text, time_entries_list, negation_entries_list, adm_timestamp, debug_tuple)
 
